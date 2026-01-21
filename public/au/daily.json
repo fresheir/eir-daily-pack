@@ -1,0 +1,63 @@
+{
+  "market": "AU",
+  "edition": "en-AU",
+  "generatedAt": "2026-01-21T09:00:00+10:00",
+  "validForDate": "2026-01-21",
+  "topics": [
+    {
+      "id": "local_national",
+      "label": "Local & National News",
+      "items": [
+        { "title": "Example headline 1 (replace me)", "publisher": "ABC News", "url": "https://www.abc.net.au/news/" },
+        { "title": "Example headline 2 (replace me)", "publisher": "SBS", "url": "https://www.sbs.com.au/news" },
+        { "title": "Example headline 3 (replace me)", "publisher": "Nine", "url": "https://www.9news.com.au/" },
+        { "title": "Example headline 4 (replace me)", "publisher": "The Guardian", "url": "https://www.theguardian.com/au" },
+        { "title": "Example headline 5 (replace me)", "publisher": "News.com.au", "url": "https://www.news.com.au/" }
+      ]
+    },
+    {
+      "id": "world",
+      "label": "World News",
+      "items": [
+        { "title": "Example world headline 1", "publisher": "BBC", "url": "https://www.bbc.com/news" },
+        { "title": "Example world headline 2", "publisher": "Reuters", "url": "https://www.reuters.com/" },
+        { "title": "Example world headline 3", "publisher": "AP", "url": "https://apnews.com/" },
+        { "title": "Example world headline 4", "publisher": "Al Jazeera", "url": "https://www.aljazeera.com/" },
+        { "title": "Example world headline 5", "publisher": "DW", "url": "https://www.dw.com/" }
+      ]
+    },
+    {
+      "id": "business",
+      "label": "Business & Economy",
+      "items": [
+        { "title": "Example business headline 1", "publisher": "ABC News", "url": "https://www.abc.net.au/news/business/" },
+        { "title": "Example business headline 2", "publisher": "SBS", "url": "https://www.sbs.com.au/news/topic/business" },
+        { "title": "Example business headline 3", "publisher": "The Conversation", "url": "https://theconversation.com/au/business" },
+        { "title": "Example business headline 4", "publisher": "Reuters", "url": "https://www.reuters.com/business/" },
+        { "title": "Example business headline 5", "publisher": "BBC", "url": "https://www.bbc.com/news/business" }
+      ]
+    },
+    {
+      "id": "sport",
+      "label": "Sport",
+      "items": [
+        { "title": "Example sport headline 1", "publisher": "ABC Sport", "url": "https://www.abc.net.au/news/sport/" },
+        { "title": "Example sport headline 2", "publisher": "SBS Sport", "url": "https://www.sbs.com.au/sport" },
+        { "title": "Example sport headline 3", "publisher": "AFL", "url": "https://www.afl.com.au/news" },
+        { "title": "Example sport headline 4", "publisher": "NRL", "url": "https://www.nrl.com/news/" },
+        { "title": "Example sport headline 5", "publisher": "Tennis Australia", "url": "https://www.tennis.com.au/news" }
+      ]
+    },
+    {
+      "id": "science_tech",
+      "label": "Science & Technology",
+      "items": [
+        { "title": "Example sci/tech headline 1", "publisher": "The Conversation", "url": "https://theconversation.com/au/technology" },
+        { "title": "Example sci/tech headline 2", "publisher": "ABC Science", "url": "https://www.abc.net.au/news/science/" },
+        { "title": "Example sci/tech headline 3", "publisher": "CSIRO", "url": "https://www.csiro.au/en/news" },
+        { "title": "Example sci/tech headline 4", "publisher": "MIT Tech Review", "url": "https://www.technologyreview.com/" },
+        { "title": "Example sci/tech headline 5", "publisher": "BBC Tech", "url": "https://www.bbc.com/news/technology" }
+      ]
+    }
+  ]
+}
