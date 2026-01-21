@@ -1,62 +1,152 @@
 {
   "market": "AU",
   "edition": "en-AU",
-  "generatedAt": "2026-01-21T09:00:00+10:00",
+  "generatedAt": "2026-01-21T07:25:19.093882Z",
   "validForDate": "2026-01-21",
+  "source": "Google News RSS (AU)",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
       "items": [
-        { "title": "Example headline 1 (replace me)", "publisher": "ABC News", "url": "https://www.abc.net.au/news/" },
-        { "title": "Example headline 2 (replace me)", "publisher": "SBS", "url": "https://www.sbs.com.au/news" },
-        { "title": "Example headline 3 (replace me)", "publisher": "Nine", "url": "https://www.9news.com.au/" },
-        { "title": "Example headline 4 (replace me)", "publisher": "The Guardian", "url": "https://www.theguardian.com/au" },
-        { "title": "Example headline 5 (replace me)", "publisher": "News.com.au", "url": "https://www.news.com.au/" }
+        {
+          "title": "Australia news live: three Nationals frontbenchers resign from shadow cabinet after breaking ranks to oppose hate speech laws - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdG5tcnBBZHJ3bTB3eHZNMEtDcmxvd19qVFRtdlhQTTlQYi1Pc3lDZ1ZXNndMYUJRX1dqV1lEVHBBMVBpOFFhQm1vNlJFb2lpdGdmRlAzZUx6TUNBOW9FRDhybDF1Tk5DVmcwbllWZ3ZhZS1OUkl3dmRvOFhZd2ZRRXZvTUpNbWp0SU55WThISXE4TFB5blIwZUJacXNMS3Z1QV9YalZOd191TzdzSGNsM19Eek9mQ1drclhxQ0Y4VXZCekh2RFNmZ3o0alZlNjQtVmtIOHdfMG9laVVuNkl6c19kaklFQQ?oc=5",
+          "published": "Wed, 21 Jan 2026 06:09:09 GMT"
+        },
+        {
+          "title": "Mother of teenager found dead on K'gari says life 'will never be the same' - Australian Broadcasting Corporation",
+          "publisher": "Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaFM1VE5QbC1Ia2tkX0VyOTJHbUsxOURJWFJDRkNQc25BUFpFbTlzMkhxWDNGN2ZUcklnVTRvSGE0RmEyOWlsN0VkcHA4NUhLRGpJWkYxNGxvX241YVJURHlCQm5EdVg0RDU2QWJvUWdORXVnN1dTd25rN3RtRGJ6WGdzV0QtY2ZhSUVCdFYzTzA?oc=5",
+          "published": "Tue, 20 Jan 2026 21:08:31 GMT"
+        },
+        {
+          "title": "Record for hottest temperature in Australia may tumble in WA this week - Australian Broadcasting Corporation",
+          "publisher": "Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS29kRDN2SmVTUXFLRGcwcnRQdXJ4S1RYNHZqNXZCOUx5bXV0MUlUSEtJeGRHNVNMSEVDSmlRMVZ6dlhkTmhaeENmTzhZbXNEcVY0eU16TkhRZHNyMFZ5OEUyZTB0N2ZuZWFHV2VELVNkeVNrbHpyeHlMREFWUnBtNDExWk5yaTc4bHQ4NUNEMWducWlFbHc?oc=5",
+          "published": "Wed, 21 Jan 2026 00:51:15 GMT"
+        },
+        {
+          "title": "Dame Marie Bashir, the first female governor of NSW, dies aged 95 - Australian Broadcasting Corporation",
+          "publisher": "Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTA0OW50SXItZUp4a0hfX01pVVRnaWtoc1hkQjVZUDlpallIX2lQZHdIN1M4VGhGVjd3ZmFOR1l1LTdrWVRKZ1VBOVlubW1sanhJejV5R2RhWmhEWUtPbFRlV0NGdjRvMXFBXy11cDMtMi1RUUlVWEpUZDZsU0c2SGNTNU54OGNtVlRlQ0xBeTV2SWZiTHoyU1dUaV9vOEJ1dkJN?oc=5",
+          "published": "Tue, 20 Jan 2026 11:55:44 GMT"
+        },
+        {
+          "title": "Premier doubles down on gun buyback stance after PM pressure - Australian Broadcasting Corporation",
+          "publisher": "Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMUZHQ2dUeUlBU0JoYU81STVuM0liYURkWldjeHItbDZQam1wY1JmaG5jbFFmdDVvYXlHbWJ6NElPUFVSV2s2VU5SUTNpb2Z2UFo3dWJucGxzeExsNW5QZEY1ckpVZjRxajNKd3l2SW1RVjNYREFLeUpkQTkwZWJWRnFscjZHMGc3Y1Q5NXA3bG5uVW9pSGVPalptcnZYRjJXdXh5OUo1bFAwek1x?oc=5",
+          "published": "Wed, 21 Jan 2026 00:11:24 GMT"
+        }
       ]
     },
     {
       "id": "world",
       "label": "World News",
       "items": [
-        { "title": "Example world headline 1", "publisher": "BBC", "url": "https://www.bbc.com/news" },
-        { "title": "Example world headline 2", "publisher": "Reuters", "url": "https://www.reuters.com/" },
-        { "title": "Example world headline 3", "publisher": "AP", "url": "https://apnews.com/" },
-        { "title": "Example world headline 4", "publisher": "Al Jazeera", "url": "https://www.aljazeera.com/" },
-        { "title": "Example world headline 5", "publisher": "DW", "url": "https://www.dw.com/" }
+        {
+          "title": "Man arriving in Sydney from Cambodia charged with importation and possession of child abuse material - 9News.com.au",
+          "publisher": "9News.com.au",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNFY1QTUxNW1zSnNzSkl4cWg3YWNVUkxPakN4UXdXbkVKeVFibFk4SkFCeEtrVm4wclMwemoycUZqMkhCaTFuelk5YWVXZkZUZGZmOXlIU19BTTREemFqRC01aGJvWDBYenNvLWN2SjNMSkI1ay1ZdVR1M3k0ODY1aXVKNnhWSElvNVRfaWtpRDBsbktCM1dnUkItR3QwRVB0M0Q3RVhOdlNURk1URFVxaFdyNlVJSjZJWHVYQ2dGb0YzeVZLZWxTSHVNOG9qVTVrMGYwUng1bWZ5Nk5WNzBvemU4Q3J2M3V50gF4QVVfeXFMTmxoSlg3czgybG4tdm56dE9FMkZhOEZybGc0S2dqNWMxaWluNnFmVnlzdjhFVV8xay1aeWpIMVIzdUlfczJsUHBhYnduN2U0ZGNMSEJvSkt3WldFTzVUX3JwemVPUldzaUU4TVR6TTdWVHJBb0hCSlVN?oc=5",
+          "published": "Wed, 21 Jan 2026 03:01:23 GMT"
+        },
+        {
+          "title": "Sustainable Coral Tiles: Charcoal, Breadcrumbs, Grog - Mirage News",
+          "publisher": "Mirage News",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMW50cUllenpzcWF4ZFBzaW53OTE5R0NTcEFweFFPSnl1aVQ2MUFiMmwzS0N6a0pTcnc5U0FCUHk5SFZtZWdNWHVRbVVaejFwZnVZVTBlMGZMTHptbWFKa1RFcW1CRkJtemJXSGhHbE9jUWdJRGxZa0pYSDhCMzdIbFVOWW1ZOHM?oc=5",
+          "published": "Wed, 21 Jan 2026 04:04:00 GMT"
+        },
+        {
+          "title": "New poo balls on Sydney beaches after revelation of huge fatberg stuck in treatment plant - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFBXcm13WU9DUEtHQ3BGSEtNOFZ0anRTVVdvQzZ6aEU5RW9FU1VOd0RqV1g2Ymtid3AtUmxMUzVJa19XUEhyb3UxOU1zc2dRWVlkQWFFSGNxY09mbHR2TThvV2ctZndCWXlFN2J1UlNrNnFJanlLdHBjcVFyekJELS1yNmM2ZUx6Y0hTTURWS3dzdkdqMkp0c21aSlBjVC1XRy1tTmhRbEJQZzlIbmNJQkItcFJ4Zw?oc=5",
+          "published": "Wed, 21 Jan 2026 04:25:00 GMT"
+        },
+        {
+          "title": "First Thing: Trump cites UK’s ‘stupidity’ over Chagos Islands as reason to take over Greenland - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMXlFRUNrT0t1MU5ZaDBqX0pqWWYxOWlBbDF1M3dxOUpBQ09RbXhGOUZPWHFLbTl6QW94V2FBMmlMbHk1ZXBQazhuT1NkNzVfNnZaNzhJejRQbjVPSDJwLVdMTVNvQm5FdnFSbFhFYU5KM2lnaFBRR3dGV2x1MExVcFBLODI4MkM2amJ3U3B1N25QM2hiN281WDI1MVhfcl8xUlJTbjZR?oc=5",
+          "published": "Tue, 20 Jan 2026 11:47:00 GMT"
+        },
+        {
+          "title": "Donkey Kong Country Returns HD free update adds Dixie, Switch 2 performance boost - vooks.net",
+          "publisher": "vooks.net",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSDdRMTl1eVhUQ3hid1ctOVF2ZjdCNGhZZ1NieTBJZ0Zfd2x0MXVoSndoblMxSHdsWVRQejIxWFhmZTI0WDFfbjMzd25xZjdWNUFDeFZSbEZtZWpvTHN3U1VRWElPMHdLb2c0b2xLc2NYeHRteHVOS0ZOMFFIek5EZ0hlMFVUWDJwd0FvdWpwZDdJLXBuLWxUT3R4RXAxUEk0UUJFbE1R?oc=5",
+          "published": "Wed, 21 Jan 2026 01:41:46 GMT"
+        }
       ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
       "items": [
-        { "title": "Example business headline 1", "publisher": "ABC News", "url": "https://www.abc.net.au/news/business/" },
-        { "title": "Example business headline 2", "publisher": "SBS", "url": "https://www.sbs.com.au/news/topic/business" },
-        { "title": "Example business headline 3", "publisher": "The Conversation", "url": "https://theconversation.com/au/business" },
-        { "title": "Example business headline 4", "publisher": "Reuters", "url": "https://www.reuters.com/business/" },
-        { "title": "Example business headline 5", "publisher": "BBC", "url": "https://www.bbc.com/news/business" }
+        {
+          "title": "Hubble Nets Menagerie Of Young Stellar Objects 21 January - Mirage News",
+          "publisher": "Mirage News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ0N6dldqa0J1bzUtd1VPOEx1cE85ZXl0anNOcTU1T1ZzTkxoeHIybnZqMnpETmoxQUtLSjhuZVlVY1FhRmg2UGh3Yzk2WDdBQUY5LTh4MFVhckhyZDJrTDc4eWdDR3pubTQxS2NyZnBMV0dBclVBN3dlSVBoejFtaXF1TG5WeG9wU1E?oc=5",
+          "published": "Tue, 20 Jan 2026 15:58:00 GMT"
+        },
+        {
+          "title": "University of Surrey leads vitamin D deficiency study - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DQmh4Vi1lUzlObk5Id0hULThmMVFVMUh4b0pPeHdvWVg4OTFGMW1fdU02dDd6cS1qa3gwRlpvUmxlTVRLWDE4WnZaaHR5MU5OTGkwMmMzVUVkUdIBX0FVX3lxTFBtTnUyNEZCenYyN1hISkRyUF9RN3AwcWFkaVRGcUpmRlNibmtYQkxxVC01YXBXYnNjMDZvdnM2ZVBTR2dXZkE5VzlPUzhlRmFQcjVSTl9ldDJySmhFeEhz?oc=5",
+          "published": "Wed, 21 Jan 2026 06:14:26 GMT"
+        },
+        {
+          "title": "Why staying connected is so important - Have a Go News",
+          "publisher": "Have a Go News",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU191aFNfcGEzcnhfcGZaTVRWMl9FZ3V4MTFxZkw2MmVKR0FLOERlaFllQ0pUMXRPWTI2NFFvUThuaGJPU2hTeTNsYVRReHlNc19wbGlldnE5bHJHUS1HYlpSTzZndkNSR3lDV0FpU3MwLWtZWVliMTEwT1ZITTFWV1VB?oc=5",
+          "published": "Wed, 21 Jan 2026 01:29:30 GMT"
+        }
       ]
     },
     {
       "id": "sport",
       "label": "Sport",
       "items": [
-        { "title": "Example sport headline 1", "publisher": "ABC Sport", "url": "https://www.abc.net.au/news/sport/" },
-        { "title": "Example sport headline 2", "publisher": "SBS Sport", "url": "https://www.sbs.com.au/sport" },
-        { "title": "Example sport headline 3", "publisher": "AFL", "url": "https://www.afl.com.au/news" },
-        { "title": "Example sport headline 4", "publisher": "NRL", "url": "https://www.nrl.com/news/" },
-        { "title": "Example sport headline 5", "publisher": "Tennis Australia", "url": "https://www.tennis.com.au/news" }
+        {
+          "title": "This Aussie phenom is taller than NBA freak Wemby. Now he’s facing a $1m decision - fox sports",
+          "publisher": "fox sports",
+          "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOUG1hOHR1X2czWElEUnU3SmRtTzVreDAwRGdfdHZCOFBuelRTRS1EV3daa3VqelltMUZXZmFSc3F1WGFzWUJoWXdqVHB3eUd3Q09uYjRRMWZmUGxsNDMxaW9ka3FFbzdWdnpxNDNNbkVFQUFLWml1LVNpWDBxcjhsOUFXUUozbVdTWXBxLVl1aVRaSWtTaUQwYVlSNklDWGoyWkc3ZGpPQ0pSZHhQMGdKaHFMT0RoOHVMdnVDTDlHX3ktSHNJMXBHbHBxUFQ5XzctT2ZaMFhNNjJNSVZSSVhkd01ad295cExieldXWGY3YjVRZHlpRl9HcEQyMkFYd1VLX3J3V1JFRzNqVDMzRzdQWnlwS0s5aWt6QkJmbWpEMFg1QkpEYlNYeFpueVNPdjZPWVZHUg?oc=5",
+          "published": "Wed, 21 Jan 2026 02:10:53 GMT"
+        }
       ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
       "items": [
-        { "title": "Example sci/tech headline 1", "publisher": "The Conversation", "url": "https://theconversation.com/au/technology" },
-        { "title": "Example sci/tech headline 2", "publisher": "ABC Science", "url": "https://www.abc.net.au/news/science/" },
-        { "title": "Example sci/tech headline 3", "publisher": "CSIRO", "url": "https://www.csiro.au/en/news" },
-        { "title": "Example sci/tech headline 4", "publisher": "MIT Tech Review", "url": "https://www.technologyreview.com/" },
-        { "title": "Example sci/tech headline 5", "publisher": "BBC Tech", "url": "https://www.bbc.com/news/technology" }
+        {
+          "title": "Tight spot: cheapest spray takes first place in Choice stain remover test - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOclFFTGFicXVrN1JJSzNaOFN1bG5fblY3MlRSR3FNVHJMLWdMOFlUOE5Wb2VLM1E3c2ZjYWRkVkhVZzViVklsdHpENnJtMGRWWk5vV1AwOTVNa2lCbHg0d19HbFh2SVBFSEJnZnAtSWZxSnF4Ny1uVGpfdldhNXVlNzFOTTYtTksxMnNEWUlRT3FWUjZ6bnYtU0s2Z0Q5UFh5TjVpbDNhSC1MSnlqZWU0ZXdienVPNnQ0RWRIaG1DNGswckE?oc=5",
+          "published": "Wed, 21 Jan 2026 05:41:00 GMT"
+        },
+        {
+          "title": "‘I could never hope to equal it again’: Jeffrey Archer announces next novel will be his last - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlVWa0ZhMVVSNnY3MnI4YkpOdHJHblpoT0FUa19RU25vWjZSYl9vZ25DY2JRbXZRWWxxNzhSWlJPQ0gtNFNCYUViZUYxSXJVaE8wV19JNWswZlFkdnV4TU55NWRmN0dtOVRHUHpRVU1MVkFIeEFNNGstZmZFbm9peGpOTXVkTWI4MGhwaHFqV3NzTDlua21nMUhR?oc=5",
+          "published": "Wed, 21 Jan 2026 04:12:00 GMT"
+        },
+        {
+          "title": "Scientists Discover a New Quantum State of Matter Once Considered Impossible - ScienceAlert",
+          "publisher": "ScienceAlert",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDdydGl1MTdGaGVhN3UwLU83aWp5X0o1N2VDWmxDbEgzY0pJSktack9lUlA0Vk51VXQ4RjJNSG4zb0dpcjJ3eHpuODRDX29jOVVZVDFxd0FQYlVIWmR4cEVQZ2RvWXd3QTZfYVFIQkRZTlAyLTc5LVBTTmhoY19scThOMk00TjAzNG02bkJDdGY4a1NWb2xidWQwRFZVUFpLVTJtMVBGNC0?oc=5",
+          "published": "Wed, 21 Jan 2026 03:20:45 GMT"
+        },
+        {
+          "title": "Research Unveils Bats' Remarkable Navigation Strategy - Mirage News",
+          "publisher": "Mirage News",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHlmT2wxVThkaldhVkd2NkFSbzE4Tll2R3BCUU9DbGpuclJXSGpNelVCcDRCQ05ZaUU1M0J6Zno3ZGt1Sm93WmhUNDVyZ1gyUC1BNzhXZVVfUkdmWW84UWcwOTF3dWx5LUhUTU12SzEtbzZqYTBaYUI0Umg3NklJZldySE4tZw?oc=5",
+          "published": "Wed, 21 Jan 2026 00:10:00 GMT"
+        },
+        {
+          "title": "Building the data infrastructure for next-generation materials science - prwire.com.au",
+          "publisher": "prwire.com.au",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWQ3UkREWjVtRTJ6eXB3QUNPX1p1em10SHpIWjBJZzVhcjd6ZzZjeFV2RVBkQThmMUpjRUV2TW9ZcGNkeVlXcTU2QklELWYtLXZoTm1tbTd5VldTMTVkSmRMSWhsbUtOUmpMeTVNNHlveFBKcHJfbWZoYmoydzcxRGNPaWlFNmdQdlRSYll0WnZtTWNlWWl3MlRVaWNickxCSUpIQQ?oc=5",
+          "published": "Wed, 21 Jan 2026 04:09:43 GMT"
+        }
       ]
     }
   ]
