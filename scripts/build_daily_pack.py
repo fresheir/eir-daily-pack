@@ -1,85 +1,235 @@
-def build_global_football_feed(existing_urls: set):
-    # Global soccer-only feed with expanded competition coverage.
-    # Uses GB English edition for broad football coverage.
+import json
+import re
+import sys
+from datetime import datetime, timezone
+from urllib.parse import quote_plus
+from urllib.request import Request, urlopen
+import xml.etree.ElementTree as ET
+from typing import Dict, List, Tuple, Optional, Set
 
-    hl, gl, ceid = "en-GB", "GB", "GB:en"
+# -----------------------------
+# PAYWALL / SUBSCRIPTION DOMAINS
+# -----------------------------
+PAYWALL_BLOCKLIST = {
+    "afr.com",
+    "theaustralian.com.au",
+    "ft.com",
+    "wsj.com",
+    "economist.com",
+    "bloomberg.com",
+    "nytimes.com",
+    "thetimes.co.uk",
+    "telegraph.co.uk",
+}
 
-    # Core idea:
-    # - Positive keywords heavily biased to soccer/football + major competitions.
-    # - Strong negative filters to remove American football + other non-soccer sports.
-    #
-    # NOTE: Google News RSS search supports basic boolean operators, quotes, and minus terms,
-    # but not always perfectly. This query is designed to work even with partial support.
+# -----------------------------
+# COUNTRY SUPPORT
+# You can expand later. Keep to the list you generate in the workflow.
+# Format: cc -> (hl, gl, ceid)
+# hl = language-locale, gl = country, ceid = edition:lang
+# -----------------------------
+COUNTRY_EDITIONS: Dict[str, Tuple[str, str, str]] = {
+    "au": ("en-AU", "AU", "AU:en"),
+    "us": ("en-US", "US", "US:en"),
+    "gb": ("en-GB", "GB", "GB:en"),
+    "ca": ("en-CA", "CA", "CA:en"),
+    "nz": ("en-NZ", "NZ", "NZ:en"),
+    "ie": ("en-IE", "IE", "IE:en"),
+    "sg": ("en-SG", "SG", "SG:en"),
+    "jp": ("en-JP", "JP", "JP:en"),
+    "br": ("pt-BR", "BR", "BR:pt-419"),
+    "ar": ("es-AR", "AR", "AR:es-419"),
+}
 
-    include = (
-        "("
-        # Generic soccer terms (still required)
-        'soccer OR football OR "match report" OR "fixture" OR "kick-off" OR kickoff OR "VAR" OR '
-        "goal OR goals OR striker OR midfielder OR defender OR goalkeeper OR gaffer OR "
-        '"transfer" OR "transfer window" OR "loan deal" OR "signing" OR "contract extension" OR '
-        '"manager sacked" OR "head coach" OR "press conference" OR "injury update" OR '
+# If a cc isn't in the map, fallback to US edition.
+DEFAULT_CC = "us"
 
-        # UEFA club competitions
-        '"champions league" OR UCL OR "uefa champions league" OR '
-        '"europa league" OR UEL OR "uefa europa league" OR '
-        '"conference league" OR UECL OR "uefa conference league" OR '
-        '"uefa super cup" OR '
+# -----------------------------
+# TOPICS (stable set)
+# For local topics: fetch with the user's country edition.
+# For global topics: fetch with a fixed edition so it’s consistent everywhere.
+# -----------------------------
+TOPICS = [
+    {"id": "local_national", "label": "Local & National News", "kind": "topic", "topic_code": "NATION", "scope": "local"},
+    {"id": "world",          "label": "World News",            "kind": "topic", "topic_code": "WORLD",  "scope": "local"},
+    {"id": "business",       "label": "Business & Economy",    "kind": "topic", "topic_code": "BUSINESS","scope": "local"},
+    {"id": "sport",          "label": "Sport",                 "kind": "topic", "topic_code": "SPORTS", "scope": "local"},
+    {"id": "science_tech",   "label": "Science & Technology",  "kind": "topic", "topic_code": "TECHNOLOGY", "scope": "local"},
 
-        # UEFA national team competitions
-        '"uefa nations league" OR "euro qualifiers" OR "european championship" OR euros OR UEFA OR '
+    # Global topics:
+    {"id": "football",       "label": "Football (Global)",     "kind": "search", "query": None, "scope": "global"},
+    {"id": "entertainment",  "label": "Entertainment (Global)","kind": "topic", "topic_code": "ENTERTAINMENT", "scope": "global"},
+]
 
-        # FIFA competitions
-        '"world cup" OR "fifa world cup" OR "world cup qualifiers" OR '
-        '"club world cup" OR "fifa club world cup" OR FIFA OR '
+# Football query: broad soccer focus + major comps.
+FOOTBALL_QUERY = (
+    '("football" OR "soccer") '
+    '("UEFA" OR "Champions League" OR "Europa League" OR "Conference League" OR '
+    '"World Cup" OR "FIFA" OR "Copa America" OR "AFCON" OR "AFC Asian Cup" OR '
+    '"Premier League" OR "EPL" OR "La Liga" OR "Serie A" OR "Bundesliga" OR "Ligue 1" OR '
+    '"UCL" OR "UEL") '
+    '-("NFL" OR "AFL" OR "NRL")'
+)
 
-        # CONMEBOL
-        '"copa libertadores" OR libertadores OR "copa sudamericana" OR sudamericana OR '
-        '"copa america" OR "copa américa" OR CONMEBOL OR '
+# Choose a single global edition to keep global topics consistent.
+GLOBAL_EDITION = ("en-US", "US", "US:en")
 
-        # CONCACAF
-        '"gold cup" OR "concacaf champions cup" OR "champions cup" OR CONCACAF OR '
 
-        # AFC / CAF / OFC
-        '"afc champions league" OR AFC OR "asian cup" OR '
-        '"caf champions league" OR CAF OR "africa cup of nations" OR AFCON OR '
-        "OFC"
-        ")"
-    )
+def norm(s: str) -> str:
+    return re.sub(r"\s+", " ", (s or "").strip().lower())
 
-    exclude = (
-        "("
-        # American football & common collisions
-        "nfl OR nba OR nhl OR mlb OR ncaa OR "
-        '"college football" OR "super bowl" OR "quarterback" OR touchdown OR '
-        # Australian rules / rugby codes
-        "afl OR nrl OR "
-        '"rugby league" OR "rugby union" OR rugby OR '
-        # Other sports
-        "cricket OR tennis OR boxing OR ufc OR golf OR motogp OR "
-        '"formula 1" OR f1'
-        ")"
-    )
 
-    # Combine include/exclude
-    query = f"{include} -{exclude}"
+def host_from_url(url: str) -> str:
+    m = re.match(r"^https?://([^/]+)/", url or "")
+    return m.group(1).lower() if m else ""
 
-    url = google_search_url(query, hl, gl, ceid)
-    xml_bytes = fetch_rss(url)
+
+def is_blocklisted(url: str) -> bool:
+    h = host_from_url(url)
+    return any(h == d or h.endswith("." + d) for d in PAYWALL_BLOCKLIST)
+
+
+def fetch_bytes(url: str) -> bytes:
+    req = Request(url, headers={"User-Agent": "Mozilla/5.0 (EirDailyPackBot)"})
+    with urlopen(req, timeout=25) as resp:
+        return resp.read()
+
+
+def parse_rss(xml_bytes: bytes) -> List[dict]:
+    root = ET.fromstring(xml_bytes)
+    channel = root.find("channel")
+    if channel is None:
+        return []
+
+    items = []
+    for it in channel.findall("item"):
+        title = (it.findtext("title") or "").strip()
+        link = (it.findtext("link") or "").strip()
+        pub = (it.findtext("pubDate") or "").strip()
+
+        source_el = it.find("source")
+        publisher = (source_el.text if source_el is not None else "") or ""
+
+        if not link.startswith("http"):
+            continue
+        if is_blocklisted(link):
+            continue
+
+        items.append({
+            "title": title,
+            "publisher": publisher.strip() or host_from_url(link),
+            "url": link,
+            "published": pub,
+        })
+
+    return items
+
+
+def dedupe_keep_order(items: List[dict], seen_urls: Set[str]) -> List[dict]:
+    out = []
+    for it in items:
+        u = it.get("url", "")
+        if not u or u in seen_urls:
+            continue
+        seen_urls.add(u)
+        out.append(it)
+    return out
+
+
+def build_topic_rss_url(topic_code: str, hl: str, gl: str, ceid: str) -> str:
+    # Example:
+    # https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-AU&gl=AU&ceid=AU:en
+    return f"https://news.google.com/rss/headlines/section/topic/{topic_code}?hl={hl}&gl={gl}&ceid={ceid}"
+
+
+def build_search_rss_url(query: str, hl: str, gl: str, ceid: str) -> str:
+    q = quote_plus(query)
+    # Example:
+    # https://news.google.com/rss/search?q=...&hl=en-US&gl=US&ceid=US:en
+    return f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}"
+
+
+def fetch_topic_items(topic: dict, local_edition: Tuple[str, str, str], limit: int, seen_urls: Set[str]) -> List[dict]:
+    if topic.get("scope") == "global":
+        hl, gl, ceid = GLOBAL_EDITION
+    else:
+        hl, gl, ceid = local_edition
+
+    if topic["kind"] == "topic":
+        url = build_topic_rss_url(topic["topic_code"], hl, gl, ceid)
+    elif topic["kind"] == "search":
+        query = FOOTBALL_QUERY if topic["id"] == "football" else (topic.get("query") or "")
+        url = build_search_rss_url(query, hl, gl, ceid)
+    else:
+        return []
+
+    xml_bytes = fetch_bytes(url)
     items = parse_rss(xml_bytes)
 
-    # Extra safeguard: filter obvious non-soccer titles (failsafe if query matching is leaky)
-    bad_markers = [
-        "nfl", "super bowl", "touchdown", "quarterback", "college football",
-        "afl", "nrl", "rugby league", "rugby union", "ufc", "nba", "mlb", "nhl"
-    ]
-    def is_bad(title: str) -> bool:
-        t = (title or "").lower()
-        return any(m in t for m in bad_markers)
+    # Dedupe across ALL topics
+    items = dedupe_keep_order(items, seen_urls)
 
-    items = [it for it in items if it["url"] not in existing_urls and not is_bad(it["title"])]
+    # Return up to limit
+    return items[:limit]
 
-    return {
-        "id": "football_global",
-        "label": "Football News",
-        "items": take_top(items, 12),  # a little more breadth for comps + transfers
+
+def resolve_country_edition(cc: str) -> Tuple[str, str, str]:
+    cc = (cc or "").strip().lower()
+    if cc in COUNTRY_EDITIONS:
+        return COUNTRY_EDITIONS[cc]
+    return COUNTRY_EDITIONS[DEFAULT_CC]
+
+
+def main():
+    # Country code argument (lowercase ISO-2), default to US if missing
+    cc = sys.argv[1].strip().lower() if len(sys.argv) > 1 else DEFAULT_CC
+
+    local_edition = resolve_country_edition(cc)
+    now = datetime.now(timezone.utc)
+
+    # Build output object
+    valid_for_date = now.date().isoformat()
+    out = {
+        "market": cc.upper(),
+        "edition": local_edition[0],
+        "generatedAt": now.isoformat().replace("+00:00", "Z"),
+        "validForDate": valid_for_date,
+        "source": "Google News RSS",
+        "topics": []
     }
+
+    seen_urls: Set[str] = set()
+
+    # Fetch 5 items per topic
+    for t in TOPICS:
+        try:
+            items = fetch_topic_items(t, local_edition, limit=5, seen_urls=seen_urls)
+        except Exception as e:
+            # If a specific topic feed fails, return empty list for that topic,
+            # but keep building the pack.
+            items = []
+            print(f"[WARN] Topic {t['id']} failed for {cc}: {e}", file=sys.stderr)
+
+        out["topics"].append({
+            "id": t["id"],
+            "label": t["label"],
+            "items": items
+        })
+
+    # Write output
+    out_path = f"public/{cc}/daily.json"
+    import os
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+
+    total = sum(len(t["items"]) for t in out["topics"])
+    print(f"Wrote {out_path} with {total} items")
+
+
+if __name__ == "__main__":
+    try:
+        main()
+    except Exception as e:
+        print(f"ERROR: {e}", file=sys.stderr)
+        sys.exit(1)
