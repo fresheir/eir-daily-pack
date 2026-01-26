@@ -5,11 +5,11 @@ from datetime import datetime, timezone
 from urllib.parse import quote_plus
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
-from typing import Dict, List, Tuple, Optional, Set
+from typing import Dict, List, Tuple, Set, Optional
 
-# -----------------------------
-# PAYWALL / SUBSCRIPTION DOMAINS
-# -----------------------------
+# =====================================================
+# PAYWALL DOMAINS (excluded from free JSON)
+# =====================================================
 PAYWALL_BLOCKLIST = {
     "afr.com",
     "theaustralian.com.au",
@@ -22,33 +22,71 @@ PAYWALL_BLOCKLIST = {
     "telegraph.co.uk",
 }
 
-# -----------------------------
-# COUNTRY SUPPORT
-# You can expand later. Keep to the list you generate in the workflow.
-# Format: cc -> (hl, gl, ceid)
-# hl = language-locale, gl = country, ceid = edition:lang
-# -----------------------------
-COUNTRY_EDITIONS: Dict[str, Tuple[str, str, str]] = {
+# =====================================================
+# GOOGLE NEWS EDITIONS
+# (hl, gl, ceid)
+# =====================================================
+EXPLICIT_EDITIONS: Dict[str, Tuple[str, str, str]] = {
+    # English core
     "au": ("en-AU", "AU", "AU:en"),
     "us": ("en-US", "US", "US:en"),
     "gb": ("en-GB", "GB", "GB:en"),
+    "ie": ("en-IE", "IE", "IE:en"),
     "ca": ("en-CA", "CA", "CA:en"),
     "nz": ("en-NZ", "NZ", "NZ:en"),
-    "ie": ("en-IE", "IE", "IE:en"),
-    "sg": ("en-SG", "SG", "SG:en"),
-    "jp": ("en-JP", "JP", "JP:en"),
+
+    # Europe
+    "fr": ("fr-FR", "FR", "FR:fr"),
+    "de": ("de-DE", "DE", "DE:de"),
+    "es": ("es-ES", "ES", "ES:es"),
+    "pt": ("pt-PT", "PT", "PT:pt-150"),
+    "it": ("it-IT", "IT", "IT:it"),
+    "nl": ("nl-NL", "NL", "NL:nl"),
+    "be": ("nl-BE", "BE", "BE:nl"),
+    "ch": ("de-CH", "CH", "CH:de"),
+    "at": ("de-AT", "AT", "AT:de"),
+    "se": ("sv-SE", "SE", "SE:sv"),
+    "no": ("nb-NO", "NO", "NO:no"),
+    "dk": ("da-DK", "DK", "DK:da"),
+    "fi": ("fi-FI", "FI", "FI:fi"),
+    "pl": ("pl-PL", "PL", "PL:pl"),
+    "cz": ("cs-CZ", "CZ", "CZ:cs"),
+    "sk": ("sk-SK", "SK", "SK:sk"),
+    "hu": ("hu-HU", "HU", "HU:hu"),
+    "ro": ("ro-RO", "RO", "RO:ro"),
+    "bg": ("bg-BG", "BG", "BG:bg"),
+    "gr": ("el-GR", "GR", "GR:el"),
+    "tr": ("tr-TR", "TR", "TR:tr"),
+    "ru": ("ru-RU", "RU", "RU:ru"),
+    "ua": ("uk-UA", "UA", "UA:uk"),
+    "rs": ("sr-RS", "RS", "RS:sr"),
+    "hr": ("hr-HR", "HR", "HR:hr"),
+    "si": ("sl-SI", "SI", "SI:sl"),
+    "ba": ("bs-BA", "BA", "BA:bs"),
+    "me": ("sr-ME", "ME", "ME:sr"),
+    "mk": ("mk-MK", "MK", "MK:mk"),
+    "al": ("sq-AL", "AL", "AL:sq"),
+    "lt": ("lt-LT", "LT", "LT:lt"),
+    "lv": ("lv-LV", "LV", "LV:lv"),
+    "ee": ("et-EE", "EE", "EE:et"),
+    "is": ("is-IS", "IS", "IS:is"),
+    "lu": ("fr-LU", "LU", "LU:fr"),
+    "mt": ("mt-MT", "MT", "MT:mt"),
+    "cy": ("el-CY", "CY", "CY:el"),
+
+    # South America (major)
     "br": ("pt-BR", "BR", "BR:pt-419"),
     "ar": ("es-AR", "AR", "AR:es-419"),
+
+    # Middle East
+    "ae": ("ar-AE", "AE", "AE:ar"),
 }
 
-# If a cc isn't in the map, fallback to US edition.
-DEFAULT_CC = "us"
+GLOBAL_EDITION = ("en-US", "US", "US:en")
 
-# -----------------------------
-# TOPICS (stable set)
-# For local topics: fetch with the user's country edition.
-# For global topics: fetch with a fixed edition so it’s consistent everywhere.
-# -----------------------------
+# =====================================================
+# TOPICS
+# =====================================================
 TOPICS = [
     {"id": "local_national", "label": "Local & National News", "kind": "topic", "topic_code": "NATION", "scope": "local"},
     {"id": "world",          "label": "World News",            "kind": "topic", "topic_code": "WORLD",  "scope": "local"},
@@ -56,44 +94,34 @@ TOPICS = [
     {"id": "sport",          "label": "Sport",                 "kind": "topic", "topic_code": "SPORTS", "scope": "local"},
     {"id": "science_tech",   "label": "Science & Technology",  "kind": "topic", "topic_code": "TECHNOLOGY", "scope": "local"},
 
-    # Global topics:
-    {"id": "football",       "label": "Football (Global)",     "kind": "search", "query": None, "scope": "global"},
-    {"id": "entertainment",  "label": "Entertainment (Global)","kind": "topic", "topic_code": "ENTERTAINMENT", "scope": "global"},
+    # Global
+    {"id": "football",       "label": "Football (Global)",     "kind": "search", "scope": "global"},
+    {"id": "entertainment",  "label": "Entertainment (Global)","kind": "topic",  "topic_code": "ENTERTAINMENT", "scope": "global"},
 ]
 
-# Football query: broad soccer focus + major comps.
 FOOTBALL_QUERY = (
     '("football" OR "soccer") '
     '("UEFA" OR "Champions League" OR "Europa League" OR "Conference League" OR '
-    '"World Cup" OR "FIFA" OR "Copa America" OR "AFCON" OR "AFC Asian Cup" OR '
-    '"Premier League" OR "EPL" OR "La Liga" OR "Serie A" OR "Bundesliga" OR "Ligue 1" OR '
-    '"UCL" OR "UEL") '
+    '"World Cup" OR "FIFA" OR "Copa America" OR "AFCON" OR "Asian Cup" OR '
+    '"Premier League" OR "EPL" OR "La Liga" OR "Serie A" OR "Bundesliga" OR "Ligue 1") '
     '-("NFL" OR "AFL" OR "NRL")'
 )
 
-# Choose a single global edition to keep global topics consistent.
-GLOBAL_EDITION = ("en-US", "US", "US:en")
-
-
-def norm(s: str) -> str:
-    return re.sub(r"\s+", " ", (s or "").strip().lower())
-
-
+# =====================================================
+# HELPERS
+# =====================================================
 def host_from_url(url: str) -> str:
     m = re.match(r"^https?://([^/]+)/", url or "")
     return m.group(1).lower() if m else ""
-
 
 def is_blocklisted(url: str) -> bool:
     h = host_from_url(url)
     return any(h == d or h.endswith("." + d) for d in PAYWALL_BLOCKLIST)
 
-
 def fetch_bytes(url: str) -> bytes:
     req = Request(url, headers={"User-Agent": "Mozilla/5.0 (EirDailyPackBot)"})
     with urlopen(req, timeout=25) as resp:
         return resp.read()
-
 
 def parse_rss(xml_bytes: bytes) -> List[dict]:
     root = ET.fromstring(xml_bytes)
@@ -106,7 +134,6 @@ def parse_rss(xml_bytes: bytes) -> List[dict]:
         title = (it.findtext("title") or "").strip()
         link = (it.findtext("link") or "").strip()
         pub = (it.findtext("pubDate") or "").strip()
-
         source_el = it.find("source")
         publisher = (source_el.text if source_el is not None else "") or ""
 
@@ -121,115 +148,79 @@ def parse_rss(xml_bytes: bytes) -> List[dict]:
             "url": link,
             "published": pub,
         })
-
     return items
 
-
-def dedupe_keep_order(items: List[dict], seen_urls: Set[str]) -> List[dict]:
+def dedupe(items: List[dict], seen: Set[str]) -> List[dict]:
     out = []
     for it in items:
-        u = it.get("url", "")
-        if not u or u in seen_urls:
+        if it["url"] in seen:
             continue
-        seen_urls.add(u)
+        seen.add(it["url"])
         out.append(it)
     return out
 
+def topic_url(code: str, hl: str, gl: str, ceid: str) -> str:
+    return f"https://news.google.com/rss/headlines/section/topic/{code}?hl={hl}&gl={gl}&ceid={ceid}"
 
-def build_topic_rss_url(topic_code: str, hl: str, gl: str, ceid: str) -> str:
-    # Example:
-    # https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-AU&gl=AU&ceid=AU:en
-    return f"https://news.google.com/rss/headlines/section/topic/{topic_code}?hl={hl}&gl={gl}&ceid={ceid}"
+def search_url(query: str, hl: str, gl: str, ceid: str) -> str:
+    return f"https://news.google.com/rss/search?q={quote_plus(query)}&hl={hl}&gl={gl}&ceid={ceid}"
 
+def edition_candidates(cc: str):
+    if cc in EXPLICIT_EDITIONS:
+        yield EXPLICIT_EDITIONS[cc]
+    yield (f"en-{cc.upper()}", cc.upper(), f"{cc.upper()}:en")
+    yield ("en-GB", cc.upper(), f"{cc.upper()}:en")
+    yield GLOBAL_EDITION
 
-def build_search_rss_url(query: str, hl: str, gl: str, ceid: str) -> str:
-    q = quote_plus(query)
-    # Example:
-    # https://news.google.com/rss/search?q=...&hl=en-US&gl=US&ceid=US:en
-    return f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}"
+def fetch_topic(topic, cc, seen):
+    editions = [GLOBAL_EDITION] if topic["scope"] == "global" else edition_candidates(cc)
 
+    for (hl, gl, ceid) in editions:
+        try:
+            if topic["kind"] == "topic":
+                url = topic_url(topic["topic_code"], hl, gl, ceid)
+            else:
+                url = search_url(FOOTBALL_QUERY, hl, gl, ceid)
 
-def fetch_topic_items(topic: dict, local_edition: Tuple[str, str, str], limit: int, seen_urls: Set[str]) -> List[dict]:
-    if topic.get("scope") == "global":
-        hl, gl, ceid = GLOBAL_EDITION
-    else:
-        hl, gl, ceid = local_edition
+            items = parse_rss(fetch_bytes(url))
+            return dedupe(items, seen)[:5]
+        except Exception:
+            continue
 
-    if topic["kind"] == "topic":
-        url = build_topic_rss_url(topic["topic_code"], hl, gl, ceid)
-    elif topic["kind"] == "search":
-        query = FOOTBALL_QUERY if topic["id"] == "football" else (topic.get("query") or "")
-        url = build_search_rss_url(query, hl, gl, ceid)
-    else:
-        return []
+    return []
 
-    xml_bytes = fetch_bytes(url)
-    items = parse_rss(xml_bytes)
-
-    # Dedupe across ALL topics
-    items = dedupe_keep_order(items, seen_urls)
-
-    # Return up to limit
-    return items[:limit]
-
-
-def resolve_country_edition(cc: str) -> Tuple[str, str, str]:
-    cc = (cc or "").strip().lower()
-    if cc in COUNTRY_EDITIONS:
-        return COUNTRY_EDITIONS[cc]
-    return COUNTRY_EDITIONS[DEFAULT_CC]
-
-
+# =====================================================
+# MAIN
+# =====================================================
 def main():
-    # Country code argument (lowercase ISO-2), default to US if missing
-    cc = sys.argv[1].strip().lower() if len(sys.argv) > 1 else DEFAULT_CC
-
-    local_edition = resolve_country_edition(cc)
+    cc = sys.argv[1].lower() if len(sys.argv) > 1 else "us"
     now = datetime.now(timezone.utc)
 
-    # Build output object
-    valid_for_date = now.date().isoformat()
     out = {
         "market": cc.upper(),
-        "edition": local_edition[0],
         "generatedAt": now.isoformat().replace("+00:00", "Z"),
-        "validForDate": valid_for_date,
+        "validForDate": now.date().isoformat(),
         "source": "Google News RSS",
         "topics": []
     }
 
-    seen_urls: Set[str] = set()
+    seen = set()
 
-    # Fetch 5 items per topic
     for t in TOPICS:
-        try:
-            items = fetch_topic_items(t, local_edition, limit=5, seen_urls=seen_urls)
-        except Exception as e:
-            # If a specific topic feed fails, return empty list for that topic,
-            # but keep building the pack.
-            items = []
-            print(f"[WARN] Topic {t['id']} failed for {cc}: {e}", file=sys.stderr)
-
+        items = fetch_topic(t, cc, seen)
         out["topics"].append({
             "id": t["id"],
             "label": t["label"],
             "items": items
         })
 
-    # Write output
-    out_path = f"public/{cc}/daily.json"
+    path = f"public/{cc}/daily.json"
     import os
-    os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    with open(out_path, "w", encoding="utf-8") as f:
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
-    total = sum(len(t["items"]) for t in out["topics"])
-    print(f"Wrote {out_path} with {total} items")
-
+    print(f"Wrote {path}")
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as e:
-        print(f"ERROR: {e}", file=sys.stderr)
-        sys.exit(1)
+    main()
