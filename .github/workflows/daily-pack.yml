@@ -1,86 +1,98 @@
-name: Build Daily Country Packs
+name: Build Daily Packs
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
   schedule:
-    - cron: "10 23 * * *" # Runs daily at 23:10 UTC (adjust later if you want)
+    - cron: "5 22 * * *"
 
 permissions:
   contents: write
 
-concurrency:
-  group: build-daily-packs
-  cancel-in-progress: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        cc:
+          # Core
+          - au
+          - us
+          - gb
+          - ie
+          - ca
+          - nz
 
-    env:
-      # ✅ ONLY these countries will exist under /public/
-      # Use lowercase 2-letter ISO codes matching your folder names.
-      SUPPORTED_COUNTRIES: "au us gb ca nz ie sg jp br ar"
+          # Europe (add/remove as you like)
+          - fr
+          - de
+          - es
+          - pt
+          - it
+          - nl
+          - be
+          - ch
+          - at
+          - se
+          - no
+          - dk
+          - fi
+          - pl
+          - cz
+          - sk
+          - hu
+          - ro
+          - bg
+          - gr
+          - tr
+          - ru
+          - ua
+          - rs
+          - hr
+          - si
+          - ba
+          - me
+          - mk
+          - al
+          - lt
+          - lv
+          - ee
+          - is
+          - lu
+          - mt
+          - cy
 
-      # Folder where your JSONs are written (your script uses public/<cc>/daily.json)
-      PUBLIC_DIR: "public"
+          # South America
+          - br
+          - ar
+
+          # Asia / Middle East
+          - jp
+          - cn
+          - ae
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Clean old generated packs (keeps only supported)
-        shell: bash
+      - name: Build daily packs
         run: |
-          set -e
-          mkdir -p "${PUBLIC_DIR}"
+          python scripts/build_day_pack.py ${{ matrix.cc }}
 
-          echo "Supported countries: ${SUPPORTED_COUNTRIES}"
-          echo "Cleaning ${PUBLIC_DIR}/ of previously generated country folders..."
-
-          # Build a whitelist regex like: ^(au|us|gb|...)$
-          WHITELIST="$(echo "${SUPPORTED_COUNTRIES}" | tr ' ' '|' )"
-          echo "Whitelist regex: ${WHITELIST}"
-
-          # Remove any country folder not in whitelist
-          for d in "${PUBLIC_DIR}"/*; do
-            if [ -d "$d" ]; then
-              cc="$(basename "$d")"
-              if [[ ! "$cc" =~ ^(${WHITELIST})$ ]]; then
-                echo "Removing unsupported pack folder: ${PUBLIC_DIR}/${cc}"
-                rm -rf "${PUBLIC_DIR}/${cc}"
-              fi
-            fi
-          done
-
-      - name: Build JSON packs
-        shell: bash
+      - name: Commit and push
         run: |
-          set -e
-          echo "Building packs for: ${SUPPORTED_COUNTRIES}"
-
-          for cc in ${SUPPORTED_COUNTRIES}; do
-            echo "---- Building: ${cc} ----"
-            # Your script must support: python scripts/build_day_pack.py <country_code>
-            python scripts/build_daily_pack.py "${cc}"
-          done
-
-      - name: Commit & push updated packs
-        shell: bash
-        run: |
-          set -e
           git config user.name "eir-daily-pack-bot"
           git config user.email "actions@users.noreply.github.com"
 
-          git add public
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
+          # IMPORTANT: add all generated country JSONs
+          git add public/**/daily.json
 
-          git commit -m "Update daily country packs"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update daily packs"
+            git push
+          fi
