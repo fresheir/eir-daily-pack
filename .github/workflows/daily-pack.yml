@@ -70,7 +70,7 @@ jobs:
         run: mkdir -p public/${{ matrix.cc }}
 
       - name: Build daily pack
-        run: python scripts/build_day_pack.py ${{ matrix.cc }}
+        run: python scripts/build_daily_pack.py ${{ matrix.cc }}
 
       - name: Commit changes
         run: |
