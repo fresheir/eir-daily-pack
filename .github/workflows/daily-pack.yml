@@ -3,123 +3,81 @@ name: Build Daily Packs
 on:
   workflow_dispatch:
   schedule:
-    - cron: "5 22 * * *"
+    - cron: "0 22 * * *" # runs daily (UTC)
 
 permissions:
   contents: write
 
-concurrency:
-  group: daily-packs
-  cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
+
     strategy:
-      fail-fast: false
       matrix:
         cc:
-          # Core
-          - au
+          # --- Core English ---
           - us
+          - au
           - gb
           - ie
           - ca
           - nz
 
-          # Europe (example set — edit as needed)
+          # --- Europe ---
           - fr
           - de
           - es
-          - pt
           - it
+          - pt
           - nl
           - be
           - ch
           - at
           - se
           - no
-          - dk
           - fi
+          - dk
           - pl
           - cz
-          - sk
           - hu
           - ro
           - bg
           - gr
-          - tr
-          - ru
           - ua
-          - rs
-          - hr
-          - si
-          - ba
-          - me
-          - mk
-          - al
-          - lt
-          - lv
           - ee
-          - is
-          - lu
-          - mt
-          - cy
+          - lv
+          - lt
 
-          # South America
+          # --- Americas ---
           - br
           - ar
 
-          # Asia / Middle East
+          # --- Asia / Middle East ---
           - jp
-          - cn
+          - sg
           - ae
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Build pack for ${{ matrix.cc }}
-        run: |
-          python scripts/build_daily_pack.py ${{ matrix.cc }}
+      - name: Ensure public folder exists
+        run: mkdir -p public/${{ matrix.cc }}
 
-      # Upload only this country's JSON as an artifact
-      - name: Upload artifact (${{ matrix.cc }})
-        uses: actions/upload-artifact@v4
-        with:
-          name: pack-${{ matrix.cc }}
-          path: public/${{ matrix.cc }}/daily.json
-          if-no-files-found: error
+      - name: Build daily pack
+        run: python scripts/build_day_pack.py ${{ matrix.cc }}
 
-  commit:
-    runs-on: ubuntu-latest
-    needs: build
-
-    steps:
-      - uses: actions/checkout@v4
-
-      # Download all country artifacts into public/<cc>/daily.json
-      - name: Download all packs
-        uses: actions/download-artifact@v4
-        with:
-          pattern: pack-*
-          merge-multiple: true
-          path: public
-
-      - name: Commit and push once
+      - name: Commit changes
         run: |
           git config user.name "eir-daily-pack-bot"
           git config user.email "actions@users.noreply.github.com"
+          git add public
+          git commit -m "Update daily packs" || echo "No changes to commit"
 
-          git add public/**/daily.json
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-
-          git commit -m "Update daily packs"
-          git push
+      - name: Push changes
+        run: git push
