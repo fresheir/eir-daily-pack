@@ -1,6 +1,6 @@
 {
   "market": "EE",
-  "generatedAt": "2026-01-26T09:06:39.628642Z",
+  "generatedAt": "2026-01-26T09:33:12.105061Z",
   "validForDate": "2026-01-26",
   "source": "Google News RSS",
   "topics": [
@@ -9,16 +9,22 @@
       "label": "Local & National News",
       "items": [
         {
+          "title": "Viljandi sai selle talve külmarekordi - sakala.postimees.ee",
+          "publisher": "sakala.postimees.ee",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IWEFQN0p1MGIwRWJ4bElxdG1QVm1WYzVWeDVDZUtZNnduM1RMWFQ0VHp5X1dfcEI3ZHVxUzU4RmJ6RDVFTXZlNkhaQk80amtiUURPOWh1N0diOXBHbkFkQmFIOUpEcl9QNnlMZFk2dDdnMnM4YUc4cmprR1Ffdw?oc=5",
+          "published": "Mon, 26 Jan 2026 09:17:36 GMT"
+        },
+        {
           "title": "GRAAFIK | Elektri hind kerkib esmaspäeval eriti kõrgeks - Ärileht",
           "publisher": "Ärileht",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnRHZEppUUctaWNuUTFpYVVpX0RETEZnZ3RfS1l5a2w1ZEF5bG1TU1lmRUIwTERHMHlwclMwS2VqNTZWSXVoSFhsTFhxNlV2YzdiZUJNeVg5M2FrbWlLZlVOMjZsb21KVDJtTnJpQlJheUE3djc4cGU3VmJxVHRyYWRkalZHVWZqREkyem9JeGNoWWFBYXItVmhqUjM?oc=5",
           "published": "Sun, 25 Jan 2026 17:29:20 GMT"
         },
         {
-          "title": "Põllu- ja metsamehed: looduse taastamise kava tuleb peatada - Postimees",
-          "publisher": "Postimees",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRjVGbmx5QXJTc0RPN1QxU2NXcl9zOHhNYWtHaGZyai1qbVlsSE1rNERSX19KcmU1a1JmX2FiRVluWWcxNHYyeVNKTmg2d2x6cGpSa18wT2c2UmYwWDdKQl9ZbndGNjFuQ3plZlJEdkpWeTdGYXJvdFA4MEJpSGY5WmtZQ0lCSzhJMkt2X2pCTVpZWlY5?oc=5",
-          "published": "Mon, 26 Jan 2026 04:31:15 GMT"
+          "title": "Põllumajandajad ja metsaomanikud nõuavad looduse taastamise kava koostamise peatamist - ERR",
+          "publisher": "ERR",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLW5HQzAxSDcyNE96TXFHeWN6RG5US0lETHNaYVhLYWYyTmFuUGlXa0NPV3JjSWoxMTgwTG9CQW9jR3BGSHhHMGkxbEpGYzJUb3U5T1lSX0MzNDFBYjNwRnk2WGpLbmM0MmdFN0VnbFBfdzdEVjJxYktPbk1zdzlWTkNoTXZHdHpzb0JhV1hlYW5kMzJzLTA0VGZHVk1rOXpBYjZRX0R5TWVTTF9XZDY4ZWhZandhdw?oc=5",
+          "published": "Mon, 26 Jan 2026 05:58:00 GMT"
         },
         {
           "title": "Keskkonnaagentuur ja terioloogia selts kutsuvad kaardistama keldrites talvituvaid nahkhiiri - parnu.postimees.ee",
@@ -31,12 +37,6 @@
           "publisher": "jarvateataja.postimees.ee",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDk0Zjh6enZ2M2tfQXphLXg4T0JCT0VVdlRLV2s3dDZJckZLN3hPZVZHaUl0Q2tlaUxLN2hvM0hlRV9wemloXzFKWnhvOFZrbmFFcW16TXhBWEhYTUJjTmJGWkM5RVQxblBLTXdEdUVMTktWWTE2cy12ZHcxcV9oSDQ4Q0FoZ084ZXFLbUdtYWFCUEtnRWx3?oc=5",
           "published": "Mon, 26 Jan 2026 08:11:05 GMT"
-        },
-        {
-          "title": "Aktuaalne kaamera. Nädal: Venemaa rünnakud on viinud Kiievi humanitaarkatastroofi äärele - Jupiter | ERR",
-          "publisher": "Jupiter | ERR",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ3FzcHhETWNWMXpfcWg2elJ2bkd6aXMzZ01wdlJuZkNjb044ZlBMNVJmN2lIRFRjZ3hiVC1RWTRkTWFlbzN5cDhXRF9NTXRvM1hZSlBlS3NwTnQtOHhHTk51OXZQLVcxTnNOUF9SRkdFUUhueWtCa1h5WXRxeWg5NjZqaXc3TWlyYmg2ZDh3bUxtRG9jVGQ0UEFuNGM?oc=5",
-          "published": "Mon, 26 Jan 2026 07:34:33 GMT"
         }
       ]
     },
@@ -63,10 +63,10 @@
           "published": "Mon, 26 Jan 2026 08:56:44 GMT"
         },
         {
-          "title": "USA ametnikud: Abu Dhabi kohtumised ületasid ootusi, Putini ja Zelenskõi kohtumisele ollakse väga lähedal - Maailm - Postimees.ee",
-          "publisher": "Maailm - Postimees.ee",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUGpBTFkxSmMyVWRvMVdqWUJlcm90bnE4NW9RWUFkcHlkczFvMVhmUDd1bDBLQlEySkFxVmgxUUplYURDdS0wSmhjb0lhYnhaSXpJZ1FjU0VvajZteWhwcVdhUmVRMW0yMzU5eHVYLWRBRUI2ejZfMkprY3NzckI4UGVWZTltd1ZrN3VHQmRxeW9IbkhKcnM5R3RfZ0dFSzdydElFaHo3S1AxZmFmeExRWHY1SmNTSndlUzNjN0pZMXA5bU94SmRObC1WMml2cU0zZGhuM0F3?oc=5",
-          "published": "Sun, 25 Jan 2026 12:22:28 GMT"
+          "title": "Kreml Abu Dhabi läbirääkimistest: territooriumide küsimus on Venemaa jaoks põhimõtteline - Delfi",
+          "publisher": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbmllVmtUSkhtMjFpWnFGX0pqMDRJX3AzUUVZaF8ybUNIRGgwWHlkR2xpU2FOMHo2RU1pTzB5YThqV2wzM1JjdHNVWUZZRlFTa3lRZ0ZkeEJzR29KelF6dTkzTWYzdGNWN3FsSFZqZ3F6UkZ0eHlMZ0tHLXIyTmczVnlYb0laV0U4cVZfU1EtdW5pU21sUTByVkxkRnhSeVJjWGtQRWNlRmllY195TGg3WVRsajQ2UjAzbFdMZE1MSEM1NEo2NHc?oc=5",
+          "published": "Mon, 26 Jan 2026 09:28:44 GMT"
         },
         {
           "title": "Ränk lumetorm on USA-s tapnud vähemalt kümme inimest - Maailm - Postimees.ee",
@@ -99,16 +99,16 @@
           "published": "Mon, 26 Jan 2026 05:16:00 GMT"
         },
         {
-          "title": "PILTUUDIS ⟩ Välismaalased imestavad Eesti õuna hinna üle: isegi mitte kuldsed! - Elu24",
-          "publisher": "Elu24",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUjlQdTlSazhSZHlONXhUejVhS0hZX3hKTy0ySF9nZi1PamxjazE5d2tNNjQ0Z00tVmIwRk14NFUwb0ItVkhkMmpLM1pOLTk3TTZSdVdPWnVxUEZZeGdmRVNBWkFBRDVYSm1JZVQxN1phMmhSMzhHNlpreElQYWJzMlVfczJWQ1ZtdF9xSWNvNFg3M3lzVFRNM2otbElyeF9iVGtqSzcwbjdoMGVNaVE?oc=5",
-          "published": "Mon, 26 Jan 2026 06:00:00 GMT"
-        },
-        {
           "title": "Microsoft palus Windows 11 kasutajatel kiiresti eemaldada jaanuarikuu uuendus - Delfi",
           "publisher": "Delfi",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcW4xRjdJclhCUE5JYno3SmRyM3FLODh6UDY3N2NVQlFYWm1aTWlHdks2MEZFOFRINmMyQmJtOWRodzVWdDlzdWRqblUtb09URFpPRl9wM051dDEwYzJqYlduSi1YUWk5SWNrdkc3Rjg2LWt4MHZnV0E0QmZBWjlhdldzWElDNnotRzVkUFdDVWhkNTRqdUxSUkZaclVHdG14Qm5vSzdOaFBDY09nUjFZeEVWdmItV0V5MnJv?oc=5",
           "published": "Mon, 26 Jan 2026 08:09:06 GMT"
+        },
+        {
+          "title": "FOTOD «Defitsiiti võib ette tulla!» Viraalne TikToki hittretsept jättis Eesti toidupoodides riiulid tühjaks - Elu24",
+          "publisher": "Elu24",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaUJvWlJrRGdaN0M5VldhNklkT2dTQngzbm5zVTdHVVVJeWU0ckFWRjZQNnJfZjh0UVN5Q3g2UW1ablFNRU1HXzFXSTlubVJiWm5ZYVAxM2l3bXUwRFczaVhKVkRvLTdWNGtMVjRuVHpHUHFWb0w5QkFjSjJhVmlqdTR3dDh2bXowTHZsdXVzNUVqTjVVWURqMzI4RU85M21mcU1QMm5SUWdKbnBKNHhxaWpxemNncFFZVEVqdkItSlpLa0NsRnlEd3M2dDZROU5qRi0tNWNR?oc=5",
+          "published": "Mon, 26 Jan 2026 07:00:00 GMT"
         }
       ]
     },
@@ -164,6 +164,12 @@
           "published": "Sun, 25 Jan 2026 18:57:00 GMT"
         },
         {
+          "title": "U.S. welcomes soccer fans for FIFA World Cup 2026™ - ShareAmerica (.gov)",
+          "publisher": "ShareAmerica (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZN3Z4WklWcHJoTFR3QnoxWWdlM0tEMDdEX01HbWJPTDZxVUtfSFluaDQzTVktbFNEV3BpSmlMb19pQVhQZW5LamxKbVJVNmprRE1Ua0Y2cWZpb3UzcGo1TjFTakhuTlJZd2s5Wk5adzJIRUZlMUlrSU0yT0lzRkk?oc=5",
+          "published": "Fri, 23 Jan 2026 22:33:34 GMT"
+        },
+        {
           "title": "Michele Kang’s largesse for women’s football leaves Fifa open to bias claims | Tom Garry - The Guardian",
           "publisher": "The Guardian",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEJHQUZBWFdHY3ZNejlJdDF1TzIzNmtvUVY1bDFJUU1WZlRpSVRCQnVDMjc1WlU4WmYtYXgwNGJmZGtVajZsTVA4ZkEzeC1qX2d2RGtleDVZdVh6MXFheG1iRDg2MVhVdmxqaWxzVk5uOTEzVkxiUmxUT0VjTFBYSXJZMnpsT0dDOHd3X2N5TTgzbEtyYWtuNGJQSnc0MnVCc2RCYkoxcDhiemRncV8zM3paeVgyRXRfUVVSS1NRYWc?oc=5",
@@ -180,12 +186,6 @@
           "publisher": "Al Jazeera",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakd4LUdpMkhZdkg0QzFMUGJweFQyb01WaEc0U2FLbnV4XzNQTTVDUjlMenNfbU1TZ0ZaUG5KSGYtR0pWMUQxX0cwQXdNSE93Rjg5c3VhY2NSMFkzWHpfZGIxS1M2bEdlbnJXRWplTUwyR0VWSjdMR0N0d1JEYWZDOW5ZckszNzNTMHJ6SzNlcnVTMk5CRFB5M0o3d2RQWjUxbjFIN9IBqgFBVV95cUxQTUtFX21hck0wekhRZkVJVElGZEJtTDRfLXNLSEp2aHRlRUlDNFRRM013YUtMTVBDdkpQdFF4MzY2ZDhHQ080RWVYcmJOUzhLWGVqX2kwaHVGV1JhZlc0bVhXNW9jWHlfQXpxSlh4X0NEejd1Z3BkRWNBSmdMcm9hZ296VFdMcWdfa1NCYmZuemZMOHJvV3k3T2dRaWpRMWRfNW5tUzJXaklOZw?oc=5",
           "published": "Sun, 25 Jan 2026 21:45:00 GMT"
-        },
-        {
-          "title": "Premier League Soccer 2026: Stream Arsenal vs. Man United Live From Anywhere - CNET",
-          "publisher": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON0V3cXp5Y0Z5OE9FUkVfbFJYUGhoVkhMSmJyakVsWHg1SlNPVzZsWi1hRGpKQmVadlF3WjJMdzl6NDZybTBobGhpY3R5V2ZIOVE5VU92Nzl4Y0owWXY3VnF4YWU5d09aZUJ3VERpRUNZcDhTNXkyOS1SMFJNNGdXVEFrV2tNWVFNMmNhaWd3a0JjU2syMUFoNjZDS2dpMUVZNUpUaEhlcF8yOHBFWS1GYWNxcUtVYk85blhtb1FKenY?oc=5",
-          "published": "Sun, 25 Jan 2026 13:31:52 GMT"
         }
       ]
     },
@@ -194,10 +194,10 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Box Office: ‘Mercy’ Ends ‘Avatar: Fire and Ash’ Five-Weekend Reign With $11 Million Debut - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkVnamhadDhlS09TOU9TWGNrODFad2pETVBHV1UxN3ZUZ2xRTGN2NDRtSVVnZm5xLW16S1RfSGZSUEliM3pVZFhGcmViSzhCVjVxOXItdEhCUkhablE0cXJOd2x2WWlXWTljeGNlaVlxa3Nxd3BTaVBfc2kzOWNCSTBpTlJzWlRQVjlGSzRVLU9BY3JHcU1HR1UwWHNBRnZodGc?oc=5",
-          "published": "Sun, 25 Jan 2026 15:28:00 GMT"
+          "title": "Weekend Box Office: MERCY Shows None, Takes Down AVATAR as #1 - Boxoffice Pro",
+          "publisher": "Boxoffice Pro",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcGl3Q0htbkNUQjY5bjBTQmVIRXFxLXZoRUd1TkJYR0Y1WlM1ZkdGT2VkUlB2RDBEa3NlN2lyY1VJcjV6UHJmR1dtSmxZM3JQcU1CZi05WEtZSnJRb1FJSWk2bXQ3c3ZYd3dSNFpLOXFhbW1EaVVPQlUtbjhYczhwRG5ueWVidFpNUmRLQ0tHajN2dw?oc=5",
+          "published": "Sun, 25 Jan 2026 18:30:27 GMT"
         },
         {
           "title": "The Housemaid Worldwide Box Office: Where It Ranks Among Sydney Sweeney’s Last 5 Theatrical Releases - IMDb",
@@ -206,22 +206,22 @@
           "published": "Fri, 23 Jan 2026 05:37:22 GMT"
         },
         {
-          "title": "‘For the authoritarian, culture is the enemy’: Salman Rushdie talks recovery and resilience at Sundance - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0dxeDZhUTNsT3VTTnJza0NhODJNb2ZFaVpuYURoMVJGWHg1alU3LVZ1U2tDSnZyUHB2eVNiMFhuYXU2aTBnX1loVzA1VGsxUVV3RV9oa1pzLXJjaEZod3UwdXc2b2gxRDdlTnhQc0t1X3Q5clZKZGpPRTZuSU1rY2hEeVNoaWZDeXEwSFlfX00xRnd1VnZLd3FnRVBzQzlFSHVMMGlsdEVaTlljWlpnMmQyVmZwQkgt?oc=5",
-          "published": "Mon, 26 Jan 2026 03:54:00 GMT"
-        },
-        {
           "title": "'Blind Side' Actor Quinton Aaron Hospitalized After Falling At Home - TMZ",
           "publisher": "TMZ",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnhYSVRUN0hIOTlkcmxxeEVTakxyTmRBWTBrMGloSmprVHRpcjcwZldkRjI5WmpaTDU0U21fVDAzQjRDZ05PUG0zbDFKV3lhRkFHcFAzSWpuSjRWT05BZHlPampKQUZiaVZxS1VIZ29VaV9ObUJHUFY2WHM3VUJVU0dQT2dBOEluZWNjcEkzUHhFWjN0Q1ZhTG8xTDZxZw?oc=5",
           "published": "Mon, 26 Jan 2026 01:06:41 GMT"
         },
         {
-          "title": "Will Poulter and Noah Centineo Went to Ohio to Immerse Themselves in the Addiction Recovery System for ‘Union County’ - IndieWire",
-          "publisher": "IndieWire",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2R6YzE2REdsTFFxVnItYWwyNDg4bEtHVWNpVnlQbTFSSDFYOVZvNVM4LXU4NlhiNU5sZEFGZDRlbDgyV21YTUJ1akF3V1prcEN6YkFXTVdqekUwdDVpSU41WC1VaWRseDJZSW9PODRaOFJ3THdldkZ2X3Y0aHRpSWVGWG1FM3JlU21tVEFWTWRpWHV5WTdlYVo0aTVHNk8yMU1hamFrSzIyQQ?oc=5",
-          "published": "Sun, 25 Jan 2026 19:00:00 GMT"
+          "title": "‘For the authoritarian, culture is the enemy’: Salman Rushdie talks recovery and resilience at Sundance - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0dxeDZhUTNsT3VTTnJza0NhODJNb2ZFaVpuYURoMVJGWHg1alU3LVZ1U2tDSnZyUHB2eVNiMFhuYXU2aTBnX1loVzA1VGsxUVV3RV9oa1pzLXJjaEZod3UwdXc2b2gxRDdlTnhQc0t1X3Q5clZKZGpPRTZuSU1rY2hEeVNoaWZDeXEwSFlfX00xRnd1VnZLd3FnRVBzQzlFSHVMMGlsdEVaTlljWlpnMmQyVmZwQkgt?oc=5",
+          "published": "Mon, 26 Jan 2026 03:54:00 GMT"
+        },
+        {
+          "title": "2026 Oscar Best Picture Nominees Ranked By Box Office - SlashFilm",
+          "publisher": "SlashFilm",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcTRFbXo2XzVRU1ZZd3A1R2ZFdTRERjltOS1nQjg3V2lKbEx6SnhFcmtvcksxRUFnT3dzNU5hNTFUOWlMV091OUxqYmZMMndyQzlOZzlLT0JmNGtUWURKVnYtRlNIU3MwVGVXbmYtNmxyN3NoTUQwVGVQaXBRcGRTTjRTUWIxZjI0bkN5SEh5Yw?oc=5",
+          "published": "Sun, 25 Jan 2026 18:00:00 GMT"
         }
       ]
     }

@@ -1,0 +1,260 @@
+{
+  "market": "DE",
+  "generatedAt": "2026-01-26T09:32:18.284083Z",
+  "validForDate": "2026-01-26",
+  "source": "Google News RSS",
+  "topics": [
+    {
+      "id": "local_national",
+      "label": "Local & National News",
+      "items": [
+        {
+          "title": "Wetterdienst gibt Unwetterwarnung heraus Glättegefahr im Osten Deutschlands – starker Schneefall in Franken - tagesspiegel.de",
+          "publisher": "tagesspiegel.de",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOXZORHBobFhWMThhTnQwYURyZ3cwYzN1M0FPQUxrRmlaX3VBN25YYWpGQldnSkgtaW5DdFd0UjY4X05fZnBDZzYyYXlJdWIwUzZ3azd2dU1wSzR6MkxvNWU2Mm1rZFBtVmxyTTB2YTdRdjNhRUNGNjNOQnhBeTkzWmpkNVFoS2p5MXo3bkhSblZLNXJ5WTVCRVNGemJidkluZE5fY05NOXVBS1dCMlBQclB2WE1feUQ0QTVla3hSQ29XUEtlbll1ZnEtXzEtN2xhX0xzNE5sUWdnSlFXQkowaVg0c1lRU0liTUZFOTM2MGk4NFQtTm9HWUNOYWVhcVU?oc=5",
+          "published": "Mon, 26 Jan 2026 07:10:00 GMT"
+        },
+        {
+          "title": "Debatte über »Lifestyle-Teilzeit«: Ökonomen warnen vor Einschränkung von Teilzeit-Recht - Spiegel",
+          "publisher": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUjNjXzF6dUxqY2prZFNnLU41YjQ2dnlHel91YzJwaV9sNzA4S01nN0dtNVJRcG1GRFJ6d0Z5QTZYcUJHY2JCdGRReDZwMlNaYUl5RXJRS1hjN185d2wxd2JJRG9SZTVFZE1kbUE1anlvQXAwSjlqOFdjdnVGU0g3VWFEbGtTbVgwZnpZZUFveS1WbXdwci1LVmlnSlVIUXp4RllBOXNVbHRrSWh5WlY2QTAxS0ZBMUhnY2NzTV85U2kwOVd1V1RhQWJfZzNJZXJUN042MzdyUEY1RTdzYjZibTlUWVN4V3ZWMUpzOW13Z05lQlA5Wnc?oc=5",
+          "published": "Sun, 25 Jan 2026 17:20:00 GMT"
+        },
+        {
+          "title": "Bürgerentscheid: Mehrheit in Schwerin gegen Verkauf von Park mit Spielplatz - NDR.de",
+          "publisher": "NDR.de",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSV9pdnN4aGxFbjF3dFVxSGJSWDJTaHRncC16RWJMV2FWdFVTRGsyeVhXSTNudm9meGNQOXpPY3JEZktwNWlBLUNBamx4UFlCdlhPUTV3MHI5dGtfaE9OcGw5YTJYbGkyQWhZbmp6VGJZWlpGdks5Qlhtc0J0cjlZNWRFR1pZZWlmdWh0SnJoMmR3SG03cVUya2UyRU5tbEtPcTRYakFqeWNFTVVNbFQ2TDh3ZGt5ZkI1OWxBZnYyNXZhV3ZheDNBVWdsRF94MDloOWl1R1paalQtc3M2Vy16QnFfMGRDeHJraUNERVJ5NVJxRXhBdHc?oc=5",
+          "published": "Mon, 26 Jan 2026 06:17:00 GMT"
+        },
+        {
+          "title": "70 Kilometer Glatteis-Stau auf wichtiger Autobahn – Eisregen in Deutschland - T-Online",
+          "publisher": "T-Online",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ2llWUdZWVBvQ2dxaXBvU0FGYjJLVkNUTExDTmJsU3RFUmtSdXhzOTlYbFF0X1BDbkZBN1BORk5aM3g4ZEFDdVlsWlh1M1kyLWs1Zk1oSGZkM1F0TUMwWFBaeEdocUF1Q1Fic1ZaY1VlQ3k5T2pWaU85T3paS29wWGp6Rk5McFZFOEtMZ0JIc0dWZENrOUFNeEpORHAzVld2cWYycEFDVHd2azBOMHpLcVdJc1E2Ql9sMmhITGUxSFloY3lxWW9zX1BQXzhKTmc?oc=5",
+          "published": "Mon, 26 Jan 2026 07:05:03 GMT"
+        },
+        {
+          "title": "Hessen versinkt im Schneechaos – Mehrere Mega-Staus über 15 Kilometer - Frankfurter Rundschau",
+          "publisher": "Frankfurter Rundschau",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkI2MmZuWnlfWGluLVp1dkZPMHRxSmRXdExBOXhQeDF5Y1lmX1ZQaTQySjZnYXI4YXpFZ0xMUmJINjlSakxTanNFclozd25zdmg0ei1LQXJYUHpENk5nbzBTRHE2Qk16OEtnYW5VZVQ3YkwyUFd4QWdWR3R4bGZkV1YwdnpWYzE4YmxFWmpXbmxOMzJyaEMwZnFzYXdZOUxlRmRmSF9sZVhQcGhyeXNN?oc=5",
+          "published": "Mon, 26 Jan 2026 07:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "label": "World News",
+      "items": [
+        {
+          "title": "Nach dem Tod von Alex Pretti Trump kündigt Überprüfung an – Obama und Clinton rufen zu Protesten auf - tagesspiegel.de",
+          "publisher": "tagesspiegel.de",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY1dfVVNEV1BTaU10cnRNNEpVYTBkSDBNaGc3M2FiTVBCenQ3QkdnYzE0QllwZG91R0JsZVJ0OV9DdzFQQnUxRlRtZFR1RXVoczVhbUhCSkk5M1p3d1NVTVhpTVFCY3NveENBM3hTeDJ5LVpZQkVZeG9hMEVVYUhCOG9IU2d0b3VzY3lqSzYtdFNReDJ5NmZKYmxmUk5FVF9vODBCa0xwX3BDdFlVYXB2eXA2UXlmbWJSUFR5a0phak5NV2tqLUFsZHg5dGE0bnJEbU0tYmI5LVhpZ3hXMDlIcVdUeDNNMmFlekFhdWliUjl2QQ?oc=5",
+          "published": "Mon, 26 Jan 2026 05:25:14 GMT"
+        },
+        {
+          "title": "Pistorius bei „Miosga“ Trump? „Unanständig und respektlos“, schimpft der Verteidigungsminister - tagesspiegel.de",
+          "publisher": "tagesspiegel.de",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLUFCb2lHTzJqSjBORFE1ZTZiWW56UEQ1WG5BblVUZUV5Vlp3Rl9FLU0yMUdxTWFjS09JR2x0UzROdzBRQ3JLa3owaF9uM3RHTnh1N180ZkxIN0pCZFgzUjA4aG5ROHdVdzVuazZDd1FyNzUzMXpRV2dvSklQZVpaMHVaWEJZdjFpT3lFOGVFbHo2VmVFel93Z3VPdFpRblB5enQwMFZKbExQTzBJODZ4eVRTa1BSOEE2NWpnYnJIWFlfeERfdjVVQUpjSHRqVXNYWUZicA?oc=5",
+          "published": "Mon, 26 Jan 2026 04:23:38 GMT"
+        },
+        {
+          "title": "Gaza-Streifen: Israel will Grenzübergang Rafah wieder für Personenverkehr öffnen – unter einer Bedingung - WELT",
+          "publisher": "WELT",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbkhDQVByR19GOE5BWmc0TkRDWmdoWXhQeFdCSXR3TW8xdUFneTJiMzlFcXNHN2hFeUZNSHVWMDFkVlUtSGIyOWdRR1M0R0pFZjZ0OE9WZWRTLURuOFhFSEhEYUdaSm9GRWtiSkFwV2s5eWcyX2RYaGE0ZDlROG5odU9jNFdzaUZnZzJQdUFIVmhTTDB0eEZHbXA1dG4zN0pUb2tYTUFsWjBLOW5sVmF0Wm5seUo4dEkwVTRBR1otU3hRRjNhVUIwSkVrSlVHeFl2RXhWZXNyRm9HTHlPQTdVa0l1MXJ1Q2E3WllEREtRWHpuckVjdWg2RVhiTUFIaW9CUWg4a3VjcmI?oc=5",
+          "published": "Mon, 26 Jan 2026 00:28:02 GMT"
+        },
+        {
+          "title": "Selenskyj: Dokument über Sicherheitsgarantien der USA fertig - WEB.DE",
+          "publisher": "WEB.DE",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSlBQSW1tYVRleE12QlhOQlQ3ZUlyTDNYdEVqNUNqaGJrUmdoaWxyWW83MDZPdWU4Nk9BV3RTM1ZBaU4tOGZPNXlZVEFmNkNzWkRlLThtTVg4MEpRR0VOenczaE52SmdEU2RDMVZ3RzhhR0kyN2lwOGlmY2oyaDZwQjM1LU9jb1FJUlZJNWJ0dDAwVGNoZ3E4LVNCelZPaG1nQVlsLUZRSnBPTTdlRXVmN3pLZkI?oc=5",
+          "published": "Sun, 25 Jan 2026 20:40:13 GMT"
+        },
+        {
+          "title": "Tote im Bundesstaat Louisiana: US-Wintersturm führt zu massiven Stromausfällen an der Ostküste - Ntv",
+          "publisher": "Ntv",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUW5NWUVjRjRjLWZ5cFRDQ3ROczkzamNBZ3VmbWJOaFNvZVhtZUhOUjRvVXh3M2RYZHpHTlNkcjV5czFYc01HZDBSM0lDeDlpUXFEMFN4a29HOE9hOUhsZEhyM29tXzBQdkkxTzdaQXpnRFN1SlRXQkFlMlpYbUhfLXJtTWxNaGhJWDhMaldWTTdEVFJJUW9tcWpGMlh0aVhPZVUyblNvUzRmcUlyaVRWQQ?oc=5",
+          "published": "Sun, 25 Jan 2026 20:08:55 GMT"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "label": "Business & Economy",
+      "items": [
+        {
+          "title": "Goldpreis steigt erstmals über 5000 Dollar: Die Rekordjagd geht weiter - BILD",
+          "publisher": "BILD",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWkxWc0dIVDBlWkE2ZmNGS09uUVV6NXVpbWlnOTQ3WDNjdlFHTlZvRE9Nd1I3V3JIaEptTzhweU85Wmx2SF9ZWmFscEdrZ1piQ2hiOWd1TThHTEZ2QU5PZUZfZnhkeC02NlhFV2pNdVJxSU41bXowUWlSaFNrRE1HclhHem52VXliRDBJaDlJaHprT3h6N1RVUlNHX0FBa25yQ2g5bmJleC1PbGVmMGM3VjNEb2FXQkFqbXJKX2IxRzRjNFM0N0E?oc=5",
+          "published": "Mon, 26 Jan 2026 07:13:46 GMT"
+        },
+        {
+          "title": "E-Auto unter 6000 Euro: So extrem günstig kommen Sie mit der neuen Förderung an diese drei Stromer - merkur.de",
+          "publisher": "merkur.de",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmZiUE9WVUlwWktOYk5QUW16QTVsTkZrQ0c4SWxaTnd6dC03d0dVU3IzRWExQVdRT2RZOFozejRPRmM0d0g4TE5oU1ZJQ1E4RTRoY2VHNEEyTjJSdHBBNHNELXZlR083ZVFTckxnNkhWN01ZbGJfM2ZRMzFZZzViWWhJTlRZcHFrYlk2NU43MVVKb1N6a1FOWFAwN19sWGR4ZHprc3o1RThDQ29JXzR0ODRZYWxDN1RWTF94d0ZVYzRyWFNuZ2c?oc=5",
+          "published": "Mon, 26 Jan 2026 08:03:07 GMT"
+        },
+        {
+          "title": "„Bin überzeugt, dass er Trump gekauft hat“ - ksta.de",
+          "publisher": "ksta.de",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMDUwWlNxU0tjWlhmckxqQW1vVjRyZUdZV3VKWUJtSkNqdUlJUUZoYkw3QzRlSHZvT2JvdTJPeWtlNk5yWFNpY25JV0xXNTdVZjJUTTllYzBPb2dyVmMxQlpPSXJFakFvWFAyYnhBSUFCWlAxUHp5dml4RmQ4Q0YzWGpGdzd2bDNCZWlRTFdNdmNYTDZ4UnFuM2l4N3hkdjZha2FOMl9jaVE2cE5SdFVZUi1aaXRWYTdQWXBSNkdoQ2MycU1HVkxV?oc=5",
+          "published": "Sun, 25 Jan 2026 07:48:12 GMT"
+        },
+        {
+          "title": "Marktbericht: Anleger bleiben skeptisch - tagesschau.de",
+          "publisher": "tagesschau.de",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnJueUFFN0pwMmdyekg5b0V2V0h0aWtyQnpYblV0WTJmN2hOMi1SX1RmaGlfdDdFTlFJMHFCU0NQbzN4eXVZQmZielllWThiSk40cTZaMkhkRzAwcTJpOWdJdjRkUS1YbEIxNlBicnlNc3ZHcGpqT3dqcVd2TWVrSFc1WDFXVWNlQmNraHAwa21uRXIzdThmY1d0U1B0QmlrTXVwRGVpZw?oc=5",
+          "published": "Mon, 26 Jan 2026 06:33:00 GMT"
+        },
+        {
+          "title": "VW: Audi-Werk in USA wegen Zöllen nicht finanzierbar - heise online",
+          "publisher": "heise online",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZDM3aFBnNkR2VE95b3dtbFdTNC1ZeExSRUItTC1tWlNQYUo3SlBJTnFqQ2J5amRjczZSUmdQa21HVTNmaGdVRTcyT01XVkRtSGRIMTJaOTE1azRyclJGYnF4eWtOY0x0RnByNHU5OTUyRWUzMjktYVl3SEdla2NhS0luNjRaMEQ5bmZlTzNDQjQ2S21NMTlv?oc=5",
+          "published": "Sun, 25 Jan 2026 15:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "label": "Sport",
+      "items": [
+        {
+          "title": "Handball-Torhüter Andreas Wolff holt zu Rundumschlag gegen eigene Mannschaft aus - Frankfurter Rundschau",
+          "publisher": "Frankfurter Rundschau",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLVZUNFBZUkE1OXVYTURKX0hMN0FxdTR4NHRSVTVCMEZ5SFZmNk5KYml5TlBfUHByM3NtQmozeW9uRHF4TVEwcHhDdmNTSVRYTS1jQ0FlLXFRU3YwMjd3Q3hhOHFCc2RaRkpzcmViSXZJNWZmVjAyU0VlM0RtMFRackxpZ0V2UmhMY3VUWm1venQ0dVdmbS1SY0NfR2x5dEw4b280WXVJUzRFMVQyRndYSkNVZ2hmOWc?oc=5",
+          "published": "Mon, 26 Jan 2026 03:47:00 GMT"
+        },
+        {
+          "title": "NFL: Der Super Bowl steht fest – Seattle siegt in Mega-Krimi - BILD",
+          "publisher": "BILD",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXQwUTJtSXRiLUJseVgxQjBFZEhYakNzcnBCTmRNdkZmZ21nOUJpeFdXSEg2Q1B3YlZKUmJ1LUFsZGgzOUlJNGg2WEhTcjZIZW5WQlRkYmV1OTAxR3M2SHBJY1VuNEYxb3h0TWk5cXY4R0F5WFF2QjZGSUFXODh2OUotRmhJMVlOV0hoanE5SzlzVjJUSjVyWmwxMzhnUXlWVElUc2Q0TGtBclYzZWtjNGpGQWc3X3VkOGZR?oc=5",
+          "published": "Mon, 26 Jan 2026 07:47:54 GMT"
+        },
+        {
+          "title": "Joshua Kimmich holt nach Bayern-Pleite gegen Augsburg zur Kritik aus – Kompany widerspricht - merkur.de",
+          "publisher": "merkur.de",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNek4wdHpua09rQW1zdjQ4NVFZbmp4ekFTSm9wSk5SeHJkdUJqel8zTFYteThmaGpPLXpwOHVnTk9NWWIwZFVVOHpvdEZod2pFeXZOd1A4RzZfa1F4OG85MEdIU0tiTDFkOVVqWGdUWk9qSWFnTHEzMV9SU1Z3Z1FnbERqa2pBdm5OcFV2TEF2UUg3TEVfb3dlUzdPSUxzNzNjY3J6cVRpSHBaWkZBWVQwSDRjSXlBcjJlNVJ4bTYxa2h5YnhVS002Mmpn?oc=5",
+          "published": "Mon, 26 Jan 2026 03:47:00 GMT"
+        },
+        {
+          "title": "Bundesliga, 19. Spieltag – Sonntag: Freiburg schlägt Köln, Stuttgart gewinnt in Mönchengladbach - DIE ZEIT",
+          "publisher": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFRSNWFZWGxzcVV5TnVwbnNrM2J1Nl9IMTBLVkw4T0gwdDIwcXhwRmU1Njg3Vlk5Skxkbm9ySzk2RTVSUHJ6Vy0xQUpHMkxvdmxPODFMOXhvcHYyeGNjSERzWUZMTktuWktZdHpCdVBMbGlmMVVFUVR0Q3N6ZGkxeE04cXZSd3RYOXlJWEtUaw?oc=5",
+          "published": "Sun, 25 Jan 2026 19:02:08 GMT"
+        },
+        {
+          "title": "Einzelkritik zum VfB Stuttgart: Jeff Chabot ragt aus starkem Kollektiv heraus – unsere Noten gegen Gladbach - stuttgarter-zeitung.de",
+          "publisher": "stuttgarter-zeitung.de",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQNGtUV3VMVWM2VmVaNDJYOTBHVS12QVA3UUlkSGJON2VKQzZpUlFSU3dxM1BhODkwWW9ELVluY2N3Z0s4bHhQSGhnLTBwMWNsX0V4aS1Eb2ZtVWZtRE9IM0lvMVU0OTNlUDVia25EQUI3Z1J3SHBzVnJFWTNZUjhtVlRXODdwdmEyaERLTjNYaDhDcVlrRU94RV93MEE1SEw1TjNZOGxMYzNOUnRyRXFIaWh4RlZ1SDUyNGlWSVhYd3BoVlBqZ1JtUEFuTFBMSC0zc0JNMkhzNEgyaThTNXV0enJJOG1JXzkyRWZVSm83Y2pacVFjN0g0aVlsemVBYVRDc3EtUjhMWjhaS1NBaTVxUTNTX2hOVGM?oc=5",
+          "published": "Sun, 25 Jan 2026 16:34:24 GMT"
+        }
+      ]
+    },
+    {
+      "id": "science_tech",
+      "label": "Science & Technology",
+      "items": [
+        {
+          "title": "„Verwaltung muss durch KI ersetzt werden“ - BILD",
+          "publisher": "BILD",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUWo4bmhoWk0zekltV0YzdF9HMGFyc2JIM1ZaY1h4NWlDYS1FUmt0YnY3a3pOMTNvUGlYblFJSHgtY181VUZpZVpmZl9VQ0NfZGpCNFFIbkloY1dWWTRJM0NYZTQzM3pkdWhQQUJJbDJlM0ZoTm0taVJiVC1fV2JVbXV5bFFpQ1VPaVJXLXBPNWxiSjV1YTh1SnlKcjliQ0FabTV4TDA2Z3RBYWUyMndYaG03Y3VpWkhXV1lOMnVoZVB3ckx1bE5oVmU5RWdTTjVIdkNId1JUVDltQ0FnLVhB?oc=5",
+          "published": "Mon, 26 Jan 2026 07:50:15 GMT"
+        },
+        {
+          "title": "Kurswechsel: Europa soll US-Tech von kritischer Infrastruktur ausschließen - Der Standard",
+          "publisher": "Der Standard",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdFpZYkloeXgtZzU3T21YaFBnenBwdHZmR1NaNUVIY05PZ2UyVVl2NC0taDIxZnYwYUhqSjZ1VUl5SkJYZEg0Nm45MG1aTTFhcGhPN0hBZmZOLUZtT2FYZmlMQ0JTM2Y1aVVYYnVNdE9zUXcwM1c0U0F6aXUyU2xNWkFjZWVIWGZsNVpnREJnUDdGTDJMZVpYWUFNcmprSUp2RUZoWVBWeEthdmFQeUpHbkY2akVzczZ6eXlDS2xR?oc=5",
+          "published": "Sat, 24 Jan 2026 13:45:00 GMT"
+        },
+        {
+          "title": "Massives Datenleck: Fast 150 Millionen Passwörter stehen frei zugänglich im Internet - Spiegel",
+          "publisher": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUHhCN2JKQTdVNVV1SldNRGpEQWNZVTB5RTZwcTJ5a1JiQzFNdnZuUl9ra094aVhPZHVPWTliMEgzVGsxRUJOSm10Yzk2Uk1zN1RUMGNuOG5PQkY3emdLQVM5eFBvMEJOT1IxOVVyQllfSC1hX3VwMFBkd0ZoMUdoNENfaVRuS2lnUE0zTXFWQ1lqbEtoX0F2TXhPSENqUFlxQUpDdVhCQUFqc3pvcnZ1Z2VFMlVoNEZGQldKMUF1SVF4Ylk2akFFa29aMDRzaThFVXFUWnZhOXdWYnNGVm5vTGRYem51UQ?oc=5",
+          "published": "Sat, 24 Jan 2026 14:39:00 GMT"
+        },
+        {
+          "title": "NATO will an Ostflanke auf Roboter-Systeme setzen - tagesschau.de",
+          "publisher": "tagesschau.de",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ya0VxYmxMTk0tZEhreU1JeU0zRDJsakNIM20ybnFPS3F0NXB5TENRdWRWY0E0dUZvUmN1LVZ6YmFKa3JBVUlvQjNXTUhjME8yb3BwVURhdlZ6a1pnalF3WlNXd21ILTJoMFJiS2gwQlYzdw?oc=5",
+          "published": "Sat, 24 Jan 2026 19:42:00 GMT"
+        },
+        {
+          "title": "Datenschutzdebatte: Microsoft gibt Bitlocker-Schlüssel an FBI weiter - Golem.de",
+          "publisher": "Golem.de",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1J2N0tCNURpMURZNUlobERDNF8wSlBad180aHpxbVJrQU15RVdzbmp0Sy1qTGhCT0d4dVRhWjFNSDFadVpLRU45TTZuTGV0c0hsRW11Si16SDFDeTl4SHNkOTRPTThOeFhsZUNweTNzdHdpS1ZFNWk5THFVZTM0dHJYV214X1prMEx5OWZVQmhPSEQ1OVl5emo2S1B1LXlmX3VEcW1kb3ItRmEwNFFiMQ?oc=5",
+          "published": "Sat, 24 Jan 2026 13:40:02 GMT"
+        }
+      ]
+    },
+    {
+      "id": "football",
+      "label": "Football (Global)",
+      "items": [
+        {
+          "title": "Beating Arsenal puts Man United into Premier League title race - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWVJhOVMwY2ExM0tvNmd5M0J0Vmd0RmpwQWh6V3BzY09qQlNCdmlVd0p4cW93dGxVbkdHTW12ejRiVk42YmdQUi1hc3JLRy05c2FkZ3BkR3R5VE1RUGlGUE5Zd0F1b1AxZm94MC1VeFNPNzhuSGN5X0NzY25HWG9XX0trS0I4cDhHWFNidTBvQ1l0aHhSeUQ3UWxScHFXR19zM3lETkRHNGVmdjFKQXFUNWpn?oc=5",
+          "published": "Sun, 25 Jan 2026 18:57:00 GMT"
+        },
+        {
+          "title": "U.S. welcomes soccer fans for FIFA World Cup 2026™ - ShareAmerica (.gov)",
+          "publisher": "ShareAmerica (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZN3Z4WklWcHJoTFR3QnoxWWdlM0tEMDdEX01HbWJPTDZxVUtfSFluaDQzTVktbFNEV3BpSmlMb19pQVhQZW5LamxKbVJVNmprRE1Ua0Y2cWZpb3UzcGo1TjFTakhuTlJZd2s5Wk5adzJIRUZlMUlrSU0yT0lzRkk?oc=5",
+          "published": "Fri, 23 Jan 2026 22:33:34 GMT"
+        },
+        {
+          "title": "Michele Kang’s largesse for women’s football leaves Fifa open to bias claims | Tom Garry - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEJHQUZBWFdHY3ZNejlJdDF1TzIzNmtvUVY1bDFJUU1WZlRpSVRCQnVDMjc1WlU4WmYtYXgwNGJmZGtVajZsTVA4ZkEzeC1qX2d2RGtleDVZdVh6MXFheG1iRDg2MVhVdmxqaWxzVk5uOTEzVkxiUmxUT0VjTFBYSXJZMnpsT0dDOHd3X2N5TTgzbEtyYWtuNGJQSnc0MnVCc2RCYkoxcDhiemRncV8zM3paeVgyRXRfUVVSS1NRYWc?oc=5",
+          "published": "Mon, 26 Jan 2026 08:02:00 GMT"
+        },
+        {
+          "title": "Norwegian Football Association confirms Greensboro as base for FIFA World Cup 2026 - myfox8.com",
+          "publisher": "myfox8.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRHZnV0NsMkQ2U1l4akg3Rk5SeGVvSWhobDZxckQ2Z2tvSnpYN2xJZzhDbDAyWjNPNXIyblZZOTJaRGppTnNmMlV2QWlSa1RuWUFvR0dNaXRLVnA1SVpIOVdtSGhTXzdHRWZFLVgyVG85QTVQS2FzbHJ2TmJ0WVVMM0RsRVhDNDRnSWcwUnFqeWZPMWtvaVlLd1BRMWE3ZWxYNEhiMXFSbFBTZ0p6bHM4azFaMGJaMTNTdkZLV1JCZzZYQkhHOHRrTF9ZeV9sd9IB0wFBVV95cUxON2R6UHFCWUp5MmFkYnVMLVYxMFotZEFrbEtHaDNIb3hQQW50Rkk2VU5uTzNwbzNDSWR6TEFPZDZaUTFaOGJPeExFQTRWYTVNeU9RWDItN00zTWs5a2VxY0Zqd0ZvNXJKTTdqRTl0NDVlOUVLTjhiMEdrV1ZZTXZzTlRhQUxtaDdXaWhXY0dpNnp1N0lVRVROVl9rNVd3VE0yU3pSVGJpMzdjVlZXY0dMdjFvOGxBZ3FRNjRPNm56ODFIYjF4S2laN3dUdkYzN1dpSVgw?oc=5",
+          "published": "Sat, 24 Jan 2026 21:47:52 GMT"
+        },
+        {
+          "title": "Arsenal vs Manchester United 2-3: Premier League – as it happened - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakd4LUdpMkhZdkg0QzFMUGJweFQyb01WaEc0U2FLbnV4XzNQTTVDUjlMenNfbU1TZ0ZaUG5KSGYtR0pWMUQxX0cwQXdNSE93Rjg5c3VhY2NSMFkzWHpfZGIxS1M2bEdlbnJXRWplTUwyR0VWSjdMR0N0d1JEYWZDOW5ZckszNzNTMHJ6SzNlcnVTMk5CRFB5M0o3d2RQWjUxbjFIN9IBqgFBVV95cUxQTUtFX21hck0wekhRZkVJVElGZEJtTDRfLXNLSEp2aHRlRUlDNFRRM013YUtMTVBDdkpQdFF4MzY2ZDhHQ080RWVYcmJOUzhLWGVqX2kwaHVGV1JhZlc0bVhXNW9jWHlfQXpxSlh4X0NEejd1Z3BkRWNBSmdMcm9hZ296VFdMcWdfa1NCYmZuemZMOHJvV3k3T2dRaWpRMWRfNW5tUzJXaklOZw?oc=5",
+          "published": "Sun, 25 Jan 2026 21:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "entertainment",
+      "label": "Entertainment (Global)",
+      "items": [
+        {
+          "title": "Weekend Box Office: MERCY Shows None, Takes Down AVATAR as #1 - Boxoffice Pro",
+          "publisher": "Boxoffice Pro",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcGl3Q0htbkNUQjY5bjBTQmVIRXFxLXZoRUd1TkJYR0Y1WlM1ZkdGT2VkUlB2RDBEa3NlN2lyY1VJcjV6UHJmR1dtSmxZM3JQcU1CZi05WEtZSnJRb1FJSWk2bXQ3c3ZYd3dSNFpLOXFhbW1EaVVPQlUtbjhYczhwRG5ueWVidFpNUmRLQ0tHajN2dw?oc=5",
+          "published": "Sun, 25 Jan 2026 18:30:27 GMT"
+        },
+        {
+          "title": "The Housemaid Worldwide Box Office: Where It Ranks Among Sydney Sweeney’s Last 5 Theatrical Releases - IMDb",
+          "publisher": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XV2ZWQno3UFZ0Z2lLR0lHSFB0ck5jcEhmTDlYU2JfUVBKd2JSREd5X3hWTUctZkhEZlcxb0hxcTBMbHNGakc4YmE3S0NEd2U3c3J2UTFKSGdQUzd2U094Q1ZqOGtzbVU?oc=5",
+          "published": "Fri, 23 Jan 2026 05:37:22 GMT"
+        },
+        {
+          "title": "'Blind Side' Actor Quinton Aaron Hospitalized After Falling At Home - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnhYSVRUN0hIOTlkcmxxeEVTakxyTmRBWTBrMGloSmprVHRpcjcwZldkRjI5WmpaTDU0U21fVDAzQjRDZ05PUG0zbDFKV3lhRkFHcFAzSWpuSjRWT05BZHlPampKQUZiaVZxS1VIZ29VaV9ObUJHUFY2WHM3VUJVU0dQT2dBOEluZWNjcEkzUHhFWjN0Q1ZhTG8xTDZxZw?oc=5",
+          "published": "Mon, 26 Jan 2026 01:06:41 GMT"
+        },
+        {
+          "title": "‘For the authoritarian, culture is the enemy’: Salman Rushdie talks recovery and resilience at Sundance - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0dxeDZhUTNsT3VTTnJza0NhODJNb2ZFaVpuYURoMVJGWHg1alU3LVZ1U2tDSnZyUHB2eVNiMFhuYXU2aTBnX1loVzA1VGsxUVV3RV9oa1pzLXJjaEZod3UwdXc2b2gxRDdlTnhQc0t1X3Q5clZKZGpPRTZuSU1rY2hEeVNoaWZDeXEwSFlfX00xRnd1VnZLd3FnRVBzQzlFSHVMMGlsdEVaTlljWlpnMmQyVmZwQkgt?oc=5",
+          "published": "Mon, 26 Jan 2026 03:54:00 GMT"
+        },
+        {
+          "title": "2026 Oscar Best Picture Nominees Ranked By Box Office - SlashFilm",
+          "publisher": "SlashFilm",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcTRFbXo2XzVRU1ZZd3A1R2ZFdTRERjltOS1nQjg3V2lKbEx6SnhFcmtvcksxRUFnT3dzNU5hNTFUOWlMV091OUxqYmZMMndyQzlOZzlLT0JmNGtUWURKVnYtRlNIU3MwVGVXbmYtNmxyN3NoTUQwVGVQaXBRcGRTTjRTUWIxZjI0bkN5SEh5Yw?oc=5",
+          "published": "Sun, 25 Jan 2026 18:00:00 GMT"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "market": "HU",
+  "generatedAt": "2026-01-26T09:32:58.041397Z",
+  "validForDate": "2026-01-26",
+  "source": "Google News RSS",
+  "topics": [
+    {
+      "id": "local_national",
+      "label": "Local & National News",
+      "items": [
+        {
+          "title": "Itthon: Nemzeti petíciót indítanak Orbánék – három dologra lehet nemet mondani - | hvg.hu",
+          "publisher": "| hvg.hu",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NTk1rbXUtLUZjcGtpdTZRTXVxSDl4S3ZYeGc0MHg1bEtEbE8tWXB0dFlKSi1hS2FHMVgxX09FdnRmemxVQ3pSWWJBZWNHTXNaWGwzWDZkWngwTUtwRnlyZXBDeUM2eDlyUkl6WW8wSHNoWXRjbWNkNGJR?oc=5",
+          "published": "Sun, 25 Jan 2026 17:15:58 GMT"
+        },
+        {
+          "title": "Belföld - Megszólalt Lázár János kijelentéséről a romaügyi államtitkár - Index.hu",
+          "publisher": "Index.hu",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHNGaThjaTBtaF9lOHdhTHIyLUozcG95NnMyanhCTEU4UkdzbXV6eWFCRl94WU11SldwTXB5NDJ3UkduNFNHa3BqMjAtWGZFUzVlT2REZXVHa01CX1BIZ3lzQTZHbGd6c3MtOGNpeDBxck1UWnBwMk1VY3ZyekNvVmpYaUFZNk5vbkRUZmF0UlBFUXRJVngwME95cllxeHVSOUM4MnQ0TEtUb0hsVzJmbzRoLUQ?oc=5",
+          "published": "Mon, 26 Jan 2026 06:38:00 GMT"
+        },
+        {
+          "title": "Ez a fotó tökéletesen foglalja össze Lázár János ámokfutását a MÁV-nál – szerinte roncstelepre emlékeztető IC-ről posztolt Vitézy - 444",
+          "publisher": "444",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaS13NTUxQ05uQm5jaFMtYy0tdnpPZVE0UnpKRFFTcjFEUzZRWEx2bTA5MEZTOWxzd3B6Q0pMUk1jUmtBaFZOUkEtdDlUVDU3Mm9sZ2loMGl6Wm5LeUNpSkhXUl9aUzlJN1pIQmlmLVJhOWIxOXN3eVRYN0xhSXRwaDVDZHVFRFFQZjVFXy0zRmtBX0EwTFM4U2tjVHNZZ3VJMEFvQnlnR0c0czBMN2RiRjc2RGx3dU1OcnJtLXZnRHdldFNGNEZuSlJtM3JaTWl6c2tYRkZpXzJac19wUVZVODFMNjQ5Yl9f?oc=5",
+          "published": "Mon, 26 Jan 2026 07:30:01 GMT"
+        },
+        {
+          "title": "Belföld - Elmaradt a Balaton-átcsúszás, de mire kell figyelni, ha mégis jégre szállunk? - Index.hu",
+          "publisher": "Index.hu",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVZ4LXFQY2ZUbkV0UkpGZV8wMVM4a1NlQ3k3UlBGZVkyRF92TUhUempUVFFfTnV2RU1UQjV2aWR3M0xWOEVpeUw3Rkk2a1JzM0VOOHFSd0d5U0lsUmlPQUFXU0ZlcGJZTzJpTENxTXp0UnN0VUQ0dG43cHFuSG9UUXBuR2dxRnVtQVZJOE9kbndWV1Nsd1Z2TTNjdnRjYThxMUowZS1DQUJqcEc3R0REaUJn?oc=5",
+          "published": "Sun, 25 Jan 2026 11:30:00 GMT"
+        },
+        {
+          "title": "Itthon: Az ukrán külügyminiszter szerint Orbán Viktor már jobban hasonlít Szálasira, mint Horthyra - | hvg.hu",
+          "publisher": "| hvg.hu",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUkZwSUF0UUJib0o5VXdzOFY2T2QtU0NhaEsxNGx6RW44SUVJRUh5ZVdOXy01OFVKUHdGRFV2NWhHNDZIRVFtSUg1eXpWc1hfdVdhQ28zbGh0NW80dEZaaFlQNFRBTzVFY2NGdENveWpaVGppWktwUlVFMW9rTmZ4MGlJZE82RXNTRHl5VjcxM2duMS0zX3B2cFZ0OA?oc=5",
+          "published": "Sun, 25 Jan 2026 13:41:22 GMT"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "label": "World News",
+      "items": [
+        {
+          "title": "Átlépte az 5000 dollárt az arany unciánkénti ára - Telex",
+          "publisher": "Telex",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORDIxdFJCOFVCWV9DVTExZV9JYUlUTlFkZDNmOFllaU5Fa2RRNWFEMl9XQTFDWDk2LURGUk84V1BsTzRnS1ZUc3FJUnZ2bnIxZ0xyeEZPVG1tY1hZbTFtU0lRaFp3VElqNWExWk1VQ3hYRkJ3R1hjZFk3OE9XbGtnYkNlVEd2aXltaVZwVg?oc=5",
+          "published": "Mon, 26 Jan 2026 07:05:53 GMT"
+        },
+        {
+          "title": "Dermesztő hideg bénította meg az Egyesült Államokat, történelmi jelentőségű hóvihar csapott le - Index.hu",
+          "publisher": "Index.hu",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHkyNlBCVlFlaFJmZ19RY3RQcmJ1YnR2ZWhSaVNtWWN1RUhkbXBuMWozR0NITnRGQkRPa0NjdXpUdDhDTFBHZVRKRUxhdG5mcWh3VTBCelRkUU1rUTdOdG9RMWEtMEhsSks1dTl1ZlFERHpBNkVmRHJIYm1YaF9rZzRxUDNSWGwyM3VSdEY4eG56YUw1dmVjMmdyczRwOFYwMURpY3FkMklXUQ?oc=5",
+          "published": "Sun, 25 Jan 2026 20:24:00 GMT"
+        },
+        {
+          "title": "Kiakadtak a demokraták, jöhet az újabb kormányzati leállás Amerikában - Portfolio.hu",
+          "publisher": "Portfolio.hu",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNURHSUF3WWNKWHV3Mzd6b1YzRDFQRXlUZTFzc0FuWHZnNjBQcUpRNDdKY0ZJbk1mSFhvcml3OTNtWmxRRWJTUHAyeERFc05id25QTW42d0tqX3lHeUl4NGtCYUhfcjREY1lDcUxZZ2QtTUM3S0ROOEUzWFh4RGVXOXJ1N251TXR0OUFTeExlVFVVb0dMaEIwMktrbnluQzZLV3Jfa2pMRFNMWHpneTBxS3lwUjFNa2JiOGfSAb8BQVVfeXFMTlNEc1pNZnRNbndBMEU4eFMwdkVWbEVmQktPLTZFSml4RzNLSER1ZFBINmxXQ1pZU1pKUjZZYkpBRTdWa2JaNzl4UldsXzFabmk0TVVOYjQ1MHNPTGotb3U0X1hJdS1EcG1fMFRXQVJoYWFKSlVjWTZCYjh6cTZuM0FCUWJiMXZ3TGtIWlRDN1lxU0cyQjdPZ2JsWlJGNVVTakctZGVwZm9haUZ0UU1RWmhwZEtrSi1uR0twNDRtZU0?oc=5",
+          "published": "Sun, 25 Jan 2026 12:01:00 GMT"
+        },
+        {
+          "title": "Világ: Zelenszkij: Kész az amerikai biztonsági garanciákról szóló tervezet - | hvg.hu",
+          "publisher": "| hvg.hu",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMTlTUTVUVXZTZEJRMFlzRUdmdU9tRUJQeU5GcmppejhNM05RS1BBMTdpM3FfNXlOQktYX292NV9LRDhFNHM3ZWJYaWtlZElMdl9XT0lMZ240dzNabzA5NkNETm4tVUU1YzRDaTB4aExWWXRtM25TWmd3V0dBaVdoRVdwbzVHRWNsZjVKVDF2MUtGcWhfd2w3bmJkWVpUb3lWaFFn?oc=5",
+          "published": "Sun, 25 Jan 2026 18:34:38 GMT"
+        },
+        {
+          "title": "A magyar katonákat nem hívták Grönlandra, pedig komoly gyakorlatot tartanak - Infostart",
+          "publisher": "Infostart",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXc3cEFKSnUtSk5LUUJQTWdnNjVNaXRWWFNLbm5YTmZoUHdjNEVOM0JZWjhONjI3WWEtUjJNTGhkTUhYRFA5end5YWJvRThLbVJzS0hmVUlOVmJvY2VPdDFLSUlSUDN0ZWNFUTNDaFFCcVhUczg2NTlKQXNDcmpSYl9ZUkZUTTh4MDVESDJFLWM2YU10MVRUZndRalhLckFKdWVkMm9BMWNmcDNTLUhsZFZfQjDSAboBQVVfeXFMTk5uaTcwSGNlMW1KQWMxY1pWY3RmT1BHOGhKc1JOTUJqV3FOY0pxREhDa1kyVHRfVHFkcmkwbER3eUtJaVJOVU13emRqQzFzbDJ5NEpETURGTlRoNGdwOW90R1BjbVJzcUd0eXQzWUxGTXRkYjkwTHE1VjFrVWpKRld4OExSYTNvWWRKcTVPUWNpaEo4aURrbllwQTVibzd2dWRzOFl1Q0JCa2ZNWjBacERtWkNSaFJaMVNn?oc=5",
+          "published": "Sun, 25 Jan 2026 19:59:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "label": "Business & Economy",
+      "items": [
+        {
+          "title": "G7: A pályakezdőket féltették leginkább a mesterséges intelligenciától Davosban - Telex",
+          "publisher": "Telex",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3pUTk05Rk5EbVdwYUw3NW1TMW1UMVNCdDd0elNHSmpoRUotaXhhdGlUbG51RmZwNVYxdmNzNm9sMUxMTnE4R2pQdnIxSHZtS1RNXzJxM1JTek9wTUo1aTRvYWx4Tkp0ZnV3RGYyR0JMMEpscHMwVUhvajkwdVBfYUx0U20zQnhSZkpCc0pwUkdxSFZHX1E?oc=5",
+          "published": "Sun, 25 Jan 2026 17:00:12 GMT"
+        },
+        {
+          "title": "G7: Túl jól hangzik a finn startup világmegváltó akkumulátora ahhoz, hogy igaz legyen - Telex",
+          "publisher": "Telex",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmZvVENlWEtfRW85UkdrRl9mZkJRbjd4X0JPZUptRVFVdWFzMHVJVnVxUkdXbEVIWHFzM0dtZVVoeEtrYTJhcHZadmNtODhGN2FJRENSa1F1WUhuUTd6RHdVLTNORnBleDRRZTJaV1llVFNVd0k0c0JkNGNSQXdpU3REVjZuWGEtand1Z2ZMUWFJTEsyMnlzekdNNA?oc=5",
+          "published": "Mon, 26 Jan 2026 03:50:58 GMT"
+        },
+        {
+          "title": "Tech-Tudomány - Az elektromos átállás nem a jövő, az úttörő megérkezett a magyar utakra - Index.hu",
+          "publisher": "Index.hu",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR21aMTRjazRNNjFqTTZTY1VDRDZZWF8zUy1fRTNKZTJrNEN2ZVR6N1RyRVE5WFRGTXdTT0xHcklsY2FZQ1QwMlo1bnU3c1VQUDBHMHhnMmdYQzZTMWQwR1lnalJERlduZ25LbE1tVk1tZy0wTi1OWnIwT2pEb1A0d2hISmtibk1vR3p1ZmpKZ3BzSXBjNjhMOW8ydV94dktNa3ZXM3EwdUdTTFhVcm9EeU5wVEVIT2FUVlJRRllBSEhKdlFoaUdj?oc=5",
+          "published": "Sun, 25 Jan 2026 19:29:00 GMT"
+        },
+        {
+          "title": "Átnevezi az ID modelleket a Volkswagen - Totalcar",
+          "publisher": "Totalcar",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS1JnUFg1R2xnWE5pY3VzU3hIVGhiSlBCbHRsQTV4M213bzlUODBTTUlsak92TlMzM1hzbzFsT0hpQ3lYUzNNanBIZDA3S2tZaVl6TV9oejE1dWV2WTQtUHhPenU4dnM4MnRRQ082V0hQTU5rUlJ2RkVlS1RuV25GUVVn?oc=5",
+          "published": "Sun, 25 Jan 2026 14:38:06 GMT"
+        },
+        {
+          "title": "Ebből is lehet még „utolsó igazi BMW” - Totalcar",
+          "publisher": "Totalcar",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSThDQWozYXh6RzNEMHBjenA5MFdEVFhTUGxNeFJfUlhEV1J4dF9Vd2tkYVB3OERYT0pVS24xbk96cVlqS1pfOWZ3MDA2M2pIdWNfS0tiZU9UYlF1SXdCWTJQTFFWRGViYVdPNGwtZ1VJZER5MXdDVEpNS293Y2JJYzJJQXAtajZDaTNYTWZURFE3RXNoeVN1Vms5UG0xU3cyU2U3X1hTYkZHQ19GR2c?oc=5",
+          "published": "Mon, 26 Jan 2026 04:58:57 GMT"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "label": "Sport",
+      "items": [
+        {
+          "title": "Nem sikerült a bravúr Belgrádban a szerbek ellen: Európa-bajnoki ezüstérmes a férfi vízilabda-válogatott - M4 Sport",
+          "publisher": "M4 Sport",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdVdXSldhbnhnSGUyc0NHZHd5bXNSdUZ6TkYzbmxPb0NrQXV3TlA2a3pwSUx3NHJrYi1oWXdWd0gyMm5DOHY1aWd6cndOcnZZaDhsTUxoRTczTnYtOV9OaGlYdm45UXJfU1FFcmZVaG9CZ3U3VHktc29jeGVUS3NLaVpKckFYd21zdlpaRGtWTmg0X2RSWGJBQW84dW9XZXpZRjJQdFpOQVlBakdDVEZIOGFkbW1QWDFCM0FQQjZtTFpDWmY3T01lMFhNT0o2amI5aUdBQ3RlQnI5NVJ5NHYyNXBB?oc=5",
+          "published": "Sun, 25 Jan 2026 22:07:30 GMT"
+        },
+        {
+          "title": "Fájó vereség a kézilabda-Eb-n, drámai helyzetben a magyar válogatott - ORIGO",
+          "publisher": "ORIGO",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0FsYjNDaDNoNEstVEhKMy1SS1VXdmgwWmNaOUFlRWhzVTktOGpBSUdPdkYxZHRHcXZ0dHBncUM2dUl2R2U3c1prelpPU3dJLUgwMXpzTjlWTmctVTRvR2dvbGRqcU5qZmt2S1ZaVDR3dGxQVFdTYUkzbHBVSFVRSDRyVWxLQVZLeGozWDlDbWw3SFA2eFp3ZnVR?oc=5",
+          "published": "Sun, 25 Jan 2026 16:09:42 GMT"
+        },
+        {
+          "title": "Három gólt szerzett, és 2005 után újra nyert a Ferencváros otthonában az ETO - Nemzeti Sport",
+          "publisher": "Nemzeti Sport",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3dhWFNRMnNOZlZBU0VFSmxULVBJQXhNdUEwSTA1ZS1Ud2RLTS1FTXlYY1pHbEJtRHFPQ2Z4UW1qcFVfNTRqNnVYNXFZTm10RVFud3J1VFpSZHRrbWpLa1JYaldnVTg2eDl5alF6Tko5VFNJVHR4UTNvNlJhNHAwdmJELUowanZCS1lTVnNNZHdid3Q4NkhVWkxiNlJTcnZ0TDM4T1M1S0VIRGE1ZXdQdWhiRzlqOTFZRWZNZGUzeVMyZGN3?oc=5",
+          "published": "Sun, 25 Jan 2026 19:07:00 GMT"
+        },
+        {
+          "title": "„Undorító gazemberek!\" – a Szeged edzőjét kritizáló svédeket sokkolták a történtek - Magyar Nemzet",
+          "publisher": "Magyar Nemzet",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUW5MV3VkcUxwRlZkVFQ3YjhNY1Z3Mks2dG1jVG9JRnoySktrN1Y1YldXRC1DWDdhaGRPN1dfNXA5b1RJZ013RHE0MVVINTZxQTMwUnVfWnpXYUNoYWpHR1U0NW8xaUFXeVNNNzVleXdSU3VzVl8tYWEzODZMN3Z3MUpPenNNbVU0Q1ZsajJvR3dSVWtvTzdV?oc=5",
+          "published": "Mon, 26 Jan 2026 05:51:58 GMT"
+        },
+        {
+          "title": "Kétgólos előnyről sem tudott pontot szerezni Debrecenben a szurkolói által bojkottál DVTK - Index.hu",
+          "publisher": "Index.hu",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTzNZOUNta194SHBycG1tRDJ2S2NyMmlkcFpsVkw4cmljTHFjVjAxZzRRRmdKZlAzZjdXby15a2ZmRl9EeGo5UGF2eFN5Z1E3VUVCc2t3UDBrNTdJS0pRaEJQTXN4b3NKR2tocmJqSWJOSTlnT0hDbmt6WGZnbjdJZ3p6ZHJuanRSYVpjUlBDWWY?oc=5",
+          "published": "Sun, 25 Jan 2026 14:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "science_tech",
+      "label": "Science & Technology",
+      "items": [
+        {
+          "title": "Tech - Félnek az emberek az új iOS-től, totális a pánik az Apple-nél - Index.hu",
+          "publisher": "Index.hu",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR2t0dkFtbEpBd2pYWHR3Rk1kcTBwbjZwbUN1eV9nekRJeUdCT2hyXzlET0ZGOFRVdXBEalVHaXh0VExHZktGRGhlcE8yc014M3AwMUg5bEpMTkJsTEdzNEVlOTdJMS1rSVR2T3hvT1d2YklEVW5nenNnbjZhYm90b0hCVUE3MTg5SllPb0RWQW5GZW9oM2xn?oc=5",
+          "published": "Sun, 25 Jan 2026 07:10:00 GMT"
+        },
+        {
+          "title": "Ennyi volt: Megszünteti Autopilot technológiáját autóiban a Tesla - PC Fórum",
+          "publisher": "PC Fórum",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tUi1uSWFEM3UxNVhIWmxOUkxBMS1iZVZOdmJfcVhuWXdiQUdKR1BmUUI0RlBfVGlDeUhOb3ZHOTk5and1RUtGVmJPZWtJTFg0cDY2OE92WnF2WkhKMkZiZUpDaTVmQnJ2M1RmQ1JIX1hCalk3Ukh4RTVabjNNUHc?oc=5",
+          "published": "Sat, 24 Jan 2026 06:30:00 GMT"
+        },
+        {
+          "title": "Ezzel a primitív hazugsággal tapostak bele Koncz Zsuzsa magánéletébe - már több, mint 300 ezren dőltek be nekik! - Sassy.hu",
+          "publisher": "Sassy.hu",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHhTX0lzc29Cb3hpWmJBRHdsYTdfLXQ4RXkyTTJiZE1wXzlGYS1WYkVIR3h6YW5pc3kyTXNBdWp0QlUxalk1SXROOFpkWDZoOWJYWnVBMXdMdllldzRoTUJFcTFRaHU4V1FkcUlZN3FoallZU1ZIMVJYZ1Ixb3pDZlNrYnRQQnFQOURkdzFLNnAwYmZkRmV5X1o5S0RKeHhFeDVhU09sSHZ6TGlKeE53?oc=5",
+          "published": "Sun, 25 Jan 2026 08:12:58 GMT"
+        },
+        {
+          "title": "Még egy hónap sem telt el az évből, de már 100 milliárd dollárral gazdagodtak a világ leggazdagabbjai - | hvg.hu",
+          "publisher": "| hvg.hu",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOG1yM2gxSkZWbmdJdjJaV1pjNmJ5UThtcDJCa1JEZHIyVXVEaVpnMXp1ZEt2MWNlMm5DZjRRQUN0Vzg0cFVmbmhlN081M3EtUXp1eHpxd04yOW9tR2lINDlkN0VVbkY4WGtHeDZpZUc3ZlN5Q0d6Vm5PaWZwTVFnbG16OEFVZENfSml4QXlfOGtETzQ3eXpTLU1aOXlIVXpxTlU3NGltMERGaVRjOVVYRUkwczBYalhHR3lGX01PeFpGWlVUb3JiYUoyeTV1WXhhUkcwMU1KeTFwdldLTzJhX0hvb0JSUklJaGNv?oc=5",
+          "published": "Fri, 23 Jan 2026 19:48:00 GMT"
+        },
+        {
+          "title": "Hogyan ismerhetjük fel az MI-generált tartalmakat? - 24.hu",
+          "publisher": "24.hu",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd212U1YwLWFkRTZ6Y051S3FnWkVsczQ0M2h0UEZKazdkaTAzS0sxUk9zVHR4Vlp4Q3VDb0hleXAwYkxmNmFUTll0LXZ1S3NIOXdlcXVsWWFiLXJTdFBUX0h6aGd3UkNKWHlqRWFPS2VINjR2RUIwMGQ4bFUwLVZkQlByTDNsVjYtRDdMRGpGNmtwazd4U2hV?oc=5",
+          "published": "Sun, 25 Jan 2026 14:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "football",
+      "label": "Football (Global)",
+      "items": [
+        {
+          "title": "Beating Arsenal puts Man United into Premier League title race - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWVJhOVMwY2ExM0tvNmd5M0J0Vmd0RmpwQWh6V3BzY09qQlNCdmlVd0p4cW93dGxVbkdHTW12ejRiVk42YmdQUi1hc3JLRy05c2FkZ3BkR3R5VE1RUGlGUE5Zd0F1b1AxZm94MC1VeFNPNzhuSGN5X0NzY25HWG9XX0trS0I4cDhHWFNidTBvQ1l0aHhSeUQ3UWxScHFXR19zM3lETkRHNGVmdjFKQXFUNWpn?oc=5",
+          "published": "Sun, 25 Jan 2026 18:57:00 GMT"
+        },
+        {
+          "title": "U.S. welcomes soccer fans for FIFA World Cup 2026™ - ShareAmerica (.gov)",
+          "publisher": "ShareAmerica (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZN3Z4WklWcHJoTFR3QnoxWWdlM0tEMDdEX01HbWJPTDZxVUtfSFluaDQzTVktbFNEV3BpSmlMb19pQVhQZW5LamxKbVJVNmprRE1Ua0Y2cWZpb3UzcGo1TjFTakhuTlJZd2s5Wk5adzJIRUZlMUlrSU0yT0lzRkk?oc=5",
+          "published": "Fri, 23 Jan 2026 22:33:34 GMT"
+        },
+        {
+          "title": "Michele Kang’s largesse for women’s football leaves Fifa open to bias claims | Tom Garry - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEJHQUZBWFdHY3ZNejlJdDF1TzIzNmtvUVY1bDFJUU1WZlRpSVRCQnVDMjc1WlU4WmYtYXgwNGJmZGtVajZsTVA4ZkEzeC1qX2d2RGtleDVZdVh6MXFheG1iRDg2MVhVdmxqaWxzVk5uOTEzVkxiUmxUT0VjTFBYSXJZMnpsT0dDOHd3X2N5TTgzbEtyYWtuNGJQSnc0MnVCc2RCYkoxcDhiemRncV8zM3paeVgyRXRfUVVSS1NRYWc?oc=5",
+          "published": "Mon, 26 Jan 2026 08:02:00 GMT"
+        },
+        {
+          "title": "Norwegian Football Association confirms Greensboro as base for FIFA World Cup 2026 - myfox8.com",
+          "publisher": "myfox8.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRHZnV0NsMkQ2U1l4akg3Rk5SeGVvSWhobDZxckQ2Z2tvSnpYN2xJZzhDbDAyWjNPNXIyblZZOTJaRGppTnNmMlV2QWlSa1RuWUFvR0dNaXRLVnA1SVpIOVdtSGhTXzdHRWZFLVgyVG85QTVQS2FzbHJ2TmJ0WVVMM0RsRVhDNDRnSWcwUnFqeWZPMWtvaVlLd1BRMWE3ZWxYNEhiMXFSbFBTZ0p6bHM4azFaMGJaMTNTdkZLV1JCZzZYQkhHOHRrTF9ZeV9sd9IB0wFBVV95cUxON2R6UHFCWUp5MmFkYnVMLVYxMFotZEFrbEtHaDNIb3hQQW50Rkk2VU5uTzNwbzNDSWR6TEFPZDZaUTFaOGJPeExFQTRWYTVNeU9RWDItN00zTWs5a2VxY0Zqd0ZvNXJKTTdqRTl0NDVlOUVLTjhiMEdrV1ZZTXZzTlRhQUxtaDdXaWhXY0dpNnp1N0lVRVROVl9rNVd3VE0yU3pSVGJpMzdjVlZXY0dMdjFvOGxBZ3FRNjRPNm56ODFIYjF4S2laN3dUdkYzN1dpSVgw?oc=5",
+          "published": "Sat, 24 Jan 2026 21:47:52 GMT"
+        },
+        {
+          "title": "Arsenal vs Manchester United 2-3: Premier League – as it happened - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakd4LUdpMkhZdkg0QzFMUGJweFQyb01WaEc0U2FLbnV4XzNQTTVDUjlMenNfbU1TZ0ZaUG5KSGYtR0pWMUQxX0cwQXdNSE93Rjg5c3VhY2NSMFkzWHpfZGIxS1M2bEdlbnJXRWplTUwyR0VWSjdMR0N0d1JEYWZDOW5ZckszNzNTMHJ6SzNlcnVTMk5CRFB5M0o3d2RQWjUxbjFIN9IBqgFBVV95cUxQTUtFX21hck0wekhRZkVJVElGZEJtTDRfLXNLSEp2aHRlRUlDNFRRM013YUtMTVBDdkpQdFF4MzY2ZDhHQ080RWVYcmJOUzhLWGVqX2kwaHVGV1JhZlc0bVhXNW9jWHlfQXpxSlh4X0NEejd1Z3BkRWNBSmdMcm9hZ296VFdMcWdfa1NCYmZuemZMOHJvV3k3T2dRaWpRMWRfNW5tUzJXaklOZw?oc=5",
+          "published": "Sun, 25 Jan 2026 21:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "entertainment",
+      "label": "Entertainment (Global)",
+      "items": [
+        {
+          "title": "Weekend Box Office: MERCY Shows None, Takes Down AVATAR as #1 - Boxoffice Pro",
+          "publisher": "Boxoffice Pro",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcGl3Q0htbkNUQjY5bjBTQmVIRXFxLXZoRUd1TkJYR0Y1WlM1ZkdGT2VkUlB2RDBEa3NlN2lyY1VJcjV6UHJmR1dtSmxZM3JQcU1CZi05WEtZSnJRb1FJSWk2bXQ3c3ZYd3dSNFpLOXFhbW1EaVVPQlUtbjhYczhwRG5ueWVidFpNUmRLQ0tHajN2dw?oc=5",
+          "published": "Sun, 25 Jan 2026 18:30:27 GMT"
+        },
+        {
+          "title": "The Housemaid Worldwide Box Office: Where It Ranks Among Sydney Sweeney’s Last 5 Theatrical Releases - IMDb",
+          "publisher": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XV2ZWQno3UFZ0Z2lLR0lHSFB0ck5jcEhmTDlYU2JfUVBKd2JSREd5X3hWTUctZkhEZlcxb0hxcTBMbHNGakc4YmE3S0NEd2U3c3J2UTFKSGdQUzd2U094Q1ZqOGtzbVU?oc=5",
+          "published": "Fri, 23 Jan 2026 05:37:22 GMT"
+        },
+        {
+          "title": "'Blind Side' Actor Quinton Aaron Hospitalized After Falling At Home - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnhYSVRUN0hIOTlkcmxxeEVTakxyTmRBWTBrMGloSmprVHRpcjcwZldkRjI5WmpaTDU0U21fVDAzQjRDZ05PUG0zbDFKV3lhRkFHcFAzSWpuSjRWT05BZHlPampKQUZiaVZxS1VIZ29VaV9ObUJHUFY2WHM3VUJVU0dQT2dBOEluZWNjcEkzUHhFWjN0Q1ZhTG8xTDZxZw?oc=5",
+          "published": "Mon, 26 Jan 2026 01:06:41 GMT"
+        },
+        {
+          "title": "‘For the authoritarian, culture is the enemy’: Salman Rushdie talks recovery and resilience at Sundance - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0dxeDZhUTNsT3VTTnJza0NhODJNb2ZFaVpuYURoMVJGWHg1alU3LVZ1U2tDSnZyUHB2eVNiMFhuYXU2aTBnX1loVzA1VGsxUVV3RV9oa1pzLXJjaEZod3UwdXc2b2gxRDdlTnhQc0t1X3Q5clZKZGpPRTZuSU1rY2hEeVNoaWZDeXEwSFlfX00xRnd1VnZLd3FnRVBzQzlFSHVMMGlsdEVaTlljWlpnMmQyVmZwQkgt?oc=5",
+          "published": "Mon, 26 Jan 2026 03:54:00 GMT"
+        },
+        {
+          "title": "2026 Oscar Best Picture Nominees Ranked By Box Office - SlashFilm",
+          "publisher": "SlashFilm",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcTRFbXo2XzVRU1ZZd3A1R2ZFdTRERjltOS1nQjg3V2lKbEx6SnhFcmtvcksxRUFnT3dzNU5hNTFUOWlMV091OUxqYmZMMndyQzlOZzlLT0JmNGtUWURKVnYtRlNIU3MwVGVXbmYtNmxyN3NoTUQwVGVQaXBRcGRTTjRTUWIxZjI0bkN5SEh5Yw?oc=5",
+          "published": "Sun, 25 Jan 2026 18:00:00 GMT"
+        }
+      ]
+    }
+  ]
+}

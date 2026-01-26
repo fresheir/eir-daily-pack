@@ -1,9 +1,8 @@
 {
   "market": "NZ",
-  "edition": "en-NZ",
-  "generatedAt": "2026-01-26T07:27:32.395764Z",
+  "generatedAt": "2026-01-26T09:32:12.878772Z",
   "validForDate": "2026-01-26",
-  "source": "Google News RSS (NZ)",
+  "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
@@ -16,10 +15,16 @@
           "published": "Mon, 26 Jan 2026 00:50:43 GMT"
         },
         {
-          "title": "83-year-old woman dies after fall from stretcher at Whangārei Hospital - nzherald.co.nz",
+          "title": "Police seize 11 cars, make arrest after muscle car weekend in North Canterbury - nzherald.co.nz",
           "publisher": "nzherald.co.nz",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdVV4UUxCa3ZqZXpmMTllNDU0bHpBNWpxZ2JkcWxJWlZwNUpYdjVJQm8wM1FNNjhRMWRSbVdDM1lkWFRVeXRHUHBJbDM0UGlGQkFLQnR3aFplcS1ZRFZZN2psbWI0ZnNhQjFzdWpEc3ZnWnhTSkZBMDdaQVJjSXNjWkZmNk5uZXZzQWpOOV9OV3lhTkE3aHJCbVYtaVpSRnI4UGE3MkhLY1BGNWFuU2tZNDlKN19ES2g0aVZKaF9CRlBVMHlZRklR?oc=5",
-          "published": "Mon, 26 Jan 2026 01:45:05 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbXh0Vk5RVWxINktMY1NjLUw0VkRfNVlJaEg2NXZ5OFhjWkNUcE5ZTjZjTnljS2w2WGZVNUd6dU81Q085bWFYdERkU2FkVXRqQTBNb2FrbVRBOWJlYmtHVmhYU3ZCaDU0SmZRQzVSSGZCRFpNUm91eC1xUzNEak9uQk16SEp1Tk4tNHF3Q2lsYm1faEtxZG11R1Ftank1V0dzS0EyUG1xRkdZajVlUWJaSmlGemxuMW9JU20tWk5nOUpFeEhQX3hxcTRn?oc=5",
+          "published": "Mon, 26 Jan 2026 06:56:13 GMT"
+        },
+        {
+          "title": "Retail crime adviser quits over 'untenable' relationship with chair - nzherald.co.nz",
+          "publisher": "nzherald.co.nz",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlpDajNKcjZKcVJwZVVtY2t3Zi1tWnhDVzVmeWNQaWRLUjBVSldSdERMalgtZmwxNmpCNktGeVRJYXJKajlIZ2hENzA3MzBiT2VZMGd3TWZMVDBHSVVkcGYxZkt1MDl5UWVSU1dKbE1rcUpuUVl0RUF0WG04N1I0SEI3R1FRNkttOXVGZ3gxRUh3QVFyZXB5dDNtY0JHNGhnd0R0cEFPLVpER25DMUs0TjBtWkI3UHBEZ3J2MkxnSXRMM2FINlBz?oc=5",
+          "published": "Mon, 26 Jan 2026 07:20:15 GMT"
         },
         {
           "title": "Te Araroa residents band together to get through the storm - RNZ",
@@ -28,16 +33,10 @@
           "published": "Mon, 26 Jan 2026 05:21:04 GMT"
         },
         {
-          "title": "Clean-up on SH1: 500 litres of human waste spills onto Canterbury road - 1News",
-          "publisher": "1News",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamVDMThaWjBXWE9uZkQ1WkZiZzVLVmZWSmtTZzE2QklTSzgtOHhEZXpoYTViQm5FTzBybGF0QnVzemdjb0tWTjFoZDdpMW1mbXJodnI5aFk2QmJnYmEzdUs2RnZ2MU85eVZ5YlZSZE9kSGlpRnhhMHVBZVNVWHp1NFlNOWw4YVBaNEQwdTdDVGwzSUxCZk8tZUpwc2RBR1J0OVB4Skh0ajU?oc=5",
-          "published": "Mon, 26 Jan 2026 04:29:24 GMT"
-        },
-        {
-          "title": "Farmers frustrated by Canterbury's recent bad weather - RNZ",
-          "publisher": "RNZ",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVQyTl9TUW11ZnZMQWFIYlBoaEJuQVZFNzNJcGlPWEZwZ2RYYWFaM3hrdUxzbEhmV2dhQ3lWQWN0eHRDRHZSR215Qzh3dHZqZ3FKSXFMVFlMWnBKM0F2SGh2cVJEVzF1LWRrNXhuR1RkQXlrdW1na3RLaGZSaVIwUnFPbENIb0xTWkIwM0VDbTJOMFhjTGVpOXNvaw?oc=5",
-          "published": "Mon, 26 Jan 2026 04:26:03 GMT"
+          "title": "Woman died after fall from stretcher at hospital - odt.co.nz",
+          "publisher": "odt.co.nz",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcC1pV252N3BuaGluOVp5aXFaTUluSldPOGg3bmxfNzVkQnA1Qk1aTlRLZmQ0SWxjd0lSY3JBQ0s0UUJJMzBtQ2FVUHZXeGFhOFlMT3Fkd3NZUTRzcTRnTktmb0hvTHNGV0FvcVpiazFwTUFyX216Yi1sX3N2RzlRblJzZTBTMlk?oc=5",
+          "published": "Mon, 26 Jan 2026 00:39:51 GMT"
         }
       ]
     },
@@ -46,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Death toll in Philippine boat accident climbs to 15, hundreds rescued - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbzdwSURVaHNIbVE4SXdvVndTT2RqNXFldWQ5SDJiRWg4Q0JOOTBkSkhXT3pSZVZIMXR1Sjl6alVVY21fbVkwTEtZNG92RW1GNWRKZk1EV25NX0ZoMDI2SjdMcUZNZDdKS3YtbEpJWHBPMGV0Q1pUNFZmVmFWMW8yUW1oOEoxTUpkcXJiclJVdG9GNmlTSzduTE1kVFdZaVFVbVBwY1FrRW5ETnprQ2w4QlZQY3pKMHJLem9ITkpYa1RaNUtidjFQeUlvUWE?oc=5",
-          "published": "Mon, 26 Jan 2026 03:50:00 GMT"
+          "title": "Trump administration defends killing American in Minneapolis, contradicts videos - RNZ",
+          "publisher": "RNZ",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOalVOMUQwMG1teG91MUtMaHAzSlZSWWtiZ3lSZWFrRVBac2oxdTFJZFdTQ3R5dlVjMndUUDE0RVJBMjduOUtWX1ZNMEI5VlRYalNvM255UWszSUZrUGM4YnFGNTRWcjlxWGxPRlZVZ1ZvZkozMmhHSThGd3ZDU2xHcEpTMTBrRWhlQkE5Z2RfRm5fZUtEbDFUZEY0VGZ4S1hRaGhSSWJLYmN2ZWEyWWJoQ1ctd1JrblZzOEt3?oc=5",
+          "published": "Mon, 26 Jan 2026 01:46:02 GMT"
         },
         {
-          "title": "Israel launches ‘large-scale operation’ to locate last hostage in Gaza - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUFpHUHNSQjY3N0NKSThTQWIzOExTRnVXS0FhWGk1MmhGMHFDazlRYlJDTUFST05MMmNSZmY4dnRqTjJiMkF0RmNZbFRKS2d0ekhTM3NLWF90TEdVR3RXaXJHZFJvNVZ3TVZTZ0RzWXlWajB6ME85WmFHM2JpcXA0MGpuWjg4VGNlbjZ0LWNGQW9YZEpTR3JzVXlKMnJqM2hlb2xaX183cw?oc=5",
-          "published": "Sun, 25 Jan 2026 22:36:00 GMT"
+          "title": "Heatwave warnings across Australia as millions celebrate national day - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrT0NaWGpfUEJ4VlRnWF9ZdG1JUkZXWFpib2p0RlFhNjZzUE9QTjhHeXhaUXFuTXoxbHRDa0pjOGxGZGFYNnVOXzM1VHFtMjBWUEtkby1Kc2xyUdIBX0FVX3lxTFBlc0NYd0hXWHg2VmlZelJvQml2ZUNaRi1XamR0bmtNcWVHTTVaa2VvSm1ienhEUldUaXRJXzZtOG9ZRGVmeG9WbG5fZFhUT3g3U2FCemZHX0M2TjhuYnVv?oc=5",
+          "published": "Mon, 26 Jan 2026 04:01:00 GMT"
         },
         {
-          "title": "Iran Is Selling More Oil but Making Less Money - The Wall Street Journal",
-          "publisher": "The Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUVJFQ01XYnUtbC1kRDJZM21LaHhoWTBZRkRpSldsdGhjWC0wOGJDbm1XM1BXcWNKLXFqbEozLU9HYTNTendkNk55YXk2MWFGbTZtZXRxSVVoT2c5UXVDRzRlMWMydk51Mzk4cUV0OExadUV2WHJPRWtSTEFNVzRfXzR2TzRibVNpTG1hVkhad1hNbVI5S29IVQ?oc=5",
-          "published": "Mon, 26 Jan 2026 04:00:00 GMT"
+          "title": "Thousands of flights cancelled across US as massive winter storm hits - 1News",
+          "publisher": "1News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeXV5cE1Gb3A3cXRfdEdNRVpGblpFcjhEd2JoMk9tMGI2TWtHd0VuWkJ6N0ZJQ2lPS1VpYmJpMTN2ZmxwX3F1SDQxNmVBdzhIRXExeF9qMG5ueU5mV2prY3Y1QkwxdmVvSUVHeEluczJCbGVsNWx0Y2Fabk95YjFWSFU5akVLZldMODAxOFJuS094MHJyWDJYcUE1OHFReE01LVo0U0l5NlI?oc=5",
+          "published": "Mon, 26 Jan 2026 07:01:35 GMT"
         },
         {
-          "title": "Xi’s Purge of Top General Spurs Questions on Taiwan, Succession - Bloomberg",
-          "publisher": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbGlyZUwwR3oyVERVWFRodlVEZm1LWFFFWmVOXzBRYUFMQXRaOEstVE9tc2hDUEFCMzF0M2U4MnQ2cERSa3pDQ2dqNlcwWnFPdVNLemVad01GWUxRTUowU2dBcXd2NkpsYmtLVDMyZTVGc2RtNlhtZ1dZSDg1ODFhdFdBMEJjalFEREJiWkUwSmNqTlFCWGpzc19NNHRfWkVLb1ducTByNjJ1YkZIaXh2bDRScw?oc=5",
-          "published": "Mon, 26 Jan 2026 06:44:00 GMT"
+          "title": "Former Foreign Minister says NZ must stand up to Trump, defends WHO work - nzherald.co.nz",
+          "publisher": "nzherald.co.nz",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSGd0Z2hZWWRBUzM0aGluYzJNdVZrdXZCdGxObVJEcFVscG9MY1BJaWc0Y1VyQlVEekU1SVk5ajFlMV9CVklycHJoa2lHN2lRYURiYmpZYTBpdWxPMUlUSlcyOU1qN09yNV9JQm8wbFVQWHVybnc0bk1Jck8yRXBHVGt2V05VS2t4YjN6MFpxcjlaY1BsSGlnUi02R0o4TDJNZEFSdkJIYXRjRVlMa0VsY3hyNnVReDRlcXRBVTl1LThKU3pzd1dOaFZ3WmUzWEFVS1JveUlQRFVJSVVOdFFWOXcxWDhsbDVoNjVN?oc=5",
+          "published": "Mon, 26 Jan 2026 03:22:37 GMT"
         },
         {
-          "title": "Russian strike on Ukraine's Kyiv leaves 1,330 buildings still without heat, mayor says - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjlQX040MWRRU29oSDIwbVRXRktIVHNZSnRrUjFPa0xmaW5XSHhnWHRieGtzYTl3ekkyVGtwc180RXhFeXp3YkdyRExpSWhJd1ZMR094eVFoamQ4V0owbGxuLWZLaDFoZ1lVRnhTSTRGaU5lc2g0ajRIZklvY1hUbnpyNjZVb1pkeGtpRTRCa2t4bjFEODFwNGJRUW9JTjV2dEQ4UGF2MG5sY0p4SEtnR2ZaM0RNbHpOSXBFWHhlVm5NOXJHOThn?oc=5",
-          "published": "Mon, 26 Jan 2026 01:27:00 GMT"
+          "title": "Police charge five for Vatia drug importation case - FBC News",
+          "publisher": "FBC News",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTZ3VTJPUFRLTjhBNWNYWXhaaUVjSFpJSkNQMTloc0FZMDg5ZWZVUW55SnZiSlFibmpEWldHLVQ0T0JjS1NDZGpWczllT0QtMk94UnZQUHFHZkZ3OUpLYlU0a1RoMVlBSHFxOG4ySmNYSFRXeEF2cGRsS3cwYUNhLXBzTVJoUzNwM2Q4?oc=5",
+          "published": "Sun, 25 Jan 2026 22:32:20 GMT"
         }
       ]
     },
@@ -82,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Target CEO Joins Minnesota Businesses Urging ‘Deescalation’ After Latest Shooting In Minneapolis - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc1NROVZNSW1lNks4Smp0X1NVUEhTVW9GdEY2bTEyRWFhWTg0dmY3SmhMQk9sb1VUSzF6WmZzYjJ6a0xGLUt5Q1I2eTRYVE9pWUJTQWdTQmNwZUtBMXd3LXA1YzQxMmU2TWtLeFVSUHBWOXpoajRuSUFFQmJTekEwUkFsSWI5ZExBR1M4R3MyVlZuZndEaEp3aVJCanZFN0RoX2NQT1pCMHdSSEczVDc3OW9KTUlHTEpkNlZqaE5NcFZVNkpMT0NYS1ZrbDZLTzdjSXkyam5YdTVIUnVMVnNzTQ?oc=5",
-          "published": "Sun, 25 Jan 2026 21:08:55 GMT"
+          "title": "Wellington café Spruce Goose to shut its doors after 12 years - RNZ",
+          "publisher": "RNZ",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVXVIeWRLZmJSUTdLTVVTdVAxRlVJQjdFX2JjLW5UOUQwcGpvWXJnMXZzR1NIRGZMZEp5OURqT2RDZmRQcE9vb2xGREN1MXpGR0pJVUI4NHRlYnhWTjJUMmJyc182aGJRa1hhU2lCWmV0SlF5bllDbGZFQjA1SEIySmZGdXBQMUFXelZEQzhhN0hET2dnbXU4WGx1NloxQ200UWxqaGpJcw?oc=5",
+          "published": "Sun, 25 Jan 2026 22:22:40 GMT"
         },
         {
-          "title": "Japan Stocks Fall, Government Bonds Rise After Yen’s Rebound - The Wall Street Journal",
-          "publisher": "The Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVjZMSUZiU3lxRk5zdkpqTnZ2ZFpwR2c4RG5GNWNHZnBwSmxtVkhWYzUzUzlscVhfMzg1aldOUkdDbWdKTGJFdkRPU0JkTzcxcExZLVFvYTJ4aU4tQ0dwYkRGeFlFWFVnZ1hxSV9xNG1mbDlBbFlHTTZIX3FwbFlLNk13dDNwQUpzeXkwZ2RvVVF3RFpjcDNYTXVYYTk?oc=5",
-          "published": "Mon, 26 Jan 2026 05:40:00 GMT"
+          "title": "Goldmine decision may be extended - odt.co.nz",
+          "publisher": "odt.co.nz",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWURVMUJTcFpGaHdYY2plUWFsRlBPQmJhRzFIeGU4amtFMXlwYi1LMWVlTVZMTHlXa1BfSUdMTC0xZl91MTNlZEc0ZjlJMm9IOEZhemU3ZFJ6ZlB4RmpBMGdIbG11SzBtUXNrak01dWREMGRfYUFfUk81Z19XTjhRSWFldw?oc=5",
+          "published": "Sun, 25 Jan 2026 15:30:00 GMT"
         },
         {
-          "title": "Gold surpasses $5,000, yen strengthens on intervention fear - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPajQxTnlJMXhxSEJ6MVNTSDV6eHJNSjZQUFFvOUhRdXo0RjdUUWc4dzJDTzN0RUlrdG50bE5BcjdxVFpidjRORktWeGxvSjBkanJGWGhLYS1GWG5hNmV3WXoxb3h3YzBGNkU3RUt2c0VLbW5nMVJESEdhY3ZkWFB3ZVE4RQ?oc=5",
-          "published": "Mon, 26 Jan 2026 04:34:00 GMT"
+          "title": "Bitcoin costs more to mine in New Zealand than it's worth as prices fall - RNZ",
+          "publisher": "RNZ",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOGs4ZGd2aWpKel8zLUVCeUd5YVZzT1pkWVloRzRPRWdOWlZPNGJndU5JTmRYRjNtc3ZMbGJpNGJXbzBYRkdZX0p2dHpQNkEwaWQ0YmJkRnZiZTczdkZLZGRFbDBoa21MYVliMFNPQWpQUjRtNUZaa2FDSmx1UVdiTVJZOEtRbUJfX29pNFhfbE5wR0t0ZE5VS1dmUzNPa29fYnBzQmZ1TFFwX1ZPUUV0MlphT19fZw?oc=5",
+          "published": "Sun, 25 Jan 2026 23:59:06 GMT"
         },
         {
-          "title": "Fed rate decision: Why Jerome Powell’s press conference is the real wildcard for markets - CoinDesk",
-          "publisher": "CoinDesk",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOUZ5NlRQRUlUM1cxREpnZWtXMEpKSkY4bWFpUWxfQ0tXQ0RuMHl5eHJ5amdYb2xCa0J2Q3I2YXl2VUpSTnBWTU1HZ2ZLa2x5S3dNSTRSWkVwMmprUEF1Nm56ci1HN2hScEhPVFMwM2FuQjhiQVlfMjlFaFBrTnQ0cEZWc3hOVWFyQW8zWFc1UGUyaG5CV2lTbi1BWlFrV3dyZDFRbnNFeE4tQXRldEJTU0g0dFJKZEVfVDYyNjRDWENLanRyd2dsSWg2OVFaNFdpdVRV?oc=5",
-          "published": "Sun, 25 Jan 2026 17:25:22 GMT"
+          "title": "Landmark turret house sells to long-time admirer for record amount - OneRoof",
+          "publisher": "OneRoof",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaXNUMFRxR0YtOFNFLWIwdjBSMmtzVHdOYzdjcnNLRF9NLWhOQ3ZSMVQwUW0yb2sydE8yMnlLazJleFJDNTRmajhyeGduamxQQXNSQS0ycXRsRHdwVDdUNllYZHc3VFJELXJhVnM5YkgwNnJSZ240Q1Baai1aWE5CTTJxa3FMVU9Wc0o1UWJMWUo5Ymc?oc=5",
+          "published": "Mon, 26 Jan 2026 04:16:53 GMT"
         },
         {
-          "title": "Power Outages Cascade as Big Winter Storm Hits US East Coast - Bloomberg",
-          "publisher": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZklvTWs5dW45UVNwX2VVaTZSeFFfVkpDYWNrZW9sMDhTa0FZdkZPelFfbjhjbFo5QTBzN0tlbUFsazItV0hBcml0aEFsbXowQ1NkNkR3RFc3OEhLV0IzcWE1M3FqYjZPRWhsX1FBZmdWcXQ3RFMxV3RIVm5seE5PZWYwemM4cDdIX180V1JmRllLNXBHWVg3RVdJRGZtTkpScVB2OWREYzZROXZmWEE0aUVXZ1Q4QQ?oc=5",
-          "published": "Mon, 26 Jan 2026 00:13:21 GMT"
+          "title": "Why 2026 is a 'Goldilocks year' for first-home buyers - 1News",
+          "publisher": "1News",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ2VGOGNjTVdFMnBaNElQeFVUVk45cTR2emk3aWxseE0taHlzM3A4ajJuSzVBQ2p2M092aUVER2FCRjBqUXFTZUstYW9tX2VrMC1FMjk2UGViZE83cjhpNktUVVVpbGVTM0tlcDZtM1VxOEhWZEJCYk5uUE9qZ3VlcUVUWlctU1ZTMW84ZW1NenM?oc=5",
+          "published": "Mon, 26 Jan 2026 04:58:22 GMT"
         }
       ]
     },
@@ -118,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Game Observations: 8 Takeaways From the Patriots AFC Championship Win Over the Broncos to Advance to Super Bowl LX - New England Patriots",
-          "publisher": "New England Patriots",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSUVfNkt5Um4yb0FUNGdmMGRwNEd6VFVUYlVDellQTlNJR0RRNVZPdlRZTndtSTdCRmpaZFNyVWxTSF8yWm5WYzhORWRTVFNhVmNvLXhyZ0tJWWV0RVJOVDRjT1FkZ3ZLdV9LREMtRnJBMDNsVUR5MTR1NkdnRFZjUHZkenUzRmRmNmloM19iUVd5c29HczBZMXpVR0VOUlNBSWR2YXk0RjhlLXE0NU02YzFoSmFlZ1B6M28zTFp3STgxZzk0VW10Z3YzTUt0OEUxNGpEYlBQaFJqd2s?oc=5",
-          "published": "Mon, 26 Jan 2026 03:07:40 GMT"
+          "title": "NZR confirms appointment panel to hire new All Blacks head coach - 1News",
+          "publisher": "1News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSE5pS2o1R3BsM05TY2dZOFJQeEl3Yzdud1FvdndmcDFQeDdIejc2czN4TjRxVHVJSm5HeXo2ckw1TEtpV29mazBfZ2psWTRsYWpnTkREUWFJNF83TjFsS2prQkRmdTdVcXQ0czdCUGNuTjNKWHNMSHBWT05ESUlTVGs1M0dBRTZZSk9Ha3pZRUhBWk1NVzNSd0Jrd0t1bW1kTUE?oc=5",
+          "published": "Mon, 26 Jan 2026 04:36:58 GMT"
         },
         {
-          "title": "Reporter Bob Condotta grades Seahawks’ win in NFC title game | Analysis - seattletimes.com",
-          "publisher": "seattletimes.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOTVDWEFTbElSQ2NXZG5lZXVtdlpvSU1oY285eE9zdGhIaDBZSk9vYkhLdDJnVVhJczVjbVFsZUx4ODZjZjZmYUYxeEd6bVNJRDlkdFBWYzZXaXlUaXBnYlYwaUY1NWd5TTMta3dja3lsalUwa0llS1FidFIxaWU3WkpqeDlReFlCOVNaUTU0Zm42TVhVUmMyeGozc0F3Qi14RElzTDN1ME1rR1ZXMTBIZWl6Sk0?oc=5",
-          "published": "Mon, 26 Jan 2026 05:30:38 GMT"
+          "title": "Cambridge Stud colt stuns with $1.1 million sales-topping price - nzherald.co.nz",
+          "publisher": "nzherald.co.nz",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUXVfcGJUY0hKWnZwR3dwOGZOUXBmN2g2bVM2cnlzZVNwN1RIZUFTYXU3WWltTFBfUEo3a1NLaUlOY0lHS0Jtc25HQUJKYndGTWp6OXNDSHJwTFBVRHJLMmt5d18wWVZLMlRfSTZPYThqMXFOMWJxRWs0RTVKd0dFTmgzR0FzVE4zcGx5aWJpcFc1WE8xOHFUQzByRkh1T0JuUUNoOHpCempwTjlhMnRtemVCSUdtRkN5YVFtdS1fMl9VeFQ4cWhpRw?oc=5",
+          "published": "Mon, 26 Jan 2026 06:14:02 GMT"
         },
         {
-          "title": "Super Bowl 2026 preview, odds: Analysis of Patriots’, Seahawks’ chances to win it all - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXduQnIxb0ZIMFBpRk80N2VMRVNUSlk1SFNHMVlwcGJPLXpZQi01REx4M0lPSkFWWkpHT2VpalpiNVJoc0x3MUFJVUlQamdGall5dUMwSmFhTVFVWlk3REd0S3pLX19fRFBBU2RNSzNXVnV1b2kxY1JHS2pjNHVEemlFZ2k0cjZzMV9OVXlPTjc5eUFqNHozeDdTR0YtNXJWV1pIalEzLUMyUGZZ?oc=5",
-          "published": "Mon, 26 Jan 2026 04:05:04 GMT"
+          "title": "Wellington Phoenix win secures them second spot in A-League - RNZ",
+          "publisher": "RNZ",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1pUbVA2cFBoVTN1TWpqLTI4WU1iT3lnTlhVVW00SG5XOVU1ZXhUUFZBeHM4aUp0UTdOOXdyalEyNmtTVGxIRlVaMk1kSFFJRzkxWF9sc0Z0dDN3cjFCQ2c0NUdNblRvZW4zVFZjclZqNnRwU2tUeGcwdGhHaTZpajNQU0N0aFBQSk1tVUtPeDRzV3FYaVV4RjBiM1pkUkZ1?oc=5",
+          "published": "Sun, 25 Jan 2026 06:34:44 GMT"
         },
         {
-          "title": "‘You have to believe in things, sometimes before you can see them’: Mike Vrabel is headed back to the Super Bowl - The Boston Globe",
-          "publisher": "The Boston Globe",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkI3ZVZGVUgxd0c4ZWtaa1pLRHA2bVZMNy1sOFh6N2xremxFdWFHYWp1U1YtUkRHMGNKT3RSMHNRdHFINThWc0tadS1tOW9zZF9kdVVnVTVDV0lqZnI0enE2UlJqZkhGalFBcTcwUE9YelVyY1NPNWF1alF6Smk0cXVTdXc4a2xIRHltQmtRMk9ieTdadjl2QTA5Zw?oc=5",
-          "published": "Mon, 26 Jan 2026 00:34:01 GMT"
+          "title": "Sam Ruthe becomes fastest 16-year-old miler after Whanganui race - nzherald.co.nz",
+          "publisher": "nzherald.co.nz",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQkh3MXIyRXlURGFKSVdPb25CN2gxU1A5eEtUZFlLTjB5RVhjWEdSQmRHLXZKeFE4NTdjZG1xaFZDZnFzNklIUVFOWWxrdi1jd2VHY3NoU0JMM3Npc1pZN2t0NktLN1oyRUwtOWhORXhJcjRKUG1pTzNVRzQ4clBvck9kWjc0cDBxeExSQUE5TWNScW1nR05mVzl2V1Y1eE0ydmdtcFJrcU5rOU9pWmVDRG5xR0d3UHduVXBGb0lGRjlFS05HSE5j?oc=5",
+          "published": "Sat, 24 Jan 2026 22:44:30 GMT"
         },
         {
-          "title": "Minnesota Timberwolves Hold Moment Of Silence For Alex Pretti Ahead Of Rescheduled Game As Attendees Shout ‘F— ICE’ - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeXdzRHh0RHpqYjkzRlNsd3J1cDVHU21ROW5vaXFlaWp2QmRQemJ3Z1FwWXJyOWk5ZGw5a2JXWkphTl9YUjl2cEM4S2M1MFk1eDhzaUo0Ni1YOVZfUjA0MkVTdmVKdHVUUFlBeUx1SWFnMTFaaE1RTmZJMS1DM0dEZHJ4TlBLV1FaeVBsQ2RyUXU?oc=5",
-          "published": "Mon, 26 Jan 2026 01:38:00 GMT"
+          "title": "WRC news: Paddon conquers fears eight years after deadly WRC crash - Speedcafe.com",
+          "publisher": "Speedcafe.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ3ZGM3BLQW43WEV6MXBwcUhqQW80Sm1KRTBrb2pkTmlHZ1FBLVQ4VlJwU3hkSElCNjd1VXVGSzEzazhMV094TlBIMldMZURrMXNzVTFxWklsLV8xUW0zckFZakNKVlRCQ1lxLUd6TzlnLXJQN2hlelhBZlA5SXpHeUJMSkM3S2oxVms4ZUpLaW13dDF3Tno3bVByaTV6QUprbGdnRA?oc=5",
+          "published": "Sun, 25 Jan 2026 20:33:06 GMT"
         }
       ]
     },
@@ -154,34 +153,106 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Apple Reportedly Aiming to Upgrade the MacBook Pro Twice This Year - MacRumors",
-          "publisher": "MacRumors",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUU42OFZmS0tIRkZtNHFpdjE3T3ZnSGkwRXdUaUhLRG5jVDY5am9hVmljWjNfSFhTRHpjdWhJQko2SE5IUVJsclpZWEl5VU51czIxRFZid3l3T3REdGhvTkJQZHhUZnRubU5SbFRyY3NFcFFvZGVMd0FLYlFUUUVCd2hn?oc=5",
-          "published": "Sun, 25 Jan 2026 19:46:28 GMT"
+          "title": "Digg needs to get a handle on these AI slop accounts - Digg",
+          "publisher": "Digg",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kQTJaSUdvZG9nWjZDVTBrMncydU4ySzhrM05ISV9KdEhMeUNVb2Rfc0VSNU9ZeUw2REdDNDFlcWlaSVk2WGtPcF85MWhqRE80UWZLZU9qa3pCSll3M3psRGNIZzR2SkE?oc=5",
+          "published": "Sun, 25 Jan 2026 18:16:54 GMT"
         },
         {
-          "title": "Here's How Much A 2021 Chevy Corvette Has Depreciated In Just 5 Years - Jalopnik",
-          "publisher": "Jalopnik",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83ZXBNYjNLYVpKTjBjLXV2TkJlT3FBNDh4aVQxZDRnRnFYQ2hEWnVNQVo1VnhoaU9HaWlvbHBIOWNXQ3VBNkl6VW1fX1VNckNKbVVMdjdtYXF4ajdVeGNJVENsazhUV1h0VnNlZkFOeVpOcnhGWThEekJ4TnduQQ?oc=5",
-          "published": "Sun, 25 Jan 2026 21:05:00 GMT"
+          "title": "Southland speedster earns SVNS shot as NZ name Singapore, Perth squads - Rugbypass.com",
+          "publisher": "Rugbypass.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWThCZnVRTy03ZkhlRGxGYWRtdjlqWmFzeFN3X1B4QllFRHBTdVdlTEVJcmZwLWUzRTlfOXE3ODJPZzJwWUh1N3J6ajRKWXZvSno4TzA5RV9telJQZDd1ZVpjaVhsZHhkZG81VE9FX0NpdHBIMzhBSVB3NUNOUlhNbHJGd3o2NEpsVHJrWWNuYXhOdjkyMkNVRkxnWnplbEtsb0lTZkN1VQ?oc=5",
+          "published": "Sun, 25 Jan 2026 01:27:55 GMT"
         },
         {
-          "title": "I Don’t Wanna Gatekeep, So I’m Putting These 27 Cool Things On Your Radar - BuzzFeed",
-          "publisher": "BuzzFeed",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tUG42X3JGeTRMYzd0ZXpsQkw3eDRlelU2a3N5aHRXYzBHbzZZVTlRQ3RMYUl0N2VIdE9xTHg5VWFaZktDaU1IWEpHYkowMUFWRV9rTHFLQmdORUF5a2RrWWxOQ2FVeF9BRmJscV9BdllKVFpOZjZPNkFMcw?oc=5",
-          "published": "Mon, 26 Jan 2026 01:01:04 GMT"
+          "title": "Singer’s ‘Sorcerer’ is a 522kW turbo 911 that refuses to behave - Driven Car Guide",
+          "publisher": "Driven Car Guide",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSk43bHAxM2paVThkdjE5OG9BM2JNTzZ2eWIyZkhuRy13LWgxVXJ3SHNnOXF6TVZiQlg1R2dEWG9qTVB1dGMtN1hIYjYtRWlFUV8zOWZ4WjdQZkhHdWRtYkJCbGV1eDFLTEMtbDUwU1ZrWkhTa3RsRDlvSDZHUklvUTFMLU85a2tsbk1zSXQxTGl3WFNCM1RJU0V0Yk5nRmlLOHc?oc=5",
+          "published": "Mon, 26 Jan 2026 09:08:17 GMT"
         },
         {
-          "title": "5 Free Apps Actually Better Than Premium Alternatives - bgr.com",
-          "publisher": "bgr.com",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sMXAyVndYSEZrR1hoSjRVTGQ3cFFTWGtwZnlyZXZuZXBpbjYyZHRFNVJ0NGJXWGJSbkJQMDVxUk9wRHFwSnRaRlJYbDU5TnVycC1OM0h2LVFwZEdWc2NLTW1YZ21pSy1Fd2pWQWFiTTJxWjJ1?oc=5",
-          "published": "Sun, 25 Jan 2026 22:17:00 GMT"
+          "title": "Aspire 13.1 Brings MCP Integration, CLI Enhancements, and Azure Deployment Updates - infoq.com",
+          "publisher": "infoq.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0VFlsbTVjX0hHNVFsZUw4TGd6SXBhaTFVRnFVRmlnXzFEdHMwb1FJTENjODlCSEJzbmJ1akprZTBhVHlIVk00N1VWWjV1WVMtZ3JkTFNFQlMxUWxKVDZuUEI1QmUwaEdzQzZaQVhMVQ?oc=5",
+          "published": "Mon, 26 Jan 2026 08:49:12 GMT"
         },
         {
-          "title": "Samsung Galaxy S26 series release date tipped in new report — mark your calendars - Tom's Guide",
-          "publisher": "Tom's Guide",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX2pUSkU2cGhvQ0xXYUhzbHBjaV9EYTl6VkFvMkQyUlgyZVNDRHY2dVU2TG9kM3NuQlhwWkp1ODY4UFBUbGw0VmN2QTVXNjRzYXNocFhKTUZHakZsWk9kNE5vOUYySUpKMlQtRnJuNDhuVFRLcENqVGNfaTZEd3UwNFNxdWZqT3VFNklVZGF3aGRBVC1vTXV4VG5EWGlXcFJzQ3RZUzBVbGJoVzFneUVFTnIzaDZKclUzMWdrNW1oQnlaa19fYUE?oc=5",
-          "published": "Sat, 24 Jan 2026 18:41:54 GMT"
+          "title": "Microsoft Entra ID will auto-enable passkey profiles, synced passkeys - Help Net Security",
+          "publisher": "Help Net Security",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTkyVGFnX21QaWFFcXhPcFdpcmtZLWZkU3FHRmliLWRXdjNMbUtBNDZZTW1icTVxRlUtOHJOUDlsblNTMDI1YW1tQ08yNXMtNDEwZHczNGNpZW02RXBWN0dnamIyOU9DcHNhZ21qZ053SnpKN0ZlNWdLcElJVDhSMFB6eHFNeHJRd29B?oc=5",
+          "published": "Mon, 26 Jan 2026 08:52:28 GMT"
+        }
+      ]
+    },
+    {
+      "id": "football",
+      "label": "Football (Global)",
+      "items": [
+        {
+          "title": "Beating Arsenal puts Man United into Premier League title race - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWVJhOVMwY2ExM0tvNmd5M0J0Vmd0RmpwQWh6V3BzY09qQlNCdmlVd0p4cW93dGxVbkdHTW12ejRiVk42YmdQUi1hc3JLRy05c2FkZ3BkR3R5VE1RUGlGUE5Zd0F1b1AxZm94MC1VeFNPNzhuSGN5X0NzY25HWG9XX0trS0I4cDhHWFNidTBvQ1l0aHhSeUQ3UWxScHFXR19zM3lETkRHNGVmdjFKQXFUNWpn?oc=5",
+          "published": "Sun, 25 Jan 2026 18:57:00 GMT"
+        },
+        {
+          "title": "U.S. welcomes soccer fans for FIFA World Cup 2026™ - ShareAmerica (.gov)",
+          "publisher": "ShareAmerica (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZN3Z4WklWcHJoTFR3QnoxWWdlM0tEMDdEX01HbWJPTDZxVUtfSFluaDQzTVktbFNEV3BpSmlMb19pQVhQZW5LamxKbVJVNmprRE1Ua0Y2cWZpb3UzcGo1TjFTakhuTlJZd2s5Wk5adzJIRUZlMUlrSU0yT0lzRkk?oc=5",
+          "published": "Fri, 23 Jan 2026 22:33:34 GMT"
+        },
+        {
+          "title": "Michele Kang’s largesse for women’s football leaves Fifa open to bias claims | Tom Garry - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEJHQUZBWFdHY3ZNejlJdDF1TzIzNmtvUVY1bDFJUU1WZlRpSVRCQnVDMjc1WlU4WmYtYXgwNGJmZGtVajZsTVA4ZkEzeC1qX2d2RGtleDVZdVh6MXFheG1iRDg2MVhVdmxqaWxzVk5uOTEzVkxiUmxUT0VjTFBYSXJZMnpsT0dDOHd3X2N5TTgzbEtyYWtuNGJQSnc0MnVCc2RCYkoxcDhiemRncV8zM3paeVgyRXRfUVVSS1NRYWc?oc=5",
+          "published": "Mon, 26 Jan 2026 08:02:00 GMT"
+        },
+        {
+          "title": "Norwegian Football Association confirms Greensboro as base for FIFA World Cup 2026 - myfox8.com",
+          "publisher": "myfox8.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRHZnV0NsMkQ2U1l4akg3Rk5SeGVvSWhobDZxckQ2Z2tvSnpYN2xJZzhDbDAyWjNPNXIyblZZOTJaRGppTnNmMlV2QWlSa1RuWUFvR0dNaXRLVnA1SVpIOVdtSGhTXzdHRWZFLVgyVG85QTVQS2FzbHJ2TmJ0WVVMM0RsRVhDNDRnSWcwUnFqeWZPMWtvaVlLd1BRMWE3ZWxYNEhiMXFSbFBTZ0p6bHM4azFaMGJaMTNTdkZLV1JCZzZYQkhHOHRrTF9ZeV9sd9IB0wFBVV95cUxON2R6UHFCWUp5MmFkYnVMLVYxMFotZEFrbEtHaDNIb3hQQW50Rkk2VU5uTzNwbzNDSWR6TEFPZDZaUTFaOGJPeExFQTRWYTVNeU9RWDItN00zTWs5a2VxY0Zqd0ZvNXJKTTdqRTl0NDVlOUVLTjhiMEdrV1ZZTXZzTlRhQUxtaDdXaWhXY0dpNnp1N0lVRVROVl9rNVd3VE0yU3pSVGJpMzdjVlZXY0dMdjFvOGxBZ3FRNjRPNm56ODFIYjF4S2laN3dUdkYzN1dpSVgw?oc=5",
+          "published": "Sat, 24 Jan 2026 21:47:52 GMT"
+        },
+        {
+          "title": "Arsenal vs Manchester United 2-3: Premier League – as it happened - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakd4LUdpMkhZdkg0QzFMUGJweFQyb01WaEc0U2FLbnV4XzNQTTVDUjlMenNfbU1TZ0ZaUG5KSGYtR0pWMUQxX0cwQXdNSE93Rjg5c3VhY2NSMFkzWHpfZGIxS1M2bEdlbnJXRWplTUwyR0VWSjdMR0N0d1JEYWZDOW5ZckszNzNTMHJ6SzNlcnVTMk5CRFB5M0o3d2RQWjUxbjFIN9IBqgFBVV95cUxQTUtFX21hck0wekhRZkVJVElGZEJtTDRfLXNLSEp2aHRlRUlDNFRRM013YUtMTVBDdkpQdFF4MzY2ZDhHQ080RWVYcmJOUzhLWGVqX2kwaHVGV1JhZlc0bVhXNW9jWHlfQXpxSlh4X0NEejd1Z3BkRWNBSmdMcm9hZ296VFdMcWdfa1NCYmZuemZMOHJvV3k3T2dRaWpRMWRfNW5tUzJXaklOZw?oc=5",
+          "published": "Sun, 25 Jan 2026 21:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "entertainment",
+      "label": "Entertainment (Global)",
+      "items": [
+        {
+          "title": "Weekend Box Office: MERCY Shows None, Takes Down AVATAR as #1 - Boxoffice Pro",
+          "publisher": "Boxoffice Pro",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcGl3Q0htbkNUQjY5bjBTQmVIRXFxLXZoRUd1TkJYR0Y1WlM1ZkdGT2VkUlB2RDBEa3NlN2lyY1VJcjV6UHJmR1dtSmxZM3JQcU1CZi05WEtZSnJRb1FJSWk2bXQ3c3ZYd3dSNFpLOXFhbW1EaVVPQlUtbjhYczhwRG5ueWVidFpNUmRLQ0tHajN2dw?oc=5",
+          "published": "Sun, 25 Jan 2026 18:30:27 GMT"
+        },
+        {
+          "title": "The Housemaid Worldwide Box Office: Where It Ranks Among Sydney Sweeney’s Last 5 Theatrical Releases - IMDb",
+          "publisher": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XV2ZWQno3UFZ0Z2lLR0lHSFB0ck5jcEhmTDlYU2JfUVBKd2JSREd5X3hWTUctZkhEZlcxb0hxcTBMbHNGakc4YmE3S0NEd2U3c3J2UTFKSGdQUzd2U094Q1ZqOGtzbVU?oc=5",
+          "published": "Fri, 23 Jan 2026 05:37:22 GMT"
+        },
+        {
+          "title": "'Blind Side' Actor Quinton Aaron Hospitalized After Falling At Home - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnhYSVRUN0hIOTlkcmxxeEVTakxyTmRBWTBrMGloSmprVHRpcjcwZldkRjI5WmpaTDU0U21fVDAzQjRDZ05PUG0zbDFKV3lhRkFHcFAzSWpuSjRWT05BZHlPampKQUZiaVZxS1VIZ29VaV9ObUJHUFY2WHM3VUJVU0dQT2dBOEluZWNjcEkzUHhFWjN0Q1ZhTG8xTDZxZw?oc=5",
+          "published": "Mon, 26 Jan 2026 01:06:41 GMT"
+        },
+        {
+          "title": "‘For the authoritarian, culture is the enemy’: Salman Rushdie talks recovery and resilience at Sundance - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0dxeDZhUTNsT3VTTnJza0NhODJNb2ZFaVpuYURoMVJGWHg1alU3LVZ1U2tDSnZyUHB2eVNiMFhuYXU2aTBnX1loVzA1VGsxUVV3RV9oa1pzLXJjaEZod3UwdXc2b2gxRDdlTnhQc0t1X3Q5clZKZGpPRTZuSU1rY2hEeVNoaWZDeXEwSFlfX00xRnd1VnZLd3FnRVBzQzlFSHVMMGlsdEVaTlljWlpnMmQyVmZwQkgt?oc=5",
+          "published": "Mon, 26 Jan 2026 03:54:00 GMT"
+        },
+        {
+          "title": "2026 Oscar Best Picture Nominees Ranked By Box Office - SlashFilm",
+          "publisher": "SlashFilm",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcTRFbXo2XzVRU1ZZd3A1R2ZFdTRERjltOS1nQjg3V2lKbEx6SnhFcmtvcksxRUFnT3dzNU5hNTFUOWlMV091OUxqYmZMMndyQzlOZzlLT0JmNGtUWURKVnYtRlNIU3MwVGVXbmYtNmxyN3NoTUQwVGVQaXBRcGRTTjRTUWIxZjI0bkN5SEh5Yw?oc=5",
+          "published": "Sun, 25 Jan 2026 18:00:00 GMT"
         }
       ]
     }

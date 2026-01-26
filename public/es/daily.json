@@ -1,0 +1,260 @@
+{
+  "market": "ES",
+  "generatedAt": "2026-01-26T09:32:21.103041Z",
+  "validForDate": "2026-01-26",
+  "source": "Google News RSS",
+  "topics": [
+    {
+      "id": "local_national",
+      "label": "Local & National News",
+      "items": [
+        {
+          "title": "Caos en Rodalies: Una avería en Adif paraliza el servicio en Cataluña - Euronews.com",
+          "publisher": "Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUpIR0Y4Sk5ial9iQVJwMU9hVWZDd0NRN2h4MEktcFRsU1dLWEh4M3hsWmNSOVBuSXEyamQwT2hqWkV2SHdZZTFtd0NTcTFpVFhmRjBIMWJXV05DMThXWVhBWVpjT2FwYm82Z3FGU3ZET1NzUW04ajV1MTE0WEp2MmhOUDNRa3RhUkpLLXJEa3c2Qmc?oc=5",
+          "published": "Mon, 26 Jan 2026 07:36:29 GMT"
+        },
+        {
+          "title": "El juez archiva las denuncias por supuestas irregularidades en los contratos de emergencia del Servicio Andaluz de Salud - RTVE.es",
+          "publisher": "RTVE.es",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX3B2cHU2eUxjTGtqbDR4aVpyeGxBZWZWckdweEE2TDBSSmRFR1NQMy0wVjRpNW5haGVBbVZ1amItWE94WkFJRi0zODlRUkplWEFNalFYM1FXM3V1SVhlNUFZbDI3aHVTR0J1Nlk1ZmVrYlpjbzFTSkt4QUw5RDhfT0hDcHl2SkI5YVM0NmRyRU1zX2gwWkg4UnR4a3U2R1liWlAwNVFfX2FOMFpBZnRhMkJwa3FkQmd0WXdjMEM3YWd1MnRGZzNvckVUY21MVUstQy1Ha0RZOEtkclRsanNPWUNqOWtwMG9Q0gHoAUFVX3lxTFBRdGxYcWNlMWVFU1l6ZzF6WGtFNGlmSy1ELVEzUFVlZTJZUmoyR1NZeHdFRm1ZdkEyeWgzUVAtaXpULWxJZkJlX1BaNkFKVlFJNnRpSk9aaFg1ZHlIb0RqeG1IVmxiZTd3ZUM1aDJTVTNnM1lqS2tWU0ZRczdPMGJYWW1jdGZMUFhsbWVrQlpRY1lJRUo5WWFscTVVb01EZDJuaHpjUHllWHZMWlFya0l6VmY1RUxxZ09NbWlQWTdWMUNNcGNzRWZVVzZHdEtUbWhoWnZZa0FQdHE0dVhKNnlTXzBGTkVZQ0c?oc=5",
+          "published": "Mon, 26 Jan 2026 08:51:41 GMT"
+        },
+        {
+          "title": "El Congreso vuelve en plena crisis ferroviaria con los decretos de escudo social y de ayudas al transporte en manos de Junts y el PP - 20Minutos",
+          "publisher": "20Minutos",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc29SMjl5ZGRqMHVwYTVsOTZYSDkzaWcwQ1Z3U2dwU25zbjh1ZlhDbHluQXQ1RmhHVHFjUDdOUjRsbTQzOGNHYmo4RW9XWWtoQmZIU0dqREFOSkRfSTA0aGdUY0tic3VQYmNTbHhHUU9QbXh2T2dEV1Nfdm5hT1FXeG95T0xlT1Z5MmtqdXpBdDN2SkxzRy1BcjV0aDR1YXdVazdFeE5pSWQ3WVgwM2dIb2dJVmVWWHdhajJUUHNOMXY4MUo4Y1d4Z3dwRWF4dFRqTVJJWTdpU3VjOHpHTlVsWkpDRVIzVGFC0gHuAUFVX3lxTE5zblZTNzhYakRTbWxjVW4xYXVtdm5INVVLbDdxVzdUdVlPRzlNdG9TNzQ1VmFheHpMQ2hoMlYyRExqRWdnMFJMNXVoVFdSLS1jMlJib3cyVUNlejluMUZGeUd3YklWRnJSZlRiTkpqX2xYMzFuX01mY18yNFRjSU1Zbi1wWXBxNlBsaS1WSFdoU19zNXJCNEhwcVhVclNIeHdyR2FicVR0Q2I0OWZfMDBKT1RZZ2V5S1JuSzRxMUVHY3JOVEtwMzhYSEhGMzRTRVRNTERhYkREU0dpcEtoR2NjR01VbnZiNFh1Wnl6Wmc?oc=5",
+          "published": "Mon, 26 Jan 2026 04:00:00 GMT"
+        },
+        {
+          "title": "El Gobierno y la Junta de Andalucía acuerdan suspender el homenaje a las víctimas del accidente de Adamuz por la negativa de las familias a participar en este momento - La Voz de Galicia",
+          "publisher": "La Voz de Galicia",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOT2RlbHhXamJaYVBLVHRpOFF2U0NMNThXdzJ5dTBYWUdrQ29fazlRSWZxQ2JjWEQ1RkdYakFpUTc1Qk80aWhuOW9vVWVmeGJTTlUyUnpvT3ZyMk1ZWms0Y3lZNmUycFBRa2lwdWYxQlQwZFp3ZF9rbEo4eEZ0S1dXTFdKaXk1NmJnU29QaWFlUzlzX2hZV3A3SjNBcWRBR0FwWVRQQVk5aThsTy03N2t0Yk51Wjkxd1ZmT29DNUJ4V0lYaU9pMjdLYVhPVUhScHdvSFdzbnljeDJWRmJiYjlZZldhVWtGQi1aWG1qdDFMaUJhQ1BIUF8wRzVCTFBnREJfYjVzZE1vWG1mN3ZwdG8ySXVFYnJsVnBFRzBWVkJtMU5PX2FyQ1E?oc=5",
+          "published": "Mon, 26 Jan 2026 08:01:26 GMT"
+        },
+        {
+          "title": "Oriol Junqueras: “Quien diga que no a la nueva financiación es porque no usa el tren” - EL PAÍS",
+          "publisher": "EL PAÍS",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcjhnUVFGSFJqNml6RmNlVEhCN2lPWmxGWXM0cE5hTVp0Z2RjR2JiakNlQ3NPeGVKTlllcno3akVNbEhVd0M3SERLSHg3dE9jUGVRZk5ZOEgxSXIyNDZXZ3FjVG9IZ2tvR01kZElqczRoY2RXMzF0WFdjZ3pxYURKam9lMmlhX1J1cHZMWnI4MUgyODVMMEpERjNOamloQ3pmcjVHY1RCOGVrMEVSVGRFTi1HankwYWJQNWlxQU5jUl83aUdlSlVQR19OdTFNVFnSAeMBQVVfeXFMT3dVTjJqcXJERzJ2aDY4N2NSLWJ2WG10R1oteGZMdlI2QXViTXBVRzU0STZwUUViRjFSUkNGZWZyeXJrOVgtVXZKem1JdHltcnNRUDBPUldqV0hYMWhZN3hWOWxBSWlkQ09ubmt4ejNqdU9QN0lCZkRXREZTOE5sWFNzYkx4cFRSUmhUbFIyTzRnb3V0LTZvckRZOFBWRnQtOGhNWjdnSjJRb3ZHUlVaTFhpLUxDUlplNU1TdDBEQ1luUV93Q2Y0WDY4bFFxMl9xZkVieVFTTnhaVmdVcEtvZ2xoS2s?oc=5",
+          "published": "Mon, 26 Jan 2026 04:30:01 GMT"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "label": "World News",
+      "items": [
+        {
+          "title": "Qué se sabe de la muerte a tiros de un manifestante a manos de la policía migratoria de Trump - Onda Cero",
+          "publisher": "Onda Cero",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcXJsaTdBbEhDYVlaUEViVUM0TzhWY21vcno5RE5tQVNLR2dRckZvb2VQOUp1NmptWE42REg1VHlyeGk3ZFNJNmQ1eUxEQ1BqWHpUSVA5VFc4SHVpcklyM2xfNXpvUUVQTGhuNnduWTcyeGhtdktkX2hwVG84a29rVDRNZHRncHhxd0JHUFdHQnRpam0wLVUwUm9id2FIT3o5VWZkX0FKY0ZqNzdvV0xZNWNidkpxWGowbmhlTXZlYmlOWTgycmNMSjY2cTE5clV1aXFWNWU3NDBkUdIB2gFBVV95cUxOTDEtN18zbWlUMFJ6RC1IaTBkQWJBNThsTU9UVzRzUEtTeEFpd1Qyd0NVZ0s5Y1dvZ3lqN2hyM3dzTnZNblNOWmUyTmtQNTJVTjNPT2kzbTJlN1F2aTVObmpqRFA2MUVjUDBVQXdMbDJidHViQ1dKS2ktemhXU2xiQV9TbW1xTEJ4YW8zeXpvV0kxZWRvTXpydm1LWUhaYjN6QTRHZ2hOZ1d1SjU3RFJ4MXNRTnJnM05PUFpJNkUxaFozY29wdGVxSFhFenQ3SHRmOFlocGtwM2ROUQ?oc=5",
+          "published": "Mon, 26 Jan 2026 05:00:31 GMT"
+        },
+        {
+          "title": "Delcy Rodríguez: \"Ya basta de las órdenes de Washington\" - DW.com",
+          "publisher": "DW.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM28tOWZpbGhmTjlqZHd3VjdIcjZWazVJeXpsYi0wcGRMb0RGVTRNc2VuSUFkT3oyXzN2RDhETnFMeEZZUjNyNWVzYWRaTkVERGdNMTloZE52VDZ5Tnl3UjBiV3RiZGlNdndVenpqQ1Nwc3ZjaTRXUEI2eG5ZUlV3MVVFTTc4UnFVVU41cU1aRFVxNlVmRFNKMHIySG3SAZwBQVVfeXFMUGp6UnBfd0RYNGY5d3lpWVdBbWtVdG9kckJJSjdheGdQemI4UVg4X1ZyX3V1NlFQaVVtYmRqR29yb0xHdFNFVjJCWWZoMFh4R1ZjU2kxZnhpQWJWNE1hWUx1eDBtVUZTN3dEam9ic1dKSHBCQ0hkcVJ6UG90VFZYUm9WQnZxdWptaGFoMktnWnhSclEtSENYQlZ0RVVQ?oc=5",
+          "published": "Mon, 26 Jan 2026 04:35:10 GMT"
+        },
+        {
+          "title": "Ferry con más de 350 personas a bordo se hunde en el sur de Filipinas - CNN en Español",
+          "publisher": "CNN en Español",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONmE2MldlYkZ5aFluVTZ0MlJ5eVlHNDIzQWtudGVVbVMzVkVlNHhtTE9rdUQtenVHT2F4Szk1WEFpd3gyX0xfY002a3JXY2ItUUYxMXUzM0ZrMmF6RUJuNFdFcFVJM3NnRGlTbU5zZWVMMENHb0pnSy0ydk5LMzVHM1dIeEdDSmV1akdUQ3M2QQ?oc=5",
+          "published": "Mon, 26 Jan 2026 02:17:00 GMT"
+        },
+        {
+          "title": "Canadá planta cara a Estados Unidos y aclara cuáles son sus intenciones comerciales con China - France 24",
+          "publisher": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQemctQ0pXRDhiOW1ocmxCV3o2elZFWGFCNjhyMmNzRWVReWtxU0JuQjNvRDhobkFHQ05VOVk5S0NtamJ0VFhxR1QxUzV5TmMxSEZBT1NmQ2pwcmZldk1XdEtOdVNfaHRMX3hlcDhoNDU0Y1RkTDg5bWI5am84eWthanlFXzNrV2lpbzJGRlR1UWVYaWlZN0JQSVhleVlNUHhLRDZPVEhHaWRvZGJmNFRtalZuQlFOVWFncWdWd3NMVWdTXzhpc0RHU3BJTlpWOWpfU3FMSWN0d1NTS2RKejNrZVprM0JIM25QLXF6SjRBVDlmQQ?oc=5",
+          "published": "Sun, 25 Jan 2026 21:53:26 GMT"
+        },
+        {
+          "title": "China acusa de \"corrupción\" a su general más destacado - DW.com",
+          "publisher": "DW.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOalFMMHVESzdqcmtaZ3lPNWQwdmlCLWVTWUh5VDVGN25KZm93ejV6ODQtNl9sdmluTXV4NW1LVXVtSWxYZFE4R2QwZjkwamxGd21HRDhlYzEwREY2RFpEaXM4VExTT2ZvOGFYZkhOUlVvY2VHUXBid3k0MDVUal9JYlZNcDFyR2JDZk9UTVRNRUxwZURFRVN0X004RdIBmwFBVV95cUxNVS1UZ3RhZDRHYm0zTkJnOVZ2SG1VMDh1ZGJObzhlX0FETWhQMjkwMHV6dnp2WnQ3dTFzRFlqTlBCT3BzUmJLbkwyS3ZwaWhobERfc09QeFJPSFJtVVgxLVVRU1M2SVBGRDVOLWdaeF9WRGZrZktHbE9KR3F0VTRCcU9qbTRabDh1S0lrRlZnSjUyS24wRUpFemJPcw?oc=5",
+          "published": "Sun, 25 Jan 2026 10:59:52 GMT"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "label": "Business & Economy",
+      "items": [
+        {
+          "title": "Forex Hoy - 26/01: El Oro Supera los 5.100$ - DailyForex",
+          "publisher": "DailyForex",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjlnN2lhRUlILTBfdkRIdEJ6c255Q1pEMmhrLXJrREktdEFCRGJhWTFfTEtxanFSalBlWDl1RS1fV0hPdmxtMllqeVZBSVJPamF0cEw4QXBWWU9pYlJBb0dtN2tEeDQ0bnVRV3ZDTWlYVEMtcXg1R0dvQVE1OUJuRA?oc=5",
+          "published": "Mon, 26 Jan 2026 08:06:43 GMT"
+        },
+        {
+          "title": "La gran banca agita el tablero hipotecario: las previsiones para 2026 apuntan a préstamos más caros - 20Minutos",
+          "publisher": "20Minutos",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTNKZGVfamRqMTBHVnJMRzNGSE1OMTdpeEdfeUtTZ0VDWm4ydjBienc4Yzc1VHRicHZNenY5UXc3aWp3eHFzRmpuMTlFZzhPaVk4c2RDVmt6MlFyQ2hadTNNR3VzeE9rR0g0cU03REUtd0c1UGVGczBWVTNESzBiRUE0bm51Q0dYbk1XX01iM0NyaFNPNnUtQ2p1X1ROOGJXNjJGbnhVTENyM1daUEo2OXdlUXM1TlgyRmpTTEln0gHDAUFVX3lxTFB0djhhb0tYODFGZmpNdE9rWlFFM0R2dnFLb2tkNnA0RXNPTnVPOWFxQm93VkVVRmY3dkE2WjljTUFDZE13Ry1PRXd4a3Z4VUVpYWk5b0xqaHB3c0lpQ0ozRzk0Q1h4b0pVbVRwMW5lajM4VHJqaG9tNjBzQTd1UlktR1czMDJ2VHF2dVluZzNmalFPbkwyNHBjbkJrb29rNkdQUFJ6Y2RCbDNMa1ZCa0lISXVXeHB0UWJYN3dldnJLTnVhTQ?oc=5",
+          "published": "Mon, 26 Jan 2026 04:00:00 GMT"
+        },
+        {
+          "title": "El automóvil europeo se lanza a la reconquista de Oriente: las compañías alemanas miran a China y Renault, a Corea e India - EL PAÍS",
+          "publisher": "EL PAÍS",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUWxZbW1aMkVNUUZsMnlRN3JrYWl3Z2R4RHpPOUR5cW5zUmZMOU5sZDJoa2dYZDlzMUxCTFc4WVR0YWRxb2VrLVVQWFBNYlNYdjZ2eGVrbTIzRlB3MDUyeVRxSmFpaTFwTFZsUERMVFZPaTJQdXdScWhOWV9yV2lSbXZuQ2w4eURaaWRmb1JTcFRnOEhoTFFOcEd5RDRyZEdpb29nSE0tbzh6cExIY1N4YkRWSkhmbkZZcVV4cDA1YzRoV2dJdGlsc2NTM1cwVWVoN29YdUlWSmR4NDVUUUFtVGN4VkNkbGhpa2pDUE9lVjA3X25SZy1v0gGLAkFVX3lxTE1KU3hESnRzWk1CMzZ0U3BOckFxVlEwWDBWeGpMZ0NUaFZSaU5iN1RxNno5N0gxb2FtMjBPSEpZcTd2WWxteHAzR2V2Q2NVdWFHUkVwRHJmcVJwMmgzdVQtNmMzdWxBaHlnMzJ5MEpyUTAtUUo4Q3dMY3ZGWnc0N01Vd1BjVFB5UktLTm9VVy0zcFJFU0tWMXM4eVJiQ0djdFRfd0puVFQ4WFZjYnE1eURNZW5ZalJSQUstcS12MlBKNFRJUHZ1c25mY1AyYkN3N3IzZncyV1hsaXlMU3ZpYzR0bWZKTHhvNENhczJmQl9NTTc0dFBQVjNGcHlxUWthS1B0Uk1OLVItVFlFQQ?oc=5",
+          "published": "Mon, 26 Jan 2026 04:15:00 GMT"
+        },
+        {
+          "title": "El precio de la luz baja el domingo 25 de enero: estas son las horas más baratas - TarifaLuzHora",
+          "publisher": "TarifaLuzHora",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13SHdILW55bExtM3JpNTdWd2ZaUTh0MnNrXzJsbENnS0s1bldzc2RiTHdVX21oLTdPamo3NXVZM2x2LVhxR2RJY3Z3Y1NrTnFpQUZTRnEtSUxlajBLeUFGRlh4bw?oc=5",
+          "published": "Mon, 26 Jan 2026 09:11:44 GMT"
+        },
+        {
+          "title": "Bonoloto de hoy | Comprueba el resultado del sorteo del 25 de enero de 2026 - LaSexta",
+          "publisher": "LaSexta",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcU53NlZMY2hCbUFLWUpLdWs0bm11d042Y2JEX2tNeDVuekFtMTVPbEdBUENkXzN5T0E1eGd6OFlVYWVBTkJDeWE3WnUzNExSY2NMSk0xWGVnWlNYd0tRSllkcExOX0NOTXZ1RmRKb2NQN1JmeVdGcTVDeUFCVW5fR3lJZUY5aGpTQzNHNm1vRjkzQXVSdFJoNEVJNlhsejU3MXF3UmJlOXh2V1JoV1I4V2hDU2hsY1BINURiLUxtMWPSAcABQVVfeXFMUGZadkp4VUlrYkI5UDluMzl1OUN0UE13TnNzN0gwd2tGRDdzSWRzZHRwTFZ3MjhPc0FDanl2SGVsRkh2WDVOb3ZmRHgxM2UxOFNzSDRjVDJFT1dMN2ZLZ291MjRZMWJ4U0Q0SlB1QmgwUnNLb0VXcmZHTXlldTVaZ21xNTJEbXVrN3pPeW5mTWVsQ1IwcnV6cWRiUENKLXFad0tTVldrU1dZLWJxN3JLWGhyLW1laF9VYjhBa0thX0NM?oc=5",
+          "published": "Sun, 25 Jan 2026 18:40:13 GMT"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "label": "Sport",
+      "items": [
+        {
+          "title": "'Delicatessen' de Olmo y genialidad de Lamine Yamal: así fue el espectacular gol del Barça ante el Oviedo - LaSexta",
+          "publisher": "LaSexta",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdDVlRlpaNGs3NEp6TVRLVUJVU2ZNZmVnZDVHS2lKMks1Rm9iMmV5b21OZEFQOTFmZURPOXZLWk5POFNSOVBPMFJXZmZNNXpCbGRxV2xtelhUWk56Y05PVkVSaTJaajJ3OWl6cktqMmFPR0xxUzk3NnF6dFhZRnUtdnFmRl9QVlJYbkVNcVNsRFR3a2VlRW1mU190SWdRd0RjN2ZycGlHcHhQQTdNTkFieU82a3lReUh1NW5qYy1sTUY0Y05DOTlHN3dSRGFDalNLd0k2STlScGlwQUQ0VTlZOXhzNE9FRTZWbXlhV3ZlU2tiam9Qc0NRZFpB0gH6AUFVX3lxTE5VRlNpTFAtVVV2WHo1UWdLMDlEb1FjVFZ5bk9ieDBaRVRGUE9OVDNRZUtDSG1tM3hrMWJlYmk3MTdoTWNpdDFMUmt3amM3Rk5tbENqWmtTUGZwYVVXZkFzejh5NU9EdE51eFIyNDNsUVZFU01sSHJtbWptRjZqZEZ3Y3o1NUtUSEEtenVGLTlwamRfbmx3TXhwOXI1RXBITW5GcDdkT1d1MmhIanVtb0U0Q1M0WjdPVEo4Yi1peWd6OHJXaG1fVWRqZVdKS2dFWUYtZm1kaDRGMmVrMzExM3oxd1hXek1mZ1htZ1hCcDdNdlpiZTN2MWZFRUE?oc=5",
+          "published": "Sun, 25 Jan 2026 17:24:08 GMT"
+        },
+        {
+          "title": "Alcaraz busca romper el maleficio de cuartos de final en el Open de Australia - rfet.es",
+          "publisher": "rfet.es",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkw1bUZYQzZuRWl5bUZTZDlUc0Zram1FOXQ2Rm9EcDhpcGpUOVZjOHZibk40dXNjTGpiS3k2eHprWHVySV9xT0tPbVNJdDhCM1lrUmtTM2R6WUtFVk1tLWNBektDSUVFdzY4b1R0WG44ZzJlTHBhMVBnQ3ZPMzBLQ051elJWZEJ4VWVEeDV3NEtaMzlRbHZrcWFHWUktbmk4VUNLMHNYdVZzbnhU?oc=5",
+          "published": "Mon, 26 Jan 2026 08:58:33 GMT"
+        },
+        {
+          "title": "Juan Carlos Ferrero se incorpora al equipo del golfista Ángel Ayora como ‘coach’ - EL PAÍS",
+          "publisher": "EL PAÍS",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdXp4MjhSSXUwR2NUMkVmMUhhZjZHVjl4Z2FGWkNCVmNkMXZ6LTV4SkJESmFEUUI4TjViYTkzTGUwTFV1cXQ5clVLUTNaaTBnVjNfeFRndFNOV1ZJU180bTBobDZxMENyTnF2NlNhU1AwSjNVWkMySjFDa2gwSUpHVWkzVjRMWDZJQnV0TDNwdkZXMVRyWmdrVDg3NFpVR0x4TjF4cHg1SjA4aEtJUnZTbi1BcHJia3pfUy0zVVcyNUxtNHNvSlhN0gHbAUFVX3lxTFB5TzN2MjkzMUJKTkNiU1BIX0FLa1dpS1BLOUR3Xy1lTkVVelVTSnNQR2tlOUdiQVdmaEVFam1wZTNIT0FmRWh2TWEyay15aFA3U1FDNW1nUkxENDZvcEN1OE9xQkRxOHZPM0gzaW0wYWJPSDZxRXpRZUVkNi1ETVFnS1FYdW5kVzRkNWJjS0RfNjV0Y05fSS1sU2lOMF9Xbjd5M201cnFJTnNPZFZpaWpaTDl4OW5lNDRaajdmVVJfLXRoV0RUMUU3Sk1QT0F3SFZRT253bnhLYVdzZw?oc=5",
+          "published": "Mon, 26 Jan 2026 01:40:04 GMT"
+        },
+        {
+          "title": "“Es el primer hat-trick de mi vida” - Diario AS",
+          "publisher": "Diario AS",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2xOT0gtUHA0emhrcU9sVlBFVzl1WWFKUnBpYWZ2MnAycGxNWDdBZ2Y5WWJ1YWRiNUxQRE4yMGxXNWsyeWpWUzZTTkxBdFVuNlVLSksyTnA4NHhJMFNVWGJwWW1qQlFEWV9iTzcyU3E1OUx0cHJ1b1loY09yRFRNbGc5UkJaSWPSAZsBQVVfeXFMUE1lMlhsOHR6WU9sMld2NXFIRlBNWEVXNTRjMkNqb3YtZDNCNWdxQVYwWE9Tcm1FejdmNjIyUUFubDdBZTlqeFlSUkEyTzlaMzNEZFZUMEFrZGJERVZyNFJZckx6bS1hTzQ3N0Z6UTZCRmp4SWdkVFZKbmNnUUFJWHJ3M1hJU1FsaXZ4UDQ5RXhYQTVlRGxSaGFnWms?oc=5",
+          "published": "Sun, 25 Jan 2026 18:57:13 GMT"
+        },
+        {
+          "title": "El Dépor cae por la mínima ante el Real Racing Club en un partido \"lo suficientemente bueno para, como mínimo, sumar\" - Deportivo de La Coruña",
+          "publisher": "Deportivo de La Coruña",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObmNMMG9mS2JkaExvaEJnaTBRV2t0dkJiQUhqMVZld1lXcFoxV3dZTGZlZFN4bmdkSFVWRnl2Wlp0b2c2UmVUc3FSUWNTV3NBSktEZVNXM3RaUEN0cEcyX3p0cUp5cDBJaTA1LXE3blFXS2JtUkNldXJfMUpnQ29FV3kwUlA4dXlVX3lCOVcya214NmxwLXVVV3hXVHR2b3V0ZF9qd3dMYjhpTEFrc3FKRWZ5NXk1aWdwU0FDU2RyaXhxcGk2c25GbkxNS1l2TF9kRks4SERHdXpzU0ZKUHBPU0dQZw?oc=5",
+          "published": "Sun, 25 Jan 2026 23:48:51 GMT"
+        }
+      ]
+    },
+    {
+      "id": "science_tech",
+      "label": "Science & Technology",
+      "items": [
+        {
+          "title": "El ridículo de un diputado que lee un discurso preparado por ChatGPT y olvida borrar el final - noticiasdegipuzkoa.eus",
+          "publisher": "noticiasdegipuzkoa.eus",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa2Qwcnpaay1FYjRkNjJvMnd0XzNwQ050cTFTVGFtRmktVFgwbE16U2ZiUFo2YkFYb1M0aFBlZm5ydVM2cG13UGdKSlpISVJIcjlhWkpfeDJTTGU0bk1OX0hiNVAxTmh3azd5amhSaXpXNUJibzRCRTNkM0htZ0UxQXQ3SmRQZDF0djBVbHVESFlpYjRHQVk2WmhXZkVvZmlWMEZNNDNVLTltdTQ2OHJzam9JU0tHbjdMV0hfNkpSRlA5cTBp?oc=5",
+          "published": "Sun, 25 Jan 2026 16:00:12 GMT"
+        },
+        {
+          "title": "He decidido independizarme de toda la tecnología de EEUU y abrazar la europea. Así lo estoy consiguiendo - Xataka",
+          "publisher": "Xataka",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPejUyakwtd0syS3UzN3V4YzBBM1laR0xqemplekQyTkppQ1RvTHozX3ZqMFhyWVdwTEw4N011QTllYUtYNVZwSXlCUHE4YUphdEtSNHBRWFpsTEhBVXpPS0FTNUw2eURZUjJPeDc2SFNMU2RNUkdMLVhVMXJsWGw1MG1TSTFSckhOSkQ4aXMwVFpBT1hZd2RvakRYaXItSTU0OHJmTGZyNlN6WmQwM1l2MWVYN3NQeEtHa1hCa0pQVdIBxAFBVV95cUxNLUc5d1BjVmlRQk00cWRKT18zSFlXaUNFeGxPU3hGdDJFZ1RQa0I3cUtpSUxVQkQ5N1dLSGtmd01oTmZBcS03MllaV1h1dDgwM05jNEdBQkNnYXJYYmw3Sk9aNEt0T000QTlzNXl0TDYzTnhoNzhEVmhpZFpqZHlIYnN2N2tWZnNWTHJoYkZrQTY1QXpoNUIwM0k5LUYzNFNoTXdOX3A0MDg0aGxta3Q5MXJFSVRGSFJ3VjNsOXUzTm5OZ0Zt?oc=5",
+          "published": "Sat, 24 Jan 2026 15:31:26 GMT"
+        },
+        {
+          "title": "Un profesor valenciano incorpora detectores para evitar el uso de IA en los exámenes: «El suspenso es automático» - ABC",
+          "publisher": "ABC",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSUFISmtaak5kRTEzT0VaenU1RTh3dkJseUlGTVRTbGFNZ2xfbWtRbFZLVVdhY1M4SDdnNDgxNW9yN2NoLTJuVTA1aXkwV194dmVJbUxtX3kxNmVjWkpFUXNhTVNYT09uUUV1cXRBa2V2MlVaaC1XbEM1bHlnZzlyVDU1ZW95NnMzNHNZdEFaeXhRRTB2MzZPOXItNTYxdWh3eGdqc3pnYTFDZ19TZ2dtRDdrcVF5T0JYTWxxeEFlZTlmZw?oc=5",
+          "published": "Sun, 25 Jan 2026 10:50:13 GMT"
+        },
+        {
+          "title": "¿Cómo piensa una inteligencia artificial? La gran sorpresa es que ‘intuye’ - EL PAÍS",
+          "publisher": "EL PAÍS",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd214NWw3Rko3TFFSQ2t5MWxNcUdLX0R2YTByZThKMmM0LUQtRzlySlR6TDRVNjdmLUdzZ09oVkc4RkJaQVM5aTdhM1FCc1h1VFFldkhZcUxWTGpDcndqMFZrbzAxT2dhQ3BHYU4wU29mX1JpN2g4OGFMWDk3TEphd0xZcjhPd3ptSWZ2eVJoU1VYdE1HczhVWVdMVzhQYUdQRnRNZzVpVHdmUjMxSW01MQ?oc=5",
+          "published": "Sun, 25 Jan 2026 04:30:00 GMT"
+        },
+        {
+          "title": "Caso Pegasus: ¿por qué se ha archivado la investigación sobre el espionaje al móvil de Sánchez? - Libertad Digital",
+          "publisher": "Libertad Digital",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVTVlbGpScnhIWFl4Ry01M2NYa3hZSG0yX00wczgtWVIyOElBS3BCbmMwYmJqZGhseFk2S2VOTVNydXpaU1ViblFsNnJ4S2RtUkdNekFlVWp2RkhDaGJFM3lCTjN2MjdWbXVGYjFScTE3ZDZUWjRobExJaHlHYlIyMXZqdDh4OXAySDBrbV9zM2hHcTlDSERiWUZld004WkZjVGE2a2hoRzh3dE1NVm0tUzE0ZzdHem53UGVoWDB6dTUxUUwzXzh6MERyMzgyZHdOeUVsRThxR2hfUWNZTl9qQy1Qb3A1UQ?oc=5",
+          "published": "Sun, 25 Jan 2026 05:32:06 GMT"
+        }
+      ]
+    },
+    {
+      "id": "football",
+      "label": "Football (Global)",
+      "items": [
+        {
+          "title": "Beating Arsenal puts Man United into Premier League title race - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWVJhOVMwY2ExM0tvNmd5M0J0Vmd0RmpwQWh6V3BzY09qQlNCdmlVd0p4cW93dGxVbkdHTW12ejRiVk42YmdQUi1hc3JLRy05c2FkZ3BkR3R5VE1RUGlGUE5Zd0F1b1AxZm94MC1VeFNPNzhuSGN5X0NzY25HWG9XX0trS0I4cDhHWFNidTBvQ1l0aHhSeUQ3UWxScHFXR19zM3lETkRHNGVmdjFKQXFUNWpn?oc=5",
+          "published": "Sun, 25 Jan 2026 18:57:00 GMT"
+        },
+        {
+          "title": "U.S. welcomes soccer fans for FIFA World Cup 2026™ - ShareAmerica (.gov)",
+          "publisher": "ShareAmerica (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZN3Z4WklWcHJoTFR3QnoxWWdlM0tEMDdEX01HbWJPTDZxVUtfSFluaDQzTVktbFNEV3BpSmlMb19pQVhQZW5LamxKbVJVNmprRE1Ua0Y2cWZpb3UzcGo1TjFTakhuTlJZd2s5Wk5adzJIRUZlMUlrSU0yT0lzRkk?oc=5",
+          "published": "Fri, 23 Jan 2026 22:33:34 GMT"
+        },
+        {
+          "title": "Michele Kang’s largesse for women’s football leaves Fifa open to bias claims | Tom Garry - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEJHQUZBWFdHY3ZNejlJdDF1TzIzNmtvUVY1bDFJUU1WZlRpSVRCQnVDMjc1WlU4WmYtYXgwNGJmZGtVajZsTVA4ZkEzeC1qX2d2RGtleDVZdVh6MXFheG1iRDg2MVhVdmxqaWxzVk5uOTEzVkxiUmxUT0VjTFBYSXJZMnpsT0dDOHd3X2N5TTgzbEtyYWtuNGJQSnc0MnVCc2RCYkoxcDhiemRncV8zM3paeVgyRXRfUVVSS1NRYWc?oc=5",
+          "published": "Mon, 26 Jan 2026 08:02:00 GMT"
+        },
+        {
+          "title": "Norwegian Football Association confirms Greensboro as base for FIFA World Cup 2026 - myfox8.com",
+          "publisher": "myfox8.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRHZnV0NsMkQ2U1l4akg3Rk5SeGVvSWhobDZxckQ2Z2tvSnpYN2xJZzhDbDAyWjNPNXIyblZZOTJaRGppTnNmMlV2QWlSa1RuWUFvR0dNaXRLVnA1SVpIOVdtSGhTXzdHRWZFLVgyVG85QTVQS2FzbHJ2TmJ0WVVMM0RsRVhDNDRnSWcwUnFqeWZPMWtvaVlLd1BRMWE3ZWxYNEhiMXFSbFBTZ0p6bHM4azFaMGJaMTNTdkZLV1JCZzZYQkhHOHRrTF9ZeV9sd9IB0wFBVV95cUxON2R6UHFCWUp5MmFkYnVMLVYxMFotZEFrbEtHaDNIb3hQQW50Rkk2VU5uTzNwbzNDSWR6TEFPZDZaUTFaOGJPeExFQTRWYTVNeU9RWDItN00zTWs5a2VxY0Zqd0ZvNXJKTTdqRTl0NDVlOUVLTjhiMEdrV1ZZTXZzTlRhQUxtaDdXaWhXY0dpNnp1N0lVRVROVl9rNVd3VE0yU3pSVGJpMzdjVlZXY0dMdjFvOGxBZ3FRNjRPNm56ODFIYjF4S2laN3dUdkYzN1dpSVgw?oc=5",
+          "published": "Sat, 24 Jan 2026 21:47:52 GMT"
+        },
+        {
+          "title": "Arsenal vs Manchester United 2-3: Premier League – as it happened - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakd4LUdpMkhZdkg0QzFMUGJweFQyb01WaEc0U2FLbnV4XzNQTTVDUjlMenNfbU1TZ0ZaUG5KSGYtR0pWMUQxX0cwQXdNSE93Rjg5c3VhY2NSMFkzWHpfZGIxS1M2bEdlbnJXRWplTUwyR0VWSjdMR0N0d1JEYWZDOW5ZckszNzNTMHJ6SzNlcnVTMk5CRFB5M0o3d2RQWjUxbjFIN9IBqgFBVV95cUxQTUtFX21hck0wekhRZkVJVElGZEJtTDRfLXNLSEp2aHRlRUlDNFRRM013YUtMTVBDdkpQdFF4MzY2ZDhHQ080RWVYcmJOUzhLWGVqX2kwaHVGV1JhZlc0bVhXNW9jWHlfQXpxSlh4X0NEejd1Z3BkRWNBSmdMcm9hZ296VFdMcWdfa1NCYmZuemZMOHJvV3k3T2dRaWpRMWRfNW5tUzJXaklOZw?oc=5",
+          "published": "Sun, 25 Jan 2026 21:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "entertainment",
+      "label": "Entertainment (Global)",
+      "items": [
+        {
+          "title": "Weekend Box Office: MERCY Shows None, Takes Down AVATAR as #1 - Boxoffice Pro",
+          "publisher": "Boxoffice Pro",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcGl3Q0htbkNUQjY5bjBTQmVIRXFxLXZoRUd1TkJYR0Y1WlM1ZkdGT2VkUlB2RDBEa3NlN2lyY1VJcjV6UHJmR1dtSmxZM3JQcU1CZi05WEtZSnJRb1FJSWk2bXQ3c3ZYd3dSNFpLOXFhbW1EaVVPQlUtbjhYczhwRG5ueWVidFpNUmRLQ0tHajN2dw?oc=5",
+          "published": "Sun, 25 Jan 2026 18:30:27 GMT"
+        },
+        {
+          "title": "The Housemaid Worldwide Box Office: Where It Ranks Among Sydney Sweeney’s Last 5 Theatrical Releases - IMDb",
+          "publisher": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XV2ZWQno3UFZ0Z2lLR0lHSFB0ck5jcEhmTDlYU2JfUVBKd2JSREd5X3hWTUctZkhEZlcxb0hxcTBMbHNGakc4YmE3S0NEd2U3c3J2UTFKSGdQUzd2U094Q1ZqOGtzbVU?oc=5",
+          "published": "Fri, 23 Jan 2026 05:37:22 GMT"
+        },
+        {
+          "title": "'Blind Side' Actor Quinton Aaron Hospitalized After Falling At Home - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnhYSVRUN0hIOTlkcmxxeEVTakxyTmRBWTBrMGloSmprVHRpcjcwZldkRjI5WmpaTDU0U21fVDAzQjRDZ05PUG0zbDFKV3lhRkFHcFAzSWpuSjRWT05BZHlPampKQUZiaVZxS1VIZ29VaV9ObUJHUFY2WHM3VUJVU0dQT2dBOEluZWNjcEkzUHhFWjN0Q1ZhTG8xTDZxZw?oc=5",
+          "published": "Mon, 26 Jan 2026 01:06:41 GMT"
+        },
+        {
+          "title": "‘For the authoritarian, culture is the enemy’: Salman Rushdie talks recovery and resilience at Sundance - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0dxeDZhUTNsT3VTTnJza0NhODJNb2ZFaVpuYURoMVJGWHg1alU3LVZ1U2tDSnZyUHB2eVNiMFhuYXU2aTBnX1loVzA1VGsxUVV3RV9oa1pzLXJjaEZod3UwdXc2b2gxRDdlTnhQc0t1X3Q5clZKZGpPRTZuSU1rY2hEeVNoaWZDeXEwSFlfX00xRnd1VnZLd3FnRVBzQzlFSHVMMGlsdEVaTlljWlpnMmQyVmZwQkgt?oc=5",
+          "published": "Mon, 26 Jan 2026 03:54:00 GMT"
+        },
+        {
+          "title": "2026 Oscar Best Picture Nominees Ranked By Box Office - SlashFilm",
+          "publisher": "SlashFilm",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcTRFbXo2XzVRU1ZZd3A1R2ZFdTRERjltOS1nQjg3V2lKbEx6SnhFcmtvcksxRUFnT3dzNU5hNTFUOWlMV091OUxqYmZMMndyQzlOZzlLT0JmNGtUWURKVnYtRlNIU3MwVGVXbmYtNmxyN3NoTUQwVGVQaXBRcGRTTjRTUWIxZjI0bkN5SEh5Yw?oc=5",
+          "published": "Sun, 25 Jan 2026 18:00:00 GMT"
+        }
+      ]
+    }
+  ]
+}

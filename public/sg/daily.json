@@ -1,25 +1,24 @@
 {
   "market": "SG",
-  "edition": "en-SG",
-  "generatedAt": "2026-01-26T07:27:32.395764Z",
+  "generatedAt": "2026-01-26T09:33:26.368782Z",
   "validForDate": "2026-01-26",
-  "source": "Google News RSS (SG)",
+  "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
       "items": [
         {
-          "title": "Medical assessment process for elderly taxi, private-hire drivers to be simplified to reduce confusion - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWkF5Z3dhUU5wZTRQWFgydEJZT01WR05RdVFnTElTU2hLQ1IzRjVKclkxMEthbXctNzVWeE9iaFRnNmw0Y3dzTHJ4WWdlT052S1c5b0dfaDA2T3dOUVpLa2VraXhtTERlN2xOckhSMFZzQS0zemRjek5jV2RrcXhHNmtYbWNDOWFPaDdSbXQzNHdtR3VVY2Q0QlVWdE82VUJ5MWFKeTFKS2stOGdvYTJuUjNBT1hJTVhYREstektR?oc=5",
-          "published": "Mon, 26 Jan 2026 04:32:33 GMT"
-        },
-        {
           "title": "70 evacuated after fire breaks out at Depot Road HDB flat, 1 taken to hospital, Singapore News - AsiaOne",
           "publisher": "AsiaOne",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tSkVGbndrWk1CdmZnR3hSQzc4eXFpQVlaVEF1QkhrT29wV3VmZkJPczdtdkV1a1Byc2psQ3dFU1Z4cE14azlqaENNTjc3Y3NqN1g1THpIODhQekhKMndqYk5fdw?oc=5",
           "published": "Sun, 25 Jan 2026 10:33:06 GMT"
+        },
+        {
+          "title": "Medical assessment process for elderly taxi, private-hire drivers to be simplified to reduce confusion - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWkF5Z3dhUU5wZTRQWFgydEJZT01WR05RdVFnTElTU2hLQ1IzRjVKclkxMEthbXctNzVWeE9iaFRnNmw0Y3dzTHJ4WWdlT052S1c5b0dfaDA2T3dOUVpLa2VraXhtTERlN2xOckhSMFZzQS0zemRjek5jV2RrcXhHNmtYbWNDOWFPaDdSbXQzNHdtR3VVY2Q0QlVWdE82VUJ5MWFKeTFKS2stOGdvYTJuUjNBT1hJTVhYREstektR?oc=5",
+          "published": "Mon, 26 Jan 2026 04:32:33 GMT"
         },
         {
           "title": "SBS Transit files police report after car allegedly brakes abruptly and hogs bus lane in Geylang - The Straits Times",
@@ -34,10 +33,10 @@
           "published": "Mon, 26 Jan 2026 05:08:00 GMT"
         },
         {
-          "title": "Planks fly off back of lorry towards oncoming vehicles on PIE: 'Final Destination, Singapore edition' ' - Stomp",
-          "publisher": "Stomp",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSU5NR19Ib1lFWElZUE8tMkR6UV80VFNQQ0JCaW12TGJFRVRNZjY2azllOXJuR1pxQmZmRUxDWG8xRTdabVJQYmtqN0ZBSVlualhKam5iRnRCckZrYXNGMHVJMHNGemhDUjAtTjdzdHZad080U2NWWFJTQ1dMNkR2MGswVkV0aXZObnZKa25IekFmMldaZFExRUl3dnoxbDhrM2NOMU1ERk1lZHNxNUQ5SElhQQ?oc=5",
-          "published": "Mon, 26 Jan 2026 02:38:25 GMT"
+          "title": "Cop fined $5k for causing woman grievous hurt while driving police vehicle in Geylang - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd1BpYTBmLTNVb3g3VDNsbHNSUnFPZHpwOXVEOHBURVp2ekVkUmpVOHBSTXo5U3lLOWtHVWV0T2pNcHk5T3FNSzk3OVczcjBBaWs1MnRhVE1hUWdwU24zaktHN20yX3RyTDVraGRwbnRzWWhJbk1RT1A4UFg1azJGVVBvWGpHMmdmNE9PamhmZEVZajJqanZydGFld3hEWXVXVkFUeUQ0OVplaFNjYUx0ZjNOSVZSTWxnQm5CNkR1SUJNTWlSZWV5OEpDR0VPZ1VFQ1E?oc=5",
+          "published": "Mon, 26 Jan 2026 03:55:00 GMT"
         }
       ]
     },
@@ -46,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Death toll in Philippine boat accident climbs to 15, hundreds rescued - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbzdwSURVaHNIbVE4SXdvVndTT2RqNXFldWQ5SDJiRWg4Q0JOOTBkSkhXT3pSZVZIMXR1Sjl6alVVY21fbVkwTEtZNG92RW1GNWRKZk1EV25NX0ZoMDI2SjdMcUZNZDdKS3YtbEpJWHBPMGV0Q1pUNFZmVmFWMW8yUW1oOEoxTUpkcXJiclJVdG9GNmlTSzduTE1kVFdZaVFVbVBwY1FrRW5ETnprQ2w4QlZQY3pKMHJLem9ITkpYa1RaNUtidjFQeUlvUWE?oc=5",
-          "published": "Mon, 26 Jan 2026 03:50:00 GMT"
-        },
-        {
-          "title": "Israel launches ‘large-scale operation’ to locate last hostage in Gaza - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUFpHUHNSQjY3N0NKSThTQWIzOExTRnVXS0FhWGk1MmhGMHFDazlRYlJDTUFST05MMmNSZmY4dnRqTjJiMkF0RmNZbFRKS2d0ekhTM3NLWF90TEdVR3RXaXJHZFJvNVZ3TVZTZ0RzWXlWajB6ME85WmFHM2JpcXA0MGpuWjg4VGNlbjZ0LWNGQW9YZEpTR3JzVXlKMnJqM2hlb2xaX183cw?oc=5",
-          "published": "Sun, 25 Jan 2026 22:36:00 GMT"
-        },
-        {
-          "title": "Iran Is Selling More Oil but Making Less Money - The Wall Street Journal",
-          "publisher": "The Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUVJFQ01XYnUtbC1kRDJZM21LaHhoWTBZRkRpSldsdGhjWC0wOGJDbm1XM1BXcWNKLXFqbEozLU9HYTNTendkNk55YXk2MWFGbTZtZXRxSVVoT2c5UXVDRzRlMWMydk51Mzk4cUV0OExadUV2WHJPRWtSTEFNVzRfXzR2TzRibVNpTG1hVkhad1hNbVI5S29IVQ?oc=5",
-          "published": "Mon, 26 Jan 2026 04:00:00 GMT"
-        },
-        {
-          "title": "Xi’s Purge of Top General Spurs Questions on Taiwan, Succession - Bloomberg",
-          "publisher": "Bloomberg",
+          "title": "Xi’s Purge of Top General Spurs Questions on Taiwan, Succession - Bloomberg.com",
+          "publisher": "Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbGlyZUwwR3oyVERVWFRodlVEZm1LWFFFWmVOXzBRYUFMQXRaOEstVE9tc2hDUEFCMzF0M2U4MnQ2cERSa3pDQ2dqNlcwWnFPdVNLemVad01GWUxRTUowU2dBcXd2NkpsYmtLVDMyZTVGc2RtNlhtZ1dZSDg1ODFhdFdBMEJjalFEREJiWkUwSmNqTlFCWGpzc19NNHRfWkVLb1ducTByNjJ1YkZIaXh2bDRScw?oc=5",
           "published": "Mon, 26 Jan 2026 06:44:00 GMT"
         },
         {
-          "title": "Russian strike on Ukraine's Kyiv leaves 1,330 buildings still without heat, mayor says - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjlQX040MWRRU29oSDIwbVRXRktIVHNZSnRrUjFPa0xmaW5XSHhnWHRieGtzYTl3ekkyVGtwc180RXhFeXp3YkdyRExpSWhJd1ZMR094eVFoamQ4V0owbGxuLWZLaDFoZ1lVRnhTSTRGaU5lc2g0ajRIZklvY1hUbnpyNjZVb1pkeGtpRTRCa2t4bjFEODFwNGJRUW9JTjV2dEQ4UGF2MG5sY0p4SEtnR2ZaM0RNbHpOSXBFWHhlVm5NOXJHOThn?oc=5",
-          "published": "Mon, 26 Jan 2026 01:27:00 GMT"
+          "title": "Final phase of Myanmar's election underway, military-backed party set to win, Asia News - AsiaOne",
+          "publisher": "AsiaOne",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYVo1SjJmOHp2Sy15aFFmV1VrWnVYbUxlODltZWRoeVNmQ0NmN3R3TU9FdWVmb1ZFaDhuZFhXakVUS2lQbkVCS1p5TDdoMlVNUWd1VzcwUEt1aVFFbHVEYVFCRmNsR21oZzdxckRfVEt1VlpneTNtNjUzT2ZTR1VzT1VVU1hiU3BvTjlFQmlZNVVJeGE4UGM2QVRDQ20tZw?oc=5",
+          "published": "Sun, 25 Jan 2026 03:56:09 GMT"
+        },
+        {
+          "title": "Minneapolis shootings put Trump’s immigration surge at centre of election-year fight - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb3hnTVJDdTVMNE41LXRCXzBCUy1uLXQtaTBBYWVIYlowT28zeGV3LURNSjBPMGYyWW56akFoeTlkcUFNVjVrbkFhQ1Vka3BIYjhvbXBfWkRfWnJKMW1qTGpaNzc4RlpIZjI2d1Z0S0dSbkhYcUlFcWIxLWVIbjhtdkpab3ZqWXRmTFZXU2xXYzd1VGxyT0U2NFhLUHROdWN3LVY3eWRHc2xSemFYSjFnRW9EenVSRVZnTXpkZU9EMFU0clVlTW5xZXdNZ2w?oc=5",
+          "published": "Sun, 25 Jan 2026 23:01:00 GMT"
+        },
+        {
+          "title": "Trump Threatens 100% Retaliatory Tariffs Against Canada - Bloomberg.com",
+          "publisher": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT0o2aThSUHpISzVZSkNWMjdRMFlyVTdvMVdZY3M1OVA5NExNWWR5a2dwOF83Vnh1aVZCRW80Tm4wV1NsTFZLVnR1em1iZTJNZExtQnJCcUpZOHNySlhOSFNDOERhdXo4WDRuY3k5WXFIRk5rZEVoVVplVi05SlJhNWQ0R1JKRFFpMkRVR0J2Njl3d0tRa05wYThTZUE2Y3lLYU5majRHUXU?oc=5",
+          "published": "Sat, 24 Jan 2026 19:08:55 GMT"
+        },
+        {
+          "title": "Taiwan gains global visibility with Alex Honnold’s Taipei 101 climb, but were the risks justified? - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObklqUVhtcEtCWWRSLWdkTEMtZ0tZWG4zeVlPdkQ0dS1NendEa2o3MmkxVVNtS0RwaTA3UVl0ckZ0SkVxaXhpYl81ZjMySXJaTkJVRmVOUDF1bmY4dzQ0elRHOWVkemRkSlVHREl6OVQyU21MVmotOHVwd1YtMU1GczJfbGowbnVQSFJvcTljOE5XRjB1QURWU1RtUFhlTFIweUpBY0wtemZXRGQ2SnJMR2RDYkdQb0JIdWpsOTZFeFZQcVZ5ZVlURTN4M3dJNV9TM3RGanRR?oc=5",
+          "published": "Sun, 25 Jan 2026 11:00:00 GMT"
         }
       ]
     },
@@ -82,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Target CEO Joins Minnesota Businesses Urging ‘Deescalation’ After Latest Shooting In Minneapolis - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc1NROVZNSW1lNks4Smp0X1NVUEhTVW9GdEY2bTEyRWFhWTg0dmY3SmhMQk9sb1VUSzF6WmZzYjJ6a0xGLUt5Q1I2eTRYVE9pWUJTQWdTQmNwZUtBMXd3LXA1YzQxMmU2TWtLeFVSUHBWOXpoajRuSUFFQmJTekEwUkFsSWI5ZExBR1M4R3MyVlZuZndEaEp3aVJCanZFN0RoX2NQT1pCMHdSSEczVDc3OW9KTUlHTEpkNlZqaE5NcFZVNkpMT0NYS1ZrbDZLTzdjSXkyam5YdTVIUnVMVnNzTQ?oc=5",
-          "published": "Sun, 25 Jan 2026 21:08:55 GMT"
+          "title": "Wan Yang customer losses hit S$1.29 million; 4 businesses step in to offer complimentary treatments - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbk1KMmk3NjZOSjhYUmhnVkc1eXliQzAwUVJjUUJmNWlsai1NX211dklBTF82TmNzd2I3RUlKQVA0SWFPLUxMRU1IWDEwc1ZmX0RrX0p0bnY1a3ZvclA4VkJxNDVodW9mUHpsbjFiaGZGN2hnS0NJVmtJcDRCOS1wRDRlVDdLS2FUU3VibFZpbE9YN0hBSkdVQWdjaVY0bldJX19fMS15ZGtlUEluSElsNg?oc=5",
+          "published": "Mon, 26 Jan 2026 04:05:13 GMT"
         },
         {
-          "title": "Japan Stocks Fall, Government Bonds Rise After Yen’s Rebound - The Wall Street Journal",
-          "publisher": "The Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVjZMSUZiU3lxRk5zdkpqTnZ2ZFpwR2c4RG5GNWNHZnBwSmxtVkhWYzUzUzlscVhfMzg1aldOUkdDbWdKTGJFdkRPU0JkTzcxcExZLVFvYTJ4aU4tQ0dwYkRGeFlFWFVnZ1hxSV9xNG1mbDlBbFlHTTZIX3FwbFlLNk13dDNwQUpzeXkwZ2RvVVF3RFpjcDNYTXVYYTk?oc=5",
-          "published": "Mon, 26 Jan 2026 05:40:00 GMT"
+          "title": "Yen Rises as Warning From Takaichi Raises Intervention Risk - Bloomberg.com",
+          "publisher": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmc2U2pKTXRwdW1mZ3BWVEM3eUZWNFFGdlJSOVRvSFBqbmpUd2s3WjRac0FsNVYyOWRpeE5GdmpBbFRBLTNYWGt6T0FWbmduc2FLSmcxS2pHYkR5OVhmWlIwR1hSOHItbThjeHIwUUFuU09ZZVF5UE1QNWdxQld1dm8xNVh3NktxSmthTUxPczFDeEFxNUl6Zkc3QlNmSkFRaFhjRmZ1YTYyY1k3VmNNX1lmRlhUZw?oc=5",
+          "published": "Mon, 26 Jan 2026 07:16:00 GMT"
         },
         {
-          "title": "Gold surpasses $5,000, yen strengthens on intervention fear - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPajQxTnlJMXhxSEJ6MVNTSDV6eHJNSjZQUFFvOUhRdXo0RjdUUWc4dzJDTzN0RUlrdG50bE5BcjdxVFpidjRORktWeGxvSjBkanJGWGhLYS1GWG5hNmV3WXoxb3h3YzBGNkU3RUt2c0VLbW5nMVJESEdhY3ZkWFB3ZVE4RQ?oc=5",
-          "published": "Mon, 26 Jan 2026 04:34:00 GMT"
+          "title": "Singapore dollar hits highest against US dollar in over 11 years - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXVFTG1Ib0h2emFZZDI3bldUVVQteEMyZmxSblJRLUVUNnlQVXlkU0JJa292OU02XzFpdGFrNDFCWDhfNW85Tlo3eFR6bjJxeW03SmxkVUtyOEcwOXFheHFBa213WTR6VWllY0pNdHFtYTFoSVFpWmJsTUc5U0xzZTFMNkRtM1Z4NWMyUlQ3dHBzb3ZQWmNqempKVWlKamlvMG0zT0R4NGdhb21Ba1BheTh4VEF6cThNUlFJSg?oc=5",
+          "published": "Mon, 26 Jan 2026 06:16:48 GMT"
         },
         {
-          "title": "Fed rate decision: Why Jerome Powell’s press conference is the real wildcard for markets - CoinDesk",
-          "publisher": "CoinDesk",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOUZ5NlRQRUlUM1cxREpnZWtXMEpKSkY4bWFpUWxfQ0tXQ0RuMHl5eHJ5amdYb2xCa0J2Q3I2YXl2VUpSTnBWTU1HZ2ZLa2x5S3dNSTRSWkVwMmprUEF1Nm56ci1HN2hScEhPVFMwM2FuQjhiQVlfMjlFaFBrTnQ0cEZWc3hOVWFyQW8zWFc1UGUyaG5CV2lTbi1BWlFrV3dyZDFRbnNFeE4tQXRldEJTU0g0dFJKZEVfVDYyNjRDWENLanRyd2dsSWg2OVFaNFdpdVRV?oc=5",
-          "published": "Sun, 25 Jan 2026 17:25:22 GMT"
+          "title": "Singapore inflation cools in 2025 but risks loom in 2026; ICE killing of Alex Pretti sparks backlash in US: Singapore live news - Yahoo News Singapore",
+          "publisher": "Yahoo News Singapore",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQY3lEa0pQQzRhMHNRNXVHMklXVkd5aXNvTzJMYjRhTkdiQjhHN0RYN0lmd1JRSzA0bXd1a1pzdGdLRnBJY2VhZk9WRUM1WU91Q0FBXzEzU2dYOEhEUWNjNWFPUks2VWJvMUN1Zy1Ob1F6dmJDNWxKN1hYaUlscDh2WkJNVzIyQ1JKN2lGTGpQemJITWptbG13R3FhWWtkVmdZa1BWb0xNOTlYZE1kMGp3dlQtYjR1dWs2NGxmNm1xUjNIS2ttZjB5dFVtZ29aazB3MjllRTQxM2dKakpUYXc3Q0Q5NnRUemIyLXA3b184dEh4YWdfQTdSYUpRVmtTYVBLXy1FaVFQTUhlZmhMN2wydnMyNFRPNURLV1FWYXBBdXVwamM2bmk1d1RSNXJNLU1TMDZLcGgtRzhPZGM3ampvU3VqM05iN3M?oc=5",
+          "published": "Mon, 26 Jan 2026 08:00:27 GMT"
         },
         {
-          "title": "Power Outages Cascade as Big Winter Storm Hits US East Coast - Bloomberg",
-          "publisher": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZklvTWs5dW45UVNwX2VVaTZSeFFfVkpDYWNrZW9sMDhTa0FZdkZPelFfbjhjbFo5QTBzN0tlbUFsazItV0hBcml0aEFsbXowQ1NkNkR3RFc3OEhLV0IzcWE1M3FqYjZPRWhsX1FBZmdWcXQ3RFMxV3RIVm5seE5PZWYwemM4cDdIX180V1JmRllLNXBHWVg3RVdJRGZtTkpScVB2OWREYzZROXZmWEE0aUVXZ1Q4QQ?oc=5",
-          "published": "Mon, 26 Jan 2026 00:13:21 GMT"
+          "title": "Gold blasts past US$5,100 for the first time as precious metals rally on global upheaval - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNG9qOXlIZGFEZWlrSE9ra2VTYkFRWHdDZDdDRU1yQ3FJalJqaktUSFpTQ3hiSkVpVko0TFNYSFNTUWpST24wSjRwMFNRNTE1amItckN3NDByNTJqaGdvMkZFQVdGYmFRdnE1NGptUE4yX0s1bDZseUoyTUtDcGlJUTRZZVFsTTIxN3V6d2tYLVBTTk9iRmRBSzBQOHJqd2FTM3JjRTdwMktvbHhZcHZ5b25KSFVIa096dkNMNlpKMA?oc=5",
+          "published": "Mon, 26 Jan 2026 08:26:19 GMT"
         }
       ]
     },
@@ -118,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Game Observations: 8 Takeaways From the Patriots AFC Championship Win Over the Broncos to Advance to Super Bowl LX - New England Patriots",
-          "publisher": "New England Patriots",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSUVfNkt5Um4yb0FUNGdmMGRwNEd6VFVUYlVDellQTlNJR0RRNVZPdlRZTndtSTdCRmpaZFNyVWxTSF8yWm5WYzhORWRTVFNhVmNvLXhyZ0tJWWV0RVJOVDRjT1FkZ3ZLdV9LREMtRnJBMDNsVUR5MTR1NkdnRFZjUHZkenUzRmRmNmloM19iUVd5c29HczBZMXpVR0VOUlNBSWR2YXk0RjhlLXE0NU02YzFoSmFlZ1B6M28zTFp3STgxZzk0VW10Z3YzTUt0OEUxNGpEYlBQaFJqd2s?oc=5",
-          "published": "Mon, 26 Jan 2026 03:07:40 GMT"
+          "title": "Arsenal 2-3 Man United (26 Jan, 2026) Game Analysis - ESPN Singapore",
+          "publisher": "ESPN Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96RWhFNVhlSGJ3cW1fWFVpNkdQaWE4WFdxMzN2MEpyYS1NSDc3OThROFpCNHdjQktCYzRKTEIyTkRXQ2lkWVR2c21tY1FBM2RGTXNpaTNQUDVaeEJfeGNwbEFtZjFhZw?oc=5",
+          "published": "Sun, 25 Jan 2026 19:28:54 GMT"
         },
         {
-          "title": "Reporter Bob Condotta grades Seahawks’ win in NFC title game | Analysis - seattletimes.com",
-          "publisher": "seattletimes.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOTVDWEFTbElSQ2NXZG5lZXVtdlpvSU1oY285eE9zdGhIaDBZSk9vYkhLdDJnVVhJczVjbVFsZUx4ODZjZjZmYUYxeEd6bVNJRDlkdFBWYzZXaXlUaXBnYlYwaUY1NWd5TTMta3dja3lsalUwa0llS1FidFIxaWU3WkpqeDlReFlCOVNaUTU0Zm42TVhVUmMyeGozc0F3Qi14RElzTDN1ME1rR1ZXMTBIZWl6Sk0?oc=5",
-          "published": "Mon, 26 Jan 2026 05:30:38 GMT"
+          "title": "This mother-of-two became a 'sports mum' to hundreds of Singaporean children and youth over the past 13 years - CNA Lifestyle",
+          "publisher": "CNA Lifestyle",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTkRpbjB3dDVMNHZCN2xuem9fZEJEZExPVGYyMERGTlg5LXkxUEdSUG1OMEwyS2E0NkVEanAwdjlrcW1ncG92QnFtSUVnY18yS0lCUUgtcUNLdlc2R2pkdU1EWEtaLTdYZGtfWUFXYkM0OHZLZktpbmhzRWdwMy1PSnhuUjF5UVBUSk9SZU0wb2d1ZlRCdTJBcUxCbDcyS1B1bDl2MW0wQTByMWZQSXRv?oc=5",
+          "published": "Sun, 25 Jan 2026 23:34:00 GMT"
         },
         {
-          "title": "Super Bowl 2026 preview, odds: Analysis of Patriots’, Seahawks’ chances to win it all - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXduQnIxb0ZIMFBpRk80N2VMRVNUSlk1SFNHMVlwcGJPLXpZQi01REx4M0lPSkFWWkpHT2VpalpiNVJoc0x3MUFJVUlQamdGall5dUMwSmFhTVFVWlk3REd0S3pLX19fRFBBU2RNSzNXVnV1b2kxY1JHS2pjNHVEemlFZ2k0cjZzMV9OVXlPTjc5eUFqNHozeDdTR0YtNXJWV1pIalEzLUMyUGZZ?oc=5",
-          "published": "Mon, 26 Jan 2026 04:05:04 GMT"
+          "title": "Andy Robertson to stay at Liverpool after Tottenham transfer talks pulled - liverpoolecho.co.uk",
+          "publisher": "liverpoolecho.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEJjcDFZVFVIclBKOHBLTXQzN2ZlTFF5VFJLNHhTM3pneGU3OXNYUm0teVBBeHFnanAyT29LVE0zT205a09OdFV6ckE3RFBhQ0h2UTlIM1F5TkgtVVhjZkNFLW9aQkdyZ3E1SUFNenFmMUtxdnpIUXVaNTBoUURZelZjVFcwNHU1SzlVMUtWRll1OUxYQW40U0xoYlZVXzFLb0N5TzVHcTFvdU5UVldCZlBfQdIBuAFBVV95cUxNVzRzSjVGOC1YMU1hZ0dUTEZQV1FkSW9xd2hGMkNfdGl2S0o2cHhvc05RTzJLWnpiQmlaZkRFRUZOVXN4MUdBSkdhRURWb09ldjMwOVVhY1JsenVZdUVDUHY3d0VNbTFyVllJdnpGT0NWSENoS01TNWhrYjFiUllSdHdMUHV5MEE5dm9VWGdBNm9oLTRuMVZPUkxIcTN0SC1hNEppME1Yam9pQmZqRVdpWFYtR0Zxak1O?oc=5",
+          "published": "Sun, 25 Jan 2026 22:27:55 GMT"
         },
         {
-          "title": "‘You have to believe in things, sometimes before you can see them’: Mike Vrabel is headed back to the Super Bowl - The Boston Globe",
-          "publisher": "The Boston Globe",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkI3ZVZGVUgxd0c4ZWtaa1pLRHA2bVZMNy1sOFh6N2xremxFdWFHYWp1U1YtUkRHMGNKT3RSMHNRdHFINThWc0tadS1tOW9zZF9kdVVnVTVDV0lqZnI0enE2UlJqZkhGalFBcTcwUE9YelVyY1NPNWF1alF6Smk0cXVTdXc4a2xIRHltQmtRMk9ieTdadjl2QTA5Zw?oc=5",
-          "published": "Mon, 26 Jan 2026 00:34:01 GMT"
+          "title": "'Very tough to take' - Virgil van Dijk's assessment of Bournemouth 3-2 Liverpool - Liverpool FC",
+          "publisher": "Liverpool FC",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3Q0eTN3c3l1aUJFNHpJNnhGREJCSm9PXzlXN1IyM2x6bHNRX2UwTk84Z3pMVnBld3VsNkVzSXYwSTB4QjFCWmFOejB3U21LajBaNFpzVzR3TzNINUNvU3JObjRQOTNjRW12RE5RN3FDOGxjWFV1RS1lOFVEQ0JJd2NFbkFOLS05VHIwUExSbVoyVHF1VWhUcE1BTjdwcnFKaVdUMtIBrAFBVV95cUxON05hRy16Tk9CQXo2LTdrOUVzTTc4cUhkaURndTdSQllJeHN2ZkNaSHFzLU1sSGZJY2puTFdyZS1LZU5BT01TVkk5b0lrRlVVZG5TMW9MTHR5c0REbzdOdG12bmZQWlgtaDBuUHlWWnYzUEppSERHVXpWMnBZZm9fN2dvS3ZreHV2alRIS3BVSldGVG5zQUJJSHljWi1FRjZDYnlVUEZEZDFoc0dV?oc=5",
+          "published": "Sat, 24 Jan 2026 21:03:40 GMT"
         },
         {
-          "title": "Minnesota Timberwolves Hold Moment Of Silence For Alex Pretti Ahead Of Rescheduled Game As Attendees Shout ‘F— ICE’ - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeXdzRHh0RHpqYjkzRlNsd3J1cDVHU21ROW5vaXFlaWp2QmRQemJ3Z1FwWXJyOWk5ZGw5a2JXWkphTl9YUjl2cEM4S2M1MFk1eDhzaUo0Ni1YOVZfUjA0MkVTdmVKdHVUUFlBeUx1SWFnMTFaaE1RTmZJMS1DM0dEZHJ4TlBLV1FaeVBsQ2RyUXU?oc=5",
-          "published": "Mon, 26 Jan 2026 01:38:00 GMT"
+          "title": "Japan defeat China 4-0 to win third U23 Asian Cup title - VnExpress International",
+          "publisher": "VnExpress International",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVDI4U0FIY1kzRzV0MVA0SEF0M0NRdXFSUnFZNlV3VEwxbWdhbXYtb1h5eGlSWk0zbWJ2THJzR0pUMmhySmY0VkxuMFBTN0VQMloyZ01taFUyaV80MkFNbl80LWhYdGVnSjA5SUxXRHp4R2ZzX2F4TW5nNV9oYkJlZi14aUJ3NXh1ZUtGNVdCdlAtclRvcE94TmpGOVkxazZGLTZBTmdMNTBGRXFz?oc=5",
+          "published": "Sat, 24 Jan 2026 14:53:31 GMT"
         }
       ]
     },
@@ -154,34 +153,106 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Apple Reportedly Aiming to Upgrade the MacBook Pro Twice This Year - MacRumors",
-          "publisher": "MacRumors",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUU42OFZmS0tIRkZtNHFpdjE3T3ZnSGkwRXdUaUhLRG5jVDY5am9hVmljWjNfSFhTRHpjdWhJQko2SE5IUVJsclpZWEl5VU51czIxRFZid3l3T3REdGhvTkJQZHhUZnRubU5SbFRyY3NFcFFvZGVMd0FLYlFUUUVCd2hn?oc=5",
-          "published": "Sun, 25 Jan 2026 19:46:28 GMT"
+          "title": "FLASH: The approval for Phase I of ... - Mysteel",
+          "publisher": "Mysteel",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGFoWkpaa3hxYTdxSC1xaHdQdDNPZVJqOEZYNnN1VlRfYzY3c2t0Zy1OcWtuUloxRjlaYVUzUEVDUFZqSFVKX0paeldsWUprMTQ0cjcycnpvQms2MHJtanlzekpOdUU5bVgwOWVvMDJsamJzSnhqMzFST19pZzVacnBON1RqcjEwalNqTFQyeVpJMHR1VmZqWnpXc1dFU0FfTmZWYnJ6MEozWFdDalphUUpzaEU0Si1tTVMzQmwwQ204bVRvZGc?oc=5",
+          "published": "Mon, 26 Jan 2026 07:35:13 GMT"
         },
         {
-          "title": "Here's How Much A 2021 Chevy Corvette Has Depreciated In Just 5 Years - Jalopnik",
-          "publisher": "Jalopnik",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83ZXBNYjNLYVpKTjBjLXV2TkJlT3FBNDh4aVQxZDRnRnFYQ2hEWnVNQVo1VnhoaU9HaWlvbHBIOWNXQ3VBNkl6VW1fX1VNckNKbVVMdjdtYXF4ajdVeGNJVENsazhUV1h0VnNlZkFOeVpOcnhGWThEekJ4TnduQQ?oc=5",
-          "published": "Sun, 25 Jan 2026 21:05:00 GMT"
+          "title": "Introducing: Chinese Indie Watchmaker Qian GuoBiao Launches a Split-Seconds Chronograph - Monochrome Watches",
+          "publisher": "Monochrome Watches",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDlNNW43OUUzMS1iYUlSMGVPaWlqeHpiTmpFUGsxR3BOZlFydnh2ckFqa2JGOXJHRmVSaG9WNU9GRURsZEFCRXdyTGZ2V0VRSENISDBKbTVISlBOejdzYXgxd0xzTXBXX1Z2Q0JlZGdYV21WYXZGNFVxbTVKUXpwejhLZTFKQTRZa043VTdpb2hPelhUSWdIVU5IQ2l2NW1yTjdmWExRWmtzX1BkN0V4Rkp2Q19wLWZwSE4zUVhiSm0?oc=5",
+          "published": "Mon, 26 Jan 2026 07:30:27 GMT"
         },
         {
-          "title": "I Don’t Wanna Gatekeep, So I’m Putting These 27 Cool Things On Your Radar - BuzzFeed",
-          "publisher": "BuzzFeed",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tUG42X3JGeTRMYzd0ZXpsQkw3eDRlelU2a3N5aHRXYzBHbzZZVTlRQ3RMYUl0N2VIdE9xTHg5VWFaZktDaU1IWEpHYkowMUFWRV9rTHFLQmdORUF5a2RrWWxOQ2FVeF9BRmJscV9BdllKVFpOZjZPNkFMcw?oc=5",
-          "published": "Mon, 26 Jan 2026 01:01:04 GMT"
+          "title": "FLASH: SolaX Power signs the 2026 S... - Mysteel",
+          "publisher": "Mysteel",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONTg4OFJtMHhoeHRfeVp3T0pTR0hkeGkyeFU1dm9ObVBhbTlTZ05DZ2NUSmFGR19zSEJyOTU1amQydHMzbWE2S2xRTjJ2YWRQR2wyQjN5bjZ3cjNhX0tKMUQ2TWJiLUNSSFdoZnB4Rmx1QmkwVFlQbkZMQXhOWWRKMG93UExiRVRuRmFOZkpwZzJzbHdhdk5hWjEyYUg4Qk14d1V2MUFRSWREVUplRXduLVFoZlVfblZk?oc=5",
+          "published": "Mon, 26 Jan 2026 06:36:19 GMT"
         },
         {
-          "title": "5 Free Apps Actually Better Than Premium Alternatives - bgr.com",
-          "publisher": "bgr.com",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sMXAyVndYSEZrR1hoSjRVTGQ3cFFTWGtwZnlyZXZuZXBpbjYyZHRFNVJ0NGJXWGJSbkJQMDVxUk9wRHFwSnRaRlJYbDU5TnVycC1OM0h2LVFwZEdWc2NLTW1YZ21pSy1Fd2pWQWFiTTJxWjJ1?oc=5",
-          "published": "Sun, 25 Jan 2026 22:17:00 GMT"
+          "title": "FLASH: The Yuan 500 million high-ca... - Mysteel",
+          "publisher": "Mysteel",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEd6Mjg2dmZiNmJabW56LXJJQWpVTjh2SlNJWndOYjA5ektUZk9lMFdvQ2lPTjQwb2dzamlSbGxja2RTYVpKekZnSXVuQ1pUakcxeDJCU2gwN0VGcnVWNGp0VFdRMDNIcEVheXFsbmNZUlBVc080TmtxY1NXRFlRRFpmRFpWcE5KV19WbEFzdWlRNlUycEtYQVU5QS1jZE1QbWJTSVJxWG5EajFwTU9pVks2bTlxN1ZrbHBkbnVn?oc=5",
+          "published": "Mon, 26 Jan 2026 05:49:27 GMT"
         },
         {
-          "title": "Samsung Galaxy S26 series release date tipped in new report — mark your calendars - Tom's Guide",
-          "publisher": "Tom's Guide",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX2pUSkU2cGhvQ0xXYUhzbHBjaV9EYTl6VkFvMkQyUlgyZVNDRHY2dVU2TG9kM3NuQlhwWkp1ODY4UFBUbGw0VmN2QTVXNjRzYXNocFhKTUZHakZsWk9kNE5vOUYySUpKMlQtRnJuNDhuVFRLcENqVGNfaTZEd3UwNFNxdWZqT3VFNklVZGF3aGRBVC1vTXV4VG5EWGlXcFJzQ3RZUzBVbGJoVzFneUVFTnIzaDZKclUzMWdrNW1oQnlaa19fYUE?oc=5",
-          "published": "Sat, 24 Jan 2026 18:41:54 GMT"
+          "title": "Reolink TrackFlex Floodlight WiFi: Outdoor Security - HardwareZone",
+          "publisher": "HardwareZone",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZDVfQlF0NFFRcXRHMXBmZEx1ZjhxNmUyUmd3ZG56ajgyOHRQcWpZd0p0cXZFSG5sZzdJekU0N2x5Y1pUN2lEdHdfMjItVWE1ckhmQm91dzNGRllzS01Zcl9jMFk3Z1pLalVNcU5UMFdpRHhCNUtoWnFCT2FnTGxTLWlRYjRNRm0ySnVOdjRiVW10SU1xS180SVhrbE8?oc=5",
+          "published": "Mon, 26 Jan 2026 03:58:21 GMT"
+        }
+      ]
+    },
+    {
+      "id": "football",
+      "label": "Football (Global)",
+      "items": [
+        {
+          "title": "Beating Arsenal puts Man United into Premier League title race - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWVJhOVMwY2ExM0tvNmd5M0J0Vmd0RmpwQWh6V3BzY09qQlNCdmlVd0p4cW93dGxVbkdHTW12ejRiVk42YmdQUi1hc3JLRy05c2FkZ3BkR3R5VE1RUGlGUE5Zd0F1b1AxZm94MC1VeFNPNzhuSGN5X0NzY25HWG9XX0trS0I4cDhHWFNidTBvQ1l0aHhSeUQ3UWxScHFXR19zM3lETkRHNGVmdjFKQXFUNWpn?oc=5",
+          "published": "Sun, 25 Jan 2026 18:57:00 GMT"
+        },
+        {
+          "title": "U.S. welcomes soccer fans for FIFA World Cup 2026™ - ShareAmerica (.gov)",
+          "publisher": "ShareAmerica (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZN3Z4WklWcHJoTFR3QnoxWWdlM0tEMDdEX01HbWJPTDZxVUtfSFluaDQzTVktbFNEV3BpSmlMb19pQVhQZW5LamxKbVJVNmprRE1Ua0Y2cWZpb3UzcGo1TjFTakhuTlJZd2s5Wk5adzJIRUZlMUlrSU0yT0lzRkk?oc=5",
+          "published": "Fri, 23 Jan 2026 22:33:34 GMT"
+        },
+        {
+          "title": "Michele Kang’s largesse for women’s football leaves Fifa open to bias claims | Tom Garry - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEJHQUZBWFdHY3ZNejlJdDF1TzIzNmtvUVY1bDFJUU1WZlRpSVRCQnVDMjc1WlU4WmYtYXgwNGJmZGtVajZsTVA4ZkEzeC1qX2d2RGtleDVZdVh6MXFheG1iRDg2MVhVdmxqaWxzVk5uOTEzVkxiUmxUT0VjTFBYSXJZMnpsT0dDOHd3X2N5TTgzbEtyYWtuNGJQSnc0MnVCc2RCYkoxcDhiemRncV8zM3paeVgyRXRfUVVSS1NRYWc?oc=5",
+          "published": "Mon, 26 Jan 2026 08:02:00 GMT"
+        },
+        {
+          "title": "Norwegian Football Association confirms Greensboro as base for FIFA World Cup 2026 - myfox8.com",
+          "publisher": "myfox8.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRHZnV0NsMkQ2U1l4akg3Rk5SeGVvSWhobDZxckQ2Z2tvSnpYN2xJZzhDbDAyWjNPNXIyblZZOTJaRGppTnNmMlV2QWlSa1RuWUFvR0dNaXRLVnA1SVpIOVdtSGhTXzdHRWZFLVgyVG85QTVQS2FzbHJ2TmJ0WVVMM0RsRVhDNDRnSWcwUnFqeWZPMWtvaVlLd1BRMWE3ZWxYNEhiMXFSbFBTZ0p6bHM4azFaMGJaMTNTdkZLV1JCZzZYQkhHOHRrTF9ZeV9sd9IB0wFBVV95cUxON2R6UHFCWUp5MmFkYnVMLVYxMFotZEFrbEtHaDNIb3hQQW50Rkk2VU5uTzNwbzNDSWR6TEFPZDZaUTFaOGJPeExFQTRWYTVNeU9RWDItN00zTWs5a2VxY0Zqd0ZvNXJKTTdqRTl0NDVlOUVLTjhiMEdrV1ZZTXZzTlRhQUxtaDdXaWhXY0dpNnp1N0lVRVROVl9rNVd3VE0yU3pSVGJpMzdjVlZXY0dMdjFvOGxBZ3FRNjRPNm56ODFIYjF4S2laN3dUdkYzN1dpSVgw?oc=5",
+          "published": "Sat, 24 Jan 2026 21:47:52 GMT"
+        },
+        {
+          "title": "Arsenal vs Manchester United 2-3: Premier League – as it happened - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakd4LUdpMkhZdkg0QzFMUGJweFQyb01WaEc0U2FLbnV4XzNQTTVDUjlMenNfbU1TZ0ZaUG5KSGYtR0pWMUQxX0cwQXdNSE93Rjg5c3VhY2NSMFkzWHpfZGIxS1M2bEdlbnJXRWplTUwyR0VWSjdMR0N0d1JEYWZDOW5ZckszNzNTMHJ6SzNlcnVTMk5CRFB5M0o3d2RQWjUxbjFIN9IBqgFBVV95cUxQTUtFX21hck0wekhRZkVJVElGZEJtTDRfLXNLSEp2aHRlRUlDNFRRM013YUtMTVBDdkpQdFF4MzY2ZDhHQ080RWVYcmJOUzhLWGVqX2kwaHVGV1JhZlc0bVhXNW9jWHlfQXpxSlh4X0NEejd1Z3BkRWNBSmdMcm9hZ296VFdMcWdfa1NCYmZuemZMOHJvV3k3T2dRaWpRMWRfNW5tUzJXaklOZw?oc=5",
+          "published": "Sun, 25 Jan 2026 21:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "entertainment",
+      "label": "Entertainment (Global)",
+      "items": [
+        {
+          "title": "Weekend Box Office: MERCY Shows None, Takes Down AVATAR as #1 - Boxoffice Pro",
+          "publisher": "Boxoffice Pro",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcGl3Q0htbkNUQjY5bjBTQmVIRXFxLXZoRUd1TkJYR0Y1WlM1ZkdGT2VkUlB2RDBEa3NlN2lyY1VJcjV6UHJmR1dtSmxZM3JQcU1CZi05WEtZSnJRb1FJSWk2bXQ3c3ZYd3dSNFpLOXFhbW1EaVVPQlUtbjhYczhwRG5ueWVidFpNUmRLQ0tHajN2dw?oc=5",
+          "published": "Sun, 25 Jan 2026 18:30:27 GMT"
+        },
+        {
+          "title": "The Housemaid Worldwide Box Office: Where It Ranks Among Sydney Sweeney’s Last 5 Theatrical Releases - IMDb",
+          "publisher": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XV2ZWQno3UFZ0Z2lLR0lHSFB0ck5jcEhmTDlYU2JfUVBKd2JSREd5X3hWTUctZkhEZlcxb0hxcTBMbHNGakc4YmE3S0NEd2U3c3J2UTFKSGdQUzd2U094Q1ZqOGtzbVU?oc=5",
+          "published": "Fri, 23 Jan 2026 05:37:22 GMT"
+        },
+        {
+          "title": "'Blind Side' Actor Quinton Aaron Hospitalized After Falling At Home - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnhYSVRUN0hIOTlkcmxxeEVTakxyTmRBWTBrMGloSmprVHRpcjcwZldkRjI5WmpaTDU0U21fVDAzQjRDZ05PUG0zbDFKV3lhRkFHcFAzSWpuSjRWT05BZHlPampKQUZiaVZxS1VIZ29VaV9ObUJHUFY2WHM3VUJVU0dQT2dBOEluZWNjcEkzUHhFWjN0Q1ZhTG8xTDZxZw?oc=5",
+          "published": "Mon, 26 Jan 2026 01:06:41 GMT"
+        },
+        {
+          "title": "‘For the authoritarian, culture is the enemy’: Salman Rushdie talks recovery and resilience at Sundance - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0dxeDZhUTNsT3VTTnJza0NhODJNb2ZFaVpuYURoMVJGWHg1alU3LVZ1U2tDSnZyUHB2eVNiMFhuYXU2aTBnX1loVzA1VGsxUVV3RV9oa1pzLXJjaEZod3UwdXc2b2gxRDdlTnhQc0t1X3Q5clZKZGpPRTZuSU1rY2hEeVNoaWZDeXEwSFlfX00xRnd1VnZLd3FnRVBzQzlFSHVMMGlsdEVaTlljWlpnMmQyVmZwQkgt?oc=5",
+          "published": "Mon, 26 Jan 2026 03:54:00 GMT"
+        },
+        {
+          "title": "2026 Oscar Best Picture Nominees Ranked By Box Office - SlashFilm",
+          "publisher": "SlashFilm",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcTRFbXo2XzVRU1ZZd3A1R2ZFdTRERjltOS1nQjg3V2lKbEx6SnhFcmtvcksxRUFnT3dzNU5hNTFUOWlMV091OUxqYmZMMndyQzlOZzlLT0JmNGtUWURKVnYtRlNIU3MwVGVXbmYtNmxyN3NoTUQwVGVQaXBRcGRTTjRTUWIxZjI0bkN5SEh5Yw?oc=5",
+          "published": "Sun, 25 Jan 2026 18:00:00 GMT"
         }
       ]
     }
