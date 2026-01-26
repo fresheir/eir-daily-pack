@@ -80,7 +80,7 @@ jobs:
 
       - name: Build daily packs
         run: |
-          python scripts/build_day_pack.py ${{ matrix.cc }}
+          python scripts/build_daily_pack.py ${{ matrix.cc }}
 
       - name: Commit and push
         run: |
