@@ -1,43 +1,43 @@
 {
-  "market": "AU",
-  "edition": "en-AU",
+  "market": "CA",
+  "edition": "en-CA",
   "generatedAt": "2026-01-26T07:27:32.395764Z",
   "validForDate": "2026-01-26",
-  "source": "Google News RSS (AU)",
+  "source": "Google News RSS (CA)",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
       "items": [
         {
-          "title": "Crowds warned to stay away as security threat mars Perth’s Invasion Day rally - abc.net.au",
-          "publisher": "abc.net.au",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVZnWmQwcy14MnYwTWh4c0FCYU5XY2g0a2ZQMzVGV2RBNEsyd05RQW9zNkxic1c4Q1dGSHExVzh2a2czSzBnSmJpUzBlbFQxcVluT0Jzam5RZjBQNjZ6alpoQTZTMDVOaWg2RWlBZGppdHpRdEJEdXBWb2FWeW03emExV1ZBZ1FXY1NYMWg0cFl4WjRJSFhZWTRiQ25meENGNDduOXA5MA?oc=5",
-          "published": "Mon, 26 Jan 2026 06:44:21 GMT"
+          "title": "Some Winnipeggers relying on bus shelters, constant movement to stay warm amid extreme cold weather - CBC",
+          "publisher": "CBC",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlRFNzFkS3hmaWpKTE9wMzFmTkM5TVlpWUljd09NMGQ5d2xmTUJiUTNuY293VzAtbVA3all3a1FMaVdONWZmSmV2MXRwQXQ3M3ptQ3R2SWYxeGFoZWRUV3V1RUIxRUdMNkRTaE1tYUplZUJRdjhzNjVsWERPdG5VRlVFRUY5aE12bUR5OGdpc0RjazA1a0hLdVBtazU?oc=5",
+          "published": "Mon, 26 Jan 2026 00:15:00 GMT"
         },
         {
-          "title": "Astronaut Katherine Bennell-Pegg named Australian of the Year for 2026 - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU0dXbW12b2VSbmJDeEs5eUZFa1ZEVk9SdjBQSW5GVktIa0syNG5oTTNKb3Y1QTgyOUFwMHFZbVNfVDJlWVkwTkxhUHd2QjhMTWYyYnlUSnhxYUtQOG1SSEhwUVRSbFdLcUN5MUNqNlNMSENuX2tBeVE5LTd4U3Z1VTdOdlhDbFZ5YXdXMjdMekktQVR0UkZEWVN3cDFCbktnT21mLVJ4bFd2MmprX0tidFFLUVBzMFdGYXhQdVp4VzAwUnM?oc=5",
-          "published": "Sun, 25 Jan 2026 21:03:00 GMT"
+          "title": "Schools closed, buses cancelled on Monday as massive snowstorm hits the GTHA - CTV News",
+          "publisher": "CTV News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWM1dU1KVlVkZEo0bEVsbjhxV0pHcFdYOUFYblJ5d1Y2Tm9pck0wT0p2aTlPLWZtSXRkRTViRjZKRDBZMVd3ekp5cFJySFFFWlQ1TmVpSFVNQk1fcXhaM05uZzZsbV9aTEVyZEJEb2UwTlprSVhNM1l6Z29HOEhhN1VVaEdZUERBdkVNNVRTdVFpSTlLYXJUQXdmM0tLMEprMUgzb2Zjd1I?oc=5",
+          "published": "Mon, 26 Jan 2026 00:07:00 GMT"
         },
         {
-          "title": "PM: National Day ‘is a chance to unite’ - The Australian",
-          "publisher": "The Australian",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMl85cXVmQTh4Q0Rxb3paMmZScDNwZDJnUnVyS2hxRUhVdWZpRnFxNVVDVk1IZDJVNHFEd1N0YmYxenAyRmZUMWxVZ242TG5yZU8tM2VCUVU0cFZ3Ujd6N1BhSkU3R1hidDBlaDZEa0tDSG5SeXUwMEp0SVdNNE5fZ3JoSWk4aXc1QVdBanRWYlA2X2hVLWpNRjZXcFFzODZHVXAyVmJWMUxta1J2dm5IaHRSS1AtZHptZE1vRVJqZE11UG5PRk1BVTlEZFdhVHBUVEYzQUZibFFmQm5XUU9zUDdIVHdadjh1RFpvQlI5QzVxcGlDcG9FTnBQVmdIdlEzV3ZXVmZ3?oc=5",
-          "published": "Sun, 25 Jan 2026 18:45:12 GMT"
+          "title": "'Don’t turn the power on all at once' after long outage, Hydro-Québec tells Côte-St-Luc-area residents - montrealgazette.com",
+          "publisher": "montrealgazette.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGFmWmlwdm9PZVV0ckhGTkg3bFJFZmcwcmNFUXd4QjBKN1lkdDRaTC1nbExabWtmUW03SEo3RGdGNnF1MTIzdTVOWTUxZkJ5VXpnY1RNUmlCbHpNZDNqUHBPajNWZGFncW9zeGpKX2N5aWtFMFFQT3dRUVRONWtHTW9vdTFRQWxCYnJxckV1UFZOa2J0Wm1Ea1d0ekdNaHB5cFBMUXloTkxHR2NpVEl5WHM3MTg?oc=5",
+          "published": "Sun, 25 Jan 2026 23:47:53 GMT"
         },
         {
-          "title": "Thirteen Geelong locals named in Australia Day honours - geelongadvertiser.com.au",
-          "publisher": "geelongadvertiser.com.au",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZkJnVXE0M2RLTGNFS1JQalRVNHZQMWx4OS12X2dCYy1uLUlQOXp1aVRyQjdibXVtbU41QXVfak80R1V2cXZhaC1CcDlEdlVwT1hzUU9FQ2RHVjVWdmZYS0E0a1A3TkRDTkhZUm1UUkZtWHlJdktqTTVQbUhrUjNSMzM2SDRrcUVZZ3FsaFpZOGtpOWt0VzdlaGtnQVJuNzVXVGRrQl9tQy1pbnNaMnIycnNrLTQyelhEcDE2VzVLbVhnWHNweWRlOG55dGZvdGJ0SURITjQ0bHlLVFFQcG43elluUWlJeW9JbWNuTDZVQ3hobFdsT3BxVXBKSEFVMHJUQjh2YkZR?oc=5",
-          "published": "Mon, 26 Jan 2026 02:46:40 GMT"
+          "title": "Carney says Canada not pursuing free trade deal with China as Trump threatens 100% tariffs - CNBC",
+          "publisher": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lTlVVWVR4b01RVDhjb0lGSmY2UUVxMGlZaWJZQnc3QUU5R2dCc1lCeDRvZXBPS0VrTE9RTTZnTWdKZFFVUkVwVTZubE12aFFwY1R1b0Z2QzEzaU5YNDNXVlVNTG96RjdWYmE5Z01zaVFIczEtN0pJX19tWE5SeE3SAYQBQVVfeXFMTnpGdURTMHFSVTVINExKbWR5OTVsY3ZjaGFhdVR5bDlERXRWYTlZeEh1SjVDeGJhdTRpU19JSm1Ddk1QN0g2NFZ0UVRuenRvQWNXZWlnOUt6OXFlel9MSGVqTEcwaThtLVlqWGVheDMteGhoR0duMTFOT2p2MGxDQkh3M2Vw?oc=5",
+          "published": "Mon, 26 Jan 2026 01:45:00 GMT"
         },
         {
-          "title": "Melbourne set to reach 45 on Tuesday; Otways parks closed, towns urged to evacuate - theage.com.au",
-          "publisher": "theage.com.au",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZTVPYXFYVFd2QlBfVnphTHNjbTZiUjByZldqazl6ZHczTDNhd0xIWUdFZmxHMEpsdTY0UVFtNFhiN2M0Zkt5aXJWZWYtb2ZzS0JMMnZ5UUxsRHR3SWpkLWlYZjhuMEthRTBMVWVCMkoyNEhTM3RlWWhxblJRM3VSbGxaMFBaOFFlcy1HeWhxa3N6V2lQdm5ZeG9MWkV2UWpWMlhSMldyWXBlMHBxQXZKWlpHLVV4dDVVZVdDMl9JWldzeXc1aFV2Y2NBT1VUUWhkdUtJb1lmQm8?oc=5",
-          "published": "Mon, 26 Jan 2026 04:54:00 GMT"
+          "title": "‘Upside-down’ record-setting winter storm could bring up to 60 cm of snow to Toronto, GTA - thestar.com",
+          "publisher": "thestar.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1Q3OTlBY0dNdDltM2FWN0ZhT3YzZ0E5dV9yMHR4dUxBd0FmYjc5NkVFaV9uTGJ2UExIMVpidDhOQVRuazNIWGFJQnpzWnoxVlBobEZKaTNiMndrV1Y1enJ5QU43TlF4VHdtSDFkSUlrZzlvNmI5SzhTV0JBZkFLdFpRTWZDMFgwTl9TLWF6TzZPQUQ5VkdvY3JRR3Y0QmpLTTI0WE0zOA?oc=5",
+          "published": "Sun, 25 Jan 2026 19:00:00 GMT"
         }
       ]
     },

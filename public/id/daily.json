@@ -1,43 +1,43 @@
 {
-  "market": "AU",
-  "edition": "en-AU",
+  "market": "ID",
+  "edition": "en-ID",
   "generatedAt": "2026-01-26T07:27:32.395764Z",
   "validForDate": "2026-01-26",
-  "source": "Google News RSS (AU)",
+  "source": "Google News RSS (ID)",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
       "items": [
         {
-          "title": "Crowds warned to stay away as security threat mars Perth’s Invasion Day rally - abc.net.au",
-          "publisher": "abc.net.au",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVZnWmQwcy14MnYwTWh4c0FCYU5XY2g0a2ZQMzVGV2RBNEsyd05RQW9zNkxic1c4Q1dGSHExVzh2a2czSzBnSmJpUzBlbFQxcVluT0Jzam5RZjBQNjZ6alpoQTZTMDVOaWg2RWlBZGppdHpRdEJEdXBWb2FWeW03emExV1ZBZ1FXY1NYMWg0cFl4WjRJSFhZWTRiQ25meENGNDduOXA5MA?oc=5",
-          "published": "Mon, 26 Jan 2026 06:44:21 GMT"
+          "title": "Secretary-General of ASEAN hosts farewell lunch for the outgoing Permanent Representative of Democratic Republic of Timor-Leste to ASEAN - ASEAN Main Portal",
+          "publisher": "ASEAN Main Portal",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPem1CLU11aTdwbDlyaFM4ZV9ZYVBqdUlWX084d1I4enhRM0Y2YlhnZnl1d1p4M1c0YnVvX2VzZmxBc08zX3RwTUM0ZVhncjRRUnVuYzlMLWJXRXBheTliR2tiSEZQR3JLZlMwYXVJbFBWV1VBLWFIWHB2am9xSU5oS0dpelhRMEVCSnZjckZFYUZvT3cxZEo3R1dHbFA0Ql9QMG5YVU9OSC1VT1l6Mm8zWEFrVlk3SVVyeTRNUlM5VWNsZkdsVXVZaEpBckZXeXQtSk1UeUJZUFV5c05KZ2Z6NHFXSjdmQ3NlVjJr?oc=5",
+          "published": "Mon, 26 Jan 2026 06:30:13 GMT"
         },
         {
-          "title": "Astronaut Katherine Bennell-Pegg named Australian of the Year for 2026 - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU0dXbW12b2VSbmJDeEs5eUZFa1ZEVk9SdjBQSW5GVktIa0syNG5oTTNKb3Y1QTgyOUFwMHFZbVNfVDJlWVkwTkxhUHd2QjhMTWYyYnlUSnhxYUtQOG1SSEhwUVRSbFdLcUN5MUNqNlNMSENuX2tBeVE5LTd4U3Z1VTdOdlhDbFZ5YXdXMjdMekktQVR0UkZEWVN3cDFCbktnT21mLVJ4bFd2MmprX0tidFFLUVBzMFdGYXhQdVp4VzAwUnM?oc=5",
-          "published": "Sun, 25 Jan 2026 21:03:00 GMT"
+          "title": "Collapsed natural dam triggered deadly mudflows in W Java: geologist - ANTARA News",
+          "publisher": "ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWFdZVFFCeEhCV1lpZXk5X1ktR3RFWkFPbTRyNmd1M0RvSlhXd1lRS0dZenE5YTFMWkxManh3THdtRmVmLVV5Q2NHX245S3hiLVRuVXB0V0U1cGxWd1RrT0s0QTBjMXM2WngyTlFVUXhEOEJ1WGF0MVhKMzdUc2IwaHpGbHlfX1BmNWdCWUl3R1dKS2RrY215dVBZMlpFRktKOGFrT3d6TTHSAa4BQVVfeXFMUENWdVRLS0NfM0RvbEhXa1hfazAyRm95VEJHUWEtMUU5OXpkTHZBOXZleXVqLWtZUTRWVlRzTUl5cEozRU5ZenkzWjlGaWFvaUJLX3NTTmEwMndzMEYwdDF1d2N2ZjB0aVB5QVVRaDcwbnVTcGtJaUp5Ym5jSWpDYTRMWkkzUzNKRlRGV0N6MlFTbW0zb3VVbVZXcXYwTmdxVWJJQTU2cW1UMjJzeDBn?oc=5",
+          "published": "Mon, 26 Jan 2026 06:01:16 GMT"
         },
         {
-          "title": "PM: National Day ‘is a chance to unite’ - The Australian",
-          "publisher": "The Australian",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMl85cXVmQTh4Q0Rxb3paMmZScDNwZDJnUnVyS2hxRUhVdWZpRnFxNVVDVk1IZDJVNHFEd1N0YmYxenAyRmZUMWxVZ242TG5yZU8tM2VCUVU0cFZ3Ujd6N1BhSkU3R1hidDBlaDZEa0tDSG5SeXUwMEp0SVdNNE5fZ3JoSWk4aXc1QVdBanRWYlA2X2hVLWpNRjZXcFFzODZHVXAyVmJWMUxta1J2dm5IaHRSS1AtZHptZE1vRVJqZE11UG5PRk1BVTlEZFdhVHBUVEYzQUZibFFmQm5XUU9zUDdIVHdadjh1RFpvQlI5QzVxcGlDcG9FTnBQVmdIdlEzV3ZXVmZ3?oc=5",
-          "published": "Sun, 25 Jan 2026 18:45:12 GMT"
+          "title": "15 stranded Filipino citizens quarantined in Palu pending repatriation - ANTARA News",
+          "publisher": "ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa3hUWmtmazRIczNDUWNpUGpMWWc0YjRwMTRHeVBFZFB2RDFLa3ZBSVBTX3NJS2s5U3VWbldzNzhJSGRzM3JVZFZOenVLemxfS0lWM0xVOWxlMEtTaW5Xb19pT1dtOFoxVmxVbk81N1N5anhLNkxpc0lfQm5zMjgtU2NIa2xKd0h1Ymx2U29HYTRIb3AxM3l0TGlsNE4xZVZkMVlhaUFOSzA5MmhO0gGyAUFVX3lxTFB5NlBIaVJCQi1EUW52MFN0VVVEd25tRjQtbFFybXhIUDVpWEFsRU5QdzB4akc3M3liRi1QdEZqUmhlQktxcEVESlRHUFRiQ09aQ0xPaFB6cE9rQ05BejJMdVhNQ01ITE4tbDBzUDlRbV9aeGdMWEJIT2JRVW43dWhzQXhQd1EwZVZ6T1FBZkVVc0hxczE4ckxvVUI2VVVvenJ3ZmhwODd2aEl6NGsydGNHUEE?oc=5",
+          "published": "Mon, 26 Jan 2026 02:06:49 GMT"
         },
         {
-          "title": "Thirteen Geelong locals named in Australia Day honours - geelongadvertiser.com.au",
-          "publisher": "geelongadvertiser.com.au",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZkJnVXE0M2RLTGNFS1JQalRVNHZQMWx4OS12X2dCYy1uLUlQOXp1aVRyQjdibXVtbU41QXVfak80R1V2cXZhaC1CcDlEdlVwT1hzUU9FQ2RHVjVWdmZYS0E0a1A3TkRDTkhZUm1UUkZtWHlJdktqTTVQbUhrUjNSMzM2SDRrcUVZZ3FsaFpZOGtpOWt0VzdlaGtnQVJuNzVXVGRrQl9tQy1pbnNaMnIycnNrLTQyelhEcDE2VzVLbVhnWHNweWRlOG55dGZvdGJ0SURITjQ0bHlLVFFQcG43elluUWlJeW9JbWNuTDZVQ3hobFdsT3BxVXBKSEFVMHJUQjh2YkZR?oc=5",
-          "published": "Mon, 26 Jan 2026 02:46:40 GMT"
+          "title": "Disaster survivors in Agam begin life in new temporary shelters - ANTARA News",
+          "publisher": "ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0RUTHJpa1hBTUx3RFBCbkdYdkxyWFB0dWNTUnZwNVdFREVvaWRINTJpMFVyaHY2NkllWC1TdEFYekVJNGhQaWoxRDBzUGJEeTc2NExOVEdPX2h5bGlOQnVwZUNucXhXejZDZExHWnBTa0N3MWNMTlVsVjdkRnExelZ0eHFrbjJRR1RQVVJTcnNFNl9maWVlbF9RVlNiVmU2TDJR0gGoAUFVX3lxTE1DZlZVY1VYYmszQXFJNWd6V0syUlNSc2VjM1VYVk5IVGdzZlg2ZGVVdmN3aDVFLXg0OWZQbnh3aDN0em1XVG5xMUFiaXUtdFRycUxjb2FrTDJnRjB4RV93SkJEOHVmV2pMMkhUeHVpR0RFX1lsd0IwS0tWX2JwQVN4V2YzcTFZRm9ObXp0dU1ENkJaWmxpdEZhQkxuT2x1VWFJMnBqa1Zmdw?oc=5",
+          "published": "Sun, 25 Jan 2026 14:10:31 GMT"
         },
         {
-          "title": "Melbourne set to reach 45 on Tuesday; Otways parks closed, towns urged to evacuate - theage.com.au",
-          "publisher": "theage.com.au",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZTVPYXFYVFd2QlBfVnphTHNjbTZiUjByZldqazl6ZHczTDNhd0xIWUdFZmxHMEpsdTY0UVFtNFhiN2M0Zkt5aXJWZWYtb2ZzS0JMMnZ5UUxsRHR3SWpkLWlYZjhuMEthRTBMVWVCMkoyNEhTM3RlWWhxblJRM3VSbGxaMFBaOFFlcy1HeWhxa3N6V2lQdm5ZeG9MWkV2UWpWMlhSMldyWXBlMHBxQXZKWlpHLVV4dDVVZVdDMl9JWldzeXc1aFV2Y2NBT1VUUWhkdUtJb1lmQm8?oc=5",
-          "published": "Mon, 26 Jan 2026 04:54:00 GMT"
+          "title": "BGN ensures no coercion of schools, students in free meals program - ANTARA News",
+          "publisher": "ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRUF6YjFKb3VfbHZYX1k4V2o1ZGhrbDg1Z3FPQ3B2RTg0c3UwbUt2Q2stalF6cXk2eWhRb21qcVpPYnNNYXJoSkpwVS16TFNHM0pUTEJmUDNRd00tX2dycVR0NDE1YjR5ZUdkQVZCdjRPaU9lOTZHNm4xa05aUXJRLXU0R3NqOC03Y0w2Tm11ZktWaUZBY1JOM2ZzVFhhMnFsdVRfc1JR0gGrAUFVX3lxTE1FR3F2T3NtdHJZLWdlWEtPa3dzN2FmdklHZ2JRd1p5V3V1bEFWTVlCMFNWUGE4dHNWTC1fWWoydEZZSnlwVlZUaVpRYkRzaFhBcmcyVFA2TzdUX0xDUHhXVm1qZ3ZsNi1JdU80NE5VNnRyMkxfb19jX0hXNVBkZ21SbmRzalNia0UwdUxNS3dXYWlyaTZna3dOUThHSW1vV0FSN1ZUVEVwdDYtVQ?oc=5",
+          "published": "Mon, 26 Jan 2026 06:37:59 GMT"
         }
       ]
     },

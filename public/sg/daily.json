@@ -1,43 +1,43 @@
 {
-  "market": "AU",
-  "edition": "en-AU",
+  "market": "SG",
+  "edition": "en-SG",
   "generatedAt": "2026-01-26T07:27:32.395764Z",
   "validForDate": "2026-01-26",
-  "source": "Google News RSS (AU)",
+  "source": "Google News RSS (SG)",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
       "items": [
         {
-          "title": "Crowds warned to stay away as security threat mars Perth’s Invasion Day rally - abc.net.au",
-          "publisher": "abc.net.au",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVZnWmQwcy14MnYwTWh4c0FCYU5XY2g0a2ZQMzVGV2RBNEsyd05RQW9zNkxic1c4Q1dGSHExVzh2a2czSzBnSmJpUzBlbFQxcVluT0Jzam5RZjBQNjZ6alpoQTZTMDVOaWg2RWlBZGppdHpRdEJEdXBWb2FWeW03emExV1ZBZ1FXY1NYMWg0cFl4WjRJSFhZWTRiQ25meENGNDduOXA5MA?oc=5",
-          "published": "Mon, 26 Jan 2026 06:44:21 GMT"
+          "title": "Medical assessment process for elderly taxi, private-hire drivers to be simplified to reduce confusion - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWkF5Z3dhUU5wZTRQWFgydEJZT01WR05RdVFnTElTU2hLQ1IzRjVKclkxMEthbXctNzVWeE9iaFRnNmw0Y3dzTHJ4WWdlT052S1c5b0dfaDA2T3dOUVpLa2VraXhtTERlN2xOckhSMFZzQS0zemRjek5jV2RrcXhHNmtYbWNDOWFPaDdSbXQzNHdtR3VVY2Q0QlVWdE82VUJ5MWFKeTFKS2stOGdvYTJuUjNBT1hJTVhYREstektR?oc=5",
+          "published": "Mon, 26 Jan 2026 04:32:33 GMT"
         },
         {
-          "title": "Astronaut Katherine Bennell-Pegg named Australian of the Year for 2026 - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU0dXbW12b2VSbmJDeEs5eUZFa1ZEVk9SdjBQSW5GVktIa0syNG5oTTNKb3Y1QTgyOUFwMHFZbVNfVDJlWVkwTkxhUHd2QjhMTWYyYnlUSnhxYUtQOG1SSEhwUVRSbFdLcUN5MUNqNlNMSENuX2tBeVE5LTd4U3Z1VTdOdlhDbFZ5YXdXMjdMekktQVR0UkZEWVN3cDFCbktnT21mLVJ4bFd2MmprX0tidFFLUVBzMFdGYXhQdVp4VzAwUnM?oc=5",
-          "published": "Sun, 25 Jan 2026 21:03:00 GMT"
+          "title": "70 evacuated after fire breaks out at Depot Road HDB flat, 1 taken to hospital, Singapore News - AsiaOne",
+          "publisher": "AsiaOne",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tSkVGbndrWk1CdmZnR3hSQzc4eXFpQVlaVEF1QkhrT29wV3VmZkJPczdtdkV1a1Byc2psQ3dFU1Z4cE14azlqaENNTjc3Y3NqN1g1THpIODhQekhKMndqYk5fdw?oc=5",
+          "published": "Sun, 25 Jan 2026 10:33:06 GMT"
         },
         {
-          "title": "PM: National Day ‘is a chance to unite’ - The Australian",
-          "publisher": "The Australian",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMl85cXVmQTh4Q0Rxb3paMmZScDNwZDJnUnVyS2hxRUhVdWZpRnFxNVVDVk1IZDJVNHFEd1N0YmYxenAyRmZUMWxVZ242TG5yZU8tM2VCUVU0cFZ3Ujd6N1BhSkU3R1hidDBlaDZEa0tDSG5SeXUwMEp0SVdNNE5fZ3JoSWk4aXc1QVdBanRWYlA2X2hVLWpNRjZXcFFzODZHVXAyVmJWMUxta1J2dm5IaHRSS1AtZHptZE1vRVJqZE11UG5PRk1BVTlEZFdhVHBUVEYzQUZibFFmQm5XUU9zUDdIVHdadjh1RFpvQlI5QzVxcGlDcG9FTnBQVmdIdlEzV3ZXVmZ3?oc=5",
-          "published": "Sun, 25 Jan 2026 18:45:12 GMT"
+          "title": "SBS Transit files police report after car allegedly brakes abruptly and hogs bus lane in Geylang - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTd3MDBSOXpZZVViLU82eEluRjFxTkF4NjFybjdWRTJVaUNSeTAzZmotTEhMM1pOQ0Rpc0s0NHRLb01rVkFmYm5WbXhib0JQamlBaFl1ZWpWX1g0RWpRNWVDMVE1cDNrdDBLeFhzbDR1Mm5OR0dNcGRiZEEtT195Y0o1QmlQMElGelRVLXJ5UHh5b3VJRDZvRGhiM2ViVWVLQjk4MW9MMVFVU2RFaUc5Y0M1WmcxN2tBdUE5NnFhR3lXY0FkU0ZFV2Z2dTUzeFFk?oc=5",
+          "published": "Mon, 26 Jan 2026 04:10:00 GMT"
         },
         {
-          "title": "Thirteen Geelong locals named in Australia Day honours - geelongadvertiser.com.au",
-          "publisher": "geelongadvertiser.com.au",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZkJnVXE0M2RLTGNFS1JQalRVNHZQMWx4OS12X2dCYy1uLUlQOXp1aVRyQjdibXVtbU41QXVfak80R1V2cXZhaC1CcDlEdlVwT1hzUU9FQ2RHVjVWdmZYS0E0a1A3TkRDTkhZUm1UUkZtWHlJdktqTTVQbUhrUjNSMzM2SDRrcUVZZ3FsaFpZOGtpOWt0VzdlaGtnQVJuNzVXVGRrQl9tQy1pbnNaMnIycnNrLTQyelhEcDE2VzVLbVhnWHNweWRlOG55dGZvdGJ0SURITjQ0bHlLVFFQcG43elluUWlJeW9JbWNuTDZVQ3hobFdsT3BxVXBKSEFVMHJUQjh2YkZR?oc=5",
-          "published": "Mon, 26 Jan 2026 02:46:40 GMT"
+          "title": "Singaporean man loses $2,000 after wallet stolen at Batam market; pickpocket arrested, Singapore News - AsiaOne",
+          "publisher": "AsiaOne",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUmFMN3dOT2NRd25UbHJ2ZDEwVzdRWTdzOEtyZXBGRVNJM2o5YzVZWVB6bWhnZWhpQWg2dmdvdThqaWRiOFJZUkhfZ0gtQ3JXbWlNdDJzUTUyN3hBVDhlOTZiVkpjck4weXc3UWRRbW41eTU2Q0t2NURKdlp3bTQ1UWhiM1cxWWJ1bEhlYXhxTWtVSUJzTU1CZGtJXzBxOXdjSHlCYnRGcWVSZzA?oc=5",
+          "published": "Mon, 26 Jan 2026 05:08:00 GMT"
         },
         {
-          "title": "Melbourne set to reach 45 on Tuesday; Otways parks closed, towns urged to evacuate - theage.com.au",
-          "publisher": "theage.com.au",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZTVPYXFYVFd2QlBfVnphTHNjbTZiUjByZldqazl6ZHczTDNhd0xIWUdFZmxHMEpsdTY0UVFtNFhiN2M0Zkt5aXJWZWYtb2ZzS0JMMnZ5UUxsRHR3SWpkLWlYZjhuMEthRTBMVWVCMkoyNEhTM3RlWWhxblJRM3VSbGxaMFBaOFFlcy1HeWhxa3N6V2lQdm5ZeG9MWkV2UWpWMlhSMldyWXBlMHBxQXZKWlpHLVV4dDVVZVdDMl9JWldzeXc1aFV2Y2NBT1VUUWhkdUtJb1lmQm8?oc=5",
-          "published": "Mon, 26 Jan 2026 04:54:00 GMT"
+          "title": "Planks fly off back of lorry towards oncoming vehicles on PIE: 'Final Destination, Singapore edition' ' - Stomp",
+          "publisher": "Stomp",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSU5NR19Ib1lFWElZUE8tMkR6UV80VFNQQ0JCaW12TGJFRVRNZjY2azllOXJuR1pxQmZmRUxDWG8xRTdabVJQYmtqN0ZBSVlualhKam5iRnRCckZrYXNGMHVJMHNGemhDUjAtTjdzdHZad080U2NWWFJTQ1dMNkR2MGswVkV0aXZObnZKa25IekFmMldaZFExRUl3dnoxbDhrM2NOMU1ERk1lZHNxNUQ5SElhQQ?oc=5",
+          "published": "Mon, 26 Jan 2026 02:38:25 GMT"
         }
       ]
     },

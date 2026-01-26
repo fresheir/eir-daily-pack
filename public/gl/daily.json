@@ -1,43 +1,43 @@
 {
-  "market": "AU",
-  "edition": "en-AU",
+  "market": "GL",
+  "edition": "en-GL",
   "generatedAt": "2026-01-26T07:27:32.395764Z",
   "validForDate": "2026-01-26",
-  "source": "Google News RSS (AU)",
+  "source": "Google News RSS (GL)",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
       "items": [
         {
-          "title": "Crowds warned to stay away as security threat mars Perth’s Invasion Day rally - abc.net.au",
-          "publisher": "abc.net.au",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVZnWmQwcy14MnYwTWh4c0FCYU5XY2g0a2ZQMzVGV2RBNEsyd05RQW9zNkxic1c4Q1dGSHExVzh2a2czSzBnSmJpUzBlbFQxcVluT0Jzam5RZjBQNjZ6alpoQTZTMDVOaWg2RWlBZGppdHpRdEJEdXBWb2FWeW03emExV1ZBZ1FXY1NYMWg0cFl4WjRJSFhZWTRiQ25meENGNDduOXA5MA?oc=5",
-          "published": "Mon, 26 Jan 2026 06:44:21 GMT"
+          "title": "Obamas condemn federal immigration agents’ conduct: ‘This has to stop’ - latimes.com",
+          "publisher": "latimes.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQkgxX050X1lqVEdScjJ4dHVvcnZFSFFPdm5ZaWNwZU5LRllDY2NFRDcxcFYtRS1aODJqbkI4SFM3eTloM09pUnY0OThER0RyRHkyN1Ezb2JZaXhyajB1Vk5iOGtmSllXSnRVOWVPSnFTb1BnTnJrdm1DNDVBdldsMU44TjhWcjBPb1lHdWJJeUZ0eFJuZ29qcXNGYkt0OElldWtMQnN0RjRpZjZpbVRmVWJFSjhIdw?oc=5",
+          "published": "Mon, 26 Jan 2026 01:49:06 GMT"
         },
         {
-          "title": "Astronaut Katherine Bennell-Pegg named Australian of the Year for 2026 - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU0dXbW12b2VSbmJDeEs5eUZFa1ZEVk9SdjBQSW5GVktIa0syNG5oTTNKb3Y1QTgyOUFwMHFZbVNfVDJlWVkwTkxhUHd2QjhMTWYyYnlUSnhxYUtQOG1SSEhwUVRSbFdLcUN5MUNqNlNMSENuX2tBeVE5LTd4U3Z1VTdOdlhDbFZ5YXdXMjdMekktQVR0UkZEWVN3cDFCbktnT21mLVJ4bFd2MmprX0tidFFLUVBzMFdGYXhQdVp4VzAwUnM?oc=5",
-          "published": "Sun, 25 Jan 2026 21:03:00 GMT"
+          "title": "Power outages and canceled flights as winter storm brings snow, sleet and ice - NPR",
+          "publisher": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYkJOaEdIWTFJQ1kzNXpyOFh1MTBkeEpaWk9Cb0k5OTdSQ2pUQ2lmSjJRNE9KZld4RmozalpBM25teUVGZDZCSDlmWWlTeWFKei13SGdnN3BsZDdmMFJUeGNyR3ZFMlBNTF9IbmdvZ0laRlFHTjNSd3Njb1ZfYndtc1NWMGt6R2RXNkwtMy1iUjAxa0FhQTMwekJEOA?oc=5",
+          "published": "Sun, 25 Jan 2026 23:36:08 GMT"
         },
         {
-          "title": "PM: National Day ‘is a chance to unite’ - The Australian",
-          "publisher": "The Australian",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMl85cXVmQTh4Q0Rxb3paMmZScDNwZDJnUnVyS2hxRUhVdWZpRnFxNVVDVk1IZDJVNHFEd1N0YmYxenAyRmZUMWxVZ242TG5yZU8tM2VCUVU0cFZ3Ujd6N1BhSkU3R1hidDBlaDZEa0tDSG5SeXUwMEp0SVdNNE5fZ3JoSWk4aXc1QVdBanRWYlA2X2hVLWpNRjZXcFFzODZHVXAyVmJWMUxta1J2dm5IaHRSS1AtZHptZE1vRVJqZE11UG5PRk1BVTlEZFdhVHBUVEYzQUZibFFmQm5XUU9zUDdIVHdadjh1RFpvQlI5QzVxcGlDcG9FTnBQVmdIdlEzV3ZXVmZ3?oc=5",
-          "published": "Sun, 25 Jan 2026 18:45:12 GMT"
+          "title": "Private jet carrying 8 people crashes in Bangor, Maine: FAA - ABC News",
+          "publisher": "ABC News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUzlGSDNSaVoyN20yX2tkSjl4OEpXY1U5UzVrQ2EzcmhiRmtuSzhGNUlBTEZKanRLV1NNR0pvMWVQMkM2b3ZCMHVZYUIyT0lpTW5LTVZGTENlVmJ0TldXNTY4YkhieHBJM2V3Nkp1T2wyd0V3SWQwRi02Z1lZS3hPZmhyTTFkLXlheWplOWJSTnFxWW5xdWZ1Q0lFLWZoRWU50gGmAUFVX3lxTE1WWm51SlFWSk1rYzBKQVNicDB4dEYwUEtaRlM0MDJEVlgyOWZVbHdyMDhZbDVhWTlpUkZNdGdNb0JKZVpDNWJLWEptS0c3TGF3Y1k2S2pQekNOQk92OUMyUjFaVEN2eU5GdmdPQ0REclNnbXJqc245M3N0dk1IQXA2dG1wMkdITEVUeExCYkdwQzZ4cVdaZlFSMVl0b19KNzVuR2tkVlE?oc=5",
+          "published": "Mon, 26 Jan 2026 04:44:48 GMT"
         },
         {
-          "title": "Thirteen Geelong locals named in Australia Day honours - geelongadvertiser.com.au",
-          "publisher": "geelongadvertiser.com.au",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZkJnVXE0M2RLTGNFS1JQalRVNHZQMWx4OS12X2dCYy1uLUlQOXp1aVRyQjdibXVtbU41QXVfak80R1V2cXZhaC1CcDlEdlVwT1hzUU9FQ2RHVjVWdmZYS0E0a1A3TkRDTkhZUm1UUkZtWHlJdktqTTVQbUhrUjNSMzM2SDRrcUVZZ3FsaFpZOGtpOWt0VzdlaGtnQVJuNzVXVGRrQl9tQy1pbnNaMnIycnNrLTQyelhEcDE2VzVLbVhnWHNweWRlOG55dGZvdGJ0SURITjQ0bHlLVFFQcG43elluUWlJeW9JbWNuTDZVQ3hobFdsT3BxVXBKSEFVMHJUQjh2YkZR?oc=5",
-          "published": "Mon, 26 Jan 2026 02:46:40 GMT"
+          "title": "Opinion | The unjust killing of Alex Pretti marks a turning point in Trump’s second term - The Washington Post",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMUFlbkltaHExd3FYV2xaM1lTVlhaSnAxX1o0UW94OERKMkQzSGFTelQyQjEtWnY0Z09scmJZNDlkWmRLZFZCZl9LWlR5ZWdScnJ4NTE2aEZudUMwdk9CRW1yZDY3X0RfMmVOclZCZk1MSW1WSkZzbFM1S3MwTDNxYUU3aGJvWlVQTE1nd0VFY0stV1NPckVxVDZVUmpkczhDTjRhM1Q5YzlsU1BzaEhtcURMVUQ5Y0Zua2I4?oc=5",
+          "published": "Mon, 26 Jan 2026 04:22:44 GMT"
         },
         {
-          "title": "Melbourne set to reach 45 on Tuesday; Otways parks closed, towns urged to evacuate - theage.com.au",
-          "publisher": "theage.com.au",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZTVPYXFYVFd2QlBfVnphTHNjbTZiUjByZldqazl6ZHczTDNhd0xIWUdFZmxHMEpsdTY0UVFtNFhiN2M0Zkt5aXJWZWYtb2ZzS0JMMnZ5UUxsRHR3SWpkLWlYZjhuMEthRTBMVWVCMkoyNEhTM3RlWWhxblJRM3VSbGxaMFBaOFFlcy1HeWhxa3N6V2lQdm5ZeG9MWkV2UWpWMlhSMldyWXBlMHBxQXZKWlpHLVV4dDVVZVdDMl9JWldzeXc1aFV2Y2NBT1VUUWhkdUtJb1lmQm8?oc=5",
-          "published": "Mon, 26 Jan 2026 04:54:00 GMT"
+          "title": "Democrats vow to oppose homeland security funds after Minnesota shooting as shutdown risk grows - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGhqSlpFMXMwZVVfRk1Ja3lsS3BfSFF3MEhEWkpwOUVtV2dqN2lFNzFWQjltWThVQ0xmZHp1WGt4Mm9QdUdXcjVkUWNtTXZ4ME1Kc3VyQUE1ZTZHOHlGNVdMQkFabVBqQ2llRS1IVTR3bTMtdGhEZE00ams2TUJ0V3h2UWpkWkFMYlRfQzd2TGRwTDAxNmlSdHU2d1VFWnIwQWFRUVVMY29MdUpHZnN3UEZfeVkwakR6Q285R1Nqdw?oc=5",
+          "published": "Mon, 26 Jan 2026 01:02:00 GMT"
         }
       ]
     },

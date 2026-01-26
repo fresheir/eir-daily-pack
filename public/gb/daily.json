@@ -1,43 +1,43 @@
 {
-  "market": "AU",
-  "edition": "en-AU",
+  "market": "GB",
+  "edition": "en-GB",
   "generatedAt": "2026-01-26T07:27:32.395764Z",
   "validForDate": "2026-01-26",
-  "source": "Google News RSS (AU)",
+  "source": "Google News RSS (GB)",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
       "items": [
         {
-          "title": "Crowds warned to stay away as security threat mars Perth’s Invasion Day rally - abc.net.au",
-          "publisher": "abc.net.au",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVZnWmQwcy14MnYwTWh4c0FCYU5XY2g0a2ZQMzVGV2RBNEsyd05RQW9zNkxic1c4Q1dGSHExVzh2a2czSzBnSmJpUzBlbFQxcVluT0Jzam5RZjBQNjZ6alpoQTZTMDVOaWg2RWlBZGppdHpRdEJEdXBWb2FWeW03emExV1ZBZ1FXY1NYMWg0cFl4WjRJSFhZWTRiQ25meENGNDduOXA5MA?oc=5",
-          "published": "Mon, 26 Jan 2026 06:44:21 GMT"
-        },
-        {
-          "title": "Astronaut Katherine Bennell-Pegg named Australian of the Year for 2026 - The Guardian",
+          "title": "‘Crash & Burnham’: what the UK papers say as Labour blocks Andy Burnham’s byelection bid - The Guardian",
           "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU0dXbW12b2VSbmJDeEs5eUZFa1ZEVk9SdjBQSW5GVktIa0syNG5oTTNKb3Y1QTgyOUFwMHFZbVNfVDJlWVkwTkxhUHd2QjhMTWYyYnlUSnhxYUtQOG1SSEhwUVRSbFdLcUN5MUNqNlNMSENuX2tBeVE5LTd4U3Z1VTdOdlhDbFZ5YXdXMjdMekktQVR0UkZEWVN3cDFCbktnT21mLVJ4bFd2MmprX0tidFFLUVBzMFdGYXhQdVp4VzAwUnM?oc=5",
-          "published": "Sun, 25 Jan 2026 21:03:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTjJIQzFQZmpkZC1LdkZWeFRRdWM3ckViRGhuMk5wUHQxd29oUHpXbkhiZnV3Q3p6bVNzRGwyenlyTHZuQllXVDBHRi1NVmZsWXRHRUtLRDN6ZTJyaXlkSnBSUDI3TkYzMFRuYTdJelNtdjZnckpOaHM4OW04RVFQci1rRzFLTkV3S2pCSkVHZDJFQTBkWm4xQURR?oc=5",
+          "published": "Mon, 26 Jan 2026 04:55:00 GMT"
         },
         {
-          "title": "PM: National Day ‘is a chance to unite’ - The Australian",
-          "publisher": "The Australian",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMl85cXVmQTh4Q0Rxb3paMmZScDNwZDJnUnVyS2hxRUhVdWZpRnFxNVVDVk1IZDJVNHFEd1N0YmYxenAyRmZUMWxVZ242TG5yZU8tM2VCUVU0cFZ3Ujd6N1BhSkU3R1hidDBlaDZEa0tDSG5SeXUwMEp0SVdNNE5fZ3JoSWk4aXc1QVdBanRWYlA2X2hVLWpNRjZXcFFzODZHVXAyVmJWMUxta1J2dm5IaHRSS1AtZHptZE1vRVJqZE11UG5PRk1BVTlEZFdhVHBUVEYzQUZibFFmQm5XUU9zUDdIVHdadjh1RFpvQlI5QzVxcGlDcG9FTnBQVmdIdlEzV3ZXVmZ3?oc=5",
-          "published": "Sun, 25 Jan 2026 18:45:12 GMT"
+          "title": "Mahmood to call for more police patrols and faster responses to 999 calls - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKM2dUaXRHU1dYOEFlVFJmeHBFMjltZmVCMjZKcGthaUx0MXRvNVNYT0owejlLdElnRFRCODk0Mi1OMkotamhQcFRTVFZqVWpHLVVTLXo4VTFkX3pu0gFiQVVfeXFMUC1uZGp2RVJzTC1vQmFfV3lRRUxFcTJCZDRDc29QSUtnU3dVUjV6bWlWOUhlZjhZWHM2QXRvQVNBSURnRV9uUlR6YzRYRmp1NlA1TnBZa2tWYW94N2tkbzJ5YUE?oc=5",
+          "published": "Sun, 25 Jan 2026 22:33:55 GMT"
         },
         {
-          "title": "Thirteen Geelong locals named in Australia Day honours - geelongadvertiser.com.au",
-          "publisher": "geelongadvertiser.com.au",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZkJnVXE0M2RLTGNFS1JQalRVNHZQMWx4OS12X2dCYy1uLUlQOXp1aVRyQjdibXVtbU41QXVfak80R1V2cXZhaC1CcDlEdlVwT1hzUU9FQ2RHVjVWdmZYS0E0a1A3TkRDTkhZUm1UUkZtWHlJdktqTTVQbUhrUjNSMzM2SDRrcUVZZ3FsaFpZOGtpOWt0VzdlaGtnQVJuNzVXVGRrQl9tQy1pbnNaMnIycnNrLTQyelhEcDE2VzVLbVhnWHNweWRlOG55dGZvdGJ0SURITjQ0bHlLVFFQcG43elluUWlJeW9JbWNuTDZVQ3hobFdsT3BxVXBKSEFVMHJUQjh2YkZR?oc=5",
-          "published": "Mon, 26 Jan 2026 02:46:40 GMT"
+          "title": "Body of missing antiques dealer found off Exmouth Beach - The Telegraph",
+          "publisher": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUp6SzFXTW9FMzRwMUtfcFFKX1JlUHhnc3BpWjA3elBQbU9weV9zcUFaRGxKLTJRTC1hWmdQak5BbEx1anhuQXRPVDRINnJLcVkxSDVDYUE3bDlvYzJRczhRcFdCUGtIMFdWZmVqNW81MW9QSzA0SzR0QS16dm51VWlhYTV1Mml0WEFnLTl6ZEZKek5xSm53Tw?oc=5",
+          "published": "Mon, 26 Jan 2026 00:14:00 GMT"
         },
         {
-          "title": "Melbourne set to reach 45 on Tuesday; Otways parks closed, towns urged to evacuate - theage.com.au",
-          "publisher": "theage.com.au",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZTVPYXFYVFd2QlBfVnphTHNjbTZiUjByZldqazl6ZHczTDNhd0xIWUdFZmxHMEpsdTY0UVFtNFhiN2M0Zkt5aXJWZWYtb2ZzS0JMMnZ5UUxsRHR3SWpkLWlYZjhuMEthRTBMVWVCMkoyNEhTM3RlWWhxblJRM3VSbGxaMFBaOFFlcy1HeWhxa3N6V2lQdm5ZeG9MWkV2UWpWMlhSMldyWXBlMHBxQXZKWlpHLVV4dDVVZVdDMl9JWldzeXc1aFV2Y2NBT1VUUWhkdUtJb1lmQm8?oc=5",
-          "published": "Mon, 26 Jan 2026 04:54:00 GMT"
+          "title": "Thousands march in Crowborough over asylum plan for former military camp - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcDZYWjlLSWVuZm00ZFpaNTdUQTNUSXJ6UVp0dVlpV0N6UXZybGw3c2V4WVoxR2lEd1ppa1JWMlJRSkZEVWNXTklGcnpITlpiZC11VHNMamNrcUVDOE96QU5zZ3Bhdm41b2dtTHJ4R0pOb1JvMHpoV1haZi1MV2YwYmcyQ1I5T0xkNDdyV3Nrd0hWRlY5TlRBMEtFS3N6Sm12UUxMd0xEWEF6RlFMMFU1ejJRdzcyb0U?oc=5",
+          "published": "Sun, 25 Jan 2026 19:02:00 GMT"
+        },
+        {
+          "title": "Teenager arrested on suspicion of murder after missing man found dead in Plymouth - Sky News",
+          "publisher": "Sky News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcGNBRzA0amp4eGNlTGEyT0YwaGxHVXVlUlA4b095X0tiU1oxSi16bFd4MDJFc1BacjZRN2MwemFObDliX3pIa3F1MXFnMFRmeFphb3NLVDZrb2swQ1BTeGdPeG5rOHFMdDhSdU04akxEeUFVNlVvaGZmNGY1empseWtIdFNEYV81ZmdabU8xenhBRXAtYko4NVlSX2o4SkcwSUlVUVBDX0VrYTlIYzdMRXNBRWlHU3po?oc=5",
+          "published": "Mon, 26 Jan 2026 03:59:01 GMT"
         }
       ]
     },
