@@ -18,8 +18,8 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Generate daily pack
-        run: python scripts/build_daily_pack.py
+        - name: Build daily packs
+          run: python scripts/build_day_pack.py
 
       - name: Commit and push
         run: |
