@@ -1,95 +1,133 @@
 import json
 import re
 import sys
+import os
+import time
 from datetime import datetime, timezone
 from urllib.request import Request, urlopen
+from urllib.error import URLError, HTTPError
 import xml.etree.ElementTree as ET
 
-GOOGLE_NEWS_AU_RSS = "https://news.google.com/rss?hl=en-AU&gl=AU&ceid=AU:en"
+# -----------------------------
+# GLOBAL SETTINGS
+# -----------------------------
 
-# How many items to try to show per topic
-TARGET_PER_TOPIC = 5
+# Best-effort list: ISO 3166-1 alpha-2 (commonly used country codes)
+# This is intentionally broad. Some markets won't have Google News RSS editions.
+ISO_ALPHA2 = [
+    "AD","AE","AF","AG","AI","AL","AM","AO","AR","AS","AT","AU","AW","AX","AZ",
+    "BA","BB","BD","BE","BF","BG","BH","BI","BJ","BL","BM","BN","BO","BQ","BR","BS","BT","BV","BW","BY","BZ",
+    "CA","CC","CD","CF","CG","CH","CI","CK","CL","CM","CN","CO","CR","CU","CV","CW","CX","CY","CZ",
+    "DE","DJ","DK","DM","DO","DZ",
+    "EC","EE","EG","EH","ER","ES","ET",
+    "FI","FJ","FK","FM","FO","FR",
+    "GA","GB","GD","GE","GF","GG","GH","GI","GL","GM","GN","GP","GQ","GR","GS","GT","GU","GW","GY",
+    "HK","HM","HN","HR","HT","HU",
+    "ID","IE","IL","IM","IN","IO","IQ","IR","IS","IT",
+    "JE","JM","JO","JP",
+    "KE","KG","KH","KI","KM","KN","KP","KR","KW","KY","KZ",
+    "LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY",
+    "MA","MC","MD","ME","MF","MG","MH","MK","ML","MM","MN","MO","MP","MQ","MR","MS","MT","MU","MV","MW","MX","MY","MZ",
+    "NA","NC","NE","NF","NG","NI","NL","NO","NP","NR","NU","NZ",
+    "OM",
+    "PA","PE","PF","PG","PH","PK","PL","PM","PN","PR","PS","PT","PW","PY",
+    "QA",
+    "RE","RO","RS","RU","RW",
+    "SA","SB","SC","SD","SE","SG","SH","SI","SJ","SK","SL","SM","SN","SO","SR","SS","ST","SV","SX","SY","SZ",
+    "TC","TD","TF","TG","TH","TJ","TK","TL","TM","TN","TO","TR","TT","TV","TW","TZ",
+    "UA","UG","UM","US","UY","UZ",
+    "VA","VC","VE","VG","VI","VN","VU",
+    "WF","WS",
+    "YE","YT",
+    "ZA","ZM","ZW"
+]
 
-# Require at least this score to "confidently" assign an item to a topic
-# (prevents generic AU headlines being dumped into World/Business)
-MIN_ASSIGN_SCORE = 2
-
+# Topics (same as you have, but improved allocation behavior below)
 TOPICS = [
     {
         "id": "local_national",
         "label": "Local & National News",
         "keywords": [
-            # AU/States/Institutions
-            "australia", "australian", "nsw", "new south wales", "victoria", "vic",
-            "queensland", "qld", "tasmania", "tas", "south australia", "sa",
-            "western australia", "wa", "canberra", "act", "parliament",
-            "federal", "government", "sydney", "melbourne", "brisbane", "perth", "adelaide",
+            "australia","australian","nsw","new south wales","victoria","vic","queensland","qld",
+            "tasmania","tas","south australia","sa","western australia","wa","canberra","parliament",
+            "federal","government","election","budget","police","court","bushfire","flood"
         ],
     },
     {
         "id": "world",
         "label": "World News",
         "keywords": [
-            # Countries/regions + common world terms
-            "ukraine", "russia", "israel", "gaza", "palestine", "china", "beijing",
-            "taiwan", "japan", "north korea", "south korea", "iran",
-            "united states", "u.s.", "us ", "usa", "washington", "white house",
-            "europe", "eu ", "united nations", "nato", "global", "international",
-            "world", "overseas",
+            "ukraine","russia","israel","gaza","china","united states","u.s.","america","europe",
+            "united nations","iran","global","international","world","nato","war","sanctions"
         ],
     },
     {
         "id": "business",
         "label": "Business & Economy",
         "keywords": [
-            "asx", "stocks", "shares", "market", "economy", "inflation", "rates",
-            "rba", "reserve bank", "jobs", "unemployment", "gdp", "trade",
-            "business", "earnings", "profit", "revenue", "merger", "acquisition",
-            "bank", "housing", "property", "mortgage", "rent", "construction",
-            "oil", "gold", "iron ore", "gas", "commodities", "currency", "aud",
+            "asx","stocks","shares","market","economy","inflation","rates","rba","reserve bank","jobs",
+            "unemployment","gdp","trade","business","bank","housing","property","mortgage","oil","gold",
+            "commodities","earnings","profits","revenue","ipo"
         ],
     },
     {
         "id": "sport",
         "label": "Sport",
         "keywords": [
-            "afl", "nrl", "cricket", "tennis", "soccer", "football",
-            "a-league", "epl", "premier league", "champions league",
-            "nba", "nfl", "mlb", "nhl", "ufc", "formula 1", "f1",
-            "grand slam", "olympics", "sport",
+            "afl","nrl","cricket","tennis","soccer","football","a-league","nba","nfl","formula 1","f1",
+            "grand slam","olympics","sport","match","final","win","loss","coach"
         ],
     },
     {
         "id": "science_tech",
         "label": "Science & Technology",
         "keywords": [
-            "technology", "tech", "ai", "artificial intelligence", "cyber", "security",
-            "hack", "breach", "data", "privacy", "space", "nasa", "science",
-            "research", "innovation", "startup", "chip", "semiconductor",
-            "quantum", "robot", "biotech",
+            "technology","tech","ai","artificial intelligence","cyber","security","space","nasa","science",
+            "research","innovation","startup","chip","quantum","robot","software","data","privacy"
         ],
     },
 ]
 
-# Optional: reduce paywall frustration — block by PUBLISHER NAME (not host)
-PAYWALL_PUBLISHER_BLOCKLIST = {
-    "australian financial review",
-    "the australian",
-    "financial times",
-    "the wall street journal",
-    "the economist",
-    "bloomberg",
-    "the new york times",
-    "the times",
-    "the telegraph",
+# Optional blocklist (only applied if you want it)
+PAYWALL_BLOCKLIST = {
+    "afr.com",
+    "theaustralian.com.au",
+    "ft.com",
+    "wsj.com",
+    "economist.com",
+    "bloomberg.com",
+    "nytimes.com",
+    "thetimes.co.uk",
+    "telegraph.co.uk",
 }
+
+UA = "Mozilla/5.0 (EirDailyPackBot)"
+REQUEST_SLEEP_SECONDS = 0.25
+REQUEST_TIMEOUT_SECONDS = 20
+
+# -----------------------------
+# HELPERS
+# -----------------------------
 
 def norm(s: str) -> str:
     return re.sub(r"\s+", " ", (s or "").strip().lower())
 
+def host_from_url(url: str) -> str:
+    m = re.match(r"^https?://([^/]+)/", url or "")
+    return m.group(1).lower() if m else ""
+
+def google_news_rss(gl_country: str) -> str:
+    """
+    Best-effort RSS URL.
+    Many countries work with ceid=CC:en and hl=en-CC.
+    If a market doesn't exist, request may fail and we skip it.
+    """
+    cc = gl_country.upper()
+    return f"https://news.google.com/rss?hl=en-{cc}&gl={cc}&ceid={cc}:en"
+
 def fetch_rss(url: str) -> bytes:
-    req = Request(url, headers={"User-Agent": "Mozilla/5.0 (EirDailyPackBot)"})
-    with urlopen(req, timeout=20) as resp:
+    req = Request(url, headers={"User-Agent": UA})
+    with urlopen(req, timeout=REQUEST_TIMEOUT_SECONDS) as resp:
         return resp.read()
 
 def parse_rss(xml_bytes: bytes):
@@ -106,147 +144,162 @@ def parse_rss(xml_bytes: bytes):
         source_el = it.find("source")
         publisher = ((source_el.text if source_el is not None else "") or "").strip()
 
-        if not title or not link.startswith("http"):
+        if not link.startswith("http"):
             continue
 
-        # Paywall block by publisher name (more reliable for Google News RSS)
-        pub_norm = norm(publisher)
-        if pub_norm in PAYWALL_PUBLISHER_BLOCKLIST:
+        h = host_from_url(link)
+        if h in PAYWALL_BLOCKLIST:
             continue
 
         items.append({
             "title": title,
-            "publisher": publisher or "Unknown",
+            "publisher": publisher or h,
             "url": link,
             "published": pub,
+            # add convenience fields for better allocation
+            "host": h,
         })
     return items
 
 def score_item_to_topic(title: str, topic_keywords):
     t = norm(title)
-
     score = 0
     for kw in topic_keywords:
-        kw_n = norm(kw)
-        if kw_n and kw_n in t:
+        if kw in t:
             score += 1
-
-    # Small boost rules to reduce obvious mis-bucketing
-    # e.g. if it explicitly says "Australia Day", it's not World.
-    if "australia" in t or "australian" in t:
-        # local/national should dominate AU mentions
-        score += 1
-
     return score
 
-def allocate(items):
-    # De-dupe early by URL (Google News sometimes repeats)
-    seen_urls = set()
-    unique = []
-    for it in items:
-        if it["url"] in seen_urls:
-            continue
-        seen_urls.add(it["url"])
-        unique.append(it)
+def allocate(items, per_topic=5):
+    """
+    Improved allocation:
+    1) assign by keyword score
+    2) DO NOT "backfill with random leftovers" across topics (this is why your World gets local)
+       Instead: if a bucket is short, leave it short.
+    3) provide a confidence label per topic based on average match score.
+    """
+    buckets = {t["id"]: {"items": [], "scores": []} for t in TOPICS}
 
-    buckets = {t["id"]: [] for t in TOPICS}
-    unassigned = []
-
-    # First pass: only assign if confidence is good (>= MIN_ASSIGN_SCORE)
-    for item in unique:
+    for item in items:
         best_id = None
         best_score = 0
-
         for t in TOPICS:
             s = score_item_to_topic(item["title"], t["keywords"])
             if s > best_score:
                 best_score = s
                 best_id = t["id"]
 
-        if best_id and best_score >= MIN_ASSIGN_SCORE:
-            buckets[best_id].append((best_score, item))
+        if best_score > 0 and best_id:
+            buckets[best_id]["items"].append(item)
+            buckets[best_id]["scores"].append(best_score)
+
+    # Truncate each to per_topic (keeps best-matching first by score)
+    out = {}
+    confidence = {}
+
+    for t in TOPICS:
+        tid = t["id"]
+        # sort by score desc, then by recency string (best-effort)
+        paired = list(zip(buckets[tid]["scores"], buckets[tid]["items"]))
+        paired.sort(key=lambda x: x[0], reverse=True)
+        final_items = [it for _, it in paired][:per_topic]
+
+        avg = (sum([s for s, _ in paired[:per_topic]]) / len(paired[:per_topic])) if paired[:per_topic] else 0.0
+        if avg >= 2.0:
+            conf = "high"
+        elif avg >= 1.0:
+            conf = "moderate"
         else:
-            unassigned.append(item)
+            conf = "low"
 
-    # Sort each bucket by score desc, keep only items
-    for tid in buckets:
-        buckets[tid].sort(key=lambda x: x[0], reverse=True)
-        buckets[tid] = [it for _, it in buckets[tid]]
+        out[tid] = final_items
+        confidence[tid] = conf
 
-    # Second pass: top-up each topic ONLY with items that match that topic at least 1 keyword,
-    # and never steal from other topics. Still no "random leftovers".
-    used_urls = set()
-    for t in TOPICS:
-        tid = t["id"]
-        for it in buckets[tid]:
-            used_urls.add(it["url"])
+    return out, confidence
 
-    def best_unassigned_for_topic(topic):
-        candidates = []
-        for it in unassigned:
-            if it["url"] in used_urls:
-                continue
-            s = score_item_to_topic(it["title"], topic["keywords"])
-            if s >= 1:  # weak match acceptable ONLY for top-up
-                candidates.append((s, it))
-        candidates.sort(key=lambda x: x[0], reverse=True)
-        return [it for _, it in candidates]
+def write_json(path: str, payload: dict):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    for t in TOPICS:
-        tid = t["id"]
-        if len(buckets[tid]) >= TARGET_PER_TOPIC:
-            buckets[tid] = buckets[tid][:TARGET_PER_TOPIC]
-            continue
-
-        need = TARGET_PER_TOPIC - len(buckets[tid])
-        topups = best_unassigned_for_topic(t)[:need]
-        for it in topups:
-            buckets[tid].append(it)
-            used_urls.add(it["url"])
-
-    # Final truncate
-    for t in TOPICS:
-        tid = t["id"]
-        buckets[tid] = buckets[tid][:TARGET_PER_TOPIC]
-
-    return buckets
+# -----------------------------
+# MAIN
+# -----------------------------
 
 def main():
     now = datetime.now(timezone.utc)
-
-    xml_bytes = fetch_rss(GOOGLE_NEWS_AU_RSS)
-    items = parse_rss(xml_bytes)
-    buckets = allocate(items)
-
     valid_for_date = now.date().isoformat()
 
-    out = {
-        "market": "AU",
-        "edition": "en-AU",
+    successes = []
+    failures = []
+
+    for cc in ISO_ALPHA2:
+        url = google_news_rss(cc)
+        try:
+            time.sleep(REQUEST_SLEEP_SECONDS)
+            xml_bytes = fetch_rss(url)
+            items = parse_rss(xml_bytes)
+
+            # If a country returns almost nothing, skip (prevents empty/noise packs)
+            if len(items) < 8:
+                failures.append({"cc": cc.lower(), "reason": f"too_few_items({len(items)})"})
+                continue
+
+            buckets, conf = allocate(items, per_topic=5)
+
+            out = {
+                "market": cc.upper(),
+                "edition": f"en-{cc.upper()}",
+                "generatedAt": now.isoformat().replace("+00:00", "Z"),
+                "validForDate": valid_for_date,
+                "source": "Google News RSS",
+                "rss": url,
+                "topics": []
+            }
+
+            for t in TOPICS:
+                tid = t["id"]
+                out["topics"].append({
+                    "id": tid,
+                    "label": t["label"],
+                    "confidence": conf.get(tid, "low"),
+                    "items": [
+                        {
+                            "title": it["title"],
+                            "publisher": it["publisher"],
+                            "url": it["url"],
+                            "published": it["published"]
+                        } for it in buckets.get(tid, [])
+                    ]
+                })
+
+            out_path = f"public/{cc.lower()}/daily.json"
+            write_json(out_path, out)
+
+            successes.append(cc.lower())
+
+        except (HTTPError, URLError, TimeoutError, ET.ParseError) as e:
+            failures.append({"cc": cc.lower(), "reason": str(e).splitlines()[0][:200]})
+            continue
+        except Exception as e:
+            failures.append({"cc": cc.lower(), "reason": f"unknown:{str(e)[:200]}"})
+            continue
+
+    # Manifest used by the app to know which countries exist today
+    manifest = {
         "generatedAt": now.isoformat().replace("+00:00", "Z"),
         "validForDate": valid_for_date,
-        "source": "Google News RSS (AU)",
-        "topics": []
+        "countries": sorted(successes),
+        "failuresCount": len(failures),
     }
+    write_json("public/manifest.json", manifest)
+    write_json("public/failures.json", {"failures": failures})
 
-    for t in TOPICS:
-        out["topics"].append({
-            "id": t["id"],
-            "label": t["label"],
-            "items": buckets[t["id"]],
-        })
-
-    out_path = "public/au/daily.json"
-    import os
-    os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    with open(out_path, "w", encoding="utf-8") as f:
-        json.dump(out, f, ensure_ascii=False, indent=2)
-
-    print(f"Wrote {out_path} with {sum(len(t['items']) for t in out['topics'])} items")
+    print(f"Generated {len(successes)} country packs. Failures: {len(failures)}")
+    return 0
 
 if __name__ == "__main__":
     try:
-        main()
+        raise SystemExit(main())
     except Exception as e:
         print(f"ERROR: {e}", file=sys.stderr)
-        sys.exit(1)
+        raise SystemExit(1)
