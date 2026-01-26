@@ -22,7 +22,7 @@ jobs:
           python-version: "3.11"
 
       - name: Build daily packs
-        run: python scripts/build_day_pack.py
+        run: python scripts/build_daily_pack.py
 
       - name: Commit and push
         run: |
