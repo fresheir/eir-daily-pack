@@ -3,81 +3,61 @@ name: Build Daily Packs
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 22 * * *" # runs daily (UTC)
+    - cron: "0 22 * * *" # daily (UTC)
 
 permissions:
   contents: write
+
+concurrency:
+  group: daily-packs
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        cc:
-          # --- Core English ---
-          - us
-          - au
-          - gb
-          - ie
-          - ca
-          - nz
-
-          # --- Europe ---
-          - fr
-          - de
-          - es
-          - it
-          - pt
-          - nl
-          - be
-          - ch
-          - at
-          - se
-          - no
-          - fi
-          - dk
-          - pl
-          - cz
-          - hu
-          - ro
-          - bg
-          - gr
-          - ua
-          - ee
-          - lv
-          - lt
-
-          # --- Americas ---
-          - br
-          - ar
-
-          # --- Asia / Middle East ---
-          - jp
-          - sg
-          - ae
-
     steps:
-      - name: Checkout repo
+      - name: Checkout repo (full history)
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Ensure public folder exists
-        run: mkdir -p public/${{ matrix.cc }}
-
-      - name: Build daily pack
-        run: python scripts/build_daily_pack.py ${{ matrix.cc }}
-
-      - name: Commit changes
+      - name: Build all country packs (single commit)
         run: |
+          set -e
+
+          # ✅ COUNTRY LIST (edit this list only)
+          COUNTRIES="us au gb ie ca nz fr de es it pt nl be ch at se no fi dk pl cz hu ro bg gr ua ee lv lt br ar jp sg ae"
+
+          echo "Building packs for: $COUNTRIES"
+          for cc in $COUNTRIES; do
+            echo "---- $cc ----"
+            mkdir -p "public/$cc"
+            python scripts/build_daily_pack.py "$cc"
+          done
+
+      - name: Commit and push (one push only)
+        run: |
+          set -e
+
           git config user.name "eir-daily-pack-bot"
           git config user.email "actions@users.noreply.github.com"
+
           git add public
           git commit -m "Update daily packs" || echo "No changes to commit"
 
-      - name: Push changes
-        run: git push
+          # Pull latest (in case anything else updated main) then push
+          git pull --rebase origin main || true
+
+          # Retry push a few times to avoid rare timing glitches
+          for i in 1 2 3 4 5; do
+            git push && break
+            echo "Push failed, retrying in 3s... ($i/5)"
+            sleep 3
+            git pull --rebase origin main || true
+          done
