@@ -1,7 +1,7 @@
 {
   "market": "GR",
-  "generatedAt": "2026-01-28T22:59:44.713853Z",
-  "validForDate": "2026-01-28",
+  "generatedAt": "2026-01-29T23:00:00.018349Z",
+  "validForDate": "2026-01-29",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,28 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Τροχαίο στη Ρουμανία: Δεν είχε lane assist το βαν - Τι λέει η εταιρεία ενοικίασης - lifo.gr",
-          "publisher": "lifo.gr",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFFnaEh6M1dPNkJZQTlPS2t2eWN0LUZTbEc0VWdYY0lQYURyYTdLVGhwYWZCc1dBbENPYUxHelY1Uk82dTlXXzBTbXRNSFJTX2twM1poVTJxYXhzSmh0amdYQUVQUXVxcjNxaC1FcWFHTHdvRV9yTjdlQ3BsVm9jWjJ0M2haQ21lN1E0c3c4X1c3MFBNNURENkttLXAtVUo1S3dFTnU1eXHSAa4BQVVfeXFMT2JRZlpCMDc5TlctajRFYlZQbF9qV3I0dy12LXVRU3FRU29SbXg5eWZHcnNGZy14WW5POUM3aVJZWWJOS3pWUFB3Z05tOTF4bTNlVm1qY2NzY1JpekE2di1mVGRJVlQzMDA3cVIxMnZHT2locm1kYlRnT2JQemw2V04yWjFNaTROZEhfbEphM1Nrd1A1WjJpRENwTXZjTDdOcHdVNWoxZk83Z1NvcnpB?oc=5",
-          "published": "Wed, 28 Jan 2026 19:01:36 GMT"
+          "title": "Τροχαίο στη Ρουμανία: Επαναπατρίστηκαν οι σοροί των οπαδών του ΠΑΟΚ - LiFO",
+          "publisher": "LiFO",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWFVhM3RyMmk5RmJSNUhqUDNONEd6WXlqQjFHSThhUl9rODI3M3Z5OFcwQUF1ZkE3S0dxTVE0RlRWdWdTV2k3UVh1TTB0d1N6TXIyTnhYSUdsRk9KUnE4ei1rRE5iNnlVYmZ3LXRHYnNBNjJ6MHZzUmdodVV1U3R0TlRR0gGHAUFVX3lxTE9vWTZIODdqRnlFUGxscU51M1picGUwWUJZT2hOdkJUUnM2UXUzMmRKU283WVhQOGd5a2tIUEFJM1p4eV9sLXRRWG13Y1Bpc0FwVE1GMjJBYjlqWHQyUTR0Q3kwb2VxTEFpa0d2Q2RYZFhaQ2RiYlZSQTFhSHhDNTdVQ0RPMDhUYw?oc=5",
+          "published": "Thu, 29 Jan 2026 16:27:36 GMT"
         },
         {
-          "title": "Βιολάντα: Το χώμα «βάφτηκε κίτρινο» - Εμφανές το «σημείο μηδέν» που οδήγησε στην τραγωδία - η ναυτεμπορικη",
-          "publisher": "η ναυτεμπορικη",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFotZllVaEdDa0FRc2FWdjJzaU1kejNPT2tScXYtWTNRMm15VFJzQ0ZXWmFJZmkybkFWTjJXdmlHaHpKMXd6Y1R5V2tqZzRVSDhDcjVmUElicHlTcUJUS1NiYXQ1XzBPeGdYZ1ZBa0Y1amkyMXAwbVNNNURJZW1hVnZCcWNZWENxQ2V5YzVETmVORkZDeExnTXpsQVB5YnUydzdtQk9wY3k4Tk1TUUswX19QQVpxeUFyMVZlb1Nncl9BRS1JbDhF?oc=5",
-          "published": "Wed, 28 Jan 2026 19:54:50 GMT"
+          "title": "Επικαιροποιήθηκε το έκτακτο δελτίο επιδείνωσης καιρού: Iσχυρές βροχές, καταιγίδες και χαλαζοπτώσεις σήμερα - Skai.gr",
+          "publisher": "Skai.gr",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmNhSUZLeHFZVE5LTGZkaW1LcUJZRHQ3Z2ZYVUxBV0ZVd3pLSW5zYW1ndWR2RFotRlpHWjhrMXhmVmowRTY3SGw4dThaTG43bHk0M1hITG5ZT3NrVEY3SjVTU3JwMjJsWXY4VDh6TkpsNlIyenJ1Ri0tMEF3M3ByT0twdk5aMTk2WTJKX05aVXDSAZYBQVVfeXFMUDRhcS1kNjFXR25RMUlWZklHa1ctb3YyeEpubkc5VHEwSXdld3BMdml0UkhHcXlpU3pwS3JpUExOR2xuWWprcXJLOHBpZF9QQXZudHctZ1pQZHJYQ1RubVhERmxTRTFPdVRRSHNacVE2MS1yaDRNTkhhQmROZlF3QVJZUjZ6ZGJmOFlmOEVDVVo0NmViOFRR?oc=5",
+          "published": "Thu, 29 Jan 2026 08:44:51 GMT"
         },
         {
-          "title": "Προ των πυλών η κακοκαιρία «Kristin» με βροχές και καταιγίδες – Οι συστάσεις της Πολιτικής Προστασίας - Kathimerini",
-          "publisher": "Kathimerini",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUUk0VlpYSVJSb2dteDQ4RVgybWRqNDZtdzl2QjNNMDh3NnVIbnVyYUdrdXRfZDF2NjluLUFxMjJjcmJaRU50eUxROWZFRnNzX1FXaHRBdmZEMVg5TGluU3Bfemw1aGw5alc4YTBCLVZEZDNKM1kyXzRwMjVMQ0l1Si1PMjJ5X2hQOHFVRFpMS19oWklWdWFrbXhFSXlXM05jblZWMzRLNmRHdjZkRG5fMkFVcEotQzVSbHY2RW9waDRqTnYySWJ4X3V4ZmRXQ1BrX2ZJRA?oc=5",
-          "published": "Wed, 28 Jan 2026 15:48:42 GMT"
-        },
-        {
-          "title": "Στο γήπεδο της Τούμπας ο Πατριάρχης Βαρθολομαίος – «Το όνειρό τους είχε τραγική κατάληξη στη Ρουμανία» - ertnews.gr",
+          "title": "«Ωρολογιακή βόμβα» κάτω από το εργοστάσιο της Βιολάντα: Το «αδήλωτο» υπόγειο, οι ανύπαρκτοι ανιχνευτές και τα νέα στοιχεία για την έκρηξη που έσπειρε τον θάνατο - ertnews.gr",
           "publisher": "ertnews.gr",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY2twOHZxNlZSSWlaVkI3OG1qUG9jeU1uaXBnbUk2SGQwT19veGlJMmxmd3dLYkJzeXQwSTQzSkZZRWVOUmpUMkVJVFVNM3I5d0RLX1ZEd25KXzExUlZyVXZGcXlJNWZwd0tIWV9zLUtBUmoybmN0V0JUTDdMTTh4NDcyZGNnWjhZNGJPUmt4NEpfV2dydGVLWFVaaWNPeFV6UkVSNXhzYTd6dHp0VWRRZlVfV2xQYU9IaEpOdjZ1b0tRUDdkU2ZTYlZlNThyUdIB0wFBVV95cUxQR05fNDItWmp6YldGQ2NBZGZTaDhFdEtad1g0QnlKbWNrbVBDTEl0dTUwR1FtRzNNcWNRdjRrM3lvU0lMSjMzOEw0WTRqOFdmVFdCOE1YRGU1N0k2blJHNlFoWmc2Q1hOckpHN0VBYXdWNmFzamxFSnNLaE9xOTc0RGVxZWNrbUxmVHZqcWRtV1BkbEdMR2ZlNS1nNHdXM2tOWmlBMnpCSXJ4cDlpcWlWcFFqT3UtdXRGMHVWY0tNNk0wejIwUGJ6RGRFUmFKRzJ3SjVV?oc=5",
-          "published": "Wed, 28 Jan 2026 19:59:26 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPbm5JMUUxVk5RYm1LUk5qbHR3VXpmaXJzdDUxNzk1cTVfSjk3M1FfaktyU2V4X0VKUEJ0QnphbjJocUFUTmU2emxpbnZqYWdfTGpIOU5HZS1KYUVlUnFYRVNkak13d0I2dzdzZUpwSUh6TVJUTWszRXB2TFZMd3JZekNiYzVJNTZFTjJ3YTRvLXRTVTR3OVJGd09ZWXpJOWg4ZzlyLVlMUVF6UV9URUhYbmlCV2NrSHczMWZEaFFKdWppcE05OFNoQ2FIYVNQSUZhTXpwTUN3MHB2dTZHU2hJOGFMRGkybnNLRjN1QTczR0tiNnVYU1NzZHFnazZSQmw4bmtHTzJJSHBCU05qMnJ5WVNXd1JXaENM0gGeAkFVX3lxTE40VTNfQXFNajR2Mm9tXzF0Rk4tbTk4dGNtalNkY0FDenBfSnNTdG0zUVh5VWdpY2thaVFpY0pFa3J1aFJnNlViRFlfdTFfeXdsQzBDTjRibHVwZGRLSXVOMEEtTW9VWWxFSGI1ODJtbVRZWjVwbk40dXZDeUhSWVV0N2VsQU9zV0hMMUhBcWFtYnVtWGFfTzlaRWJvSS02Y21YVmt1WVRhRGZiTWNWTUhWejRtLThLai1Ld0pLd1Z4TmQxZXFpTkZDRWlQWWpUZGZWZzg5dHdoa1BkMjEtVWU1V1BSSUpLbUFOcWtrZlRvcFBqeVc3YzVUVE9lcVAxUzRtUzByTVZDVUREZzEzam9XZDRod0xlVWp0Z09BWmc?oc=5",
+          "published": "Thu, 29 Jan 2026 18:23:01 GMT"
+        },
+        {
+          "title": "Χούλιγκανς επιτέθηκαν σε δημοσιογράφους σε ζωντανή μετάδοση έξω από το «Παπαγεωργίου», βίντεο - ProtoThema",
+          "publisher": "ProtoThema",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOenBWSFdfeVNNdHc2bldzMWhTUkI4LWpjOTdXZXJTdlVQcjlybVMwY1FMdXJ0a2d0c0ZydUM0cTRab1RXd1djdV9BenFLSEQwdUlrS1NWQlh2V1lPZVNqWHRYZXVJUUlJbzVaMVNYZ1g3T2V5X1pOMGY0VXpFSDF5R21PRDRra0tTenFCb1dhb2xZUDMwV0s5ZTdmQk94Wm1uWHRUM3B6X2tOeEdDMXFab0ZXdTJqay1sc2JWV3BfT24yS0Fnem53Sm95V1FESW1jOGlmVQ?oc=5",
+          "published": "Thu, 29 Jan 2026 18:36:00 GMT"
+        },
+        {
+          "title": "Κακοκαιρία: Πλημμύρες στον Έβρο από τις έντονες βροχοπτώσεις - Εγκλωβίστηκαν μαθητές σε σχολείο - Newsbomb",
+          "publisher": "Newsbomb",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNno1SlMxRnZPd29zWld0cHpKeGhId1F1V0RFM25KTDFnc1A5UldpUWNZNVZwelFMZGdDQmhNYXdBaDNMMTN3ZDhITHhEcUNEOVBSM2VyMGRTdlNRLW1jb29NcmZGblZLTFZyTVB0YzhSeDFGc0wzY3pTaVdPZHJ1bmptM1VKZGRTUjA2d0lzUEhRZ2JQM0trb01wRGlEQ2ZJd1QzTXpZRW1ndTRHZ0prV0tWX0M4Z0hlN3BKOHNkMjZBaDhJMDBaZHM1cy1ZNWZnQkxPN9IB2gFBVV95cUxNMXJwdEVuMDlnVHRXWkxBNDcyTm1ObVBGOFAteWtyYXdZQWZhaElGRVVnQTJtMVZVcjVrT1Y3WnRfUjhlNTRWUlBNZ0FocVZ1YzRtNC1iV2pGM3Z0dk5zRlBHVHM5R2p5R29GRGNNLWxvNjRrbWxxMXdIeU81Vnc2STRyd2J3YkZVTWFGdjhGbi00NXJPYW1sekljSHJPZzVTRjRfYWdJc29WT2d1bjFjbUtJWE9qV3dGSFJPY1Z0U2tGVkZyZFZLcmNFS1pQQ2pxMlA2NG15YncyQQ?oc=5",
+          "published": "Thu, 29 Jan 2026 13:15:10 GMT"
         }
       ]
     },
@@ -39,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Τραμπ προς Ιράν: Συνάψτε συμφωνία, αλλιώς η επόμενη επίθεση θα είναι πολύ χειρότερη - ertnews.gr",
-          "publisher": "ertnews.gr",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVjk2S1p4RWZFSVJ3eFdPMG1leWFrRVVid3R3U0JERnF5OFpaRzgwTF9sd2V0aGVJYW5PcktMZkh5S0w1WVdMUFRUTjdYTXlsTTV3dHZPRFlzRkVhamZDdlRhc2tTbWZJc0x2eUpaMElDb1I4cEpIYmdhZTJ6UXM4Vmw4RHpPSWZqWVVfZE9XWGl1U05DMnMzV2ZDOWlIWHJxZ0R5YW93TThHbHoyTnBLd253Vk9EcUNXa05wOXhRX01TQ0HSAcgBQVVfeXFMTXE5QmhJQm9ZTEFzZVZqWXBhdHJST1diUy1Zcl9iWXhCbUh5TTlQbVZiSjl0T0pJZ3NoTURqNUhkSkpCY3hUcVZhWmY1NjctWXh2elI3MFY2aTZlOHVqU0k5dW0xdFpqSkRKM0JzN2F0aWluWGJQalJDWExtc1NzbjB3c0w5dmJ3dHphM1FFT3RFN080T3dRSURCakNjZk5uUGM3OTZoMzI1aFNnbDh3NzV6WnVGLUFmb2tlYnJHZjhSa3p1UmJ5UV8?oc=5",
-          "published": "Wed, 28 Jan 2026 12:30:41 GMT"
-        },
-        {
-          "title": "Μελάνια Τραμπ για Μινεάπολη: «Είμαι κατά της βίας, σας παρακαλώ διαμαρτυρηθείτε ειρηνικά - lifo.gr",
-          "publisher": "lifo.gr",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0lnNndveGhoSFQzYXhBeDlYSGpFMDJvTnlXS3lDYXlTd1N5ZGx2S3R3SDNXQ0QwTzRFcVkzSWVpS3hJNDhxdV9fN2huQlIwcS1uN3Z5ZWRNTnNvSHRtaFBhU3B5aU1BX1J0ckRCRWpvVVprTlNfbXBJRjNXMjZkN2xtUVA5bW00TDY5ZnZHamhqMER4Ylg1S0ZZeWdCdmFSajFsZkw5OW5CcFRKZ0NKeGM5ZG9qU2s?oc=5",
-          "published": "Wed, 28 Jan 2026 13:10:27 GMT"
-        },
-        {
-          "title": "Πρόστιμο σε ελβετίδα πολιτικό που έκανε σκοποβολή σε εικόνα της Παναγίας - CNN.gr",
-          "publisher": "CNN.gr",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFZzdzFZX2xwSnJ4MnV0Si1WcXpmaEJsSEdQaEpsZUVwVXJsTWNRc0NUMlVQZkRhSEc2VTBPNlZnOEh4RGNLTXZSRVVUcTNRMkVBSUdtdFpIQkhvb3NnQ2llYlJucGQ3MVhvX28tVEpiWHJ0S1lGdW9LZUxIaDJYR1VJaHZkeFpiNlZkUlpldzBVLXYwX0lMNFgwYkJnakdJMmd4RUYxcmdvNFp2SE5pbQ?oc=5",
-          "published": "Wed, 28 Jan 2026 20:06:00 GMT"
-        },
-        {
-          "title": "Καμπανάκι από τον φιλοτραμπικό Φίτσο για τον Τραμπ - Τον χαρακτήρισε «επικίνδυνο» σε πηγαδάκι Ευρωπαίων ηγετών - Skai.gr",
+          "title": "«Εκτός ελέγχου» η κατάσταση στη Μινεάπολη - Ο Τραμπ σκλήρυνε ξανά τη ρητορική του: «Ο Φρέι παίζει με τη φωτιά!» - Skai.gr",
           "publisher": "Skai.gr",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRnhBLVZMd1Joc3pOaFBvaUI1MFg4cnE5MldULTdyTFl1VHgzY180ZmJvZGZBTl9vYlVJTjVJWGVvSjE5UkRFMExpYTRrdWVYWVpua00xaFVLc3VOMkRXT29NUlRkUmlRQmRMVjdBWTNBX0hMMjRJbjYxZ0FpOVI0TmdLQzZ6SEtHX3V0QUZtQXplQ3N3djdVcVl1VUQ1ZWZiVkhlMVdhQmp3dndF0gGyAUFVX3lxTFBZei13SmhjcFdJOWltcW5WS2xtQ2RkN2xlR3RSYVZfOXlVb0VLTHE0dWdIcjFvV1ZiRHpnazQwSEhTcWIyWXZpT1RPTkYwZ1c2enFnXzJPeFVnVFlvVG80Wnh0R1NJQnNfZGZQVG1NNl85Q2VyX25kNUV4SnZud0Q3cDNpb2NoZHdXTlNhY2tvZHRZQWJCUGtoUG1JZEQ1SERmOFBsWFpiVVg1RVBSNWtpVVE?oc=5",
-          "published": "Wed, 28 Jan 2026 09:55:04 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPclN6S21CSWxpRTltcjZ1Vi05bzFvQ0lHdWIwQnpyUEE3YV9GV2JwZ0ZPeEhzTTVDZGh1cG1qWnMzX0ZnX1hEM0x5V2RjalhwdUM3N3pBUmZqMUpzZE85UndGOEFabXlJbWlocEFaUFc3VnZQSUpva0o4WFZTNUN4cmpNU0pYd0dvdlQ5ZU1OeXJiTFNzMF9mZVlpZw?oc=5",
+          "published": "Thu, 29 Jan 2026 04:34:47 GMT"
         },
         {
-          "title": "Βενεζουέλα: Ο Ρούμπιο απειλεί με νέα επίθεση εάν η κυβέρνηση δεν συνεργαστεί – Οι ΗΠΑ αμφιβάλλουν για τη Ροντρίγκες - in.gr",
-          "publisher": "in.gr",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTBZUWl4Sk91RDh1SWo3UlR6UmdtZDBwVlVDREpwbWlNVW1zZGxBdURjenVxZmxDME9hVU15Y1hlZ3pKdDRuaXF2NjVxQ2w3WnNaRm5NRF8za2Z5OGx4WU4zdTZDWFRSNkxFYnpqeFZ2d1lzTGxMQy0xTEN6Y0lIWXd6cEdBaGgzR0RNdEEtenNzblJhWGZMLURDQ28zd3E1WTliSWV5UHk4NXhJNzg2LUpLTm1Od2h0bFVHWDU4M0pycEt4MGdRTHFLTnVVWVo3ZkVkRUdmalFER1HSAeABQVVfeXFMTVE1NFZMeFJGbW9PUEZTMUMwVFRUQjZjdFU1cXQzcnpESE50YUVtLXgwYTBfTWtTaE05WllXU3lLR0E4S2lHazlFQVVjbWRfTGJabGQ5Zklyci1Kc3ZuOTJ1bTZWSnBNQ3ZGLVJKQ3hCaTZ0YlVpbFZTbnR1elQ5UzltMTJwWGNZTWJMWk9YWExmZXNLS2VSN1pGd2IzSmNEVW1sQXBUYkhjWmlLdnVqN1VUM0ZIT29PUXVGWTBVSW1DbE5FM3VkRHhaY1FIQWd1aXlOaUd2V01hMDJxRXlkdkc?oc=5",
-          "published": "Wed, 28 Jan 2026 08:15:50 GMT"
+          "title": "Τραμπ: Ο Πούτιν συμφώνησε σε κατάπαυση του πυρός για μια εβδομάδα - CNN.gr",
+          "publisher": "CNN.gr",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEg4ZmZZOW1OUDFVT21pX2xOalVJcG1IWU9NLTd0NkVMcktSZnc4MHRiYmhPQnZiTWphYTVTTDFIcFQ1c0pKQzJfbEdnWkpOMVNIN21tcE5IazluUXo2SzNFQzZtSzdXLUVrS3NsYlkwdEFIX21MUlpOYkhfS0VWMHlBb0NhT3NXU0Jycm5rRzgtRTNGNDRvc0Zxa1oxM3VQNi11Z0tR?oc=5",
+          "published": "Thu, 29 Jan 2026 17:25:36 GMT"
+        },
+        {
+          "title": "Έκρηξη σε διυλιστήριο στη Νικομήδεια της Τουρκίας - In.gr",
+          "publisher": "In.gr",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmNHbnJFQV9jNTB0VGRCeGRFSTZFeFJyQ1ZBOXpHZjFoZUFaSlBMMFVaWTlsTVVTVXRhRU1qQm8wSi1nZ01pWjZVSmhzdlY1Nks5Njl5SHJ5N1dDWkNianJFdngtaHN4YnZsaXhBN0wxeXF5aFZpZ2ZTWUk0WXlnZU54a0JUYTBISklIMkdYc9IBlAFBVV95cUxPb3Z2SUlEV185bm92YWtScjh1N1ZZZzMwbllfY0JwOFhJS0xQVmc0MTFENG5HUGlOSmdOQ0k0LUZFWElxNEpvbS1lTkJ6VlFvcElITnhSa2htLWxvcHJZZ3dPQzdUUVJ3WC14cE81UndkT0U3dE5GQXdTV3MwVGpTRllpMnU2aFZoUTZtdmRiWTdQdDRP?oc=5",
+          "published": "Thu, 29 Jan 2026 19:18:35 GMT"
+        },
+        {
+          "title": "Ρωσία: Οι χειρότερες χιονοπτώσεις των τελευταίων δύο αιώνων πλήττουν τη Μόσχα - ertnews.gr",
+          "publisher": "ertnews.gr",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR2hGZmJOMDJVc3B3YTZnVTJJYkV5TUZoMVJLcVRVY3NYUWdVVTdZMzh0b09kcldyMGhIaXd4ZElOTXBmMENtejJ6c2JCZFItY1JfMTZjRmdpQVJ1bktpbzFGQnFIRmIyelpyVTU4azhIdGpYTV9KZDh5bTJRSUt1VExfUjUxN0JweGdDeFpMMWdtNm1WamhfQjFNV1pZbkk1Yi1QUVk2Z1pOWUtTanfSAbMBQVVfeXFMT2RKa1k2RDBRaVRLcGROdWhucFZEemVHdWlvZjh1ZGd2amt6NHh5R29ZOWpvbjdLT0pGdzFEYTU0blpJNW1ramF3NDNDcHBTYlc0TTFoVERpWXljOHdIX2RmcGhibXlWS09Lbk5odklZeGZfRFVNeHZKeV9ZU001M1lUX1J1Z0Y0dVI2SkZ4TmhLUEU4Wm1KWFM3ZXMxUU0yZExBdmNZWkJFTVd2Y255N2VYeUE?oc=5",
+          "published": "Thu, 29 Jan 2026 19:11:04 GMT"
+        },
+        {
+          "title": "Η Γαλλία καταργεί τα «συζυγικά καθήκοντα» στο σεξ - LiFO",
+          "publisher": "LiFO",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeVhjUDU2aDEwUXJQMGJrM005aWtsaFp5b2JuVUVtNV9WTXY1aVd2Z1hQbTdmQ3RTaGpVcU42WTltal9LS0R0bnFtc0o0ZDVyczdjeXNaQ1U2WlFWUFVydmdYWHROTHAwNDhXTXVHNU16V1dBSWdVSUdPZXlmQzAzekFGUEU?oc=5",
+          "published": "Thu, 29 Jan 2026 18:03:31 GMT"
         }
       ]
     },
@@ -75,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Fed: Διατήρησε αμετάβλητα τα επιτόκια στο 3,50%-3,75% - Μεικτά πρόσημα στη Wall Street - Liberal.gr",
-          "publisher": "Liberal.gr",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEVkNkNJaDVaR2M5RTAtYl9Xc25HZEhfVUJCYkFReElxTWhQbWlsbFZNR3dseXR2TVU2UnE2VEZob3ZDOTlxUFI4NVlqUDRKUmlTUHNJNU9oeEJZaFpYa29Eelc2am5kNmlZa0dxYTdRbnZYSDFkQWVpUkhMa2U1X3ZQOWtNamdWLUoxSThrODRlR1ROb3QxcFNoRXlqaEVaaW83c05wRkNFUmh3?oc=5",
-          "published": "Wed, 28 Jan 2026 17:59:27 GMT"
-        },
-        {
-          "title": "197.197.732 ευρώ καταβάλλονται σε 612.257 δικαιούχους την Παρασκευή 30/01/2026 - ΟΠΕΚΑ",
-          "publisher": "ΟΠΕΚΑ",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdDduUllBejZHNGhHal8xLUk4NnV1TGE3ajJyYnFoVUV4SExNcENGVHA2WHhfX1JQb3JQYWR6TFpTeWVlbTg2b09PVnJqaEd5SmpOT3BsaWg2YWZnbEJlQ05KSy1XNmdFY0YzU3NDb3pNRjU0V0pDcG4wdmVyZWI2bEoyV1hMaHlkbFRjaFNiZHZvWmFiekxqS1VpVmJPQQ?oc=5",
-          "published": "Wed, 28 Jan 2026 21:24:18 GMT"
-        },
-        {
-          "title": "Χρηματιστήριο: Στη βιομηχανία περνάει η σκυτάλη της ανόδου - Νέα εκτόξευση τζίρου - Capital.gr",
+          "title": "Χρηματιστήριο: Στάση για ανάσες με κατοχύρωση κερδών στις τράπεζες - Capital.gr",
           "publisher": "Capital.gr",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZGN1SFE1R0o4aG1haEREOHJLWldGdlc4WG11UElZM1FwamhUR2JOZjBXSG9wTjF4NWdyNlBmWU9NYjVmR0I3OWRfREtsbHUzU3ZlWHdlTVNwT3IzZVZWLTRPT29rcnk2TXN1SEY5RmVGMHF3WnZVemFGSnpCM2UxZUF3dFl4a01aTXJVU2dwRHQzTUg4UTdhLUxKQXVlYTZVeXY0UHlQVGltVllxdUFqT2tOajNIWHBH?oc=5",
-          "published": "Wed, 28 Jan 2026 09:12:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmR3cFlLSTVXVlJ4X1FNbkF1RXJEQnp5Tzl3TnZER0hjcFBZZ2VaODBoTzRTMDJ4R3d4bDdZeEF2SW15TEZxVmNXUVhrNk5OM2NSNGc0U3NZbnZIRTJfWG94emM4QWVoNWFLYWk0YVVEWU1WMzdsX244ZlpWUldmbjRzUWlBTGF3STBrSEp3Mk5JVGNaTnVGeTFfeGVhb21BbUNVbkh1b9IBswFBVV95cUxNQi1WYm10VDI0akJNQ1VQQmV4d0JkTVJzdk43WTE2bVBwX0pNWTduYjhXQWF0UkpHMGppQno1MVlFMXdTWkJPTVh5aFNDYk1TZUVPWml5T0FpME5jY1U5NXMyTEdpQ2JQNzVWclE3Q3ZGOTFHazNmTWllS0FyMS10YXVsRlNYWEEzVGRkbHE5OUZWYmxKT3NXYVREZGNEOXNSZEExWkNWNFhMUW9PT1BmaV9sZw?oc=5",
+          "published": "Thu, 29 Jan 2026 15:38:00 GMT"
         },
         {
-          "title": "ChatGΡΤ, ο νέος «φίλος» των Ελλήνων - Kathimerini",
+          "title": "Δήλωση παρόχου ηλεκτρονικής τιμολόγησης - Email υπενθύμισης στέλνει στις υπόχρεες επιχειρήσεις η ΑΑΔΕ - Taxheaven",
+          "publisher": "Taxheaven",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZjlMd01PcU9SSmVCVUhfTmk3OXpYdW1EdnAxRjN1T3B6MzFiOXNVQmlXV1VlS0gzYklWR3poZzFXSTlKWXZoYUNGMHBoZ25fSHZuTEZnRDJ4dkxXMHA5T214RHI5RWc0c0hQSVdaRFFDZWZIb0l3a3d2eEUwS1g1QkdVVlhBcDhUbC13djBjb1ptczBKVk56Sm51UVUyMWZLME00MXliRERZTEN3R0puck8teERIRlVYcldtNVJWSXNRcEFjX2tWNWplOEV6WWND?oc=5",
+          "published": "Thu, 29 Jan 2026 15:11:38 GMT"
+        },
+        {
+          "title": "Η AEGEAN αγόρασε το 45% της APELLA - Kathimerini",
           "publisher": "Kathimerini",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmVFNXZoNWJnRlB4MnBWRkhpOUVoYXBPOXZ4LXNoVERiZnhDNWh3WUg4YUVUclIxanRyYVJ3VEc5TThaaW5teWFHZEdUbFljczRRUG9nd2lCaG9xdU1BTEtGWmJvQVZpRkRuOXQxUE9RUEZqZkdWVmx2VkJ3ZW9WdmV5MF9WZ1I3NjNyTG1xek1BYlBTNXNmdzRVTXZBNFJW?oc=5",
-          "published": "Wed, 28 Jan 2026 19:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHVkbXk5MHpkVVRTbWFMUzJQZm5oRDJFeGJ5Q0gxbTJMRjVDTDJyOHVDTVlPWmlxVUE3VzNWQm42eGdzTGVzRlhUQ0MzM3FTbUtfUmp0NnhXWnlaWTJDQ1ZZTjRDMzFyT0NiYjBWNXR6WW9QM20wc0o2WWtINXVKS05KOHRSZw?oc=5",
+          "published": "Thu, 29 Jan 2026 16:14:11 GMT"
         },
         {
-          "title": "Wall: Απομακρύνεται από τις 7.000 μονάδες ο S&P 500 μετά την απόφαση της Fed για τα επιτόκια - Capital.gr",
-          "publisher": "Capital.gr",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ1FkYlRsWmRMWGNLbE50RE42WnpYdXlCR2JERmRjVEhtMXA5MTVscURRdDlHSzRUYzZLRmRfZWJKR1d3RzBPQWY5T3lyYzZDdzJUNEVXTWpOd2Y4aDh5ZTRvSnNnZmQ4V0liYjhGcm5pS0VyVjdEQTFWck5Mc0tVZHJyZzAyU296dlhNRmh3WWZlekNhUFNQT1lyVUo?oc=5",
-          "published": "Wed, 28 Jan 2026 14:53:00 GMT"
+          "title": "Κατοικία: Η… κρυφή αιτία που μειώνει την αξία των διαμερισμάτων στην Ελλάδα έως και 20% - newmoney",
+          "publisher": "newmoney",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZFFjNmcycGQwSEdLM3NQekM0cFJhMko3YWVTX1BEdDNodGFrNk9KUi1ab2FWTXI5TXpCNE8xZGFiV09CR2dBS3FXdm02NzJnX2RXTF9GTXNZbzhlMmM2M29OMnl1SFhQRjhsZ0VBOENiRWxnT0p6YzJOTWlkY0N5c1R6LTVrQ2xaSXlxV1MtRzdGRjBiOEpZTk5FTEhXTWR2Uk9qT1FfNEtxRGxRaHVTUU1fcUdlSEstVkRPaEM1UDhTdmRCYTg0MXN2eG1pcmZjUnfSAdcBQVVfeXFMTi1uMjBYN1NOTnRmQUxSNHp1TTBlczdUSldFQWM5ak5lbFVvWGl5TUwyclF4elNJeGt1S3l2VTQ3aHVFbVQyak5MdlJlbl9fV29GQWVYcGw0SUdmQm4zeTVfblgyVjVUeGVRS0VsOHc0dTluU2FuTWw4MFhFWmdWTzNEOTJ4SFhSeE4tSTctaEw0a0NlTW5GVkdLNzZwY3hEdU5HaG9NRFhoaF9TRHBxS2xJTEhkdzdkUDBtS21zMy1jUUExakpaamgzRzIzWnNQMkplV09YTjQ?oc=5",
+          "published": "Wed, 28 Jan 2026 06:00:00 GMT"
+        },
+        {
+          "title": "ΦΠΑ: Οι νέες αποφάσεις για το ειδικό καθεστώς μικρών επιχειρήσεων - Forin",
+          "publisher": "Forin",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTW11cEVhSlRRRE5yc3dEQ2ctbGd3Z1hDSDlNSFpVMHpPa050aXF0YUhTRTc0Q3d5YU5WYlZWRjl0SnRncU5hdUxRZkJhVmNwekQ5T2Y0dU5IdFFyYlNnVnA3UTJYR0tLRzBFeWdjeU1tRWQ2d3hUOWVGdW9DMWZ1RXBEaTVTay1iSl91OEp2U1ZaS2dqdmlSdFhGSWhFVDMwYjR0SzRkdmF2TEJWcVE?oc=5",
+          "published": "Wed, 28 Jan 2026 23:17:00 GMT"
         }
       ]
     },
@@ -111,28 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Άγιαξ - Ολυμπιακός 1-2: Θρυλική πρόκριση στα νοκ άουτ του Champions League και οι πιθανοί αντίπαλοι - CNN.gr",
-          "publisher": "CNN.gr",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNkRvNGNrOGxZSWpwQS00S3BNSnNlOFNwUGs3bFpXSlVQdU9sbk5NanBDYjYyOFgtZHBCd1pEbGFTX2tFbGhWY05lc0lGcDY0aV8xSlVRWE9DcGM2bGkxbDhyVzdHc3VGaXNhSUxNLW5PNHBnbXRZdGNKVzh2VzlxTE9jYkZvLTlFbmpSSTh6c1R1QkdxLS1MLUNxYzVsRDZmc3RZbjhwQzRCOXd1WWtJVjV1TXhCV2V5U0NuTUNHOUFmNExxUzhaN0l6ZGQtRE1PLS1z?oc=5",
-          "published": "Wed, 28 Jan 2026 21:55:31 GMT"
-        },
-        {
-          "title": "Champions League: Οι ομάδες που προκρίθηκαν στα play-offs και οι διασταυρώσεις - Gazzetta.gr",
+          "title": "Ολυμπιακός - Μπαρτσελόνα: «Τρελάθηκε» ο Μπαρτζώκας και αγκάλιασε τον Ντόρσεϊ - Gazzetta.gr",
           "publisher": "Gazzetta.gr",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGJwSkRnY0daSVQtOGZqUUpIN2QtbGF2QlQ4UTJSX1VmTVA0RzYxZ3NfcUFmQ04xU0dETTZFM3FJTzEzUzlNV2pIZDRqeHlsbHpMYi1Sc2pIWGNRcDBYY3IzOWFLVDIzR0JHZ0FmdC1ZRjY3cnplUzRHRHVuZlVtQU1yQVJSV0RPOWYzZnhPbkMyeWVEYmkzNWJ1YW10eVVRYl9USzlOUUJtdGYyZmV1bmJGZExDbnpUWUFWcTVLc9IBxAFBVV95cUxQS0pNakNNbzFGMjlLVkx1ZllCcDZTSUxoUjRoaFJzOWNEU2UyTlNtcy1QWEc5SUtScmVtRXRvNGV1cUYzT3pMUWV4OG5kbnNJbjJpVnhHOVBucmtEdXBRaF82Zi1WdzJEXzdVMjVnZ2dPeFJRaWZqQ2hZV1c4S0NZVW9oVkRYWjE2OTl5ZTVNU2IyY052emxZbTB0cGRqM1JrTEd6S0hnMTM2WTk3WnJSLXpuU01ZaTcwa0I4NlJuSVl3ZW9W?oc=5",
-          "published": "Wed, 28 Jan 2026 22:09:28 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeGJOaHRROHp1N0V0R3BnLVdhMTRFOXRrLVFJQnNybXh6M3U1M1Y0ODFBUVlqd3hJcGUxOWlvQUVGMTZOYUFzTnB1VVlPMTgxVW5HNGJvVjZ0TmE2MTc0MlZUT1RsWWtuRGZwd3dPcXBVMV9XWDJNX00xdmtNWGY3S1BuSk5WZ044eGdoYmV6b3k1MHY0MllqOFdQRWZzYk1wZzFKejlmT0JtVXlKUFBZbHN5ZEltaWpmVnfSAb8BQVVfeXFMUG5OSWNBa1dNX1RkNWVQOHh2c0JnNThBNTJMSlRGenFjZ1RqLVFVZ3RFTWpJcTJhUE9tMmxuekZhMmg4MnZvZGlUM3ZYZjFZZ3M0Qk1QNm5tcHkxZjNpMklZZXp2em1JdVZEMTZ2TmxuLW55UWw2Vmo4Qzh2MVdkem5tUmxOQVBsWGFWUmwtUng4ck5xNEVBeWVROGZhVV8wdW5jSlAybHJvVUhyOVlpU0V3MnJLcUN0Tk82Qi0wZUU?oc=5",
+          "published": "Thu, 29 Jan 2026 21:20:14 GMT"
         },
         {
-          "title": "«Φουλάρει» για Ετιέν Καμαρά ο Παναθηναϊκός - Athletiko",
-          "publisher": "Athletiko",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TeEU3TTlfdklibWtMcEdlOXV2MXBlalVPR196M1hOc2hFQjVZc0NKRVpudS12c0JBOUgtZFZoTERUbEk1c2Y0dkw4RU1NalAtN18xV0ZGc0w5UUQyN1dreDlFR05JZDhrVlR4WGJIQ0htSGhvRm1VTVExaDE?oc=5",
-          "published": "Wed, 28 Jan 2026 19:12:00 GMT"
+          "title": "Λιόν – ΠΑΟΚ live για το φινάλε της League Phase του Europa League - NewsIT",
+          "publisher": "NewsIT",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObERLTy05d0RrMVI3WGVRVkNhLXpxYzZvNFZhTmJ4QWNTTEZ0czd2cVhaVVJFcHhGeENRWG03X3lMOEdfejh2YWRFVnYzc1VsNThFOFRyVUFNbmxKM1ZXaXN0WWc5N2NDaXJ5REVEY3lOQTNPanF3QkNMcE5PeHlaQVdySUprWlFDRldLTVUwc0ZieWJMbjE1YTZ2ekt5ZkoyRWJ2UE83OA?oc=5",
+          "published": "Thu, 29 Jan 2026 19:39:00 GMT"
         },
         {
-          "title": "Βαθμολογία UEFA: Η Ελλάδα απειλεί για τα καλά την Τσεχία και κάνει βλέψεις για τη 10άδα μετά την πρόκριση του Ολυμπιακού - SPORT24",
-          "publisher": "SPORT24",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdk90bl9JaUd3bXg1RklvQnBlbDM3MHhOb0hZc1YxMm5yUkxlZU5fdXYxY3c1T1piU2hxS0t2SlM4UW93VEdFN1kyRmVVU1FKc3k2Y29qWkM4MkI5cXhTUlI4Sm83c3FKdktneXdQalZmeUVyMkN0X0RuZVUxNjMwN2VFVW9hdmRVbkdyREttZTJhX3FLOG9feDk3cUUtbzFHOExxYmtKQ0U5UzhsekdTd2FJenFVa19SNnhoRUZPeWRka2laVlZ2bXN3RGx3dEZmVi1obVdqTHVOeDBCbUJoOGYxY0ZiYkhQaGfSAe8BQVVfeXFMUDcxVGFRaGllYWpOUGxPR0NZMWp2SFFubVpSb2I2WnkwUlVqNlk1eWhRc09UaVhkZjBwdHBjTWhkR3RwcThrTEh2TUlic01teFNRZlA1YUI4UEtFZ2htbS1NZlYtbEVNUGhsMXdPNVBDcE42SUh5T1B6V3VNb3dTZkNjelowR3hYWkJzRDdGbjBzblVJY0lILWFJS0VHdGFJTnZOV3NGTE56RzZhMW85LTNDOFo3V1hTSlUwNUJqa0hidW5XNTd1TDVfRXhsWG12YVhscFZhcWkyWUZ3bGNEcE5rZEtjS3ZmWEtadzQ3VFE?oc=5",
-          "published": "Wed, 28 Jan 2026 22:00:00 GMT"
+          "title": "Παναθηναϊκός – Ρόμα: Στο ΟΑΚΑ ο Λέτο - Sport24",
+          "publisher": "Sport24",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TZk9RWVl5VWg5ekJiaTRDNVNxWklmMG9MRGF6QnV5U3M4clFzUlNvQ3d4dFVWYm1vdmhEdVJSTGU3WlUzY0xGUHZRLUNDVlJFbFZFUlBXMXJvLWRTVXlVOHd3STFWU0ZZNnpoQTI2MXdSdmJoNkHSAXtBVV95cUxOVXYyaFFYS2xiWkFFdmhCVlkyWW1EUFRHcFI1enhjSWZNNHVXZ2tGSUZlS2U2ellEMUF5VjBheHl0Uks4MlRFVWlUQVg2eEJpREJxX1FaUG0xVE9oWjdURGw5aG0zSTVYWHBQM1BncTh0SXZ4X19oYkNoQkE?oc=5",
+          "published": "Thu, 29 Jan 2026 19:31:00 GMT"
+        },
+        {
+          "title": "Τσιμίκας: «Ήμουν συμμαθητής με έναν από τους φίλους του ΠΑΟΚ που χάθηκαν στη Ρουμανία» - ProtoThema",
+          "publisher": "ProtoThema",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS0RSMUV5aUstV1gxdGJWM2hYanlJa1ZQdkpZczFJWEtreklzWE5sYkNGRmlpbHptNFJGb25vZlpnOFJPUF81T0tYUkhwU25lR3VjREVDT3hybUJfRlNBTjM0OUlYelpPQjI1XzdLUzI1Vm1teUZ2QUd1anYzRWtnWnVFRHgtTEVfY09vdFROeElnRVdrV2ZTZXpOek5IZjREOXdmanMtR0VDVldyNm0tZ1BKTFQtYzZjOFlBMktlWjlLOEdpcmh4ZHg2M1B1Sy0z0gHWAUFVX3lxTE1Ua1lqZ1o5aXpSZ3J2RlRock8yTDI5Y3hiX29jN3lyQ25ES1RfVURDclBGR2JrcTN3X0ZEQlc3M0VleXVCRjNoZDJlX1hTajJaTzdrMVNuaWRTNFVEZk1jWFBmRmkxX2J1bEdGMW52QmpLUl9ZazdIU1FiNVhFaVl4cEdTSFhnOWtySzdfVjBqMEtjNmtGZFl4WG1sNVhFcEtzZGJkbHo4OURDNTRXd1dZVVdzNHltWkt5QkZNNUxGQ01NcDMyZ1hXQ0diOGpWYjJRT3FWQ0E?oc=5",
+          "published": "Thu, 29 Jan 2026 20:34:00 GMT"
+        },
+        {
+          "title": "ΠΑΟΚ, Παναθηναϊκός, Βαθμολογία, Europa League: LIVE η κατάταξη των ελληνικών ομάδων στην τελευταία αγωνιστική της League Phase - Sport24",
+          "publisher": "Sport24",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS1ZFdkhfbUpyQTl2c1pOd1ZDZkt2LUkyZXFwMDlwcFNHWkFIN3NhbGVKQ1NLa1pwQkZyaG56U0psazl0Y1ZrVFFTVkFqS2l2Q2lmSkhEdE9XTTAzN1JKd3NFM3p2bGxrSll4cERuTVNaeDZ5NU5mT3FXWk9RSVBYZ2V4M0tRcXVoX1BHVnJZakJ2QVExLVVfdElKalVZOGhibFZuQ0ZJc2NQT0pFQjRVUnpBT3dWR1FWNHFwNmZHR0NleXVOQ0x4UVA3eEdzV1VtQmttREZxQ3BLbEhDeXhrVFN2SV91azJERXNnWVVn0gHzAUFVX3lxTE14NGpqTE1TcDNyeC04OUFrelU5RnBxdEstd1hsWVV2NXU3X2VKR29IOUlocmlrRkU1andaVHVtak9GOFQ1bUJSLUZPUzJlSk1wQ1Q3UWtZQ2o2aEVYU1p5aWU1b0hudUZaTnFoQmpDcjI5X1F1cW1qTndIZ1BUcUIzOVVoNlI5bFFVa21LTEhuQm5jNEVBZmNoYUJGWHJKOTFvVDhVb1pxcUUxRUMzekZXX3FnQ1lmOHpSeHFweUVwMTVzMl96VFdzcTcyNDZLRkEtMzFhZGdxZlJJSUdJM19lVVV4eHk1cU1NTnk5ODl2S3k3RQ?oc=5",
+          "published": "Thu, 29 Jan 2026 19:06:00 GMT"
         }
       ]
     },
@@ -147,28 +159,28 @@
           "published": "Wed, 28 Jan 2026 04:17:10 GMT"
         },
         {
-          "title": "Τεχνητή Νοημοσύνη: Κίνδυνος τσουνάμι στις αγορές αν ξεμείνει από ρευστότητα η OpenAI - Liberal.gr",
-          "publisher": "Liberal.gr",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHVoSGp5YTBwV3VwNFB1b3Z6U1F2NzU2Z240YzlROVZib3NmQ3FTZVczYjdBWmdGTEhnY1FwTEhVZDBnWm5LTzNUR3lHWFpGRThVQTNhUnFsa2c2d1ZGTEdjV3huSTlDMktCNVNFdkRZNXkwYW51WndJdllRUFI3QVRnOG40NWtIUkUyQlRuTVlwLURLakFhWUlMMk5XTjhPa1daVUlfZEtWdDEyTnhR?oc=5",
-          "published": "Tue, 27 Jan 2026 22:00:00 GMT"
-        },
-        {
-          "title": "Βιολάντα: Τα νέα ερωτήματα που προέκυψαν – Οι ανιχνευτές αερίου, οι αισθητήρες και οι σωληνώσεις - in.gr",
-          "publisher": "in.gr",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ1l5bUduQm85OXNOTkNuZDdpRG9OSnZOWW4wZFNRU1k5VnAtSndsWlExQVNmbkNCS2J2Q3I5ZjFXTENNaXlYU2pYN1U0X0FCazVHM0lUeE5yX2Fla2I3bGtmNHdmQk02VDZzeV9KcEVhbHBZejFYXzlZR0RMT210elhuMzdYUFhjQU9tZk95MTg0MkwwbGZxQXZoUUJ6TElDaHJwSnpXY2tNakx2eV9ENFZ3dW1oWWdQNk5TX3FYR3F6aTA4TjIybmp0Z9IB0AFBVV95cUxPOTlQazhRYTlGdjJfNDA1YUVZZXZFMWtIejZUUmFjbUl3eGgwYUk5aUhkSENEel9JcjVoRUhtdXFRbUhJTHoyNHVkb2ZIUHRKM3lna01WYVRHaWpoSHdHOURIWGJCZFdsOUxtTDRYVHBMcVRoQVhrN0lhclh2WXhTelZNbWlqSmRpR19teHpPaHVSeThBX1VoQ1FIeTByWWVXTVhseHVzSFIwcWJHUG5uNmk0dnNxLTNHVE44bnkxRVl6bzFyLUZxQWRnTGRuanNw?oc=5",
-          "published": "Wed, 28 Jan 2026 20:21:18 GMT"
-        },
-        {
-          "title": "Ρολόι της Αποκάλυψης: Μόλις 85 δευτερόλεπτα χωρίζουν την ανθρωπότητα από την ολική καταστροφή - ProtoThema",
+          "title": "Αποκαταστάθηκαν τα προβλήματα της Nova σε τηλεπικοινωνίες και ίντερνετ - ProtoThema",
           "publisher": "ProtoThema",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYkVaQ2lidTdEa1o3NlJ5bXQxSHh6cHNHYkFtZnp5bWwzMjdjYnNiNzlCc0VfRkNJejNJSTVXYkRsaFZFd1FGUVhuQVRMM3ozcElpV29pRHNkTW1xaXRVYkVIVmZ6cENmcnRyZ2hBT3MyTnd3eWlyTjVOY0s3TUNvWDVteEdfOHNxMkJnS0JqZGVSMjhObkJDeWFmOEl1eHFkdXk1UlFhN1RNWGVZeWFhN01mN3pDTHpJaXRRZ2dDVV9pWGllSXhWcnoyMklqdEtrUG8zenZDRVFHS3PSAeABQVVfeXFMTXhvd24tZTNEbWw0a210ZkRzUExpZUtrcmJnTmlJMVlOcE8xRnlXVFJET0xXam1TUW8wR2RmRFFOSDNISFdkX0dYRU96QmJmNVlMV0g5NkRwcm8tYW1WWDREd2xDaWQ1MFV6Z3lmbUZwUkg3WEFZdW1EOTVGUlROeUpJdUtlMXV2RzgxT2VEMFhob3J0NGVCdVNldU9LTUs3UGVDbGJ6V295NkxycENrNk1jS2hLV1VfUnItYkJobWNUbjZIM09HRzZKQTVyRkw5U1Y0Q1FlMDdkY3Z2SjM3R08?oc=5",
-          "published": "Tue, 27 Jan 2026 16:25:09 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ2hEYV9hdXpVWHBDQ3NxRXdYOTBuazF0ZHRGUnU3TzJLdXp4aGZNZlUzVXdvMTNRTElSU0hvQWc0dFZqTlVCTkprVDAxVVlhaHFySDY5Q3ZLOWc1eDBCNGFmOE9NOUwwbndVVS1fMEJkWjdGNXRRcUVfUXpoY2hBd1NYdjMwWUt2Sk9pV1czaEFJeEU?oc=5",
+          "published": "Thu, 29 Jan 2026 12:56:00 GMT"
         },
         {
-          "title": "Όταν απενεργοποιήθηκε η λειτουργία πτήσης… - Metrosport.gr",
-          "publisher": "Metrosport.gr",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdzU4bnVTcnpuZVpfXzhZSE1vdm5qQVhGZ2NzdVRfTHJINjJsNjdBdjNJTlpNenIwQ21YdW0xbDZkNk1Sb0tiVnExRWtfMHdNZDVXMjU4bmZLUEJ0WTJKeW5NeGd2c25WbmtDc1JjYlU4aE83N0docUQ2c3o1SG9Mcmh3?oc=5",
-          "published": "Wed, 28 Jan 2026 06:00:00 GMT"
+          "title": "E-mail από ΑΑΔΕ σε 18.000 επιχειρήσεις που κινδυνεύουν από 12/2 να μην εκδίδουν νόμιμα τιμολόγια: Έρχεται πρόστιμο 50% του ΦΠΑ που εισπράττουν - ProtoThema",
+          "publisher": "ProtoThema",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOOEdSMk1vbXltT3Jla1EtVE9Eb21rQ2xmWk11d0F6Tm5xMkhOeHd2dXBXN1I5VzFaT2R1Y083OEN6d0tZTmZlcTNKMWs5dlZWTDk5bldaY21Cb3pUeV9kcWc2TlpTMUdyem9Wb3VoT2wxY0s1RTgwNWNBTEg0bU9DSFBqa2huZTU0TGJIQU1wNmVRSWFRai0xY1NTMm8zZnRxWE5yYlZTTDBabzBsLVNMQUg5SmtLTnFFZkNaV3RkenFTMFhQTkRUbVM0MnlpcEhqSTBFbnh0NkNIblJoeDl4Umloa1lnTkkwZXZUZjdkd2lFT1B1THJKWVBOcHIzUdIBgwJBVV95cUxPSXlUNFh3bVRiUHlVUW9Ddk5makhtejJMeUNNQ0VzUHgwODVHZ0NvN0pVYWRsM3NjVHNmZzB2U0N1dVo0QXE0eVhxdHBTNHEyTXM2YTdadUs1LTVvdjhqRThVUWNENkUtMUNiTGVfeTlOTklJT1hUY3pVU1pxX0xTTmNSMnQ3dW81aTVOME5VRmU3SFA5WUVEMDk2d2R2bWQ2UGttSzYzZHZ0QURmZE5WMFM0MExNT3k5aDZLVDNFM1VWNHo5eng4c2RzaGZ0M29ZTFBwbVY1WllDaUN0c3huWGNCMkRnWlpuYk5NenNiMzdwbm5CUEU4bmpmSlk3emoxY1Rz?oc=5",
+          "published": "Thu, 29 Jan 2026 15:25:00 GMT"
+        },
+        {
+          "title": "Κολοσσός με κέρδη 17.5 δισ ευρώ σε ένα τρίμηνο απολύει 16.000 υπαλλήλους - News 24/7",
+          "publisher": "News 24/7",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkdtc1UtV1BVSHVPY2wySW55NFlFMF84akh4RDhXSFN6ZkRmamVXcmtZRXQ3RURzbEt0ZFg1LTZGOXAzMDVUOWFfWTJBMGJncWxGM0o3NnBtWXZPZ1R0ZnRWRmEyOGJkdVRMcVNPanYzajBVT0p5ZjcwZUpkRWpEV3hXRWFCQ282U0kyakt3c1piMU15U0szMzU0RVQtejJWZWFTdjVB0gGrAUFVX3lxTE5uREUyNjVfUktjcVE4dDRqR0E2UjdiWTVhZFlIZ1JwMzZYMklMZ01CZWVkU3NRNC1NeTFJWHhOVEtCWEhVb3BzQXpIc1lmMlpMcHRfX244UFNEQkdZc2lpWlM5LVh0akk4aGR2a3hoSjhvR0s3TnQ2Y1Jvb25SWHYwTU9Cb01PMHhyMUlpSl9YYjRyWW43YUw3ZXI3TEVYeVBFWE45NTBuT3ZESQ?oc=5",
+          "published": "Thu, 29 Jan 2026 08:40:00 GMT"
+        },
+        {
+          "title": "Pallma AI: Η startup με ελληνικό DNA που σήκωσε 1,6 εκατ. δολάρια από τους κολοσσούς της τεχνολογίας - insider.gr",
+          "publisher": "insider.gr",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmtNelZaTFRTeXN5dzlaR1hGVklENUtCMlQyU1pWendsVHdvdzFZdzJDZTFoQ3pYNE0zOFYzUmZ1X2poeE92S0ZyVDNZUkU0NzFObUR6Y3BZOUxZOEduUHRDTUVUMW5tNFJjTmxHbDZZaWJWV2dBUzhqbzNFSkxTN3kwS3BmZ2t0cGtkSzl1eTU2eDlHS05sb3FzVmhSZDRKRVp5M1phS3ZWeXFHSlN5UWRzUzhoMlkzNXB4MDkza9IBxAFBVV95cUxQbUtzZWw4NVY3NzJzMkZpM3pZVkZsRlp2UTdnZGR2WXVDeUJCZ0p2NG1pRF9Da0pGanJRdWFQa0hGWklLSjFHekpYQ0hXblZPNVk0ZjZ6ajdDOXFTMmVfQ0J5WlVzcTZRRUhFUnZjRUZmUXdxZVZwMXZfbTdqWlR4dHRnMXliUlIxRlJYS1praEFzS1hYMHcxd0hLNmVYcWpLZERWeHVSM0Zab0tmS1BJbHlaZHBfN2RFd0kwMXByV0dHYmFI?oc=5",
+          "published": "Thu, 29 Jan 2026 07:25:16 GMT"
         }
       ]
     },
@@ -177,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "What is the new FIFA Women's Champions Cup? - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMTdPLTJfRnNWNGV0X3hON05EVENmTjNNaW85VENEMmVPcWxHRlpYbEhmSWltS3dVRGV0cTBYQ3IzZ2FnWThpNjhUeDlNNWcwdDRYb05wdmZDam9RZ3BlVWxoODMxTGU4ekJQTjV3V0FmMWEycmw4Uk5ERWd4RllwdTVLOEdqcVpp?oc=5",
-          "published": "Wed, 28 Jan 2026 09:00:00 GMT"
+          "title": "2026 World Cup Schedule: All Games, Dates, Matchups and How To Watch - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRUNmdWE4S1RoUllPcE1JS1B2S3VkbXpUYmdLY2xWeFUxb29lRnloVlJDcmFEOHZEY3gwOW1qWkpMaFQzTl9VbFdPcFNRcEZZRlJvcTRDNWZrMENLekhZQ0M0THJ4U0lORGFCWC1tLVQwZ0FHdTM1ZVJ0YUswWm4xNXRhQnZMcXh6QzdvUnZaUzhGZzl0UmRGNEViSnJMdERZ0gGgAUFVX3lxTE4zZFJyV3ZlcGU4c2JCaHJJdUZxdFlUWXVzM2RwSjZuZkJnMnlweWJ1Q2Nsdy0xT3ZNTm0zS1dnRTBrVDBzc2l1S1pHaVUyeVg4WF9uTWVvTGZsaDlaQ2ZjbG1tSjktZ2IxaTVwQjViZjRBbHFSM0pSb3Rqc1FPZGRnN0pmbVRNUW91Q0hyT0ZLUTZHV1hwLWpQYlh6WWpIR0Q?oc=5",
+          "published": "Thu, 29 Jan 2026 15:05:40 GMT"
         },
         {
-          "title": "Champions League Soccer: Livestream Napoli vs. Chelsea From Anywhere - CNET",
-          "publisher": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVAyWndoUDRZd2hLdmlSV09PUE12YTBjdWhTN1BteTRrMWc4dWlCcV9xbVlldHp4eEN2LUk1QVNLR0NDcXJMRVFkcWQ1dXQ2VkdMYkdDWEV4Mmk2XzRJSk9qTnNmS252dXM5WTV1ZzRhV2lVX1dXZ1VvN1dsTEtaTEFhUURGNGQxdzhGalIwV2h0dnpHdnNXV0NGdmFyazNibUh2SFY0dm9xZ2Z0ZndaMUNfQkM0cjltUkFKYw?oc=5",
-          "published": "Wed, 28 Jan 2026 18:00:00 GMT"
-        },
-        {
-          "title": "Coca-Cola Captures 'All the Feels' of Soccer Fans for World Cup 2026 - ADWEEK",
-          "publisher": "ADWEEK",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMjhxeVFwc01aTy1MWDZ3ZTA1MTdZYVBKdnRiMmJYV2R0bXhhSkVhVmRYeFBvb1Nud2Y1T2pONFBmUmhrcW41a0lNZkxmeHUzTFBWRmFMQlhpUDItOUhNOUpxOU1PeTQxVGFpcy1Td2tiU1N4Nm9BYjY5WXRHVDJCZDEzLUVsZnYwNlg3SVJzeTFHbjRCbmdWN3AweW5zUldnSGtN?oc=5",
-          "published": "Wed, 28 Jan 2026 15:25:32 GMT"
-        },
-        {
-          "title": "Soccer Bodo/Glimt reach Champions League knockouts after 2-1 comeback win at Atletico Madrid - Reuters",
+          "title": "WRAPUP Soccer-Lyon top Europa League standings, Roma through to last eight - Reuters",
           "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOXh6Q1BvM1dQU2QtNFc2dmxhYmNIT00zR0pQQXpkeE52VHk1eU9DZVh3WmFHRkJ4U1V1aHU1TWdHanBIQWJlakNzckxBUXllSXNCY1JPRmwySHh3OUtQaXRYUHMzZmNadHUzWF9yVEdRcWl4WFIwTTJaZEJaSk1meVRYeU53ekFYdVJOVFFvZ1RxQTRRMWFnQ1FxOWQtampxS1NZZUxtZ0J2UXo2TzFvb3hOaGhWNF9WY2gwQWJRYw?oc=5",
-          "published": "Wed, 28 Jan 2026 22:12:53 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPekdBU3lVWElvcURxclJaVU5OSWhQSzJ3aGVwdEQ4MVNaZGNsZU9jdkJRX0o3czJSck1QNzVCUDFPQjNZbWVWVXFTMFBkc0xZd1VkMkFfOVdmeXFHMW1NdG9iNE1IX1NMZnJ4SnVsbktkSC1iZ1dKTTR1TGIzY1gya3lQZVRPa3JoNndOY1JYWm96RHZDTHlqOVNNRHRleGpJMGFaX1hHTEVka2hST0FDMVp3a2J1cDVab1RZUA?oc=5",
+          "published": "Thu, 29 Jan 2026 22:22:27 GMT"
         },
         {
-          "title": "LIVE: Benfica vs Real Madrid 4-2 – UEFA Champions League - Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLVFQbTJhNU5iR2FncWVJYTFhSEotZlBscnRfYUhVak0zd2xQM2swdXpTZE5UMktNVXpITjlLelZQOG5ZRFlRZHlaMUV1a1VCVExDb1lMWlBwOFZEcUpleXFoeVRwY3dmRm81M2FKVVRteXYwbmh6VHl3cXZqWmszMUs2ZmZmUTliY2VQRmRRVW1JMjR4S3hjd0JaN3pTNDFwRlczUHp2YUxyNVlvVVoxSzA0QTZyUFlTZEJ0MzBQRU93TF9pQ2I40gHMAUFVX3lxTE1rd040QjhvdUt3amFoa3B3X1hnX0NMU0JQSDRGQXc1amRrcG9IaG8xbV9SdnB0MHJSdmVrcTU0cUIyWHZWTWw3RkxsUUNrZkFrRUZFdzJ6M3JoRHVialVHTDRac20xOTl5TFdkblRJNU5yX3FvZVpHTVVKRzdqSXNfaVdVQ3hjT3NtU3RsX0M5elBveUFQUGR3Vk4xYV9tR3o2ZDNGTzVxcGVJU1NLQ2RWQXN1eDdPUUFtSWpuRFBxRGdmMlNLUVdIVHplUg?oc=5",
-          "published": "Wed, 28 Jan 2026 20:37:21 GMT"
+          "title": "Senegal boss Pape Thiaw handed five-game ban after AFCON chaos, as total fines exceed $1m - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZmJYbFJ2T1BWemFaY05EX1JNMVRIblZfT1A1dVJFR1NXVXZSU2lVTFI4MnM5RWUtaFQ0Z1h3VTExVVFIejg4VllGUi1aYi1GaENWRnlBT1hKLTNpYnlnR0c1SEgtQ1RGdmNxWm1WNE1aRXQ3dHR6Wk9MbmNoaWdMUldEZG5BQUE?oc=5",
+          "published": "Thu, 29 Jan 2026 10:27:04 GMT"
+        },
+        {
+          "title": "UEFA Champions League knockout phase play-off draw: Where is it, when is it, who is involved? - UEFA.com",
+          "publisher": "UEFA.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BWDhheGIweHRUMmN4a21UWV9xRnRUSmlINjVTSUxpLTM3bEJCemVtVkQyblpXWldwX2tnbWxPQnctOG1oSmEtQUQyaGhnVmp5MzNLNkRpaGdpSTg?oc=5",
+          "published": "Thu, 29 Jan 2026 17:23:19 GMT"
+        },
+        {
+          "title": "Suspensions and hefty fines handed to Senegal and Morocco after chaotic AFCON final - CNN",
+          "publisher": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVF9xU1N2T0tJRlJmUGw3Uk03b3pOSmJPWVN6SzRTUDZTbzdWSWxLeG5CVXJzdFJJUnF0U0c4QmktOXZRMmNzZEFmaTcyNUVyd05xU2JQc2c2X1NPTlBxLWhTZjRqTFZpZGhtakVFRFlVSkhMZmMzZ2FsNmMxMFNWQw?oc=5",
+          "published": "Thu, 29 Jan 2026 11:20:37 GMT"
         }
       ]
     },
@@ -213,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Bruce Springsteen releases anti-ICE song dedicated to Minneapolis - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmh0SHdReHdjdm4tSDBvcGtPTFJlZGs0dzZXV050V3gtdUo1UmF3eWpFMllibzkyN1JpN1dQTmtkTUsxMFZ3QmFCbUlncXlXQUNoa2JfTWY5djIzTFZHOHljTTlHd0V5TEQxQUxieUlTWGdWUG5uWlE2M0VNMUhYdzJybG84TkZkSTZORXp1Q3ZTMGpHSlQ0?oc=5",
-          "published": "Wed, 28 Jan 2026 21:48:00 GMT"
+          "title": "Bruce Springsteen’s ICE Protest Song Soars To No. 1 - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb1dySDJBZElZbC16OEtmRlRIdzdxUnpORjJnY0Q0QmFMNkIyMk9NX1NENnFST2JWelZjcHFVQ3R5SWpFY09yN3UtZDhZXzUwakU0UjBUN3ltS2toYVluSlJBR0lpRXlYWEhMdUZRRDBBNlJvZEFDUmR5Yy14RnRtaHppTFA3VmpacV9tc1ZvNzhNem81RExjblZySV93bGFKVy1rQzVR?oc=5",
+          "published": "Thu, 29 Jan 2026 16:24:21 GMT"
         },
         {
-          "title": "'Send Help' Eyes $25M WW, 'Iron Lung' & 'Melania' Could Pop: Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTEFFY3N4T0RsampjbGxrMGJIY0IzQVdkSklsVHI4bUNhQUotdldGNG9vNDZWU2lfbnVadDJlRjhvUWI0VndYMmtJQ2Y2RnF2U3lMRGxwVW9YNjN1Y0pmeDViSUp1V05RYi1zN3NabVo2U2E1dkVCLVk2dkw2X0xqc0w4WERoSVpNTmRRUmxMbl8?oc=5",
-          "published": "Wed, 28 Jan 2026 19:49:00 GMT"
+          "title": "Shirley Raines, Who Gave L.A.’s Homeless Food and Makeovers, Dies at 58 - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4b2UyYWpYdWNlQVNUZGNhY2EzWVNIb3p4Nk80N2JqNDhoZHEtQ3dVZnI2bmRYQnJpbVpSeWZTLV9WQlpJcTg0R3lJcGpldlRBVWhxRGVFd3U1bFpWVXZUWTdCdHNjMmFXS3pyTWVVWTZqcmo1SjhmRDVsNEd3MlE?oc=5",
+          "published": "Thu, 29 Jan 2026 16:12:43 GMT"
         },
         {
-          "title": "Michael J. Fox was so moved by ‘Shrinking,’ he asked his former ‘Spin City’ boss for a part - latimes.com",
-          "publisher": "latimes.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUV9EdEQwdUNhTGVFUlJiVC1GbElrektvTkQwaVJ1NVd4TEtzOFladzdpN0ZjeXN2WDRralBrbWtId3pXYUc0MWhWM2EyNmlWMWNxVkNLYUp3M3BSelBFei1TZjZ2Q3NPakhjblAyMVNlZDZJamVmV2xMTkl1UlczTHA5NEh4TlloUWk1T3lDcjBoNzlPTG5fanpFZXBGMDBzTjlmekZsZjRXd1ZMak5VSnFjeGhuQWdtQXRn?oc=5",
-          "published": "Wed, 28 Jan 2026 11:00:00 GMT"
+          "title": "Hear Blake Lively's Unsealed Voice Message to Justin Baldoni Before Making “It Ends With Us”: 'Talking to You as a Friend' - Yahoo News New Zealand",
+          "publisher": "Yahoo News New Zealand",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YWEc2Q0RSWFJBOHNmaWJRdVpHY0ZjM3lrT1VmZ2NyNXExcUdaM3dQcmU1NFZGSkxybzNSS25NLS00OHFZeWkyb1A2ZWU3NnltekJLR1g1elg3d08xYzFrdkI2YVNaMWcyVUM3WHkwS2RScFI5eW5ucy1rWnZDN0k?oc=5",
+          "published": "Thu, 29 Jan 2026 17:26:09 GMT"
         },
         {
-          "title": "'Wonder Man' Sets New MCU Record with Audience Rotten Tomatoes Score - MovieWeb",
-          "publisher": "MovieWeb",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSEZOVTY3ZUZaSjRIR1VuQnVVY2xPaFZQbDJzUThHbHc4cXJ0MDM2UHNEU1ZLRWtEMG9Ed1FibzN2V0JsUU1EUTVCYzFYdzNLTFFfS0RjRlZqcUF1Ymd4MXJ2N2NCc2hsZlFjYk9kZU1VYzFiOWpPeWc3bldWVHNSag?oc=5",
-          "published": "Wed, 28 Jan 2026 12:50:16 GMT"
+          "title": "Odessa A’zion Is Down to Play Crazy - hollywoodreporter.com",
+          "publisher": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOUFjaDZ6U2lXcS1EWm51Q1JCYmp5UGtmQU9DUDNmM1lqVTFNRkpOSk1aYk1fdlhSSUx6TGVjY1JmZ3Z3OGg0eEk4YTZUa3lvMUg3SHhuNWN3bzJPai1FUWVvdjNmRmlrT1BQdnB6bU5mdmZUdG92T090ckpRbDBqLXE5RVc4RjFjMURibDJSLWdTN281X0tIei1HQ3RyT3dmVWljcXRYYjlENENfUlNDUm1UOUM3UQ?oc=5",
+          "published": "Thu, 29 Jan 2026 16:44:50 GMT"
         },
         {
-          "title": "Stephen Colbert confirms upcoming last episode of ‘The Late Show’ - The Seattle Times",
-          "publisher": "The Seattle Times",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMnFNa1ZRbk5ZenZoVjQtVmJDQlR6MUJwZ2I1Vnlmd3d3SHFDdkZveXdZUTFkVUNUcDZ6cW1kS0RzUm9CSUZZZWdDWndBNUdiNzhuTVBibmpXdDM1ZnB4dTlfMzJ2dHVvaEVUWWczNjFqSlR1MVF5UGhZeC15UEFEV3p3UllCeHoyTFRVZHJpYUdiNnFkQWlSM3VYbGxJWURkcWNuSnVsXzFrRnMzVVE?oc=5",
-          "published": "Wed, 28 Jan 2026 14:01:10 GMT"
+          "title": "‘White Lotus’ Season 4 Casts Helena Bonham Carter, Chris Messina, Marissa Long - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaGljTXVTZXdjc0JnUkstd3dvNmtMTVlIYTR5X21jZndqMWdDZ2lGUHRScUtWemk2WG0tN3FCUzJNWUJUejNGNzNPQlQ1aUtZMlVpN1ZUdFRaU005d2dFXzdXZjBOVnNBWFplSmpJSkFVNWtBVkd3RzdPUnp6aG9DOEptbGFXTWJaNWN5UWhNNm42b2Zyc0E5V2lYQzd4QmhGUGc?oc=5",
+          "published": "Thu, 29 Jan 2026 20:00:00 GMT"
         }
       ]
     }
