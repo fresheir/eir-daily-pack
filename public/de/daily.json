@@ -1,7 +1,7 @@
 {
   "market": "DE",
-  "generatedAt": "2026-02-07T22:59:50.258536Z",
-  "validForDate": "2026-02-07",
+  "generatedAt": "2026-02-08T23:00:23.226318Z",
+  "validForDate": "2026-02-08",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "SPD: Bärbel Bas warnt vor \"Abrissbirne\" für Sozialpolitik - DIE ZEIT",
+          "title": "Niedrige Gas-Füllstände: Grüne wollen Reiche in Ausschuss zitieren - Handelsblatt",
+          "publisher": "Handelsblatt",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNG83amwwNzJnTTNScXppYXRQc3JCbWlwbnN6eFZJWDlYdE55WFVidFo3cmJ4ZjBXaHR3a2NiUEZ4bGRudWlfM2JyQTliOG5CUE1IbDQxekpQTFdzQ0daRWVZXzNfLTBScTNLWDRLdWFBTUhTSVBCTnJzb3JCRjRCNXREUTAtR0czUHJJcnNZamtRY29TeS0yczBvODY4WFlaTUE3Z05sRUI4aHpqQ25IU1dsYUhZQ3hzb191TkstRTIxRmNRc1NoWC11T04?oc=5",
+          "published": "Sun, 08 Feb 2026 08:24:05 GMT"
+        },
+        {
+          "title": "Mietrecht: Union kritisiert Gesetzentwurf für mehr Mieterschutz - DIE ZEIT",
           "publisher": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUlqSi1xeVktdGFGbTM1U2VYZUhYaEg1aGxjYkktcklUVVI0QmNHdkIzaERaSFpPMno4M0xIaEhwaEdZYzFxREhONVdYYkRQMVBuZFNYcDZhNGN1QVFFdWJRVldfVThKNHc5Q2tyM2VJUUU5VGZvNlQ4eTNzeGp4eHl0V05BYkM3cFQ3MGFxSkk5TUJRWWx3a281RFlhc28yYWd5eFl5QUhwdw?oc=5",
-          "published": "Sat, 07 Feb 2026 15:33:47 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFpObTk2YkZWVWVkdVBVVHJYQkRIekxSUmtlemJjbXJ6bVYxTm5YX3ZfWGU0WldBSlBLRkt3dmk2MENBb3BUNHFhanU0VUdTSnlnVXppMkRNRGt3TDE3c1JGZDdRTVRZYnE3Unl3bGs0enhsUEtXR1RPbU9tM0FVM2xBYU1BT0ZRZWVFRUVjS2dxTmRGeG85eGl4VDRjckJTbnc?oc=5",
+          "published": "Sun, 08 Feb 2026 14:37:23 GMT"
         },
         {
-          "title": "Tausende demonstrieren gegen Teherans autoritäres Regime - BILD",
-          "publisher": "BILD",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaXQwdzVFTkFzR0lEWUJJT1pCX2IwMkFFQzM2UkE2SE5ENjNnYmZyekE2c1ZYZG5ndXNzbFpUaVRjYzBKLWNTMHJDMWc1anlPeDc5Zmp1elJRX3F0QTk3Sms1RFJnek1HSGotZGh5WkgxUjU2S2xKY0IySDRXMjF3SkgtWTBLcnhXSVoyakRoNmFNZXlYbVMyUWZMZGw4OVdCblV1alNDVmRRR0pCckRNNGV4MXNOazI4?oc=5",
-          "published": "Sat, 07 Feb 2026 20:15:37 GMT"
-        },
-        {
-          "title": "Felix Banaszak: Grünenchef fühlt sich bei ICE-Agenten an SA und SS erinnert - Spiegel",
-          "publisher": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcjg2ZWl6cGMxRkV2REdqQ2NhSERCVnJybW1TVzhlSm8taURjdi0xblljdkhVeFd2NFEzWWlRdElSZTNVYXZWX0tWR1BqMjRjUlM3enZKTDJGdEx0c3NoTzItNHJpTGx5eEJ0Q09ydlZXU1NWd2FMQW80djhsa3NYSDJ1Z0lQVHB0WWF4VmxJQnhzMUNYb0RpT2Z0R2o3OW1weXV5Rk9pRC04UWRSaTljeEN6a2llMS1aaG9KVlgyVkRnRGpIc2pwRHZCVjhGX29EWk5lVng2SWJUODNrVklz?oc=5",
-          "published": "Sat, 07 Feb 2026 20:49:00 GMT"
-        },
-        {
-          "title": "Mercedes-Boss Ola Källenius: „Deutsche müssen wieder mehr arbeiten“ - BILD",
-          "publisher": "BILD",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZXg1TW9vNlo2S2ZJX25uY2gyVWJDU1BfM1NSU3FzNWxkeXdmWElXTGZnZjZib2RoZ2pCakFoVURtTkdnajVYb0lSM0tnem9OeWhFYmNPRXkzZ3A5dENfYTkzRVg3Mk94dXZvNVFvY2psTl9mOVNqSEdxNGFwUzNpV3k0SmNkVE9aZTVZXzVHU1JPN3RoaTFGczg4dklId3VybW1HMUdBbXB4b1ltUFJCb1hHaVk4N3k2bDNxR2xwR0cyaGN4WFE?oc=5",
-          "published": "Sat, 07 Feb 2026 18:17:31 GMT"
-        },
-        {
-          "title": "Tödliche Attacke auf Serkan C. – Ersthelfer äußert sich „Ich habe durch den Zug geschrien, dass mir jemand helfen soll“ - Tagesspiegel",
+          "title": "Serkan Çalar war alleinerziehend und verlobt Familie des getöteten Zugbegleiters meldet sich – „Der Verlust wiegt unermesslich schwer“ - Tagesspiegel",
           "publisher": "Tagesspiegel",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMWxDOTB5Z3pfMFBVWERqdU9uYzNwbllhYl9ZbmN5bDU3YnFwLTZIbnh5WVZuVmVUZ0gyTkRCblhHRUJSTUZFRUVFYjdSYTJYMHgyOHpJNHotdU1qMzFqS1FVSS1Jb2tTR2phbk9EWjhMSEFZaU1RSzF3clVZend3LTgwSjVnZE95aVk2ZlhZZ3l2TkRiTTExeE5qaV9LZHljMTByYWpEanRPa3Q5TDZjLU5HVFFIUXFLWWVUbmlKZGZxUWNQQU9kSmtlRk5XbXNmbUlaS0xnSFVobFA3QVZNbXhFTHJ0Z3NSR3VXclJfYlFaS3V6MWJOSUxKaHkweU45dmxpXzBHblBLRVk?oc=5",
-          "published": "Sat, 07 Feb 2026 16:03:09 GMT"
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMFpwNkowRm5ZRWpOWW9jVHhTMnZwVzV6VlRub0NjWkNyNFdRVG9GTTBZdjUxc1plZlZtUTZaV2RrYkdEX0IzQzZzVnp2SC1IZWFxeVlOeEI0ajZIYzl3ODhIeUxCSVdiMlpKVFBTZWRyNF9BSkdteFhFeGVqVFJ5ZFJoQXJKTVptWWZhcTVYVHAxbzI4ZnBVT05JVk10YmNpYkFNeXN3c2kyYXpOVjhuZnUwVWhwWTdxYTJ5ekFZNmtuNUZUSEN2bGVvckloQVIwT0dtTUhTRDVzd21MZV9jSDBKR1pxYlpaYlNVTENUREJmejBPdHZ4ODlmNVlXTEgwcUpPc1UteFNYcURFUzVFZ084a3pVMG1WUUtqSWppbHk?oc=5",
+          "published": "Sun, 08 Feb 2026 11:07:44 GMT"
+        },
+        {
+          "title": "Dritte Runde im öffentlichen Dienst Länder: Beide Seiten geben sich trotz Differenzen optimistisch - Öffentlicher Dienst News",
+          "publisher": "Öffentlicher Dienst News",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQi1nemF2djZzb2JnNEt0eTBlTDFVWW1LVUhfTHVucUM5dXRVai1LUVdjS3hFc3dWQ0JMclRydmZReXFmYXNtQW83dE52WnFpSlF0dFMxNlpkN2s1eC1jdWVuZ0JuZWp6TUhRcW9zbkJJZ3VyY3F0ZUNqSi1lVVF2UmlUX1A3Y3pEUEo0aE1MbTg5OFhWVmVyckZKZWxDYmdpSl9rcGJpSnZyN2VRZE9FRW5kbzN3WFkwd0JhZXNsekd6MmpwU29PVEtTUkdmamVjMXdn?oc=5",
+          "published": "Sun, 08 Feb 2026 16:03:02 GMT"
+        },
+        {
+          "title": "Deutsche Iran-Politik: Exil-Iraner fordern Umdenken - tagesschau.de",
+          "publisher": "tagesschau.de",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1BubnFTNmZHaHFMZWhqU1YwVnlldG9lM2NLN2FGbnR3LTB2ZkdhOXRsZG14bzBnVEJ6MFVrMUtyMWt4SkljT0FWVTRQXzZXUlQ0Y1drNnhGVnJMR2NoSXdUbmhvMnZoSlRqb1NXckRONTBybkNzN1NGT1BscHNrOURRZ2lvbW81ekI1dg?oc=5",
+          "published": "Sun, 08 Feb 2026 21:45:28 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Epstein-Skandal: Clintons wollen ihre Anhörung im Kongress öffentlich machen - DIE ZEIT",
-          "publisher": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjgwWFB5S3RuTGFiNU1JV0FBcGlkVDBaTm5hVkMta1dYVUFHR1E4Sm1aV2xJT0VQLTFfbmswdjVzYVR0cnoyX3JHYWpITkpEZDh0ekhJQXhBbGh5d1JxNHdqMzd6d3Nnd2NvSTFwcDczMnpfa284azZpX09XbmpEazVVOVZKOEYyU2paMWplQV8zcVJ1YkNIVHliN1E0Z3NacXVQWm9TQzZENC1paWFjdDl6dGFzazJ0dGVqbm5aajY?oc=5",
-          "published": "Sat, 07 Feb 2026 14:19:27 GMT"
-        },
-        {
-          "title": "Auch Polens Luftraum betroffen Stromausfälle in weiten Teilen der Ukraine durch „massiven“ russischen Angriff - Tagesspiegel",
-          "publisher": "Tagesspiegel",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdU5WdnVCYWQzQk9IT3V2Rm1MT1U0M0szLUdIWGZybEVzdTFIN01XaHBtZmYyUG9MdklMYkZpeTlxeTBtNHdsWHFPSkFmdzhOMnh4eHNFMlVmODZHQjJRNmY1UGZuS3JaNlYxSllWZ1psMnNGMmc1cE03Qk1OUkpXU0FnbGtlX1VqYVRQOHRnb0M1c2poS2RNX2dSSXZuYjB2RVRZcXAwTVZWVGpOeFlYUWxmLVAwTmJqWk53bkE2MTZxQzNIcnZndURNVVRzMm5VTEFkeGZvWjZDN3RQOE4yc2Z6U1NoYmFuNjlzVHQ0Y19GZV90Mk1zWQ?oc=5",
-          "published": "Sat, 07 Feb 2026 09:27:15 GMT"
-        },
-        {
-          "title": "Russische Angriffe - Stromversorgung in großen Teilen der Ukraine abgeschaltet - Deutschlandfunk",
+          "title": "Atomgespräche - Irans Außenminister: Werden Uran-Anreicherung selbst im Kriegsfall nicht aufgeben - Deutschlandfunk",
           "publisher": "Deutschlandfunk",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGdpTEcxdlRuS1kyTzNGOTdCazVKeDRSSTQ0QTJNaVJndHBQMEJMSm15LWxrYVpvaHhxLUNac3hOcGpNOTYybnBPOVliRDJiTFJ3dm4wTU92X2l1ZXhJLTliemRGQkh3TTRCd3RlNDJTcWlvSFVKZi1hUHRUb0pXam9hS2dWRDQtQ0JFTkhWMlIxXzlCNFdEQjNZQU9aalE?oc=5",
-          "published": "Sat, 07 Feb 2026 22:16:26 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZzFUUXM0MkNvMWdUaDNPNS0tWDZRTmlwd0xxZnAxMEZSS0pCVldUSkkxaFdNV1FnMnNKcS0tbnFLTXdNMkpDR3VpZHNINVNwMmM4UHBrcHQzU2JTVkppVnRsSTlRMWZlUGhyWUU2S0UxeE1Ybjd6VUVmOGp5VE9wclBMSjhadFowSVBndTlrSThwakRPWll3cmR0V1V6VF9NYmY0ejJqa1dva19aWEZ0M3kxbm1nd01RMFNUcWdR?oc=5",
+          "published": "Sun, 08 Feb 2026 21:18:17 GMT"
         },
         {
-          "title": "Trump lobt Fortschritte bei Iran-Verhandlungen mit USA: Spahn attackiert Regime – „Wie eine Krake in der Region“ - Frankfurter Rundschau",
-          "publisher": "Frankfurter Rundschau",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM010QlhsS1V6ZXJQQ2NCcEVURGNpcS1mSUN4QmxncTR5T0ZRQy1pMmpsbWtvUllZU2NLM05kdkxoM253MmdXcXdWQ1ZacHlRZVlocG1YT0EzSHBZb3lZZjY4QlRVMkxVT1dkaEZnOFdiUldjR1l2TGhTTy1UMGR3STEyaFdZRWxOc1E2OTA1RDI3TS0zWkhjT3JFcXIwR2pyc3lZaTRPejBINi1QWmlrZUxOcHkzdmVmcVNtcy1xLWpIcUEzS2U1aVNCam9XbGth?oc=5",
-          "published": "Sat, 07 Feb 2026 06:59:31 GMT"
+          "title": "Klarer Wahlsieg und deutlicher Stimmenzugewinn für Japans neue Regierungschefin - WELT",
+          "publisher": "WELT",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdkxqdHllU0RzOFhxbVl0eUtiLVA2S1plX0dhVmdUd19sQktNQ1NQS3ZQb00tSzNOMGhnbmU4STUweERQNnBpUnZGdjBaN3hPMzhvbDVKVnBnZ2JLRzBXaGVhWldtVU5xVElHcnBVU0hjNjEtMGdYTWl6LTlzQW8yOGxBUjhXaG85cThjNlJzb3dfUXlnTldzNm1JdmFmN25sNTF5LWd2Vmx3SHpudHlJZnc4MWdNV2liM0NDUHFSUFFFajZoUGZfUUZwVzVNLUdTY2tRYkxYVGluS1hzd3NQYnpwSXFud1V0bWVaeFlHYVlBNzJyS1NWRmZjZm1wbzZYZHBCNkN3MjJuYVJ1cVBhT0w2bw?oc=5",
+          "published": "Sun, 08 Feb 2026 15:33:45 GMT"
         },
         {
-          "title": "Großbritannien: Starmers Parteifreunde distanzieren sich von Stabschef McSweeney - Spiegel",
-          "publisher": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRVVxZEpJRGdrOHV3d3RraFBSYk9LcTBtc3NRSEFyN1lHZ0xNQWNhUUt0NUpZalpaODJ0a24zQUlPSU9pYWRZM3JrSDl0b21zRkNzOUc1N2luYXVVVnJLMV9wNkF1Y2hMQmlpcG1JNVZjNW9aNUhISVZGUGwxMXdaNmlaUXBBUFVDbzd0R3BIWGJHRkp5OGVnSnVna0RkcDJYLVJWVEFwNHNvTWxSamR2cVJIUWNkM1dTdnk3Ylg2MFZETDlyUTNTZ0phU3QxVUVnN09jZFZfUHgwLWhiZ2V5eEhGUGI?oc=5",
-          "published": "Fri, 06 Feb 2026 08:44:00 GMT"
+          "title": "Epstein-Files: Keir Starmers Stabschef tritt wegen Epstein-Affäre zurück - DIE ZEIT",
+          "publisher": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3NnNzFaZlJHejIyY2J4TTB4OThldVJIQUZyTVQ0Zk9OLURoSlZ0SjhfZVBESWpjbHNhY2lRQkNUeDdCOTNDMW5URmZhaGRwRFk5b2lMNG5QRGZwN2lJSmhrR3pfOFVpSUN3ZEhQVExheWM2UUFwT1BSb2pPWm5kb0F1ZWRuLS1xQXNQaVFHaFZxZ1hQaEdZ?oc=5",
+          "published": "Sun, 08 Feb 2026 15:50:24 GMT"
+        },
+        {
+          "title": "Präsidentenwahl in Portugal: Linker liegt in den Umfragen klar vorn - taz.de",
+          "publisher": "taz.de",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14XzFxRTlRNGpHZ2ZLTHRSbTNVbjQ5Uk1OcTZvenlTVXhjdVhKVW9ka0NKV0lDWVljSGV6UTVGelJJYlEwLWFRZnhnZ3h6YVJGVW02RlpYOUVNcUo1amNxMW5VOA?oc=5",
+          "published": "Sun, 08 Feb 2026 08:19:57 GMT"
+        },
+        {
+          "title": "Sechs Jahre für Mohammadi: Iranische Friedensnobelpreisträgerin kommt erneut in Haft - Ntv",
+          "publisher": "Ntv",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQnR6cURxZkpRdHVSNHREUXNDWk5ITjhYU0Zocm1zVGVzZ1RUQzZtRDE4Ym51UGNtQ0kwRmNnc1VhSTJPbGUxcmcyVTRBc2U3RHhqLU9KNjFkeVRVT3lMTXpudjN6WFV5RzBKN0lsOXF3QmhaSTJPaThab28yczJoNnlaWDlyV1ZQU051RU1FdWJ1b2hiVjZVbkg2TGxnWnI0SzZxeQ?oc=5",
+          "published": "Sun, 08 Feb 2026 16:48:41 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Kryptobörse verschenkt versehentlich 44 Milliarden Dollar - heise online",
-          "publisher": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLWpLUDR4ZjMtckJZdlRNNG5rOWxJaF9CMEkxdkIxMFhPaVVQVG8yWlB3YWhrWkVpaG5oSmQ3Umt0YXphdGhTaV9Ickx2SXFUR0UwUllZR2tYeXhIZkdKYTlVOHU1RUREblNnNkEtaHBBNjZLc1BtNkpLODNSS05UNGNNUC1rNW1iNE9paVNpUlBkbDNjZVhnVHBmdWt1dGs?oc=5",
-          "published": "Sat, 07 Feb 2026 16:59:00 GMT"
+          "title": "„Washington Post“-Beben: Herausgeber schmeißt nach Massenentlassung hin – Kritik an Bezos wächst - Frankfurter Rundschau",
+          "publisher": "Frankfurter Rundschau",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmZFNzdTZFI1UUdmOVhzdUZudEt5aFRjbURnSklUb2RXdHR5cjBLT0ZrTFFDdWxBVG0yUFpKOGZXcDJzeURPX0ZPWF9UaTMwT3RrUEN1dTF2OTJyaWRrWWEza3lXaDI0dnN5RXM3b1ppc1JhUnNmTmV5LVJRME9aTDVtd2pFTHpYWDZSVkxlU3l2UWpyV3FLLTlKUVJfbkhhdHIzcVk0RmxPSWtMbVVRbVJSN2dLd2VtWVlBNnZZdmhscnpBYndr?oc=5",
+          "published": "Sun, 08 Feb 2026 08:57:56 GMT"
         },
         {
-          "title": "Wiederaufbau nach Bürgerkrieg: Saudi-Arabien kündigt Milliardeninvestition in Syrien an - DIE ZEIT",
-          "publisher": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOHpRdUNhZ1hNNENpOU9YX3NxOW8wSG5YbzhuYTJVbVExUEs2cXhrSXoxdGpPMFh5clZuOGtoT3lIOFdwU1RsbHlNR25PSE0zXzVHbFp2a0lNeE1XaFh5NkdJVGZwZTBReV9RYjVwby1uZUxzbTVLMlZHMUNGTi1OQzMwOWVvTURQN3JXTy1Kc3ppRmwtMmhBaXU3WUM3X3d4VkE?oc=5",
-          "published": "Sat, 07 Feb 2026 16:27:45 GMT"
+          "title": "China-Automarken: BYD und MG wollen deutsches Händlernetz stark ausweiten - Handelsblatt",
+          "publisher": "Handelsblatt",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONDlMV0JmcXVLS21ibGtBQlZIRXROdzd6c01kY0xiUVliSmxoZVBxRjEzXzg5X21YNnQ5bUtMLVZfd2pZNlBqdlBqd0FpYWZ3SkNEXzg5U25LbWpZTXcxdkZNRzF0eEIxNmxhYVFhTDByT3lhZm1ibmJMVnZJdmI4VlJ4ZGhIaTQ3TkVyZkhlOVZLQUt4MUV1V0hyNzlPVzdxeHU5Y24wWHVEQ3ZzNEhMXzB4ejE3bEZjNEZxT1VERE4xUWQ0RG1UTWMzXzZtVDl2d3lvUDZ3?oc=5",
+          "published": "Sun, 08 Feb 2026 08:42:14 GMT"
         },
         {
-          "title": "Schaeffler: Ausgerechnet ein Automobilzulieferer – Der große Musk-Profiteur kommt aus Deutschland - WELT",
+          "title": "Im Bitcoin-Crash rückt eine Grundsatzfrage in den Fokus • news - OnVista",
+          "publisher": "OnVista",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkhzLWFGcm0xOG12TVRYTkVvRkhtd1J6bEZuV19BNDV2MDNFb0d5X0hhU3M5ZkNwUGprR3JqWktYV1NNNGRQQ0xpcUhlUXd5MWVpajZLOVE3Y0U1REx1NjMzWlJJOVlCZ1ozTU83Q2ZjRE5mcWMzTTFvNGZKR1RhNzBSMGZoOUNZWWRBbThEYjN1YzMybnhJRi1oRWM5a0NONlZvRVlnZ1prLVVtYkZ5eQ?oc=5",
+          "published": "Sun, 08 Feb 2026 08:30:01 GMT"
+        },
+        {
+          "title": "Neben einstiger Disco und LPG soll ein Einkaufszentrum entstehen: Wann kommen Edeka und Aldi? - Nordkurier",
+          "publisher": "Nordkurier",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPNGtGWVdiRDBINVFjM2VoVEhlS2JIeXJnVjN2RzdmeVlHOGpEN25lUW1JX3NxcWVQaVc4WTJuNC14YWE1N1h1Tld5YmxQTnZVQ25sQUF5eDFrWmJtRnotNnZjQUtQNlBLbTNrVnB1WnMyZGtzTE9URGFLMmI0RmdxVW15dVFKaEpMblJVQndwblFTdnk3NmZpUkM3REJmMVdWY1J0MVRydWM1ajRiMjdCb0Vrc3B2bmU0NU5RRzZ6MTV3ZElUdmFLRS0wZklqdkNPS19zYlI1R2V3Q1BEeFpjUE5PQ0x6V1c3Q0IzeTRHRHFtYU9ULUV5X253YXVFN2l3QnZ0V05NVE5BdXE4ZmRVQXM1anZrZHhVakFpZVAtS1BRby01?oc=5",
+          "published": "Sun, 08 Feb 2026 16:37:00 GMT"
+        },
+        {
+          "title": "„Der Mittelstand gibt auf“ – Jetzt schwappt die Pleitewelle von Ost nach West - WELT",
           "publisher": "WELT",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONXNTTldDQ0ttT3Y1b2N3aUtMY3BfUmhJWVdzajhjVkJkOUNEYXJLellCLUdjVUQ5SWtBQmNKbzZ3Vi1pSll5WVp4aUhfTG5jYTkwNFBld2M4YWtEMS1pUVpNUENBRjd0T2VDc3lpdWw4TDdLSlR5SkZjOTh1M0htUDZSbEp3c25GVDJ5OUNqY3Jva3NnY0FQUTRjSUFvNF8zUGtzaTk2X0VzS2VZelgyVTNDMFlSMG9uUXlwd19mYkNfYjVKb0dWWTRqUlZXdVRINVlwSWVnbU16OGI0Y0tSd25yczFNa29kemdfemtpT21hZw?oc=5",
-          "published": "Sat, 07 Feb 2026 13:30:34 GMT"
-        },
-        {
-          "title": "Rückruf von Babynahrung erweitert: Auch Milumil betroffen – was Eltern wissen müssen - Ruhr Nachrichten",
-          "publisher": "Ruhr Nachrichten",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOEtUT2NrTHREdkZhLVFyOTFGQlM0UDh2dUR4Y1BQZHlNX0NEb1lVNExzdzZkRmE1cGZxLWhqMU9CUF8wd3R3d01lLXBRSnp6bWRiZU51NjJ4WXVkekRjS2c4RjIwMlk1VGJoOVJFajkzMEZIc3JMVU1rbDFTMnFKSVA5cXlEYUpITVhodDhHWktwUV9LMjdzM1laYVJIWFZZdGQ4cnVJYVh1LTVtZUhhUGs1RVVZVVZoWVYtZ1U5VndaQkdsOHVYRkFkaFhOelRlT3ROR0k1UjJ5R3BZd3ZuMl9FQUVGdmVvUzV5OGszQjJiQQ?oc=5",
-          "published": "Sat, 07 Feb 2026 04:55:00 GMT"
-        },
-        {
-          "title": "Krypto-Blutbad überlebt? Bitcoin-Kurs steigt wieder über 70.000 US-Dollar - BTC-ECHO",
-          "publisher": "BTC-ECHO",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeDJyTHhpWEVQTkNVRFVwNUlxY2pHdnRsMDBZMTlsWmFITUNmTVFKS0hwWjZ3Qms4MVByZU9IbnRMZHQ5NnNTSk9ISzRadF84cGRTYW1keEtxd2M5VDBaM1VndldfTEkwMHA3UE16ck9EQkJ3d0pfcndXVWptb0hNVDREUF9uZktRbnVKNmlDd1Nob1AzVVp6SnFwaGtNNml5U0ZWTTFNdUNkU0k?oc=5",
-          "published": "Fri, 06 Feb 2026 19:00:20 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS2dBRFRjbGUzNHBfRVpGU3NEWnlLdm5OLXREZkxLOTdDU3FsYkl4N0ZsVWpJYkdKUUhGdTB1dWhZdkhvWS02cGwxNmN6MUc1bnozWUhTU3lOaHhwRjh0X3RNbkdxTGhnR0J0SExEdVpWVlZFdkNjbG56OWZ2clhxLTdHUzJqcl9qYjFzcEthTU1ZVGZjTDNjb01PejBVa2pBWFF4ei1uOHJEN19aV20xaFc2S2IwT1o1M3FJVzUtM2NQMmx2R2xIdjhWWHJvbHRtUnVyYw?oc=5",
+          "published": "Sat, 07 Feb 2026 23:12:11 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Guirassy beschert Dortmund Dusel-Sieg in Wolfsburg - sportschau.de",
+          "title": "Superstar Lindsey Vonn stürzt bei Olympia-Abfahrt schwer - sport.sky.de",
+          "publisher": "sport.sky.de",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1B0NWVjby0yZ19IUUszNVh1TEhCNGJGT3pJOVNfdl9GMkJoT2l6emNjU0hoSjNHQUtjeXJYQXFnQms4WlV2OW9HQzZPdm9QbVBtTVlXR0tNbHZKS3ZtZ1F1OHM4ZlFJNXlXcXBsS0xXME5saFNDbng5ZTlIUzV4Y1dIUTNEeGc2ZkxpSWZrZmFWcnJ2RW5oektXd0VuQU13TDBmTm80LW9HN3dSaHc?oc=5",
+          "published": "Sun, 08 Feb 2026 18:44:00 GMT"
+        },
+        {
+          "title": "Rodler Max Langenhan holt erste Goldmedaille für Deutschland - tagesschau.de",
+          "publisher": "tagesschau.de",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU1FpcVZJX3Q5ZU1Iem0wMWpkejlOa090ZzFjZjVxWnNQbFR1Vzc3RC1zZ3o1QnE5WXBvRnRhY29jeFp4Mzl2c2hRV2Y5WW4tQ1FZNFdybzVPS3Qzc1RUdDJVQnlueEFFbU9MbzkyNDBlNFNrZUNsZGJTeV9ON3otUU5kQXAxc1VO?oc=5",
+          "published": "Sun, 08 Feb 2026 18:29:00 GMT"
+        },
+        {
+          "title": "Super Bowl: Um 2:15 Uhr müssen Sie für die Halbzeitshow aufstehen - BILD",
+          "publisher": "BILD",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX0w2Y0RyR09RVDVsLTJ1SnNucEFNOU5TUHpEOTBHbTh6RUcwUGZhYVYwWjJ0M3YyQWJ0eHVkNVJOdEtoMTFpOEZ5d0N4azVFOXN1d29MNmUtU3JiSFB2OGNOQ1pkLTJULXZBZFZoRXpheTdsYWlqeWNSSzlweHVkRWt4WWRCaC1kNFZiZ3h5U1ZkXy10SUk0eTl1bkxhYlljNWo5bmQ2amhZTzVSdlN6a3hENTVuaU5NRUY3aHJaZmRtRUYyWUQ4?oc=5",
+          "published": "Sun, 08 Feb 2026 18:55:04 GMT"
+        },
+        {
+          "title": "Bundesliga: Leipzig siegt in Köln – und freut sich über den VAR - sportschau.de",
           "publisher": "sportschau.de",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcllRTEJITDBhUXlmRVVzLWgtWThpRjJIdnRRY25FaUxRQkEzY29QakdGX2YtSXdCN1pFM2NKOE90emp2NFZuUXdEZFZKd0JHSkpQSHBZNTFUN0xCbHNUYTJhLWNFNFZyUWhjX0pJNHZuQXUxLXRLU2dxZkIxUkdxSDBoYjN5RUh0X2xMR0g3Q2NQeDJkaWtsQkVqUWtEN3RPUjJYQ3FYZzk2bko2NFZVVUptWk1mdkxYT0VjRXpfWGJKNEYyTXVaN092bDdwUUVqS0lUYnoyQXloZUQ1OTFuc3ZfNFA?oc=5",
-          "published": "Sat, 07 Feb 2026 18:13:50 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ19QYjFhN1lGaWw3WHB0Y1dOTXZ3NG53QmNOdU96bVhvc0h6bEYtbXBjcTVtSkd1UTBoWGVJMkRoMmdIOENDQU4wRldLaTN4dHloNmRqODRhV3ZoNnhCUEJkV3NFWjN0ZWlEQXZlQjF2em1tQndKcWNybVdKZFhlcGZVQ3U4R1NBMFVZSEFnSU1sT3JEeWxKa2xOWERGZ3pyUjhrQ1JKZXRUd1dwN3BKVGo4T0Rldw?oc=5",
+          "published": "Sun, 08 Feb 2026 16:31:15 GMT"
         },
         {
-          "title": "Bitterer Auftakt für deutsche Skispringerinnen - Prevc nach Krimi in Tränen - Eurosport",
+          "title": "Bundesliga - FC Bayern München vs. TSG 1899 Hoffenheim heute live im Ticker: BL-Topspiel am Sonntag - Liveticker - Eurosport",
           "publisher": "Eurosport",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOSElsTVVuV3F1dkFuMkRQZER3dnJfYTdJbDVRdXR0SFM0dlFfa3RBVGRLdm1GbVdxT3V3b295ZnYwSGNCTE1UWkl2UmNEUG4yMUJwSzN0ZHhwT1FXNm9hakp4Ymw3U0hud1RxUVpCMG5ZekdEcW9BQ0ZlTTQxNEp6RTNwSWVTdk83bkRSeG15dzdVWjEtcUdYZjE2RHFZQTZoaC1HT3BHSXVsZjFuX3NaTGdvUnhYZElLOTZnenYtRmZ4c3ljSmgzR2FSS0dacy1GRzI2QWdHMEtPdVVrOXpLQ21BVVNMeDN2VG0yRlFlR1BsSGxlNXJ2WkE5UHgtVkMwRmg4elp6UWlpeDlfY0xXUzU1YnJzTDFNcHZzUHpzdzBVbFFaZXVWdHROdmljM0J4eGNmdnNhY2h3cHJKSFE?oc=5",
-          "published": "Sat, 07 Feb 2026 19:38:00 GMT"
-        },
-        {
-          "title": "Langenhan greift nach Gold: Frustrierter Felix Loch patzt, Olympia-Traum platzt - Ntv",
-          "publisher": "Ntv",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ0NsQ010bG01bzRFTkR1OVBBZmlGWUg4QlJLWmZvTzVvM3lpYnhGTmZnd3NsS2dmMmt6Vmg4QlBZcnZXYjlsSWtUMlliVURWY3JpcnBFMWpoNmpqa2VqUU40RjRQdlJ6d3dhZ0RtZmhHVFlxcDBiS2FnTFZEaE5CTXVhTnljSWVLemxSWTdoRTZfaThKTTNFNHE2U2dLd1ZsX3c?oc=5",
-          "published": "Sat, 07 Feb 2026 19:21:06 GMT"
-        },
-        {
-          "title": "Lieberknecht baut um: Vier Neue in der FCK-Startelf gegen Darmstadt - Der Betze brennt",
-          "publisher": "Der Betze brennt",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmpXU01vdzRCUHRzRGgwODV5Vzhfd2w0Z25ranJxTWFzajNKdXNEbGo0S3VyUU1Db2V5QzdId2VKenU0TkJxVENyb3BxY01CWl9HMnFRcE5JaDFON0p3eGw1UTNIVmM4TXBLV0I4Nk9HVm1hZ3FCVnNiV0o5UjBrWF9fS1ExUWEwSGdSVnZOSFpKR1FKUHlJcDd6NzJrYVNiUHBpZVIwb0F2czVGSEZsYkZsVQ?oc=5",
-          "published": "Sat, 07 Feb 2026 18:41:00 GMT"
-        },
-        {
-          "title": "Der Zeitplan der Olympischen Winterspiele 2026 im Überblick - WEB.DE",
-          "publisher": "WEB.DE",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVhhU21JMHBIUDRvWndzX1M1ZThBbHp0TXA2ZVcwbVBvOTBwQ3g5aENqX0UzX01TMEljeFUtLXhpSTBaSHlrYVpIeEJQMGpVSjU1YlNYT0tQU2E3dEZfaE5CVG1kRXFiTzl1QTZBN3QyVDFlVkRQNEFLYU5FVzl4bi1HNDY2WGlxWVJfR1VKVUQ1VnVCX0ZCSkhxY2w0MGM?oc=5",
-          "published": "Sat, 07 Feb 2026 07:52:01 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDE3RkNXQUc0MFBvYzF3eklMa0wxS3RLQ3NsSk5FSzB0M3lTcmJPZE1yaUdJSkxKdjhETGlkaXlacTlpYklsZWRXMC03Y1BGUDhOTUJzX09nR2czQ1VaSXU4Rjd4WHdpc0NaQ2hFNVhOSXBYRl9kVFVETjJ4d0VpM0M3dGx1ZzNrYTBIZzRnVUhrRDh1SFdWLVhpUVlZeVI2UW9TT1daT1lmUG91cGFzcTVXQlhKTGE1M2xHeUVveVY2R09tNXQ1TENDaw?oc=5",
+          "published": "Sun, 08 Feb 2026 16:30:00 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Teure Panne: 44 Milliarden Dollar landen versehentlich bei Kunden - BILD",
-          "publisher": "BILD",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMVZOVVRXbG52djBpcVBxNGEzZy1MNktZR3dlOEhSbjZnOTd2clp1ZXdNRFphWDVPcmRnZXNNNERVUkduR1pReTN3bWhsVXhoOGV5MnRKY2lQYk02czZfWkFUMXkzSlltdmU2QkJpZGxnQ1B2T3QwVkFOME9BM19jbFpLS1RwQTlQUkZEaWRGVTRmWm9SODVXT0FON2tsLXY5T24yc1ZYaERpU3RnOTRKb1lILUpyVzVmOUZIX1VhZVM3RHM?oc=5",
-          "published": "Sat, 07 Feb 2026 04:00:35 GMT"
+          "title": "Strategy-CEO: Ab einem Bitcoin-Preis von 8’000 USD entstehen Bilanzprobleme - Crypto Valley Journal",
+          "publisher": "Crypto Valley Journal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0xEWDJUT3dFc0p2bVhNSHRDd3dhcmJkNEE0MXdyeFRybzdmQWdpc3g4OGZYMjJ2LWh5UWhEU0hUN04weS12bmtaVGFWVGtUYW5KdWRRaXhjV1FOZWNrcDlrM25CbzROQmRfajhMU1hFbzZkRGxzNWdEVVJoRTRCeGQzWngwWW1ua0pOWms1RWt0SG1SWnFzc0tEV1lWdTdaaHcxRQ?oc=5",
+          "published": "Fri, 06 Feb 2026 09:14:53 GMT"
         },
         {
-          "title": "Bitcoin stürzt ab: Trump-Söhne erleiden Verluste - BILD",
-          "publisher": "BILD",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNkFHQ1ZJYTd4cE45ZGItLTV0MV9QaFJZWGhjbUJHRXJuTS03Ylpfcy1UcDlsbmJydThHVVROOVNFTFdIeGVrQmlOaHRMZm5oZ3dsZXRPZTJ4cUJ5a2VkZ0tuNWxhWl9GdUVMTGV6ZXVsbU5HXy0zclJZUllVR1dReTBYaGJzN1FfLUNPejVXbXZoMFB6UTV0TGZXY1ItZHZHZVEwLV9sYTZaVXJON3VPSG5uN0ZmOVBveTkzY2EyV0YzOTU4ZTVfUnBR?oc=5",
-          "published": "Sat, 07 Feb 2026 10:43:26 GMT"
+          "title": "\"Riecht nach Bestechung\": Scheich kaufte sich heimlich mit 500 Millionen Dollar bei Trump ein - Ntv",
+          "publisher": "Ntv",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDNQbkJwOGZZM3FDbENmVVY4b1V3OFczRkxpN2toOEM2RHo4WjVkZWNaZGJKRUcyV1Y2NERlT1VZcGdLVHlmRnN3dTJSUDU5dnNEZmRxTW1uRE1kRVZvZVdSVkl0bmpiYnE2ZVpua2RmZHYtQThyU19oZ0RzQ0pGSThlN096a1ZRQTN3WUM0Nnc5dXY1OXJPTXRhcjZqTmUzSGY0clBaT2pyZ09KdGRVNTE3aG0?oc=5",
+          "published": "Sat, 07 Feb 2026 11:50:47 GMT"
         },
         {
-          "title": "TikTok, Instagram, X: Die Droge kommt aus dem Handy - T-Online",
+          "title": "Bitcoin-Panne: Plattform verschenkte mehrere Milliarden Euro an Nutzer - T-Online",
           "publisher": "T-Online",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQejItWndJOVNGUjRwSEZZN1h6VTdLNW9qZzVpVmZqbWpJQWNRVV9Ham5fbVdjVXdwb1d4VE9faFRoeUQySWREZEpJajlhaTZtU19BTTYyUkRHRkVyV01MYTQ5bXZZR0RuREdKaXlSZXN4OFBRZ3ZicnhEWWFJNm1wUl94NzloZEw0aTRxYlhZUmZiRTFiOWMzQXRleFNicU9IS000UmE0cUNSUGVWaXd6Zjk3NTlRdw?oc=5",
-          "published": "Sat, 07 Feb 2026 04:02:44 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX0dIeDdkN2gxdEZobUhPdnVvVkxhbWdmZjdvM0JvZURjdG1CcUdwRkl4c3lYazFER2VUUXNlalUxRHlVZ0R3cG5mSkpueTA1bmhDOHZtSW5JM1NMMWEyN3ZycndiTzZUOXE0eDZPTS0wUEJRLUIxTm1rVnVid2RHYlpZS08welA4WEY1QWg3UzI5ek5lS2VTVDFPZklTaTNZVGVSN2FIazNjZ0NzVWVMLXpGU25Zck1NR1dWdG9Hd05qVzlHbDNuc2JpR0hvRVB0Q1gtU2dOUjNDZlpjb0Y0?oc=5",
+          "published": "Sat, 07 Feb 2026 13:48:04 GMT"
         },
         {
-          "title": "Russland-Ukraine-Krieg: Wladimir Putin lässt nordkoreanische Soldaten jetzt auch Drohnen fliegen - Spiegel",
+          "title": "Ukraine erwartet erste Drohnen aus Produktion in Deutschland - Spiegel",
           "publisher": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdlJ6NnFrcFJHbE5GMThwczFNcmg4SUI5ZlVGVVdmZjJ0MzJydjQwUGNOdzJzamk2SkRoMnUxWmM0WGJuRmVjRjljdWNEMWhwSndDUy1WZXY3X0JHeTJBbjQ4cXlybVFsX19nZUJzc3VEZmY2LW9OWm83VE9Vamp6RlNXM0dsSjhYQ3dYTnJRZmJKN0UybWdZamIwUUkxa0Ntc1B6SFJpZ1JDY0lOZldiVjliZGpJTFJFLWZpZ21EOHpxMmEwTlBNLTZhcmNOQ1hnMzI3SG5WVEFwcWxqTnlCenQwZGFnWjZzM2xGQjgyWFI3MDY4cXdqc2pYS3VscFBPeThWNlRtVHlNeU1yVGs1STVR?oc=5",
-          "published": "Fri, 06 Feb 2026 20:05:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLVNaTkpyaUNPaGJRV1k2MDA3Q1JhZjcxcDdtWTc2THM3Q29yUUpyeldXZW5pTFJra09JY2NJbzI3dG53ZVRPeVRLYS1hSnZMRUN5aHpIZlBaOG01WVFacHpVakZtbHNGQ1NyTkV3b1FhdDdaSkVySkdUcm01QWFwaDdMQ1RhRFlfSnZLSU5tdTF5SDIzckx2MEdnODlaLTdDbFFsUGtNa2UxUjJocVBIb1JMdUl3NURwRC1YQS1tNjNWTlFrVkNhc1VLYTBJWklXZFRN?oc=5",
+          "published": "Sun, 08 Feb 2026 17:37:00 GMT"
         },
         {
-          "title": "Lidl startet neue Parkside-Aktion ab Montag (09.02.) 11/12 - Teltarif.de",
-          "publisher": "Teltarif.de",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM2t4WWVITndtYzhCWXd1R0hsdjFjMl8yblA2R2dveDNXQXhWbXBsandHUXBFbTVCX055ZFliTy1BbWpTQXJUcVlES2V3TTl0WnBqVHNLNEtRVldaWkF4MjlGUlBQQl8yaW5nYzBRREF2T3BpdmtQd2xqZk9iS2dZZnlJSQ?oc=5",
-          "published": "Fri, 06 Feb 2026 16:26:00 GMT"
+          "title": "Wegwerfen war gestern: 5 geniale Ideen für Ihren alten Laptop - PC-Welt",
+          "publisher": "PC-Welt",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU1DdWlvTXpHbnZJRmpwZURYVjlaalA0TGdGOFprUE82WVJicUY2MllkV2E4d1M0elliS1F5enprdE44cUlkVEZzSGZMMi1HX2NOTWZobFJpTG5za09CakpsMU9kQkJTNVFVdXd5aHV5MXRDVUxPMm1UcTlxSWdjSXlCeXB6TVRoNUxfcjVBLVVQOFdiaXVrVDc2M3RocTJOMmEtdVpqM1o4cElh?oc=5",
+          "published": "Sun, 08 Feb 2026 07:00:00 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Where Are Soccer Fans Traveling for This Summer's World Cup? - InsideHook",
-          "publisher": "InsideHook",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxb05nRjF6VC04SEtvUEUxQlRHNUJoam02VGR5WE0wQVQ3SHBSOU13aFNSOHdZR0RvVm1qQ2M4QlB5dlYtUWxBWGpKajRzeU1wWEVHS3BwZURfTXZSQnJaOFBkSGRVamd0SXVPeDRjTzdRUFE5YllJYzBPZDlqUdIBgwFBVV95cUxPaDZmVzJfbHc3SlAxV2xKTjJobnNndHJoSWFSc3FFTnA3eHd6M0hZYnFxQVNNLXVLVUFyYzNQRnlKZVVXOUlXZ1ZDS0ptV2xCcXlQeURyYjI1TmptLV9jQW13Y3RoTk9Qc1N3T3cyZWVYSFhaN01wZHJyeXk0Q29CS1MzVQ?oc=5",
-          "published": "Sat, 07 Feb 2026 06:40:44 GMT"
+          "title": "Liverpool 1-2 Manchester City: Premier League – as it happened - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmNsY2d3d0xkMmp3RlhZZWtudVRjUXdrbmZPQlh2QWFUOVpRSmxneXFUZ3ByUHJzcW1OWGQ2bkZ5LVVIeTlUd29laThrRUNjNmEzSmY5VWZ0dDlFcWxGUDFRRnFCZG9xRDh2WFJBWDlDdVBkay1NakZEbkktS2Q4RnJRQXpDamdqMk5DYnhNYlprMDFQRW9vdnZiUmVxcE8w0gGmAUFVX3lxTE90ZE1BMTFPLWJZa2pxWkd3VE1KR2VjNlA3VHE5NEtmakg4OFROUjJ0NWpsdjd0WnczZUhSU29kemdVbFVrS2N1Q0FHTjZjUDZJTGQ5R3RwOVg1eXYweG1ITG9vRlI3TkEyWWMwUmFleUJ4SkQzYXNXMlVoVUF6STVyZkotdHBYSlZudUNMaGxOejNaenlkdzF3VzFrbmdrMHlUSnB1OEE?oc=5",
+          "published": "Sun, 08 Feb 2026 17:54:55 GMT"
         },
         {
-          "title": "Premier League Soccer 2026: Stream Man United vs. Tottenham Live - CNET",
+          "title": "Premier League Soccer 2026: Stream Liverpool vs. Man City Live From Anywhere - CNET",
           "publisher": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcEZ3OEowSWV1Wk80YkNkYVNXeEpVWlBoZHFBTEg5c1dfdEdjRWtSanltNkx5LS1Ibl9CdkMyc1NLRXk1U0g4T3NyWDBNU3hkaTlPcjcyVDRqUU5DSlZXLUpkNlBDRmNveEhqWVlQR0JmSGkzTl9GdURBNzNkM25DOWE4aE5EMlVTRktyVklOT2FHQjhrV3ppVWVKcU5kQ2tJR0oyMHhvalB1Zw?oc=5",
-          "published": "Sat, 07 Feb 2026 09:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOam9zSTVGb3M5SkRIdU1YRnRGNmNIaERpZFRYa0lLQmxtV3NVamh0bFVzTExRazE4eVBvRWk0aDN0Ui1aSzEtN2tNOVU2YUh2QzNlQlZma09hcFBHYk5TRDRlZFpYektPOUlPZWhIakZodTJlRnhvOVl6MEJQUmFBZERRSklWYUVnSEY5cXJOMHFNTG8xcXJlaTBzVTFCZTZ3Vi1vOFpVc21XNTFWVVluMWtFM2Z1ZWlrNTBDa3NzSjk?oc=5",
+          "published": "Sun, 08 Feb 2026 13:30:00 GMT"
         },
         {
-          "title": "Cole Palmer: Is Chelsea forward in World Cup picture for England after hat-trick at Wolves? - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yX0JWSzI5ZkZFRDgzZjBuOTVtdnVOX0tsTTJTX1FTSmpMYVEzZDZmWTZMelBFbkFEdXpDUnNXZXlXWDF2TkUzVm1zREV6VnZ3LU1rbXBWOThRTm5KRkZDejItZjdtdTQ?oc=5",
-          "published": "Sat, 07 Feb 2026 20:06:23 GMT"
-        },
-        {
-          "title": "MINNEAPOLIMEDIA SPORTS | Arsenal’s Victory, FIFA’s Reckoning, and the Football Women Have Been Playing All Along - MinneapoliMedia",
-          "publisher": "MinneapoliMedia",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRDI3bzgzbzBHYUg0ZnlNTmxybzZ3LUxmbEdoeDV2NF9DQ29QMHNQOEhlV2ZNblRBU3RBalBQbmZvR0hwM2pRenNpUkVTdmtHWThvdlBwOHhUY1d0aU9zeTF4SlVwTzhUcC1Fa0pLVDVBdmZNbkItcUZLdmRwTVF5dGlzVU5TXzBrSHVzMjgwMTVObHRCbzhaT1ZpR1lNdnA1TmdxR01SYVBwVklXa0xkcEkwTnNqRDlQU2lYM1lWdnM2c1ZxZGRB?oc=5",
-          "published": "Sat, 07 Feb 2026 07:16:07 GMT"
+          "title": "Watch Liverpool vs Manchester City Premier League soccer streaming live today - OregonLive.com",
+          "publisher": "OregonLive.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ05GTW10SFp0eFE3Z0JjZF94X1ZmTTl4QkZXNnMyM3Jidlc3VmFhYnlmUDRmY2hhdzVfUmxFMENnQlBuWDhHRVVPai1qSzhGNlluRjYxaVU5bFp3WU01R19DeFNtWGhMcmtHTUZUWWhfTEZsUHdKUFFfSkVrZDJNb3BENnJFNVFuMnN4aWRHYTlxNVlBZmNLNXRCNHNkXzN2UjhTZ0wyUWxhZDFnREI2VkJNSUp0aHpjUWlkd9IB0AFBVV95cUxPd0J5VmJ3NzNBZkowX3JfaUFuWE9PUTc3VElRQ1FlbGc2Qk80LTRXWnRSWXZZWTNuY0NDaWNiVEYtN2IzUzhQOGJYbTRhQ0RsQXZpdjdMTS1UeTlWU0hIeWtZQWJEVFV0Y19VTV9WYUc0SE5nT2dIdzBEMFY1Vlp3Ql9kOV9RMkdkWjYxV1ZsbzF6X3FWT3M4blFJa1p5QnFubFExMUFYUEdiYmZWd1MwUmRqNnkzeGxDQnF5by13eFk1Rk5BRmNLODNYUzkwZWxk?oc=5",
+          "published": "Sun, 08 Feb 2026 12:35:00 GMT"
         },
         {
           "title": "World Cup | Football, Soccer, History, & Winners - Britannica",
           "publisher": "Britannica",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lSXpoQ1dpZXJOZ0haOF8tcElFV0E0bDlCVHJORHc3NFNCSDRzejEtNFN5VHU3NWo1QXZHeVZwampxYm14Z3JkYzVUZW5YY2N3M21hbmgtd21jZzlyOGFYU1Vn?oc=5",
           "published": "Thu, 05 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Qatar National Soccer Team to Set Up World Cup Camp in Santa Barbara - The Santa Barbara Independent",
+          "publisher": "The Santa Barbara Independent",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUFCSHNFX3J4SzNNbWJQN2k2TjhaVkFPdENBOGFVVVJfcC1RM0xxVG15UzRfSW1EX2loSG1JQldxY0RBZWE4NjIyRmd6ZlY0U2xmVGVPeHhic1RGRnNIWkdqUl9RMlZ4ZmtOSUotTk9qcWxKVE81NDdHUFB0dmZONGNZc0J5WWY1Y1NheHJPUE1POVRUVnJpaU1tZ1ljNjRseXJONzlnZmpSRnNf?oc=5",
+          "published": "Fri, 06 Feb 2026 21:51:13 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Brad Arnold, 3 Doors Down founder and lead singer, dies at 47 - cbsnews.com",
-          "publisher": "cbsnews.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcmtaRXdBMlBfdDJjcUFzVEFDOGhvTUdERWF0YnFPVGRCVGRnVEFEOHlBb1Bpa19qbHA2all6OFUxUzNyMlBiQ0xkbEdSQTQ0WWUxdE4xTlRSY0hodFVSNnRFQThqblpMQ2pCeTZITHVsblV6TUVBbXh2aEpuc3c5bTBOT3V3MWg0NE5kcFlDeU1KbzjSAZgBQVVfeXFMUDR4X0hUSHhLOVVNVUVqUWl5UjVvSHZja1diM2dGQjhtbVRrbXVpVmVNNENfTFZFM25kS2RRS0dObm9YejExZHB4X3RvMjg3ME1XbkMxaWIxMUtsbjkxNnNHal9zT2JqLTFmZnFUOHUxTy15dVd5aUptN2hweDB2YndHbTJ6emZtYnZjN0hKbGhySzE5MEZBYlM?oc=5",
-          "published": "Sat, 07 Feb 2026 20:36:36 GMT"
-        },
-        {
-          "title": "Petitition for country icon to replace Bad Bunny at Super Bowl has 128,000 signatures - PennLive.com",
-          "publisher": "PennLive.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTUw3LWRGMWY3a3UxVmVGLWtlUGZEYk53R3pqZlFVMWp6bDNmUV80dzhuUmNsaFJudHkwMW5Mc3dIc0dpRWtjYlBRRV9LX0FPVHdDSUdybEFMb0lSd0pqRUlEc2JHaUlzeUdweG5WMUkyR1N4aEFFMFJhN3AxRzZ2LWVId2p6VmhLYTJmbEh0eFBHMG5zT1duYzNxQTZBYlhvRDFDa0xpVC1oZHhVYmNFUUJseE9GcUx6RjhMNG5iTnFtMXBFZ1Y5TGFmYWhPWnhEbEHSAeYBQVVfeXFMUFQzOG9JcUFkUkpUTk9EMmxWVEUwQWlxRzFma1gtNUo0NUw4ODJ1THZIMnRtMDhBWDJnQXRtbW1sT1c5bEtvbS1aQlBueHZMWEZ5VFJFRnRxdm00eTVMUHNpd0xwMVdqYjFaTGdSa2c0QXNocjlzVlI2OWZZRTlTYWlDVXUxTFZSaV9XdExDb0FaVElqOF9xZjdZOFJGQmk1djM4OWYtOFp2WkVGdnVDNWpGMVBYLWFFQW9rZVFPRDhVV0VaYWxzUDdseWVCWWNZcmk4ZWtuMEd3Zkh3c3VwM2xaNmFud2c?oc=5",
-          "published": "Sat, 07 Feb 2026 13:00:00 GMT"
-        },
-        {
-          "title": "Lana Del Rey Announces New Single \"White feather-hawk tail deer hunter\" - Consequence of Sound",
-          "publisher": "Consequence of Sound",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTI4WTlmeTRUQnFfRHpSRzhHb3E1ZEtGVVluYTE3dUlHcnM0bkt6eDFxMjNuLW1QYkpZYk1tWmcxZ1NTd21qckhJNHh1SExrc3JvUFhVN0VaV2RBSVZvNlozYWtlMFBBY0lVMTE2eWhramdibzZmSzlxSzZhM19ZV2Y1MnVRaExn?oc=5",
-          "published": "Sat, 07 Feb 2026 16:47:04 GMT"
-        },
-        {
-          "title": "The ’Burbs review – Keke Palmer takes over from Tom Hanks for frothy TV remake - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3BSQ0dYdk9XZnVMTG1haDQ5MlBYQW1QUENURFlmdWZGWVY3bnFZd0cwVTlBZTBpZjlOdUhMVk5TVXF3dU9LSTNReWplRXVYM00zU05nUGJ3VzVQMzktaUhiVVh2TVZSanhSQUJKRDkwZWszaFNTY2Q2RFhIejNyQWZrbDVQZTB2amlpcE8zeUdaR09qTUE?oc=5",
-          "published": "Sat, 07 Feb 2026 11:14:00 GMT"
-        },
-        {
-          "title": "The Party’s Over When Charli XCX Says So - The New York Times",
+          "title": "Bad Bunny’s Sign Language Interpreter Will Make Super Bowl History, Too - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRVBBdXcxUTJFR19kVk5HUF9fTWxPV25YZzFxX3Z1SE5JR255UlhfVlZCWmtFWnZZVVplMjVUTXd6amxWTXRRR0hjTWdrOVZKYzFEc2xPWWNRSkgyZTdjSEVOby1ZdjU4Smg4WHdmUXgzUloxbmoyRlNobU14UVNIQU1rZw?oc=5",
-          "published": "Sat, 07 Feb 2026 05:01:13 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX2VkdGE2U0Fhd3VPU3pldm5XeUJoYW01VVlUNnBFMjZ1SGhhV3NIdlZRU1ZGRi03ajlmQUEtTktGd1VuYS1MNklUSTBSN1JmWEg2RWxFQjF2NHNDUjVvOFhVaWVydmxicWl2TVJadnYta3lsejl3bG9tR2Y1YTZvUGQ3eGdEQTZrMUVUMw?oc=5",
+          "published": "Sun, 08 Feb 2026 18:09:46 GMT"
+        },
+        {
+          "title": "How to watch the 'All American Halftime Show' hosted by Turning Point USA - WUSA9",
+          "publisher": "WUSA9",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUGVzejgyZ0hrMndrWmkzRkFiNXFsNXpRaWlkYjVOT2VGa0c2TGNxODFQYXRpQlV3REtIM000M2gzbWluOFUyTzFGRU5PMGMydVlGSDNDZ29vVjNzY19JcVEwNkFTRGEyQ0dseXRhUXhZUWltY0dBQUx5SnQ0aFRmSVpUcFpVS3k1aUpuTXNQV0x3eU9nZFZnaVo3Tl9aWjB6R1Z4ekFqMXpnaTNHSzRBdHUtQVFKNExBZDBFdS1HN2c1aUpCZnRUSDd5WlE1TElQNEtNY2hXQk5vQlR4dFFyVGU2WjFkS3RzWW1od3lWZGdVU1kz?oc=5",
+          "published": "Sun, 08 Feb 2026 17:10:00 GMT"
+        },
+        {
+          "title": "3 Doors Down lead singer Brad Arnold dies at 47 - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpS1hxN3NvOFlXbzdJVHBMSXQyMTc0Rk5JT3l4RE9DY0lkY1ZNQ09JYUhEMTVaTTQ3SU1vcE0xZDRPRUlHOWpnN2RFZVdPaUlneGdIdG9wdnR0dw?oc=5",
+          "published": "Sun, 08 Feb 2026 15:39:17 GMT"
+        },
+        {
+          "title": "'Melania' viewership falls off during Super Bowl weekend - Politico",
+          "publisher": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUU2dW5nWEhHR0hJRlJiWHBLS2FmR0NBQjRKRk0tbDV5MFUwOEVZZ2dFLXZxX1BfLWNsZmxQdlZmRVM3dUl4UkRMcG9kMWNtNFZ6QzUwcWRnWEY0Rld0d3BMZ0xBc2doRlZaeUFRaXAxamN3dTZLaHQ2aEw5eTZ6cmlTQk5DOV9QcVgxeWk0TGZLYUxpTHJONC1ra2Ria19fZEJVRzNBMA?oc=5",
+          "published": "Sun, 08 Feb 2026 20:49:07 GMT"
+        },
+        {
+          "title": "An Annoying Trend Is Taking Over This Year’s Super Bowl Commercials—and It’s a Sign of Bleak Times Ahead - Slate",
+          "publisher": "Slate",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTWdRQU9zNFNfMm1RUkJQTkMzY2pWQUk5RkNuaThGQjh3WkMyNEd1ZVg1MDRDemFLMXFOaVhmWHdUTDZ6dno4dlpHdmd2UFRISU5TMVYwb1g2eEZzRVY4eEstWDVMeDB1eGNJaTBMTi0xajRNbjR1dWtKelRSNndGLTZtYzNPcHo1Q0g0RDJrcmlIbVpyeVNUTUNFVnBKcWJBMXYtZ1ZUM0dxVGw0ZUxKY201aw?oc=5",
+          "published": "Sun, 08 Feb 2026 10:45:00 GMT"
         }
       ]
     }
