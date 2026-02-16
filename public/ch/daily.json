@@ -1,7 +1,7 @@
 {
   "market": "CH",
-  "generatedAt": "2026-02-15T22:57:03.451935Z",
-  "validForDate": "2026-02-15",
+  "generatedAt": "2026-02-16T23:01:46.590634Z",
+  "validForDate": "2026-02-16",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,16 +9,10 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Nach Unfall mit Konfettikanone: Fasnächtler prüfen Sicherheit - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPVUdlVXpxZUNEdndSeVNtbWVxNVZ6aDNPbmRIS1FKWlR2QzRiVlN1aDJlcW1LSVhqbFVxVWZiMW1BczBRMkFhSUtnMlRXQWdyUjlHWDZlbGZ1SGp1MHBMa2lCaUlQWnJRbEtRMnVCS082cjN3TGliOGhJTnZ4UE5aMkFxLThqUG5VR3RoRGd3dzZpNUlGZS1oSE5xMm1jOWg5c0Nqb0pySUJfQ3VnenY5TDNMMnF6UjBYMzh2Y0lNaVk1OFZhRmNIQmxyV3RrVFI0X0RsTlhNRm1qWW5tNDAtWFdNSzg4eVFETk42SzgzYXRmS2ZIc1JFczJXSDByTzFpSFZuYVJaRFoxNzR4bTRoMEN3QTlGcXdmdldYTHhCcmhFRlVfbGc?oc=5",
-          "published": "Sun, 15 Feb 2026 17:48:09 GMT"
-        },
-        {
-          "title": "Mehrere Einbrüche im Kantonsgebiet - Kanton St. Gallen",
-          "publisher": "Kanton St. Gallen",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMU9LZ3J6VWw5a3ZlTXZjQUdJNmpNNlBMV0Y0ZTBJR1dhaTJyN21kSlZ6dTFfdDd3NlZDTGs2R25TSUo2RFFQME5mQkNmZzdhc19xNktXcFdBdHdpbHhPakFmQmZuUzZkOE52UkF3U0VzLXNadWVESFNOS0NlLTZiVjhyNlA3dEFkQzhVWFBSaVFmajNlMFBKZjJhUWg1cGlqOGQyajJfcTNhdmRPV3c?oc=5",
-          "published": "Sun, 15 Feb 2026 07:29:13 GMT"
+          "title": "Wegen Sturm und Schnee: Swiss muss bisher 21 Flüge streichen - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOS0xeklNUEtkVzVJR09vWi14T3dVR1JHMXhfbTh5X01kMGF6dHREbGdvUjBvWDkyYjBXeGFES01HOVVyaTdUN3pISWRzaHc3T2xxMER3cTdJdFU4b0lZVVppUkZMN3NUd205eW9hV1ZSSld1cGI5MnZUd0FUM2Q5bTBmdlUwcjRMWTlreU83TlV6cWlWN21LTURXSWJGT1NxUHU3NGw0ck1saG8?oc=5",
+          "published": "Mon, 16 Feb 2026 19:59:06 GMT"
         },
         {
           "title": "Schneefallwarnung für die Schweiz: Stufe 3 ab Sonntagabend bis Mittwoch - 20 Minuten",
@@ -27,16 +21,22 @@
           "published": "Sun, 15 Feb 2026 12:13:51 GMT"
         },
         {
-          "title": "Kritik an Schweizer Militärausgaben: Nur 0,7 % des BIP - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPYm1fTXZic0hOWVAwMHU0VlU1M3FYQ200ZXFKNV9ueUhyT01acWFINzV2enlMNk5qMFI0MEw4UjJrcUlRTWRZbjVtSTRNV2NLdDFYX012U0RuNk5KNlMzVEV3WDQ1clBLWE83WjFyTXByTl9tVFBKOVNWbE50ay1JdEtUMDhsVzN3R2pzcm9aVjNmS2FGYUhHbktaZG1JdmxmVWJ3R0Uxd0M1bFFvMXlkXzF6QWFROVVOWkJLOFlDbDduR0VjVHhLSXdkQjA5WjlyTXl1REhfckpQVkRzMG9kbnUzMC00NDJBdjFuWHpxNmV2c0pyTk1xQVA1SUJNa0pjR3ZnQzdjdi1SbS1ZTFdkRlVSTHo2UEE4YkJiSW00bjN1dzhncTh1ZVBUVGJwZUxnMjU4TTNmUkowUXJvYUE?oc=5",
-          "published": "Sat, 14 Feb 2026 22:34:41 GMT"
+          "title": "Keiner will Röstis neues Gesetz - blue News",
+          "publisher": "blue News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHpOM2YxdE1talU3dHI3TjE2c2FwSEgyVzJZN09qc0xWb0JaQnlsVDRzUDBMZXVqQ3YydUFCYVlFSEwwbDVYSWpPVTZUQUdCeFdwSFI4LXIzbzZtcVFjUDY5UXdVdngwcEx5VmRKb3Zrck1XMjFLTm01bUFNSFYxeTFkQmRWbS0tbGdsUFhkNkwxcjJ0bVhMX3BMZmhaanI2bmxmSDVSTmFpQQ?oc=5",
+          "published": "Mon, 16 Feb 2026 16:13:00 GMT"
         },
         {
-          "title": "Verspätete US-Patriots: Frankreich macht ein brisantes Angebot - Neue Zürcher Zeitung",
-          "publisher": "Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcUgydEdoOVpjQW1jNE5odlF5M2wtbkllN1RYN3UtVVMtVnpoYl9fQlRJNlBURkdMUGQxcGFxR3pqWG4wLTRsTmlKWEVDbkVUb3YwdERJYUYtQ0RBc2NZOXpLZXFDQU5RQ1UzaDhDdmlPeEJZT1U4UkZNSTBGdElOREo1VkpuZ1RVc21RODYyN2lzRkU3YVNvbEFKWVFEZ1duSnJHMm5NMFFFUVZ6VG03dkFweGx2X2s?oc=5",
-          "published": "Sat, 14 Feb 2026 20:45:00 GMT"
+          "title": "SRG, ZDF, BBC und «Tele Meloni»: Wo der öffentliche Rundfunk unter Druck ist - Watson",
+          "publisher": "Watson",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1ZSd1p5aVhLR2poZUstM3BfblBxZmNsSGJjRE53R2hyTk9kVUVqZmp5Snlxazc2ZkRmazdKWnBidU16d2FXVURFbFdtMEVzZWhxTE9Gd1Z2M2RRcnhJVWszUzBnanBNTmxTbjFCcnlXLXFuYktrUmNGLTdhS2ZqdGx2d045cVRTTW9TZDdsZkFQVk9MM1JLWldwcHRhTkZFTm5mOXk5WjBrNnlvZE5wbEVOZWV6NXF3WE5JSXVjVVRaZw?oc=5",
+          "published": "Sun, 15 Feb 2026 18:34:17 GMT"
+        },
+        {
+          "title": "Schweiz: 6,5 % der Kinder verzichten auf Ferien wegen Armut - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVUZMdF82aGR4RFlKclFpbEd1NnFBemRPejlSMUo2WFVxT3BaZkMzdW1ZWldsdTZhOWF3NXJRYTYteU1LY0owQUprd1ItZFNFUmM3WDMyR1MwTFN6TDJQU3ZUNUxXVlNiOEtwMGpkS0docFlEMDhTYWZQSDNhUlREQ1JuSmYtQVVDaXJvT3Q5d0JKckJSUmVyaWJLWmtaVXJRYmJ6ZmkwQlNKcEpWUTR4TnRFN1VINVVIeWNn?oc=5",
+          "published": "Mon, 16 Feb 2026 09:23:36 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
+          "title": "Alexei Nawalny starb durch Epibatidin – so grausam wirkt das Nervengift - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hGMWY3R3V3bFF3RzNmVXpvTUlpdTcxeUVHWlRVbUxISUlBQ2Nic1BKcEhuOWRGaG5NeXVwTXpEZ19Bc2VETU5xVV93bk00SVNRT0l4QVl5eXRlbzRMNld6elZDMnVTU1RKU1F0cFZncTBXZEg2elBZUGQ2NHhBc2FzOHR1RXdSS0JUU3htRURqWkt5WVBXZGVqVG43eGhHV0NCMDBHZDNyYnFEN01qSWhzbGk?oc=5",
+          "published": "Mon, 16 Feb 2026 17:32:27 GMT"
+        },
+        {
+          "title": "Iran-USA-Gespräche: Aussenminister Araghchi in Genf angekommen - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRDJLdkZOSVozTHhCY2tlbmtjeGJGWVYyTDFkNVNURzBZRnh1SU1RSzliVEhJc0IzbmlCY2xPNVZmRXRGQTMwWlZiRGFYb3VUcDJia2pCcG1BQkJTXzJhVGRMTlU4TmpCcG45OHFzZ0o3YS0zUlFrSjRmSk51WHpzRDZXbUdWV3pxUExsU1ZHdWNwY2wxajA1eFhwRXM0VUcxcHVZVVlwb2E1ankxcDFBZmNUcWRsME5lYVE?oc=5",
+          "published": "Mon, 16 Feb 2026 09:34:05 GMT"
+        },
+        {
+          "title": "Krieg in der Ukraine - Russland: Wollen in Genf mit Ukraine über Gebietsfragen reden - Schweizer Fernsehen",
+          "publisher": "Schweizer Fernsehen",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTk1qN2VHaFNOMmdEckhIdXZFLWhaLXFjMVkxRDd5OUdCNFJ1aFBQUXZpb19tQmY3S2NZQldqTVZtTEoxbzlkVU1HbnRlN0gxVks3Y0hWeC1PZ29fcGtHWEdQb0RFd2txQVFWZlJwSzdZUzlpS3BrX3RVcHczOUdCeHVIMXBCOS1vYVlvdFpaWlhRYmpPbGZHQlFUaXpjX0pJV1NxbWhxc3loR3h4b25ROGNHa213Nko5MHMyM2VFYWV2dnlMc1Nr?oc=5",
+          "published": "Mon, 16 Feb 2026 14:33:02 GMT"
+        },
+        {
           "title": "Amerika und Europa: Das Bündnis wird neu vermessen - Neue Zürcher Zeitung",
           "publisher": "Neue Zürcher Zeitung",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWGFWTi1mbXI4SzVTT0Y2eHNxN2VoRGJIbzZvcG5URk1UQzFNRFhWRUNsakR0UGVGM1Q0dlhOeUxhOHhjZEFUYjVUTzAzMHl5UXBIcDJ0TkMtTlRNNzhHYUpReFdxbEJyMHpYR1dwTEQtb3lnSVA0bFppSnRCaDNyR0lOM05RbFdJQWUwS01XTktQaUlzMXZfcHg5RlVsblVnYW1uVUc4aw?oc=5",
           "published": "Sun, 15 Feb 2026 09:51:26 GMT"
         },
         {
-          "title": "Mark Rutte spricht von »wahnsinnigen Verlusten« Russlands – Wolodymyr Selenskyj drängt westliche Partner zur Eile - Spiegel",
-          "publisher": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbnBrdjNTYWp0eU1qSi11MUtKVVlCanNOYzdjQVlGMmxmUEo5VXpRTVVCM3o2RmtTMVh3Z1c2Rk9nSjhsQzFUYlJKWHlHNzlMM0JKNDhGYkp0TmZ5cGtVTWtyOFVMV1E2MndRclExLUxXNUxPMXF5SWFNMXZOblFEUS0xRmdBRXlmYmFMSVptVXY5cEdxdjJIdHlKeVdpeUlPUExOWm5aM2JxaUtWN21zalh4UHBlMDhuSnJ2QURHdWdUVzB3TkdMczMySXQ3bVRuUU5DQm4xOXNRVlVMTHdGbGRyNEFIR1Ruajl0ZFlncExLM0s5?oc=5",
-          "published": "Sat, 14 Feb 2026 14:39:00 GMT"
-        },
-        {
-          "title": "Ticker zur Münchner Sicherheitskonferenz: Mehr als 60 Staats- und Regierungschefs erwartet - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWlppRlBWclpJVW05NVN2OE5KR0pQd2VyUUxpVHpWSTltYWQwRUUwLVhGOEZKN0xzdnVWTDJ4QVV4YVdzNVhRUDZUWUx0WmFvNU81T2p3bkE5ZXkwQ0NNNGVxUXZ1TzkwUFhrQ0lYNlZWcTktck50N0pxZE8tWlpJV2hJcjdTNm1zeWI2bnJOSUJwcHZpMTYyOEZOTm1oc3FLV2t4YmRsUTNCQXNELVR0Nnl5YlhBTUN6WDhlMlR6aGdDbW5mR2NIM2FSdw?oc=5",
-          "published": "Sat, 14 Feb 2026 20:21:41 GMT"
-        },
-        {
-          "title": "Krieg in der Ukraine - Slowakei: Ukraine könnte mit Ölpipeline Druck auf Ungarn ausüben - Schweizer Fernsehen",
+          "title": "Krieg in der Ukraine - Selenski verlangt für die Ukraine mehr Geschlossenheit und Tempo - Schweizer Fernsehen",
           "publisher": "Schweizer Fernsehen",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTkN2Tl8xTS1uM001b01VdzdaZ3dKazh5Rk9yM1Q1V0Q3a3hKVDNCRGd5QmE2MmdlMFo0cTZ1bXNmVFNJa2hxNXNjdExuXzJYR29ZbTM2S2RGWXRPbFV6V3RvNGhYSll0QzZjWWJ0N1lOMlJKYkFtelI5d2ppVG8wTjFObzVidjdzeGtaRG55MVdOcEt2d3dNb2UwRlBSZEQwVFVibUlFSHdROVhhR2NFbGZPZE16NTdyZTJtNHZ3Uy16OU9zUXpWbGs3RlpNQQ?oc=5",
-          "published": "Sun, 15 Feb 2026 17:29:04 GMT"
-        },
-        {
-          "title": "Sebastian Ramspeck bei «Gredig direkt». - Schweizer Fernsehen",
-          "publisher": "Schweizer Fernsehen",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ1RIUWktUjQzVEd1ckZkSDhWY0pObWJuRnBxNVFMbUhybHpKcHNyQk5zOEdGejQtdllNdFp6c1NvMkZjR0xJQmdxNF9vZTc1ZkhzMUZDWHJxSXF4aVcwLXVqSzE4VmJid2tlV0JLYms5NVB5SWdPLUpJOW1hUjVrb0lnZ1BycDdOVzNEdE5oTVdkM1k?oc=5",
-          "published": "Sun, 15 Feb 2026 08:08:31 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeGFITmhUVkhqRjJsZGczZGVuNmxKSXlFcHBQYmxETVEtNE1tR0VEbGU2MlFNVWpYWTkxak1CdDBZMjZmNVMwTC1rQ0MwQTVhM0I4bk15NnZMNVB3RmZBNTlEcXJ3RURmRG5zZFdaUnNIWlVRc2drQ1kxRUphbVpxcGNwOEFzRnVoYmFTRHhveXdHSl9HYy02UFcxNDh6QkpJVXM2THQwSlo0bzFSN2N5QnU0RUp4Y19ITjZQaWR3MnZCNmxIQ2cxb3d1LU8?oc=5",
+          "published": "Sun, 15 Feb 2026 13:56:32 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
+          "title": "«Waren überrascht, wie gross die Sicherheitslücken sind» - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWU5EY1A1RGx3M1NoVXNyVV9tZjdiN3NGSGZVRy16QkxiTG1IWkE2UDNzOTNDdER6eGFfY19KbWIyU0xLeDVkRVRIUHJ1dUthczQ1ZDRTWmNfRG90a2JiUEhOS3FKX2x2Y0JHWTZPemRxYWVjZ2kyWDJxYXg4c3JKNVpzMGRIZFM2RFMzaDNKTUlIWGluOGQxZ1JnMUxRellOdVNn?oc=5",
+          "published": "Mon, 16 Feb 2026 16:04:11 GMT"
+        },
+        {
           "title": "Den Sturm überstehen: So bringt ein ETF maximale Risikostreuung ins Depot - Neue Zürcher Zeitung",
           "publisher": "Neue Zürcher Zeitung",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRzB1bmtzVFNtSG43SkRZeHFBYkl1UU4zYnM4Ri1vYnYyU3ByeHhaa1YwdHJjYVFveXJTZDdFWldZQWkySm5JbWpFSkR2c2RMby01dkw4aGY1Q2VyRFBoY21CNlEwanNlYU1RRHlzanZMdGNNYzlRdVlyVUNObV9aY2E4VFBQdjg0ZGhMZDlXY2NLZXlwZzZVLV94NUxEMFp5MExnejM0MEkwVEV0SVBVUi1hczhPUVl0X2pDYTNGUlpvV09vM090RWRyQThIUERpVUNQSS1n?oc=5",
           "published": "Sun, 15 Feb 2026 04:30:00 GMT"
         },
         {
-          "title": "40 Minuten anstehen – nur für Michael - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORk9WVXRWSG14VGZfT0NoTzlhRzNZV1R5UkRjcUVVQ1c0ZFNLYzJjR3lBRFRYU1hDZVBBUHJsckRJM1JlSFFmNDVMNTNTcDY1cU9CNjdBV3pvdWdxVUpDYTl3VzBINTRkRnF2TEY1ZHhNc01LQ202ZnpkTGY0bHRLNUs4ajEzR3lvX0E?oc=5",
-          "published": "Sun, 15 Feb 2026 18:13:21 GMT"
+          "title": "Die Morettis erhielten Unterstützung von einflussreicher Rotlicht-Persönlichkeit - Watson",
+          "publisher": "Watson",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZU52TG9wUExFUmZkOE9jMjFvb0t0QzdUbm0zeVQxRmlMZVJyb1Zkb2p4TlVuNUVITDBhY3h2ZXZBUGJmbFFrT1Z1eHEzQ1E4MWU5cEpkTVRmNy1iSVBrWXpCVVBtQmV5bnpZbWl0TGRzQXdINUFfbGptSDZ0ekdYek15LUhxR041Zy1CWGZFY0JtdU1VWnRDRm9kaFlnUDZXMnFybVAzOFdtSkl3UWZJeEdTY3E5NEVPVGY4NHRub3Ywdw?oc=5",
+          "published": "Mon, 16 Feb 2026 18:32:36 GMT"
         },
         {
-          "title": "Schweizer Bombardier Global 6000 fliegt nach Umweg über Oman mit russischem Kennzeichen - aeroTELEGRAPH",
-          "publisher": "aeroTELEGRAPH",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMlNrOFpvTFkxZTRscnJXUS1aeExBY3c4a3k2VEZBWjJHVGlTZ1RtaEI1OGNuZElqLXltdjlVQU0tN1Rqd3V4YkFxR3JoQlN4bmoyS0plREU5d0dRLXo4OHk4TGpOZno0ZnhmMTN1c2Q3d203QUY0TVYwb1BVcXpxYTdRdWstYVNqVHIxdk9oR0F1bm5ZV3hWZTJ5azZheUFxeUt1TVpZRHgxdWMzdVFIWXFmUEFXNkxnMWhRN2ttdFVVdw?oc=5",
-          "published": "Sat, 14 Feb 2026 12:55:00 GMT"
+          "title": "Die stärksten Aktien: Welche Trends anhalten, welche gerade drehen - The Market – Analysen und Hintergründe aus der Wirtschaft",
+          "publisher": "The Market – Analysen und Hintergründe aus der Wirtschaft",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDQzSXNaOUxZa3hzd29OYVR5dWJIeEJDdHotUFJDX3hLcHlKcGJOOTQ3YTFPWC16eW42VGYxb0VjSWdzemFnYllMQnAtWlptWGdhelk0UzI2cElMRlNoaVFUNWpTWHBTZlVmSURtQkdVQkJhXzJHVlNncERmekE5a3QwbzZOWmdvSVlfY3ZRWG9lQWRtR3dWUlJsdDRZUjIzUW9iUUxRaDVYRE1Vc3cxVzgyTE5qRHM?oc=5",
+          "published": "Mon, 16 Feb 2026 00:59:14 GMT"
         },
         {
-          "title": "Steht der weltweit viertgrösste Autokonzern am Abgrund? - streetlife.ch",
-          "publisher": "streetlife.ch",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43VGZRX2s4NUNMRVNqVm4tX3preG9VdkxkTU9lbmkyLVJkV0ZQUk1CSnkyNFVVSmJXOGxhcmtRd1BCQkpKTWZZN3FFN3dLYmhlUTg0b0FyakoxaHVTYWhuM05Pcm4tNWNFSXByR0xnb003aGtLTFhmbEktSQ?oc=5",
-          "published": "Sat, 14 Feb 2026 13:25:10 GMT"
-        },
-        {
-          "title": "Der Erbauer der Agglomeration: Wie Balz Halter Zürich verändert - Neue Zürcher Zeitung",
-          "publisher": "Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORGIzdGd0ZFBLeEpCTWFWcXYzTkRKR09JNjBvZDNTdXgzbnkxUXlyZUxFOGlsLXJpNUQxTDl3WVhTN3FwWmVVV1VTMHc4TkxyTWgtak5mZC1DY0xOZ09QRzlRQjNNdUp0MFlReEN1Vko0T000eE05U1RsdGdvWmZwblVVSF8wWHVoeXVpRE9GZUdtQTNGMTRnSVBubzhNdVowMnlYTlU0LUhqRndBcV80Q281bEY4R1B0SF9YTHVJZE9Jd253d1M0NVItVVBtZWt0clhWblc3bnItMWxZZ2VvY21LZXRpRWxX?oc=5",
-          "published": "Sun, 15 Feb 2026 04:30:00 GMT"
+          "title": "Durchsichtige Hotel-WCs: Sie sind der Albtraum vieler Reisender – nun formt sich Widerstand - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYmwwN3VBdmxUZ1ZwTnNHUEVLVlo4Um5yYnFaN3Aycm1kNXFmeGEzdnNVMG5sZkZVMkZrVTk5WDI4YVg3RXVuRW82TUlWN2o3c2xKMDdWRTZjUXBYb0s2Q2FYVWxuVDZXVTQ4WFlENlFWUnZQNHVuaE5sWGJJckxTRHRqREFtdGw4bkstSW9wYUVsc0ZVcnRGRUVKclR4ejBOalZ3?oc=5",
+          "published": "Mon, 16 Feb 2026 18:02:58 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Leader feiert 8. Sieg de suite - Nicht zu bremsen: Thun mit Minisieg gegen 9 Sittener - Schweizer Fernsehen",
-          "publisher": "Schweizer Fernsehen",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYjNiZ3JFcTY2Y3RDMWFBelB0cGVHXzV1bXZUMHJUQnc3alRsUXdrX25qMTRxUXM4VHU4Nl93cGxHRzBnVW5SdG1wX0o2WVpxNnV1UXFQVzlsMmlrVGJLTXV0TVJpOWxDSHlrN1FNR2lTNGZMUEphT1pfV0N4WlZtclNrZS1HaWxGaTRQcXQtd3FqaUF6OF81RVVrTWF2eG5VZ3VBYjRyNUhwT1BOeUcxcklkdDg2TnVwSm1zbDBIbkxLVHdGZmh3?oc=5",
-          "published": "Sun, 15 Feb 2026 15:22:18 GMT"
-        },
-        {
-          "title": "Kukan avanciert zum Matchwinner: Hockey-Nati sichert sich mit Overtime-Sieg gegen Tschechien Platz 2 | blue News - blue News",
-          "publisher": "blue News",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVA4VnN0ZmVUQUJObGgxQUVZTm9pZEoyZlpNRG5yNWUtUzBQVU1PZW1KeWV3bV9QeWh0dWVpMnZIZm1MZFBBNkdwT0hBc2F5d0JTRzZMWmp3a1pRcU9Qcng5Sm1NNU5TVENlTF9hNmNUTHRBMzlxV2tvemxiQ29nd3NHUXpPdHBnZm9tYUh4dm9wcE10blRwYUZR?oc=5",
-          "published": "Sun, 15 Feb 2026 10:44:00 GMT"
-        },
-        {
-          "title": "FCB – FC Lugano zum Nachlesen: Nach zwei verschossenen Shaqiri-Elfmetern spielt der FCB 1:1 - Basler Zeitung",
-          "publisher": "Basler Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN0lTVEEwNHZTM25YRVFjWG1WNWo0MTlfQzVjYllmS25QZEpGcUxLZUpOVmZCbE44c1pmbGZTcWRFQUV4V3AyQmstVXY2NUpmc08yd3JIWHpnSi1xVDBWWGMwUDVmdGFnQ0RWSGFQd0Q3d1VSQ2Q1cDljX2w1Z0d0N2pDc2hUcEdUakItemlsUnJGQQ?oc=5",
-          "published": "Sun, 15 Feb 2026 11:30:00 GMT"
-        },
-        {
-          "title": "«Ich bin schon froh, wenn Olympia bald vorbei ist» - Blick",
+          "title": "Gelingt den Schweizerinnen ein Eishockey-Wunder? - Blick",
           "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSldvX0ljWnlPa3hPc2dtYURvdmdtUnZJVmlOVzVGMk1Dbm9MdkE3N0FPaVMtanU0WmNWYUFtX3pzTjUtdGg4b0lDR0pXZ0tqcW5qM1J6QlN3d0E5bFJaSDZKaERBeXNDa0kweFJhYjJaeFJyY1BKb2Vvd1E1bWdwWDVLaFVaUUVncVhlZzVVZlZYWm9Kb1lpNHNLQlkzazcxZ29OZWdYQ0V2NEFrNGc?oc=5",
-          "published": "Sun, 15 Feb 2026 13:42:44 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOajVodjdwN3VWUVlaWVp6NFh2eXpsZE5aYmZJY214cHhJaDlaOGh1aGk4dFQwTm5aaVl2QV9tcWZybUtxbDE3dWVKTXNqSjdfTFJuSDd2YzhCME9rYXJsbnV4ZUZPVlNSdjZ6TFhkYUdmaERhc0hTUkVZeWVZbU9TY3UwaXpUWTJfNjlVYUVrMUFRX0lEM0RVZjJiMDhlUVhDVHB1dWZkRzFYS2pBZjFDeUY1c19WSTg5S1E?oc=5",
+          "published": "Mon, 16 Feb 2026 14:54:16 GMT"
         },
         {
-          "title": "Olympische Winterspiele 2026: Das Tagesprogramm mit allen Schweizer Einsätzen - sport.ch",
+          "title": "Olympia 2026: Loïc Meillard gewinnt Gold im Slalom - Neue Zürcher Zeitung",
+          "publisher": "Neue Zürcher Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkJFakJfQzNxQlVqTG1CODg4SFMzT05VT2hlbGhkelZtZ3FreFVqeW5IV2tTdUVMZEJNRkFuSUFOcjdCNkc2T0hyN3VJYTJLU1phVzRwTW5CXzZmeWN6bEtSR2doRS04aFEwemdsX0RWaFVvRFFnWGk0VDg2azlhc3B0Xy0zcTZwOS1BcG00Z1RMUDlMcmc2WGJnMFlibTNiX0lWaHpyU1BNYWs?oc=5",
+          "published": "Mon, 16 Feb 2026 22:13:23 GMT"
+        },
+        {
+          "title": "Curling Frauen: Round Robin - Schweiz unterliegt Schweden – und bezwingt danach Grossbritannien - Schweizer Fernsehen",
+          "publisher": "Schweizer Fernsehen",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT0ZUaENORG92bzNNcG5KdXJYYS1yZi15RGV5Qlo5SlhNNGRXT2hiZHVKWnlGYWtpN0plNWRBNmh4NmM3cTRrTktyOG1YX1pOWFUtZnZEQ0J5LTRCNW1CUmNnbzJJdDUxZzlwTnRTOTFCY2NGZ1U5ZngzekVpM25tV0NSR1JIbjdzSGQ2cjZtN1RQSzRIdUFnR09xQW9oazZ2bWxlSHktR1dCZURtZTY1TU9rdUx6NUpHU2RsNWMxUVh1Y09TeG1GYWVtSkJQS1Az?oc=5",
+          "published": "Mon, 16 Feb 2026 11:02:19 GMT"
+        },
+        {
+          "title": "Der tschechische Eishockeyspieler Lukáš Sedlák übt nach der Niederlage gegen die Schweiz scharfe Kritik an den Schiedsrichtern für einen nicht gesehenen Wechselfehler in der Verlängerung. - sport.ch",
           "publisher": "sport.ch",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUVZfMGRhWjh4ZUxLLWhQYWw3cW9OQUFibjUyZTJ2WVZQZVdVRnh1aDQwbGRoMENyRUp4YmJEdk5pZ0RLa2FES0UyTDBzaW9MS0Y1VGZaaEpoak9ncGgzMnJyUzhEVDZXdXB5RmNiZmlZa21VcmprZkwyOVpyem5qZ0lCUHA5QTNQNUxJRmpYSVFhaWVvOHN2LUdtRFpOcVI2WDladDZRWmdRY3U4dXV5ckx1ejRyNE4wTGVObzRGWFpGTkU5d04wWEF2aGpuUGFZNUl2Yw?oc=5",
-          "published": "Sun, 15 Feb 2026 11:07:58 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGF2VTRMNVdTaUkySWpHbS1Ia1FWMzc0NkNNQ2JYNFJaX2RxT2FWZm9yOWs3MEdOdWNBZ3FUZG95T3NjbUlfVHNQNUF2bG8zS1AzcjVFY29xZm1yY0kyNWl1Mnp2ZjJCSjAtQUxGMXpCNFBseVVoSklfWFlwcjVCcHdBUkp5bm1BTFFrMA?oc=5",
+          "published": "Mon, 16 Feb 2026 09:19:04 GMT"
+        },
+        {
+          "title": "VAR-Drama in Thun: Timm Klose: «Ich sehe ohne Brille, dass der Ball draussen war» | blue News - blue News",
+          "publisher": "blue News",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZTFBZENJdng5azZyWTFJM3lRbXlEdTU5TlR1cXhFTmRTZ3RnLW1fNUQ3ZnFiTU9sXzFaRm1UaDZLamZlSjJwLWVHZkFMdDg5Q2d0b3p0RlJsaTFGSkhlbE5yR2wtS2JUT2NXVUdXblRlOWhsQmlGc19ESE5tTVBORWVNVVFzbmhvdkY3ZGQ5eVYya2RnVlRfcUhlYTI2YWdDTEtWSzJxM2tMSXBxdHhENm9kRktXOFVFVDk0cWlZN3QwOWdleW50MlUzbDd2ZXF1Y25qbm4zaw?oc=5",
+          "published": "Sun, 15 Feb 2026 19:48:00 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
+          "title": "Auterion liefert Drohnenschwärme an Kiew – Schweizer Armee testet Systeme - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeW90eVdFb3VfdG1VelNNVEtLeHc2bS1kWTA2QUZNUFB0czNRb0RfYnQzR01nR3pyNnhidlVITFoxWGlpOVpwTThYNndLMlFKMjA1TkxDaVVTUVMtNXJqWm5KT2FUamZoc1Y3MmlUV3psWU9yTHpkTUFsYTEybmd0eFJTZnNLNTQ3S0JDVVd2WHBpMFc4MzdvOTJaMnFMZWJNOTNTeGVjekdXZDQzWHNxNFFyN2c?oc=5",
+          "published": "Mon, 16 Feb 2026 03:44:24 GMT"
+        },
+        {
+          "title": "Phishing-Gefahr steigt: Microsoft entdeckt neue Sicherheitslücken in Windows - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWlFZeUZtcUtHb2FCbC1MSjAwT2ZGWk5uNVUzaThXVWhZaXhIWXd5bjJjMkY2MXZkcTFnTkZGUUU0RmdJN3R4N3p1QmhkWUYtamI0ZVBncFlIeXV3R1NPaEM0c0dGVHJ1RUVYRGIxWDFEY1h3eHU1U0JUeHcwT19JUXlHVzlpQ1QxUEhVSlZnU2ttVElSNG5oTWMwalBJdU1faWRZUklNWnJMTWpaVGc?oc=5",
+          "published": "Mon, 16 Feb 2026 09:30:08 GMT"
+        },
+        {
+          "title": "Elon Musk greift in den Ukraine-Krieg ein: Die Blockierung russischer Starlink-Geräte hat weitreichende Folgen - Neue Zürcher Zeitung",
+          "publisher": "Neue Zürcher Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU25TYU9xSDByM2JyYzhFSHBDSWc2b3JkUkJnU200dkZ1OUpHZGVCZGxiODRJZWVlYlZibmIxSVktMzhOb1FodE1pRGV1UFMzS0tvTWpEZTdZWnp1cEtyOWhvNDRzSnNKYjFFdVI4VElxeTRaQ0FGbUdIQzNydF9OVkRjU05DdEZWaTd4dHptMlpHVGRxc3pfMkZpU2Y1ajI1czZPOHVMRkEyMmJxT3hxZVFEU2RqMG1KNUdIb0hjS21LQVBkNVR2Z2gzMUNZRGxxbWtmN2JDNWh6NV80N0tSNFkwNVZCeXV2bEE?oc=5",
+          "published": "Mon, 16 Feb 2026 04:30:00 GMT"
+        },
+        {
+          "title": "ETH Zürich warnt: Passwortmanager sind nicht so sicher wie behauptet - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzVNS3U0MFdaeU1HQ3lXVXkwdjhCUFZpV0REZnRhdUgwODhXWGxKaWZqX1pVRjk0MW9TT0NLSG01dDE3aU5YaVhYZHUxX2RVLUNZNkd6Q00xSmxQOVZRSjl2OVM1NlZKZC1CRWJHRlJObmtNV21OTnBHSFl5QmhoTktFdXFOTE9MTlVPOVFZRllaNUE2Yl9BVkhjcXl5dTlKQmJiTWxTbVc1akFjbFQtUkk1aDRTdGZmRWpJ?oc=5",
+          "published": "Mon, 16 Feb 2026 10:41:11 GMT"
+        },
+        {
           "title": "Rentahuman: Arbeiten für KI-Agenten – die Zukunft des digitalen Arbeitsmarkts - Neue Zürcher Zeitung",
           "publisher": "Neue Zürcher Zeitung",
           "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcTV2TThCdmF6MnBwR0xLSzJLZFlZcUJUTm1ydGFueVNJbEVwYlEtVmtPbmdRSU50ZE5VS3p0QWtwTmZzZVBiaGxKUGVRTVZZRmhQUHd6dTQ3dzRVeDl6N29ITjNFUnpnMXZqOEVCZDF5STY1TjJNZmg1WGYzckc4aXk1YUMxNnVkVXA1cFNtMldtdno2cW52UjBfZ2p4X0VobWl6OHl6TE5BUmx0THdWV3RVZWdIaTZrZVpaVFNqQkFFUHoyT2ExejBjVEtmb05vbWhITEVJbkI2NnZDUnh3cjY2a19lYWNiZWltbDI4aUFBVFMxSTBFUzdNOHhxajRMdU5fMVJVTQ?oc=5",
           "published": "Sun, 15 Feb 2026 04:30:00 GMT"
-        },
-        {
-          "title": "Verteidigung im All: Warum will Europa im Weltraum aufrüsten? - Schweizer Fernsehen",
-          "publisher": "Schweizer Fernsehen",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYmZWbElWRkozS0xjZzRCTnA5TWVPR0V1eXRib2VnRkZvY2wxZXlQdW1Pb2VYRDBYZ25LU1R5djRkMmcxNHlWdG1yaHRKSmhMWHp4TmZ5REk0OEx0VWtrbHRqaWRrTXZOazhBUkQxZHBna1BGcV9lYXlsVFpnWmZzb2U0TkdGeTctQjYxQjNZczdoWUQ0NXZlaXhvSjRjOGY1Tzl5d2g4djFyU2k1TDVVMC1TbUFtOXFJ?oc=5",
-          "published": "Fri, 13 Feb 2026 20:50:00 GMT"
-        },
-        {
-          "title": "Darf Claude Krieg führen? KI im spektakulären Einsatz des US-Militärs entdeckt - Neue Zürcher Zeitung",
-          "publisher": "Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXMUNBWnhHYmEtOWVodHhaQVVfVzFSMjBXSkxFdkktN1JWZkFteUVWUXVIeWxfTlU3OW5fUFhBamZnMWtyMTZ0LW9kOVluUDRSQmVDdVg3bGloaEVPUWw3VkNOX3UtWENTY2thZzlxbHJISDNB?oc=5",
-          "published": "Sun, 15 Feb 2026 03:18:45 GMT"
-        },
-        {
-          "title": "Deutsch-Schweizer Drohnenhersteller macht Deal mit der Ukraine - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWxiSm11NERjcHR3ZU9FM3VnM1RUM3lNNG5xSTR5aWdRN19qQ3g0LXFTU2RmWWUwcTMzd1NYcmJueFMtb3ppVmg2Mzd1eWpqRmp5NTNSOVVLVnp3LS01a083T3JYLUltQ3RTSnlZb0R4YnJtWU9nMFJsLTZIQ3FwVDVDSUxDME5GeG1RdjhpclYxcnJqNWhVbjlyZjVYZ3F0VnNjemtn?oc=5",
-          "published": "Sun, 15 Feb 2026 18:00:51 GMT"
-        },
-        {
-          "title": "Trend der KI-Karikaturen: Harsha Bandara schlägt Alarm - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2pHVzdrbHVuaW56UWR5VXZZdlhPVGFkQThRVzdUYjVFNWhlLURLdXhsYWtjQTh6TWVlRmcwbWpaTFNOYl90NkJtZTNGeUhMeHEwMEZiQnJQTkEzWlBxdTduOGllUlZSRlNoY2x1d1RGRlpMdl9SMWZieXpLUjlNT1ZwTldmZU5XazZNVGxvdzNWV2hkcUoyWmI1bWhyX0dHZ0VPQkJKQVE4NHM?oc=5",
-          "published": "Fri, 13 Feb 2026 18:08:35 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Israel to face Ireland in UEFA Nations League soccer matches - JNS.org",
-          "publisher": "JNS.org",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd1Jqd2h2dU54VUZuN1FSREU2YVd0Q0p3cExxVWdKTllCZzdxa2Z4M25hcVZITDkzUHBTTWZnbmhRc3dsQWl1TC12WlVrS1MxUS1lb3NsNE5LaU0ta3V6Nm1COHAzSkd3VEZUYWd2bE40XzlTVE1DV2FfQnlsYXAwaXloQS04Qk45?oc=5",
-          "published": "Sun, 15 Feb 2026 11:42:11 GMT"
+          "title": "Real Madrid, Man Utd and a World Cup: Football’s wild coaching landscape and hiring dilemmas - The Athletic - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlYySGh5bjVIa0tiUndsZzNqMlhBQlIwNXpvNmRmZFhOQkhjeEJKal9nV0hEUFUtRUx4emtSR2R2Z3NKUllBdGdxOGY1RW10YzE2S19waGhJMUdxNGRGZllWQzVkWG0wMVIyd2R5VHNBaVdCZzQ2cDJBQUIzaUFfc3RvUG5WT21HMXFRbDhIWjBnZ3ZHRlNQUDVNRXhxYUU?oc=5",
+          "published": "Mon, 16 Feb 2026 05:15:15 GMT"
         },
         {
-          "title": "Premier League - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yZEp3ZEgyNXFkVnVuN09RUjF4SFJGOXI4N3ZPcGYxVGl6RTVDWHlzTlowVzdQaHFoV0hRaHQwdENMdlZ6bFdrNDN2WnhObEpGTUh2TjNYaXdMYlVxUXM0?oc=5",
-          "published": "Sun, 15 Feb 2026 18:57:26 GMT"
-        },
-        {
-          "title": "'Football Is Freedom': Bob Marley Inspires Jamaica's Kits Ahead of World Cup - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmhfVUZlUUEwb2c3Y3Z4NDlUbG5lZkhaVklWTDZ1b1VsRUI3OW9HSDVVUDZEN0VkYkZQY2w0WklkZUZFMEZZcGl0dmZKRklhSzVyUUgtN3FjUS05OVJQYndHT1pvS3BiTzhvZUg4T1pvVlkxbHRiMDVVU25IY09jMUprbEFxYVktaXdoYTJEaVd0cjR3YkQxY1NUNERuVWQyaWJ3ejJRc04xWUlKc3RvR9IBsAFBVV95cUxQdlBEOGJHWk1BeVRKMHhQLTRRSkZOSEcydXZCMjktdzhuSXNCV0l4WnJ0aDhzZzh4Q3JLemp3ZmJRRUNDanE2UkdCQ2NpRDQwVHdfb05QeU5iNVJISVVFa1ZhbVNtaTBFNjdfdFpzWTBlbVliWnRuYUc3cnlBYkYtb0JsRldJUXZlMFJOem1rNEMwenVTZVZIbHpsdjhpZWExS0o3eEowOVowM0w0YU9mdw?oc=5",
-          "published": "Fri, 13 Feb 2026 20:54:20 GMT"
-        },
-        {
-          "title": "Goldstar Air to host Ghanaian soccer fans, supporters unions from West Africa and beyond in Philadelphia City for 2026 FIFA World Cup - Modern Ghana",
-          "publisher": "Modern Ghana",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFFfSFZJN0QzcDkyVmRRdmpGOFZ2aXQ3TDNZdkNTZkx5ZG5rY010cDI1QVdTeXNVQ1d2R2JydV9CbklWeDcxUm5XSGROT05wTzJDVFlaWWlQeDlCdGg1RjBpNzNGcFZEbUtiMGhtazdGXzVOSlJ1ak5FME92aGt4b2UyZlprV0FyVTlfTm1wc01PZWN2OXpmcjFxNNIBmgFBVV95cUxOSng5LU9RYnpCWFVvdlRCVzZHNS1LT0J4SFAzZzNadEFxeFMxaVRIUlA3YlRfbGNfQjlxWXNFOEtTVU1ZcVgzeWxORVpldE55QW5GMnR2aXlDa1VxaUsteno3aWVxaUhLaUZoSVNKcndyRmVHdURRczBCaVUxX0xmSXpBWmNBbTNsLWVkRkIwRF9MWVRnOEtQVXBB?oc=5",
-          "published": "Sun, 15 Feb 2026 19:05:00 GMT"
+          "title": "How Kansas City went from soccer ‘hick town’ to coveted 2026 FIFA World Cup site - Kansas City Star",
+          "publisher": "Kansas City Star",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGVieFVBRzB0Rzc4T3ZqOFR2cjZDdkRkYVdsLTh5dDlORHhqVEFxYUZYRmpSc2gxeGZvY3ZwcmJKcWEyMDlhZGtyS29TS183QTdQSVpJcllaNUlVdnM2OHBuTWMzOXd5V1dMTmxmLVpLeWVLNm84OFZVYjJmMDN6NFEwdXZJa1BnektWajZScXZDUdIBkgFBVV95cUxQNHl2RGFnX0ZMVW1BUFFnZnRLZFpoQkxSa1lXMjMtN0g3bmZhS0NrZjdydXJrWEhyWXQtZFJaMldpaGhzY19COFF1SWlVWWJHdnE5TWZzbVdrNEpuN0NGV2ZyQVZXbmdWUW15Yk9XWGlfQmE4VFVRcFJkZXU0ZTBQdDBfczBaZkNjM3BBaWNRVzd5QQ?oc=5",
+          "published": "Sun, 15 Feb 2026 12:00:00 GMT"
         },
         {
           "title": "World Cup - Britannica",
           "publisher": "Britannica",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lSXpoQ1dpZXJOZ0haOF8tcElFV0E0bDlCVHJORHc3NFNCSDRzejEtNFN5VHU3NWo1QXZHeVZwampxYm14Z3JkYzVUZW5YY2N3M21hbmgtd21jZzlyOGFYU1Vn?oc=5",
           "published": "Fri, 13 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Israel to face Ireland in UEFA Nations League soccer matches - JNS.org",
+          "publisher": "JNS.org",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd1Jqd2h2dU54VUZuN1FSREU2YVd0Q0p3cExxVWdKTllCZzdxa2Z4M25hcVZITDkzUHBTTWZnbmhRc3dsQWl1TC12WlVrS1MxUS1lb3NsNE5LaU0ta3V6Nm1COHAzSkd3VEZUYWd2bE40XzlTVE1DV2FfQnlsYXAwaXloQS04Qk45?oc=5",
+          "published": "Sun, 15 Feb 2026 11:42:11 GMT"
+        },
+        {
+          "title": "Real Madrid Returns To Benfica For Champions League Revenge Mission - NDTV Sports",
+          "publisher": "NDTV Sports",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVByRThEVFBUeWpEMENzWGRwYWJaczJndEJWbkJIOV81SDVGRHViQWJOZGhqdzVQWVdJWW45Wk9mcU9yNnA0TkRlbTV1cUkzSkNYRm5yT1h4MjlWa3l0YlJKTkxaVVBOT2c0ZXg2TTJ6NDRkdGhZNktEaFdLcnlkaWNTTDVhNnVqYVIzUzdTTXpuX1U1anNVUWxTOWVFNXkzeTRENWdJdXFIbjVlREE?oc=5",
+          "published": "Mon, 16 Feb 2026 16:44:37 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Box Office: ‘Wuthering Heights’ Still Predicting $80M Global Bow But ‘GOAT’ Poses Surprise Threat in U.S. - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV25SRFpvSFo0XzFpWk9DTlRqcXRDTU1VMmJzWFh3a1hXZzJJZVFPS3RHTjJLWW1VUi1aenhtd1EySThuOEV2cndGZ3llTmlVTUUtZ0h3SmZyZHp1S2RocU5peTE2WVh3dUxzZW1tNE1wVURjcWR6RkhZZnk2aHBZcFU4eHg5T2tnOFdkbXBKVld5bXNjUDh5eTlpRnZYZw?oc=5",
-          "published": "Sun, 15 Feb 2026 19:21:13 GMT"
+          "title": "Actor Robert Duvall, who starred in The Godfather, dies aged 95 - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBQlI0ZTRzdEpWdkpteUctMG1LcGE3TmVBN2lmTGd6N3o4R0VNMTRXZXdZcXBoVkd2LU14UVhLcVlkZ1dXNEMtZ1hkbDNGeF9kRnRUc0FKUFFXZ9IBX0FVX3lxTE1GcjYxUHM5RlhvMHowVWF6d1N0NGxmbVEtWm91dDNRTlZUR0FoZnp0Zjg0Yk5vMGpNNFVuUzFqam5CRkhSV1ZtcW5tU0dxZWRXa0lJbGlfVU9rUVh1eU1r?oc=5",
+          "published": "Mon, 16 Feb 2026 18:17:06 GMT"
         },
         {
-          "title": "Independent Spirit Awards celebrate indie movies and TV in Los Angeles - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUkp5WjY2YmVMQUlaMFM3YzdBRWFtTldtZjZEeEJxa29rYnZoYl9IUHpDR3JTakdQd2NSaFFMWHJDelJDLS1fM3hEdDBpTDhkLUlXZm1PaDJMTEE3al92eUJpMVZIYnp2Q256Z2MzS2hNaHZfUEVZczB5RS1hN1BvdjBwYlI2NHZMbERMV2xlUU9JRTRS?oc=5",
-          "published": "Sun, 15 Feb 2026 05:01:00 GMT"
+          "title": "James Van Der Beek Rep Speaks to Texas Ranch Down Payment Amid GoFundMe Fundraiser - Just Jared",
+          "publisher": "Just Jared",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejhVa3FPeFhFTng3NmxxcGl3eHdndmNvOUxZOWVUOVU5WVNXSEhjM3lyeWhpcTdqMDJiNm8wdVlzUkVpWjNQMjBucHY2Q2FBQ2lLaFlSY21UcmRINTE1ZGVZbjVhQnJMVV9lOFZoM0ctUUxKT3BsWXhhWFBkRzlIUTd2bzhzV1pCclJKU1VsdWc3VjdmT01QN0hiN2RpVTliVFBkNl9KMkN1bk9FXzFtWlZPcWdtSGZESzlHRQ?oc=5",
+          "published": "Mon, 16 Feb 2026 16:50:33 GMT"
         },
         {
-          "title": "Why the Sidelining of Politics in Berlin Is Causing a Stir: ‘If an Artist Is Afraid to Speak Up’ About ‘Fascism, They Shouldn’t Be Coming’ - Variety",
+          "title": "'Wuthering Heights' Box Office Beats Expectations With $83 Million Globally - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVdEUTc0QW5qOWxuTy1XTTdfcFM4TThrWjJUWWdCRU4tcVdkUUFaZDh6Q1BtMWJsU2RBRDgzN3pvRWhNcjRHMnpFLVZHdk9MblBMSjRqVGphaEc1enBjeXBsNmVlOW1UTF9QTWQ2THZOOWRERlNYU2t4bWhVU2ZEZ1ZQTlN4ODFxVERnQXhXZHZxSkxITV9CdUVya2pBUnlJcnkxaXk3bUY1MGs?oc=5",
-          "published": "Sun, 15 Feb 2026 18:34:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRWlib2t0WElrZkZld0dCcFV4bXhTNm0zdjUwMlNPZHFKZGQ2cTlFcmR3eTdMM1BDSjJNck1Wb25XNzE2MEFSdVJ3dVhTQlNlVnlDX3NWTnBlbC1ISnFqaUFxdXFvN1pDSjNPNTU5ZmRKanRDY1EtSDhLdkYwMHoxV2dBSTNJOFNEV3dMcURUVVlkUnhMbTNrMGk4YnhkN0hwQ0VHTGctSk42OVNiVC1WZkVtYTRXQ3JPTmIwUHJpUUpTb01rSXVDdVV3?oc=5",
+          "published": "Mon, 16 Feb 2026 16:18:00 GMT"
         },
         {
-          "title": "Heated Rivalry’s Hudson Williams Hard Launches Girlfriend on Valentine’s Day - Vulture",
-          "publisher": "Vulture",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOakRnU0w1RkJHdmNYZHFGZTdBYUxjTktHUkFoUmFmdXQzYzhnUGozWWFnb3BLRno2eHcxQVg4ZlNRcmUxQzU1cU1pS2VNaURLTDBoT2JHQk42WHEzbFJLR2VHdjhwR3gydlhnQ3pUNFdSaUVFV09tZ3lEZlpjZDdXeHhOMWo?oc=5",
-          "published": "Sun, 15 Feb 2026 19:14:02 GMT"
+          "title": "Netflix’s ‘Reality Check: Inside America’s Next Top Model’: The 7 Most Shocking Revelations - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGtZSGZNSzZ6TUxuOFo5TW56bVY0NUtiUGRsZWNJREE4eGliSFlyRGNsQjJZVHRVSmNFZHptZG1PTl9QLVg5UmdsTGl4aFlOVVRObU93TFp5ZmlmOTJOdDQ1NF83LXg0UWlzcEo1YXlFcFdwQ2NiNWt4cE5rRndMMU1vUUFpMDhwZGh6bFlmREdMRXFCbVZDd2c1N05fTHVtdkE?oc=5",
+          "published": "Mon, 16 Feb 2026 16:09:06 GMT"
         },
         {
-          "title": "Meghan Markle Shares an Ultra Rare Glimpse of Lilibet's Face and Long Red Hair in a Sweet Valentine's Day Photo - instyle.com",
-          "publisher": "instyle.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGEtd2pKWXRmNWg0TjZ6UG55b2hCZWk1QWN6YkJCS09uNTVBU0w0anY4SFVUZXVSMkFQUll6ZUVSMXJVeW9GNUtKRC1KaXdzMFB6dzdqay1jMUNaY1didTZNMklSTFJRVDEzMVdZYlR1Z1J5UDFkWkRLbGRJV1VrZUgyQl9MSWFJak4xUzhTRkNPdw?oc=5",
-          "published": "Sun, 15 Feb 2026 14:37:08 GMT"
+          "title": "“America's Next Top Model” Runway Coach Miss J Alexander Reveals He Had a Stroke That Left Him Unable to Walk - Yahoo News Canada",
+          "publisher": "Yahoo News Canada",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5seC1WdEcwN3ZXa09VUmlESlV3bkpwTGJqb09zUThhZEtucUo0N0h2NVRRTkZ6eUdKUE1pNTEzcU1aY19UU2FxakZWYzFJTk9XV3dHckV4WnhwdEFlNHpSWW43LWdibk40d0VEWGxhZjBXOTNIR0Z1amNJVQ?oc=5",
+          "published": "Mon, 16 Feb 2026 08:02:00 GMT"
         }
       ]
     }

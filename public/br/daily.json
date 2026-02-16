@@ -1,7 +1,7 @@
 {
   "market": "BR",
-  "generatedAt": "2026-02-15T22:57:48.125478Z",
-  "validForDate": "2026-02-15",
+  "generatedAt": "2026-02-16T23:02:33.100613Z",
+  "validForDate": "2026-02-16",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,16 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "TRF-2 rejeita liminar e libera enredo sobre Lula no Carnaval de 2026 - R7",
-          "publisher": "R7",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc3ZfN0lYZlVzVGc4TnNfRFdtZ0xTRGtoY2FWcHpOWkFXLUxoN2hLVVlpTzR3VkxZQlJONi1SNFZ6dVVOM2V0RklaWHliTmd3MXE4TG9BdGl2Q1ZUUWhFZHBsS1NyVHNtOVRGeS1qR3B5TkN5TlBpRW5vNndhNWhkRjNzaVR4NjdKeExpY3h1UXBUSnEzb2NiSlZReVZLTWNha3dQdFRsVXkxR1laYjhZWA?oc=5",
-          "published": "Sun, 15 Feb 2026 19:04:05 GMT"
+          "title": "Bolsonaro como Bozo e críticas a evangélicos: como foi o desfile em homenagem a Lula contestado no TSE - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RTTlmVWR4Sjh4OW5DRWxISE1OR1l5eExhZFREVUhnS2lRMXpzM2FYeVhzeGdjdHBHRWxLN19EeFFObzVZN0xvcW94bUthblFVdGJvMXJFakhueVRNUExGWmFB0gFnQVVfeXFMTzMxU0hCb0ZvNU5TQ2l6dzRRVGJIZXdtTWFaNWV1SVhyMFkxTi1DUHBxSTJiUF9icUkta25kUUh4SXlNT3F3akdXLWo1V3FGUW1xeExDLTlLRnc1V0g2QTdyN3NKbHduTQ?oc=5",
+          "published": "Mon, 16 Feb 2026 17:35:19 GMT"
         },
         {
-          "title": "Aeroporto de Guarulhos é fechado duas vezes na tarde deste domingo de carnaval devido à presença de drones - AEROIN",
-          "publisher": "AEROIN",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDQybHJHU2VnRDRaNHVGbE9SVFZuOUd5cGdjemUyaG1PZGJ4eGRUSFRwTmpLbEkzeHVzTkE1YkF6TWJCSERfWG80bE9ZX0VrRWZXempYaWdvY2xvRXRZNWFwRDlqT21ZeEJjYU1seG9meTI2a2ZjOWN4LXQzdUk2dGtTVkNpSjdoT3VjY3phVXJiSzdkUDJRNmVfSWdDdmpRem5SNEZjVzNSMUUzTEt2cXJpSEg0VjNmRDdsTmlqaEdadW8w0gHEAUFVX3lxTFBwNDJsckdTZWdENFo0dUZsT1JUVm45R3lwZ2N6ZTJobU9kYnh4ZFRIVHBOaktsSTN4dXNOQTViQXpNYkJIRF9YbzRsT1lfRWtFZld6alhpZ29jbG9FdFk1YXBEOWpPbVl4QmNhTWx4b2Z5MjZrZmM5Y3gtdDN1STZ0a1NWQ2lKN2hPdWNjemFVcmJLN2RQMlE2ZV9JZ0N2alF6blI0RmNXM1IxRTNMS3ZxcmlISDRWM2ZEN2xOaWpoR1p1bzA?oc=5",
-          "published": "Sun, 15 Feb 2026 19:57:22 GMT"
-        },
-        {
-          "title": "Pai, mãe e filho de 2 anos cearenses morrem em acidente na Paraíba - Diário do Nordeste",
-          "publisher": "Diário do Nordeste",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTWlGMnNpRGRGOTBySkR0Vlc0MzNrSlZfTnRtNUlFUm9Oelh2c3pSZTlRaUlpU1NXczFBbWpIWk15SDhLVHo4Z3I2bTNZZmMxWE5nWkJlSG1IRUYwTW5Bckt1NnZGaWQzMXBFNTFLSFJvQlBZbW1FcWVYRkxOZEVBbGoxVTBJSTRvQ3hlOFhPMHo3dktyMmRLNW00eEd5U3JRaEFNTDNieVhaaUNHeFYwNGNHS29ZR05UNFJxTkl0OUNqNl9XN3lUeg?oc=5",
-          "published": "Sun, 15 Feb 2026 14:09:53 GMT"
-        },
-        {
-          "title": "Policiais fantasiados de 'Scooby-Doo' prendem três por furto de celular - Estado de Minas",
-          "publisher": "Estado de Minas",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSXFiZktlUXBaYmJUV2lvVE9EVXZobVJ1c1FGVUt5dWNMeTk5dEV1Rnd1bG9SdDhQdkRXcjU1WUg4dkJEN3I0aTZKRmt2UTlpZTI0cmQzcno2TmIwaUM4VjBvTjVsMDcxVDBEYlQ2UU1Kc0l2c1NNQUZPUmJuc3c5cUFsX29ITzF3OU5tZ1NBd25ic18tekgyVjZEWlVmRVZETXB6cWJ5RGJUTkdvaHZUZkIxQWRQQXpJeVpISDVB0gHDAUFVX3lxTE1IWVYtUS1iQnE4N2RUWUdEOGxzcDhtN2wwYlJ1S29rSTByRzl6S3lwS1E2c1JXendDVXM1ZFktTUNMVGZ1SVlqQkJxXzlIYlRGV3F4NHFDcXVIOGZnVjBNVzgwemNpb0FISzZmVEU0QkxnTzlOWGtPN0R2YlZhMjN6b1ExSU1RYlNQWUg4QXE2YnRnRjc4aEdibFdhNENKemMxY0dRVU93S21mWjFPc0NYdUpsYjJMcFMwS2pKSEl2V1dTWQ?oc=5",
-          "published": "Sun, 15 Feb 2026 12:42:00 GMT"
-        },
-        {
-          "title": "Blocos de carnaval tomam as ruas do DF neste domingo (15); veja programação - Correio Braziliense",
-          "publisher": "Correio Braziliense",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1lhRVpUdEJ6TVJXMHVXYkYtNkFFWGZ4R0RVREdvZ0hpdW9ReWVmREhBcFVwN0NSdkQ1dFI3cHhJXzNnNm5hMU1PeUxNbXRYdDBteW1OWV9KRE9lN1NacWR3SEV1RGVOLXhZbFltZDNVdjdjcVRuTnpIV2Y3UUluWE0zQnpZakI0WE1nSUotZjlDMUUtSWFXdVl1YjdWc2lJYzJ0SFo1ZmpZZ2xSVVVOMVkxUmZzM1puaUpjUWVSa2w2SmfSAcgBQVVfeXFMUE1rQTdIVFh0MGxHUVRNRWg1c1JmTGZKYXQ0V2xhMk5vM251VEdiMnlrVnlDNVVwSVYtTkpGSGNQN1k0czVmVzVLVUJCdlVhTlpSQnRKdG5sRXRoU0h4R2RKMzd4cmJLeG0yMUJtRFJNWmgtaTZ2dHlOQkJDWHpPemc4bmhFSExmMzB5UVZMLTJCMmZpT0Jfb0g1SzdseUNpdDVHcU1KTlI3eUh4YUdDbWlIdWs3RmVXZTVMbVViR1R4dXQ5LS1PWWM?oc=5",
-          "published": "Sun, 15 Feb 2026 14:02:00 GMT"
+          "title": "Veja o momento em que avião aborta decolagem em alta velocidade no Aeroporto de Guarulhos (vídeo) - Brasil 247",
+          "publisher": "Brasil 247",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMlZpbDdGZTdsblpGUkUwcG1FekQwWVZydDhFTW9kNWJXVXBtSnFjUnFoYnNhZnF1NXBSeHBfT2ZBQlc4aTNPWGNrSGs0V2ViWTVrSmhNYXNrcjZEa0xiMUEtbTNYRHpsSHByclFjSzlsV0NSQjBlS2JEVFdzX3RieDhuYU05S19GM3NOTlA1R3VQY2NTNnZZbTMxZl9xYjEyLWdyN2dQQW0tX04zczg3cVdRME5jdktPblltbjROeFU4ZUd5VXc?oc=5",
+          "published": "Mon, 16 Feb 2026 13:39:48 GMT"
         }
       ]
     },
@@ -45,34 +27,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Rubio classifica relatório sobre morte de Alexei Navalny como \"preocupante\" - cnnbrasil.com.br",
-          "publisher": "cnnbrasil.com.br",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYmc0SHdRWGtnc0JVY1k2eElQeHllR0tnTTRPel82UEg1WDZNYnFpb1drbjU1akNqQ2lsUWlfcmZfd0h6bmJ2Z3BZMGRXd0FZamhFQjJ0a3lJRGhHSl80Um5aRlk1ckQxTUxPQkg5YkpocFliRkRtSHRzRTRUbWpsMFg5UVNwcWhfSUd6Z05xUEx5QnkzRVZIcnVMazBnc2xoZnVFa2F6OUg0SEV5dGNvWHUxWTQwWEpN?oc=5",
-          "published": "Sun, 15 Feb 2026 14:26:56 GMT"
+          "title": "Sindicatos da Argentina convocam greve geral contra reforma trabalhista - CNN Brasil",
+          "publisher": "CNN Brasil",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYXJISy04eEJYb1gyMlQxTmRBajEzd2pwYVNRSmw1ODRfRmJ0Yml4UDJxb1Q0RzBRWFVaR2ZYQVV1bDdoLVozWkFodjJORWhpc05WbnQ0RGVxelFjSVN6c3I5T1EzenN6Z21TbVlTU21GTkNMdV9CdWVlcGRPWHhyR1dLaW94RnpvR0ZPbmU3Q2d3Y1NfemFMYjU0cTZ2ZWt5aWFCTVJDZlM3VFpCTkNIWm5nQ3dlUQ?oc=5",
+          "published": "Mon, 16 Feb 2026 16:33:56 GMT"
         },
         {
-          "title": "Chanceler de Israel vai participar de 1ª reunião de Conselho da Paz de Trump - UOL Notícias",
+          "title": "\"Fazer um acordo com o Irã não é fácil\", diz secretário de Estado dos EUA - CNN Brasil",
+          "publisher": "CNN Brasil",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3hyOGo1ZnpqYmRweDROQnRWNm1GSm45S2dFSjQzT2hNbnJ5SzJ0am1zM2dZZExoTUNLYnJ5YzNsVTdxZXpMTmJLbE5CdUlWNFk5MkpEZE45UzdKZ0gwY0VSNmVfQlg2M2xvbkFpLWR6N1l5bDI2TVIzakExUXRiSHBhWkN2R3BsOVJTdEtXWVRFbVlyUm1VbGtSMzdIckFWVlpyYjBlUmRXNEw2dm9OSjQ3b3Y?oc=5",
+          "published": "Mon, 16 Feb 2026 13:59:22 GMT"
+        },
+        {
+          "title": "Rubio diz que EUA não contestam avaliação europeia sobre envenenamento de Navalny - G1",
+          "publisher": "G1",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeWo4NkM5amxBT2d0bmNsclo5a01TVzJxMUgzZGkwS01XcHZGUGlSSy1GZWdIUVdqTWVKUmFrMXdTUTFzQktZNW5QUGF4RWZwOFU4RXA5NDdfQ2dTNTFZbW5kZ3RWRmpvOW10Q0ljVjM3cDNqN3BZc1ZoVEt1QWhSNmJTdU15NTZtTGlYdm1wZEdwLTh4eDNYSFVBVzhMaW1RaTlSOUIyT1k5c1RKN0ktbE85MXlqOXBoRUhyZXNkQjJPc3VQcktWQ2d2TG9aUdIB3AFBVV95cUxQM3dQaTRXSGU2TWt3NE9ZVVlBUFVuemwxa3RIbjRhSU9mbGxJcUZSRExLRzY4Y19TRVRBVmVMNkZHc0VCVDdaa0VKaW54Y2V1ZHpmZmdTUUR1bzU0aFVwdjcyZ1BfZUxYb19XUXJaU3B6UEs3WlRwTDRNdUFmbjdlb2ZaZnJnZFhScXhyOHVKa0syVHY5TGxxNEV5RUhydUZIUE5mUU4tazhSdDZfLTd2aXJMdGNndk9kOWt0d0sxazgydWN3THAyZ3R0MF9OMnBPcGRJV0Y2UU1BQU5W?oc=5",
+          "published": "Sun, 15 Feb 2026 14:13:18 GMT"
+        },
+        {
+          "title": "Conselho da Paz promete mais de US$ 5 bi para reconstruir Gaza, diz Trump - UOL Notícias",
           "publisher": "UOL Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNd1hDbkk2OE9PUEJET1Y0SEs3ZG94STdkY2FTR1JJdHV0akZSWldTYTJmY01WZ1ZrTnZQTUo5VTRzMW92TFhEbXlSZ1RHSXdSQ0dFS2RrS08xbm13UkVYOEhuUGhJd2RvOXF6ZlVsX24zSnJiZEQ3RHFkZUNQZHV3dXZGTVdTUjZhamJoYTFtWk0xeUc4SExFWEE0TktoM3ZUckVpTHRNbGZGUW1HQVVoM0k1a3ozbWh2QTRTdzBRbHV2ZUMwbmludDlsTERDWDFyRWMzQjl3SDNKbXEtby11d1EybTFZdThrbHpTQjhxODlEeURDVzhZQQ?oc=5",
-          "published": "Sat, 14 Feb 2026 18:08:27 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRGlMeXEyUlRndlV3aXU3R3pQX2o0TnBibmtNVTlTTjdJb1g1QWwza3lKVk54WDAwLURYMXlYWTZJRWtmQ2lrZ2Mya3lYeTJVWlZkQkZZV0F6bW0zMWVHR3dZTmdPT2l0Nk1NUEF1c2VUN2RMX1ZjSVlRS3RNd1RMS1VuNGlINHNyWlhXX3NZc1V2NmRBc3pyaDk5YkVsbDRRM0I0NEF3NUJ0YUt5c0kxMXdnQzBUeDN6bm9udGljUHpFTFZhV2djajdoaVJfdV9sbFpYUFJlLW1DQQ?oc=5",
+          "published": "Sun, 15 Feb 2026 17:57:20 GMT"
         },
         {
-          "title": "Cuba: o pior racionamento de combustível da ilha desde o 'Período Especial' - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pU2FLc0ozMkRrb0hJeFNnck5meE5TT3MzSk5faEh1QkF3VGMxNjkwSmJpNUpYbW5YNml0b1VjRjVxNmFCOVROTTUzSUp2dENXZDJtRXFFVVhrR3IyVV81ZWl30gFnQVVfeXFMTmFOa183b3hsQkJObzl5ZkFaTzRza0wydU9qbWNJQUJaWmNBcVJyaS0yWDhBMjhtamd1YXpsdlJpS1VHRUowalQzM2Q0TmZwNnQ0cjBaNEtNWkIzc0doM1dfUTVPLWduTQ?oc=5",
-          "published": "Sun, 15 Feb 2026 09:34:38 GMT"
-        },
-        {
-          "title": "Obama critica a falta de decoro na política por vídeo racista compartilhado por Trump - O Globo",
-          "publisher": "O Globo",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRmFpM0M3YWU0cFk2bXdLSTNNLUJuS0JJTEdxNVRzY3pxS3VFU2JYQk1QX3Etb3Q0WTBFci05R0xqVk9TN3UtZXlGbVRsU1NrR3I2YlFjcVN0djFGZk5sNkpwcUdmQmplM1VEU04tNTVsdjRURVlhZTkteGx5Mk5reERaVWw2TjJMcjFrRmhGd2pZSGRQRlBlUzEzVDFlRjBxckhMR002VTAxNUk4RC0tM2lsYURDRjB2bDM0Qm9aZVNZZ2NfLVRCNUxoeC11SmtGQ2h2Zmt1QkjSAecBQVVfeXFMTUo5Q1gwYk9HSXRXbVdfbkVqQlBnakliVWZENWoxSW9rMEtGVHd3ZGV5YmRFUzdZYVBQQ19QNktacmFCbFlJNWtGT0Fhd0ZxMUJyZUlLYUt2TVpNOFQ3UHZLMFNVQ2dPaDloZWZTU0hYeFhYR2xEeDJLV1hxRWFQLXhpTkU2WDVOVUd4azlId3lvWEpGN0dacFlQUVFlNnY4VG1rR1AxalVnOEVlQXhVZm1fbHA1MDhqVDJNZGcwVnQ1a0p6QnFjVzFIbzJOOGgza0psWjQ5SS10V2wyd2ltM2lhSmh6RGtn?oc=5",
-          "published": "Sun, 15 Feb 2026 03:48:43 GMT"
-        },
-        {
-          "title": "Merz cita ordem mundial ‘sob destruição’ e acena ao Brasil - CartaCapital",
-          "publisher": "CartaCapital",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1REeDBLcXlaZzl3TzdqdXV3dEpVdE0tb0RuSkRpeVRwdnNzYkM1amdZSEl0NUdOTWhMaVRqTmpvdXRkaFZZYXYzT09HZDQ0ck12azZHWDFrUWVLX19UZVFIT1V1X3pDakFBazRMbWNGTkVxQVdLYjFuUzBxZjd4UE1LVjFTT2NkdjRVWVlHb2NqUjJJSV85THFkaw?oc=5",
-          "published": "Sat, 14 Feb 2026 11:28:00 GMT"
+          "title": "Israel volta a registrar terras na Cisjordânia e provoca acusação de anexação - Jovem Pan",
+          "publisher": "Jovem Pan",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnpuWkVZeHZSaDg4dEVvaGcyT3lYMzZDLTBUS2lyNkdWckVhRnFhMVIwZWlmV2ZZRDYycUxRMFhfdmNPbV9DNlZROFZrd05GTVkwXzg2d3NSSklPVjZVRzAwV3VGMFg2UVY2aUxEVWl3ZFBsZlhadHVZZzM1MjZENnlzZDZDRVhWcTdJX2J5bEZIbHJteDVnel91Z0NHYzVaRDhUVHJyWlhGYXBhV2w4dXNweVZ0ZzNWM04xODl3?oc=5",
+          "published": "Sun, 15 Feb 2026 18:36:06 GMT"
         }
       ]
     },
@@ -81,34 +63,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Mega-Sena acumula e prêmio vai a R$ 72 milhões - Revista Oeste",
-          "publisher": "Revista Oeste",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LMVZuTVI2dGhXMlp4dXByczF5RFdwZllWcGR4OXItaE01S2RGLUJ4UURacTVtR3dhNm1ZNW1Bbnd0VFhXWWVJTHIxMWU0X2JZLW15RXNjQ293ckg4d0VsekRscVZkSzJXOUdlNU9fTi1TQlR1VEgybTByMXBlQQ?oc=5",
-          "published": "Sun, 15 Feb 2026 02:58:59 GMT"
+          "title": "Por que a 'The Economist' lançou alerta ao mundo contra o abrasileiramento - UOL Economia",
+          "publisher": "UOL Economia",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyRk5mUE1iTzNRSWQ3czNGYjFUWWUtTGdoYXNaTFVqTjV1cnFWemhfWUFhZVNjcGEtWFlUZndBeDY0MW1hZUpNXzRDVUpja1ZaVlUwcUU4aUNtMHA0WXl2b0pUTDdzbnRIYWtFS3hqWGhKS1RrMU5uNm9Xa0REZw?oc=5",
+          "published": "Mon, 16 Feb 2026 17:38:03 GMT"
         },
         {
-          "title": "Qual é o maior Carnaval do Brasil? E qual mais cresce? Veja os números da folia - InfoMoney",
-          "publisher": "InfoMoney",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1REd2hLRUloMm81dk91NnJhbnBldlhtYlRSS3M4d2RpX2tITVMxOXRZcE95U3NZYV9ZSDFfTWlRdnVMUWd6WFR3TnpiRWF3bUZTMmg2VFV1end1dU5mM3d2M20yYjJkeXV0THRnOTYtUlh3dkFQbTBRdl9NbjhFcTRKWmVhWkxOWWxoZVJjdnNPVExBa2pXV2xPVzVfS0VucHlrRVhMR1k0ZTZ3NHRaMC1YMmZYYWPSAbwBQVVfeXFMTWZ3T2tXUWhKYnhTRk5pMkxZQVRRVTdJUFl4eFJ4d2ROZkQxWEtQVEJpOVBpalZNOF93c2xtQTBBeWtwbjZoUzBieENqZEpQbmU0U1JsVDc4bmlpbDFRaGtkU1VCd3dfdE9hVEtCTFg1blJWNkhFY0dHQU9QTmpTUVpLSTI0Xzluc2hmWjNVTVpmOGdzcVc4N2FTMm1fZUlJbHFmdkhoNndFSldvUkluYnJCeEduZElsV09RVnA?oc=5",
-          "published": "Sun, 15 Feb 2026 09:00:00 GMT"
+          "title": "Banco de Edir Macedo é processado em quase R$ 500 milhões por sócio após prejuízo com Master - Diário do Centro do Mundo",
+          "publisher": "Diário do Centro do Mundo",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRjducVZ5UTd4aUN6TVZQVlhGd3MzMjhYckZDV0llOEV5OVdsb2R5NkdCVEc2VG8xaHd2QzBaOWtUZ1E5N2QzSTBJeHowMWN2MTVqNmgwcjNEbGduakdhYlRFWFJUcHVzajZlRmNBZHdTSThOWWx3UDMwYy1iZFQwc3NJRjFwUnd1UjRLYUliYy1HdjJqUDdkM1lNa2RiYkRFZERpc3NSNlh0WmtGTUpHQXNfcnpKdElDWDJvaEdadmdINTlJR2NKZDctOUZxQQ?oc=5",
+          "published": "Mon, 16 Feb 2026 18:47:00 GMT"
         },
         {
-          "title": "Prêmio da Quina acumula e vai a R$ 7,2 milhões; confira as dezenas - UOL Notícias",
-          "publisher": "UOL Notícias",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMFc1VEdrMzAwTmIzZUJkOEw5RFNscFEtVUFPN0VQdHlFX3dPV2lsZVFpWFFOSG9mVWVnbWJaWmNEb2lXM0VRTlpxaFFCUkNfUGpjcWF6b2gwUnltWjVEVkt1QjNPdkVfQ2tyN200WXVMNk0tZUJwRG53Wjk2SHlGTl9EWnk1cm1ScERLWGYwSWNrWGJNcTV0azk1V1MzVnhOcm8xRVJR?oc=5",
-          "published": "Sun, 15 Feb 2026 00:12:01 GMT"
+          "title": "Bancos abertos ou fechados? Veja o que funciona nesta segunda-feira (16) de Carnaval e horários - ND Mais",
+          "publisher": "ND Mais",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6Z3hKUFlRVWQ5TVIyRUN1QzJpWVVuM0xTUGRkWGtHckVqMk9VZ29ycThVUkxrZy1DZng1V1g0SGd4cGU1d29IT1BacnJoaDdyMVVkSjBYcEZ4LWhwQUVzaFRnQm02M3pJMDFaUGtKVDJDb2lBSERRYWV3?oc=5",
+          "published": "Mon, 16 Feb 2026 10:00:29 GMT"
         },
         {
-          "title": "‘Estamos vencendo na frente de busca na era da IA’, diz executivo da Perplexity, que desafia o Google - O Globo",
-          "publisher": "O Globo",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYlgyRDdEdlhuR1JkVzJsZkJ3cXBoZk5DYzBGYVVMYVZuR054OURYMGZod2UzRC1mbUJIYjU5bkRVcmxLWVlaUDNSTXJEWHNBMkprbmFIa0JkeEVkRHFUVkZncGtmWTVtQVV1RUQ1dXJmQUNqLUxVajhSelpOcFBQM3ZXcFI4Y0NnNGk0aXhHQ3lGUzRGWTRaSUZhN0Y2MjNtQ21rLXZqUVhZX1FSOGc0V2ZfNkRUaVlYY1hCTGxfS2FZeVI4aFJJOEdDNWdGWmg1aXlzU2txeFhnWnVxWU9NcVcwb1A4NHFKbkRqSXNuNV93M3JHcExNT21zUdIBigJBVV95cUxPX3l0ZXhXLXdqY0FNb2ozOE1la3FVUDJqTGEzR1F2YzY5WnNLTENaWkpwUUUweFhlZFl3NV9NRjJ0cHp0UUh3WUlSZW1rdWhjZVpRT0E1S2VRUnNUa1JocV9ya3lhZUhrRE83a0RVZ0xvbnByanpVUVdqc2xJdy13Z0thX0hZYXFXbW1GUExQZzhKTmV3OWRzNXZOb0RSV1MyNW9uOW5tclpaQ3B2bV91RUxQandnVnhVSm5wTzBVTU1pT0h1MUNraVpfTEV2OG5IWGtSd1E5eTZzLUhwMmp2emZqellBZW9PeTczanpXYmVHQzMwc0FQMWh4WDZiOGZTZ3FPNXMxZkVpUQ?oc=5",
-          "published": "Sun, 15 Feb 2026 07:00:56 GMT"
+          "title": "Abono salarial começa a ser pago nesta segunda - Agência Brasil",
+          "publisher": "Agência Brasil",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbUFsTWFKWW9aVzBjQzhJVDdBY1pQT0duYXNUeTF4dHQ5dmk0Q0tuWEJ0NGpuaTdnTXFGWVIxTERMQWg3eXRmQklfekpFd2UxM3NEUHhwMG50TmFWblhab3dlVERyRV9pckJuMEpzUFUyeTZfT19RUWtudEJyeWQ3dk5MbkF2TkpfVDl3bFlneVVNUFRWUS11RkFUWFNvN2gxUEphbg?oc=5",
+          "published": "Mon, 16 Feb 2026 11:20:00 GMT"
         },
         {
-          "title": "Resultado da Loteria Federal 6042 de sábado (14/02/2026) - Brasil 61",
-          "publisher": "Brasil 61",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdXZIaENGcm1Cb3JoX3EzZDVjeGxjSVo5aDIxMHNubkV2NzlPN1IxR3pzcHNIWDNsNHJ0b005SS1YRVBZQUplZ3E0cU5EUkNxX2VGSVRQTzlGcnpmemR0NmZVdmVCeTFIRXJyampXSE9JemlIRDZpZVZsLUU3LVJiSVQ2WVY5Z2thbm9NLUNvalV6SnfSAZgBQVVfeXFMUE5CTFZKLWFBWnBFWXVtaDMwWlhwNldyOUFzM3NWZmtlRlctWnUwQWlEUzJGdnpBdm12QTBsai1ncjJMZ2pid3dRZjFaY2JnRXRCNTlIR01SY2g5SS03RWVWeFpIbXNVSzMxS2RMX05Qa1BuNUliQnhYdjI2U0c3eVgyQkRJYWh1WlN6MDJGTmcxTzFhN3RxeWY?oc=5",
-          "published": "Sat, 14 Feb 2026 21:00:00 GMT"
+          "title": "X caiu? Rede social registra instabilidade nesta segunda-feira - GZH",
+          "publisher": "GZH",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSnpySVYyNjQ3eFpaNVoyRmdWMGxLWlJHMy1ISXdkWFNfS05kd0FueXlyQWwwZVExUk1tQ2ZwX3EtenF2Wm1HN0xoeXBTQ1haVlpJV0hXZWVldW5fbi1kNVozY3hxYWN6UExSZFdpOUtGRVB4TXNlbmp4UF9MWXRRd21mc0RzYmNhUGlhMHljNlJVZk05LVhLOHcwS2toOGtZQzhFWlZ2ajZtT1paTDFKSWE1by1pV0NCVHotZUF6YmFzSGN3aUs3aklTejhZVW0xRm9mc0xhc3hOdkhJTzZv?oc=5",
+          "published": "Mon, 16 Feb 2026 19:02:42 GMT"
         }
       ]
     },
@@ -117,34 +99,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Transmissão ao vivo de Botafogo x Flamengo pelo Carioca: veja onde assistir - UOL",
+          "title": "São Paulo abre quartas do Paulistão; veja datas, horários e onde assistir - UOL",
           "publisher": "UOL",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd0FaR21zMWZVOU5DYUtwMWh5VTNkN0lkUmZmU1Nic1BMWkN6dUFieXBqZTVubVFxWnFVU3M3X2o4SmtBUlN5TlNaNDhjMXR4YnUtMXJqdTZKUlNXSzFZQUVjMnl6S3dCZUh0SVRGSlJsUzVxajZnY3VCS045V2tBN05OSk5VOXZmVHRKYjZyV2N2VnhjTXdhZ0paTW9QZDY3cUpCTXNwNFV1aWh3c1JaREFwQUZOaDlLWjFJODRLeXRMS0dnWTNWdi1KRHVUU05ONndV?oc=5",
-          "published": "Sun, 15 Feb 2026 19:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLXNkV184LV82b0V2MWk5OXE0dXZWRm1xeEtHY0JtUHpEaGstQVFwMlpOU0JnY3BqTzd1UjYydG96YXNtSXdEcWR0QVhxRVgtZzg2RGh1ZWdsU0FKSVFhUF91blVpSjhfSWF3RXAtWGVwNjBKMlAzUlMySkpaNWlOdGhQamp3SjlrajV0QzRaWk10SF9XY3pFWEstUS1fcFJsV2VYM3FUSkV2cUYyaVRxQXZMN1ZUUmhQel85OXB4ZmRTbURpWWZYdVNpamFDVThlZTIyak9VbEtYdw?oc=5",
+          "published": "Mon, 16 Feb 2026 19:10:23 GMT"
         },
         {
-          "title": "Corinthians possui seis desfalques e três pendurados para enfrentar o São Bernardo no Paulistão - meutimao.com.br",
-          "publisher": "meutimao.com.br",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM1RXRHppVXBEYUhvV0VSaGh3V1Nadm5lc1ZMczBaRy1KMkViT0xkdzhWSGR2czJpX0xfU2FZcldzZWJGU2sxRnpVMzZFSWw5OGpONU5QbWxXUjRva0p0S3haRnZmNmRiUUVocG10aXZpcTRjZ0FYa3RRc3JCSzVQcjhYSE11TkF2dWRYTGVGUkNrT1RxU1VUQ3QxaVgzeWZORExkNllIZkhwOUtKbFlJdHFxM2RrVUpjczdCWGxrQ05yYnZGRzY2ekU3VTNZRXMyVjRLMElXM0gzNWRlMllybUpnTG01LS02U3fSAdoBQVVfeXFMTkZPWWo5ZU5DaVRnMnFEbkU3QkFqNy1qQW5EZlIxRmJsQ292TThtNmxOMzIzc3NBS19BNWlfTVltXzhXTGc3YzZ5Wnh2eVgwc2tjSi1CSjI0alpjeHVtbVViSUNERjB6ck5nc0NoWlBTREdVZVVzN0d1ZldMbUV4RUkwVXFIWWlGMlNXQ2JIeTQzck9SRVpFQzgtWWdvcUlDX1hfdTFSdHdmbW5UclEyd0J2Y0ZCQk1UOW02MWJxYWZnVUZrWGNYRGw2Z05pazk5TVJNX0FrZ056b1E?oc=5",
-          "published": "Sun, 15 Feb 2026 15:36:00 GMT"
+          "title": "João Fonseca estreia contra Thiago Monteiro na chave de simples do Rio Open - ge",
+          "publisher": "ge",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUEdxNHdkRXdybkRnSmplOGlqMHZnaUxHWFBHWXI2d3A1WmlXSUtuR2NYRTUtS3RlZVRIRkxYRTQ1a1dnbkRQSEhmTWpfZ2pYVWFicVBqWW5TTzZmOXF2WVRfQXlXYklCeGs1LUVXYWJ3TUVobER3UnhhUlVRa3VjN0FQNW02RFYyUmN4cmNJRDhFbTJTeWhGc0doNHhibFNHcjZkQ3J0Qms3VHNQZ240Z19TZ2xCalpkNWlmVXhLdTVreDUxTnfSAdQBQVVfeXFMTTZDdjMzb04xYl9Zd1hScUN3QnhjYk1LVmNZM0wzYWpFS1pfNlg1Z1FYQWI3T19rdWNRbF9oUl9OMVc4ZU1sejQybXpmQi1FbU1uYzluTkZjdER1VFRzdjBJYzFPa2Q3dWYzV3JSNkh2YmJ1UFVyMk9pWlkzU2F3eVJsOFBFU1o5NmFRVVJPTjlBNTFpaXo4VDJ1SnN1SGZyd2hZRGxPaXBKT3ZyVXBlSWVhbE9abGRQMzVTa0p0R3hxVWlfb2pEeFB3RmgyY3ktZTFtYVU?oc=5",
+          "published": "Mon, 16 Feb 2026 00:01:55 GMT"
         },
         {
-          "title": "Onde vai passar Palmeiras x Guarani pelo Paulista? Como assistir ao vivo - UOL",
+          "title": "Palmeiras x Guarani: árbitro justifica em súmula expulsões dos técnicos - Gazeta Esportiva",
+          "publisher": "Gazeta Esportiva",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWhpaHk4NktBMmYxY0FmNmZvRUxJTVBzRFhwQnJZTm4wRUFrTFN2WDZ4VHFTc2x4ZnAzczJLcWhXeElReVZjSmdoU05OeWw0Z3d5X3AxVG1PZWZCVUxmQ1lIQVlPQ0JaR0xoTUlmS0FZUGZVYjUxNmdPMzMzV0xDZEdvMWIwdjhZRGhkQXVsYVctY2ZYRjZvTjhvMWxDeV82blNVd0tGeGpkaFpLbTVBRTVQcDRfUGJ1dzlN0gHAAUFVX3lxTFB4dGZaU2tBNENrU25LZmZLTFpYdDJRQVFzbU5BaDhYQnZSZnFPVEhmbmhhRkd2aWdZcmdkQy1kMEhVUko0RDVmR1QxWkhsZ2hCTzRicXVqM1gydkRpelk3aU1OY2ZkSkRlRHdnVi05YjFmODItNEpmUURmMFk2VHVvQWVyV2g0ZWJ3WVdkUjhNNFJCTnptSUx6SUZMR2ZaSnk4TFZzTFpCcUh2T1ZpbzRBWWJuak1abHBWOFVGcWMzZw?oc=5",
+          "published": "Mon, 16 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Lucas Pinheiro Braathen cai no slalom e fica fora da disputa por medalha - CNN Brasil",
+          "publisher": "CNN Brasil",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY1g2czY2c1VtUmUydkNGblg0a3lDN3prZ3R1VXdOeXJtRU5DcVdJbUNER2dFejBmQlZqWmtRcjFFWDI0Q0ljeXR1RXd3R1haekJOckVrZllqV1lDZzhiX0Z6WmQ4WV92azcyVG5Ub195ZTBWMlRERzVfeXlFWDRna2hBQm84Y2lEWmhlV1N2WFBwU2hzYkhVRjExajcxdkNEdEgxTzIzbGd1bGVKTkRuRjFZSnUtbkh2YnYxNVd3dw?oc=5",
+          "published": "Mon, 16 Feb 2026 10:08:20 GMT"
+        },
+        {
+          "title": "Transmissão ao vivo de Fluminense x Bangu pelo Carioca: veja onde assistir - UOL",
           "publisher": "UOL",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNekxKbjM5bGcteGZwOFYxNDcwd212OGQ0T09fdDkwVGh1VmplOUFMZTdNZjRFcUFuNjN2cEJuNV9pVnFBU3N1MXZoMHI2aEM3ZGRRc0dpNHBaZHhnbmt5LWtzY1BEc1Nhb2ZfVTlPdkpnalg0ejNWU1JzZjdpdWVMOWlQLXBaY0xjYTdtTUM1azZIUnltN2lISVU0REVya0JTUUNDQnVrQUt6NllhZUVtNjZ1Y0FWcHVhOFZTVUNNMU4tV3NVV2ZwcWZLakVGeHc?oc=5",
-          "published": "Sun, 15 Feb 2026 20:30:00 GMT"
-        },
-        {
-          "title": "Ex-Flamengo e Corinthians é anunciado por bicampeão da Champions League - LANCE!",
-          "publisher": "LANCE!",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOVpyemEtLXFXSjh6cWE0ZDZDdmt3dmxkYkQ1SzRiQ2JGSFZVX3Z5bC1od1Vjd1hKSkNTdHZaRkRDMEhMbkFDNnQ1QVZBeGp4Z291WTA4VzR0WTZiWGlkSzRxVWNHSjc0NWpDSmtSS2hQc0pzU1FGUUcxdi1HS1IzYkYtZ01rak5XRTRFeVpKUVlBTmplSzNBOWM2SGNBaDZwdWpLS2ZwMTgzNVFZQzdMTV9GakZwNTl2WHREdjFwX2k?oc=5",
-          "published": "Sun, 15 Feb 2026 16:08:15 GMT"
-        },
-        {
-          "title": "Paulistão: o que está em jogo na última rodada do torneio antes do mata-mata - R7 Esportes",
-          "publisher": "R7 Esportes",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTkIwY1V3V2VnT2dpYkNuRVMtdzNkYzV2MjhueDlQMHZPN190Y2Ywd2N0RUZkV1g0M1BZMWNQNi1XdmpfTlZwMmhsV1ZyQXBJajR2WUQ1ZF83Q0FjTlkxUzIteDR6YlZxUEFRQjhaakEwQ3NmZGpQenA5VGpMWlJNSnVXWGMyQURqUlRfUFdjTzRDVG50TW9HZHJNZnJvV3ZMeHF2RGc2enY0dTRuZFJnQVkybFkxR3dM?oc=5",
-          "published": "Sun, 15 Feb 2026 05:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdE1QWUk3UTRYcW5SYnhzNkY0Tmg2NUVWVENQSTZjM0hjd3pDWjlhSHlkd0E4czN3OF9vcXB4ZXA3NnZFbWE1V2hJLUdRQnppSTRyeUNLMnNJSUVhcTNLV0k2TV9WeXoyUGhfczJOMTY1clVvODdQemYyeHlnNnk5WENWNEpUbXB6TGlYVklleFl6MnlnWTVIbHNoYjdfa0JzWjU5M2V6R2NKQkZXclJaT0RYS1QwZlBMdS1seF80R1B5YTN2R0tBdnVoN1J3aUpkV0E?oc=5",
+          "published": "Mon, 16 Feb 2026 19:30:00 GMT"
         }
       ]
     },
@@ -153,10 +135,10 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Como funciona o radar com IA que aplicou 20 mil multas em 5 meses no Brasil - Autoesporte",
-          "publisher": "Autoesporte",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSkIwUkljRHBCSmpabXRidThZS3pHaUhIdkV0VGh2V3F0dEpJSWVxbjRTVUp4WkhkR0l4QzJseDZVbWZ2R0lRak5aSzhMQlZhTjdIcWFjTFNIbjg2ZllHU3ZVV0ViZ2wzOTVvSkF5dHpCbjlJdThWOTZ0YlVmbjNtS01BQ2VtdmpkM3l2OEMxelE0UTctX1pVdGNSWWsxUGI2OEx0b25IaTNfQnfSAboBQVVfeXFMTm1lSFJBTlRPYWMzaFVFcldVMFpyNC1pOUpZa1NiMkNKbnJQMFF3dFNkZzRwNkwyY3ZTaTVRbmxTTU9feloxR3liTDg1OUg5alNJaXU5VUp4Vy13c2RZQnlaeFNmMS1SVDJ3Snl1RWppdWNNaDFpN3BpVWZjb0p4ek5udjlCdWpod3NJOHA1NURHMjlRYnhNZS1iUjY3bGxFeTZDUFRvck9RcDhSNm1GX0diOFdVYXcyMmhB?oc=5",
-          "published": "Sat, 14 Feb 2026 10:00:58 GMT"
+          "title": "Aeroporto de Guarulhos é fechado duas vezes na tarde deste domingo de carnaval devido à presença de drones - AEROIN",
+          "publisher": "AEROIN",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDQybHJHU2VnRDRaNHVGbE9SVFZuOUd5cGdjemUyaG1PZGJ4eGRUSFRwTmpLbEkzeHVzTkE1YkF6TWJCSERfWG80bE9ZX0VrRWZXempYaWdvY2xvRXRZNWFwRDlqT21ZeEJjYU1seG9meTI2a2ZjOWN4LXQzdUk2dGtTVkNpSjdoT3VjY3phVXJiSzdkUDJRNmVfSWdDdmpRem5SNEZjVzNSMUUzTEt2cXJpSEg0VjNmRDdsTmlqaEdadW8w0gHEAUFVX3lxTFBwNDJsckdTZWdENFo0dUZsT1JUVm45R3lwZ2N6ZTJobU9kYnh4ZFRIVHBOaktsSTN4dXNOQTViQXpNYkJIRF9YbzRsT1lfRWtFZld6alhpZ29jbG9FdFk1YXBEOWpPbVl4QmNhTWx4b2Z5MjZrZmM5Y3gtdDN1STZ0a1NWQ2lKN2hPdWNjemFVcmJLN2RQMlE2ZV9JZ0N2alF6blI0RmNXM1IxRTNMS3ZxcmlISDRWM2ZEN2xOaWpoR1p1bzA?oc=5",
+          "published": "Sun, 15 Feb 2026 19:57:22 GMT"
         },
         {
           "title": "Apagão global é previsto para 17/02 e fenômeno de fogo deve surgir no céu - TNH1",
@@ -165,22 +147,22 @@
           "published": "Sat, 14 Feb 2026 10:15:00 GMT"
         },
         {
-          "title": "Diogo Cortiz: O que a IA acha do texto de Natalia Beauty feito por IA? - UOL",
-          "publisher": "UOL",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTWZDZVNtTHhhQkMwc3RrQTQ3V2YyM2cxNTBhYWNvc0J0NXpvRjNiTmFKakp5b3lYZm1xdkgzbktJNVhEWHY2cUdwSW5SNXFVT0NUNFZSWUNrTUluMkdKT2psOENpbWoya09HdGxDWHdzVWpSWmpidjhTc1FIZUVYejRSTGNCRWJoVFFiUmNqX3NEamp3MjlCSldVbHp0R2FIb3RKYk00bmhDTU9UbkFVd1o3VExCS0hoTU5F?oc=5",
-          "published": "Sat, 14 Feb 2026 13:30:00 GMT"
+          "title": "Enquanto o Véio da Havan terá 188 lojas no fim de 2026, Elon Musk é dono de 3 empresas bilionárias - Diário da Região",
+          "publisher": "Diário da Região",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSEJiUlVJbzA2YTRDRVhScnE0alBGTU55c09lbkNHZHF0NGdpaUMyaXdBY0lLNmllM1lMSXlpMGdHZlhRSGFWSXRyNDNWUFhCQ0VxUmZmaEZXX2RDVGd3RkV3SW8yaUVZeERaZklGdzNIUWhuQ2hnQ3A3dEZaT3BaWTVlMTJpSDBwXzRMekZUd3ItQlp0WmVHOHhNdTJRVktoWk1aZ2dSWGcxc3BoQldVQzktS3FINHpsZmwzR0dzQzI5RzBNajMyTE9XWmQxSDVscE5ibklB?oc=5",
+          "published": "Sun, 15 Feb 2026 11:30:00 GMT"
         },
         {
-          "title": "Juíza manda petista se retratar a Bolsonaro por montagem feita com IA - Metrópoles",
-          "publisher": "Metrópoles",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDdmeWFTZVBiQ2gtcC1JQ0EyWjJsN2lmS05SWDlDN2EtZ3BWWTREa1ZlMFRwckZ4a2ZPOFRNNk9jb2RCaUtybUljNlFFWXJ1OU5DR1NsVmdzX3pfT1JmeHFKZ1A2TmtwVTRBVjBIRVByc0dBUVZMUThmb1B3N2dSMjV3ZTVVM0p0ZlNzWU44dUZiV0hMQmoxRUJWOUpQaS00b2Myc2FobV80czR4eDhDYVFscFp4a0N4eGhv?oc=5",
-          "published": "Sat, 14 Feb 2026 14:33:00 GMT"
+          "title": "Elon Musk lança casa da Tesla no Brasil por menos de $ 10 mil com 6 painéis solares, bateria Powerwall, geração de 140% da própria energia e reutilização de 98,5% da água - CPG Click Petróleo e Gás",
+          "publisher": "CPG Click Petróleo e Gás",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOQ2tla1BueE9uenVlSzIyOFRhNlF3Y3FQSDY1QTJYMDhQTWpkQjVpcGExS3VqWjZiS1BtYnJNZmxxWmNsRTNvUWs4bENhb3ZjNUQ4b2FJRjA5VV9yNmdXTTdrWFdEdE1kb19tQlIxMFRKdGRkS1pjaXBUY0IyMXczOTF5RHJoWGVDQTM0Zy1wVUx6b2tjcE9tUWtHbmRjUmVydnBHYl9fSXhCQl9XMk9fdkFHVkpCWDY5NzhkdlB6N3had0ZxV2Z2eGZYemFraldoZmJleGhXbk8yNFBTTDVlWkVKRE5rTEVwSk52NWtmYkNXd1JSem5zaVlwTUFuTm1OQVZwYVhHanNEemNCX1NlVGdIOWNhN1dCWV9DMkxueUdmTWVjNWJIc3hrT2tWdDlRU2RRTlJncFFvWkVxZlNaYzN6aWQ?oc=5",
+          "published": "Sun, 15 Feb 2026 16:21:00 GMT"
         },
         {
-          "title": "Steam recebe 4 jogos grátis nesta semana! Veja lista e resgate (13) - TecMundo",
-          "publisher": "TecMundo",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdVluNDJCRjIwTUU5RzV4WHBkZ2Jac2plSktJYTZmdVNnR3drNF93QXl2R3J3d09BcVVRbFFDanlyQnlBZVRYQ1dhOVNDd21HcGZnYldtUENLODR5aFVVdmlIQVJLNlZJdUN6LXpBNzAzWlU5MjQxek9ZMEt4OTVmNHpmTFZ3bGpLSWNuakZjQklseG5DTE1SemRUcGU0UE01aW9mT0ZxcHk1TF9UcXc?oc=5",
-          "published": "Fri, 13 Feb 2026 23:10:00 GMT"
+          "title": "Como funciona o radar com IA que aplicou 20 mil multas em 5 meses no Brasil - Autoesporte",
+          "publisher": "Autoesporte",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSkIwUkljRHBCSmpabXRidThZS3pHaUhIdkV0VGh2V3F0dEpJSWVxbjRTVUp4WkhkR0l4QzJseDZVbWZ2R0lRak5aSzhMQlZhTjdIcWFjTFNIbjg2ZllHU3ZVV0ViZ2wzOTVvSkF5dHpCbjlJdThWOTZ0YlVmbjNtS01BQ2VtdmpkM3l2OEMxelE0UTctX1pVdGNSWWsxUGI2OEx0b25IaTNfQnfSAboBQVVfeXFMTm1lSFJBTlRPYWMzaFVFcldVMFpyNC1pOUpZa1NiMkNKbnJQMFF3dFNkZzRwNkwyY3ZTaTVRbmxTTU9feloxR3liTDg1OUg5alNJaXU5VUp4Vy13c2RZQnlaeFNmMS1SVDJ3Snl1RWppdWNNaDFpN3BpVWZjb0p4ek5udjlCdWpod3NJOHA1NURHMjlRYnhNZS1iUjY3bGxFeTZDUFRvck9RcDhSNm1GX0diOFdVYXcyMmhB?oc=5",
+          "published": "Sat, 14 Feb 2026 10:00:58 GMT"
         }
       ]
     },
@@ -189,34 +171,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Israel to face Ireland in UEFA Nations League soccer matches - JNS.org",
-          "publisher": "JNS.org",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd1Jqd2h2dU54VUZuN1FSREU2YVd0Q0p3cExxVWdKTllCZzdxa2Z4M25hcVZITDkzUHBTTWZnbmhRc3dsQWl1TC12WlVrS1MxUS1lb3NsNE5LaU0ta3V6Nm1COHAzSkd3VEZUYWd2bE40XzlTVE1DV2FfQnlsYXAwaXloQS04Qk45?oc=5",
-          "published": "Sun, 15 Feb 2026 11:42:11 GMT"
+          "title": "Real Madrid, Man Utd and a World Cup: Football’s wild coaching landscape and hiring dilemmas - The Athletic - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlYySGh5bjVIa0tiUndsZzNqMlhBQlIwNXpvNmRmZFhOQkhjeEJKal9nV0hEUFUtRUx4emtSR2R2Z3NKUllBdGdxOGY1RW10YzE2S19waGhJMUdxNGRGZllWQzVkWG0wMVIyd2R5VHNBaVdCZzQ2cDJBQUIzaUFfc3RvUG5WT21HMXFRbDhIWjBnZ3ZHRlNQUDVNRXhxYUU?oc=5",
+          "published": "Mon, 16 Feb 2026 05:15:15 GMT"
         },
         {
-          "title": "Premier League - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yZEp3ZEgyNXFkVnVuN09RUjF4SFJGOXI4N3ZPcGYxVGl6RTVDWHlzTlowVzdQaHFoV0hRaHQwdENMdlZ6bFdrNDN2WnhObEpGTUh2TjNYaXdMYlVxUXM0?oc=5",
-          "published": "Sun, 15 Feb 2026 18:57:26 GMT"
-        },
-        {
-          "title": "'Football Is Freedom': Bob Marley Inspires Jamaica's Kits Ahead of World Cup - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmhfVUZlUUEwb2c3Y3Z4NDlUbG5lZkhaVklWTDZ1b1VsRUI3OW9HSDVVUDZEN0VkYkZQY2w0WklkZUZFMEZZcGl0dmZKRklhSzVyUUgtN3FjUS05OVJQYndHT1pvS3BiTzhvZUg4T1pvVlkxbHRiMDVVU25IY09jMUprbEFxYVktaXdoYTJEaVd0cjR3YkQxY1NUNERuVWQyaWJ3ejJRc04xWUlKc3RvR9IBsAFBVV95cUxQdlBEOGJHWk1BeVRKMHhQLTRRSkZOSEcydXZCMjktdzhuSXNCV0l4WnJ0aDhzZzh4Q3JLemp3ZmJRRUNDanE2UkdCQ2NpRDQwVHdfb05QeU5iNVJISVVFa1ZhbVNtaTBFNjdfdFpzWTBlbVliWnRuYUc3cnlBYkYtb0JsRldJUXZlMFJOem1rNEMwenVTZVZIbHpsdjhpZWExS0o3eEowOVowM0w0YU9mdw?oc=5",
-          "published": "Fri, 13 Feb 2026 20:54:20 GMT"
-        },
-        {
-          "title": "Goldstar Air to host Ghanaian soccer fans, supporters unions from West Africa and beyond in Philadelphia City for 2026 FIFA World Cup - Modern Ghana",
-          "publisher": "Modern Ghana",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFFfSFZJN0QzcDkyVmRRdmpGOFZ2aXQ3TDNZdkNTZkx5ZG5rY010cDI1QVdTeXNVQ1d2R2JydV9CbklWeDcxUm5XSGROT05wTzJDVFlaWWlQeDlCdGg1RjBpNzNGcFZEbUtiMGhtazdGXzVOSlJ1ak5FME92aGt4b2UyZlprV0FyVTlfTm1wc01PZWN2OXpmcjFxNNIBmgFBVV95cUxOSng5LU9RYnpCWFVvdlRCVzZHNS1LT0J4SFAzZzNadEFxeFMxaVRIUlA3YlRfbGNfQjlxWXNFOEtTVU1ZcVgzeWxORVpldE55QW5GMnR2aXlDa1VxaUsteno3aWVxaUhLaUZoSVNKcndyRmVHdURRczBCaVUxX0xmSXpBWmNBbTNsLWVkRkIwRF9MWVRnOEtQVXBB?oc=5",
-          "published": "Sun, 15 Feb 2026 19:05:00 GMT"
+          "title": "How Kansas City went from soccer ‘hick town’ to coveted 2026 FIFA World Cup site - Kansas City Star",
+          "publisher": "Kansas City Star",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGVieFVBRzB0Rzc4T3ZqOFR2cjZDdkRkYVdsLTh5dDlORHhqVEFxYUZYRmpSc2gxeGZvY3ZwcmJKcWEyMDlhZGtyS29TS183QTdQSVpJcllaNUlVdnM2OHBuTWMzOXd5V1dMTmxmLVpLeWVLNm84OFZVYjJmMDN6NFEwdXZJa1BnektWajZScXZDUdIBkgFBVV95cUxQNHl2RGFnX0ZMVW1BUFFnZnRLZFpoQkxSa1lXMjMtN0g3bmZhS0NrZjdydXJrWEhyWXQtZFJaMldpaGhzY19COFF1SWlVWWJHdnE5TWZzbVdrNEpuN0NGV2ZyQVZXbmdWUW15Yk9XWGlfQmE4VFVRcFJkZXU0ZTBQdDBfczBaZkNjM3BBaWNRVzd5QQ?oc=5",
+          "published": "Sun, 15 Feb 2026 12:00:00 GMT"
         },
         {
           "title": "World Cup - Britannica",
           "publisher": "Britannica",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lSXpoQ1dpZXJOZ0haOF8tcElFV0E0bDlCVHJORHc3NFNCSDRzejEtNFN5VHU3NWo1QXZHeVZwampxYm14Z3JkYzVUZW5YY2N3M21hbmgtd21jZzlyOGFYU1Vn?oc=5",
           "published": "Fri, 13 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Israel to face Ireland in UEFA Nations League soccer matches - JNS.org",
+          "publisher": "JNS.org",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd1Jqd2h2dU54VUZuN1FSREU2YVd0Q0p3cExxVWdKTllCZzdxa2Z4M25hcVZITDkzUHBTTWZnbmhRc3dsQWl1TC12WlVrS1MxUS1lb3NsNE5LaU0ta3V6Nm1COHAzSkd3VEZUYWd2bE40XzlTVE1DV2FfQnlsYXAwaXloQS04Qk45?oc=5",
+          "published": "Sun, 15 Feb 2026 11:42:11 GMT"
+        },
+        {
+          "title": "Real Madrid Returns To Benfica For Champions League Revenge Mission - NDTV Sports",
+          "publisher": "NDTV Sports",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVByRThEVFBUeWpEMENzWGRwYWJaczJndEJWbkJIOV81SDVGRHViQWJOZGhqdzVQWVdJWW45Wk9mcU9yNnA0TkRlbTV1cUkzSkNYRm5yT1h4MjlWa3l0YlJKTkxaVVBOT2c0ZXg2TTJ6NDRkdGhZNktEaFdLcnlkaWNTTDVhNnVqYVIzUzdTTXpuX1U1anNVUWxTOWVFNXkzeTRENWdJdXFIbjVlREE?oc=5",
+          "published": "Mon, 16 Feb 2026 16:44:37 GMT"
         }
       ]
     },
@@ -225,34 +207,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Box Office: ‘Wuthering Heights’ Still Predicting $80M Global Bow But ‘GOAT’ Poses Surprise Threat in U.S. - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV25SRFpvSFo0XzFpWk9DTlRqcXRDTU1VMmJzWFh3a1hXZzJJZVFPS3RHTjJLWW1VUi1aenhtd1EySThuOEV2cndGZ3llTmlVTUUtZ0h3SmZyZHp1S2RocU5peTE2WVh3dUxzZW1tNE1wVURjcWR6RkhZZnk2aHBZcFU4eHg5T2tnOFdkbXBKVld5bXNjUDh5eTlpRnZYZw?oc=5",
-          "published": "Sun, 15 Feb 2026 19:21:13 GMT"
+          "title": "Actor Robert Duvall, who starred in The Godfather, dies aged 95 - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBQlI0ZTRzdEpWdkpteUctMG1LcGE3TmVBN2lmTGd6N3o4R0VNMTRXZXdZcXBoVkd2LU14UVhLcVlkZ1dXNEMtZ1hkbDNGeF9kRnRUc0FKUFFXZ9IBX0FVX3lxTE1GcjYxUHM5RlhvMHowVWF6d1N0NGxmbVEtWm91dDNRTlZUR0FoZnp0Zjg0Yk5vMGpNNFVuUzFqam5CRkhSV1ZtcW5tU0dxZWRXa0lJbGlfVU9rUVh1eU1r?oc=5",
+          "published": "Mon, 16 Feb 2026 18:17:06 GMT"
         },
         {
-          "title": "Independent Spirit Awards celebrate indie movies and TV in Los Angeles - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUkp5WjY2YmVMQUlaMFM3YzdBRWFtTldtZjZEeEJxa29rYnZoYl9IUHpDR3JTakdQd2NSaFFMWHJDelJDLS1fM3hEdDBpTDhkLUlXZm1PaDJMTEE3al92eUJpMVZIYnp2Q256Z2MzS2hNaHZfUEVZczB5RS1hN1BvdjBwYlI2NHZMbERMV2xlUU9JRTRS?oc=5",
-          "published": "Sun, 15 Feb 2026 05:01:00 GMT"
+          "title": "James Van Der Beek Rep Speaks to Texas Ranch Down Payment Amid GoFundMe Fundraiser - Just Jared",
+          "publisher": "Just Jared",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejhVa3FPeFhFTng3NmxxcGl3eHdndmNvOUxZOWVUOVU5WVNXSEhjM3lyeWhpcTdqMDJiNm8wdVlzUkVpWjNQMjBucHY2Q2FBQ2lLaFlSY21UcmRINTE1ZGVZbjVhQnJMVV9lOFZoM0ctUUxKT3BsWXhhWFBkRzlIUTd2bzhzV1pCclJKU1VsdWc3VjdmT01QN0hiN2RpVTliVFBkNl9KMkN1bk9FXzFtWlZPcWdtSGZESzlHRQ?oc=5",
+          "published": "Mon, 16 Feb 2026 16:50:33 GMT"
         },
         {
-          "title": "Why the Sidelining of Politics in Berlin Is Causing a Stir: ‘If an Artist Is Afraid to Speak Up’ About ‘Fascism, They Shouldn’t Be Coming’ - Variety",
+          "title": "'Wuthering Heights' Box Office Beats Expectations With $83 Million Globally - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVdEUTc0QW5qOWxuTy1XTTdfcFM4TThrWjJUWWdCRU4tcVdkUUFaZDh6Q1BtMWJsU2RBRDgzN3pvRWhNcjRHMnpFLVZHdk9MblBMSjRqVGphaEc1enBjeXBsNmVlOW1UTF9QTWQ2THZOOWRERlNYU2t4bWhVU2ZEZ1ZQTlN4ODFxVERnQXhXZHZxSkxITV9CdUVya2pBUnlJcnkxaXk3bUY1MGs?oc=5",
-          "published": "Sun, 15 Feb 2026 18:34:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRWlib2t0WElrZkZld0dCcFV4bXhTNm0zdjUwMlNPZHFKZGQ2cTlFcmR3eTdMM1BDSjJNck1Wb25XNzE2MEFSdVJ3dVhTQlNlVnlDX3NWTnBlbC1ISnFqaUFxdXFvN1pDSjNPNTU5ZmRKanRDY1EtSDhLdkYwMHoxV2dBSTNJOFNEV3dMcURUVVlkUnhMbTNrMGk4YnhkN0hwQ0VHTGctSk42OVNiVC1WZkVtYTRXQ3JPTmIwUHJpUUpTb01rSXVDdVV3?oc=5",
+          "published": "Mon, 16 Feb 2026 16:18:00 GMT"
         },
         {
-          "title": "Heated Rivalry’s Hudson Williams Hard Launches Girlfriend on Valentine’s Day - Vulture",
-          "publisher": "Vulture",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOakRnU0w1RkJHdmNYZHFGZTdBYUxjTktHUkFoUmFmdXQzYzhnUGozWWFnb3BLRno2eHcxQVg4ZlNRcmUxQzU1cU1pS2VNaURLTDBoT2JHQk42WHEzbFJLR2VHdjhwR3gydlhnQ3pUNFdSaUVFV09tZ3lEZlpjZDdXeHhOMWo?oc=5",
-          "published": "Sun, 15 Feb 2026 19:14:02 GMT"
+          "title": "Netflix’s ‘Reality Check: Inside America’s Next Top Model’: The 7 Most Shocking Revelations - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGtZSGZNSzZ6TUxuOFo5TW56bVY0NUtiUGRsZWNJREE4eGliSFlyRGNsQjJZVHRVSmNFZHptZG1PTl9QLVg5UmdsTGl4aFlOVVRObU93TFp5ZmlmOTJOdDQ1NF83LXg0UWlzcEo1YXlFcFdwQ2NiNWt4cE5rRndMMU1vUUFpMDhwZGh6bFlmREdMRXFCbVZDd2c1N05fTHVtdkE?oc=5",
+          "published": "Mon, 16 Feb 2026 16:09:06 GMT"
         },
         {
-          "title": "Meghan Markle Shares an Ultra Rare Glimpse of Lilibet's Face and Long Red Hair in a Sweet Valentine's Day Photo - instyle.com",
-          "publisher": "instyle.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGEtd2pKWXRmNWg0TjZ6UG55b2hCZWk1QWN6YkJCS09uNTVBU0w0anY4SFVUZXVSMkFQUll6ZUVSMXJVeW9GNUtKRC1KaXdzMFB6dzdqay1jMUNaY1didTZNMklSTFJRVDEzMVdZYlR1Z1J5UDFkWkRLbGRJV1VrZUgyQl9MSWFJak4xUzhTRkNPdw?oc=5",
-          "published": "Sun, 15 Feb 2026 14:37:08 GMT"
+          "title": "“America's Next Top Model” Runway Coach Miss J Alexander Reveals He Had a Stroke That Left Him Unable to Walk - Yahoo News Canada",
+          "publisher": "Yahoo News Canada",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5seC1WdEcwN3ZXa09VUmlESlV3bkpwTGJqb09zUThhZEtucUo0N0h2NVRRTkZ6eUdKUE1pNTEzcU1aY19UU2FxakZWYzFJTk9XV3dHckV4WnhwdEFlNHpSWW43LWdibk40d0VEWGxhZjBXOTNIR0Z1amNJVQ?oc=5",
+          "published": "Mon, 16 Feb 2026 08:02:00 GMT"
         }
       ]
     }
