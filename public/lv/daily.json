@@ -1,7 +1,7 @@
 {
   "market": "LV",
-  "generatedAt": "2026-02-16T23:02:27.913148Z",
-  "validForDate": "2026-02-16",
+  "generatedAt": "2026-02-17T23:02:54.515232Z",
+  "validForDate": "2026-02-17",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Ekstrēms sals: Kur Latvijā gaidāms līdz -30 grādiem? - NRA.lv",
+          "title": "Krauze: Valdības palīdzību saņēmusī kokrūpniecības nozare ir Finanšu ministrijas pārziņā - liepajniekiem.lv",
+          "publisher": "liepajniekiem.lv",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNclphdEVtdWhZOUVFU1dIYkpqb21qUlhZUzVNM2l4X21McmdMdzJnOXoyWTZDdEowMTE1NjR0blRtcFlSMDNoajVKNzQxeFRINVl2UGNvbmhDTTZwanVSdFdTNXRxMTZVM19MTHI4Vnd3RUloREtQNHRPOThOTVhNWTNPaVp5SE1vT0xEcmh0clB2ZzJZZy1sSG1VZERlblJ1aUhfUUMzVjFjQkZPcldYUnV5M0NSall5N0M3OERWWlp3T0pFaDg4eExZT3RzdWV4UXJrVnJRQ1Nkdw?oc=5",
+          "published": "Tue, 17 Feb 2026 17:03:24 GMT"
+        },
+        {
+          "title": "Aizsardzības ministrija piešķir 10 miljonus eiro Ukrainas atbalstam - tv3.lv",
+          "publisher": "tv3.lv",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOejNfclZwQVgyWUhRUVFfR2pZZ050eWk1SFF3eWsweHZmT3RYRml6VDZpbDNER0pjVnBRRGh2QUl0U3FWTWRFNVJpaTBWa0tobXc5cXBtblpOX3g3a3ZWYTkzRkhudkJDR095aUZDOGZ2OERqdmlRTkxZVG5jMWhRUy05aDdiYU1fYjhyTGpJWVFieGZPd3pUVi1MVEstZw?oc=5",
+          "published": "Tue, 17 Feb 2026 12:59:26 GMT"
+        },
+        {
+          "title": "Valsts kontrole: Publisko iepirkumu reformai jāvirzās uz priekšu - BauskasDzive.lv",
+          "publisher": "BauskasDzive.lv",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEdNMnNURExtWEo2eXN3akwxNGd2bVpuVVlFUlh0TTNJREMzR3RvVkJDOVVIeTN4RUszaHBQZG9lc1hvTGZSdmpoM3ljSEFQeUZxZTVEc0FKeHprazg4a2pXbXVDVExEZnJlbzZkVER0b2J5R0hMQmtaN3gtOXN1ZE9XZGx5bm52QTAtQl9zNWxhSWI2UXp4czJudnY3T3VLOVlGek05OFFCQlE?oc=5",
+          "published": "Tue, 17 Feb 2026 18:30:56 GMT"
+        },
+        {
+          "title": "Jēkabpils novada budžets pieņemts, noraidot priekšlikumu iesaldēt deputātu algas - Jēkabpils Laiks",
+          "publisher": "Jēkabpils Laiks",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUtKUUxPZVk1eDVfelM4bDNqMFFYMHk3bG1ud2ZVeThSOVBMV1J0YmJIdTlvNXJzRUdjUWhlOFRIXzI2dHJMSjNLeXBDb3VEa0R5ZnM4R3ZYWHVOdHZleEcxM3phY3NXaG5jT1dQeVkyY0VPSEZ4dFBrX3IzWmZkV3BGN3BBY0JtZGN6TF9qMi1TWHRNaGgwbkppbXk3ODY3Sm9uLWhHbG1CQjJLRzhFM0pqLTMxbHBvc29J?oc=5",
+          "published": "Tue, 17 Feb 2026 20:53:46 GMT"
+        },
+        {
+          "title": "Lietuvai zināms datums, kad sāks kursēt “Rail Baltica” vilcieni, bet latvieši esot “nožēlojamas bremzes” - NRA.lv",
           "publisher": "NRA.lv",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NS0lLRXBZY00yQVZGSXJWaGQ4ZDZaa1pjc1ZxMWhYdko0bzRMVlplal96QXJCQWQwOHFRT19MYXIwNTJDV1dNaFoxRE5Ea1QzZ1ZQaFFtVGQtZjdqZldIRE1nOExqMFFXaVBZUkN2M212Zw?oc=5",
-          "published": "Mon, 16 Feb 2026 15:00:00 GMT"
-        },
-        {
-          "title": "Pieņemts Talsu novada 2026. gada budžets - talsunovads.lv",
-          "publisher": "talsunovads.lv",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcEJDbzdWLWt2NjFkZkVvajVxckV1cWRVc1FubmU5Nm5selFyRXJyZG9YdS1xcmI0OGd0bWtfQTl2SGk5cVc1MzI3Zk1heUNSWmFyY2x1YUJhN3pGSmNvOWxzemZpa2NSOUdJdFZncjhqQ3dJRmplTUFDQXhfMWQ5WkptQQ?oc=5",
-          "published": "Mon, 16 Feb 2026 21:00:08 GMT"
-        },
-        {
-          "title": "VIDEO ⟩ Deviņu auto avārija pie Ķekavas: glābšanas darbi bija īpaši sarežģīti - TVNET",
-          "publisher": "TVNET",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ3kzWmIzcE0tUUVKV3R3cWlrc2FEV3R4S3YtenVYVFo4ZU94bjA4X1JXUzlINl9DeXNZalVNaG05cldQRFZ6TGktcGZMdHVtT0Z3Nnl2M1MxbVExSFlZNy1ZVWVXSnhlaUZPTDJWOTJCY3FoaVZuNTh4cUNOT05PYmRlUmk5bWNGVkY1T1hUcWFmZFhxbnRfYkZxdjJOX0ZPYm1tcEp3?oc=5",
-          "published": "Mon, 16 Feb 2026 18:54:59 GMT"
-        },
-        {
-          "title": "Daugavpils apkārtnē un vietām Kurzemē, Vidzemē autoceļi sniegoti un apledo - ReKurZeme.lv",
-          "publisher": "ReKurZeme.lv",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSU1oajdNN2VzdUh6NlpyY0hVZDRUZzZBbXFQcUFpbDJhMmdoVV92QWpxMHZoNlhGOVZ1NUFpaTExbHgwemFwZ1p5QkVKZklwM2lyRkY0bk5NQzF1VU5Laktrd0I2c0ZnaHFCT3Y1VVJLSHdueEZ6VndVajJEWEw5UWpmN1p5RE8wd2J5VkZsd3lxd0lKOEZ1YVBQTHVZd1lCcjJjU2R3bXdsTmpJaFNJ?oc=5",
-          "published": "Mon, 16 Feb 2026 06:28:06 GMT"
-        },
-        {
-          "title": "Valmierā notiks Vidzemes inovāciju nedēļas 2026 centrālais notikums: konference “Nākamais līmenis” - Alūksnes novads",
-          "publisher": "Alūksnes novads",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWDcwdFRhYlY3U2N2THpldHJlcmZGSEpqa0ZXenl1cURnT2JOU0N2dTlFVkgtZE5vNVU5ay1GajNZcEMzVmMyTldMZUtXbVozdGtYYjdmOFF2dHcxMk0tX2M4YXczSng0LWFzYmw3bDNZVDQyZVFXdDA5WXlSeTB3cHFlb0t4QnY2SlJqb1ZDNUs5TjAxWFlfUE1acGZNZUpYSm93SlpueGtZZVZJZXI3OEhhQTNSSTV6MnFIZWdzazNhX3NtLWlUbjcyaUM5RF9OV3c?oc=5",
-          "published": "Mon, 16 Feb 2026 16:44:04 GMT"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sNXFBeEFjcXRfVzhPbXBtNGZWSjFMRXVHcHN4ZEtJV1BvclFDc1NreGQ2LVIya2hGOFhWU3p6LWF0a3FVN2JyNk9BRFlUUDJ3UmVxbnQ3aWZIbEtyc3h0Wk4zUkE2Qzl1U1lhejBhaEVTdmdZQzhjLUF6RQ?oc=5",
+          "published": "Tue, 17 Feb 2026 18:35:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "ES piedalīsies Trampa Miera padomes sēdē kā novērotāja - NRA.lv",
-          "publisher": "NRA.lv",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVERweDg5dklJNG9lSVBLMDcxd3Nmb2s5ZTkteEo3dmdNb2JHVHg3YWZjSmJkM1o3RVhjTFNNVGYwQmlhdEt3dU9NY0RqZ2lDcXpDV2tWU3Y0bjVMTFlKdGc5ME9YcjQ2MjVGMnVJb3pURUJYaUJ3VnhVcTBVOTBXZA?oc=5",
-          "published": "Mon, 16 Feb 2026 19:45:00 GMT"
-        },
-        {
-          "title": "Kārlis Streips: Minhenes drošības konference ir pasākums ar bārdu - LA.LV",
-          "publisher": "LA.LV",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdU91dDJtWmhsb1hUcDREVHdjdzJJSHh5ZGg0dHhBZW1PN19tU2VMSi1GQV9MS2x6ZE51RzJINGJHZy1oWVN0ek92eWVoU1hwR29JOXhaREh5TS1kT3pCZjNBM2ItWGh6cEFSemRRM0xFRmtXaktfM2FPZlNTblZUQWRRWlJfQ3ZQbWc?oc=5",
-          "published": "Mon, 16 Feb 2026 12:45:47 GMT"
-        },
-        {
-          "title": "Krievija raidījusi uz Ukrainu sešas raķetes un 62 dronus - TVNET",
-          "publisher": "TVNET",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHJhcUJmQmRCeC0zb2dWQTZFQ0JGNTRuVDlCOUthV0NPVDdoNk1DRWpsVzM1T1lzS01IVU02VllwaHNqcDVjZXVpdks1dnNWMjNFYWZlR0JhMm5fTEhiWm8yUW9ReHJUY1dUQV8wTUpjbnZrS3NENEY5cjdLTXFHM0NZQmdsZUhIUTV1NW9B?oc=5",
-          "published": "Mon, 16 Feb 2026 09:06:58 GMT"
-        },
-        {
-          "title": "Līdzīgi domājošo valstu kopīgs paziņojums, pieminot otro gadadienu kopš Alekseja Navaļnija nāves 2024. gada 16. februārī - Ārlietu ministrija",
-          "publisher": "Ārlietu ministrija",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZUcxNks1OVJnSG45SmhwVXRkVWtIQ1ZwZHRCb0FjNWxwTmlOTEQzZDRLU05ZUW1tcC03d0JfQTdETkxaaUJxSjE2WlUtUjBVellrRnZIb283WkZBc2VURGxCZWFBS0JDbmhJbWFyQnRPdm1Rc25MZzFCMXpiRzZQMDJRSzNBaFhOT2xRXzJwQ0tfWlpPMjZ0dllhNVhmaHZuaXBZbHhzSjkzRlJpSXJCQkFXQkF4blpxVC12dW1kdlBPZVlqMFdkbjhDQkhDSDVnQVZHeFZqYkFmUUpOX1BqR1dqb28xQQ?oc=5",
-          "published": "Mon, 16 Feb 2026 13:27:28 GMT"
-        },
-        {
-          "title": "Braže aicina uzņēmējus aktīvi izmantot ES jauno tirdzniecības nolīgumu ar trešajām valstīm sniegtās iespējas - Apollo.lv",
+          "title": "Ženēvā noslēdzas Ukrainas, ASV un Krievijas sarunu pirmā diena - Apollo.lv",
           "publisher": "Apollo.lv",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR0QzZ1R4cjhwMTk4em8ybWR2NWY2SlpvR2lhckRIZmFkU1g3Y2ZTV2h4YjNTVGtMLTFHT1lkaEg2ZV9FZGpqSXlxVUhOME9iM0pRa0pxS2JxdUVwaVhCMDZ5T1lhV012S0tVaGNBSlVLdlRCQmMwRkZZRm5nemxqZ2hkUmw1NnF0bjk2NUJKOHNqVGR1RGwtY29GZ1B3RzRGVXBWeUczMndRNG90dkVuekM1MUp5ZE1iSms4cS04a2c4TGlENm9pbFFpa05JSkdJekZPNw?oc=5",
-          "published": "Mon, 16 Feb 2026 20:21:10 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGpXUFlEbVJLNXhFX09wNjBfR1IwR3dMc25KWXhMLVpfM253VnF1eEVlQ0JiVXA1UHJWbDhjUnZNTlBaQUpVSEFkc1hpcXZWZG5FY3hsTEwtMllodUpNY2pGTjFycDZodzhBMUhsd0hpMkFmN0ZvWDd2cjdjZGVrNUdFSkZsVzNlUVdZNFZOMW1EaFhwRHc?oc=5",
+          "published": "Tue, 17 Feb 2026 20:03:03 GMT"
+        },
+        {
+          "title": "ASV un Irānas sarunas Šveicē – bez progresa, bet ar iestrādēm vienošanās dokumentam / Raksts - LSM",
+          "publisher": "LSM",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQelhHUTNiZDNEbFFaN2xRRjVOWkMxbGFFdzZWeEZ6dUZMTlRUMUJGMURwelVmaDFTZko2ZzZRVkF6ZFN0dlcxTXFhMkhhc051bTBrVDJwNGNLRUo5YzVBb0QtaTFLdTFXVHEwWWhuZnFYNXhxc09OVnVPWmtGc1lWV21FcUlJVFoyT2hHR1FOaVV5T3V1NXgyQXpwZjZpNlRhWElkanFrek9zWXJaVzdBZHFHS2ItTVdrS2p4Zmt0N0ZrcTd2U0hTblFKd2s2aXA1S3cxODdoZw?oc=5",
+          "published": "Tue, 17 Feb 2026 14:48:53 GMT"
+        },
+        {
+          "title": "Rinkēvičs un Siliņa Minhenes drošības konferencē spriež par globālajiem izaicinājumiem - Lente.lv",
+          "publisher": "Lente.lv",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUWhBWGVEblRJSS1XZThmTXNYSk1iTE1CaENvaFJNcEhmNURnczFRbGpzcVBhbkYyanJNNVBTTG0taE5UQTZKdEJ5amZBMU9nWkg3Nnk4ZlMweE1aZnZNbU9Uajl0UDdUZDR6ZGVaaTAwclh1dlVCLW1zSndIbnlyQnYzWUJjV2U0N0l0eGRWLU9Xb3JtUkRMRWZzZVhfeWEzTXBJT2FZejNDR0UxcEV0ZVozcHdxT0dLWXBzMi1lRElqOUR0dzhVTzNB?oc=5",
+          "published": "Mon, 16 Feb 2026 22:06:38 GMT"
+        },
+        {
+          "title": "Baltija, ziemeļvalstis un Polija kļūst par Eiropas vairogu - Latvijas Radio 1",
+          "publisher": "Latvijas Radio 1",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSU53S2lEWFhhaXZHMXV3N2JvTFpkNTNWVGZCMVBjQTgzcGV0eWdlMm1hb3RLVGdWT3c1ZGhVZHZjLU10c18zQmEyYkdGZ2tnaW56WUszQTJ4VTVfX1R4VkU5d3dFc2pmYThDUUVOal8tdXJWQkQ2SFhGZEJtX0NhNjF6QTIxOWxNbjdNczhiazZNaTgxTEZGdjlJdWZFc2ZZSHM5Vg?oc=5",
+          "published": "Tue, 17 Feb 2026 08:08:50 GMT"
+        },
+        {
+          "title": "2026. gada 16. februāris uz valsts robežas un valsts iekšienē - Valsts robežsardze",
+          "publisher": "Valsts robežsardze",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2h6aTlFOHYyN2VudWdNVzVkNVJvdlRUZDJpNmlOSzVPaGtpMTVxNlNkX0sxWmotSXNCMFdwV2FadU9ZOExrQm9qRkdZb3cwNlNLakM1RExMQ1JacGxIclVIX1RocnRNcG9PZHBfVV9RNEU2UU9qWlNmMklzLXNSUzd3TFN2eTEwME5CdnQyanlqMURxSEgw?oc=5",
+          "published": "Tue, 17 Feb 2026 07:16:16 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Citadele izsniedz 1,6 miljardus eiro jaunos aizdevumos :: Dienas Bizness - Dienas Bizness",
+          "title": "UPB grupa sasniegusi vēsturiski lielāko apgrozījumu :: Dienas Bizness - Dienas Bizness",
           "publisher": "Dienas Bizness",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLXNSNXFValhpbEN5cjFJVVFyaXFaUmFNcGJuMmRkZmpXeG5qLU9EX1V3azRadVh4YXhweW1DZEotRFZBVUExd1hkb0NibHM4WVkwOTZRQjZTWDBDREdXdGk5X3pPSWM4eW1TRExZQWlJdUxSUTBNWk1jVkt6X19zTml3?oc=5",
-          "published": "Mon, 16 Feb 2026 11:38:01 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2N2d0I1OHRyeGlSY1V2MU5zTWlDQjg4YlFfRXBydWNDOGU5aGpwV3IxSHBWVWt6elVQblI2YkJidktrN1BmX1NTQ0UxbnJYVlh5UFpaOU9TZlRQVkIzcFMwb1d0TjIxbElFRl9pZ0Jhb3dUeDk0Wlp0dnJDR0pQX01kY1RLamN1SXc?oc=5",
+          "published": "Tue, 17 Feb 2026 12:24:41 GMT"
         },
         {
-          "title": "Viena kļūda – spriedums uz mūžu? Vai banka dod otru iespēju ceļā uz mājokli - Investoru Klubs",
+          "title": "Akciju cenas Eiropas biržās mainās bez vienotas tendences :: Dienas Bizness - Dienas Bizness",
+          "publisher": "Dienas Bizness",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcklGWGd3OGpMRDlxbjlmSEpQVndFT0tDLTh3eWxmNE9oMjI4RWNLcGZ0algwVkpfZm9SZlZLN0VOS1Q2YnNobGtvVkU4ci1uNV9qR3FhYm5kcmtlMHhpU0pZT25QUzdCWTJOZlltalJVeGNCYlJuRUhCd1NiNjgxTFI0N1Y3NkFRVlg1VjVfR2wxQQ?oc=5",
+          "published": "Tue, 17 Feb 2026 08:08:56 GMT"
+        },
+        {
+          "title": "Būtiskākais pasaules ekonomikā: ASV pārsteidz ar darba tirgu, Eiropā ražošana sabremzējas - Investoru Klubs",
           "publisher": "Investoru Klubs",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcTltU2hBeERMT1VVRndGcnlHV2NDSktjM3BsSDdhak9vaTJQLTl5V3RsR21OS0hVRE9PQUMxa2NCajB4NDg5VGpBMVNSX2VjeGpjVEdzWFZKZ2c0eUlXblJobzhjVUxUY2VDMkI0WkdOMi1zdHE1TE9qT19HYTBFVElaUnhzMmZRaW1uQkctZnNHS24zOE53b1NTSkJIUnQzaG13YUxkVE5VOWNmQXoyTTdqN3dJU242NTVXbVYzWQ?oc=5",
-          "published": "Mon, 16 Feb 2026 10:09:38 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUWp4d3V5MVFPMnloQjUzM3VuS1YyY0JVTFFSTDBqT1pxQXlOaGpaVWlkOXgzdXJXNDE4ZXJlRVlqMHk5ek9feklEXy1SRHJabmpMa1RvQlZGZ0lWN0VvZXJPbU9tWF9STlpsM0d0Mm1GX3htUy1rS2RlalRMWHY3aG1rNXlSbVQ5bk03OVByTzl0M2JZcHBPREo0bFNvUzJYLVZaZXY4S3d2S01MVWZ6a3F3aEpHZ1ZTbEw4ckZZUWY4ZGd2Z2ZYZHB5V3hWWXo1b01n?oc=5",
+          "published": "Tue, 17 Feb 2026 11:10:36 GMT"
         },
         {
-          "title": "Raksti uz datumu: 17-02-2026 - Lente.lv",
+          "title": "Apdrošinātājs pērn atlīdzībās par bojājumiem elektroauto izmaksājis vairāk nekā 344 000 eiro - iAuto",
+          "publisher": "iAuto",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjVOMFVvV1o0Y3oxZ2l2WElONFdiblFFUDVDeTM0aEtnekN0ZEF3VlBsXzZwX0xwWWExZnVjaV80RHplTUJoQ2xlbEo2cWtkeGllR1U2amJGcVdhZElnZ2hHMGcxRnRwV3R3QXMwUGdfUnozWU9CTmZZekcyUUpQcEF4ZnhrZnotZGNjRkprRFYzemlnUDhJUThtaXJUWld2NXRtd2MtN1BzMGt3UThCU3djVUI1VU9RaGhTTnNaQzVLRk1rVUt3?oc=5",
+          "published": "Tue, 17 Feb 2026 18:33:15 GMT"
+        },
+        {
+          "title": "Latvijas ekonomika atveseļojas: Ātrāks pieaugums gaidāms, Vācijas vājums rada iespējas Austrumeiropai - Lente.lv",
           "publisher": "Lente.lv",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OaENJT25HS2o1bUtGMWhMRU41QXd2dkhzamVtTFVSSUY1bzVWQlhBLTVHc0xVRE9RM095Y0U5eE1BU19zTGtvSGZWSDBsY2c?oc=5",
-          "published": "Mon, 16 Feb 2026 22:05:22 GMT"
-        },
-        {
-          "title": "Brīdinājums \"Android\" lietotājiem: atklāts milzīgs drošības risks - Jauns.lv",
-          "publisher": "Jauns.lv",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdzYyUGZBNm1oM1YzaW10aTB1RW1fTWJJOTVCbjdEMG1LMXNFOFVhcUg4TFJSSlJpblJoakR5STNvTVR3N3daMVItcjdFVE1qaExJR05KMXFWcENhUzV4UHo1ekZzSE9LZ3pZeUpnMGJvNkw0M0dqNmJMcjdJRUMxaEIwaXRHSU05Q2laMURuNXU4OWFaaklha3hRQlJ6MWZsT3Ew?oc=5",
-          "published": "Mon, 16 Feb 2026 10:35:17 GMT"
-        },
-        {
-          "title": "Pērn lielākā elektroauto atlīdzība – 19 tūkstoši eiro par sadursmi ar meža dzīvnieku - TVNET",
-          "publisher": "TVNET",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmVIOTNfSDl0MTc5NklSWmxmcWk1YnR1VWtRVElhTDZBaEhxMDBwdlM3Umpac2E3ckN1aU45QWc4dE16b1F4NVhxU1ZzNHFzSVBFR0sxTXlMRE55c3lOY1F4dEE2UHlPWW1kM2FfSGJ6NDJmQU9FYW1IVnl5cXh1bkJQUWhWNjY5YjEyUWVNU2o4cUhCUzVnS3Zua043bTRPS1l3RHE3czdGYngtRFVyaQ?oc=5",
-          "published": "Mon, 16 Feb 2026 11:10:41 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSHFoN1BpQnFjcTF6T2dHMTBLYTlQdU5EekprZEZNeENfakFIdlZqaTRIQ3k4TzhwaXpuQTNiR0M2OXE1VEdzQWZ4bkp5Mi1UTUFES3R5MHh4TF9zYm5JTFZUN1gtSTVQdWl0WmIxOTN2dl9DNkR4eDQtaU5LWUxhVFZ4aDNqczRkQ3hrM1hNN3FCRm1NVHRtaXEza05KeVVtdTZVSW1tMnRrc2J1YmlhV0FWSWNwaXdOQUFVN2hPTjkzS1RsY3RBRFBDWmVxaTlidFFQa19YQURxdzBlZWxyZW1yLVFBUFloSVVFMnFB?oc=5",
+          "published": "Mon, 16 Feb 2026 21:33:16 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
+          "title": "Bobsleja divnieks Kalenda/Miknis olimpisko spēļu sacensībās izcīna astoto vietu - Apollo.lv",
+          "publisher": "Apollo.lv",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSThiRGRCVGJzcTdQSDJNOGx6UjBGQjZMdEIyNkRsLVhoLXNqbU14Qnl1X1Yyd19kZW1JYWlaSTBxTzBIaUE4UjdLbU5hUDFhTS10RllZdVpZSWJxTldJMHAzazJWMWk2WjJtcElURHdaRVJCWWtiRkxpWm0xNzRKenkwbGw3WU9YcW1PdlFXSURTR0tMMWRzLXZld3huZ0kyR3VFYVpYcWdPR3B5ZkE?oc=5",
+          "published": "Tue, 17 Feb 2026 20:57:55 GMT"
+        },
+        {
+          "title": "Bez variantiem. Latvijas hokejisti cīņā par olimpisko spēļu ceturtdaļfinālu zaudē Zviedrijai - Lasi.lv",
+          "publisher": "Lasi.lv",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR3RjM05vLVRYLWtqY0JRQkJUbjZzdlFKTWppeVRKdDlqc0tzN05xSnBMUW05SGNDRkUzMGVuY3RnNjNOcHhiZUxPZTNNTnE3b3NxQnEwWEZjZHNpS0czdnV1M2wyVTFXZ0dBN3VPcmViV1FoVFgwWDJXVzBSNFhCZ3YxSHZPa09EUUdRMlEyMDdUbDd0NzBPZm9XQWRvandhVDBxOE1ud3NRbi1STjM2aFRMTnVhYVlhdkp5dnZpdW81VFpWUzYyVW9qTW0?oc=5",
+          "published": "Tue, 17 Feb 2026 22:40:28 GMT"
+        },
+        {
           "title": "Latviešu skeletoniste Marta Andžāne ziemas olimpisko spēļu debijā izcīna 17.vietu - Radio1.lv",
           "publisher": "Radio1.lv",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWW1vd0tJMk93S1pKYUs1X241WDNEU05WT1VaeUtsRWh6cXl5cFJLX3BwZXktNnB6Mmo0Y05EVTd2R04zRlRxQ28ybWtrUVhoMm9LcjJxYi11aURpbU0yM0tpTVo2bTFMbUtvSXZ4RDBNMFBYRDJKZkI4RmJ6UkdTRkt4RlJmd2IzTjl2cXlkQzhlU2k3QVAxeDY2N21na3EtMWRGN0R3UmY2TkhhSFdTTGYtTEpwNGRv?oc=5",
-          "published": "Mon, 16 Feb 2026 20:48:35 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSmVsclRKdUtPYVN6Mkp4bjA4VUpJN3FfS1NXUW5kaXNTMkVCT1NGM3RJeVpxdjRsaXBIWkxFUmF1UVU0THVlcGVfM2NvNk1SbHZoTkxGUHptemhka0VZN1oyMXhNY1VXT0xJYnlSb0ZYWnZXckdVeWx3RjQwcUgtTEpYS3BYblkyd0VuMU1rRC1wQ2hVTUkyVUUzaGI4NFdTd29YWC02dGI3MHh4MGl3QWVpbU5fYzh5c19rSVdvOS03UQ?oc=5",
+          "published": "Tue, 17 Feb 2026 18:58:24 GMT"
         },
         {
-          "title": "Bērziņš piedzīvo kritienu un nekvalificējas olimpisko spēļu ceturtdaļfinālam 500 metru distancē - tv3.lv",
-          "publisher": "tv3.lv",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaEloTllqZUs1SUZIR2ZCbWF0VlpLRUNzLXJnWmFWU2FycXRNeXN6b2ZqbzRaZWhIY052WlBKMTlhUnRWcnRjYnB4MnNrRzRPUDh5Uk4zWW5FU2h4Yy1OZjFWNFY2RTVoMFZfXzRfbkM5c3Q5WXpYVG5VQkp6WmxyVUlCWl9Tb0poVU9hWUF0UERrSkZqYUgxeHBPbi03WC1FM0NoQ1hkOVdxajlRMVF6YzdOYVFSYVZZSU5LSGVaY25BRHdLSi1IcjlMUGhSU2RPbF9adA?oc=5",
-          "published": "Mon, 16 Feb 2026 10:45:38 GMT"
-        },
-        {
-          "title": "Jēkaba Kalendas bobsleja divniekam 6. vieta pēc olimpisko spēļu otrā brauciena - 1188.lv",
-          "publisher": "1188.lv",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUtxWDZ1N1FJZ3MtblVpaHlobTJ2S3o4UHJreEsyLVkxQ2JYX3R1Y3RkcHpVb25NUkZzYi1QdGhWZlJON2FKeTJQRE5PUmdTNlliZ09FWGpLNlBDXzU0R2FwemVLYmRaVmxxOG1oLXFZRHdaOUlPR1FNeW5sLXZGN3lVVjd3SmdhQ3ZLeFk5Rm5GNWRqWTVpYnBGb25JTGF5WTYxSWtvZ19OVUZFM1E?oc=5",
-          "published": "Mon, 16 Feb 2026 12:43:51 GMT"
-        },
-        {
-          "title": "«Dāņiem šī bija kārtējā Andersena pasaka.» Latvijas hokeja izlases līdzjutēji Itālijā nezaudē cerību - LSM",
-          "publisher": "LSM",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbmVnMkJGWkZwQTJhTnhHWUN6VE1WdGhnTllKcVRyNXdrc2c5eW1FRk9XT0ZYS3pTUmxlWVdSQmIycXV3QlE2cFF6SFFJcm8tWWZRQ1J6bmVwUEpKYXpfaE91eG03S1ozejNtbzVEOFNZZ2Q4WGc4cWM3U1hfZGxMMDdUdUp5blhvZmJvYnJZaGJMWGxUS1hkQU1jU1N2Y1k2cllBUDVGZ05XNy0xcnV4V0pTSy05Y2NLODNmam1DX19KZk0zbmdzcnktODN4Sl9KNlRSZllXUGc5UzdGOVFSUDhjVTltMkdnc0FQTGNn?oc=5",
-          "published": "Mon, 16 Feb 2026 19:00:28 GMT"
-        },
-        {
-          "title": "Kalnu slēpošana. Slaloms vīriešiem. 1. brauciens. Milānas-Kortīnas 2026. gada ziemas olimpiskās spēles - REplay.lv",
-          "publisher": "REplay.lv",
+          "title": "Kalnu slēpošana. Slaloms vīriešiem. 1. brauciens. Milānas-Kortīnas 2026. gada ziemas olimpiskās spēles - REplay",
+          "publisher": "REplay",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLWxvaUxDOUFoSWdWV2NNSjl0R0NZNzNnQlRicDR5QVpFc2VRUXhta2Z4VlRTeVFvMW1lbDhmQUE5UDloQXV3VTdNNmVDNjg4UzJWbGZLU1h6c1RvMDNGVzFyamdIU0hHVVNpS25aRkRUTGcwd2huU2IxQkpSNk40YXVVWnVRSFJqel9tNGdLRkFJLUJWX2JzQTNaT1daZlg5TUc3X0JxT082dW1lX2x1bVBkRmpVVVZyRmk4UEdDNjUyRlNWdGQ0dW0wVWlTR0dkSEthYlg2aEJMT2I1c0EwNHNvNkM?oc=5",
           "published": "Mon, 16 Feb 2026 08:55:00 GMT"
+        },
+        {
+          "title": "Latvijas biatlonisti ar visvairāk soda apļiem olimpisko spēļu stafetē finišē 18. vietā - tv3.lv",
+          "publisher": "tv3.lv",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUmdjeExWMXBIcHJ0dS1uUzVudXVDWjk2eDZOTVpkWkpFM1hQLUVPRVZIdTRuVkVicHFKNTRyRGI0U0NBYnd0c3Y0ZDlCT3dTbmd6WmFzNVBScUV4dDRFWC1RQUh2R3duY0VVdVo3RzRtREtWUUIwUzRPaGNoQV9zVjM1U3Awam9CS3MwajU0aTU4VlBoaWcxVGQ5YnhLMFpsN0I1UTZmU0ktXy1Qd3JlbkRSZmtDcDdlc2JVempLX3RFZmF5RlpN?oc=5",
+          "published": "Tue, 17 Feb 2026 15:04:48 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "“Xiaomi 18” dizains kopēs “iPhone 16 Pro” - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Vem5JRVFYLWdPQ1pQTExibnhKRGxUelQwYjVNWVRteFdVTnZXMnZPMWUyQlJaZDItM3FqYjhSWEo2bTdNVWg1TEtTbTNTUGdSdm4tQmNVQll3dWV2QnduUEhETFdMc2ZrU0E4ZlV3V2RHQQ?oc=5",
-          "published": "Mon, 16 Feb 2026 09:30:00 GMT"
+          "title": "iPhone 17 Pro Max ar iespiedumiem: kāpēc pat futlāris neglābj флагманu - Lente.lv",
+          "publisher": "Lente.lv",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakdWWGM4N1c1a1pzTXZKcUlzY1BsSENtSFgxV01lMlpNaGZIZzdTMDhkdXVGb1dSUWRYU1F5ZFlTaWtwclRnOHM1QlJZbC1KTlktOU1UYTU0UHAzTGRMUG5VSDlJZHY3Rmt3U0k3WDdQZ2RyNDJZaEYwR3RvcGdfbm5zdTR2aEx2YXltSGx2MjZvSnJVU1Z4T0xYbHVLbThiME9maW5JRTVhLXl1aldNZg?oc=5",
+          "published": "Tue, 17 Feb 2026 21:16:38 GMT"
         },
         {
-          "title": "“Counterpoint” analītiķi uzskata, ka salokāmi viedtālruņi šogad kļūs arvien populārāki - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMzJDeml1VE1sX2dwY0JPajFpellFOHFxOFJVREstakU2VFlnemRxUk45V2NTQVlkVzNCczV6MjNfTzZzNE9ocERyTUk0OTF4R29aV2Rzbmg4eWxsT29ndGhZSGpya2NQNWNvQmFJZHlLOE51M0ZuX2NGS3Z0anlxVzFKemhhN1BaZWV5NFFoUUhlUXZ4RGgxV1U4eHAwdk9rc0VoaXZ3a0ZuYWY5TnYtNnVjekI?oc=5",
-          "published": "Sun, 15 Feb 2026 09:00:00 GMT"
+          "title": "Populārs \"YouTube\" veidotājs iznīcina dārgu videokarti, lai uzstādītu jaunu rekordu - Lente.lv",
+          "publisher": "Lente.lv",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNME5TUHZ5TDUxVG9aVERCU3pCMUx5cWZyNklZemRteWFOemM5Wmc1WWJ5SGhuNXFxYTZvdFk5Vm5HQjJfQ25OUkEwNGJRdURaMXY1Z1UxUjZSaklDWTRVeFl2ckcyR3ZuZEZ5d3BScjdGUVk1TG5sRnQ2NDBZeG50b0F3MVp4akN5RG5vTnYweGhZdXlDd18yTERzYUhGY2FoWkU5RXJPck9PN01ucm5VQjhXRXdnRngyTm0yS0FoYw?oc=5",
+          "published": "Tue, 17 Feb 2026 16:18:17 GMT"
         },
         {
-          "title": "“ASUS” un “Acer” nākas Vācijā pārtraukt datoru pārdošanu - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMlNwcUNzVkI3T2FBYXJoX2ZweU9PM0UyQkNHRnd4NlJQaHBySHBwQWdKMmJINjQ0S0E3Wm5BTTFodzg3a2hZS3c2ZktpRFh2T3NCbmQ4VmdtRVFvZC0xZ3JrLVFYaDVjSmpLMWtjOUpmclFQM0lkVFRFYTB5ZGk2WjhlVllFZGRaZUlr?oc=5",
-          "published": "Mon, 16 Feb 2026 09:00:00 GMT"
+          "title": "Mac datori iegūst funkciju uzlādes ierobežošanai un kompakto Safari paneli - Lente.lv",
+          "publisher": "Lente.lv",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0V6dVY1cHh6d0ZoTmhqVDRaYWtha0xrZTdLR1laYXB0c3g4UUVLRlc3Z0U1ck9KeHV5TjBSTkFaSzZtcEk4czZJSlJGaTlRZXFqZVpSX00wdUtPZ3RVbUF3aWljMDlNQ25mWW1vQ0VodHZMTkVzUldDYk81clQyODNPTlQxa2xTRUVRVl9HOU5WUldNTXliWC1SMnpfM1dKVVF1eEY1ZGxyMmFQVGhOZkNmTExtbG8?oc=5",
+          "published": "Tue, 17 Feb 2026 12:22:17 GMT"
         },
         {
-          "title": "Iemaini bēbi pret vienu “GTA 6” videospēles kopiju - Kursors.lv",
+          "title": "Noplūduši gaidāmo “Samsung Galaxy Buds 4” un “Galaxy Buds 4 Pro” austiņu attēli un cenas - Kursors.lv",
           "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHpRYjBBZmtYQkFUc09JVzBPMHN6TEVoSklRUjBJVElpVzJRbGJ4Y29WTUZaNmlEeDNtUnFXTkJEc0ZZUjNqS05qU2hVUVlaNzhYRHNWalJ1VnlaLUQ0VTRGZUhPSzBqS2M2ZGZiVTVOQTk3UWJuZnZHTF92TlVfSFZNejBmQQ?oc=5",
-          "published": "Mon, 16 Feb 2026 08:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ3lNaDkydGVpRlZqNzRHZkFzMTMzMF9panhPcGRxMWt5QWlVa2Q4T0F3SHRtSHd1SXFFemszSzJ0Rll0eC1hV2VNOVp0MXRIR003Ti1XUnM1M0RTMDVWLXluV2tGbjJUblZPVHhhZU9Rc2ZQSXR4QmoxdHVOR3lMZ2VGWExsWmRPM2R0dTVzU2YyNGZrREJ0Xy1CRE9wZnZyLVhDbl83VW5mM1RKSnplQy1YM3luQQ?oc=5",
+          "published": "Tue, 17 Feb 2026 09:45:00 GMT"
         },
         {
-          "title": "“Spotify” dibinātājs investē simtiem miljonu eiro dronu biznesā - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNHQ1OFpaUXVZV0t0ZkUxeWN4ckdEQjhZVjRWSGlPNFZGWEhsVnYtS1YxUjRoME9LcDFpbGRhaTJiOTI5dGctdUxDMndVRUxDMDBPM1FfZEl4QTdsTEw1TEhzMFdTZjA3amRGaWg4RDZ1SUJ1VGdEWTBuUzByM0p2VTljc2xoaVRoR0dRMGttd3VHQzZtVFdN?oc=5",
-          "published": "Mon, 16 Feb 2026 07:45:00 GMT"
+          "title": "Apple iOS 27 \"Rave\" sola sakārtīt sistēmu un uzlabot baterijas darbības laiku - Lente.lv",
+          "publisher": "Lente.lv",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSDNMRHNUSzZfX0JmbFh4QWpzZXU0QzlOeklONU9uX3lFU2ZoMjdjczB6bnpRS0JQcV9GVGtRMGw4SERpbjVPT0Q4ZkVfb21yVUhsS2JmLXJRRUdpRUgxX2daeW1Ea3NLOVNtdmlDWGJNVVlnOW91Z0NIalVwbUs3TGM5ZWVkblF2VHkyczFadk16U3loNk1EcEw5bE1SUWE3WG5VdkFBSVM0bm5mTXZtU1JPaFV5bzQ4YmthbFdCR3JHRjVWcnBfNQ?oc=5",
+          "published": "Tue, 17 Feb 2026 04:18:17 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Real Madrid, Man Utd and a World Cup: Football’s wild coaching landscape and hiring dilemmas - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlYySGh5bjVIa0tiUndsZzNqMlhBQlIwNXpvNmRmZFhOQkhjeEJKal9nV0hEUFUtRUx4emtSR2R2Z3NKUllBdGdxOGY1RW10YzE2S19waGhJMUdxNGRGZllWQzVkWG0wMVIyd2R5VHNBaVdCZzQ2cDJBQUIzaUFfc3RvUG5WT21HMXFRbDhIWjBnZ3ZHRlNQUDVNRXhxYUU?oc=5",
-          "published": "Mon, 16 Feb 2026 05:15:15 GMT"
+          "title": "Ivory Coast national soccer team chooses Chester’s Subaru as its FIFA World Cup base camp - Billy Penn at WHYY",
+          "publisher": "Billy Penn at WHYY",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFpqal9nd3p5a3VMSDM1TXBiZnBXYUFXNDg4T2xjWmdDQUVOYW5UcG1vMjRZSFRueV9aNml3Yy1ldW9oMG9DU0dvU3lDblIwQmZIOFZaS3NLR2JvX2J5RWQ4eDAzLUpYNVZHZHNYa3RmbDF6aHZXa2h5SE9FNFdCWGs2Zm1UaUEtMDd1QkdxMktGQ0JBam1ORHJmRmlRc3YxbmtEdTZFS1J1VlRUdHBLTlp4eG9XNnhPMU5oeHh3?oc=5",
+          "published": "Tue, 17 Feb 2026 20:38:47 GMT"
         },
         {
-          "title": "How Kansas City went from soccer ‘hick town’ to coveted 2026 FIFA World Cup site - Kansas City Star",
-          "publisher": "Kansas City Star",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGVieFVBRzB0Rzc4T3ZqOFR2cjZDdkRkYVdsLTh5dDlORHhqVEFxYUZYRmpSc2gxeGZvY3ZwcmJKcWEyMDlhZGtyS29TS183QTdQSVpJcllaNUlVdnM2OHBuTWMzOXd5V1dMTmxmLVpLeWVLNm84OFZVYjJmMDN6NFEwdXZJa1BnektWajZScXZDUdIBkgFBVV95cUxQNHl2RGFnX0ZMVW1BUFFnZnRLZFpoQkxSa1lXMjMtN0g3bmZhS0NrZjdydXJrWEhyWXQtZFJaMldpaGhzY19COFF1SWlVWWJHdnE5TWZzbVdrNEpuN0NGV2ZyQVZXbmdWUW15Yk9XWGlfQmE4VFVRcFJkZXU0ZTBQdDBfczBaZkNjM3BBaWNRVzd5QQ?oc=5",
-          "published": "Sun, 15 Feb 2026 12:00:00 GMT"
+          "title": "Ivory Coast picks Philadelphia Union’s home in Chester for World Cup soccer staging camp - Delco Times",
+          "publisher": "Delco Times",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWW5UTUhfWDdDNFNTRjlRUFpVc3F4QVVBSGhMR0ZhOWY4eW5mZmxPY1BlQUYyM3FDYnZWLWJJMnkwbTRJQ1V3RjBVb1RhVHBuWW1wNktVVjVSLTQzWXpjRGxMZnBOaGM5amc4UC1GZFM1Qkh6ZkJJejZyWlh2Tlp0cmU5Qm9FODRNbWRILVNQWENKOGRoaUMyaV91WUQwMThWTWJFYm9xZG1KNVdQWlJ5OTRGZ1NNZHd6YnpOQ3pIUXdhRDl2?oc=5",
+          "published": "Tue, 17 Feb 2026 21:09:05 GMT"
         },
         {
-          "title": "World Cup - Britannica",
-          "publisher": "Britannica",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lSXpoQ1dpZXJOZ0haOF8tcElFV0E0bDlCVHJORHc3NFNCSDRzejEtNFN5VHU3NWo1QXZHeVZwampxYm14Z3JkYzVUZW5YY2N3M21hbmgtd21jZzlyOGFYU1Vn?oc=5",
-          "published": "Fri, 13 Feb 2026 08:00:00 GMT"
+          "title": "Portugal Soccer Champions League - chronicleonline.com",
+          "publisher": "chronicleonline.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNmVwQU9YbmREMzU2NklVNnpVejhwOWJ1ZE41NEgwdGVmRzQ0NlVmU00zZ0hBNkt0N1EwbGdOM1JING5MaWw1NU00cVJlVDYzOTdKX2QxaGd4bFU5d2pmeWJoN0d3bjJIYkx4VEFRb1JLbUFwVkFZalpTVWFFOVpWNFU1M3MxS2kzZUgtVXQzdjN2LWFaTFVmVTdFQ1hCZWxia3dJa2RZbTRvX3h1dFUyYV81SzlsQXZoUzYwdUNoay1CWlJ0?oc=5",
+          "published": "Tue, 17 Feb 2026 21:01:42 GMT"
         },
         {
-          "title": "Israel to face Ireland in UEFA Nations League soccer matches - JNS.org",
-          "publisher": "JNS.org",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd1Jqd2h2dU54VUZuN1FSREU2YVd0Q0p3cExxVWdKTllCZzdxa2Z4M25hcVZITDkzUHBTTWZnbmhRc3dsQWl1TC12WlVrS1MxUS1lb3NsNE5LaU0ta3V6Nm1COHAzSkd3VEZUYWd2bE40XzlTVE1DV2FfQnlsYXAwaXloQS04Qk45?oc=5",
-          "published": "Sun, 15 Feb 2026 11:42:11 GMT"
+          "title": "Champions League Playoff Soccer: Livestream Monaco vs. PSG Live From Anywhere - CNET",
+          "publisher": "CNET",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzhWVVRiUWdRZVBSWlZJTllmZGx4T2t6b283RlVFdFdoMU9yUElpQTRpVGhqcngxUzVaeFh0bkpQRW1uZzZuem1jem9Wbkk1cXRESU1UVkpCZllibHItMkNvdjctaVFQTk00S2Fta19ORmV4WWJMdk5RMjFZcW9yd0RQRlk2cGRYUnVmdG9tU2prZXB1YkRpN0g5Ty1DQ1VLUDNoU0ZEakoyQ2NkT1N4cHVrYXhvVFVDbUpobGdrMEtxdw?oc=5",
+          "published": "Tue, 17 Feb 2026 17:00:00 GMT"
         },
         {
-          "title": "Real Madrid Returns To Benfica For Champions League Revenge Mission - NDTV Sports",
-          "publisher": "NDTV Sports",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVByRThEVFBUeWpEMENzWGRwYWJaczJndEJWbkJIOV81SDVGRHViQWJOZGhqdzVQWVdJWW45Wk9mcU9yNnA0TkRlbTV1cUkzSkNYRm5yT1h4MjlWa3l0YlJKTkxaVVBOT2c0ZXg2TTJ6NDRkdGhZNktEaFdLcnlkaWNTTDVhNnVqYVIzUzdTTXpuX1U1anNVUWxTOWVFNXkzeTRENWdJdXFIbjVlREE?oc=5",
-          "published": "Mon, 16 Feb 2026 16:44:37 GMT"
+          "title": "World Cup 2026: Nigeria await DR Congo appeal outcome and hope for reprieve - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HOHkyR1FEbWFBZ3NueE8weEFoNzhhR0NhWkZ5cnpyZVpQblZMVDhWeE9QWUZIdWUtU28teXkxSUlLN2FRWlh4U3h6dWFXQVVEZVZCTC1mTk5md1VzdFhtenE3SkFaanM?oc=5",
+          "published": "Tue, 17 Feb 2026 13:47:44 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Actor Robert Duvall, who starred in The Godfather, dies aged 95 - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBQlI0ZTRzdEpWdkpteUctMG1LcGE3TmVBN2lmTGd6N3o4R0VNMTRXZXdZcXBoVkd2LU14UVhLcVlkZ1dXNEMtZ1hkbDNGeF9kRnRUc0FKUFFXZ9IBX0FVX3lxTE1GcjYxUHM5RlhvMHowVWF6d1N0NGxmbVEtWm91dDNRTlZUR0FoZnp0Zjg0Yk5vMGpNNFVuUzFqam5CRkhSV1ZtcW5tU0dxZWRXa0lJbGlfVU9rUVh1eU1r?oc=5",
-          "published": "Mon, 16 Feb 2026 18:17:06 GMT"
+          "title": "Steve McQueen on working with Robert Duvall: ‘He was the rock. He brought gravity’ - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjhqN1pLM0dQeWJuTXhqTlE0aTNzc1hoZVdTZE9zVE82dVdFWmV6MjE4bmM0d01ZZGpMRzRFbDg2ajRaUmVJcEljdkxKa1RKMDF1eGZTM0FjTFp4dlVFS0dHTmlTYnRwdWk2QkZ0U1d4N0RFaDhHTXkwWG4tNVNxUmQ5NjZrT1hURDRuZGpBaG1zT3F2T1ptLXRLQQ?oc=5",
+          "published": "Tue, 17 Feb 2026 16:38:00 GMT"
         },
         {
-          "title": "James Van Der Beek Rep Speaks to Texas Ranch Down Payment Amid GoFundMe Fundraiser - Just Jared",
-          "publisher": "Just Jared",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejhVa3FPeFhFTng3NmxxcGl3eHdndmNvOUxZOWVUOVU5WVNXSEhjM3lyeWhpcTdqMDJiNm8wdVlzUkVpWjNQMjBucHY2Q2FBQ2lLaFlSY21UcmRINTE1ZGVZbjVhQnJMVV9lOFZoM0ctUUxKT3BsWXhhWFBkRzlIUTd2bzhzV1pCclJKU1VsdWc3VjdmT01QN0hiN2RpVTliVFBkNl9KMkN1bk9FXzFtWlZPcWdtSGZESzlHRQ?oc=5",
-          "published": "Mon, 16 Feb 2026 16:50:33 GMT"
-        },
-        {
-          "title": "'Wuthering Heights' Box Office Beats Expectations With $83 Million Globally - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRWlib2t0WElrZkZld0dCcFV4bXhTNm0zdjUwMlNPZHFKZGQ2cTlFcmR3eTdMM1BDSjJNck1Wb25XNzE2MEFSdVJ3dVhTQlNlVnlDX3NWTnBlbC1ISnFqaUFxdXFvN1pDSjNPNTU5ZmRKanRDY1EtSDhLdkYwMHoxV2dBSTNJOFNEV3dMcURUVVlkUnhMbTNrMGk4YnhkN0hwQ0VHTGctSk42OVNiVC1WZkVtYTRXQ3JPTmIwUHJpUUpTb01rSXVDdVV3?oc=5",
-          "published": "Mon, 16 Feb 2026 16:18:00 GMT"
-        },
-        {
-          "title": "Netflix’s ‘Reality Check: Inside America’s Next Top Model’: The 7 Most Shocking Revelations - The Hollywood Reporter",
+          "title": "Shia LaBeouf Arrested After Alleged Fight in New Orleans During Mardi Gras - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGtZSGZNSzZ6TUxuOFo5TW56bVY0NUtiUGRsZWNJREE4eGliSFlyRGNsQjJZVHRVSmNFZHptZG1PTl9QLVg5UmdsTGl4aFlOVVRObU93TFp5ZmlmOTJOdDQ1NF83LXg0UWlzcEo1YXlFcFdwQ2NiNWt4cE5rRndMMU1vUUFpMDhwZGh6bFlmREdMRXFCbVZDd2c1N05fTHVtdkE?oc=5",
-          "published": "Mon, 16 Feb 2026 16:09:06 GMT"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1B0MzFkWl83eWNxbzYtN1g4T2pEVTNycVlnQlZaczN4Mkt5eFI0eExSclpJV1lTOEtNbkFhcF9jbXp2NDNvemdfcHY4RkF4VVZQeUttcE80TFByY0YwZGhERkhlZkthS2xrVl9PQjQxTkdJcnYzOTJRNmhVRldKN2tlMmVzcHpaRkJaNVdSLTA2TTlqZ0pjOUVnNC13Nk45akdvZUI0UmptX1R5TEFlUA?oc=5",
+          "published": "Tue, 17 Feb 2026 20:33:42 GMT"
         },
         {
-          "title": "“America's Next Top Model” Runway Coach Miss J Alexander Reveals He Had a Stroke That Left Him Unable to Walk - Yahoo News Canada",
-          "publisher": "Yahoo News Canada",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5seC1WdEcwN3ZXa09VUmlESlV3bkpwTGJqb09zUThhZEtucUo0N0h2NVRRTkZ6eUdKUE1pNTEzcU1aY19UU2FxakZWYzFJTk9XV3dHckV4WnhwdEFlNHpSWW43LWdibk40d0VEWGxhZjBXOTNIR0Z1amNJVQ?oc=5",
-          "published": "Mon, 16 Feb 2026 08:02:00 GMT"
+          "title": "Miley Cyrus to Return for ‘Hannah Montana 20th Anniversary Special,’ March Release Set on Disney+ - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZmtqSnJCYnpBQWpIaDV3bUZVeGRzNFlTSGlYdWNRLVU2MENHN0loSEZVTW9BSFMtcDRnVTJLS3Bra19rWk9jYURsTWw4RjZUTUYxcUxVSkQyX0pOZFlWbVJLYUlqWWIyUWlEc3dMSTFGZnFjSjd1Uy1MRWdNS1lZRmJLTjJGQkFmT0c4dTdPSDhMRXVUcjZCZ0RoNUpFdG5UckJsREtB?oc=5",
+          "published": "Tue, 17 Feb 2026 18:10:00 GMT"
+        },
+        {
+          "title": "Hilary Duff Says New Album Explores Complicated Family Life Amid Haylie Beef - tmz.com",
+          "publisher": "tmz.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQekh5cl9YSTBhR1g4VWdGRURURy1HeG5yVC1wYmNHZU5ZUmgzQ0pvbXdPa1B2U0xxbmxzZlEwUTI1NEsyRnRSczBfM2JLZkg1Zml2b0N2cTN0bXBFUEFhMFVtOHVYcWlQcFd5UGFSUWQ3X3ZuS2hhUkpWYVRYdVNFUQ?oc=5",
+          "published": "Tue, 17 Feb 2026 20:46:23 GMT"
+        },
+        {
+          "title": "WGA West Staff Goes On Strike Ahead Of Writers Union’s AMPTP Negotiations - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZUhBMXRvNkJiWTZjd3ljOHA0NGNTZkd1SXVULXdwakd3RGlMOE5IVFk4TzRtNmlQaHVrZkw1Vk5Sd1BDNjVFV3BYYy01ZzZOZUhiOHoxVXUzdE5NWlVMa3VnaUJHR3JWOF80N29WWFlWYVFWYkNkc2syWTRXRkJkSjhOMHBFM2h0SDBLcjN3SnM2MjBv?oc=5",
+          "published": "Tue, 17 Feb 2026 20:14:00 GMT"
         }
       ]
     }
