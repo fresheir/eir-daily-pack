@@ -1,7 +1,7 @@
 {
   "market": "UA",
-  "generatedAt": "2026-02-19T23:05:29.523252Z",
-  "validForDate": "2026-02-19",
+  "generatedAt": "2026-02-20T23:01:41.193238Z",
+  "validForDate": "2026-02-20",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Переговори у Женеві: що кажуть у Кремлі про зустріч з Україною - ТСН",
+          "title": "Графіки відключень 21 лютого: коли вимикатимуть світло у суботу - УНІАН",
+          "publisher": "УНІАН",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPelJFMExPMkxqUzQ4YkRZaXpNSEpxWXU2WXdOaGFzbmd4YzQyRVdvWmRVUmQwTzlVZHlSVTg4UkkwRm5sTHdka2JEQldwRW9nTVNONUQzX3BUamJuM2xmT3dRS0dJN1hIOFhwaDVHemhJUkduTHRMWHMxWlpTQ2FfQXROM3V6bUUxbWVoNHloY0JaTi1DLXRfUDdkOW5OU0s3dHhXSUUtcHpLRHNlYmNhaWhSMW9UVFJ1cDRrT1FhTFhRYkVkN2R3LTRYYUNQRlI0RDY3SNIB7gFBVV95cUxNN2FYMy1qNnI4Yl83Q29yc0ZHTzkxYldZc0JXUkhZQ1JiYmxPQjVwckdJWVhfcEU4VV9YZ0J4cG5ZUXVnQnVzb0N6SFo4dThSeGlPLUVvV2hUQzk2aVcybmNTVVlkWEFaakpSLVp4b0FwOWNSc09laG5FTlZtUktyZkwwTUVLZnlSenl4dlllRjBhakxZMEJxRFBnNlRfUjFURHNqM1lWVHVXd2RNeFk0cWRCd0VWd1B2YmVDMXc2WV9VeHpmT0RYTnBPRGxlNkFYb3VqaTU0NFRUck9hZXFMLVZfT2lNSVBJQzlVcEt3?oc=5",
+          "published": "Fri, 20 Feb 2026 20:29:00 GMT"
+        },
+        {
+          "title": "Зеленський розповів, до яких компромісів готова Україна - Радіо Свобода",
+          "publisher": "Радіо Свобода",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHVkeERUWVhuTFRSd0xiS0VGeGNzSHFYVlZkRUVuQkNUbEZ0ckw2T2VTemhOaWNpNENBaWdHMTZJd0ZOZVRzT2lsdGVLTDZ6U2NBanhyWlNFcXdjYk51aUNuMUZHVjBwSFlPZzRuWC1YUXNuX183SktvbHM5SF93TFpCRdIBhgFBVV95cUxPX1JuSnJNa3NvQnBZTjVoUGZLS2l2bWNBUlUxWWNPUGlReXFJMkh0UUVoRmp0dlA4NnY0VXdiZzRoXzY0blVkQnUyQ2cxa2l2Q0FaNk0yMm13amtvY2xpWWhMdlZhcWhhT2VQZU9HYWZCZ1ppZFhRS3NHd0t4enRkV0VGMnRJUQ?oc=5",
+          "published": "Fri, 20 Feb 2026 10:58:16 GMT"
+        },
+        {
+          "title": "Удар РФ по Харківщині: кількість загиблих зросла - Korrespondent.net",
+          "publisher": "Korrespondent.net",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUndZSFhiZ3hqYUZuZlRZbG9vYmt3VmVTdzlWczlVYjR2TWpES0xJNnVWc1dkNDAtNGU5UjBrWlRHRDRrMmtYMWlTcm5oZzkyR2JES09pcXBNSUI2bV9wOUU2M0JsSTBHb1ZPUUNNa056Q0VoLVNkTTU5bUpaRXVCLWlJUFpPRzhDOW54bDNDVTVWMXdTZDFibldn0gGUAUFVX3lxTE85MzhqbzdvNEZ2VFU1Y2JjQVVIOXNRQkIwMlZ0UEsxeUpENXV5Ui0tbHVRMnFuLVZxVlJPbU84X0NQT0E3dnFhV1Fob2FlYVByNVRtanlqTFVNNzhrbW1wRDA2SmlDYnBIOWlEU1RVSDh3clpUcHlvcjA2SnZKN3ViNHRoVnRtR0R0bkpvSjRZMmR3YUY?oc=5",
+          "published": "Fri, 20 Feb 2026 18:34:00 GMT"
+        },
+        {
+          "title": "Вибухи пролунали на Запоріжжі - 24 Канал",
+          "publisher": "24 Канал",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yZ0ZXM0tCTHFFLU80dF83cjA0ZThLejhuanFDaWk4SWdqcWZycVVmbXJDSkUxc240bzZ4eGRmOWhFWUJVUEFGcFJJRThSMU1tZ0podjJ6UVBlNTNaUXN3Q2ZDUdIBaEFVX3lxTE9UMHUtQmZOQ2lqV2hxX2N5MkJLZ3VNcWNUd2NibS1VVDYyaF8tbnl4eXVBZnhhcU5iN3hMWktaZ1pqVnZQNzY5TWxYYmxQQ3VTa0l3ZUtOZVhJRGJ4OXZKcXlpN19Ra1Rt?oc=5",
+          "published": "Fri, 20 Feb 2026 19:02:00 GMT"
+        },
+        {
+          "title": "Переговори про мир зайшли у глухий кут і перетворилися на \"бій за Трампа\" - WSJ - ТСН",
           "publisher": "ТСН",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYjB0NVZXR0N6R09lZ0YwRFQzM0xNQ2s5ZEZWQndxbUdkZ3IwT2tQQWJrSDNOOWs0S2FGNnBtVjFhU2VDSmpwdUVqODlFZ1hoYmZ4ZU45RFRUUk8zNWFKaFlsbVNzMXNqY1pvY3FyNEhhei1RNGg5Wnc2TXFLT1pLR29qWFdWVV9FLWx3SDA4MHQ1djBQV1pYWE1kSDhMMFpvQ2lsX3Rn0gGrAUFVX3lxTE90cnJhdjNGSG9XYlhHeFlHbi1ZUkRYNGJDUHJVOHhmVXlRODYxTl8tWjNYMDlEdTFuQ1dNbUJZb2RRMk5Wd2w4U0ZhdHJLM2h4aGMwaXpFeUFjWkdWMWQydDYyLXdDWmVLMThPTjFIRGJrVVpOVHZLMllHRHVJLXQ3NzBoY2RMMkpRSlJEN0kzSmRlZmJWVDRBdlNEQThoNGNVVjBEQmFCSm9vRQ?oc=5",
-          "published": "Thu, 19 Feb 2026 09:46:50 GMT"
-        },
-        {
-          "title": "Сійярто пригрозив контрзаходами, якщо Україна не відновить \"Дружбу\" - Європейська правда",
-          "publisher": "Європейська правда",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SSkdRM1hTMnRCMVJQM0VYcENKOXJKVGNPNFVfWXJDVnR0T3o3Q081QXhvQ0NJcDFFaUcwZlpNVHIyalZYZWlTUlFHWXQ0MUIwRjlOTUowMkhlNnJfUmFWZTdja1RpYlBmaExJ?oc=5",
-          "published": "Thu, 19 Feb 2026 18:52:32 GMT"
-        },
-        {
-          "title": "Графік погодинних відключень світла на п'ятницю, 20 лютого - Сайт міста Шепетівка",
-          "publisher": "Сайт міста Шепетівка",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM25ZQnV5MXZQTEFkNnQzMWxTTVpCbTQ2dGJwRFFZVWw3Ym1GeDBqZVVNRHJBZ3BvVlFhV0c3cWR0Vk5ENE5NLUpDLTlCcDVBOWRHeEI1bGZFZ0dUN09VdWtQU0VxcVAyUW91Y0I4X0cxYmszQ2pkUjkxN0NUVkd0ODRLTG5hclVKUTkyaU4xRWlwdjhrT2JkQ0VOc0R5eUFXZm9YZy1YZHBvT0taVzcyQ00zWQ?oc=5",
-          "published": "Thu, 19 Feb 2026 18:49:46 GMT"
-        },
-        {
-          "title": "Сили оборони проводять контратакувальні дії на одному з напрямків на Сході - Слово і Діло",
-          "publisher": "Слово і Діло",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcnVVWFNqZ1o2akg2VVNneEtRdXFMUmhsWkFndU5tNWt5ekpzTmZ4bG5UYWxxTHdDMXB3VDJLdVlOS0dhQ00xTmQ2V2dET29jcjhxeVpmUE84bk40eWtyWGtOakFMazlKS3hRU09vRDB3QlJ1UkVpMnZwaTl1MFNaTGNTRjliV3RJdHFzalREcVhMQS04NDZvNlV4LVBLWmdFZXFPOFJWZnUtTkVOTnk4Smt6SlhhaW9MZ2E00gHAAUFVX3lxTE1LMHlmdVhlbWRIVEE4UmxVYW5XYjRxa1pkdWhIWEJmaVlMaFdONU5aZTBoeV9YNkt6WG9LQnFZS2J1UUJDWk9RWEJ5T2dGVk9jeWVoeGdFR011cUhucnBjM3pmU2pTVmt4WTNjVXh5R2tBdkR1YmthSUY2cWdxMDFETG1kLUU2ZXNVTW5QUGw0LWNhY3lUU2IwVXpFU2FZZVZySWI0UUhfc01HWGc5QVNfV1cwOEZob21hdTd0cFQwYw?oc=5",
-          "published": "Thu, 19 Feb 2026 14:10:22 GMT"
-        },
-        {
-          "title": "З'явились фото російського катера, ураженого ГУР в Криму - OBOZ.UA",
-          "publisher": "OBOZ.UA",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDNSYnhnVEVlSGRBNmRMVm5GMHMyb1Blb3I2UDlnSm43SHhoU0VyU3RGQUdrWmU4RnVmV29LRjJfSTBHVU5YZDZqaU1jVHByRGoybUlQb2Q5X2Vma3JfVENydFhXU1dXNDZHdFByZkNZdDZQeFpCaDRnazVKQm9XSDdveE50dTBFSWpYOVhWSjVqZTF30gGaAUFVX3lxTE9aZ3B3ajMwVFVxRDFpLVFSeVhkdGoxZnpjaFowNjJPTHdiYS1yekg5bk9LcWk0ZXptM2tISmlyQ052QWJybl9HZ2hPM2Utdi1HTFZ1VVRPa2wzMU1pSnlBYkhIUWpXUGlQblhNOVpXZnJDcENhZGNfR1RMRnF3TG1ZOGYwWmZHeE5YOXBBVXczbkpkVmVCaElJbmc?oc=5",
-          "published": "Thu, 19 Feb 2026 14:08:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdlJQT19YQ19vWXUzUHZ6bG9OMTZwYkxPcEJCbkUwb1ppQkViajgxOWVZaWlFVV9yUHRNWjFRTERfTzlCUTlDWGIzOHpJc0FlRk5zazNGS0QwNEpHUnliaW5mYjJRWUVHNnlId09hN3pqTk5lZmRGckw5VFZZNy0xNUN3bjdnRXdJbENXaHdSbHpzQXBGX1JiclEyb1VjMDlXVng3WElGNGRqclk0b2ttSk1VV0RId9IBuwFBVV95cUxNdE9YUDVMTExtR0RQaXBCUkZjekFQRmpqdzRIb2FNaXNBUTQ2MWYyWF9KM2llU244UnFVRlBtS3JrYTZuSm11SFpiam1FVG1wTFdud2RXVm9FdkVkaEE0T1ZqMVI2czU4VEYzVjIwelJVaHN5VGoxLUctQ21LY3BaNk9LSTVJUnplQmtmTHJMN3VaMS1sYmVRTWcxOWtJdVlkcTgwUVktb0lMUnFZTi13MGNoUk0wdHc3alhN?oc=5",
+          "published": "Fri, 20 Feb 2026 08:40:26 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Трамп пообіцяв ухвалити рішення щодо Ірану протягом 10 днів - Українська правда",
+          "title": "Трамп розглядає можливість обмежених ударів по Ірану - Європейська правда",
+          "publisher": "Європейська правда",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FeElQbl9zQmFJLWl6TzlxSTBNLTF4VHZ6VlV3emFSMW1STHNQNlltWTlEdThweWE5Wmh2OW9BYllubklneG5HMVRiSEpSVUlMa1NuVUNxRGc0U1BITXRVSmNZTEE4UlBkbE9R?oc=5",
+          "published": "Fri, 20 Feb 2026 15:17:37 GMT"
+        },
+        {
+          "title": "Верховний суд США \"обнулив\" усю торговельну політику Трампа останнього року - УНІАН",
+          "publisher": "УНІАН",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdjliRTdVNTNKc3Y0QmZ5M0ltbWxNc2FOcWZiemRIVzBEYjE0UWltblpTY05fRkxicTdNcFFWa2lnVFlzUGJicUdhU3Q1bkdDM09wc0JyUVF0WjNxaHVSbzI2Y21XQXZWcDVrUnA4cGdXYmtsWURuVUN0Q2R3UVc2a1ZPQ2Rqb2FlMXfSAaABQVVfeXFMT1hxX0UtRDd0ZjJ5Z0wxQzJZZ0E3clNyeW9DYXJqMDRUNkNuUFVPVkcwTmdLQndWTll5NmRRR3pNQzRFaHhocTRHc0dtay1pZG1lSjlYU2dQYm1GT192RTc1bHhBeHVBNzZ2bXBMLW1RZVpMNDFldFg1RmVzWGdWY0dYWWxWeHFtWjRTcnhPb3pZUUVSVUpiZnUwQXVuTnkzWA?oc=5",
+          "published": "Fri, 20 Feb 2026 15:52:00 GMT"
+        },
+        {
+          "title": "Європа пообіцяла Україні потужну енергетичну допомогу: Шмигаль розкрив деталі - УНІАН",
+          "publisher": "УНІАН",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLXltUEFLd0xqYW9ZUHJXdHR5cWliaUNyNjVBWFBUVTJoZEQ0aThVT3pHeVV6eFpobEdIYUEzbGo3Vi1ES2RsUWd0aXN1Y0pYLVA3YXRiTzlnemZpd3M1Y3REMUR3dkF0ckhqc2dadTZrbTRIN0ZNOGxPUUdja3ZvN25Ub0V5bzRvMzMxbjl3N3RTd2ZFRGtFQnAzTnlvMGVCMHh1bHZjT0xjR3J3NFB4XzlQbHQ5Ui1TNlHSAdMBQVVfeXFMTTBMLUZ0WlZlb24tUkJQeUJoZ0pvR0dkcVJidkh0Q3NDRUJLM055NDA4dnJmNEFBcDJPakdmVDZsdDc5WXhBbHVYckdnSDZqQlNQR3gwUjQwaHg5TTZ3ems2aFBvd3RGZW1wUURFakR6a2lMRWpIOTVYV29IX0dla09rdUptbW9wV3hmUWE1ODQ0VGduZ212OV9JQ3d3LW5PQTNmaUpCMjN2Qk5IOE1DWmJOS3FkSWJubnZGTG56V2hfZy1aUlJXaXRiRG0wN09BYUFFZw?oc=5",
+          "published": "Fri, 20 Feb 2026 12:18:00 GMT"
+        },
+        {
+          "title": "У ЄС не змогли домовитися щодо змісту 20-го пакета санкцій проти Росії - Українська правда",
           "publisher": "Українська правда",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sbWRrYW9YWU1VVUdCYjVQd1k3MERnTHIzVnVRY0tkd2lydW9ac0hZTGpwbjZJcXZ1aU1EbzVybjlHVXBidDJOdG5KdEpMdmlXcWJOSDlYUllFV2VOVWRJ0gFrQVVfeXFMT0FraFlTNWVVZzRkeUNIeEJHcXlGQWR4N0hUX0RhcW5PWW4yWnd0NWRMUEpxX0o5QjdwRVh6ajZQS3BkRmM5Y1NfNlpPT1RLcm5wLVg0WjZBOTZjbFkzRG5xR2VWbmNfeGZ6TXc?oc=5",
-          "published": "Thu, 19 Feb 2026 15:57:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vaVdnYV9zYlJnRl9mbzc5R0NrLURadks5NENZSUVESTdoM29tVjQ3cnhDTnRCQ00zaWFpWjQ0d2t6LWprM2xTWTZZcURBWDRQT2RDZ25PcGdvamJhcFk40gFrQVVfeXFMUC0tX3M4N3FNbXkxOC10STFDcS12dVV3NnB5eWVGZ3VLcUEyMkNYOUFTVWk2OXRSNmt1dFFwQkhlVTNOZDA0QXlmQTFSYUgwWkZ6ZjVrVjZMRzN5Vm14dk5hNWJvTlVVUWFFYzg?oc=5",
+          "published": "Fri, 20 Feb 2026 14:41:00 GMT"
         },
         {
-          "title": "Арештували колишнього принца Ендрю, брата короля Чарльза. Це безпрецедентно для Британії - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qdXVZLVlPY1M1eVJXc1NxZE1DT25GMjVlUWVHV0pmMWJUM3kzYkFCS3pmdGF2R2RPUUhINkpjakxHSU42ek5HWE1BQVQtNzFsUXl3LS1MZ1A2emFTVHFTRtIBZkFVX3lxTE5fZUlTWXVXSWplb04xR2ttYzZTU3FJR0dzUTd5QWNaTTJrVGctZlpBSTdoNWhNRnFTVzUwYnNpTmE1Z0NYUEFNeDM1T0hBc1FQRnc4SHpZUUdBMmxiN29iYlYyTUlUUQ?oc=5",
-          "published": "Thu, 19 Feb 2026 12:41:19 GMT"
-        },
-        {
-          "title": "\"Трамп думає, що Путін торгується з ним\": Порошенко вказав на помилку і пояснив, як треба діяти з Кремлем - Obozrevatel",
-          "publisher": "Obozrevatel",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMWxHeS14MmV1MW1tTHhEV0h0ZXBiRS0wMnhsWFBoUy1XRGZ0VkN2dnlXbWN1MkI3emJ2LUg1X1ZTeVdYQzVNWUlGU3NvcXN3RVNITEs2bi1MMDdvSmZQcUhfUzR1djZIanNKQW9aanJvcU5ydXBxUC1xYnhRQTNTYXhLNzdLdnkwb3NPTjRRSXNUS1JZQjFuNGxIOFpXekIwRjl3Zy13d3dST3A0WUoyQUE2dFRGOUFyeXBrMXdlSll4dngxdExfakkxNmo2U3oyVFA0VlZfNUJ6WUtBdGtLTDE5N3ZUdHNPc0VtUdIB8gFBVV95cUxQZG1KTUNUVjRLeG5mSXBPNnNzQzBZbTBUTk53OWZsYlFPclVGcVFPOGFmRWhneXVyLUZKRl9nTmFDQ3FuT0NKZ3NqLXFOVWJ4LURrcXdnQmFoVUpUYWFWNmRNd2plSVZZaEt2alZsNnRBTHpFOHZnaXlSNFZ6OXhZcWdzWk9HV3lrWm9mSGpTYWhHaEItRnhqZ3NuMmhQRy1uM0dDZnExRGpaZnFNcm9DRVBxSTlFMWd4UHZtTTZsV0VNTE5jQ3RQQVZXUllpQWwxVHVOLUZuVS1MdllKeUp5YnBiQjhkVnM5ZHBOTHdRS2dHQQ?oc=5",
-          "published": "Thu, 19 Feb 2026 11:21:00 GMT"
-        },
-        {
-          "title": "Перше засідання Ради миру Трампа: скільки країн підтвердили участь - Главком",
-          "publisher": "Главком",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMU9nY0VoOFZMTGgtNVQ4OUcwTUJDbG8zMWY2aTJ6YThXbmlMLWg3aEswQ2pRWWtMNnpic285cUZvVTRxUUN5Yzc5WHdmTVVUSi02ejNXUTZzb3FQM3BGcnZtNjFPYXRCeUJNQXlEWFZiOHlrWnNFOUtlSTAtQXVUUTItZUVDR3ZtWE14S25BN2lpckRYSmJSX0FnLU4xNlpJeUxtdnR3cFlfQmhadUlWNUQ0THF3R3liYjhaQ9IBwgFBVV95cUxQNktBTVpnc2QwT1lDdDJmVks1SUV0RVEtZXJjYWZGa3NLWDZXaG16SzBMc3ppZTBMQ3htcC1rRDFoMVJleUNDWDhrWmJOMnJMc3hBTTRiWHIxRk9FWVUtOW9EeTl3WnVudjRmRjlkcWJ2dmFRalFDYVB4d0VLRE1TOWxZOXp3eG03c2NBd2U2c25CbjU2ODNVYVdGSzZDNFhnYjcxQ2J0RlVjX0JRS1lhbVNENndBQWF5NmMwaEtEa3BCQQ?oc=5",
-          "published": "Thu, 19 Feb 2026 02:44:00 GMT"
-        },
-        {
-          "title": "Експрезидента Південної Кореї засудили до довічного ув’язнення - Слово і Діло",
-          "publisher": "Слово і Діло",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE5mS1BPb3B6aFpHbU5aYXN5SUlWc3ZpYUQweUFXenQ4TmFKWUthTW9NTjF4VmF4aHFKU2F5NjlaMHJ0SWFNejIzZWctUFEzQmpZSjVTLWUxVFRWR3pXeGxiN2l3ZFA4eTljdEg2ZV92RldyU05TU3VEWS1uajBqTjhwV21UbnI3VTdBWlBMT0hvTW5Jc3hsclk2UVRsTHVzMmI2UzZsZkRQRGI3RWhMcUlB0gG3AUFVX3lxTE5GaVlvMERPUW12c2dpd1ptc29ZTkoyVWRZNWpxMVJaUzFWcS10VWRDaUFueWZQMERhWU9KcGFpWEtya3ZmZWxnYUJBdFd2Y3k2ZWhMUnN1dS1QU3FrVk44cjRnN0N5VzdiOFl5RUt3SUF1bkppZDN2UjRlbnZmc010TzhSUlJrVXRzd1ZJTWl1LUpEWnZMYkZ1elRLZHBuYWVJUExGbHY3ajRiRzJ4UjZTamJZdGxMVQ?oc=5",
-          "published": "Thu, 19 Feb 2026 07:49:36 GMT"
+          "title": "Поліція Британії відпустила колишнього принца Ендрю після 12-годинного допиту - babel.ua",
+          "publisher": "babel.ua",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNay12TDMwQlBjS3lZZEJCMUg2R3FmQmhhc1BiRFRNblYtLVh3VDJHNVdSdTNTZkhXQ2V1WjRjRDMwOFFoNTFwMUFINXZ1LTdqTWFPR3BGeDRsLW9qY2sycGFsUV9TSVNkS2MzMWtyNG9qZmU0ZEY1WlFFd2xtM3NhOEllbjJ0YXlMTGI1UUd0Q0dHaS1ZcFlONmtVWU1tLUxHYWc2NXFXTTNFV29WcktR0gG0AUFVX3lxTE5ZcmRmdmw3WGtSNnFIV2JkVnJDbzRBOV93YXVzSlQ2TENfVDlEX3BxUmlCUks1ekx5UmlqOVpWdTRhSzNtWTF4OU1TMGs4Y1padUNNZHpuNFNDRXRYSVRjeDk3bWVieWVSZ2FpLXNwc0tJd1ZlRy1PZEFQRzhXZWM1S0lWT3Q0TDZzcUJ2UW8wS0tSdzhOZEpfSDlpWDlPQVZKdldZeHd5cXBoMmZHWVB3c1oxWQ?oc=5",
+          "published": "Fri, 20 Feb 2026 05:27:56 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Ціни і відключеня. Як енергокриза охолодила попит на електромобілі і чи варто від них відмовлятися взагалі — розбір NV Бізнес - NV Бизнес",
-          "publisher": "NV Бизнес",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNkdVMGNXVzhHUWNoelhsUWNDbk5fZ3B3VEFqd09KaF9CQ0h3aVVuLWlhNlJKMFhyTk9RQ1FZakJLUEJhTHJQWjljajkxMWxGMkFjY2ZyNlkxcjY3Rmd3UFNxMXd3RUZtb2Z6WWdJLWRfc1lHMnByTExUYVVqVkp2THZUc2NjVnFrTUJmUkRTc1NfQzJiUUJSWG1zN1dMN2YySFFrWkFyUldCNkFLbWx5eUdB0gGsAUFVX3lxTE12MENkeDI4ZkN3eEF6Tk13QVZxa0Vwd0l0a3hRc1F6RldVVjc0b01iWk9wN2pTSkZmR3BCVFRpT2J3QmhuajJJR1MzYWhnaExmamttbVUtYUdnd3BacGZOR2EzSjVkQi01aWcxcFJXTzh5N0Rnenh1R1dCenB2dWZWMlhFSUxnMVNLNkJFS1k2SGhiM29yNEd5VWlIa2EteFpGZjlPd09PRFNCNDY?oc=5",
-          "published": "Thu, 19 Feb 2026 05:32:00 GMT"
-        },
-        {
-          "title": "США пророкують фінансову кризу і обвал долара: як це позначиться на гаманцях українців - УНІАН",
-          "publisher": "УНІАН",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQmlnODJfS2g3dTFUUDhtVmdkWjRKVHRrWXhjcTFqZXoyYU1CS2cxQjNIc3hqMm43QkF6MHU2N0llcmdDMVp3eUN0MTgzbE0zdlM1Z3dCOG55NWh5dlNsLXBsM19pODRxNW1TYU1YZkdGSFBrVkY0Tm5IVGN1aTB1ZEVxT0UzNlNQWDZLLVpGbVdyRVA1aXU3VG9YY256WkFnbnU1YnlRWjBzZnJNOTRQX2F3N3VfN04wZnJlVEJxWmxXa1RZ0gHfAUFVX3lxTE16X2Izcm5sQ1h6aXViMGRwd2ZzXzVybHA5Ul9CU1VJMXRSSFduemgteDZRaVBaOFpGMnFNTFBURkJKX0lzaC04bkxjeVBQTnY0M2ZGOGFiLUFTYU4zdVRXTGRvd0YxbmI4SVE1VURnMzVWMUtzZ05BNWk1eU0wVTA2QWxIanVmakszNFV4UGd2QmNZSF9wUXFwVzlxSERRS2RWbjczay0yQ3FNaXRUTkZRN0FUc2lFU2htTVpyQjRyTjJscW1SLUJ4OF9uSHJTbGxxMVlTMUJERHI0dWF1YVE?oc=5",
-          "published": "Thu, 19 Feb 2026 14:18:00 GMT"
-        },
-        {
-          "title": "Samsung втратила лідерство на ринку телевізорів - Korrespondent.net",
+          "title": "Tesla презентувала найдешевший варіант Cybertruck - Korrespondent.net",
           "publisher": "Korrespondent.net",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNk1XQ2E5VDVwY2VqOUVHWHdDWjBFbFY5WXMwWm4zcVREb3FsUUR4VFViX3VCeGRiZ2JlXzh6Mzl5N2FNemJNaUJnaGJEYTA4Zll4QVdad2dma0VUb291N1pqSHpyX3puek90R1ZacVdDazh2eWd3c1hkellzNE14THdyaTBFTHhtM0lJM25oeGlmQ3IzZ3c0YVlKeW9HNC15ZlZORUFn0gGSAUFVX3lxTE1QY3ZZRGFRbjZMa2JCZjYyWWlpT3VRdVp1bVB6ZjhuYVl0a3lyWGVHakJpMTRMTzZfSUo3LXIxaU02MTdKMXY0RVY4a1hzbjVTWkVNWjk0UnNWSnk2M0VGcEdOSTllSm41aElJX2ZycmhaNnJBbWZtNnkybkgtaUN3bHZGVGJSbkhZT2pBbDRyZnF3?oc=5",
-          "published": "Thu, 19 Feb 2026 20:09:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMUlLdkNyeW90TkhpRjdQVm9EQlEwcjBhamRzRWdCbUFvam9SVEtFa3JzMHIzNVdpa2w1VE9IQURLaFVYdGVRc0cyMDZid1B3MHJhaGRoUjN6bnltRkFPUUFvcDhmeW8tbXV6c1pVVUJaN0VFSHVzM1dRLXVJWTJSd29NTHpOazVKU3JQdGE4Q2NZT1FNMHI4bXBQVUpqWUZJQUZjU9IBlwFBVV95cUxOY1UzR1dEckNCVk9nMkxXQTVUaWkyMjRHczBHTkc5cDhlamZhWUNSNXRKeEt1SFgycjBRd3BqT2Q5RWhVYktLdlQ1Q09pVTI2a2JVTTk2TGxnbHY2UEpKcXJpMDlobERQb1pjR1RFckcyQlFOZ3c3ckdXVVdfQVV4MTRVaU94QlB1dVNGWm1kNV9jYXIzOGk0?oc=5",
+          "published": "Fri, 20 Feb 2026 14:35:00 GMT"
         },
         {
-          "title": "Нова дешева модель Ford майже готова до прем'єри. Фото - Obozrevatel",
-          "publisher": "Obozrevatel",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON0xpSWJjQ3VsalBqNDA3eGtWbmxIZnRDZW5hSGhrVm91em9VMUViVlhnODk2UTlvNDM0eS0xc1hFUG10N1A4Uy0wS3Y1WEFzSGlJUDVyUEhFeS1TSEFUMXdNOTNhU0hiOUVsbEpYSm95TVg1eU5TYXNKdjRiNlBtdVhlNkljb0FBa0NPc2pqX3lTZjBOLW5rNnNfNllvd2pB0gGmAUFVX3lxTE9xTVdIci0wc3FiOWFlQ01KX1dMZFZDcldvYnBuM0Z6Tk5tazNKR0JTRFVJa3FGX0ZidklsbDNZb2JGajZFYnMtcUZKRW80VW93LS1zOS14a0ZXMmRtbUpfNlhJd1YwZEdpWnlCMUdyaHktMzZra2dFcTZ0VGI5dl9wVXRMZk9ZdF9zTjhDd0JXM2Q4ODZ0MjRyVlpBeGVCTFUwd2d1VkE?oc=5",
-          "published": "Thu, 19 Feb 2026 14:05:00 GMT"
+          "title": "Які бензинові авто найчастіше купують українці - топ найпопулярніших бензинових авто в Україні - UAportal",
+          "publisher": "UAportal",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOUJtekdIcndNR2NKMEM5RHlHMjJiaGtPaHZjWmtETnl2dng4SUF3TzNtQlZiTkRoUzllM05mNjFIY0VSZ0R2U2ZZZXJyWjlVbjh2YU03ZUM5N0t0MU9iZWs3UWp0eW9xN1J0T09iNjZneHhBaXF3d2I3emtScWhSaExHNFlrWXhQV1FTd1hadTlvcVBzYUdFWW50cnNlLUFDNTFnX0NNcVFIQmg1Zzllb0p2QXR4ZElMNmpDTTFhc9IBwwFBVV95cUxNdHdjWWIzc1J6VkhYWWVRRXgyV3EyYTgzOFJtLXplRXJNNWJyRkpSVEtOY003ZFpzT2FnU25jSEdZcXBuZ3dLV3l0NWRtWXcwRzNubjBGNzdGY2pxd1I3QmFheUxhLUNQNGRlSFBrUXdCbEN3VFQtYWVyckFKbUl5Y2xMNk0yci10azRMUjkxQnlWRElSdHlQUk95UWliMFlFWlRVMTVhUnQ1WTVEZHV6ek0zNjd5Y3M2bE5kczNpblhJcnM?oc=5",
+          "published": "Fri, 20 Feb 2026 06:30:00 GMT"
         },
         {
-          "title": "Які найпопулярніші вживані авто зі США - MMR.net.ua",
-          "publisher": "MMR.net.ua",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pZGxnQktkRUQ1bWF1dHR4WEtCWTdWREpwWGFjNjAyRi1COG9OT2doMUxUVG5rMGtDeDVCLU9VOGdtLUdod3I0dzRDWkJHTzRLLWfSAVdBVV95cUxQb0ozMEhfYS1qbDloUFBtanVZSjlXVU1kdm1MMHBuM3R1UTlYMktyOGJFQjhueHhXVXp6Xy1xYWktcnF4WUNpalplc1RRd01lMmFCZWpVNnM?oc=5",
-          "published": "Thu, 19 Feb 2026 11:21:46 GMT"
+          "title": "Доступний, але має вражаючий дизайн: названо найпопулярніший автомобіль в Європі - УНІАН",
+          "publisher": "УНІАН",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkJMLXg2UnFHaHdLQ2FPOFBYMzFrVHFyQlhMYWtDdnlTdmlqR0p1ZVlnODlENkdEdk1kQ2FaOFhHS0RiYnlQdFVwXzhkTG1WcjVkd096dUdjYTRHUmNncHVMMUNLWEdBUUVoUVJnUkNmYzBaVXNZV3dfRzhLTVlLcDZQczB3bWVxdHNsSkYtNDlkbi1PNmpES1hZaDFJWnIzVjFfbExvT1pVWmlQWUp1RG1tUdIBwgFBVV95cUxQOEM0eS1kTGFMRWFtN1piTE04cV9FRGNTZ182MWhRdnh1dkhnc3Y1Mm1rMjZnSWVSX19BenBydW9jeUZVcE91ZVRKd3ZZc1E3N2QwYW5HLWQwNVBQNjViSDNLQjRUcUJXMXhIaHFCT25tYmVkOFh2QTd1YjlnRkJlLWJseGpabHpjanRCYm5JVFZQQlBRaGc1VGFoWXl5WGpoTS1XUmpZVTNhcjFGUmI0NVlUT0lNU3ZwbjRMM3VhOFZiUQ?oc=5",
+          "published": "Fri, 20 Feb 2026 08:52:00 GMT"
+        },
+        {
+          "title": "Плагін-гібриди використовують в 3 рази більше палива, ніж обіцяють виробники: дослідження - ITC.ua",
+          "publisher": "ITC.ua",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjFxV1EyZGVwLXlXSDVURjhGZzB0aGZuVDZacGxSVmtlSVFEZHh3RDNqRFVpQ0ROWklsSm9oMExDLTAxaXRwcWpVd2xpb0NqY0ZOMi00QS1YSm9fVDVVd01iVlhVRmF5NmlpXzBseWlTMTN0OHBrbjAzVjlpVDZ6NDJSb0xsNGx3Y0pmUUlJS3dmX0VBZnBfNXp6aTFhb3RMQVR5UVNoU2syVkJ2Yl9pc3FYR1lkRnRhRGfSAb8BQVVfeXFMTXEyLXJTZlM3MEI3TGhGUnpaUzdnYW50T0c0azdGMlMxR3puVll2aGJ4bEZncElwRk1ZS0IxSWo0Q0ZfUG5WeW1URldaS040NHRkeFVLeHd4eUtfZnU2MjljdEI1YUJqSEF1SnUwQ3ppSWllLXJLaWNoQTItNElPc3NMeE5YSjVzVFRsdlMycmkxVXNiV2d4dDMzV2NncFZEcXp4Z0Q0YkpaQ08ySi1WNUFNUVZFbl92VUpMOVVGdGc?oc=5",
+          "published": "Fri, 20 Feb 2026 15:12:15 GMT"
+        },
+        {
+          "title": "Безос святкує: Amazon стає найбільшою компанією світу за доходом, обігнавши Walmart - Цензор.НЕТ",
+          "publisher": "Цензор.НЕТ",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2RHZFZhVmU3aklhQXZLc3gxelVIblExVlJDY1dJUHVqdDcyQ1Z3NVhfQTlsSjJhRFFFX1VtcDhOV3QxdTJKa01XdzUxdmJtd3FWQS1SRE5DU2tyU0JkclJ2dEJTaUhtOEtKZDFiZUkwTlh3UUVuNjNyZE5URl9ZbWh4WUdwekJQNXlMV3dneFlpTFJwMzJqRUZLUQ?oc=5",
+          "published": "Fri, 20 Feb 2026 12:15:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Олімпійські ігри-2026 – день 13: результати виступів українців 19 лютого - ТСН",
-          "publisher": "ТСН",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamh6djNobEV5cC12dEpGa0lLSWN0dk93MEdKcnNCbnJLSUc4Qmd4VUc1TnVNTDIwdG50UTJXOXlMdmx6WGpXVXE0SEpWUGlNSUlkNkh3NExCYzdwOXVRNk83TWM0X21HZUxfX0RSYmRZY1RYX1haODNKUnB6bGxkalhXS3ZSck0ydXRPSTVyTDFVWm93RUNqTnlzUzhCNHlLdzdaWkkxOGY4aDNqREdQZFdNdmtfTkHSAbwBQVVfeXFMTXBMN0M5M1RONFlZNDJJMGJXdU9mdndHYmk3NHotV0pOZXV3b1prMWJfdXFEeGRXWUlKOEx6RVo5azdTR0hWZ2NDY1dTb1BRRGlxcTA1VENWUGZ6aUlBWG1zXzNBbUpZMFB4ejhLTm02U1U3UzZmcnpCTHVZNGozRmozV3BfYWRhWVpzOEpia3ZaTkI2bjQ1SGhRcnRNbFBCTjczVDBJVEZwNjlPZnFBdEZ5cmVONGNLWFRCLWE?oc=5",
-          "published": "Thu, 19 Feb 2026 14:59:01 GMT"
+          "title": "Олімпіада-2026. День 14. Останні й реальні медальні надії України: біатлон та фрістайл - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BRGVscWhIWDBTQ3pnQzdBSGxPVHcxdEg4VUE4Wm9GSVBxYzVOcVBCdmN3V2d6MjFTTU5wQzVic1hrcFM1VTJOTVVzbzZ0SzU4MER4UlRRNnY?oc=5",
+          "published": "Fri, 20 Feb 2026 22:40:22 GMT"
         },
         {
-          "title": "Норвегія вирвала золото у командному лижному двоборстві, Німеччина втратила медаль – Футбол 24+ - Футбол 24",
+          "title": "Українське телебачення не покаже відкриття Паралімпіади-2026 - Патріот Донбасу",
+          "publisher": "Патріот Донбасу",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOHJwTnpud1luLW52U3FRU0ZNOUViZUpaWVRVbi1sNEZ0YjZPck1ldzBURjVIOGVWNkp2NjVoT3M1MTV3VDc5Y3NlWUQ0VHBoNW9MaWpGUjBNWUpRYzc2X293MWEwb3cxdEU3aFZIZHktYURyUlZiV1dHalNnd0ZaSDFIV2VhaVR5b3NVc1JGQ0JIQQ?oc=5",
+          "published": "Fri, 20 Feb 2026 15:00:00 GMT"
+        },
+        {
+          "title": "Норвежець Дале виграв олімпійське золото в масстарті, Мандзин фінішував 10-м - Champion.com.ua",
+          "publisher": "Champion.com.ua",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR2ZpR0NSX3NOdGQtbjFNM2tpeGpfczFqaE9ub0VydDFqZzA5elVmWnBVNHFUMFJ0N05Obk9uMXE1MnNoVnlUOENlLTk0SFJRbk1rekhEbFB6UWp3VzhUMzhtMTlQYk40VXNGMDhvSFZFcG44Uy1qOUhyOHdqbmwtalgyejJfTUJWLVhobzZpMTZuZUk2UXNScnE2a09BZ1B1TDNlaDFOTXVfeWF1NUkyM29lODFPVHprTy1NWVk5M2ZpdnA4X3MwNlNGclRNV3p1VllWZG1aa3YyQQ?oc=5",
+          "published": "Fri, 20 Feb 2026 13:58:00 GMT"
+        },
+        {
+          "title": "Світоліна здолала Гофф і вийшла у фінал Мастерса в Дубаї – нервовий трилер і три години боротьби - Футбол 24",
           "publisher": "Футбол 24",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcFRxTzh1eTVnQmlLTl9JRnFkMFd5eGpJSjdRQ2gyX2pnLW93VVBLazB2QjZsVWJrNlQzLXBnYWgwbE12blJnMmN0SDZoLUwwODRkQnM3dE5aN01Od2FqNjZuYWNSNVZqRm1NOWVyNWpSWGJiM2JMQ3ZLTWVkNTdsbC1hMEtXSDFMaFVwWTh1Nmd3LTFSeFpEVURxajJlbkJGemFPR0ZhbGNETTQzc3Mtc01nNHJvbUYxaXBadDlFWXk4b3UySW14N0JYYTZnOEFwNTZDOVlWQ2NacjJpT25BUNIB5gFBVV95cUxObFpEQUsxY2tCTGtrQkNlZGRtekF2LVZnNlhKQWI3bnIybXZDQXc3WTVwMGc3bHN6ZEhfRUdFWjlKbFJFSnh1YzJiVnZfc3JzZDN1OGNkWlhTaUMzMzBCQlVldVhwOHUxaFZrR2FpS0RuMEcySUhreVp1b1RMM1dOQWU1b0RUM1lCTjFUVXJXSHJQRm9ObmFRb2pOV1c2czZtNXljb21SQjFRX3FEaVFtTjRNb1ZRM0wzcmlRZTJHRHVfc2xWUXExMHh4VEJONFlDU2t0QVdib3M4TDMzNWhqeUpvTXpvdw?oc=5",
-          "published": "Thu, 19 Feb 2026 13:54:17 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOODhmcHJfcW1kNHk1SU1QX0pYWmNuUmlGdl9Cb3E2SDRXODhIM1BKamVRVUsxRlc1cjMzNW9iWE9EcDRDay1FczJzcDFDckxSenNDRzJSWlhRTGxUamdpOGlBMHR6TnVzbDlGenlwWTBFRXhHdlo4V1BkQlZvWmR2OXpEQW56Yk92MjQ0eGFzazlJNnhMZnlPM0ZaUXdld1FMSTZLOEM5NXlHOV8xR0R4dGtwNWEwRkFIMEFzdjhzR1NXSGZ4VVU3U1N5YS0yUjDSAdQBQVVfeXFMUDF6MEROSkY5LXpOc3loNGs4SUo0MndKT1NUcnBiRmk3YkUwSWp1dElPb2I0ai1jTTgyT1dGWW1pZHVUMHg5SkxhTTBDT1drcGI0UFRHVmY4MDJmNThoOEZLVV9uZ1Y2TUlSOEVHaVI3ZHZrdS15bHFXeE5CcUFjZHdtWXdPeTJHNU1uR0dSVGZpajl3QkU3a2FaWHFNa0dlVHpqN29YU0hMZ3Z2U1FVd1l5UEgzdm9GckVKWmlzRFhfdm9LNmlBODhtS0hUYkNnTlhBcEs?oc=5",
+          "published": "Fri, 20 Feb 2026 19:24:06 GMT"
         },
         {
-          "title": "Прем’єрка Литви бойкотує Паралімпійські ігри через участь росіян і білорусів - Європейська правда",
-          "publisher": "Європейська правда",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzQ2lHSjlyaXdDd3dpeWdhdU1YQ2F5OFJXZ181YjE5LXoxa0oxNWJIa2taaFFUa1FYNjd2TGVMV0hMcy1YM20wbkFuSW12c0gxNkFFQjRuOG84VXBGcjAwQ1VIQkxZeV93TERz?oc=5",
-          "published": "Thu, 19 Feb 2026 07:49:23 GMT"
-        },
-        {
-          "title": "Стартлист чоловічого масстарту на Олімпіаді-2026 у біатлоні: коли бігтимуть українці та головні фаворити - Суспільне | Новини",
-          "publisher": "Суспільне | Новини",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLTRuQUVRa0N4OXRpN1ZiM29IcGJnbFVLNGVqWDdDeEtXcC1icVJFQkpRVUtpdzI1WWJzNkJTWVNhcUl0RHhjMmpKUmVpejdhZFlZWWotdmkwVXVZNXVVeG5UMmdUdnI3Y0d1Umxtb005Z0trUmxyTFlHYzBfelNteE5xTmFQRXpzM2VKSDFCdk5wbkJpRUxoMnJPQUUyWFFtMmdMUWljTHV4UFNWcXNmclJVYVBaWWVUSmtKVFdyX1B4T1hkclhuRlZudU9aeTFYVVpRaEJGb9IB3AFBVV95cUxNQkRZWWJKUkVHaTdvcFhiNlJGcGRVam45Uzc2MnlPYnY2M2ZCdjVIel9OVHgwV3Awd2F2YlZyaGtXcXlrcWtTcVIxR2E4TldIRmUtMGRYLWNOc0hZbW1mMThBdEpVLWFLSDRoWjhvMm9UeWdTNnlJSG9ZQVBSN1VweDRFb1B2dWpPMjVmdG9fdmtpWWh6dk1kLWM4d196NElpVFVhS2I2SXVIRS1jVndVcDRldjB3bmQxc2t3S2d2MXg4ZURkbVZqVHB2OU0tclFlbXNER1dBa1FfbkJ6?oc=5",
-          "published": "Thu, 19 Feb 2026 15:00:13 GMT"
-        },
-        {
-          "title": "Іван Федик: «Буде дуже важка гра для нас, але, сподіваюся, і для «Динамо» також» (19 лютого 2026 р.) - Динамо Киев от Шурика",
+          "title": "17-й тур УПЛ. «Динамо» — «Рух» — 1:0. Огляд матчу, статистика (20 лютого 2026 р.) - Динамо Киев от Шурика",
           "publisher": "Динамо Киев от Шурика",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeG5zQmdINVdiNDJwUkZkVUQ5eXNFc1J2amVOOTdEUGY4aUxLWlAxaXBMYXEtNkd1bUg2dlFlYTFKRUJZOHNBdzgxUDMwV1JfNnViTlZCbXMydmQxU2V5cWg0QkNFdEZjUVNSYy1XRU1pY0RSR3lyOWZRb3N1M3labVZ3dzF3YTF6X3pVWWpZWEM1WkRDbDZBekh2N29veVV0R3ZNYzg4cU9ib3prR1IyckY5b2g4eGQ1?oc=5",
-          "published": "Thu, 19 Feb 2026 13:42:06 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnIyWC1RZGxCZFQ4Z3ZvczVpcVlOcUZsRVltWURkS2tlNEJENkl0M2M3eF9kVUlRV2c0RFU5QWpSbGtvTFRrWjlwLXZjRTdhQl9GZ192Q29pZnNZSm5pSXdwVVdBbWZDOXdob1lYWlA1MWM4UXk3dm11RlFFWkZaTjhsQ2JPVG9ham1UUTZvN2tZSlll?oc=5",
+          "published": "Fri, 20 Feb 2026 18:03:09 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Військовий розповів, як українські пілоти на навчаннях вразили командирів НАТО - Українська правда",
-          "publisher": "Українська правда",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JcXhvTUdTRDhDZmEzUks3ODhlYnlBTklZQVMyMVdOeVpOelplZ0FYdmhxWjN1UEx5TlVkT1BCUnZVUWNvWFExWEpTemRYMklvaDdkbVdVOTNUektMandz0gFrQVVfeXFMUDhRbDhYYWF4b240QU5pckZLOVl2Y1hKdUdfVmFyRnRrNUo3dGloV3dvUW40czB0dzhGRm1sNDlsODdVOE5zZlhfMmFDSklqR0NzT0lNRE9qdEZlYjkzLTdIY2YydlJhRV9HOUE?oc=5",
-          "published": "Wed, 18 Feb 2026 18:28:00 GMT"
+          "title": "Повітряні сили про нічну атаку РФ: зафіксовано влучання ракети «Іскандер-М» і 21 дрона - Радіо Свобода",
+          "publisher": "Радіо Свобода",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSU1iYTFmbDNzdHNLdjVlVndHRmEwOFhqUGxLbEtuUW5TQTNlTUZ1dzVHaTBMdGpHZElxSC1vN1JJd1BvX2xoNUlPSndyd0JKQ0VxVHN0U1hBVVZnNGtHT1l4bFkzeEl2Y0g4RUJVaDA5REktWHQ2ajJyTFZwbzFacUtZU3NWSE3SAYoBQVVfeXFMT0VITFYtdGtGTWdxcUNUdUk0X1NZUzc4eUhWTzBmVzlWRlczN08yNmlMSm1XRTNIbGtDb2tYejFndXlfeFdkMGlsOUFISVoxMHRMQ3Nkckh3Z2NaWm9TYkdJUXBTR3E2SGo2eV9TZGVjUXdNZFV4NzE3TkNhcldPaGxPQS04THpnanlR?oc=5",
+          "published": "Fri, 20 Feb 2026 07:26:34 GMT"
         },
         {
-          "title": "У РФ епічно палає нафтобаза - Korrespondent.net",
-          "publisher": "Korrespondent.net",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdW0tdi1uNWxxQW0zMHN0eXd0MTZGdXROQklRZF81eFFTY25lbW93QzBoVzkySmhwMGFKdFZvZ0FldWpmdng3OTJsZ0QxaWpRemdTSm9sUUEwb09OZjFsaHFCWFJjMlBseFJ2bU5GTnNleTJPNU5GVmlPWjVqb0VsS3dvS0haZ9IBekFVX3lxTE9uUXdkcXhvUkpEdG5YSEE3Z2dZbmdKMjZOMFg5OURkZHBIYnRPTGY2UFVpWmt4ZXVFTjhRcTRaZXdJUXZyWTUzY2RZdVI1WTMzRVp0aFJKb0hwYnVDQ1pTY2ZQaGh1VHIwWUh6a2ttYVJvMFJFd2MxM253?oc=5",
-          "published": "Wed, 18 Feb 2026 23:21:00 GMT"
+          "title": "Китай постачає дрони до росії через Таїланд – Bloomberg - Слово і Діло",
+          "publisher": "Слово і Діло",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTFrS1U2OThWV3JkV0dvS1hlQmJVdUlVUzRwNkE5LUljcy1xQ2lXOHE2SC1Ud2pqdjBnT0VEMVVxM0lpb1VlR3UxQjJPbVdUY3I1TUpWWlc1enRjalBuRFdDWmh2NE9vcXFEc1Q1aXN4LUlJSVRORlgtN0FDc2RzTUNUTmUyb0Eyay1ZR21OME05S2ZLV01ldWUxczhLZ3NoU0h4M0NqVdIBrAFBVV95cUxPNVFSOGF1ZF91TFV6V2dvejlGQ3Z1X2doTlpXVWVCMTFDdDJxRUtfeC1TWUJjZUVWZm5KNEdfT0FJM1Bva2djdGIxLWZrUHFrbkdTZk45MWhaNlVtcWJnaVlWdy1ETGJOeE5fdG5Obnl4VFlQMm5yQ0czTUlnSXlaVVdiSWppcW9vR1ptakxrek1CRWJzX1doOUpwcnFjSEJWYkZubi1nNUpTZVpR?oc=5",
+          "published": "Fri, 20 Feb 2026 00:49:56 GMT"
         },
         {
-          "title": "Скандал на Олімпіаді: замість смартфонів росіянам видали засоби гігієни – що сталось - БЛІК",
-          "publisher": "БЛІК",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGxWNEdvWHdUaVVRM0JZZ2lCS0lKRk5mWi1mMUwxNWpOcU0xWUR1MVBnb2VZbUxYaXJUVl9YVlJtelFLekJldDN1OXlSTHlNbENwb1YtMUtGNXVINFVWT2lXcHZoRldQZEt4OWRGdmNUa2VNNlA0ZV9fa1VwNUMtWVgxcnRzQTFGeGlhNklMb1ZQdWhadVZaUmktZHFDRmtlNU1wTTBuUjFnVEhvSHBv0gG0AUFVX3lxTE5hZlV1WmRCVHZsaTFMUlQyb2JtRTdielpMNTRoVFNDSnpvNVV4b2Y4a1hXTHluNWVPbnJFbldCbXVma1hxSEJ3OERRVHdaand5aHRJVFpEX0JPUi1BUW9VdkZRaVpFeTdOUS1tR1JTNmhSZ3JvQ0UtczhmckFIVkJTbEdmVGdWOTdOVmZRcUw3QkRDN0ZKRTJzck1ZZHJzbHZBNFUxSlZSNnNZbFFjZ1E3b2REXw?oc=5",
-          "published": "Thu, 19 Feb 2026 07:32:56 GMT"
-        },
-        {
-          "title": "Помста машин: штучний інтелект атакував людину та намагався зруйнувати її кар’єру - ТСН",
-          "publisher": "ТСН",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQajB6N05uRGIxOVdYQlI4ZkRiNFZCVkdONlRJZDg2WUVtSzlWQWdNMk5kdEZPa3RIekRPNGtjQ2M5Vk9DVDFxSlIyMGtGbEsyZFJpLURLcDl1dUxEQ2VBVmQ1SjJXS3M3Sy1FTjN0R1p2TlYyZnF1TlI1ZTBtR2lzeWU4TnpVUnJvQ2UxWGJYV3dMUmVTeGNSdWhtUWUwT053cjg2OU1oaTdjVU1ORnpLSHRSckllYXE0RHViQnhCaW43d9IBxwFBVV95cUxQYWRCNko1Wm95bFctUlpHU2lKOWpjYmxkbzZCVEJwcXN2MnIxWUJlMVFQbkFUYm5aUDVQOTh4djJqVUNaX0ZyWHJCVDAwVjNuNE1uQU5vZktUbHMxazJLSmdFT2tBTXBEUzF1NlY4cTZhSFZpd0wtdjREVWtHbERaME15Si1IZmFzWnZQTDZRbjR1S0JJakdULS1EdmxFeDJCVjNiZjZ4eTc2ZlJ5cUVTQlNQQ3ZkMlFDSk1zZS1jOU03Q0cwdUgw?oc=5",
-          "published": "Tue, 17 Feb 2026 08:49:52 GMT"
-        },
-        {
-          "title": "Ворожі дрони знову гатили по Україні: скільки вдалося збити та чи є влучання - 24 Канал",
+          "title": "Українські хакери виявили, як оператори російських дронів використовують Білорусь - 24 Канал",
           "publisher": "24 Канал",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1pYenFYb2JuejRlOUgxX2otMU5YUjFISTJVeWQ4R1Y0eTU5MVQzSndCTGdBcWVHQ2xzc1laOWZGUnZ4MzdzdjBTY085dTdTM1ExX3NtS1hmVWc3QXpsdmNxRklld29kOGZpX19lYXctWkt4S0haMHpiWkhCNnpvaFJFcG92ZXFBQnNBeUlB0gGTAUFVX3lxTE9GWkhYTEh1eGludFRmeGtMa255dmk0ckRySV9adWtKRTFkUTlCMVRaM09zN0Q1Y0RfZmsyM0EtZFV0ZXp3b0hDN045X25KVldDR1hRSFhtODJNUFk2emNRdUV6Mmp1eTFoWXMzZE1KM1NBSnp1RTBraVlNUzNEMlNCQktuUGllYW1nbUlKVVRsa2Q1Yw?oc=5",
-          "published": "Thu, 19 Feb 2026 14:28:46 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWJEVjlxYXFSR1NybzZMckRqeGliY2hqcU81TkZ1bWFEcWFDMGJ0bW1UWk1SX01ieWw4Z1NPdUlXYnpHRm54LUljS0IzNFBNZFhpVUFBd1o4MUw4YkdlYy1pc1EwZzBBY1VvRkJFSlNpNzJqN01raV82ZllHektBcUhqb1oxV1gxektJWDZ0blpPSTVX0gGaAUFVX3lxTE5ZTEdkTWdoVHRSLWhzd3FuQ2ZaaVhYc0tlQVNYaXBBelBXczh3OUE4Q0JuWmhTcl96LXkwLW50NTV6cXdEbHdQYnRndWJLc210al9ZWUxVajhEYkpxVWFDbkh0amoxV1BsN3pweDBOVVYwa2ZRNDZiZUg3YkNySXhpYjdzT1Q0QlV0LTRkMkhuZ2k5X21BSnB2akE?oc=5",
+          "published": "Fri, 20 Feb 2026 20:13:00 GMT"
+        },
+        {
+          "title": "Нова загроза для Одеси: що задумала РФ у Чорному морі і чому в цю \"гру\" можна грати вдвох - ТСН",
+          "publisher": "ТСН",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTDJ0MUFlTnVvcVlnME9GTEFjMEtORy1ZWmQ2Mi1aYl9NNWZmTW54N09pQUFPcTEyeXhDOGE4cmpzM21Cdi1uc0RsYlktcEx3MkpIa3o0ZnBwWDlSbE5yU3pYRjRmWGlYUk1HUWdZd19BN3k1c2lyTlUtRXJLMkpFbC1kUEdVWk9CYU1qVlhEVFdWNm9EeTRfVGpzM2xtbDQyQkk1V1h6MGRWaERvV2haeG43cUVlbkZybXd2X29mNzVGMlZZYVVBZE9IUWpZd9IB0wFBVV95cUxPaWduT1dHNFVteV9LZDF0T3pYYUF4dHhxNTBkZGlzRm5uRlBlcjVHOHBlSzFWcktubVhvN19xZHh3QU5LVjlfQTEyRDlJclJtWXFKZzBsUHZKNmRuQmluamQ2TmtzVnRZQWg0S1daNFM4R3RlSjNzUjBOU2syQ3Jnck5CQWdqUFduU0VzM250NTlGdXN3OFJ3TEkyMlo5djNBRy1hR1ZBQkV6dXBnY1pEQk1aN1J3QWRPbkpSUW5NdFRLaDVoWGZ0YmF3LU9sbVhpd1VF?oc=5",
+          "published": "Fri, 20 Feb 2026 04:30:00 GMT"
+        },
+        {
+          "title": "Крим масовано атакують БпЛА: під ударом аеродроми - Korrespondent.net",
+          "publisher": "Korrespondent.net",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnVGX0F0Rlo3aHJkU05rMVJES2RwLTBobTNmOGN2eGdsbGF5a0xpSGxRdEdxMzZXTVVUVnFYcHBzZTgzMGc2Zi1fakJhWDRsVk8xM04zWFVvOXNjaV9pNDB0UTY4U3NCTVVSM3hQQ19TRGd2WnJhWkRMTWdaUG1sX1NUZFVVQ0VQNGZLdW02U3h4ay1iT054cjVrTjd6R1nSAZMBQVVfeXFMT2dXTEIxMnpQTDlTZFhoSTU5TmRaZHc1V0lGTnhmZkY1MTFJZjRUcm5GdmN1QW4wSUVwWXY0UW0yRWJINjJScnpYTUdfNVRPU1RncTlDZ1VRalZHdnFiVGsyTXNPdkZSUU00cGVwMk9mOXZ0Nmppa3VxREFBa1F4Qjk0MlJpOUZvclYtMHo5bVBtamk0?oc=5",
+          "published": "Fri, 20 Feb 2026 01:28:00 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "World Cup tune-up coming to Cleveland, when Brazil plays Egypt in June - Akron Beacon Journal",
-          "publisher": "Akron Beacon Journal",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPclJub2ZHX3FnY2NiWG5RWGNLWHpWN0NvRm54TWVudGtvNzRfSnppMDQ1bmdLZ25pZFJfNVdxa1RiTS15aDdyZUxRck10bXBMN3pJcVF4ZHQ2MlVjeHE2NUZKTjQ0Tk9PSXlEa3lBN192b1IwWjQwX3BKTnMzSGlhRXQxNVFSYTZUaEdvVFRJdVRDcFJmUEREODY2bTdGeGp0eG45Tm5zSk5yUjZNRmMxVXNFRmFObHYwSG5rWk9nVnBBa3RXaW5iemIwOXMwU1p3QnhTMFZyM1BkTDItV2xLalNGZHdscjMyeDFsUDBVVQ?oc=5",
-          "published": "Thu, 19 Feb 2026 18:06:00 GMT"
+          "title": "Arlington Museum of Art to display soccer memorabilia for World Cup - KERA News",
+          "publisher": "KERA News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3hPUWUtckpGU1plZjZ4SmVQZ3FsNENyNmJIS3VWeGxOMXdhd2NUUlhzaU1TcnFiaW5RSXJVZXNGUGxWUVZZTTF3R3VtcEx6NnFmS3BFR1hpZTVpemR0NEV3X1NZUmZxcG94OEtMWngyTXoyN1JOLVhFMEJpQmFMYjdsT2h5TUNtajVoYVRwZ1BUV0ZhZzZtYlg3dFFZRDhsS0ZxU1h6QXJYb3Z4aEZ6OS02VGYwWlU?oc=5",
+          "published": "Fri, 20 Feb 2026 14:45:32 GMT"
         },
         {
-          "title": "Cleveland to host Brazil, Egypt in World Cup warmup soccer match - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2U2ejhjdlBVdzB5OGNNcTBXNFRMR200blNJNDE2Q0F2X1h5ZU5jR0UtRkhPNjA0by1YcUVPZTVxWG9sVjNzZjZTVXhHMTNVYnEyX0RmQUdhLUE3Zmx3T1JtRE1lR1VmYnAyRHhjT3NPNGhGZ2plYWdQSW9oX2xfcjcyTzdQTHlLR0Z1MDNKRkRkekw3bkVsUnpEZlZpVk5TUGNpZGE3aTlpUlJVMVHSAcIBQVVfeXFMTmlhSHUxdkFacWd1bG5hNktrVVpBNlpheFd1QzM4RDBoazE0YXJLTzl2Uk1DZG93U3QzUHRlMEFyZVFvOVNRbFZtclJJMjJnVk5fY3VNaDVtV0FtajBuZFYzczZQaDVUVmxDbWRPR2RuZGFBWnJIUWM2ZUppcGU1N28xOVlGbXp5NFVzblFNQUwtRTlENF9LWFpPay00VEd3a2xHOFVtMmFQTWhyMU5mWVVqb1d5SEcxOXVMUzlNUlNxcWc?oc=5",
-          "published": "Thu, 19 Feb 2026 16:07:00 GMT"
+          "title": "Prestianni told UEFA he called Vinícius Jr. anti-gay slur - sources - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnBLYjRXS2dVc3ZrZzJDR0p0OE5BSm9IQUhRUmVLNldiN2JVLUJvT1BGSkgyMHVsczA1enJ0S1FMckc5NW96SjFWUTdGYXUxeUlJczdaRWRDSndzZ0t1V2ozdkI3bkFjVmZGSlRKVW1WWlk0ZFBpdFF1X212U3NWVjhfYmFZNnl1blNyRERjWUpPX0pVVXVVTzh4NFZ3TjVMWXB5ME9SNA?oc=5",
+          "published": "Fri, 20 Feb 2026 20:44:00 GMT"
         },
         {
-          "title": "How the MLS plans to convert World Cup interest into lasting soccer fandom - Digiday",
-          "publisher": "Digiday",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaE92cjNwQUFLMExiWDBnRzdzd3QtTllvTW5kVEJmRVV1dlZ4a1UxNVFaOTBLUWhTanRRcEJ5OGRkRWJkb01RR082WDBLTTJpbURzZTYzczEzR21fUTVrNjRwak8yT1JzSFkxV1NWOUlfSmNlTW9GdzNDbURrR25CRXZOYl9uNnNKSDNBX0RHaFZwdkFlRXJrX3ByNzZWTmZlbzhHRWJkNG4?oc=5",
-          "published": "Thu, 19 Feb 2026 05:03:45 GMT"
+          "title": "Major League Soccer opens the season with eyes on the World Cup and a schedule shift in 2027 - WFAA",
+          "publisher": "WFAA",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOSEhhaHZFaTdiZzRzY3FhTFZKLXdna3hQenNaUnI1LUF2Vm9zWjRTUG93ejdYVExkNkJSTHpldkY2VDIxTnlDcUNwandwbDBhZmlyaEdXRmhtN2VGMlpYRkpZVzdPZk5Vd2hUbktBZjRVS096NW5hU0tKSG9tOVhqWXdYTERkMk8yS0lhVmM1NGI4aXZHd0FxbW5xME5Jc0E4cXBMZW1yRmVCbDlpMVM1d2ZjWHFGa0h0MGVVeklQS0VUbkNsSzRFdkJhemU3WXVab3ptSkR6aFM3UTNBMU11MkZ2Qmlack5qa1RWTkRaVEdlZlFPNEtaQ0E2bk8wbUZodEJpdlFPRVMyWTd6VFNHUHBoRQ?oc=5",
+          "published": "Fri, 20 Feb 2026 19:38:28 GMT"
         },
         {
-          "title": "FIFA head announces partnership with Board of Peace to build soccer facilities in Gaza - The Times of Israel",
-          "publisher": "The Times of Israel",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSjAtYWw5YlRRZmxnZU1iS1lCNkRKODJnd2J4VFd0eFc2NG5adk5ITFVCdTBtYW1fNHg1aVhsdFBab3l0ZFhsWEJ5ZlpPSFFvWEFoc3R3WHJnSEg0NnY0QVlZT19aUU4ycm1RQWs2THR5YWg0dDlTajFTeE9iSVp4dS1fUmUtOFc0Um9lVlpkVVh2OUtFa0lDdVdqTjlwdnBtcG9MYW9TTTI1SkpGcl9xOGJ4S0g5RXlOaFoxU2FPTVA1ZC1KTWNZOU43U1E?oc=5",
-          "published": "Thu, 19 Feb 2026 18:20:27 GMT"
+          "title": "FIFA and Board of Peace to support Gaza reconstruction through football - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2NxSGNvM3pLZWZkaUxzbEs5M0pDT1Q2VnpjMXZ3SkpPeWZIQmctNW93SVRHNGxlOXdQTks1N0VBMkJ1dW94S01FNU9teXdwdS1GT3h5M3JrcGktdEhLSkEtSE9zNlQ1WFRuc285XzJ4R2VKcTJ3bGNsazRadnN3U0loV196REJnbVFjX0d4SUo4em5oQzB6WTlGdWJqY2YtUkljOVhB?oc=5",
+          "published": "Fri, 20 Feb 2026 09:20:52 GMT"
         },
         {
-          "title": "Lawrence, Rock Chalk Park to host Algerian men’s soccer team for World Cup - WIBW",
-          "publisher": "WIBW",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3NoMUFlTWJmZDY1dkx6bjFveDR5cXlMbHlTWFUxcTRsb3JSWXktaGZEeEs5bTJsVE05WHM0YTJmX2xqZ2w1VFg0VW1Zd0F0dERRazV2NVFjRE52SzJ5RGwzQ0hNZ2txTkJrajl4T1J5YXdYbkgwRHBLUzdjSlhCSmx3ek5TUUNlbXJyT3JmS2NseHF1LTBmNUl5QU9rcmPSAbMBQVVfeXFMT1FzT3otTkc1V3BuNWpWSmZLOTM0X0RXRFJmQTBqNjVDQS05dXlvMmVQN0ZJcVM5YUpYWElWcUFaeWdtRTF4OHdzY1RfNERleEZvVGZ1S25pQlhmZ1JScUhrYnliR0dkVlJobm5wR0oyQXBBcjk1QU40SXpuejhrNHNRbDFJUDFoak9wdk5Mb0RtYU8tME0tSUZYYVNuVHNNSDlxNWxyR1k0anJwT1BYc3gzVkU?oc=5",
-          "published": "Thu, 19 Feb 2026 19:51:00 GMT"
+          "title": "Report: FIFA Plans to Build Gaza's Football Academy, Major Soccer Infrastructure Projects - Haaretz",
+          "publisher": "Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNX2xtX05RX2oxRXp1UFBwY2F0Y0NCcjBKOWtaeEZFVEw5c0c3eVlpZkFJSk1ZX0MxZ3BpT0ZRbE45anFyX2ZPZXVLclhzYnFYOUNwZ0NjRVRFaHpsdjVqWjhrQmdkU2NpNkp2TFhaV0lYXzN3UVdnT2tQQ1FYWTExQmFJZ0lxNWVnbm9yNXBQZmpYMXFDM3BXUFZyUld1TDRfS0U3NjZOU0o2SFU3RlBROGFSMFpVWnU5aVBzRGY4a0xaYkNPSlN5MXBLNXpyZEI3aERXTnNlT2N5eTZQRDFnVVVQcHdJZVhhOUhfNWx5d01LVFNLaXV4YVBmaC1aUVdwMHlCcm5yOA?oc=5",
+          "published": "Fri, 20 Feb 2026 13:23:00 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Live Updates: Former Prince Andrew Is Released After Being Arrested Amid Epstein Revelations - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWWhaUnJicm51WHpLWDVEV3JmYzhNekdjMmRwZ3BPUVNFU0FDZkp1NTlqWG54eGk5Rl9zSGpDbDJoMmVPX215NEp2Wi05aTZzdXR3LUxQQ3hfWDBDakJLY3lSamctZ21QajFyOGZjdzJ4SHZndkRCal9UTUhOQjJYX1RRWQ?oc=5",
-          "published": "Thu, 19 Feb 2026 22:34:16 GMT"
+          "title": "Tributes pour in for actor Eric Dane following his death - NBC News",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEdVemt6N3YwcHdGWUNseUs0V1NvNjlrSlBUR084dFdIUDc4MVNvR1c3RlFrc2hpcEVYZGxNMW41Z1ZDLWFWekZRd3hiS0h5WGVSZGJRcHhMOGpveUpYSlF5ckNIa0FhS2wyQ25rakhkeHVCTmRCM0JtYjd2alJ3QnRJdXRGZWZqOWd2bVJJaU01MFdpQ2d6RGg1MUNaQjBP?oc=5",
+          "published": "Fri, 20 Feb 2026 21:34:19 GMT"
         },
         {
-          "title": "‘Toy Story 5’ Trailer: Woody and Buzz Reunite to Save Kids From Technology Devices - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUF92anludTBqQ1lacFJkWDVQbDVBeEdfQVNNbDBYMU1Hd2F1VDFFR2p5eGhHMlQ3bEdNanFGei1yd0R0eS10SmRFcVl2YUlEQnF6XzZNSW5RRm1uNzFMVlBJLW1oV3p4cE53UURJNENKU1I4LU5fbGFyeVhqbEVLSW42Yw?oc=5",
-          "published": "Thu, 19 Feb 2026 17:08:00 GMT"
+          "title": "Hilary Duff Calls Relationship With Haylie the ‘Most Lonely Part’ of Her Life - Vulture",
+          "publisher": "Vulture",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03VWRnZDJsV0pzZ1hFSDB0eUNBWDkyOFFLVVpudkhrMGhxVi03ckg1Yko4eGF1MVlhWFlDelhpOGVkODI5M01tc081QkpwRVpzTWQzR2xCM0FLTGFna1VrS3RpZmdsUEhybkl5eGJocEE5a0x5NFFv?oc=5",
+          "published": "Fri, 20 Feb 2026 18:37:37 GMT"
         },
         {
-          "title": "Hilary Duff Is Ready for Her Pop Return - Rolling Stone",
+          "title": "Alexandra Daddario and Andrew Form Separate After 3 Years of Marriage - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfUFNQbXZaWFRoa1JPUWlXbW1HWkRZMFFJX0Q3RDNxU0pBVEpqampsMFFVX184d092MHhlaF9SczJaZG8yZzZsN3ZPNldMSE44bnJEZzZtQkdEUWpVZjJxVThLWmhjZnNqNUctdTF5ZEFCOGVyd0U2MjdvSQ?oc=5",
+          "published": "Fri, 20 Feb 2026 21:38:54 GMT"
+        },
+        {
+          "title": "America Is More Obsessed With Elvis Than Ever. The New Concert Movie 'EPiC' Shows Why - Rolling Stone",
           "publisher": "Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTVzZ3MtbnlaMlNISU1lNy1Wa1lQeTlHempZdzV6WEdScWhCR1NJUUVMVzJJcHVQOUI2V29MbmNnNDFJY3lNZ0lnakp6M0lVNnI1OFEzRks1eWVOQzVkWkd6Znl1ZmM5MkFWOWlwRTN0cFJWTnBuLXNIOWIxUHY4ZmlnV0ZZOXFPbnJNRkthakFSUjczbW5qSElNRzFVNldENndTVlNnYW9sUW1CazRVVg?oc=5",
-          "published": "Thu, 19 Feb 2026 14:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHhzTTdwcUp6Y2o1Q2ZWSUFUb2tMODRyeWplTVJTMjZnb3VVNllMbF9ieVlSWWlOUE1IMV9NMm9acUFZVzdGalp5S20xYUIxT3ZyNk1KUnh1UHVtY0oyb2E5a0lPOHBQYUNlX3RZV1dZVVNoaUZsb2tIT3Bpb0Z0OU56U3A1VWdjRnpzTkx1eUw4Y3BFZ0RQdVU4eEYyZHdHd2FaWVdTdGVWQQ?oc=5",
+          "published": "Thu, 19 Feb 2026 15:30:00 GMT"
         },
         {
-          "title": "Stephen Colbert Sizes Up R.F.K. Jr.’s Workout With Kid Rock - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVHQ0Y3VNNkZZVm1UYkdEWkdQZXB4TXA5UEszeWp4Y3pfenBieXZwNHhsQTZFSmZ5eE5QOV9DTFNrdzlnLUlleEM2d1RVeG5lRXRZYk9raDRwY0lNSy1peWlYTWZacmx4U0pCM19RUDJobDZrRWpkdGd4NVFFV1lUckd4RjVHeUZCQkotNEdCNHhDaWg1VW00?oc=5",
-          "published": "Thu, 19 Feb 2026 06:41:03 GMT"
-        },
-        {
-          "title": "Crew Members Say Shia LaBeouf Was ‘Completely Wild’ on Set of Recent Film Shoot - Rolling Stone",
-          "publisher": "Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT1Y4VTZjMTZ5SklDQzQzb0lycmlZemFzWVdQdFhaZF9EWTNSa3pvb1g0YndKT2htMDllQjljX2txbVpiRmdVUUdzazJnaldPTDVYSHJFb05SSEtTNk9yNGItNGVNZndoVWQ2Z0xtbTFmRlVBY2NHYnZPTURtd0o5d3FDQm8tMXZFUVBibzZ4Y1NjTmZHQTZpQVlBeU9JTE1zQVYwdDdHaUxkVm1rbEV0c3VSMVpfdw?oc=5",
-          "published": "Wed, 18 Feb 2026 20:41:30 GMT"
+          "title": "Rapper Lil Poppa's cause of death revealed - Entertainment Weekly",
+          "publisher": "Entertainment Weekly",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Xb2U4dS1GbUVpY0FxbDJyWVBsRFlRX0xmVjVPQzlFUFFKNURaQWwwNTk4V3ZQeXItRnQxREM5OVBGdnlzUHZwTmtWUFlUSkpwS1FENnN2TzMyWXRWbVlpLXg0TkVLV0VlMl9MdUotcUNwdw?oc=5",
+          "published": "Thu, 19 Feb 2026 23:35:05 GMT"
         }
       ]
     }
