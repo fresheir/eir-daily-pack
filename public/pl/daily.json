@@ -1,7 +1,7 @@
 {
   "market": "PL",
-  "generatedAt": "2026-02-22T22:24:12.060513Z",
-  "validForDate": "2026-02-22",
+  "generatedAt": "2026-02-23T22:40:11.369335Z",
+  "validForDate": "2026-02-23",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "\"To jest duża pułapka\". Ekspert ostrzega Nawrockiego. Chodzi o program SAFE - PolsatNews.pl",
+          "title": "Burza po słowach Tuska na temat Huty Stalowa Wola. \"Upadek\" - Onet Wiadomości",
+          "publisher": "Onet Wiadomości",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUJFM19vS2ZQQnVZVktuWGV0cm05R2ZjV3BVTmZFSldnWUVEd2E5WGtrT2R3NXlDVzlVa2NmZm53QXhCVTNSVUt1cFlGUFZlMlJPYmFHOWx2T0NuVFcxbDd5Q2E0bnZvMEdwVXo5cnBfcXE1S2RFSWsyeE9teGNpWXppam1kUzJSeUdud1YxTnc2NEJ0ZUJRNzRqTW1QU3VVSTM1RzBrNTVfamZXbnc?oc=5",
+          "published": "Mon, 23 Feb 2026 16:35:59 GMT"
+        },
+        {
+          "title": "Alerty w 14 województwach. IMGW wskazuje na poziom rzek - PolsatNews.pl",
           "publisher": "PolsatNews.pl",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1piOVh5Y2pDTm50VGVNUFlrb0daZUpyMHdPRFczTnkwclJhVEMzVUJYTzgxMXd1dnJWb05RZkozWHAwVmVaeXkxcUZqckR1RkV5b2pYU2FRLVFaQkt4bFpBT3MyUmJ0Rk5uTC1hR253TFFHNU0wdE9velc2ck5PbzcxMVpfWlM3M1padFZDYWR2SjNqYnRjWkhXbFF1LXN0YXljT3g4ckFEbGx6NjNCZzRLZktXUWh1RFJB?oc=5",
-          "published": "Sun, 22 Feb 2026 18:46:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2ZfQmI1WjhtVGhtM1dJUDBqMm5FS1JUYklWSmZiRXIzS2RIaDdXY2JfS2xvVm1mNFY2V1JuVHNhdFZjd1ZubnBpTnJmVTdCZnFZaHpuREV4a3RBSUdMbFhiUC1VUlpSamoxS3NLOWUwLWNUQmxXZEh4YmdlazJHOV83NTh3QkdwbFJMXzVuVkRDZFkzeUZVMlVUOVBnazN6eDVrc3U0eno3Q2JXMlFvVg?oc=5",
+          "published": "Mon, 23 Feb 2026 17:20:00 GMT"
         },
         {
-          "title": "Włodzimierz Czarzasty zabrał głos po śmierci Jana Pszczoły - TVN24",
-          "publisher": "TVN24",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXZfUW9VT0E4bk5nLVV2NTBybXdTMExQVW5MMFBrZVk1RDZaM3ZIVHllWEVkSUJCNzVadG4xYlBKVEhsMlFmaUVtX0xTM21FNWVWWFpKWEwyQkctSTF2a2pLcFZYU1BkY0k3NHdMY1BraFZxNldzRGZjRU1kdXpadnRVbmJYMlhtcjFMcG1Sd0JBakdNYUZxLTBRTmprTTdjYXRlbFpfZW9PUFRaZktHeGlnSQ?oc=5",
-          "published": "Sun, 22 Feb 2026 17:24:39 GMT"
+          "title": "Funkcjonariusze ABW zatrzymali Białorusina podejrzanego o szpiegostwo - Wyborcza.pl",
+          "publisher": "Wyborcza.pl",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFpXNzhqY2hBdkp2NWhaYmJRdThIVHFkWG9fZ3JYNkF2bU8yWjdiOW9mQV9ia3NMMlhSd0syUGFEWlJldVNjWkZsOE1GNmp2elBGNVlTZU9rYzdvMjd0ZXhMZEc3VXVCU1NmZGlnc3pGOEVPa2l1RDUxeDA3OUdOU3F0M0cwR2dfNHAzS3hUb0JBbmc1ZTZ3bGpqNE9lbXZ1RzloWGR4cw?oc=5",
+          "published": "Mon, 23 Feb 2026 09:00:50 GMT"
         },
         {
-          "title": "Ciało młodego żołnierza w Stargardzie. Miejscowi mówią o czarnym aucie - Fakt",
+          "title": "Oddał życie za polskiego żołnierza. Wniosek o najwyższe odznaczenie - WP Wiadomości",
+          "publisher": "WP Wiadomości",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWUJWVkdSMmg2VU4zMGRLcXhzSFNqV3lKMWUxdmZnMjl3czNDZXJaY2NPLU9seVNTM2M4eC12Zk9INWdDdGUxb24yMnpfdVhjRnVpdlA3M2xsdDJHT1BaYXZRSEtONndEQ0pGQ0JXWUE1QmZlZTlQbjZWVERNcXRUeHpnc21ERjhmVVR0cUdPRy1JTjc0bFZKTUxxUGVhOHR4ZXMxVmlDWFlKMU12VXc?oc=5",
+          "published": "Mon, 23 Feb 2026 19:22:43 GMT"
+        },
+        {
+          "title": "Co zrobią ludzie Morawieckiego? W PiS się gotuje. \"Obawiają się\" - Fakt",
           "publisher": "Fakt",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYlhvdjBOc3JLUHNLSEMyUUFGblJNSmVTZE5CcDJqX3lIS29paXc5M0RYbGVPSHpoMzM2ajh3Q0k0M1RpVWhJeTFnOWtJRE9tcGo4WTJ1VFc2Q3lSUVd3VDBFaGx3TjhOWkZFci1HYWFna2tNdW42TGY4Smphb2Q5dUYtTlZGOG55eUdMVVZuWGhUY2lOUmRZV2FIdzh6VmZmRjVZU2xaOEdpZFBxTHZubHN3V0JIMkUycDZTa2tjSVRGVGc4eUpQMA?oc=5",
-          "published": "Sun, 22 Feb 2026 14:31:57 GMT"
-        },
-        {
-          "title": "Mec. Lewandowski, adwokat Ziobry, pomagał pisać ustawę kagańcową 2.0 przeciwko sędziom - OKO.press",
-          "publisher": "OKO.press",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOEFUQUJjLUpxRmVpOWNybkJ6T2VQY0dhYkRSdGhVTUVyYjRZb29CXzZUUExScnJpRHc2dXVWZjdDZWR2WmNaX1JnOG02MmZHaS1FQy1ZWS1YQkc0MURvV2pxUExJMDZMOWJXLXFDT2hrdUtGVzZiQ0lRVkJ6Y2NLRzE5dDFjc3VRUnFaQjVvM1ZIejFyY0pVaDZ0MU1uUnFCeDA0?oc=5",
-          "published": "Sun, 22 Feb 2026 14:12:43 GMT"
-        },
-        {
-          "title": "Ostre słowa o Szymonie Hołowni po rozłamie w Polsce 2050. \"Jako pierwszy zdezerterował\" - Onet",
-          "publisher": "Onet",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbm41RXBPRnN3aENSZnIwUHZ1V0VGbXFJQk9lU0FGTE5OdE5BUnN2bDF3Z1lTQnEzSEh0RkVtTW40ejU3bjNZVnBZUnFvT2VnZnVvZW5pVXpEa2RINDR5LURxMmpnRzB3M2JBZC16S0tfdFJrdGxmZWhXV08xLXNIcHplNW1ibHBFVnNFQ2hPbDBJRC1tTlVVd3VuRkRDbTZkUzhIWGU3NERYb3lRbHRpWVBOTDBEUkhtM0RUdU55aXZhQ0IyQkw2NmRHdw?oc=5",
-          "published": "Sun, 22 Feb 2026 13:53:39 GMT"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTd1YVBHdlpaX3ZpT0pTRy1HZWZka0NTV2ZocWVmTk5oMHlXQ2ZBWjY2bVJjQ1MyQUJfdW8xak1iLXJldkpwbnFQc2JlNEM3Z3VpdVJBTEpIYjFrejF3SHlwU0hGUkV6RnlqS1dwYUxCQndTS0JEeHNIU2NGY1Rkb1hmc2xpRG9NSTNzT3JyZXFNTU9SMFpBSFBDd2xBZw?oc=5",
+          "published": "Mon, 23 Feb 2026 12:57:39 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Mikes: Robert Fico zrobił wielką głupotę. Całkowita schizofrenia polityczna - Onet Wiadomości",
+          "title": "Pieniędzy dla Ukrainy nie będzie. Orban znowu to zrobił - Wyborcza.biz",
+          "publisher": "Wyborcza.biz",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU3phcklTUENUX0NfM2pIbmlyR1RxLWJfUUFfZ0tnS1dkRko2bEdNZXEweERaZV9RWTRlbVVQNzN6QWM2akpnekx0czExWGRsc0Vza3dsQXlxRDRSWjJFMzlQWXZoRFUzbDBJQTg0VjlWMm9ubGpwU1d4UGFWU3NHMGkzbnEwYTROY1diUUZaOVdINHkzTzlCRDM0dFgyMzA2ZllXVmM3XzhxR1dWR0ZuOHNLM0trX00?oc=5",
+          "published": "Mon, 23 Feb 2026 15:12:02 GMT"
+        },
+        {
+          "title": "Meksyk w ogniu po zabiciu \"El Mencho\". Ekspert: teraz w kartelu rozpocznie się wewnętrzna wojna - Onet Wiadomości",
           "publisher": "Onet Wiadomości",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXRSa3BCWHB5TzBXRE5YejkyU3k5dWsza1N4TVFvX3hLMkdHMXA4MV90TUZHRWt5QXVrandNTzVGUUpmU0tCbjN6NEZxcEYtWjVkamJSQzFkMUNzZDR1OFc2NHlYNzJSY0JOV282R2RsYmJpdjdjTnJPRTNhTXVPWVRZYjVyaHd0c0xNUW1TazdHQlI5WHZ3aVR0U2pObjBLekxnU1RxRUVhRnlfZFJJRXVKbTdnVlNOZlRiUzBuWQ?oc=5",
-          "published": "Sun, 22 Feb 2026 19:36:23 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVnc5bm52T0pUbnJOSjAzeHFWZmlUb0p2ZWVDYUEtLXkyN1UyMU5ma2xSbFhlbGFid3FmUlpJMnFqNkZoZDRleG16ckFXUzdkcVMtNTlxRVAySUd6dE9VbDNNMC1vWlNTN2dOcVlWdnEtRm1CbEhfZXZpdFpTS2JvbUQtaE1JY3RSa21ZM0ZZSE1LSUhJRllrLUstZ3A5TnlZazViY3FNRXgzMlVKbUdhRUk5bw?oc=5",
+          "published": "Mon, 23 Feb 2026 17:15:15 GMT"
         },
         {
-          "title": "Upadek El Mencho. Był jednym z najbardziej poszukiwanych baronów narkotykowych w historii - Wyborcza.pl",
-          "publisher": "Wyborcza.pl",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTERDQnJqeDNaaXlLYWlHU2hJelhfV0ZrR09EMGRzcFg3eDhWdU8tQTBPTWNHYUtuOXU3ZVFZbEtSd0lETVlLYzNqVXk3eHREUWNtS3hzV3htOFBScjlLamdqZmRDZnpUcE9wT0FUMnZOdk5YSlg1YzBITEFhMzRBYmFfcFlQTy04SjUxV2w1RjBfUllrT3JON3hnXzNSQ3BSTzJ1ZjlsYVo?oc=5",
-          "published": "Sun, 22 Feb 2026 18:54:56 GMT"
+          "title": "Media: Były brytyjski dyplomata aresztowany. W tle powiązania z Epsteinem - Wydarzenia w INTERIA.PL",
+          "publisher": "Wydarzenia w INTERIA.PL",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZDRvUXJHdG5rMXN6a1piRFNUcDEzRGRUSkJ4aVhKLU9iSXdXcm1aTVJQSmdCOU42TUwyalVxTDdzZW4tMUNsZThxZ1gxaEF2Y1gycldaMmVXVDlzSVZUVUFFSWNpX091Y0JsMlM4WWVMVjJiZk9YM2xaazVZc0g3MnFIUGdWSktjQkVnb0N4emRCODZPNkJkTHpGNHBCNnYxX2RMeTJnQWxMNVJkSFJPbHphUjd1aUtXR3c?oc=5",
+          "published": "Mon, 23 Feb 2026 17:34:56 GMT"
         },
         {
-          "title": "Intruz na terenie posiadłości Trumpa. Agenci Secret Service zastrzelili mężczyznę - PolsatNews.pl",
-          "publisher": "PolsatNews.pl",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnRnNHZJRWhSTnZZNlFGcWp5MTFVWmxlX29Cb0g1MHdRekVrdVZaMl9PZDh3YmtiU25mZmJLRWxJQ1Uxem9yaXVCWEN1RUsxOHl5OHJUN3U3S01aSHFRWDJyT3F3WHZIcVk1TGdHRy1VR2ZSeUg0MG1XNmFzYXlmdU5uSnE4VTFjZXlsNTZtZnlYZEZxZUw2VHllU0hseEs0NlN2Y3Fqc0diQQ?oc=5",
-          "published": "Sun, 22 Feb 2026 14:44:00 GMT"
+          "title": "Ukraina odbija kolejne miejscowości. Syrski podał szczegóły - Defence24",
+          "publisher": "Defence24",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXNaLUVoUmpHSEJERVFaSHdoeTBFODhSZnRfMVV3dm02STFVTUQ5eFh6QWQxVmlUb0FiYWRpNWVyZ1FsdkpraWNKbnFHeE5lME5FUkN2bTlUaS1yTk9sTDJBOWdyZFIxSUVYazhxZGQxOTl2dFlhVGh3dnVyaVl4bHJvRHRpZ29LbzZYQzhtOHpudUxrYzhGbzNxU0Rxa2p6VXRQMDQ0NG1YVHlhNDNvMEltMDFYeW9nUVM1YW5qZi1NUQ?oc=5",
+          "published": "Mon, 23 Feb 2026 13:30:01 GMT"
         },
         {
-          "title": "Po zapowiedzi Trumpa Komisja Europejska żąda wyjaśnień - Do Rzeczy",
-          "publisher": "Do Rzeczy",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGZRSndLOUxWdkpHdEV2X3Zob2dMZHc3ZU9NUXE4TnQ1NFVzT3QweXBUSHIwY2tjQUxRdlpVbkloMFhUMzQyMWNTOUMxLXExN0NEZ1V5bHd4QVZqWXBxRjZUR05oOU1HZ3NIMFlMX2xWT0RtNWVWTk1HZkdNNTJINUIwZ1A1RU9XOVRhdE1rTVB2NF9GRnZV0gGUAUFVX3lxTE1iSXNPby1TOHVqaUVEZXZPRUJvUHhxVTczTFA0WWhqdFBkV2M1Ymh5eDRMaDMtNUt2aUJjTVFpQlEzQWNQelFQMFVlaXFoZFZVNk1USE5uNURLZzV6S2R4SnJZd3hGVkUxa2hrSlFzbkoyV2JJcWNsMG15UURlR1VOel9oekVkVVprTFlDNElWTk84Qmk?oc=5",
-          "published": "Sun, 22 Feb 2026 16:05:00 GMT"
-        },
-        {
-          "title": "Tajna umowa zbrojeniowa Iranu z Rosją. Ustalenia dziennikarzy - Money.pl",
-          "publisher": "Money.pl",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEYwU1Z5MEh1bjVGclM0Rm1vTjdEZDdaWnM0dnVJMzlLWjZKNTlMbk1pVHc5UnJ0MWwwSEw4bmZhOWhXbl84WERWcm85NE4tNEo5OEs5M0ctOVAyZTJjeEhTRDVWX0NaR3ZLN1FOaUdvd1hqcW9oSlJuQkg3RTFIaDF1MUJtXzJRd0F5VGk0X2hZRk1KRWlobWNTSTBvODFzaEd1THlJTGtlWDBVQUc2NTYzMm1MQQ?oc=5",
-          "published": "Sun, 22 Feb 2026 18:40:43 GMT"
+          "title": "Polacy sprzątali mieszkania Hiszpanów. Dziś kupują ich domy - Rzeczpospolita",
+          "publisher": "Rzeczpospolita",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1h3OGJCdmZQcXVTcUtWNXY2VlhXSXBkc1hjNWdVdG41cUc0SExmSnFmQVBZNWh1TThhYTVBNjlTdUJ3dlpHR3VXVjJYSi1RWHg0Nnk1QXRJSHV1QmJhdDAxMV9ZQjF5M1REbzV2T1pJTUZLZ3owUVRmQmotZU1vUG11Y0ozRkxqcl8xUjQ5NlREbC16YW5PMEdzSHkxZ09HYW9Va0t6clNFN0pRckpveUhZSkhGZW91SkU4WjBfX3hOcGxhRGc?oc=5",
+          "published": "Mon, 23 Feb 2026 16:40:00 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "ZUS przesuwa wypłaty 13. emerytury w 2026. Kiedy są wypłacane 13. emerytury? Ile wyniesie 13. emerytura w 2026? - INFOR.PL",
-          "publisher": "INFOR.PL",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNaXVULVRUQlZ5RmdkNDljVHlLa1M0Q0hqamVxZU9RRENNZEdvRG1JLW40SGtoSVhLSmxXZFBIN3BPN0VkTFVTT1RCS2tzWjNuaGQ2bDBDdFhwcTZMbkFIWXB2WThlcXZLYXdGdU1ucXFMNXBFbVN4Y2hXZ2RKV0ZmYnFzX3lHazNrUXJCejRpVl91OVBaMWlOTnJ4MFRVSk16Tkx2blZBd2hWemZGaWVhY1lEUldNQWkyUVNQMnVGM2NRaWV4Z1EzeFdsLVRWRnBSWlF0X3Z3N2lteFNTRkwxTjc1U2VleWZNcE05aGlNaHFMdUlfaTNvaWZ2dTBNQVRsUGJYc0VBOTllQzRHT3g1QWdmVjJBVXZnVlJBYUhCLWdzMGY1RTREbnZpSmcwYkhKNXo2WG9mVVMzVGZVdmfSAcMCQVVfeXFMTzB6SVdBb01mTjRsQXE4R0t2Vm1NWWpIU19Od1IwZmJRUXBmN29nUXU0OFN1UjhVU3JVVFpyc3J1bG5sdVJxd2gtNURTN1NlSHF2NjVzYWdDUi16Nm1zM0RJOVA5d2lwWDdpSG94ZzZRYkhQNVgtSDJGSlA3aEd1eTBUa05wY0pHNEpHUzF5OTdzVjExTHhWUW01RWI3RjFicnd3UGl2VXFkbXNjQnpQdUtYSTAxRTA0S1lud3BSNUVndU0zWnVfTWtCWWRzcjE1bVl0LWE5YnA1anJWS0tlTUtWYmU3Wk1pNEVzRE5FYnRLd1oyTmI3dnZZcXBMUnVDSkNkcHRRdGtfaXo3QlFoNUNjVlNVQWJpTng1bEwwSXdFX09ZTnZaOFY1cWVzRG9FaHZkSzcwbURxSXcxRS0wZEduYkk?oc=5",
-          "published": "Sun, 22 Feb 2026 11:49:44 GMT"
+          "title": "Córka premiera zamyka biznes. Spółka postawiona w stan likwidacji - Biznes Interia",
+          "publisher": "Biznes Interia",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWVQWXAzdEtlM0MtejRHTUNfMTBfZUJhbS1HZ0F0NEhTMXJ3dC13VVlGS0ZFZ3dpMDYwLVAtcVNLdHBDa3BHRm9GRFBDbnlBRk9BOGlBUDZQcnQyWWVCZzh5cFVsSVJoREN3MTZYaGQ0ZlNackNJRGczZm8waVcxQmg4aDlMdjktVk9GT0pQLXNVYjFndnlyS3NtY2JLdlNiQ2JrWmZHcUhCUlhZN05FRVJLZWt6UQ?oc=5",
+          "published": "Mon, 23 Feb 2026 19:55:28 GMT"
         },
         {
-          "title": "Rolnik postawił drugi mlekomat po 3 tygodniach. Mleko po 7,50 zł znika w kilka godzin - Tygodnik - rolniczy",
-          "publisher": "Tygodnik - rolniczy",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdUk4eWpfM1BHMGlNRmlyZW9nTWZlLW1YLVBELVMwUHNsX2F0VjdYb0NJd3B1WXpHWEROaWF0MERTb1RmZjVWTGNtMTlPTklIbm5wLXZrdU5BUkZmV2dGTE00U2poNFVaZFhBQzBiVF8yYUpQYll0U24xOFEzQVJyMnNCVWJTV2wzNmdQN21Ga1Vyb2hWU0hBTTRPV09HTUNIRE1XeTRfMnN1cFc1cnFoRDV2ZlozekdhMXZITFdMX29KSHg3QW5LT1JvcU0tS2d3NEk3QjZsbUxydzVSVmgyakE1Ymh3UG8?oc=5",
-          "published": "Sun, 22 Feb 2026 19:21:00 GMT"
-        },
-        {
-          "title": "Zastępcze składy wagonowe za wybrane pociągi IC w dniu 22.02.2026 roku - PKP Intercity",
-          "publisher": "PKP Intercity",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNk44MkUyNDU5cnZLQmlMdFRzTzhSelNVYlc5UFdUWWFzME0wcTBWUjI4eExRSVJXbVlVRS1HZEowdTR0cm9JLUZTSkhtR2dVYnhCUXVlZmxqN2c2MlBvVWM4cngwS1hONDNFTzd5SGR0ZmpxYTRVSjNJem04OUJ0SkR5RGJ1bm9PU0JydDF5dC01M1Jpa1YtZlpYQms1cVR4R0ZlbFNSSWl5SkdDYXJnY1piY0FzaGhnbGxiQjJFRWNWQU9MbmNpZmdmdFFoRWFQOXpaMmlB?oc=5",
-          "published": "Sun, 22 Feb 2026 09:35:42 GMT"
-        },
-        {
-          "title": "Budżet Rosji topnieje przez tanią ropę. Kluczowy odbiorca odwraca się od Putina - Business Insider Polska",
+          "title": "ZUS rusza z wypłatami świadczeń po waloryzacji. Tyle dostaną emeryci i renciści - Business Insider Polska",
           "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHJxUzJMaUNkbGlTN2xhN1BLcF9adEpUaXAtdzllNGl6S1VoWUt2b0tLZ1hiRVBuNHlleVRMalMyV01Tb2MtdElrc255Z29wT2NHWVkxY2JtX1EwbUhzWkl2VjBSNlp6LUhpM1NVMVhwQ19rU1pwRllRLVZ5bWk3d3dGeFFRYjBRclJqbWNSSnBvYTZIcEEzaDVtVUwyWmk5RUg2RzJtWHBfOFY5U2tFTzZQcVlYN2c?oc=5",
-          "published": "Sun, 22 Feb 2026 09:49:28 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTAtcWxXdU5aT3M4QWFxQUk2b0l3RHJzMFFPSkJ5ZWpUVUNsbFhpRl9yQS1zWjR4bEJOSGFaNzdmcXVZZzhMdFpsM3FBMU9xUG9QUzRqUF9EYU5OazhESU1UVHhUVEV1UEVzWFVrSTNjMW00dVJMM3Z2YllHLVBtU0xSVDl3VnA3aThxX01fcExZV2UxX2xsQnFmV2h5SklvTkNfQWlvSQ?oc=5",
+          "published": "Mon, 23 Feb 2026 11:51:40 GMT"
         },
         {
-          "title": "Czy magazyny energii są bezpieczne? Branża wyciągnęła wnioski z globalnych doświadczeń - GlobEnergia",
-          "publisher": "GlobEnergia",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZG5YTEFjWVZMUWRWa2pRa0t6N1p6NUp2TWNwYXUxcUZ4UzZRaEVpTmhWd1lQejZYMUROYVJ5dnpjcnRhWWg1MDhpc1psaEg5dzNnVUtCd1VZRXp6WDhOVFJ5d2xKZE9KTl91UjRfRDVQeGVVRllJb0I5elZIS1RXNUlVdmFfaml6NGkyczZaX0thVWVlZnVfV0Y4SWxTd1ljSnI1bURfdE5hMV9mUlE?oc=5",
-          "published": "Sat, 21 Feb 2026 06:00:00 GMT"
+          "title": "Tyle wynoszą emerytury w Irlandii i Wielkiej Brytanii dla Polaków - Fakt",
+          "publisher": "Fakt",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYU9zWmFBNzhnRE5RWW15RTZnRUZvX2RNZExNZzd4Tk0xcnE1b3FHM3NSVWxHUEptY25MUXR2aVNyZllRSW1GcUFtZFBadUIySmpyYmJJV2FVN09PeDN5b1NUU29HTnFwR3BtQnBUblNFQzFHQVhUNDZWSkN2TVpkOGNGdEtCMnlabmhxWHJ1SjJBV3FNWmw2enFkeC1rUUxXLTFiNGRJZWpRbV9xUGRwSmxpS2o?oc=5",
+          "published": "Mon, 23 Feb 2026 17:10:00 GMT"
+        },
+        {
+          "title": "Starcie gigantów budowlanych. W tle umowa na miliardy. Branża zabrała głos - Money.pl",
+          "publisher": "Money.pl",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRm94Y0E4LW5VUHZ1ZHF5Q20tTUZBdmhUQkNjbENsRlMzUTZXczRCQ3FxeDN2cVpnbDFSc3dQRFE4TlB6QkIyZzQ5U2Z5M1BCWXFqM2JKRVV2Yy05SzVfVUlaWXc1cGgyeU54Q3pISDBBcXdNQms2RTA2UHRJdGRmRG9FUVF4QTVyamNUWFZaUTQ0RkNqV2o1eHlkank3Snd3RmFxYWFSZ1htb2xSeHJONmpEZk4wUTE0bzJKNjRrTjQ1MWhCcFE?oc=5",
+          "published": "Sun, 22 Feb 2026 12:54:19 GMT"
+        },
+        {
+          "title": "Seniorzy mają czas tylko do 25 lutego: Za karę mniejsza emerytura - Dziennik.pl Auto",
+          "publisher": "Dziennik.pl Auto",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS0FRTV9TQ2Nqd2tzV01vT3pEdDFNa1paczY0Zng5bXFDckhpeE85RXlTQy1vSmtsMVRiUFoyaGd1QzB6MU1ma3VidmllSjZXRUV0TXpnSnlMNmJHNVVnV2pGNjhjOHRTWU1KNWV5VUdrRU12TlNCOERVR0lJalN4WFd4Y0Q3THRiaTQ4c2hhOUhSTm84Q1JSSEFIeS01dUxWY3ZJeHJpRmJOcVNiNTRBX3lQOUtPLTVLTlBLcXFPYlhTaEE?oc=5",
+          "published": "Mon, 23 Feb 2026 04:34:35 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "PKO Ekstraklasa: Lech już w ścisłej czołówce! Legia znów pod kreską, zobacz tabelę - SportoweFakty",
+          "title": "Niespodzianka, Lechia zatrzymana! Olbrzymie konsekwencje dla tabeli Ekstraklasy - Przegląd Sportowy",
+          "publisher": "Przegląd Sportowy",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU2Iyd2l0TExpaEJ3bU9IOFFXVWNpdk4wS2NnUG1nNW5QMnhma1dzNFg0QVdyQmwyVm5DeWhwV0MwM3ZmeUFURkFlcHBYQjJ2NXhzVHYxRml6YlZOaUktMG54SFh1dUxVdFJqTzUwZFhMcWhQeDNxM3p2QXdOMVdZdVV3Rl85c0kyTjZzeTRXWlpDTVJsT3Z2VFhIMGVtVlF5Ti05aEdaZURWSWp2VHNxOGVyelhCX2xlSGp0ZWl6dWhfU2xMNWdtamlOb3E4UjljaC1tVGV1TWpaZw?oc=5",
+          "published": "Mon, 23 Feb 2026 19:59:18 GMT"
+        },
+        {
+          "title": "Oficjalny koniec ZIO 2026! Tak wyglądała ceremonia zamknięcia - SportoweFakty",
           "publisher": "SportoweFakty",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQXZITXRtenhzdWtZLW9PdFRidkNWMUxVMU03Z1dXMmhLQVVUaVJUZVJqYW9ZWlVyNkdEdHpCZC0zM0dkZzRKQVFKRk9oeU52b2hLei1xNjFJd2VuZGx2Xzh5djFESmJPYnZQLXFtN1RjY1NYWC1jUENDbjJ4cXNsSlJlckRxMmlySG9nVmh4dmVDUGxTM2MxNWpETmJuUlcxaTR2WC1qTmRqLWNqd0IzS3FDbllsOEdLT2JVOC1ZVi1uQkpWU0E?oc=5",
-          "published": "Sun, 22 Feb 2026 18:30:32 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTF2RGxoM1VkbkgzVXBNempFelFMS1lUX01oTzlZd2w5c25YVk03c25VQU83S1M4bGIyU2pBRG80RXVHLWh5RVJza3huVzlETHUtRm0xdzFKUTVnZWxkc1ZKaXRTYXVHVnp6M3RWMURIdnp6MnRRY3AtZ2YtMUVoYkJpbFNncERuRUtSV2JuNDdEa0IyX1lMVkxKZkVkYWlMcGRYS0szLXVucVVSWGFpOGhuM2VPNVBC?oc=5",
+          "published": "Sun, 22 Feb 2026 21:53:28 GMT"
         },
         {
-          "title": "Złoto jednak dla Tomasiaka. Maciusiak nadał zaskakujący komunikat - Sport Interia",
+          "title": "Dobra wiadomość! Sellier opuszcza szpital i wraca autem do kraju - wPolityce.pl",
+          "publisher": "wPolityce.pl",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX1dyU1g5QTd3RXNxTnNHc1EzYUZjTkdtU0NTRWNOV0hYYzJrZl9WUmZlWlVQcXlMTzVXLVJROHg1N2hDajYwaEZUc0VpNXlPT3VGVDVscmxoajV5WmtsQjU3MUlIS0N5NWFJbU9PcUxIQnJZZF9XdVlFS3BpWm9SaWVWYVB4cGw5VlFmQUtzVmFtdTdDYlNmeDIzUy03Zw?oc=5",
+          "published": "Mon, 23 Feb 2026 15:20:23 GMT"
+        },
+        {
+          "title": "Na oczach całego globu. 15-letni Szubarczyk kontra mistrz świata - Sport Interia",
           "publisher": "Sport Interia",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjlZR3ZkSWJjdElyR2t3QXNsZUdZYVV0ODk2MHdyYWhnMVJnbk9ZdWlNM1F0VVVCbFFSMzZtRDQxcjhtcFYySXlRUEF0cWFfUnpiZmJwb1l4Zk9vZjE3YXROZExzd2JMNVpzT1dHMTZkekMtWm42VTRqN1NaSDQ0bHRPX0VSZzBWU3hrWkI1VVJzZmxVMUlVZWpuSXgzU09BRWxwTFh3VVM5bzVET3BuTDhVSkNkQy1hRnpHd0N3?oc=5",
-          "published": "Sun, 22 Feb 2026 19:33:52 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdkNGWlpiT1duaVBkUExEaDdTUmhZbEVUVHVLSi1pd3lyZFJ3UlJ5YlBnYUVuWUJXNVNsYW9hNmZRQ2VoQVVRckoycTRDLW5QYmw4c3Y0bW5BcG03Um9vN0ljMFF5MUdSVlFJMC1NMFV5WGVBRTVEZVRzVk9oNFlhRmUxYVRIWkI0Vzcwc3ZaYTBiWGNPM09aVnVnaVZOc2t6cmhzcG5JWmV0ZTZDdW5jcTgwUWt5dw?oc=5",
+          "published": "Mon, 23 Feb 2026 11:55:47 GMT"
         },
         {
-          "title": "Wstyd pod Dębowcem. Strażacy z wiadrem musieli ratować mecz telewizyjny - foto - Bielsko - Biała. Najpopularniejszy portal regionalny.",
-          "publisher": "Bielsko - Biała. Najpopularniejszy portal regionalny.",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNG1ZWlBTOTJybTNvcXVDemtuMHBCOWxZeVF5cmlsdHB6dkkxRFpTOGFBTTVzb3F0MG5qSXN2M29tS3hFUmxJeDdsRGhBNVlkT1dPd2lzRDlraWMwa1lfVGFhdjF4a0FMN3Voc2FUbWVGUG5uVEg4ampIdjQ0NUlfZTJycU55Q2NMakI5OC1hSi12aE1HQWFKZVJfTTJXeUZuRUJHOFU3TGNZQVVGbDNVSnAxWFdwNWdRcEhEQ1Y3NXI?oc=5",
-          "published": "Sun, 22 Feb 2026 17:30:00 GMT"
-        },
-        {
-          "title": "Oto klasyfikacja medalowa igrzysk olimpijskich. Polska skończyła bez złota - Meczyki.pl",
+          "title": "Legia przyjęła ofertę Widzewa! Transfer Kapuadiego o krok [NASZ NEWS] - Meczyki.pl",
           "publisher": "Meczyki.pl",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM2tMWEtwdi1ieE5jRzRpLUJMYUZrcGpHNmpFazBBbDQycGJMRzVGN28zZW9CVmdROEtvUDJHUE1YWlZQNFl1dThlTjJDZWVOc3pBUzZZYk5JejJHWmwxd3F3MzVjanpBa0t6aDEycS13OExKY3J6ME9US1U1STFoY3NXUzdFdjJTaDM1cU1CTzZENFRzZkRvQjB5OGUtejZNaUhnX0tVc1NSczR1QUdxSi1ERmN3Zmt3TVpKZFlTNTY?oc=5",
-          "published": "Sun, 22 Feb 2026 16:29:15 GMT"
-        },
-        {
-          "title": "Barcelona wykorzystuje potknięcie Realu. Tak zachował się Lewandowski - Sport.pl",
-          "publisher": "Sport.pl",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQi1WRUZOcGZ6cFZLd1l0YVJEb2FxZXhWRXZtS3lhRW5oczc5TlpQT2w5MFlmODkzb1cyWDN3cVVwa2pIcy0xUEdtSEdEMWowUTBJVXg4ODFxYWFVVlpEQ2VhZFFVRTNpbThmemRBYkEycUpJd3BUREtLRmhrUlVQTDVVM3AyWTdBV0JULXdzQ0dKY2pzUlZvZDktNV9yQ3YtYmVpR1dDR25jT192X08ybEJUTnZPX0RS?oc=5",
-          "published": "Sun, 22 Feb 2026 17:19:05 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMlp0QW9CWEsxNEhNcWVOZDNSOXMyZnF0aE42aXU3aDZTakVFT2FLWXJTam41YWJHRW82bWNMaEJ3Ym1QcVh3NVhORVZ1TjRwNzlqYm9na1YxRWtiVDRYbXFxM1JfU1BUMGxFNnB5OGFpWWUtLVVmZ0xjSmpxUUtkaF9ZQWhqNXptSzBwNkIxamtxYnRRcm1oX05QQVF1eFNObFBnNWRWbHJFanl6TGZObnBKOHM?oc=5",
+          "published": "Mon, 23 Feb 2026 18:53:23 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Holandia rozważa \"jailbreak\" myśliwców F‑35 - Business Insider Polska",
-          "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLXp0eGVGTjR5cDQxOGRJeC1nNEFoVlJ5SkJPLVFnejBlWEg0MmJITzJUY0VxczRUS3lkQWVvYkxqRUFDSTFLckZUanBkY0xLVU5hZ2VIeHpxUGZ3VjJXZXpBTHlsOWx1b2J6Y1k0cTB6QTV0OG95elNCZW9tdVotTFJWSnhrcGd3NW1YeEMwOC1JQUVFcThKa0Qtc0JaWXFncUNkMVROSTc2NDRqcTRvT2NMNFZsZS12emNwSnBLUWxOSnNNVjR0MElhU1pHdw?oc=5",
-          "published": "Sat, 21 Feb 2026 13:32:02 GMT"
-        },
-        {
-          "title": "Tajemnica pochodzenia życia rozwiązana. Naukowcy potwierdzają kluczowe odkrycie dzięki asteroidzie Bennu - Komputer Świat",
-          "publisher": "Komputer Świat",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd0dJTkR5LUdsRzVNcUJtVHhwMVBuNzl1b2YzNklISmlPNTVhVTkwZXViOHJla2ZTYUN5OTlTdVZWX3lESnJabWhRSG8wSklyOVFOUFhqZy1INVpGZUgzV3FneG1TLWRuZWtQb2pZLWRsekk1a1hJdnBJLVFMMXc3NHc0dTkzdmZKX01hMUJUbWNlTkl1VTJ6bnhOWV9kUEdVVEZvZS1PT3NqaS1IR3k0cmZaWlRGVFNUMzlKUF9rNWZ5eC1IR1lYQTduVjdvb1NlcldCSWhOZmcxM2Y1eXJj?oc=5",
-          "published": "Sun, 22 Feb 2026 11:18:00 GMT"
-        },
-        {
-          "title": "Strzelanina w Tumbler Ridge. Można było jej zapobiec? - WP Wiadomości",
+          "title": "\"To już nie jest wojna ludzi\". W czwartym roku front zszedł pod ziemię - WP Wiadomości",
           "publisher": "WP Wiadomości",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYks4QWY5TV9nTDJsQ1NtdVQ0Yl84SXBEVWZlS0xYazhvZWZYVmdiXzZTWmM5VjRxMG56WVp6SlVLLW1JY0pUSFZOcnBUaFJLMFlyak5XMVBMTnpiMk1BeDE5eUd1dGRUOVFacWlsRmJLTjNBOG9IcGR3TWItNHZZQkZqZjhubi05WGxJRkhOaVRydXRSTzhXb1F3?oc=5",
-          "published": "Sun, 22 Feb 2026 03:58:41 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ0xscEhwbTdKYWhIb1QyU1ZfNnFKaE1pWlBxd1g3b0VrNFZzR1ZfNVFmbGs1NTJLc2VlUHBIVGpCRDRYSk13VzVqSWNJVG9BZC16YXVIQmtXcVYybU1malF2dG9XUklWR1ROemk0SXhSblBPRkh6NFEwZU03MV9zNElYVG9DMjZwWjBjQmZ2NUlBT1VGYUx4Zm5zNTVCQ19wd1lsc1FadEdVOWlVemww?oc=5",
+          "published": "Mon, 23 Feb 2026 05:17:43 GMT"
         },
         {
-          "title": "Jest misjonarzem pomp ciepła. Montuje je nawet w blokach. \"Obniżam rachunki\" - Wyborcza.biz",
-          "publisher": "Wyborcza.biz",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOUpRLThMa0hfVmYxaDAydjZkRkE4VE1UZGhTNXkyWHlRU0JidElsMDJaTU5fU3BYSUMyZW4tZ09FWVVTR05pRjE0N0hjZGJyZ0h3Y1dlYjNPLXFYVGNBVzYzZHBPOHlCWHd6bjJ6NW85Q2tpbnFlQzY0VUQ5MWNpYVJsT3BWWG5VZWhfY2V4QW0yUTRlYXBrNWtEMGp6MkhxZXJ0alRpUU9TOXNM?oc=5",
-          "published": "Sat, 21 Feb 2026 06:00:00 GMT"
+          "title": "Cios dla Rosji. Na rurociąg \"Przyjaźń\" spadł dron. Wybuchł ogromny pożar - Gazeta.pl",
+          "publisher": "Gazeta.pl",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjlWdHJPS0dyQXNHYWIxZGFaRmdkQ19rTzFqQjBRa0pMSTc0N3VpWndVa1hLUV8tbFV4SmZJdEZVN2xSU2tGeVp4ZkpBVm9DZms4SmxzVFdOaXlqSjZZd2otVndrODIzcnA1V1pocHdGTUZJWHVPeHp2SzVidG1BbThVSTFjX29EWTVwczFEQWItdWU4ZlZmTDFHMjJ0U3lTbmlRazdjZGczak16WFJKUU5lZGM1b3l2ZXk0Sw?oc=5",
+          "published": "Mon, 23 Feb 2026 07:24:06 GMT"
         },
         {
-          "title": "AI miało uratować IT. Dziś firmy zaczynają płacić za tę wiarę - Business Insider Polska",
-          "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2tSaktsQ3ZLNjhZS3d2SzA0eEtXdndPdkJ6Um13LVJhemd1dkE4Uy0wZFk4NG9fc3VPNEtUZHZJZVFrY0ZuWGViZlBWRVExMGYwS1FtMzRyMWc5b1YwU1JabUo0S0VtZFJVSWRncGgxYUlET3hTa19jcHU5dXZWWjFNckN6WFg3MGlzS3VZU2lZMnlsZUhpYmxjUTNsc3ZtMS1LMEk3UVlUcXdMbEpGUFJB?oc=5",
-          "published": "Sat, 21 Feb 2026 18:00:32 GMT"
+          "title": "Drony na polskim niebie. Dziennikarze śledczy z Ukrainy ujawniają nowe informacje - Wydarzenia w INTERIA.PL",
+          "publisher": "Wydarzenia w INTERIA.PL",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGUyOE44U2Q0N1I0R3Y3QzFkd1NoMFRIY18xNjY3NWhNS3NCTVEteWkxSWxJeWZNcmN6d0VodVQ5ME1wZzVrcFA1VUhjX1RKcE9QdlpxRlNpWmZFVHZyWHlxVmpPQlI1UXg2TWJBY2NqOUhPZzZQd2hkQjJhS1JNc0swN1UxSXJ1SjVydXdoVWFWSWhlQWdkMjQxUlFOaTlXRnhFT1BpTVJwbUJQYWQ5ZW9MVmlac2RpNXM0SkhZdw?oc=5",
+          "published": "Mon, 23 Feb 2026 12:57:12 GMT"
+        },
+        {
+          "title": "Szokujące słowa Sama Altmana. \"Wytrenowanie człowieka również zużywa energię\" - Next Gazeta.pl",
+          "publisher": "Next Gazeta.pl",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOERhdnlVcWM5YVl5QUpEa1owY2t0dHlBT0V6bmdPeHcxMk9xSy1OSVNja1pqZ2RXdFlFQ1BBZGdXR2pEWVJKc3VGRzNpNEJWZ0ZGYlVJZkJURlVESS1vYWhkcUoxZUFJb19xbTlPOEtTX0pINWJhWlVpRXZDVGdETTJhVktxVTFlWUx3MDBIVnNHazdpZUE2cXlTV3ZSZUhIaGRELXhqemtKZmRlSlVOemtR?oc=5",
+          "published": "Mon, 23 Feb 2026 08:47:08 GMT"
+        },
+        {
+          "title": "Zainstalował fotowoltaikę 8 lat temu. Pokazał rachunki - WP Finanse",
+          "publisher": "WP Finanse",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHpFdGRkUXMtUHRmYm41a1VuZkRicElwb2hKX0oyU01kdmY4REFwYjd1UHBPVGpnNzBYU2dXR19NYkZzY0hFdF81bHdSa0RoYU9EQTFucGpiQ1hEdkdjbi1jZk85SkdtV2hqYngyUFFzdWYxSGdCRjVtMEI3dy1fdXMzekVhYW41VVI3UjVHT0hTRl9MR3FtSQ?oc=5",
+          "published": "Mon, 23 Feb 2026 11:41:31 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Premier League Soccer 2026: Watch Tottenham vs. Arsenal Live - CNET",
-          "publisher": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3QwV05zcmJLSFRuVEVTN3RxNTlYSXA0d1d1Yml6SkJXSHJPZkY4amJrcWs3UVhLa3RlaVYtcE9yUHk3cWZ1OVF2bFpzeTRxTnYwZ3VRcGktbllJaFdXRFRBQm80NDdtbmpUSU95aFN3cmJnZ0h1TkJxdk9Bb2ZiekNDZHVTTnhxZjlNcVhudUhiQ3dzZ1BqLWFPeXlEUmEyU0xtaHhoNElueGM?oc=5",
-          "published": "Sun, 22 Feb 2026 13:31:37 GMT"
+          "title": "Mexico erupts and World Cup security fears rise after a cartel boss’s killing - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdC1JV0t6QzFSVXppc3JTaksyWjZ6OTdaTWI1YnNNQUVsNl9GQ3pyNS1uaEJ1SXdMOFlnNVJLa1JHT3M0YnZhS2RMSUV5Y3JqNEtzY3puQXhRNlQtYkhidHJ0WkVBODFMNWMxUG1WX2JOWDRQNzRWT1BSX2JXdzF0YmRnWDlZcFJXZnllUHhaNUd1RnJRUWRrelhvcE9OVUZlTFJmVmhMc3pQNkJPZVhldnFB?oc=5",
+          "published": "Mon, 23 Feb 2026 20:48:00 GMT"
         },
         {
-          "title": "Tottenham Hotspur vs Arsenal 1-4: Premier League – as it happened - Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbnQyOHlYSzNnNzFHNzRYZ3REOGdSY2NSRERDR0QzR3djbjNGSVBQb0JRUjlNcFEwc3F0bG95Rzk4YUZTcUt3Uk4tY2cyUnQzSkVfeHdpQlJndzl1MTQ0ZUpueVlpRmZTZTJ4QmtjenEzWi1WbHNpMVAyeHMtTTVwZ0R0amdnTHlmOTlyU1FnS1lZS0dNU3lJbmw2S19NeVpOVFHSAacBQVVfeXFMTWpSZ0t5ZTYxU3JUWlNZZkhZWFhJNjVGZDk1MHFRSGlHcjF0VU91T1ZWeTdPOTZtS1hSVXhOcDFhTm95elNXRlk2QUJMTFhKUG5nbjlWcnpoMzRjMHJhdWNxakhKektyUzB1Z045WjA0bkpBRVF3NndOWkVzTzd5Y0E2cENyZENtbVNBSkFtZW1IQ04yZjhhMVNxakpzTHR4eUdvQmVWMTg?oc=5",
-          "published": "Sun, 22 Feb 2026 18:55:40 GMT"
+          "title": "Mexican Soccer Postponed Amid Violence With World Cup Months Out - Front Office Sports",
+          "publisher": "Front Office Sports",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83czlxZ2lzRFlOQ0xOQjhHR1BzUG0yTVFVb2FpdGJiWWNxMlJMTVFJVk5aMmtvTFVNRGs2SjZYZnh5NjFLOUFpZUdNMDVZM2t1Zm02Q2VBeWdURjlnTGZHNHlyVG1tcWhDbTV3NFR3?oc=5",
+          "published": "Mon, 23 Feb 2026 16:42:36 GMT"
         },
         {
-          "title": "Plans Afoot to Meet Religious Needs of Worldwide Soccer Fans - flatlandkc.org",
-          "publisher": "flatlandkc.org",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFVBYzM4aXkwdm54UmtWYW1hbm1Gd2t4NjlkRDVtbWNsUF9BT1JOWENIalNEUVRjLXc0ajdQbEhHYlZTcmFLcmRyaGppb2VfZlpydnVVOGtfcVhydkpFRnN4RUtoU1BlQ2ZoOHBhazc4VEx4RkNVZGNHMkhQdXlVdVA3SkxvSVZydDY5eHhyY3BCTC1IVVFrdkNGUFQzTnV2?oc=5",
-          "published": "Sun, 22 Feb 2026 12:02:41 GMT"
+          "title": "Soccer matches postponed after Mexico kills cartel leader ‘El Mencho’ near World Cup host - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42RnlPdE12MWFRZkNMd2ZfTm1yaU5pYzJLN1ZUNWdPYzdaanA0RV9QcHdmSUJ0SzZ3cGtZeG5JRmZYUlBoejVxQjhaUFZWQV9xbVNQTXJQbWJNUnhjVzBNbEgxc3JtQUxwS0RJU3ZyOWJ5TEZ2WFg3bGQ5b3DSAYIBQVVfeXFMT1lRYlJYUmFxdVpIVDZLZGs3eEFVVkpVUXdpc0dxUkM0N3hKMF9SZ2otUXNMdlAwSzZneEczZDc1Z3diT3JqZVZITFJZWTRVa0ZiVDJ0VEJ6ZnA1dkVjTzRGM1dOeUhTYTcxcXRpLWt5UG5kSUR2OXF5eFE1RlRkd2xfZw?oc=5",
+          "published": "Mon, 23 Feb 2026 06:20:03 GMT"
         },
         {
-          "title": "Special Olympics Unified Football World Cup Paris 2026 - Special Olympics",
-          "publisher": "Special Olympics",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZlVPT1B4R1IzcnY1YVF5UVZGeDZvamZNNlN3UTlZaW1QUUVJQk5pRTlBX0pyVXA4Q1pIYTNhY1IzcFZ5UG44SDlVOHVta19pZ25tdWZXTWNzNS1RelhRdWpnazFhMXY3bHAyaXdxeHdsZnozbl91MUIwOXA3S3VIN3F2V2F6b0NaaGJ5Ymc1NnNmMk5zdWlnTVBwR3dhT19XTWxHN0E1NkhJcG5Xc1Voc0J2ZTBwVGVRT3Rv?oc=5",
-          "published": "Thu, 19 Feb 2026 08:30:00 GMT"
+          "title": "Unrest in 2026 World Cup host city Guadalajara after Mexico kills drug lord ‘El Mencho’ - The Athletic - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbXFkTDZDUmRDT1FGZFBPNEFoTjRqU3l4MkVIQ1FaX1BFRWFZTmw3aVVhSU0zNTIzOWdpSHlKQm5uNE95VjhuZF9tSFBac3JoejE5djBueEZmaS1kVzhjSXdWT3R2SV80TDlydk83UVEwM0pORlBzNXJOa3paSEpjVE5TLUJDMWlKUjRyVQ?oc=5",
+          "published": "Mon, 23 Feb 2026 09:44:40 GMT"
         },
         {
-          "title": "FIFA’s Crypto Leap: FIFA Token and FIFA Coin Set to Transform Football for Billions - Blockmanity",
-          "publisher": "Blockmanity",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTXpsYmdfV184WmMyRmRhNk9xTTRkX1hpV0JIYVRPWTVaQlFnRDZXMWl1Rng0QV9YdWFJRTg2TXlxYm5zblNmUzdvSU1NSVFTeEpTM0RYTERwUkNHdlhZRzJVN3NEQmJvT1k3S3lrS19LVUFYN0pXS29KMWNLSFJDZVZPdEZIdHlVMEhmbUpHV3gyOGQ2S05iV1M4NTI1Q3ZYa2o5WFBQXzdQRUtNcHUyb9IBtgFBVV95cUxPeU1OeFI3aEhUTWYxaHRGVHlMRjdjUnRrakZEQ1NIaUVTaWUyT3V5WmhsbXNSWnN1V1hzSFM1MmlOZmFDcWtOcmxXYWJIYkhvOUdPVkpNR05nazMtb2RzdVFSWUxFNF9ZVkM2RFRHeW1kVVZ1NDZCTGkyLU1DV05ObkpFcDVFRlhMRkdrT2dPX3NvYTBJbnlQWC1zM09wY1BiNHVmSVNveGJIZF9uZVd4WXkyTDVGQQ?oc=5",
-          "published": "Sun, 22 Feb 2026 18:40:15 GMT"
+          "title": "Fifa wants injured players to stay off for one minute - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Wa2h1Q1B6LXZYNHlaRjNzelJTX1czRC03NmoxcWhvNU9BUmFYUzQ5NU1BVFhrVDFrWUxyOWdhenpld3B0U0wteGZQM1hYS3JnN1E0a2RFMEsxSHo2ZWtQN1V4TF80MUk?oc=5",
+          "published": "Mon, 23 Feb 2026 12:33:07 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "BAFTA Film Awards: ‘One Battle After Another’ Takes Best Film — Full Winners List - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNT3pZeWZsZ2FWM2k1OVBDZkN3S2Y1UkQ0REgxQ1FxdUh4bzBlV05tc0piSFh5MUZrUVFIdDF3Um9NaE5aT2w1dUtxd19hNzZTWmhUTjFMY2ctNjZVa0tYRE95eUdHaXFDYzZmaldQU2lqRGlFZ0U2SkJjRQ?oc=5",
-          "published": "Sun, 22 Feb 2026 19:53:00 GMT"
-        },
-        {
-          "title": "GoFundMe for Eric Dane’s daughters is ‘under review’ and funds are on hold - Yahoo",
-          "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0I4SzZOUS1EcDg4amVybmlxX2x0aWNSNkRtR0RDYVJycmFFVG5hNFJfOHV6azEwTFdac1VzVzJvcW54c3V1UWdCZzVvMlJfdjBUcWN3YnAwU0JyV3pMeFpRRXIyWFY2UUFOVklYMEc5UHpWMTE4VkhzT1Z4cW9KNk5HLS1mbVRPdUN3SlVRc2t1a29wRXJJTkc1LUVhMFNSUFU3OWgwRQ?oc=5",
-          "published": "Sun, 22 Feb 2026 19:24:51 GMT"
-        },
-        {
-          "title": "Willie Colón, a Luminary of Salsa Music, Dies at 75 - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00S2ZkX0FEMHVOOXFNMHc1c0tlUDZscDRxSGMzZmI4V3BUVE1LX2lrT0QyeXRSeWJoaVNSSzBzclBzQnprNmxVZUR2d0xFY0ltR3NYSjR1dUlQQmpsWkJ0bTV5ZHk4a3RRQmNPOWNRUjhaVGRONElF?oc=5",
-          "published": "Sun, 22 Feb 2026 17:45:00 GMT"
-        },
-        {
-          "title": "Box Office: ‘GOAT’ Unseats ‘Wuthering Heights’ After Close Race for No. 1 in Quiet Winter Weekend - Variety",
+          "title": "Nick Reiner Pleads Not Guilty in Murders of Rob and Michele Reiner - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0J2QkN3NnppTkJ0Tk9SMnE4Y0dYdWlUZXpnTFcwNXhma0VjZ2JzYUlrT3l1a2NSc2RHclZucm05bDBsRWstX0c5RzRKTmx2SzJ2WXBVVmdiX2hmcUdqRU5BTHY1S1VFbWJwMjQwbTdzMVZDZjIzUTN3d3RDRDFGcXVpb0U1UmhLUUN3VzBER3lvV2YzeFNaWUZJc3luQVlxamV5NC1KcW1DQQ?oc=5",
-          "published": "Sun, 22 Feb 2026 16:04:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOEJTRXdiTUdzU2JGN0tabjVxZkxFM0JXTFdSWXFSZmd2elA3Vjg1czczS0FIY0VXdFRMUmNnbFRLeXJFcXloWENXR25VeGhjakJEYnFPNS0ycDRfR3p6bmlhQmRYakRFenNlNWFYWDN2VFFZSzN2M0pRalZ0Sk91S01xLWhhYXQ1M2ctYkJGNV9VbTg3WTY4?oc=5",
+          "published": "Mon, 23 Feb 2026 17:27:00 GMT"
         },
         {
-          "title": "Berlinale: 'Yellow Letters' wins the Golden Bear award - DW.com",
-          "publisher": "DW.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdk9VR2N0aGtld1FqenZIZExVeXpZV1ZHblNXdXEwRVNfQXczU2poTVhWU09QallqVVRUc29UYk9xbS1ranFlY0hKdWQ4TGJJdGoxY3o0MEd3RUczZktuR1JockR3b0tCckhMbU9vZktfTmxWaFZBUUtpaGZPQzU4dDl2b3NnVXFJREVVaNIBjAFBVV95cUxPRkEzcjkxZFdtaFNxZzZtUEFoZks0RnBVdjY0aDhXdTFqd0hxckJ1dk1yUE1fdm5PU1N4M0MtRXRaVGlaWGdBVXBLeU9UMDNaMXlCd25nNy1vSWVDLUpaNFNrR2xEbVVpeEwxODNPRzBtVTMxbk9wX21sM0pRcl9oYjVta3JXOUphTGM4dQ?oc=5",
-          "published": "Sun, 22 Feb 2026 11:47:52 GMT"
+          "title": "BAFTAs apologize after guest with Tourette syndrome uses racial slur during ceremony - NPR",
+          "publisher": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uRTZBRFg5QlNjZTBUbk9ZWGd1T1o5aWRmand3QUd3c0V0b0lHcTh4THVfcUdoSmxRaEoybjFXVEY3Vk9TeGFuaE8yRTdnNFVkN0FDZ0hYOVVjVmhKMF9ZRGVFbXpzVTVITFBiUDR3?oc=5",
+          "published": "Mon, 23 Feb 2026 20:18:46 GMT"
+        },
+        {
+          "title": "‘Trust And Safety’ Team Is Looking Into Eric Dane’s GoFundMe After It Raised Hundreds Of Thousands In Just A Few Days - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnN3cUZabm1VZWlhLVNwWDF1RWM3VC1lNUNwblM0R3dHeVVBd09mZFp5dXo1VHZscGVZczFrSkZYRkNDdUo4eW5lLVNSZUNmMlhuLW1CMmhJQy0xRlk1TnJub1VmM01HVEpDbjFyMEdLOGNEbmpMUkRmWVYzMFpHNnh1X2FnX01UeW5TM1RDVEs4aWhqdHIwX0pJZ1oyTkdpenc?oc=5",
+          "published": "Mon, 23 Feb 2026 15:01:55 GMT"
+        },
+        {
+          "title": "Inside the 2026 BAFTA Film Awards: Disclaimers, Dirty Jokes and Netflix’s All-Star Afterparty - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXNTTGNTdk1hYlhoN2JPTmtHSG1faVBvd0I2SEo4eFdEWXhFbWlzbkRxeEJaQllNVE1rQnhGTHpsd3BabE4tZUFxU2RENWR2MGpVcF9fR1dCWXRvOGtQdXZCZ0xTQXhod0cwdExsSWNYZVMybGo1TktXekR3cm56YnlHWUQxTTdZMEstNllLcnlONnNSVUVpSGU2S0NXX0FaS19NN3NtdXZzMkE1SVYyckc2TlFPQnAySjZpOA?oc=5",
+          "published": "Mon, 23 Feb 2026 02:51:29 GMT"
+        },
+        {
+          "title": "Taylor Swift’s ‘Opalite’ Shines as Her 14th Billboard Hot 100 No. 1 - Billboard",
+          "publisher": "Billboard",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85b2ZDaDdKX3N5ZHNMcTViSGRVZ2JiLUkzRXNXaVZuUWszb0lKa1A4WV9VcHV5Rmk3X2ZXSnB5YXMzTkF2OEtpUnl6ZmQ5REZBVXJjMlBHRTFvR1VHX1RtNXgwTk5BdG5tMUNPOU9rVW5kZ3JnR1U2aFE3WXE?oc=5",
+          "published": "Mon, 23 Feb 2026 18:37:30 GMT"
         }
       ]
     }
