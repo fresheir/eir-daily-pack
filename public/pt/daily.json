@@ -1,7 +1,7 @@
 {
   "market": "PT",
-  "generatedAt": "2026-02-23T22:39:46.740560Z",
-  "validForDate": "2026-02-23",
+  "generatedAt": "2026-02-24T22:33:12.926202Z",
+  "validForDate": "2026-02-24",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Diretor da PJ \"não investiga ninguém\". Luís Neves tomou posse como ministro da Administração Interna - RTP",
+          "title": "Passos Coelho critica nomeação de Luís Neves para o MAI e pressiona Montenegro a avançar com reformas - Diário de Notícias",
+          "publisher": "Diário de Notícias",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdi1mRGkyY2dENmN2UGVWY0MwTndGOGFiRlFHMzZBdkxoYTRqOUF0Q0xHZkNhTWdCU0tpR0pVMzNhbDFOU05QTThSQU51TlJvWGx6dlFhNWZMWjlBaHl3a0ZaUVh4MC1hZmZTTHNDOFVVTzdtMl8xQjk1VzhscmhxQVJONUhVb0MxbUJxNVBIc0g0QjI0aWhXVWpVRDhZSTZYMEZaQmVzUGNCN1U2TEVDTA?oc=5",
+          "published": "Tue, 24 Feb 2026 18:06:38 GMT"
+        },
+        {
+          "title": "Montenegro apresentou cumprimentos e PTRR. António José Seguro recebeu primeiro-ministro em Queluz - RTP",
           "publisher": "RTP",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMzBFUGowdkFnTVlTQ0g3NUdwSWJiOHpud21zbWFlNDdjQ0dhVzh2Ui1nTVYyUDh3bF9vMDJtUjI5T1JRejMxQXc5ckhSTXQ5bWRPaUdzVXVNZ3J3LThncW5ZQWk3TTlhYkdORlEzdUlzMm1oSVZhdWpiaXIwNFdkSnNpSjdIVkY0YnY5b3VKb29rblJMR2pXb01KX0k2U0hyUlo2RVQ4ZlRUX1M0UTQ1U2I4QmYtb2xSbkZ1ZjRSX0hqbkpPLTdfQWdHVGE3VERYaE83ekw2cw?oc=5",
-          "published": "Mon, 23 Feb 2026 11:32:55 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMG1aRkFSUWlJRjdZZkZmYkJ2cVd6R0tSVlZhS1k2N1ZCbFhhdV91eXhvaWp1cjlIUG9qYWszVWExa0s4Rm53eHJqZkMzZGxKX0RsVV9kQlRVU0RPcVh5NEMwSnY4Q196OHZtU09TWHBtdU4wbnhldGFqRWhrOGZidUFPanVBR2NGRHVuLXNYcEFDcHJfaUJUM2FYREtBTVAwRmJPZjRIMU9rd2dUNHdwT2dsYnMyR21BbTR0VmdyY3REZWhweW9MdG9oeVBNakdydllwUU9pb2VsMXM?oc=5",
+          "published": "Tue, 24 Feb 2026 21:04:45 GMT"
         },
         {
-          "title": "Alterações à lei laboral voltam à mesa das negociações, desta vez com a UGT - SIC Notícias",
-          "publisher": "SIC Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZFVOYzBqYlBfMFVNQ0NxQkJSaXlTZnpNNGpKU2RRZXg1dEVuVTdrRzBxdnZBS0J1c0o3SjRPZU1GUURZSHhCUkk2OUQwa0lEemY3NUJOM09qOUcwamZUQW1MT2VVd2VSTm9uN3JETVZXenVnYzNIWk9TS3RKNE95Sm8xQllzN1FSQ2V3WEpham81SURIZDZZenVCRFV1ZjNCa2VhS1owdXFTR0U2RTF5VGdGb0F1cW8yTTVGMnRBSFZPMFBOamJxQURMVXZhM0xRdFFSZmdZdVV3MXBUX09XbW16dUU?oc=5",
-          "published": "Mon, 23 Feb 2026 06:25:04 GMT"
+          "title": "Ana Abrunhosa repreende ministro: \"Se vem fazer uma conferência de Imprensa, nós vamos embora\" - Jornal de Notícias",
+          "publisher": "Jornal de Notícias",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM0NEN2N0aWxCLVg5NnNnTmh5VXowVGdteGVoNHgwbWVVQTN5T0hSUjVaNXRLQXZVQlVVTUVkWExWLXNTYlhPeVktOGpQSm03VWN4X1RBYnJRTGM4dkV3bEV0TWtHVGNQTnBxUGwyRzZWel96YmZzaHU3SHNjNjliLU4wQ3U5a3ZlV2RmLVlmbWxGQVpvZWMxYmxWUzZXY09TQ2otN3NJWXBzOVJMWWhVS0FzWUhMeE1JdDBjOEFHLV9VakgwQUQ5TtIBvgFBVV95cUxNOGZ0VzJTYUVGUGZPWlNuVlRicURLRkUzZHM3NFFFLVBCRVlsLVBLdkRjODhEQl9xV0ZlckduQUduekg4VGF5VjQ5dXNoSkUwcFZZY24yUkJGREZHbG5OVzcyMDFxT01KRTVtakZLbmV4eVNLS082NVhYd0RJOHhVVGFxOHpWSE9GMUdWeEhHOG90aTV2MGxpaGYtdFpIWUJiTndIX1hVRmhKb0s4cXdOWVBPVEJPWWVWa3Z6RXJR?oc=5",
+          "published": "Tue, 24 Feb 2026 16:37:00 GMT"
         },
         {
-          "title": "Irão: Rangel admite que EUA podem usar Lajes para ataque sem avisar Portugal - Público",
+          "title": "Primeiras urgências regionais de obstetrícia estarão em funcionamento em Março | Saúde - Público",
           "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRUFoMUp4d19uZnNydVl4bE5MRURuQkk1WTBobW40S3ZyX3ZHVF9zUDNlVjhiaW1MV1dDYzVuaHlwUlZ4amFaZmRRZmJ5cXhuOW54LTltRnZtYTZuSGtGeXNHTmMtdmdhUnJQU2JKZXIxUk9BR0swUlo0QjFUZTZZWXFkWF83bkdqajdueWZQVHNKa1RycHNKRnhYcTJHV2d5eHVzcW9ab01zNnFoeTZmbkJhX1pncG5kTEFnb3BoUWRBTEFk?oc=5",
-          "published": "Mon, 23 Feb 2026 15:35:32 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOakFtZl9fT0NVb0dyRG1iQ3pERXNHTXN1NkNRbkgtRUhwTnZheGJKWjdSb0Z3VkxESTIxT19ndHdFbDZOeFRMWHVpNkFYUk5RUzdTTFZzVnVSbjJGd09CanViNnU2Ukk3MHlUczV5b0cxZVpnRy01V21zekpaNGlLV0JyYVlUZ29lWFlaVzE0ZTRnOG9CQ1RUYVVycmEwSnZySmlGalJUcE5CbFNCX3lYS3EwcGhBQUtnNGY3Znoyd1JPeGsxOTRwNg?oc=5",
+          "published": "Tue, 24 Feb 2026 14:08:41 GMT"
         },
         {
-          "title": "Prisão preventiva para suspeito de atropelamento que feriu cinco pessoas no Chiado - cmjornal.pt",
-          "publisher": "cmjornal.pt",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGRIaXpkMnVZcUFGaWtJcWpPRDZPN1RwcUFBTHJHRVNLMWd2a2JhR0xGYUdER1lZWWpIbzR2b2F6Wnhoa0E2ZzIySHNzNU9ZSTFsNXMwZkNDNHhibkJVYUVVRWFkamZHcllVRno4OTU4b1BIVElJeXFPQnh1Nmd0SGJGdlNoN1Nidkt6dDNuVjNxRVFRajZPRjRjb09RVFFRaFU3M0JNMm5oZlJyQTZLOVZRczVOM082ellpY1RhVEM?oc=5",
-          "published": "Mon, 23 Feb 2026 17:03:00 GMT"
-        },
-        {
-          "title": "Barragens nunca estiveram tão cheias, e vai ser preciso fazer mais descargas - Público",
+          "title": "Oito meses após a morte da FCT, Governo pede análise ao sistema de ciência e inovação - Público",
           "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUnU1M05sUklHdVRBLU1VUGNpdlNKb0puTzBtM3ByLTRxRDE5NW9mSW1SVHFGTlNHN1lOVWF2SUNoTy1LOXN1dXpuVDdVU0I5Uk83U1BsQ01lcFdWTXdxZk82dkNvTUN0WGZzNC04bklVNEJSSzFSUUVqUXVTS2o0WXNXSDYtWTVGVEs3RlhSOUl0WHZxTTNLUTc0S1pnQQ?oc=5",
-          "published": "Mon, 23 Feb 2026 11:40:21 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSkhmTzlPNXhtQmlTWDNsMDY2YWtrV2xLc2NaWURWM2stNFJJRlE4ZjEzQUdLZF9mMElSa25BaUw3Sm03VmNxSENqTmdQRjdMOFloMGxpS1FUa0swQjM5TUY2RzFEcXFtaDdhVkJPcVhWM21Ia0tYT2ZWTXBnR0JReHVFcUhubXpXTWVTVkJYdmlnOEF0VnlMQzZ1d0ZfSHE0cm10QTNoMHhWLVlqZmpCZ005WjhiX1RSeGtfWlpxVjZyOU1Eb01NU0JJYjFXQVo5X3VTUE9wZlhybU9j?oc=5",
+          "published": "Tue, 24 Feb 2026 09:30:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Sanções à Rússia: parceiros europeus acusam Orbán de \"sabotagem\"; Ucrânia atingiu oleoduto que abastece Hungria - Público",
+          "title": "Líderes europeus ao lado de Zelensky em homenagem aos mortos da guerra - Público",
           "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZGZTOWFHSWhqVG44Vl9YaDZJaWZJMWtjTEVnTnhka25DSFRkUW44TGl3cVVlSG1KaW1Ma05UNUNGbzRvN0tnbXQ2dFNfckdnX3kwbXhIX29mMHFXRGFzdEVHU1hiWmNlVHJDR1M4NS1mYUU5d08xYkItNkxPLUVOZldySWFfbzR5OEd3YVVUdE56SDhUNkpaOXBtQmdFREg1UUpYbnctWTE2S3BCVFk2cGZocXcyZmZZVkJDS0wxek10RXIxQ0xrekUtdGh1WUNlZDh5V0xXeHdLRUdFS3FjdWliTF9MWTdob194RGk0TjdDNW5tTHlKUWZYVFN2emg3ZEs1X0NZbzVldUE?oc=5",
-          "published": "Mon, 23 Feb 2026 17:14:36 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1VrY2xpNnJJU29JdWprNDYwZzZ3cXJydm5nWGI1cm8wa3dfbHQzUlBqdWZhUkROOE9mM29yMThZSUo5SDFITDJtemkycThTVXBBcExxZHJVTjhqNnp3MUxlNFFYc3ZMVFBMSWViTWJZTTdSYTJnVUM5ZXJfT1ZQOTQwVktwSS1aUXRpa2lueEZzNmNrb1lVWDVmdTU5Mk5wdGJYcTBTZEMydlIybzBUNTVkNA?oc=5",
+          "published": "Tue, 24 Feb 2026 13:00:00 GMT"
         },
         {
-          "title": "Da pista da namorada à colaboração dos EUA: tudo sobre a operação que levou à morte do narcotraficante \"El Mencho\" - cmjornal.pt",
+          "title": "Parlamento Europeu assina empréstimo a Kiev de 90 mil milhões bloqueado pela Hungria - Jornal de Notícias",
+          "publisher": "Jornal de Notícias",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYU92U0tXRXZ1T0x4UGtpZFEwdnhERG9GMDEyTnZOWDZRTTVIQjdMLXBXSEdTWVJUTTR2T2k3eUpxcHcwRUZQVlFmdkdlSkJQYUU2b2RtX1Bzd3AzM25jcm0xTk5NSHctRmdkWXlJQjRKQ1ktM08xNDBTQmpRRlBHT0plUTlNUWdoYVZrZHhIQzB5U1dTa2FCSU9aWXhfbmhJdnludFJFNkx4S2pTaDliSVl0N1VnVTh2Rmw3MHF1aG5BZ9IBtgFBVV95cUxQdEQzUWVubzBJeEdJWWNMZjJhNDkybW9YbGdTZjZ6RXJMbm40OE1vMHdlU1Q3UmJxZFI0YTFWX2k4MXBCTXNKaEV5ZmY4TVEycVRKa3RvQU5ZLVNTRXlZdjBHRlVrYXg4THJxMm12NkNidndHOU5uMXZxblY0RkJDSko5MG5aNFZ4cFRJT1JoMDA4VlFmd3cySTVnb0dMVTZ6b1BfOTNodzYzLThpQm04ZHp5RmNvdw?oc=5",
+          "published": "Tue, 24 Feb 2026 14:48:00 GMT"
+        },
+        {
+          "title": "Um altar e cercado de espaços verdes: o refúgio onde \"El Mencho\" estava escondido quando foi morto - cmjornal.pt",
           "publisher": "cmjornal.pt",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMU4xWFE3S2E5ellOM2tiN1dseWpFcjdmRmdlQzMxM2VNVHB5XzNVaWh1c1l5VnZKeVVLNEhBdFUza2lsb25Zc002M0tYb0N3RGVOQnZmaWhVcnZCWDhqcHJGSGRaTDNhRTdUWTdFMDJiRXFMbFF1VXB1XzJrbGIzcER0dzVES0ZKQ2xHNzhuWS1KQnRyMEVmUUJwbkdESkNaSGZIN05rYVdydlNtV3BnR3ZvOVhsckFaOWxiaFFUWFU0VWNEX2UtV2tXM0EydExwNDhpV19EdkdTQy1PY2NPeGtwSdIB3gFBVV95cUxObVdBSjRGalZFdkNITGhfWnZ0dmNwbHZmWm1mVmNtOFJkOHN4elNSb05pYXJ5U2p0b2x6Q1JZa3Y5TzJKaExxWld6aFRaRTBLTjJoeVFJbl9LeDctamt4aWlXOElKbkZmbTRGa3l3THJjaGpaUTNDMDVSeDZicmU3bkE2ZkRPQktpcHh2S2hkTE0tYW9mOE54Mk8zNGhoaWpLdl82ME1xeERjUzk0N0p3X056R0hLMWpLY0JFS2JuUmZxdlM0NDVBMVplNDRScGNCUU5pSVNUU3VwNkhoRmc?oc=5",
-          "published": "Mon, 23 Feb 2026 14:55:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNblhJZlVRU1E4R0gyTURiRHVpM0t4SFotR1ZyTmVVa1RQcVgwdjVJNEFhSE5McUhteHplRjZldGNza0Z4OUZqVEYwTDhBWU80REFOZVZNNW1Uc3NrNmRHYkp4emtEemUyQnlpbGxza3lwSzh3RjA3Z1R2Z2lnZmcxYUJoNmlUOVZxMEtrUlNBZ1lnTmx1UEd1aHhWVHRMZFBQaklnTEdVMFZvSDR2WGpQcjBPSWJKVUlVTnFDTGlmYzdlb0ItREtRelNBOG5FUdIByAFBVV95cUxPd3FoR2FXWFRweFBxaFZkclR5NU9PeDhQQWdNRUp1R2d2ZllMbVpLdmFUV1dpRnY1VHhnN2hmVzJmM1NKUmdDZE1aVEI4ZThWRFRocjlxTno0cG5WYm53OUZVckR5ckFQUkluaS1EajVDcTQ0WDZXYjlXSkFobGp3NWVxSzRyay12RVFYN0NWajJ6eGs5MUhGb0N5YV8zU2RJaEwzQWNzN1BOUkJ5WGZTOGVRM3hhYUdMMnE5QVg5bWx3T2gyVmRibw?oc=5",
+          "published": "Tue, 24 Feb 2026 12:32:00 GMT"
         },
         {
-          "title": "Uma questão de \"clareza jurídica\". Parlamento Europeu suspende ratificação de acordo com EUA para as tarifas - RTP",
+          "title": "Nova tarifa de 15% coloca protecionismo americano em máximos desde 1911, Trump ameaça países que não cumprirem acordos com tarifa mais alta - Expresso",
+          "publisher": "Expresso",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZzJ0c09zdDZ5U0c1S2ktZ2l2NHphNG1TdkRhVTYtUkZEeXlfd1o4WHJiMnRPQ3hVMGJnZTNWYTR0aHNxRXE5ZXFicXFKdWxkSEpiN1o0VGJ4bkh5T09nNUlSazVNUmRqYndWYkoyS3A1OHB0MGh1QTc3amxKRnR5T0ZIR3ZXZVViaDV5akdBM25pNU9QczVtYWtXaVZFTkZyRVp4cGE2Z21TTHF4eEdkSlR4anJZY3d4ODJMcFoteTlROWF6NGZobVZjTGN5YVh6ZXcwdDAzS0lSLV9YVFFkc2FabGNPVzRIMGxSekx6RGdoMlVrQ1hTVEg0eU5oZkhFbEhSZnIwVklTZlBQeHc1S0lwdjM?oc=5",
+          "published": "Tue, 24 Feb 2026 07:00:29 GMT"
+        },
+        {
+          "title": "Retrato do ex-príncipe André. Presidente do Louvre apresenta a demissão - RTP",
           "publisher": "RTP",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNDY5UGpIalZRX2lTVkFpeUJCczZQY0VnZHFUMVZNakE4SHFYd2RKblJlVjZicERJVE9PR09uc1VUR1J2OXRmQk9sd1hnTXUtSE0wT3plTnRrRFJHbXAySHVWbW1XRV80WkNmVHB0am4xWjVIZ0R4TzdVcG1zQjg1OVljakhUZTZJdi1tX0dUVGxwMUNfdi04S0pvcmZ3UWZvMi1wLTlzZXlRTkZDREF5Njh0eHA3d2RjUGNzeU5ZX0tTN0xLdElpXy1hWm5rZlREV0VFT1UteEJueXFkTGM4S3pqWFlqUQ?oc=5",
-          "published": "Mon, 23 Feb 2026 17:30:22 GMT"
-        },
-        {
-          "title": "Plano era \"repetir\" o Afeganistão na Ucrânia, mas não funcionou. E agora a Rússia já está a pensar \"na futura guerra\" - CNN Portugal",
-          "publisher": "CNN Portugal",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdDFQWmxyVGFGM2RoZE53TTU3LXlOT2xaYW1TYWd0YU1WS2JHMEdHWnM2N2hFRElWVXJFR0dLcGxQb3FzVGtVV211dl9FVERsYTU0ZEtsVlVrTDJiNUZOQjdrUTlsYjNjRkFkZ0d2YXc5UzFaakJjMGRuOTJ1QjB6QzcyUE1WZld5Y2NCR2hLQkNmZjFFamo3SEdicktnNkxBUllCSWwxcTRIMUlwSnhyczUzUGpMc0V6UUd2ZkNzNVptS1prNFlyV3B1TEVQdmszeFlncE9EM3NEWjVFbm1HY1JicUpCOGc2Z1h4LXZXWWUxUl84V2VPXzR3czFrVmc4eDkwZ1N5VVByN0NSd0hqYml1TdIBmAJBVV95cUxQWjQwN0JBS2RPa1R5SG01eGhwWkMtR000OU5EZ2hqN0xDeDkwdldKVktvVy1DMnhrNWlvN2p0Um4zbzF1SkRWRlVodUVlaVcta0xjY3EyR0tyQTdOYUdVaFVRSERPZUozZGJKU1g5UEdUbDhIeFYxcDBXZ3ZqRjdHNndOZUNsVlZ5TGotZkxxUnI4SVg4VjgyVFVfX1pyaE4wcFNmekdHSVQzcGFYNVFhblF4Rk94bEpCd3JKTWRyLUVkV2NxcV9SU2tkUlRadE13NkRXanJ4Yy10LXBHSWI0M1FkRE9fQjk4Wm9tbl9RdlNRREd4eVd0LTNpMFlRbXBNQUtDRS0zZWN2TXpNNnltRXk2eVdVQTF4?oc=5",
-          "published": "Mon, 23 Feb 2026 15:02:54 GMT"
-        },
-        {
-          "title": "EUA: 40 a 50% da capacidade aérea pronta para ataque ao Irão - Observador",
-          "publisher": "Observador",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUV83a09mcVVvNjZpNHBZN3RUay1mSURJY2xIMWpxVVNDM0hTY1JPeEJBZ0dseTJ6S0F1S1N0Y3BMZzBQZDhBbTVqX3FOZWFRaUtROENZbUk2LXRQdm1fLXVrdW1SNXEyZmV3bV9wTDlwR0xEUlF5a3VWdnJCeDVCUDBzVV94ZzJfbi11TjZMVi1ocFppQll6U0xXWTNKZzA1MUVUVnFIQ2JMTTJVT3YxaUt5WDBubkhSenNITWJ0MzZVM05wRTFQcWsxVGVWQjhfZ0NNZ1dHNXJ6LUVrbTlOMjlRY3dFRWE2V1JoSWZENHRoMzhI?oc=5",
-          "published": "Mon, 23 Feb 2026 15:41:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXhDTUhOeThUSzB2OHo2LVNOZUdWTXhMai1qNXhfQ0lBNUFtNHpvckRrRUJ0MFVaLVZQTmRLd3ZzUnNjdUNWYWZHb3k5SHZ4blItdXVvMDI0S0U3eGxCQWo3ODAxYk40d0Q4Skx6Tjl6YnFPc1ZnWWRoSlNGM0xGaXNWWnd6Q1B6VjVSS0MyRTlWY3AwWkxEdWxwZ0RGNjBtZ0hSR2FyeUkzQnVTWVNmeUNUTnZnQQ?oc=5",
+          "published": "Tue, 24 Feb 2026 17:53:04 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
+          "title": "Crédito à habitação explode com compra de casa pelos jovens - Jornal de Notícias",
+          "publisher": "Jornal de Notícias",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlJha0ZUai1DSmRpUnBrMXBVNllObnU0bHg5Y2ZIWWFXLVJzNHdzWVVKYmh4RXl2a2VSQ0c4UFBRSDZfcU5QR3NaVVNRcUVKamdHQjJWRkM5OS14U3JZcmtqbkY5VUJCaGw4bkpSWGc2dXVnQ1lOeGg1aG1UY1Q3OVhheXZVdzFudFZWS0VKcThONGpVc3RwYV9WQWJMbmlnOXNkdA?oc=5",
+          "published": "Tue, 24 Feb 2026 07:51:00 GMT"
+        },
+        {
+          "title": "Mercadona abriu hoje mais um supermercado. Já há 70 lojas em Portugal - Notícias ao Minuto",
+          "publisher": "Notícias ao Minuto",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0d3UV9MOEN0bVR3N0piOS1BaUVBeG8tTGhOQnc5V2QzR1ZFZTNOWHlaekNJM2hjeGhvY1RYb3VOajFJTnJNYnhVOWFiWmdCa3hLenJNdzhJX1VpXzVySEwtN0E2R2JOZGNCLTdTRTc2dG1zdjhQZXRxOThYLW9HcWYwbWFoTUZucUh5b1JCc2ZHSTdyTE9HQV9HMXY3LWtaUDh0WW5lQ3FudVBnM3FPNlkzbFgwRkJEX3c?oc=5",
+          "published": "Tue, 24 Feb 2026 14:20:00 GMT"
+        },
+        {
+          "title": "IRS 2025: tudo o que precisa de saber antes de entregar a declaração - SAPO",
+          "publisher": "SAPO",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2xTd0JwX0JsSV9YS1BvVTRpUlQ2V1RqR1QtRFRLQjJ3SzVCQXh6SkprNXdFN25zVTBmbmxIU3FjZmhtOUU1b2ZBOUJZNjBjWDRMeW9PYzlvQkVYSjhOWTZWVFZXVVdPQTl1T0UwbV95c0NuTFdUcm1aOWMwaVdNSnFPTmlWRXhHLWJEWk1GZXJuc1BlUFpkaERwZ2RaM3U1X1AyZXEwTUw1ckVfU3ZOTGJsX050dw?oc=5",
+          "published": "Tue, 24 Feb 2026 06:09:00 GMT"
+        },
+        {
           "title": "Gigante alemã compra a portuguesa Cleanwatts e vai investir 150 milhões de euros até 2030 em energia solar - Executive Digest",
           "publisher": "Executive Digest",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNS21neGU3NHJLeUxITjUtUk03ZnNaNGZjV2haWmI3cjczYUdWVklsTDMxa2hRZWVqVU1hcXoyMlBpaHRtSENxalVERkhhM2NTU3ZudDZmNU9hZHFmQjkzbVZWbXQySWF1S1hIam5JQ25aNWdObmVIZUw0VmZxMHg0Vkg5UldKU3k4c0p0ZWNjZDEyMHVGTFl1bk5SUU5YaXgycXR0UWtrNjdUYTRkUlJKay12REhMbUplWTB3SlFVUjY5eFBuXy04LUFMWkhYbl80Qmx3Uw?oc=5",
           "published": "Mon, 23 Feb 2026 09:22:00 GMT"
         },
         {
-          "title": "Salário subiu acima do previsto, mas sem \"ganhos reais de produtividade\" - Notícias ao Minuto",
-          "publisher": "Notícias ao Minuto",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaENaSDNiRkxwOGYyQjl1T3F6Q3BrUGEzazJjZ3hXWVl4M1VNNnd1ZzJxWGhBcFl6d2pkWGxIQ3RFeHRRVS1hUWRvZ3FYQ1hma1I2LUhCcllPRGxxV0FPbWN6c3N0cjVodjhtLUlONERwZXQwMDJQOUlNbFk5OTBVYUt5cm1GeHU2M1VlQ3NldGlQLWp3V1U4andJSHJMUGVsQXhqVDZONlM5TUY5SHU4dkhaQjJrU09lSFRR?oc=5",
-          "published": "Sun, 22 Feb 2026 17:27:00 GMT"
-        },
-        {
-          "title": "Aposta em novos materiais diminui preço do calçado português - Jornal de Notícias",
-          "publisher": "Jornal de Notícias",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYk53dXIxbUw2dE5jYzV2ZURUYnJLOG1fcmdzOXJ6d3NaVktGcjZBWE9pR2hBa0lWTlVCV3pfV0cxUXY0R2JuMXZmeGtBenpFYlJab09ZYVBnczhvTm1QMnBkVkJRclRfdG9fN1BLd00yaU5FRG1FajVmNTZLTmlqU1lWMnVsd3F5c1duYjNPOTVxX1U1dFlnZ25kSE5IYW1NV0x1REpB?oc=5",
-          "published": "Sun, 22 Feb 2026 23:47:00 GMT"
-        },
-        {
-          "title": "\"Prega água, bebe vinho\". Funcionários do BCE revoltados com salário extra de 140 mil euros de Lagarde - Jornal de Negócios",
-          "publisher": "Jornal de Negócios",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUktVbFotMjYtak1wYW5XN3V0RDE2by1WUEFZWkhxckd4WktDUk12ckgyMERIOEctVHNBcFJsLXZ5Y3d6cFhIcUY1cXRPeHpYWlFuM0FST0xsdDY5emkxdnJtZUdRMERUYS04X2pjSVFwc3ZFdkdGbnNFN1VvVHRaNjlKWGFzT0FFWGc3c0tNb1dlSTBZSDFBbW5sZWdQOHlYTWVCcC1yUk1GZnlJY0UwVkNHWEp1bDJJUHB5a2psN3dWWVRQaWk0WkhQLXJWR1huWkhSMlRPcUp5X3JGeUJTMNIB2wFBVV95cUxPaF9wOWZlX3c2WThZdVg0VjhVd09ocVhwWlEzMnpSam5DVHdOTUttUUl0UXA0V00wSTZ2d3ZYdTRxRzRvdFBWckxQZmdPT294bWc5b3p3cHcwaHl5T3QwbmUtU0swVThrTk1oVHhMS0JCR3ZiOWpGOXpPOTEza0p0UTdWQzdpc3R0R0ktckJDTXd1Y1VIVVdSWXZ4YVlJYXR6aEJ5T2FiaktYSGh3YUdWN09KV28zbzdobGZYajlaY2dSWGVwVGtWSHJ2Skw4THdWLWVlSUdTdDBWdTQ?oc=5",
-          "published": "Mon, 23 Feb 2026 17:32:21 GMT"
-        },
-        {
-          "title": "Pás gigantes de 85 metros continuam a cruzar o Minho para o maior parque eólico do país - O Minho",
-          "publisher": "O Minho",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVJpbmVKOE53OE5JUzViV08tcG5DQy1hQkFHQ2ZlNkJ0WG5IUXdmd1A4LVpnV1h1QWZLZktvLXNhSHhGbVZUVTJveUNSU3MyT2tVaGlfS29rS0VJRFVMR0ZvWmc2cVM5Uk96UGw0VVExTGVJblpRUzJZTUFFSHBGdUJScmtWNUlDYWdiOUIwMjIwc3pGSVFMZXdza05LYWRjZ1FKVWRuS01lZw?oc=5",
-          "published": "Mon, 23 Feb 2026 11:38:00 GMT"
+          "title": "Casa do Marquês vai liquidar stock de luxo e material de hotelaria com preços a começar nos 50 cêntimos - Lisboa Secreta",
+          "publisher": "Lisboa Secreta",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rQ2xKOXBreEw4NHU1TmpKeTB3Q3paanZIelBrVGVjS2lVbW5hU0hfMzJuczlCZDBxamdhNEZqQnFEUklCRmtMVjB3Nm1LM0pMeWFqX2Rud2RoSWhxaWVLNmFiRzhKUQ?oc=5",
+          "published": "Tue, 24 Feb 2026 11:54:23 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Suspenso por um jogo. UEFA afasta Prestianni da partida com o Real Madrid - RTP",
-          "publisher": "RTP",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblhXbGxBVVpReXI2NkZQcUI0M0F1Qi1TUVdfVDBiM1JfWWNSUVYwRHFEcU12cWRTbG9rWTZ0ZFh6bXNNbDNuNHhWNmcyYkw3c0g5RmM5ZmtncURrQWRGZWlxa1N2ZVNLVEFrOXkzTE5VWV9PRURrWmFjZXZEVVA1SldiWE5zSEFEM1laanRaaWZ2X3dTQm1XbGN4RUZjRzZFNnVnN2doV0gxZDdVMnpOTFJVV25GMGdS?oc=5",
-          "published": "Mon, 23 Feb 2026 14:32:09 GMT"
-        },
-        {
-          "title": "Futsal: Benfica-Sporting, 1-1 (INTERVALO) - Maisfutebol",
-          "publisher": "Maisfutebol",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nQ0xJVjBPcVBCVUZ2OUs4VmkzbXM3dmRodXBweG9BQlNxQm95alduR3JubmJlMmhQNWxqeUJsQTN1MmhVMlhnTmNjRE0wNVlMd21hX1Y4RTM2aVJmWVltczAxZFo0R2VYZXJqZjBhNA?oc=5",
-          "published": "Mon, 23 Feb 2026 21:27:00 GMT"
-        },
-        {
-          "title": "Dérbi na Champions de alto risco: PSP reforça policiamento para o Benfica-Sporting - A Bola",
+          "title": "Prestianni insultado ao sair do hotel do Benfica em Madrid - A Bola",
           "publisher": "A Bola",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNejdSMFR3YXRoMmxzN2FNS3NXTm1lQVJ1cmJXNlFRRk9SV1FzendPazdjWnJDM0NUQTlZUHA2YXlXcjRzX2xHcmlNb2FIWHdTMzMzdVJIQnFzdWZubmxmRzVsT0YzRnNGMm5xVDlkY3NhT09SZFVLZEJrQk1sQTR2X2dlbk9hN2RQLVlXMW9TWkpOQU84MW9YOV9MTWxGLWUxd2hkdnotTW9KZHVsNFJpSHpGOXk4VlY0LTNHenJKSm92WGZkX01xMUVkdw?oc=5",
-          "published": "Mon, 23 Feb 2026 13:19:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVHVJUFktTzdGSFlIa1cwaWh3T1BlU1IyVnZJQjl6SXkxdm9JM2lySzZnS1prdGh2aDFoSkFFYU5HVFhpVUJsX3ZiNkllNGVIVzNvSGlkNjlPQmZhRHZ0bVpPSy1lN3FweHdWaVdZbEkxdno3MVVCTkJuQk5iUVlqeG5fMzlEZjV6NnlJajFjQVl0RU96d3dKcHNKLUE0eFhDS3JWTnBja0V6S2gw?oc=5",
+          "published": "Tue, 24 Feb 2026 15:27:00 GMT"
         },
         {
-          "title": "Fernando Sá: «Podia ter ganho qualquer uma das equipas» - A Bola",
+          "title": "Real Madrid-Benfica com 1.800 efetivos após classificação de alto risco - A Bola",
           "publisher": "A Bola",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbmZLMkFTYlo2dW1uaTFQQmJYRkN6dW0yV3NWRFJoeGlETTRiYW1HcjJDSUlDU1BSdjVGbEpfbFB4Rm40Q245MUM2Um5tS0p5TndEQThsVFN3QVNDUTNGeGtrTWpuZlBwS3dveWdZSzBSbkcwUHJRZmEtYlIydVVlWnZZVFk1blZVTTdORFREMXhjNjJLTWdxemtwdE1HcF9fR1duUw?oc=5",
-          "published": "Sun, 22 Feb 2026 21:43:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVjlpc1JtT1hEZVE5dy1BSzNDcmljTUpwVUhEdk5aS3B3LUJRY2kwRW5wa3FLQ2VaR0h2YVk1TXZXVDc3SVMxd0pOWXU2bXNyekU5WmhZSUhKNDNuUmRUdl9SVVdWMEZCeTRqSC00SFNiQ1BaZ0cwRTc1OWpMbGtpMjBGdHFzSE54Zk5jNlk3c2s5MGR1a3VyMm5SalpXeFVlcF9vVWFiR1EwVXIzeXVNMVpCVjlFZEJZZ2lXUQ?oc=5",
+          "published": "Tue, 24 Feb 2026 14:33:00 GMT"
         },
         {
-          "title": "Árbitro do Real Madrid-Benfica envolvido em escândalo com drogas e prostitutas - SAPO",
+          "title": "Nervos de aço no futsal: dérbi escaldante entre Benfica e Sporting acaba decidido com golo a três segundos do fim - CNN Portugal",
+          "publisher": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPc1F5TlZITGs3aGw3WXhFbE9LWGxFNUdIYWFjMks1OEI2a2M1WkIxdWtkdXRwREExZkpwNHNOSXVEUXN6YmxNSnZ5Ujh1cWViYm5ZVFg3V0VuTFJMUEpRTmxWMkEwV2VHYl9CaHZfU05YbFhDUUk4N3cxenhBWkdyNEJSdWNqR3ZvU29jQlBnZXF4OEwyQ1NpQ0JLVVNvQUI5Y1psMzg5Q2RQcmZfV1JaN0JhTlZXLUt2YTcxeDI5OUtWUTJOSm1fWUpmNGwySVk5cFpUZmVaUTI2Mzk3TEtqaFNNTk9YLWswR1ozeDFKYXhkRERyVGs0WXFtOVVKUDdTZjJFa2lfOUFSTWFyUS1qUGoyVW9BdXZla3ZSV1lIRUtINEHSAagCQVVfeXFMT2VXY1pXM0xjOVBjdXVIOEo1Rzd6dVlsLUFBdWR3YkdRcmxJYmtYSU1WXzRnZWROXzVLMzkyT3NPTmdDZXFhby14S3d4cGIwbGFaM2o1WmhPVTY0amNJampScTlaNWNsdDNKdGZ0cTdRdjVaOTVENnNPektyUTJtMWRmcG44bVdqOHUyZzk3cVVYdDcyLXJiTDlDc3lmQURRTWpLUUNzal9sM244emdDX0dqN25DU1NpeE9OSUhXOWFpcHFHaTRLUWlKdUdublZnVnNwaGdOQUVoS1REZlU5LXlsSWVOMjZxUnlvQ2tSdEkzWEZob1ZuakJaQWtHdkh0ZGhIU3M2TkZBU0liODRoSzJ6cmV6dlFWRUQ3VmRMeDRSaUd3cnV0VGc?oc=5",
+          "published": "Mon, 23 Feb 2026 22:23:54 GMT"
+        },
+        {
+          "title": "Sporting faz queixa do Benfica à UEFA - SAPO",
           "publisher": "SAPO",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcl9HQlhYaFM3eVptSzh4Vk1PcjljYnN0ZG9haVFHbkJGRUhFZTlmTXoyeXJibHpBX0lQQVZzMEhFT2Y3aV9DWjg0WVVGalJYalYwYnN1M3I3NWFJZXg1WE9tcS0xZW5ZVzhBbFZVcHVPZHZ6c2pkSzVXTHUyTGFzVlgxMWZJX09GUzdlM2gyUGJwRG9ackpJZjZHXzBEbWo0Qnd5WGE3a3JIaklSbzhhcWJscF91N0JZYzVyOVlWa1dkdzd3?oc=5",
-          "published": "Mon, 23 Feb 2026 10:54:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNkN6MTBVRlBLYUJmUldvdkZvWERjRHRvOEROZGpIWU51YmJSN2VaZnd5VjkzdEkzNnQ4eVVUQUg5aXhsMkQ4U0VlVlVDa0VyTm0yZDJlQ2tiaWVvYlVzY3BFajJNNkRudzdja3lvLWV5RnMwMmxBSTZmczZjb1IyVUhpVVRBRU05S0N6Yzh3?oc=5",
+          "published": "Tue, 24 Feb 2026 17:44:00 GMT"
+        },
+        {
+          "title": "E. Frankfurt sub-19 X Sporting sub-19 - Maisfutebol",
+          "publisher": "Maisfutebol",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOczVOdi0yZnVwY2IwZnFIZHFTT0pSQXZ3RUczM3ZvYlhNZXRhNlZXTEhwMXBxUk9PWC1falhPeVdzXzZqVmZySGc2V1ZFVkNvRUkwMTc3UnNnck0wNUhSa1BlSkRlalJJcUE4bUg2eTlzSFp6NXpRMm5uZTBlTERHR3JBS0V4NVBNWld5WA?oc=5",
+          "published": "Tue, 24 Feb 2026 15:07:45 GMT"
         }
       ]
     },
@@ -159,28 +159,28 @@
           "published": "Mon, 23 Feb 2026 14:55:41 GMT"
         },
         {
-          "title": "IA começa a contratar humanos: a nova plataforma que está a virar o mercado de trabalho - Executive Digest",
-          "publisher": "Executive Digest",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTnhQNUJCNE1WM2FpZWJEZUVlY1FRcFVhUXVxOEIwRVVTSFBWU0dGOGRfRWRDTTZMbURoNVRNdmttRmtaVG5QTXZ5X3NRZjJNUWszSWVkckJFazR2VEZPTjFPZVhQbElOVTRpdWZiRm9vWEVKRDFjS0x1X2s2Q1pMRWZVMHFDN1pRMjZDODlOUllwWWp3aURQeHhQOVBuUEJXTFA4dFkxVUNESmdwSHlFV1ZvQ2paZ1ItX0lj?oc=5",
-          "published": "Sat, 21 Feb 2026 15:00:00 GMT"
-        },
-        {
-          "title": "Windows 7 voltou! Novo ISO com suporte e atualizações de segurança até 2026 - Pplware",
+          "title": "Atenção: novas regras para acesso à Segurança Social - Pplware",
           "publisher": "Pplware",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSWNaaXRWMW9zd25lcHpwWGdTZ2o4THJ0T3VQUzRtbjhyZ1F5bG5MM1hQMFAxdXZReU1FY25XZWh5YnZXUjdSVFFiaVhrTnpuWFlfdnlmLVlxZzRYeTlva0F1Q0hic2Y1YXhsNC1QczdVU0hjXzdsMDM0MWU2ZlpUVWFZdnFEcVFuaVNWT0c1UTY3VVZPdlluXzFsdkY3SjhEMHl5S3E1T1Z1ZG12OGdmUmRPQmpCRVpj0gG-AUFVX3lxTFBNUnBoTkZhNFQtTmFMckpWWEdYdjhLaVVoWW9PRGdjWHkyODliWkZjVzhEY1ZLV051SXZLaDEwQndoTVZ6ZmVZeUE4VTREdC02R25KTTl5bWFTckJRV0hDRXZzUncxWTNXVG5TUjA3eGNhYy12blVSM24yalZyWG1Fb1lBUkVONXI5bDJzR0VpX1NKNFRLc3dsRElKSFhCanF5a1llOTR0WGdBSmJobkFsR2hHUUc5ZnE3bzVSbXc?oc=5",
-          "published": "Sun, 22 Feb 2026 16:00:38 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0tsdzBPSnFyUW94UV9tOXBYcTIyUmZRbnR5Nm9WVG8yNS1tVGk5QjhaZ1JmWnZHdEJrcmE0OTlCMmdmVmNWek83Zm9vTy1rOXdSR2JlcGNReERoZkhUc2Raa25mWEtSdzlLWUNRYWt6TzltWVRaYWpJamFuUEtkb0s3MGdvMFNWRDB0ZVVn0gGTAUFVX3lxTE5QSmlKY3FNNk9pRnVvZ29RbFd4Y1dfdklBUkRmTEVPaEo5ZFBPakMweVFvZHhSY3g1dHJrNGZKV21aT3JDNnZuV2dQRkxzTWJINDkxSDh2LVF2MUpyb1lPMUJncXY1dzROVEdUU0NQNUFPUkNOV3E3UzMyM0hVLVFfdzhSSjFlVVU3WG02cGZ2d2ExRQ?oc=5",
+          "published": "Tue, 24 Feb 2026 08:49:36 GMT"
         },
         {
-          "title": "China fabrica 90% dos robôs humanoides do mundo! E a razão está “do outro lado da rua” - Pplware",
-          "publisher": "Pplware",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVV9yVi10Ung4aFFBVU5rc0VyaWdZTEpmSVU1YkVsSTlBSlctSmdIeThkYlh0dXRmUHFJNEx4Ym8zU2FjUEJWT1EyVF9HelF0TlVBQzhUdFhlajJOaW5sNVo4bWJsSXJlSWtlbXJYaXJuMnBBMUVUSmR6dnpXUlF0Sk9sajMyY1FLRmdOenN1OElFR0djT3pIdE40N0hxNGlwT3RsYUNCYy1VZUlfSkJrZDFTRVc1bTVPc2F4dTVDZ1BXZ9IBxwFBVV95cUxNUm9NbHJSWG11djdXYW0ycDZFeVpYbTFmclBEQ0l5VVNoUHRnY0lIdzZmV0hUQlJ3TXNKYnFWR3d1OE5VOHhLNUJwMWVrQUUyWV9vOHhCZUZZcktNZ1VXSEpWMng1MlVJYWdLUlluZ19zZUpKQlBORVZ6Sk9nQnprMnpaMUpjc1RpaVBuaDJMVkxqeXNaZUVOTTEzVUd6bmhmb2ZuazQ5a2hxeHVpcU9mZWs5dzhTQ3l5ckZDVEdkblU3WS1leld3?oc=5",
-          "published": "Mon, 23 Feb 2026 10:30:37 GMT"
-        },
-        {
-          "title": "Novo revés no foguetão da NASA volta a adiar regresso à Lua - Público",
+          "title": "Aprenda a controlar aplicações que esgotam bateria e dados no telemóvel - Público",
           "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV25qbDEwT0Q5eHQ5bmFSLXJyOXowaDI4VFFfa0s0LWZrY2hJc1I0MlNMbDcwenZJRDk0c043WlJCZmJrcmlKbWEwVjVuZXJ4UlVxNmY1TTJFRDhZa2pZcWZfU1BxaEc3eHZVcFNTY3RmT0FBelhlRHJnT0ZYdFA0NElKRFJlTUV6MWRjOW5KVU1HMmYtMmVsbzRFRUVndThZalFzZUQ4d3hDbjQ?oc=5",
-          "published": "Mon, 23 Feb 2026 12:03:36 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTGx6MTF5b3BHVUw5NGJJVms2Wk44WVdVMWw3SlhTWGREejhxVnhoakJHSmdWOXIwVy1jcTJVT3BMRlEtNUFuQU5MS1B2UnRvSTFkamZVWW9hVEM3WGJqdEc1aWxRU25zc19tS18wQklhcENsVEIyd2VHVV9wWG1RdXE1cHM0ckxwUURqa2ZCRE4yN2F1SFYyWmd5RlRlQVJHZkRObW9aLUMwVjVyYUZBa2tuOVl1RnM?oc=5",
+          "published": "Tue, 24 Feb 2026 15:40:27 GMT"
+        },
+        {
+          "title": "\"Eu sei que ele está vivo\". Trocou Lisboa pelas trincheiras e tornou-se o \"avô\" que desapareceu numa guerra de drones - CNN Portugal",
+          "publisher": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVnFvV3NEWGJrMWJ1SmQyLWZGUVpwTFkxWUJxOTV5Q0NDZTNra09LRTMyaThPeUFzZEFRZnJSTGtUVE1OUExndV9DZndLbUt4cU5MUWt6TDlKSzE2UzRfOHo1dGl5TnpVV0pxeGxSS2llemJuQmRhTTkzMXJPWkhsWTJKWnJpMklCSy02VENnZWZZb0lCajhtS0U0TnRTUGo1YlZ4aktoYk9YNTEyVzhCcnJrcnpaYzVqcW05ZDRocXRUOXZzQWNjaUd5bWt1dG1XanNsc19kZl9udUNCcFhkYTFfOGV3clJVSlU1VDBtLVdBUzI1dTYzRHhoZGE2QTNmT0pJeU9ibm05TW1kY01KR2toTGtsUUU?oc=5",
+          "published": "Tue, 24 Feb 2026 07:04:09 GMT"
+        },
+        {
+          "title": "NVIDIA prepara revolução nos computadores portáteis com processadores próprios - Pplware",
+          "publisher": "Pplware",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWFZ2dzdlMHdqTDZtY0RiajNWeXdfRzhpaU1CVzhuQWlwcllEcUxWRUM3STZjZVdPRHVrc19FbjM3LU55WFZJTE9WOE9TQzNGeTJmdXFJUGU2V0FLRU5XUmRxNnZFUlZFU3VZS3ZodU83bjQ5RUFhYUJWcHphZ08tYXkzYXBVSUFnOWhtZFo4eW5odDdPU0Q0Tl9MR3ZzNmFLRmJCYVlId1FxYnlPRFpaNk5Lc9IBuAFBVV95cUxPRmpMNHZrR1E3SDVtc3Qzd3RoZmdFTVh4c3lkOUphSWdZcGtFVFd3a09BRnBmbVN5YjNYczkwbmRFTnVtY0NBcE5GSU9sRUZkMktSeUZYb0R4a1dna1RrSjNzSTBQRG9TMWdXTHZibzIxb3FBZU1wRlFfbmYyYUhpQUpHbTVQQkI5LTdTd0JFbG5hNTZVdkxuSG1RbEpndV81N2xMTXNSU01GeFI4bXF2NEd2LXRSbERE?oc=5",
+          "published": "Mon, 23 Feb 2026 19:00:46 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Mexico erupts and World Cup security fears rise after a cartel boss’s killing - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdC1JV0t6QzFSVXppc3JTaksyWjZ6OTdaTWI1YnNNQUVsNl9GQ3pyNS1uaEJ1SXdMOFlnNVJLa1JHT3M0YnZhS2RMSUV5Y3JqNEtzY3puQXhRNlQtYkhidHJ0WkVBODFMNWMxUG1WX2JOWDRQNzRWT1BSX2JXdzF0YmRnWDlZcFJXZnllUHhaNUd1RnJRUWRrelhvcE9OVUZlTFJmVmhMc3pQNkJPZVhldnFB?oc=5",
-          "published": "Mon, 23 Feb 2026 20:48:00 GMT"
+          "title": "No evidence Fifa has granted Nigeria a direct play-off spot in 2026 World Cup qualifiers - Africa Check",
+          "publisher": "Africa Check",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajJlOFAtN01MTjZreko3NjRhSTVTclhWYVZyalZVOU1OYVZWTVFsd2dxQVRUal9nNE5ydVJOOE9kWVZ2YWkxTWNobk5kWElKR1pHNlo1UlRFR2VCTkMtM0Zya296SWdFWlg3NUt5TGdsZFFQMUx0Q1plNHg2cUhvM0dOWnUtNGRWU1Z3UVNjSjVUZThXTnZianQyLWFwaHhnNFBPUVFMdTNiaWtvTHN6NzJEd0FXYkpzZHVjTk53?oc=5",
+          "published": "Tue, 24 Feb 2026 13:16:50 GMT"
         },
         {
-          "title": "Mexican Soccer Postponed Amid Violence With World Cup Months Out - Front Office Sports",
-          "publisher": "Front Office Sports",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83czlxZ2lzRFlOQ0xOQjhHR1BzUG0yTVFVb2FpdGJiWWNxMlJMTVFJVk5aMmtvTFVNRGs2SjZYZnh5NjFLOUFpZUdNMDVZM2t1Zm02Q2VBeWdURjlnTGZHNHlyVG1tcWhDbTV3NFR3?oc=5",
-          "published": "Mon, 23 Feb 2026 16:42:36 GMT"
+          "title": "Visit Pennsylvania Targets Global Football Fans Ahead of FIFA World Cup 26 - Little Black Book | LBBOnline",
+          "publisher": "Little Black Book | LBBOnline",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01b09fNHBETFRDM2o3a0U4VXlZVWdIYmYxRHBuemoxcjNfck0xQXlRSndRRUtVWGJDMTdydUJOUjZMX1Bob25jaHhYYXp0bVZmRllJUHNybVA1eEhqRkUxOGZoVWhwVktzRzUxSlpRMXFTblp1bGtfdEVXWWZiemM?oc=5",
+          "published": "Tue, 24 Feb 2026 17:00:36 GMT"
         },
         {
-          "title": "Soccer matches postponed after Mexico kills cartel leader ‘El Mencho’ near World Cup host - Fox News",
-          "publisher": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42RnlPdE12MWFRZkNMd2ZfTm1yaU5pYzJLN1ZUNWdPYzdaanA0RV9QcHdmSUJ0SzZ3cGtZeG5JRmZYUlBoejVxQjhaUFZWQV9xbVNQTXJQbWJNUnhjVzBNbEgxc3JtQUxwS0RJU3ZyOWJ5TEZ2WFg3bGQ5b3DSAYIBQVVfeXFMT1lRYlJYUmFxdVpIVDZLZGs3eEFVVkpVUXdpc0dxUkM0N3hKMF9SZ2otUXNMdlAwSzZneEczZDc1Z3diT3JqZVZITFJZWTRVa0ZiVDJ0VEJ6ZnA1dkVjTzRGM1dOeUhTYTcxcXRpLWt5UG5kSUR2OXF5eFE1RlRkd2xfZw?oc=5",
-          "published": "Mon, 23 Feb 2026 06:20:03 GMT"
+          "title": "How Anthony Gordon is eclipsing European football’s greatest strikers in the Champions League - DAZN",
+          "publisher": "DAZN",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaU9ZRVlCRkM1QkdkSUxueUNzMnY5X1NQZjN0T1RmR3BYZEtiTl9tRVpmNmVIWGplVXJXU3VmWWVUZ2t5ZzZtdUN3UXd3UExxUkdHUHFlM2JrcGJvVDhQd2J2amZOdUVPUUt5My1vdVdtcWQ2SW4yN20ySVBydmc0bU16eHQwVXRRalUxeXZ4eFVsbU52WXJ1aTNERXZ3d0k0c25xSFpvNWVvRWt3LWdPZlpobU1fVGxhNDk2cnQ3TnFMTVVDQmJRZ0pLWWxTc25PUTJSQ2E2bW0zTmJGWjhITE5sS3ozMmxna285dnR4Zw?oc=5",
+          "published": "Tue, 24 Feb 2026 08:04:27 GMT"
         },
         {
-          "title": "Unrest in 2026 World Cup host city Guadalajara after Mexico kills drug lord ‘El Mencho’ - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbXFkTDZDUmRDT1FGZFBPNEFoTjRqU3l4MkVIQ1FaX1BFRWFZTmw3aVVhSU0zNTIzOWdpSHlKQm5uNE95VjhuZF9tSFBac3JoejE5djBueEZmaS1kVzhjSXdWT3R2SV80TDlydk83UVEwM0pORlBzNXJOa3paSEpjVE5TLUJDMWlKUjRyVQ?oc=5",
-          "published": "Mon, 23 Feb 2026 09:44:40 GMT"
+          "title": "How to buy 2026 Mexico National Team soccer jerseys for FIFA World Cup - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV0dpenBfRTlqTUVkLWRTWnZZeDYyUDNzdkhRMHE5U0xvcURQVkd1TTVJN0FpT2x0Y01WMFRDdkVCRTE4aGZ4LUNnbWR6bEVfNjY2SEx6T2o4eVlkZjNoUWpuQXV6QThtVFRrWXY2MWZORTd2WkxXd0JoV1VSOE1UMENSSDlRaVJEemFaYjU2OTNwMmpxbWdwX3A4UUVWNDVsTDRaUTdzbE1LTVRCUnJVYmhTVktGZm1aUERFLUxlS2pIZVUtUTRSU3BwQQ?oc=5",
+          "published": "Tue, 24 Feb 2026 13:52:00 GMT"
         },
         {
-          "title": "Fifa wants injured players to stay off for one minute - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Wa2h1Q1B6LXZYNHlaRjNzelJTX1czRC03NmoxcWhvNU9BUmFYUzQ5NU1BVFhrVDFrWUxyOWdhenpld3B0U0wteGZQM1hYS3JnN1E0a2RFMEsxSHo2ZWtQN1V4TF80MUk?oc=5",
-          "published": "Mon, 23 Feb 2026 12:33:07 GMT"
+          "title": "Real Madrid vs Benfica: Champions League – team news, start, lineups - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZS1MVHFmVk5xY2dxRUgxMmJoWFczRzdVVlU3Ri02MmNjRXFuU3lvS2o3aEx0Ulc4UzlXN1NZaWJBUFZWeEw4RnFkY01rVmtKUGlqSE5PT3M5aXRCTTRVSFR3LUVDUkNxbVZYaFY0RUxpSVN5ckcycWdKNDNBTEJnd0k0MDF3VnVwckladWhEaURWZ0dqcjAtNXJzSS1BRWhoWTA2MWZPTE1zZ9IBrwFBVV95cUxQckczemdtbkxBOEQ3eWJISzU3bTg1cXFyNmNxNDN6SnFSX2tFQXNDX3o5X0hhN2laNDI1WXlUVU1CZWloMURKLXJaNXFvQTVQNEl4MDNrRlVtbjY0QnpXdXZYM3VqOWU0M25zdnp4bktLVHUydWlKeUZqd3RaNm44UDdNZ090STdvMFpFNzZoMWxNZzR2eDl2Y2xJQ1ZVVmNVS2k2c2JxOVZnSVFCTldV?oc=5",
+          "published": "Tue, 24 Feb 2026 15:48:32 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Nick Reiner Pleads Not Guilty in Murders of Rob and Michele Reiner - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOEJTRXdiTUdzU2JGN0tabjVxZkxFM0JXTFdSWXFSZmd2elA3Vjg1czczS0FIY0VXdFRMUmNnbFRLeXJFcXloWENXR25VeGhjakJEYnFPNS0ycDRfR3p6bmlhQmRYakRFenNlNWFYWDN2VFFZSzN2M0pRalZ0Sk91S01xLWhhYXQ1M2ctYkJGNV9VbTg3WTY4?oc=5",
-          "published": "Mon, 23 Feb 2026 17:27:00 GMT"
-        },
-        {
-          "title": "BAFTAs apologize after guest with Tourette syndrome uses racial slur during ceremony - NPR",
-          "publisher": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uRTZBRFg5QlNjZTBUbk9ZWGd1T1o5aWRmand3QUd3c0V0b0lHcTh4THVfcUdoSmxRaEoybjFXVEY3Vk9TeGFuaE8yRTdnNFVkN0FDZ0hYOVVjVmhKMF9ZRGVFbXpzVTVITFBiUDR3?oc=5",
-          "published": "Mon, 23 Feb 2026 20:18:46 GMT"
-        },
-        {
-          "title": "‘Trust And Safety’ Team Is Looking Into Eric Dane’s GoFundMe After It Raised Hundreds Of Thousands In Just A Few Days - Yahoo",
-          "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnN3cUZabm1VZWlhLVNwWDF1RWM3VC1lNUNwblM0R3dHeVVBd09mZFp5dXo1VHZscGVZczFrSkZYRkNDdUo4eW5lLVNSZUNmMlhuLW1CMmhJQy0xRlk1TnJub1VmM01HVEpDbjFyMEdLOGNEbmpMUkRmWVYzMFpHNnh1X2FnX01UeW5TM1RDVEs4aWhqdHIwX0pJZ1oyTkdpenc?oc=5",
-          "published": "Mon, 23 Feb 2026 15:01:55 GMT"
-        },
-        {
-          "title": "Inside the 2026 BAFTA Film Awards: Disclaimers, Dirty Jokes and Netflix’s All-Star Afterparty - The Hollywood Reporter",
+          "title": "Katherine Short, Daughter of Martin Short, Dies at 42 - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXNTTGNTdk1hYlhoN2JPTmtHSG1faVBvd0I2SEo4eFdEWXhFbWlzbkRxeEJaQllNVE1rQnhGTHpsd3BabE4tZUFxU2RENWR2MGpVcF9fR1dCWXRvOGtQdXZCZ0xTQXhod0cwdExsSWNYZVMybGo1TktXekR3cm56YnlHWUQxTTdZMEstNllLcnlONnNSVUVpSGU2S0NXX0FaS19NN3NtdXZzMkE1SVYyckc2TlFPQnAySjZpOA?oc=5",
-          "published": "Mon, 23 Feb 2026 02:51:29 GMT"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaHF1S1pJcERIQUZSUkVMeUszd2dqWEI3RHp2M016UnBvaHlScVhNVFpLMWZ3blNraWhuWDBqaTZEQWVzajVxY3lJT3VSMzh3SVpOWXl2UGhmenN2SWhOQW9GdzcxZnlrU1ZMbEF4ODJMTDZyc0hhcXdZaGlzeEJBdU1hdXg2eW9BQnVhVVE1VjBYbE5jdGw3ZllBSW1ZQU02?oc=5",
+          "published": "Tue, 24 Feb 2026 20:52:26 GMT"
         },
         {
-          "title": "Taylor Swift’s ‘Opalite’ Shines as Her 14th Billboard Hot 100 No. 1 - Billboard",
-          "publisher": "Billboard",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85b2ZDaDdKX3N5ZHNMcTViSGRVZ2JiLUkzRXNXaVZuUWszb0lKa1A4WV9VcHV5Rmk3X2ZXSnB5YXMzTkF2OEtpUnl6ZmQ5REZBVXJjMlBHRTFvR1VHX1RtNXgwTk5BdG5tMUNPOU9rVW5kZ3JnR1U2aFE3WXE?oc=5",
-          "published": "Mon, 23 Feb 2026 18:37:30 GMT"
+          "title": "Robert Carradine, ‘Revenge of the Nerds’ and ‘Lizzie McGuire’ star, dies at 71 - Associated Press News",
+          "publisher": "Associated Press News",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzI3ODVTZmJ2b3kyU2hzOWZGX1ZGd2tsdFUtWDZoQnJSSUxfMjVTbjc2LXVpZGlhaXczNmJwYzhOZkF3QTN4XzlzUlpVN0V3dUVWNlNibWNOckNhak5UTVFwazZyZVBPZTdlcTJ6UE9UN2pxRS1VemhTREJiSUZTRGNLMUlSSXh3?oc=5",
+          "published": "Tue, 24 Feb 2026 16:01:00 GMT"
+        },
+        {
+          "title": "BBC apologises to staff over N-word inclusion as Bafta announces comprehensive review - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjJJb1hUMUJBc09reDlIakFTUWhzMWtwd19DOFVIUVJGdVdxLTg3RE9KUGREUnU0UDZ4WVV2MmJ0b0xBajg0YmplNW1JN18zcTNMZHZ3Q19mZExGUmxnRHpXZWpaVWtkWjBkaUZVU1FfUzdScGFzVy12NlB1Q2ZKcXBGWnQwbUp4M1pMREM0QUtxeF9yWkFmVnI3NGZ1X1dDSVpxMGR3cHpYdXA3U3FDZXJBNGhpd1JiY3RrM0hza1l3NUpUWW9tMlBB?oc=5",
+          "published": "Tue, 24 Feb 2026 20:53:00 GMT"
+        },
+        {
+          "title": "'Pride and Prejudice' Teaser: First Footage of Emma Corrin, Jack Lowden - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUx4MngtY3U2TkwteFJjZUx2TlBPUEN1b0RmVnk1R2lOSmtTSVJfaW1sdlpnaFpwd1NJc2ZGWEd0WGhGUHI1LTZXYUNUREZ6cEpXRjlfLXNFNHlPRWlPOU9DWFJsX3ZUODlEVGhjSjlTMEVZNE1WN05tZm1hbVoyV0hISDhkdHg4T2tvVE1QSTFYWkZULTl2RUM5SWJjT05jN1B1Ml9GaWp1RTF0aFlSOQ?oc=5",
+          "published": "Tue, 24 Feb 2026 15:01:00 GMT"
+        },
+        {
+          "title": "Seedance 2.0 might be gen AI video’s next big hope, but it’s still slop - The Verge",
+          "publisher": "The Verge",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdldVbHpiWFd1dmpLVTVmQmJEZVFUckhfbW1CMDZYYWNiMmcyRExwblcyYlkxNEdCeDhzYWF4N1J3cHB2MnBVTklyNFRNOEJEMmxFaFlqOTFENmFHZFdhcHB5cloxcG5KLVpLZ21uT1JPOV9WdWlaczBzbnUybVlseDRLSW52R2MxdGEtdTV5R1Bwa3M1TmZwcUJhcHhWSzNzYnJ1RHo2X3Q2M2V2SHJn?oc=5",
+          "published": "Tue, 24 Feb 2026 18:30:00 GMT"
         }
       ]
     }
