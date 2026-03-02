@@ -1,7 +1,7 @@
 {
   "market": "FI",
-  "generatedAt": "2026-03-01T22:23:39.683500Z",
-  "validForDate": "2026-03-01",
+  "generatedAt": "2026-03-02T22:26:24.013036Z",
+  "validForDate": "2026-03-02",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Sää lämpenee rytinällä – jopa +10 - Ilta-Sanomat",
+          "title": "Rikosepäilyt | Poliisi epäilee: Mies tappoi isänsä Espoossa - HS.fi",
+          "publisher": "HS.fi",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wYUpfdmFYYzRaMHJWZ1YwbHV2clc1enN5NHJjWkxVU3RBS3ZsX1ZpX3VKZHljclNZZFpHeHZKbW9QY2hCN09XQTZnVmlzelI1MTFjTW5vZXZFSDNt?oc=5",
+          "published": "Mon, 02 Mar 2026 12:24:00 GMT"
+        },
+        {
+          "title": "12-vuotias poika katosi Espoossa – poliisi pyytää havaintoja | Paikalliset - Helsingin Uutiset",
+          "publisher": "Helsingin Uutiset",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPQkp6YXJvRS05NlJJS3JpYkIxaDk1R1Fsek5KN0dScTNiQnNENnpGX2hYd3h3aEFYTGRuWjR3RktxWEU2OTF2b2IxOHlRZEtJZmxWOWw1ZGNDcjRmVGRUMw?oc=5",
+          "published": "Mon, 02 Mar 2026 13:23:50 GMT"
+        },
+        {
+          "title": "Imatran sähköinen varhaiskasvatushakemus väliaikaisesti pois käytöstä uusilta asiakkailta - ePressi",
+          "publisher": "ePressi",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVmlBUFdseFk1ODFKWWFmbVQ5N3pNeUxrMTd2SC1fdzVpYmFkWEF5dHRqUDBxbXFzLW1UY1dGYm1yTnJQalNlS3dzTGNEV0VRR3luaXIwQXBDa1pxLUpxbnVqSXYwZ3ZNTDhud3RyODBWX0tHZ1RadWFIWGFGZW5fYUNnYWFneXNZY3g2TGhUNkFxTmx2SHREUDJWRFZhOVJyS0xSNVl4cXJMdTc4OEcxT05WM1lRekl2dy0wWlRRdzFFbzRtTWVuUDdzQTAwSWZyLUhSVzlERldmemlXdjhNWWtqUQ?oc=5",
+          "published": "Mon, 02 Mar 2026 13:58:00 GMT"
+        },
+        {
+          "title": "Lohja antoi tuplapotkut - Ilta-Sanomat",
           "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mcnBqTWtPZjZ2WGhaTk15Q3J2dm5hSEF2dm8xanhVOUxLWjNTdVRSRThTR2diQlFFTmpCUzVxR3h5TlBCYjNUWkV0N2NpRnRPRnh1TU9HNVBQX1l0?oc=5",
-          "published": "Sun, 01 Mar 2026 18:15:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nbGNmUHBoR2JvU1FjQk5oUExXNUVGbnVhS2trVXphbnJMajZwVVpwM2pVU3ZzdGhXQXhsdVN1ak5Qenp1dmVWWk90aFFUMUxObGFKdnlXNk5fcE92?oc=5",
+          "published": "Mon, 02 Mar 2026 17:55:00 GMT"
         },
         {
-          "title": "Poliisi käytti ampuma-asetta Jyväskylässä – Mies sairaalaan - Iltalehti",
-          "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CSC15dEh2ZGpvS1FFTGFrT182QWdRT2hCTHlpNnBYa25NWmZ1MzhuSUtTdllFS01PUkRlU3VLRFhBSFZHbzNwZEZkR2tqaGxvaGliR2ZXeDJMR1F5bWlxd0dQN0dYS0FTdV9TSEpHcThFUm54TUlmS3djVQ?oc=5",
-          "published": "Sun, 01 Mar 2026 19:15:26 GMT"
-        },
-        {
-          "title": "Ahkeran Ilona Mononen sai hakemansa hallikauden ainoalta kilpailultaan - Etelä-Suomen Sanomat",
-          "publisher": "Etelä-Suomen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tTi1hSVpFbDloX0tFaVRZRWtGTS1lNDVUNnlsVlR6dmpaa2tpRjgwVFFXMFl1aU91Q0xSb2t0Z1pkT05ac2tuaTNB?oc=5",
-          "published": "Sun, 01 Mar 2026 16:37:51 GMT"
-        },
-        {
-          "title": "Yksi kuoli liikenneonnettomuudessa Hämeenkyrössä - Keskisuomalainen",
-          "publisher": "Keskisuomalainen",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJRy1nRVJrTXNENWV3VnRWVDdzMzVGaTU0emVpTHNuUmcySHZrV3FfczBucVF4YUZCY1lBMUxUMU1ja2VvVzFCRzVFNDhwQ3ZSbk1lU3J0TQ?oc=5",
-          "published": "Sun, 01 Mar 2026 12:03:38 GMT"
-        },
-        {
-          "title": "Huomattavan vaarallisesti ajanut rattijuoppo pakeni poliisia traktorimönkijällä - mtvuutiset.fi",
-          "publisher": "mtvuutiset.fi",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWVhrR2phYmZaQmsyd3dHdTJxd21QaHRKZGlKa3dPMnRvbUFRTWpLV3RaODhUbHdhNUpBZV8zb1lHSDJ0ZmxqMEN6Vmdya0lUVWRkMlJRLURieU1RbUJjZS1RU1JCOHJoV1U5UmdWcVlRbVl2Y1BqZjJvcFRBY05MemZsMEoyTDhpXzhUUUlDN0VYRkJ4b3hzU2hmaC1YVW5ZcWxRWW9RNFRuMlJFY3g2UWxwODBBVGZuTzV1LTV0ank?oc=5",
-          "published": "Sun, 01 Mar 2026 14:23:43 GMT"
+          "title": "Selvitys: Turun raitiotien pitkän aikavälin ilmastopäästöt pienemmät kuin runkobussilla - aamuset.fi",
+          "publisher": "aamuset.fi",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pNC1DV3M4STgxN2x5bWpua0lyWmdqSl9OZlVkVEFMQXpZdWluYWtyTHBUYnViVzAxOUY3ZklsWldKc0QxVnZBLXAwTi0?oc=5",
+          "published": "Mon, 02 Mar 2026 14:01:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Näistä syistä Yhdysvallat iskee nyt Iraniin - Ilta-Sanomat",
+          "title": "Iran on yllättänyt Yhdysvallat vastaiskukyvyllään, sanoo sotastrategian asiantuntija A-studiossa - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1VOWlQdVZEbzFUUzhoVW1rM1FZNnd4LWtBM1lvb0E4Ui1fS1c2eDllUXN0Um9WTDZxcU1adF9kRWpzdw?oc=5",
+          "published": "Mon, 02 Mar 2026 20:46:49 GMT"
+        },
+        {
+          "title": "Veli Lampi kertoo pysäyttävästä hetkestä rannalla Dubaissa: ”Mitä oikein tapahtuu” - Ilta-Sanomat",
           "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5YzhIQkljUFZ6RFk5WnVtREVhSHBqWW1hRDJGVjd5VHNqTUpZZDhLZjFBd1J6ZV93Nm9rVzkxcW9vVmtFT1JZVHZTU2tCZUcwdVdtZ1ZqVVFFT1lZSGc?oc=5",
-          "published": "Sun, 01 Mar 2026 19:48:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0d1Q0VDBuZHI5WmlNckdkZkcwRklERVk4UE1SRFdnb3RWVTVKcEpqVEZsNTZGUWprZFN1a2RYdHE4b3NmWjU2eVUydzlYZ1h2WG9WWnhJZnA3OXhNOVJSeQ?oc=5",
+          "published": "Mon, 02 Mar 2026 18:28:00 GMT"
         },
         {
-          "title": "Ukraina | Stubb SVT:lle: ”Amerikkalaisten on ymmärrettävä, että Venäjä ei voita tätä sotaa” - HS.fi",
+          "title": "Orpo: ”Polttoaineiden hinnat nousevat” - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11UzFkY1dKOHVrRkMzbldudE1wczVEOUtTdl9zTllDVC10UG9mcXdrbVA4VzhjNUpPbzFXTFNqaXl1S2xRRlNDZFJBcTRGakd5RndOLXBoUndqQXJlc09aY3Byd2FtenpsSUtjQWFrNU5sZ0hmUTlCZ2pFNEc4Unc?oc=5",
+          "published": "Mon, 02 Mar 2026 14:38:03 GMT"
+        },
+        {
+          "title": "HS-analyysi | Macron tarjosi Ranskan ydinaseilla ”eteen työnnettyä pelotetta” – Suomea ei mainittu - HS.fi",
           "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94bXV0X0JyWVFCZHJNUGJuRkJQYy1UNGdXWmd1U2hQSEREQllfNXZKTzBGdUJWWlRTZl90U19uTzI5Tml0Q2FiMUR3X0lMZnJTWFVXbFNNczQ5MGhlMFRsNg?oc=5",
-          "published": "Sun, 01 Mar 2026 19:15:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01dVV6LU05NlJYX2NkeUdPR3JScmxkenFBbVo4Z056UWxnR2pYREtBT19hb29wS2pRYWhXekRzUHRkS1U0OFhNWVY2SlF1eXdBVUc5UlBXdWJOXzBWZU4zNHYyLWZ2VXhD?oc=5",
+          "published": "Mon, 02 Mar 2026 16:25:00 GMT"
         },
         {
-          "title": "Abu Dhabin Suomen-suurlähetystön päällikkö: Näin suomalaisten kannattaa toimia - mtvuutiset.fi",
-          "publisher": "mtvuutiset.fi",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUhtREVOWTllYWZtNW56SC1EeVFONnRnSlN5TWxLWGU1azRLNlVDTzNFY0ljVVJaYzNoN3lXaW93a05mQUZpRzFnYnJvUU02QVVTNDNRZDdmeS1vZjJFemRWTm1pYjRkS29HeHV1WWwtdENCdWhIQ3U3Nnc0UWVsbWpFQ0JVbXJVS21LT1NVS00zWm1WM1ZhOVZjaEVBeE1RMHI1cThtTTlsRmw3N1c2MzBCN2M3QzR2cmRCRA?oc=5",
-          "published": "Sun, 01 Mar 2026 19:06:11 GMT"
-        },
-        {
-          "title": "Finnairin lentojen jatkumiseen Dubaista ja Dohasta voi mennä jopa viikko - Aamulehti",
-          "publisher": "Aamulehti",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41V1ZQNE05ODJqU1lIUm1xTVp5alg0cVoyNDhHYzNSX3VBYTBKMGxDSDVpMVc3czlDc1JEdU1TT0dMX2ozZk5FZy11c2YyWXBvN1RpaklRM0JFT3JhNlIteHNWTVNXc1E?oc=5",
-          "published": "Sun, 01 Mar 2026 10:49:00 GMT"
-        },
-        {
-          "title": "Venäjä teki jälleen kyseenalaisen ennätyksen - Keskisuomalainen",
-          "publisher": "Keskisuomalainen",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyaEo1QkhfM2hUa2pISnc2dXYwQWwtTEw3X1JiT2QwQXRmYUl2MU55alBLYVkzMFNTNENXQlpMTTFtSExHd1gtS3ozTVpGUVZUWG52V0tiTQ?oc=5",
-          "published": "Sun, 01 Mar 2026 12:29:18 GMT"
+          "title": "Pääkirjoitus | Hyökkäys Iraniin nolaa taas Venäjää, josta ei ole puolustamaan kumppanimaitaan - Savon Sanomat",
+          "publisher": "Savon Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZRHNaODJrbW5aLThxWTc4ZGRmT2doRW44NFlPWlhPTTVuN0EyVnNHWnhIM2dqLXVMWFlYNmFDaEU3dDJEa0pnbXJQREk1U01jU1c2cTNzQkVralU?oc=5",
+          "published": "Mon, 02 Mar 2026 14:30:00 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Hän putosi The Summit Suomesta – jaksossa paljastettiin jymy-yllätys - Ilta-Sanomat",
-          "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UVE5HLXhNWTNrZkx5UzJXaGlYYzhJMG9iOXZLOUxNT3A4V0NHaWY0emd1QkhoWllOb0g4WGJaUjJTOFZfaEJicjVRWnIwQUNQX2xHMkxpSElkRmg5enhJNFdrWFUxQQ?oc=5",
-          "published": "Sun, 01 Mar 2026 19:00:00 GMT"
+          "title": "Iranin tilanne nostaa raakaöljyn ja kaasun hintaa – Finnairin kurssi sukelsi - Maaseudun Tulevaisuus",
+          "publisher": "Maaseudun Tulevaisuus",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ2doVENiV05DVnN1ME5MT0F0TlFwU2VPYWVuc3dHakRvUVF2UjlZcUM2dFRseTFSQ2pnRmc0Rkc0REVxTndqMG9nNXlXSlJoQkxjWUppamxmTVNiY0htaHZPV3JuaTZpZkhveFc5WG54ckpRcW5sSVhTVjNwMDBwSXY2enRaZUE?oc=5",
+          "published": "Mon, 02 Mar 2026 16:41:16 GMT"
         },
         {
-          "title": "Jopa tonnin sähkölasku alkuvuodelta iskee pahasti monen pörssisähköä käyttävän talouteen - Satakunnan Kansa",
-          "publisher": "Satakunnan Kansa",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qdktxYVA3NWFMOG9QXzVWczRPRWsyYjlMTmhha0JYLWtHbm1yNTJtc3lSMGdydHZyaXRRMjhuTF9YZXRnQXVMTFhxR2hVRGtSdnRza3Uwd0c1Zi1rdElWQzlwcVhUSkNLUmJpRg?oc=5",
-          "published": "Sun, 01 Mar 2026 10:45:00 GMT"
+          "title": "Nokia kiihdyttää tekoälykehitystä – toimittaa Brasiliaan uuden tekoälyyn pohjautuvan 5G-verkon - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE05d3JwQ0ppRkRTZ1BxM3dfOC1MT0lUS2NvMExPeW91dHVieEdEb3ozdENtSUstMU9odk9aVGFjbDRSdw?oc=5",
+          "published": "Mon, 02 Mar 2026 11:19:22 GMT"
         },
         {
-          "title": "Asiantuntijat: Nämä Helsingin pörssin yhtiöt yllättivät myönteisesti - Kauppalehti",
-          "publisher": "Kauppalehti",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IWHktZ1c2QWthcm52NzREZzdPMko4RzV2dmw4aHUyd1ZjckVGdkFSVUVPU1E0WjlrVWJUdm5uWUN1NnB3ZFNxZUFYNklWNm1nWWpmU182V1Y4VXZXeWU2ZDRSSjNNSUt0N2ZLclJZdVdtbVBrUGtsaVp3X3FLQQ?oc=5",
-          "published": "Sun, 01 Mar 2026 09:00:37 GMT"
+          "title": "The Summit Suomi: Katsojilta suorat sanat shokkikäänteestä - Seiska.fi",
+          "publisher": "Seiska.fi",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeDZBSDRQMVE4T0JoVWpfOHdrR1F4NU9sQjNXbkJEc3A0NzRFQ0JwN3M2cnRQN0dTZ1dyMG1SbzRoZ28yYWZpU0RhVVFkOWdESVM3cm1pSGhPODNTWTVaU1VocTZBc2tEVllWMUlkdzVVeU9rZEdxM0ZmS3Y5aHI0SUthT3AwSUZiNldZa0RLM3p1T0w0dXJzRg?oc=5",
+          "published": "Mon, 02 Mar 2026 09:45:00 GMT"
         },
         {
-          "title": "Liittymän kilpailutuksella irtosi 5G, alehinta ja lahjakortti – näin tinkaat edullisen puhelinliittymän - SSS.fi",
-          "publisher": "SSS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1saFpDUzVBTWRRdEhrQ3paTGVpRW1ZcmpyUWIycHNieFc4MkJTT1FqQXpCcThwRlVuUHk0TUJTMlFpUjBvU0ZNcXhwbTFKVkZxNGVOR2dHUWFZUmFyV1plTjFvYmZ5Zw?oc=5",
-          "published": "Sun, 01 Mar 2026 17:50:00 GMT"
+          "title": "Jolla tekee paluuta uudella puhelinmallilla – kännykät kootaan Salossa - mtvuutiset.fi",
+          "publisher": "mtvuutiset.fi",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0JHNGE4VE1pTWZKLUJMZnpucW9KWXhfZE9SNHllZmk1em80RnNvejNvMlc4djRzc3FYVFVaVGdsYTFPYzZnUTB6UUdxa0lzdkhBd3lENEZIdlR2WVZkeENOZXVuUkpFMDBNWFl6a2NiejhKMnN0b1NKZFcwNkZlcUlXd0tpSV9PXzh4eFBaV0J1NEpoRXBrbXBpcktqWjQyQ2dYWmZhbE9lMzZyQUNzWURB?oc=5",
+          "published": "Mon, 02 Mar 2026 13:12:59 GMT"
         },
         {
-          "title": "Ihmeakkuja lupaavan Donut Labin ja Vergen visio herättää kysymyksiä: Sähkömoottoripyörillä jo ”1,2 miljardin euron myyntiputki” - tivi.fi",
-          "publisher": "tivi.fi",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WaWNrRENRN1I0VVphenQxaHFWN052UVhieVdGbHlwQmhTWWNhZW9DVGdhejhCTS1iMl9La2RVSzRHNkdrSTZ0NW9GMXR0Q291VkRqQmFmR3R5YXVtUmhVcUZEck1iQTJYeWxELVJVMWEyOF85?oc=5",
-          "published": "Sat, 28 Feb 2026 13:30:00 GMT"
+          "title": "KKV:n tutkimus: Lihateollisuuden osuus kokonaiskatteesta kasvanut etenkin kaupan omissa merkeissä - aamuset.fi",
+          "publisher": "aamuset.fi",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xbWRKd0hBSndScFFJaVgtRWZuaUtEY1hqMlpZdExtWnFFV0J2dUE1Qncxc1BobFBnaUxiVk05VjYyN19hZl9jQ1FHV0o?oc=5",
+          "published": "Mon, 02 Mar 2026 08:32:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Susijengi teki sen taas! Toinen Belgia-voitto sinetöi MM-jatkokarsintapaikan - mtvuutiset.fi",
-          "publisher": "mtvuutiset.fi",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNzBxWTc2cmhtSnR6Q0ZqQTJnaFpDVWp4ZW54RUtZaWwxLU5Gck52ekptRm5qVnJ5aXlVMk5wcEh3RGp1LUFiYTZ3akdaYTh6Vmh6Vi1MaFdiaTQxVXpXVEE4c283cWdwNWxNZnFJNWZSbHZnaVBiSEg4MXFVcjdnR083bk5pcEphbEgyRUwxRUNCZXNIM1JMbm0xN2hqcTdEUjlfV1RRamtzNmpVbHFBZ2s1cnF0aUE2UlRN?oc=5",
-          "published": "Sun, 01 Mar 2026 18:38:30 GMT"
+          "title": "Jokerit murskaamassa Joensuun liigahaaveet – ilmoitus SM-liigasta muutti täysin kurssin suunnan - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43WWczMS1lSXVDX21EaUV1UGxBdU03QktCUm1FNGI4NEdET2c0Z0JGeWZHcTBkSnJ1TmMtcF9kdk5iQQ?oc=5",
+          "published": "Mon, 02 Mar 2026 18:39:46 GMT"
         },
         {
-          "title": "Harri Heliövaara jumissa Dubaissa – Pakoreitti selvillä - Iltalehti",
+          "title": "Patrik Laineen vaimolta vihjaileva julkaisu: \"Viimeinen kotipeli ennen…\" - Iltalehti",
           "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VTFZTNUlKYy0zWEY3Vy1iMmtNUWg4dXdtc1JrTXNYeHBoZURWczRYQ0U3VE1sLWFMLWIzNGM0NWpkTHFqalJHRDN5a04ySHlXQlV0SDlIRXJlZ0RSQ2d3OWxYWF9zNlc5ZVZLZXEzZ3RjMVV4WXdTeVpR?oc=5",
-          "published": "Sun, 01 Mar 2026 18:36:35 GMT"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Ebm1ka0ROb1lqWHJ2Z3JqUm5SdTIzMWZYUzZTNzVSb3RUUmxRMEl6WGxibDhtNkhDQUlPTVhNVWFTVnRlc1ZUWDZZSnRwMFFCSGpJc1BkQnZuNU1fN1JCdnpOa3F2WUxDYjRPSUZqQV9WZTVRWWc?oc=5",
+          "published": "Mon, 02 Mar 2026 17:56:36 GMT"
         },
         {
-          "title": "Yleisurheilu | Lotta Harala ei lähde MM-hallikisoihin, taustalla raskas ero - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92MEhHck1yNXk4VWRBa3hBcU9RWGFTTkctTzhDS1dsT1VuVXNVaWY0N01nc005Q05yLWFvTzdBX2drai0xdTVtdXF6Vk9haURPQjY3eEN2dzUyN0xn?oc=5",
-          "published": "Sun, 01 Mar 2026 18:20:00 GMT"
+          "title": "F1-kisat uhattuna – FIA ryhtyi toimiin - mtvuutiset.fi",
+          "publisher": "mtvuutiset.fi",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWVc1X1FCZ2k3R0VuVm1oOHFtYWgyMGh6X2lrR2pjOEVHQzFwczhpY2tOanBVRnMwdkRaeVBVbEktZnNrRW15NkMtZDR5clpZcDQ1bHNaNFpGX1BpNEN5LXJlcW9WTE9rNlMtcHE5Y1FoVTVCNHlmZmNpVzloNzRzVlhabHh6V1k?oc=5",
+          "published": "Mon, 02 Mar 2026 16:17:23 GMT"
         },
         {
-          "title": "Jukureiden kolmanneksi paras pistemies lähtee – Connor Ford loppukaudeksi Lukkoon - Jatkoaika.com",
-          "publisher": "Jatkoaika.com",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ2V0TlhZR1dmWnZQQ2lZT2xVRTJtSGdJaVlHS296UDNiWlNfZzdTamVtM1piM3N2UW5icEZXYXEwVHdhOUdHQmNBcVNZWnhDV3ZGekxUUTdfOGNsQ29rWjFNVmVXaERxMEY5VnJJaTNJS204UnVPS01xb3Y2WHFYZmw1TDl0QkNLaUxPS0lrWUp4NmE0SFptLUtuYVJHV1BrQURMTmNVVzFGckJfRWV3UTFTX3A2M3JMVnRMOHZVWVBGaEV0NnBLWk5KVFNGVUJD?oc=5",
-          "published": "Sun, 01 Mar 2026 16:57:37 GMT"
+          "title": "SM-liigaseura paljasti: jättitili - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xN0FGTXFvVGE5dTVmNUc0ZWxqLTV1S0VkQmQ0YlpMbVB2REJxM3pXbnFWX0pxQUIxZkxHRGlxMkJNY29uUnB4Sm5rNGRzMkhFV3BjM016bjBwU2tkU3c?oc=5",
+          "published": "Mon, 02 Mar 2026 17:36:00 GMT"
         },
         {
-          "title": "Saga Vanninen rikkoi hiljaisuuden - Aamulehti",
-          "publisher": "Aamulehti",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02N05lTEJqUk1vM1FjeGxlRFBsOWZjcjh0aHZJR2tkcGFVb1c5b0Fpb0lnOHk5TGRBRmx4NEgtcjF5TFVrdmJiN1QtYWhjNjRYa21DQ28zMURXNFRUMnU3NFc2NWU2Zw?oc=5",
-          "published": "Sun, 01 Mar 2026 16:44:00 GMT"
+          "title": "SM-liiga | Superlupaus lähti Saksaan, mutta hänen käyttämänsä Skoda ilmestyi Raumalle – Kuskina Ford - Satakunnan Kansa",
+          "publisher": "Satakunnan Kansa",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02bk9kN0hzdVBSenQ1eURYQm1WRnczTWVvczZ5aFB1NUtCVW1PV0s4NDRnNXo4WnNXVy1YSk5QNG8wcWdHTXRjWmRSTzMtZ1ozVXc0QjZVMnVRekNudnhXcWVTbFJGc1dCXy1maldB?oc=5",
+          "published": "Mon, 02 Mar 2026 17:00:00 GMT"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Premier League recap: Arsenal's big win vs. Chelsea, Man United stay hot - ESPN",
+          "title": "Iran's soccer federation says World Cup participation in doubt - ESPN",
           "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUDZWeWEyOUtjMWQ3Q3hwd2FmTW5NMGg4X3JiOWJkbENUem9WZDlTNXRUMktfbEVTVDZGTDlLSUNHZEJMTlB0aHB6ZHR1U0doNUIxbUFOUUJNbTZ2anBQaGI1VXl1NGNsS1N4UmVMbFNRU1FTMElYaVY4Q3A0QS02cVhTSFB2N2NzbEFKMkZUQ3hEdFZJR2R4X2FYUDB1ZW5IWVZMNklRTmhMamdaNmtKXzJST2ZMQ2hRejUwLUpnQXItdw?oc=5",
-          "published": "Sun, 01 Mar 2026 18:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbGhDcHFDdERSR00zRHJGOEh5UFRuQS1yOG8tN1gxaHJCRjBoV3dmajVJdF9iemgzLVFyZlJPeTh1aF83VDBSdG9uaEV6bUZTbGM4LWhrV3pCY3prYlgySnA5U1pOS2tMWENQcDJ6S01HWk5va01fejAxQjctOU9RTHBWdUpTUlptNFRiNXo2ZUQwQXBZeG8yMlh0cHVFRGhlblE?oc=5",
+          "published": "Mon, 02 Mar 2026 15:34:00 GMT"
         },
         {
-          "title": "Iran football federation gives dim World Cup outlook after US-assisted strikes on country - Fox News",
-          "publisher": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWZubThobWxXdUt5S2FmRGJWODZoY3AtQmhnVVY4eUItNmRRbkNsUHBwZU1WOUd6dTBmdklnaHFxYVdja2Ixc0Z3WXhVZ0JQVi1UUGkzbWRDVHJFeWJpanhxWHFISjBvZ1d5LXp1ZHRneVZqSU92SmdaMHVlUHF2bGt1alVVbXpreVlpT2I1V181cHVuQU5qc3JPaDhad2ZJZ1pvdHNKSDFiQWprWWs5d01PaFZBa3cx0gG-AUFVX3lxTFBUSzh6THBvd2dsRUJKckxaLW1icUZxMWlkaTI4clI3U3E0aFk0Z3BCMHhmTG82N1hUbl9pd1FRTU1hS093WVlzV29CbDQ1Mk1ZdFlPYU9WSGJNdHY0RzF3UG5rQUVySTQ4eDhwanNONUxpZFZ4ZkV0ZjZVajJVVHltY1hON1ltSDdUdUhHcmJBTmhlRFlCWlA3Z001UE9sdVo3cHRGQXpDRm9uZTk4RFVacDFZRkIydHN3TDg0T0E?oc=5",
-          "published": "Sun, 01 Mar 2026 20:45:32 GMT"
+          "title": "President of Iran’s soccer federation says World Cup participation in US is in doubt - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa0xnWllfc2VqX01hZklveXBLYldnY2NEY1dpMGxkZVRHLVRKRWRVM25vMkxybTNqNTBYdzBsb1NudnBmQmwxYzV2RnpvY2VvanI0eXdZX19haUx5b0xyd1NUYmljbk5KMmcxYXVTTFdqdzlGV25CVExNck5GLUJvRFlQd0V4M2JjM1Ayd0RodFVpQm04YUhiZTd4LVQtdUxvVE1uSg?oc=5",
+          "published": "Mon, 02 Mar 2026 14:11:00 GMT"
         },
         {
-          "title": "Iranian football association unsure if national team will play at World Cup in US - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUEdraV80b1ZCdWNVOHNGRmltaDBpMGxPYWlsMFZ2N0RXOFZpajB6SkVRWU1pVTY2T3hfSjBLVHNJaDlXaGpxNUl6NUx2U0w1aDd4VHdrUWVkb1l1TDFXd0pWQzdVRV9DdGZ2V1hMel9fRVIzMUxUZDN6RlNxTGpkdjVva1F6dEM5ZmdmQUljQXZaZmhFR3c?oc=5",
-          "published": "Sun, 01 Mar 2026 21:22:00 GMT"
+          "title": "President of Iran Soccer Federation Casts Doubt on World Cup Involvement Amid U.S-Israeli Strikes - People.com",
+          "publisher": "People.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRXNIWGlXMk1LS0FfLXJaN3JxMXB1RU81VnVmdm1ZcVF4YV8yRlNzQlpVM29vUElSc1R1YzZIY2J1TEhVUkNaS0pOLTMzWVFVTlZseUhLbzR1SkY3V3A1bjRxNWFGUlpEWXRUcllpZzFocmhwOE0tc3dDZ3pvUWRGU1VVZThkenZwOVFQYXU5WWE1d0tBQ1o1dTd1U0ZBRjYwSEswSXJkVGN6TjZwRUo2bUg3ZGpNNG9wNmc?oc=5",
+          "published": "Mon, 02 Mar 2026 19:19:05 GMT"
         },
         {
-          "title": "Iran football federation chief speaks about World Cup after attacks; sport affected - South China Morning Post",
-          "publisher": "South China Morning Post",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX0FtVFVKdnktcktnU1A0SnpfRHhWemtDcmYyNkpkZWgwTmRmX0RMOVEycFBqWDRxb0dORlBEX0RIT25WbVgzS2xLS215U3NQS1N6dk5xT3dwZ3ZQdl9iUDVjdmZvUGhqaG9hVTJRdFBEMUpmZEF2d1RLV0ljUElDQlpUX0hnRlkwYXQwQjkzTUp5TUQ4cHRiQ2tuM2hfQ1JxcGJ6TlM4N2U0d3NmUW9QNVY4aUoyUWRvZ3ZwVHJPbjFxQnZKakMtRzdkclpCSG8?oc=5",
-          "published": "Sun, 01 Mar 2026 19:06:51 GMT"
+          "title": "Iran Soccer Federation President Uncertain on Country’s Participation in FIFA World Cup After US-Israel Strikes - Algemeiner.com",
+          "publisher": "Algemeiner.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSXdZYjNMbURDc3M3WGlTZ0tXNEIzMnhGSEhBdjRhaV9jNkNuVkN4MzlEVjNBZVhaUlVZRkJvU18zQ0hqbHNvQ2xybmlNYjFCeW1mSDc1X0s0VFRTbnJET01pX19wazFkdm00cXJ0YXZheWUxUG8yZkZlLTRhZGpOQzRKSHV0UWFWUnRvMmt0QWU1WHBhQUhRaXp1RkdPN3JUejRMOC1rNWFBQjktRjhxSXFtYmtfZEdZRVQ2MEJJQjB6MWZZWVY1c3p6UmZPLVB6clVV?oc=5",
+          "published": "Mon, 02 Mar 2026 18:47:00 GMT"
         },
         {
-          "title": "President of Iran's soccer federation says World Cup participation in U.S. is in doubt - CBC",
-          "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONTI3OGZXUkhkWmloOVlCdVVkZWRIYVh4aVNRc0E3MVFhSWNGQmNMQVNRemRLdUt6a0JSNkltcEo5OFdMRVVmWk5YN1VEamxwblpYX3lKRE0tcVAybUVDUzkxREdEOTNCR3ZQWVVXTGNpMHFXRHRrWUpwWm1RX2lXMGl5OUJwVGduSmlrek5tcHlwM2pzUFRoQkt4bHh2VXBOamxsNzlmaGVzZ29EWF9KcGZ4a3QtN2lsREY2ZGhmdWlhZ0o1ejZB?oc=5",
-          "published": "Sun, 01 Mar 2026 19:44:32 GMT"
+          "title": "Anti-FIFA Challenge: Football Defends the Territory - Mexico Solidarity Media",
+          "publisher": "Mexico Solidarity Media",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjRNYjc4M01VNk9hX0ZUanFtUVUzbHdybmgzYnl4Z09wMUhkRUdOd2FQcG9qNUZlRHd6X1RUQlBFaXdSMlcyczUwQVJqWnprdFd4MDFYZV9laS1PWnZwb0pya2lHR1BVVjlvUXhrVWM1bl9DMnBFNS1LTFdVZmgwVlhaUmtkU3M?oc=5",
+          "published": "Mon, 02 Mar 2026 15:53:23 GMT"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "'Scream 7' Sets Franchise Box Office Record With $65 Million Debut - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUQzbkRaU2VkUk5XcnR1amQ3cFc5S3hmazhUZ2FYS3o1X1h2U3VRS2tLUWVOWGlqajNFcTlHWElqUUZNcDBPMHM4dUdUaUxuMzRpQjExSHhHRWVCd3NsU1QzNmRNR3hwekJncVN5c0ZqdmNpMVlPWEtvT1I5MVlPbEE0LTE3NWdRVFYwaEhTckdBajYweGVocmRLZWNmR1hCbHhac2JZY0I?oc=5",
-          "published": "Sun, 01 Mar 2026 16:10:00 GMT"
+          "title": "Inside the Actor Awards: Roars as 'Sinners' wins big, stars mingling and other off-camera moments - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ISGQzUkQzME5IYm16MFZvaUwwYV9Ydk10cVBDbEUxTlh1TlN4UEhKRlVlNklTZlNqRXJnOFgzdjhEZElOZkpUWmdzLUd4TDBxMk5QLUhEeDlXUkc2SG5jNUpqMUVIUHhWbXpzX3lSb3BrUF8tNzhJdUlJUEg?oc=5",
+          "published": "Mon, 02 Mar 2026 14:44:00 GMT"
         },
         {
-          "title": "‘Sinners’ Star Jayme Lawson Speaks Out on BAFTA Incident: “That’s Exploitation” - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTmdkLXdGU0o5T3oyMWU3VVlTc001WTJHWFFWSzJzRzc2SVBkNmpGMVltX0tCdG1LdkRfNzJidEU3bGhTY1ZaYUMyeEhRVTNmUVRlVU14MEFmQ0ZLdmY2SjQ5Z21samowdGpoX0JsRVJhYWx3RTNjUjhoUF91ZGdCQlVjV2tURjVPbnF5dUNWdzF3dGtrX1dINlJyYjA?oc=5",
-          "published": "Sun, 01 Mar 2026 18:25:28 GMT"
+          "title": "Paramount+ and HBO Max to merge into one streaming service after WBD deal closes - TechCrunch",
+          "publisher": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWZzc0FwZmJtYndHaDlaWXdpcXBUT2IxLTdOR2lUY2hrbHBSUFotTEV5SGVrSGpXdVlfSnVNUjRWUHVhQlVTaHZSWlNBOWZtREYxOHI5WVFaal9PSkVDLTRfVXU4c05lTDYxcmlSSXpOQm0zYWlSMllMWVN2Q1N5Y2Rwa0RobmpfU1VKM2hlQlVSdU4ycTJnRHhWSnpWd05ycnJhTDY0RG1QZjN0OWRab3hCUVg?oc=5",
+          "published": "Mon, 02 Mar 2026 18:34:19 GMT"
         },
         {
-          "title": "TMZ: Elijah Allman, son of Cher, arrested at New Hampshire prep school - Boston 25 News",
-          "publisher": "Boston 25 News",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQVowNmlPMnZuZU1EOGlacTlXS1pHWk9LWHFBMUg2RGRZWldnajJXZ2ZudUowUTg4MFFOU1lpaFIza1RQNlJpeVk0alV4MTA1eWpxMDVIaC1iVzBuRTFqdjd0UG9rb1JqZ3VkUm1HdkpCcjA3M19nMlU4eGNoRWs0RjBkOEFmLXp3UDhZUkVDNW9EVzhrQnpJeFZQTjVwei1pRU5LSUJEblVwbDYtU3hIMnJ1X1VSNUVWWEdtRk1yNnhmSmxBbE9vaNIB3AFBVV95cUxQb0lKWW50SUg4d1JEb1ZWOTBwaFFqWGxZcTV3VHQ3MzlHNkx3dG9lVUI3akVrdTZhN3BvTWFTbHhCS0ZGd0JCSldJTWFITWNqNlNRWUZNakJWTllGVjU4U284Y1RTMFpUUGg4MDJGdzVQeXdVdGVoMmw1LWQ5ZmlUTDM5bXR1UGNfUEJ0dFU1ZmdxbEZzeFRqV0t0TTVaQUxKbDd2R3VlTWtiaUk4eE9SeVJldUZucTNsNjZ6RmMwNDgwVEIxV0VrSHExclZiZG1GWUpnTi1OMDVaenBY?oc=5",
-          "published": "Sun, 01 Mar 2026 13:52:56 GMT"
+          "title": "Zendaya and Tom Holland are married, stylist says, and oops, we all just missed the wedding - Los Angeles Times",
+          "publisher": "Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3RsY3l2MEpDaVNSNEFOWUNXMm9aY0xqX2hJOFU4OHdDaXJCNHQ0LU5WQkxsckExWUhIMk04N0ZzYVZISk1KblRRMFk0c09hdjNRLVpGNF9zUkxtX2E3LS1UWk9zZGlPY0x4VHRaQ005QjZqOGtyekpaYlZ0WktKQWxFZmtUb0J2R1hmT3Y5NHAtQlNGN2w3WC11anotRzIyNEg5cA?oc=5",
+          "published": "Mon, 02 Mar 2026 18:55:34 GMT"
         },
         {
-          "title": "Actor Awards winners (Updating live): See which nominees are taking home a win - CNN",
-          "publisher": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GeXZYcXBFel9TWERpamN4N2FUZlNwd3d5cVVyNTZMQ3BYUm1MNW1yaGhlMzZiZktuNDhITjRLY1JlSERGeGdxX1J2NGdUZmU1U0ZES09vcU1Pak8wWlZ2SGtDam1iNE5idEZSNGhwRU5xTkxwak16NFBBNVNIS28?oc=5",
-          "published": "Sun, 01 Mar 2026 12:00:33 GMT"
-        },
-        {
-          "title": "WGA Awards West Coast Ceremony Canceled Amid Staff Union Strike - Deadline",
+          "title": "‘Yellowstone’ Spinoff ‘Marshals’ Reveals Monica Dutton’s Fate In Premiere - Deadline",
           "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN1lsb3JMM3lWaHNnRm5lSDBTQlh5UHhUTUl3WVl0S0U3a3BmUVpya2lXMEdobjV5cXJDOUVNcDFYWWlBVld3NFI2YkoxN2JRcU5hOVlQRVlhZGNVamRKTVAwbnFHX3h6Vkw2ZXRPa0hjTURTVnRfckdpYzNpcTlyc3hoMUVGVnJkbXV2bU43MjFxUk1Na05qX0ZpeHd0NkZi?oc=5",
-          "published": "Sun, 01 Mar 2026 18:19:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1VwS2RCbnBaWXBwSjlpZVphdGhPUTNwaDlReEdOa0VpVjBnaEtQb3NsSUI2MlpzakVXWEU4dEpkbWpQcEp5UUF6bkpZMGQ4NDMtS1ZydmZaSWg2MkNVUUxZaGJxVUtxOUhiYXFaS3Bac2Zoa0RKblBHcUItUDI4RjNfSlZ5eDVxN0lpWHhnRXZqdXlUQjBZdw?oc=5",
+          "published": "Mon, 02 Mar 2026 02:00:00 GMT"
+        },
+        {
+          "title": "‘He worked on his speech in French for months’: César awards boss rejects Jim Carrey clone conspiracy theories - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYlNPMTl2cnZiNXdDa3dNSThPeUdmYjlRcWZNTmZMR2RERFlHRjhLcGYycW9nd1FBdFMxcFBWQzkyWVY2NjhvVlF3c25zZXlLdDFkWVNIWlYwQlRSY1Z4cTF0Ylg2TVF0bXZZWnpsbzJGYTZDUld6TWtlTUh2NEl0SG1CYW1od1dtSjRFOG1lT0h2Y0RaMUs2YXprcEVwSDRPYXRuTUFkLTVmNDg?oc=5",
+          "published": "Mon, 02 Mar 2026 14:38:00 GMT"
         }
       ]
     }
