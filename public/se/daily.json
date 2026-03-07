@@ -1,7 +1,7 @@
 {
   "market": "SE",
-  "generatedAt": "2026-03-06T22:28:17.488691Z",
-  "validForDate": "2026-03-06",
+  "generatedAt": "2026-03-07T22:22:39.451216Z",
+  "validForDate": "2026-03-07",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Regeringen ändrar migrationspolitiken – tonårsutvisningar stoppas - Dagens Nyheter",
+          "title": "Man skadad i skottlossning i södra Stockholm - SVT Nyheter",
+          "publisher": "SVT Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYldBTjl3cUVFZXpoZXZqRjZpUFVseUg5aThUbDlpNGx4N1RRNDFvWThPVE9YUlVGbEE1ZGE0YlRWZFpPZXBuV2trTGZLOTYwNG5WTDZDUTZzckxGRkI1VGx6bzVqbGNBTENwdlJrQTF2OWxPek1GdmpHMGJpdDVyVWh6TWt3N3JaTVZN?oc=5",
+          "published": "Sat, 07 Mar 2026 19:23:53 GMT"
+        },
+        {
+          "title": "Kustbevakningen: Rysk besättning på bordat fartyg - Västerbottens-Kuriren",
+          "publisher": "Västerbottens-Kuriren",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaXoyX21BNmVuNEpkRjYxVElOdC1mQ0VHWndaQkpfWFNrWjByMXJqNkhJdHczT3FaeWFxeDFIUVItYnNfajZLb1VkdFFuYjdQNXQ0V3J2OGJpMnI3ckNIZ1FaS1BxZWFRNElqdFdQd2M0bFFQdGVKbGRCc3kwWHhmUkU3NE1GNGN5Z05Z?oc=5",
+          "published": "Sat, 07 Mar 2026 15:28:22 GMT"
+        },
+        {
+          "title": "UD:s chartrade plan med svenskar på väg hem - Dagens Nyheter",
           "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYkpHRXdqamxvNU8xNkJCbzdSSE1MQU9zZUJnbXpUNDlScl95czRRajBoTXNGWGl2OTZOQmVUMkdaQnVnbDZja3hVOXBhOFY4bmh6UUJUSS1vZjhDZWhCWmRBc3ZycnJpdXR0WFRfVm9VVGdtcF9XWlgxbW42NHhhY0hwNk9tSDBkc2pLVU5yTG95ZXVO?oc=5",
-          "published": "Fri, 06 Mar 2026 09:51:04 GMT"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CaERseWlLZkRVUjNITTZ3S19VeVJreFo3aDY4NHlKZjFtWFNwWjNCR2ZpYU51UWRTNzJmZzdaREJtOHJSdC1zeWI2R3dGR1NNOWxmMHNTRHNPUFdCQktoV1R0blNGdVpOY2s4bzdqN3U3OFlGOXFydg?oc=5",
+          "published": "Sat, 07 Mar 2026 19:40:38 GMT"
         },
         {
-          "title": "Misstänkt falskflaggat fartyg bordat utanför Trelleborg - SVT Nyheter",
+          "title": "Räddningsinsats norr om Åre efter lavin - SVT Nyheter",
           "publisher": "SVT Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbEpvSGJOTzI3SFh2ZndXaWw1M2hBcHo4bXBqUHl1cGZleXF4VzY4VjJDT0xIRzEyd3BzUGVZX0pvMWJmVm0yRlRJeXlXa0pDdGVwUmVWQzV2NUhOYkVZalVFaDY1UHVGeVl4Vk1IczdJQWJGS2lYNUxramlxMmJ6ZzNfWUhRcmpZeEx1MFZXUmJsajVG?oc=5",
-          "published": "Fri, 06 Mar 2026 17:52:18 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU1phMEFuaXhfY2xsRlVTRHZSTGkwbnlnRnltZG1PVnhMUmx4RmZ6d2xlcGtWVFhJRGtvem5sMDViN0g3T0VZdk4tTzJvQXhLQkJ2UFdYMTNhWVgzeWE2UjEyUDRaUWpieEdQMHRpdEJEUVlkMnlpWm9JU0JIQ1NKZDdn?oc=5",
+          "published": "Sat, 07 Mar 2026 14:07:50 GMT"
         },
         {
-          "title": "Fynd i Västsverige avslöjade global knarkhärva - GP",
-          "publisher": "GP",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeDRxMU9TVFhNSlFuaEZsaE9iOUM1TVVnQzlqVG5LSHJ6VDJ3VWtaMlUyZzZoOGFnUlRLbjJ0YXFiNGdkbk5DYUo0VkkyWUtaVmRLaUpnV1lHYUdhbG9acHd3b1ZCTEFRQWtiRW5OZ0NTTndKUGFfWEpLWWNmd0ZZcmVsVGFTeVJIQU14N3pQNDFQeEM5UkF2WnlIUnlZOEkwNDhOM0I2YzVYSXVlck5FX1Zxdld1M1kw?oc=5",
-          "published": "Fri, 06 Mar 2026 15:48:50 GMT"
-        },
-        {
-          "title": "Hovrätten ändrar – mördare får livstid - GP",
-          "publisher": "GP",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSHloVzZtRTVvcDIzTS0yZE5pS1BaTmdWbEMwOGI0UzFURGV6cDRsWnpTdDhHaXM5UXdjU2tQcTlINDNadnNILXloeWtwNk1JSGZvb3FFZjVqUHhOendITDd6d0dUX28wN1lvTjNhZ0hPTWFBOHNveFJlWmpINVFTY013d19IVlpJaUlGeWYwS1V5MHQyczBrZktPbTlabjNfdTQ4dlhqSU1HOVU?oc=5",
-          "published": "Fri, 06 Mar 2026 10:48:12 GMT"
-        },
-        {
-          "title": "Emma om kränkningar på återvinningscentralen: ”Jag har blivit kallad slampa” - SVT Nyheter",
-          "publisher": "SVT Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFZzb0RyUWZQWWlHVWUxa2NoYUhpTU1Rb3VSd3ZjUjQ2NFM1Q2xONWZMdlBSZTFDNzdNbU9xN1JSY1J3Vk02V0ZVN2VVekZQZ2ExWkVicHMxdzM3eEl3bmRHY3hJYklTcEpoRjFySmhMNGZkM1ZQTXQwcENQdmx1SjVqSWY3ZTJDUUVKRGJGVkczUldtd1NtUk5lcjFlb2VSNHhIZlpCNDNPWmhkSUpTaHoySTVnMTVzTVZYaA?oc=5",
-          "published": "Fri, 06 Mar 2026 04:30:02 GMT"
+          "title": "19-åriga Ece slipper utvisning – för nu: ”Jag har fått tillbaka hoppet om att få stanna” - VF",
+          "publisher": "VF",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX1paOGM5U3FmRWRxRzdNS0NkYVU3YURXZ1dHSjZ1ZEQ1cmMzMGthNFhQQnFhYTRYLXhkR0xuZXZab1MxeFdiWDNVSXJRX1hhV1V3czVJVFJONWliSDhpQ3E4WVBQbWVrZVJHbWR3MFNRd2ZQN29HQlhYeHhaMlR1VHI4UlR4VklKaEJWUGhQbDlTdHBZQnZqa0JlOWxIeEpoVnE3LVdtSDl3NzRsZ1R1ZUgzUVhxMmlHNWxyTFo0RU8wYTNCVFhjNFpLZTRldjA?oc=5",
+          "published": "Fri, 06 Mar 2026 14:45:14 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Sverige skickar sjukvårdspersonal till strandsatta – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter",
+          "title": "Oljeanläggning attackerad i Teheran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter",
           "publisher": "SVT Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ0wxOUIyR3psTDVWMkJfSXZnZVNDdUdsUWJscF9EOWRsUGpMTW1TM3hmWlhSR1ZGelp2c25wQVFaeXpES0h4QjJFQWsxY01GTWlndXdocUdPd3kyTXhlZnQ1R1UxcnVLMjNVS3UtdHpsSkRSVG4wUmJQRDNUV1B1NmVtYVZlWEFoY0tIWEhYNnhGcm9heU5BSWZoX2E2RHZxTWRTSm1rYWxKRGlhSVZFSnRVZ3otZno4VElnZi1uekszc0JTVHdzZQ?oc=5",
-          "published": "Fri, 06 Mar 2026 19:53:22 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM21MWnlHREI0YXdTVXpPODJtdlQyVkZ0SURnVnBnTDdwenl5b1J2MklNbkZDbl9mWmZ2dzNpTkM2WHNLRFkwT2hSNF8wQ1l3dTZKNnFaQjVac1ZlLTR6TzRnSHA1cDVWTFJnMzZBNWxYQklXMnptYjQxNVphSlZ3MGVkSnpwNFg3TlZwODdudVBPR0xMWFhmbHFfcTByMmlhbGdpbUE5RFFBZEkxSHRLTXRJMG8ycWRNX1duMDlza2NCaDc4NDRvRQ?oc=5",
+          "published": "Sat, 07 Mar 2026 21:21:45 GMT"
         },
         {
-          "title": "Ungern släpper gripna ukrainare i guldtransport - Västerbottens-Kuriren",
+          "title": "Uppgifter: Dödade Ali Khameneis son skadad - Västerbottens-Kuriren",
           "publisher": "Västerbottens-Kuriren",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUhiMDFCVWRIc01tenB6WlFTMzVVLTgyLUFfbnk2YWo1VktFQ2k0M185MUF2QTh1ZHlKT3RyeHkzRnpxT284VTEtTVp5RHVlQjA2Zk5KNVVDS0xFbVlqYnA4ajZVNF9SUkpzdDVFMFBBNXBhcGM1b3VremFkc05OT3pqQ1lZaXcwV3c?oc=5",
-          "published": "Fri, 06 Mar 2026 19:52:30 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeWJKME43SkNGOGh1ajZoT3M3SzBkUF9oTGs1TUF2WFNIekJIaGpZWUk1cjJPbHFheE9yQnhFaUxGZEhNeU5Hb01hMHBabEpjNVJLY0gyMXMzaFE5MlB2cFdDb3BGOVotN3hmMi1uWGo3QVlKOUhldTVic0gzdVUtRTB3?oc=5",
+          "published": "Sat, 07 Mar 2026 21:53:26 GMT"
         },
         {
-          "title": "Israel: Iran och Hizbollah samordnar attacker - GP",
+          "title": "Explosion på Dubais flygplats – fick stänga igen - GP",
           "publisher": "GP",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjRZeE4xM3IweF9NV2I3bzdRc3RQaUhnMm80WERvUlVhLUZWMFd4RHJtNnlfYWZ0dnA1Zl83OHdJeDFYM3B3emhUT1FwcUdnQml1ODk2RlFvUE5JSW8zbUdaektNamNnQzRhbnlOXzNOQ3d6SFFyUm5nT19Ya09oUFNfWl9maEc2ektKMm8wazVDdmhZN2JKR2RtWkxrZnhrLWVQX2Myd1BkQmFwQTlsU0ZILS1FUQ?oc=5",
-          "published": "Fri, 06 Mar 2026 20:33:29 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcXl4QlB0VG94cUJGTjViMmY3bExCc2txUXlFVGczMWk0Vzl0dHdHdEs3S2l4SXpZaUFwc0ZOdHJYa2pnT2FUN2RYS0lyQmtRbHJ2T3hGTHBad2RCclItNzVnakhidDB1OHAwTFlaUW0yWU9CTGIzSlFkRnk0N3RWVm5iYmhkTXJseUlTaFBsdXYwdThNTHNjZDVjTTZjSjQwMk9uQVJ6ZVZTQndjZ2FVXzZ0dXVuOGdv?oc=5",
+          "published": "Sat, 07 Mar 2026 10:31:31 GMT"
         },
         {
-          "title": "Zelenskyj stödjer trupper vid Donetsk-fronten - Corren",
-          "publisher": "Corren",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa2JtRGRfeFVkZTdxUTNFQ01mQWRxQWJlTVpfclhFdFFuWm5fR3pPZDRST2g2clJQU0l4dUxFcnR4eTk0YUdRUHNReTJSLXAzdlpTV2xqU0U0VHQ2eVRXZU9sTDRfQWFJLVQ2TFd2U05tTmVoLXBxV1hxMjA0dWQzLTk3SGJJRzQ2SlFSYVJDbDhxVEhlZnFwSlNUcXI4emc0TWt2eTkyY3FHc0Z1?oc=5",
-          "published": "Fri, 06 Mar 2026 16:45:00 GMT"
+          "title": "Ramadan i krigets spår – stängda portar och tomma gator - Dagens Nyheter",
+          "publisher": "Dagens Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1g2aXh5RXN0TS1vdEQwQU5qNm5zbVVpU2Y4cjZRZ2trcEdkaExnQkNPVDFZTzhsSW1SRnhuQ0RZWTFCZ3B0Q2Vmcmw2VmZvSHBpVC1udWJBNkV3TmZ0SXFQTmlFZW5aYndERHkwY0NINFY4WTkzRlplSVVFNF8xMTNHTVlCVFE?oc=5",
+          "published": "Sat, 07 Mar 2026 19:17:58 GMT"
         },
         {
-          "title": "Senaten röstar ned förslag om Irankriget - Aftonbladet",
-          "publisher": "Aftonbladet",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGxnMDRHMERiTGlhTVJzdUJxQmhaZkJ4WnpKTnhsODdFLV8zWVdXdGxqcTlWQ3BHdUUtdGRLVTJlakpiZ19QU2xRX2VDVkdVRFg3QmQ0STdNd2VlOUFZMlBVTWYwVXQ5U051SEc4Y0ItVWI2RzBXVEFWdURXaEtJTFNzUG1RU1hLaXZWOA?oc=5",
-          "published": "Wed, 04 Mar 2026 22:38:31 GMT"
+          "title": "Flera döda i ryska luftanfall mot Ukraina - Hufvudstadsbladet",
+          "publisher": "Hufvudstadsbladet",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oUHF2TjBIUTZrR243MFlRZE5ZTGQ2REs2eHR2QlFmOFdOUTl4SnBoZWNZUUxZOWx5eF9pYzgtRWRCTnQtS0FOTVJvSXRzcHBrWFlHQURfVzJRdk5VM1ZJb2xLdDdMUXR5Y3lmWWppcjFaclVfa0tCbjJXWEk?oc=5",
+          "published": "Sat, 07 Mar 2026 15:04:56 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Vad kriget i Iran innebär för den europeiska inflationen och ECB:s räntor - Morningstar Canada",
-          "publisher": "Morningstar Canada",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3BuNG1sSEVfcXFXWEpLRTNaZUtzbHd3RGROSmRPdWtBSnNLWlo0V0xyRk5sd1FpUVhRc1VUOEtVeXE1VlFjQnlxMm5MUGFyYkFYS3JsbWFHMVRrbkk1YzhvUUU3WGNCaWsxNHI4aDZCcm1LMHAzdFNGSmpLYmNaSmRVeE51blp1ZGlqQ28wcWp5TE8xaklhVk5mUmF5VzRWQmpBWjlOVDJmX0xtZUdLeQ?oc=5",
-          "published": "Fri, 06 Mar 2026 14:13:00 GMT"
+          "title": "Nathan Shachar: Flottan är ur spel – därför kan Iran ändå blockera sundet - Dagens Nyheter",
+          "publisher": "Dagens Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQazV1S0RqZG4yQ3hpSnJ6ZkprOGxlaEllMzZqMnUtRXY2bjc5b0xsNFRlc09uSk1OaWdkUFRZNDhvMDh6SHZlWElnNm4wTDVQT2FCNVBUNjJoVzZleUhjOHJnUm5EOFlFQkhveEJFRWRLOVJKTGdoY210eWNqaWg4TUNYQmJkaUJHY0xXSXQ3ankxakJuY0dmdzJyRGZhQQ?oc=5",
+          "published": "Sat, 07 Mar 2026 20:28:13 GMT"
         },
         {
-          "title": "OLJEPRISET PÅ HÖGSTA NIVÅN SEDAN 2023 - TABELL - Placera.se",
-          "publisher": "Placera.se",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSTFpSGl5aUs4MW5sWXQ2LWNGeU1McW9ZNDk3ekY3UEZmYXpvUVpqcm5KbkRlNVRKS3Bqd3JFd0xxZ1lsaXgzWGJkOEduaUpmNnFSY1ZacDNJbWczVW9SYkQxbmktWktRWC15T0ZPOFFUVWNJcXEyQXo3VWJTSHlTN1B0UlFWdWk3WTd0b3N0RVdFVU5zcWRzXw?oc=5",
-          "published": "Fri, 06 Mar 2026 18:21:07 GMT"
+          "title": "Bedömare: Fortsatt höjda elnätsavgifter väntas - Omni",
+          "publisher": "Omni",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hVG9RRFhLaUlpVUwwSDg4bTVBazZiYzBpT0M2OF80UEN3VXRseFRZcXE3OHpuZnNDZW5YTUVubFVRVDdYcERfa05MVmN6d1EySW8zeVh5U0hGb2dfeVYzWXNvMktvZ29JY2w5RXdJMU0zZ2dVclp3QmNR?oc=5",
+          "published": "Sat, 07 Mar 2026 16:45:59 GMT"
         },
         {
-          "title": "Stämning mot Meta: Smarta glasögon anklagas för brott mot integriteten - Börskollen",
+          "title": "Googles vd Sundar Pichai säkrar rekordavtal – miljardbelopp i ny lönedeal - Börskollen",
           "publisher": "Börskollen",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVYyWEgyeGZQU0ZkbnlwUmNqM2h6ai05YzhELWNzRUJRckFqZ2NGY29lM2lkMVh2MHRac0k1OWg1elY5SmU5Q1I3Nm56MWJaUDNVVkVuejV1YzJCZjJOMnlfbFVLR2t1ZWRjZmdvRjJUdjJjVENqS2RzTHhfQ2N2eDhRV2tHa0JCTUk0amlFMFEtdDVmUC1OZDVzWGVFakdoY2RnaUlySzc4QQ?oc=5",
-          "published": "Fri, 06 Mar 2026 10:34:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHZFRlg4ZzIwc0dWM3Vxa0VwYld3MnlOWXpCeXd6X0MteVYtSUJzZU9MM3ZVb1J4UHR4QzJlMHR2cFk4UzVQNXRhblZiNXE0NW1mdVl3SVRkdEh2U3JkQzZ2Yko5N21OMlZKb3YydXRqc0U1MUtxSWo5c3ZtcXBrTkNnMm9WbTM3M0xYOU9pYUR1T29KMG9EZko5Zk5FeHZ5WHFETzk2M3NCQVpm?oc=5",
+          "published": "Sat, 07 Mar 2026 12:06:00 GMT"
         },
         {
-          "title": "Börsen föll tungt igen – industri och råvaror i botten - EFN",
-          "publisher": "EFN",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9haVZ5TzNhSmZTbVRLZEhUVmR0Y1RkVm8yaHg3dXJWQUE5RGZBVlBnblRMNHFtWG02U2d4TndjbzE4OVZZWkdwUnk0MTFlbzN0N1V0VVVfSk1NaHktV1pkT2dLb3JBd1IxaVVaQU9Zb0J4bHpMeHc?oc=5",
-          "published": "Fri, 06 Mar 2026 16:35:41 GMT"
+          "title": "Prisrusning på naturgas slår mot svenska lantbrukare - DI",
+          "publisher": "DI",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa3FUSGF2bGMxeXM4d1dBbHV4NzVlSHBWcVBKbHp6S2ZTRlM0SWNybU9XSzR0LWJZdjRpaDVheGxPZkthTkxqVFB1bTRJQnJJZDFScC13VjJ0blJJcVZWUUZWMHpIQjhValBMajdBOGtmb3RUdG5kQ0NYMkYwdHRudkNaLWFQUQ?oc=5",
+          "published": "Sat, 07 Mar 2026 17:07:12 GMT"
         },
         {
-          "title": "Wall Street faller – olja och jobbsiffror sänken - Västerbottens-Kuriren",
-          "publisher": "Västerbottens-Kuriren",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVm5scURFYlNiRVVjejV3YnI2S2RteVFHWmdrSXd4TGctaDNOT0JrbG0zVVBleVJIaHJnX3FYVVIybUkzMExpcVU5dkNPaU9HbHZXXzdIS1gzYWVna3FzdHU3SUNQMFdLQk1HQlM5Yk14djNXcWFJZlZ1eXBJMDJUU1pubkYxZ1dR?oc=5",
-          "published": "Fri, 06 Mar 2026 17:48:25 GMT"
+          "title": "Kalldusch i deklarationen: Tusentals får lägre skatteåterbäring - News55",
+          "publisher": "News55",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWU0bE1OQzd1OGlPbXVpS1BOQXhPWmlfTE1GeEJfdlpBUHhCMlg1M204MHBCT215cUo4Y1VwbFVmNG8wY1JRLXZKVXl5V3V4a3RuVGJ0QXhDYk5GRVlqM0E4eTNtNEJOckY4dC0yaU02VnF3Tmtrb3hRQ1BIREhhcjFzMzQxRGd4Sld4Y2NVR1p5dmdFczVOLTZ4MVR2b0ND?oc=5",
+          "published": "Sat, 07 Mar 2026 19:49:41 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Ryska idrottare buas – bär egna fanan på Paralympics - Omni",
-          "publisher": "Omni",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0pTUzEyRU5leTJoQ0dENENDaVphaUFMZ3lZZ1c1eWxXNjdXZ2tVRkNadE5XVG5lQjBCMHd2OEQwOXFOTXRKQlVleEF1VmtYcEp2b3dxYnNCUTdBSDV6VzNDZUd2SXFRWDg1eEhhbmRlb05SQjFxQklqdzRGVGhXZg?oc=5",
-          "published": "Fri, 06 Mar 2026 20:36:18 GMT"
-        },
-        {
-          "title": "Ja till ökad transferinsyn i MFF – omtalade motionen genomröstad - Sydsvenskan",
-          "publisher": "Sydsvenskan",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNamFfNWRJV2paWmNGZ2FiM3QyMzFlYUtESzdBNzAzcnpiRkRMc2xsWkdJS0VQVkRORHEtSVNsNW4xQXJ2Z2NIY1dIQVRncjMyajdWd19JUXB3eE9DRW81UUZVbVdDQ2N4R2ZmREVNc1BGVURzN3Jic2wyWnBoT3YwcW5xd0FtZmVDQzZrbzFmN3VZQzNJcjhWazRxZHI?oc=5",
-          "published": "Fri, 06 Mar 2026 21:02:28 GMT"
-        },
-        {
-          "title": "DN Direkt – Ebba Årsjö ställer upp i störtloppet i Paralympics - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWw0c0VNM3JOYVlTQWJvcXNRSUt0Wm84REhXbi1rUVJJRlJlSjhLTXBXbHU1Q0M5bUJTSDdkc3o0WlQ5NDFYZVZtN2xYWnYzWnJXMEVYV0JabUlidTV3MDVJM2c1dkFSZlBlT3JLbmlLMDNUYThFZWRfdVZYTWM1NWl6UlpUM185NXBhWUFSelY?oc=5",
-          "published": "Fri, 06 Mar 2026 14:08:57 GMT"
-        },
-        {
-          "title": "AVSLÖJAR: Brage överens med MFF om Noah Åstrand John - Aftonbladet",
+          "title": "Asllanis kritik: ”Damfotbollen har kommit längre” - Aftonbladet",
           "publisher": "Aftonbladet",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXEta2prejN5SUdmWnNnbFlBWHVpeUZOMjc1ZzdMWTRBckZaZG01ckhvNm1jcUF6SlRETnB6Q3JYU2YycDU0azRZSy01dFNMSXpVem9EaVIxX19VbVNYeC1QU29oaXN5OFNQMUNIX2xNUlpyZGRDSzJCVnBQb1dLZm9uc2wtT0VzTDJ0bndaWDFxODJsdEtVSWFzZFZkOEplVzZtb050LVl2UjA?oc=5",
-          "published": "Fri, 06 Mar 2026 14:51:27 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDdzREpyZHBvc2RIeHRWd0JaamwtMWxZdzducjNpaFExQm1JSGJBaTVrSGgtcVZFSVFXQ21Ua3BFaWlhbzJPV1FBS2FhU0lHajNxVXFGVm9yc29yYVVuWlBWTzc2UWNTdEtNWGVIZGZlc3QzUmZJMktpMEFWNk9na1hZQ2VJY2dTaVFtSHAtei1wVTdtanlvNFEyMHFEUVRGa0hfZlZ2U0ZvWTJp?oc=5",
+          "published": "Sat, 07 Mar 2026 18:41:15 GMT"
         },
         {
-          "title": "Här är Paralympics-hoppen från Västernorrland - SVT Nyheter",
+          "title": "Sverige klart för EM – vann enkelt mot Serbien - Västerbottens-Kuriren",
+          "publisher": "Västerbottens-Kuriren",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT1BRVzc5Mm15R3lKX0VIbHJzV0w0ZHBETXotaUVOdVhzcTFFV0IxYVZiZy0teEVhcmZiQnBoX1JWd3I0dWJ2cW9GU2kzRDcwSk1fVGZsbndaS3lMQkxCQXUzaFNjdEVINThuZF9sSXpaMnBLdXdFVXF0Sklxb3FGdzNOWFFKZw?oc=5",
+          "published": "Sat, 07 Mar 2026 18:48:05 GMT"
+        },
+        {
+          "title": "Gustav Lundgrens första ord efter skadan - GP",
+          "publisher": "GP",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMWN1eUhXNmhtWDBuZk1vVVJnNS02MDk5ZGU5Z3JZVnhKRDU3bjI3THYtbHNLRG1za01nbS1XZkNXc0hzeTZnVS12TS1oWWdSZUg4d0QwQVYyX2xfUVJyMTFDZWlLejdWNFRsdEN1WkR1VVZCdWVjQl9SQ1VxdU5XNU1zWURHQ0J5ZlpzSTdFdzBab2dCSUVjbWtqMkRwbXdoWkR2WmRrUENMN09GMTV3cWpQWnR6TlVWZmlzWDhOcGxnRWpBZDJpZnpNTUx6M3c?oc=5",
+          "published": "Sat, 07 Mar 2026 19:43:03 GMT"
+        },
+        {
+          "title": "AIK tar ledningen i målfesten – efter Robertssons raseri - Norran",
+          "publisher": "Norran",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnFlWUtmZGF5LTNuYlp5ak9UV0hxRVFhNXJNVlk0c0duMXF6VzRfWUFqOWx6ZndLSUN6aE1XVW1rY3F5dU01bS1vdFBpVS1mQmJXZHF1c0FSbkNQMldyak9iZWJiQ2hRWFB2ZU5MczJXVFlpXzRJblJqd2lJZHNVR3JhaFVaSnlzYmh2VFc3eTJpWHFaQ1hVUi1pbTRKLXE2NFVsV1FKS0R6ejNP?oc=5",
+          "published": "Sat, 07 Mar 2026 16:12:13 GMT"
+        },
+        {
+          "title": "Curling: Vinst för lag Petersson-Dahl i Paralympics-premiären - SVT Nyheter",
           "publisher": "SVT Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVzI4WVVLRFhYbjZLOW5NWGZQa0ROTHFuSnVudjA2ZEx5SVR4WHdFV2gyTERpUEVvNW5Fc3Z5WmJjZ0t6TkxGSFp5YXRVRFVkbVFWcE5EczFhblZmOVJpLWhKQmlCRDNod0tPSnhidEpVMkhNQ2htNkFSTU1FMDZ6RDNneTFhMk5lMWt2amRBb0RHRG9TcnVQaHdR?oc=5",
-          "published": "Thu, 05 Mar 2026 15:33:02 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVFdNQTNWODFMMFdoNHpIa1dlV0FHc0ZZT2NEZVZVVkxRU0xQWHdtWVpSUThSQ2MwTTEwbWlrdEE0Ul9CMnZiQnVMaWdlXzF1Uk1IYS03U2F5NjgtNlYtRGtXaTlQMDBTSTkxdlU5emdLMkpoZ0FqLTlwdXZYbXg5bWxHZlJQbUUzdGdIc0Fn?oc=5",
+          "published": "Sat, 07 Mar 2026 21:16:03 GMT"
         }
       ]
     },
@@ -153,22 +153,22 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Jonathan, 36, tog sitt liv – efter AI:s löften om ett digitalt liv ihop - Omni",
-          "publisher": "Omni",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUzlvejBjWHZDQ0h0Q1JfaEl5bm1BbXF3bzJnei1oTERzSFJIU2QyTWhVRm1LYWJrOEtkaGp6V3lGSVVHSGczUjhwdmhpNzFwWmpvM0xTcXktTUFiTnp4eFM0OWJvWndqbGRrR0xlLXRGUmd0ZldnZlVZN3RYaUxoa1RIR0VqMzVxTU9ISFhVSTh2bU13eVBv?oc=5",
-          "published": "Fri, 06 Mar 2026 09:15:01 GMT"
-        },
-        {
-          "title": "LEDARE: En partiledare som vill förgöra Sverige är bara början - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNG1PTENDRXNYdVZYdXgtVFlLMXNkUTR4ZW1pRmJsS3BSYXcwaWNIQl9oNWdqRjFLendWNUI2Wmw3RnBKUDlHTER6U2NldWk4cTdqYkRPUlJvMEVKMjNsbkFaUFRvV3lKdUI0cHc4NUFHbmpWTXc4VlZ0SzdBQTh1NzhxcXVCdXc?oc=5",
-          "published": "Fri, 06 Mar 2026 05:34:41 GMT"
-        },
-        {
-          "title": "Så länge klarar elbilar att stå stilla i kyla - Aftonbladet",
+          "title": "Chefer fortsatt avstängda efter AI-härvan: ”Vill att det ska ta slut” - Aftonbladet",
           "publisher": "Aftonbladet",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMWtjd1NBNDJrMU1ZX3UtaWpvcHB3eE5CTVZ4VU1YejRCdHZuWklCR2gtdWNaYWttcDFJYWV6RXdLY1BIcnpUdTVXZFZqYURLcmNrNk02d3ljZXo4VklZSFV1ZmIwRnRpR1EyMVpZbl9MZG95SHBOYi1DVXZDd3pBTFNJYXR4djR3OEhTNHFzMXpYOWJ5NGFzZTNJaVJzNjA?oc=5",
-          "published": "Thu, 05 Mar 2026 05:36:02 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQXd1R0h1ejY2Y3ktSm82TnR3UW5ZZlVQRWJwYk8zaXJFMTNBSkEwQk5MRHV2VTNLc2xtTW1wa3Myamt6aHlZX1JBZEFVQlRVbDlfLXJPM1pDaXJRMlJ4Nl81Q0NEQTQydl9KSmgxRy1tTEFaMVQxWGRZZHp2T3VaTVVieEJVQnZJNjF4NG81MFBjNWdJRmV4RUhkTjJNS1VDTklB?oc=5",
+          "published": "Sat, 07 Mar 2026 12:38:28 GMT"
+        },
+        {
+          "title": "Avslöjandet om Meta sprids över hela världen - SvD",
+          "publisher": "SvD",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNk56Tmc0X2dWaVpsM3ZYSDdXU2F4TUFNUnd4U3F2Y3ZQSDZENl9tUTFPNXZzZV9RSERINVJZSmVGeC1UaEVvRF83aFJMenk3SmhWNHIwaTJrczZfakRhbzVHUzdFWkZDS3ZOS29hXzJNWVc0VThsR1J4ZWJMbTYtY05LSTVUZjVFWWYtc1dRYXRJUkJJ?oc=5",
+          "published": "Fri, 06 Mar 2026 21:16:01 GMT"
+        },
+        {
+          "title": "Okända enhörningen: ”Behövs ett storhetsvansinne” - DI",
+          "publisher": "DI",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZR0wzMnhFbE5XSmRSc1ozNk5ZRF82UG9DVzRCbkdLN2s3eVdfN3hJNkFUaFdFUUR6azhEUThSUFVYWEpySmJMQ0N3VEVOeWV2T2NUNTNNRjJQNm5IaEkyOFlpUC1iWVJZbTFrLU8xWjc0V2lfUG0yQmpjaFdWUQ?oc=5",
+          "published": "Sat, 07 Mar 2026 13:53:45 GMT"
         },
         {
           "title": "Vecka 10, 2026. Har du hängt med? – Quiz: Nutidstest - Dagens Nyheter",
@@ -177,10 +177,10 @@
           "published": "Fri, 06 Mar 2026 05:00:00 GMT"
         },
         {
-          "title": "Gräsrotsrörelse för att bojkotta Chat GPT växer - Omni",
-          "publisher": "Omni",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SVXdJYXdTZWYxUGRYdTh6ZzFic0J6bnFaMlRNeUQtRmhiU3VWdF9hMXNaRHF1MWFwZEtIQUE1ay1jS0wzcmFlSW9WNHRfTHlUeWtNUVZ4UXp5MDVuQWJGUG9FajlHVThqb3RaeEtyc2U5X1dxeW9kM1I3V24?oc=5",
-          "published": "Fri, 06 Mar 2026 07:50:17 GMT"
+          "title": "Max Hjelm: 87 vårdanställda larmar om vården – regeringen frågar AI om de har rätt - Dagens Nyheter",
+          "publisher": "Dagens Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2gwbHhpSm94V1FkSWliWXl2dklSbGhiaC02UDZyaVkxWjZtVjNfT2p4Z20wTUxPU1NaMi1RUkVYeHFLTkxlNVFoV2VDV1ZVS0FhSE9CX1lsVjc1R0tlTnR6LUVWc3ZvTzRCeUZhcE45SkRvaURzcXRyMVN0OG1aM3JlOENnOERDUFl4RnJxR1RUQ0lCbWY3OEFBX2Y3ckhib24xQjRHSm4?oc=5",
+          "published": "Sat, 07 Mar 2026 17:09:52 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Iran’s Involvement in World Cup Appears Uncertain Amid Widening War - Time Magazine",
-          "publisher": "Time Magazine",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Qd0g2M2NrUDlHTFU2S0U5cm5CWThUWEVuRkQzeXA2Mk1EUHpoWEhBX093SE05WGEwSG95M2ZRaEZ1TDU2dDJwdnN6elRESk5udXkwUlU5eVdBLUJNX1FiVnJrbjJNdnBjdm5Va0FjYkw?oc=5",
-          "published": "Fri, 06 Mar 2026 15:50:57 GMT"
+          "title": "Business of Football: Premier League’s ‘worrying concentration of talent’, EFL’s prized assets - The Athletic - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWVljTl9DbkFaa2VCQXNOWVBDNURfRXVqZ2s0VV9LWUlyMGl2c256NEJUSTRjZlRaM1dzcGJzOTVfRVp1dFFBQ3VpR1hrRlp6dUxEaWJscnFScFR0VEFqNmRXWUx1UU9sd3hncDRMT0hKdEdyV2xldklGUUM3YllGYXFUNzljQUs1eXNzai1Db3BSNFdyd25BZ2Zn?oc=5",
+          "published": "Sat, 07 Mar 2026 14:17:49 GMT"
         },
         {
-          "title": "Iranian women’s soccer team forced to sing national anthem ahead of Asian Cup match, sources tell CNN - CNN",
-          "publisher": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRmFyTlRDVmZQLTJDS09IR1RGLWdlQkg4dzFfMGZnYnVrZUJIUUxFblJEY05BSHA5UTlDM3lYd3Fpd01jektJYk1IaE9JSkR0cDA0QTVVYWo4aHMyUzBjM0RGcTNJZVprMEl4R3ZBUDYyVjY5WkN5eHkxaGFmWTlOYTlxbUVHaGM?oc=5",
-          "published": "Fri, 06 Mar 2026 14:46:43 GMT"
+          "title": "Premier League Games Today: What EPL Soccer Matches Are on TV Schedule for March 7-8? - heavy.com",
+          "publisher": "heavy.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWk9MU01KSDEyTTNIX3FZZ3R1TFpZR3dTYWRKZ01PT0VyNDUycHRBYmgwa0g3dVRRMElsMWd6ZktySDk2bVliNFEyS3hKRkFPZ2dfNk5qd0tyQlgyb2NQeHBOZjNtOE52R0hPbnZZODk3SkRhRWdwQTE1NWRtQjNkVk5fZ05TQTBDcVFJ?oc=5",
+          "published": "Sat, 07 Mar 2026 13:31:45 GMT"
         },
         {
-          "title": "Judging new rule changes ahead of World Cup: Is more VAR a good thing? - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Y2MzlLa2ZNYlkwT3hVYkQ3N3JLVGpOb05vRzdxQm9MNl9pWTdSRWRKTHZjT1luV3BoSGJjZWh4alZGUnk0cUtKZzRJX0xwWGtSdWVPb2hELVFVMUZtcHdjcFR6M19ELWJjYldXb3Q4Ujg4Tnl4ZHpucW1QQUY3Wmk3cFNlZDhxWW9pTEpGLUpVVGFGUW5rVnBLeVQ4WUM0NHlHU2hFekY4eVFu?oc=5",
-          "published": "Thu, 05 Mar 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Verizon gives soccer fans their Golden Ticket to the World Cup - Brand Innovators",
-          "publisher": "Brand Innovators",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2JaUlYxVEVsSnFOU1J3MVV0TjJ3QU5qemZhR1g1b1dKdXF3OEppNUR1QkhnSjRUaU5nVVRGMDhqcUg1TzhOVUR4VFR0bk1ZajBncG9vaHlOdU9BV2RXcmNKT2h1QTZydUNTRWI3OGVSel9QMURrSHFxUFo2MzRRQU04bEIwWGczR1hvd2JwUUFnMW9MZ3Fz?oc=5",
-          "published": "Fri, 06 Mar 2026 13:28:15 GMT"
-        },
-        {
-          "title": "Premier League chiefs hold talks on rise of set pieces amid concern over quality - The Guardian",
+          "title": "European football: Borussia Dortmund close in on Champions League spot - The Guardian",
           "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdG0zX09KSzcwYmxpMGtNV1NIM21qYk55TEVZREVLVTN4eTlMTkt3QXFON01hRk45aTFFcVhvbk1Qd3pZTzRJREZ0eVp4YWx3TEF3OE5majljY2hQQ2hyQVJhWURoRllPLWZmM05tYW13YUNZOFVIclhsa0xWZHpELVloTUc5Zk41THZxR0Y2OEh1OHdfVjdPUThob3BHNjZ2YldodUJfdWhpMWpjckNSd2I4X0tyRFhyMmVDMDdqa1AxNXdLeFZBdXMxYU5iRkNhWXc?oc=5",
-          "published": "Fri, 06 Mar 2026 21:22:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd3E4RHg0cFVNZG53VjdfZ1I5SVpvZ2sxVmYta3JadmdsQnM4V3NTT2t2YjJzdzhfY092WUZjQzFTM0o1SGs5SjVGMFpKZkNGYlQ1MkdLWE5uaWNPaFZ4MTdpSzlnalpvYVNYeFBWdDBZOTZNVndZRE9PU3FXekVrWEJFZ2JBazJua294Rlp5Z3A2WW9fOEdpQjVIR0lpQjJFaU5pY1BETHdVZDZYemQzdlJmcklaZk9WNWc?oc=5",
+          "published": "Sat, 07 Mar 2026 20:24:00 GMT"
+        },
+        {
+          "title": "FIFA, AFC urged to protect Iran women footballers after ‘traitors’ threat - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa1B5Q2hKQWFYbjh4M0VlS2M4d01OeDl3TzRGczl1VlBkdGF2Y29oamVRZWFtLXRPcENDVm9nNGd2clZjbVUtNVJhYmNZSnpmOTQ1Y0VCWGNlMTgyWXI1YjNEc1o5UkhUWGVDejExdmVhMDZGT0ZYY3RiZzE5a3ZOeWRrMm16eENpeXo3SjRuSV95MUFnTHJFT0hReTVUaHBfS0VpLVRKSXRTOW5sZnBPeF8xWmHSAboBQVVfeXFMTU54bjM4QW5IUjBfZUJvN1B5M0ZYZ0JtN3VzcldCaG00VjhyTHlaMWszMksxRWdzTDZRdmFmaXg3T0xCTFVFQWtTS2F1c3lLMGRpOXhyeTJSSGVZVlVIR2Itb2x1WjBKbUxFWDYyMmtuZ3lDdEViWmQwbDd4enNMMDFTbzNnVEdlZGRreWZoWk1wYW5MOFVKZENmWDZwTzMwZ3hMWWEtOS1reVBPRGV0ZjNKa001STFabDVn?oc=5",
+          "published": "Sat, 07 Mar 2026 01:48:19 GMT"
+        },
+        {
+          "title": "U.S. Soccer Podcast: 100 Days Until the World Cup with Mauricio Pochettino - US Soccer",
+          "publisher": "US Soccer",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEt1Wm1oRm0zUW1UX2RvVFgxQlNKTWppZHhDazU3QmRwdnRtM1BrV2VpY1VJLTZ4eUJkM2dUQ2w4QWl2X3QyNUVtOXVySWZiOFhjem9Ram5CWjJabWtpT3k4Zm95TVFzSGh3SUlrT2JELVUyY05aSVBmMWpYbkJfOUdORng4ZEotMFF5dmhsSWFmTjRBR3E5cElDTWN2eFZYVy0xWlBsQkY?oc=5",
+          "published": "Wed, 04 Mar 2026 16:27:16 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Britney Spears’ Sons Won’t Be ‘Responsible’ for Her Recovery After DUI Arrest: ‘They Hope She Gets Help’ - Yahoo",
-          "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUt2ME54QTlHTUM0d2JoQmVYblpUWHh0SzZCSTBBMmtKdzU5ZktoYWd4dDFWWkk3cUNjd1FLMXdUalE2YVJYSkFuZ2oxZFpZaWNPLVZvcDdrcW82eXpkc1VBSEd1WUN1aXVrV28tWDRsbS1YT2NidVJKWndRTURoWi1UQlRYYUR2YUwydHk4VnhXcEJKRVcxdGEzOA?oc=5",
-          "published": "Fri, 06 Mar 2026 15:01:20 GMT"
-        },
-        {
-          "title": "Harry Styles Releases New Album: Listen and Read the Full Credits - Pitchfork",
-          "publisher": "Pitchfork",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVDVrYXRGSmNDdm85Z2VGVWtRdk5KUjFQUHFxVXJBZ2pPcnFxc3d1SnNrQ19vQ2lpVTZYZDlJMXlWeW1hTnlueGFyREZPczZHVFRQQWN0R0xtelJhbjJoUHNfVWRwOTZJMjhPUC1ITlNlcFB1ekZLWEhVdW9kM1VHSkpHempGM25LOXhZR29UWlJ3cG1RWFBz?oc=5",
-          "published": "Fri, 06 Mar 2026 05:04:15 GMT"
-        },
-        {
-          "title": "Netflix Exits Meghan Markle’s $64 Scented Candles Business - The Hollywood Reporter",
+          "title": "Box Office: ‘Hoppers’ Eyes $40M-Plus Start in Key Win for Pixar as ‘The Bride!’ Enters Bomb Territory - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQm9weDNlZlhETm9kWWVvTjdsbTY3UElWa2VReEV4WlQxTXc4d3YwQU1yTG41TG9GVkQ4RzFSUkxveTFfT0V6VWNFaFFrZl9KcGc1WVI1LW9LanN5X0V4andFWTlaSHZfN2xBWnN6YnlWY0NFRkZKb3F4OEU3bkEzT0RLU0JJbWlPTWc2U0JMZ0ZoNndfVDhOajhjeVVyUXYxQTZkWWlNVHJrU3RxUk56NnpFbWlmc3pqcjRZTkRR?oc=5",
-          "published": "Fri, 06 Mar 2026 20:50:12 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2wtcUhrXzRiUERpZmdRa2tkbWJFcEZuM3dReE1NOVJGbnZyU3ZVV0VBdTYxQk5TMTlSRXhRbzRBTlgwOEJ1SzRSbXhtSldNUzJMTVU5MklWUlBFa0NzM0NzT3FFWElhTHlmUjVNYjdCd3Z4VlQtTGRZV0tmd0ZOX1BmNHN4UnVVejA4VVlOQ29uQmpuaWZXNGlBX1dZSTFITGNjdA?oc=5",
+          "published": "Sat, 07 Mar 2026 18:06:17 GMT"
         },
         {
-          "title": "‘Bridesmaids’ Reunion Set for Oscars With Kristen Wiig, Maya Rudolph, Melissa McCarthy and Rose Byrne (EXCLUSIVE) - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN09jbnlUNFFMYnV5RVc1WmZlX0ZBVkpsUWhwTzZTRlV6V0EzcV94aEI5UnRyMWlfR3RaSllDZ0Rubl9tLXhHSFgxN1FfY3NuUURlNkotcjRDMnltWWQ5dmZwRmZsQzhXc1NlODJrN2xjU3dMXzZGdXNqUDVHbS0xMjBZZ213VXFUOWp2NXFGTWczZUE?oc=5",
-          "published": "Fri, 06 Mar 2026 18:38:00 GMT"
+          "title": "Timothée Chalamet Faces Backlash For Saying \"No One Cares\" About Ballet, Opera - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclBCa3RHbGdXWDJDTmYzMDNLcndWTS1HN29iMUhXSVZfVUtDMllwSWFQTWZsZlM4cjk3QVV1bkpjMGFpNTF2eWd1OC12RXM2YTNiRFJNeFdkcWluSHhTZWMwTmMzQ25XeXMwYUtpYmNud3FRVDh3ZXVVUjJKY2JFQzNLRm5XYWZMM2wzRHFHaml0dml6bTR2Zg?oc=5",
+          "published": "Sat, 07 Mar 2026 19:10:00 GMT"
         },
         {
-          "title": "Daryl Hannah slams Ryan Murphy’s Love Story as ‘tragedy-exploiting’ and ‘textbook misogyny’ - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHhPaTZZUVNsMG1tM3l0dkpLcU9ZR20zX25XaFZoTFE4aWJhTFp5cXMwY1dKcEFUZDl5RHRmUjdtTjhaZXpfNkNYNVlCLWE0ZGtmOWFiczRkUFpXV1Z3V3dxVDJoY0Q0alZaeTRiSS1ObE1sTGc3RDNjdXl2S1VKYUtqY21uNkZMZk13ZW1oeGhQajhyeEdDcGladElKTndza09J?oc=5",
-          "published": "Fri, 06 Mar 2026 16:03:00 GMT"
+          "title": "Britney Spears Could Face Jail Time After Pills Found During DUI Arrest, Report Says - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZXZFeUdQUDZqd0hfWWxGQ0FhcFBaSkdvX2kzaDIwdzI4elN0MHUxUW93bF9Wejd3YzBzSjJtdzJOSVhGaWlKSThwQmZiZ3BHUnh6RjRUcThVSTI5R3B2aERicDFPNWZaYVJsak1tU25rOEdpTHR3N09GcU1rekNiVTFmenhHNldTaHQ5Zk4yWkQ2YUhjdTlOMk52bDkwNXFvd2c?oc=5",
+          "published": "Sat, 07 Mar 2026 03:31:00 GMT"
+        },
+        {
+          "title": "Lady Gaga Says She's Going to Get Married 'Soon' to Michael Polansky - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05VVd3NDFJODJHZVRCOE5mQUJCa3E5UVBuZVlOdTVtVTJ2SkxyaTE3SFBpanRvSnFMYVNrT0NZUGgzbDZyYWNILVdaQ01xYUxHeVVCcGZNTm1ibk0wZjlhd3RwM1dTT2VFQ0NhWEtxMVdjOFdEMFE?oc=5",
+          "published": "Sat, 07 Mar 2026 17:02:06 GMT"
+        },
+        {
+          "title": "BSO ends maestro Andris Nelsons' contract - WBUR",
+          "publisher": "WBUR",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTlmYkFFVl9CMUt6VTdwWlpjYWxXQm81c2ktTHdYb245ZkR6RUFzWUt4bUJhRVFIOHhDRC1CV3pseVhEMHlfS3dVeDREQkFIN1BDemZ3QmV4Smh2QzExR3NTMGEwYk9INkZRQnJyZDBkTFVTUXlWTVFvMFdMTWJfQ0hkNA?oc=5",
+          "published": "Fri, 06 Mar 2026 21:37:29 GMT"
         }
       ]
     }
