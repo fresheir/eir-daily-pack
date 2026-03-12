@@ -1,7 +1,7 @@
 {
   "market": "BR",
-  "generatedAt": "2026-03-11T22:27:07.991733Z",
-  "validForDate": "2026-03-11",
+  "generatedAt": "2026-03-12T22:25:48.975533Z",
+  "validForDate": "2026-03-12",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Toffoli é sorteado relator de ação que pede CPI do Banco Master na Câmara - Correio Braziliense",
+          "title": "CPI do INSS aprova convocação de ex-namorada e de cunhado de Vorcaro - Estado de Minas",
+          "publisher": "Estado de Minas",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUdzU0p5LXVFdUE4ZlZ0VnZ6YXp2bnVlMUE1a3g3TEw0RVdQOHZ0bGRRWUNUOUt1c0dXaVBZNHpKLUFicklXRmE3U3JTQXhkNFVTQmczQkZBVnpNSkljbmptS183VXNCUnpJTzBMU3F3MnJVLXRzLVdySTlvMHEwWElDWUwwdnZUWFQyYlRnN2ZoQi1qRHRrNzlnTWh5d08tWWhIdE1aVG1KM1huVVRDZkdUWFdVeEllYzh1Z9IBwgFBVV95cUxOUVlYNnVNZWhQT3o1VV9jSDdfYWxpcDl0d1dUUjZhVWxuYkVjNE5sQ0g4SHdOVnBrVloyaDM4V0RBNjdGXzNORkpHLW9nRUJMSGVZSTBvWlNfZjYyQnFtQ1ZHa2VJWlhuSXp5eFBEdEk4UldtU2tJUDExeVJWTFJFdmphVzVvVWZwd01hVFhuS25RLXRxY1ZMLTZneVNIQ1F6bzZOR3dnblhJYlQ0Ml9PejNISmZGLTl1T2stS0JvS2lRUQ?oc=5",
+          "published": "Thu, 12 Mar 2026 15:23:00 GMT"
+        },
+        {
+          "title": "Moraes determina busca e apreensão a jornalista após reportagem sobre carro funcional usado por Dino - O Globo",
+          "publisher": "O Globo",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNnhfZmxVOUE4RjRIdW5FR3MwQUZQeUR2Q3R6dFdoU281RGVMNjVWbTJtdExTNTRxclVNV1hhMXM3eVNHVjI4OVJndkJoUmlWWlBzQzh5WDcxQVJMQXRfWFl5ZWZlS2ZNRzd0ay1BQ2pSeVo5Q2F2YW5hVzJ5emRaU1NMek1HN0Z4aHUzX0N1QUxsd01DVENIWFEyQkVOOFZwVC1wN01FUlJQbEpuc3ZLdlpQX09WZUhET1lkc1A5d3M3YUFSZFJWWU1WMzJNd2NwLTNlSFJSRjEtbkZZNU1VUEhudzVvVUxFUFBZM2JwR2zSAf8BQVVfeXFMUHFoRGZqal9LRHZLM1oxNkJZcWlMa3R3b1hMeEtSYlRVaXNDdEJwWUU1VURpMktPUFFUQzN3V0lyaXpzRlY5dXBBMUxwTThTUEE3VklzeDBKdmF6SC1MaUxjMzJzUzVyQlVOc0Nyc2lDUWFlc040QTRuTWpJb0JMUFBlaVBCU1NSYUpHMkdvRlZGSVZZbktSTDZjSi04RUFZbjNxMloyXzI0VFhNZFRETkxVSmRQM05WVVFTZkpieWhwWVNNekZpRTROWVVyaklkd0NNaGoxaXd0TEV5U3hnSkRnRjNHU3o3MHlSWC1GVHlsb01BdEJWaUVXTU9YNTZZ?oc=5",
+          "published": "Thu, 12 Mar 2026 18:00:20 GMT"
+        },
+        {
+          "title": "Simone Tebet anuncia candidatura ao Senado por São Paulo - CNN Brasil",
+          "publisher": "CNN Brasil",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1UxTkt0OG5FWXloaFJYR1ZjWl8xY0RabGpyb3h3LVNsV1BVa2JCQmthR3l1a21MWm5rZm05Zm5Jb0QxYXJsSE9Pak01ZExRZ1VuallUYlVzNDFfNHpKbmFWbUZvQTNqVG14S1FfUEREanUwLWJSXzBRWENfMmRPYkU5dDU1T1RyQ3haVXh2ZDBUS2p6bnZFX3R2cw?oc=5",
+          "published": "Thu, 12 Mar 2026 16:08:22 GMT"
+        },
+        {
+          "title": "Nikolas convoca deputadas contra Erika Hilton na Comissão da Mulher - Correio Braziliense",
           "publisher": "Correio Braziliense",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS0RySmpaUTZULXBXN1BubzF4ZnAwamFUeV9xUVpLREstcktFanJfZXZlVTFSdzMybUtkem5xbmtvV05XRWhKNk83M1VRRjU1aWp3S3ZYb3NqQ3ZTVzltaHlkdjJmQm5uYUlCRndmeHJ0X1FvTXVvZjJkeXlQN0lTcGFXU3JLUHhSSGZjOUlKVlNUN0RxMFhVSXVpbzJFV25kcFpwWFl6T1B1dDc2U2NjcXpjdnJ0M2RTVkQ1WGF5TnZTNlU5dXpHQzNYcDhWYy1uOW9rZjZKQjc?oc=5",
-          "published": "Wed, 11 Mar 2026 18:44:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQkFnU1JVTk4yZkIxYkhqTHJ3R1FfVGctTWhvd25JV2lVTUpZZjZzY0pnX1A4UzBsdzFpdElucjc5TGEwZUF1dlJiS2xlZERKOGRQNlpmODhKaDBBNXV3dUI4VVVodmdUeUtSaHR2d24tWHgzY19OZkZMMVdaSmVtbWcwTVV0bmxscmZjTTRoSWhhM0x2TW45RHNHLW9yaGxKQi1OZ0hyNTZHeXFXNlB2TXJoUkRRb3VnUkViMDFwQzR2dHoyS3Q1bWozV2N5R0JY0gHWAUFVX3lxTE5CbzhBOFhxTlplY0lxR1J3cjRPam13dkpZeEU0Q01XWWxPZE1VdnE0NmF4azVyQUpma1U2SmpTclktZ1V3UzNOZTA5a0xGSHA2c2J0Smg2Qzg5VFdYWGNoSHVXTk5SXzhHbzJzZjJybjFqNHJDNExHQl9CNnVSUl9UWENlTTlCOW16SkhWLWRyekt5amJhQ1NsN2VSejlQQ2tvOFQ3eko2cTI2Y0l6bVdObkN3TWhjNTIzSDNDQ3NLNHRSSUcwcHVyVjlRNWIwc3hralJxb0E?oc=5",
+          "published": "Thu, 12 Mar 2026 17:38:00 GMT"
         },
         {
-          "title": "Diante de tensão sobre PCC e CV, Lula recebe ligação de Petro - Poder360",
-          "publisher": "Poder360",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0JwUTNBc0dGb3JzMVQ1MnFMRnJ0TnNyTTh0UUcwOEZGZEowazhwVURkUEJtdko0RHZmZG94c3RBVFZTZ21DOTFzOVhETzhpRm0xcTZlVTFWM01FZ1IxVVIwdmQ3MDA2UFRyWkZHTGprdS1xVWtWMWhHS1JvaEVmaDV4S01wY25WNjdweGw0SWhTczJ6b0pQNUNEOGtHWk4wNFY1MU53?oc=5",
-          "published": "Wed, 11 Mar 2026 18:44:58 GMT"
-        },
-        {
-          "title": "Quaest 1º turno: Lula lidera em dois cenários e tem empate técnico com Flávio Bolsonaro em outros cinco - G1",
-          "publisher": "G1",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3RSR0dKdjhqM3Vud3R0SDhLRW9pUndRZG1RTHRsUk4yMzdUM25qMnczLXhJVlRmTDJ2WGZCWnpLcmJ0cURNa0FkUTk3eUxXTHExcjhLZ1NfMTJTeVg4SkRqZjF3S3E2SWRCMFJzbUdGNnRiRlY2dWZKQlZNNUdqa3VWM0NqZjExMDhPdU44NWFWV1N60gGjAUFVX3lxTE4wdkNNcXBsb3gtYXlqWGNleHdLWnJnaWp4ODBXaWwtNE0yRlJtWnluWTE3VW5fNjhodkRtdnFJNkYyQ3ZVUzVJRGRoZmtHUWpyX21pZlBKS0I2YWgzblNxeGdtOTJVVUFBQWlxQkRpLXNZWV93MmhfaE1rcy16OUtOTmYtNTFacjU4OVdUdXlwMlFLaDFnQktoYkxxSGp5ejNnc1E?oc=5",
-          "published": "Wed, 11 Mar 2026 17:00:09 GMT"
-        },
-        {
-          "title": "Erika Hilton é eleita presidente da Comissão da Mulher na Câmara - CNN Brasil",
-          "publisher": "CNN Brasil",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEkyczJ5bHFjVVJCU2ZjdkN5RkZXaWI5bjI4QWE3akhuZWVWc1habmNsVzgwX1djdnU3QW9hNF81SW4tb1lfNkxpajE2blFBRDBTUWJseXJlVkgtTldIckZkRlJVbDBrdnRFYnVnM3NYemJTUHNvMksyMDd0ZUxNTGEyZGRPV2pvcC12YWs3MTdzM3ZsR1BycmdUa0hJOXgtY0prVGxB?oc=5",
-          "published": "Wed, 11 Mar 2026 19:17:16 GMT"
-        },
-        {
-          "title": "PF identifica 15 perfis originais que publicaram trend “caso ela diga não” - CNN Brasil",
-          "publisher": "CNN Brasil",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTDlKWjRVVjFCUjA1TjdfQmlKMU9WemNSbm44QWtnVFlVd1MtRW5HOHlhODVPWVlvZEZ0Ry1tX3Z4b2ZXaEoyV3lLOXlwTEpMYndsdVBpUUhKc1JzMXY1WFJ2MVlJQlhPcTZjRWlvNWxhV1lqQkV6NGZMMkNMcTQ3SUpvMnVtMjJORGMzTEQwOVZyX3hGZTRqM0NyUms3cVlJTWk1QlFFdkotTUpIRUN1MTc5T0xxSk1MR0E?oc=5",
-          "published": "Wed, 11 Mar 2026 15:08:07 GMT"
+          "title": "Zanin nega pedido para obrigar Câmara a instalar CPI do Master - Valor Econômico",
+          "publisher": "Valor Econômico",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1o1MDU0SlE2OW5oYnI1cER4QVdsWEliQ0k3dndqWEJZV0FhQ283NGdwT1Q2NUUxaWFnNl92d0tmeHNOcWZaUk9hZThEdFMyWkE1UzY4Mmp6M1lzQUU0N0pnb3lvVW1KdGJJNjR3aVBMVlJjT1RoX2w2UDRrTmdKejFRQ3d2elJtVFdOeE10NzlSWGQzZHVHZHhsMDJPNWV4N3VENU5tVzRRaFRX0gG7AUFVX3lxTE9ITkdGQnBXV1lla2h2TUNLS0V1Rk5yaEZwSXFMN0VRNmV3dnNHbTUwdUYtZzZPUTZzMExiY2JvcHA4UjZyM3lSUE54UmZSMUJHS1ltbU9YVlpxSlpiM2ZqWTdQajBMYThLc1hwemh6TURDZklCSFNUSjlMTEp0MlllWHM3N3RZOHhNMkozZE5hX0tDLTF0OEhBYV9nbnlqem5jM1ZTTHhGTzIzMmh4amt2OGlsS1RCeVYtbGM?oc=5",
+          "published": "Thu, 12 Mar 2026 14:06:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Foto mostra iraniano se despedindo da mãe antes de ser morto, diz agência - CNN Brasil",
-          "publisher": "CNN Brasil",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTU51RkxYRGpreEF2ZzVfM0pTWGlsWXJVUWhERUQtZ0szUVEwLTZxU0VybUdjRmRKYWVwd19VamlLeC01UWpFUHh2VHpJbEdmUnR5M1JTdnkxTGYyVU5PN3llN09mNTh6RUUxaExOM0xBbVVhelRVMURpenZMQllITXZLMk02dGVGMGxBTlBYbkM2b1FSVDdJU0F1cWgtcWR3Zm1VeHJlMmN3ZHEyYU9STm5zb29sYjg?oc=5",
-          "published": "Wed, 11 Mar 2026 19:22:27 GMT"
-        },
-        {
-          "title": "Irã amplia ataques contra navios no Golfo Pérsico e no Estreito de Ormuz apesar de ameaças de Trump - O Globo",
+          "title": "Estreito de Ormuz 'certamente' seguirá bloqueado, diz novo líder supremo do Irã em primeiro pronunciamento desafiador - O Globo",
           "publisher": "O Globo",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3d5M2VPS2U5NE9ITklYa3IxWmJpMm9lTkZ3YXpKQ3k5eVBjX2sxRGFvNXcyZWFzSVZZZnhIY0wxei1SY2dfd3N6RkktWklfeEZXY0h3bERKNG9DQjhIM2RQdWxLOGZ0d0V6VzdwajdxNG92Z3VUaGladlZ2dVlqdGVPRkcwOGpaWXU4d05oNkRiaDRPWlY3NE43RHR3VWVLSFh5TmJwSDdVQnFYRVBRRmdXcWxrak82NWRGMXBvSWh6UzhyeVI5cmpB0gHYAUFVX3lxTFB2ZjV6WnJLYlM5c0ttUW9UQzRTM1RiM3VhdnpfamdyS0ZLSGFmZFdURXZkXzgwdkFNWng5eVJRR1hKSXcxWFZJWUt0dkhaMG9CWlpHcVdkRXlZTVl3MjBMUTExOXU1SDl4bUxEc2trUU40MlNxVE9wLWVQVWE3eGFoUHQ3TDNvUlZZR3NDQ1U1YUJHZVd1R3ZvRWtnZExJTzlrVU9vX2h3RTEyU0o5MlFlMUp5YmR3TmhkeWhzbEdlMjB1WXBaYWdxMEMtaE4zc29WbkVDN2VXRw?oc=5",
-          "published": "Wed, 11 Mar 2026 09:33:41 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNWlqOU5wTWdYMUZIQ2EzS3dTVkpkVmNUNlVBYVhlcm1qbHlzODZyMXVRZEtMS09uQzFYOG5LZy13TXFwWDlGbDZMVUN3eFM5RU9IY05EeVo3Rl9ROXpzX0JFRzI1dVlseDlMOF9wcGtHV2J3MXd1TWpUTmJxamVmaExTWmd0OFlPU1F5NzRGT0pTSFExeDhELXkyRjdlRzdRVHBKRVhSenU1OGxYODFBRFE4UlhQUXJhUDdEZVN2Zlh0LThQVE11Zmd4cFFXUExIcW9LWmVFaWtFd9IB6AFBVV95cUxQWlJ1bW83THlEWEZlb2lVQzhWZGtvbWpSdE1KMElONEt1YWpNWl84TmpVdzNCMHVyX1VnMVo4WGQtaXUzcjVhUTZPOFpaOTNuMXF6TmpCblBOQTJkeHNJOTFlTlRQQ19tNVZITERYMENsajY2cHk3R0hWRHBrdXNoVXVVZEVsWWlVTllIZDVjeVdfQWthY21FWkRtWFlCYUhweGlKU2p5c3FoOFZueTc0VVBhZndLaVpmZ1F3T0JkOWZ5TDJTcXF3THFJYkdzaXVxMzI5dkp4R1Rsa2N5ZmZJMlBYQUMxS3ps?oc=5",
+          "published": "Thu, 12 Mar 2026 13:39:06 GMT"
         },
         {
-          "title": "Países da AIE liberam reservas de petróleo para enfrentar crise - UOL Economia",
-          "publisher": "UOL Economia",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb0pTVzVfV2xTMTY4bDNXbnh4Y2tVZ1ZfWjl2WHo5TWRvY0txSzlXbUhoRVBnTHBnUEtzbWJoRXBCcGpJZV92SUNqWkZqMVBWMEtIa2JISzVXYXlXaHU3eTB5QUFjVkcxWDNrWldDWXlIOFMxR0Q5c0tzWU9ITUlvbF9hYkpxNWhhTDhjNGNlLTFfZ1BLZC0yRG53ZFp5WG10T1FMT1hDd2NwV05UUUF2OThhbHBFMDltWWxrTFFSVWpLNWxrS0dpOGFtUjFJQUU?oc=5",
-          "published": "Wed, 11 Mar 2026 14:36:35 GMT"
+          "title": "FBI apura suposto atropelamento e tiroteio em sinagoga de Michigan, nos EUA - UOL Notícias",
+          "publisher": "UOL Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRF9mdTNnWG8xVXFWT0JfMkVuNmRUV0pqcldfUVdFZEdfTzhVMVIxUWVfMmxrV1dFSGRpVmdYR0xaSnBBclpid3BRX3NsOXVER2hsYVlwNUtUamg4UW1xVlFIM19aYTVDODIyeS11Unh4cVQ1OWM0UzNjWkl3VWxtZVJRQU9YRGlPTnhEQjdteFdLQ3ljOTFiQjYxT0FVTjVyVkx1UlhSZGs4S0dZMll6QXc0Q2pmT2dJTjFLSHFWSTZhUXkyZlMzR2Q1SnNVaWJJSUxZcGhLYWFmMW4tbF9JQlNR?oc=5",
+          "published": "Thu, 12 Mar 2026 18:17:32 GMT"
         },
         {
-          "title": "Trump diz que guerra no Irã terminará em breve: ‘Não há mais nada para atacar’ - R7",
+          "title": "Irã diz permitir passagem de alguns navios no estreito de Ormuz - R7",
           "publisher": "R7",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMVl6VFZsQVZaMEx2ZkRDbnA4UHNCTzJpMk1zYm1OTm5XTTdmdTdsbkN4eFM1UVpQMTdwenpiTEU2b0k0Q3RBOW51T2I5SVA5X0cyOC1VZ2V5NkZoREdmNW5PbUVsY05xMFc3UGJtWUJETld4SEpLaVlzbzFjTVVUZjJyZEt5YjZaX1hEX3N3aGlmb1dtR2NVWmVlOUhmdW5tUC1CemZSZkxtUnNKb0pPMjhsMkF3UkZHa0hXTFB5cEY?oc=5",
-          "published": "Wed, 11 Mar 2026 14:17:12 GMT"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXc4bHlJb1BQZFdXOC1EZ3V5Q3hBRWRaX3hsV1dpVWhXLWFKeEJlTjNFRlZ6NGZZV0R4Q0llbks5MlNOdnhYV3JZX2lBMkQ2VTRTanlLTE9MWS1zRXpXTGlEdC1OUHR6RTdadDFtSjJ1WGwxaWhTM09mT0RYbTk0OHphTjRtdU5tN0hTNlVkVzllSVZha2hiSmduTTZHZXlCS0V4eEJUR0hOUm1rbHlnQw?oc=5",
+          "published": "Thu, 12 Mar 2026 19:17:02 GMT"
         },
         {
-          "title": "Irã diz para o mundo se preparar para petróleo a US$ 200 o barril - CNN Brasil",
+          "title": "Irã diz que atingiu mais de 50 alvos em Israel durante ataque com Hezbollah - CNN Brasil",
           "publisher": "CNN Brasil",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcE93X1BKMUdUX1BtZkdsdDh1dXk3YjdLV2pZUnl6eVlxTUhJSU1xMkdodVdPdkdfd0xNZndaTWpKNzBhVFhlTDM0Rk9fM2pUenV3NnJBLXVLRTRvLUZVWnlwaXhHb3c5TTliUU90enlRVXN6Q3RYMXZWMUxZcmg0QS11MmZRM3pHa0dQdWV2ZVZqSmxRVXJsVS1HcDhJUzU2UmZBLU9ScjUzY0RBcURLVA?oc=5",
-          "published": "Wed, 11 Mar 2026 17:26:03 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc05OVDBiQ2h2RHBhMmoxYzVoZUFIajhFaUZzSmhGSDdSUmhwSFV5UlEzX2RvTEVjSWNWcHJLb1VwN0VaWmFQdklTa3U4aDlGcXlkMGhqNlpJRTZSckZBeGVsSTAtOEtDYXU1TjBkZWgydnYwR0xEUktUd1pDUjBuWno1dWdoMHo2Wlc3MXkxQUF1ZTU1MjFhR3FFNU5Ja1hlZnVHa1gwaDNuUDdtd0Z0TUZVZzktbFZiUnVz?oc=5",
+          "published": "Wed, 11 Mar 2026 23:49:10 GMT"
+        },
+        {
+          "title": "Maior porta-aviões do mundo, que participa de ataques ao Irã, sofre incêndio e marinheiros ficam feridos - AEROIN",
+          "publisher": "AEROIN",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNODlKN0VwWVZRVkZUak1MdVJKdHNXa0V2eFdCQ2huVkJiQUlSemJ6X2pLelU5MzFZdWoyY0dzNUV1bExQNG9waTNhWnlsdkRBby1IZkpRUGhLVjVSeFl6cnVrWFprdXJjWjNqejBUeGFaODlUUHRkTmttTFNtSVYzdDVwdUtaRGpicXNoR1FBcVd5cEtWSk9LUzRGM2tRUTJlbUFYeEFrb19mRkYtOG1PS3FKQkVvSzcwbkNWNERyaVdPdFFYcTNnTDJVOS1IR25VMXfSAdIBQVVfeXFMTTg5SjdFcFlWUVZGVGpNTHVSSnRzV2tFdnhXQkNoblZCYkFJUnpiel9qS3pVOTMxWXVqMmNHczVFdWxMUDRvcGkzYVp5bHZEQW8tSGZKUVBoS1Y1UnhZenJ1a1haa3VyY1ozanowVHhhWjg5VFB0ZE5rbUxTbUlWM3Q1cHVLWkRqYnFzaEdRQXFXeXBLVkpPS1M0RjNrUVEyZW1BWHhBa29fZkZGLThtT0txSkJFb0s3MG5DVjREcmlXT3RRWHEzZ0wyVTktSEduVTF3?oc=5",
+          "published": "Thu, 12 Mar 2026 15:41:55 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Raízen (RAIZ4): ação cai abaixo dos R$ 0,50 após pedido de recuperação extrajudicial - InfoMoney",
+          "title": "Pacote de Lula para segurar preço do diesel custará R$ 30 bilhões - Poder360",
+          "publisher": "Poder360",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUEhHRW42dVdsalUwLXZ1UUNXNjB0MEFHVkJKajJHeVlQTmhEYWF6dTBGYlJBM19pODg4NjJneVVfWVBxRDJHUDk2bGNvZ2JMZ2ViQnVXUXlodDFndXNBY3IzOVozQ1dQdWJrWmdnUHh5RVhSdTI4SzNCcjY2MTJZbUh2MUtyUWV1V2NEaHlidlRXcEhTWXhWTG9udmlZMGJhcGh3LU9Qb1YtSzg?oc=5",
+          "published": "Thu, 12 Mar 2026 17:56:19 GMT"
+        },
+        {
+          "title": "Inflação sobe 0,7% em fevereiro com alta de educação e transporte - Folha de S.Paulo",
+          "publisher": "Folha de S.Paulo",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNazZhZDg3S2tmeHBwSldGLVRXc3BEMHdLbFpiWkc1elprdG5iTVMzaUs4cnVhY3FieUtUc2VXbTRKd3JzU3FsWklRNWpJSGN4NzZRMGNyNGdFYWJOR0FSMnZtMGtSOEpzcl9QYUlHb1V4bUZ1WFZUWmM1Smd4dzRRLWFKcW5wV3kwRktqSE03QWhzZnl3MHQzUjRJUEdVWGNqdm5hcVhQWFhWSlBzVVlBbUJNR3NoNFdFMUlyd2FERG90dU44Rnpn0gHMAUFVX3lxTFBPaU9ESmR3ODFGbjRPR3drcmhpUVBNbWI2cjJydzV5OGhUZ0ZOcFlIV3c5RE81cC13RE42cl9ORTd5MGlzYl85NFl1VkFWVWJINnZxaVBLd1NNZDFsbmZFQ29NM3pucFRyRFdPZEpSbkhsSXpvX2FuUmxDN1FMUXl6NERVeFFaQlZEdllWVjZ6SGwyaDFxQlBYVndYdnZKWXNoa1Bod2ZiSGRYUXczWVdndDVHdklLeXlqX1JyVWZPVkNoc04yVk1iN1I2ag?oc=5",
+          "published": "Thu, 12 Mar 2026 12:06:00 GMT"
+        },
+        {
+          "title": "Ibovespa despenca mais de 2%, com petróleo e exterior; Embraer perde 10% - InfoMoney",
           "publisher": "InfoMoney",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3c2Vkxxd3d3UTZ3aGQ5TWh1QzYzYWpQdnNlUmtfX1h6X2tTVTlxVFlSZXZ6UC1pdVk3N0R6dTg2QkJUYzFqQUhDS3hac0djRlVBWllXZGRXMllpTTR2T3F6cEpzUmZDSlJHNFFTSTBQVXJ6b0tENVlZS1lXOEJxekFrQnNOMmQzTlBzY2w4SUpETjZrNmhKbklxS0ZjUjA2WllLNGtyOUdsd0F6QUJhdHcwSmF2NEV5UnfSAb8BQVVfeXFMTzgxeFhnQVd3YUJWb0I1NmpDcGxiMXdMRVVoNDJxVHluTE1KbTZiX1NwWFdrZi1ZS1ZBVXA0enVuVXhNWllzeHpWTzB3cjQ3NVZUcFpiaTl3eXJMMHh1VFBMd1NPUEVjeHBEQTVsYjQ0OE4ySmVrcUNkRFZ4X2pJRWpxQWhJRUd2TjJmUTNEUzcwS1h1MEFmcVpNNlA1TnRwMURURGpFZXNmLXdGUDc2YWlVZnlaTmJCWmpXMmw4R28?oc=5",
-          "published": "Wed, 11 Mar 2026 20:22:01 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON3dGeVFTSlVkbm13aDUxX0FUSmxnc1ZFc3pxZjV5VkQxU3NhQ29NT2NEeDFOSXQ3SEh0dVFsYUdGd0tPbm94cTY1VjZSU0FQZUVEc0txMHlRbGtnS1Z3eXZIckctX1hyUXVLcnlWdDQtYlZERFhBclVOMWRueFIyNEtwa09TMTc1c2ZhaTh6Yw?oc=5",
+          "published": "Thu, 12 Mar 2026 20:27:35 GMT"
         },
         {
-          "title": "AIE prepara maior liberação de reserva de petróleo da história em meio à guerra do Irã - Valor Econômico",
+          "title": "Diesel sob alerta no Brasil: por que o preço sobe mesmo sem reajuste da Petrobras - Valor Econômico",
           "publisher": "Valor Econômico",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUVJFR2xWUkVIX3AwWUU5dG9IUS10TnZIbXRDUWJvUzZjcndmZHhldjJKY05INGh4NTdoeUxTYktkNjgtT0lvMzRjbW1IUVN1RFZHVmxXQ2lHN1JRVFBleUc2Y3R4ZjFyZkh6UkhoZlk4Q2VfT2VQSE5qZXp6WFczT0x0LU9LcVM3ZUwtdUIxV29wSkVoWEkyVHR1d2l5eVc5V3RuQy0xX2xEWE5ETkl6MGpYZzlRTWQ2N0NYTWxHbFlCSThCRW41Q1U5ekxHWS1iV25hT0tTZGnSAecBQVVfeXFMT0ltMVZXamN6OUE1b1RHNXpXQmdMVmgwTXFzTnpabnRYaFZ0c1ZVeHpNcngtNFE4N0xiZUh5UF9RNjc0ZG1DejM1S01WdF9XeVN1eC1tbHVPUXRCUlU3TEJmb0hRSDQ3QWpXSW5TQWNzWGVJN2dJNzZacmwxVDlqb21SREpTeGJwY2V3OFdMSlQ0MU10MHlYRVEzTGl3djN4a1U1dlJGQTFQa2o5TlZCWWFEdm5MSEM2SENqZ1JjSm1YS3diQkRtUmd6dUpRRW1aejRtb3dXVUJNZFA0U2dDR015NHo2Y2ZF?oc=5",
-          "published": "Wed, 11 Mar 2026 17:11:28 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYVMybnFPR01ZeXNnSWRKTVl6bHZuNHFWaDJhOHdpanoyNmJ0RF85VGxTU3N6SnA4X21uNnQta3A5NG5IS2FKeDRjOEg5a2VUREU1NmpyZGp0dEprN3JOc2dUcW5XeV9hdlVhalFQR1FYbExlS0dFcDRXZzkycUxvbjlWYzdHaVJNY28xT2ZWOFp1ZjBFc0h5ZDJiMUVTV1ZzSWhGeEtVSEZlQU1lejZrWmpyRE9VRGo1WGVlYTJYYTRjOXVMb1hMcWVzLUw4U3FNZXfSAeABQVVfeXFMUHlsS25vVU5qU204ekxlMDhIeHpUVFNtOVplTHJJLURtUlhMaFZzcndLZGRxWlVSRmtaX3N2T0FzWUZuU0kxUjV2UXZFLUN2NWVtWnEtZHNldWc0UEJRUTAzZm40amlMNjB6alN1SW94cGFhNHVSZFRaTnpQSHZPcFZ1N3BGQkRKajFFWF9rM2kxcDRfc2xzdWRRYzNOVm1aNGpyRWtYbVpMaTFONl9ydkZfMmlGYUxablNjcm93MVZnSVpseUp0YnBzb1lTWUxYTFhDQ3dycnRpdXQ5Y3VNLU4?oc=5",
+          "published": "Thu, 12 Mar 2026 09:01:09 GMT"
         },
         {
-          "title": "Justiça aceita pedido de recuperação extrajudicial do Grupo Pão de Açúcar - UOL Economia",
-          "publisher": "UOL Economia",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRmxtUjRVUUllYVR0TjhfMDFVRUZHWXZ0Yy1fT0g3TXoxUFlnUk1VRTVLYmJiTWdveEEySldoQm1rVE45U19hOVQwaFlDQml4elQwLUh0R2tmMktLZVRQVnUzdERJMWVpZUhRUzZrRDJXa1d5Z210RnFSekdpRGJrQW1zc2xyMnR0ZDJJT1l4WnVKNExOSkRZSm1oenFtRWVpZmQtYndwX1VBOXZHTExDb0pqeHowOWpOOXJZaTYtbERVWDlmR1hhY043cW9hZkU?oc=5",
-          "published": "Wed, 11 Mar 2026 19:54:35 GMT"
-        },
-        {
-          "title": "Gasolina ultrapassa R$ 7,30 em cidade do Rio Grande do Sul; diesel vai a R$ 8,19 - G1",
-          "publisher": "G1",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2FHR1hRU1NOVGVKUTBGWkNsUzRjN0dFOU5HYWhLSFZ3RmFtcjk2clhhR2s3cVd4ZDF2SE82S25HZGd4eGFwOGFnTWJfcHNUZ0Y1SWdDeW5wMFQ5UGlteEt4cDZEenBZT2tqQi01WW45bkp4WVBncWNhTlVFWjhsNVpTVXBnZks1cF8wNlNhdU1US3FiNlh1RFQ0R1Z2T0nSAa4BQVVfeXFMTW5TcVZxVGp2U3RBWDBGYlRwb2pPRHhVQ1NhTnVTQWRZRmFTQ0JCTnFFaWU0WDk5WTFqMEc2WjdtTlVYdUtPUDNidGM4dl9HMnFmVWwwNFVxQ2VrVWgzR3g5cWJFanhVVmxETGQ2UGxYTmkwSHAwWDNFX1VDTjlDbzg1a1Q5dEtfcUZhSlJyTXlLRlFsVlc4UkFyOGdmdXNKZTlqLWhVUzJ6MVYxM3F3?oc=5",
-          "published": "Wed, 11 Mar 2026 13:49:34 GMT"
-        },
-        {
-          "title": "IRPF 2026: entrega da declaração está prevista para 16 de março a 29 de maio - Portal Contabeis",
-          "publisher": "Portal Contabeis",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWxKZHRUNnJ2ZTBnWC1BTUpuQ0xKOG9FTUhuMGFnelJZdnZBU2hCTVk4bW1pUThpT0FXSTVwbTBoeVVINmE0VzZ1VWxXTkpscURMNHdVbmJpZk1OM0dnLVhjazZGcHM1TUduUDNuTXk1QWpKUGgxa1RGTE0tZHFsV1l3QlJDbTVDcDAtYmRWZGpNS0s3WkdFV0ZCaUJ0RnVBak1lVW9ETnl5Mk5GQlNXTkxXTnRPQzlwZURFZg?oc=5",
-          "published": "Wed, 11 Mar 2026 17:00:01 GMT"
+          "title": "Privatizada, refinaria de Mataripe eleva diesel em até 20% após medidas do governo - Brasil 247",
+          "publisher": "Brasil 247",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc0JQTTdweHgtWDJScjUwU29jNjFFRlh2eWdvMGM3dS1oa1JZeHRzcU9BbFlBVW8yX0F1ZWRHM3IwVUpQdm1DSnpyTG9ubHJ5NnRVR3JHUlVWbk8zdlRpQW1wdmJaanVvWlVVS2lGVHNPSDZXX1lSMXhfN2JCbHlDUDNSQk45WnZYY0szZGlUMTQ2Z1lQZWxRSWVFU0swWHV2bFhiSFI5c19DLWhreDlYOHNWNzVaZw?oc=5",
+          "published": "Thu, 12 Mar 2026 17:49:51 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Irã pode pagar multa milionária se desistir da Copa de 2026; entenda - CNN Brasil",
-          "publisher": "CNN Brasil",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUGF5OUUtTHFfZ1diZlU3eG93cXVIejl2TkttVnBfWndpLUo0YjhSZHpOSXdsZTFVUG91RlRoRGZmNi1wNzJERHlhNGlSbm1YaW1qekxBNWg3WGhmb1dGWGtSaE45QnE5ZkJITTEwa2I2QkpsUVNXYkxsajc4Y2V0LXhkSHhDTXhxY2xIczgycGdPUWRKMlFzWTVqYnJkQVRIYmxGdXQtRWJpazVsMHpEbEVqT1JHV2JxWmhNYjYzT0hHRnZ3QUN3bVMxWmNrSXpDQUE?oc=5",
-          "published": "Wed, 11 Mar 2026 14:51:19 GMT"
-        },
-        {
-          "title": "Libertadores 2026: veja como ficam os potes do sorteio após resultado do Botafogo - LANCE!",
+          "title": "Com reviravoltas, inteligência artificial crava placar de Vasco x Palmeiras - LANCE!",
           "publisher": "LANCE!",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRXZQa29hUEl0TFFUbXk1U3g3bXhGejN5a284aHJ3MjRKT3R0VXVXNzE1RXFoT0tMYnUtemRxYmJybXlSS0pTUkxXNHBxcmdBaFdkcDdRWlVWc20zUEFIdnlva1FOX1NtNkVmUmR6amVMZVJyM1VCZjFtekk2ZHhmYVNPU3k1S1dMMUJpS3poVzhtN1k3Xy1PUTVXanNYSUJtZTNnSXJrcTFtVFl3RkVNTGFtTzhSb2Z0YkZTVnNSeWJ5cG5JS2c?oc=5",
-          "published": "Wed, 11 Mar 2026 14:36:11 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTJBT3N2cV90VktwaVpRc3NtLS1jVGFEcG1oWkw4c3lTV2pTSC04M0MxbWVPcVNkeG1URXQ0QTV5TjI4dEk2eWRCb3pqMXpqUEZ1QXVJQVN1VXgwQWpxb0h2SHNsQkNaZ1J2NUtHZzBiUlQ4UEcxaXdPRXBXZF9EdGxLTU9xNVV5eC1kdi12MWxqZW13MEFUdGRQWWdZUldhemd3U2dSeFBvLU1meUF1SEtEM0x0eGlVdXc?oc=5",
+          "published": "Thu, 12 Mar 2026 08:10:00 GMT"
         },
         {
-          "title": "Onde vai passar Real Madrid x Manchester City pela Liga dos Campeões? Como assistir - UOL",
+          "title": "Trump volta a falar sobre Irã na Copa do Mundo: \"Não acho apropriado\" - CNN Brasil",
+          "publisher": "CNN Brasil",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWnRvUXJDMm1tNmlwbXlSekt5MG1hWEZBLTVZTEJMRTIyS3pMZ2l6TmZoSlhubV8wUVhxYWp4N1d4V2dSZTM0UzF3N2hadldSWGxSSDhsTFJqaFk1ZE9hM09jWExVYVVEOW13NGZseHNFajNQcGRUVnp0d2JYTzFoVVpGUGVFakJoTVVIeDVrbFZmenl4Nm9iek9XNGRxYW1XNkVWNm1fT1haaUx6SUhraEkxQ3lMSXZadXRIMlM3SXZINURXRGc?oc=5",
+          "published": "Thu, 12 Mar 2026 15:25:47 GMT"
+        },
+        {
+          "title": "Craque Neto detona Corinthians após derrota para o Coritiba: “Inadmissível” - UmDois Esportes",
+          "publisher": "UmDois Esportes",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkFYY3ZfVTNkZ21JV29uLWw2bG9IY1BGeElBREp1d29peE0zbEhOcWs0YmZWb1ZyT2NJVlM1a2VSUHJXdjhLc0c4QkxfWHBOZGEtZFVMczBmN0pGMGIycFEycEM2WC01ZElsTlRUTWdoT1dWSkF1R2FYbV9VUGJuc2hpRTk0cHBHQUVmTU53?oc=5",
+          "published": "Thu, 12 Mar 2026 14:29:24 GMT"
+        },
+        {
+          "title": "Jogo do São Paulo hoje pelo Brasileirão: que horas começa e onde assistir - UOL",
           "publisher": "UOL",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM0N5ZUxRRUI2cE9lMVdVLVJ1bVQtU3Y2NWVLR0lrS1dyZ3gwdmxqLUpxX2hpSTNkeE55UTRtQWJTRkVlX2JUN0VJNFgtX09lR1lHcjhSRENQVUJVQ3NaeDVyVWRMbUhYZ2lqQkZOMTZRZ0FSOFJYQ3VGbXNLZkFscjFXb2VRX2QxcE15MmdBM19PMEZJaGNzMGFUMFV3QWpOMWFtdFFWWl9hNktEekdPMElVUnM4Nlh1RGhMVnJyYloycWl5YjNrdzU5d0tLdEh5b1NvUWdsVFFpUk5nSlhxcmZ2aTBKRkUt?oc=5",
-          "published": "Wed, 11 Mar 2026 17:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGZVT0d3cGZWVkxnc0M2ZHZtYTViakZLN2hubGZON1dmMk1INkVPTGVpbG5PaE0zNzBlV2ZVRTBkYTRnc2czX2d2QklzUUxxZ2R0MDBYcExrbnJqUXJKd0NSVUJXZ1ZrVm1UYl9pSk51QTh4SHZrckJMZGxtWXB0Y01SQjFCYThzd0ZRVEcwMU1MSFAwWEpmODBtX0JHUG0zVlYzYjBjLUwyaEpHeFFnR3dqdUNlNjB2UzBrMlRhTjFwWE5POVh2SXdiR3VsWl9t?oc=5",
+          "published": "Thu, 12 Mar 2026 14:00:00 GMT"
         },
         {
-          "title": "Rejeição enorme a Roger Machado assusta a direção do São Paulo. Dirigentes acreditam em preconceito e radicalismo político - R7 Esportes",
-          "publisher": "R7 Esportes",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNUlp4anUxUFRGZW0xVWZPV2xXQTRmVTlKTmhDMi12dF9vQk44c1pfaGs0dDFkQlRjUGxRQmtROUpUSHNhWG1HMFY0SWZoYTJyZ0lWXzAwWm9xZjJVdjdGeWxiMk52V1lNc3F4M0xBZEtoQy1ldjU0TUtSbE5VVlVjOEpfUFBla19mNGdBZW9OaGtjUU51ZklUckFVeUtIaU8tR0Ziby1XN05qdmVxRUpzMExMbkg5WENBVTBTeEdJMGwxS1JVNW01X1c3TTBLaWFORTNjVjBOUnVFeGdoV3dIU3hJQjJFM09WOWR0cUEySU5iSUUtVUwyTWZMV3h5QnlBYkpnZjVR?oc=5",
-          "published": "Wed, 11 Mar 2026 20:39:42 GMT"
-        },
-        {
-          "title": "Briga generalizada em clássico Atlético x Cruzeiro pode ter repercussão penal; entenda - O TEMPO",
-          "publisher": "O TEMPO",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVnNoSHF1Ynlvbk1aS1BiR3VGWkhJcW1ESlVRZERWb20yTEVPMUltS0ZpU1VLWVpaQ3RJUkV4clc5c2lZM3B2MG0wWEM0X3d1Q09HS3MyMzhCZ2RVc29iZHlEZkczLXpFYVFkUEZLQWdjZFdnRXVpT3ZyR09oNnlfV0syaS0xcjVBR0ptYXBYTFhSR18yZVdGY0RUQUVCdkpuQko5ZUZhbi1nMklaak1seDAwc280NXJlU2xobXg0YWhNV2NiWWpPVWU0dFBmSC1nTE9n?oc=5",
-          "published": "Wed, 11 Mar 2026 15:22:23 GMT"
+          "title": "Dublador aponta o que Gerson, do Cruzeiro, disse a jogadores do Flamengo: ‘Não dá’ - Rádio Itatiaia",
+          "publisher": "Rádio Itatiaia",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnMxTHlWcmxMSTRUVWpkUWs3N0s0aE5JZjJ0Nkt0MzBSVFlhZ0hNam5YNUNCZ2pVanRSWkJwODY5OURFdkY2X21sc1ctTkZOeHdwX1FSZ2ZhWEI0bTd1V3NJTmtPRV9mdTItRExoOHEtTHFqdDJ6SEllbl9IMEFpbG0zejZKVmFnWDl5M2xpelRhN3J5YmM4VzJaRTN3cUljbzBOTGFDbGl4Q29jWTE4UzFJN0Zibm5IbF9seThiY0xVWTFNcWo4UHpwQjB1akNIS0RYTTlB?oc=5",
+          "published": "Thu, 12 Mar 2026 18:27:58 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Grupo ligado ao Irã reivindica ciberataque a empresa dos EUA em resposta a ataque em escola - G1",
+          "title": "O que é isso em Marte? Misterioso cilindro registrado por robô da Nasa intriga cientistas - O Globo",
+          "publisher": "O Globo",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX1R5M3ZZcmFFQ085SHg3VFJNMEx2RXIzTEZoRUtGYk9MTHZtNS14RXpLOWNhSU9FMGNzTV90ZzQ4dGpMY09URzB0NGpWWGstYzhIbERONzRWNHVJS0t1Z1g2ZzZUOHRMNnRTRXVkVXNwWndxbmNia2JRdUdXNnRhbUJ1aEtYeU9fOEJxR2FQU2FyMnpXTzcxWFEwVU0zZjdIRk1kSXJLbW93b0RBU1o4bWhlbVlmZ3RVNmw2T3VZTl9Rcjc4djdIRFlDSHBoRnp5dDk3b25Bb0w4V1hrWEEzR1JEN0XSAfMBQVVfeXFMUGtLRzlTdUVDcFRlOFFfaHNjSlVHSmtWYm80VEZJd2NtOGViUXNQYkw2aEJxTjVFTnJLSmNGdUJGRjd5czZ6TXZIYzg5M0hlQWU4Mm9WSlRaeEhZVkd6VUJzX1pqdEhxZ3VrWXVMMnZyaUkyRmRsdDRsUGVObllRQl9ITW9kTGx5MWJoTG5ZS3lEMzdQSDhDVjdRRm93UThXaXZ1d2xfLXd3MXFZSk5jUXNyV3VKMjdKeVV0Y2N0Y1lSSFBDMThUaEY5UmwwTGd1cU12bnRXMW9QNVMtOFJFVExjcXktcHNBSlIyMHdWd3J6ekVR?oc=5",
+          "published": "Thu, 12 Mar 2026 07:02:42 GMT"
+        },
+        {
+          "title": "Por que as pessoas estão abandonando os fones de ouvido sem fio? - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aa1dZN3BKb0lLaHREbi1FeVB6SFBKVmRCa0ZObzFOV0xzVDhIN0lvZmh1SHYwM2F3MUxaaGtuWjJYZXRYYmQ1dGRqZmVNM0diSlIzOXBSdF8yOGl0R1oxVjdB0gFnQVVfeXFMTW5pcGo1WXp5aGZ5REkwejdDYjRETUExUFdCZjg1Ujd4aDV1N3EyS1RDZTlQNEl2MlNhY1o1a3dpZUlCOUUzUmljTGRsMWxyQU1McHlhQmVqLVl2VlZCZGZjU3VnQVFnSQ?oc=5",
+          "published": "Thu, 12 Mar 2026 18:37:53 GMT"
+        },
+        {
+          "title": "Daniela Lima: Ministério Público: acordos com CVM livraram Vorcaro da apuração de crimes - UOL Notícias",
+          "publisher": "UOL Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTGxldi1BTHA0eGE2N1FmN2twd3JBZmhMR0NTMHowNzFVQnVjVWc0aW1pM3FOOWYzTFR5aVFGdFdVbGI3WTFyb2VWQ3NHWXlDMHlhUGgwSi1zNzZqYUZtb2JzVzA3YnJDVkxFN1FISkNuaHBaQXpzNHF3RWNJUHlsQnV2VC1xZjJwUTN5bmw2eDl5M1FwY2hxM3ZpelJNRHY3WnlOV3NXNmpDQWFCQ1VfSFdmdjFRYjk1YmFkXzdyVzRucVhOM0M1eXVfU092ZnJ0bXJJ?oc=5",
+          "published": "Thu, 12 Mar 2026 08:30:00 GMT"
+        },
+        {
+          "title": "Nubank bloqueia contas de clientes e caso vai parar na Justiça - Revista Oeste",
+          "publisher": "Revista Oeste",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzJJSzdieGhsRkFHNmRMOUZSM1dOZ1Rqc2RFajYtSkdWdG5GSVVSTnBmbDNHVWI5Z1B5WWFTdWZkdUJjczZtOUMwd203d2hoc2UtWVZMUXlOV1d4NWliR2w4bkhJTDNVZEktZDFPYVZPQmRjTk1ycGtScGdJUWFrLXdoTk9SankzWlRMakNOWThjY0lLQVhtWlFvVzFhZw?oc=5",
+          "published": "Wed, 11 Mar 2026 22:52:36 GMT"
+        },
+        {
+          "title": "Empresa dos EUA paga R$ 4 mil por dia para 'Agressor profissional de IA' - G1",
           "publisher": "G1",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS21RQWp2bjFmcldCYW1VYlRVdlB4dnljUEc5MG93UTNYbGhRNDNOZ0hSb3U1eTFlSUg5X1U1TnlhNnNORzZOQjFlV0QwLVRISGdKNFVja09DZjhWSHRjUTlPTXZsQXFkdzRWd0Nnd3BvbjlBc2xQdGoxLVB5cmpPc3NVM3RudHczZHctQmk4TDF3SUprRkkyamFxMGlvWEVRenFYdzIxeXVOZDhEWG5hNTJmSE40REVrQWR1TTAxWjVaczJ4TEhuN1R2QdIB2gFBVV95cUxQcHFzbDFvSDZ4MnpFRG02b2pZa3AzaUtkbVRMUkJnajBfa2lrVDRYTWp2MWFtdlpzSDJncVRGTEVCVVB5YnV1d0dOMUZqR3BLbnBILU1LQUEwTVJIX1NFU0NXZXhKczh6SklCOU4yV1h3OXlhbHRjUEdwSnh0dG1fUlVmMjZFR0k3R01jOUJfNDl5V0lCekRiTVJKWkR5VEdDeW8tWWdJVXkxWjFVMDEtZnFNbWRYckJha2ZjdVNnX1ZEbDdJZTN4VHBDdnE4U0NjQ2RqWFIxREhXQQ?oc=5",
-          "published": "Wed, 11 Mar 2026 19:44:01 GMT"
-        },
-        {
-          "title": "Stone faz layoff para aumentar eficiência - e usar IA para isso - startups.com.br",
-          "publisher": "startups.com.br",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbWE2T1ZSa3hBcWRvdzJ3Q09tWGNpbU5IN0NLQlJaUTRHaGJweHhpUzJFNlFHenhvMnJMWlVUbHFiMWxWQWkxZS1mMlB3dFJRYnZHbVIxOEtWR0FnaUlkX2x4S1hta0I1Y3pGV1duMGdSWUNlMnZ1V1FvamZ3SzcxQTI4S2o4ZENYR0Z0NnVBWVVMVlU5YjY4bzBYem14bG44MXBoa3B3?oc=5",
-          "published": "Tue, 10 Mar 2026 20:26:29 GMT"
-        },
-        {
-          "title": "Câmera registra acidente que matou Matheus de Brito Oliveira - CGN",
-          "publisher": "CGN",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnd2QjVqZnZ3czlIQUc4dmlWQ2pOUkNKNzFYUmkxekJucXJIV1kySEQxZ1VUMXBUcDBEQ3JsNW1Vd0t3SjJKclI2enp2c1VCeHFfZzlyU1NhNjRGMTRtU0w5TXdVaUFQV1Ewd3lCMjJhUFZoYXFoM2RiamgyaExyZThNTXNCUklDME52YnJtQURyMG94dFJhOFlOTdIBoAFBVV95cUxNcE1oVEhPWWhZSlc1dWF3MjBFZTlCX25KLUZDSlhBa0VBR2JEVGZLUEhGbmZGZXA3bEF0Q1NHeE5feVNVazlvM2pndUZJMGpHVEJtVktpRUFBeV90Yng5S1VBRzAwSW9GeTY1ZmpITzgyT2NlR091YnpweEl2NEVSV1NFZUlSMF9oZzhWcl85NXRoMFljdndDb3dxMG9RbzVP?oc=5",
-          "published": "Wed, 11 Mar 2026 18:32:19 GMT"
-        },
-        {
-          "title": "Começa pré-venda do iPhone 17e, novo 'baratinho' da Apple; confira preços - UOL",
-          "publisher": "UOL",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRGJtQ1VNM2dHcXlwRmFRS1dvZXRNMW94T2F0Ql9iV1U4VFRpZXAwb2x5dlFya190bm03cV9zTHEtbFFka25iOTZOYU5ZNFphaFdwWndqbXY4TlN5dDJVQTI0bEE5NWJWcmIyc3dTRjhSOVd3U2Exbl9hbUhNSmhxNmFOaGtkUUd6MzFoWGxkcWh6ZW5ONmpQeDBEQkhjdmdKZm9laGI5M2hOSWItbFJZUHg3cmNrSGFBa01xVXQ2aWNLVF9oMWtCRGU2aEZMX3BPLXZtTFpybHg?oc=5",
-          "published": "Tue, 10 Mar 2026 18:38:03 GMT"
-        },
-        {
-          "title": "Rússia ajuda o Irã com táticas de drones usadas na Ucrânia - CNN Brasil",
-          "publisher": "CNN Brasil",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzlMLWNfQ0Rubi1VRTZLWDk0NGZDYVJUdFBZTFdIMUFvZlM2VDFQeE5qV3JjWU5jSjVzcXVzWFlRNFB4MGZaekI3Y2gtN0hqeDlnQnB2RW5Yak1OQlhNUVoyaS1uV0U2aXBuTWpvMS1xZWVmUUF2SFg0SlUxSDh6MnY3bTJhdmFlMmF6dE5CMGFROUJOcXRHMS1ZVTdQZ2UtaFcwaw?oc=5",
-          "published": "Wed, 11 Mar 2026 14:46:31 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOajZIeEhNZy16WE9HU0tWNklJWUFfYnQzQ19UcTAtZWJTbTRkdC1GN0hVeHhEeUxNdlRPNzJQUlg4VkRHYUs5MWxNOGVkRkxSVXhhUnBJc3VEcUU3RExuMGxEZGt1ZFo4U0hhZU9CSEwzd1FXRGpySGE4MnVfQldzRUVpam9zM0wwdGxDbXg4aUIySkwtZmpiYXRxLUU5T1d6TENXRXVVMUhiMzkydFR0eHFlb1FCczd0NWlFR3JfTTJuR0puWDNuXzFLRVdUNUtV0gHfAUFVX3lxTE9CR0wwdHl2Mm5WRkI2SmZ4aUxVVnF1T2VMZjgzUmZzWVJDQ2VjMENZbnBCbmNVNU5vZ3RYOVc2Z25MbXJxRl94ZTVPNzFGcndtdzdOem9ZQmNIR2NmenhtMl9UdW8zaVcxY1Y2VUt5amdRQXRwN0RCQzdjZWEzLWpmS3dxM1VRS29GZFh0WElQaE9IVHotc1B2ZXYwQjk4VmdFTTlqWE1UeHE4QjRQdFRLbnhYSzlGYm9OTDBSWU1EeUtSTzM4Z1JOdmhoQXBlSi1ieGFYWDNQU21MN091cmM?oc=5",
+          "published": "Thu, 12 Mar 2026 08:03:45 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Iran's soccer team cannot participate in the FIFA World Cup, Iranian minister says - NPR",
-          "publisher": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vcldaRFZ4YlQ1ZmV6QnBnZkZ5dXp0MTJPS190RGxlQl93Y2NyWmZ6aUNQZnpfanFzVW1NbWhvWTBBTUVRelVDRjhfLWwwNWZ6bVRIU1p1Zmx1aHlCRnJ5bnZ0by1ZZ3MtaVlmZ0dFM0JWSmZ4RF9iTQ?oc=5",
-          "published": "Wed, 11 Mar 2026 19:57:48 GMT"
+          "title": "Why the World Cup Is About More Than Soccer - Next Big Idea Club",
+          "publisher": "Next Big Idea Club",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaV0t3OXQyUHBRMDlRaG5PYkZxZnhOek8wMU1kNkRLYnA3eXhuWjlSTzdlRWRYWU1EZFU2Y0lBY2U0ZnNzQWpLN1RsUG5sQXc5T2ljNEFub2EwWENKSjJZcXRkZ0J6dE5JODVGdHByRjd5SzZwN1VfS9IBfkFVX3lxTE1PRXJrNjVHcGxUd185UE5QWmtkTEIyTG9KOVNFNXYzRldkTWxvbnZxSVVjcUZZVUdtVkU3UDNpSVlrU0VCS2lJd1FHWFJINFNwVWw4X1hrZDZaVHY2SG1pb1dCMmRJTFdRTUtCOThCWWk1bzZxSUFNS09PVGxmZw?oc=5",
+          "published": "Thu, 12 Mar 2026 20:33:25 GMT"
         },
         {
-          "title": "Is Iran in or out of World Cup 2026? Iraq's playoff status? - ESPN",
+          "title": "Trump discourages Iranian soccer team from attending the World Cup, citing safety concerns - WDSU",
+          "publisher": "WDSU",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSkNpLUZ6ZXYyUkhaTlNkZ1VvNmcwVWxJdlp3WXZ2X0dqc0taQnJXb2tBNE9tR1dNeEs3dkVlRXA5dzAyZk9xUWZXcjAyamxlM0w5RnVCdzhTY1VqY3lwT2ZneWt6MTFOdWlVLWFKS01mU1pFQ1ItMEg4YUJjWHpHTnNpSjAyQQ?oc=5",
+          "published": "Thu, 12 Mar 2026 20:21:00 GMT"
+        },
+        {
+          "title": "Trump discourages Iranian soccer team from attending the World Cup, citing safety concerns - PBS",
+          "publisher": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdzNVdVU5cG8tMVhIZ2t3RW5UOF9oVUtudl9reFZjNHhJd2Jja1ZNWl9CTWV1SHIxVmpmNTJkOEQ4aVBpaFRSTnpsdkl1dkNyb2o0VmhZTmFQY3o1NnBFODZ6UDNISV80X1MxN3FPdF80aHJFTk5DeGhIVUZkR2hpcWlYUUVlTHEyYXQxb2dvQnZEbEhxOGJWRlo2ZkdTR1VuekE2YVA5dTA5RXN0aFpSQmdtNzhXbDVrWXB5VWhaNloxdw?oc=5",
+          "published": "Thu, 12 Mar 2026 20:51:13 GMT"
+        },
+        {
+          "title": "Trump says it is not ‘appropriate’ for Iran soccer team to be at World Cup - Politico",
+          "publisher": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeE8tY2tzTFNfZlFNTS1zM094em1QaXFJbUdVM0dkYUhSXzVaQ0UxZVg5eGpkRGUwMGpMRHJBcm84Qi1ZSVVjTmQ3QXptR3FjakV4dmZEX1o4RW5IQ1l0WE5VRzNNZWZ0OWh1eGQybVdPS3RmSjRYNkFkY2JUUVM0TXlFdUZOX0tKMG4tVg?oc=5",
+          "published": "Thu, 12 Mar 2026 17:15:29 GMT"
+        },
+        {
+          "title": "From nonleague to Champions League: Man City's Semenyo joins exclusive club - ESPN",
           "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMTVXZm9hUzZKMWxMZU1PUlNIdnl6b3lCTkY4R3JDNEZQRXgtMzJrcVp4VWZIV3hxellOZDhieHVwc1lCdFhEOFJSNy0zUjBSMnVDZTMxREl0M0pjeVkzU05sN1NDM01IOV9nUXhLSEV4MlhhUHoxRUE1ZUVKa0RRZmdMUm1vMUpnc1gxQnNTWnV5YU54cHJQTDJZaHZyTkRkVXB1NFhfcF9scUlPOFpDWTdpZ0JLNkhkTmc?oc=5",
-          "published": "Wed, 11 Mar 2026 19:57:00 GMT"
-        },
-        {
-          "title": "Iran's sports minister says national soccer team will decline World Cup invite - Yahoo Sports",
-          "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaml2MTN6WVdsRDdKN1B2QjFGOGJtYjcxSENIc0dDMXFPYVo1NE50cUdTc3NuaWhxdVhpNUIxcGFiNGVtTmIzNUMwRkpxWjdXOUI5bmF0Tk1wQlYyVmc5cndTU2lFNW1LMzA5TWtnYzRBejF5dGRXYlhBaHA0WkhWdkRaNkNwcEhGN0t2RQ?oc=5",
-          "published": "Wed, 11 Mar 2026 19:09:03 GMT"
-        },
-        {
-          "title": "Inside Major League Soccer’s World Cup year marketing playbook - Marketing Brew",
-          "publisher": "Marketing Brew",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX3JXckowYTRzTEJrQ0NxNmFXaFN0d3ZpY1psQ3JrZGtVUnBaY1BXc2FiUFRIYlo1VnVINUVjOFA0VEdrV2pvTEZleUNoREc3dUlMek8xUUVpWWN1b3ZkUklOcm9idzVqZjlwSEtGSjBKblJrcDB5ZzFSVVF2M3BJVi1MRnFoTlNsRDFja3ZhWHYzQQ?oc=5",
-          "published": "Wed, 11 Mar 2026 14:10:47 GMT"
-        },
-        {
-          "title": "Lobby group for non-elite European teams proposes drastic changes to UEFA revenue distribution - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDNkTFlFQ1pxdmFkWlZlcHVkME1LQ25xUmNjb1BWMVRVekZzS202NEhuaDloUEFMT21UZ3ZCT0psQ0Fsb2ZiLTQ0ck1id2RWdmFYdDF4al81OVZadW8zb3VOYXU4bS1LcHVJWkJyNUl0UUt5STlHWks0dDRuTTdGazJJWTJ5RFJGTXZaZ01BVlBGdw?oc=5",
-          "published": "Wed, 11 Mar 2026 12:37:39 GMT"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRTJBajJuR0g4ZGsycjZBTWVVY0lkNVo0c0U5ZEZhT2dWTG5QME1QaUdYVXBrWFc4WVIzeW42X2FWYmhWa3Vfa3NmNENWTHA5X2NneWFEUzdiMnNSNkR0OTdjM3d5WnVnUFRWMVRWbFpnYllLRUk0Qmdsc3Z2ek5SRmpBUFdjcVhMRmlkYTVSUEZyNlVpUDYwNENkbE9LX1dMWktoYzNrbmtRb3ZBRURHdldQRmxlYXZQbG5IUVV2YlJsbFI2?oc=5",
+          "published": "Thu, 12 Mar 2026 10:10:00 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Now Yu-Gi-Oh! Is Upset With the White House, After It Used Anime Footage Without Permission - IGN",
-          "publisher": "IGN",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2xiY0wyalB4OEFxaGhIZ3djMVB3cGpLZ1R2cFU0aURvYUp4REtZS2JmM0s4SEpmRUNSZ1VWQ3U1SjYwejFsVjJ3ektYTDZwWUxMME9oTmJZdDd4NkMwQXJ1QmRBcFJrTmpXbk5wUks1a1V0NHRGdWU0VWtSYzBiMkdLbHozc2FoaGNhN05maDdHYW8wUGlGWU5lcGFDd3J4U0NseUpIS1l5X0VsNmJoN0V1aG55RGdWSWc?oc=5",
-          "published": "Wed, 11 Mar 2026 15:39:40 GMT"
+          "title": "Oscar Predictions for an Unpredictable Year - The Ringer",
+          "publisher": "The Ringer",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMEF3bmJxUVdqWUNuTk84cUw0YzlIdHVOWFVpZHdZZ2VaeEZoZ1RoRzlMeWY2YWJMY3U4THJzTC14cWFLT294aHFBblFZZ253dzNlaktXXzYwdEtHdmlNWmJQLS1SUDl0MEtZSFZWc1lWeXdKOElEcVFIWUJHamFVLUVsbVhZSDREaGJaWVBDN0VlMW5zMlRndjloM3pYUHAyV1d5cFZkQlN6SndSdFE5MWFqdDl1QQ?oc=5",
+          "published": "Thu, 12 Mar 2026 12:54:13 GMT"
         },
         {
-          "title": "Can Gen Z Save Hollywood? - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZEdvb01OdDZrakdOM3pTWEVSNnh3Y2RjczhUMFd2NU4waW03Rm41VFdOSXFKbXExbnhPY2lDbEs4YVAyWFhfR0M0S0dja0pEdmU1b3VYYmhoZHVMRjlTTlh1d2p4bzhyTU13UUotY3hiaEZQNzI0YVJ5MjdQd0lNbkRaakdDOU56dno2Ng?oc=5",
-          "published": "Wed, 11 Mar 2026 13:42:10 GMT"
+          "title": "SXSW 2026: 15 Film and TV Premieres We’re Psyched to See in Austin - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02OVVPdks5ZG5oR0NyY2pMMVNUZnFqVHJOX29xMG9sYjZod1p3ZFg3SS1TOHBzWm5qLWRzYjhmSWdzSGRpUF9UR0FPak1hODFCUGJsOVZhaHJPRlJ4WVZ1OUs1dEtEOUI2MGFidmVIVTZJUzVYOVQxbw?oc=5",
+          "published": "Thu, 12 Mar 2026 16:15:00 GMT"
         },
         {
-          "title": "Janet Jackson Clashes With Brother Jermaine At ‘Michael’ Screening After She Heavily Criticizes Biopic - Yahoo",
+          "title": "Brooks Nader Models Bold Bubble Outfit Amid ‘Baywatch’ Casting Buzz - Yahoo",
           "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ25sY3VMNUxtNmxWWjhRUnYyeDQ0N05CTXZ3dGhPUXRmaUFmeTZneEdQclhnLThNZl9XemlaMzFlVGwzUi1rRHYtamh6dUdaelI5Z3A0ZFBiM3R5TW9DWGdSVWtQSFlYVjZsTzctN1I2YWdZc0ljTDNKU28yYjhpd29iVzJ5QVBSa0pIZUNYQ2RjZVl5MVVFNnk2WFY0bTZVV2RUTVkzclk?oc=5",
-          "published": "Wed, 11 Mar 2026 15:31:11 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcGc1QXQ0X3R6bmx0c210SnpwbEJkRHZzRElRNjFQMEtYVDlQdkVnTTJYYl9peHE1XzNzaU9QbWF1R0JJcTA0V1VRQXl3Q2NMOEI2OXJXSll0eHFhamo3THI3TFZoOWYwcXpBWWlQME9ISTNoa2Y5ZFJZNHFIaXp1RFVfMlk5M2dOQ3VJa3oyOENzMWFaQWVSX1RtSWRoblVjeXNr?oc=5",
+          "published": "Thu, 12 Mar 2026 11:06:17 GMT"
         },
         {
-          "title": "Nicole Kidman Shares Desired Change for Sandra Bullock Movie Sequel - El-Balad.com",
-          "publisher": "El-Balad.com",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fZjB5bUdsdzFHci1TRzdQOWNxRVQwZFdHc3N3T0ViRl9fUTdfUS1aeGg1Mkgwc2tGYTI0d2s5NnQtSmVoT3ZGbw?oc=5",
-          "published": "Wed, 11 Mar 2026 18:12:11 GMT"
-        },
-        {
-          "title": "The Comeback Kids: How Mike De Luca and Pam Abdy Dodged the Axe and Ended Up Owning the Oscars - The Hollywood Reporter",
+          "title": "Live Nation Employees Brag About \"Gouging\" Fans In Private Exchanges - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUJzMFZYODNSRnNnQV9PODZ4WmduUkRUcXFXY1E0UWlOcUVtYmRGWTFmNFVGQ184QXVHaEw5ckZ3U0VkYlFsNDZrWFdTelREMlNzMkU5SFhCeVhzZklOb3JuVXNMTjNDa0N3ZVBWZ0tpLXBaQlVwS3BySFVTd09OREF1VmN6OUktQngxZjVhMWJhT21HWGF0ODgwZWxqREhJbW05VE9Rd2IxcmR6MTdjTQ?oc=5",
-          "published": "Wed, 11 Mar 2026 17:14:40 GMT"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUFlqS0t6S0dETmN6TGVNbjRZZmJHWEdvclYwZnF3d3NicXV4SHVPQndMa0tqTEJTVFc5V2poWUxRUTVRMHNrbFNtUjFZd1RUY1BUS2RWTlpNazNxZ2Vud2hqMzNRYXhnUlVKcm1TR0Rxc3BFV1NLdUZHQnM0QzBhSnlTU3RuMUR5UHdHXzFlNzdRb2I2OVU1WDcwTE85TWZRVUJBTE85ZlVqVkcyVnFET0JqbjlmOU9GWnZHRmRZTFp2bmo4?oc=5",
+          "published": "Thu, 12 Mar 2026 17:22:11 GMT"
+        },
+        {
+          "title": "Celebrity chef René Redzepi resigns from Noma amid past abuse allegations - Los Angeles Times",
+          "publisher": "Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbU5vemNYMEtIb0pVdEhxbmpoakMzVW9TclFTSWE5UXBwT1B3cVFORmptenVHdFZiRzBKLXgxTmpZV0ZsYklJZDBmX3NubHNXRkxpWlZfOExfalBmNkJQSXZQN0c2UmVQdHlrQ21nY3NYa1RTaGdhbkpfakMzeUc2N2NZdnViSGdvUWxQZkEtOC14WUVlQ281TFB5aw?oc=5",
+          "published": "Thu, 12 Mar 2026 21:03:00 GMT"
         }
       ]
     }
