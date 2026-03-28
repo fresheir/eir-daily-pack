@@ -1,7 +1,7 @@
 {
   "market": "NZ",
-  "generatedAt": "2026-03-27T22:30:56.944330Z",
-  "validForDate": "2026-03-27",
+  "generatedAt": "2026-03-28T22:28:26.649547Z",
+  "validForDate": "2026-03-28",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,10 +9,22 @@
       "label": "Local & National News",
       "items": [
         {
+          "title": "Auckland fog causes widespread travel disruption, 33 flights cancelled - nzherald.co.nz",
+          "publisher": "nzherald.co.nz",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdlM2VEphVFdRLUhrT19LWE9oaVlVX0ZXWFFXdnQ4YnY0dTRqOVN6Wl9mXzIzajlCTVhhUVNRTWR4bURaMFptRFRyblVFMk1hQWpZVDZ6eVRqeGpMSko2N0FOMV9sR0NCMW1Ib0p2RkVTVU9YN2VhYVVaWnlmTThnaDVmeFlmTy1xRFYtVnBnZ0FQWFR2a3lOVHU0ZUg4dUdnR2tkd3lQNVlQMnlfdGdOemNn?oc=5",
+          "published": "Sat, 28 Mar 2026 21:55:46 GMT"
+        },
+        {
+          "title": "Crash at Beachlands Speedway claims life of Dunedin driver - Stuff",
+          "publisher": "Stuff",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGJ1RWpnQ3VaTWFScmw2dERjdXRHZDVpN243VmpTQVl4QUl3WEFOb2QyTERTdEVsRWFDa296UmMwWVA5WXgwX0xXVERQRTVEdldaNzFVbWdHTTFVai1pVjMzb1A1MTF6bUd2dS1RVjVfTy1TQ0JoVUliekpvWUExYXBZcnBYTlVZZTA2U1AzbVhraUw3cnllQWhR?oc=5",
+          "published": "Sat, 28 Mar 2026 21:02:59 GMT"
+        },
+        {
           "title": "NZ's fuel alert system - what you need to know - 1News",
           "publisher": "1News",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdldnNWJRcGVnaFBwNllwLXUwSU9icjB4OGpLclhJa054R3pjRWFEVDNMOGxOVGh3Y3VHb3Fub2JXb0JBV0k4clFsYVh1bmgyUG03R25pZENMNFR2RFRrUTFMd1JTWGlTTlNWZkd4OGNyUnlXUUVNR21pNWNGQ3VDNVZsUGxQZw?oc=5",
-          "published": "Fri, 27 Mar 2026 20:08:56 GMT"
+          "published": "Fri, 27 Mar 2026 02:01:25 GMT"
         },
         {
           "title": "Weather: Northland in the clear as sub-tropical low moves to Bay of Plenty and South Island - RNZ",
@@ -21,22 +33,10 @@
           "published": "Fri, 27 Mar 2026 19:03:39 GMT"
         },
         {
-          "title": "Four injured in Auckland emergency incident - 15-20 police cars seen - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSEQwT1FKaFd5ckZrMFhjQUxielplTERMTF95N0NiX0NBbTVVbTZlTHNtXy1DQ0xVVmRqaF9BcS1fS2FXdFVtRGtqdTJOdEY4cjNoc2VFSjE3dTktQWpSWHI3XzhtVUd1SU9laHFtVV9oY1RlREdKOWxpcUViSUstYjlQVDFUYUNieW4tbHVvWVAxY2NTMHBlWF8zNEM5eWpnNXdzSnVoRmFNY2E0aXg4S2RQY2NlWklNTjhnQ01mN0hRanZ2SHBIZUw1dnhmcWJ6VEFj?oc=5",
-          "published": "Fri, 27 Mar 2026 10:20:48 GMT"
-        },
-        {
-          "title": "Distant conflict, local crisis: Is this oil shock the wake‑up call NZ needed? - RNZ",
+          "title": "Two people injured in a house fire in Burnside, Christchurch - RNZ",
           "publisher": "RNZ",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnkxbUxEcDBqQk52TlNtd196Ti1SRFR2OHVEOWpKTF9GcnMtaXJwdjVSbVoxOTNZYTVpZTBHZkp4bmlrbmY3Zy1GSjIyTUF1OFlleV9sNlRaSUh4WGkyQXVqdTRhOExLajRlOHpCN1V5d3pRdnluVy1JN0pBVGdDT1dyTkZpdHduNmpaNXkwUFN3WnZ5ZFc2Zks3NVRHTUVGck83TkRFNkduQU83blVtcXdnVjBvdkky?oc=5",
-          "published": "Thu, 26 Mar 2026 22:12:30 GMT"
-        },
-        {
-          "title": "Communities push back against proposed alcohol reforms - RNZ",
-          "publisher": "RNZ",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMEJNX0Z5bGRlRlgzeXltU2ZLMFk3SzN2cnFJVXZPVnRLekNITVlid1dmR24xUkxha1RWNFpKakVQc2pIR0NpWVRRcE1mRFNtdkFWMTB3RXZ1ZVgyejc0TDBDMHlEdVNvZkpjYWtfRHFncXpLanp1anhrOE54bXliZzVsVTg2Sk5YMTFLUzZSdGp0dC1BRWxKWU9idnB6QQ?oc=5",
-          "published": "Fri, 27 Mar 2026 15:55:17 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWtuRDhhZEctOWJILTBUVEM5bVQ3UHZKb0tBejJ2SW9xNFo3a3Y0VTdfNU40Z2oyREJfcFIxeXIydVctZFR0LUxTTTlFSGN1R3lrNGZHRnlmU0QtUVRxcm0xZWc2MUFlVjdKcUhrTnJTY0xnYXhnbkQ3VzFTejlCWmY2b1BaOXlId18xSFNWZmI5UmRCNVp0bEh6eHBLQ2pKRjRhUg?oc=5",
+          "published": "Sat, 28 Mar 2026 03:05:48 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "'We’re really worried about what they call blank sailings': Warehouse boss eyes Iran conflict threat to stock, costs - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVDg1M0tGYUtSMUdvQTJTejRzWlJuMms1RmphNU42U1BlNE1fQzRRRko5N0lGWEVaYy0zOUJ6TFNTbnVMQ0VnU2dmS0E5UkJ3bG1XRHhBWnQ5ZTVxY3RVVEN5STFYWEpac3ZjSGE0LTJiVEx0X0E4VkotTFlqb2xZOW13SDgxalBXX3pXcWFPam5waVVtendwTmdBUER4YXN5Qm82TElRNVpUYWNGVGRNaFlhUk04aXNfMFc1QjRYNU1pTjNVRjVzVGdMenRpdDZma2w2ODh1MmxYVHJiN2JXUldRVHRLRUthLTctTHR5VjBnRXNZdk9pTlFmU0o?oc=5",
-          "published": "Fri, 27 Mar 2026 04:03:46 GMT"
+          "title": "Fuel crisis: The old friendship that could keep New Zealand’s fuel flowing - ThePost.co.nz",
+          "publisher": "ThePost.co.nz",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmtzdFdTRVc5bDEtY0haVnRwdnQxTURyLVd5S2VFaVpRNVZ4OVBsbm5FZjczTTdSWEExSG5QbkpHaUpTUXN0RFU3ZlNjSVRxSDB1RTZSb2pGbHYyZ2xvYlF4RUlsNEJkZkFNUUZOdTNmRXNfMVNITWdDcHhGZVFMQkMyd19BTmYxXy1JeTZzdkFNaDhXNERKdjVDMzZ6S3Y3TEtTZU42UnZWRUdp?oc=5",
+          "published": "Fri, 27 Mar 2026 15:00:00 GMT"
         },
         {
-          "title": "'Surreal' feeling as snow falls in March across parts of New South Wales - RNZ",
-          "publisher": "RNZ",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnlCNGZlM2JraUtQdkVFZ21zNXFvYkRoRXd6Sy02SjVLSEVmRUNFYVh2bU02dUJrc2VKUmFiTm9hM29iT2xQUTcxbW1NVWNvM1V3d29rSF96N1hyc19vam90cUM3YmlYRjdvenpKbnNRMXRFeVh3OWg4ZURQeVhfWktKOUZWbU5GMWpoZDJvRldFNnpJWjlxVHF2Z3JoMG5lLVIzMF9vTzk4NjR3aUFj?oc=5",
-          "published": "Fri, 27 Mar 2026 00:04:39 GMT"
+          "title": "Rabuka and NZ PM discuss global fuel crisis - Fijivillage",
+          "publisher": "Fijivillage",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVEhPYnZrSi1ZbFpUUjBrUHBOSUNiRlRFbE1UUXg4TmlJajhWUnlVMkM0TmtUUDJual9NOTcydW1wUThWNzY2aXYtdUhiWV8wc2hvNGdrWTlqbFVIVDNMeDdBZ01FajVNWnlPNUhnVENFVGEzanZNdjJyekJlcnZDYmF6NndXaWc?oc=5",
+          "published": "Fri, 27 Mar 2026 22:22:26 GMT"
         },
         {
-          "title": "'Be independent, principled': Meet the MP who wants to be our next Foreign Minister - NZ Herald",
-          "publisher": "NZ Herald",
+          "title": "'Be independent, principled': Meet the MP who wants to be our next Foreign Minister - nzherald.co.nz",
+          "publisher": "nzherald.co.nz",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSkZKQWJYczVPR3NTVGoxbDhqTEt4MDF1ZkJnOVhwMklIZ0pEektkdENvb0F6SE80elpGMWZXS3lfNjFrZU1zWVFyUzdmM2JRdW5CQTJkOHN2Rlg2enpOT3RYODZLWjVWRm9KMHE3YTJyb0JEYWZGMnZXTXJWZlNCQTBpakhvRkMtRllSNHRPTE45aFFCSDltX21JUU53N1d5b3VMVWI0RUt2dk5vczQwTEZKeER0QXVxdTRrWXJLNkx0ak5BRm9ibGtfN19FUmVSSElhcDVmcFZUWUlPZ1RrWlZzZWx6VnZBck8tNTRjcFl2WkZKeXc?oc=5",
           "published": "Thu, 26 Mar 2026 23:25:32 GMT"
         },
         {
-          "title": "Firewood scammers leaving Canterbury buyers out in the cold - The Press",
-          "publisher": "The Press",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNXFpLVJKQk5iNk9PY21pdFVPMWhncWZqZ190TjlkLU93b29KUXZ4aHNRazdOZEdReVlaUmE0TXlld0w5SjZ1cllrUVQ4eVluNXZVaDFqT0Y0MUJjTENBV3VUVkdJZXNFS0c1YkphMjhhTklZS0Z2ZHdVT0RrRGR2WXhpbUU4bjc3ZHBEOGh4bldwaDNyRUpqaXphcVFUQQ?oc=5",
-          "published": "Thu, 26 Mar 2026 03:30:27 GMT"
+          "title": "Fran O’Sullivan: Why global trade shake-up may be WTO’s only lifeline - nzherald.co.nz",
+          "publisher": "nzherald.co.nz",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWEM4ZXFPRXlWMXpZNC1RMkw3cXJuaFh0QjR4ZDFyQzE3SUJrMkhDLS1TenZ4TXhPMjVXdi1HU2JWbjhqWXRJRlpoTkNXa01Qei1SRF9GX283R2lnV0NrM3VwQnZBdmpGMTlpaTNvSXdiQlpmRm55bGtkTmFkUHB6clJLMVdLSklSZXdrTlprT1Myd2hLaWpEUnd2OGhvSHdqam0wY2dZbHZ5bnV5UjVxcmhZTmFzdzlGck1MUWw1alIzNkt5UGY4dlczZWFIaWdQUjI5VlFTZGtOZ3FYajRtU3RuNW52NFBsbXQ3bE1XZktOSXMyelNKNHluVkZDMjNXNjQ4?oc=5",
+          "published": "Fri, 27 Mar 2026 20:02:17 GMT"
         },
         {
-          "title": "Daylight robbery as time clock stops for Australian shift workers - 1News",
-          "publisher": "1News",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzV2MXcyZFJJYW9OOF96TUI4SklfZloxZnNpRVFIT2UtVndyMDZsOURUV09IaTJDT0FyY2k4cFotb1liSE9XNUJWVFI3Nld2cF9iemxwQnhpR2pVNHJIVzdPX3M2VG4zU3pSS0pfMElvY0hxWXVNNTZGV2RBZUhJV2taSm41Si1KbC1lTjhfSUdYOERyTlQtNjZ2cmhYeVQweUhF?oc=5",
-          "published": "Fri, 27 Mar 2026 20:58:50 GMT"
+          "title": "Fiji honours late statesman Ratu Epeli Nailatikau - fbcnews.com.fj",
+          "publisher": "fbcnews.com.fj",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMXBubFVsbmp5UjhKR1dDclNYbGdqRDBKcE1HRkd5eGFsSDh4VENCc0l3bGdNSUFycU9xRGpwd1AtZ3FLaWZodHRLMFFNUnl1UklkaFYwMlJhR2hOQ2VTVkFaaVRXdHRzLUtOVWlMM25WS1JscmtYOGVmM2RFS09lRjJyOXlSVTVhV0E?oc=5",
+          "published": "Sat, 28 Mar 2026 10:23:54 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "‘Oil for lamb’ and panicking pensioners: How New Zealand weathered the last oil shock - The Press",
-          "publisher": "The Press",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbndUVnhDcXVzNWxsdng3dmozRU11eF9PQXJ2Ti1fZnp6ejdCZXZkaXprTHpmUnVMNFVIYV9vRnA4bDdXam9oWERaRVQtdzN0VGk0V1hKWGpBaXktTUFCSDJFNFdQSmcwX3RWWHBucV9INVRzUDcya2pRSHljYlJGaDNGbmZvSTItOWtlczFvUl9YeW1HVzQyOTJ2Vnl1c2FSbnJoWjAyRFlubkNENEwyRDNTUm8xdEwyT1dz?oc=5",
-          "published": "Fri, 27 Mar 2026 15:00:00 GMT"
+          "title": "Liam Dann: Recovery set to stall for third time in three years ... here’s how we should deal with it - nzherald.co.nz",
+          "publisher": "nzherald.co.nz",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX3RvZHQwQ1BsUkRqOWU2dXFVVnRRd3RZUnhvOEZxd1pEYXVoNkdXR3phaHltZTlSOF81YmVNeTRTWUNmZGo3VHdJbkdYS2N3eHZueG1tZHpHWFcydGw4R2tMZmhRaDJ0aEw5bTRVOUZfUTBSaU1XS2ZUZnVBZzlmQmd0NXlnbUMyb2VtZV81ZDB1NEZodklHX3B4eGwzNVV4ODZqLVhUaWNoU2k4d2ZHXzNzcldzUHI5Tm1wMlJRSk9DX1RVQ1IzUTRweGY0R1hzSWgyZXBSNWlSdklTWlhPZXhBN2hOS3c4Wkh3Sl9MUVVQemw2ZGVlRw?oc=5",
+          "published": "Sat, 28 Mar 2026 16:06:25 GMT"
         },
         {
-          "title": "'Seems a bit crazy': Fuel-reliant farms running dry - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNUNaTG5qQ195eFltbjVUXzgxWUpDdmN2aFJuTHFUYl9iRmp1X0lHLXRTaWVVcUpGa3hjbEVuNEpwSU9JUlRGZnRPdTBxbWFnX2JUUGdubU1fSEYxWmlJdFpISF83Y3hrdHN3V0xzaGhxVjh6TzNoVy1uTm9RRXhvbno0eVlHdmN2ZWNFU0dIckNPNVBxTVFYcGUxUGVGdEs5UXJkSGpGSHZIaGpfYlpnTHFhdk1rSVYzYmdJbFBmLWV0WEZUaUtuT0dPQnZtZklkZFZ0cGRMUzZ5RGQw?oc=5",
-          "published": "Fri, 27 Mar 2026 03:33:20 GMT"
+          "title": "Ford EV problem 'couldn't have happened at a worse time' - RNZ",
+          "publisher": "RNZ",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUTE5MllGRDZrZVRQLVNaWXhXYzc1eVRMbFpJbFFVVm5LOXh5dWRTWm9FbU54enJLZTZJNVlUNm03UHlQc3hqMzF0UUp5UVJ6Um9EcVpVZ2x0NDl1Rl9penplVFlEWXpxeGNyNW1qemowWFhtbl8zYUJxbnlaMVNOMVhUcmJMbTMtQ3B0clZLTWpxaTlsZXM1b2d3SG9yZw?oc=5",
+          "published": "Sat, 28 Mar 2026 09:41:22 GMT"
         },
         {
           "title": "Heinz Wattie’s confirms closure of four NZ sites, about 300 jobs to go - 1News",
           "publisher": "1News",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXl0LVZ6QXBmZGxzWkp0eGRYbmRZMzBaM0ZyWFJQQk5aeFIzVXJEVVVyZ0d6Z3hVenVYYW16RzZSbjlYMVU1YTVJR3NIY2dKY3hrTmg4UVM3RFk2U1c5TUQ4Vm93WmxCQWFCVlRvNmswWHllU09UZ3hWbHRYbVBMNWVnOV9Wd1IydnV3bG5zVW9VXzlyMktEcmVnSFdQbXlwNW9JWkZrUQ?oc=5",
-          "published": "Fri, 27 Mar 2026 21:51:35 GMT"
+          "published": "Sat, 28 Mar 2026 22:07:26 GMT"
         },
         {
-          "title": "Couple's old car journeys come to a close with generous donation - RNZ",
-          "publisher": "RNZ",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEU4eHd3bFlpaTNGQVVpdTdHTFAtenNrM0RsZU14dW96Y1VidF8tUmRERjE0d1NaejVrMW1keTF2WU9TMDNMbVBQbHVkNVdiYXdPMUJURkd1N2hfQnE4dFluM0htdkkwSDctdHU5YTVzaC15dXBXWml2bzNiem5PenBpS2ZfdVJfZjNJckhsRkVCQWhXQzR1Zm5aTDN5ZWc?oc=5",
-          "published": "Fri, 27 Mar 2026 16:06:26 GMT"
+          "title": "Economists end week with plethora of warnings over Middle East turmoil - ThePost.co.nz",
+          "publisher": "ThePost.co.nz",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGVia0tQa3JnVUpVa2xEb3l0ZW9Gc0NIWVhTcnZsREJCck5GR0VIWTB6UDl3SkdNQjRUSVhEMjEtdXZ4T3kyZ2otbFhvR0lHTmNqTXRqVTZrNzJMYU9SeUZnX00zX0RDalBRNzBQSTg2ai00Nk9hbjh1MHJ3R3g4VklKTFZyYlNzZjdFUUZ5Yk9LODNVaU9rMXlHUkFBeEg4Z0RlREp0TkFZMU0?oc=5",
+          "published": "Fri, 27 Mar 2026 07:15:44 GMT"
         },
         {
-          "title": "Why economists are 'very worried' about what lies ahead - RNZ",
-          "publisher": "RNZ",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclMyZ1FTcGpMNW5tWUFZMmItZ2tYOFo4QjE5UVdHVUwyZFFSWnBtendPb08yMVhUN2F2TnNpbFNQdHc4TzRIMXo5Z1JjN29RQ0NjMFRmTmprSDEtMEg2OEp2TWxDVjVadEtCRVR2SU5iYzdnaFQwbGFDanhFVGtROE13TDhuVVBXVV9yS0RqTklJOFE0d0NpME1ZMV8?oc=5",
-          "published": "Fri, 27 Mar 2026 19:51:48 GMT"
+          "title": "One man’s difficult journey to disconnect from 'creepy' tech giants - 1News",
+          "publisher": "1News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkppQTExTXVOOFpCd0hWR0ZQMk1VdVJsRE9VX3gwRDlmZU9KYkwyMkJIbDVCMEJmbDBkM2liVndHRHV1bkNvaENoRnpmbm5HaEx1Rk9OM01vNUgzY1NfR2ZjOTl6SXVsVlNkYkpUbEVCWjlGZmNIYlRvXzVuelhfNVU3WDZJRjEwcXJaTldtV3NyZDhUd0UyZ2F5bTBzT3RTWWc?oc=5",
+          "published": "Sat, 28 Mar 2026 21:10:01 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Warriors player ratings: Veterans struggle against rampant Tigers - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOcGgzalZRQktTRVVJOFRqSHpYb0tGMVZJN1RQMGJGaTRDRHUycjNJd21aQWtiLU1sRzNxdUpUYklVRzhCSnRlVVVHSmRZM1ZlT1llaVZZMzkzcmY1ZmhBSmgzLTB5S2xzRkY5Ym9fWi1mSGZJckU4anV6NzdFci1jWkphTUZqUUJNblN5WlNGSVRCdXJaWFNYZS1iUkFDTTJiSnlQbEFhc0R1MWJleWk3OWh6NDVjejBEVGJkUE9VYmxiWF84NHFEN0IzMWpNVTIyLTFpY2wwN3cwd3BRWmljRGd2UUFyZUs1VFMyZTNJX1ZfUWpEMkU2ckhmMVVVdFE4M1lNRnowWHB6Zk9DR3J4Y3VuTQ?oc=5",
-          "published": "Fri, 27 Mar 2026 19:01:03 GMT"
-        },
-        {
-          "title": "Recap: All Whites go down 2-0 against Finland at Eden Park - 1News",
-          "publisher": "1News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOW9pQWg1STlGS01jcllxLXNfSE1hWlJxYUxQblZSYktXQ0hULW8zLWlvRWpxNDVSLXNyUVhTUnZCMlhkVXNFS1c5UnVsY0IxYzd5cmk0RnVmQzlUNWphVEJwRXlCT09mbUw1bTJBTnBMeHJqWjJiazZEMGlCaVFmR3NEenlac09wMDRLTUl6NG4?oc=5",
-          "published": "Fri, 27 Mar 2026 20:55:18 GMT"
-        },
-        {
-          "title": "Christchurch's new Te Kaha One New Zealand Stadium opens - 1News",
-          "publisher": "1News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ255aVY4NU01eXRnVkgtNEZZby1UOGVkLS1OMHB1Tl9nRThBWWl5dUxGQmNydEQ4MzhfVFNhR0h0U2U3bjNJYkZ0em9TaWV6Q0F2T3U0ekNSckdZaFN0a2JTd0h0LW0xUXc1cFhfLUg0ZjJnV1JoWnRmUDRFZWJkbU9kdmVaOWRlNmpYYnVYa0hVeUNPcGc?oc=5",
-          "published": "Fri, 27 Mar 2026 19:28:56 GMT"
-        },
-        {
-          "title": "Moana Pasifika v Otago Highlanders - Super Rugby Pacific - RNZ",
+          "title": "Live: Super Rugby Pacific - Blues v Fijian Drua - RNZ",
           "publisher": "RNZ",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUkRfd2l1dUR2WDRqVHZyckN0UVB3ZGNtdWlIVm00SXFrU1RQVzZ4VTROQzduZmxZUzhrNHlYeDQ3R1pXeGEwbGtDSjBaZDVnOV8xV0xqTzhXc1d6MnBtNEYxMHFRaFVJYll6LXNFRHM3MkktVDU0QWZ6QlhmVWctX1hOeW5sdjY5U1pXWkVzSG9aMjRqMWJN?oc=5",
-          "published": "Fri, 27 Mar 2026 06:01:29 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWhYRDBTajZuSlhadGZUcnJyVmdzYkVKYS1CMWI3ZXJSaVh5alFxZVNKSzlZSThqZ3JPWE1vNU9RUFgzVTB6dk9Ha0NCZ19YME14TEQyTGlwUl9aX0M5Y2pkbDc2MEhNMVM5ZWVGZ2JoNWVGYjl6QmNoOXQ4OEV6UjdtVEtTRko3QjV5cA?oc=5",
+          "published": "Sat, 28 Mar 2026 05:21:45 GMT"
         },
         {
-          "title": "Golf legend Tiger Woods involved in rollover car crash in Florida - Stuff",
-          "publisher": "Stuff",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3ZLVEM0bGlmNk1VeTkyZkxlT0tzWUllVy04bm8tLTZoRE1RS3NsMVpaN2sxbktXdWRnSTdBWTlEWk11ZnVtZWlYYi1iS3kzWVRWeWliWnNRb1JwUGF5Y0NiZG1pM1h1T3YzTlFfd0llSFpyZXc1UHAtQkdqeVU5TElObGRQUjdmaG0yWEdsa3NtWlVucUNiSVVNa3dzV0xX?oc=5",
-          "published": "Fri, 27 Mar 2026 19:37:52 GMT"
+          "title": "Formula 1: Kiwi Liam Lawson to start 14th on Japanese Grand Prix grid - RNZ",
+          "publisher": "RNZ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVjFfY2VUem5maUYzbXoxRF9QZ3JzdlIyZEIxRFVSSUltVnQ3ZTNseWVHRlZiUDNROGNSZklsQndnbWhBbEZkd29VZU1ERUNySWdybTNlRHhTSU9XamJCUWtKbHhzTFl1S3dYVl9wS2R3VUR6SGxpQTFwYVZ3NjZDeHRGVEFRYXNvclZQU2ZwMmtDbXZicmxqLWJTamdOY0pBbmJuQWozNUtrMjcy?oc=5",
+          "published": "Sat, 28 Mar 2026 08:05:26 GMT"
+        },
+        {
+          "title": "Tiger Woods released on bail hours after arrest at crash scene on suspicion of DUI - 1News",
+          "publisher": "1News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0lvdjdQR1E3QjdoXzNVNGg4S09NY0wzMVhDNmxRXzRxbl9KOFdCR1llUEw5WlpCeVp3ZFc4NFdVdTE1aDhVU0t2YVVWc1JmaDJlTUk0WWZpX3pORTU4YzBKSU01eWdpaHVZLUk3VFNyX1BJbUNmOG5oVjJqQkFLeVg2bXFnLUhzS1RkUkNTRHlZS3VHQnVqNHFoclRrT3dJbW5z?oc=5",
+          "published": "Sat, 28 Mar 2026 21:44:13 GMT"
+        },
+        {
+          "title": "'We didn't have the fight': Flat All Whites outmuscled by Finland - nzherald.co.nz",
+          "publisher": "nzherald.co.nz",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS1ZWQ3VtbVdmVDVoSXBHdjJySlhTQ1RZVW42eWE3ZkJqUHRIRkloUjROdktGbjZidUdxQ3RiZWFkMkdTV0VaWktwRUpKWXJKbHlsR0dEakdvbXJHWmJBdTBob2RRMmxLTmZHUkxPQ1V1ekVqTWsxVU9VX1RlOW14elozYk90R0dIMWl4dFpjcVg5eWZBMjdIODBqZV81MGZ6OTBHQzNSS284TG91VjVRTm9MZ1lYdFA0c0lzYU5SN3R0NEwxTUQxTEVnd3A4S21OaHFCbHF2dGRQV2w3ZXdldlA3ZUZsaHJPTVE?oc=5",
+          "published": "Fri, 27 Mar 2026 23:23:18 GMT"
+        },
+        {
+          "title": "Hurricanes vs Reds takes: Hold on, Hurricanes; Newcastle got a good one - Rugbypass.com",
+          "publisher": "Rugbypass.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9BaF9kaWZsUTRIY3E3ZFFWLWpnRVVOdExsN3lfeG9UWF9LRDNoWnIxWXp1b3k3OXYxTmlBS3ktVXItMUhGY2FpaWVxMzctUnhXWGRXYUJXM3lYQ0hkUXBQZkJfZHp1TDc4dDBoLU1PbEdRYlk4ekJ0aW53bzU2SDNsM05LcmlhX1hQeHVEV2lYMWhlUFlZUmU4dDBlVUNySFE?oc=5",
+          "published": "Sat, 28 Mar 2026 05:54:52 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Six-figure NZ price announced for five-cylinder Cupra Formentor VZ5 - Driven Car Guide",
-          "publisher": "Driven Car Guide",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ01QbEp6UGxfeTAwS2V4SEtjMF9XaWxCNVFKNXhtM3A5cFFYMXg2LU5mNlZONzBrZ2U0NUgxdFJLU0NBb2V4Z24wMHFzdWdUR2FIUGJia3NHMERXblJOOGk0VktIN3hMVWZoQkRXeDRoMHBlVy1HLUZvUDFjelREMVZXUmVqSnpLRGNNU2x0eG4yVVZ2dkdiYXA1U2Y5N3dSa3lTU3ZKaV8tQQ?oc=5",
-          "published": "Mon, 23 Mar 2026 20:41:47 GMT"
+          "title": "Kiwi ingenuity taking the danger out of weighing cattle - RNZ",
+          "publisher": "RNZ",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWVFbEw3NlZXNm5TWDVlS1o0LUtkbWxwX3BOdFdnNlRud1Zxd3BIVlk4LTZVVzN4UW5RN0J6NEdqMjl6NFMwVFRlT3pKQV9DWGQxSEFNSktkaUd5Ujl1SW1rSVBqdTVmVElIa1pHR1hwZGRYMXNDNTRRQzkyVVFOeGdvQ3VMRmYxN2VOLW5waEdadE5MM3ZhQmowRWRkQQ?oc=5",
+          "published": "Sat, 28 Mar 2026 00:49:34 GMT"
         },
         {
-          "title": "OpenAI details Sora 2 safeguards for likeness, audio, and harmful content - Digital Watch Observatory",
-          "publisher": "Digital Watch Observatory",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5obFBLR2tfaVQ5TjFaRmtxem9wNHZuazNOeUJtTlUxZW5ZS0FmbHBsRlpLVmZRMHRaQUV6eXZtWG5IQVJxTVdjaGxDZEFTbkhWbE13bS0zb2ljYTVBWXphXzl6NVJFVFVwVkwxVVdsSlA?oc=5",
-          "published": "Thu, 26 Mar 2026 13:45:17 GMT"
+          "title": "Lamborghini Temerario looks particularly dashing with 7Design aero - formacar.com",
+          "publisher": "formacar.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fSkRocHdrMHh6SWlyOENFXzUtWUI1T3gxREdUc1lNWEdyOHRzcWNjbnVPWXZKc043ZEJmOXl6WW9ZYXJxTFVCSk1OZVpUekFaQlZwbVo4NVZpRUx0TXpFY3RFeUdiaW9USlA0SnMtQlMzTkJQ?oc=5",
+          "published": "Sat, 28 Mar 2026 09:36:51 GMT"
         },
         {
-          "title": "SP40 Speedster revives Edsel Ford’s forgotten icon with V8 power - Driven Car Guide",
-          "publisher": "Driven Car Guide",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekhKeTRYaFZzMXVTRmVHUUViU3B2TXpjOU5lMFJHdzVKdXk2bEttUm1Udy1tNXRrb1AtNmxvTjlkbl9NOV9ISmtjVGN6WmlEenM2NXpEaktyTHVOLXotcU5KSlU0T3V4ZnJJeHgwNnc3ZjNxXzJYSnR0cEtDTUhpaGtVdWJodFZVTEtrTHJoeUQxNkJ4eEpHMFA2R0h1TUZLOUJ6YWF3?oc=5",
-          "published": "Tue, 24 Mar 2026 15:21:39 GMT"
+          "title": "Ford Model 40 Special Speedster lives again as a restomod for the rich - formacar.com",
+          "publisher": "formacar.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hRXBFVWprcHFXTmkzaUQta2pkXzZZem1LWmI0S0ptRC1Vdzl4Z0UycWUwdmNSTVFQM2ZSczFrWENEZUJUREs2TlFQS3dkTlpZeFpnOW14VURnQjUz?oc=5",
+          "published": "Fri, 27 Mar 2026 15:27:29 GMT"
         },
         {
-          "title": "The agri-tech startup using iPhone 3D scans to weigh livestock - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRXZQV1JHUzdqdm9HSl9BaDVRVTV6RnpMUVpFWGs0czVhY0pCb1dvXzZDb2Y1YTlJWmhtQ0puWmI0eFpmSDdnX0NxclZlcWczc3N6Y2ZKMHBIVkRoZ3JWY0VJSWR2S1A4UVlzbnVqVnduNk50TFRhb3hfR1R0dE84MWJVcEp5TTZsOUlBLTVFR0tXMWVaQmgxZU1TRXZIc3duVnBjR1Z2ZU9SM2M4eVM2R0tvYmdQZTRpMDJWYnRwT1FHazJDQWxmM2ttZWlHUGFJV0F6VTRzajNmN0R0NG1ZZXExUGNtWk5V?oc=5",
-          "published": "Fri, 27 Mar 2026 16:02:23 GMT"
+          "title": "Apple's M3 iPad Air (256GB) gets a free cellular upgrade during Amazon's Big Spring Sale — save $200 - Mashable",
+          "publisher": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQmdWR25SQjdUUTllcW8xbUVGOFFRUVBrV3lmNXBLYkdzd0I2NFIyYzIyOVE0d3dLdE8yUHh0d1BHUmhTYXEtRDlub3hBZjR1VDIzNU9acndXa3hjQnF4UktsN1JJc20zT0NBal9WN0I1TlNiQnYwWFJIUmJoM0lVLXhuaTdHQnJKX0NhbG5DYmc?oc=5",
+          "published": "Sat, 28 Mar 2026 18:39:12 GMT"
         },
         {
-          "title": "STO style without the badge as Temerario gets carbon makeover - Driven Car Guide",
-          "publisher": "Driven Car Guide",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSElxMS1vLW44Z2luQjZfVG9XeDJaRmtyQk42T1BMR050Nzd3cmp4U3hsdVFkOV9uUDBHc0xicUNFUlBiY2pKVmhYN0ZTSlM1cjFWR2ZfN1JmQ1Vud2RXLTNSeURJN3p6b0NISDlZRlI1anpkVmUxVVpYWG9WeUpnQndQT3pFR2RLeWhEWml2TE5oZm5pWnpoYlFVRVJnam9ZUnc?oc=5",
-          "published": "Wed, 25 Mar 2026 03:58:55 GMT"
+          "title": "Face the F5: New Cinematic Trailer for 'Funnel Runners' Showcases Unreal Engine 5 Chaos - Games Press",
+          "publisher": "Games Press",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXF5WE8tQVJ1U2NtY2F5OHdrMldaSTBWYVJ0OW0tUVlyM1NxVU8yNjBYd2tsQUF6TGxVTkU5VHlIbEFYZ2lSQUFNb3pKMEkzS2ZhdWhvZWdqdTg2M2NMQ1c3S3QzRmE2VGxsU3dER0kySUhnYkVHbnR5MlZkU3lRYXczWmVSQzZkcEVXVlZQNVJqVEFzdXU4WVRvMDBYbmFvR0ltaHZR?oc=5",
+          "published": "Sat, 28 Mar 2026 20:11:30 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Colombia brings soccer history - good and bad - to World Cup 2026 - palmbeachpost.com",
-          "publisher": "palmbeachpost.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWF85NmpSbHhiSmZMbTJVS0QyVEdOWXE2VmNiZElUdm1td3U4N1hlbnc3OVcxNGJoVVVxM0ltUS0xMFBtemx4a1ljQ0hpZXRuajJlQkdRMXBwcEtlN0E1dlpJZU5nQXU3MldIMEtWaXBkanRncEtqREl0bVRXaXpma0tjamIyandQRjUwTTB5N2M4aWFsaXlRa3BwWkRtTzRGUlB5aktaYjEwZmxkaGo5Z3R3?oc=5",
-          "published": "Fri, 27 Mar 2026 19:01:00 GMT"
+          "title": "World Cup play-in finals will decide US and Mexico opponents - El Paso Times",
+          "publisher": "El Paso Times",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVVZGb2o5ei1xQWpMTG1wWjY2Nm1Wd2VYZi1jTVptbVE1WWg2NGVKWmRCRXNkRllQeW9TRFZWRUx2NHNoUnF3Q3o0Q0tnR19YOXJDY2V6R09WUFB0T1RycElJMnBEYU5FM2dzZThaNUFlb0RxLW45TDZ1SW1SX0d5OEVRczJ1NUdQNXZDUnd3NldLU1NiTjBMWnNZVDlUV01vVTQ5enpYQzNObUV5N2J1N2lta1ZSWl9TVndOeF9vVlRieWxpNmFOUHZfNnBvLU1LVGVKUg?oc=5",
+          "published": "Sat, 28 Mar 2026 15:01:00 GMT"
         },
         {
-          "title": "Can USMNT's depth at the 2026 World Cup make a difference? - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHBIQnkyQWN4dFZIcHJCSWpFaUR5cFlQdTJsOUNqY1g3ME1ENmVMZHFCNDVLakJFUXlLZFMyOWppTHZuR2dibHE3cFU0M0tfd0laNjJoY28yVlluX2ZzZkZOeF9EZHJRUExSRnVGR2h5MmlQelBHc2JIVU9FY3V3cGZtaWMxYldsdHIyTUVIZ2s5MkhOOVpjUUtWck1SdmRoaFlFNUkzeVNMNFNWeUE?oc=5",
-          "published": "Fri, 27 Mar 2026 12:00:00 GMT"
+          "title": "Senegal parade AFCON trophy, despite title being awarded to Morocco - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVJzeXcyZHR5WERWaUVfZ2NSUk9SdnEwTjhTZC1OMzRnbEdYNkNwNDF4SlNxOHU1N0RjNVhLUEIxWU44UjRJNFJoQldhVE1XbFlWWHYwZ3lrekMwM3R2QlNzVVhGX2t2U3Vud3FGaDBOejdkS0pka3paYWtPYS13bHpIYVlLUDNycEVfOFhybnBKYnJramwtczNUSU1vSG1OeDQtRXlOX2RId1laUWfSAbMBQVVfeXFMUGpCS0t2em5KUzB2cW5RX09LQkxIR2g0WjJPa2g0d0lKeXZLeUJrSkxHTE5XRDFIQ05rel94eVVPd0M5UGRBWV8tZF9pOVVlTlZMclVab2VEVzlCZXFxbUdrcDdpaE1LQjk2M0pBZ0NOX3ZjNjlOU0htYnRVZnpKbENPX05RWTI5cEdtMjJJdzZEOWp5NDU3d1psOVoxN29fdW9TblpLem1YZFlmRGFGUDVxTjg?oc=5",
+          "published": "Sat, 28 Mar 2026 16:30:25 GMT"
         },
         {
-          "title": "England superfan hoping to sell a house to fund his World Cup holiday - Newsday",
-          "publisher": "Newsday",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaVZ1Sk1FTGtNUFJfY1NOZEtQeEZWWV82WFdRRjBVUlprM0trdm9XNkpKU3pyY2ZEZ1J3Z3BrQ2NRQ3l5VVZEVEx3NzNTbU9FNUFZcGNqTVppbHhYRVd4anNtdEFDMWVoZi15dWd0aWkybkpQZC03aXM5bDlXZTgyZlZzMA?oc=5",
-          "published": "Fri, 27 Mar 2026 11:58:49 GMT"
+          "title": "Plans underway to build soccer field in Overtown ahead of FIFA World Cup 2026 - WSVN",
+          "publisher": "WSVN",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSjVqb2lBQndlYXBjQ291RE5sWmdHdG1vTkRkeTltY0NkVGxZRVliblFYdkwtYmc1NnRhSGNJY0VUMGw5QmI2RVhxZmp3ekJhQ0tOZVJTNDNpQjdhTmFqU3lucDI3SkNVaWZoTklqRDRaT2tiM20zUXFGQjRCdHR0ekJNZXFEbTdJVzNlU19XeFRhaGwybnRnTk5DU01fQUIwYUlJS3pHb2JpOVhiZ0N3bWNmLWdSVkpq?oc=5",
+          "published": "Sat, 28 Mar 2026 14:30:36 GMT"
         },
         {
-          "title": "FIFA open the door for the next generation of football’s female coaches - olympics.com",
-          "publisher": "olympics.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR0ZxNjgtYThydDBwNzloU1VxR3R1bndoWENrWERFRUROd1JWcGg2M3JvaWZnMDhSSU9ycWktRldRODJoRkZxSzlpcmgzdmFUUFItRzFFaWctbUhPZElmZzZZbFdEMFFRcmxBcGIwQ21FMjlUSk9oZzZ3VnNzSnZ3TUE2Vm5iaUJHaThoNDlBWGNmUWpucGxHOE5vUQ?oc=5",
-          "published": "Fri, 27 Mar 2026 11:21:00 GMT"
+          "title": "Visa, Street Soccer USA and Bank of America to Bring Visa Street Soccer Parks to Every FIFA World Cup 2026™ Host City in the U.S. - Business Wire",
+          "publisher": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPN3ktY0w1Nzlna0U1OXdpNmJfcXNLUExiU2JRSDJkLUFaRW1IeGJLaHRjUU5YSGhmd1dIMUQ4Q3RoNUhMeV9fRFF6blZTb1RXd3JJRlJQSF9qc1Y4cHVRN2RrNWJzNENKT3pMaUpwT1RCZDJPRTQ0UGNNWjJULXVxYV84QnA2aUlmRll1UjV4MV9iVzNfZktiMlYwcktscm83MlNYUnUyVzQ1ZWFhZENQLXhKbUx5YWdSbi1fOERuRGh0Y0VWQWdZTFZKTGF3djRvN1JoREg0LTc0cHhLbTlTVU9PdFROTG1aTlZUZlQ1Vlp6cDlCVFkzYmdhZVg0M2p3ZnotaFJTTUJ1dGZtZ2hoT0JR?oc=5",
+          "published": "Sat, 28 Mar 2026 11:00:49 GMT"
         },
         {
-          "title": "Iran’s soccer team holds schoolbags ahead of pre-World Cup match - NewsNation",
-          "publisher": "NewsNation",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNanJzNER2Q2E5YUwwbnVLMV9NbnFiRDB2ZmU0UTM3dE5Oc1NHUTYwVGdRVDFmUlpwaFB6enNYMFJNSUpQLXROalVIMFg2QWZ6N1ZHWUdsOVBlV2pOYzFYSTBSYndMQjFVektJV0NIMlFlTXR6SkVkU1VXQ05vWU5Va0ZpY9IBiAFBVV95cUxQNW5yNXEtSTZTZXFpMkVKWlM1UFZndTljTlZhazN6MXdfVkN0NUtiQW1DY2gtQVhydk5Nenl4NHNnSkxYVUF5aXNTQzNtc1FhMXNBazFTS1BCMXFmT3NNTm5jSEpsVTVKUXcybnRJbGVZY2ZFenBlb3E1TnFFRHhjN3U4SUpuRDRR?oc=5",
-          "published": "Fri, 27 Mar 2026 14:18:09 GMT"
+          "title": "Football fever hits NYC as France unveils team jersey for World Cup - France 24",
+          "publisher": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUpYRkRCbmRZUlhpbnd3YXRHQndwdGxDRkF5UVBpWVVQcWc1TDVSSjNvc1NMc1dhVlBLbU5ERHg3b0d5eUVsZlRkOVR6eXBCMkxRTHduNTUzT3VhVmZzdkpXMFhWOVg3SjFILUJSUTRneUhfSkc0dXctMTBPS3pWbXIxcTBoNWo2d01zUDRtNHJBQVQ2cEVTY3BtQQ?oc=5",
+          "published": "Sat, 28 Mar 2026 12:31:54 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Savannah Guthrie to return to ‘Today’ show on April 6 after mother’s disappearance - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYnMyeC1XTjVUei1wckROOHhxUlRUdFJlZnZMcWg3Y3UyaXdlV084T0o3M2N5czE4MGdBZFk3ekR0T3QxRUZVOVNBYmN6bS1rcEFrS1dueUl0SzhxdWdsdWhzT0NwMWF3NUhjRzR3NlFYS25va0txM0NDLTIyWlZ1M3RfamtsVWExYlVuLXg0TkV5dWJC?oc=5",
-          "published": "Fri, 27 Mar 2026 19:51:00 GMT"
+          "title": "Box Office: ‘Project Hail Mary’ Enjoys Epic Hold for $53M Weekend as ‘They Will Kill You’ Gets Murdered - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSDNSb0R2TzVvQXhIRTdhZTBVUDgtQzBRN0RFODF2a2FjN1BmbV9OQmI0Zlptak5KcGhMTVM4b3F4NjlUOFB3OGt4b2FYelVsUkw0RlNmN01lLWRtVFpzbmdoaGt6em10VDZJY2ZiSE9oVVNudEYxZWhTMENjQUFUNU9MZFZZZXlZNVVxV0dwa2JiQ1VHT01oT1hRRnhOaUdDOTFybnpZcFlpUGR4ZERRd0RqZW5RWlh3SkJV?oc=5",
+          "published": "Sat, 28 Mar 2026 20:32:13 GMT"
         },
         {
-          "title": "Taylor Swift's $36,000 Earrings Are a Subtle Nod to Her Fiancé Travis Kelce - instyle.com",
-          "publisher": "instyle.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcTZTZWsyOUVEazk5QWVFT1Zfb1RmdWJyV0QwVVVfNXpIZzFlX2lRbC1naklpa2lJNGlKNy1ubnZNVTZ0TVlkM29ZYjdQUHJldmlqT1RXcTN3dUxSaHNYWFNYWV85YkhwNmdPd1dLWVFWVWFDZ2ZoSFgtdDc4MG9rNUkwZ0pYRV9QR3BnbWxwcExhNWxTalI4RDRHdFNkUkdjSU5mTlFWczBCVEho?oc=5",
-          "published": "Fri, 27 Mar 2026 16:15:04 GMT"
+          "title": "The First Bachelorette Speaks Out On ‘Very Sad’ Situation Surrounding Taylor Frankie Paul - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRU5GOGQtR0p5ZUJValpRN2Y2OWlwMGplbHlfQ3FMZjhsNjhLRDI2NXRRLXlHYUNiRHlJeDBGaW0xX0JJaFRMUVpUZGotSy1RM0ZHUnNQTlY0RWhUeUpXdDRaY2I2dE42cWJMZjZ1Q2ZzaXpOYmJtNzhEWGV2WVpZT1JoM0dMREdORXR2NllEeEtvOFZ0dTZMX1BoSlZUZw?oc=5",
+          "published": "Sat, 28 Mar 2026 13:29:30 GMT"
         },
         {
-          "title": "Tom Felton Says 'There's No One I Admire More' Than Emma Watson for Taking on “Harry Potter” Role as a Young Girl - Yahoo News UK",
-          "publisher": "Yahoo News UK",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41XzE2dXVKMHVNLTQtQlRqdFdVS0FaYXBEMnlUbWZ5SzBmdmNRVGE3c0tEdHRBaWxNbVVZLWtRTFp2ZGwxZU4zQU5YUFg3SV9MeWtnTWswVVF2akNyVnA2Qkx2V0RNYzJWVHRMRUtnZmRfbUI1?oc=5",
-          "published": "Fri, 27 Mar 2026 15:17:43 GMT"
+          "title": "Looksmaxxing influencer Clavicular arrested on battery charge in Florida - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BNjRNMzRLWE9XTzl6XzJ0d3V4WUZPcjEwelphT2tlRi1hSVVkbWp2cGRHOHJ1QlRJUTRPMXVVM3JjZWRtVDh0bU5XTmU3djhEZzhFdnl0NHdNdw?oc=5",
+          "published": "Sat, 28 Mar 2026 13:19:20 GMT"
         },
         {
-          "title": "Jo Nesbø On Adapting Detective Harry Hole For Netflix & Working Title - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbzRCeGdudHBuUjZzWlhIaC1xdmVsclVlWEJHU09TQ1Q1RGRVVkZtVmVwREhVYjdPS2xHWEFJTUp2OTRGOU05VlkzQ05fTXJaZklQbUE1cDBGUWxoWHA1bUVJNXFiMkRONVJSTlB1ZjlwMG1ESGhtcnFFNUtmNmNjNG4zc09NT0VnczdlaVBKc3owc1VJNWlXbmllMXY3SW8yWmc?oc=5",
-          "published": "Fri, 27 Mar 2026 12:18:00 GMT"
+          "title": "Iconic rocker dies at 72 leaving music world stunned: ‘His work left a lasting mark’ - Lehighvalleylive.com",
+          "publisher": "Lehighvalleylive.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUl9KVUJQLXFnMEVwWjEyRFlZMlI5VW5xMHFOTzlfQnlaNjltUDVJTldFdlJwbmdlbnRZbHFTdWU2QkY4YlFNN3pQUTRVRmYxZUhpV2VlQmNJTHcyZ2VEeC01VjZndUJfdF9XQlp5WjJGTVp0clhuQTVKb01HZi03U2prV1pSWXdJVTBBcS1KYy1vS21GdjNfVWdvX05SVVZaTXQxNzA2WVl1RE5uUkdVNFlpaXZMZFpWMHRzRjc0RVRRZEtfU0p2UXB0dzI3Wnl0bjlSWDBZZ1jSAewBQVVfeXFMTmNuY3Y0dkJXVFlaM1o4T2U3ZkNvUlNaUk5vSENuWC1ReTBTZmktZEtZcDYtejVUWm5Qc2FKeUxNbTJmWjdmT0M4eTNWR1FtbzAxeFhPcEtwSThrejJvRkZCdWhZbTNZcEo5RW1uZ0pOZkVvV3R2VlNHVjhRcjBGSk5raTk3aUlHLVBwUC05NkRnV3QwNTlHOEdTYW52MUZYRV9UOWYzR0pZVXQtNU1KY1FpbGtxV2d6RUZHd1V1a2xhNFNZWFcyS1VKUVpwdzNZOV9Sc1ZyTWtPelU3ZW43dTB4ckJNY2dBdno2ZnA?oc=5",
+          "published": "Sat, 28 Mar 2026 11:00:00 GMT"
         },
         {
-          "title": "‘Laguna Beach’ cast reunites 20 years later on red carpet for new special - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEMyc0VSek1MTUNKZXRrUVZ3OE5LTWJTUDJPcEFZWl9vZmZVUjYzUXNic1NEQy1heE5tOEpWT2g4aDczSXB3UHNNZ29PT2haS3JnMm1Bd3BfMnNuY2k3TmdITEQzQjJXaTAzbW41Rk80cmhYV1RjQ3M3ME44cjZJZDFGNnp5RTdmQnBBVW85VVhOS01BRkdpOG56X01NN1hwU3JhUEJrNkUwaVBuc0hQOXVvaUU?oc=5",
-          "published": "Fri, 27 Mar 2026 15:14:00 GMT"
+          "title": "Jenelle Evans’ Ex Launches GoFundMe to Bring Son Jace Home Amid Alleged Gun Incident, Hospitalization - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb2FLTzBQZWUtaWMtVXd6VlZrSl8wYnRaM0h0eW1QZVI1NHNkcUdHWW9ZZE9vZkdfeGV4bDVobGJ0Vk9oVV90a2RxOEMydmNUbjNCX0RjelpNRkpJZjdGd21OMnpZZGNKUS1YZUxFVkt5Um1RV01randzbmhQa1JkcDJOV2huaGYxOTUxU0lvVHpwZWV0dDFqOEpmR0N6NmJpZXFlR2VHMA?oc=5",
+          "published": "Fri, 27 Mar 2026 21:37:55 GMT"
         }
       ]
     }
