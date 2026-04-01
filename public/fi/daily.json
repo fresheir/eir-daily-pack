@@ -1,7 +1,7 @@
 {
   "market": "FI",
-  "generatedAt": "2026-03-31T22:34:50.218324Z",
-  "validForDate": "2026-03-31",
+  "generatedAt": "2026-04-01T22:37:25.459396Z",
+  "validForDate": "2026-04-01",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Miten on mahdollista, että drooni havaitaan vasta sen pudottua? – Näin Antti Häkkänen vastaa - Iltalehti",
+          "title": "Puolustusvoimat: Ukraina hyökkäsi Suomen lähialueelle 2 500 droonilla - yle.fi",
+          "publisher": "yle.fi",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5tcndDTXVsbWhRM3M1M2NlSVM4ZUhKSlBtTG13NWtKdzl3R0FoZ0EwdDhxTnRMN1pIeGt3dGtESUVWZw?oc=5",
+          "published": "Wed, 01 Apr 2026 16:33:13 GMT"
+        },
+        {
+          "title": "HS Kiteellä | Leena Karvosen mökkeily keskeytyi, kun poliisi evakuoi Kiteen Närsäkkälää droonin takia - HS.fi",
+          "publisher": "HS.fi",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2bEpHNlU3UWNXSnZDWlg4X2R6RkM2NWNrMlppUDR4b3FjWGw4ZnZzNmlwNUxMMEF1U3BNSm93bklXeU82WTdjNWRZbDJlVTBZTVpNcDNzVHNzcDA?oc=5",
+          "published": "Wed, 01 Apr 2026 17:48:00 GMT"
+        },
+        {
+          "title": "Alaikäiset pojat myöntävät maksetun tuhopolton - Iltalehti",
           "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjc3owQkdhQVlobDVRWGZpZ08zY3ZQU0wxb19KRWtUclNZYnlsdUJHdG9zUkpLRDNObk1xWXBaSEdTVWtyeXZ2N0piXzVDdjI0WlUtZndaSmRQUzZXQmVDR2Z5SmFxd2lVMWxlMFV1T2l2T0pvLUN3bFBFQzhLelk?oc=5",
-          "published": "Tue, 31 Mar 2026 19:12:43 GMT"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EcC1GLVphZjVFaUJPTEczWWNZMWQ1ellEUnJjRjZBT1poaFpfMlB6UzFDa20xV2hDVzZVVTVsYUNmaGFENlRkT05Zd2VYOFRzWVlUQUhaTkUtWmJJR042c3gtTl9naFotY1JuM0FWMFJBajVaWTdWUmNOQQ?oc=5",
+          "published": "Wed, 01 Apr 2026 15:18:46 GMT"
         },
         {
-          "title": "Drooni löytyi Parikkalasta – Jani Halme: ”Ei voi olla niin...” - Ilta-Sanomat",
+          "title": "OAJ:lta taas uusi lakkovaroitus - Ilta-Sanomat",
           "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93dFpyeHdvcEVVRlZuTnYwY2dLVTJNZkZOcTdncjA1NGI1aUctd2Fmb0pqaTIyYVk3WWFGdmdteno0c2p2eEcwRzRfNlZFLTlTcDNzclAtTnlqSFA0?oc=5",
-          "published": "Tue, 31 Mar 2026 15:15:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xem43WGpjalNBNTZudkFqeHM5RldJVkw1alo4VGV0c2k5QTFqbkZUSHp1TFJyR3VfbkRvZWZyc1hjdHRuQk1FdE53QjFId0pLVVZ4Nl9lVmNMT2tBRTkxWXFhUFY?oc=5",
+          "published": "Wed, 01 Apr 2026 12:03:00 GMT"
         },
         {
-          "title": "Varusmies menehtyi onnettomuudessa Vekaranjärvellä | Paikalliset - Kouvolan Sanomat",
-          "publisher": "Kouvolan Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50QndiNFVTbHA4cFBMd1VuTXdVbjk0QjNtTWotVTdsR3BUV3JlRHNXTzVFcG9CVUFfSVA3UGJjYWVKUENYZnpqVlF3YkhtUkxUOGV6em1yb0RhRFB6dEY4?oc=5",
-          "published": "Tue, 31 Mar 2026 18:02:18 GMT"
-        },
-        {
-          "title": "Ukraina iski taas tuhoisasti – Epätoivoa ilmassa Venäjällä, kertoo ISW: ”Tuomittu häviämään” - uusisuomi.fi",
-          "publisher": "uusisuomi.fi",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CUFpqN0ZiRWh6eUtvY193ak5NbnliRE5hNDV2bFdmT2k1REYzVzB5QkVaOC1qVHlHVmxmcUtuUVFFMmNYS2dORG9FeDFzUmw0cjFvQzJGSDEyLWVsYjhFcnE0cnc5UU1aMkdwQml2Wk84WUZUZ3psWXJTSQ?oc=5",
-          "published": "Tue, 31 Mar 2026 13:21:37 GMT"
-        },
-        {
-          "title": "Hermannin rantatiellä tapahtunutta puukotusta tutkitaan tapon yrityksenä – epäilty ja uhri alaikäisiä - mtvuutiset.fi",
-          "publisher": "mtvuutiset.fi",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQkpoaDZ3Qkp3ZDVHeGJOdl9YMUxIM1hlZ1poS215V2FUMG9WTG84MVhEOFVyS1NoeTN0S1RLZm1NaDhoem80OTJpU3lsaTdOTzlXbWx5R2JTdEwyT0hBUlNHM2R0TmpldzNvSWZoNzdDck40RVZzd3I4V08xcFUzWkVLOGR0dkpoeV8zSEg3SzJzZ2tKa1VONTZsNjRIaVJKdV9TamRYYmxOUm8wbi1NRlJZMENNS2F0WTNudGtfQlBtYWZhYjhuaEN5MXJIYzFCM2ZmVkhjdVpMdUU?oc=5",
-          "published": "Tue, 31 Mar 2026 10:21:14 GMT"
+          "title": "Varusmies kuoli turmassa – suru valtasi Vekaranjärven - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OQnF1NXJQWlJfVEc5aDFRR3BXaHhuSHpCSlhGdWJEaFFKOU4yUDJsYmRCRXVEa2UwVzR1WlFma0k5cWJEYVpiYjFmdTNqNGR2bTdOZVdHQndNMXJ5?oc=5",
+          "published": "Wed, 01 Apr 2026 12:59:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Eurojackpotista Suomeen yli 600 000 euroa – päävoitto Saksaan - Ilta-Sanomat",
+          "title": "Näin Stubbin ja Trumpin puhelu huomattiin maailmalla - Ilta-Sanomat",
           "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tYlBUSW9sVXk3VnFFZWxBZzJVSG9ON214RkFnMmJUR0Q3aE85TndReFdVVGU0NEdZeV9sOGhLbHk5ZEpXTDFnR1lMb0hYMEdZTjlRVEFoM3kyOHR0MjlWNmdkTlA?oc=5",
-          "published": "Tue, 31 Mar 2026 20:37:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCcXdQTDV0XzIwNjFJWGsyRDJvN2MteDJvcWJyTngwZlotUnhPWXcxR01odFo5WnBXQmZ4MWxKbUNtMFpaYXRPcno1Vno0QTdMR2QxZW1PQnhJT3hiWWc?oc=5",
+          "published": "Wed, 01 Apr 2026 20:13:00 GMT"
         },
         {
-          "title": "Venäjällä kasvavat nyt valtavat riskit: ”Varmasti tulee vaikeuksia” - Kauppalehti",
-          "publisher": "Kauppalehti",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sMlhSUVJ6eG5oeXBkaWozS0ppLTU4X0ZWb1FQQ21WNi1paDA3QlZMUHN3aEhzcnRObkduT3BNbzd3QjdxQ3VCMFpBX2ZIY3U2TmMzTzJtS3lONklDd0FrZFkzSzlZWENtX25zWlJBZE9sMTBpZUJtbC1HWUJCUQ?oc=5",
-          "published": "Tue, 31 Mar 2026 13:30:00 GMT"
+          "title": "Trump sanoo Iranin pyytäneen tulitaukoa - Keskisuomalainen",
+          "publisher": "Keskisuomalainen",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoNHN1Rzl2V29GQmxjTTAtVnpzcURoMjk0Qkh4Z2tVRjlib2o2ZlozOG9TVWYtX2RYNE5xQU5LeWh1ZkJTd1haSlVJZmYzTnRQQV9jNnZSVQ?oc=5",
+          "published": "Wed, 01 Apr 2026 12:55:19 GMT"
         },
         {
-          "title": "Yön uutiskooste | Virossa varoitus ilmauhasta, EU:n ulkoministerit koolla Kiovassa, Netanjahu: Yli puolet Iranin sodan tavoitteista saavutettu - Kouvolan Sanomat",
-          "publisher": "Kouvolan Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03c0tMRlhFZEstdWpBMlZyc2ZUVE5PdTJ6V1huZjJVRm9td2tuelNvdDlwcy1FaEtqV0lfdDdIMndHSVQ2S1dRaTJtM2JvckZKaHVwSUlIdnRqbTBwbzJMc05UVHF3Zw?oc=5",
-          "published": "Tue, 31 Mar 2026 03:36:27 GMT"
+          "title": "Zelenskyi: Venäjä uhkaili kahden kuukauden aikarajalla – Viesti oli signaali Trumpille - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GQ3RDZ0RNS1g3QW1LSEVnc2g5WXVDLVktanRpSVVPNTFpcmN1akVnOG1rSTJndkFLYkpCOV9QZ2R5YUs0YjMxLWo2MEJ3WjBPTm94Tk1qX1hISjU2YzdKcl9Ra21velpEclMwWmczWlpUaUJvX2VhVk5mQVY?oc=5",
+          "published": "Wed, 01 Apr 2026 20:27:17 GMT"
         },
         {
-          "title": "Trump veti liittolaisilta maton alta – Vaarallinen ketjureaktio uhkaa - Kauppalehti",
-          "publisher": "Kauppalehti",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jUTc3SldhM0IzaWtwTWVTLUQyWXVwMVNzMVBBTGZhTWFodHVfSUFCNkZycW9LdGhSXzFldWpnV3NtWTR0VE92X0lpTjc2NlVmbWpHREFYOWJVYmpPVzBfc3pjUnozN25YcUhZdjByT0NyRTNuZlkxREp3TzdVdw?oc=5",
-          "published": "Tue, 31 Mar 2026 09:30:00 GMT"
+          "title": "Israel aikoo miehittää osan eteläisestä Libanonista, perustaa \"turvavyöhykkeen\" ja purkaa libanonilaisten kodit raja-alueella - Hämeen Sanomat",
+          "publisher": "Hämeen Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWQVZkRWFOckNCa2ROT2R6YnBCby1aV0R4TXh6cGU4NEt1aGpqSFByOWpUd2k2dmFPekJaMWlteldzc3NiY1VOdHM4eE1EdTlqSTZkV1NKRXNkZ29nckNzRXlLUQ?oc=5",
+          "published": "Tue, 31 Mar 2026 11:53:43 GMT"
         },
         {
-          "title": "Moldovan presidentin vierailu Suomeen peruuntuu Stubbin virustartunnan takia - Yle",
-          "publisher": "Yle",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9McFZUbkdGbTFRejNPY0twblFlNEtVTEdpNlhYX01WTWktdU1UWTUxRy11ZExuQ0lyODU2b1BzSU43QQ?oc=5",
-          "published": "Mon, 30 Mar 2026 17:05:19 GMT"
+          "title": "Trumpin ex-ministerin puolisosta levisi kuvia tekorinnoissa – Asiantuntijalta huolestuttava analyysi - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSlFVVTByaFFrQWh2RXNmUFhvZDVTcG03YVdLRVZwRUFneGNoeW5pa05vV0JuNG9UaUZaSWxPbVh5NjVlb0lLVFF2S2RZT1UyaTFVVDVBdlN4aUtfMlpDYjFDNW9SaHZPUm1pWEY5M3c2ZzhweVZiWC1UZ1F5WDkxaWVXMA?oc=5",
+          "published": "Wed, 01 Apr 2026 11:17:31 GMT"
         }
       ]
     },
@@ -81,22 +81,16 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Pörssikurssit Wall Streetillä selkeässä nousussa rauhanmerkkien saattelemana - Yle",
-          "publisher": "Yle",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE95dUZRQklSeDNVM3QxSkRUb0tOY1JKa1JtZDk2WTBtOEJobHhjR21OTVkyeWNtQnE1TkNncmVpWksyUQ?oc=5",
-          "published": "Tue, 31 Mar 2026 20:48:12 GMT"
+          "title": "Nordea Bank Abp: Återköp av egna aktier den 01.04.2026 - Arvopaperi",
+          "publisher": "Arvopaperi",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXZneXozdkJ6YVBzVjgtby1MTmtmTzBCd2d6T3hsR05iOEdUT01PSDMycmtzZDJpS0FzelhPemkxblk3cFJoR2EzbW1hR3pUOTU5MU5zY013UDRmb2ZTaktCcGRrNjRBNFlkTzFqYjdJOG1VS2wzNGJjX3diZFY5aElCeWxBR3Bs?oc=5",
+          "published": "Wed, 01 Apr 2026 20:01:57 GMT"
         },
         {
-          "title": "Omakotitalojen hyvä veto jatkuu asunto­markkinoilla – näkymät muutoin pirstaleiset - Taloustaito",
-          "publisher": "Taloustaito",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNkNoeXN1b25qZUpRYmZUQmt4VWhrSFp0QktmMWZRclJ6by0wZHJnR1V0M1Q5SUxkVnRQbjY2MmE0QURPNEFLaEFKbUNlVFhSSU1iZk9qTzQ4UExnaldQbjJRdUhIdTU1S3FYdTNERmNpRDQ3LU1DaUxGckVIWk9pazV5YzNzUE4xcnRsYzg2U0trVzJtU0pBS0VSUUJuNEVNQWtuUUpReUxrMi1ORGQ3SUxxNA?oc=5",
-          "published": "Tue, 31 Mar 2026 12:24:57 GMT"
-        },
-        {
-          "title": "Metsä Group suunnittelee kaupallista laitosta puuperäisen hiilidioksidin talteenottoon Raumalle - Satakunnan Viikko",
-          "publisher": "Satakunnan Viikko",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU1FDUWtxTERvaTE1TkNzN3lZYXM4MF9FdUtkVU1LT3dhNC10bFd4cWk5a3Fpc2pMdlM1V0xJY3JlYlVqOTRuaTA0eV82eExxM3dsYlFzZldCM0JxMHZUVXI5SF9yNlI0b2VNSEpuNVU2aV9YY0sybDBiRkhiOG1jR0FiMGJ2dTVqWXpZbnJBVXl4bzZpR0NtbjZXTXkxNnVndnJ0UEdpWXJCXzRBZWZpVFc4UEVuSE1qTW5iSHMtUWZ5ZXVtcW4zQ3dhZHR4MngzX2pjU3ZrTk1UNEpYOU1LemhEWjZVZEdGUUdjZTZJbw?oc=5",
-          "published": "Tue, 31 Mar 2026 10:32:04 GMT"
+          "title": "Aasiassa uusi pörssipäivä alkanut nousujohteisena - yle.fi",
+          "publisher": "yle.fi",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lWU9IeWJ5bUw1cWNRdDRhQUJEWS1HanRRY1lFUVg2d2FSeURfelVVUHlOOEpYSjg4WmJFMUdkTUtWZw?oc=5",
+          "published": "Wed, 01 Apr 2026 00:47:05 GMT"
         },
         {
           "title": "Suhdanne | Euroalueen inflaatio kiihtyi tuntuvasti maaliskuussa - HS.fi",
@@ -105,10 +99,16 @@
           "published": "Tue, 31 Mar 2026 09:09:00 GMT"
         },
         {
-          "title": "Kuluttaja-asiamies puuttui Valokuitusen markkinointiin: Sopimuksen kesto ja kokonaishinta hämärän peitossa - MarkkinointiUutiset",
-          "publisher": "MarkkinointiUutiset",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaVdpQ1VheXVVYVQyQUhkVG1yWnFPNlFmRVdXRzFXVjNER3doQzV1aDJTZF9vcktBendQZTZJZ3FKXzNJRU8xWGhOb280VFgtUDQ5d2RJd0F4MkF1LWJzQUZWem9vdXJ5NXhUVzBlSGdNOWtIUXVvQXpURERWZmEwU29IUjdZWFNtWXlTVWtLRGFDOE5jYm04Si0yd2ExVkdKWE5GUElLUWtpUnFuM3pNR2xadFlSUENUaTJENm1lNzBEbF91UU9sbGlsMEpFZ1RyYVRKTGFwU2lBaHo3YVNqRDJPcnp4QQ?oc=5",
-          "published": "Tue, 31 Mar 2026 07:15:03 GMT"
+          "title": "Ilkka Oyj:n omien osakkeiden hankinta 31.3.2026 - globenewswire.com",
+          "publisher": "globenewswire.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY3RNTTRPTk1QT0cyaE9oTzZKdmZYdmZ1bVpPWVMwRElqNno4UXdKZ2Q2aENLWWVTcDIxbXRxU1R3ejV6Y2VKOEtIX1BkV0xBRkl0SWx3Q2RVcUVSWnNyVzFwMEJpaFNuTjRSMGplek16UXdMOWhhZVl4OUpneTVuWjZkcUVUQ09ENTBBZXhIU0YtNkpqSmpLOEpMZ3V0R0xKYWNtTEE4VHdub2hIZWhvOWNueERvc1o0dnJv?oc=5",
+          "published": "Tue, 31 Mar 2026 16:00:00 GMT"
+        },
+        {
+          "title": "Asuntolainasi korko voi nousta yli neljän prosentin – tämä valinta ratkaisee - Verkkouutiset",
+          "publisher": "Verkkouutiset",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLU5OWlRvTmZQTU40WEU0NEFSUnphQXZHMUgxSGljcDlyM05LME5uY1lzYXZZX3pnUzdMd3VjMFBxNmlhVkNiYnFSdFc0dXlzQnE1WEZFSEVfQktleXlXTExtM3dQQVdINWlUeDZOQzRFYTkyWGM4cVdvbkJjeGxWQ1dBYWthT2tpOFRfRGh0TzhSdlBmZU5WcGtqNXBlOEs1Z01QQWtnRXVBQQ?oc=5",
+          "published": "Wed, 01 Apr 2026 12:50:56 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Jääkiekko | Ilves haki voiton Kuopiosta, asiantuntija kritisoi KalPan Patrick Curryn ”sekoilua” - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44MkZYdk41RXZvRTVrUWFSNmhOQk9MMWJkd2xLaFRzM3R2d3dZY0w0NjlzZXFSeXRuOEhBRzFkc2F6YXpnZ0xKbi1vM1N2Wl9KTm92b1d3dGZMaXU1?oc=5",
-          "published": "Tue, 31 Mar 2026 19:33:00 GMT"
+          "title": "Veikkausliiga ja erotuomarit pääsivät ratkaisuun – toimitusjohtaja avaa kompromissin sisältöä - yle.fi",
+          "publisher": "yle.fi",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxREVhY2JtbGxNLW5DNlNuZUhEWmwxdGRaOS1SWVRIb19Oa2p2OGVBRFNJVk1nMEoxUTQxdmpXZTE5dw?oc=5",
+          "published": "Wed, 01 Apr 2026 14:08:35 GMT"
         },
         {
-          "title": "SaiPan yllättävä sankari kehaisi porilaistunnelmaa – Raimo Helmisen tuttu lausahdus osui tällä kertaa naulankantaan - Yle",
-          "publisher": "Yle",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9Td0dNUVdzY2ZxQWNMZFczSEw2WV9RNTk3blU3dlNaTktINThQamN2WXpjWGRhdjZFU2JBOTljenZlQQ?oc=5",
-          "published": "Tue, 31 Mar 2026 20:16:29 GMT"
+          "title": "Wilma Murron uudessa sukunimessä yllättävä yksityiskohta - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3VEZGkwSF82R1VZZEdWcklNR0s1M0p1aW1QMElKUXQ1VUJ2TlZyQnJER05KbXpKTlF5clJzVXA2ZDZHRTBzTHVZQmZtNjZVLWt4WmpaNWE0bFNaMHN2aURSTWJaOXlmaHlzNVdBQWdvTkpVTHFYeHJHSkVxRlBnOGRn?oc=5",
+          "published": "Wed, 01 Apr 2026 21:22:31 GMT"
         },
         {
-          "title": "Pikkuhuuhkajat kotiyleisön edessä tärkeään karsintavoittoon | Urheilu - Etelä-Suomen Sanomat",
-          "publisher": "Etelä-Suomen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE42WTZ5c3pGdWZWV0FzSU1BODlhWTJXekg2M19KVEZ4a1JqWU03aVZ0QVB5Mk92TEpfVWpyS0NTTmVYcFI2ajdWbnRB?oc=5",
-          "published": "Tue, 31 Mar 2026 17:22:19 GMT"
+          "title": "Kohuissa ryvettynyt Tiger Woods: Pysäyttävä ulostulo - Seiska.fi",
+          "publisher": "Seiska.fi",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORTJCODd0T3laa1lwbW5OcFdVVUs1UTlmSTgzT3JMcDhwaVZBeXZUQ2RqaVdDMW5JWnQ2bl9BbU1aajlUZmVYSWlxQ3V5VVFuYkEtdVhRVnFaYmFjSG5KRUhQSFdFUDVuRDA2SkRtb1dvaEE1OWZEbXNXZ0d2bkxTZmdtMFNHa2xORUt4S0x2cXdvdElI?oc=5",
+          "published": "Wed, 01 Apr 2026 16:00:00 GMT"
         },
         {
-          "title": "Wilma Murto meni naimisiin – sukunimi vaihtui Heiteläksi - ts.fi",
-          "publisher": "ts.fi",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1DWjRzYWFHd2wzdmV5Vk8yb2tmSGlMRjlkZk5kMUdHOTNZdTJvWFpTd1Q5SFl6c29kdWhtcnQ5M3A?oc=5",
-          "published": "Tue, 31 Mar 2026 18:25:50 GMT"
+          "title": "Kommentti: KalPa maksaa tähtipelaajansa sekoilusta valtavaa hintaa – Patrick Curry on luisteleva ruutitynnyri - yle.fi",
+          "publisher": "yle.fi",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5iaExjeHRlNjdSenZnbFlDNVl1LVZuNloxNm1PVXVDOVZ4VGZ2cXBSWHgtUjVYZS1yRy0xekNiMkczdw?oc=5",
+          "published": "Wed, 01 Apr 2026 10:44:17 GMT"
         },
         {
-          "title": "Kirja: Keke Armstrongilla ja Alexei Eremenko juniorilla raju välikohtaus pukukopissa: ”Päässäni kilahti” - Ilta-Sanomat",
+          "title": "Teemu Suninen sai töitä – näin käy Janni Hussin - Ilta-Sanomat",
           "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UN0tLZDZDSGdBNmUzMHp4b1ZyYWdXTjFET2w3UEpXZXlLekNpWV9pdGNmczBfaEN4QWJPYTgwT2ZVdzdaNmhIS2dfNWJNalRtYVhfZ3Nrcy1sSXM3a09SejJkakY?oc=5",
-          "published": "Tue, 31 Mar 2026 16:22:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOVFVHOTI1cWI2NTBQZEUwSjhnNVg2SDExVDBaMllxRjZjUzJLQkJsTU5VdGFlY0pFS0pZVldjZ2tFSG9vSVpGZVFDUUVHaHU1TkUxOG9qU042UQ?oc=5",
+          "published": "Wed, 01 Apr 2026 13:41:00 GMT"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "The U.S. Is Co-Hosting the FIFA World Cup. But Much of the World Can’t Attend. - Council on Foreign Relations",
-          "publisher": "Council on Foreign Relations",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVVpQcmhuU2JUUjl2dklzdVM5b01JaDNTRFJVVlk0bTNubFJkeHU2aERkOGQydGRYdXoyQjJnZ3RBeUw4cVhhYXFUcVJlcnR4ZW5wbGRVRUdwYmlJbjdTempjRVNXYWVYblpOeWozVTF6czRyZkd0R3pnNllWWmVTZTMtVjVydTI5TjRwT0tfNmFIZEFUcGtzMVVRSnQ3X0E?oc=5",
-          "published": "Tue, 31 Mar 2026 17:06:04 GMT"
+          "title": "'Soccer is special': Marcelo Balboa reflects on Bay Area’s role in 2026 FIFA World Cup - ABC10",
+          "publisher": "ABC10",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSkppamtab1FaTHVJT043enpWaHpSRURLcGlxbktKM01ieGVleDFMb0IxQnFpOUJLX2pBSUxDMmFkYUpwdlFUQ3ZEc1VPSDRybHdEQzgyemNCdTBfVWJLU2dDdlJaaVFzVVg4YWszc3hhR2lTbTlIaFpGUDZvVDVYUXlnMkZkUDJfQlBtall2RW9BRzYxUFV1OUxtV3BBMXBZYkJVNnBLLTFBdnQ2dDVKWnl0aEJWa0I2M1Q0OGlsSGI?oc=5",
+          "published": "Wed, 01 Apr 2026 20:23:00 GMT"
         },
         {
-          "title": "2026 World Cup European playoffs recap: Bosnia deny Italy for third straight World Cup - ESPN",
+          "title": "Once World Cup outsiders, soccer-scarce nations are crashing the party - NBC News",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMlVVSlR6b0tDNV9uZGo0UW9rV1F1cEhkdEwwekVZR1BjTHRreTUtR3FqYjB4T05tVzhrMHBKRnlMV3FRMEJkRHVyeV9wanVXc0lzWllhVldjemZrQmpzak10RXRTSVl5dFRnaTNaOG5CR0lIMXBmVzVCUXJGaHB1ZDQ5cmtEUW9HN0hGZmxzVWJrZmdzc3g2OVNNMXpmNHoxRXVPc1daNWdIdlp3RkE?oc=5",
+          "published": "Wed, 01 Apr 2026 15:42:19 GMT"
+        },
+        {
+          "title": "Italy have themselves to blame for third straight World Cup miss - ESPN",
           "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkVyb25jXzF5RTBUVG1WTWVLV212UTZpcEFIWXZ3Y09zRHpMR0RFUWY1a1J2TzdWSjNsdUI4dkZlbjk4d2xPaThBNWV6alhGUWpGS18wYWJhN1EtQS1XUm44SHV4SkNVZHRsMzJBSFNIQmlqaFQ3SENEYWhCdkQySE5CXzhOTEppcWRNeXJiSktHYmFFbHUtOFhtWUd3WmowMXVNZG1GcFVjOGNXc0pxdktnNA?oc=5",
-          "published": "Tue, 31 Mar 2026 22:02:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR3JEb3EzQjdnY3BkUTNINzJmMGVUSEJ0dGVyYmpmMzhkLTEwU0d2VEgzTGJYdTZBU2pxc2NGWUpLUk1OenVndnA4WWVEVlNvdnkwTUdJY3lOdmlKZGtMSjNvN213YzlNZEFLNGFqcUJxV1NmaFRRQUdJLXU2M3BUT0xXSGVxRjlfcGx4UU5VbExaMnluMDlxbExmcDJ2UGR0M3V6N1VETFU4c2NHTW9UZTVUQmE?oc=5",
+          "published": "Wed, 01 Apr 2026 13:06:00 GMT"
         },
         {
-          "title": "Turkey end 24-year World Cup drought with win over Kosovo - Reuters",
+          "title": "'The World Cup curse' - Italy sheds tears after missing out again - Reuters",
           "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZGFPOVVwMDU2Sm9yd0xzNWxqY25fRWNhemw2UHpENXNUS2VKeGhhaldaOEd2VWVaYVhKZnNET29rN1JpUlpGb2thQXp2QTRpZ0ZxYnRLVEFnaEh3RFpHMFM4WENBTUFJZHNUTVJBbUlwd0ZfTm5xUWlVbmNfQWtLRzJpUUkzSWxzTEM4dVNDS2x4X1JYbGZFRkdCQklPdWF5eC0zZ1A4SVAzNnM?oc=5",
-          "published": "Tue, 31 Mar 2026 22:05:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLW9aLUU2MUliUU8xN2hlRUl4eEJyTXIwV3gxYzF0LWxUNFVqZUxzaGJlVkVBbnU5WHpiZ29fSHRucjNNaC1JSTBWSVVuRy1rNURCbUFoT3lZNGsyWjFQMWQ5MThWU2ZmLUlQU0FHQ0x6cTZHMFVaM2Q0LWVHdHFCME5RZ1lDdFRxWjRvQlRTQ3o2aHFHODJRZWMzUUxPZVRYNFk5cXcyV1NCdllxX2NRVlhNdVhSa1Z4Tldv?oc=5",
+          "published": "Wed, 01 Apr 2026 20:08:32 GMT"
         },
         {
-          "title": "Italy soccer fails to reach World Cup 2026 after losing in playoff final - Bergen Record",
-          "publisher": "Bergen Record",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb3o4V1pMTnF5VG96YURWQjZ0a2JNTzhtUEhPRVhKUzI3d2tMNW0zQzhfLU15bWh5c3NBRWRuMm5PZ2tmbzl2dmQxUUs2dG94aC1QajYwQjFnTTVDLVA3T0d3N1FfOUFLc3NtTUhWaWc4N21DVHRLa1hWOXR1ZVFkTWpqbmZsSUJuSXRsZTB0U01yU1RfcDJDZmxGVi1ubllQX1dwcWkzRmlKZnNjd3hQZmFtYU9fN2JfVmNNMjgtNm56SzlMOWJ3aFhJaW9EdGtzeGwwN0lkSGJDcHM?oc=5",
-          "published": "Tue, 31 Mar 2026 22:08:00 GMT"
-        },
-        {
-          "title": "Why Spain’s Soccer Team Chose A Tennessee High School For The World Cup - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbnMwSE1WU1RIek9Rb1lzTWFYLUxjV3hLZElVcGZNaXd3NzE0bll2WWU4RGtoYzRCNUpsbkxaMk5udFFmN3NYNFVVTHFPZm1Cc3BXZzFWRHZTb210UjlOVnFMOGJGZ1ZVbDREMkZGMXQzN1ZvdW1BdTVfUjZWUVpiRjY0X2VzRFU5cEFXaUUxc0ZnZWk2RTg0OHc2T2hGQ1JWN3BwaTBKZnNTTW5pMk43SVRDUkNNVVV4NlNHYzIzZl9MQQ?oc=5",
-          "published": "Tue, 31 Mar 2026 19:00:31 GMT"
+          "title": "CITY SC’s Summer of Soccer aims to capitalize on World Cup excitement - St. Louis Magazine",
+          "publisher": "St. Louis Magazine",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92c3F3TDFhTFJLZXdYYk42OTBxVG9UQXRLZ0R4VVBGV09LZGV3X3lSdlJLSGxkN3ZkM1lmUlY0d0tuRTU5M3AxUEMtX2ZLOWJRZ3NNTDNWemxudG9RTDdaMURKOENSaTgtN2NneGZQOHQ3Nk9fZ3VFcmxudw?oc=5",
+          "published": "Wed, 01 Apr 2026 13:13:33 GMT"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "The Super Mario Galaxy Movie review: It's-a mediocre - Roger Ebert",
-          "publisher": "Roger Ebert",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmNTb3VXSG9GbU5vOC1sQV9uWHRqQmp4c1lKNVVpV1Z6ZWRoYndvOXZOS3d0Wk53TUs4bDRzUVNKb1hsZm16VFdHTGJwanhNTXR5VWowYXdMOFgwUm9fMGlDR2xXbHRaRHhVSmhPUzNGOHNMR2hBck9rWGhjMUVpQ1MxOFQzVW55Ry1pS1ZNUFJiOTFKSG03dTFBNmg?oc=5",
-          "published": "Tue, 31 Mar 2026 19:05:17 GMT"
+          "title": "Megan Thee Stallion Says She Was “Running On Empty” During ‘Moulin Rouge!’ Performance - deadline.com",
+          "publisher": "deadline.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSVAxdFdnOTdJN3NoNmJoMWpsRFBQNVJubkxYRzhqTENOdlcwWFpMSXV1QmQ2aE05T09BTThTZjFXZmhYaDJXVVFDTm51QzF1TGdjRVRnR0pzblFVX0VxQXJVTk1LY25ZY1BPWUl2QVd5MXhvS3oxN052a1FVMFl2RGlMTGx5bHZiclE?oc=5",
+          "published": "Wed, 01 Apr 2026 16:48:00 GMT"
         },
         {
-          "title": "Amanda Batula and West Wilson Confirm Their Relationship - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlFlTzR6aGZ4V0Zoc1I3M3RyblhfNUhYUTFTVHgxUElkV0dCQ2JNaVpIMkM1ME16a1BfVnJSQ0hmZVJSTkhVWFJQdUdWMHM5bERyamdQalF4Y0diSGd3T25HNkNZSndmQnZBWWJ1b0RXNG8ySlI4ay1kZ3BDdDJZTHR6QzlhbTJMSmd5cnp3?oc=5",
-          "published": "Tue, 31 Mar 2026 18:02:52 GMT"
+          "title": "Zach Shields Set To Pen ‘Weapons’ Prequel Screenplay Alongside Zach Cregger - deadline.com",
+          "publisher": "deadline.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUV9Td3ZSNDdpczN5VzkwWnB4YUVuYjRIMnZYWkp2OEZwWWd0cWpPd04zQXFRcjYtTGRqRmZ2UGpMbU9IaklIMzlUd19MTnNkTWhyZzFfTmo1UXR2UnZwQ0l0UE1rODdIZDk2Sml0MW10bF9iLThuU0pwTlZ5WHpqRkNHQllVSFFxTFRBRlZkU04xd1pCb0tuaFdlV3U4UQ?oc=5",
+          "published": "Wed, 01 Apr 2026 19:25:00 GMT"
         },
         {
-          "title": "6 books named finalists for the 2026 International Booker Prize - npr.org",
-          "publisher": "npr.org",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdmJ3bXI2dGw3U1NyMFg1S3FiNkZpWFRkaXkxUmtMazBOQWYxVEltYWV1YnVyTGNzNHJGSlV0SzR2RDl4VThkdm5XQ0pkSTlFMERmdjJEd3JuZEJKNXJJYy03VGFweUx6QVRFYnhjcHNJclpWTFBaMHQzei1rUEZTZzlSS0k0bmtaQTZNWEFmUQ?oc=5",
-          "published": "Tue, 31 Mar 2026 13:00:31 GMT"
+          "title": "Bruce Springsteen Gets Political at Show in Minneapolis: 'We Have a President Who Can't Handle the Truth' - rollingstone.com",
+          "publisher": "rollingstone.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTThlYkpiM29DbktGQWZDMl9fdW9XdDZzWnpMdkJOZXpObEhFMExSeW5YSFAwV0pFUWJjV2VScF92MjZSS09rc0k1V3BUcjZfQlY2S0pBazdVV3o2Sm1CcVpOZW5BZFoxLXZjSGVVdW9Xb1ByQ2R1QmM2ZVU1aXgtUFRSTE55TjM1RkZOTkN5UmZlSTJFQy1jdFdPQnpjQXQ1THNSem1td3Q?oc=5",
+          "published": "Wed, 01 Apr 2026 05:41:54 GMT"
         },
         {
-          "title": "Reality TV star Joseph Duggar held on $600,000 bond in child molestation case - abcnews.com",
-          "publisher": "abcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYVJabjAwcWlIR1dqeHpLU1p4Z1NoVUYwQkd4NEZ6UDEyRF9MOXZtM0dKMU5faEx4ZmlwS0FDaURmb3piUUptRjE1eGROWEVwWDFkcVAzakZPNTVsYWktUWJ2RmlEVVlRc3MwcVExMzlmaVFTWDFBSEF6eGhFbm40ZXk5SHVJY1BBME9zTG5mZWRwbmwydWZkenVyY0ZRUkFhRUHSAacBQVVfeXFMTUlhczlkWG5NWHlQbTF4QWlRNUs0cEktbTZFeEEtOEtPN0lPVTZQVHg1Z1JBVkVoWEZMTHlGOWFWMGxWTjEtV2tQZjlXRVVCWHZjeEJJY0o5VThaTWVWZ2VqUEU2S3d0VUJBOElOTHQ5VG5zbkZmRmx0RkpsVlFPQWZiRWdablNMMVNwaVNReDBDRUhqSWxENnhGdXo3QXoxZ2Zrb1hCYzA?oc=5",
-          "published": "Tue, 31 Mar 2026 20:01:43 GMT"
+          "title": "Paige DeSorbo Comments After Amanda Batula and West Wilson Romance Confirmed - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVF9Jc2ZXWDh0Q0Z6d1hoSW5SdTNKdTJqQ25yOXE2SnUxejdoOTNZWkREZ1RqQU14cEltTUpfMjViQkJJQzF4eVhPOTFhUThNaWZiNVd4c3E0Mi1uMHVoWk1LUWpQOS10R3k5TUtsSXZCbW5ES2E1bml6eTZjSmxHUENpRGItVVFtTmVfeXRJU1diQzdPMDJyY24tb2pKWk4yQmZsMC1SMGgwUQ?oc=5",
+          "published": "Tue, 31 Mar 2026 20:13:53 GMT"
         },
         {
-          "title": "‘The Death & Life of Lamar Odom’ Revelations: Khloé Kardashian Punched Ex for Using Again After Near-Fatal Overdose, Realized He Was Exaggerating Symptoms for Her Help - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNDFNcWo4aWpGSmpWRUc3OXZwcWlDZWtyb0pITjZoZVNGbFNsTDhaRWs4ajBMZGVhczlJcjhxNkxsaGJvY3MwcXZ0dEhpNXlidkRIM3pQemNNeEZHSERMUmdTV3laNTdMb0lmemRsMENlNVZZdnZoMFZZenBSSW9oOQ?oc=5",
-          "published": "Tue, 31 Mar 2026 14:00:00 GMT"
+          "title": "Taylor Swift-Travis Kelce wedding date, location, & celebrity guest list revealed - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3oyeHlYVU5qQUFWb1JtUV93cnZsR0VpeTlObDNMc0J5aFhZaE5wbzNwWkt6bDdPUzdUcURyQkY3cl8tbmtXSjhsamRFRXFzRlpkT20tT1hrMlAwMGJFVGVEMTVLdkZFRU9vVnhaRmJaRjFNUkI2UFVrNzJKNWk2QjUydkoycFFHMnJad1NKN2Q0X1BWN2d3cm5BYTFuVTVvRFJfU1RB?oc=5",
+          "published": "Wed, 01 Apr 2026 15:16:49 GMT"
         }
       ]
     }
