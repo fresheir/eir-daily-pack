@@ -1,7 +1,7 @@
 {
   "market": "IE",
-  "generatedAt": "2026-04-01T22:36:08.661001Z",
-  "validForDate": "2026-04-01",
+  "generatedAt": "2026-04-02T22:30:17.373418Z",
+  "validForDate": "2026-04-02",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,10 +9,22 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Boy, 16, charged with murder of man in Tipperary last year - rte.ie",
-          "publisher": "rte.ie",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XcG5wQlJ4NmFBaVdZQ2N1QWt3MmxETFZRZlAwMjdBQTdRVFRfRUJXVGFKbnQ1S0VUam4tcGlZNzhVSVRjeUxCcTZBck0yWnhtSVZKOUllR3ZlYk5iSk5wQy11NlpySDlfVlZsMGc5QWNaeGw4UXdEZ01Xc0dJUQ?oc=5",
-          "published": "Wed, 01 Apr 2026 08:55:59 GMT"
+          "title": "Man arrested over Belfast murder of Robbie Lawlor - RTE.ie",
+          "publisher": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVE5lRVc0SHNfTVVHYVFaSkxSYVZBbk1ObWJmZzlZRzRLbXBQaW0tOEtnaldsVDhZTE4tVmVIbTBxbkdHZk9DWmRZYk5IVjVFYk8tazlVLWZlbEIyNnZza0VHRFQtZ0ltQUlZb2xzZ2dVYjA4bUp6TjN2cDljQTZlRmhn?oc=5",
+          "published": "Thu, 02 Apr 2026 18:12:07 GMT"
+        },
+        {
+          "title": "Two arrested after €1 million cannabis seized in Co Louth - RTE.ie",
+          "publisher": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84Uko1QTAyU2hhZXBvZGVKNEZ5LVQ2UnZmTF82NXJaQnFvWkFhZ1JuYWQ0SFJvT1ZBcVREYXo2dG9kcHkwMGFxQXRYT0p4ckxQSkw2djM4ZFV4dFZNcjhBTEdfNl90WmtEcHg5RXE0bzQ2MFBVeVRFbFhjY1VvZDQ?oc=5",
+          "published": "Thu, 02 Apr 2026 19:05:39 GMT"
+        },
+        {
+          "title": "Five men arrested for failing to stop for gardaí and later being involved in collision with two cars - The Journal",
+          "publisher": "The Journal",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHVPVDhpV2lLTl80Z2U2UFU4Uk1sQW5Tdm1yVE9nZDh2UENvQmpkSVRGVHNrcEYtc2RkbEFHdWNPbWdpSUV0RWROcWtLQlZYSEdvQncxaXRKZXdlV1BWYzFnSjREbzhMVVZrSldUR2tPVEJjQmRjWW5ob2R3NkFnY2lyckVhT0JlV3NFeDhWUURkZXVOTTBHV2dFMGtvZmFfV1AydGlhZFF6RTdabVJ3?oc=5",
+          "published": "Thu, 02 Apr 2026 20:48:00 GMT"
         },
         {
           "title": "Two men who drowned while fishing in Co Clare named as Afghan brothers based in Limerick - The Irish Times",
@@ -21,22 +33,10 @@
           "published": "Wed, 01 Apr 2026 18:57:07 GMT"
         },
         {
-          "title": "Grace’s Law: Scramblers to be banned in all public places from Friday - The Irish Times",
-          "publisher": "The Irish Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVNFRy1qSWFDbW9zX3luMXFFMEpxTjI5bmwtWTkwbzEyaVV6VWE1bXBLdlNyTU9HVWtiaFhBcW5VLU1HektFLTFLZkdWX2lxbmktS0VPYmZqOEJEVVdUdEFtclA4c19yUlh1QjZzcjRKTjVJV1dVMEdBaDluZE5GampFOEI3d3plUXFZZ09tT1h6c1RlMFZvR3BtM0FSUHBrTlZhdmdqU2l4UTVsbjJKWW9tcE5MSDNUZ1BCY2ZHYW5KXzA?oc=5",
-          "published": "Wed, 01 Apr 2026 19:22:59 GMT"
-        },
-        {
-          "title": "Male cyclist (20s) dies following collision with a truck in Dublin city centre - thejournal.ie",
-          "publisher": "thejournal.ie",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdGpXOVVXV09NZmZQUm9IRDRDUlNOTDRiWlY5d3NfbHlXWjB2ZnEyVTBVQ1ozMlFlOGRoX1RReGVjelNFNzE1cXR6NktCcHE3UFJqLTZibEpfbUhERThTVG5Fb3VNRU1LQ0p4UkhTWWowX3dmelphRl9BSl81Rng3OHYzSGZOWnRIdVRhZ0owOVBQRGIxZmpn?oc=5",
-          "published": "Wed, 01 Apr 2026 15:20:00 GMT"
-        },
-        {
-          "title": "A new €135k grant has been announced to turn vacant spaces above shops into homes - thejournal.ie",
-          "publisher": "thejournal.ie",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2N1RkhCWUlLQmxnYlMzcWx4dC04Wko5NXlZdEJTWWhyMFRKX0FfZXZMYXZYUHFHMDloY1lOUGNTNHdVVkxNSEFCRnZ4NElNbElVODlHdlFsZWxwRlg5QnB1TTM2REZacXlSZ2tJTXl3SWtoVGV5WkpKd2lLZXVNbDFId0hSLS1qSEFMc0tsZTA?oc=5",
-          "published": "Wed, 01 Apr 2026 16:11:00 GMT"
+          "title": "MetroLink’s €550k boss Seán Sweeney quits in fresh blow to transport project - The Irish Independent",
+          "publisher": "The Irish Independent",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOURwakt5TkJoNHNWZzNpallpY0VsQ3lBaDcwQTdqNDRYeXFyVUZIOVdSdG5KMzZnekM0M1YzOVlMWkZ4dmxwNmN5LUo0TkNJdEJWWVdwcWU1VEtRekRvcjdOZUpuSmdONlFjUjNhc3dGWWh3cXJNZXlwSnIwODlvbjg3Rk9xS2k0SEstb09mQmptTGx5MFRFU1I1emJ0ZkNHN0ZtYTNEczczMFFEMHR2YUpSVjFwVWVLNUJHb1NRaWpnX0RLYVFN?oc=5",
+          "published": "Thu, 02 Apr 2026 11:00:00 GMT"
         }
       ]
     },
@@ -45,22 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Fresh appeal over murder of teenager 53 years ago - rte.ie",
-          "publisher": "rte.ie",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yU0YzOGVVZ21KNWNxaTRRWGJzSmFOdDJoNkJZM3pqTEd2cUlVbGM1dmJEbDd5YkxwNXV2VVFRRWw1cHcwQWlxN0d4akpBdDZ0clRtWEtTa29RRjFMVTltRTNleU5PdlRFZ2U3cUIxSzdHUUZERUtN?oc=5",
-          "published": "Mon, 30 Mar 2026 23:43:27 GMT"
+          "title": "Trump replaces Bondi with former personal lawyer - RTE.ie",
+          "publisher": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmRDFWRHFSQ0ZGb2tCN0ZETnh6T3gwTW5IT055WGswb0lySzNTdExIS3Y4V3JzQkg1OV85Y1ptOTFTcDd0Wk53MXBLc01UZXB0em9jeWluY3B2ZWswM3lYbkYwdEpBUQ?oc=5",
+          "published": "Thu, 02 Apr 2026 17:38:27 GMT"
         },
         {
-          "title": "Cork public urged to report Asian hornet sightings - echo live",
-          "publisher": "echo live",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MTk1kNktMN3djSW5jb2VRYThjSF9FN1NHcnNhM3VjRnk4N0t2SEpaX1QxbEwzaHBmRDFuUjJ0d2lPSGpYR2RpTXR1Smc3YU5MTUY0a3Jyek5NMlFwQldPRw?oc=5",
-          "published": "Tue, 31 Mar 2026 16:30:00 GMT"
+          "title": "Sextortion targeting young men on the rise, gardaí warn - RTE.ie",
+          "publisher": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVW44bktGcVVvY1hWVlBFS2VRa3JFUXN6U1NERWlYRF9NZGE3bnhIQ2RGNTFmc3ZOZkFwQjZJV0JYM1dBcTJUSUhpMjd2bXNQM2NwVXpoa1N1TC1WV1hzdGdHeGoxNkQ3WHZLcFRtSnhCOU1WT0hOUg?oc=5",
+          "published": "Thu, 02 Apr 2026 05:00:00 GMT"
         },
         {
-          "title": "The Indo Daily: The fake ‘journalist’ phone call and a disturbing student film – What the Jury didn’t hear in YouTube murderer Stephen McCullagh’s trial - independent.ie",
-          "publisher": "independent.ie",
-          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOYktQeXVTY1hKTzdZTXU4UkhjNGpXVzd2akZuNDh3WHAzUGRPWTdHeXdPWWkyTzBZWi1sZXp4RHdZekl1MGE2X3p2ZnY4c2RkZWVOWDRyTmVXU3JMWm5OdmxXamFQM001LWI3V29lWmNaWEdGQ0tDOFJMX193R3ZSNUd4Wl8xQkM5Tkd1NjhKWjFXYWRXU0I3RmNwSEExRWNEclVKbVJTcFZCXzVHN1JDVjF2VkE4R2NWTVRubFlTTnBGbVB1dGI4WVlJWkowdlgzWnYwa25kQ1VGT09IeW82R3VqdDBjTHZWTzJMX1VUNW5qR0ZyLTJOMHB5VlVTa0Z3SWVfSER0WERKWjlNUi10Z25mQ0RGMGpDUmNpYmNibjlCOXNjaHR6MnlLaGxxakdUQ2ZjVnBXNA?oc=5",
-          "published": "Tue, 31 Mar 2026 05:43:22 GMT"
+          "title": "Trump leaves world no wiser on Iran objectives in 19-minute prime-time address - The Irish Times",
+          "publisher": "The Irish Times",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0ZlNlVBWEZTUkhzTzFybm02ekljWG1jb2UyX3BoVjVKbk1HY08tMXhYWkE0Y3FMclVlQ0ktRHYzdHpuY3VLUXhkSk1mU2lzenNhSy1MUDJRQjVEbFVwRkVzc0tYQkRRMjM2VmlXUEdLaGFfaDViUnRIdkZITVNrRTQ2ZVVpMnV3bVlJNEtiOXJ1NE8zRVI0SFFHT1EwVTRvUE1YWlFHVHFRQlBMcEhiakl0cUNJWDFNTU1ILTJtQXNpNExKV0E?oc=5",
+          "published": "Thu, 02 Apr 2026 06:22:43 GMT"
+        },
+        {
+          "title": "Music teacher charged with human trafficking and exploiting a child for sex - The Irish Times",
+          "publisher": "The Irish Times",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUEstYVVrYkpsbjJjM0d5YV9HRkVnaVpZNUNGU3cycXpYMXNYam1xeDBWRVZwRDRvUEpycXhKTWtXd1RJV3RUSmZOd1VsSkZZYmlscmx5V0JmcFg2Yk5IeTNGZkZDd0RvYm82RE52SHFmMzdPdFVVX0xXTFNpLVJEb19fYmlhdzVpZzFRdS1SUEZub0dVZ2o4MjhlMVE0TldmREE5Y2tPeUdWazBSQVFmTGVRWnVpZkV3ZkVLQmRrTDlOa3pCS1BVZXlHdw?oc=5",
+          "published": "Thu, 02 Apr 2026 11:57:09 GMT"
+        },
+        {
+          "title": "Firefighters extinguish blaze at Omagh industrial estate - RTE.ie",
+          "publisher": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IZUVBdDlwcDY3enlBbjEtOEhrb1luLXNqMXpWdXBlZlpGU2hYZDdJVWMzQkpSSlFCcUc1dmNYbVNBQ2ZjZFlINkNuWFFEYWJ5WGY1WGlXc2FHOGxzQ1FLTEVyUTlDTnNabUZoZw?oc=5",
+          "published": "Wed, 01 Apr 2026 10:20:03 GMT"
         }
       ]
     },
@@ -69,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Drone delivery company Manna to create 400 new jobs in Ireland and the US - thejournal.ie",
-          "publisher": "thejournal.ie",
+          "title": "120 jobs at new service station near Ennis, but drop in spend on fuel - RTE.ie",
+          "publisher": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KVXEwMW5zeWEzTzR0VDdWb3FBN0NYYmtRV2JsQVhDMjE1dFhuU0puZVRIRE9tbThidWhRMTcyZnRDYndmaFhpRjlKY3NrUmEtakpZaGl4T2wwVVZySmVrLXlCV2RjOFNfNWJPa1FSdFZYY21hWXNRd3FjNWZvQQ?oc=5",
+          "published": "Thu, 02 Apr 2026 07:52:49 GMT"
+        },
+        {
+          "title": "Casual use of term ‘autistic’ demeans those with condition, charity says - The Irish Times",
+          "publisher": "The Irish Times",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZEN3Ums5QTFOdC1CRUdiV3g1U25TZTR2Ym5iOWFZYnpxdjItUmtZVnRGU1Y1b1BzOFRSYjZiMUUxT0pCSGlJRlFKcncwdUxuTkpXNkVCblRyaWNmTDYwb2poeFY2Z21ELXRMXzk5VVNuRm5iLUJ0R0Q0S2t6ZjAxa0ZaVUl2a0d3dVZvMGc4LXVmMHppNmVXTHRRMmdiWFVuMElaM3owV2tfZXpLbFlvRnR0VFBZdw?oc=5",
+          "published": "Thu, 02 Apr 2026 19:42:43 GMT"
+        },
+        {
+          "title": "Drone delivery company Manna to create 400 new jobs in Ireland and the US - The Journal",
+          "publisher": "The Journal",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNemRjcnRGbGVYbmp2dFBhTEpGTEdkR3Bxa0JXbThVZmxxd2NnTUIwTm1wSXJkQ2R6SHNPOWgyTnJZUWpGaTh5dlJMY1pvZnAyYTJCQ0ZPVmZaeGg1QTVQbFcwbmV6WWxEZEp0SVNvVWxoZzFVMkgydmVuVlpIalJvYzRwWk1PNmg3ckZYOUc4cjkxb3ExVmtqWQ?oc=5",
           "published": "Wed, 01 Apr 2026 18:33:00 GMT"
         },
         {
-          "title": "Intel to buy back Apollo stake in Leixlip plant - BreakingNews.ie",
-          "publisher": "BreakingNews.ie",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOEhqTEs0MjJmQkpSY1RuZnUyaFVmcjVXX2N6Ui1XRGV2dlZYdndHSndpTVdHaVRXVWlCa0NZVkdCS3RjSk5ybVhxa1JyS1pCVHFxQUNLUUt2Ylk1OS1YT3MxeXpNWlg3eThpeFBpR05DUXFjS3VmeVd2WngxNFJ3WExGa05TZkdnNkYyNVBzOHNNSVZBMnNaNlduRjk?oc=5",
-          "published": "Wed, 01 Apr 2026 15:45:52 GMT"
+          "title": "Shortlist for 2026 EY Entrepreneur of the Year awards revealed - The Irish Times",
+          "publisher": "The Irish Times",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3BqVnNIc2ZPMTBWVExOR3QxUXFGbmxxaHl4NFBsaXhiSm5FdURJTW1Cdi10bHBSYXpacjBCZVkzOUROV2ZycndJYzV2UUlwYm9nbEN4TTA3VDdaOVV1RnNIRE50aVl0QXBYQlItVEdFaFRoUEp4UlpHRm5fM1YtM1B2cEJtODN0U25fVkNlc1BmZkRmMmlrdnRrTTNYb3lpMGhwOEtBb3UxbjFPMExN?oc=5",
+          "published": "Thu, 02 Apr 2026 04:03:22 GMT"
         },
         {
-          "title": "Independent pizza spot wins €100,000 prize at Just Eat Awards - rte.ie",
-          "publisher": "rte.ie",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnV0czdYcTRKRlJEZTdmc1JfY0ltY2hJSmtHVzdXY1pHNm9ueTBTR2lhelFwY2xVcXZiWFBjVjBGeWJneDgyZkJUMW9KaExKbl91M29tMVc1WFZ2aWtJMVlCUlhXeGZnMmJOd3F4T3RGNUluVTVvVWViUS1seGQ4TnhNdWRMZUpydndvbWN4Vm5IVHJUWGc5akIyUEk4bjBvWTRDSUp5QmlqRG8tNmV5UEU0Yw?oc=5",
-          "published": "Wed, 01 Apr 2026 16:48:42 GMT"
-        },
-        {
-          "title": "Restaurant ordered to pay €80,000 to 'vulnerable' worker who was paid €1.61 per hour and worked 90-hour weeks - independent.ie",
-          "publisher": "independent.ie",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNl9XNU9waWJsbDdyaTZsdy1rVDZVcVBOMmJNVlR2X21wRjBhQnF2UjRUb2hzdnJQQ292VHRzUWZKOTh5RGU3WVJIUmo4VUFEdnp6VjB5WEoyQkRNcW93M1dQVzdITjF1c2ZYZHNndFlmc2FicEYzbjJaRlpxMlFRS3NfSEo5RkxfRTFSVnJ4YjBsMkNXUXNqUjY3cXdkM3YxcUpFZUVDWVhHbGFna1JqajlHRXF3ODB3cDd6NVBQYS1ya3psWS1DY2huTXNTZkQxRFZ6Q2tmeFd1akFmZVhxNWtoVWZUZHRaNWlMSjJn?oc=5",
-          "published": "Wed, 01 Apr 2026 14:13:45 GMT"
-        },
-        {
-          "title": "Roscommon store sells €1m winning lotto ticket - roscommonherald.ie",
-          "publisher": "roscommonherald.ie",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeVVXQjU3WldmOTMtVlNfb1V2QThsUjY4WHNVNS1hX3BlR2RDeHV1UFl3RWhlMFRpbHJaanZKMVB2djBhalhHckR5NHZJSlUyRmFnWWNCSUZQeGk1YV9XMURzWWNWSjdtTEZGOWZ6eXRjaHlhTVNaMHVaaDRBT2ZQRXBkdFo5WU1QS1V0Y0VzWGRjVDBwbkp0NENXSWdRZw?oc=5",
-          "published": "Wed, 01 Apr 2026 06:00:00 GMT"
+          "title": "Jet fuel disruption could hit summer travel plans - The Irish Times",
+          "publisher": "The Irish Times",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbXBCQUpmRDRoUS1FMXFkRlFiVlp0Q3o2bGlnR3k4eGw0WnRMTEpSMFkyY3dDMmlzczlrTWZmNkN1WTJTY1RWU3VjWm14Y0tnSTFXbVk2a1ZROUl1NnVVb1RIMXpGX1h3MEJWRzMzcF9DdVhCeDNuZ29lNW03bTAzS0N4R3ZSTDdzc25BWURtNjJUeDFtemlVVS1ZbVZOTHJRYnNtUE56by1sSngtc3VzRy13R0hpMjRxQUdjOEJhV2piWUQxZk96LTI3WQ?oc=5",
+          "published": "Thu, 02 Apr 2026 05:01:27 GMT"
         }
       ]
     },
@@ -105,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Tiger Woods turns down chance of Ryder Cup captaincy at Adare Manor - rte.ie",
-          "publisher": "rte.ie",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRE5YTnVDQVB6dmdZVUdKVWFfVERLZ2hZWjA3MlotYzVKUEs3TjZ5VXRWbDdncXJfbDJKTTR5dkt1Q1loV3hPRVBRS0JCdnp5UlNabUpaRjlEbjRFekIwQlJZa0tMM19waUxfYzVkZlc5dk5hZ0JEdDZRM2JuQ2pMWEVEWklvUV9Sa0tsU05zOGpqNEYzXzNWNlh3?oc=5",
-          "published": "Wed, 01 Apr 2026 20:17:26 GMT"
+          "title": "Duignan: Cork need defensive cover to stop Gillane - RTE.ie",
+          "publisher": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkJYd0RPSWRSb2E0cVZDSzdyMFptYW0zUER2YUI5ekhybE9EUXZwVU9CZmJqMHJ4VjRWc1BEbWVIM1k3VVFremlQOHNydnRuOWpvN3JselpDbWFrdGtZUVljM3YtR2dZdmZoMmlVQ1g0T0lXVkNaTjBuVWtPd2ZBVXRoREFrVG9OUHhLbGFpM3p0UTd4M1RvTlNZejNGN3B6dkZF?oc=5",
+          "published": "Thu, 02 Apr 2026 15:39:18 GMT"
         },
         {
-          "title": "Daniel Wiffen 'probably' swapping California for Dublin - rte.ie",
-          "publisher": "rte.ie",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWm1zT2NtYUZPNEx6MUxjank3cEpjSnhUODBZZ0N3NTJMYVBtQWoyTnctOUM3QkZtdF9PczNDTFc3bXRmdUxfTGlrS3RlUW9LMHZURkFZUTZyWmhtY1F1eklKb3lvNjFLdEo5VzNtLWFuZFFrcFpjOU1JT0JZSnhiLXhTUWY0eWlVb1FPR2E5eHlTZ0VQTmxlTmgtdTBmV01J?oc=5",
-          "published": "Wed, 01 Apr 2026 13:54:56 GMT"
+          "title": "Bodycam footage shows Tiger Woods’s shock after crash: ‘I’m being arrested?’ - The Irish Times",
+          "publisher": "The Irish Times",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQejQzQlZDQmFfLThCVTZMZkhFVEp6dFVvNkJnUFhQazZEQ01HbjdTempaMndOWmw3ZERlejc2cVc4M0xLT3h0MWlpUGw0MlYzV25fdzZSSUZUdWJWbUU1OF9zd3BDdkkyV2VPMTRndURVM21abHlDYW54NzR2SE1YOHlCald0RlgwaTdocnFFRno2TFhlZF9LOGppMkRxT2p6d3FvSFA5U1I4QmVnR3VGQ3FVeDJyVENnQS1aTg?oc=5",
+          "published": "Thu, 02 Apr 2026 19:37:40 GMT"
         },
         {
-          "title": "Limerick v Cork in the National Hurling League Final: Throw-in time, TV details and everything you need to know - irishexaminer.com",
-          "publisher": "irishexaminer.com",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2R1MxU1lFNTFWQlVucm9xeUNEUWw1eDVEVGJtMHRCTUJJUEVsLVNlSkZhQncwaXRsYjFCeGxnc0M2TzJoaXRITnRsN0RqTHJCV0tidUhRQTRPNG1xNkFGTWlaQk9wWE1pQnc?oc=5",
-          "published": "Tue, 31 Mar 2026 10:20:00 GMT"
+          "title": "Murphy will not face any sanction over strike on Kerry player - Donegal Daily",
+          "publisher": "Donegal Daily",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTlCMTQxN1hpQlp2ZGZPdHdOZmhWTUswNUhDT1V2V2ZRZ0RHQmQtLURSU1J2Q2hLYVMtbzR6TE9MM0MwSEU1WWxkRkZWY1d1TVlaZUdKWWtHTl9hamM4aWNSMTNjZkpadWVYcEtueERwWVRLbmQtOVVNdDF1NXN6aHRIREJ0aC1oN1N3TkxmbF9jcGVVZ1hOSXRQOEF3N3RoWllnLQ?oc=5",
+          "published": "Thu, 02 Apr 2026 14:38:02 GMT"
         },
         {
-          "title": "All games free-to-air as Women's Six Nations TV details announced - rte.ie",
-          "publisher": "rte.ie",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1dVRWx0N3Zydm54cndqb1IxS1c4R0RTanpSbjFmZ1RNQ1VsS2pzeVQ4dEh6THU5RGl5azJxU2g4dE05OW9MVzJUa0RBYkU4NjhvYTNQeFV0cVJ4blI1WlF6a1EzQVFPbzB0SUlJM1BUUF9LSDN6eGlWcFAzM1c4czZ3cVBiYzVQUjdrUEstV0lYWXRVRV95RHR3NA?oc=5",
-          "published": "Wed, 01 Apr 2026 12:00:07 GMT"
+          "title": "Team News | Munster Side To Face Exeter Chiefs At Sandy Park - Munster Rugby",
+          "publisher": "Munster Rugby",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYnFoSmxZUzZHSW5LRUYxZ1N1Wkpidk9QS2syMENiNkhsbi1xWWlrdG1sVkg4Um1qXzlTU2tGV0Nubi1vbjZqRG0wZmxrR21YRkw1S2gxV3FyaWxTS3NVWFgwc1RhV3lzRlVKNkxiUWFUTE8xRzIyeUpjUkN6MVhlbFhmR3F0RWZvdWJDYUV5UDkwZ0x1V3QyWEV2Yw?oc=5",
+          "published": "Thu, 02 Apr 2026 13:42:22 GMT"
         },
         {
-          "title": "Ireland unchanged in rankings after rollercoaster week - rte.ie",
-          "publisher": "rte.ie",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMW83Xy14TXB2VlVTQWl6WGxVSk5LU3pJTXJlbjZlV0pHXzViNGtGTTVPUnVtYWphRlNNNWFaUHk1a3VVd1lERk8zS25ZSWlqN0c5SVkxR2RkR1g5NG1wMlNnZ2JfSGgtTU4yUXlnTkt5SGljbk80MlI0OURVRVIyVU9YSnVCazNVTVJ2bUtGdWgwdHg2Y1FyVllramVvSkhDcko4bF81XzA?oc=5",
-          "published": "Wed, 01 Apr 2026 16:46:54 GMT"
+          "title": "Cian Prendergast returns as Connacht rotate for Sharks - RTE.ie",
+          "publisher": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMGdHMnU4Rk1WdDVfMHdaQW5pVEd3alZKUUJRbGZIelVGN1lPOEdEOXZNSHBPQ09pMlV2cEdsWmU1dTVZMDF2SXRJMDA2dEZnSnNlRG5mZjhNMFRMMHBXRlJ2N1NTX2hBV01hQlA3eERmcVZmbGtObmN2clBnU2l6TnpxNFlaQ3RvOHJHdlUyT1ZfWjJvOXBYUTdZVkk3OGd0?oc=5",
+          "published": "Thu, 02 Apr 2026 11:47:16 GMT"
         }
       ]
     },
@@ -141,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Behind the music - Searows - rte.ie",
-          "publisher": "rte.ie",
+          "title": "Paul Howard: 'I've always loved The Young Offenders' - RTE.ie",
+          "publisher": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGNfQXNQTG1GOXdqczkySGx2SW9IN0dKU2VYY3RFZkxlVE1yOW9wMGJScTVYdlJuT3c5cWplTUp1RkJEOEJSM2t5dEJSZF94Q0xpeGVFbEtiTDZ4UFZEVVozWTBDMExHWURJZ05HYlRiZVg4N1lKd0g5TTRPYXdKY3hYM28yZXVmZVNFOGhha0pzZjh1MV9hUEJFZVVaQ0RqTFE?oc=5",
+          "published": "Thu, 02 Apr 2026 07:35:05 GMT"
+        },
+        {
+          "title": "Rathoe community to come together in memory of Noel O'Connor this Easter Saturday - carlow-nationalist.ie",
+          "publisher": "carlow-nationalist.ie",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZGQ4cEpqM3hUTGl4bkh4MFFqVmdDVjM5OHI3SmRwNW1aQ1Y4aml2Z1ZyQ3J3RmhPVGVkUXI5OEhsSE5ZZWVVbF9pOTFCSHZSQVlMQl82aUQ2OVBuOThQLUpjc3M0enQwclFVbUllOFhYTUwwWmMzanpNX1RySVRJdHFsM0tRZmdwSEUtOGJWNlFZamdFd09Ca0FqZUxLUVd0OVVIUmFpdzU5ek1sc2pROEN6ZDkwdXRsdXo2RERWUW1nTm0yazlobzVnMTQtbjJOeVBlRG0zd2h6N0xwNkE?oc=5",
+          "published": "Thu, 02 Apr 2026 14:33:00 GMT"
+        },
+        {
+          "title": "Denis O’Brien and other high-profile residents take legal action against Mount Juliet Estate - Business Post",
+          "publisher": "Business Post",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHNReEU0ekp5amxrSzBCdHN5V1FLR2VBSlRDeXlvTHlSeUNmS1hScTY2SHhfVENxUG5jbkY4NVVYaGVOVEpLc3NySzRadDR6UFB2czZwVWRMWEZYNmg0N1BIX2lZdE9qdWliWFVySVh0V0ZqbzQ1U1ZjenplT2tpYzJQT3lxc3NCNWtVQWVjOFppWlpWckc3VXBOV3dGR1Z1Zi1jR1pQRHRxUGtubHJWYjRyMlU0TkM5V0VhNXI4SEx6b2d2?oc=5",
+          "published": "Thu, 02 Apr 2026 14:38:15 GMT"
+        },
+        {
+          "title": "Paul Healy’s Week – 03/04/26 - Roscommon People",
+          "publisher": "Roscommon People",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pNlhmRFBDbkM4QVNENldPdTJxRDdYNXp2STNNaUxlaTdwd0lrejJYNEE0YlRaV1VScWYtTUxzN29QUWZnT1hmdHRYYWd3ZXZyM1NNTHlseWxYbkRybjdoUnhSNA?oc=5",
+          "published": "Thu, 02 Apr 2026 11:20:38 GMT"
+        },
+        {
+          "title": "Behind the music - Searows - RTE.ie",
+          "publisher": "RTE.ie",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajRkQTAzZlpWQkdJNy13WndQNDRaNjZKckNPWk9XbUJjdG1heVJkM2Z0RERabmt0YTQwZE82TXdyY2tRM0wyRU5VNEpGUE94U19UMld6LTZGTTJVdU41b1Fxc3RwSDBKRFpiSWl4dFRvN2FoOHBQc0Z6a2wzNlhNZmh3?oc=5",
           "published": "Wed, 01 Apr 2026 18:09:51 GMT"
-        },
-        {
-          "title": "The Cork actor, Knight Rider and the popemobile - rte.ie",
-          "publisher": "rte.ie",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM0gzOU1uTC1qY05VTUdhbTlaVjMwMGJZSldDSmV4RGVkc0JuYi1DTVVfc0NraHU0UFM3SWh1UjF3NktmTmRPdWd6VjNOTGFLeVpNQVN3S2hYQ2NMWUtpYkc3SjlNMUMxcVo2RjR1ZGtUV0dCMHBjOU1OQzRSVzM5cGlfN0FUOHI5endRM0FEQjVOTUpsNkVhWlZuQVoxdWs?oc=5",
-          "published": "Wed, 01 Apr 2026 10:00:02 GMT"
-        },
-        {
-          "title": "‘I found it hard to cut my mother off completely, but I had to’ - The Irish Times",
-          "publisher": "The Irish Times",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNV8yRW5fR1VBZjU5a3pYSkZubURQRGM1ZmxvMDlQcjdlTWtxSloxbzZJRHVteGo3ODRJSzAwSXBWbGtPUUppdWtJZW80X3EycUhrb3RCdGpvOUZGMVF5cFprN1VDZ2czbURoRTU3aHY4djJZZGo1TGw1Q080VXVoS2k2UERieDIzRDhjWExHVFVvNmt5Z0I3NC1pb3Q3aXBrUVk3NTB3TG1sVVdoVGdCUFQyUEo2Y2JEMUE?oc=5",
-          "published": "Wed, 01 Apr 2026 05:13:11 GMT"
-        },
-        {
-          "title": "Apple Offers iOS 18.7.7 Security Update as Alternative to iOS 26.4 Upgrade - tidbits.com",
-          "publisher": "tidbits.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdTdGb04zTXFxRUgwMmg4RVN0MUkxRTAtMWlTYjBLUXhReXZfWFpCT0tETERySzRTd2NHTi1XeS02MG1HUmZqd3NCWHlLdmNJa0E4VVpwaWY2SUxWa251aGdhaVJicXI4NFhMZzE3blJ1bzlkSEZVcWVUU2JkcU1ZUklSMzRuSFh5MDBMMHBqUEZKaTNKZ25leVc0WDlYcFZEZWR6alZMZDZ1UQ?oc=5",
-          "published": "Wed, 01 Apr 2026 20:17:17 GMT"
-        },
-        {
-          "title": "We're in a scrolling pandemic — here's what happened when I swapped my phone for a book - irishexaminer.com",
-          "publisher": "irishexaminer.com",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pUEZsOE1sLVlVb0pxdVNwV05yWnJrMFRqNHRmOV9Uc1ZHOWljYWx6RURKT0M3a3RKX3RVbUhaejAxVnpvazViQ2M3RTY4b1k4bWpZcTMyb0lGeUtDNk1FR0J3cHg4MThTNERSUTNXem9QZ3c?oc=5",
-          "published": "Tue, 31 Mar 2026 07:11:00 GMT"
         }
       ]
     },
@@ -177,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "'Soccer is special': Marcelo Balboa reflects on Bay Area’s role in 2026 FIFA World Cup - ABC10",
-          "publisher": "ABC10",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSkppamtab1FaTHVJT043enpWaHpSRURLcGlxbktKM01ieGVleDFMb0IxQnFpOUJLX2pBSUxDMmFkYUpwdlFUQ3ZEc1VPSDRybHdEQzgyemNCdTBfVWJLU2dDdlJaaVFzVVg4YWszc3hhR2lTbTlIaFpGUDZvVDVYUXlnMkZkUDJfQlBtall2RW9BRzYxUFV1OUxtV3BBMXBZYkJVNnBLLTFBdnQ2dDVKWnl0aEJWa0I2M1Q0OGlsSGI?oc=5",
-          "published": "Wed, 01 Apr 2026 20:23:00 GMT"
+          "title": "Messi, Ronaldo among World Cup stars to feature as Lego - espn.com",
+          "publisher": "espn.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnFjVGRoMVdfMXhnUWVWU0x5aGFfMHpnd0Ytcl9rOE5SYVRFZlpINEZDeDk4b3pRc1NtekZUazBaYjVkWml2b00wMUdtX04ybDVtajNvMG1ZbGdqVnlGdTFvUk5oWnFmRnBBRHU4ZjZFZW40TEJMRmZXejd2ekNLdDR5SmJQQVAzMFRNVmNQQk5VT3VvWG1zU2UxazdReTVjT3lkR09ab2Y0Qm8?oc=5",
+          "published": "Thu, 02 Apr 2026 13:03:00 GMT"
         },
         {
-          "title": "Once World Cup outsiders, soccer-scarce nations are crashing the party - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMlVVSlR6b0tDNV9uZGo0UW9rV1F1cEhkdEwwekVZR1BjTHRreTUtR3FqYjB4T05tVzhrMHBKRnlMV3FRMEJkRHVyeV9wanVXc0lzWllhVldjemZrQmpzak10RXRTSVl5dFRnaTNaOG5CR0lIMXBmVzVCUXJGaHB1ZDQ5cmtEUW9HN0hGZmxzVWJrZmdzc3g2OVNNMXpmNHoxRXVPc1daNWdIdlp3RkE?oc=5",
-          "published": "Wed, 01 Apr 2026 15:42:19 GMT"
+          "title": "How to Buy FIFA World Cup 2026 Tickets Now: Official FIFA Sales, Resale Options And StubHub Guide - NESN",
+          "publisher": "NESN",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZHQ2anRuN2xXZzBLLW5FRmFLZUljejI2bWxDOWF5bkk4SFdtM2h0OHVDT2R5ZGp5aDVER1NWZkM3RlEwRFRvNDVMdWc5cE82aEJWRXM4ZkwxWWEwbVkwbWJnZEdZSXA5alJFLWNxTGRRTXp0bGtMdVM3bW1uV2FsOG8zd3NrQmhJQnFKc2RIZjVsa1FYRWJhaGdyVDhYRFhrVXJMb2VXN0hqbi1SbEpVaVJMWmI5UzN3UEVR?oc=5",
+          "published": "Thu, 02 Apr 2026 17:26:04 GMT"
         },
         {
-          "title": "Italy have themselves to blame for third straight World Cup miss - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR3JEb3EzQjdnY3BkUTNINzJmMGVUSEJ0dGVyYmpmMzhkLTEwU0d2VEgzTGJYdTZBU2pxc2NGWUpLUk1OenVndnA4WWVEVlNvdnkwTUdJY3lOdmlKZGtMSjNvN213YzlNZEFLNGFqcUJxV1NmaFRRQUdJLXU2M3BUT0xXSGVxRjlfcGx4UU5VbExaMnluMDlxbExmcDJ2UGR0M3V6N1VETFU4c2NHTW9UZTVUQmE?oc=5",
-          "published": "Wed, 01 Apr 2026 13:06:00 GMT"
+          "title": "Italian Football Federation president resigns after World Cup qualification failure - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWlHVFpDc2hRWUlETDZIN2tfc2dYT1JZeWx4MThUbGdtcENOYnhra3RXcGN3SUdLazVlZ05qMkg2bHhrYWhZUzFpLU9qTGd2ZGw2SmJ6X1VwOUdLcmVncnliZkdtNWhxUmRHV0pWRVFEakFseF92SnpINGplc0M5Z2U4bjZ0WXdTZHNITg?oc=5",
+          "published": "Thu, 02 Apr 2026 14:47:53 GMT"
         },
         {
-          "title": "'The World Cup curse' - Italy sheds tears after missing out again - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLW9aLUU2MUliUU8xN2hlRUl4eEJyTXIwV3gxYzF0LWxUNFVqZUxzaGJlVkVBbnU5WHpiZ29fSHRucjNNaC1JSTBWSVVuRy1rNURCbUFoT3lZNGsyWjFQMWQ5MThWU2ZmLUlQU0FHQ0x6cTZHMFVaM2Q0LWVHdHFCME5RZ1lDdFRxWjRvQlRTQ3o2aHFHODJRZWMzUUxPZVRYNFk5cXcyV1NCdllxX2NRVlhNdVhSa1Z4Tldv?oc=5",
-          "published": "Wed, 01 Apr 2026 20:08:32 GMT"
+          "title": "Women’s Asian Cup finalists accuse governing body over equal money - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0FXMVEtcnJsTGVocjBtTDRaU3lkSlQ1QVA0cjVKRTFDblhMTWI1ZWRUMVExOWdzd3J0YlY3VlJpbEtGVkNlR0tMeDM5RjZTb3h0ckNYRUxmcnMtZElyRWFsN0ZnQ3FZbkIyU3NoZk5nX0JGRlZ1X01XWkc0QmJvU1Y1M2JiZjlqRGZYY1FITzhOY2tUYmVPYUY4YzZVZmxac3NlWW5jT1F5SVXSAbABQVVfeXFMTjZCbjlFdFlGQWw5RjlVeF8xWVpGYTgzUDR4UmptbmdJM1JKVzRzamFlcFJpd0Izbk9uTy1zMGJVZC1IUG9RWUNNVWlyYmJQS0psaEd1ZFlhVV9id1NjR3BDRW9ET1Q4Sk01dnY5UlBrc0ZSVUsxWDdET05MamVKNW1xMFk3UExoU0FJUEM5cmpWOFk0LVlVdEJBLXBNRnVNQlZfRlI1SXFqUENJbXpBUWY?oc=5",
+          "published": "Thu, 02 Apr 2026 12:09:41 GMT"
         },
         {
-          "title": "CITY SC’s Summer of Soccer aims to capitalize on World Cup excitement - St. Louis Magazine",
-          "publisher": "St. Louis Magazine",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92c3F3TDFhTFJLZXdYYk42OTBxVG9UQXRLZ0R4VVBGV09LZGV3X3lSdlJLSGxkN3ZkM1lmUlY0d0tuRTU5M3AxUEMtX2ZLOWJRZ3NNTDNWemxudG9RTDdaMURKOENSaTgtN2NneGZQOHQ3Nk9fZ3VFcmxudw?oc=5",
-          "published": "Wed, 01 Apr 2026 13:13:33 GMT"
+          "title": "How USMNT Soccer Star Weston McKennie Is Fueling Up to Get World Cup-Ready (Exclusive) - People.com",
+          "publisher": "People.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DbmpVLUpMVzV5aFBOUTBuLXRRLXJhY1hIUU9fYkhjTjJHOEdoWHcyRTgweExpMkFXN2tPdHhySHA2bHhRTTctTUpkV1M4SHZCMUpQVURZeFJkVjh2b2VhYk1LWlMzbUphTUpzczBLZHhqNVFLX1JwUmhBdw?oc=5",
+          "published": "Thu, 02 Apr 2026 17:15:27 GMT"
         }
       ]
     },
@@ -213,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Megan Thee Stallion Says She Was “Running On Empty” During ‘Moulin Rouge!’ Performance - deadline.com",
-          "publisher": "deadline.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSVAxdFdnOTdJN3NoNmJoMWpsRFBQNVJubkxYRzhqTENOdlcwWFpMSXV1QmQ2aE05T09BTThTZjFXZmhYaDJXVVFDTm51QzF1TGdjRVRnR0pzblFVX0VxQXJVTk1LY25ZY1BPWUl2QVd5MXhvS3oxN052a1FVMFl2RGlMTGx5bHZiclE?oc=5",
-          "published": "Wed, 01 Apr 2026 16:48:00 GMT"
+          "title": "Judge dismisses most of Blake Lively claims in harassment suit against Baldoni - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NUURIY0lacHJiTTZQM1A1ZFVRZVQzYXlzZnlPRy11N3lHakhNcnpmMGVnX0FlNDJNbVN5cllHMlpZcHA0elA2a2Z6SzRaUVcxeWxRMnVWRUYtdw?oc=5",
+          "published": "Thu, 02 Apr 2026 21:00:56 GMT"
         },
         {
-          "title": "Zach Shields Set To Pen ‘Weapons’ Prequel Screenplay Alongside Zach Cregger - deadline.com",
-          "publisher": "deadline.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUV9Td3ZSNDdpczN5VzkwWnB4YUVuYjRIMnZYWkp2OEZwWWd0cWpPd04zQXFRcjYtTGRqRmZ2UGpMbU9IaklIMzlUd19MTnNkTWhyZzFfTmo1UXR2UnZwQ0l0UE1rODdIZDk2Sml0MW10bF9iLThuU0pwTlZ5WHpqRkNHQllVSFFxTFRBRlZkU04xd1pCb0tuaFdlV3U4UQ?oc=5",
-          "published": "Wed, 01 Apr 2026 19:25:00 GMT"
+          "title": "Gucci Mane Allegedly Kidnapped, Held at Gunpoint By Pooh Shiesty - hollywoodreporter.com",
+          "publisher": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMUoyS2hpNjhLZHNaWWw1Q0l4aGh1YTRrN1VUdDJ4cFVoaUdRUjMwTHBKd2VMdXcyRkRCQ3kyUjhzNE03dUloZ0hSSXd5RzNMeHdUSjZ6SlBPRTcxMlM0R0RyZUNyNUZoc3dTS1lSM05Qb2wzZ0N0MGJ6eURVTXhULU4wV2Q2ZzVwNFppZWlKVWNGZmExbmlvOHgyTnIwNFVfb3otNHFScXBwal9oWjdCUnZiRTBvbF80NFpkVnJ3T0F5QXpF?oc=5",
+          "published": "Thu, 02 Apr 2026 20:45:37 GMT"
         },
         {
-          "title": "Bruce Springsteen Gets Political at Show in Minneapolis: 'We Have a President Who Can't Handle the Truth' - rollingstone.com",
-          "publisher": "rollingstone.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTThlYkpiM29DbktGQWZDMl9fdW9XdDZzWnpMdkJOZXpObEhFMExSeW5YSFAwV0pFUWJjV2VScF92MjZSS09rc0k1V3BUcjZfQlY2S0pBazdVV3o2Sm1CcVpOZW5BZFoxLXZjSGVVdW9Xb1ByQ2R1QmM2ZVU1aXgtUFRSTE55TjM1RkZOTkN5UmZlSTJFQy1jdFdPQnpjQXQ1THNSem1td3Q?oc=5",
-          "published": "Wed, 01 Apr 2026 05:41:54 GMT"
+          "title": "Hailee Steinfeld says she and Bills quarterback Josh Allen have welcomed a baby girl - apnews.com",
+          "publisher": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSGJhMV9wdnJXY1lLTTZDMHlmU0p5RW1GOFNPWGVKNnJ0T1BVRUlTRHRWUUdGNGhXUEVBalN6UVBTbzhlc3pXcVdkU2hpWjVybkZwZkg1M0RxY2hiRnJuV29CZV9Wc0lsN0RnMWNqU0M1UmVQSzA1ZXhQbDJDem5GQWwwTUd2c3ZqdTZxMFBGalZDZHNnR05n?oc=5",
+          "published": "Thu, 02 Apr 2026 17:08:00 GMT"
         },
         {
-          "title": "Paige DeSorbo Comments After Amanda Batula and West Wilson Romance Confirmed - Yahoo",
-          "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVF9Jc2ZXWDh0Q0Z6d1hoSW5SdTNKdTJqQ25yOXE2SnUxejdoOTNZWkREZ1RqQU14cEltTUpfMjViQkJJQzF4eVhPOTFhUThNaWZiNVd4c3E0Mi1uMHVoWk1LUWpQOS10R3k5TUtsSXZCbW5ES2E1bml6eTZjSmxHUENpRGItVVFtTmVfeXRJU1diQzdPMDJyY24tb2pKWk4yQmZsMC1SMGgwUQ?oc=5",
-          "published": "Tue, 31 Mar 2026 20:13:53 GMT"
+          "title": "Ye Takes the Stage in L.A., Hoping to Wash Away His Sins - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzlLT0E4eEU3eWl1U1JZc3Qxbk94dHg4X3ZwcS1yd2lKQXNXN3otLXhFR0d2R0dyd0ZtSnU0WXNTV2kyRFFLSGJzbUZNc0FYdjhyWVdmWlhSWW5lV01kRVc0a1RRZ0lIbjdlRDFtYU9WOEJrSnNlN2pRTGJ6R3JoQUxIbDRpS0ts?oc=5",
+          "published": "Thu, 02 Apr 2026 12:56:59 GMT"
         },
         {
-          "title": "Taylor Swift-Travis Kelce wedding date, location, & celebrity guest list revealed - Yahoo",
-          "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3oyeHlYVU5qQUFWb1JtUV93cnZsR0VpeTlObDNMc0J5aFhZaE5wbzNwWkt6bDdPUzdUcURyQkY3cl8tbmtXSjhsamRFRXFzRlpkT20tT1hrMlAwMGJFVGVEMTVLdkZFRU9vVnhaRmJaRjFNUkI2UFVrNzJKNWk2QjUydkoycFFHMnJad1NKN2Q0X1BWN2d3cm5BYTFuVTVvRFJfU1RB?oc=5",
-          "published": "Wed, 01 Apr 2026 15:16:49 GMT"
+          "title": "'Summer House' Ciara Miller Obtained Video of West and Amanda Being Intimate - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ1QtMjlTX3R2WVlQMC1sZEgzd2FGWlliN01PN0ttdTZESERmaDNnSjF2dTl5UnVBc0pwMXFPOUtSSHFXZ3otV0VtdFUzN1p4MEd0WHRiNnJ4THlKdzY2UWpDbmlUMGg4clZsRFQ1WG5KTXZ6eUVrbHZvZldKU3loaTZRcVc0SkZnQ0lfN1BFVUg0dDQ?oc=5",
+          "published": "Thu, 02 Apr 2026 17:38:59 GMT"
         }
       ]
     }
