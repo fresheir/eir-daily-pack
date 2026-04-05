@@ -1,7 +1,7 @@
 {
   "market": "HU",
-  "generatedAt": "2026-04-04T22:29:48.066828Z",
-  "validForDate": "2026-04-04",
+  "generatedAt": "2026-04-05T22:30:40.327552Z",
+  "validForDate": "2026-04-05",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,10 +9,22 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Szijjártó Péter szerint Brüsszel április 15-én előáll azzal a javaslattal, hogy kitiltsák az EU-ból az orosz olajat - Index.hu",
+          "title": "Belföld - Tarjányi Péter a Török Áramlat ügyéről: Ez még nem robbanás, ez narratívaharc - Index.hu",
           "publisher": "Index.hu",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFlxalhGRWg1TXJIRHdkSlRwWFVxMloycnR3bEhfeDN5dXVhNzlHX2dMYkdnVk5mdmpUM1hyWnFTLUJ6dEhxbkF0bDMyZEZiVlpkeGw0RXpUbDB4M2taYW9Nal9WUkpVT2hQb2RES3R3S2YtZlhMUjR6WGdSb3M0cG1HOUZmRHZPbkdoZEZqbEdHcjhMZlZfaWFHSTRPYTViX0FVdXBTUWdxZlRqbTQ3SE04YTJVU2oyTkJnb0p0ck9aWnJEUHlNcEhn?oc=5",
-          "published": "Sat, 04 Apr 2026 16:46:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFR2V0pqTzQycU41ZFpxa1B5UjFNQTE0MTN1aEN0YUtPZWMwbzAzdll1anhnejRPWWxkNlAtNThPODNUSHhPTV91YmlpbWR3LUZaYmUtbTVXQ3h6X2JEcTk1M0toMGE0cnZoY3M2cWY1NXlhb0Q1RnBOUzJKS1ozcmh6MmVRcWRBc3hZcnlmU2ZUdUdFNTdMeEhjYTZEVU0?oc=5",
+          "published": "Sun, 05 Apr 2026 16:25:00 GMT"
+        },
+        {
+          "title": "Belföld - Nagy Feró: Nekem nagyon fáj, hogy Európa összefogott Ukrajnával - Index.hu",
+          "publisher": "Index.hu",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd1FEVEFVUlIwNFdPZU01R2FKdnkzYUg3LW8tZTZ1eGMzVXFfVXI2WnBtem4wd0F2M3JKR2ZMbVA0aS11LTJ1STFtMzR5dzYyS0lKV1pCMlJ4ZTZvTVlqMHJ4akp0WjRnZnBjdThJRC1yZFRhX0lfYjRzdUJCdlJzSEpfaXEycUhReXlxZU5B?oc=5",
+          "published": "Sun, 05 Apr 2026 16:25:00 GMT"
+        },
+        {
+          "title": "Itthon: Orbán Viktor a Citadellán: Magyarországnak ki kell maradnia a holdkóros brüsszeli politikából - | hvg.hu",
+          "publisher": "| hvg.hu",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RNFE2TzBQaU5xVEpPSkFFazR1VEp6a0JMZU5CTU5JTkdHN0FvcGt5dG1BZWY3YVJuZ2NTVTFXRjlOcDI0bFFYOU9xQTRBRS1pRWM0YW9Gc1hMc2cyeGRlWGliaENXMXF4a08zXw?oc=5",
+          "published": "Sun, 05 Apr 2026 12:11:35 GMT"
         },
         {
           "title": "Mesterterv: atombomba Magyarország ellen - Infostart",
@@ -21,22 +33,10 @@
           "published": "Sat, 04 Apr 2026 10:29:00 GMT"
         },
         {
-          "title": "Magyar Péter az AP-nek: A Tisza-kormány pragmatikus lesz az oroszokkal, konstruktív az EU-val, a vétó pedig valós opció - | hvg.hu",
-          "publisher": "| hvg.hu",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3dHQUIwMXUwS0pYN1lHMTMydlQwMi10Um43TUY2SFVOOUdEeWV6bkZZZnBFaWhpejVTa0twMjhrX1U5VFlWX1FwSEI2WlcyenQ2RWx2RDhuNUhhbTVYWmlvakNuSW5NcDZxdENTTnoyOXhoM3E4YmJXRVN0b210YVlRU2p1TTg?oc=5",
-          "published": "Sat, 04 Apr 2026 07:15:21 GMT"
-        },
-        {
-          "title": "Csak a szerb határig vitte a MÁV utasait a vonatpótló busz, onnan sétálniuk kellett - Telex",
-          "publisher": "Telex",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOangxUzJHQ2xOYWN6NWlFTmhGREhpRzFaUmN6Y1RwMXIzd2hKNThFdzRGT3ZmV21wM29HUTAwakphMmgxd3FYTXhIcE1rQ1B3T1d3bndtc3pXVGZMcWtSNFpVamEzLU5odzNXakM4RWxSUjhXbTZnZXJVVEFhUVBTOXE1V2hvcEx4UFR1c3dRU2Fndk5DVHFjVFFNVEZlMXRjU0l2VWZ3OGdfVVpwYnM3Rg?oc=5",
-          "published": "Sat, 04 Apr 2026 18:36:55 GMT"
-        },
-        {
-          "title": "Történelmi fordulat a magyar választásokon: kieshet a parlamentből az egyik kisebbség, meglepő dolog áll a háttérben - Portfolio.hu",
-          "publisher": "Portfolio.hu",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQTlfYURibDRiZFdfWjNfamdWemtaZE0tcnJHN3pOeE5vU2NscThGc3hYSlRGc09uR0MxZ2ZVOEpBazZLOHh1Sll1NTJ2cVgybVByOEdfRC12WUw2OU9jQ2FaSkxyZGFZa0lwX1NYZGowckhONW0wYVAzLUJPcHVDZHczeFJ3R1NCNjBOdUtnTmxreFhyTEZRd2JUb0t0WnkyaU12X0FKWmFyOTJnUC12WDE0OHNROVZwZWp1bDBwaDdETWplbVUyVU5yazgxUkN4TGF6ajRQOURzOGNJOHhBekkyZnlrTUJtSE9uYWpvcS1NUUllVWpB0gH8AUFVX3lxTE0tNEVrRzVSd0VscGRZUVJFbDU2WmFNT3VpcDJUWko2aURtOFZHci02Y05CZU42Q0VjTk1raGJ6ZDJOa2l5NGMyaDdxYWJmcU1LUVJWeXhQblJycGNySlhheXRvRHJxV2l3U0NfdU0tVV9leWRHX3BWeWdsdFZpOWdRV1dQZHMyMVpUYTFadWFXZkU1WXhiakpmQnFKYXJoakp1bEhUR3RSckZyQTJ6bFk5OGVWT1RUUjZjRXFqOGJjUDF4TUJGbE90Y2JKeTEyb3VNeWhPS054cE15QlN5ZVFhTWgwLUQwTTZnbjNhNzJaclE0b2pWeGd6Ql9fVA?oc=5",
-          "published": "Sat, 04 Apr 2026 08:44:00 GMT"
+          "title": "Még Bud Spencer is megjelenik Orbán Viktor kampányvideójában, amelyből kiderül, hogy mindenki a miniszterelnökre vár - Index.hu",
+          "publisher": "Index.hu",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXpVNnppRmw5dXRCUy1RX25XSUNwbjA1dVNnSXhnWVVieE56S3NGZEdfYkgzR25hdG42NDZVUnBfTnZUSkJ3NlFzc3dSNWRtZGpXVXJlZjdWVkRlSDFLdTI4cmZDR1ZXY3pLSkpRZnhTbFpnclFIYlZLX2hnZTE2TFRHVndnUzQzejJNcUNrLVc4LTlQZnplOXJtVTVNYU5lZGtOWW1FNHlQN0N6aEk3aHVIVW1xS3RuM1B2WncyQQ?oc=5",
+          "published": "Sun, 05 Apr 2026 08:47:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
+          "title": "Világ: Trump ultimátuma: megvan az időpont, mikor indulnak meg Irán ellen - | hvg.hu",
+          "publisher": "| hvg.hu",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNEV3cTF6eXBLXzA4OXFsQ0NZM0pVREVIMG9kbk5lNVR1RGgzZGZLc0JwWmlQMmd1NHYyMzl4eWU5LWtPTEZ4dWoyS3pnaXFoSDI4M3dvb1BKS3R4ckxyVi1pbHBsMENncGZ2RlBINjY5Rm1oNnNqWU51REVScXdqR1hsdkhhcVA5WWc?oc=5",
+          "published": "Sun, 05 Apr 2026 17:56:16 GMT"
+        },
+        {
+          "title": "Megvan, mikor lesz a pusztító amerikai-izraeli támadás, miközben Trump nagy sikert jelentett be - Percről percre az iráni háborúról vasárnap - Portfolio.hu",
+          "publisher": "Portfolio.hu",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNjh2TDJIcUJvX1VGOXZ2MkFzVXFiNVJSekx0UzVuSTA3QjdSWGtWTW9MMjJSQlN0QnlTdzY0MWJiazdBWHlCbWs1MkF2OTZ0RXFyTFg2N1lVUzh2c0NQMXRZdlpMZ0lDbGQ0bUd5OXpFaURPdzhOYzdOdmozMVdsTlZpNzdTa3dQcUt3UFEtMW9wdDZoc0JQb042WTVsUk1EenRjdDV6cEFnZDhld2EyRXRpVnZIOV80dFM5ZHNBS0RYcF9VZUNWb1pRWDN2S3NXMXZobWlvbkVyZ2JzRjNZQVBQY09KTlE4ZmpjVlZfc0hCQzdTY1QzdE5BQkZDVV8xdkUzMzhfM3lwUFFUalZmOWh30gGXAkFVX3lxTFBnNUs0b2Z6XzNGM0NiVmYzcUlaeUc1Yi1GcERhdHZKU2MwZmJJaFFaR3dKVEszRldibHdDOTRwNFE2YnRPRmNmTlNXSV9ZeHU5RldrSF9UTlJ6VWd6LWhmUzBWeERVQVlWZUZENVpWeS04RlNBbndiMmhUSlpFalFMZ0F4eDBnTnM0WE52aWtxS1Faa0hoOG12TEJIT2dvcno1NGYteTZpTnBsN0wwb0JadHVrTEVxUVVrc2hwVXEyT2tETzZmYWxHLWV0dU5XaDhnSnI2Q3pvdU4zS0x3b045Z2xEZjJyZG5hQjdGOWluaVZzMldxZ1pnNlFwVlBnRWpnVHJaMmlteXhhdTMtdUZUUXZBRjBtZw?oc=5",
+          "published": "Sun, 05 Apr 2026 19:55:55 GMT"
+        },
+        {
+          "title": "XIV. Leó arra buzdítja híveit, hogy küzdjenek az igazságosságért a háborúk ellen - Telex",
+          "publisher": "Telex",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwSlRrWW1PX1l0YjFVNXdsRnJUWU5jeEFHVXFuQkt6eEljMV90b0NmNXo3bzBXSzFTVHUzcVQ5YWRJWExIYmNpREprcHhyT0QzMElGUVVtUDdjT2lnTnRhOW0zTjJ5NEM4UWNpNWZMRXI?oc=5",
+          "published": "Sun, 05 Apr 2026 09:23:15 GMT"
+        },
+        {
+          "title": "„Súlyos csapás” – erős nyilatkozat jelent meg Nyugaton Vlagyimir Putyinról - Index.hu",
+          "publisher": "Index.hu",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWEZEVkVZSkx2Y083SWxIWlF1WTMyTGpRZk1rSGExQnpLQ3p2aEZxUzRORkJRbkpvSmZHLXU5c1Rub3ZVTFR3d3lJN1QtSTc5cU1PTEFrSkJ2d0ZMN0ZiMUFqYWtVeFU3eXIwVlFacktPcWQzWXVrR2ZacEM0dFhkYm5fNlNqS3pWd0I1R2ZOSDRWVTBXbWZsYmM3bERTTmc5eXBWNHpEYm8yR1Z2Rnp5b0JuQ3RPa3QwNXdudEZralJwWjV3R1FWbVh4ejZocHdJQU1PMDVqV0V4RXNGOExaOFJVemE1RVc1Zl9VTEQ5WFUyenM?oc=5",
+          "published": "Sun, 05 Apr 2026 19:37:00 GMT"
+        },
+        {
           "title": "Európában hosszú távú energiasokkra készülnek, egyre inkább érezni az iráni háború hatásait - Index.hu",
           "publisher": "Index.hu",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXNfU3NQbzRCanRkbFZvbVNyT3ZqNGNtMngxQjlUaUdfY1Job3lTcFg4eXZtNF9NQUtfcGl1enI4TUtGRzFfNEcxbl9xUkRwNG1aYnVLOWxTN3BMSW9leGM0VFMwdkFWWm5wTHEzRW9DN1MwZ1ZMc09zUVNtZjg0OGVTeHlCZnZybzZvS28zYWtqNV82bnoxdzdMRThzbWFRSHA4RjJR?oc=5",
           "published": "Sat, 04 Apr 2026 15:00:00 GMT"
-        },
-        {
-          "title": "Amerikai repülőgépeket lőtt le Irán, kemény ultimátumot adott Trump – Percről percre az iráni háborúról szombaton - Portfolio.hu",
-          "publisher": "Portfolio.hu",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONDNkMjVBVXl5blNrcVIzaHdSclQ3RHg4ZFVWeTJQWlB4WlNQbm54akVLNk5jUG1UbDJkZ0tvQ2lUNW1TMzEtOHRmRWkxdG0zaTIzR3ZKSTVYRHM1UkY2TDlUa3Q4VWVMT3RwRmNCRXRpT2E0bTBEVUJHU1dSWldma21leHFhUnN1MTNFOGlVeVhfeHQzdERrZFZVdGRhNENhZnJkY1RIVU41YnBlcDRCWS1ZRnkzUDRuU2RlZ2xrX2ZSbjlWNzdKZ2hjbkx5a1hZbExJX1JuSHlxeUlMRUZoTFY5Ujk2UDc1OGVrOWt5TdIB9AFBVV95cUxPVTBzS3lla1UxWWVmQU5zMk9vM0dZcjQyLUN4MWVreWNXMXpmbmhzUFhkUk1ySFBXdUM3T01HWHhHbS1TRWhSS2xWblhONWhYNWptX3JjdTF4WnJMeGVhbDJueFdfZUxhM0g1SlVtR2p6bE9SMkptWE13RGhpZTNUdXZKM3lsbG9Pb29TSGx6bGhmcUFtS3VVZnp0S3NEbldxdWQxbWhPRTRlY0J6eXBzdzNpQ1VmT0VRaUV1VVdXUmIyV3RCNEZVd3dZWmNJUGF5b2ZDZWUzUFZmSnIxTzZtOFdqaDY0YmtmM1laVDJPOXVSQnI3?oc=5",
-          "published": "Sat, 04 Apr 2026 18:07:00 GMT"
-        },
-        {
-          "title": "Trump újabb ultimátumot intézett Iránhoz – most két nap van a Hormuzi-szoros megnyitására - | hvg.hu",
-          "publisher": "| hvg.hu",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT3lUMXhaTWxXWW5uVEFuTlFYUjliS1BSaUlkRko2WV9RcmMwRHROS1BCdWtLc2d5VTBxU0tKdk1JcDdsaTNrOEV0VnRZUmFsdkowM0NfTWNIZzN4UFFzYXRVbE4tSEJnU1pMSUtXZ2oxWE9NME0ybnNlMUhkNUdBR2lmaU5ocWp1NG03RTYxVlktN0tnUElXWXE4bzlpRVhFNFJSLTJWa0o2OTEtajQ0amd4NVQ0eWNB?oc=5",
-          "published": "Sat, 04 Apr 2026 16:17:48 GMT"
-        },
-        {
-          "title": "Újabb ország hajóit engedi át Irán a Hormuzi-szoroson - Portfolio.hu",
-          "publisher": "Portfolio.hu",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEljU0tOWjcwNlFlM1loZFd6WngzbTN1QkZiMWhWQ0FIbV9feHM1YkZfMkFVMDNxd0tVaEtnWGhYVHR5bnpqX04zbFk3M2NEWWdlaTRGek1USWhnRUhHZC1SMV8wM09ZcXRGeXBiZ05QTGF0TFgyd1lPMHNlUXdMM3AzREhBZTZXaGNIOXFzbDVmMTQtV2RPR1FsaHJ2MDdMa1FF0gGoAUFVX3lxTE1pWHdxNFRVZzIzaWtPZjM3dWozQUpvcUdOTFVBdVJUVUNzQWw3dzY1UkZqUGlORkctQVlvLXFiUW5MRDZhUTFDUkc2Y29XNDllOEtSR0MyRTF5Qk9ST285dkZOVVpRVFVEazhva1ZVNzZ1cEJTMnFxeGFjdFM2RF9RYjFON29ibzFFcnAtN2dENnlSV3dRSVBaeVVEYTlRM2xUSy1PTnF4UA?oc=5",
-          "published": "Sat, 04 Apr 2026 16:33:00 GMT"
-        },
-        {
-          "title": "XIV. Leó pápa vitte a keresztet a nagypénteki körmenet teljes útvonalán - Telex",
-          "publisher": "Telex",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZUdjd01rclJRUHNCemZ3anYyQ19lVUN5SnhIa2txLVNva0E0OGc4ODZtRTZ4Q2lCcndCRXhBaFk0UG5QVll0YVMySzl2b0FwZHc0ZkJscUZvLVF0blhTNExkUE5GZjhyTGFjcFd6WG8yU1dRd3JwSHNGdEJTUm9HWEdR?oc=5",
-          "published": "Sat, 04 Apr 2026 13:56:36 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Gazdaság - Reggel hatkor jött a kíméletlen e-mail, így épített le több tízezer dolgozót a nagyvállalat - Index.hu",
-          "publisher": "Index.hu",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjFDWmUtdTNhMFh5VE5sY3k4Sy1KTllVcjZHOEtiUlRySXc1TG04QUlkUGtVZWVaWDFTU3NsUTdUMlBKWHhXZEI5SFNtM2dLeklldkV0NlNvdkxSdVJkQ0xTTldTM3hNaTFEcUtya3ZWNjFOMnNkVVBqRUZnZmlnaWF2dDNjSE5KZ1k5bg?oc=5",
-          "published": "Sat, 04 Apr 2026 11:14:00 GMT"
+          "title": "60 éves a Lamborghini Miura, az első szupersportkocsi - Autoszektor",
+          "publisher": "Autoszektor",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONi1kckpsRm9xdDVDYnQxY2ExWm9TM2Y3TzRwSmVMOTFvTEM5cXE5TUtkdmJZaWN2dk5OXzB1eEtSTGZJckJzRy1WTFQ2UnlnNHFSX0labTVZYXVuTFZVanBrT1RrTEVweXhYVVJqRjV3endQbnJ6TGxSbHM2MzJ3QlpXd2hycXYzd29pdGlMbXdmZw?oc=5",
+          "published": "Sun, 05 Apr 2026 18:11:44 GMT"
         },
         {
-          "title": "Villanyóra #326 – 10 éve jött, látott, győzött - Villanyautósok",
-          "publisher": "Villanyautósok",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTkM2R0haZ2FBSmNpQWlNLUVkQW1jc0VaTXNpVE9iTExqanRrMlNPUndMVGhZeEtvN3VyM2JGTFNCZUdWaUhnbFZYQzloeFZTb2RkbXJkMjV6SFVKZDB1NWtkTWdFTkU0TU4xSWhFV1MwUDVOT1ZFM1VZT3UtTkc4dGY4Z1F5UQ?oc=5",
-          "published": "Sat, 04 Apr 2026 09:12:13 GMT"
+          "title": "Fájdalmas bejelentés érkezett: váratlan szigorítást vezettek be a felkapott AI-chatbotnál - Portfolio.hu",
+          "publisher": "Portfolio.hu",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaFV2Q0xMNy1zaHF6bGk5czV2WGN4QlhsMFdjVUF2N1Z3Mng1TzREd2RvMnQyVWJ0ZEVjZmdKLXNTRmFCa09POHZXRHNDMGlqSVUzT0NNMDZCa0xCVzVRcVAwNC1RMVdOQUl1ZHhjVjk3UURvVm5VVHB1QmJXbHExMUxLN1RiMFFtb3FtNFBOQjdqQVlIbUt5MU9ZRXBKNGpIN2U3MzdmQWFxNWhCa21xOG5PTm50WFZJdWFxZ1pyeENoTHZRanBSZnN5U200QWI00gHWAUFVX3lxTE9NUUVPX2dmaEpXWFZQa21tV1R0Nm1YOENHMllrWTI0NXNMY2lRU1dhWnJSOEtNdG85OW56d0QwenZPbmdGYTdyUEZwUFI5cU9nRWZ0NDlZZzVOZWJOTDhkLXNtX0l3VzZUVllOTDF0ZmFoeWlqb0ZiM3JxbnN3TkkwRi1VVDVERU1CMEJBZzVnS0JOQ0lrMEFDNjhXbUtUcHgyUTNTR1YxTzNUNTVaWjlrX3c1ODhqUjZqZnRhU3lHSXZlTVNSbTcwV1ZDTW5DNjhEQXdGdWc?oc=5",
+          "published": "Sat, 04 Apr 2026 13:00:00 GMT"
         },
         {
-          "title": "Rengetegen veszik ezt a Lidl-márkát - de csak kevesen tudják, ki gyártja valójában - Startlap",
-          "publisher": "Startlap",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IM3d3Y3NSNnh4VHNTRHF3NlI4WEpVN200MDFlcWE2QnFORVVNeDB2bTNycE1sZEdfUzViMVF5Q04xd21mZ190Q1NtV1hKVWZnTWx4bVk3UzRTUGZKT0dUMEl4NWl2SUFxbVN6Vm93?oc=5",
-          "published": "Sat, 04 Apr 2026 18:14:39 GMT"
+          "title": "80 embert tartóztattak le egy húsvéti autós rendezvényen - Vezess",
+          "publisher": "Vezess",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMS1uX01WOExSMmswWjdYTTIwVDhsUHlaZGJuemxRbUVyNm1CV2xIdzFkejJUZG1mTWgxU0w0RFpIcHZKcFRMMHItX2lXa1pJZHVxR1hKNFJOTXVNVDVYOUYtYTc0QVpEQWVyNXVNRlQwS3FhQjhuand4YW1oU0xpTzZKMA?oc=5",
+          "published": "Sun, 05 Apr 2026 12:32:17 GMT"
         },
         {
-          "title": "Olcsóbb változat érkezik a BMW iX3-családba - Villanyautósok",
-          "publisher": "Villanyautósok",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2FHZ3I2MER3aW9DeVZNNmtmYlZJN2JzY29pbzA5bEw5cGRHbC12c2pIbmxfakJiNkdhbHlvRXoyTGFWUVMxcGFvQ2VtS2VtVU1MbTR1dGFiNjdzUk1qN1FqUVhBRjA5YVlxdXJOdW5USjdxNVRDelFMMW1sNnZVaEx0a0RGM3ln?oc=5",
-          "published": "Sat, 04 Apr 2026 04:26:16 GMT"
+          "title": "Kijött a friss lista: ezek most a legmegbízhatóbb használt autók 2026-ban - ORIGO",
+          "publisher": "ORIGO",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc0Nyd0pMSkQ2ZmdwVXhTOF80UEY5Tk5IT2NkcmduMDFKRUVZTkNid1lMcTc3aDdQdlhxcjJEY0RzbUk5NGs0RElwS29TcFdXNXRLd0QyZjdURzBxMWxYeUR5Qk11bzZvUzhwa1M1OWJZVC1OcEwtZlhjUWgxZGhuRElyMHZmYkYzRGVqaUxsUnRWVHVR?oc=5",
+          "published": "Sun, 05 Apr 2026 18:37:12 GMT"
         },
         {
-          "title": "Tech-Tudomány - Nyakunkon az OpenAI új modellje, fenyegetően okos lesz - Index.hu",
-          "publisher": "Index.hu",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmZFZ0FfTFAycFVQLW9JS0pDZ1JJUG9HYWo4eGZzc2gwX0hsQlJYMHIxT3NHZkFVT3NqS2VwRzZabVh4MTQ3OXBsOFU2VFNlMFNEUWZDa29wMXlwY3dzVlF3ZE1mNDlST1dibmdYYzQwUExXRS03ODNJdDU2UUpzMXQ2WmRfcS1vYWlmUTc4SlBUNWhnejRXeGpncVI?oc=5",
-          "published": "Sat, 04 Apr 2026 15:27:00 GMT"
+          "title": "Miért rettegett az ipari vezetés? Mutatjuk a Rába-sztori eltitkolt részleteit - Agroinform",
+          "publisher": "Agroinform",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSkdkc1lNcTRnVlVabVBwSmgwdkpqMW5EcFFReDBLM0ZnVllHR2xOcmloQllPcnBocVhuSjVwc3NKRlBNV0VPcEtoRHpERFRaYi03alM3MjhWbnZieGlQUXlSemNCZkZlQ1J5RDFPcmtmU080czZTSGZzOHh2cXoxZHktNms0WVhXYnhuQjYtSFN4NmZKOURvMXFlUWhZblFwWjdxbzlIaW45dDlib0xtc2piZjJ0Q0xCUXJQRdIBwgFBVV95cUxPd3BPMm9zQjN4TnBLUk85QlBoNnZHcUxLbnNuc0JRZ1VfYl80WjVDMEpLMkptRmdxbG9wVVU4bGdJbUVHOUdnLVRfcVB6a2s3cjhNdDA1YTFoOUFEWDJxVVNTNnFpRGNuUms5NkRlaWQ0WVZOY2VmT05qMnZ5dFpVV1FueWxSSUtZU3Vyc0sycDZJVE5VUFRKU2ZwdVlnRDRkY1BXd1ctTFZ4SkRqbjh3VFRxdkpacjVBUVBBMHF3MDVUZw?oc=5",
+          "published": "Sun, 05 Apr 2026 07:38:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Keserű évfordulót ült az Újpest, az MTK 95. perces gólja tette még kellemetlenebbé - Index.hu",
-          "publisher": "Index.hu",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXM0eFVBTGQ5ckN5MS1vbnhZcG5JRVpBamoyNlRibzBFdGVTR0JrczV5U0t4VWNTcVI2cFJ0aUJhN0lqUVVjWW9zM09WaHNnWGw0VW1JblZ5b0ZEbTBhbTZteFJWSzdTeTJqaC1zYlc4YnZpRkRUQkFJd2xLdWpHX05XVEJNQQ?oc=5",
-          "published": "Sat, 04 Apr 2026 19:30:00 GMT"
-        },
-        {
-          "title": "Út a dobogóra: a ZTE a Kisvárda legyőzése után a harmadik helyre lépett az NB I-es tabellán! - Nemzeti Sport",
-          "publisher": "Nemzeti Sport",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcFhzMVZ2c0hvRXlsejhQQW1ubXZDSGdWYldtb0JQQm55VFRxYmh1UUlmSFB1UF9CcV9vX0VzeU9lNDZEQWxGbHRzejl4cHA5Ti1sUF9rVkc1Y1ZnMkFQNnlpc3RITEtSaFpXVHRCZ3AyU01hZzk4RWFsNVA0QVBmZUo2LU5lQnk3OW9PVnE3OUdBZ3hhWlBTblpxRnExbkhaYmNITHBqSTBrdTZBY002N3JRazBTR0l2aXBUX1pfUWs1bV9qT2pHRHRjZmRTSHFjQ21MYjY0UW4?oc=5",
-          "published": "Sat, 04 Apr 2026 14:24:00 GMT"
-        },
-        {
-          "title": "4-0-ra alázta a Szoboszlaival és Kerkezzel felálló Liverpoolt a Manchester City - Telex",
-          "publisher": "Telex",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1h3anNVTUw5UkVwcmU4dUswZFp1dVFCWlhpU3VLMHVHLXlyQlh3Zk5lZjZqNWVlSmRuMklHS3cwQ1BNamFPM3QzWXQ3Umh1TGlmbndyYWQtUEE1R3VlU0pqeEdJSlF2SUhLZEp2cnd2b1Roa19CYW1xaEdoR2tac2Y2ZThGeEJVblUxZFFhNmpzRlgyWFUwcXBjdEpzeThvbEQyUWdDSi1HZEd5RmVHa2pWcw?oc=5",
-          "published": "Sat, 04 Apr 2026 14:52:11 GMT"
-        },
-        {
-          "title": "Fociláz az NB I-ben: Ritkán látható szurkolósereg a Loki-Fradi rangadón - Csakfoci",
-          "publisher": "Csakfoci",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1h5Ynl1Q25FUXdJRVQ1WHlLb1FQQjFBZ3J1RUFXNnlhNzFoU2I0RFh3WUw2aGdveUhTNUlZU2w2LTZqMk9WSGFPX0ZMQ1lfaDNpZlJuYWVMMnlRMmFxMmMtd0pyaGRjeV8zaElDeXQyMDluRExVQUtPUkJKUFZFOEd4Z3pxZFJBajNMMm0xbnVMSFJmZ2pUWVZDWU1qTk1rNHhTeWVETW1NZw?oc=5",
-          "published": "Sat, 04 Apr 2026 10:24:00 GMT"
-        },
-        {
-          "title": "Dupla dupla és egy büntető: a Paks ötöt vágott a Kazincbarcikának - M4 Sport",
+          "title": "Sok helyzetből két Corbu-gól: a Fradi elhozta a három pontot Debrecenből - M4 Sport",
           "publisher": "M4 Sport",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0FqTTRNM0l3cWtadXZOSGhOa3pIcUV6aHRIbC04MWhwbHdWVTZzbmRyNVVORXlpbjRucEVqMFhQZldhZGczSFdFMlE4RkFsdFFYTDFxTkRGYmlseVFCY0xsRXU0MW84S0FrZlFRVEFSWWphN0xTTkxYMldycVlRSThTZ1NwMGZ5RkdNYjdkZ0pUVGE2T242MUVzWC04SjhnRlpJUGxYUFJwVWNIS0NycGxScTd3UnhoY0RYd1htcw?oc=5",
-          "published": "Sat, 04 Apr 2026 19:13:23 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUZ5Q3hQdURjY2VlZ1lHZnY2dWxFWmNTZnRkVGM4TzZTOXNaa1BEdUdpZm5rQTg3MFViZ3FwRGtyc3FYNk4wQXE1T3Vnd3NBVUxVWldnY1RiMjZhWkpxY3lrYlZlS2hQMUxTTVNyOXFYaUg3d2R5MGkzT3U4Rlh5NGl0b0dmUW9xNXZZQ1ZFblo0c0lEZmhpS3p5dFJSVjd2S21nUGh5Q29ybjhZT3VGSXNNdC1VSTI0SHhkZXRLbE8tQUhrRTVhag?oc=5",
+          "published": "Sun, 05 Apr 2026 17:43:06 GMT"
+        },
+        {
+          "title": "PAFC 1-2 (1-0) - DVTK",
+          "publisher": "DVTK",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwellnN1pHWEkxUGxEY0tVVi1RalVCbDU0SVFoSTRtY1BwWUx5NDJpcDMyejR1aGE0N0NFZlJIZjFKX1BZUUJHelVFUXhsWWF1QzBaYVRGSzZVZE5yc0l5OFE2SVRnY2ZKRjhXY180clZ6dmNBTzNpaDl3?oc=5",
+          "published": "Sun, 05 Apr 2026 14:20:00 GMT"
+        },
+        {
+          "title": "Pogacar harmadszor nyert a flandriai körversenyen - Nemzeti Sport",
+          "publisher": "Nemzeti Sport",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2djX09NRlF3aWhKYmhGQWZvVkJhdlVIeFl4RTVyZXVyeEhVMnVCSzdDZEZVaHlwUm41Zi1zRXY1dGEwbmlBSmczam43X0RjQTlqUFR6STAzbkhQQXF2Q3lDMEx1UmxCT2hOOGF6QW9yM2x5d3ZuUXJNS1AySkpja1c3ZlE3bTBvTld0blhQZkNqekV2Nkhlc3V3?oc=5",
+          "published": "Sun, 05 Apr 2026 15:47:20 GMT"
+        },
+        {
+          "title": "Az ETO elbírta a nyomást, a Nyíregyházát legyőzve a 28. fordulót is a tabella élén zárta - Index.hu",
+          "publisher": "Index.hu",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXJ2WDh4bjNaSjN3Q05nRnU1UkY0UUE1MmhwS3ZUSi0wR1d6c25kRVZqbUF4NkZmdTkzVF83M2M1YzZENE1jRm02MFBWeHNuVHFabkNCX2ZPU0VsNGtnY19WS2RvdGVqRXRaR2hpelF3cWdzOXctRDlSeHpHMmRXYjZ5ZG8ya1RndGplUVQ4bnU1TXNNaVBVZS1qUTFScExCcU5QT0hHNXo1M3lkWjJZ?oc=5",
+          "published": "Sun, 05 Apr 2026 19:37:00 GMT"
+        },
+        {
+          "title": "A Sopron 17 ponttal legyőzte a Pécset, ott van a női kosár Magyar Kupa döntőjében - Nemzeti Sport",
+          "publisher": "Nemzeti Sport",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjZsSDVRMjgtUDF3RXh0ZWxqcUpRMnpwOEQ4TFFEU25EUklYMl9zRlJqLWp1WjFXTDQ0QkFPU0pWNE5EU0k4VW1yYmhJVThMbUN0b3FlWjBIVTJPWXJoWXdHc3pzRkkzOXQ4RXc3V2VCWkFHemVkaHR4ZWo2Zm1CRjJuZkt3Q2JmZmJuSEE0OEROMWx5Z1dzZno3MjlXenVQQXJYTC1VdnNRTE9Rd0tOUW4zUXB5eFJiMWVia2puLWRfOEhtWnc?oc=5",
+          "published": "Sat, 04 Apr 2026 19:17:10 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Lövedék csapódott az iráni atomerőmű közelébe, az oroszok evakuálják onnan a dolgozóikat - Telex",
-          "publisher": "Telex",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEc5QmMtejZWVnc1TDY2bjRmbjNhV05RTkdJSW1mZmRDTkpIRUNaVF9FWVJtOWt1SXNCdXpial9USUs1YVlEdml2YVRBZE9LdDJmdnhlcS1hNm9QdGtDQ2I3bXoxRDJuUjhRSjA1RTZnNzNOdVpNN2NMWWJfZ19JUldQb0ZPYlo2RUF3?oc=5",
-          "published": "Fri, 03 Apr 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Tech - Videón, hogyan néz majd ki az iPhone, amire több mint tíz éve várunk - Index.hu",
-          "publisher": "Index.hu",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTUtdFV2Zm5YdUdPTy1vNmwxVHJYZk4zLTJmUkFFYS1WZ0Nva2xBN2h6ckxRb0JoU2lKZk4tREE2Qy1jalh0VzdCX2cxUXh6NUpfa1RVeVplQ3ZIV3FyeEZncmM5S251aW5waDJmZ1pIa0dxSWRiVi1ST0lZY0c3RkhrczNRN3BmbXU3TTJzWTlwQmRGdzJxUmxVQVVJbVItMWdlc2lTSQ?oc=5",
-          "published": "Sat, 04 Apr 2026 07:18:00 GMT"
-        },
-        {
-          "title": "Összecsapott egy amerikai F-15-ös és egy iráni drón: ami történt, arra kevesen számítottak - Portfolio.hu",
-          "publisher": "Portfolio.hu",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUF9sV24tSTlPNHRoVmc5M1E2cjRCUDFYRVRKNWVLb0lhZlNhOHhzYklEWDFobWJlcFJrYkJpSWJQcnZCQ1k5b3NNTTE5WE1CUGZ1Q0U3cG94bjdKNkdpVEtzbWRiaGlMM01FMllUZzFJcWJxMG1QSS1VV2pVdm16RXJ5MXVER09vcWdyckktWWoyWTZRY3h5UUJxeExNZnl5NE1wWWdZS3dBT2Z5VUdmRjBDZTBsdUtnOHVqRVpiSldaOGFmSkFaa0EtWlNTZE55VVHSAdcBQVVfeXFMTXdJUlVnd3l4M1pCcDRSNFBZMEJXajUxWTY4M1ZkMV9wZS0tc29CZkxvNVltRnZhRUdnck4zM0FvUHc4cmVLQVdvUE05WUxULVlYb242blRseDJpUVNoUkNFR3ZWN2l5MzlKc0FYM21ET1huMzFtaE9jTXdrTUVKdTY4eDBoRjk2QWk5YXVoZ3YzOVBCRElJWEN2dnFyUUFTS1dJMHpMMzM3dG9sV0s3MnJnakp1b0JMdDNpNW80eHpzdWJ3cTJPZGJsTlhUcUtVRTV5TXNodDg?oc=5",
-          "published": "Thu, 02 Apr 2026 06:20:00 GMT"
-        },
-        {
-          "title": "Tech: Öngyilkos lett egy fiatal, miután a ChatGPT-től megtudta, mi ennek a „legsikeresebb” módja - | hvg.hu",
+          "title": "„Kíváncsi vagyok, érzi-e, hogy eltorzult a személyisége” – AI-Orbán Viktortól kérdezhettek a fiatalok - | hvg.hu",
           "publisher": "| hvg.hu",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON1RZZTdXRm02WmgxYnhldmRpakNOYlZya2tKX0RndFZlajNKUTRzaWQ2elRhRzRJRWZfQlUyTkphTF9JQTh4bGNzMlJ0d3FmTHFObWNqLTZYYnpXOUxCamI3MXVmZ0pRSlpIb3VFUFkzbHdPN1pBZnhGOXpzTFdlYnhCbHRsZG96ckFKVXZzRVRHUQ?oc=5",
-          "published": "Thu, 02 Apr 2026 08:03:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcGhFWHBvU2tNOExFX2sxR2h1d1p4aHpjMjYtT0c3S29hd2lULTJpNlZuWlZKNkhkMnJlM1g4TmU2OGVZYUZMQ2hMbkVYZUsyU3BucnRvcHlTSTRNMkxYcHUtRndXQkhEZmZjclRoYzdKR1lIR1RKYjFMNDRxT0FXQTB2T0c3djRSNktFMkhjSzc3Ny1uSVVKR0tCYUNFci1EZ0Uya0tyS0QxcUFndWJ0cQ?oc=5",
+          "published": "Sat, 04 Apr 2026 20:10:00 GMT"
         },
         {
-          "title": "Fájdalmas bejelentés érkezett: váratlan szigorítást vezettek be a felkapott AI-chatbotnál - Portfolio.hu",
+          "title": "Tech: Nem kell wifi, sem kábelek: ilyen egyszerűen tükrözheti, amit a telefonján lát - | hvg.hu",
+          "publisher": "| hvg.hu",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Uc2pFWFBRdEVLRGJvNWJOcnlQSEVRZkxDb1h1Y1Rnb0FXLUs5b1lXejRVQjJVRER3Mkl5OWVkS3BsamIzZmdQdWZlRF9XWFV3dTR6UTNuTDdQUU4xMXlTTlU5WUdjYzRpRU5BQkhhRXRFVEZNenViZ0hCUQ?oc=5",
+          "published": "Sun, 05 Apr 2026 06:03:00 GMT"
+        },
+        {
+          "title": "Masszív reformterv került az asztalra: átalakulhat a lakossági napelemek és a rezsicsökkentés rendszere - Portfolio.hu",
           "publisher": "Portfolio.hu",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaFV2Q0xMNy1zaHF6bGk5czV2WGN4QlhsMFdjVUF2N1Z3Mng1TzREd2RvMnQyVWJ0ZEVjZmdKLXNTRmFCa09POHZXRHNDMGlqSVUzT0NNMDZCa0xCVzVRcVAwNC1RMVdOQUl1ZHhjVjk3UURvVm5VVHB1QmJXbHExMUxLN1RiMFFtb3FtNFBOQjdqQVlIbUt5MU9ZRXBKNGpIN2U3MzdmQWFxNWhCa21xOG5PTm50WFZJdWFxZ1pyeENoTHZRanBSZnN5U200QWI00gHWAUFVX3lxTE9NUUVPX2dmaEpXWFZQa21tV1R0Nm1YOENHMllrWTI0NXNMY2lRU1dhWnJSOEtNdG85OW56d0QwenZPbmdGYTdyUEZwUFI5cU9nRWZ0NDlZZzVOZWJOTDhkLXNtX0l3VzZUVllOTDF0ZmFoeWlqb0ZiM3JxbnN3TkkwRi1VVDVERU1CMEJBZzVnS0JOQ0lrMEFDNjhXbUtUcHgyUTNTR1YxTzNUNTVaWjlrX3c1ODhqUjZqZnRhU3lHSXZlTVNSbTcwV1ZDTW5DNjhEQXdGdWc?oc=5",
-          "published": "Sat, 04 Apr 2026 13:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTzlFeVlqQmt5dml4ZXd6LU5xR2J0OWxFNm9UeG80YXZpNm1GRWpvS1dGd2dHakp3M3lmOXd3ZVMzXzhvMkV5X2lwWFREbUpCTFNDODNrbmxNRmdOYkRoSUY4RTdkdURlbWVjX0tYeVplRGEzeHJBeWZSZW9NZ3VVX1d2eU12cHBDQjNQSWx4ZTZfVEltWHc4TFFxa19vc0JOMUtLMEVOYWVGZjR5Z2JrX1N4UVNvSzc4bVFjSkdjbUxXT1g5bV9XNnRvZjU0cWdJTXJuLW9pRTNmcTRVZ2FFM0pMRdIB6AFBVV95cUxQTGNRdVB6dXdWM0JvclVyUkVNa3g4MWNXYVc4YlVIV1FfNHhUZUQ1Mk9YWDFuY1pPamwxb0w2c2pJbXpZZElYWTJkOW9Lbklfc3c2MjNRWWFjUHliME9Ec1g4T3lHOThtVzY4Q0hfMHBGWWw0T1hjY0FYaDlQSnJhU2dZcjA5YlZYN0dWNk1XLXo5RU5vU2oyRVdMNDlvLWRUdkNrNE10Y2N6WEJ1MXUxbXEtUnZIaWNqeFJHMUxCb25pRTVvTGRvSmRNRUJPWmVUbkxFN2hicUJTVlNqM0hXbmJIZnFJSVFp?oc=5",
+          "published": "Sun, 05 Apr 2026 07:30:00 GMT"
+        },
+        {
+          "title": "Ki nyeri a Facebookon a választási kampányt? Az AI ezt is megmondja - | hvg.hu",
+          "publisher": "| hvg.hu",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ya3F0Q09ZUGFDTjJEYlk3VlJ5NTVDSHFvc0FoVzRUMzdPTHJwcEdoWGlDdU9ycTlMZWdwRE1FZ2ZSclBaUUNlLVZxbERER2ZoU19QR3hwbVNLQnZJbFVwZ2Jxa2tDbDV0SlgybENsX1dzanpSQ1dHMVFmRQ?oc=5",
+          "published": "Sun, 05 Apr 2026 11:02:25 GMT"
+        },
+        {
+          "title": "Hetven éve megjósolta a híres gondolkodó, mi vár ránk – Most a saját bőrünkön tapasztaljuk a kegyetlen valóságot - Portfolio.hu",
+          "publisher": "Portfolio.hu",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZzhHY3JvUlBqVGJVRnQ1Q1NWQWVQZUdELW9QQS1qYmxsT1RwS1NMaEV2Yi1iMXFGR1cyTjYyTXNZS1NMZmZNSXFGY1dqN1cxazFQLW0tbkxGUFROMVRhWERkc3ZtXzE5Vk9tdnZWcjdDSW15ejlIeXdSNVJiaHBQejNSUEZ1SWs3bFJYd2ttc2xCUjBtd1ZwSExLdmhrdHozejB5ZG5MaWNpbTlXS1hLanFKUkFFWGdXZV9KNHJlaENYWUlDakhGVzdDTzhWVmZGVW84QTZHc2JhSmR0VExHWDRYV3I1M1hrRkpUT0NHVlXSAfYBQVVfeXFMT2E1N3BUV0c2X1FIcmhJTVlYV1NPM3YwY0ZQb0ZCaU1NcUJfYW9feHVMWUN4cXgtdVB4bk12RlRRVmhDRHI5aFVQSFdtZlRSZGR4Qllvck5GM25KWlF4NElSLVN5bGdzN29CdnRyVG1MZHJEdVRETTF6bkpRX1gwRTY1dTRqNmZsRzZzemt2MExoaEx2UWxLSkw0M2h1Z0VybW9GRHdrbEJlV0ZyUnQyb25Cak1XRTBWUmljcWRYY0xCUEc0aVBfZ01TSDBBNndYOGxZUzZtNzF4TUpydXh6ZmNNeExBZ1daTmhxRVRPX2VGSkN6SVV3?oc=5",
+          "published": "Sat, 04 Apr 2026 15:00:00 GMT"
         }
       ]
     },
@@ -189,10 +189,16 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "4 soccer romances for getting into the World Cup mood - Arizona Daily Star",
-          "publisher": "Arizona Daily Star",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGtZV2kxWHA1dFdWZ0l0eTV1QXpPdUZYRFEwMlZ0SFVRUTZaOHR4bV9nWmt5SkIwcVVqRTR4dmJLdkNGdmlLckJTU2xWVHBsNTlWSXlZcUx2aHpxcnBaTkhMZXVTVWtBX3VrSi1tNzNBYlJ6VFRQUkpsQjh2bzJvV1VaRzdZQ2hpMGpSdHIxbUhYakJMeUVpOA?oc=5",
-          "published": "Sat, 04 Apr 2026 14:00:00 GMT"
+          "title": "Is Gianni Infantino right? Would football not exist in ‘150 countries’ without FIFA? - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVhlc0lMWjc3MGNuYXNtcGpORVRXM1pvQ2Q2RVhENFNNYkJGMFl2OVN2czBySGQxWXZNRVdJeHBqTGRHbWdNZzJDc3pYTmFBUlpURGpWUmljVUtrbmdYWEtpaUV3TU5wY0dOeXRiTGJ3dU9jWlQwT2ZYcl9nYVgxNXRkcWk0dGV5TmtKRUlYUU05Zw?oc=5",
+          "published": "Sun, 05 Apr 2026 07:59:00 GMT"
+        },
+        {
+          "title": "International rookies who could shape the 2026 World Cup - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaW9xaGItLV93MHlfc1FEUkRIT0U5VTF6WWhiWTVJTG1RVzluYXc0YXdEYmpNOS0yaHF3VFFzS0VERzdueFQ0THo5Yl9xenlnOGVIMFR1M0xHV1JDWEFueEhhSGNhNDZtTmgzZlhndDNKY0hSRVROU3NRZTlYdjlCTkdrLUNxYU1MUUZGQzdNTncwaWlx?oc=5",
+          "published": "Sat, 04 Apr 2026 07:42:00 GMT"
         },
         {
           "title": "Get Ready: Your Complete Guide to FIFA World Cup 26 in Philly - Visit Philadelphia",
@@ -201,22 +207,16 @@
           "published": "Wed, 01 Apr 2026 07:00:00 GMT"
         },
         {
-          "title": "Streamlined visa program helps soccer fans travel to Kansas City for World Cup, ensures safety - KCTV",
-          "publisher": "KCTV",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWkx4bkdsbHc0cEVkc2hld0JvQkNrMGdMLURnVVNlQ3RkY01QQnVZOV9sQjlPd3ZOajd3NnNZMDU2dkxRQ0J1R3dtRWYtWVEzZTZnOVJ1TmlxcW12SUliSzFpWjZvWUZ1UXNaMW12VHhyTHdmdTgwc2hwazRtbGZRLWJVNnFfc2ZORFliSnFKWTdkX2NRa0ZQbDh5cG44ZkZ3TXg5eXp6T1Fmd1hDYUR4MlEzZXlESDFYQmo5RNIB0AFBVV95cUxPM3pRNFlXZlIzZXF6dkxhQXJLYXM0dWxFOGV4RldodFVxV0Q5eUlwN3NkVDE3ZWVPbFpQWmtTZGNQVXpmb2JiQlQwVkdOSFlGQ0dwODdWd1Y0cnFMS0o2RXJGWm1qRDd2X0l5WWszOXhQdmZINzNCMVEtcjZreG9SbGdXbWg4ejJjYzRJMWd6djZpaS1SOHpjRGNzVUcxbFhjMTNXRE90anBNTzNqbjA2UGZwVjhHa0lsckdzMlJoQmFGQnQtaE50UEtPcl9RdlZj?oc=5",
-          "published": "Sat, 04 Apr 2026 02:34:00 GMT"
-        },
-        {
           "title": "New soccer park brings play, promise to Hillside neighborhood ahead of World Cup - Fort Worth Report",
           "publisher": "Fort Worth Report",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGZXUTZUREdHN1c2ZUUwQ2s1NVFvc0dTaFBTRTBsd2s0OVRGQ25jSjlrMGc3enhYd1lwM2M0UU5OSTBEZEw1UElpdERvZnpvNF9HdnZ3NWFRX25rSEhKczR3MC1qREhiYnNFenhPNU5NNGM5MEVWVEYyNi1zTzVvc0czSmlZRmFTVjVuVGZpN3pXNlZMdGdXeFhVR2V1aGx0S1FoMWNVREVjeElMeWswVzZEcHhSNXpvd3lj?oc=5",
           "published": "Fri, 03 Apr 2026 22:09:48 GMT"
         },
         {
-          "title": "USMNT players on World Cup roster bubble will have soccer's ultimate fear - NBC 6 South Florida",
-          "publisher": "NBC 6 South Florida",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc09CeE5vVlV5RWhFSHdOX2p5Z2NXazZkS2x0TnN2bjhaVHpKNWFUdEJBRDFoWXhaWV9rMmVwdUo2RnNIUGoyU1lQcDdDME1tVEtIRVRITDhSbU5xWFY1bUJuTEJaOFVwbFQzYmoySXpPc3E0dFFjTmNCTmlsbnVFVTduQWEzT2xOamt2MXg1NHpYMWdfVGh6Wm5xUdIBowFBVV95cUxQeFFxQmRzbzNkSTNVN1Bla3F0dkFRZ01uSU9KWFROSTZHUjE5YTBNZVJwVFk3VkxCal9PS1lZVFlaM1pacnpteXVPMXEwNF9iQmpyMEtKNlg2eURCR1VhWHhkQ3ZSdlM0V2xzcnBIMTFZQ1RvV3p0U0Zya25Td1ZWWC03R3NIaVVxY1loaWU0NTF1VENBd2g2MHZDd3Z5eUlVbjhJ?oc=5",
-          "published": "Fri, 03 Apr 2026 02:54:26 GMT"
+          "title": "Mini soccer pitch to open next to Philadelphia City Hall ahead of FIFA World Cup - 6abc Philadelphia",
+          "publisher": "6abc Philadelphia",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1hybkgyNXJUSGlrLTl3R3lsY0xHWGJUV0ZHRGxjWHo4YWtRM1JCTjV0VU1yaklTcnFDM0IxWjZNMTlFeUJWTFBpeGZDWEhSSHVwdXlBclVKOEgyNGxwdkJ2d3c3Sk10MGVfMVdjV09pQWdtOWNUeFVRZTIxRTRvSEFab0dTZmRFYzhVQlVzaURGNkxrVk9LY00yS3ZsLUnSAaQBQVVfeXFMUEpLMWZqUzVZSW5FbENuQ1pHUXRDTVpLS2l5OWV0ZjBxclY0NlU2clNzU3FabG10NmZQZk1hU09VQ244dVlvNWZPcnRubUVya1pJdDhjMldPLTk4YmdoTTRiMlRad0lRdGFUaUczbldrTzNkdWVtdG9GaDM4WG96YzV2VHpSMXVTckRIcWFWODVadzFyNEczMzN6anB1X3A2dmc2N1Y?oc=5",
+          "published": "Fri, 03 Apr 2026 14:29:51 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Blake Lively to Keep Fighting as Most of Justin Baldoni Case Dismissed - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUklaclZDa0ttbVVyQkE4N3ltU3M1OVRmR0VPRDNMcEtHSEJjUG14SDRpeGozWE1XQUVIOC1oOWhTSkVvbUJmVE9nUzJ5ZHN3enpSS3RWUXpUUWZwYmlqWmFtWTZhUHV3UHk0UmtrbkNTd3dwMGZMRkVpQ1hUVm9CVlRtcTROTEE1TVZjRmJ5MlFLLXVybmVJSEpjdnJ4MEdGblRuMWFpVWt4czN4bWhmZ0tjS2xQSUVSXzNuRlVjMi0?oc=5",
-          "published": "Sat, 04 Apr 2026 16:29:44 GMT"
+          "title": "Nancy Guthrie latest updates: Savannah Guthrie returns to 'Today' show Monday as search for her mother continues - yahoo.com",
+          "publisher": "yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNb1Vyb0I1RG1EUl9fVEVJd1VRWFc0ZTdUXzR2LVljM05MSEpsVXBUMktMU3dsZnFOUGNfWWdoUDktNzRDTlZDQVlCanRKQmxpSVZNSHptNUVOa0MxeFFFN0EteVBkc0ZOejBqZG5zV0hnTHo4VC13eDBMZVlPR19oS0h4OF9waDZzYzNDSHM4bTREUjljUlhsQWx6QjhEVFFyOUFPRHBhazNmZWkweGkyMXJOSGUtQVZMMUp0WlV1UUNTaGIyZndyVFBPVEZ6LTlGelA3WE1JdVl0aGZuMmFlQWdrM2ZMQWhpNGZUc3hpRHY?oc=5",
+          "published": "Sun, 05 Apr 2026 17:33:58 GMT"
         },
         {
-          "title": "Inside WGA Deal: How The Writers Made Nice With The AMPTP - Deadline",
+          "title": "Pressure grows to remove Ye, formerly known as Kanye West, as the headliner of London summer music festival - PBS",
+          "publisher": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb3FoOTg3UWxNYTBzWEczd3RtN25kaUc1YW8yaXNjWWNPX01ReUxGa29iNXFfTHNCMEgyRXpkd01FNUhlYU40Qy1uN3FqV2I2cmdLaDJhY1FiRkZ0TlRCeGNmVWdtVmNIN3hDS1ZJdm5sWWxDemZOVGZwQTNjeEJrWmpDRDF2cUZkeXBadjBkZm9mM3FnZzRGYjNrX0NjMDlVZkRjNnEwYmxKVVlITHdjeXY3UDNMclI0WnVKcFdYc3U4R01rMmRLb3d6WEFRUmNiSmV5X0doWdIB3AFBVV95cUxQU0NkOUFGeTAxaUZXMzFwa3JQY09pV1p1VUNkeURxRnBaVmZmUjQ2UU14T2doMTloTHZYRlZId1JTMjd4UW1mRXl4U2FJZXJMOHdpUEIxbGtkUm12QWc5SzdGR0ZnZUlfa0dGNTJPeTMxZ19aNU5Sb2ZtRXJoM2pXc0tibHNDREdfb2xfTGxhNDNXaG9vZHg5emhJTUVKWW5NQ293SHpwRzJxNGh4QV9EaEtoeTI5bWtMeUtkNFowZjJXRlhxUnFtZkJaZWpfUHFQdnhENnlFZGUwRk4w?oc=5",
+          "published": "Sun, 05 Apr 2026 17:16:48 GMT"
+        },
+        {
+          "title": "‘Super Mario Galaxy Movie’ – All The Box Office Records Broken - Deadline",
           "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGd4eXA0b2IyRWlhc2JkR213dVo2MVlJSUw0OVFyakxvSm5oVkFpbGVKb3JncWMyMmNUNGxKQkZRUnRBWVlQaGtGTUdGOC1VZE1pV2N0bmpKSXB1NXFWdXBxdDl4TFpuQmJQX3VnMktLS2Jycno3WnpCNXMyV2ZPVE1YRVZOMFk3enhVdnNR?oc=5",
-          "published": "Sat, 04 Apr 2026 20:48:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVXFOZ1RiVDE0UDVCOXAxeE85UEI0aWhfUjBYMW8tZDg0dmpFY1NzSkRWdDlpcDJuT3N3REIwelpsTjJFMkxYM0JmYVUzYWJfVmVPMzN4MDhJWVp1RWtDX19Jd2xUdGFJaGE4YXRJSERocC1UajdBOHQ1UHh6a2JOVlZud3lMbWRyRDF0bQ?oc=5",
+          "published": "Sun, 05 Apr 2026 17:16:00 GMT"
         },
         {
-          "title": "'The Super Mario Galaxy Movie' Powers Up With $48 Million - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVkzTkczR2VKQWk0bXZNei1iMFdkUnl0TGcydDVyTHNNYTBMZ1dBUjkzdHhOaV94WVhQMVplQlhCQkJ2VEVZbWpzMGFIdFV5Qzh3TVp0bTZnNVRoTXlKSXRsZGIxSi1qYUwtVmJNZ3pQY05PdlBNVi13eWhmZjljbWc3QVFNeEFKM3JaNHZDcHpiaHV0akxB?oc=5",
-          "published": "Sat, 04 Apr 2026 15:54:00 GMT"
+          "title": "See King Charles, Camilla, Will, Kate and more royals celebrate Easter - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVGtzUlpGdnhlMUlCa3dMaDhaN2RiTnp6MWNCQ1c4ZWNNRlRTYVdIM0s5M09adi1QOVgwNHQ1bDhJYVRiaXhUQUhKdDY4M1B6NXVSZFBjb3JSMjdHcHdrWmFTdDQxRnhlWjZZV0FhbVc4bUNIc1ZnMzU5YkN1ZXBSZXZtZmswYmV6QVU2akN6d3hRLU5hS2M0TmNUa19Kb2xGZG0wVUZFd2NGOUZ0eDNDbkdHTXFFVlMxeGN2UmxhSDU1MmtSOGlqcjJjN2l0YVoyLUNZcA?oc=5",
+          "published": "Sun, 05 Apr 2026 17:45:00 GMT"
         },
         {
-          "title": "Shiloh Jolie Is the Spitting Image of Angelina Jolie in Her K-Pop Music Video Debut - Yahoo",
-          "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWY5T2JDR2ZheEdVU083N2s0TjVmd29jc016LUpYbjh0OGNxTWtfNXFXN05sbjYyUEltc3lJdkR5eFh2NVQwS0VkSXFObFRIU0x0ay1wWUZjd3FXM0ozRU5SMk1OWXJmdlhGLWYwdlNvZ0VVQmdqaGhXLTFwMVhOYkgtY3R1bWJIbVgyU3N1aUJiSE96OHRycUUwTFBnVmxRUFRmbA?oc=5",
-          "published": "Sat, 04 Apr 2026 16:43:08 GMT"
-        },
-        {
-          "title": "'The Drama' plot twist, explained: What did Zendaya's character do, and what happens to her wedding? - Yahoo",
-          "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNnlCdFpsaTByeTFqOUhQWGlQVE5IVGM2WUY4dVhzMEZkdVpPY0Vxdm5iWS1pNE1GakJFaWpwaWIxeUlMTV9pWHhWVk1ObFk2aHY1Z2MwaHE5bFdFR2VKcE4tZ1JOOS1iaUUxUzZObWdLcjlOeVkzR2ZSalk3czNIbkVEUWJCTDNDbENIWHRJZGpOZ1o1Q0FsYkg0RW1IejNrNGlWWFdpVEd6aWtNb0R4aDFLVTNzZ3h2WFRqUUphMEM3SEVJemxwbWoxaWJoOVVWX21oRXJFS3NkUGdXY2FhdEh0eWhWREd2Z3lRODRfeVQ?oc=5",
-          "published": "Fri, 03 Apr 2026 11:00:00 GMT"
+          "title": "Tori Spelling and seven children taken to hospital after car accident - nbcnews.com",
+          "publisher": "nbcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdTAxU3JIeXlGamJSbW1GTk1fLW03T3JzcnFNbkJpblk1UVFRMGoxUUR4bHR3S1laT1VHQWFZTm1yc0MxdDAtZ0FQSE0zZFdxRmNhYXBCMGJ5NmFtS2hUZmI2WXY3RVJPVUhiOG1KOHV6T0RnMjJOM0VkVVVlalU4S0VPZEJuMEwwYThHUnpseDRYWThqa2NHdjlBNW9LemdMbmFlc0tMdw?oc=5",
+          "published": "Sun, 05 Apr 2026 21:47:07 GMT"
         }
       ]
     }
