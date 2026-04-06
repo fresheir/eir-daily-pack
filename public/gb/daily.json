@@ -1,7 +1,7 @@
 {
   "market": "GB",
-  "generatedAt": "2026-04-05T22:29:34.659452Z",
-  "validForDate": "2026-04-05",
+  "generatedAt": "2026-04-06T22:35:14.774025Z",
+  "validForDate": "2026-04-06",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Starmer blasts ‘deeply concerning’ Kanye West festival headline plans - London Evening Standard",
+          "title": "UK minister says Kanye West should not perform at Wireless festival - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWplQ2xTLXBzLUtua3lGNVJUa0E0RjZuZUR1V2ZfZ0F2NXZaM3J1R1c5Y09KSGpIUlVxejhCLTNOem5CeVhlODgxMEIxS2N5RkJtRFZGSTh5OW1LdHVIc3lfRGhfb3d3RVdKdkVrLVJVaHg4MmRPY05oU1ZrN1JJUnZuczY5bTc2OWJBNkVldURyRGhtdElFNXlzN2FRYVhpSWhCWTBDLVpWZw?oc=5",
+          "published": "Mon, 06 Apr 2026 12:09:00 GMT"
+        },
+        {
+          "title": "Police 'under attack' and arrests made after 2,000 people attend illegal rave | ITV News - ITVX",
+          "publisher": "ITVX",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaDB1T0pxelJRS2FYX0JHSjdBNXFWNGlPalVtaXh4ZWEtOXA5V1p5ZVc4Vzc5azBuUmU3VjhoanQxeVlZZlV0anRGTWhvNmpMM2FnZ1haMFVpS1dZU0NhbmxXLVllc3RZZ2pteWNvQ0ZqZHVhZ2dGUHcwOGgwX2RjTmtibzNidTJvcWpLWEFGdnZrSkdsZUFucFoyNTI0V1l3MTk0ZS1YdUdXTlgwZUh3X2JrWjNFeE5EQVZv?oc=5",
+          "published": "Mon, 06 Apr 2026 10:37:51 GMT"
+        },
+        {
+          "title": "Dead people paid £850m in benefits blunders - The Telegraph",
+          "publisher": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNblFlVTlEODFUTk5QdjE0dGVPeDVXODdmTDNTbWVKYXdvODhZNEl6c0l0LURjT3FoTVRJMmtWcUxtR0hWT2pEbkRkWW9reDUzb1RiVEpvelVvb3hzWUhaOXItcXJJMnZBRjRtQnZaR09ja2lVS0dERUVHcGxBb05PX1p6Ui1mb3dkUDhUM1lIc09iLVBfa2c?oc=5",
+          "published": "Mon, 06 Apr 2026 21:02:00 GMT"
+        },
+        {
+          "title": "Schools in knife crime hotspots to get training with £1.2m investment - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iZW00RVdza2pIcGcwOFFHZGxpMVhrV1h2ZEt1cXRwcVZBV0ctRWRVbHJhRG5sNzhWWkFzd3JxNVUwUHVRSlVWRjlZc3BiN2NFYjZfd1NVOGloVWNp?oc=5",
+          "published": "Mon, 06 Apr 2026 21:30:13 GMT"
+        },
+        {
+          "title": "Four arrested after fatal triple stabbing outside Peckham nightclub - London Evening Standard",
           "publisher": "London Evening Standard",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV0NNN1NIbk5JbmI5WTRFSU5BZ3cxOXZ1VExVVVBEOWlXWmxZRUUwTTByZm1iUlN0ZUZHRmxVS3doMVRqTVZ6N2d1UGZZSkd6Wjk4LWxSSkZoLUY1eDh6NXVnOU5VMGttRkNaLTZYaTFhVXg5RUNDbGpoX0hDck1UcjBqV3hyaHR5aEI0S2tGRXF0bE5nMWhjMWJsZ2VrSHc?oc=5",
-          "published": "Sun, 05 Apr 2026 19:20:10 GMT"
-        },
-        {
-          "title": "Tributes to 'fun, bright' boy, 13, killed in crash - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KR1VibXhKNjN5OWxCMUZ3dllrTHVkZVRuVGRrWjhIOU0tRFlWQlBNQjB3NjhleUZuakVmbmZxaHFMTThaMWI1Ny12RHNEM05ibGNaWWdmeDJtYmJQ?oc=5",
-          "published": "Sun, 05 Apr 2026 18:11:36 GMT"
-        },
-        {
-          "title": "Roads blocked and homes without power as Storm Dave brings snowy start to Easter Sunday - STV News",
-          "publisher": "STV News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSW92VnV1OVgtZ3lMamhveHkyOE5xUTJSX3VJQ2MtM2x1dmtHN21ESUVkRi1Zck53WDVXVEJTTWVENzRFRXM1NVp5dTI3eXJKQWdscHRaMGdlS2FPcWp4SE1lbUxFNnc0VUxLNzlpS2hKZFBlbjBNNExOSmoxYWUxdFFiTGRhT2xOYlFrTUhCSWdBUHhpdVE3cEE2c2QyWXViZk9ycGg0UWMyVDd6dEV4bzNlQjJhOUU?oc=5",
-          "published": "Sun, 05 Apr 2026 16:03:53 GMT"
-        },
-        {
-          "title": "Waitrose worker, 54, sacked after stopping shoplifter stealing Easter eggs - The Sun",
-          "publisher": "The Sun",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU1NRbTZlekphc3MtTFBITDB3M0dRN1htNllHRmFTVW1PVEhwbi00Z3JQM1ZUSTF4NzdhbktKMFRMeG81Ynl2eHhPdzJQT0d6TmJUTXlsdXRGVHgxdEpXVWVuemxSRy1iaE14cGlNQmx4WVJoWENfRkN4Ti12ZlpZREJDWXY3a3Naemc?oc=5",
-          "published": "Sun, 05 Apr 2026 18:09:00 GMT"
-        },
-        {
-          "title": "Woolwich shooting: Further arrests after Eghosa Ogbebor shot dead - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CZUhMRFBuNHJjb0VGSlZfV280UEd3N0hwRUROeVByTnhGSDM2N3k2bXVpOVp0Y0xNSDM2OFd3bDlmYXJCejF4X0ZMSDFoZXJncDJpYnRiSFhmZw?oc=5",
-          "published": "Sun, 05 Apr 2026 11:36:50 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ2pTY3ltU3lWR3VQVXB0MXBsTGZlWjJoUVRaLUp2NWcyaTRveHMzdi1sWE43aHR4Sjg0Y0tQT0lWeXZPM0o3cHZMYXYydWN1QjBRMk5GYXplcy1MT25ET3RDRlp2dnY0eFFfWG9ZUmNWWUJjaDM5YkdONzhlLXBXTWFIZzBqd1d6YVU0TEhQenpLb2lf?oc=5",
+          "published": "Mon, 06 Apr 2026 16:57:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Trump warns Iran to reopen strait of Hormuz by Tuesday or face ‘hell’ - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1ZUaEZaWkNmWXVoZHNNVHpvMTZnaUxIemh1MlgweW1NZ2xwQ1VQWEtLREl6WTRSdXRIY25VUEpSY1RwdEZQeFFIeVB1NlFac0U5M1lsUVY0QTNnZnkwcHZMbFN4cmZLOHJEUWpaY0t5UGVrZ3NzZFBOVGpvNFhmUlFqRlhtbk5BSURGVkZ6TlpES3pqTXQ2LWMyWmdxWFpEam1YT0ZUNkJBQWxGSXJVcmVoTQ?oc=5",
-          "published": "Sun, 05 Apr 2026 21:32:00 GMT"
+          "title": "Trump threatens to 'decimate' Iran's civilian infrastructure if deadline passes without deal - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96WjZzTGUtRDUyc1luU0RfRjRleWlpQktsZmJoa0h5Wi02Y1FLRWN2Y09WNTc1aWRtSGY4d3VUWUJjb2lYZXB0anVmdS00OXFSZTkzeHI4aw?oc=5",
+          "published": "Mon, 06 Apr 2026 22:06:12 GMT"
         },
         {
-          "title": "US rescues second F-15E fighter jet airman shot down over Iran - Financial Times",
+          "title": "Ukraine’s drones dent Russia’s war-fuelled oil windfall - Financial Times",
           "publisher": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcWtvSGdDTG9jN0JpU3V2NEtSc19GWWRYYkY3bmdQSUw4ckNvcUZfNkprYmdlX0FQY2hCdzNzSHI4VWthVFJSbTcyX1BjS3hIX2FPR1BUZklhR1Nrc0FUUDZpa1loeWtQX0FEZmdzbHN6NjN2U3JVTnFiQ0R4QmZpMWdaRVc?oc=5",
-          "published": "Sun, 05 Apr 2026 09:35:20 GMT"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjNPb1Z5UUtlWlVmYzV3Snh2OWFoa2FQR3ZXVGZ0V0l3ald6N0NSU1VPdE9ZY1p4TmhNdU9FTnAyVHcyb1BIZzJqdEMyblFpZWNMVE9JaDBYaVc2SUt2ak5MYW5EM281a1FyaWZPZlZLLTg0OUhNcmk2Tkk3R3FaZm5YQmQ?oc=5",
+          "published": "Mon, 06 Apr 2026 08:04:18 GMT"
         },
         {
-          "title": "Hungary alleges plot to blow up gas pipeline ahead of election - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwOWJob0diZ2NWclJrQndxczcxZEFMX0wzeGNPWFIyREF2bXZqSjVXTXZqYXRVaHY2OHA5OEZSckROdnIxY3BrOE15VUtZcVhLamh0RDNwVzNMejU3?oc=5",
-          "published": "Sun, 05 Apr 2026 16:38:06 GMT"
+          "title": "'Not in the Stone Age, yet': Iran goes brutally sarcastic against Trump on social media - WION",
+          "publisher": "WION",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR3ZtcmpTbi1kc2s0V1pNT2FSc04tTVZkWWhJeHU4cWFBWkk4Nnh6VE5jUGZWbGJqT2pSZEdPLUh4V0tOSDhuVl9QakRpMl9iRmhzYXlVcUhYQ1p5eXpRc0xnQXFZeDBWNEZPUnhxSXlHMmhCM2NPdFk0VDYxZl9tUVc4Yk8tZVlFZjB2WW9KaVVkcl92M1NTczJpSmxlZHZVcDZmSHpuRXp6bWdfOEtuMlN5OG1HZlVOY3RpbjVyNE1qMExIc1o5Qg?oc=5",
+          "published": "Mon, 06 Apr 2026 14:29:00 GMT"
         },
         {
-          "title": "Baby and mother among three killed after tree topples during Easter egg hunt in Germany - Sky News",
-          "publisher": "Sky News",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQWpMUjQtNHFfdGRaR3dObmdjODQyTkU4S2JnbkhNRlFBYzZJY1pPZm5TNzdUR0tkSk1fOFNrYzhJajhsMjdYS1B4T0pFQ3JnaGVickNoU3J3S1ZRbmVraGh1dXR6R2VPdmZTVlFMRXluYmd5bUhPeHNoLU1udjRaTDI2VDYyWWI4STNld0J5VlVZbHhHNzZRcW0yZHQ5TkJJTGlVcDVmYnB6RXVHelVQc2tDUDVmRjNtbWZfdE8yNzA?oc=5",
-          "published": "Sun, 05 Apr 2026 17:43:54 GMT"
+          "title": "Talks to end Iran war appear to falter a day before Trump deadline - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHFUMVZ2WkpTMk5ub2pobWZCQkdsM0VIbFlJQ0x2VG5jYXJmRXd1V1Jlem5LejRRUkFUb1hxdTZyOHZpeW92MVYzZFhzT2dobndINnVEUkotY2FIQ0hqa2ttZzFHZ3JOQWc0bGI1QURjS2N3NWRJa1FreFhGcFZZNG9qN1hQRk1FZndnRDNkNWdEa0ROdFVYV2pUdUdKeTg?oc=5",
+          "published": "Mon, 06 Apr 2026 13:17:00 GMT"
         },
         {
-          "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiRENmVzJiS3JsRkNyMXNXSnJWb3NWNGJ0OFNPWVNLdFhMUHFQSUtNRHQxbTZNSFlJLU4wSWJtWHdCMjVjUkY4YlVVWUcxVDA1RlhhNWR4TVlrRnln?oc=5",
-          "published": "Sun, 05 Apr 2026 12:35:36 GMT"
+          "title": "Brother and sister die after being trapped in freezer playing 'hide-and-seek' - Metro.co.uk",
+          "publisher": "Metro.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV3VUSUY2aGoxYnNIWlhMVzN1Uy1yUXh3UVZwZjZiVmhIbHM1Y2p0YWN1Qjd5dUtEY0VnUTg5aVI2TkhhUGxSbkp5N1hXZU1mMWVLY1ZWRXZTYV96Q0FJaDZ4OUQ2QjYzdVBfS3hYSkRBd05DczE0WWdTNi1HN1hyOFgyTEpLLU1HNUd3d2RLdVVKVktIeWNwazJBaGVCZ9IBowFBVV95cUxObXp1MXNnRG5peXhRYkZOTVZGUUthMEFrYjEtM1FLeFVVb0Q3aTYzS04tb0cxWFdWcWEycHg1SjVsMTNfUXItUThrd29pX2taTXBmd1ltZUZzeU1JNEt2OXlRQnBXMG9kZ200WG9QS0dFNElzSC1KbHN3TExoUkdDY2F4aklsU1dOc3VreFdDM2ZnYjBOdjRuZFJOUlFqTmlKMm5z?oc=5",
+          "published": "Mon, 06 Apr 2026 13:54:00 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "What SpaceX’s IPO Means For The Space Economy - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUE4cjhvYVc4WFZvdlZwc1hldHZjam9kZEdFaGFLdHVFSHFiUDJjRURQV2UtWk1yVFhRX0R3V0JZV2NQWERvdlNDcFY5X1RPWW1KVVM5djBRdkFJX3BTbkVOZU9kNEFMRW14NXlVcTdUck9sUGtjNC1fLUF1MW91azZJUVVUamU1TlZRcG5BMGZPYWN3VmZvaVhLTUhmTjhv?oc=5",
-          "published": "Sat, 04 Apr 2026 14:00:00 GMT"
+          "title": "World not prepared for interest rate shock, warns JP Morgan boss - The Telegraph",
+          "publisher": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0dUaHZ5b1ZfcV80Y1VDeDYySGVKWnlOTnZ2enE5RFF6dElsZ3RuYkRWbmVyUVJNazJHbzBVOHlTTzJzOS1XOVgyOWktVURwa3l2MWVseC1TNmJhTXdpRk13LXRHQmNtRXlkcU9zRjlhUThIR0RQcGplT0VUZkVpRlpLUWN2ZVlMYmNFZmw3cExfaWF4aFJ3c01fSERnc0FORmhsbll0ZkVOWnc?oc=5",
+          "published": "Mon, 06 Apr 2026 16:57:00 GMT"
         },
         {
-          "title": "Waitrose employee 'sacked after he tried to stop shoplifter stealing Easter eggs' - lbc.co.uk",
-          "publisher": "lbc.co.uk",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnMwc0gxYTFNRmpKVU9ncHZWaFY4Q2ZiMUdBQXhSNVJlVzdkaEhPR1RkSllqUDVvalZzUHU4MVd4dE1Jd1JPOFZpUzh2Nnd4dldxdUlUUEhoOW1RLTJYQzN5ZGtoXzlMRWpYSVNRWi1SRjc0dDJjeWFrMENJN0pQb2NCTDdKcUtyWGI1UXNRcVdneWJaeXZGdXZwQ0s4QQ?oc=5",
-          "published": "Sun, 05 Apr 2026 18:02:55 GMT"
+          "title": "Waitrose under pressure to reinstate worker sacked after stopping shoplifter - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORnFkRDJBSnUxLTR0RzV1aGVCSTlHcXNRQnFmbjVOcG5sVDh1TWtnUnVxTHpsclh6bUtJSWpsU3RJcmUxbnVVZ09Od1FqOThySHVPUS13eG14SExnRWd4VzRhSWg4Z29kb1BkMU9JRWZENkZlZ0thTnA3N0RYN1Z2bW5MeDdiWHZKaTFTZmRyU1QxNXg3Wmw5TmdHb0V4dVJrM19rS0dRbm1VZmNzUjNuY3pwLWZZT0Fr?oc=5",
+          "published": "Mon, 06 Apr 2026 15:23:00 GMT"
         },
         {
-          "title": "Motorists in Jersey urged to check car finance deals - BBC",
+          "title": "Oil prices choppy after expletive-laden Trump threat to Iran - BBC",
           "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAydWp2c0JkQi1sZEMtWnZRdnBVNmVITlQtZm1FbFNKcXJuclJkdEdyWFJQUGhCdUU1dUlGMDRRVm9tQWgzYkhtWTVGVXVSbS1ZUUlBWEVRb29pUUp0?oc=5",
-          "published": "Sun, 05 Apr 2026 10:43:25 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LbmVrSHJfdWFHaUJBNnpFVEpJTWl0bHFoZTU5dDBCYTBFUTRCWEFHU3V2T04xMzdGNlJiWnd3Y1ZqbzdMUkdjN29idUJING1TV25vQ1hZZ0kwYVZt?oc=5",
+          "published": "Mon, 06 Apr 2026 01:09:26 GMT"
         },
         {
-          "title": "Stagflation fears demolish confidence in UK housing - Financial Times",
-          "publisher": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVluSmZud3NvSWhSNG9SRGkxRE0yN2FIMWxYb1hjODhsM1VqQWdIUmlUVmI2dFU1SkxIVVNvSFlVeHR2alk1NUpFOEZoX1pMakk4cW1XRXRWSWNRekx1cjVKLWdtREdpUk9RaWIydnc4dzZTc2dNSFVFSW1TMjBzeVVmTUI?oc=5",
-          "published": "Sun, 05 Apr 2026 04:00:49 GMT"
+          "title": "How to target a £10k annual income from just one year’s £20,000 Stocks and Shares ISA allowance - The Motley Fool UK",
+          "publisher": "The Motley Fool UK",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMThqT2RDclRZcjNEMWlmWlJxMm1UNGNkRGstNjUyUjd1cGRwcUV5LXpleTdmQW1kbUxyelFyelFBeUJPMVlrX3ZPVjhaUjBseDJQcENpOWVGcldLTFJuLVZrckkwZmJwVG1aaE9nLWRKZ3VJWVhIUTYyOFFPUC1iTFVOTFh4Nlp4d29NM0hpdnlET3h4Z2RRTDVpQkJvNS10VmUzNHVabVRuRWJDSmdkNXFtUEVoRE1YZkZ6WTNwcGJ0OUlG?oc=5",
+          "published": "Mon, 06 Apr 2026 08:11:00 GMT"
         },
         {
-          "title": "Fuel price map as cheapest Huddersfield places for petrol and diesel unveiled - Yorkshire Live",
-          "publisher": "Yorkshire Live",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWQwMVc5aXF2cTlHMTZWeFBnZVNfUTdLZHVRTlpzeUE5R0NKVHQ3UnpENm1yZGtQWjdYOGc0RHZZQW42a2hORnc2dTFuNlR6M0MwOFZ0bV9WX3hsQ3VvdW9xU0ctS0pPclJRYXg3VHZ3bkxIdlN4cDdybkJaQ3FvanpOT29ZblE4U1dwWVItZXF0TkV1WDJScjQtc1JEYXpCcG84?oc=5",
-          "published": "Sat, 04 Apr 2026 15:44:00 GMT"
+          "title": "Red tape slashed to let banks encourage savers to invest - The Times",
+          "publisher": "The Times",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUZIVS03U3l5WjU1c3ExanpFRnZBckxIX1dxMnNZdURYWDVObzNfNXhIb2Z0YXc0UThwX09ONjRlR0lQRTI4b1dTbkxpWjhsSVhWc0E1akdiWnNGa3M4MTNpVDZKekZFd3VUTlBsNTBGLWRTWUNYUkk3WTdkTnZXR0Z1NU9ORVVrXzc0QmxrRGE1OU54VUdyaS1IWlNmeU1UZXIxaFlrYXAtNkl5eEpUS3FJWkVrLV9FTlltdHpzNA?oc=5",
+          "published": "Mon, 06 Apr 2026 05:00:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "West Ham 2-2 Leeds United (2-4 on pens): Leeds march on to FA Cup semi-finals after chaotic penalty shoot-out win at West Ham - Sky Sports",
-          "publisher": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUXhQVWZCb0d0eHJFRUJuWVIxczFYcmJZY3hsdkZnUnVyckdIa0ZwdmhCT1Q2ZS1FT0pPOE1TWGF1UnRybnFfR04wX3FQSTUxQjBWNWN4Zm95S1JqZEIxN2UzQ0ZIZkpGUklXY1JNZGdjNlFwQi1KWlhQWlIxUDlkWms2MHlDdVZvX0l0Z2F4ZF9TZlFtZ2lOV3NLMGRDamZxUUpkTURkdzRyMHNaSzhobG83RGo0Ukc4ZGNsWkk4ekh1RmwwVTBtUDBEMmZjYm9UdmUwblFNLUlOaDF6M3Vnd1dxNFhnbGhSdGRrZDBUcjBwVzJUc3ZQaVB0ZXBJRFB1VGJzbzI0dzg?oc=5",
-          "published": "Sun, 05 Apr 2026 18:54:22 GMT"
+          "title": "Every word from Arteta's pre-Sporting presser | Press conference | News - Arsenal.com",
+          "publisher": "Arsenal.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14a2dwV21obVNTd24tejJYOWZOM214Q1hMSFFkd1p1SzhQYnc1MUtXOURZOTFjMlJMZUljRmg2UHMtYS1nclgzb1VNMHMyRF95ZUhUTC1seG9FWE1WaDVRSk9DNTRPd3g4czZXaDhOdGFxeWdOamx4Z3Z3?oc=5",
+          "published": "Mon, 06 Apr 2026 19:17:15 GMT"
         },
         {
-          "title": "Virgil van Dijk apologises to Liverpool fans and makes worrying admissions about teammates - talkSPORT",
+          "title": "EFL boss baffled by strange decision in relegation six-pointer that had rivals almost laughing - talkSPORT",
           "publisher": "talkSPORT",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE15aEMtZ1Z2dlBibWU4QWtSLUQ4WmVXQmlnSGtiUHRYcVNBVFQxcm1peFZkSVhCcmF0VFI1RHVGVFJ0V2VVdmdNelpkazdFb3lBUUN5UG9FNF9xdzlfMXNQV1pORUgyMHJHblNCb1lQWUllTmdkaUZQVzRjd1Zsd3B1QlE?oc=5",
-          "published": "Sun, 05 Apr 2026 17:02:14 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaDVoUGNHVUtWNnlleE1relB6VVRIM1VHNnlKRjVjR0lYSHREOUhBTlFtWTRaVktYMXQ2Zk95YklVMkNiOGM0dEpLTnBjVUZoNGszZmozVEZmZEdFRmJGY3plUm1tYXU2eEJ5TzZaeTd0MGdBUTZ1eTU2cEt3N3IzWlhlOU9ZN2F4ZWxCZ3BlOEt6dlVxbnpzZ0JMQ04?oc=5",
+          "published": "Mon, 06 Apr 2026 15:44:34 GMT"
         },
         {
-          "title": "Caroline Dubois drops and stops Terri Harper to become unified lightweight champion - BBC",
+          "title": "Swansea City vs. Middlesbrough: Kim Hellberg's side bidding to record club EFL first in key Championship showdown - Sports Mole",
+          "publisher": "Sports Mole",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQnBobVVnc3pENk16RTRHaGRZVERPRmJuSXJiN05aT0tFdVBRS2JUOVZqamRCZFB3bUFyRXE2U3JEeUxDVEtKb3poZkhaaVV0TWI1bWRRVXZmLW1zVXF4cVpMNkVscEdnM0VvVDUtWDU1cnZ3ZXlwMDQ3S2FBb3JWX0c5VVg5WmYycTl6SlR4aFJsbmNycVp5N3BicUQtT0FxMlBkY3RLZWcwVmJKMU5xaXVneERnOVl3dWRfYjVMZDhMY2tfUkFUOC1BUm1XWnpiTGMwTTN1M21pUXBiUTJIX2lHZFZGX3l1TkxsZk1TekkzTXBoUG9XcXB6RQ?oc=5",
+          "published": "Mon, 06 Apr 2026 09:01:28 GMT"
+        },
+        {
+          "title": "FPL team news: Gabriel, Saka, Rice + Timber injury latest - fantasyfootballscout.co.uk",
+          "publisher": "fantasyfootballscout.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkFjSXZWT0FnZnVRMlpXS0hLWWxYcnFtRXZHa1BpZ2E3RkFnbXZfektWUVJYRjhhSkQ1N1JtRVNhTVg5c1Z6eWdLYjU3LTBScmlzSld5R3FNbnRjRzU5TjlwZWJ2TXp5bnU1eUNKeWpEazJJNGNWbHoyRjZieDhhdk1Hc29FelNwTWJvZHNmRV9WSFMwVVoxQjlrY1M?oc=5",
+          "published": "Mon, 06 Apr 2026 21:47:52 GMT"
+        },
+        {
+          "title": "Conor Coady: On-loan Charlton Athletic defender leaves hospital after head injury - BBC",
           "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iRjEwUGo3bWxIOHM4aC1vTUhDUVZaV3JyTlNIZDE4Wk9GWlhnZzlmSmtTZS0yX0lFOExkNnpyN25LRGhJdktjVWVLMHNGTFVsWmo5U2RraWJmZ0E3OTNSNW16eFJBWFE?oc=5",
-          "published": "Sun, 05 Apr 2026 21:34:40 GMT"
-        },
-        {
-          "title": "Mikel Arteta reacts as Arsenal suffer shock FA Cup exit - London Evening Standard",
-          "publisher": "London Evening Standard",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQemFvQ2xGR2owLUY1d2pCVXJYSXhCSm50Vno3QVBLajhDQlViRHo2bjZTcGJQSGdYUlBxTGpfcU52bEtWZ2NDWDk2T3Mtd0liaHNRejBkTHM4dU4ydDRzRE53REhZMXkxd2ducUc0a1Awblk0dHpta1VyaUxPdDB0TWN2YklpSXlTRWhDcWRmYw?oc=5",
-          "published": "Sun, 05 Apr 2026 20:59:30 GMT"
-        },
-        {
-          "title": "Snooker news as Judd Trump blown away by Zhao Xintong in £150k Tour Championship final - Daily Express",
-          "publisher": "Daily Express",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWVtSUdwX0xzQU45ZUdrM0k3ZDc3b0RaZnVyNXd5cDJ6N2NiUUZuSWJVVk0tT1Jjakc4TjFNTjhxS0xKSmNSV2pxV01tSHBTU0U0d1p2dGQ1VlUzQk1wR1lMcWpUZHBYRURJMFJHSE0yQzFaZnlILWhQVEVyMDU1NU9zbUhwc2l5MVNmZEx3VWdOWXJ2T0Z5ZmZB?oc=5",
-          "published": "Sun, 05 Apr 2026 20:18:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mT0pFUGNFdVZLU3NnNWphMk12c3hfTEx4MG9HcDRHU1JGY2dKYmZ6SWY2Y00yTlRLa3FuQUsyZnNKNE9PWFVNNkx1UUs2UTJEeTk1UnRGdzdLVXVpYzlSU2tTVHVWNERWSEE?oc=5",
+          "published": "Mon, 06 Apr 2026 21:19:22 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
+          "title": "‘Google AI Edge Eloquent’ is an offline, subscription-less voice dictation app - 9to5Google",
+          "publisher": "9to5Google",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fdHZhUlA3bi1yeTAwODgwdU9VZS1FT0tHM2hiUl8tZy1zVW5Jblo1VW84SHpNWkNSV0xBUUZycTZyS3FEdm9uLVZobWVBM29melJZZWhSNk1MamRGb3NzWWluQVY1NHVWN0FpbG9CMA?oc=5",
+          "published": "Mon, 06 Apr 2026 17:00:00 GMT"
+        },
+        {
+          "title": "Google Changes Gmail After 22 Years—Why You Need A New Email Address - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRXFzRG5aRFpINzZJMzM4STU3eVdQZzdUY3JWT2NzY2tsbWJBeGs2eXRRcXBtS3pxVVhMOHIwQnRsYzdaLVNBZVpXRjVvYzNrWFBfbnJlX2J4U2poZXdYaTZlUTlRNC1YNUd0dEdMRmxPTUFhc3pma3A3MlJFampoWTc4TnRMS2p5eHJ3eFFoVkptSS1OYlVYaDNDRm5TR2d6MnVlcDhKcDFjczVISml4ZDFIRTFBWkFNZ1E3aQ?oc=5",
+          "published": "Mon, 06 Apr 2026 19:36:00 GMT"
+        },
+        {
           "title": "'There are no words': Artemis II astronauts are sharing iPhone 17 Pro Max photos from space - TechRadar",
           "publisher": "TechRadar",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMUw5VUk4UUtfbE9vN3NqREFETEp6NC1qTmliN2d3ZVNfT0hZRlZnWll6NjFnTFE4VjMyeTk2MTloWGxtNm5OajRYMWtENENydXozSmVKM3lSSTFaOG9RN3FtWlVfUXhDNzdlOFpvV0dlXzJsYmlTRWZUVWVIVDIxVFYzWTNFUzZieFJSbUJQbFhKMmhodndQMGhyR2psOTg0Y0dtMzdtTWlHc0ZlNGotMFpfVzVLRUxvVHBtRV9oa0xsVHJCdXpQRGNVMk05M1Q5RFNvUHZnXy0?oc=5",
           "published": "Sun, 05 Apr 2026 15:30:00 GMT"
         },
         {
-          "title": "Apple at 50: Where did the tech giant succeed and fail? - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15b2c5YUkxeFZzTHNOMnBRcjdXWTNlNEZkZ0NmSDZCTmktYWpVLW5VcVhtc2J4blZBMkxReWpISlRoVUo4VlRYR01vampyaVJaSG0zMTAtV0pWZmxj?oc=5",
-          "published": "Sat, 04 Apr 2026 23:56:00 GMT"
+          "title": "#New40k – Vanguard Veteran Revealed - Warhammer Community",
+          "publisher": "Warhammer Community",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVZOQ2FSMnFwcmYyZVdmM0tPSDRSeVM3RGdiZ3E1UTFQTlY4a3ZKSzdZNEtqckJWd2lubFg1dGxXTHE0cGdfMTBTYUtkNlNOanh6NnJZTUVUWXh2aGdRRlVhUUF3Tnc4Tk9sUkZ3VDNmZ0VncjNDcGU5SjJ0ZVZNVE5aa0RHSS1RdmxDMlF6ZEN4dk1Wam9hUQ?oc=5",
+          "published": "Mon, 06 Apr 2026 13:56:56 GMT"
         },
         {
-          "title": "Samsung’s New Deadline—You Have 12 Weeks To ‘Upgrade’ Your Phone - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY1N3cmpTdnpLdGQ0Ym5TLVhQb3FESkowYWxIS29ZN0t0U2djZlVZN0U5bHdiLWhQa2Jjb29Ua2pJNlMxdFJqOFZJQlR2c1FJclNVWVRLUTI2X202TnI0Yks0UWtmV1o0bmoxVmR2VXdNU3RBY1RDYVB1RGJRN1BVQVRSUl96bG9qdVRKTXYtN1p2Mk1tNkRoMTRINUt4QjdORU81c09RTXhOczN3djBkUlBPYw?oc=5",
-          "published": "Sun, 05 Apr 2026 06:22:18 GMT"
-        },
-        {
-          "title": "AMD Ryzen 9 9950X3D2 spotted at retail ahead of April 22 launch, early prices are hopefully just placeholders - VideoCardz.com",
-          "publisher": "VideoCardz.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTFRod29KeFhhREZxcnRHVWo4bUlNMUxOVUo3RFBiOVhETzBNRGF4ZVNEMDNpVm1POTZFamotZEZDaU4tYk10ZjVCNWNZcGYtTjRlYXB0UHQ1TTk1SmxDRnJCRTZqUTJPOFIzZTJRQjJ5UUxBV2d1WW5JUUhFZlpuclUzS2h1VGZmVDA5TjBFZUhaRl9SZ0M4ejd0WDY2WTNvTjdNNGJlMlY1djl3a09RNld6RDFIMGhsa3VUaVpzYUhXREEyeERPWk9wbm9VWF80cUE?oc=5",
-          "published": "Sun, 05 Apr 2026 17:21:00 GMT"
-        },
-        {
-          "title": "My dogs had a scary fight so I made a devastating decision: LIZ JONES - Daily Mail",
-          "publisher": "Daily Mail",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWtBRHA0dTRIMk1ucXBZelVlWW1peXVUUGFYQ3BublVFOXFIZXpfeW1LNUt2elllNWlPdVNrWkQ2TDlBVjZ2bEJjelE1RXM4eGxTWXB1SWZyRm0ydU9yWVFjUV82SEdhQkpEVmJYUzNnTFBOSUZzaXdrVDN2S1F3MUlIX2RwV0V2YVNEdV8tUXkzQWVod2E4YjBuY0RhMndnZFFSM3ZtQ0VkT0ZVSy1kTXFlc0xxdWFOb0k5Z3h3?oc=5",
-          "published": "Sat, 04 Apr 2026 07:00:58 GMT"
+          "title": "Racecard | 17:15 Virgin Bet A Good Bet Handicap (Div 2) | Kempton Park | Sky Sports Horse Racing - Sky Sports",
+          "publisher": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWs5ZDdaTW1YbTVSU0JFX20yYW5tT2hGM3RNYVRJOTRrQkVNQ21QOWh2enctQXIzemVMLXJwbDQxRm1mNUdiaVpZUXBmT3N1dzhhalozXzJKRVZXSVBTWlltMXVVcTVZWVlHMHFBMXIySnMyZWEyRXh4a19CSm1ROGhXQnAyT09aaVFtQjNCXzBLUzdtQnFTNmZWYTNnQS00dWlRVE1WaGo0STZwTFhOTw?oc=5",
+          "published": "Sun, 05 Apr 2026 23:02:34 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
+          "title": "Soccer has FIFA, Augusta has Fifa as Thai amateur set for Masters debut - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV1NWTkNQYS12bWNjRVo4VmdqeEI5TTNaUGowRVRxREJDd3JpNGhlVDY0MFo0TGh1Nk9MU3ZvWFkzMTdKc043eGUzWS1YTXJ0QVBNa01TM2VaZHpIeDNrd0hRakg5dk1jbWM1c3NUbHVtc0FuSDdqb3R6OHVIV1hSYTc5M2FERTNhVk81QjFxc0lhX0lMcTY5Y0JjREt4Tnc4ajh2alE3cTVndFptWUpDUG1MMA?oc=5",
+          "published": "Mon, 06 Apr 2026 21:37:43 GMT"
+        },
+        {
+          "title": "Oliva Creates Soccer Ball Humidor for World Cup 2026 - halfwheel.com",
+          "publisher": "halfwheel.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT0p0djhCVHFkN19xQUlRVTBLNTMzLTRfbUxxOUY1UUdpd25JbTYtVGxDak5NdEktRDJBSzBMMEdrcGVQUEpNN2oyUUoyeEh5YmQwbS1kWmo4SHZhVUU2WkRWX0JwY1Z5d1NuYk5SZVRJdGZUd2ZKVEFBMzl4Q0IzMy1vbDQ5eE8tTGc?oc=5",
+          "published": "Mon, 06 Apr 2026 15:29:04 GMT"
+        },
+        {
+          "title": "LEGO Soccer: Everyone Wants a Piece collection taps into my World Cup nostalgia - Gadget Flow",
+          "publisher": "Gadget Flow",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUFhVG9zWEdqdVVKdkM0aWlTZ3hQLWhvMUNNUXd3cHQwYk1JSmU5RHl5TU1EMG1kTTlTQmpYVElfRmJUcmtQWVR6b1hQOHdQWFVXZGVIdDhuLXFINlA5VWhXdmJrQ05VRGdmMGlBS2lnN3Q3aHQxNXFDUlBhcjNCLS1CSUhIYlB3cEFNUWVRdEpCQk5qZzA4ZHRHeXJXOHBFeF9nRUV2TWM4RTl5U2pv?oc=5",
+          "published": "Mon, 06 Apr 2026 20:12:53 GMT"
+        },
+        {
           "title": "Is Gianni Infantino right? Would football not exist in ‘150 countries’ without FIFA? - The New York Times",
           "publisher": "The New York Times",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVhlc0lMWjc3MGNuYXNtcGpORVRXM1pvQ2Q2RVhENFNNYkJGMFl2OVN2czBySGQxWXZNRVdJeHBqTGRHbWdNZzJDc3pYTmFBUlpURGpWUmljVUtrbmdYWEtpaUV3TU5wY0dOeXRiTGJ3dU9jWlQwT2ZYcl9nYVgxNXRkcWk0dGV5TmtKRUlYUU05Zw?oc=5",
-          "published": "Sun, 05 Apr 2026 07:59:00 GMT"
+          "published": "Sun, 05 Apr 2026 07:40:37 GMT"
         },
         {
-          "title": "International rookies who could shape the 2026 World Cup - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaW9xaGItLV93MHlfc1FEUkRIT0U5VTF6WWhiWTVJTG1RVzluYXc0YXdEYmpNOS0yaHF3VFFzS0VERzdueFQ0THo5Yl9xenlnOGVIMFR1M0xHV1JDWEFueEhhSGNhNDZtTmgzZlhndDNKY0hSRVROU3NRZTlYdjlCTkdrLUNxYU1MUUZGQzdNTncwaWlx?oc=5",
-          "published": "Sat, 04 Apr 2026 07:42:00 GMT"
-        },
-        {
-          "title": "Get Ready: Your Complete Guide to FIFA World Cup 26 in Philly - Visit Philadelphia",
-          "publisher": "Visit Philadelphia",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NSWhaNU14ZWt0YzhUTlhUT0pYS2s1cUF0ZlhXZU5MTkk1ZUx0a3JIQmJEcld1VmFpQnF4d3pNZnZYTVpzdElJNmI4YWlzT095TXE3M25QWlJDU1N2VW5VNkxBZHNDOG9hRWc?oc=5",
-          "published": "Wed, 01 Apr 2026 07:00:00 GMT"
-        },
-        {
-          "title": "New soccer park brings play, promise to Hillside neighborhood ahead of World Cup - Fort Worth Report",
-          "publisher": "Fort Worth Report",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGZXUTZUREdHN1c2ZUUwQ2s1NVFvc0dTaFBTRTBsd2s0OVRGQ25jSjlrMGc3enhYd1lwM2M0UU5OSTBEZEw1UElpdERvZnpvNF9HdnZ3NWFRX25rSEhKczR3MC1qREhiYnNFenhPNU5NNGM5MEVWVEYyNi1zTzVvc0czSmlZRmFTVjVuVGZpN3pXNlZMdGdXeFhVR2V1aGx0S1FoMWNVREVjeElMeWswVzZEcHhSNXpvd3lj?oc=5",
-          "published": "Fri, 03 Apr 2026 22:09:48 GMT"
-        },
-        {
-          "title": "Mini soccer pitch to open next to Philadelphia City Hall ahead of FIFA World Cup - 6abc Philadelphia",
-          "publisher": "6abc Philadelphia",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1hybkgyNXJUSGlrLTl3R3lsY0xHWGJUV0ZHRGxjWHo4YWtRM1JCTjV0VU1yaklTcnFDM0IxWjZNMTlFeUJWTFBpeGZDWEhSSHVwdXlBclVKOEgyNGxwdkJ2d3c3Sk10MGVfMVdjV09pQWdtOWNUeFVRZTIxRTRvSEFab0dTZmRFYzhVQlVzaURGNkxrVk9LY00yS3ZsLUnSAaQBQVVfeXFMUEpLMWZqUzVZSW5FbENuQ1pHUXRDTVpLS2l5OWV0ZjBxclY0NlU2clNzU3FabG10NmZQZk1hU09VQ244dVlvNWZPcnRubUVya1pJdDhjMldPLTk4YmdoTTRiMlRad0lRdGFUaUczbldrTzNkdWVtdG9GaDM4WG96YzV2VHpSMXVTckRIcWFWODVadzFyNEczMzN6anB1X3A2dmc2N1Y?oc=5",
-          "published": "Fri, 03 Apr 2026 14:29:51 GMT"
+          "title": "Real Madrid vs Bayern Munich: Champions League – team news, start, lineups - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzhjejhRaWV3U1ctSTFZY0NyTlpNdlBFcFJuZW1ucXZxRmtoRWZ6b0Q3Q21McFR2YXBtcFNaMXJaMUI0ZWJobktHNGFWa1UzMDlTUWpEelg4NnJ5cVM5cnZxV3JBQVpjZ3djNU1TQXBDb3l4U2REeWs0UndXS21DZ1Vrb2RzaVVKbVpWZ2RsdHJyRGgxMWVvSGlYdnllckV4ekhIX0NB0gGrAUFVX3lxTE04NkpEcDlCbVZSTnMtTkV0QlEyb3dBLWJJTzR4MnJFOFN5bkpBVTloQlR5MlZsQWxhVkhzdmVzU2NPekFONkUzS1ZUa3pVMXJYWXpWTmdzd3JnX1lxTXBWZGs4UHpFWGxZcWhWSElTRHpyZkhXY3haMXp5Z3piRnM3MzM2Q0NqUlVIN1dOeVY5MlNqQ3E4OHp2TC0xMWEtc3ZhRFFWNDBQMEN1cw?oc=5",
+          "published": "Mon, 06 Apr 2026 11:13:46 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Nancy Guthrie latest updates: Savannah Guthrie returns to 'Today' show Monday as search for her mother continues - yahoo.com",
-          "publisher": "yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNb1Vyb0I1RG1EUl9fVEVJd1VRWFc0ZTdUXzR2LVljM05MSEpsVXBUMktMU3dsZnFOUGNfWWdoUDktNzRDTlZDQVlCanRKQmxpSVZNSHptNUVOa0MxeFFFN0EteVBkc0ZOejBqZG5zV0hnTHo4VC13eDBMZVlPR19oS0h4OF9waDZzYzNDSHM4bTREUjljUlhsQWx6QjhEVFFyOUFPRHBhazNmZWkweGkyMXJOSGUtQVZMMUp0WlV1UUNTaGIyZndyVFBPVEZ6LTlGelA3WE1JdVl0aGZuMmFlQWdrM2ZMQWhpNGZUc3hpRHY?oc=5",
-          "published": "Sun, 05 Apr 2026 17:33:58 GMT"
+          "title": "How the Other Morning Shows Covered — or Didn’t Cover — Savannah Guthrie’s Return to ‘Today’ - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnktWTh3NDdxMG92bjhOZ1kxMVJ2cFFOblBjRHZZZjhDVkttdlBmbkx4Y2dOenpIMTRQQzBxR0c3R01nTF9WUHpGemxCMXNTWmhFYXd0bGh2NDFVakhDdUc3UVRVdFQ0QmlyS0t4bURNbHRCSGRaNnl5WUxvYW1fejVkY21rLWY5THVGc25jNTh1dDYxNU1QcmhBTlN0OHJXS3FTSUJYXzZKc1RLSmliVE1Xbw?oc=5",
+          "published": "Mon, 06 Apr 2026 19:46:17 GMT"
         },
         {
-          "title": "Pressure grows to remove Ye, formerly known as Kanye West, as the headliner of London summer music festival - PBS",
-          "publisher": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb3FoOTg3UWxNYTBzWEczd3RtN25kaUc1YW8yaXNjWWNPX01ReUxGa29iNXFfTHNCMEgyRXpkd01FNUhlYU40Qy1uN3FqV2I2cmdLaDJhY1FiRkZ0TlRCeGNmVWdtVmNIN3hDS1ZJdm5sWWxDemZOVGZwQTNjeEJrWmpDRDF2cUZkeXBadjBkZm9mM3FnZzRGYjNrX0NjMDlVZkRjNnEwYmxKVVlITHdjeXY3UDNMclI0WnVKcFdYc3U4R01rMmRLb3d6WEFRUmNiSmV5X0doWdIB3AFBVV95cUxQU0NkOUFGeTAxaUZXMzFwa3JQY09pV1p1VUNkeURxRnBaVmZmUjQ2UU14T2doMTloTHZYRlZId1JTMjd4UW1mRXl4U2FJZXJMOHdpUEIxbGtkUm12QWc5SzdGR0ZnZUlfa0dGNTJPeTMxZ19aNU5Sb2ZtRXJoM2pXc0tibHNDREdfb2xfTGxhNDNXaG9vZHg5emhJTUVKWW5NQ293SHpwRzJxNGh4QV9EaEtoeTI5bWtMeUtkNFowZjJXRlhxUnFtZkJaZWpfUHFQdnhENnlFZGUwRk4w?oc=5",
-          "published": "Sun, 05 Apr 2026 17:16:48 GMT"
+          "title": "CBS Seals Deal With Byron Allen to Lease All of Late Night After Stephen Colbert Exits in May - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnc0bDl6eWNEOUNCaUJVRmpTR2VVeV9GeHBTWUdILUpoa2poLWlWV2dCQ0piTklJTjZ3WmRMeTJYOHdrTnUyTmN3RzdyUENGVUp0UmhPZVN0SlVuM0M5VVU1ZTJDUG80S25kakV3MG93eHJsdE1fbzRPNk1UM05LYmNPQmxYZnROX3BBRjdNSDk4VEh6ZExsSDJWVTVPTWJQeTBVa29jNA?oc=5",
+          "published": "Mon, 06 Apr 2026 17:00:00 GMT"
         },
         {
-          "title": "‘Super Mario Galaxy Movie’ – All The Box Office Records Broken - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVXFOZ1RiVDE0UDVCOXAxeE85UEI0aWhfUjBYMW8tZDg0dmpFY1NzSkRWdDlpcDJuT3N3REIwelpsTjJFMkxYM0JmYVUzYWJfVmVPMzN4MDhJWVp1RWtDX19Jd2xUdGFJaGE4YXRJSERocC1UajdBOHQ1UHh6a2JOVlZud3lMbWRyRDF0bQ?oc=5",
-          "published": "Sun, 05 Apr 2026 17:16:00 GMT"
+          "title": "Kanye West's permission to enter country for London festival being reviewed by U.K. government, source says - NBC News",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWd2TTFlZ29vU3VvdjIzMXV5UFozN1pmV2hULXQ1bHltaDF4ZTlEaEhVT2RjeHFYNlZDcTlKdGcwNnpMMmthWWlHMnMyX3JmR1oxSWo5Y2s2WDVQb1F4R3c5ekhfdndmSUpMYUI2MjU0ZTlab2RJOWFLTk5jT0xnVll5eW5rTC1qSWxUY2lMY1B3Y2JOemZTdGFaa1ZXbGV3OVBTaWthaHd3QjZ4ZW9GdkxCWnN5OWRoNVJkTld5QW5oU05zZ1U2ak16Vk1yUVE?oc=5",
+          "published": "Mon, 06 Apr 2026 20:26:17 GMT"
         },
         {
-          "title": "See King Charles, Camilla, Will, Kate and more royals celebrate Easter - USA Today",
-          "publisher": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVGtzUlpGdnhlMUlCa3dMaDhaN2RiTnp6MWNCQ1c4ZWNNRlRTYVdIM0s5M09adi1QOVgwNHQ1bDhJYVRiaXhUQUhKdDY4M1B6NXVSZFBjb3JSMjdHcHdrWmFTdDQxRnhlWjZZV0FhbVc4bUNIc1ZnMzU5YkN1ZXBSZXZtZmswYmV6QVU2akN6d3hRLU5hS2M0TmNUa19Kb2xGZG0wVUZFd2NGOUZ0eDNDbkdHTXFFVlMxeGN2UmxhSDU1MmtSOGlqcjJjN2l0YVoyLUNZcA?oc=5",
-          "published": "Sun, 05 Apr 2026 17:45:00 GMT"
+          "title": "JT Was Gagged by ‘The Drama’ Plot Twist - The Cut",
+          "publisher": "The Cut",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtVzZaSG5OcU1janIwRmhOcmtZalo5NGFtMWZObS1nWm1oMlF2US0zd0xZOXVNY1hIcjJQRE1rXzkxWWhJQlp2WVRkNlhGRWtTWENrUEpjWnF5WHd0LUxzeEE1M3EyT2NzWjJCcTI5SWdtMW95aGtFbUxn?oc=5",
+          "published": "Mon, 06 Apr 2026 16:49:57 GMT"
         },
         {
-          "title": "Tori Spelling and seven children taken to hospital after car accident - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdTAxU3JIeXlGamJSbW1GTk1fLW03T3JzcnFNbkJpblk1UVFRMGoxUUR4bHR3S1laT1VHQWFZTm1yc0MxdDAtZ0FQSE0zZFdxRmNhYXBCMGJ5NmFtS2hUZmI2WXY3RVJPVUhiOG1KOHV6T0RnMjJOM0VkVVVlalU4S0VPZEJuMEwwYThHUnpseDRYWThqa2NHdjlBNW9LemdMbmFlc0tMdw?oc=5",
-          "published": "Sun, 05 Apr 2026 21:47:07 GMT"
+          "title": "Sabrina Carpenter Goes Bling Ring in New “House Tour” Video - Pitchfork",
+          "publisher": "Pitchfork",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1ZHQzZCU0ItNWo5ZnhvLTZucjNTZDJXaDB0QlNua3RVTjBtWGpRdDBhUzVtWmloajFicHQtNHk1cVVsUG9oMUhndjAzLURLZnhTbzNILVl6b01ESHcxRTRibkNBR3ZqS3dybmkzX0hmRlRsRjlUdWYyLWRIODhvZ1ZhUHl6S2pjNl9aOUZR?oc=5",
+          "published": "Mon, 06 Apr 2026 15:35:00 GMT"
         }
       ]
     }
