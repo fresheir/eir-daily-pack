@@ -1,7 +1,7 @@
 {
   "market": "AT",
-  "generatedAt": "2026-04-06T22:35:54.386833Z",
-  "validForDate": "2026-04-06",
+  "generatedAt": "2026-04-07T22:37:37.893543Z",
+  "validForDate": "2026-04-07",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "52 Einheiten: Vergabe für neue Gemeindewohnungen in Simmering startet - MeinBezirk.at",
+          "title": "Daniel Fellner zum Kärntner Landeshauptmann gewählt - Salzburger Nachrichten",
+          "publisher": "Salzburger Nachrichten",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVI0NXdEOUJLSGpJMXNnc1V2UEFyNXpxRHVCRDFlLTF3WmY3R0tSSS1YV3RjeWV0QnJXdlVaVmdDRFQtWmhVVlJNV0x5TGllSm41OHNfdjBCQ1BuQVRfZDV6S3BaOTFfS0NTRzR1ZEVOczE5ZHNmMTFQOUctLUhBdXQtLVFXRzNtYTBYWndidHEyR3FlcG95WVFTOHNGdXZ6dld0Mnln?oc=5",
+          "published": "Tue, 07 Apr 2026 17:03:00 GMT"
+        },
+        {
+          "title": "Wiener WasteWatcher Bilanz: Hundekot, Zigarettenreste & Co. – So hart greift die Stadt durch - MeinBezirk.at",
           "publisher": "MeinBezirk.at",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFZiQ0cxeVpXclhKNDR6dGNINGtfUkZoc3B1YklKdi1Yb3ByMUJKZWtfYUhuNUZlRGNXN3Nvb0xRc3ZCcDM4MHdPX3lISlg0YndFRlpOZ2M0ekNnWjEweDhhbzF2dGlFZkk2cmFDckUzLXdlQjZpTTZmY3ZhNzZpaXFGeHVoLXo5RXFGUWNaMERjWDR0a0V6NVJnaVNPdUdwdzNFeGVhRUtyclFnRlE2VQ?oc=5",
-          "published": "Mon, 06 Apr 2026 10:08:56 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQem02cV9NR1FhbE1xMDFhRzNZZ2g5Q280QXV1cmh6R3VZaHM3NHZDc3lEaVV6OXVySmZnVlNrSVFIQkJtSm82Z2Y3LUtWc3V5U0tkVFl0YngxQ0t6MVBvZGhkOC1wNVRrS0hBWGpwcDM4enJOMVN6WGE3MTUtNk5xdjRYMDNKRUpCVzd5RnRJeWRJUEYtZXEzSTg1X0U1YzBSYnNTTTNiY0s?oc=5",
+          "published": "Tue, 07 Apr 2026 13:49:04 GMT"
         },
         {
-          "title": "Abfallwirtschaft hautnah erleben: 48er-Besichtigungen von April bis Oktober - OTS.at",
-          "publisher": "OTS.at",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjNLaEY1MkpoTG5rYjFWZUlaWGJoT3BmbGtzd0dNdkFncmRSYmtWLWkzU3FaVDJpM28zQ1pfeloweTdEbWkzMGdDeWtpQTQxSEJJaU56T1hmazhxanp2Qi16Z3hBTGFWcTh4M2ZmajVlYUdRM1k4alVjR2VPc3ZNeDd0N2REM2RmaEhRb2ZnbFZGMFU0UzRqWTdqNUJPMzhURkJKRVMwMDJkdkFNUnpVQXE3ZXlVMFB0RG5pM2IxQWR4WDdYYW41NXdGYw?oc=5",
-          "published": "Mon, 06 Apr 2026 07:30:51 GMT"
+          "title": "Femizid in Niederösterreich: Ehemann der Toten geständig - salzburg24",
+          "publisher": "salzburg24",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVcxYnRCVnNTX0dyR1hUcnI2QmJWUG1uNGpPVWxoQlFYX1QwYklURE8tNlZFVm9jYTRJcnRGcktDMXMyTGNrcFVMdkFubi1XV1hqdk82R2Z6QWtpLXpXMl9OZHRNWE9jaTU1T3h5bGdienMtU0dzdV9kSkNJcGQ4TGhYNlNiemRZSnJ1Ykh5M2xmV2otSWdIZElSMC1zZkNRdkwwNnExX1I1UVcxQVRwMw?oc=5",
+          "published": "Tue, 07 Apr 2026 12:01:10 GMT"
         },
         {
-          "title": "Rätsel um „zugefrorene“ Kärntner Seen auf Satellitenbildern - 5 Minuten",
-          "publisher": "5 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkNteUN5eFdETVdlM3BHLVo4cmZHeHVtNGtETGdZeXozTUNja2wxdDlxYUhGT1BUaVRMUElHYTREejBtUnF3M3JubWhiNFJZOHhQSVpCM0pXUHhDeVlXSnNkNkFlZEZlVDBvelZJalVxUktfYkpJa29FUkc2RUlnbWlHLTVwRHZTemV1N21NUVk4eXZfSUtRT09oMHdHWDNFR3g5ajRR?oc=5",
-          "published": "Mon, 06 Apr 2026 14:47:06 GMT"
+          "title": "Traktor-Demo in Wien: Bauern aus Bezirk Horn fordern Reformen von Landwirtschaftsminister - MeinBezirk.at",
+          "publisher": "MeinBezirk.at",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd2VtMFpLQVVxeHFjOTA4RmhEZE5XeXdYbFlWT1FTTXFxbmRUR3lTd01IVlNDUnh4bGtkbDE3SmZCSDhUUUIxODhCNnc5bEhBUHFVMXNhMDVXczVoUTBqTEQ1SWtJalVid2RMMGFFeW1HdTR3dFFXanJyLWRBSFB5VmlPaWd5ZmxfYlhTUzBaem5oQk9zWTZKRkJFZ0NsN2ROT3RseXQ4WGRZZDBzQUE1UzJOQzhmbjJj?oc=5",
+          "published": "Tue, 07 Apr 2026 07:43:31 GMT"
         },
         {
-          "title": "Schwerer Motorradunfall in Au - VOL.AT",
-          "publisher": "VOL.AT",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNalBpRDM2QXN4MWxLcG9HU2xqc1hiRXc4VzZyNmxQUGtURC1WRVhFOWstcVZLT0diSFphY3hfNUZSQnpMVzJWS0lxV28wYzI4YTBKTkVPVURTcFdidTZxVlh1T0JkTmx6YXdSUUpiQU1kNk9QQURENVVkeDJweGZ3Z2JyUTZJclEwNldXRFp3?oc=5",
-          "published": "Mon, 06 Apr 2026 17:26:36 GMT"
-        },
-        {
-          "title": "Femizid: 47-Jähriger soll Ehefrau getötet haben - noe.ORF.at",
-          "publisher": "noe.ORF.at",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11eUVnRy0zeDAtbmUwY05laTVRMUJUTUc1SVNfVURWWVpockJNc2lwMGd5NFI3cmNNaVdSUUdSMG00M01ya25oYTg4TQ?oc=5",
-          "published": "Mon, 06 Apr 2026 10:22:20 GMT"
+          "title": "Tödlicher Skiunfall in der Zillertal Arena: 69-Jähriger starb nach heftiger Kollision - Tiroler Tageszeitung",
+          "publisher": "Tiroler Tageszeitung",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUXBocm1vZVJ6NERZbHpiUV9VZEhVYTFndWdSMXZqZGQxcUlVcktmVU1LMDQzcHBKRWtoSnhONWJXbVV4SWViLWpzQXNWX0J0Z2RacHBIT25ScjJESzc0b1BrNGN6S0VYQk1LTHZHREZhOVZ2QkpMcTJabXc4YnFBYnR3dVF2dXhWM1ZzSlg3c1JHTlptZ0VQQ1hvVmlocENoRFNVTXdUdFhPY3pGTVROeWJkbDluZzFpT2k4WTB2QQ?oc=5",
+          "published": "Tue, 07 Apr 2026 18:34:52 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Iran-Krieg: Trump verschärft Drohung gegen Teheran - ORF",
-          "publisher": "ORF",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE55Yklwa0N4YmZzT21kLUxoNnlKX2ZHVXRQemVCb3lBVlBUbXdXdVY5bEhPTEx5czUyTmdjUjB0R3F6TkFFWGc?oc=5",
-          "published": "Mon, 06 Apr 2026 20:08:53 GMT"
+          "title": "Vance: Vor Ablauf des US-Ultimatums Gespräche mit Iran - Salzburger Nachrichten",
+          "publisher": "Salzburger Nachrichten",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1Brd0wzNWV3R3BFYkU0V0U2Yk1MTFNkaV9FMzAwbmRWbHRxdUZSREVQWFZOSl8ydzhQeGRoaVIwVTE1WHpobzRORGpvYVF5QTBWczJGSHlYREFLX3ZuVEZlWUtOMzdHNkllVWIydkdpd2JKTkVGTjFIOEYyTXpha1dsR0k1b2ZHLVZvWXRFblBuS0RXXzBBN2c5UmJIcHpwamxMeGxB?oc=5",
+          "published": "Tue, 07 Apr 2026 15:38:00 GMT"
         },
         {
-          "title": "Rückkehr zu früheren Bräuchen und Erinnerungen an Franziskus: Das erste Ostern von Papst Leo - DiePresse.com",
+          "title": "Pannen und verdächtige Botschaften: Wie die abgestürzten US-Soldaten im Iran gerettet wurden - Der Standard",
+          "publisher": "Der Standard",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWVZbURzN2NjSDlWNlZER0ctTG1ROFBNQlJjMTc5aHBobU1KNHl4dzdzTnNHdDI3QWJkSzUybGFPM05uUFJFZlR3d0FiV0kySVFIczNIWlhZMDZpcWNQc1lmSy12Nm9yaDlqY2pQUFI1R3hodV9vOEoxeEZNNkxoS0YxbndYa3FYSVRZT1hIbHV4TzNpVXlXU053U19pVmJicXJqV2p1TXowVmo3U3NNYm9GQ3hSWVdQbkdyZ3JoUzZYVUppT19wVmhnOUhVdmRkenFRQWxLbw?oc=5",
+          "published": "Tue, 07 Apr 2026 12:58:00 GMT"
+        },
+        {
+          "title": "Drohende Niederlage: Vance springt Orban in Wahlkampf zur Seite - orf.at",
+          "publisher": "orf.at",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2aXlXUmJBM01ERDc5S0lES2wzR1pIaElLX3l6RENZanFlWm9JaVp3RTZxRThfMnBndzJiZ3hTdGFEUnFxUUE?oc=5",
+          "published": "Tue, 07 Apr 2026 17:03:01 GMT"
+        },
+        {
+          "title": "Experten raten von Lebendbergung von gestrandetem Wal ab - DiePresse.com",
           "publisher": "DiePresse.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMlF4cXV3RjdFMmJTTVlyVHVJWHhvcF91N1RYQWRLU2RsUnluNXFfazIxSndSdGpVQnhLa09BQndHYzVSYVN4UkJHVkxUMnFxU0drZURBcmJvV1lSeXhsaUltTGRWS0prZ1hsYUhLZTRpUWVxZHRnZy1zMjg0NWZ6VFVvMFRvM21jbjhOUjB2ek1UcXNkbWtPQlVScVNsOHF2bi1IdmtwWk5qdw?oc=5",
-          "published": "Mon, 06 Apr 2026 10:46:22 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNW9LUlVSbzEwY2NWaTBsd01OYzE3UlMxZFRXRlQzWmwwRlhQd0xYY25NMU9TcDZxWTRsQXdvbGphMnhGMmpTVG9LWkZ4ZnZJY2Z3YXI4bGxBejNPQlFHRGxVeGw1ZHd2b2hySmxYdTlLTjRhdlFKOHdpMEhKRFpHZHhORDJoaWE1MUxkZXN0ZmJjUS1WVUE?oc=5",
+          "published": "Tue, 07 Apr 2026 16:15:45 GMT"
         },
         {
-          "title": "Verhandlungen mit USA: Iran weist Waffenruhe-Vorschlag zurück - Kurier",
-          "publisher": "Kurier",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZERkNFdQVW1OZm5ROVl1UktYTzN5RE5MQUJVQTUxM1Fodi1aRFoydnh0a2phWktWN1lPbk95MGs3dE1MdFhVZE1Hd3VpeVJ0TEtXb3ZGWHdIS2R4anpRR1pYbkhUWFp5blU1RWktZmtUSXhIRzVtZ1dwUmZCeGJHODB5aGJGNEZRV3NJN3Z6cHVUSno2V0JMUmZZV3pKVXhRVkgyTlNjdWo?oc=5",
-          "published": "Mon, 06 Apr 2026 15:27:00 GMT"
-        },
-        {
-          "title": "Iran: Rettung von US-Piloten möglicher Vorwand für Uran-Diebstahl - DiePresse.com",
+          "title": "Luftangriffe im Iran fordern zahlreiche Todesopfer - DiePresse.com",
           "publisher": "DiePresse.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTldDQWlkOUhRWmx5VURVcmhwX1l1NVVjY3NidEVRNUhGSWstUjBScWZpZlA2bXhncHVqR2hMc2UzMmI2UV8tVnlkVnlwZVVvY29kZWQ2SDRRaXdMTFQyeDhlZE5SSXRhalN0anNvcHlpNmpVU0lucW1jMkEyR29jdGNpYTE1ZUN0aWQ1MW0xcGRZY3Nld3FfZWJyY1ZDdHhhTmVN?oc=5",
-          "published": "Mon, 06 Apr 2026 11:33:38 GMT"
-        },
-        {
-          "title": "Erneut Tote in Iran und Israel – Teheran vollstreckt weiteres Todesurteil - DiePresse.com",
-          "publisher": "DiePresse.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN0t5bEI2RUNrMENDUHdvdFZaa28xNXVNa3Q5T29ockpXWVUtZ291SHlhYUNFUzROQ1hCclFwb3k0SzdKem9lMWstRmhzakpYTTkyejRZYXl1UVJKbmE3VnBQcEJOcDF4UkFtQWpSRF80eUVtTlBCTURxV0s1NWhSSDJmZFpaZUprcXdIMGpRVGVQQXBFbTBSN1ZjWmNsZFdDcnc0Wi0tR2ZwZw?oc=5",
-          "published": "Mon, 06 Apr 2026 07:36:13 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjN4clBCdTh3ckROeEtpYVo1cl9ZZ01lMkZVaVpwMHR6dWZHOVU5RUVRSWdOdDR6ZHJaRURLdTlROFU5QklvcU40R3ZRMy03blctQzE2c3ZzczF1VzhEU1BaNTZybV8zSVgySlRTQWFUTVgzamtySWpjSVNXbFNUbVNfZGQ3d2JITV9IU0dVVzAwbU5aaXJ2cnZndw?oc=5",
+          "published": "Tue, 07 Apr 2026 08:24:18 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Devisen: Euro legt weiter zu - Hoffnung auf Waffenruhe unerschütterlich - finanzen.at",
+          "title": "Wiener Börse geht mit Verlusten aus dem Handelstag - trend.at",
+          "publisher": "trend.at",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUjRfcmRCcldERlFGMVIzZmQwd0RCN3RSUnFpVFcxYW04eGdhYUZsMnBWTHBWdlk3azhfVGR1dUdfUWxsT0J2WXM5VnpsQjZoeTNDYjJYWUdhZWVxQjNwcGlTdTNpSnZtalpoT1R0YkhRRndzc0M3UVZia25rRWxFZTBn?oc=5",
+          "published": "Tue, 07 Apr 2026 18:04:00 GMT"
+        },
+        {
+          "title": "Diesel zum Teil auf Tankstellen aus - wien.ORF.at",
+          "publisher": "wien.ORF.at",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tdjBRRFQ4VEt5bEhMWUhXaTVDS3gzQWE4Sm5xQjFqWFNQUzFUUmdEcnpfTzVTUDlmUktQM2syZG9BT0tNZGtPUXdrV28?oc=5",
+          "published": "Tue, 07 Apr 2026 17:28:17 GMT"
+        },
+        {
+          "title": "Republik holt sich mit Bundesanleihen 2,3 Milliarden Euro am Markt - Oberösterreichische Nachrichten",
+          "publisher": "Oberösterreichische Nachrichten",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSmthclZ4U1VlTEJmbnJsdEFGZjNRbkpBYjZrSTJOd3FJYWZoOUdmdXI4ZXVlUC1SZ0MtQVJsa2RkMkNWMFM1Nm1VR3JHdWNvQnp3SzNWX2ppNXRxT252QVBLUG9SUHdvaW85VkN1YnhkSFRHb1BFbUZ4U0YxQUF2RXI4MlMxVkFxNDFGanBuYVNVT3FSTnVUajBrd0w4bUx4M1k4WXRIZldrT0R3NUcwM3VIaWpYTEh6?oc=5",
+          "published": "Tue, 07 Apr 2026 10:58:00 GMT"
+        },
+        {
+          "title": "Irans Revolutionsgarden drohen mit Angriffen außerhalb der Golfregion - DiePresse.com",
+          "publisher": "DiePresse.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTWkxdktkbGZSR3FkRWQ2eHpGNFRtMy1iaXg2UGJkN250Z1ItbTZpWGJFVzF0ZUhtNWlZcGpVWm9BODNRblhTamVEb0JJVDI0Vld2MFVWRzZibFhpTzY0Vl8ybkIzclRvZUFHTHdvcGszcnRTb2dPaFNfcldrRENKREpQeXkwQnhKX3BXVW1aUkhJYktyaEl2UVE2Ry03SnBtaTlpaTM1WEM?oc=5",
+          "published": "Tue, 07 Apr 2026 11:19:11 GMT"
+        },
+        {
+          "title": "Devisen: Euro legt zum US-Dollar zu - Trump-Ultimatum verunsichert - finanzen.at",
           "publisher": "finanzen.at",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORi1pQ2lwM3F3Zkhyb0RwWWEwV3FzVjhvaWVwRGJSQnhiNTlJMmItMjhXbXQtY21hZTdleWVaVkxZT1JkWERlUUFHbEtpZFhiZHJ2blpaODlHUE02ZkFCdnJpSzd1Wm1KdFlMNDBDa0p1ZHRubEZYbDV0NXkwc0hQLUxPMlRidXVLUjBob3dBZ2VsNmhNNHYtTTR6aWRJUlFxQWxXU0J3bzBkVHVaTy14NjNkWjJvYUJsR0pkcHpzWjJjZw?oc=5",
-          "published": "Mon, 06 Apr 2026 18:59:38 GMT"
-        },
-        {
-          "title": "Bleibt am Boden - Startabbruch: AUA-Flug strandet auf Urlaubsinsel - Kronen Zeitung",
-          "publisher": "Kronen Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0zTmQwZkpRcWhTa29jcGU0OHVDTThBdVlrZ2VDUXkxQjRIeGU1Z0N1MmZmcUtKbVBybkJpUVBuendTQQ?oc=5",
-          "published": "Mon, 06 Apr 2026 19:01:00 GMT"
-        },
-        {
-          "title": "PayPal Aktie: Abrechnung im Kerngeschäft - Börse Express",
-          "publisher": "Börse Express",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1BYTHZqSVh2RHFNa09VZFBCUGNBLTRkZ0t5bEdRM21HeTJZeS1uMEI3cnlLR2V5clprOXAzdjQyWGlRTkdleW9BVzluZjZsNHVtdExERExhbkphbFVKQWpEWlIwanlRYjhLUWMxU00yNDMxWVRYMmhnWXFYanRmOG5FclVLakoxSl9rQ1k1Ym1Qbk5KMlJj?oc=5",
-          "published": "Mon, 06 Apr 2026 11:33:22 GMT"
-        },
-        {
-          "title": "Wohnen im Grünen: Auf dem Land ist viel in Bewegung - Salzburger Nachrichten",
-          "publisher": "Salzburger Nachrichten",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXNDR1NtdlJjaGNWZzBPY2RidkRlTHhiVGxiejUxYUZtcmQ3aTEyZ2FLUXkyVXZHSjJxcko5SjNlSVlvZVNkQ0trZzNYdXl5TFpDSzgtdzFFdEpuNERsUjNMU2kyTWZaeUlDU1NTQUM0Q2lpZDZZMWhQcW5RYnBDYjg5ZVJyNmNfbHFIOGM1VlhadmF5ZW03YQ?oc=5",
-          "published": "Mon, 06 Apr 2026 22:01:00 GMT"
-        },
-        {
-          "title": "OHB Aktie: Gegenwind vom Kartellamt - Börse Express",
-          "publisher": "Börse Express",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSF9vQy1XQ1NNRDlDbVp6UHBYaGduYWxmclJ1VFROUEtOREtCT0t1bHpNZ1puWVpSeHQzc3FkWDRmQzVweGpDTUdxOVJ3VkVhZ2RMN2NRTkRSWUwtM0NYeHF1NUhNNG9YUHF0QkVfUUtHM3FGZ3VtRk85M2lNdHRUT2h1ZWJIeXR0OUszM0JlZw?oc=5",
-          "published": "Mon, 06 Apr 2026 12:30:59 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVEV0UUIwbkFZSndHU256cjBlT1RKem4xWHFPck1FMW9JRXgyYldydUdGT3hfTFJSOFN6MFEwWDh5Y2lLTXlxbmFxWUY1Qy0yZzB5dDY0WWZBc2ZBM2Q5NzZSWEdMTl9raU9jREF5QUxDazM3ZnVlMFpwYVpBamtNUDI5UTNkYUZVUV9FLUtIRWJiQ2ppU0tlTF81MXBVNmVtdXRnVnZ1Nm44QmdybFRVckJTcXQ1Y3piMnc?oc=5",
+          "published": "Tue, 07 Apr 2026 14:54:38 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Ladies Linz: Tagger/Potapova scheitern knapp, Stephens fixiert Duell mit Andreeva - Tips.at",
-          "publisher": "Tips.at",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObnF2QXdjYzd6Tk0zQ2UwanRkQVo5akdqMng5LUZwcER4OU9RMFJVQzBlaWhRU1BPY3kyOVNQdUNkWm4tTVd3Zlc2SGh4WGI1SDBmajNRLVRta081cVF3VnZWMWxFZEFSSjR5OHd1Y3hySkJCTjRwT1pOaXBZZUZ0S0k2R3k3a3JDNXMtRXU3MmRrQmVvRU5NUTh1c1ZVU0ZlenZWdnV6WVBCZm9DM1g2S0hQYnA2LVpSUjBlQ09hTGJQOUpzcWdkOGtNZDFRUTVicnZuNlVBNE44R1NoQlpZSA?oc=5",
-          "published": "Mon, 06 Apr 2026 19:30:03 GMT"
+          "title": "Lilli Tagger beendet ÖTV-„Fluch“ in Linz - tirol.orf.at",
+          "publisher": "tirol.orf.at",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tdUpkbVE5Y1podXRaamRVVnBRczRWLVNwZFo4RnhWQTNRMVlRbm1teWZWN3RIZUEzeGQ1WmNoVFJhb1BJOWxjSGxESEtOdw?oc=5",
+          "published": "Tue, 07 Apr 2026 19:32:33 GMT"
         },
         {
-          "title": "SKN St. Pölten - SK Austria Klagenfurt - LAOLA1",
+          "title": "HIGHLIGHTS | Real Madrid – FC Bayern München | Viertelfinal-Hinspiel - Sky Sport Austria",
+          "publisher": "Sky Sport Austria",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORDhDNl8zNTlXNlFEc1JERWQxWXo2SEFUNzd0WUcwcmFLZ0NOQ00wTDF4aU1QMEpxV2N3SWl5cVpUU0VwRmNmV0t2ZHBtbnlmZzRXRlRoWHUxd0pJbkRlaFRmYnRFUzlKeFFuYXFaNnpxMUFtbk1uQUZncjJscmI0Q0lNZDA3emZycnN3STJZdWRyUDlDYUxFaVVncXUtR2JJNzA0SEdncUM?oc=5",
+          "published": "Tue, 07 Apr 2026 21:21:19 GMT"
+        },
+        {
+          "title": "Erster Sieg! Österreichs B-Team bezwingt im BJK-Cup Zypern - LAOLA1",
           "publisher": "LAOLA1",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnFvWEFXeUlSUGRRSW1xdjhQLXItUVlEMGtRTV9BMGtDYzVVTlpqUEdwYzRJQW1sUzRULVZqMlF2V2hFUnZjQkxiVWVYYmQ4WklaRFFhOHBZS0ZlNlp6bzFpNmJYZ05FNl8weDJuT2xGV1NNaFlOTWItQ2E0czRUWDItbDdpcjhSNDdwZWJwQQ?oc=5",
-          "published": "Mon, 06 Apr 2026 17:59:21 GMT"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVmZOVk5nVWxpOW1wV1U0YWpYUU5sNEVaQWl6RTZrRHViVUNtX1dCSTBNcHZuYWxja3BvQ1J2c2twSUpFcjVPMzAtZFJVOW55MDlYajF0TXdlSGNObWxYRkM0eEJmTDRpVm9ncDl3OC1uYzJBTjkwMG5XOUY3UW9wQ2VDanFlYnFjUUhraWNoOEl6bXRUZ3RRdzFjZjhfYTg4TGgxVV94d0JIMXozeENZSFE5MHVoU2JpdUpvYzFoODNVMm5xM0E?oc=5",
+          "published": "Tue, 07 Apr 2026 15:32:45 GMT"
         },
         {
-          "title": "Lage der Liga: Wie der LASK im Titelrennen Tempo aufnimmt - Oberösterreichische Nachrichten",
-          "publisher": "Oberösterreichische Nachrichten",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeVhaWEV2S0Zlek4xUVgtQmZsR08ySy1fOUZTOXA3b2xrcTZrcTFuZGQzNUR4R3QtZ1RVOEdPMFBiYjRDU1NsVWpvS2l3Z3paWTZLMmtZTUtReGpGbGphZlc1YUNzS1VHUnY5WnFseE92UjNNN3YtUk00ZWZTVmpMUHdYZlJGaUZlaUpUdkNSSFFSNWVNLXhwVElmbnFLYWdqMlIweHI5YWQ?oc=5",
-          "published": "Mon, 06 Apr 2026 16:15:00 GMT"
+          "title": "Impressionen vom ersten WAC-Training mit Thomas Silberberger - Ligaportal",
+          "publisher": "Ligaportal",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVlycVpLd2cwTmNEYVVjV2JUUS1zeW4zNVpZb0VPSW4tZUZLTVFPd0JSSVV6aHYtd2E1Z1RvNjlRWHk0ZGxNd0tFeXJ4RlhiZG9mNTVwSUQzdUdaeHctcl9EelRWZmVNYXBpc0RCeWhfeUQzYmlBdEJ1ak8ySWtSd0pQRHZjVlpWbjBsVVBmZmlpM2hLVmN1UzRveDEyOS1MSmJtZXIwSVhkdlk3cXZGMGNETdIBuAFBVV95cUxNY3Z3UUV0aWRmMUdwOVlHak5wV2I0NTZuZDVRMWg4UmwwSms0MTFFT0s1NWY1NEh0S0xEYU10ZUg4dk5GUzk1WlVFcWRpRms3RDhwenZJeld4ekJJTk5HX3lGTFFxdnVXTTNaTFkxd3JPSzJxSV9ENEdBX1p5eWQ3dnRFUGlYS1VPWk9oZml0M1R4c3RvRWxDQjBIS3dZRXRDQWJKb3J4cmNhbkxtekZwcmw5NWJWa1Zt?oc=5",
+          "published": "Tue, 07 Apr 2026 13:58:09 GMT"
         },
         {
-          "title": "ÖTV-Team startet mit Niederlage in Billie Jean King Cup - Sky Sport Austria",
-          "publisher": "Sky Sport Austria",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmVGandhdGVQam5abWxyMEZFYWdvcGVvbGljZ1hpdVVTNk1FQk5mODJKTzNsMFM0OS1UNXg1eVRoRUdZTFA2aGxVWUprUDdJaVQwZVVxZGZ0LU5LNGxreVBvc1EwSWkycHh2Y0RxbUM2VjZ5SnlDOWt6QmVIX2VYR0RnVmpqbnFhT3B6aXNheGVjZw?oc=5",
-          "published": "Mon, 06 Apr 2026 16:52:25 GMT"
-        },
-        {
-          "title": "#SkyPitchside – Hautnah bei SK Rapid vs. Sturm Graz - Sky Sport Austria",
-          "publisher": "Sky Sport Austria",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaml2Y2ZTT1Z1bm0xNnFxOXJtNlV4MjFJUk1wZU9wb3c1NmktdDBUY1BtekJrRVJha2hLN0pjQ0htRzFpcURWdzQwd3ZMTHRlWWlIUFRlQi1LYXRyZDVQNmdyWGM1YjZ4TTE1YVFnMEhuWGFlcTJSQlk5M3hFazJTc2p3ZVBYWExxN3hmOWdxaTkzcVk?oc=5",
-          "published": "Mon, 06 Apr 2026 20:29:09 GMT"
+          "title": "Vonn lässt Comeback offen - \"Vielleicht noch ein Rennen\" - Salzburger Nachrichten",
+          "publisher": "Salzburger Nachrichten",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFl0aHJwXzNiUTRPNkd4aE9LTHpCNnhuVkVzQnhSbDVfNDNfNlNJU1BCYW9TaWt6QURBWDFvbWNmUDFWd1ROM256a3JHVEV5MWUyLV9SQ3lRbFBJclJWTG13dTJPcG9aYWpnWjI5cFpRdFlKVFdrRGFsNDJvNnJZZjhFdnJadEttVy1FazM1dUQ2dHZ0cjZKN3F3?oc=5",
+          "published": "Tue, 07 Apr 2026 19:35:00 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Elon Musk zwingt Banken zum Kauf von Grok-Abos - Der Standard",
+          "title": "KI-Experte Nate Soares: \"Der Untergang der Menschheit wäre ein Nebeneffekt\" - Der Standard",
           "publisher": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT25zdEFkVkNJTHk3ei1NUFNNZWVfS2NVUVRXVVFnb2l3NUlieHQ1N1VXMkVBY0dsTXBrUjRPTHBIY2NoM0xYWDAzajVCaFg2UGZZU1BIbnhLZWxqVlQ5RDNsdldFS2toZ01yRzZXb2M2ci1HSjZJWTJjbjEyQW90WF92aDZZOWFEYjI2UE84dUZTTVhLNXRRSQ?oc=5",
-          "published": "Mon, 06 Apr 2026 15:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOalMyNmVzVHJSX29VdGRUb0hkOUtOUDIzV2FhcWZoV01Qd1RJR0ZaU1V0R1BnVXdIT3BRYmdpYmNXd2wxX2lpX1IwUDV1LVZEWHNXLU1URklpenpFcXg2YUVieVBEcFNzNWdsaXc2MFl5WXFNbDR4OHpwUmUzcTgybVZQM1V4bzE1VUUzNjJPcjFud2xkbUFHQThPOTI1YWZrdzRXM19WMlV2MEtDbHdJckJrZzh3OVkxVHJoTg?oc=5",
+          "published": "Tue, 07 Apr 2026 03:00:00 GMT"
         },
         {
-          "title": "Versteckte Funktion – WhatsApp-Trick zeigt, wer deine Nummer hat - Heute",
-          "publisher": "Heute",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PVXBBbU5Eck9GQ2NMLXJFeXBhZURrVlFDdk94MGg2bnVYY1hrQmdHWUdGN3NpSzk3ZXU3d1RCUTNJTGNJTlUxMVp3Xy0weGh5Nms3TDM2R3JUQmJFenM3MHBKYXNxekJfV25BdW8tVkhNempBTnZkblVlMzctNDA?oc=5",
-          "published": "Mon, 06 Apr 2026 18:07:00 GMT"
+          "title": "Cybersecurity Campus in Graz eröffnet - steiermark.ORF.at",
+          "publisher": "steiermark.ORF.at",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtNGtjVGhrUEFUanpvNFFJbkRLa2VzU01FYWc3MlJmQVdNVmtoNmZxbXlhMndQOEJnUV9sRUY3clRYQlRpT0xyQktQam54RUpEc3lndA?oc=5",
+          "published": "Tue, 07 Apr 2026 14:36:31 GMT"
         },
         {
-          "title": "Sind große Sprachmodelle eine Sackgasse – und World Models die Lösung? - Der Standard",
+          "title": "Energiekrise als Chance: Grüner Strom statt schwarzes Gold - orf.at",
+          "publisher": "orf.at",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SdjhzNHBlN3JsZHBMa1ZoWDdpbVNRVDBVMjkwSzhyLXFMZUxvcDJLb2RyNmFib1Vlc3c4ZzBPZ0RnYWVKQkE?oc=5",
+          "published": "Mon, 06 Apr 2026 05:50:54 GMT"
+        },
+        {
+          "title": "Doch kein Altruist: Über 100 Weggefährten zeichnen unschönes Bild von Sam Altman - Der Standard",
           "publisher": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUZiRVRmTzB2elhIeVp6QUJmSFZtUGJYX2dxMlFxek5SVHRMcmFYZHY3M2FkY281Nkx4UVFxUWljUmloVmYtMDE1MTcxd1ZXT2dRSFNRdTFqV0hPR09LcVlCOGNKR0cySHNtUHN1MjdCTmE2YUxOT0FzNm5XbERHVnVoR0ZOSlRfVXEzdWRQUVlFT3BhVGhFbVBKSWtGdjl3cWdLaXRjcEktRVYtTHhwUGFnbGJkVzA?oc=5",
-          "published": "Mon, 06 Apr 2026 03:45:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObnZBUGgzS3Z5WmNJYmU0Z2Z3NDJEbU5pclRucHhZbWI0NDhOSmZFNVZVeDVOUHR1bV9Vd1JYdkhrc09SbHdya2hjVTBYdFhDWWYybkFuZE5EcVF5bWZZM2VoOGE1dzhyR1IxSUp3LVhFeUpPb09MYW1Kakh1SHVGdzdvbUZ5d3FpNFpOdTBuUjFXRkN1Q3dUN3ZiUHBVdkxFVmhBQ3Bzc3JGdnIxMUtOWU9UR1MweHQ5UHdGUWJURDJHZEVDVGZfZg?oc=5",
+          "published": "Tue, 07 Apr 2026 17:53:00 GMT"
         },
         {
-          "title": "Erstaunliche Abwärme - So bringen KI-Rechenzentren Anrainer ins Schwitzen - Kronen Zeitung",
-          "publisher": "Kronen Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5kQ0FCUTFZZkJ0ZWRJWnFKZmtpaVk1R3IyU29nUGZTclVfS2h3aC1ndTc3QllHU1VxVml0T1lyMmY5QQ?oc=5",
-          "published": "Sun, 05 Apr 2026 15:00:00 GMT"
-        },
-        {
-          "title": "KI-Waffenhersteller Anduril soll Trumps Golden Dome entwickeln - Der Standard",
+          "title": "\"Shot on iPhone\" und fliegendes Nutella: Das kuriose Bordleben der Artemis-Crew - Der Standard",
           "publisher": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSUtuZmNub0ZPQXBWNGtQSTlwalVGUlBacHFLR212MEY2c1Bwek1MTmZiSDlOdXVGalozb0l0WVlCRTVoWklrMW9vT2JKTzF2UTVrQVRacGRLM0V5N2FPWVN1WTRqS3M3dVdISTZsN0FNRkdVMGF3MVZDaXA0TlpzSWhxQXZMRndibXROdEthX2VxRDdZaTFzcTdZc09CX0tUeXZSbllvS1UwM3VNTlE?oc=5",
-          "published": "Mon, 06 Apr 2026 10:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONk9TSVVNVmo2S1o4ZzhIY19qTWRQZTExNVNNby1UdUtSS0U5dzIwQTRNajB1YVBla2ZwMDk1VWYxNHA2YjVpTXpQRl9oaGVnT3ZyUUxlMG9tZnp3dFFhbENud3VDcWJWY1FiVnVsNVJDMUZmS2NoM1BjZzB0V2lDeVFZaUMzYzA5NkdXZWhnaHFnVlktSTlvMFJNRThRYVFDYmc5a2RsclNXb3V5QzBXSGluaFYyaDE4TlNSZmJPNy0?oc=5",
+          "published": "Tue, 07 Apr 2026 09:58:00 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Soccer has FIFA, Augusta has Fifa as Thai amateur set for Masters debut - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV1NWTkNQYS12bWNjRVo4VmdqeEI5TTNaUGowRVRxREJDd3JpNGhlVDY0MFo0TGh1Nk9MU3ZvWFkzMTdKc043eGUzWS1YTXJ0QVBNa01TM2VaZHpIeDNrd0hRakg5dk1jbWM1c3NUbHVtc0FuSDdqb3R6OHVIV1hSYTc5M2FERTNhVk81QjFxc0lhX0lMcTY5Y0JjREt4Tnc4ajh2alE3cTVndFptWUpDUG1MMA?oc=5",
-          "published": "Mon, 06 Apr 2026 21:37:43 GMT"
+          "title": "Tracking Europe's top soccer leagues: Title races, UCL, relegation - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU19tVk5kYVFlUzAxeXVOTWxlTi13MkFoR3dYRXJVZzZaeGdoX2JhRHBrdExfOWs0M25GRGFlZkJ1NDhlcWFKWHJfT3dKa1B0N2dxbVFBOGJBSUd0TTE4QnEyU09tS0pIQnJpUUNMcHlTWWIxQ0RSMzBwVjUteFhZZ0h3ZnRxN0xfTjZaQlFYRG8zZ2x1NHRMcU9sMl9UaE5yNndvTnFQNzBKbWU2MDR0YjNkVEhTcFpHTWVSaTVqUXpUc1lacEZpVzhSOHZWUFBkUndWZEZEWW4xT2ZlVGdwM0ZqMTVKMlBmYVh6THN6S1R3SC1mdmc?oc=5",
+          "published": "Tue, 07 Apr 2026 16:23:00 GMT"
         },
         {
-          "title": "Oliva Creates Soccer Ball Humidor for World Cup 2026 - halfwheel.com",
-          "publisher": "halfwheel.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT0p0djhCVHFkN19xQUlRVTBLNTMzLTRfbUxxOUY1UUdpd25JbTYtVGxDak5NdEktRDJBSzBMMEdrcGVQUEpNN2oyUUoyeEh5YmQwbS1kWmo4SHZhVUU2WkRWX0JwY1Z5d1NuYk5SZVRJdGZUd2ZKVEFBMzl4Q0IzMy1vbDQ5eE8tTGc?oc=5",
-          "published": "Mon, 06 Apr 2026 15:29:04 GMT"
+          "title": "Champions League Soccer: Stream Real Madrid vs. Bayern Munich Live - CNET",
+          "publisher": "CNET",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb1J4MFZnRjFVYm03NXk4VzlRVkllRTNLX0tXOXB0aHgtVDRnMF84bGZqTTRzdWdrYWNzRW5zVThfN2xDcTNZdndKZmJ2cjl1M180SU1jUTVQZDh5RG5hZXdfTmFYbzFqRFFWb0M2czFBTlg3Q2hXOTRwN2FzRDB6Z0tVTGNfLVAtWEVPS1VhZ1dLZHpNYThNUzg4eUN1dGM4aWxjX0J5OURUWV9fNUxZT0VKbw?oc=5",
+          "published": "Tue, 07 Apr 2026 16:00:00 GMT"
         },
         {
-          "title": "LEGO Soccer: Everyone Wants a Piece collection taps into my World Cup nostalgia - Gadget Flow",
-          "publisher": "Gadget Flow",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUFhVG9zWEdqdVVKdkM0aWlTZ3hQLWhvMUNNUXd3cHQwYk1JSmU5RHl5TU1EMG1kTTlTQmpYVElfRmJUcmtQWVR6b1hQOHdQWFVXZGVIdDhuLXFINlA5VWhXdmJrQ05VRGdmMGlBS2lnN3Q3aHQxNXFDUlBhcjNCLS1CSUhIYlB3cEFNUWVRdEpCQk5qZzA4ZHRHeXJXOHBFeF9nRUV2TWM4RTl5U2pv?oc=5",
-          "published": "Mon, 06 Apr 2026 20:12:53 GMT"
-        },
-        {
-          "title": "Is Gianni Infantino right? Would football not exist in ‘150 countries’ without FIFA? - The New York Times",
+          "title": "How does Italian football move on from crushing failure to reach another World Cup? - The Athletic - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVhlc0lMWjc3MGNuYXNtcGpORVRXM1pvQ2Q2RVhENFNNYkJGMFl2OVN2czBySGQxWXZNRVdJeHBqTGRHbWdNZzJDc3pYTmFBUlpURGpWUmljVUtrbmdYWEtpaUV3TU5wY0dOeXRiTGJ3dU9jWlQwT2ZYcl9nYVgxNXRkcWk0dGV5TmtKRUlYUU05Zw?oc=5",
-          "published": "Sun, 05 Apr 2026 07:40:37 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDhqczVwM3phT1FESnZLWWo5bVp4cHBLb2VkWU5pSjhZTHJZNV9CXzJKeXF4X2hKemR3WVRReW9TdmxHcEU4eS1UUlpmSnJyQW5Ub0Q0VlFjWElLM2p1ZGdBUEJsU0x2Xy1sTmM2STUwSFYxOG5oNWYzYlNGUVYyQzdGZ2w1T0tRejNGR2dyUm54OTJ6?oc=5",
+          "published": "Tue, 07 Apr 2026 05:36:53 GMT"
         },
         {
-          "title": "Real Madrid vs Bayern Munich: Champions League – team news, start, lineups - Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzhjejhRaWV3U1ctSTFZY0NyTlpNdlBFcFJuZW1ucXZxRmtoRWZ6b0Q3Q21McFR2YXBtcFNaMXJaMUI0ZWJobktHNGFWa1UzMDlTUWpEelg4NnJ5cVM5cnZxV3JBQVpjZ3djNU1TQXBDb3l4U2REeWs0UndXS21DZ1Vrb2RzaVVKbVpWZ2RsdHJyRGgxMWVvSGlYdnllckV4ekhIX0NB0gGrAUFVX3lxTE04NkpEcDlCbVZSTnMtTkV0QlEyb3dBLWJJTzR4MnJFOFN5bkpBVTloQlR5MlZsQWxhVkhzdmVzU2NPekFONkUzS1ZUa3pVMXJYWXpWTmdzd3JnX1lxTXBWZGs4UHpFWGxZcWhWSElTRHpyZkhXY3haMXp5Z3piRnM3MzM2Q0NqUlVIN1dOeVY5MlNqQ3E4OHp2TC0xMWEtc3ZhRFFWNDBQMEN1cw?oc=5",
-          "published": "Mon, 06 Apr 2026 11:13:46 GMT"
+          "title": "World Cup stories: The tournament heads to the Far East but it's Samba time once again - DAZN",
+          "publisher": "DAZN",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTG05TGlXRERJb0M5Vk1UaXp5SllYSzNkcUY2WEpBX3k1RFE5REdhS2xtQUpEVmVERGRGWGJPXy1qZ2YzS2tTVE1ETkNtTE55OXF0R2xNQk9zczZ1cVdVa1Y1UU55S1BZNWtGSE1Ybk1EMGVjOUJ1eG9vNWx6ZFc2R2wxcnNjM2phRzlWeFRyUXhEbnplOEV0X21sTG9VTGxRTGljR0M0RnZ6N2RTaU52NUU5LW11bnhaYnRSS2lR?oc=5",
+          "published": "Tue, 07 Apr 2026 14:00:00 GMT"
+        },
+        {
+          "title": "Mauricio Pochettino’s World Cup ambitions are wildly off from reality - latimes.com",
+          "publisher": "latimes.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbEpGRlFNRC1VRlV2U01Db2dvOGZqQnlISk81WFJKT29vajNFV2hMaXB0VE5feVFqb1pRNm52cXVZTUQ1MXpuLXJLTUI4UnhZYzdTM1dTdGl3dy16WUZNcW9VT1ZxSnBFekR4TF8tRjFfc2lDbV9STEplWU9UWEFTRUtKY2pGV1Vfd2lWamhpZHlsWmVVR1lCTXJMWm1wXzg1cE5fWXBmTQ?oc=5",
+          "published": "Tue, 07 Apr 2026 11:00:00 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "How the Other Morning Shows Covered — or Didn’t Cover — Savannah Guthrie’s Return to ‘Today’ - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnktWTh3NDdxMG92bjhOZ1kxMVJ2cFFOblBjRHZZZjhDVkttdlBmbkx4Y2dOenpIMTRQQzBxR0c3R01nTF9WUHpGemxCMXNTWmhFYXd0bGh2NDFVakhDdUc3UVRVdFQ0QmlyS0t4bURNbHRCSGRaNnl5WUxvYW1fejVkY21rLWY5THVGc25jNTh1dDYxNU1QcmhBTlN0OHJXS3FTSUJYXzZKc1RLSmliVE1Xbw?oc=5",
-          "published": "Mon, 06 Apr 2026 19:46:17 GMT"
+          "title": "Former Migos rapper Offset is stable after being shot outside a Florida casino, spokesperson says - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT055TEtwRnNkaWpQY2hySUkzUU5TYzdDakVMRHdQMzViRW1xUGxKdHFBemQ5WWZ5MWcteEw3SmVxcnVxYzJjOGI3amZnaEc3NEF1T085dXVMSXpXek00UloyMUtZcTBXa2owTWR0d0pjOTlaSWhia0NweW01MHRaTW1xME1MU2kzeXlMV2Y5SWRiY19pNVJaVFh5S0VjSzQ1REIydjZldnZ4ci1aaGZR?oc=5",
+          "published": "Tue, 07 Apr 2026 21:28:00 GMT"
         },
         {
-          "title": "CBS Seals Deal With Byron Allen to Lease All of Late Night After Stephen Colbert Exits in May - Variety",
+          "title": "‘Bachelorette’ Star Taylor Frankie Paul Files Restraining Order Against Ex Dakota Mortensen Amid Domestic Violence Investigation - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnc0bDl6eWNEOUNCaUJVRmpTR2VVeV9GeHBTWUdILUpoa2poLWlWV2dCQ0piTklJTjZ3WmRMeTJYOHdrTnUyTmN3RzdyUENGVUp0UmhPZVN0SlVuM0M5VVU1ZTJDUG80S25kakV3MG93eHJsdE1fbzRPNk1UM05LYmNPQmxYZnROX3BBRjdNSDk4VEh6ZExsSDJWVTVPTWJQeTBVa29jNA?oc=5",
-          "published": "Mon, 06 Apr 2026 17:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVRZZHBWQnJ2Ym9vWmxBZHhKbGNUeGxiZDBnbGdsTnVIMDZpYmtnVVVsQ2lXS1RfemtBMzg3ZzF0R2N5Z3Y0QmJ4SnRsLTk2YWpaM0RuMlJianJnZlk2bEJFMzIwTlNMbkhCR1N6ZERwRUM4aWNWQ2J3V0F6Wkk5Z2JaTWZuaVdrZVNobC1FMkxqQ1A4eGNkRjYyM0pGcVdiRWNJbmhDUGplMWZtZ0lvbkdB?oc=5",
+          "published": "Tue, 07 Apr 2026 17:19:00 GMT"
         },
         {
-          "title": "Kanye West's permission to enter country for London festival being reviewed by U.K. government, source says - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWd2TTFlZ29vU3VvdjIzMXV5UFozN1pmV2hULXQ1bHltaDF4ZTlEaEhVT2RjeHFYNlZDcTlKdGcwNnpMMmthWWlHMnMyX3JmR1oxSWo5Y2s2WDVQb1F4R3c5ekhfdndmSUpMYUI2MjU0ZTlab2RJOWFLTk5jT0xnVll5eW5rTC1qSWxUY2lMY1B3Y2JOemZTdGFaa1ZXbGV3OVBTaWthaHd3QjZ4ZW9GdkxCWnN5OWRoNVJkTld5QW5oU05zZ1U2ak16Vk1yUVE?oc=5",
-          "published": "Mon, 06 Apr 2026 20:26:17 GMT"
+          "title": "London music festival canceled after Britain bans headliner Kanye West - The Washington Post",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2NGWHlqYzJzYmNBZW5BTDhqVWMteFZlQThCYUthSm1HaUYyc0o2QUthVk5ZQVJ0UGRUandCRGdyV3pKM3hTWmFPNmt2M3RsQnVXNjJRVEtwd054cHJOUXN5QkVMS2NXYnE3MFN2MmtHNll6UmpEcU41MldSdmFxQU5ZNGdiUHNqSlFLUDYyVUZxZ2g4dklHWXEyZUtfYWlkTVE?oc=5",
+          "published": "Tue, 07 Apr 2026 21:28:26 GMT"
         },
         {
-          "title": "JT Was Gagged by ‘The Drama’ Plot Twist - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtVzZaSG5OcU1janIwRmhOcmtZalo5NGFtMWZObS1nWm1oMlF2US0zd0xZOXVNY1hIcjJQRE1rXzkxWWhJQlp2WVRkNlhGRWtTWENrUEpjWnF5WHd0LUxzeEE1M3EyT2NzWjJCcTI5SWdtMW95aGtFbUxn?oc=5",
-          "published": "Mon, 06 Apr 2026 16:49:57 GMT"
+          "title": "‘The Boys’ Casts Teenage Kix, New Supe The Worm For 5th & Final Season - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMUhLb212OGFfSkt0M3BnbFBtQ1cwakFvVENVMTRfdS1ENzA3UGkxUjFaMHdobm5SSGU3TVpOUm4zZVpoaS1kY3V5XzRMRU1oaUJ1eHdYWGdWS3RKSHQ5SV8wYXhkV2h2SlVST3QwNzNoT2FkbG56SW1TRGlNbk5lOTR4M0tqNkVLYTdHQ2xpNGVITUU?oc=5",
+          "published": "Tue, 07 Apr 2026 18:00:00 GMT"
         },
         {
-          "title": "Sabrina Carpenter Goes Bling Ring in New “House Tour” Video - Pitchfork",
-          "publisher": "Pitchfork",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1ZHQzZCU0ItNWo5ZnhvLTZucjNTZDJXaDB0QlNua3RVTjBtWGpRdDBhUzVtWmloajFicHQtNHk1cVVsUG9oMUhndjAzLURLZnhTbzNILVl6b01ESHcxRTRibkNBR3ZqS3dybmkzX0hmRlRsRjlUdWYyLWRIODhvZ1ZhUHl6S2pjNl9aOUZR?oc=5",
-          "published": "Mon, 06 Apr 2026 15:35:00 GMT"
+          "title": "Review: Seeing a School Shooting on America’s Biggest Opera Stage - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNclpOWkZYTUxLLTd4cllZMXM1dzh5eGhKX0hoemZFdFVCRUlYVVZ6WWJoVU93aFkwYWd6cVktMTRPeG9tRHNoMTFIR3czdTNyMVp2RG5RX1d3b2lWX1NLb0NDT05LYTlEb2hRLS1saVNDZmpVY0oxRnFtZzJ6dlQwTjA3QQ?oc=5",
+          "published": "Tue, 07 Apr 2026 16:18:18 GMT"
         }
       ]
     }
