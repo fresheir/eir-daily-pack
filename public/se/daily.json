@@ -1,7 +1,7 @@
 {
   "market": "SE",
-  "generatedAt": "2026-04-11T22:31:48.515835Z",
-  "validForDate": "2026-04-11",
+  "generatedAt": "2026-04-12T22:33:24.977945Z",
+  "validForDate": "2026-04-12",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "SMHI-larm: Stor risk för gräsbränder i landet - Västerbottens-Kuriren",
+          "title": "Skola i Sundsvall håller stängt efter storbrand - Dagens Nyheter",
+          "publisher": "Dagens Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TbzdEVHlyLU56VXZyWmhQMzVpbVFzeDhQb0ZOUXJxY0FtYjNlVUtJeEFEV09IbGJrMXBDNWxzd1NtbXRzSG53VjRHUFZHNm52VHJaZm5ZWllEOHhRaTl3OGdDTkdqY1ZjOGVwV2RvRmppZ1UtX3VlcG5nSWlHSnc?oc=5",
+          "published": "Sun, 12 Apr 2026 19:41:24 GMT"
+        },
+        {
+          "title": "Kan bli 15 grader – så länge håller värmen i sig - Dagens Nyheter",
+          "publisher": "Dagens Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0TExQMzA5NE0xUHJwdVF5amJsTEt6Y2VqODhJS3RXV29PbjJ5bzNrRkpVSXB2a0N6NUNEQ0JwWExHcWNwVGk0SFEtLTFmTXU2dUJrSDB6MDlrVlB0RThCZVY4aWUzMHRRUS10SmFSS25xRklocFdoTXJ2UU4zdw?oc=5",
+          "published": "Sun, 12 Apr 2026 15:50:13 GMT"
+        },
+        {
+          "title": "Exilprinsen Pahlavi på plats i Sverige: ”Stolt över mitt arv” - Dagens Nyheter",
+          "publisher": "Dagens Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMG9SbEdCQ0d3TThfX2JiLVZrUWw2N2F5QTRfUW5vTng4WktVbHZJZkJzSFc3N2Zaa3RPWHliZW1FT1lpc3Y4bTZ5U0t4ckgzelNoMHQxRWtQWTdRejlndWZYUUVlM1IyWGJqbGhRSnBBZC1mdUxGTk9HcC02bDZ0TlBROEpGQ2tXSW5Gc3N3?oc=5",
+          "published": "Sun, 12 Apr 2026 19:06:35 GMT"
+        },
+        {
+          "title": "Nytt fartyg bordat – erkänner miljöbrott - Västerbottens-Kuriren",
           "publisher": "Västerbottens-Kuriren",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV0dRc1hxR3ZTX3l4Q01HMnRlbmgxbUpBM2N5ZnNKOTlBRTkyRHRsdEhsYzdKOG52OHY1OTliMjJEVWctWDRMeTJFalI2bDJ3UFRWZ0lCZnFqaWVxOXE1NFI5cDlBaEVEWk9YN19BZGpjLVFSZl82VV9BeklwMTROX2hSaDBodw?oc=5",
-          "published": "Sat, 11 Apr 2026 16:33:48 GMT"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVOUZMd1hFT3MtMElTUllBT2pwVW1ZUkdLYV9hTnpENS1ZcU9vUmd6N3E4NEJQY09wQmw5dVdTbmI2dDJtMnZieEREaEtGbmpvNHVjSWZZUTJsTy1CZzVsUEVKR09nQUE1LV85WHNpb1ltWVBHeHZxcFdpaHAydw?oc=5",
+          "published": "Sun, 12 Apr 2026 10:18:50 GMT"
         },
         {
-          "title": "De manifesterar inför ”exilprinsens” besök - GP",
-          "publisher": "GP",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX19DUHUwODduYkdyRXhBcEdtdmxJSlpFejBBNTJwMU9hdUw4QUl0NjRrSDNiT2lKVFFLSTVIYVEtSnJBbGRfVzZqNjM5a3B3SWI1S1pBVmNmc1ZvYlRDVjdKRUpJTFZsOTF0NDV3UXpRNGh1SzQweFdES3ZjMXJreGFZMGNoenpJajBSNzV2OUxLNkRqQW5Ub1BsaWcta21XQVFXeWl3MzZuMzhaMFlFVw?oc=5",
-          "published": "Sat, 11 Apr 2026 13:05:57 GMT"
-        },
-        {
-          "title": "DN Direkt – Förre utredaren tror på fler gripanden i Brattåsmorden - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVW9wTjFiUkNobkh2eEM4RkROZk94LVZPemVWQXE5MFBvMGhGc2FHLWhyMzdtYzF0ZTJOdG82MTlaa2JwcTJBMEVmZjdab3ZQd1lxSkkxRFBoOWRzS3YxaG5FOGtxV3R1TUJmbHVKb3lEN0FKZFZIb29fbjB4VkZrLWZJRUVfRmxJbWNHSl9IcUJraUFIM0E?oc=5",
-          "published": "Sat, 11 Apr 2026 14:31:58 GMT"
-        },
-        {
-          "title": "Lastbil välte – en allvarligt skadad vid arbetsplatsolycka på LKAB i Kiruna - SVT Nyheter",
+          "title": "Äldre man död i frontalkrock utanför Sollefteå - SVT Nyheter",
           "publisher": "SVT Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMHM0cVprMFpReTVCUTBPZnYwMVpZWmpuaHZOUHEzUHBkVUIyZVMyTFV0c2lmbWxTM2hScS1vUHpoZDNKQWNXMldIeDlXcmpBWkllVU44UWZFbjB1UHVMQkhtNENxWkR4TVdlNl9uYjBnRTR0N21pNlg3R0xOenR1eWpYZHU3OWhCNURvUE15NmFRX1dsZlBNeA?oc=5",
-          "published": "Sat, 11 Apr 2026 17:30:14 GMT"
-        },
-        {
-          "title": "DN Direkt – Skärmflygare fast högt upp i träd - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zdU9DRHFtS1lRTXZwNlc1a2p3WjZTR1VZU2Ryc29lMjQ3U1NmNFNsU2MwRC1qVnd1U3FUUkdYckRhMXVVQU9KblVjNFBHb0hBcER2T3ZneGx0OTJjTlI5WTJaYWc5Qk1ENmYtTUlsOGhjRldMT3lnWUNB?oc=5",
-          "published": "Sat, 11 Apr 2026 13:48:09 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY0ItUVNxZW9RRWZwZVQ3QndRZ0pkRkc4VXdrQXJUUDJMSmIyekoxbjZjQUozd182QmJVRnViRldjdkRyY2pGQUpDX09ncF9vN01JRWx5dUhON2VFMjJxamhPb1Rlck5Dazg0WDVBOHA5czc4UW8zWWh0bmJCMlpNOFk2ZWp2X2QtbnRDQjVHeEpNYlV3V3hKUm5ZZw?oc=5",
+          "published": "Sun, 12 Apr 2026 10:45:53 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Historiska fredssamtal – oviss utgång - GP",
-          "publisher": "GP",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbE13TlAzRm5uelU0TVdXS2xwUkJlUHZ6cU0wVThmWVNURmlIRzBzVHhsT1RTM2pWeVdIdVB1VGtyNVV4elBmcmFNT0txYWZ4SnpnOU5tX2JDeW9LUUhxT3h3MGtxUnEtX1AwaVJGM1B2SkxCTGJPaEZoclRrNWVjbFFuZzlrTTBUSWlVTzhaaWVCVDZiVy1GclRSSUJ6QzJacHhLdU5IMmxzd2lpSVBvNnBFY1QwWFlyeG1EQTRqdFJtTV9KTXlpYVhXSEl3QQ?oc=5",
-          "published": "Sat, 11 Apr 2026 21:23:15 GMT"
-        },
-        {
-          "title": "Ryssland och Ukraina anklagar varandra för brott mot vapenvila - Dagens Nyheter",
+          "title": "16 års styre är över för Orbán – fem punkter om valet i Ungern - Dagens Nyheter",
           "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOTlBTkVNM2huaXR2N0MwWHhzNEdubU9ET3BjR3ByMmtubmMwc2ZZR1dkdGNaaVJucFI0RUJVbXNQZ0ZoRkhQRkhrS2FpOUdkejdCdTh5SFNyeFloME9GRENxZm5mdV9VTlo3cy0yZ0l5SENKdkxDbF9kMWJLSnQtb0FWYlEtV0E5aDFUbEd5Vm1ZZzd1MlkzSjJtTVgxVlg0eTNlUFJhV3lyN3c?oc=5",
-          "published": "Sat, 11 Apr 2026 17:18:50 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFh4QlZFajBPN3FPZ2J1czhKYWZQeTBBZ1BzeXBwX1c1VUM4YmNPRGVhOU1yMnlHd19CSFVVbzdzWWZrY21QNXhXUkZEOVdiZW9DclZwWHFHZUtZZ2NTYkhIaEtEZk1VTGlJMmE4d280NGhzVDNpanZiT2E4anZmOTgtaXlmc0JwOWNEYXhlWXA?oc=5",
+          "published": "Sun, 12 Apr 2026 20:56:16 GMT"
         },
         {
-          "title": "USA: Två krigsfartyg passerade Hormuzsundet - Hufvudstadsbladet – HBL",
+          "title": "Trump vill blockera all sjöfart i Hormuzsundet - Hufvudstadsbladet – HBL",
           "publisher": "Hufvudstadsbladet – HBL",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYOU1hRHVPQmRlYWRDSHJBZ2h5OG9FdVhWd3ZBVndRNXBOa0cwY0NSeGsyekJLcHhkbUpvaHlzY250OW53R1hObVdfUW5ibVppMmxxX2l2Q0dGaUlydkNaT0VGUk5KVno5SVJEb0ZTdW9IYmd3aG9qdDhR?oc=5",
-          "published": "Sat, 11 Apr 2026 18:31:02 GMT"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd2ZiUzM3RUpRVkYyVFRveHBhN3FZakt6S0E0b0UtRDZaYU9URHlaME40a3dJMTltczZSQ0xBT3k4bHNwYXhrblM3Qjl6blBUMElMZVc1RGVVYkJKa3pEYms0V2s5VnpZRVdFS3Z0RTRfZ29xZWhVb2oxbUJrU1R3cg?oc=5",
+          "published": "Sun, 12 Apr 2026 14:13:17 GMT"
         },
         {
-          "title": "Expert: ”Gott tecken” att samtalen pågår inpå natten – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter",
+          "title": "JD Vance har landat – USA:s delegation på plats i Pakistan – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter",
           "publisher": "SVT Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcGpYMTRkc2VnR1NOY2hISFdiNjBfTTc0aHhvVGF0Tmp2aVRWcWhfRTZpcGZDNk9ldkIyUXBtbVdOcFRRcjcyVmlDdzlnUDhwSGRhbm4tNXo0UkRhVG9Sa2VuaUpiSnVsQ0JRRmtseG5RRmNSUUkwZkMteGNrcW1PYmN1c1dzdUxZakpiTVpybGZxSjRZbEdwWERyWFF5bjdrVDlwQmh1OGJ6UlBDTHk1Rmt0MWZmTjdsZjg5RWZqc1Bob3NBWmI3NA?oc=5",
-          "published": "Sat, 11 Apr 2026 21:39:26 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnkyc2hpZ05wWDl4M2pnM2xWRXdFSE1tOWVOamFVX0hfTmlEd3lhZFpHa0hkY24xd0Z0MDZSQkZIaElWOTVTMmNTUmVWV3lzZHRkSVUxeDA3VUhwMkFCOHlOQmRfX0h1eVlIczBaenN0di1NdmF4bi1TTWxWcko5bjk3a0NERTE2UVNTX0pjQTE0dzdPa1NoUlJsUXJ5N1FNZVF5VXZ3cGoydllxWm1UU2YtaW03YWdELUs4NWdLaEFrUG5VRmtYOQ?oc=5",
+          "published": "Sun, 12 Apr 2026 17:19:08 GMT"
         },
         {
-          "title": "Karl Dalén: ”Magrationen” kan växa efter Trumps hätska utspel - Dagens Nyheter",
+          "title": "Uppgifter om 100 döda i flyganfall i Nigeria - Västerbottens-Kuriren",
+          "publisher": "Västerbottens-Kuriren",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLThhcWJveEU0SWpTbDhjNGNQTWRTV2h5MkJRLThtV20tYThhSGZ0ekhxTGxraHgtSmZNS21UOFB6YVIyeWdiT1F0cTZROUQ3Y2pUSWFrNWl1OElKeHVYclhvakNacmYwbTh2U1Blbnk1RWxRTDF6OVo4RnZBMk5vVDUtREZ1QQ?oc=5",
+          "published": "Sun, 12 Apr 2026 18:11:09 GMT"
+        },
+        {
+          "title": "Nathan Shachar: Medelklassen har tvingats bära upp Israels krigsekonomi - Dagens Nyheter",
           "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc1ZuMzh6b1drZHkzcFNaSHRZQVhCaVRqSDNhakJKMnN3c1VFOFRPQjZLXzJxXzlWNTAwNHJxTWw4NDdkZXVUYldJZHNJQl9vRWRMeVpXejh5WmJ1aUhmQ2F2MTg2S3I2SGZvVnhla2FRSkY5X2F3c0ZZU28wak9tUFFfcE5LS25LR1pfOExn?oc=5",
-          "published": "Sat, 11 Apr 2026 17:04:31 GMT"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVJhTk0zNmVjQ1pHMHFmZ0J1NWh3R2hyT2Z6V2FWQjVYbkt1VmFmblBFNjgyQkt4T2p1VDR1U3RmRjhRX1hfdTVMTXRKcEtocWFDNEdMeDhQeVJSTFI1NUJad2RlQXdDVlRXWmRGYUlyU3Nmc1ZVRWszOWd0c0NXd3FBM2pZekpfT2ZaMjRXZG9wV2c4WkFrUXVScEI5dw?oc=5",
+          "published": "Sun, 12 Apr 2026 15:12:42 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Lufthansas piloter varslar om ny flygstrejk - NWT",
-          "publisher": "NWT",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTRyRGNRX2hIZ21lOGFoam54a01jV08wYW13SkVRX3hkNXV3aGtlR29peGJBS3BrMXY2Z1haRDBST0xnZS1zeHg1WVJGWE9LVDg3S1NJOFc2MnNtamNNZzUtYjI4Rzk5aEtlX1Ixc2tRZ0kzbW9ZUDg2YnZwQkdHaXB5RTRYc0k?oc=5",
-          "published": "Sat, 11 Apr 2026 19:57:31 GMT"
+          "title": "Är Wallenberg på väg att bli storägare i Stegra? Så svarar Stegra - Impact Loop",
+          "publisher": "Impact Loop",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZElOR1daanFsdDVjeUZralhBZ2FIUUl1UHI1RThSQkx4VW4wNTkxU21Md2Y3T1dvQmdTVjl1LVNFbDhZQjdFc0lObnFFRGx2Q2dOajJqdjE3Nk9zUjZDb0NvelFDR0JoNlpPZGpETjVfRVBPenVOazJ4NUtjWEs3Qm83c1ZpeWxP?oc=5",
+          "published": "Sun, 12 Apr 2026 20:31:22 GMT"
         },
         {
-          "title": "Självkörande Tesla får grönt ljus i Nederländerna - Sydsvenskan",
-          "publisher": "Sydsvenskan",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS2hJa0hXQkhSU2ZTakt4UFFxcjF4TloyeldkcXZaX1ZoeGZiaTdYQUM1cVhmU0xuRU1wUUQ2Z2J1OU5lYVNUYldxSmtvQWJtVzA5NEVhNXFCQ0hYVmExMGZkTS11TTB2YWx6Umd6eE1WYWJ5QXJRN0tjZU1kXzlHNWFTR3lUUDRyWEF6MktB?oc=5",
-          "published": "Sat, 11 Apr 2026 19:45:00 GMT"
+          "title": "Masshysteri: Folket kastar sig efter den nya rosa mjölken - Enköpingsposten",
+          "publisher": "Enköpingsposten",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUFljN2xhdk1HZnd0eFRaXzg3WjE1c2JLX3Z5U3JZQXBfS2l5aGdzNDlaTDNPUHhuWGRaNWJoNHg2c2dqUUlCM2xuNElVOUhnb3k2YVdpTmhRS2x4ZHdTdERGeHJWc3ZWZGg4cS1PdXNKUGtXRXFheUpvZjdqczVkTFp4dmg0c0pCS201b212QVk5NU56R3NnQ3NvVzJqUTdkMy1WVkU0ZTA?oc=5",
+          "published": "Sun, 12 Apr 2026 17:00:00 GMT"
         },
         {
-          "title": "Bränslepriset skenar – Cathay ställer in - Svenska Dagbladet",
+          "title": "Volvo-ägarens oväntade hyllning: Bättre än elbilar - Carup.se",
+          "publisher": "Carup.se",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vX19rZWhWcllpZXBEeHdHeVZCbm5LUmJkaVU4OVdBZS1ZajRUdDktNXNlRWdJY2dGWmJtTWlmMlo5MERMWHBEYlozNGozNkpHWFZLOVFMTkUzLWhZZHRnakFrQzZSTFRLTV9TNVF6OVc?oc=5",
+          "published": "Sun, 12 Apr 2026 08:25:01 GMT"
+        },
+        {
+          "title": "Oljepriset rusar vid handelns öppning - Svenska Dagbladet",
           "publisher": "Svenska Dagbladet",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NV29tUmdhdE9hekZOZ1MtWkJ6WVIweWhHcjFIZF9NcTJrZEl6cG5vY29RbDBlanZ5VlpSQUNlVXZLbVNGOEU5Ql9OU0tXUDdpbFRzODVmNmhkeWc2VnpZVFBwa25oaVlQSjl1aW5ZeWs2TllZX0FqV3piYw?oc=5",
-          "published": "Sat, 11 Apr 2026 20:04:01 GMT"
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzeUdmMEp3X2tqa2VPQjJKZlc1MHprc2pZS3ZDcnoxYm9iWUh6N1VTUkloMlM3QWdiQmVULTJsUWppT3dELVpPRWRNZlBSeXZLSEJTcEdJeHlnMmlWdzRTdlFPelFrbC04YzNueS11d213aHM?oc=5",
+          "published": "Sun, 12 Apr 2026 22:14:31 GMT"
         },
         {
-          "title": "Viktig medicin kan försvinna från Sverige - Marcus Oscarsson",
-          "publisher": "Marcus Oscarsson",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BN0ZCZ3cxOVdLN0paYm8wTzVxb3djaUNpdElORG9RVTQ1NFV5ZFd3Z25HemJudG42dWZRVlpWNV9icnJyaDNCUmFYamJMUGRIQUVyYjdENi16MWM3aUo1WFJVaE53elJ6Q2duWnBJcUdyZVI2aExYSg?oc=5",
-          "published": "Sat, 11 Apr 2026 17:16:49 GMT"
-        },
-        {
-          "title": "Rullstolsburne Rune, 84, fakturerades för jobb som aldrig utfördes - Aftonbladet",
-          "publisher": "Aftonbladet",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGFQZ2pya0xublpSaHRBSlplQWp5VWZZRXVJbk1kRC1rYkd3dHdvU0Uyd0pSQ1dGbDZ2T2JXWlcwTGZZNVBPeU4yVXRaTmZGUUNwWW9JWFdHX0RESmt5NnNEZGR5LTh3YUtuWVE4RDJCUnlvYTBDT3NwSjV4ejVPRWVHaF9wd0pvbTlocmpON2t4M1hXUDFsdGZjQTdSOEhEQ3BxRG9ZTDA?oc=5",
-          "published": "Sat, 11 Apr 2026 16:04:53 GMT"
+          "title": "Goldman Sachs får miljonbot - Dagens PS",
+          "publisher": "Dagens PS",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoVDRzejR1QmN1cmVkdVcyeUxfVWpuUVpVc1dDTEtRNk9DRHplM2huY1NGRHR1eVNTejZRWjNBSHlfR3VETVAwRVFSMHpZZ0Z0S0Y0M3dFMTZoX040d1BrUHRBUER0WV9uZkRkUDJzY3JKUQ?oc=5",
+          "published": "Sun, 12 Apr 2026 16:59:49 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Sarah Sjöström besegrad i finalen i comebacken - Sveriges Radio",
-          "publisher": "Sveriges Radio",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTVNMUkJvOVY4NjJ4M2Z3S09vMzlJalFKOUpDNWpKcDNVYUNqc2ZEY3F5MXFRckFLYWM5a05tT0tFYThhVWg2RFFMemFyOGdpSnRVNlcwX2NCT2xPVWYwMjkySmlfRk9JYWM1Q0NxRTBPRmh1b0ZucUpDMGZiLVpaVHhYV1kzeEZlUGNF?oc=5",
-          "published": "Sat, 11 Apr 2026 18:32:59 GMT"
+          "title": "Klimataktivister avbröt simtävling med Sarah Sjöströms comeback - tidningensyre.se",
+          "publisher": "tidningensyre.se",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUE82cGpJRzQxTVA5b3hHVlc1ZzZGOGxqbFVtN2pxWDY1QjVfMzVKWHh5Q1czYTBmVU9JdlhHVGJ6MTlGZF9vVURBSzNOcnlhMlFncll1QlhoRldhR1JnRm5VbDFncHBaZVFSbHIydXpnVUE4dzdWSkEtVUtjTXp5VHcxbnZMUVhDRTFocHB2V043ZWM5amdQRldPd0VNbVNIUTkxQnFHcmtyR3BP?oc=5",
+          "published": "Sun, 12 Apr 2026 08:21:34 GMT"
         },
         {
-          "title": "Tåget gick för Åberg i Masters: ”Jag är besviken” - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aT2c4dDNmQS0tR2dYOEF6UzFYaFptNDduQ3hrdDJUYTZkb0xhb1NsOUxtYUszdWRNLVlVXzVvZElLWTRhVEhhelFoTXVVVXFhMkJpYUE2OUJzanRyLXd4UHF4SGljYzRpOXZ6aDJQV2V6ZlFXQ2xLTjNVWQ?oc=5",
-          "published": "Sat, 11 Apr 2026 21:27:19 GMT"
-        },
-        {
-          "title": "Här är betygen på spelarna efter Häcken-IFK Göteborg: ”Övertaggad” - GP",
-          "publisher": "GP",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUlAtU1pVNlhWaElPc0dJOE95YTVyT0dJaWlCWm5DY1ZXdE11UzZPOEJ6cjVtRHBEVUJjamN6NFVmcEFyQkRiSEJMUlN0N09paG5zSHV3cm1uNWhXODFFc3NTdDAwU2ttZnhydEQtQUlUcC1yQ3ZGNnpPOExBSTYxYUxHSnRvTGhxRktEbGtlY2FaS1l1MFM3YzNDNTY0WlE0Rlk0ZnRFcWFZSHI2TEZrTUt6clNfLUdUb0xEeDdLSTlrUkFiNC1CT19JeW9rMWNiTGd6bWM1ZEFpdw?oc=5",
-          "published": "Sat, 11 Apr 2026 20:36:47 GMT"
-        },
-        {
-          "title": "Handboll: Jim Gottfridsson får sparken: ”Min besvikelse går inte att sätta ord på” - SVT Nyheter",
+          "title": "Golf: Ludvig Åberg långt från tätstriden på Masters efter flera vattenslag - SVT Nyheter",
           "publisher": "SVT Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWxzM2cweG5pYkN6QWR5ZV9aeG1HWUZDeGJyVWR2d3owOEstREE3djBnNmxiTVBTeHJtU1RVYTgzV2I3VWRPTjduOVIwN0JTNnhHRWM1ZlNZdk8zUGh5czBEWXdTR2Nua05Vc2xfUDRyeTZCcFRQN3R5dklpNlVfc2EteFVKT0hleHRwbXpFOVNOTEN3bzdwUERpWkRRNnlpcVNvMGxVdV9TU2QxRWFPQlYwUGIzS0hV?oc=5",
-          "published": "Sat, 11 Apr 2026 21:14:22 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT05PalpYWnB2Ykg5ZTRzXzduUlFxamNiSlFKZ05tNmZyVnFkd3MzS1BUVnNsbk9Da29qbFBxR3dLb1RCelNfX3BfRDE5UUkzSkI1Zm12NUZpSDNYc3ZUYi1kS2RvV1NmYl9qUVNHUmVPazBxeFUzWTdBMEVWYnllejJURWxSaGliM0dEZjhxR0VfQ2ppSDE3SXlNZWdUcjA?oc=5",
+          "published": "Sun, 12 Apr 2026 20:45:21 GMT"
         },
         {
-          "title": "KRÖNIKA: Doktor Karl Marius Aksum, det är dags för en dos penicillin - Blekinge Läns Tidning",
-          "publisher": "Blekinge Läns Tidning",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU200bGtfRXVKSkNCRFdvVXk3U0YtVUk4eHUxdHRWdzZUb2dMdEZvbEYzSjA5M3pBcFB6cDg3dzNTbGQ0dUNHLS1VckhhT1FmeXJRSi16ZVhWMVdZeDE0NWRZcDlkSVlxdEFvZ2RORUJRekZ6ZGM0X1pocWlxV3ItWHNvcnozbWlmUGxIdA?oc=5",
-          "published": "Sat, 11 Apr 2026 15:00:00 GMT"
+          "title": "Växjö körde över Rögle – hoppet om final lever - Omni",
+          "publisher": "Omni",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UY3hpdC1HNGItM0xTaTdrT2N4QzNCbmZXcnNhaWRaVFRtSHRLODBVc1F3RE5Fd1BVYzI2YzZfcmV1eW9tR0oxdDN3dFd5Q005MjBYQl95QnpFYXRmY0FyYWhJbWJ2aFktaDVfQzFhMVY3TEszZjhNMg?oc=5",
+          "published": "Sun, 12 Apr 2026 15:26:58 GMT"
+        },
+        {
+          "title": "Bohman: Någon där uppe vill Gais illa - Aftonbladet",
+          "publisher": "Aftonbladet",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSEpXai0ydWJGTzF1aHhzeVg3aGsyOUJ2d1B5T2VpdWJlUktvdE5CXzQ0bWRRY3ktT24xc2EwTGlFWTFtZ01YaTNKckVuVkNRa3M3NlRHQUpNdmptcUt0NXc2Q21TN2NSS1RsakZuVGM0X1hfdFBMdzUzZ3VXUE81RzZn?oc=5",
+          "published": "Sun, 12 Apr 2026 17:30:08 GMT"
+        },
+        {
+          "title": "Fagerjord om oväntade \"attacken\" från Olsen: ”Kändes som att han var 15 år” - Fotbollskanalen",
+          "publisher": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2trRFc2Sm9xRDR4eEVSQWdNUGJqaUdsNDdYZC16RGdxZFJ1bnZXWGFfZTFISGpZVmVhWTIxbjlZUWdXaXRNRk9Ncm9yWXk2OFVfSnlqVms3WmNqSFU0VGliSmpnVXFyd2ZxWHNJMVRVT1lVZ29ad0MtaWdSNU1pcTNlXzFWTGNNSkRFck5sM0h0RVFWNTliRHlzQkxxWlRkcHdPVzNTX2FQVi1RamJHSHJFRDhtcG4zMVFWNGh1cw?oc=5",
+          "published": "Sun, 12 Apr 2026 20:50:00 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Landar efter historiska färden: ”Splashdown” - Aftonbladet",
-          "publisher": "Aftonbladet",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWVLTERwYXN5TnF2SGZNZEdoSXBPY0IwOHZwTnZDNEZOWE82bmZfS0k0SzBBN094d0VOQmVsdjVLU1dxT1poc2xMTjhLUUEzOEx0YnBvUkdNSnhGTDZ3RHFRMFhsVTRURDdneWJZRkJsaW9DX21LX1VibG5aX1ZKSmk1ZjlodEliTS1ZNExCMTVhN2R4cDVwV2lhQ21Vdw?oc=5",
-          "published": "Sat, 11 Apr 2026 02:12:16 GMT"
+          "title": "”Får svar direkt: Du ska bli stark, tight, atletisk” - Svenska Dagbladet",
+          "publisher": "Svenska Dagbladet",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sNWhoajlXRXdZZDRGNFVrRndHY0dxV1V3dEh6ck1uSXZjcG5lMTFQTl9tYkEwaV9fUFYxS1l3cDhSQzhVS2pPdHZtTWZNSFo0MkE5VFpHcTlWMzM1XzJDN2s4dmRRZXZkak82Q0RlU3BMMnNCMzFrLXJuMA?oc=5",
+          "published": "Sun, 12 Apr 2026 04:17:28 GMT"
         },
         {
-          "title": "Larmar om nya AI:n: ”För farlig att släppas” - Expressen",
-          "publisher": "Expressen",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOWxoQUpmSnd2a2NLN1ZpeThKcVZiakNqTEpFd0hHLXBHeWtPWF9LOFNySVNIZi15QWJVaXNOQnowNlFyNy03RExYQWVFV0NPUVFMbktLWWJhZVhRbnRrSURwSWhLNEUzOFpfWU1oNXFZLWRKeklpNGFycE1pU2l5ak1ZRlg3V2lGY0RQWFlGQ3g?oc=5",
-          "published": "Fri, 10 Apr 2026 22:07:00 GMT"
-        },
-        {
-          "title": "Hur långt har batteriernas ”game changer” kommit? - Dagens Nyheter",
+          "title": "Uppgifter: Wallenberg tar över Stegra - Dagens Nyheter",
           "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwVHoxUDI1ZGFnOEJlVUQ4b21zSWpnYno5dTBEcWlBMlFzSFQtWVB3aGJCcFJxd0Eybk1TakJtLUZGbnFkLUR5SVZBUG11RGNCMy1DbXR2WlVNZTVHMjV5UUNNQU96Y1g0aXlyRXdzWmtMbTRBNkhVSG5Baw?oc=5",
-          "published": "Sat, 11 Apr 2026 12:49:14 GMT"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVVMzWlgzcmpYdzZYUUx1V2w4OXZLaWcyQUkybWNOT1VzTTJ2QnVSS2lHLWx6Q3dnZVlJM21pQ0Exc3dGWGE3dGxmX0pUZVROWjBsencyTHo0dUtZTGNhR2NQMVdsV2d0Sk1RcWRsX2U?oc=5",
+          "published": "Sun, 12 Apr 2026 15:27:04 GMT"
         },
         {
-          "title": "Nikes AI-tröja ger spelare ”spetsiga” axlar - Omni",
-          "publisher": "Omni",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeXl6UVdubkFVYUxRLWVzMTVJWDlrd3ZFanBHWWoyV2RlZ0hsVjhyLWJmNG5xZFBpWnFuUm1YTDZBM0RKb3dWY1B2Nkx2bkpRMVZGYUNkTnp2RWVDcVcyb1lpQ3pjVHRBZTE3M0tOaXhfZEhjRjVPOXFBWE1JMFhjazdn?oc=5",
-          "published": "Sat, 11 Apr 2026 10:26:11 GMT"
+          "title": "Di testar: Så bra är Samsungs nya värstingtelefon - DI",
+          "publisher": "DI",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4SEJBN3lnWjc2eFZFcDBFZ3BGbWtpT3RsNWlTTkxWVjlqNkZJY2tVLTFCN20yeHExaEpwMEg3VWZuOTNWQmVMODBkLTlxcEFKcnA5REJqcFFuWWhJVU9KSE41WjNjN1poRDhkbU11Q3llb28?oc=5",
+          "published": "Sun, 12 Apr 2026 07:58:52 GMT"
         },
         {
-          "title": "Staten blir majoritetsägare i ny kärnkraft - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1JmampLNTY4QVNVV1ZYUlZfeVhsdVF2b3hnR2JmSXNDZTNTa0hZZVpzbVpIYTFnNXZKcVo3cVNSRlZmUU1VQW40TzJKdUxaSV92UFJlNDh2dFVUZlZRZkpocktmcXdJWUpDdTJOa29uZzQtcVItOG9OUHNsR3JnWQ?oc=5",
-          "published": "Fri, 10 Apr 2026 14:24:47 GMT"
+          "title": "Avstängda kameror skapar oro – ”Uträttar behov på andra platser än toaletten” - Blekinge Läns Tidning",
+          "publisher": "Blekinge Läns Tidning",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDM2blZleGlrek91MDJXSFdxNHpfb3lBZGdGaFFoaDBGSU5FcW10WFdaelR5MXNDOVplUlF4ZlhocDhpdS1LNElmTzNNVXBRSWxDLXRSSHRWc2pQU216dTZjaWR6MU04OE1rWFZJTkIyZHJwUFBCR01zaTdSNGV5UmZYMDk0M2djM2cwbjBsWm1CMlAzeUtKQlZmMloyWF83dmc1R0Rn?oc=5",
+          "published": "Sun, 12 Apr 2026 13:22:39 GMT"
+        },
+        {
+          "title": "Radera dem direkt: Dessa populära appar stjäl dina bilder och dina koder - Dagens.se",
+          "publisher": "Dagens.se",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTjJRS1p4emQzV1BaVDR4M294d1hpOGUwOEtnNnNqWk9ZMUNCOThQRVZFd1NuSkxrcmhyLTBHZndiYXM3aGdNSnpoMlkzMVZIMDRXMzM0WTFmblBRSmZvZVZwbzhoZ3hldks5Vk9JX1YzRlktbHJ2SEh3OENqQWxfTnc4RXk0eGl6Z2IzbVV5TnBuSFNJNDYwbGQxakRkM2k5WE9YVQ?oc=5",
+          "published": "Sun, 12 Apr 2026 05:37:00 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "'Unwanted shoulder pads': An issue has emerged with Nike soccer shirts ahead of the World Cup - Business Insider",
-          "publisher": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OTkRHZ2t3XzctcEhweHhBZzdoSTVmeE1vcEJJUUdXQmR5NWQ1OG9wOU5CdWF2Z0FpU1UxR05IcUJCdWJVUzlld0x3elYtWVZuSEEwNVpXYnBEcWMwOE5mc3RIRTF5OFJLcnZ4Q2tYdlAzZDhaYWc?oc=5",
-          "published": "Sat, 11 Apr 2026 17:08:00 GMT"
+          "title": "Premier League Soccer 2026: Watch Chelsea vs. Man City Live - CNET",
+          "publisher": "CNET",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTE52cDFaMUJWVld6WW9kY0FwaVpxYXdHeGRPYmlkNEJpVm5GZlBoNnRNRjhTUVM2cVdibTFXbnBYZ2FCM2xZUnRRRFpkd0paNC1pU1hRaFQ5SHU1VkpnNEtYbHlXandyeGJLVFdQM09LWHJPb2dBLVdXVVFWSkc4RGQtMG5pMFUzOC14eDhxSTF5S2JVM1BrbzVJT2tsVlZEcnRUU1N3endkQQ?oc=5",
+          "published": "Sun, 12 Apr 2026 13:30:00 GMT"
         },
         {
-          "title": "How to get tickets to the Argentina-Honduras soccer game at Kyle Field - Houston Public Media",
-          "publisher": "Houston Public Media",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbVBrUk9fVGRxYi1JdWNsTmdIZ3VrVzNGMFlEbGxwWVhqX1VkUWViLVBfSVh2Z0V6Ml9MOHVoUHRFQldXVjhSUTZFQ1ItbXZvVlhSQ1dwRGZSUkdjY3IyMm5wSnFZSlFBZUJmOTFGZ0pKaWNMclVFU0VvaC1OM3pIVXBNd3pFcXlzU1JHWV9KcHE3X1pVazQ0WWxpcTBxbTh1UGVmMzVfcnJCaFJpU25zUkNoSE55Smg0TXdJNldkY0lPcGtuWWxJ0gHPAUFVX3lxTE1sYWRTX2RXczF2dmMyelViRi1jMVU4ZWg5bk43WU90YUJBZDFMdjROakNnWU1NSHVGajZrRVpFdXBveUpSQU9lbU1rMzhsajlNRDR3YXhSaUdodTNBR0IxTUZsa3YwZG95ZU5FX3Raa3hZb1BtQll1bmdhNXVsQzl4TzZRZncydVlrQmtMb3gtZGhQSHdtMFBJRGtwVXA2TGd1Z096SkNQbzNISkdpclF4LVg2Mng5MENOeElPZThIYUtaUlZQNnNDS2lKUmFNOA?oc=5",
-          "published": "Sat, 11 Apr 2026 11:00:33 GMT"
+          "title": "Why missing Champions League can boost Premier League teams: What data shows - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFNkU2FWaHViUkNCZTBETGhSSUYxS0JteWZndkJGckd6NXRLLVJGdDh4cFlhRVEtblFhb2U3eDVRNW9VRFNXdVhGdmx0Z1VlaUhYM09IdDdkd1NnM3dkaTk1YnVEMnFwSlkwQXdqRko0MG1pSEtmcGUtMlhGQmRkd0x3S0VXQzZzdXdZOWY3b0g2bmJUdkhPN0o3X0xhNk0zNXNlV3d4OXR3VlE1cFU4ckFLMFQ?oc=5",
+          "published": "Fri, 10 Apr 2026 10:13:00 GMT"
         },
         {
-          "title": "Soccer.com, adidas spotlight Seattle’s soccer culture ahead of FIFA World Cup 2026 - Seattle Sounders FC",
-          "publisher": "Seattle Sounders FC",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb282b1R3T183OUUxODJNU1ZEcV9CQmZNUmtEY2M2U18yYzdFUWo5aEhGNGVtTV8xZzlLUWI4cS1KYlpERU82Y0UzamZKaG5Bay1hLThoMHhfM3dqSEJBVExqbTdUQ0FMSkN6a1Rmc1RDeWlwUl9xbUNwRGtKRnpEVjhFQXJQQnlHS0FPczFQSEtCeTdocFk4V2c5M2JHTDNMNldWSE50cmZDakpySTZHb0FZTQ?oc=5",
-          "published": "Fri, 10 Apr 2026 18:53:27 GMT"
+          "title": "Trump Pressures FIFA to Ban Trans Athletes from Women’s Soccer - Metro Weekly",
+          "publisher": "Metro Weekly",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xcFJ2bG9IOXRrZ1B6alhqdGtpaVIxdnktWW80enZocGI4U01LVER3blRzMUNpWDZnQWd0M1ZrQmpwT3VsZ3NVbTdZSWhiWDEtYmFUeGJQeEdFcFh2bnJkNnh1eHNQMWliYV9yUDhKQUdPV0E2cmp4Q3RhSHlmUQ?oc=5",
+          "published": "Sun, 12 Apr 2026 21:53:02 GMT"
         },
         {
-          "title": "Britain Soccer Premier League - dailyrecordnews.com",
-          "publisher": "dailyrecordnews.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2FCa1AzX2lCd0Nmb2NHQWpSaVptaWlwT0ZzVjZkR3JfU3FTc0JjT1NVWGtqNHNFS0xIYXB4djUtb2tFWUphNTFGSFVCMWwyRW1GYmRTNG5wUzlMSEJnWHVKT0w5VEtZSFVhaDZDLWlvWWV5em1ZcXI3Tk8wMHVuY1JnV0ZoSzR2MWw2SndnbXdtMWZ5ZlhvTDFFUmpZZXJIRmh6RE5HNlcyWG5VUVhHbS1jRnVTNUkyWkZDODU2Wk0xUQ?oc=5",
-          "published": "Sat, 11 Apr 2026 13:29:17 GMT"
+          "title": "Talk of the Devils: How close is Champions League football for Manchester United? - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUpBbzNndkZiM2dFVFRtbktLMHdpYmZ2LVltcnR1T3dlX01lR01yUXFiMjdVa0ZUcnVuZDNKWWFWNjdkRGUwVzRXazlUZ2g0Y21fLUFKNEQ1YTljTmNpNVJjVkRVakVWcUFNTXpwQWU5dU5DejRpNjBOZGROVFpDdGVXaEZpVnQySkR2Tzk4X3FISWtvUzB0dWllTXpzbEU?oc=5",
+          "published": "Sat, 11 Apr 2026 04:25:25 GMT"
         },
         {
-          "title": "Britain Soccer Premier League - Idaho State Journal",
-          "publisher": "Idaho State Journal",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMFkyZTJOYldkZWJXd2liM01iVlBLNHB1ZVYxVG9vMm52VnkxenBCSEswdWQxazBNV180UWNSOXBSRzZoNldDTHp3V0h4QmFhcmx4c0R3cjJOb0VMVktpaEl0MTRNNEszT3NhT0dhWXo4TDFKajFKVm0zekJCNC1ISEpGY19WU2EtOThmRmRqY08ybjNFUXN5cUxYVFhTS0tWZ2VXQm5hQVB0NzVLYXpHay1ubFdJUkxMMi15SFhaXzVhZ204T1E?oc=5",
-          "published": "Sat, 11 Apr 2026 11:54:47 GMT"
+          "title": "World Cup | Football, Soccer, History, & Winners - Britannica",
+          "publisher": "Britannica",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lSXpoQ1dpZXJOZ0haOF8tcElFV0E0bDlCVHJORHc3NFNCSDRzejEtNFN5VHU3NWo1QXZHeVZwampxYm14Z3JkYzVUZW5YY2N3M21hbmgtd21jZzlyOGFYU1Vn?oc=5",
+          "published": "Thu, 09 Apr 2026 05:00:00 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Sabrina Carpenter’s Coachella Set Featured Sam Elliott, Susan Sarandon & Will Ferrell Cameos - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGJ4MDBuOWc0MG1Hc0I2ODRFX21LbkdwRHJ0b3pMMnl4VXBKS0VfR1JlN1ZxSHpvUk1wS1B5VlJXWWlEOXdVaC1aMVpKcDQwRTBxNzk5dE9JaGxEVjhaRTZoNFBEYzZ1U0NLZFNUYzlYWjBCS2hnakl1LTk4OXNucnFwRFJoSjlCRk9ydldZdUJQdmdEb0sxdXlsQ19wbVVMcm9nQUU2ZzhsUUlX?oc=5",
-          "published": "Sat, 11 Apr 2026 17:50:00 GMT"
-        },
-        {
-          "title": "Box Office Milestone: ‘Super Mario Galaxy’ Soars Past $300M in U.S. and $600M Globally - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdkdpaDdwVFhBdU84VDV0OWdBUE5QNEp1N04yZmlkdmxCUWdOTjVfRGZRM2xfZTZpaTdDLXk1cm10eEtlTHdpN0xnazZjbHctU0ktZTR6RDNCUFBjd0FLYndMYXhXaUhkdjU5cDlJNW1vTHFmTXJwdTJ5TjE2WnVUMDdNWEtYZDNwLTlTLXVKT2VUQmNGYU5MYWNYSjRRNjJqbHZOUERDWQ?oc=5",
-          "published": "Sat, 11 Apr 2026 19:30:54 GMT"
-        },
-        {
-          "title": "Labrinth Explains Why His Music Isn’t Part of ‘Euphoria’ Season 3: ‘I Don’t Let People Treat Me Like S—’ - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWJtQTJJdHVwNEI3a2xvbUNhcFBzQWs5Z2k1bkFNQUE5cHBDcU1TUDFZRW53MUtINGJ2TmVQSmZIUEdQMXNNbXVuY1J5VVQzNi1KZExEc19PamRWajFGdHBlcG0tNWtoeE5ieHlzUWlGNHdPRlBZa2NzVHAyQXRHMjRxNWwxWU9lSHVoM1IxUjZIQU12bjNITWpSZlVfakI3NFpr?oc=5",
-          "published": "Sat, 11 Apr 2026 16:00:00 GMT"
-        },
-        {
-          "title": "Sabrina Carpenter Faces Backlash After Calling Arab Cultural Vocalization ‘Weird’ at Coachella - Yahoo",
+          "title": "Coachella 2026: Karol G headlines Day 3 after Justin Bieber's laptop set divides the internet - Yahoo",
           "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTjl4bTNxQkFhQklqLXdyamJiUUlVc2V1X01Jb2hOVmc5Rl85b3hONVhVWERuUVRaTzVtY21wX2ItM3N5QmtCcHFpeDFhTzJ0eV9Qc01qZlZTYzY5akoydHJxMVZGWEw3cW9FZF94UHhVQjZoX0lFbmpqVjJEYW9wRFFYbDlVcklVU3Exa1dYeTk5QUNTTEF3WWxXUnZPYkxMeFJRYVRzaEdRdnhWMjZ3?oc=5",
-          "published": "Sat, 11 Apr 2026 13:49:58 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV19zYXJhRW5RcDZiWUUyNFc0STNURnVvR3kyTVgxSTZZMGFLODdzclpGSEFzXzQ3Ymo0TUxqMC03SlA1ZlZzOUEtNjNpMjFnMF9Ec2EzaU9QLUN5SWVnaWlJWnduQVZUN2IzOTF2bjVpOUNnOTR2ejRPTWtFYlUwSjEtLXYxV3VzNkM3YUtTdDE2aW9qQ05TX3h3MGdtZTlmX3MyR3FGLVo4RVhVYlpXLUhlMk04WF93WlM1ZU5Gc0FtaS13RzRyY3NwOGJ0T1FNaGI5akIxZFRZWUZsdjlSbDdpUTBwUk5l?oc=5",
+          "published": "Sun, 12 Apr 2026 16:29:55 GMT"
         },
         {
-          "title": "Steven Soderbergh on ‘The Christophers,’ ‘The Hunt for Ben Solo’ and His Controversial AI Comments: ‘I’m Just Not Threatened By It’ - Variety",
+          "title": "'Super Mario Galaxy Movie' Is Year's Highest Grossing Movie, 'Project Hail Mary' Hits $500 Million - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSE5jcmFfTEl5c1dNOGc3WFdXRXRqT3JsaE9PQlE4eUo4cERkclR4cE1pME1aNDBPZ0Mta2pvQ1ZXNmVTaGJXN1N6OGJ2UFNmTUVMVXhoX2k3TzI5VFNFUkh0VGFBY0FYQTVMV0V5N2h0cF9iVE1sVHRHbkdwQnhuZDVueWkyOUw3ZWF3ZjNhbjRYY2NWOFVDZUZkTFpFdVNEcVBUMzZJY2lmRmlfd3d1RDdRUzFqWVMxSV9tN2lWN1N0TUpYV29Tb21pMzU?oc=5",
-          "published": "Sat, 11 Apr 2026 17:18:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTm1TM200Z1AwT2tRUTFrMXFvMHVKX3oxOGVfUm5qcS11MTBsRW5WdHBrQ0xEX05WRnBxbWdoMjVLcm5MNEUzcF9RY3pBX1BkR21WTnpwV21PWnpMMmRxOC12TEJHbjlPUkNDMlRhSnI5TTQ3cnZvazRsVmFQbHlHTmN1bHQ2aHp5OTR5a05HQm44YkJFdDlIVmlad2tiZE5UY1MzWWRBOEhFRGZjc0t1bXhhVTBjSEJWeFZwQ1hjZjkycXk0S3FLS2xyRENFelJYTFFYQVlOYw?oc=5",
+          "published": "Sun, 12 Apr 2026 16:06:00 GMT"
+        },
+        {
+          "title": "Georgie From 'Love on the Spectrum' Reveals New Boyfriend After Split From Connor - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXNfVHo5MVBrOHVQak9lZnpUcHlWSmFlMlRxeGVnNm41ZGNvTHpwWUpKS3Mta0ZQM1R5M0dwbmhhajBoNlRFQm9LZGlyQW1aZWhwbGNGbVF3YU1HWnhiNVEtalZRYVNfNFRRS3pJSFBlRjFXMzE0elVMeFFwTzZHSEU5WUhnRENmVjdsMEhnNWo3dVRX?oc=5",
+          "published": "Sun, 12 Apr 2026 21:04:29 GMT"
+        },
+        {
+          "title": "'My 600-Lb. Life' Star Dolly Martinez Dead at 30 - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lM19vNXVCYW9jTEI3RWJCX0VGYXlhNDhlZGx2aFF5eDAzaDAxU2piSDlkbC1tbWYzTVUxYS1OUGFqSG9BVTktWDhDeXhOQUZDNlhPTEVkUFdOZXl2NjFGLQ?oc=5",
+          "published": "Sun, 12 Apr 2026 18:24:31 GMT"
+        },
+        {
+          "title": "Fans react to “disgusting” scene featuring Sydney Sweeney dressed as baby with dummy in her mouth in new ‘Euphoria’ teaser - NME",
+          "publisher": "NME",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcGZFT3o2YThYcEJ4bzVwY0xnUUdQN01KTERrakluRTdUbUExSTU3Nmo0Z1Rmbk5jYkhsYUt1blUxdXJkLVM4MUpsT0ZGNVRfOV8yVGZJdm1WN1Jxa0c0Q0JWMTUxTDBBVXU4TzA3TllzOGdvamZfUWFZVUF2QUluMzd0dFducEFEN3FFN1ZmQklaYTkyT3FSNkpiUGVBMnRfdFZzLVZ6NzFINk1mWGt1Rktjcy1nbVh4cHZBTHBtVXIzR0IyV25NcHVuLWZNakpqMTJmV3NoN0YwOVhybHRremxFeERBSlZlZVE?oc=5",
+          "published": "Sun, 12 Apr 2026 11:06:59 GMT"
         }
       ]
     }

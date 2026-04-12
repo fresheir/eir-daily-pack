@@ -1,7 +1,7 @@
 {
   "market": "PT",
-  "generatedAt": "2026-04-11T22:31:29.716684Z",
-  "validForDate": "2026-04-11",
+  "generatedAt": "2026-04-12T22:33:07.846132Z",
+  "validForDate": "2026-04-12",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,10 +9,16 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "José Ornelas indignado com cobrança de imposto às vítimas da Igreja Católica - Jornal de Notícias",
-          "publisher": "Jornal de Notícias",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2RnaXBNaTVGdUNxazY2VTA3Ti1hR0x1dGJSMktmYnk0dlJFeGZzOEl0NWx6cXpnTkhMczZnOXlpa3NMTGRaSDAzWE1tcUR6UUJsUGhfQmVnWExsZHFFNzdTbTdzbk8wd2FUOHJaX3ZSb1lENmFsYUxZblJCcUJLVEJmVVpQTHpuNVZWSVQ3cndSbXV2Sm4wRlBYSHdnWnVReUpsZGJreUlPRDZ0dFZLSVBRTG1GZGswQkE00gGrAUFVX3lxTE45ZzAzSlVwOXUyeWpSUGtDQ0pfV0N2czNCa0huTG9fYzFWNjhmcXd3bElZaXo5ZGhfeVZpTGdBM29tdjJIR2FwbnhfcnhxZTRaZkJRN1RwVGdDeWtIUlpacFBTMDNGME1CZXJPN1V2SkhmbHVyZTRqaDRCSHk5c1d0VDZNWXU1QjlsN1R3Y1c1MzE2VU1XX3pGRlFJZlhHYWVOS19yeXQ1QUpPZw?oc=5",
-          "published": "Sat, 11 Apr 2026 18:18:00 GMT"
+          "title": "Diogo Ramada Curto (1959-2026), o historiador que nunca se fechou na história - Público",
+          "publisher": "Público",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeVpyZWFOR3NXeTJ6SHVldFhyVlk4QkVFN0FWRWdRNDZLdm0wY2FqUFlzbmszc3I0SFl2dUxvaDJaM2NQdXVrZTFZTVdrTlA4NXRaUVpSdTVmTDFrUklqMzdLSXozdFBNbnZFczZTeUpQajlrZEdDRlRQNUp5NzJvcGVyckNxUElrY3Y3NmVaR1g1dHczbjlKNHg0N1lxRHF1OHdLZ2NKTE5ZNnR2bzdGLUotdS1kMWVYemx0NA?oc=5",
+          "published": "Sun, 12 Apr 2026 20:01:10 GMT"
+        },
+        {
+          "title": "Recolha de biometria voltou hoje a ser suspensa nos principais aeroportos - RTP",
+          "publisher": "RTP",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUEppRWZSRHk5R3hqWmJmSG5ULVNEVzhpV1A4VV94eHRYYjFkVVppcXBFbXZxeDg3TzBnWHcxUV9VTVozeGVCekJQUzNydzhWdjZkTHQxLWNndGROYlU5UDN0NzJfR25FR3UtMXlXcXVLYkxoVkRLYmFFSzh0dUpfUHBvOGg4MkZyN2czeGFyTENQS2cxdFl3RzBwN2NVYkJwbnBXWHVDVmNqdDFvTDdJdVdwRGN2Zw?oc=5",
+          "published": "Sun, 12 Apr 2026 11:36:02 GMT"
         },
         {
           "title": "Governo quer mudar aquecimento nas casas e trânsito nas cidades para melhorar o ar que respiramos - Público",
@@ -21,22 +27,16 @@
           "published": "Sat, 11 Apr 2026 14:03:00 GMT"
         },
         {
-          "title": "Ana Abrunhosa retira confiança a jornalista da Lusa. PCP e IL criticam autarca de Coimbra - RTP",
-          "publisher": "RTP",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeDhGTnlwSTB1UFlqU2xUS0lldGVrbmRlNkpnazhXdlBrak1BR2VmYzFfcDRURjQxZkRaaFRjYTB6NVpHMFVFN0tSNUMtSzcyZl9pTWtIdDcwdGNLVmpvUGsxSFVEZ0IyS3RzQlFwSkJfT2JuSzBPV01qQzFrN1ZETThna2RPNllnUTNxOXRmc2FxNlRlQjBBajJxR2ZfOU1nV1FWNjBpNl91RmM3Yl9MNkFab01yajE0dENFQmdNV1owek5JSHJvRm9R?oc=5",
-          "published": "Sat, 11 Apr 2026 19:34:05 GMT"
+          "title": "Hospital de Santo António pode ter de devolver 178 mil euros porque Eurico Castro Alves não picou o ponto - Público",
+          "publisher": "Público",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTjlkRnBGTE1OWVJuLVRLeERnSUtCd0JaRjFXV3hTLUQtN3pxcUtVS2Y2UHB4bVpSQkhiSFJVaVhzaTZyYnFidXZoQm1ESmVKdVY3aGprVnNERWtRMVBxRUx5S2Z6ZHYydk1kTzJBRW5PSFpwOV8xQ1A0WWZBSTlyaGVXRVNfc1NvTjhQSjk3RTdfWk1jTkduUHlJQXpRZmREWXppY0FjYmhMY0MzVmVVN0xoQ0Rxc3doYld0UEw3eldNdjdOVmc3Y0JCYzU1OV9KSDlmSkJKU3g?oc=5",
+          "published": "Sun, 12 Apr 2026 20:32:21 GMT"
         },
         {
-          "title": "Morreu Maria Emília Brederode dos Santos: pedagoga, educadora e uma mulher do 25 de abril - Expresso",
-          "publisher": "Expresso",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZGVvUFVrT3dKQTFDOS02cVZsQ0FObUtseTVlUG43UEdObldRYkhBV0l5U011NXkxTkdyd0tMU2FmQUJMS2dFZmh5SHNQNzJJWC11QWo3LUNKdzVWTTFHdkFIQjFDS05JQjdIbUR5dzI0UjFhaE1ZRGhsQV9OY0tkVmFVU0ItWGJORjVRY21IdUpzbzE0VF9qU1NZTnBsV3RVOXlqMGlMZzVTeVhXQmRJVXhJTm5qS1RGMkFWV0dlSHJKaC1RU0Z1ZDJEa3Z2OXFlWjVj?oc=5",
-          "published": "Sat, 11 Apr 2026 16:24:34 GMT"
-        },
-        {
-          "title": "Reformados cúmplices em fraude de médica que lesou o SNS arriscam prisão - cmjornal.pt",
+          "title": "IGAS investiga médica que pedia 1000 euros por reforma de invalidez - cmjornal.pt",
           "publisher": "cmjornal.pt",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaEdwYW9BUk5Sd044ZlNxMW5wZHRfVk9tNXhPN1BfeThKUGF5WHRMLUxxRmE4VThHYWQ4TTU5aGozZnJ0QTNWWWZVZDRmUHBSVEtNZFR6VzlYUlhXZlcwV0JLdzU5UTNRWmhmM2ZYUWdQb1FydHM1U3NoQU1XTVk0ZXBCdHVJMDFXeXdZMnpJNUhqYjlSTDkzTVJManhISDZWem5DLVhPcnBIZGtxWlgw?oc=5",
-          "published": "Sat, 11 Apr 2026 00:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTFhUUtESnY2UTMxM0N5WE8xdG1Xb3dla2hzTnVOUUZ5LXdldzg3TmpTcDd5RHdQVVBNbGRFQ1ExSXNDSU45S2psVnJ5OFc4bWJsQ0JNUlQ2YTZRZkJOUjJVcDREcGxUR295Q1M1RWtQOFpWcTBIMG9vY18zYm1oWUxSTlVLQWpqb1lKUDBfWDJmNzV6Mnp5X1c4U2dVR1dzYW9BUUVPV0VuV1po?oc=5",
+          "published": "Sun, 12 Apr 2026 00:30:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Orbán alimenta o clima anti-Ucrânia antes das eleições na Hungria - Jornal de Notícias",
-          "publisher": "Jornal de Notícias",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmZURWdwV3ZvUm1LYjJoeVNMLVFfZnlfVWVXRDVkelo4RmdHbVZTOG1kOUhfNVJUek1VUUNwWXVlNmI1a3ZpZTFQX1pqc2cxaEs5Z29sUnF5M01pWlIxdDFZTVM2OGt3bDNnQTlXbE45dENGTERTcXI1dTZVYmQ0RXJTNDNWT2d4UWlDRXRhZE43RnZRT0Rrb0ZzeWdJekNwQURHdzFpZlXSAZwBQVVfeXFMT2JwR2FXb1ZmbFpfdUtYNy14ZXROcHl0MHA3NGNFQlVkcEJyVExrQzZPYUhxRVlyU09IQzdUYUdfZlE3NzNmWFQ3TzhveUVWODM2dDAzaVlvMGVMQ0ZjaW9McGx1bzcyTnA5MVNkcXNUSmlJa3JaLU14Z29TMFhRZ1dtd0E5ZXRlM2xXX2xKRVVoNF82UFMySWJSLTMt?oc=5",
-          "published": "Sat, 11 Apr 2026 17:58:00 GMT"
-        },
-        {
-          "title": "Sorrisos rasgados: Esta é a primeira fotografia dos quatro astronautas da missão Artemis II juntos após regresso à Terra - cmjornal.pt",
+          "title": "\"Libertámos a Hungria\", proclamou Peter Magyar após derrotar Orbán - cmjornal.pt",
           "publisher": "cmjornal.pt",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaC1udnpvZ3hSelRFNi1UQWxEZFQzTFBCYzZSQkNGdEoybzVYX1RKbzJEdVlOUmpscS1SdjlJSjNZS3VwNVhhZi03b0pWcC01a1QweVdoemh0TUxESGdhR0daSGFtMzJhT0tlMElBOF8xcFkyVk9EY0xuVXdZMmxqSk1PcWhhWGVBcFphUnhncnFHZVlLTFFIdDE2OHlBRm80a2hHWUkyN1Y0TzlzX2lsbm9IT0t1QW9Qb0diSlAyenFqNGlkOU1IaTZKR0lOWlY0TEp1WV92VGpvdW9HRk9TNlhUU2ZUaGoxaGN1bEpR0gHoAUFVX3lxTE1OeEJXbUhMVXBSeldvdUMzcURpbGZCRHRxMHlUY01ibU5Ta1RHWXF2LUppOVZONlNvZkdhR0t0ZF9lMzdneDU1Z0g5R2dtUmd6Y0pFYUR2NUFsOFg5LWpOeDAwMWpiZ1c3N1U5MC1pSktEQzQ4VnJZTmE2VmpTdjFEek5nbzV1eDlJVlMxM0VBRTYycE9lRTR3bVpXMlhjVFF3NWFZVHA3eEMxWFVFWGFkUWdzOFVCeTVQRkZ5RExSaHkxMXpUY3hIUDBXdWVTMWUyb3JmOWo5REVrWEtxRWNtSVBEVTlsVTk?oc=5",
-          "published": "Sat, 11 Apr 2026 16:53:31 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUYxcHM2b1R5OFBrQ0JsMWY0OU5ScUNzbFl5ZEZ4NWlyZ0hUTmcyLVJGa3JRY3Noa0JkWUotRDVMUGdGTTFYTXV6YjF6SVBENzJKM19lc1dDSDd6YUF2OVMzVjd2bzRkNXFWa1ZUWTltVVVhU19iNFpHTDVYdXpjWnpfUmZlai1XYlZUR1VyLUMyRXpOU3czeEtWazVYTDhka1FB0gGeAUFVX3lxTE9hY2JEbjIwbXUwNXN2cGZHaG9QRDVJWlNuaHpIUDI2UUQwUWN6VDRCSnY0S2w2Nlc3Q0xiNk0yQlZxNS1jVUQ3YkthNzNJbFV6blh5LUlPcTE3Y2NjQ3ZvcGpSRmpBXy1XNmhrMXZZNTJidDlMdHE5bG1MSDMxNnV0YWxGZ3hnZE5vWlgzV01VQnV5OWxsVHc1aTVPbmln?oc=5",
+          "published": "Sun, 12 Apr 2026 21:32:15 GMT"
         },
         {
-          "title": "Inicia-se nova ronda de conversações entre EUA e Irão. Netanyahu diz que conflito \"ainda não terminou\" - Diário de Notícias",
-          "publisher": "Diário de Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdzlVeHNpMmRvbklfaUlBeFhEN1l4NlY2U3pEVFhOUTdrVzJOZVUzQS14SW01cTdlVm5YSmtmX3NJSXVyNEk3aFFpQWo3Yjh6bFRjWUFCamNJQ2pLNWpUbDBkdW1rUFNTcndsbmpRd1o3R1NZallKQk0tU2ZPZS05ZUFxYmJTUE1sRXRvODVFWWtidHE3amNvRWsyUmhSOUx3WW56dUZ2Q0tVUEY1QVBzZFVsZzlHVlZSdV9YejlYTGUxcVNVdGN2LVQtb01QT1d0WFE?oc=5",
-          "published": "Sat, 11 Apr 2026 20:32:00 GMT"
+          "title": "Trump bloqueia estreito de Ormuz após fracasso das negociações - Jornal de Negócios",
+          "publisher": "Jornal de Negócios",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWHN5UVczRjBMMk9MVm5FeE03ZU9uQnV2RjF0V3Uwc0ZQRWZLX1hNaGNJUDdGOVFnUTlXSy00a2xmVWdyVlNLazBCTWRvZjBMV0xCZDBFS1FQUzFWVkR0cERMZ1o2ZzVkVUlnSkp3TFR6SHgtMGE1bWR2SEJ1aG1MMFQ4RnN3cWJGWVlBRm9ITUtHVURSTmRyN2t4Y3F2UGthSXhmbE9YN2drLXRVdjJZZ0tPNVJNOVEtWDJaOHV3TdIBugFBVV95cUxOZUY4UzNoTGR0WXpUQ1NXUHVOTlZzZ0VydGd0Rndud3kwUFpOS2Z0dTFTQkxwSVVyVmJjREFjT3dkMEY2LURhYTI3WjdjdXZGaGFsd3B1UnBuTUVHbW9ic1lpVHZma19xNFZjSlVSTTVCeWwyUnppLU5ZUkdYVHRxSFpIX3E1ZGZKRWhnMGJ4eHlITU5UNjJ3RS1UMWlhXzNua2hQMkpBdjBBSU9TTElRXzZna3Z2WU9VMWc?oc=5",
+          "published": "Sun, 12 Apr 2026 17:27:35 GMT"
         },
         {
-          "title": "Rússia e Ucrânia trocam prisioneiros no dia em que se inicia trégua de Páscoa - Público",
-          "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3p5bUR2YklpMk12bUR0Ym9BcUdSNjdWNTNrSThaSTVuNWZCX2FOeDd3QnAwZTNRT3Fqby1JWEs1OUo3VkxIYURLNkRqUTRvaWlGLUVkMk1fOTdJNl9IWnZFU29VaEJtTmlUS0VzWHZaMGRmUTdDRU53NUVYZEh2NWJSWVlhZEt3Umg0N0c4T2FwM3U1Y18tR2NkLXBQSkh2clhTbWlaWWFVWDNsY3BhdXhPUWp4Zw?oc=5",
-          "published": "Sat, 11 Apr 2026 16:43:49 GMT"
+          "title": "Acordo entre EUA e Irão é \"urgente\": se guerra continuar, mundo \"pode ter de voltar a um confinamento\" - TSF",
+          "publisher": "TSF",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2pMUHVkSnJXamFGa0c1eV84VzJxMDdJWFNfd3BhVlN3ajUyUlR6X2o2dFBuSTlvc0MyUjI3Z29WMHlPSTk2WDFtSEtvUjV5dDQ4OE52a0ZKSTNXbXFXclZVaUhWWEhNMmVIdk5YZEpabEV1U2RRYWFMTldpTk1DUWVtekdJVFpsQ0xDZ0w5U1VkWU1iNS1kanpGeWpzRHhrMHRJSV9BaFJXYmtoYVVBTUx6ZFY3Vkg3R0VkblNfN3NoRllYRnZ1eDZGdFZ5dkdzVWFB0gHHAUFVX3lxTE5SeU1jVW5CMTkxazVPXzJqT01OSlhGa3Z3MUxoZ3RFNkVhalFocXNxWjBLazZrZWhSWHhFMkFZRlZQdFdDQ2dIR0VXQWNLYlV0WjNiZE00VWcxRHRYeGxpVlk5aG9jR2cwMHF2WWxDRDZLZEFib3lyb3BRUHRhR0thTldMdW8zRmR2SW9WRlUtXzJ1Z29nY21aRjRLcTlPdXZzZnI3Wkl5cGN1OGlnYkJJTGpYQmdyZ08yZjhxR3hocEg2ZlNnMWc?oc=5",
+          "published": "Sun, 12 Apr 2026 08:40:00 GMT"
         },
         {
-          "title": "JD Vance avisa Teerão para \"não brincar\" com negociações para travar guerra - Jornal de Notícias",
-          "publisher": "Jornal de Notícias",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDhOeTVzNEZ3a2FaRnkybnhBNW12TUppSDc0b19sZlRPUXdkME9vV3BydkttYVc4aGJ5WmEwNGJWdFQ5MGM5VXNYQ0J5czF5dkNsRGVaX3M3cHR2aTN4dW1XeTFZdmJnNmpxS1oyRk1xdkhqZ0h2Q1drRXJ5ZlVxZTF6MnhrRFlORWZR?oc=5",
-          "published": "Fri, 10 Apr 2026 06:21:22 GMT"
+          "title": "Kiev e Moscovo trocam acusações de violação da trégua de Páscoa - jornaleconomico.sapo.pt",
+          "publisher": "jornaleconomico.sapo.pt",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0VFMWF6SlgyWi04NXhqc1VWT2F0NnNKNDFZNzVsLTdVQXFXY09JeW8zRUhoT2ZvVHBjSVJmYkdDZnJwVDlJeXd6N2FEOWxPWmo3ck5CYlk5djNpYTNsemRLaXVxUGFKMklxVVg0aDFkOG5GMmYyQklvRmpsa0g1VDV2Q2pkS2VrRU55MWtYWUlKd0wzd3F6b0lIY0JBemxaYzczNTR4SzM?oc=5",
+          "published": "Sun, 12 Apr 2026 07:42:00 GMT"
+        },
+        {
+          "title": "Três suspeitos de tráfico de droga ficam em prisão preventiva em Cabo Verde - cmjornal.pt",
+          "publisher": "cmjornal.pt",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQkl1XzZpc3ZKNUhqcWJZXzZtWk80VktLYXo1TWc2MHRwYWVaVG1CUVdNVmtIb05rLVFIbnV6cEo0dlQ3bDlxVFJFdWF1LWo4QWJ6Sncza05OU3pSWDNUY1FMTUh1clI4dmlnQ2dTeFM3OHZYdXFuTVdRM3J1bUNsZkVzU2FuMVdlQ1gyajJyY05zNE9MeGdBZHFUQUlSc244dF9fTmpUUm9oNGI4cXV5UGNtd9IBrgFBVV95cUxNdlhsTnYzNEV2YVB6SGgtaXVhbVVIeEUtcVRjRldraTQ5LUVlTGplU1FTcGdkOElSVWJhTm9vbVlvakZMU1NGRzh0VzM3YUJWcjYxQkxZUkswTWdXVk1JYVNuSEE4YTNmZXdnV3p2dW5VU2M2MjlFTzBqemxLY05WT2I3aWJDblFVeE5IVXlRYW5zWUxrcUZaaGwtWHRXLVhPT2VzUUY4RWU2TTBiNHc?oc=5",
+          "published": "Sun, 12 Apr 2026 12:50:01 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Latas e garrafas: É aqui que sabe onde pode depositar e receber reembolso - Notícias ao Minuto",
-          "publisher": "Notícias ao Minuto",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMkJETGY2S0dfQkhhVm5mdEpaTElLaDZqYXNNSE9ZeFgybk5oekxtYnhycHVpWF9JVzEyUkp3TjNxZVgweGxwdjlKS1JrOXIwOWdMalZONWVhM2JGcF9tbEV3dWpSeDJuUy1QTDZCWWM0d2xlejg2TFZubHhYS0s1ejczdVY2amhIM2NHa1lhWDV6eGZ3ZnF0emR2SHBYa3VKV25vaXZvdHZxdXpFMlhVQ0JlQ1hLSVV0M3hKa256RQ?oc=5",
-          "published": "Sat, 11 Apr 2026 07:30:31 GMT"
-        },
-        {
-          "title": "Vai abastecer? Combustíveis descem segunda-feira - cmjornal.pt",
-          "publisher": "cmjornal.pt",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWXFoM21oZ2ZrYkdtcktKU3RqZVZZbkk2TnBsbUl6TnMwX180S3cwOTc2UXA5VExjT1NycDFzLVpqbEJwQXBjb3E1U3hLRXRrXzkyYkljTkVZTXZ2V3JKSXR3Rkx2RXI1ZlgyN01iMktWZXdJYU5DazlKUE1saDRaSzlUUVVqbTUyT0Vqam96TkFPN1hQS1HSAZABQVVfeXFMTU1KMEhzZEpVYnRjaHlqSlJhMzBnWExEMUVIZGNQd2NjWUticFJjMEU2OXlha3llTWNXMGY2amRmZ05IandSTHl1RDEtRi1INVllaG5WT2diWnRTWmpGU2pVdElFVnQzbDhGZlBLa20tazVPSTluQm5yc2xPMzRRWXBpSk9UQnFkUUlDQ21mQ09v?oc=5",
-          "published": "Fri, 10 Apr 2026 21:25:38 GMT"
-        },
-        {
-          "title": "“Os jovens querem sair de casa dos pais, mas não acreditam que vão conseguir comprar casa nos próximos anos”, diz a CEO do Grupo Century 21 Arquitectos - Executive Digest",
-          "publisher": "Executive Digest",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUEhVeDZWdDB0NmpDdExkb1RHV3BCQXFDQmQxQnl0SEJUcGxWT0FFQnk0UktZT2F6OE43dVlfTmVyX1BuZGFNVWcwdFNMOE95YThJaldmU2NuYzJGd19fU2tUbGEteWo1RXZJSXNGLVBmQjFFNTZIRzMtYmVvYnZEYkFUeEp6RUNRanVqWmRkVnFlVzR2NFhSY0V1NXRXMy1XUm1GeGxUZi1XWWhzVktkMEZxZHgxbXF2UjFRcDZzSEhjenRCMk9fOWNhdG4wbm9WbTRnN0hfVjB2SS1EOXZaZWg4N2piUVRJcHlWSjRaY3FEandwbVV3a1FuWXpzMjRRbHRDaGtiWjNQdS1X?oc=5",
-          "published": "Fri, 10 Apr 2026 11:10:12 GMT"
-        },
-        {
-          "title": "Aeroportos europeus arriscam ficar sem jet fuel dentro de três semanas - Jornal de Negócios",
+          "title": "Petróleo nos EUA com maior queda semanal desde a pandemia - Jornal de Negócios",
           "publisher": "Jornal de Negócios",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdnc3TFJEeFZ3N3BmZzNQa2JlaGFkaFhhaWFXb2ZnM1gwbUFHNG1mcUpFTnhBeUJqeVRHZ2tJbzhfWFpLQ3F4c3lTOTBES0hoeEJDc0tZUWh4eFU2cWZiQ1YzYXRXVzJrdDJpQm1ONm9Yby1HWGJyenN1OV9BLVBQZTVGWEtoWjF1ZnN3VW5vb2ktRlNQeHo5bHEtaU1mQzJsZngydHpVZ19kRmlUWElTRVMxdzdEbi1zeWh2eHV0X21XQzdhbG5yemIwUEVlallRWG53Qml30gHQAUFVX3lxTFB4MDdvSXpUUUhNV05VT0l6SWNKd01TSm5NWGF1MFF3U3J4a1E4bkVDV2podG9sNVlFdVhNZ1IzWC1OMUZmZ1llX1ZpZWZHUFhfRENsVkl6UFNfVHpqUkV0NXI0c1hnZnVHUVlfUVpoVXdqTl9wZWwwZFBPdmt6WEE1OVF2amdIQzF6LVZkd2MwR0FjYWlPMmUyNExBTmRkYzRXaDdpdDFjTVh2Tmw5MGFDMTVIdG1PTkctU3gxU2o4SXpsQWxBaGJrWGFteUlqYzI?oc=5",
-          "published": "Fri, 10 Apr 2026 11:18:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUZjU1ZSOWVfcEd6Ty1pXzBFaXlGMmdZLTNseC1Zc3ROOFIzZ2ZycW5EQklLVGo2Vm5EYUpCa0tkOThwMFJXT3ZwZllwSWNiSkRtaGZ5aGtyeS1tN0oxbzNUVGp4Tm5TenRtV0VsbHJKN0oxcU1iUGNTMTMzN29rTnB1UzlxLV9yT3JvTzlBOUlNM1BQVnEtV0VFUkpaQjdYV0tqREhuSktEWU9ONXBCcE5Sa0NBMkVUa0pRcDNNd3kwTDdnR1l2WVhVYw?oc=5",
+          "published": "Sun, 12 Apr 2026 15:30:25 GMT"
         },
         {
-          "title": "Portugal só tem reservas de gasóleo para um mês - jornaleconomico.sapo.pt",
+          "title": "Combustíveis ficam mais baratos já amanhã: Recorde os valores - Notícias ao Minuto",
+          "publisher": "Notícias ao Minuto",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWJYeVhHOWpVczVpYlZISTBoa28zLWtoaXZ6WlNTVk9SVFJtR3Boc2lvaFkyQWQ5MmVzdDBlZ3R4NUZWMWxFUUhUMXkxWWJrYk9VckNDS2pKOUJ3MmtnaTZUb1BHcy1Id3c5dDJfOXUwODduNlo5aVlRZ0JqaEwwWVZQOUVKSEFpQmRhQVdWMHJKc1k4b0xRLTRxYjJiWVR3dUlTSVJyejNpUThPN0lZ?oc=5",
+          "published": "Sun, 12 Apr 2026 07:09:51 GMT"
+        },
+        {
+          "title": "“Nos próximos quatro, cinco anos, vamos eletrificar tudo. Ter um automóvel a combustão vai ser uma raridade e um luxo, como ter um barco” - Expresso",
+          "publisher": "Expresso",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQcUgxY0NTcXRqcUdyU0Q1dVd0SUlESFVFamxfbVRrZHpORFQxdlMwMm92R2JNNktWQnNERlJ5dlZXVjdWRU5CVVdTQWN3YnBsOVJuSHgwOHBuSjJkZDI2eVg0cEVhQkd4M0V6Y0d5VEV1OWdsTGJySjhEQUl0bTVPMjZVRUVOYWVrMmlWMVhKRWR5UEI0R1hmTzNFUjViNzRjNUc0NW5MeV80ZDlBT0xOMWR2T1hSM3NIVUVKbEU5a1loeUUxUHctbXU3Q1d1d0dRaWRxa1FFcU95cXpBLUZXaUR0VnZaSXRQdE8zaElRbHJiWEtlTGxoY2pyWXN6cUlzYUd0YmhjajdvNWpmb2JBdUVuTlhEeEZGZ2lr?oc=5",
+          "published": "Sun, 12 Apr 2026 06:01:38 GMT"
+        },
+        {
+          "title": "Habitação acessível: Esta casa pré-fabricada com 4 quartos, dois pisos e alpendre está à venda por menos de 36 mil euros - Executive Digest",
+          "publisher": "Executive Digest",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPck56XzFHLU5obHFJa0l3emFybGlla0hLaDlRY3Y0WFZrMWdJdzAxV3pPRmtLZzN3cV9RRGhkSXpRbmRoUVhEOGJjRnB4aUtDMlcwdkJZQUtOZk0zb3RXVFpVYWJGMFZYWmpGZER5cVV2UWMxM3pnM1Z3M3NhR3BpbGJOU191MzhhdHQ2Z1NKYmRLeGhaQkF2MUJvc3ZybnY2NkI0bzhRR1V0RXR2WXd4blp5UFNDS3FoMVI1blp6VWpmdGdiZXpDM0h6MFRBeHFuOXA1NWNaOFFjdkVybnY3UUdRV3JRQQ?oc=5",
+          "published": "Sun, 12 Apr 2026 11:00:16 GMT"
+        },
+        {
+          "title": "Empresas portuguesas de defesa focadas nos EUA e Médio Oriente - jornaleconomico.sapo.pt",
           "publisher": "jornaleconomico.sapo.pt",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVnZwclNkTkhTQS16SGRKdnMtYVdRSFBfMWYzRFRyWmY5bFNnLXQ3bWdiOXZlVkxiLTdhY205YjV3NXBUNVlIVG1IWkFCa0dqVERXOG85bzAwRjg4UWNfLU9WQnZpc0FsaWNxS1RicmxZd2Jhb1ZoX1BSQTFVU1BmRE8xN2J5OVZ6ekVDeEhpMTM1TVE?oc=5",
-          "published": "Sat, 11 Apr 2026 07:01:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1pFbGpHOEwwNnUtcXdqbGh1ekdWdExIcWd1bVMxUXBpUGktelRVMHZTaDRISVlKa0VfSzNieEVRQTE4Rm1heGh2Z19vb2E4R2t6WUlLY0xKZjgxLXdKaG95dDRRanNQdElyWUpJcjZfTTNzSGY2RUZNd2NfeW5vNXZvZENXUXE3RWVWQWF3WXFrZ045aEFIX2s4Y0NnU2ttc1lrb3pxWQ?oc=5",
+          "published": "Sun, 12 Apr 2026 06:07:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Rui Borges muda quatro: o onze do Sporting para duelo na Reboleira - A Bola",
+          "title": "I Liga. Estoril - FC Porto - RTP",
+          "publisher": "RTP",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mT2Z2NW9rZ0k4ckNEeV9XeGFmRFVhYjFaanZyRl9mMWI2UHJVYkctSGpBSS1RWUUxY3Mxck5YRHduTVZzNkxJTjMxdWV4dy11cXh4aVZKYXRvX01HSG11UmtFNzF3N01JRzg1NjhKYWtxYUZpVnlvTw?oc=5",
+          "published": "Sun, 12 Apr 2026 21:31:16 GMT"
+        },
+        {
+          "title": "Mourinho volta a mexer: o onze do Benfica frente ao Nacional - A Bola",
           "publisher": "A Bola",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ09VQmVvUFhmMlRJaXhDdFRNelZvMFQtZXJ2azF5aWJxY3pqSDlaVlNnalluZTEwWDlhZk13b0xjd1ZGMEVPLTJTOTVrMzZucFM4anJDLWg0UEI4ZXlwMnFyakdTSF9yQjEzOTF5cW1mT1BrZkc1ZlY3V0lCMGU2REM0WXJxaF96bk5uc0hMX1owMlpVNHdVbGdET0Y1UkF6dDU4OElrQ1dULWNTWGlKVTJuMGtPQQ?oc=5",
-          "published": "Sat, 11 Apr 2026 18:22:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbHFfd1ZxeGpNN2dUTzgwWkhoWExJXzFTaGdNSlVvSVdSNUhSWldvZFYtMXZTODBTdFVZcVBTLTlHX0I1TElSUThvSWxELUVDNXB3UHRWRDBwa2FiVlBHWGswV3pBVWVPSU9TdGUxdzJ3X3M3NkpBRTlrNEJjaVZXUzZ3aDJHZldMeGNRVjNDaUNfSTBxWkhHNk8yeThVd2hRNXNvT1ZFZGVxdkQ0aFE?oc=5",
+          "published": "Sun, 12 Apr 2026 15:46:00 GMT"
         },
         {
-          "title": "Festa do Basquetebol Juvenil: todos os finalistas já conhecidos - Federação Portuguesa de Basquetebol",
-          "publisher": "Federação Portuguesa de Basquetebol",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZURickF2N21SVXo3ZGxxN0g5ZFVmeUVGYW5abERCZ294QnNGN25KQkFfZHJUeUZwMms4OVBROHhUckVUY2hSZG1qLVc4OG9reDZmTzRJOFg5NWM3eVBhT0dyMU9mNjFDVkZiVzlTTDF1WnI1cnYzNG9qaVk3YVlYemFyelVnZnUyZmdQazJ3cUZEaUlV?oc=5",
-          "published": "Sat, 11 Apr 2026 15:42:21 GMT"
-        },
-        {
-          "title": "Os convocados do FC Porto para o Estoril - SAPO",
+          "title": "Braga vence Arouca com espetacular golo de Pau Víctor - SAPO",
           "publisher": "SAPO",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTGdIdVM3MFB3aGczUUtIdGxnRkNjdlBuV3cxVmhZMzl1S24zejZ4MEIzRmMyRkxPNWVxQTY5M1lWX2FfNHdQb3lxdm4tWDBYQXFqaDBXOUJVcUpzem5uWEVEU2pGWENPQl80Z1dSb3JfU0J0aEY1TW9ESmFiLW5fSWNYZ0xpRnRhN1dtSGlJVlpJdw?oc=5",
-          "published": "Sat, 11 Apr 2026 16:07:11 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUm9GZkJsalpFcWdIUjdaOVNNTzQ2TUJVbGljWWF6cS1zTjQ0dmFFSXNXZ3NKa2pkV0NzNFhYNFNqQ3VTZzhWRG1QVzdqbWMzT1VvTWc5bGctS2R4NGFlNzRWbzFXX1FEYWNuZUFJc2NMakhnRzB6VGdnYUpnbXhfVUQwT09ONDVGeDRWRjZCOU05VnFld1FwaTVVRmhEMlBIcG40?oc=5",
+          "published": "Sun, 12 Apr 2026 19:05:00 GMT"
         },
         {
-          "title": "Portugal castigou ambição do Japão no último segundo do jogo - A Bola",
-          "publisher": "A Bola",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR2k1QjU4Rl9DLWY2cW9uZFhPeGNvdmVtbnVhblJaZDFKRkg4bUItUTU1cHRmQUI5eUJBZzJWMS11cWRHbUcwT1k3TG9vYnVCMmxzNXBuQ0E4cEZQdk5TUEZieWV0MlVrRTdTRXJPRk1NMmNLQmMxa1lGVDR1LVFlQjJqYmU1Sm1TakJLS0N0TzlVNGxVeGNhMTdLb0haUFNlS05MTVdRNzNqdHJqRno0?oc=5",
-          "published": "Sat, 11 Apr 2026 19:55:00 GMT"
+          "title": "Ténis: Sinner destrona Alcaraz em Monte Carlo e no topo do ranking mundial - Maisfutebol",
+          "publisher": "Maisfutebol",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX05udHk4VTJ5QW5oVXc2TFZKdU9JQkh0QWRQYk1hSDhrZUhjZXk2OVlfVE5Qc2Q0RkdDejJ2RXRyMjRPUl9qbWhyTXdXREN6MDMzdFlnZEt0UGRwdzluaGwySzFiR0E1THhmZE1LZHNLWVNVZGxyajBNVmFfUHZoQVNOYjVJNDYtbGtNUjVYNDZjenA5VG5kUUs0TDJXWG9fdDdmYk9YN1pEamN6THRyZFN4UFNLWEdtOXc?oc=5",
+          "published": "Sun, 12 Apr 2026 16:11:41 GMT"
         },
         {
-          "title": "Quando o empate até é lisonjeiro, a Europa torna-se uma miragem (crónica) - A Bola",
+          "title": "Gabriel Albuquerque bate recorde nacional e é vice-campeão europeu de trampolim - A Bola",
           "publisher": "A Bola",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeDhEcm9BVzBMelM1SzNqZEVzYUFxV2FpTEZ3WnBfbDBPNGp2RDI5ZTU2MVI4ajdsNnYzRkZXZHdabl9DLWZlMkc3b2xtNE5EYlhsLUNwNDVmSWRHV09BVF9IQU5HSUx3M0d6WGFaUllxUE1GcnVEdXlCZzJHWWxHRzRCX0Q5WE5VQ0UycFJnNkY3TXpQNnpPRkJiTlZRWXRlTFp5TWxHMUpZOTIxY0NkUnJqczlnejRZTzlabg?oc=5",
-          "published": "Sat, 11 Apr 2026 16:59:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEtqMnpMY2haLVk4WW94TkxBM1FXMHRPUUtTUW11WGZiaFZya0Z1bWx6a1dnWmdXM21RZ2t3VVR0MWJWcG11QmJxa01IX0p5eUJnUzhXajJ2TlhjUjR4NnE5bXdfWGdWdHAxOTYtS3AwdHNvSWFNMjNPTjhuYWlXdnQ5OTZBYWNZcmxkWHYxZTBiU2FVd3VpNDVuNENpdUJ3TUVqLV9NeWVuU1FwSG1PVG5iNU9LeTZUYUxoVE1UNExjV1VZNjBleA?oc=5",
+          "published": "Sun, 12 Apr 2026 17:44:00 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Homem mata senhorio que lhe ia aumentar a renda - cmjornal.pt",
-          "publisher": "cmjornal.pt",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMG1VZU5qdEw0enpka1VUUnZHRWFkelBIN3JiOHFFeEFJOUhjUW5rSmxWd2JXZDcxZi00eXcyQnpuTUNxQlB0NUJVbXVaRUVNVHlHd1I0Z3RZdldtVjNLaFVVVkV6VmN5UnJLajdtZkpteHBqdHQ2T3gzemRDTFpNWG9EUDRzWDlsM21GLU9SOGNIUQ?oc=5",
-          "published": "Sat, 11 Apr 2026 00:30:00 GMT"
+          "title": "5 coisas que o Linux consegue fazer e o Windows 11 não - Pplware",
+          "publisher": "Pplware",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVC1RcnA2b1h5NHY4RmR3akVSRldJMVpzUmt3N1lUUlJ2bkRnMkRWSXdtX3g0SVlwRDQ5LWk0TnFGamtrUmcxR01qalJXMDdrckJiazJseFdZRTR4RHVTSnlGZkhaZk9tOXpUakx0RjQ4bGx3UkVDemhlRjNudlIyV3ZhdVJYZENoX3VyLVF30gGTAUFVX3lxTE05RGthY1lLdHpub3gtUkh3Zl9qVUtQeE9LVk1GSzNKNXZpTDlHNmtBVUV2UndJbElkSTNvcjBKaWhqX2JLZW40TVlHQnVyMTVlazRMZUdPaWQ2NEtremprc1pPSENDUDMzUVZFNGlVRm9UQk5IRDdTaGt0Unl6bVhDTFUybEdzX1BSSllrTzkzbC1QQQ?oc=5",
+          "published": "Sun, 12 Apr 2026 16:30:54 GMT"
         },
         {
-          "title": "Sim, fomos mesmo à Lua. Mas narrativas que garantem que é encenado existem desde 1969 - Público",
-          "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeHVIVTVWdGxfdjRabGxQV0NjSXVOSXcxcHhMRm56SU91d1NnbE5WSUNsQkZ0MjdCc1dXc2MyREFXaEZsaE9kN0JoSG0zdHBLWXBobHVheW1veHZFT3A0cGhlb2RobFJfeDBZVm5aVFZnNW4tOGxCRXZQWkJXeTVIS0M0aVYtSmJPTTJIMjRBRThlQmdZSmI2R3hTVEM4NGV5UG5KRDAwQ3kxYVJNZ2pyMHRiYw?oc=5",
-          "published": "Fri, 10 Apr 2026 16:45:16 GMT"
+          "title": "Sam Altman pede desculpa, mas diz que OpenAI \"mudou o mundo\" - Observador",
+          "publisher": "Observador",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMm1XTjk0bEY4dnZlVHdvQWZxRjJRTC1OcEhQTmpkS2owWC0xQXRzbHBPTURBOXhjTDRaU19xQUdGWk1Gc3YtdzVxN3B0bDVnRzdBSnBHLUpiWG5BODd4ZEg4bThYTnJRODdBWkFUYXZMdjl0YzVWbWxBUnFpN2V1VTkwcDNVYjBLSlJHOXJXWUdtRzhiSGw4MWRaYnJQRWVleGJWckVmanRwbFpDS3IxbUNhTUItQmtseDU3dnBac0xqbmpoUEFuMlQtblJobnlRVkVBY0VGUWQ5cXFDZUZqeDRzaEcwS1FOck8yNWdMeWQtWVZVckxaSExB?oc=5",
+          "published": "Sat, 11 Apr 2026 11:38:48 GMT"
         },
         {
-          "title": "Alerta: NSA e autoridades europeias recomendam reinício semanal dos routers para travar espionagem russa - Diário de Notícias",
-          "publisher": "Diário de Notícias",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeFhDS0puUFEwR2hfblBmeHZzeVhvWEtGQ0x1RlFnS2J4S2lkWk9Ydi11RXJQT0dsZGF1Um1pNERXV2xTajFDaGFqQmVjOWdBTjNWSFE4bTlqQmszMkVUeF9USDRUTDhhTjJzem5pZV9lYWdKVkpvUTU5cmt1eG80cGlZUWJqMERUMWh4QlBOTnZtN1YwcmNoa1ROSXVpMTFIT09xSDZYTjQyRXVXMHNQSzVjVE03N1ZvcFUxWWtvRFZmYlRwV2E2NXlodVkxcmM?oc=5",
-          "published": "Sat, 11 Apr 2026 21:14:58 GMT"
+          "title": "Novo modelo de IA da Anthropic está a gerar sobressalto. Do que é capaz o Claude Mythos? - ECO",
+          "publisher": "ECO",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkdaWHdaWWRXUExHWWFuaW9TNkEzOFpfWVdhajd2NnN2YkpoYkYxel9GRWFsSlkwb1FLSnRlblNPc0lDQWJES1JMX1A1MlhybjFzOElWZTRzZmVSYWUwek1WS3hQR1RqUTB2TmhlbEx5R2VDd05mUGc0QllfRmJQV3g4NUM2a0NocFltdGlZVXR6QTJNT2ttYnRPcnlNeE5NbDh3UVVtVlJJV1VDSGRjb0o2T2tFUEVEUUlFRHVTaw?oc=5",
+          "published": "Sat, 11 Apr 2026 16:55:07 GMT"
         },
         {
-          "title": "New York Times garante ter identificado Satoshi Nakamoto, o criador da bitcoin - jornaleconomico.sapo.pt",
-          "publisher": "jornaleconomico.sapo.pt",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWHZ6YW1wUF95YWhia2pLLVRzZU1jUllrZ3JlM05EelNVaEUzUk50Y1QzZUdPUVQyMHJGUGRfZzcyTTNXeExLN2xRYk5DaXJyY2ZjLUpfVm1XdzF5dVRpT016aWE3NlFLZEcxc3NPMkFSOUUxYUNyMWVVejFicWdFVC1OSkxybjFTcndaYXB4TzR2VzlkcGJIMk1fc01YQWdFQjNBdml1cE9EYzA3SnBMblR0dk42X3A0Q3kw?oc=5",
-          "published": "Fri, 10 Apr 2026 16:24:00 GMT"
+          "title": "De regresso! Artemis conclui missão com sucesso meio século após Apollo - Notícias ao Minuto",
+          "publisher": "Notícias ao Minuto",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdFZZdDFCSUZqT2J2d2pROTF5dnhKQ0JYR0F0U1FLcl9mYkJZZW1EWHBNTVV3Ujh0REEwMVBKaHNaNllsSmxjVzBiemRReVR1WUJpVDZ0dkQ4ZjZreTVYZDhCTjZiTFloM0VRNTFZcHU1S195cV8yaFUwbklRdVVkb1JrTHRxTmpPdjlwWGRibGdDZVZjdnFuNEEwenFGdmxZVHo4RkFSdGpDc1haRjBqenkxYTRpcUk?oc=5",
+          "published": "Sat, 11 Apr 2026 05:12:02 GMT"
         },
         {
-          "title": "Gemini não deve ser “amigo” dos jovens, admite Google. E agora há um botão de emergência - SAPO",
-          "publisher": "SAPO",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTF83eW9vR3Y1MjZweU84SHVOSEFMX2VJcU9CSkVjVjVuMkFROTRHUUpMaTJxbi02OFFRRzBCbUxtdEVCbkR2YzRVaVhZbVV4ZkhHZXlwaTlYdHFsZzg3ZEUxQnNrSTFlenpiZ1Z1SDZ5blpITnhMZFhtLWdMQmtpdnFlcFg4TWZGRFNZUHpoanZfODdWbVA3a0RPczU2bzBnb2VCUTFHMzNEMHVudzZvamZtbHlfaUM2bnU3ZU5EYWs5RGcxM2x5Rms3UUs?oc=5",
-          "published": "Fri, 10 Apr 2026 18:26:25 GMT"
+          "title": "Esta novidade da Google torna o Gmail ainda mais seguro - Pplware",
+          "publisher": "Pplware",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYm9xUURvZ01zZHBDQklDTDZ4bDdNMUs3M0JUWXBWc1RXakg1Zk1RbkZjb3VtVGh6czJsRXVVVXVaVmpMSTNhbXV3cjc2UmV5aXRfcTRhOHZDV1VULWxsUG56elpEaGpKdHFISFBBUzk5TkJKX2VpaVV6U1hGWFVtUHVlbE9NcUZGamhVUUpCSVFaZU5YSG1CQklpVGJHak1t0gGmAUFVX3lxTFB5eE9rVzFySzNzN0tkS1h0c2hDYjE1bE80ei1RdFU5cVBRU3dKZzdHZ09OcUxXbHRIUFZ1UzYzbEtxQUFiU2lycFBMeHZkRVdVTExFMENaRXhkcHdfN0JJZHEyY1FjS3ZkbXE3NlFXV1k5V21MSE5rUW9XNEc2OTBPd2wyZ1FNUG51OGhGQ1V5UlhEeHBMeDVCcnY0cXZ4cFEtZWlqZ2c?oc=5",
+          "published": "Sun, 12 Apr 2026 07:00:15 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "'Unwanted shoulder pads': An issue has emerged with Nike soccer shirts ahead of the World Cup - Business Insider",
-          "publisher": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OTkRHZ2t3XzctcEhweHhBZzdoSTVmeE1vcEJJUUdXQmR5NWQ1OG9wOU5CdWF2Z0FpU1UxR05IcUJCdWJVUzlld0x3elYtWVZuSEEwNVpXYnBEcWMwOE5mc3RIRTF5OFJLcnZ4Q2tYdlAzZDhaYWc?oc=5",
-          "published": "Sat, 11 Apr 2026 17:08:00 GMT"
+          "title": "Premier League Soccer 2026: Watch Chelsea vs. Man City Live - CNET",
+          "publisher": "CNET",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTE52cDFaMUJWVld6WW9kY0FwaVpxYXdHeGRPYmlkNEJpVm5GZlBoNnRNRjhTUVM2cVdibTFXbnBYZ2FCM2xZUnRRRFpkd0paNC1pU1hRaFQ5SHU1VkpnNEtYbHlXandyeGJLVFdQM09LWHJPb2dBLVdXVVFWSkc4RGQtMG5pMFUzOC14eDhxSTF5S2JVM1BrbzVJT2tsVlZEcnRUU1N3endkQQ?oc=5",
+          "published": "Sun, 12 Apr 2026 13:30:00 GMT"
         },
         {
-          "title": "How to get tickets to the Argentina-Honduras soccer game at Kyle Field - Houston Public Media",
-          "publisher": "Houston Public Media",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbVBrUk9fVGRxYi1JdWNsTmdIZ3VrVzNGMFlEbGxwWVhqX1VkUWViLVBfSVh2Z0V6Ml9MOHVoUHRFQldXVjhSUTZFQ1ItbXZvVlhSQ1dwRGZSUkdjY3IyMm5wSnFZSlFBZUJmOTFGZ0pKaWNMclVFU0VvaC1OM3pIVXBNd3pFcXlzU1JHWV9KcHE3X1pVazQ0WWxpcTBxbTh1UGVmMzVfcnJCaFJpU25zUkNoSE55Smg0TXdJNldkY0lPcGtuWWxJ0gHPAUFVX3lxTE1sYWRTX2RXczF2dmMyelViRi1jMVU4ZWg5bk43WU90YUJBZDFMdjROakNnWU1NSHVGajZrRVpFdXBveUpSQU9lbU1rMzhsajlNRDR3YXhSaUdodTNBR0IxTUZsa3YwZG95ZU5FX3Raa3hZb1BtQll1bmdhNXVsQzl4TzZRZncydVlrQmtMb3gtZGhQSHdtMFBJRGtwVXA2TGd1Z096SkNQbzNISkdpclF4LVg2Mng5MENOeElPZThIYUtaUlZQNnNDS2lKUmFNOA?oc=5",
-          "published": "Sat, 11 Apr 2026 11:00:33 GMT"
+          "title": "Why missing Champions League can boost Premier League teams: What data shows - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFNkU2FWaHViUkNCZTBETGhSSUYxS0JteWZndkJGckd6NXRLLVJGdDh4cFlhRVEtblFhb2U3eDVRNW9VRFNXdVhGdmx0Z1VlaUhYM09IdDdkd1NnM3dkaTk1YnVEMnFwSlkwQXdqRko0MG1pSEtmcGUtMlhGQmRkd0x3S0VXQzZzdXdZOWY3b0g2bmJUdkhPN0o3X0xhNk0zNXNlV3d4OXR3VlE1cFU4ckFLMFQ?oc=5",
+          "published": "Fri, 10 Apr 2026 10:13:00 GMT"
         },
         {
-          "title": "Soccer.com, adidas spotlight Seattle’s soccer culture ahead of FIFA World Cup 2026 - Seattle Sounders FC",
-          "publisher": "Seattle Sounders FC",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb282b1R3T183OUUxODJNU1ZEcV9CQmZNUmtEY2M2U18yYzdFUWo5aEhGNGVtTV8xZzlLUWI4cS1KYlpERU82Y0UzamZKaG5Bay1hLThoMHhfM3dqSEJBVExqbTdUQ0FMSkN6a1Rmc1RDeWlwUl9xbUNwRGtKRnpEVjhFQXJQQnlHS0FPczFQSEtCeTdocFk4V2c5M2JHTDNMNldWSE50cmZDakpySTZHb0FZTQ?oc=5",
-          "published": "Fri, 10 Apr 2026 18:53:27 GMT"
+          "title": "Trump Pressures FIFA to Ban Trans Athletes from Women’s Soccer - Metro Weekly",
+          "publisher": "Metro Weekly",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xcFJ2bG9IOXRrZ1B6alhqdGtpaVIxdnktWW80enZocGI4U01LVER3blRzMUNpWDZnQWd0M1ZrQmpwT3VsZ3NVbTdZSWhiWDEtYmFUeGJQeEdFcFh2bnJkNnh1eHNQMWliYV9yUDhKQUdPV0E2cmp4Q3RhSHlmUQ?oc=5",
+          "published": "Sun, 12 Apr 2026 21:53:02 GMT"
         },
         {
-          "title": "Britain Soccer Premier League - dailyrecordnews.com",
-          "publisher": "dailyrecordnews.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2FCa1AzX2lCd0Nmb2NHQWpSaVptaWlwT0ZzVjZkR3JfU3FTc0JjT1NVWGtqNHNFS0xIYXB4djUtb2tFWUphNTFGSFVCMWwyRW1GYmRTNG5wUzlMSEJnWHVKT0w5VEtZSFVhaDZDLWlvWWV5em1ZcXI3Tk8wMHVuY1JnV0ZoSzR2MWw2SndnbXdtMWZ5ZlhvTDFFUmpZZXJIRmh6RE5HNlcyWG5VUVhHbS1jRnVTNUkyWkZDODU2Wk0xUQ?oc=5",
-          "published": "Sat, 11 Apr 2026 13:29:17 GMT"
+          "title": "Talk of the Devils: How close is Champions League football for Manchester United? - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUpBbzNndkZiM2dFVFRtbktLMHdpYmZ2LVltcnR1T3dlX01lR01yUXFiMjdVa0ZUcnVuZDNKWWFWNjdkRGUwVzRXazlUZ2g0Y21fLUFKNEQ1YTljTmNpNVJjVkRVakVWcUFNTXpwQWU5dU5DejRpNjBOZGROVFpDdGVXaEZpVnQySkR2Tzk4X3FISWtvUzB0dWllTXpzbEU?oc=5",
+          "published": "Sat, 11 Apr 2026 04:25:25 GMT"
         },
         {
-          "title": "Britain Soccer Premier League - Idaho State Journal",
-          "publisher": "Idaho State Journal",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMFkyZTJOYldkZWJXd2liM01iVlBLNHB1ZVYxVG9vMm52VnkxenBCSEswdWQxazBNV180UWNSOXBSRzZoNldDTHp3V0h4QmFhcmx4c0R3cjJOb0VMVktpaEl0MTRNNEszT3NhT0dhWXo4TDFKajFKVm0zekJCNC1ISEpGY19WU2EtOThmRmRqY08ybjNFUXN5cUxYVFhTS0tWZ2VXQm5hQVB0NzVLYXpHay1ubFdJUkxMMi15SFhaXzVhZ204T1E?oc=5",
-          "published": "Sat, 11 Apr 2026 11:54:47 GMT"
+          "title": "World Cup | Football, Soccer, History, & Winners - Britannica",
+          "publisher": "Britannica",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lSXpoQ1dpZXJOZ0haOF8tcElFV0E0bDlCVHJORHc3NFNCSDRzejEtNFN5VHU3NWo1QXZHeVZwampxYm14Z3JkYzVUZW5YY2N3M21hbmgtd21jZzlyOGFYU1Vn?oc=5",
+          "published": "Thu, 09 Apr 2026 05:00:00 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Sabrina Carpenter’s Coachella Set Featured Sam Elliott, Susan Sarandon & Will Ferrell Cameos - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGJ4MDBuOWc0MG1Hc0I2ODRFX21LbkdwRHJ0b3pMMnl4VXBKS0VfR1JlN1ZxSHpvUk1wS1B5VlJXWWlEOXdVaC1aMVpKcDQwRTBxNzk5dE9JaGxEVjhaRTZoNFBEYzZ1U0NLZFNUYzlYWjBCS2hnakl1LTk4OXNucnFwRFJoSjlCRk9ydldZdUJQdmdEb0sxdXlsQ19wbVVMcm9nQUU2ZzhsUUlX?oc=5",
-          "published": "Sat, 11 Apr 2026 17:50:00 GMT"
-        },
-        {
-          "title": "Box Office Milestone: ‘Super Mario Galaxy’ Soars Past $300M in U.S. and $600M Globally - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdkdpaDdwVFhBdU84VDV0OWdBUE5QNEp1N04yZmlkdmxCUWdOTjVfRGZRM2xfZTZpaTdDLXk1cm10eEtlTHdpN0xnazZjbHctU0ktZTR6RDNCUFBjd0FLYndMYXhXaUhkdjU5cDlJNW1vTHFmTXJwdTJ5TjE2WnVUMDdNWEtYZDNwLTlTLXVKT2VUQmNGYU5MYWNYSjRRNjJqbHZOUERDWQ?oc=5",
-          "published": "Sat, 11 Apr 2026 19:30:54 GMT"
-        },
-        {
-          "title": "Labrinth Explains Why His Music Isn’t Part of ‘Euphoria’ Season 3: ‘I Don’t Let People Treat Me Like S—’ - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWJtQTJJdHVwNEI3a2xvbUNhcFBzQWs5Z2k1bkFNQUE5cHBDcU1TUDFZRW53MUtINGJ2TmVQSmZIUEdQMXNNbXVuY1J5VVQzNi1KZExEc19PamRWajFGdHBlcG0tNWtoeE5ieHlzUWlGNHdPRlBZa2NzVHAyQXRHMjRxNWwxWU9lSHVoM1IxUjZIQU12bjNITWpSZlVfakI3NFpr?oc=5",
-          "published": "Sat, 11 Apr 2026 16:00:00 GMT"
-        },
-        {
-          "title": "Sabrina Carpenter Faces Backlash After Calling Arab Cultural Vocalization ‘Weird’ at Coachella - Yahoo",
+          "title": "Coachella 2026: Karol G headlines Day 3 after Justin Bieber's laptop set divides the internet - Yahoo",
           "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTjl4bTNxQkFhQklqLXdyamJiUUlVc2V1X01Jb2hOVmc5Rl85b3hONVhVWERuUVRaTzVtY21wX2ItM3N5QmtCcHFpeDFhTzJ0eV9Qc01qZlZTYzY5akoydHJxMVZGWEw3cW9FZF94UHhVQjZoX0lFbmpqVjJEYW9wRFFYbDlVcklVU3Exa1dYeTk5QUNTTEF3WWxXUnZPYkxMeFJRYVRzaEdRdnhWMjZ3?oc=5",
-          "published": "Sat, 11 Apr 2026 13:49:58 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV19zYXJhRW5RcDZiWUUyNFc0STNURnVvR3kyTVgxSTZZMGFLODdzclpGSEFzXzQ3Ymo0TUxqMC03SlA1ZlZzOUEtNjNpMjFnMF9Ec2EzaU9QLUN5SWVnaWlJWnduQVZUN2IzOTF2bjVpOUNnOTR2ejRPTWtFYlUwSjEtLXYxV3VzNkM3YUtTdDE2aW9qQ05TX3h3MGdtZTlmX3MyR3FGLVo4RVhVYlpXLUhlMk04WF93WlM1ZU5Gc0FtaS13RzRyY3NwOGJ0T1FNaGI5akIxZFRZWUZsdjlSbDdpUTBwUk5l?oc=5",
+          "published": "Sun, 12 Apr 2026 16:29:55 GMT"
         },
         {
-          "title": "Steven Soderbergh on ‘The Christophers,’ ‘The Hunt for Ben Solo’ and His Controversial AI Comments: ‘I’m Just Not Threatened By It’ - Variety",
+          "title": "'Super Mario Galaxy Movie' Is Year's Highest Grossing Movie, 'Project Hail Mary' Hits $500 Million - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSE5jcmFfTEl5c1dNOGc3WFdXRXRqT3JsaE9PQlE4eUo4cERkclR4cE1pME1aNDBPZ0Mta2pvQ1ZXNmVTaGJXN1N6OGJ2UFNmTUVMVXhoX2k3TzI5VFNFUkh0VGFBY0FYQTVMV0V5N2h0cF9iVE1sVHRHbkdwQnhuZDVueWkyOUw3ZWF3ZjNhbjRYY2NWOFVDZUZkTFpFdVNEcVBUMzZJY2lmRmlfd3d1RDdRUzFqWVMxSV9tN2lWN1N0TUpYV29Tb21pMzU?oc=5",
-          "published": "Sat, 11 Apr 2026 17:18:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTm1TM200Z1AwT2tRUTFrMXFvMHVKX3oxOGVfUm5qcS11MTBsRW5WdHBrQ0xEX05WRnBxbWdoMjVLcm5MNEUzcF9RY3pBX1BkR21WTnpwV21PWnpMMmRxOC12TEJHbjlPUkNDMlRhSnI5TTQ3cnZvazRsVmFQbHlHTmN1bHQ2aHp5OTR5a05HQm44YkJFdDlIVmlad2tiZE5UY1MzWWRBOEhFRGZjc0t1bXhhVTBjSEJWeFZwQ1hjZjkycXk0S3FLS2xyRENFelJYTFFYQVlOYw?oc=5",
+          "published": "Sun, 12 Apr 2026 16:06:00 GMT"
+        },
+        {
+          "title": "Georgie From 'Love on the Spectrum' Reveals New Boyfriend After Split From Connor - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXNfVHo5MVBrOHVQak9lZnpUcHlWSmFlMlRxeGVnNm41ZGNvTHpwWUpKS3Mta0ZQM1R5M0dwbmhhajBoNlRFQm9LZGlyQW1aZWhwbGNGbVF3YU1HWnhiNVEtalZRYVNfNFRRS3pJSFBlRjFXMzE0elVMeFFwTzZHSEU5WUhnRENmVjdsMEhnNWo3dVRX?oc=5",
+          "published": "Sun, 12 Apr 2026 21:04:29 GMT"
+        },
+        {
+          "title": "'My 600-Lb. Life' Star Dolly Martinez Dead at 30 - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lM19vNXVCYW9jTEI3RWJCX0VGYXlhNDhlZGx2aFF5eDAzaDAxU2piSDlkbC1tbWYzTVUxYS1OUGFqSG9BVTktWDhDeXhOQUZDNlhPTEVkUFdOZXl2NjFGLQ?oc=5",
+          "published": "Sun, 12 Apr 2026 18:24:31 GMT"
+        },
+        {
+          "title": "Fans react to “disgusting” scene featuring Sydney Sweeney dressed as baby with dummy in her mouth in new ‘Euphoria’ teaser - NME",
+          "publisher": "NME",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcGZFT3o2YThYcEJ4bzVwY0xnUUdQN01KTERrakluRTdUbUExSTU3Nmo0Z1Rmbk5jYkhsYUt1blUxdXJkLVM4MUpsT0ZGNVRfOV8yVGZJdm1WN1Jxa0c0Q0JWMTUxTDBBVXU4TzA3TllzOGdvamZfUWFZVUF2QUluMzd0dFducEFEN3FFN1ZmQklaYTkyT3FSNkpiUGVBMnRfdFZzLVZ6NzFINk1mWGt1Rktjcy1nbVh4cHZBTHBtVXIzR0IyV25NcHVuLWZNakpqMTJmV3NoN0YwOVhybHRremxFeERBSlZlZVE?oc=5",
+          "published": "Sun, 12 Apr 2026 11:06:59 GMT"
         }
       ]
     }

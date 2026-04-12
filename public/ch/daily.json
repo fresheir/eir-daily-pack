@@ -1,7 +1,7 @@
 {
   "market": "CH",
-  "generatedAt": "2026-04-11T22:31:40.824931Z",
-  "validForDate": "2026-04-11",
+  "generatedAt": "2026-04-12T22:33:16.848129Z",
+  "validForDate": "2026-04-12",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Zürich/Benglen: Revokation Vermisstmeldung - zh.ch",
-          "publisher": "zh.ch",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdDdLNklCY2VoOEdtQVZ4YkdHVVpObTJ5cUlZcng0bjEtdkRRdjgyMDlNVURjWkRMYk5obVBVZWUzaUROUUtsWnR6THhhVnEwcWxZbGVBZHpnUmozd2ZlTVJaN2QySHByeE5RNFduWEFaZU5OZEo1a1dVU1ZhX3hvRGU2MFhpZTkyMmd5b2QxTnd4d21yTFRVZ2ZPVk83Z0tMUVVXNmNXQQ?oc=5",
-          "published": "Sat, 11 Apr 2026 17:14:38 GMT"
+          "title": "Bern: Unbewilligter Demozug hinterlässt Zehntausende Franken Schaden - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNnZkcXJIc2NmSUJLLTdVWHh6T2gweW1fQmhCdlZMZTB5OXFEejFYbE82ZmJVa08ybXZNdEFWS1RVYUl4VFN2dkt1dnRrMGNXekhtYzlvNjhOMlM3aXh0QlhDQ3d3MFBvUXF1cEpodm9RRFVLRDRPTkFjTUNEYWlHOFVhM2R5c3FxcjRSSlVDNDdnTUhYUWdieF82dFhwUDM1VzhQeTVnaXhLVjlZcVNRZFc2eUFDS0x3dUE?oc=5",
+          "published": "Sun, 12 Apr 2026 16:54:01 GMT"
         },
         {
-          "title": "SRF-«Arena»: Mitte-Politikerin Deplazes bringt Badran aus dem Konzept – «Gehts noch?» - Tages-Anzeiger",
+          "title": "Helikopterpiloten und Drogisten: SVP findet Verbündete im Kampf gegen die EU-Verträge - NZZ – Neue Zürcher Zeitung",
+          "publisher": "NZZ – Neue Zürcher Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT3dGTnpEYk0weUYtTlJPNlV4UkJVYlpoNVB1NF9rajVla2ZyT0x1UC00ZUVUSnpvVkt5dmdfRFJBck5PM0lxY1VkTVI0akxaWXVSd1VId1dKdG52Nm5ubDZqc05pa0h1Vk5xZE9ZY0VLek9EWWRDeS0yZjNveElwLVBzZEhPa3oxT3F4RmVhUjZFNl9GeFp1OWo3TGc0UHZ5VUtBX2tqbVhmQ0xzNWNacVV3aEhVbWt5VjdUVFlOekoyd0YwaERsZFY1RmNkNGNJbXItMnB3?oc=5",
+          "published": "Sun, 12 Apr 2026 07:02:09 GMT"
+        },
+        {
+          "title": "Gemeindewahlen in Zürcher Städten: Die SVP ist die grosse Siegerin - NZZ – Neue Zürcher Zeitung",
+          "publisher": "NZZ – Neue Zürcher Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekszU09yODR6b0pPbE9RU21vRkhlbE5JOTNYUEdBcmJqYTVpbWFjcjNsRzh1TFYtX1c5T1FyMmNVVW5nUkRvTS1CV0h0MzRlWjF6d29HcmlydHJ5VzV1SEFlT1lrc0FyNS1IY241dTh2enY2dVBKSk1FekE1YmZ4NExyUzAzSUJ6MHF4eUxnbVpiTkRXcUpKSUpLRjRQQWx1QmZlNnpVb1k?oc=5",
+          "published": "Sun, 12 Apr 2026 19:21:41 GMT"
+        },
+        {
+          "title": "Wahlen in Uster, Dübendorf, Wetzikon, Wädenswil und Kloten: Das steht auf dem Spiel - Tages-Anzeiger",
           "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQblFXRWpRYjNRZFQ3b1RmTm90SHFaN1lIb3VncVRPQmxIX3pmWjRGZmxPTGlpeVVaOWFIZ05xUXcxUXl2Y0FfejItQzVMNlVZSXdYc2JqWDRUMUxvSnl4bEo1RFp0b2dBVUh5cDZfdXFFUlRDSm5QUEZlQ2MtLXc1eW1QaVpyY2dGcEJnZW1zZEVZMnZGVkgxRnNkSmY?oc=5",
-          "published": "Sat, 11 Apr 2026 10:34:12 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG1BTVM0Y3RjYUMyaVNJa3prUENjUlBRRFRUdTJwTXZySjJBZkdJUXN4YVZKSC0wQUtuZ1lDaFdNLXkwY2xVUTg1RHMxSEF6REV1aENwN0ZGVTgwM256Z0lNTFZWX1hFaE1SQmxSX1o4eE90MWt6djFrUlV6LVM5QjVDZXE5eHJCRjhydHdiV29vc1BuRFRiU0dzbTVvQXdTZEwtZUlvTWh5dw?oc=5",
+          "published": "Sun, 12 Apr 2026 04:00:00 GMT"
         },
         {
-          "title": "«Die Brandopfer im Kinderspital haben für die kleinsten Fortschritte gekämpft» - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQejFVSWFsc0xxLVE4X1llNEIyUEJJY0RRS1gwNHh0ZWktMUJBWkFsQkJXZ2tESTVCWGVyRnFaWTEyaGpYbGtQMWs1b3ktMmw2bVdPRDI0Wjg1WUJCa3NWUUVCM1VMcG9EUFpEdkxkM0tVX05lem10cTBZVHc5b1NQa3Q3eHM5Z3gySDAwWHRNNVZGcFUwTVNSOVFFTjl5RWFTdjdUWk9OZEhsMXJsa1I3OWtjdDc?oc=5",
-          "published": "Sat, 11 Apr 2026 04:38:08 GMT"
-        },
-        {
-          "title": "St.Gallen: Zwei Männer bei Auseinandersetzung verletzt - Kanton St. Gallen",
-          "publisher": "Kanton St. Gallen",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmhhdE01YmM4VlZKNXNXUVRlZEZpTEVOSmMtMlpoVndXSVV4eU1KN1Y5UklnUVdTeHU4U0E3MERSUnNKOENTUmZLeVI4NHQwSk1wbzZCeXdIMzdZd1VPeDlyNVpXcGxPN1pEQlhjWU90bUJGSFVndXd5M2dGNE9FNEFxNTlEYkg0a3pMN0k4MEdXUlNVQmh1TjNuYlVkaTV2OXMzM3dwMmdrcXhGRUJTMA?oc=5",
-          "published": "Sat, 11 Apr 2026 10:34:24 GMT"
-        },
-        {
-          "title": "Besuch bei einer Solothurner Vergolderin: Ihr Beruf ist bedroht - SRF",
+          "title": "Spital Bülach: Hund gibt Schwerkranken Mut und Hoffnung - SRF",
           "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb0JTeUMxS1lfaW44bFd2Q0VUcWQ3UFVicFZ6MFFjVXFzX3hSeTBJTE10Q1BzT2dLZXJQbkFZaFhaZ2NPMjJtLUFLTXU0Um51UkxibmFLMGNQMjhybWVDMG91NFhDbzFVa3NFMjFueGpidnF2UzF5aWhOeGZEUWQwdWlycFl2ZHh5RlVhd1ZoTEVyRnBvNnBaZ09OQlBLN2NUdU04ZVNR?oc=5",
-          "published": "Sat, 11 Apr 2026 19:29:30 GMT"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR3Nrd0lCdjNxWUNMdjRTMnJla3hpVlpHUmFNRGtLT1RzTC1GcGZuRVk2blpXMUNkWWdWUW1XczRsU2xFcnVUY1VtN0luSHdWaWdqeE80bTBuWmJnRUV3LVNnR2RrNnI5VUpMLWduUkNkd19YdGdqRzVMZ3NEdVFRa0xCcEtwSl80NnVoT1l3MFFWTzJpN2l1bE1zamJGaFJTQjQyaDdScUNmaFRzdXhBNA?oc=5",
+          "published": "Sun, 12 Apr 2026 15:57:19 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Diplomatie in Islamabad: Iran und USA starten erste Verhandlungen zum Kriegsende - NZZ – Neue Zürcher Zeitung",
+          "title": "Ungarn vor Machtwechsel: Peter Magyar feiert einen Wahltriumph – Debakel für Viktor Orban - NZZ – Neue Zürcher Zeitung",
           "publisher": "NZZ – Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWGtfRmRnU0dYeTRydmZxUkl2cW5wM3VRZDJuWlpQSkRJM3VZZDNIMmFwZGVJVzd6b3RhNDBYa2JDVkdSVXgwcjRhTjh5bFdaVS1Md2VvbVpXR0o4Z08tSzRiN2FiWGN5ZF9FWFJaS05kcmtQRWd3bjFWX01Sa3RUMmdYVnI5SG9VUHRSUkNIQ1RtZWpORTRnNzZZam5ZQ0s3Yy1FdmRuMEM0cUtwSjNTYzhXV3ZNTmR4VlB2NHQ4eHpRRWVlWG8zMGN4Yk16b2pXWkMzVUpleXZFbE5IaWJSMkV4X0NfQTF0Vkd6bg?oc=5",
-          "published": "Sat, 11 Apr 2026 19:27:25 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeHcwVXREWkxvVWlLVDE1YTNzODM1Y3lQcGtPeHlVa1VodVZnQVVveWZ5d1luM1NRbWw1aVJTNnp3MUFRM1hxLWhFbUt0akdZS19wTjVkd042VUEtN29IbDdwRzBTWWthS2RnVkV0OGwwSDcwVU5ZSEdOT1NqTVJoZXZnTVl3WmJENThadlVWNFNMb05YTlQ2SHVJVHBZZHJZaEgtck9KbGhpcXVZQUoyUTM1LXloenRIZjlfcFZsa0tBX0tOTmNGSURNUDZmYk1saXlYNXpScG1rTUdWalBz?oc=5",
+          "published": "Sun, 12 Apr 2026 21:34:24 GMT"
         },
         {
-          "title": "Liveticker Wahlen Ungarn: Viktor Orban gegen Peter Magyar - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQWk3OWlTSnVubjJXTWFJeXpLMG9RZmFqUzBieWk3OFhua0VRcVB0d0o0LVh2eFhySTRzU2l2dk1Odldlc2trZ2xnbVpYYmtfT2xhMUI3ZGNaQzQtdi1tZ0QwN3hYakk3djNKWUtBNHowRHlIX1ZkSzhQU3JSWG5VMklRT0ZQUFpaV2pWRExVdy01UmdpMkx4OWVLam5lTGJjLUxsU0l3?oc=5",
-          "published": "Sat, 11 Apr 2026 15:48:00 GMT"
-        },
-        {
-          "title": "Strasse von Hormus: US-Kriegsschiffe passieren Meerenge – Iran dementiert - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWllbTF1TW54Tm5kRDgtbS0tTkxuTXJmOHFweVdzeDJTOFBqZTllR2RlQ211bVpmSmJ4MVJJUmNBc0g0blBDNnF6OXhqTHNmZkowaTJvYUpkVl82SlZmS2FyeVgtWDVJVkZ0dE9VanpzcE8zZDJQVUY5MkJBbnNyaVZhOEcwa21rcHJ3NmdCNWVuUlM4Wk1ZM3Jfb25kenpTc1I1N1JFWDlkQQ?oc=5",
-          "published": "Sat, 11 Apr 2026 19:58:00 GMT"
-        },
-        {
-          "title": "Israel will mit Libanon über Frieden verhandeln – kämpft aber weiter gegen den Hizbullah - NZZ – Neue Zürcher Zeitung",
+          "title": "Keine Einigung in Islamabad: Strasse von Hormuz verhindert Durchbruch - NZZ – Neue Zürcher Zeitung",
           "publisher": "NZZ – Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3BBcURSZGRfRVowMVZCMlVRV3lEaWJnTjNDSFBCckJUalFrZkVoV21CTm5ZVzVhem1CVUNycW9sbEE2enVwMFdHZ3BDVnExOVJsM3pZV252WDBPWWNOTVZJdTNBdS1sTEpzOUE1SVoyeVRQM1VsamlpOGYzNTh4SGw0bnBYVmpCM2pNQUlNN0t5Ul9yLXk0MmFEc082VGt1eEQyXzQ1ak5MaWtH?oc=5",
-          "published": "Fri, 10 Apr 2026 14:40:54 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVlk4Y0x2UkV4b0ViYkxNSFNfX0NtalZ3YmFYWjhsSThyX3k0OExZQ0hJbmM2dHlQYjY2OUpsZ3IwRWdELU5hZWwyUi14TWsyUFRjOF9jZmR0aG1MNHJ5U01GbTktZ0JucnBZSDhWNXRPS3ZIdmkyei1UUHZ4bDBTSHVpcHJ1U2lkbXlOQlZJZEJYSlZURmIwLWJyVmxvb3o5T1dIQjJISW5tejN1dy1uNTloWWtxRmJKdVRydUVGSGd4VWdRYmt4VGsxUFJjcEhpV2c?oc=5",
+          "published": "Sun, 12 Apr 2026 16:24:10 GMT"
+        },
+        {
+          "title": "Droht jetzt der Hormus-Krieg? 6 Antworten zu den geplatzten Iran-Verhandlungen - Aargauer Zeitung",
+          "publisher": "Aargauer Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamd1VW9zOW4zSlJ3RmxlY1NlMjdGSTJyUnBlbjVWQnlwbTZUQVJ0c25HWEF0eWZJNkRxYWctYktPTjZvY2Rod2Z5UkZleWFJTWNINzBtT1BGWjhDOUFjS05XQzV0STBESmsxdi0wSDZYZ1hXVmp4UXU1WmlYaU13TFZpRDc1Z2REY3hwNFdlS0FpVm9UNTgzdGJ2NXBjTXdtQ0pMd1JiLUoyTUdzVEpKMWdn?oc=5",
+          "published": "Sun, 12 Apr 2026 14:21:30 GMT"
         },
         {
           "title": "Russland und Ukraine tauschen 175 Gefangene vor Ostern aus - Blick",
           "publisher": "Blick",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFJpcWtLTUpHYWU1WVZwZkc5R0RsSXJSWC00Q0p4MmZmM1BNYVBGOF9kV3pzODEyZnpIbGZkYWd1MDBZQzRhTTNIVnhFZzRQWHo0UUN2eVVSNEltb2lhcWV1ZHZzQkhBS1RuekczbzlKbGFUSWltMmdkVlRNMlRnb0NVZ0lSakN2MlhTT0JJczJVd19LWEhZVW40N3BtZWNVVnJTMXFla3I0elVVMmdyYlZHeGhIQ2hGTERrcWYyckN4UQ?oc=5",
           "published": "Sat, 11 Apr 2026 11:54:09 GMT"
+        },
+        {
+          "title": "Artemis-2-Mission - ESA-Astronaut: «Die Mission ist abgelaufen wie im Bilderbuch» - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWlpam55VmdJZWpraXp5M1d2RER3emZzU3kyVmRVZVhfbjIwVWJHcF95aS1laUlGc2p4REVqZUUtZXV6dm1TeWtpQnJidERYVjVUcXozTGtrTVhEU1dsZXdYM2VEN3RCOVdyS2Z2dTBzaExIUE9wbGlhN281VkVrN0QxNFBCbTFFZFRmN2Mtd1dHVGRoWjhOLUlCbnRJUGNqWWZYQUtvOWlHZDlYd3FBSkhMeFM?oc=5",
+          "published": "Sat, 11 Apr 2026 15:36:45 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Krieg in Nahost: Cool bleiben mit diesen Top-Aktien - Finanz und Wirtschaft",
-          "publisher": "Finanz und Wirtschaft",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tUGo3cHNIcEVPMzdJeWNpYkJRSC1UeXBNTWxZdjJzZlVPT3d4blVuZXlEV1hhajVHS0dHVTBJejJkMFZ5dmdqaDQ5eG4xcTNFOTdDMktBeE9vQjdQTDYzdk5Yd0NUOUlKQTYwOXEtQkRURWlt?oc=5",
-          "published": "Fri, 10 Apr 2026 14:28:26 GMT"
+          "title": "Hypotheken werden teurer – Banken erhöhen Margen - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmtHZE96TTBoY001YkNJQ1BYTkszLWFZU3ZkQjhvNjlpYVRxRDVrbmY2MmNLaFBUWFcxX3YzOFFFakFyOWpVUl9aODF3bkRTdUFxOC1IcGV1Y1pHR2RqOUxCLWVNRzBBTmNnNGNqb0pQb0Jhb2xSM3ZPYmFMdHZBWDFXRU9qY0VZZmRPaXFlY2VIWXo1MnpjTVpWZmxWb2l5c1BQYVlDY2EwQTc1el9SbmJ4VkpETzJRVEVpdG1tN2Nhdw?oc=5",
+          "published": "Sun, 12 Apr 2026 17:54:21 GMT"
         },
         {
-          "title": "System im Lager streikt: Lieferverzögerungen bei Galaxus - Blick",
+          "title": "Analyse: Milliarden-Abschreiber wegen Elektroautos - Blick",
           "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdUo0UWcxNmlublNsR3JkR2J1TU1ISUpuQ0hkQ3c5LWk1R0RvQjd4UG41OEU1eDZDVl9FVWlSYUNJUXhSRG12RzExM2dqaGlNR3N0d2pET1lhalFSN1lVbUstaXpIbG00LVA0cF81WjVRYlNSS2dZamxKbk1pTWx4djlYZW9YY3BRUVRDUkMtNDdFV2otVGg0X015bmc1YlRmeGR3YzdudU5xMElqMTFzTnBMc200QnRoT0wxLU5IU3hLdTFkdHVuWHRudFBvOTJXSTduZklCbm9rMVRzRkZ4RQ?oc=5",
-          "published": "Sat, 11 Apr 2026 14:44:17 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdndBcng0bUpZR0IyNmFweXc1VG81RHl2Zm9yTFBteGU0REdQMDF6THFfWWZzYTF3TmdiX0tBQlV3TXB0aTlfT0NFWlo1ZnFaUmplMGdjQUpYa21LcE1ZMkxYZnBpeGFORDRsNEs1V1VfLVFLRk93UVl4bV94d2VsWExIUzlacDAzS1FacW5xZERUUGZhU3IzRVhOVGFaVmxxR1E0bVc4R25MQ1pHNjRwc2xIRDVwUQ?oc=5",
+          "published": "Sun, 12 Apr 2026 09:00:12 GMT"
+        },
+        {
+          "title": "Fremd im eigenen Land: Die Schuhfirma On kämpft um die Herzen der Schweizer – und droht sie dennoch zu verlieren - NZZ – Neue Zürcher Zeitung",
+          "publisher": "NZZ – Neue Zürcher Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEF0c19adkRHcGtSekZmQjJlOFRBcDRyODhWQXlRLVRuUEk2Q3dsc2NKSzB3RS1wcWQxWFk5aDBkampwelVId2o2RWNTZ0REYW9ib3BpNTA5eVVFcEdnZzVvUGFHckk5YWRGSzdZQkxST0w0T1lxZDZPck1vTEFhM0wySm9Ea2hiOHRCV0E2UGdRSEMwZV9feXB6ZnNvdW42UXVJ?oc=5",
+          "published": "Sun, 12 Apr 2026 03:30:00 GMT"
+        },
+        {
+          "title": "Das waren im März die beliebtesten E-Autos der Schweiz: Der Elektro-Pionier schlägt zurück - Watson",
+          "publisher": "Watson",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUzR2VWZJV3lic3ZmLWhJbkpGd2NCRnZXZ3cwRVRDb2tKNmktV1FOUG5BMW5aU0QtclZNSUJVYXZ5ZEluMi16MTlTR3N5Vmxkc2dzZkZFZ205bjZpQk5IUmtjUG5URXdoUXd6SEtFSU1NNFJ3a1NjYzNHRHU5WFc0NGZLcmtnOHlEb0VlOEphbTVIbEZZVHVzRG5GdjVPMEVmOWlVTENLeC1hdTNLam50SV9qNzhuNlBvMjU0?oc=5",
+          "published": "Sun, 12 Apr 2026 08:30:25 GMT"
         },
         {
           "title": "Tesla FSD: Erstes europäisches Land lässt autonomes Fahrsystem zu - 20 Minuten",
           "publisher": "20 Minuten",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFpvNUVKenNBRXUxU21WcTdWUWVacTFOai1mMjFWcUhHS28xQ0hheGI0aVJCYWlQR0Y5LXVWX0J3STV2OGNwOF9UOEVkOHQwejA3dWpma0E2c3ZCV1dnN0loYk9rVkVOb2t0bVFMc1o3alNNSGdab2xrTTYxR01qTjBDWTJSZGdtazREUXBIRUJURm13c1I5eTdRNXBVeE9zT01WdkZUVk5uUksxM3M0YWNTSDJvYnZ5WFE?oc=5",
           "published": "Fri, 10 Apr 2026 23:20:55 GMT"
-        },
-        {
-          "title": "Selenskyj: Iranische Regierungsflugzeuge auf Weg nach Islamabad - Watson",
-          "publisher": "Watson",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV1NkclpPbV83LVBteTJjdk93TGhLRXRsTU9pT01ZOC0tMkJqWGVaR2t4cGtLMjlONnNDVXZCRnBZWDgyeXA5RE5ZR3hNNGJZeTdsaWVuVXVwVTZENlZwaDNuNXlmekFlNXlUbHpKX1NaQ0hFZHpLOU5xV3Z4TXIxNnRJcUZ6VUdqZGtheURUVzhXN2ZVTjgzYk5FV1dZYXk4WEloM25RcUYzeVF2Mmo3T3JfR0c0X3k0V0d2OWp3?oc=5",
-          "published": "Sat, 11 Apr 2026 04:52:48 GMT"
-        },
-        {
-          "title": "Immobilienpreise: Einfamilienhäuser werden im März erneut deutlich teurer - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGlxYlV6WHp5ZGZVSHpZWWxMOHZuYkxCVExRM3Y5STFPajBwNWVTamVpWXhtYi1FMmpvSUpLREktbS1sTWxGa3hlM05fMkFpMk82VF9penNIUXJUci1waGg1cnRUM0pvUElCVExINUN5V3h0SnpDV3k5OF91d0VuQjN6WEFBMmdvcUFDNVpFbklMMzk5TklMOGpCM1JkRDA?oc=5",
-          "published": "Fri, 10 Apr 2026 05:37:04 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "BJKC-Duell mit Tschechien - Bencic verliert: Schweiz muss den Ausgleich hinnehmen - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPemtZdXNjQlNscVpzUEdrZUQyNFpyZm85aGZjTkJTU20wd2phSHZUX0FqLTdjcGJodTluRTRoQmw1eVl6YjVBTnFEeE5TZ0pSRnRkUVRxZVBfUkROU3JMU1RYWkdjUEUyREI2YmNnUTFwME1aS1RyRlJoTjRVNTNPN3NQYUpsWktZYmtGcnhFTzZoWDFyb0M4dTNORFo4ejBqRkM0S05TTExXUTVQLW51aTMzTVJEZEJtbnFEeGU3Y3lnX2xNeU4yWVIwWQ?oc=5",
-          "published": "Sat, 11 Apr 2026 13:37:11 GMT"
-        },
-        {
-          "title": "33. Runde der Super League - Lugano reicht auch im dritten Duell mit dem FCZ ein Treffer - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMVVFMzNWanBJZGF1dWNHMTRKWC1JSTUydlV0VzAzTVZoaXYtMnNRd05TQVBreGVyRHZNdXRibU5WX2VJUmhXSFBEQ2hFSDlOUHg5R2d6dm03ajRrclkzNU9CQTRQd3RZUGs5Y2R5X19FWC1qWm9oN2J6WWRMQnpKUmN2bkxDLXdhQURYYW9BWjctS1JKdk5JQXpNem5YTDljZ1VzOGl3VmpUakZoLUUtemJnc0pVVG52SnZaRnAxalpWbUNaNlRwXzF0YVE?oc=5",
-          "published": "Sat, 11 Apr 2026 18:08:55 GMT"
-        },
-        {
-          "title": "HCD beendet Zürcher Heimserie in Playoffs – auch Fribourg führt in Serie jetzt 3:1 - Watson",
-          "publisher": "Watson",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS29ncHVHNk50ODZVZUppNEZIdWQxVmc3dUdJYkxjMXlFdm51OHN4SjEtenF4cldfaHJvRXNwOEVwR1ozSFpzLVNfQ1lwV1ZQMUJxZ05hUFgyRF9QQ2NKM1p1R1ZqdmQ1Z1JqeHV0aTZFY21VdkJVcjNRekV3b1VUcEtaT3A1Z3JKOTRNdVdFU2d6Z0lMOUkwcExqSHRFbWdPQ01nZjVwc0xQaUpqYmhZ?oc=5",
-          "published": "Fri, 10 Apr 2026 20:38:00 GMT"
-        },
-        {
-          "title": "FC Winterthur – GC im Ticker: Kapino hält Freys Penalty – der FCW schöpft nochmals Hoffnung - Tages-Anzeiger",
+          "title": "Playoff-Halbfinal: Was für ein Krimi – Der HCD und die ZSC Lions gehen in die Overtime - Tages-Anzeiger",
           "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVRyeEhTcjQtWV85NFFBSjNtNUlhWDNGaWI0LXdsZzlXUU55TVFabjczbHVmRGlBdDhmUEZsVkxhUHBPQm94Y3NNaFRwLVQxS0VJZW9KNjNVeXlMWDFydUI3OTFOS0doaVJGbVI3ZXYxZzJZdXhkSWJfRWttSWd3TFZ2dTZQTUNVOUYtTE1CWXhtQQ?oc=5",
-          "published": "Sat, 11 Apr 2026 18:00:25 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjIzNXQ5LXpHMXFiakZqWVJxMUVVWFo4Y190REtZTFJqZjNYUHhMRm9XQWIxRUtQbEUzc0tDT3l5QUZWQmZ6cURhQldxY0UtYVIxQWpURTQ3YXlfU3VkNWc4c3YyMncxU3hvT0h5a0JMcERxNTJ3NF9DVGlvdDd6WTVQNmRNVXpJalhLOWFDd2RrQk0?oc=5",
+          "published": "Sun, 12 Apr 2026 21:48:18 GMT"
         },
         {
-          "title": "FC Basel: Brand in FCB-Kabine – Spiel in Thun abgesagt - Basler Zeitung",
-          "publisher": "Basler Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVRwQVlkRXdZRFdTaWlUSzA4azFpR3F1TTJwQUI3TGNWVzc1RFR4OXllNER4U1BhY3lYZkNUOVZ0TEk0V0t2VkNqUXBZaTZfc3lhTnpfeWJGb25qS3B0TzViV2ZOTkFxUnFmZGpzQkZYcmcyTnVLd3J5THkyUXN4NTdGdGN5V2xGMTJRSU03OEUybzB0ay1SNjhB?oc=5",
-          "published": "Sat, 11 Apr 2026 08:07:08 GMT"
+          "title": "Super League, 33. Runde - Nächster Rückschlag für YB im Kampf um die Europacup-Plätze - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMkRxWWV3NUFBcG9LMlhSZk9tWFY3UTVQd3lGQzdPZHR3MldESFR3bmRqeC13Y0w5NGpLemxOYjI5X3VWd1UtTnNhaW95Nk9manh0d1V1VC1zcC1IMmpXajFXYnc5OEgtWjNTZkRkX1M5VXEzVW1JcFZ3RXQxNXJLQ25iVjV2VlpDbi1LYTNOMXNNUW11VDdUOVNpM2NkZW13ZDQwOTlHRmpoODRhZXYwU1I4Sy1IeTZyWWJTaFpzSVpUbmdONklON1NqOFY?oc=5",
+          "published": "Sun, 12 Apr 2026 16:41:17 GMT"
+        },
+        {
+          "title": "Elite-16-Event in Brasilien - Brunner/Hüberli verpassen Final bei Comeback-Turnier - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmVnRVBOQXlobjU4MFR1WF9LTklVTVNXX3Y5Y2lsZTFGdXFDVEdNWU9hMnl2MjhIMUVLN1dkV0lIc05pMXhPeGZnOGo3ZVNmMEswWmNvME4wcHNkRF91b05oV0pjZWdEcER0c1NGblEzcnJhLXlBOTVpTl9hWU9GVmNpWmVhc2ZXbks2cHZzSkdnUFU2UC0ybVdhNnVYVW9QLTEwbzg1M2hmVnNlSExDR0p5dFgxdElEdTJpaHB1Z0VFV0Z2OXRvZXpDX3djdw?oc=5",
+          "published": "Sun, 12 Apr 2026 15:09:45 GMT"
+        },
+        {
+          "title": "Goalie-Poker geht schief – Fribourg im Final - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM24xeE9xaEVpQ0dkOHJaaDZnSE9yTWo0Z05kZXJhTnBkSzZQcjJfWHVsb0Z1UXdmWENhNW9IOElrdm1sZ1ZlLXFyYW9GY1FHSk53RHBUVGlVeGsxcEk5TG1YYWwxOUR0RTIwTHNhV2hpSjZORjNEWFNnem1VRTNKS0VkMjdFWTBHOFdTMjc5VzNJQm5iQk4xWHJ2cFhyRWpZT1YzM3JuRVF2UXozeGtXQ3h6eXNReVJPRWlYaFVSVQ?oc=5",
+          "published": "Sun, 12 Apr 2026 20:35:35 GMT"
+        },
+        {
+          "title": "Van Aert verhindert historischen Pogacar-Sieg bei Paris-Roubaix - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeXhabWs2X2xqZ08ydlFDeV9BYmQ3UDgtNnYzRVBSNVhGcTZ6Mi1Sb3liSWRnejNGa09PZFRPcXFvYkxKM3JJTjQ3TW5kNXZfdy1feFJETDN1NWk5QnBPUVFhbElqNTZGTTVJLWRNNTVZZDJwN19kUm52UzZveDF5WUZwZmF0c2Y4NGVEMXdHeXVrRVhNS2RnQzVkemE3MzNxUG9qWWFtbjloeENlNUV4eUhxeGtid2ZoUE8zcnpQT3l3YXM0bDk1TEFseXFEM3B6M3E2LXpHVUc?oc=5",
+          "published": "Sun, 12 Apr 2026 14:49:14 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Aargauer Lehrling verliert halben Lohn wegen Krypto (B+) - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNEFUaEVDSzdhbEdsYzBQVFh2YWFfV3Fla09jNWVjdHBBNkFQWWxEMXM3WXRudHVTbWxhdGV6SEM5Ymg2SEFQa0IyWW9wQzdDZ043OXl5WDA5ZlYwdjlmOElpVTR3TnkyV0RVb2FNYW1HZ1NvWmZqeGNXMW1RQ195aU5leWtLOVgzSjZjbjRwZ0hzd0NaREdERldoTFViQjJETklFaWRtd2pHMEl2eF8xbGN5Q1k0Zmx6cURKVHY2UzkxNndjcThWVXFGWEIzTk1zQTJ1WVZYYVc5WHhURmEzZlN2NkN6WV9ycjlVY3JtQ1dKS0dUOFB5b1JnRQ?oc=5",
-          "published": "Thu, 09 Apr 2026 11:15:22 GMT"
-        },
-        {
-          "title": "Keller-Sutter gegen KI von Musk: Strafverfahren eröffnet! - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYlo4eFN4VFA4VThBVG5BdU4wQXlmUEZ0TjA1ZzFnTWMtdVJKcktzRHdqd01rWXdsZHh2WFdidjZoREEyTGU2d0t2dU5PcXpaNXBSWXlsN2RobjE5UWlRc0NzTXNXckF6SFkzU1ZFbXcwRU9Wa0dDd3BCZnlQbXNndVh6QjA3by1STlpXSUNNT2JheXJEaE1GWkRXZFY1VUVVVVJ6dEQ3N3lMRUxIOUwxZzVhWWF4TnNwUzFpN05mcW9yVVFXWGlaejV4NVhiNWhBcVp5V3RjeGRfa3VZZVE?oc=5",
-          "published": "Sat, 11 Apr 2026 22:01:11 GMT"
-        },
-        {
           "title": "Mit dem Signature greift Motorola die Oberklasse an - Watson",
           "publisher": "Watson",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0Q1MVVHdmFJY2xJYUZaVXRiWUdLaGJXQ2tBNm53QVU1UzRYWXAxX25wcF9sdFNfQVdmTmMyRjRZZzhXWkRTeVY3RTc2RjlQWWc2MjFXeFNTRnNpcE1qZ01pdldyQUQ5a1dubWF1Q2RlT2tPUkl5Zk9BYUNsbHB6b1NKeXJ6Q043cXdhVUhzRENBSXB4cldLVnVKYWtlZHF3LWNHT25WSjVNUjdNSWpNUS10bFJ5Zw?oc=5",
           "published": "Sat, 11 Apr 2026 18:21:57 GMT"
         },
         {
-          "title": "Bitcoin-Erfinder enttarnt? Adam Back wehrt sich gegen Satoshi-Verdacht - NZZ – Neue Zürcher Zeitung",
-          "publisher": "NZZ – Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbWxteE5zTmszNVA0TDZwa3pDcWFTYkhmeElkeWFTNHIyeE1tYWt1SmJqSVlpN3MyVlFTU091WUd1eGIwN3lOUy1zSWF0M1l3R3Q1eXFWSUpzcVZvcFg5Y1NvUlotV01jaklkaFdnT0dMN1J3Wk5jQzV1eUdoYVdGVjBqWnU1d2E4MDl3dFVzMFp4NTRTcVdHMmdqUFlEeUpwUW0wb2hEUHRIdEdOY2dzV1ZzWVB6YTJHZl9GbXVUYlRydS1EMVlXcnJ3RmhUdmFXX0VSdkRXcFdOZjhVZWdzckFGOUlFQm9F?oc=5",
-          "published": "Fri, 10 Apr 2026 03:30:00 GMT"
+          "title": "Solarstrom ist gemäss umfassender Axpo-Studie «bei weitem am teuersten» - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmx0eGxSYjQxdzNyNFA4Sno3NmUxRDh5NmVVRlZxSllqTk9zN2RuMjVTTkVPeVYxYU9EQTJ6UUxNQ0JrWXBwYUYtRF9KSENHYlNtbWsyc19XeWI1ZXhiV3FCc1VUd0xuZ0NOeko1dlJNeVMtQlgyZ2k5YmdDUE4tSHA5UG0xTXNscTVRZHhpcHljUQ?oc=5",
+          "published": "Sat, 11 Apr 2026 21:00:00 GMT"
         },
         {
-          "title": "Achtung Suchtgefahr für Kinder: EU und USA drängen Tiktok und Co. zu Reformen - NZZ – Neue Zürcher Zeitung",
-          "publisher": "NZZ – Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRkNTb0hFMVhkWHFTTkxtOGdkbGZDLVdySnFMR3lCS2Q2Nmg1U0sxWEtNbDgxcVgtM25FZ1l2QTIwTUNMalRnQ0psbGgxalNKeWR6WXBZR01tUExfVzBEak9nOWtxcW5qb043RUd5N1UzU1BWbndJS0ZpXzEzUjVlb2NjMVRhS3lORVZiN0QtbHhTamFQT2lETXUxX1hTb3ZNRWFMbERCUk9KSzRJVDFpd3ctaWktOHQ2NUxmaUVzWWV2MEotS0I2T2FSWTI?oc=5",
-          "published": "Sat, 11 Apr 2026 03:30:00 GMT"
+          "title": "Neue Batterietechnik: Kommt das Elektroauto, das in fünf Minuten geladen ist? - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkJpN0ZtRmM1RjNwaXJzMXV1QnEyREpWZHNZODRpdjFwSFJvQUV1OVk5ZE8zMGc3WV9qY0ZxVlpsSTFJZzd5N1REbl9HcmdFaEw1RXVnSkNLeWctRk5CZUZvOG85MXE3c3JQZWpBWTNKQng4OUpVNFRkLWVuaHlmcTZaa2VFNmhmN0dLUlRNUkpraVVoSXcwV3JjcTJ6ZWxsWWRqdWdEU2VVX3Z3NlU5WVphUFFWYVRTaGc?oc=5",
+          "published": "Sun, 12 Apr 2026 17:17:26 GMT"
+        },
+        {
+          "title": "Donald Trump und der Irankrieg: Wie der Klimaleugner die Energiewende befeuert - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUVEN1UxMjNzS0ZibHZzMmEwUW1MUUxGZmZFTlB1YTBNRnYxSXRUMHdpOGgxVTNFR2NhSzhqOS1lSUVpdkhDUXphLWxxT0pPOWRZV1U4ZGtfM21Yb3JONjY2TEwzbDZwNDFyNkZ4YWE0cHJ2b04wMUJkM21VV2FvdVdLYzA5RXBvMklwdHR1NEpaYmRuR2x2Y29aR2FaMHdwbGI0UHhabC1qZ3VNaG5tNlc1Z1F2dw?oc=5",
+          "published": "Fri, 10 Apr 2026 18:43:50 GMT"
+        },
+        {
+          "title": "Planet Plüss: Energiewende: Bitte vorwärtsmachen - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcG40U3Q3aXE4dDV5WkduN096VlZ5SV82U3VST0QxajJGV0Q3YjhfQVB0UlY5SnBYNDRVNkNJTV9NR0pkdGVZdGlsbEJSMEI2TGdtc19zTFVOTTd6cFQ0Nmt3emlnbFRSVk5DS1hLQ1U3eDlmS3JUU3JweHc0VDZTRzBDUHYzeDQtZDQ1WWhteWVQR2ZublQyaV8wS05FSUFBTWI4TWN3?oc=5",
+          "published": "Sun, 12 Apr 2026 13:29:42 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "'Unwanted shoulder pads': An issue has emerged with Nike soccer shirts ahead of the World Cup - Business Insider",
-          "publisher": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OTkRHZ2t3XzctcEhweHhBZzdoSTVmeE1vcEJJUUdXQmR5NWQ1OG9wOU5CdWF2Z0FpU1UxR05IcUJCdWJVUzlld0x3elYtWVZuSEEwNVpXYnBEcWMwOE5mc3RIRTF5OFJLcnZ4Q2tYdlAzZDhaYWc?oc=5",
-          "published": "Sat, 11 Apr 2026 17:08:00 GMT"
+          "title": "Premier League Soccer 2026: Watch Chelsea vs. Man City Live - CNET",
+          "publisher": "CNET",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTE52cDFaMUJWVld6WW9kY0FwaVpxYXdHeGRPYmlkNEJpVm5GZlBoNnRNRjhTUVM2cVdibTFXbnBYZ2FCM2xZUnRRRFpkd0paNC1pU1hRaFQ5SHU1VkpnNEtYbHlXandyeGJLVFdQM09LWHJPb2dBLVdXVVFWSkc4RGQtMG5pMFUzOC14eDhxSTF5S2JVM1BrbzVJT2tsVlZEcnRUU1N3endkQQ?oc=5",
+          "published": "Sun, 12 Apr 2026 13:30:00 GMT"
         },
         {
-          "title": "How to get tickets to the Argentina-Honduras soccer game at Kyle Field - Houston Public Media",
-          "publisher": "Houston Public Media",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbVBrUk9fVGRxYi1JdWNsTmdIZ3VrVzNGMFlEbGxwWVhqX1VkUWViLVBfSVh2Z0V6Ml9MOHVoUHRFQldXVjhSUTZFQ1ItbXZvVlhSQ1dwRGZSUkdjY3IyMm5wSnFZSlFBZUJmOTFGZ0pKaWNMclVFU0VvaC1OM3pIVXBNd3pFcXlzU1JHWV9KcHE3X1pVazQ0WWxpcTBxbTh1UGVmMzVfcnJCaFJpU25zUkNoSE55Smg0TXdJNldkY0lPcGtuWWxJ0gHPAUFVX3lxTE1sYWRTX2RXczF2dmMyelViRi1jMVU4ZWg5bk43WU90YUJBZDFMdjROakNnWU1NSHVGajZrRVpFdXBveUpSQU9lbU1rMzhsajlNRDR3YXhSaUdodTNBR0IxTUZsa3YwZG95ZU5FX3Raa3hZb1BtQll1bmdhNXVsQzl4TzZRZncydVlrQmtMb3gtZGhQSHdtMFBJRGtwVXA2TGd1Z096SkNQbzNISkdpclF4LVg2Mng5MENOeElPZThIYUtaUlZQNnNDS2lKUmFNOA?oc=5",
-          "published": "Sat, 11 Apr 2026 11:00:33 GMT"
+          "title": "Why missing Champions League can boost Premier League teams: What data shows - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFNkU2FWaHViUkNCZTBETGhSSUYxS0JteWZndkJGckd6NXRLLVJGdDh4cFlhRVEtblFhb2U3eDVRNW9VRFNXdVhGdmx0Z1VlaUhYM09IdDdkd1NnM3dkaTk1YnVEMnFwSlkwQXdqRko0MG1pSEtmcGUtMlhGQmRkd0x3S0VXQzZzdXdZOWY3b0g2bmJUdkhPN0o3X0xhNk0zNXNlV3d4OXR3VlE1cFU4ckFLMFQ?oc=5",
+          "published": "Fri, 10 Apr 2026 10:13:00 GMT"
         },
         {
-          "title": "Soccer.com, adidas spotlight Seattle’s soccer culture ahead of FIFA World Cup 2026 - Seattle Sounders FC",
-          "publisher": "Seattle Sounders FC",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb282b1R3T183OUUxODJNU1ZEcV9CQmZNUmtEY2M2U18yYzdFUWo5aEhGNGVtTV8xZzlLUWI4cS1KYlpERU82Y0UzamZKaG5Bay1hLThoMHhfM3dqSEJBVExqbTdUQ0FMSkN6a1Rmc1RDeWlwUl9xbUNwRGtKRnpEVjhFQXJQQnlHS0FPczFQSEtCeTdocFk4V2c5M2JHTDNMNldWSE50cmZDakpySTZHb0FZTQ?oc=5",
-          "published": "Fri, 10 Apr 2026 18:53:27 GMT"
+          "title": "Trump Pressures FIFA to Ban Trans Athletes from Women’s Soccer - Metro Weekly",
+          "publisher": "Metro Weekly",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xcFJ2bG9IOXRrZ1B6alhqdGtpaVIxdnktWW80enZocGI4U01LVER3blRzMUNpWDZnQWd0M1ZrQmpwT3VsZ3NVbTdZSWhiWDEtYmFUeGJQeEdFcFh2bnJkNnh1eHNQMWliYV9yUDhKQUdPV0E2cmp4Q3RhSHlmUQ?oc=5",
+          "published": "Sun, 12 Apr 2026 21:53:02 GMT"
         },
         {
-          "title": "Britain Soccer Premier League - dailyrecordnews.com",
-          "publisher": "dailyrecordnews.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2FCa1AzX2lCd0Nmb2NHQWpSaVptaWlwT0ZzVjZkR3JfU3FTc0JjT1NVWGtqNHNFS0xIYXB4djUtb2tFWUphNTFGSFVCMWwyRW1GYmRTNG5wUzlMSEJnWHVKT0w5VEtZSFVhaDZDLWlvWWV5em1ZcXI3Tk8wMHVuY1JnV0ZoSzR2MWw2SndnbXdtMWZ5ZlhvTDFFUmpZZXJIRmh6RE5HNlcyWG5VUVhHbS1jRnVTNUkyWkZDODU2Wk0xUQ?oc=5",
-          "published": "Sat, 11 Apr 2026 13:29:17 GMT"
+          "title": "Talk of the Devils: How close is Champions League football for Manchester United? - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUpBbzNndkZiM2dFVFRtbktLMHdpYmZ2LVltcnR1T3dlX01lR01yUXFiMjdVa0ZUcnVuZDNKWWFWNjdkRGUwVzRXazlUZ2g0Y21fLUFKNEQ1YTljTmNpNVJjVkRVakVWcUFNTXpwQWU5dU5DejRpNjBOZGROVFpDdGVXaEZpVnQySkR2Tzk4X3FISWtvUzB0dWllTXpzbEU?oc=5",
+          "published": "Sat, 11 Apr 2026 04:25:25 GMT"
         },
         {
-          "title": "Britain Soccer Premier League - Idaho State Journal",
-          "publisher": "Idaho State Journal",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMFkyZTJOYldkZWJXd2liM01iVlBLNHB1ZVYxVG9vMm52VnkxenBCSEswdWQxazBNV180UWNSOXBSRzZoNldDTHp3V0h4QmFhcmx4c0R3cjJOb0VMVktpaEl0MTRNNEszT3NhT0dhWXo4TDFKajFKVm0zekJCNC1ISEpGY19WU2EtOThmRmRqY08ybjNFUXN5cUxYVFhTS0tWZ2VXQm5hQVB0NzVLYXpHay1ubFdJUkxMMi15SFhaXzVhZ204T1E?oc=5",
-          "published": "Sat, 11 Apr 2026 11:54:47 GMT"
+          "title": "World Cup | Football, Soccer, History, & Winners - Britannica",
+          "publisher": "Britannica",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lSXpoQ1dpZXJOZ0haOF8tcElFV0E0bDlCVHJORHc3NFNCSDRzejEtNFN5VHU3NWo1QXZHeVZwampxYm14Z3JkYzVUZW5YY2N3M21hbmgtd21jZzlyOGFYU1Vn?oc=5",
+          "published": "Thu, 09 Apr 2026 05:00:00 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Sabrina Carpenter’s Coachella Set Featured Sam Elliott, Susan Sarandon & Will Ferrell Cameos - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGJ4MDBuOWc0MG1Hc0I2ODRFX21LbkdwRHJ0b3pMMnl4VXBKS0VfR1JlN1ZxSHpvUk1wS1B5VlJXWWlEOXdVaC1aMVpKcDQwRTBxNzk5dE9JaGxEVjhaRTZoNFBEYzZ1U0NLZFNUYzlYWjBCS2hnakl1LTk4OXNucnFwRFJoSjlCRk9ydldZdUJQdmdEb0sxdXlsQ19wbVVMcm9nQUU2ZzhsUUlX?oc=5",
-          "published": "Sat, 11 Apr 2026 17:50:00 GMT"
-        },
-        {
-          "title": "Box Office Milestone: ‘Super Mario Galaxy’ Soars Past $300M in U.S. and $600M Globally - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdkdpaDdwVFhBdU84VDV0OWdBUE5QNEp1N04yZmlkdmxCUWdOTjVfRGZRM2xfZTZpaTdDLXk1cm10eEtlTHdpN0xnazZjbHctU0ktZTR6RDNCUFBjd0FLYndMYXhXaUhkdjU5cDlJNW1vTHFmTXJwdTJ5TjE2WnVUMDdNWEtYZDNwLTlTLXVKT2VUQmNGYU5MYWNYSjRRNjJqbHZOUERDWQ?oc=5",
-          "published": "Sat, 11 Apr 2026 19:30:54 GMT"
-        },
-        {
-          "title": "Labrinth Explains Why His Music Isn’t Part of ‘Euphoria’ Season 3: ‘I Don’t Let People Treat Me Like S—’ - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWJtQTJJdHVwNEI3a2xvbUNhcFBzQWs5Z2k1bkFNQUE5cHBDcU1TUDFZRW53MUtINGJ2TmVQSmZIUEdQMXNNbXVuY1J5VVQzNi1KZExEc19PamRWajFGdHBlcG0tNWtoeE5ieHlzUWlGNHdPRlBZa2NzVHAyQXRHMjRxNWwxWU9lSHVoM1IxUjZIQU12bjNITWpSZlVfakI3NFpr?oc=5",
-          "published": "Sat, 11 Apr 2026 16:00:00 GMT"
-        },
-        {
-          "title": "Sabrina Carpenter Faces Backlash After Calling Arab Cultural Vocalization ‘Weird’ at Coachella - Yahoo",
+          "title": "Coachella 2026: Karol G headlines Day 3 after Justin Bieber's laptop set divides the internet - Yahoo",
           "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTjl4bTNxQkFhQklqLXdyamJiUUlVc2V1X01Jb2hOVmc5Rl85b3hONVhVWERuUVRaTzVtY21wX2ItM3N5QmtCcHFpeDFhTzJ0eV9Qc01qZlZTYzY5akoydHJxMVZGWEw3cW9FZF94UHhVQjZoX0lFbmpqVjJEYW9wRFFYbDlVcklVU3Exa1dYeTk5QUNTTEF3WWxXUnZPYkxMeFJRYVRzaEdRdnhWMjZ3?oc=5",
-          "published": "Sat, 11 Apr 2026 13:49:58 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV19zYXJhRW5RcDZiWUUyNFc0STNURnVvR3kyTVgxSTZZMGFLODdzclpGSEFzXzQ3Ymo0TUxqMC03SlA1ZlZzOUEtNjNpMjFnMF9Ec2EzaU9QLUN5SWVnaWlJWnduQVZUN2IzOTF2bjVpOUNnOTR2ejRPTWtFYlUwSjEtLXYxV3VzNkM3YUtTdDE2aW9qQ05TX3h3MGdtZTlmX3MyR3FGLVo4RVhVYlpXLUhlMk04WF93WlM1ZU5Gc0FtaS13RzRyY3NwOGJ0T1FNaGI5akIxZFRZWUZsdjlSbDdpUTBwUk5l?oc=5",
+          "published": "Sun, 12 Apr 2026 16:29:55 GMT"
         },
         {
-          "title": "Steven Soderbergh on ‘The Christophers,’ ‘The Hunt for Ben Solo’ and His Controversial AI Comments: ‘I’m Just Not Threatened By It’ - Variety",
+          "title": "'Super Mario Galaxy Movie' Is Year's Highest Grossing Movie, 'Project Hail Mary' Hits $500 Million - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSE5jcmFfTEl5c1dNOGc3WFdXRXRqT3JsaE9PQlE4eUo4cERkclR4cE1pME1aNDBPZ0Mta2pvQ1ZXNmVTaGJXN1N6OGJ2UFNmTUVMVXhoX2k3TzI5VFNFUkh0VGFBY0FYQTVMV0V5N2h0cF9iVE1sVHRHbkdwQnhuZDVueWkyOUw3ZWF3ZjNhbjRYY2NWOFVDZUZkTFpFdVNEcVBUMzZJY2lmRmlfd3d1RDdRUzFqWVMxSV9tN2lWN1N0TUpYV29Tb21pMzU?oc=5",
-          "published": "Sat, 11 Apr 2026 17:18:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTm1TM200Z1AwT2tRUTFrMXFvMHVKX3oxOGVfUm5qcS11MTBsRW5WdHBrQ0xEX05WRnBxbWdoMjVLcm5MNEUzcF9RY3pBX1BkR21WTnpwV21PWnpMMmRxOC12TEJHbjlPUkNDMlRhSnI5TTQ3cnZvazRsVmFQbHlHTmN1bHQ2aHp5OTR5a05HQm44YkJFdDlIVmlad2tiZE5UY1MzWWRBOEhFRGZjc0t1bXhhVTBjSEJWeFZwQ1hjZjkycXk0S3FLS2xyRENFelJYTFFYQVlOYw?oc=5",
+          "published": "Sun, 12 Apr 2026 16:06:00 GMT"
+        },
+        {
+          "title": "Georgie From 'Love on the Spectrum' Reveals New Boyfriend After Split From Connor - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXNfVHo5MVBrOHVQak9lZnpUcHlWSmFlMlRxeGVnNm41ZGNvTHpwWUpKS3Mta0ZQM1R5M0dwbmhhajBoNlRFQm9LZGlyQW1aZWhwbGNGbVF3YU1HWnhiNVEtalZRYVNfNFRRS3pJSFBlRjFXMzE0elVMeFFwTzZHSEU5WUhnRENmVjdsMEhnNWo3dVRX?oc=5",
+          "published": "Sun, 12 Apr 2026 21:04:29 GMT"
+        },
+        {
+          "title": "'My 600-Lb. Life' Star Dolly Martinez Dead at 30 - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lM19vNXVCYW9jTEI3RWJCX0VGYXlhNDhlZGx2aFF5eDAzaDAxU2piSDlkbC1tbWYzTVUxYS1OUGFqSG9BVTktWDhDeXhOQUZDNlhPTEVkUFdOZXl2NjFGLQ?oc=5",
+          "published": "Sun, 12 Apr 2026 18:24:31 GMT"
+        },
+        {
+          "title": "Fans react to “disgusting” scene featuring Sydney Sweeney dressed as baby with dummy in her mouth in new ‘Euphoria’ teaser - NME",
+          "publisher": "NME",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcGZFT3o2YThYcEJ4bzVwY0xnUUdQN01KTERrakluRTdUbUExSTU3Nmo0Z1Rmbk5jYkhsYUt1blUxdXJkLVM4MUpsT0ZGNVRfOV8yVGZJdm1WN1Jxa0c0Q0JWMTUxTDBBVXU4TzA3TllzOGdvamZfUWFZVUF2QUluMzd0dFducEFEN3FFN1ZmQklaYTkyT3FSNkpiUGVBMnRfdFZzLVZ6NzFINk1mWGt1Rktjcy1nbVh4cHZBTHBtVXIzR0IyV25NcHVuLWZNakpqMTJmV3NoN0YwOVhybHRremxFeERBSlZlZVE?oc=5",
+          "published": "Sun, 12 Apr 2026 11:06:59 GMT"
         }
       ]
     }
