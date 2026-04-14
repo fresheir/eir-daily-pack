@@ -1,7 +1,7 @@
 {
   "market": "FI",
-  "generatedAt": "2026-04-13T22:42:01.675345Z",
-  "validForDate": "2026-04-13",
+  "generatedAt": "2026-04-14T22:44:15.544916Z",
+  "validForDate": "2026-04-14",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Ukrainan droonit | Krp: Droonit ovat julkisuudessa kuvattua pienempiä - HS.fi",
+          "title": "KRP kertoi uusia tietoja drooneista – Näin kommentoi Petteri Orpo - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdnVid3VlbnVETEVjMzNUWVNoWlhUWDU0OE1HdG1YbkZBMUdQVjJmZmx4RHBxRjVWX1JzM0xGblpTdEZsa1ozem1uVHB6VTVSWi10cXdVNlVXeEY2eW04a2pCd2haWHhkbFVtYkJOT2NHWXZ2dm9uRXRXWWpkbkU?oc=5",
+          "published": "Tue, 14 Apr 2026 16:40:56 GMT"
+        },
+        {
+          "title": "Hurja lämpöennätys Ylivieskan lentokentällä: ”Ei olisi voinut uskoa” - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91akJLQ2Jzb1BnTnBXeXRhNlBOVmg3ZXNTX1dVbklkQW9EVXpjajU5Z3JyMnNCNE51LXRyOHB4dmNzRUpqQzZvQXZ0X3cyd21QX1hhd0cwNllZRl9k?oc=5",
+          "published": "Tue, 14 Apr 2026 14:09:00 GMT"
+        },
+        {
+          "title": "Stubb aloitti työvierailun Kanadaan tapaamalla kenraalikuvernöörin - mtvuutiset.fi",
+          "publisher": "mtvuutiset.fi",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaGdkZXJ4TUV3eG5OeTFuR0NXbWlVREJ3aGY3SnRJbGxZYjRfTU9FR2ZIUGhGbUUtNGpldmotZ3pIdkNsMzN2MUF3b3ZZRi12eElYVHRqa0UzTUt0YkFvM3ZoLXExRkRydUdtcmtxb1JOQnVEajZ6OG9EWHBubVJiSWFTd21LSTBNM0VLcy12WEhPNGxEZnByNWUxYk5Ld2d6X3Y2UVZueTF0aE1SRW9R?oc=5",
+          "published": "Tue, 14 Apr 2026 14:26:58 GMT"
+        },
+        {
+          "title": "Kasvikset | Kotimaisten tomaattien hinnat ovat nyt korkeita ja Iranin sota voi vaikuttaa niihin vielä - HS.fi",
           "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qZlhvT1NPQWhpRGpjVG8zajZiS0dQRlpvXzV2UTM0em9Ea3MyTy1nOEwyZnZFZ0VjTjM1LXQyZGlwdm9fdUZwTElXdGRvQ1RrMjJwam81c244UQ?oc=5",
-          "published": "Mon, 13 Apr 2026 14:25:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ta0hTMTMtY19DckJsQTN4eUJVc2FoYjFoa01SUFlTVGNWNWNMM2pFaEprNFpwMFhycVdFb3ZZeVZRTEgxZ3lyZ2tCTmItbGdURXU4Qk41eTUxUQ?oc=5",
+          "published": "Tue, 14 Apr 2026 13:28:00 GMT"
         },
         {
-          "title": "Helsingin pormestari sai selvityksen suurta hämmennystä herättäneistä tukirahoista – ”Vastenmielistä” - Yle",
-          "publisher": "Yle",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pdnBvNzhsSnlvN0ZJWW9GdlgzM1kzZWEycDVfMnZ2TjMwU3hEb1JJMkRSR1Z0NHphZHRVdGJ5dmxzdw?oc=5",
-          "published": "Mon, 13 Apr 2026 18:21:35 GMT"
-        },
-        {
-          "title": "Keväälle jälleen uusi lämpöennätys - Etelä-Suomen Sanomat",
-          "publisher": "Etelä-Suomen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ob3pBT1NEX3VXYVRPNmVwZWM1OVFVc1FCbEhTZ1NzNXJRclBrZjNjUWZZNHlwa0o5Wi1reks3MGoyRjBRS0FKalpJcnhTcDREYk4yRllR?oc=5",
-          "published": "Mon, 13 Apr 2026 14:00:16 GMT"
-        },
-        {
-          "title": "Tulipalo | Tiedot Rauman tulipalossa menehtyneistä tarkentuneet – asiassa ei syytä epäillä rikosta - Satakunnan Kansa",
-          "publisher": "Satakunnan Kansa",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yaF8zbzNxZk9UTDBCMGl6M0Y5UTFQWnhOdXdfZ2ZjNlFUOUJzRVNHRmJDV2tUeE90bVVvZmlIRDg4T0pRT295MnozN0xNNVppMGhQckZId3JTQ1p0RUZBUnZBb3JEcTltOUxoUnd2dWk?oc=5",
-          "published": "Mon, 13 Apr 2026 10:39:00 GMT"
-        },
-        {
-          "title": "Onnettomuuteen johti sattumusten sarja: Henkilöauto törmäsi pysähtyneeseen rekkaan Valtatie 12:lla - Aamulehti",
-          "publisher": "Aamulehti",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10ZzRtejgxZzVHV2RYNmV1b2VqMlYzQlNlVTVpZUt2UWVNeGQ5OEpBaUlNYU1ZX2ZuLVU2THBJR2g0dWRmNDM4cWhXSHpkQjJpUHNDTDFOcHhuQnBDRExJUWpEWkVzVWta?oc=5",
-          "published": "Mon, 13 Apr 2026 15:07:00 GMT"
+          "title": "Poliisi epäilee 56-vuotiaan miehen tappaneen 75-vuotiaan puolisonsa Espoossa - Keskisuomalainen",
+          "publisher": "Keskisuomalainen",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96NXQtdEFYVWkwUms0ZVJaWEVKS2ItaHRCb2t3a183cE44QUxERGFUeklnelNEYXRTUTY0UFhYRmFlb0I2NGRpX2p1ZF9nR01pbDhWSzZWaw?oc=5",
+          "published": "Tue, 14 Apr 2026 12:08:36 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Sananvaihto | Meloni moitti Jeesuksena esiintyneen Trumpin haukkuja paaville - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jTG9tamdWX2hlcDlpcHJnb3NkcFNFT21VZ1oxX2d0TVVGWTZ4SFBhLWdVQzNtbklVdXRLUGZpRlpVSjJDYm53NWgxX3JEZU9aOWUzTXZPSDdOYm5G?oc=5",
-          "published": "Mon, 13 Apr 2026 20:12:00 GMT"
-        },
-        {
-          "title": "Tältä Viktor Orbanin tappionhetki näytti - Ilta-Sanomat",
+          "title": "Timo Soini: Tästä syystä Orban hävisi vaalit - Ilta-Sanomat",
           "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nR0VVdlRqTkVSemwtc1Nid1VfU1c3TjFwd1ZneU1BLXBBT0xHcTc2VVVtNzJDR0FmcXlTNi1laWRyREYwVHc4QmtXeDlvSnRqajZCeDc3UjZ3MmlUUHc?oc=5",
-          "published": "Mon, 13 Apr 2026 19:31:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10a2lxbzZ6VUY0WEdpMHJFcUNxaWVKMkhtTUhWemZFS0JEX1pHdU5yTkF5S2NaZDBwWW5QdGgxcTNBVVVyM1MyOHIwSkIyaUJxUDd0cUtuQ0diTUE3U3l1bw?oc=5",
+          "published": "Tue, 14 Apr 2026 16:20:00 GMT"
         },
         {
-          "title": "Asiantuntijan mukaan USA kykenee todennäköisesti avaamaan Hormuzinsalmen, mutta luottamus on vaikea palauttaa - Etelä-Suomen Sanomat",
-          "publisher": "Etelä-Suomen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EcGZ4MnpMNnBpNkJRc01MRHB6aG5RQkViQy1DWWtncGItYzZRdlhqQ29HRWg0U0VJTXNGLWxQZUg1dlhxdW1ELWVuemFGRVlJWENpNWx3?oc=5",
-          "published": "Mon, 13 Apr 2026 15:15:17 GMT"
+          "title": "Trump: Rauhanneuvottelut Iranin kanssa voivat jatkua lähipäivinä - Kouvolan Sanomat",
+          "publisher": "Kouvolan Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HX0tVQmI0OXRiclVILW9qc0VLSzFEUzYxaXBnYVhZNjJaRHU1a1JXN3ItREVhMDhKdGl2SGZQYkdBMGVFX2VNV2lhaWRzR1A3VnFiRkhfV3dmdzZ2SGhkcE82TldoQQ?oc=5",
+          "published": "Tue, 14 Apr 2026 22:27:16 GMT"
         },
         {
-          "title": "HS Washingtonissa | Elina Valtonen: Nato on vahvempi kuin koskaan - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yZGRHWTdOMHU4VmI2TTcyQWI4X2dTTjRYNFZ5aU9ybUtEQk9ua1pLT3l0OTRzUG10RF9RUzd2cGZrSnpZbTJSOFU0aDlMZWxhbGNYMWlzd29jNmI5WEpvcDlHVlJDLXVI?oc=5",
-          "published": "Mon, 13 Apr 2026 18:18:00 GMT"
-        },
-        {
-          "title": "Presidentti Stubb: Hormuzinsalmesta on tullut Iranille ”ydinase” - Yle",
+          "title": "Tutkija: Trump voi julkaista Jeesus-kuvia, mutta tuskin mikään horjuttaa MAGA-uskoa - Yle",
           "publisher": "Yle",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFByV2NOalNXdXNpRWlaUnFheXBhUVVVdWJWVTlBUXNEZkk2R3JPeDJsWWRPclBsVUlzWUdHaDB1YWpIQQ?oc=5",
-          "published": "Mon, 13 Apr 2026 15:15:35 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9jMGYxWE1kWjhkUkJVcTRmdXB0RkFSSlpNSTJvTnFBcGw3amQ0MEtfMDFSamtDM1BsVDlHdURESEtwQQ?oc=5",
+          "published": "Tue, 14 Apr 2026 19:06:28 GMT"
+        },
+        {
+          "title": "Alexander Stubb sai ”legendan” vastaanoton Kanadassa – ”Katsokaa tätä” - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tV1NvVFo0bWNiemZva0ZBUVBDYWx5dDZIdGI1RTB0alJxZm1ycTk3S1gxS0tNbTQ1SGMxVGJnckF5NDlsazhUcllzTFgxamRLR2xwckl3a2pZend6VVYwbHdYSWc1UzVfbk1PVGhKMk4zRE5xb2hCT3dnenVmZw?oc=5",
+          "published": "Tue, 14 Apr 2026 18:50:17 GMT"
+        },
+        {
+          "title": "Ukrainalaisia drooneja tuotetaan jatkossa myös Norjassa, sanoo Zelenskyin tavannut pääministeri | Uutissuomalainen - Savon Sanomat",
+          "publisher": "Savon Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aTER6V1FIdGdqX0ZKdGFVX3BXNzhYZExhNUJrcDJKN2ZxaTJHaGtyWXE0eXJNRG5rZWFyNWRjX2piel9RdkhUaEFISVV2TVc3eXAxbk5qTVZrcHRIajVhX0hB?oc=5",
+          "published": "Tue, 14 Apr 2026 19:32:17 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Lufthansan matkustamohenkilökunta menee lakkoon | Uutissuomalainen - Etelä-Suomen Sanomat",
-          "publisher": "Etelä-Suomen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BbjJ5SkhvSDV0UGpmN2NCNDdJZlNiQ0lIYm5QVzlBQzJIZk9yVzEteXZHNUtfQUlqbGxNWWloZ0g1ZUxna1NtT2JVNmkyRnpPbXNoQWRB?oc=5",
-          "published": "Mon, 13 Apr 2026 18:58:16 GMT"
+          "title": "Iranin kriisin vaikutukset jatkuvat pitkään – markkinareaktiot kertovat, että kukaan ei tunnu tietävän, missä mennään - ts.fi",
+          "publisher": "ts.fi",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9BcGFfUlNwQTVrbjBnTDRZeDlmbGY0bV9RQmxIQ1U5SjR3Rm9lUm1NUmh3VHNrZWIydXk0ZDlHMHQ?oc=5",
+          "published": "Tue, 14 Apr 2026 16:02:46 GMT"
         },
         {
-          "title": "Revenion Visionix-yrityskauppa – kannattaako kurssilasku käyttää ostopaikkana= - Sijoittaja.fi",
-          "publisher": "Sijoittaja.fi",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOHRZemFMSmtwYnVhYkdFMGVrTDZkaFdnRXZJZ19taG5xRjFhSmRPSUJtSEw4R2tRbFNGOHRELU5kNGZ6UXU1NDZYWVVPY19UTzdmSFlDYTExdEZubXlUdVBnWXBFVFlLQjRhNlpIbnF6WTNZVXNMdW9LYVBjVXdUUzNvTzYyNG9nLXA4elFZRzFMVV9qWlczMGpyYW43Tl9oYU4zM0dkcmdKTFBIb1E?oc=5",
-          "published": "Mon, 13 Apr 2026 18:04:02 GMT"
+          "title": "”Taidan missata kotiin tullessa Havis Amandan” – EKP pui Lähi-idän kriisin vaikutuksia vappuaattona - Demokraatti.fi",
+          "publisher": "Demokraatti.fi",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeE8wWE9rT2NCaE8ybFpJLUhKT1JCSHFKQUtYN3lLUkJ5ejZXMU9hb21LVXZSTTFvRUVQUUhaRmJ2RlRTbDdhcWk4RU9CRFNtSFVIa1dtSWY4REJPNWp6WGtNMlQ2UzlHSzlwSG15VXFuZV82US1XOFEwQUt5N01lcDBrdDRDaTFhTHI2d2hfYk1odl8zTW5rTG9kbTVNWEl6WUd3alM5LWRDR2Q1OW1ZbGxGb3dlUDVWTkE?oc=5",
+          "published": "Tue, 14 Apr 2026 09:41:00 GMT"
         },
         {
-          "title": "Öljyn hinta lähti jälleen nousuun ja pörssit laskuun Iranin ja Yhdysvaltojen kariutuneiden neuvottelujen jälkeen - SSS.fi",
-          "publisher": "SSS.fi",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdHBwalk2elFOczYwN0NtQkxLU3lCN3JSZDJ0d2FXZzNsS2xYdUdqYUxINThxN2NjVnozenFVS0ttdVowLWhvMlJ2NWRveHFXeW1VNm14QjNGZTJuNTVDWFJwNWJYaUlFX09PUzhzMTB4M0pnYklnZzZORUpKdVhhRU1UTlQyRGtCRlRxUkN5TjZ1eVNnaVl5QkVTVXI3ZTFrMlhlaFFETXg4NFBpWE5lSFBMcFRzc0Z6Z3lTNUp6UmstQldZTHNOZGFrbE83MHRFV3VPbm9MSQ?oc=5",
-          "published": "Mon, 13 Apr 2026 10:09:51 GMT"
+          "title": "Wärtsilän muutosneuvottelut päätökseen: kymmeniä työtehtäviä päättyy Vaasassa - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE53RnRSTDRXQjl0Q0tuZWxndVVLSTRla09BRWNtVlhyVkZBUG9GaWxBUGs1bUVxNEJ5c2dMQlUzdnVwZw?oc=5",
+          "published": "Tue, 14 Apr 2026 13:13:55 GMT"
         },
         {
-          "title": "Meyer Turku teki sen toisen kerran: liikevaihto +17 % – Tulos ylitti uuden haamurajan vuonna 2025 - Tekniikka&Talous",
-          "publisher": "Tekniikka&Talous",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSTh4OFh1ZmlYaUN2cjNLNjM2a0kxSkRXRnlDdExEdUdkUUdvdXNkYk1KWlNfWElZOTlSYkVFU2tUVi1WTjh3QTcxVFVId2Y4a19lSGtOTmtOUmllVFFVd0V5YVRDTjRDTTBrQnpDdGl6Q0kybzBwNkdrRktmNkxEaXQ0OA?oc=5",
-          "published": "Mon, 13 Apr 2026 13:06:13 GMT"
+          "title": "Tietoturvan pelisäännöt uusiksi? Tekoäly löysi aukkoja, joita ei ole huomattu vuosikymmeniin - Aamulehti",
+          "publisher": "Aamulehti",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55Y0ZxY3dQOWdyNVJRMWRGMWJCcl80Z1JUVXMxTXBHNkRRaDRJQm9rZC12TF91ZXVCd3FIOWpqOWdmUTlzZmZrSEluVHU2YjY2T010MVMwZFd4ZDZGdFc2anVwOVJ2S3FWdTZCNGVKQ1h1M2c?oc=5",
+          "published": "Tue, 14 Apr 2026 09:30:00 GMT"
         },
         {
-          "title": "Nyt tuli kova tavoitehinta Nokialle – Kurssi kiitää - Arvopaperi",
-          "publisher": "Arvopaperi",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaOUEtOWNZNmo3UXhJcWR5cnRBcThPdThrT24wdFFIS0hNWWVTWUlOcmF1NTNvN3BpQ0tCQVFsVFl3Sml2YkcxQmxUVjYwLVpXa282aG1wdGwzbFIxdnoxa2plVjRZYkg4a0NLNWNFN1daNXlpQzQtNFpGU20?oc=5",
-          "published": "Mon, 13 Apr 2026 15:06:36 GMT"
+          "title": "Helsingin pörssissä lukema, jota ei ole nähty yli neljännesvuosisataan - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PdVFJU1Zja2xLNkxreDQtS241MTAxdGlfYkMzUVp5eUFjcjJHaEFDenRfX01NSm0yUEJldDhLaU80SVloYUlZUVg5N3oyX1A0UEZxY09LSzg1RHJydXlkTjIzZUI?oc=5",
+          "published": "Tue, 14 Apr 2026 17:12:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Kommentti | Raimo Helmisen SaiPa näytti suuruutensa - HS.fi",
+          "title": "Jalkapallo | Saloranta: Helmarien olisi pitänyt kontrolloida paremmin johtoasemia - HS.fi",
           "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFc0JLWUtGWDFkNE9BRU1WckpqaGI5dVpGWXJUcG1BZjEyZ05MNDhTcFFyNk9hdGUwejBWcS0xZHZ5Nk1xS1ZxSFo1VGppX0hlTHRWWk12cUFWenRy?oc=5",
-          "published": "Mon, 13 Apr 2026 18:22:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84MFFtMWpLcy10eFg3UEs1dTdkSmUyUENmanZWUFJtSS1hUkFFZTNzbUJudmRpbzF4Rk1SUVpkY2lIcVkycDhtOXNEYzF2WGlUSjFlMWtpTXBzRmNf?oc=5",
+          "published": "Tue, 14 Apr 2026 18:36:00 GMT"
         },
         {
-          "title": "Ilveksen ja Tapparan lipunmyynti oli tauolla, kun paikallissarja varmistui – tästä oli kyse - Aamulehti",
+          "title": "Jussi Tapola: Tämä tekijä veisi Ilveksen finaaliin - Aamulehti",
           "publisher": "Aamulehti",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvSlZsRVljZld5cTZzR2YweWJOQVlZQTlRSTBpX1dLRW5sZ2hneWZxM21aeDY2Wk1xcTBId0FKV0RfUkFUbWhGT0oxb0YweG5lXy1WT3Z1WTlSdHVraDNIdE9LQQ?oc=5",
-          "published": "Mon, 13 Apr 2026 17:55:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SOF9TWm9IMThPSW1xVnN1dV9GMjdSM1JPcWNXcjR0T1Jib3hLaFhRd1RnRXlXWTB0T0U3SlltUUd1d1hPbGhSVFItd01ObFp0bVBENVplekxLcFJOYjQzdDd3WQ?oc=5",
+          "published": "Tue, 14 Apr 2026 16:00:00 GMT"
         },
         {
-          "title": "Tallitoveri repesi nauruun, kun näki Sami Pajarin mokan - Ilta-Sanomat",
+          "title": "IL seuraa: Jälleen punainen kortti – Barcelona vajaalle - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLW5rOF9nZlJmLVlUVWNLeGxZbFJSOTVVblFOcXlmdWhkTDlYR1VmUkp0OU1LU0J3UklJRC1Rb2R0ZHI0SFBKdXZ2eTBHMldBN0xpbGd6QjUxMXJ6YklsM0tFOXJ4dE1FZEsyXzZhNjdwZGg0NnViMEwzMEVVZjNONWRxVTA?oc=5",
+          "published": "Tue, 14 Apr 2026 20:45:18 GMT"
+        },
+        {
+          "title": "Katkera kulissipaljastus Sami Pajarista - Ilta-Sanomat",
           "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUbDY2WnpTZjg4OU41V2k4MjVTQV9KNXJOV3RuWjZDaTNFejd1c01hTGpSUUFvOU10dHkwd3cxS3VNQUNPQjdTa3dULUFjaUtqNjV4MXVXaGstQQ?oc=5",
-          "published": "Mon, 13 Apr 2026 14:51:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OTXJzWWNEZS1DRlRuOHNqRFZLTThIQWVkY1FpMm1RNVlDM3lGSUhQazNJSWRzUzdqcVRTd2ExY3J5UWpPaFpfck9nbnd3Rk95NU1ReHNxM1NzQQ?oc=5",
+          "published": "Tue, 14 Apr 2026 17:07:00 GMT"
         },
         {
-          "title": "Suomalaista jääkiekkoa parempi Diili – Jukka Jalosen yllätyspäätös on täysin ymmärrettävä - Jatkoaika.com",
+          "title": "Daniel Nieminen solmi tulokassopimuksen Nashville Predatorsin kanssa - Jatkoaika.com",
           "publisher": "Jatkoaika.com",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQkF5UjRCem5WeGJBNHhHVGJTZXdEbUJUcXdkWllHaXJVYjVzeTQ0enpGODJ6VmdIM1NNUDBNTHVlRm1BRkp0TENCODhjQW5RTXc1Q1NKYzY1RmtCZWwtanRmR0tfcVVuWmloMnNWVnl2LTFsMjh0WmJ5Qk5wWmlHWDdfZFhfLU80ZXRjTUM1S3pjaW5lOC1yUFd1ZTBJdEFwS3pIU1FaNDRYaGFxMjQ2dlZLSWtMaUczOGJhMVJHWThRRERwaXh2RU8tNnZRWU5pX0hWTUI3X1pQbWR0c1dVR25jQmh4LVBlendERU55ckJneDlCWlY5Ujd6ZmoxM3VzTnluMU5zOF9KYWM4QlM2d3E2RGZ4Znc?oc=5",
-          "published": "Mon, 13 Apr 2026 11:44:37 GMT"
-        },
-        {
-          "title": "KrP jatkoi kotivoittojen sarjaa – Laakso nousi ratkaisijaksi kolmoserässä - Pääkallo.fi",
-          "publisher": "Pääkallo.fi",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZVF4ZUhRVEcyU29FYjB0eUZiMldOTTVGT3RpNlZORy01ZDFORW1KeUNKY1RpTW4tUDlDQ1ZlM3pOa3hZUThEWFJSLV9ZYXVNQ0tKMldzNjBNQUNFRkRDQWs4T2VmT29vY2dab0kwWWJSQVB4RlZsc2hyRG5wMEVUdmVoUUJGWXlTRGlmQkNlWU02cXM2dXpxT2h1c0pYSG1oa1E?oc=5",
-          "published": "Mon, 13 Apr 2026 17:43:32 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN3c4bFpQTm5fM1dKRUwyVkJsS0FsOERiREFMaGFBS29BVGJwMkxRSE14N0wyOHZvSFdFZlVWZjhQWlU0emJBTFNtNFh0SEZ5T1FZcWFuX1B6WHhzMDdQSXVHNzI2cjJYZDFtTlA5TjlqQ0otOTR4UUd1cFhzTktpMVJzVmNoWERyUkxDa2JaRXN6RWdjazZwRlpqS3NQUWEtWWNpSmF2S2tEbnlYZGc?oc=5",
+          "published": "Tue, 14 Apr 2026 20:19:08 GMT"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "The 2026 men’s World Cup could be the dirtiest ever - Yale Climate Connections",
-          "publisher": "Yale Climate Connections",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmgta1RMSXkxamhLX214cHpZUjI1dGNRQ1NyRGRMa21rcG1FNUI0QXcyWEYzSjZNNnIxTm5KOHpRTDZfZGtfZkFNRUNVeWNZZTlMVFhMMDgzWlVYYXJaSnBDeVFBMVY3c01NTk9QSjRlWWNlNEFVZ29jdE1SRjhxWV81XzZmXzVDQUIzRlhzOG1XMGlhYzV0TVN3?oc=5",
-          "published": "Mon, 13 Apr 2026 11:00:00 GMT"
+          "title": "Sources: U.S. Soccer's Matt Crocker To Take Saudi Arabia Role Ahead of World Cup - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdV9wcDljaFQwNDNhQTZMN1VCTUFoZmkxTllTOTZQeWI2eHNlODVwd3JIVjRfc3pwdW9zWU9kNGQwVV9JendXZ1JrUXNJRGM1VUp3b3JkLUNRejFhQUszcTJIcHFQTndLZjdYekJheGgwemRxZ2tjS0M5bmhlUk5fY0w5Z1NLc21VTEVHdWR6bFIxRHZrVFBNN0ZOWk9zTjRsM0JsQjZXZ0FzT0xUY0o40gGvAUFVX3lxTE1VenlDaE1ZSkxMOEVDYi1aREl3Y2dvSVhCRWVrMWlDYXVqTkctM29TWGtpQU83Ql9wcUhfcUlVSmdMZkNzX3d2ckp5ZlkwckpRUWs4QVR6V2hWbjVkMVROTnNBQW1oNGJLZ1loUUJLWXVIdXBSb1dFdXJvV1hEbENSXzczLTl6Q1haSmd5eWdTU2Y5QUFHeUFZclJGVXRYckFBOG9ubEtCWFVQNU1MTUE?oc=5",
+          "published": "Tue, 14 Apr 2026 13:51:16 GMT"
         },
         {
-          "title": "Sporting KC to host 100 days of World Cup soccer events for fans this summer - FOX4KC.com",
-          "publisher": "FOX4KC.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPekxvY3JmTWtkam9rX08xYzhBREFaWnVaNXBkWnU3VFplOTVOR3hlS2VWdzVBb3I4bjduOVhsR2c3ZEVsNFB6S0xtLVJpQ3E2ZU9ocTRBY2VXc3hNSEZwTXdYOUd5TC1aMTctR2xpcGZfbE42R1JRREtjSHRJY1o4dEdjYS11VTZoRnE5VFlzZG1lYWxzb2NKZmRaU3VlWEtWM05N0gGoAUFVX3lxTFBCVm5PZUx2ZGNrMXUwYWRpWXllNmF1ZXBHX2plQjE3NXROd25aRzhwM3FTdXhOT3dEQlBLRE1qdDNZMFVkdzByU0VIYVNEdXp6S2dEZkIwRC1SMDlXLUhhUHpLWVV5SkhsdDFHZ2xJZEsteE1FclluLWNRR2VBSXdMZjBKQU5NRkk3WE93VDVfTUQ4V05Oak5Oc3kxSzZNTlltVzVKWnc5TQ?oc=5",
-          "published": "Mon, 13 Apr 2026 17:05:39 GMT"
+          "title": "Matt Crocker quits as U.S. Soccer Federation sporting director ahead of World Cup - NBC Bay Area",
+          "publisher": "NBC Bay Area",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcUstOU96bjlEdHZmbnFKWjlIaGJtV1BfQ0VhVVV2TTk4UVlaXzd0MnA5TlpvVUc5MnVReDBDOE5MQjRwcjYxYVhoVDd5NnhuNEl6NmM5X3NCbnVteEJlbjlqTkwzbHhvS2dMeVQ3NW14UTh5VE45M3JCc0JmSGJKSWpOYzRpb2FJeFRScUZScF9scDRja0Fpa1ZhS1AxTm5TSFlLX1pqZVlZVzZxcmpsZkRLb0JDZlJPRXIwQWlITjdoWjTSAcsBQVVfeXFMT3BOaWNjMzJqWGs1Rkx6VGpwTFdHRFNvMl9kU0J3U0E4S0N3eTI0TVYyVGlNMThrb2doNmd6TGtIQzNOR1k1T09lMGliWnRaNF9lM3d2eHdKTGRxMHB1MjdDVEtEaE15bURWRmJfcjB0dzU0SERELVNWYnA3OGhEOFFBR0l3eGNaYUl3TmFiMkNPdHkyUmd6ZFNaTW5YTnMtMWJ3cy1qWWhWdlFicDhDTklFcEJUNXBCblpfQkwyR0M0WjJCVlB4UHp0b3c?oc=5",
+          "published": "Tue, 14 Apr 2026 17:12:24 GMT"
         },
         {
-          "title": "A shock loss for the U.S. in ‘World Cup of tennis’ and the challenge of team competitions - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaWdrdjh2ZmN6S0dMaHpzOTY4RlZXUTY5dDlSTk9iTHBSbkc4Y1cwUDFRM0VwTnBhTFdXZFpsZ1BuOUw1WklhQTEtQmo4cGluVmdZYlZHb0VXazNlQ0tHWUkxNVlqUE5GcTdQSVFPNmtNd19hWThWSlZHajJuWHcxOXhtR0hJSTd0UHBxMWROREpjYmtlenRLUnlwZVM1QQ?oc=5",
-          "published": "Mon, 13 Apr 2026 13:46:36 GMT"
+          "title": "Soccer fans welcome newcomers ahead of FIFA World Cup 2026 - KFVS12",
+          "publisher": "KFVS12",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMU1fdmdCUjl4Mzc2XzBaMVRsaU1ZbTlzTlNlbEZub1R3MnEyU1g5R3RrdUpSVVBoTWhJSnVxRTZLYVJjbkQ2eVE4eXVYcnFWc0V6UnZzbXVzYzY4T01hblA5bnc5cDlvUHRaQkotdGwxQVM2YUNETzFlem82Q2I0UVMyem5DV2p0VFZveEEtWmk0Y2EyU01n0gGrAUFVX3lxTE5COHRHejYzdG5Nd3E2UHUwaTlxZTIydVBpaTZiVDYtWm9tMUhJbjdleUF2cmx4eXduem1fYUNKbHBQeHRzOVdIalRRaUMwTWNqYjRYa0hmLUNLOUF1eFEteTJtV1RKbDhpZ3BBSWtpTEctWUd6aXBzYnZFUEhuRmpwZXlWNm9mNTdXLVlKbHdCQWFhOF9ZVFB1UUV1a3BNU0RtWjFBbFhKTXZoVQ?oc=5",
+          "published": "Tue, 14 Apr 2026 17:44:00 GMT"
         },
         {
-          "title": "Three of European soccer's greats are on the brink of Champions League elimination - The Killeen Daily Herald",
-          "publisher": "The Killeen Daily Herald",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaVM0bkx4WGlHOHE1VGRBVFFkSkhTNkt0a1pmc2g1X0s0QXltTlRBbjVod0dWRWZlVS1kTnB6MGlzMnNsWVRjR1kxYU1xaFJZbDhqUFRDWmdvWDdoSUt6WFpXTlB1bUd3RWt5WW4wWnJxZlFWM000SDZEa3h0ZkZabUJ6cUcycDJBTWdLU3dHOXRvTlNnUkJWM0ZBZ0t0RFkwTlFHa2tYM0dmT2pnZTNvUTB0NGhmWHNRcUpTOVdYRWtCQlY4NnRLc29MYld3ZkN2SnVxOEdYQzFGdGVpek50eTZMaGdUVWV1QTF4ckM5ZDRuNkZtLVJBSg?oc=5",
-          "published": "Mon, 13 Apr 2026 12:21:22 GMT"
+          "title": "U.S. Soccer sporting director Matt Crocker exits post months before 2026 FIFA World Cup - CBS Sports",
+          "publisher": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlhnQmRWczJYdTVwVE1aaktJYkxLa1pYVUwyNmJZOEZfbGdaNmg2R1RPVGFyTmhab0Fjbk5IWmNFWnVmdHNYelpET21ma1RHRW96Skw2M3JSYlpoanBIYUVRcFh6V2JrU3ZGMF93QlpXbHZBS0hZd2xWY1ZPVXdBNWZ1QkdPYXplNEQwNnpsS1NhSEZMNWQ2MGM0bmJvcVJrRUFkVW43NGg?oc=5",
+          "published": "Tue, 14 Apr 2026 16:04:00 GMT"
         },
         {
-          "title": "Italy soccer president and delegation chief Buffon resign after another World Cup failure - Pittsburgh Post-Gazette",
-          "publisher": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcjQyRGhyekFkMWJPUmYweFNjbTcxT1FnT0NXSkhUSklxcWVNWmNReUIxaE04d0JuVm9rdkp3NG5IUGw0U2pJcDVVQkVBT1F3S1p2WWw3bnNNbjFsTlhQU1lBWGxEa2Q1OFRHR1JTcV95VGo3bEVCMEFpeHRVV2E4cjJKU2pWd1ZMcktyZl9TYlhtNEFKUnZub2thR01DTVZXTXhld1RKWWpGR1gwMldNcWpKVXhWSHVKWnc?oc=5",
-          "published": "Mon, 13 Apr 2026 15:25:21 GMT"
+          "title": "Soccer balls are turned into one-of-a-kind art as World Cup nears - KOLD",
+          "publisher": "KOLD",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUERvNGNDZFp6YWM0RVFqdmtEWXY1cFRaaGd6SnVJZmc0SUdPb1VuLU1GVUFDeFhoMnVtd3BSOGlnamZWR0RQd1AyNzdNV0tCRjJVMVI5V2lya2VKRlhHMVBpc21Oa0RKYVBRd3ptZzI2VnRxUm1IY1ZmYi1ZTnBsYnR6VFM0RWFFWG10SHZPR1dWT1JTcUdUckxzVdIBrwFBVV95cUxNUnhGbVh5emRsVGVkTWZSWmZLV2F2cVh3RlJZVkpHVzVkSEhTRi1XSHpwakpTNG5IY1dpdzlZbUFCZGJqSWI0cnFtV1MwTVVCRTV6RnBNaUFEaUpZdHZheHJTTFg0RGhFNVNVeVNvQzNtTlp5cDBqREljR0pIZGZJZGhIYS1ZcThfejZaX2k5a0JfdDU4U0hmQWFjamlEME90N3o1X1MtU2xoR0pZc1FB?oc=5",
+          "published": "Tue, 14 Apr 2026 17:41:00 GMT"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Justin Bieber’s YouTube Coachella set had nothing to do with who owns his music - The Verge",
-          "publisher": "The Verge",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSEJfWjNXMHRpTFJDYnN3VW9IZ1dPY21wT0xKdHRZbUxKanV0b3dWNGVVMktiVTBRZTVLZUhEbHFZLVJWTVY1eXFBWEFJWUszWnptV2oyMS1wdGNaLWFYblJESkN0SmZJdHFVTVFpMkR3QVZibUVpMFlaS204b1hWcU1kaw?oc=5",
-          "published": "Mon, 13 Apr 2026 21:19:10 GMT"
-        },
-        {
-          "title": "Britney Spears enters rehab after March DUI arrest - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdExvTWRpN2w5X1g0RWIza0tGTzZMMnptRmI0dUtJQXptSUdlcl9YTHdFUnpMRVpHU1hxRC0tRThLdXFBREVoQ1poMjFGRzVPNW5JY1NUdmZnWFFnOG8zUDJQUU5rNWNVYV96TjFYTUxqZHl6S3JhUGNiMGZyUDlBeE5EWGJfM0V1WVJjSzlyRy1aNFRKMGZJTDlqWEY?oc=5",
-          "published": "Mon, 13 Apr 2026 19:09:00 GMT"
-        },
-        {
-          "title": "Ruby Rose Accuses Katy Perry of Sexual Assault; Perry Denies Claim - Variety",
+          "title": "Usher and Chris Brown Announce Dates for Co-Headlining ‘R&B Tour’ - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHA4bVN1OE4tNEhva2JXZDg2WF9yR2xVQUZuUUI1bzZ6Rm5FNlVhZktTS0hEVy01Zm53OWF5Ri1xeGFYcmV3SGdNX2tOdWVlV1p3RFRwcHkyZkJJU1R6ZUU3aHo4Xy1ULVEtXzVJMHZWT3kzM1BWQVlUTGtLVHg3SmM3aVNMTTBxV1RJ?oc=5",
-          "published": "Mon, 13 Apr 2026 16:49:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTZsd1NNQlRHVndyZWdMQU9wWFkxajRIN3ljR1ZXQmNmMTVUdFJnSFo2dFhpN1JiOVd2aXdNTmQ0clVHSVhKWUpER2VsSFhzNC0tN2lzQ2NCcXllclhfVmRUS0RGZnBXa0gyR2lnZ3A1aTVFUWVFeVBYc2xFR2MyekJR?oc=5",
+          "published": "Tue, 14 Apr 2026 16:59:00 GMT"
         },
         {
-          "title": "Coachella 2026: The 15 Best Moments From Weekend One - Rolling Stone",
+          "title": "In ‘Famesick,’ Lena Dunham Diagnoses Celebrity, Illness and Herself - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BVG9odV9lQ1A5YWRLWlU5VkJ3bjVGcUJkcDFrV0t6eFdyRGNYTU5OV2JSc3hHVkdGQXNMN3BHNHV4bm1fbzRleHFaYXYzOWJhck5McEphZUVQNy1VcHZYRnZNcFFoSXlPMjdCZFlLWUFCRlpTQzhJWGVFZHhiZw?oc=5",
+          "published": "Tue, 14 Apr 2026 21:08:05 GMT"
+        },
+        {
+          "title": "Will Oasis Show Up? Will New Order Make Peace? All Our Questions About the Rock Hall - Rolling Stone",
           "publisher": "Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUhZUjFTM3VkSThuRDdxaGtfdWRkUXZZVHJhUXJCZnZFYVBKenIzUXJ0MjFHbUNnd2dLY19wNlVTWXZuc1BPSXBHUlZLWlZyQm0ycFpuTUd5c2RDbFY1bjR6eGVjUHBWMlpIV3lUTVh3ZTlwMmRxS1N3OGMtTUljclR1U3AzQzBtYzdGckZkSHFQTjJqc2p4b3ZpMklUbmRqMmJQTzZXNUkyUUNvcjA5SmNOcHI?oc=5",
-          "published": "Mon, 13 Apr 2026 19:09:40 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNVNPU0pES3lPSHhlYzY5TDRqU3VBWHYwQV9xeXIyUUdOQUl6YTFBY2w3VGlLUnA4Z3VoRVozMlFHOWFhRVktNFBfSjVUd0tjUWpfeld3SE9yTDZReTlqaTlEajlsaEdSUDQ5SGk0UDNKa0wzV3RwRjFsekRPU1p5QWZuNDk0ZkJ1eGp0OUVibkw5TlV6enNGLXhoY3pXZFF1UDNvSlN1dVB3YkRXWksyMUlyM2tpQQ?oc=5",
+          "published": "Tue, 14 Apr 2026 16:56:17 GMT"
         },
         {
-          "title": "Paramount-Warner Bros: UK Competition Watchdog Seeks Views On Deal Ahead Of Formal Probe - Deadline",
+          "title": "Adria Arjona Lands Maxima Role In DC Studios ‘Superman’ Sequel ‘Man Of Tomorrow’ - Deadline",
           "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdzNaNlNVeEM0Wlo1cHd5Mk1yVkZMYm85dl9XUGdNZzZRR2ZCQ0ZiWHFBeXV1RGtqY0E1R053c2R3Zm5RaDNlbGlRdEJ3VzV2Q2JQaWU0b1ZuZzItOXk0VWRKS2J6MzlCLTNHbGwtQnlmUXVHUGw5T28xM3F1RXZka1JDRTBpNVFjOWU1a2ItMFhpcnNaeldaTA?oc=5",
-          "published": "Mon, 13 Apr 2026 19:06:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmlSTjBMaHR2aGdrTEtxTTh4TGRVSjAzQ2gycXNBRVlVYjhMc0JiRUhRVVFnUEQxcTY1Q3loQVV5LThNQzZSUmRUM1lubTFQN0JoalpGam5hYkI0b0Z5bHFKcE43cEtQUXBfaFI4Z1NSVk45Z2RUZDBLWW5sMU1YRVMtbzhCNVR0ZktGSnhYMEZjTzlBRXVB?oc=5",
+          "published": "Tue, 14 Apr 2026 17:48:00 GMT"
+        },
+        {
+          "title": "Dr. Pimple Popper Sandra Lee Reveals Stroke While Filming New Season: “Part of My Brain Died” - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdkFPOXJjdkxiR0VQVV9nWWJEUEk0R1VrSjZrYl9jdGNOX05vb3BoODhoMmwwTVV4b09ZS0xiYUVyY1hoRU9yS2hLMzNmUkVvYUE5OEJjNGhNbjFrMkN3UVlxNjhQc0V1am1jbzBDM0E3LUxMbl8zOE1vUXFOWHBFLUtSMHVsS25WQ1A4X1VGTXNzZC04eFUwS2hlZkJqWW5IYkN6MGV6Zk9oam1WRWEwMDZXSVg?oc=5",
+          "published": "Tue, 14 Apr 2026 17:29:33 GMT"
         }
       ]
     }
