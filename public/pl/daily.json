@@ -1,7 +1,7 @@
 {
   "market": "PL",
-  "generatedAt": "2026-04-23T22:43:09.216938Z",
-  "validForDate": "2026-04-23",
+  "generatedAt": "2026-04-24T22:38:37.026304Z",
+  "validForDate": "2026-04-24",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,28 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Śmierć posła Łukasza Litewki na leśnej drodze. Kierowca nic nie pamięta - Fakt",
+          "title": "Nowe informacje po śmierci Litewki. Jest zarzut dla 57-latka - PolsatNews.pl",
+          "publisher": "PolsatNews.pl",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTjVuVlJ5QlNWeV9QYjQ0VlVkLXdjc0V5aE85Y3FUU3o1bFB2eFlDclk3bFA4bmwwWFlKN0hRdThmUUV3MUpPeVhXZ09yblFyWkp6MXBCWklCcW9NanpEeHFBMzg0eXZRTkJJdkhyZXZuaHYxUWliU0FpSklVNWNueDY1SFNBTzJDSGtSY1JuTWNodENaODBBVndfQVE0eXNwSGdqcHZqNDJvVW8?oc=5",
+          "published": "Fri, 24 Apr 2026 16:57:00 GMT"
+        },
+        {
+          "title": "Incydent na Bałtyku. Polskie myśliwce przechwyciły dwa rosyjskie samoloty - Onet",
+          "publisher": "Onet",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVUM2ajlJY2RJNmEwLWZ4SVgzbTUxd0ZCcVBnUFJvY3kwVTBwWVlwSkp1MkVfR3B0RVBHUENnQW13cFJWUDVqTDJYdXdYbU00Nm56OUZIeTNaS2FYeWs2VWtqODZlQ1d4QnViR1JhQXhoTmF6bVFwTDgxc2FBV1pldEFqUkVHYWNJQnVsTml1REhlbUhVR1prbkw5c3B5ZndnYVZnd2ExYm9ZemgyN0QxUkNHeC1oc2s1Z0I1eHhLVjBfcHphZktJM0Qtb1dJSmlY?oc=5",
+          "published": "Fri, 24 Apr 2026 13:30:24 GMT"
+        },
+        {
+          "title": "Szef Zondacrypto w Izraelu. Prawnik o szansach sprowadzenia go do kraju - Fakt",
           "publisher": "Fakt",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY05BaWVUOVJOWmdwd292Z25PY1dqUklZQzllc0lsU2xyRmNNLWluNGI2RU10eWxEWXlsODRUX0RqYXR1M2JHVmIzVHU5Q2d1bDBON2pmU2RqUUpjWFZESlhKMGV1M2dFV1R4WDJrUmdVWUxXaUdSMWg1bTdYempsRnFSa2xrY0ZmTm1NLWlPYVRrQjRnSEVkZ3Fic3FMVWdORUU1U2c4cVRoT3pxTGxXRFpKNEVoUQ?oc=5",
-          "published": "Thu, 23 Apr 2026 17:41:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVV0MzJqWmdsNTJNR3VQQUZEVXp3VkVSaGFmbGFhUVRmZzdDUnl1MENYdFhVdXYzanRFbXB6OExRc2lfZXk4Vm1RQkJGcTdiOWlQRlVxZGFZREFJT0NTejB0VFc1aUxKaHVwbjRrRFZuSzdOVjN2TXJCMy1GbENjZlIwTUxYTFJ2NEtVc0hMX1U1amFHbG1Naw?oc=5",
+          "published": "Fri, 24 Apr 2026 15:03:10 GMT"
         },
         {
-          "title": "Prezes PiS o porozumieniu z Mateuszem Morawieckim. \"Droga po kocich łbach\" - Wiadomości Onet",
-          "publisher": "Wiadomości Onet",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc0RzQ3kxWWxGUXdadmZGcExZUlVtZGpWTy1JTXhLN0F2RXBtU2Q1a0M4SzBRNi1iVEQ0RUxRc244SGU4RnMxOEUwTmVhUHFTUWU3VjVYMmh0RkJUYUVGUzN6ejItek1sUU5YanRLeHhOV2w1MUdLT2VUeThXZXRnamNscHJfUERBSnc1Q3dYR0RrcF9LTmJMYktUbGpsMTVyMEZBX1hoU0kyMmFFZ0lRY1d3?oc=5",
-          "published": "Thu, 23 Apr 2026 18:29:59 GMT"
+          "title": "Rodzice zamordowanej 11-letniej Danusi odnaleźli telefon córki. Wcześniej urządzenia szukała policja - Radio Wrocław",
+          "publisher": "Radio Wrocław",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcmpNVllIajFBY0U5Mm96M2ViaV9uQUoweHpGWXl3dktRam9fdWhEaG5BaS0tVXlUVGJIeEZaNHFKdWRPZWpVM0FFVVExQkVUTGY0TURWZHdOWEIySXFvekdkNWxuZFhzLXY5Q2N6dWpqc3VTRW9NamNweWoyYVV3VkhNcUh3enBqdjZDQnRqY2VaamNFalNLMW5BeV9XeHBVV1g4NE8zWElabUlVOUJaR1V6NG9UMG52V0NjSnlpOVlJZV9KaG1aaUhrQWxCWGxoVjNEaU1wcXdzdG1Od0hPa0VR?oc=5",
+          "published": "Fri, 24 Apr 2026 12:04:47 GMT"
         },
         {
-          "title": "Sprawa Zondacrypto w prokuraturze Estonii. Byli członkowie rady mieli dość - Business Insider Polska",
-          "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSlRiMThOWXpaNzk3Q1NiLVFhUXBPM1NvNndxQ0pTa2MzN1Q2Qi1iTHZXMjdjNXJNRTdsdUlMYTZOQXJEWUhRcWJMYzJ0bXZjMC1MVVk0N1VRUGpwdFBXRjMyTjJLYnJTU0xpMFk5Q0hoY0ItaXVVSHM2ZjA4NTFwWU15M1d0elhoeDN2clZqVHotekRULUVuUll1UTFHSkJIY0JpSUl1ZDBUT1RkLVVtS2MybjJtaEozaDVVTkljSlB2OHg3UG9kTmF2dm92UQ?oc=5",
-          "published": "Thu, 23 Apr 2026 17:53:45 GMT"
-        },
-        {
-          "title": "A jednak: będzie wspólne wystąpienie Czarnka i Morawieckiego. \"Przełamali lody\" - WP Wiadomości",
+          "title": "Cenckiewicz wymieniony. Gen. Polko zabiera głos - WP Wiadomości",
           "publisher": "WP Wiadomości",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ3E5UG1McDRsYkN3YTZ6dkpYTmFsSWxPMEZPOE5qSkoySDJadWJNa2tUa2U3UjNhYlI5NWs5cEE0akJhQjRuRDF0SzZybUUxQUx0QlB5aXJza2pwNFlHNENLTm5FdVdZY2prU1ItRkpwaGV0MUdpaUExeGpsN2djeW0zeXlvSEJCcjVFR2dMWElaeVlORUZ2SFJieThCZFRfQ25zM1JWV015NFN3ZEQwR0dtR0NmNGJDR0E?oc=5",
-          "published": "Thu, 23 Apr 2026 12:32:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVFdocFMtN2x6RkMxYmZhaDZ3NC1mdEdzRmU1d3hUMnNBTVd6XzB2MWhOblBNcFFDVm9fSl9SZEhiNEZmMVVnQ0JKZUJDTmR1R3JxUFNVZTl6dGx6WVFqVnpKdEtZTkVVWHA1RHM3UkJIZnAwR2tBMXlmSW1rOEktZ0NpWDhUcDNUVXdndlVENkNLQQ?oc=5",
+          "published": "Fri, 24 Apr 2026 10:59:47 GMT"
         }
       ]
     },
@@ -39,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Iran pochwalił się akcją w cieśninie Ormuz. Pokazał nagranie z przejęcia statków - Wiadomości - Gazeta.pl",
-          "publisher": "Wiadomości - Gazeta.pl",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU2lLX3A0M1FwNGxuMEU4WVpIOUpFeGJibUFETDNHckliNWxpc2diZzlROGM2ZVUzZ0pGLTc0V1FHWFJnbzNDTUFvR01Ma2l1bXpfRW1feDJvZzFBaDZYQ2lRRU5EM2lLc04zaDU5eGdidGFTMmtBcHZpcmh1SkhwRUlwNEFnNkdGclB3YjZfeFh2ellYempSOV9uenRfZFBubjhuZ3JLbVZGdGNRWG5vWEI5bndQRTRH?oc=5",
-          "published": "Thu, 23 Apr 2026 19:15:34 GMT"
+          "title": "Człowiek Putina odpowiedział na wpis Tuska. \"Przyjedziesz do Rosji błagać\" - Interia Wydarzenia",
+          "publisher": "Interia Wydarzenia",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWZLSmpOY3hZN2dUY2Zqd19EZW0yNmVERVE5RmozVGNzVnlob0lDclpDUUtpWHVoMElwc09SWURXRWtmUHhoYk9NOVlFYkNHSXpXQkpIdzBldWtRbWEwNzR5cTFIRHlDajBTMExyQktzWHNxWGZpNWR2NGRmNlpyWkh2VzJkZ0gzUldBX28xYUtmaXNGOWdpTnljVUMwakR3LUJ0RU5OMUhJa09SZDBfQm1oUXYwSVFuNmc?oc=5",
+          "published": "Fri, 24 Apr 2026 18:38:49 GMT"
         },
         {
-          "title": "Zawieszenie broni Izraela z Libanem przedłużone. Komunikat Donalda Trumpa - Onet",
+          "title": "Donald Trump wysyła swoich wysłanników na negocjacje z Iranem - Wiadomości Onet",
+          "publisher": "Wiadomości Onet",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHpta3hXOTZsUWxXUlk2STA5bkM2WUlTWkZfY1pwNFlpQTloWUZXcU90b1ZuamJiVWYwbDJFdGRQeGlTVW44SkFVcThZeV9YV2dTVUJDb2VvVmd1U0kzbl92XzFRUTBTcUxlQks2OFEzU0ZYc2k5dGZXcEtUYjBQOHVQLXZ5X0gxb2g3LU9PWWFBUmpWQmZDbEt2NUlfTTUxUmlIc2w2aHE1dmttbzNv?oc=5",
+          "published": "Fri, 24 Apr 2026 17:13:34 GMT"
+        },
+        {
+          "title": "Kolejne problemy Christiny Kirchner. Jej majątek pozostanie zatrzymany - Onet",
           "publisher": "Onet",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQm83MzMwcFNjV3hoUEJkVVBYTkpSVVhDMDlUZUpLTWtTdXlKRWdzdXpHQ0RJZzV0LUpTMlZIREJDRzJNZmx3NXVacDl6SmQtdjdtSmdJWWJHSVZ0NTNBMHpzVFhmaVhqR3ltaDRXTGVicW01ZHFwMWNsX280cnNCOVotNjFXcHZEYkVxejVZalVjY3dvLVJJVG1zWnREMXRHb2QtNURaNXBHSWxlMk1GSF9GNVVrdzJCcExQVEFuamZ5bHk1bFl1bFlRRUdOSXF6?oc=5",
-          "published": "Thu, 23 Apr 2026 21:46:05 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3FLbkx3UnNBbWNRUy1WWGtBVVVKWVZLSlZHaW1iZWgwRjhNTGM2SDA1V29xck5kZV9ZUmZ6cm40SDJqdlBzZ004OWtfT21DRE11ZFkxSUdsSnRGY3F4dkxtZ3UtZmZaMGlVNHNyUU0taFVHQkN5TlBfbndHRDRLYk5oQzUzb3VjMFRFTmlGWk1SWjZlS25vVEtfajZFcEpmYjNHa3dpU3drQmdCUF84ZlNrVnNYOWQ1ZU83angxX1E1NTlualdkN0xiNklsZw?oc=5",
+          "published": "Fri, 24 Apr 2026 21:34:10 GMT"
         },
         {
-          "title": "Armia ujawnia. Kolejny lotniskowiec coraz bliżej Bliskiego Wschodu - WP Wiadomości",
-          "publisher": "WP Wiadomości",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd1NsSk92S3ZSWmxsQXZoOWZ6RzhxekVhSkYzX18tZXBKcXFoZGdhZzlPaGxCQ2FCVmh0WUhKNHBndTh6MzZFNDY1LTZKZk8zbjdfdldobGtKQ1VudlVRdEhMRkhWaFNvSEdxTnp1T291LVcxY2pNU01xbV9PWmo4RXI5REpKajFZNDJVSmQ4YjlXNXF1M1FoaHp0NEYxbDRJOGc?oc=5",
-          "published": "Thu, 23 Apr 2026 19:39:19 GMT"
+          "title": "Hiszpania na celowniku Trumpa. Zawieszenie w NATO? - Defence24",
+          "publisher": "Defence24",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWGF2RTNKWGxDOG1scVNrWFdkaERCbVNvZTNjLXYxTTlfbnlmS2xEM0tzb1FYanM1T0lTTWNvZTFsSWlPeWtpdnBVQlVaaHZ6cG9lWnV5bG1BSi1EVUpBY0hOelJyYXJrSi1ZclA5bVdFZEJTVmY3bTJmWHd3eGtXWWkzNEhtU0NPbzl3YU9YRQ?oc=5",
+          "published": "Fri, 24 Apr 2026 12:18:20 GMT"
         },
         {
-          "title": "Doszło do kolizji myśliwców, bo piloci nagrywali filmiki. Koreańskie wojsko przeprosiło za incydent - Wiadomości - Gazeta.pl",
-          "publisher": "Wiadomości - Gazeta.pl",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbFVYNTF6ZF9OU2oxOG9Rbkw5RkZQRXJvNXl2SjI0UE11VmhRTWZ3MXpTTkxjR09EcGZFY1pjS3FEbmVKOTVqMlpvb3ZnNThRemtaTzBUam5RUXI1WmZqMTZpdlRvZ3RJVVpGWGVxQkpBeTVhYjdoVENxRV96M3VKMkVZdjRzLTNNWHpYVXJVUlVjZG9GRm9xR0tsbVRmTlVLVkt4SlhuWWhZNXZQa3l3Smt4WFFhMG9paldZSUpMTW9pdw?oc=5",
-          "published": "Thu, 23 Apr 2026 20:29:38 GMT"
-        },
-        {
-          "title": "Donald Trump jest pewny siebie. Opublikował nowy wpis o Iranie i mediach - Onet",
-          "publisher": "Onet",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYnpNMTNYWXZLclJCY1p6aDFRdWRsbUVEQjBsVmNXY2l4OHdHaW05ZXJRTm9TWVZpOUdpY3ZSa0hlU1IyYkdDTktnbnNzdjhta1N2TlR4OVZJd2p1S2lHeUdmQV94b0xpTU9DUmJ4cVBQSDRpRTJRNzZXSmFlR2t5Y3pwQlNJb0N1MW1wWENFelZ1dUd0SGZWOG5INzRFbkh0aDZqTVlLZll5cldvamtnU0JaazF0UEM5eTBLV3ZfUE9nMVpj?oc=5",
-          "published": "Thu, 23 Apr 2026 19:40:51 GMT"
+          "title": "Umowa UE-Mercosur. Wicepremier zapowiada ruch Polski - Money.pl",
+          "publisher": "Money.pl",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjFXS21OMmRlUUNjMnFfYkcwV0c0d1ZFSmtMR0VPSkd0TjZydlliMS10Rk9UTjRqQzVGWmdxYVVtOXQ0ekUzWGRjS0xoOW8tZjY5XzlxalAyWFp3cVdMQ296WXQ4cTVHOWZRbkdHNzJaMU1GRlIyRVNyYWdmX3djaHBpQVlzd2ktMjBVMUtYVnRFVzBScWRGU1lPekx0NGtLdDNUUmMtNE5HQQ?oc=5",
+          "published": "Fri, 24 Apr 2026 11:47:39 GMT"
         }
       ]
     },
@@ -75,28 +81,28 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Coraz bliżej przejęcia właściciela TVN. Co to oznacza dla stacji? - Money.pl",
-          "publisher": "Money.pl",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObDdBTlVWZ2p0OHFiOXNaT0VxQkNpUGRSUU84S2RKWlRjZFV2YjdlMFpxMnFTb1JTRW1NOWhNZjN1U2NYeGQxLS0ySklsVkw0dkVfY19WdlNoQ1pjanpjSVhWRkJ2ZVNHUVRxWktFM2I0SXN0SkNyelpzZFkyZmxPZlNRc0g4WkpGUmRybE55SHJBZDdYNG5YZndBY040NDNVUHNXQW1qeEhLWk9yOUNFNGp0ZjRRUGxPamJaYTdPWlEzdEx1T2NsUQ?oc=5",
-          "published": "Thu, 23 Apr 2026 16:50:14 GMT"
+          "title": "„Wrócił Tusk Wraca Bezrobocie”? Sprawdzamy, czy jest się czego bać - OKO.press",
+          "publisher": "OKO.press",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMmhLaFhWMVVyRTBNcThzZjBWbktkM0F6T2JQOXhYRXdQV19ObVc1dmk1R21uVGh2Q0pqYVZPYnpwTlB0OTFBVkdZUnBfQmtrZS1EdFo3S1dvUnBscVg2QWZFNWF3aFBCTXgwaEhiR096R0h4LS1QaFNvTTg2NGZ3V0JNZ092ZDA?oc=5",
+          "published": "Fri, 24 Apr 2026 13:41:57 GMT"
         },
         {
-          "title": "Miało być taniej, a jest drożej. Orlen podniósł dziś ceny paliw - Interia Motoryzacja",
-          "publisher": "Interia Motoryzacja",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ1FoZ0p1M0tzYk9ELWFGa0d4WmFRS3Q1LXkya01QaVBQTlJSbm91VmdlQzJ6NTZnMUdaLVI1THFjZ2NqQzFpQzFiQ0dPb09wdERXVDRyQXRTZUx3bTNvdm1QUUpzb2tIZjZjR09zbnZZNTRsN0xzdThXN2E3LVRDQ2lYOU10X3VKZi1XWUxzM3A5VHpQc01XMXVKazEtM184V3Y2bV9HRVZLTjBMZDRuQ0drbEJoVGVUdHZTVw?oc=5",
-          "published": "Thu, 23 Apr 2026 11:39:23 GMT"
+          "title": "Oferta obligacji skarbowych na maj. Resort finansów podał szczegóły - Interia Biznes",
+          "publisher": "Interia Biznes",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmhPWExQVTBaOVZGU016OUg4Ml8yYWhWeW5sdnZNenhWNDk4bEtIZFM5djhadlh5M2JoWi12NGlNeTd0cTV2VUszM2VFb0dsMEVjZndMWHIySFF4emJqWnAtemhWS3JQT0tfTmNFejEycEg2Mll0d3VZV2NCZE1aVVJva0JPRTVtRDRlYlRFZGRkaHl1dUVCQzY3TTlKcF9VRlUtWWhtRHQ2ZFVaOHJHWDRHNk5tUQ?oc=5",
+          "published": "Fri, 24 Apr 2026 14:14:05 GMT"
         },
         {
-          "title": "Linie lotnicze pod presją drożejącego paliwa. Co zrobi LOT? - RMF24",
-          "publisher": "RMF24",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWERYZ2xQUFpSdkhEQTNkN0lHc3pTOXhZb2ZKZWVzTGMtcU9nOEItM2xqMWMwTGhXYW5rTUhlbERlRUt2dU9jTXAtbUltQ04wRXZDZXc4VF9yNkR0NDg3aWlzMVI2S3U0dVdoa3pHUFdaRjdOYzdISVNOZVJxY2Y4QjIzR0VpeWZjVG1CNHJYSXJ2SEY5SXQxb21rUmdjTWM3cjVxd2F4bw?oc=5",
-          "published": "Thu, 23 Apr 2026 17:46:00 GMT"
+          "title": "Koniec przestoju w Hucie Katowice. ArcelorMittal Poland wznawia produkcję w wielkim piecu nr 3 - Bankier.pl",
+          "publisher": "Bankier.pl",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQmZ6cmtzQ3JoOVlScWNHZmdoOUFzeFk2WS1LampNU0Q3UTJmclpaRnVOdW1YODdrY1VZX01jcjYtbk1iWXJZcEhXUEJZLThzRXR6SURJb0c5aXpsc2diMjZvb0ZlSVp0dTFmV0NJN2lHV2hZRktKM2VRdEszaW5nSkRScWp3b0ZqT2tCNlZUamNIbWhTMDdFMEhiSk1KVWZZM18tRF9xYlU?oc=5",
+          "published": "Fri, 24 Apr 2026 13:30:00 GMT"
         },
         {
-          "title": "Niewiadów wchodzi w segment dronów. \"Głowice bojowe\" - Business Insider Polska",
+          "title": "Benzyna i diesel drożeją przed majówką. Eksperci ostrzegają - Business Insider Polska",
           "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdFZTN0tqbFdhMG9aTERqNHdPUmFkMnJ4U2wwZ2pnaVNCeWVmaTdIOU1jbE82TkZqNG9MdHlBS0ZzY3AtSWFSRkdmcU03TmxSbUk2VUZjMzdWeHlydklnMlRVZGNvbnlMQXZRRDBBa21VRUxLbmJleEpGMDUtejdMVTM1N1VlRzJ3Nm1oOHhIeF9RbXV5cWF3bzBCWXdBbmdtQkFLMjJPYUl2eENLVDFNOWlQRnVmeU9lcjV5M0dqczFVQ1BxSlE?oc=5",
-          "published": "Thu, 23 Apr 2026 13:20:59 GMT"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHBEdFpMM2k1OXlPelRmOWZyMm1ZMHVFdklCaHBLU0NkcG95NFM0YThSU3pMTEh6RTg2S1I2bk1CalBCdGQwVzhBcmI2NGxGLU5jMWxJQkJZb2dDRThUMlVPZHRvcEtwZVc1ZGxDTFhVR0VpSVZGREVBVkZSOW90STR1dm1iNkhzY25ZWUhDN09mcGU5YmZOeFNiZ1BMd0ZS?oc=5",
+          "published": "Fri, 24 Apr 2026 12:39:30 GMT"
         },
         {
           "title": "Wyrok TSUE: Banki nie mogą pobierać odsetek od kosztów kredytu - pb.pl",
@@ -111,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Siedem goli w meczu Wieczystej! Przegrywali już 0:2 - Sport.pl",
+          "title": "Ekstraklasa: Jagiellonia Białystok - Górnik Zabrze [RELACJA NA ŻYWO] - Przegląd Sportowy",
+          "publisher": "Przegląd Sportowy",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaTktZFRZSW5XVF9EcV8xcDhndk4yX3c4Q2s3Q0ViN2JEb0xZT29uWXNldTQzX05yV2ZvNFhCSU1HNFkxbG5mM3Zoa3ZOMHBiZFRyZ2pmeVMyaGg2UVBzbktfTE42Wl9aN2F4endZT3o5eDdjRzN6bGFWNHFQWW1ReTBCcjZGLXNKSklwRGd0YTdMb2xJemprQU9jMEplWDRDalU4V1lyU0FadlZwMFdLWGpRd1pIZHpXN0xWNGZEWm9QYWQ0cGh0aUd4VHJJT2F1MmY4?oc=5",
+          "published": "Fri, 24 Apr 2026 18:25:00 GMT"
+        },
+        {
+          "title": "50:0, a może i więcej. Klęska Piesiewicza. Znamy kulisy spotkania u ministra - Sport.pl",
           "publisher": "Sport.pl",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGJBR0VHLUhWSDN3WFNrYWJoZ1ZBMmR4RWdiS01rbE9XdUVsVXdKc0NKeFhDbGdRdHBvdUpjQUFKV0lpS19QRnVpMDRqTkNzWW50ZTZwaUl3QVNEOVdMQXNXT0VueUNMbWNDS3FwYmZVNGQ1ejh5YVVOS0MwcS04czVfekJKYWhra0t4RGtjV1VjTWUteW8xMWctMGFPWDVr?oc=5",
-          "published": "Thu, 23 Apr 2026 20:01:42 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOazBwaVQwOW15cnFZZlBhR3VQd05uUVdlVXNUaXk4ZTJQZ1FBTkNIdEREWjFrTEpQVWlQbUtITmNjU3AtWmlzT1V5azFsNVNEWnFxUEpoTWxrRlZkV295ZXlrV25vcEE0NGhKckZMS1RCNUxkeHloOXZsWEVxZXN0cmIyeW53WnltcDl3SE9hLUVvT3R3MDlWSWJMS3hRSEIwV3VMeFJIU2h6b09SMmlUSHY3OGRuRUxIeU1ON3F4OA?oc=5",
+          "published": "Fri, 24 Apr 2026 17:59:11 GMT"
         },
         {
-          "title": "A to niespodzianka. Tylko zobacz, kto oglądał mecz Świątek - SportoweFakty",
-          "publisher": "SportoweFakty",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2hacHYxWm83MTBKWGMwWG5BQmMyTU1TczZlOVcyTDB6b0RSY1JjaTNoTV9rN3NTeEpSMHllZ2xNSTQwbWZzUG1zZWZiYkltbFlNcEwxejZzX0R6d2M2YzROR1Fyb216d0p2b0JWQWdfLUpVVkZwY2JDVnRmcDFIMTNWdEM0cGZvOGIxQjF1TTZSVE9SNkFZSlhsb3JZaTQ?oc=5",
-          "published": "Thu, 23 Apr 2026 19:13:18 GMT"
+          "title": "Mecz Zagłębie Lubin – Bruk Bet Termalica Nieciecza online. Gdzie oglądać? Transmisja w tv i stream - Gol24",
+          "publisher": "Gol24",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQelBPZjhrVWQ5bjZaZXg0NG9MZzVFdHNLZUV6Yktycm1saUR1SUdJZDdWYU5IUHJTOFhzUTllblJrNGxfbXo1YVZiejFUU0NWUWU0b0YtRk94VUZYOUMzbE5IcDFqN1RwOUFrTXFyQkhZZ3IwN0NNak1GamRJOHdJeHY3VHR5VEpvZGFHSnZQREdzemtqXzhYNE9zdmlGbmZaTjJjUWxzVEg4Y2tfQV9tS0xZNlR4UEg0RV9GWTd1OVNOOTBDS01N?oc=5",
+          "published": "Fri, 24 Apr 2026 22:22:51 GMT"
         },
         {
-          "title": "Rozstawiona Rosjanka znika z ćwiartki Świątek w Madrycie. Niespodziewana porażka - Sport Interia",
-          "publisher": "Sport Interia",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT1l4ZEdOSFNkT0YyOHZ4TUdjZ09Nb0lvc0pSZy1yMWpPR2RLTjZDandsMW1SYVhsZzZEVlRSc216bnZubTVldVVxRUhPSXA2ZkdlOHVrVFJyQkdDTjU3SWtGaDZYWUxwY3BucHlPcXRqTzR4cE5jVTdXM0VMOXd3VzhYTnBqalczLXJubkUtSkNXQS1yT1l2c013ZWx6aU9sc2o4TUJBUmVveG5xN3c?oc=5",
-          "published": "Thu, 23 Apr 2026 15:36:13 GMT"
+          "title": "Sensacja w Madrycie. Rewelacja sezonu pokonana przez 76. rakietę świata Tenis - Sport.pl",
+          "publisher": "Sport.pl",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYlpzRVB4b0xINDlYOWZmanNhRi1QYXJjb1RIdk5PWFVwaFlqZHotbERPajA4RU1IRjF6LU51WkpPa21hM3RuVzdWTzFib09VMUpEM0RNY3R6NTVlYTBYVzdZcU1DQkEwbUdIdUV3blpMQkpHU2lIRl83TVNZUUluQ0xGaUhHRDVBNk5NWnlqMFc0aFFGT2VZSmZwbktxSzNsWXVnTEdtRzBtTzh4azczLQ?oc=5",
+          "published": "Fri, 24 Apr 2026 19:20:00 GMT"
         },
         {
-          "title": "Sceny w półfinale Pucharu Niemiec! Gol piętą w 119. minucie [WIDEO] - Meczyki.pl",
-          "publisher": "Meczyki.pl",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQlhJUGFVYVZUcGFJTDAwejRYd3c4a2l4Vm5zbElnOEpZcGRsemFlaHltWTlqWUZreDlWUGpFUFlnVVUyMnpuTGJKeXVfbElvbENkM0EwZkMzUnVoZVh4YW0zTFV6OFVpbV84VXlORE5zLXd3LWpTbU5kcHY0NG11UlB0ZkRlWGY1bXFBdGlXelBWc3VYa3pwaWRYdEJqVDNMMjNTV2VPYWRpOEREbng3RQ?oc=5",
-          "published": "Thu, 23 Apr 2026 21:39:32 GMT"
-        },
-        {
-          "title": "Sławomir Abramowicz na radarach. Oni go obserwowali - Transfery.info",
-          "publisher": "Transfery.info",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZG1EOTN1U2RDNnJHR2p6eVdaR2hxMWZJRXIzdGZZYmZhMDBUWGtMdFlnVDZwdXdQSm9FdlVzMVQ3ZjhhM084VFUwVnNIV3NCQ1ZnaFJXY2FnZU1KZVRxQUhhM1B3TUlCVDFsTmhCalg0RXQtSzRBMDljcWI2Y3k0VHR6TFF4bWZQWG5Ma0RYbWNMUksySENN?oc=5",
-          "published": "Thu, 23 Apr 2026 17:21:41 GMT"
+          "title": "Faworyt za mocny dla Hurkacza. Polak odpadł z turnieju w Madrycie - www.polsatsport.pl",
+          "publisher": "www.polsatsport.pl",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnpTaFpMeWM0YzlGcWZ6Rm43UHE3UXNqVmdMTjdpZHJsNWtUVU1VbHdJOXRJMm1kbEpNS1kwenNJa3VUUFZKUlNkblBWYVdqUDVlNTlSR2xqTkxNU1hRWXVvaW80UmpCQlMtT2xpdS1lRXRUcTFKOVV4MWlEWlJleEJfOWRDeUNueVVRN2dwQnUtQ3cyLUthNVp2RkpfMldFaDFRck1senVtdHh2R0NYMHI5aw?oc=5",
+          "published": "Fri, 24 Apr 2026 11:05:00 GMT"
         }
       ]
     },
@@ -147,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Nowy wątek w sprawie \"króla kryptowalut\". Ślady prowadzą do kolejnego kraju - Business Insider Polska",
-          "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlNtNEctWWt6U3ozU2pDTDdCN1N2aHAyTlROc3NvM0N1ZU82cUdIcVpkNG1KOHZ4QnNQSUcxTk1tUlJickZGVGhPLXB3X1JMeVNzUVRqUGh6ZV8xeXpicUhCYXZHSXE0VXBNVWNoMF9HZWVFN29KaG5GZERTUkRHYnZoTlk5WnI2S0JnenFUZEEwUFRLeXA4MTd0MkZXd3lIY0E0bW9tNi1RMkpNNFg1dGo5S2YxZw?oc=5",
-          "published": "Thu, 23 Apr 2026 09:35:08 GMT"
+          "title": "Śledczy mają nową opinię w sprawie Iwony Wieczorek. \"Wygląda obiecująco w kontekście dalszych działań\" - Onet",
+          "publisher": "Onet",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdHUwSkVZczM5ajk0aHM3Q21aYXpwM0V0Ylg0SWZNaXl2TGhBRVpKOUZRdkdJQVNHcC1veEhsblVHSmxHOUtkR2QwdHRyb0tBM3FFdGN5RTV1aHpLTU5vZFVKQ2FTLXQ4LWlDRkllVGQ1VG1OTEhHLWNleW5FSUtMQlJ1TEs0bHh1TFZGUzlVNnMyd1lsdWVYR0xZckh6OTI3NDIwZHg1SjByRGs3TVJlNVFnVV9IdEZvcWdFNlJ5eVFUUEoyN0w2bWpONDE?oc=5",
+          "published": "Fri, 24 Apr 2026 12:27:23 GMT"
         },
         {
-          "title": "Meta zwalnia tysiące pracowników. Powód jest prosty - Business Insider Polska",
-          "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUnhaZjVZN00tTS1JVy1YbHdKengyNmJHVG1NdnA1ZjRWai1sdDFqcW1MTDBXY3pUZjMzcmNpSjA0RWdTNmVWdDF5aUpMNjFwQmQwbk9TaUhFMUVLUldFVVFaQmN4NXZpbFhOTGZZSVdCTDNTbFgxbV9yX3ptNHoxX1hHQ2Y4Q2NvSy1tQVVzM1pvb0xlcGN6NEtOem83akxUMG1DOXkxZnM0OXVhSXVQWk9Tcy1aSW92Y041ZlBJOG9FVnRMVkRUVksxVmlsNGNo?oc=5",
-          "published": "Thu, 23 Apr 2026 18:23:31 GMT"
+          "title": "Ujawniamy nagraną rozmowę założyciela Zondacrypto z Rafałem Zaorskim. Nowe fakty w sporze o miliony - Rzeczpospolita",
+          "publisher": "Rzeczpospolita",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZlpqN2dhV1JTb0dzV1VyVy1HVmhUUGlQZDRQT005X084M1I5N1pxVENSdHpveTFkVl9rYjRUNjVqTDJUcVM0Wk5JV2pKYUJhbWl4RnZlR2s0elp4dENjaHdLUFZkeTRpMk5YSUhjcFhCMnFxZnBOQXdDZFNJU3pQY3BxSHF6YVBJRnJpQzZiS1VNNG1SckFLUTMyWUpXYVFPa0xLT3hUWW0xdURkN2tNa0lYZ2VfaTNQcFJQWnhTRV9DdnVva045TFNzX3VxZXEtMTRuQnpWV2xyUQ?oc=5",
+          "published": "Fri, 24 Apr 2026 02:27:00 GMT"
         },
         {
-          "title": "Wielka korekta faktur dla osób z fotowoltaiką. System rozliczeń nie działał tak jak powinien - GlobEnergia",
-          "publisher": "GlobEnergia",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORjJ2LTJWaDJQR3JiS2dyTGdKN2lEVXVnQnNkUDFrSHdsQWpmbll1OE1VeFFneWhOTDI4SWlVU0JLYUdDSFlDaXJWVGVBbUZaR21KTktOcnZfWkpTVVRDYm5nYXFKWGc2MTFpRDBrcXViY21vcUdreVpiOEJxSHBpa1pGRjhYM1lTT0VMUmVYMlJKNUZmQ1VkV0tpTzc1c1FRRUVJNjIxWnF3OWwzQld5VDdmWnJMdw?oc=5",
-          "published": "Thu, 23 Apr 2026 10:21:13 GMT"
+          "title": "Oto co Radosław Piesiewicz ukrywa po aferze z Zondacrypto - Przegląd Sportowy",
+          "publisher": "Przegląd Sportowy",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSjRFMHBjVDZkUG1UTVV5N0hzSFhKd29UWWhLUmx1M1N5VHhmRlFrbW1MU0p1REQ5Vk9PeTdzZHRibHFGOTI3aDR4bURZZ0VUODF6Z056dllrMFBGbHhMcXlVcDNweFJHdm04UWl0Y2J1VDFFX3UyUzJLd29mTDNSZTlfRm1tZXZWdTM2VHlSWFNrTDRhRHRwVFVNOFNPSmlkWV9ObEV3WGY5WlU5UzZPcU10OEZlWTk2cXVV?oc=5",
+          "published": "Fri, 24 Apr 2026 05:00:00 GMT"
         },
         {
-          "title": "Stworzył swój RAM w szopie. YouTuber zawstydził producentów - Benchmark.pl",
+          "title": "Problemy Zondacrypto trwają lata? Jest nagranie. \"Jesteś moim największym dłużnikiem\" - Next Gazeta.pl",
+          "publisher": "Next Gazeta.pl",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZkdCR3lPYlJ0T1ZxcEFVMjlkYWlPNDdZbFJqZ3F6VlI5QXZSejJvUExkWXVIelZhM1JfSWltRUtvbFBXc1ZXazl5dDJmdHhhZE5SNW5TZWFXZ1l0b3BYVzFzaVFkNFdIaHE5SVJwLWxVa0w4am5ndHBhVmc1Wmw0Q3dnYlZ0Q2dHRmNvbVQzX3RLQ2ExTjg0SjRVemlvT0tOOHJIREFLT0lDUHlvU1JLWHFn?oc=5",
+          "published": "Fri, 24 Apr 2026 07:23:48 GMT"
+        },
+        {
+          "title": "Nikt ich nie chciał – aż do teraz. Intel sprzedaje nawet przestarzałe procesory - Benchmark.pl",
           "publisher": "Benchmark.pl",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GRGQxcDlHbkI2eTNVUEZ6VGEyZmNfWTVhbDZrOTliVVlkS0V1Ui1aVi0xX3E3X294Xzc0aXpYdkJscEZXYWJNWGdEcnJOWmVZbW5MRHExcXl5TlpyYV9TU2xpWTBWLTd2SDRBNmprdTA?oc=5",
-          "published": "Thu, 23 Apr 2026 09:15:00 GMT"
-        },
-        {
-          "title": "Najgroźniejszy model AI na świecie w rękach hakerów. Wykradli go korporacjom - Geekweek Interia",
-          "publisher": "Geekweek Interia",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRGl1eDFBS2d0Z1VBTXh6Slc1QTItXzFZUnlmREhGN2djMkxRal96ekpNTjU5UEZ5WDhXUDRWSmlLRWJqUzAydUdzZF90Ui1CTjV3RHlLVGZqeXVXQkFnMFJXV0lLTV8xREtXc1BBUHRlaF9PQkZDXzVpMmxiOHB0Z0RqR3E3NlVnTnpSZzFVMHdwMlZYbFZSX0VPZEdpYW54UmJhNHdWYzJGZ3RodmtJUGxjVWN4SlhuVUNVYnFybmlMTUdyTE4wa3hxY3BkZEpfYko1UE5VSQ?oc=5",
-          "published": "Thu, 23 Apr 2026 11:24:53 GMT"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iLUppeXZ4eFhDcWVIQXB6TVcwanNkNGswSzBxRDFvRzRGbXBISmdfaGh1TUh5SlE0bTlpbHQwcWJReHVwX1l0TmFmSWdJRjZGbjVVdEZzc3laVU1OZVcyLXdRS2xkeURJZTdScXdiT3B0bGV3Tmc?oc=5",
+          "published": "Fri, 24 Apr 2026 11:21:00 GMT"
         }
       ]
     },
@@ -183,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Trump envoy seeks to replace Iran with Italy in football World Cup - Financial Times",
-          "publisher": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56X1I3dHF2cl9EYTd0bTBCdlIxTVNZalZ2dGtuUlRZbFNNTnY2RzdCbGRfT1hzOU92YzFCeFdETGlTQkZKZVpnVC1yUHBkU0x4eWM1OEVQcUZhWHpnZE9YRTZfY3B5aWYzTURQQXFNdjQ?oc=5",
-          "published": "Wed, 22 Apr 2026 20:59:11 GMT"
+          "title": "Rubio Says Iran’s Soccer Team Can Attend World Cup - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbW04NmlEOERtbTVLTFNMWkJnMEpqTTZjU2FBcEE1SlN1a3RqUWt1aU1aanlfZG1DbzJVUDlmUTVDcmdVbkNWVzZXVGFtYXdMbWtQSXlFbWVIcTYxM0Ywb0NtZ0VGS0RmSEpKbkxaaUNPaFRieGZuUkREN0g1UXlhNUJTMl8?oc=5",
+          "published": "Fri, 24 Apr 2026 07:26:37 GMT"
         },
         {
-          "title": "The Voice of Soccer on the 2025 World Cup - Front Office Sports",
-          "publisher": "Front Office Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHlGMjAwRzBYOThvVE9pS2JGUlFoNHFsc1p0azVVZDZYYWxyYmcxLS1IRy1fa0stdzJTajFGZDFNQWNRR3V1c2dKVE1DbzJxZ1liblAtNnhkX0xucjZVRm9XTXVVRGZkZGE4bE0wVGxMSFQyRHVmYXkwNDlfM05OQkVDYUxiUQ?oc=5",
-          "published": "Thu, 23 Apr 2026 19:53:27 GMT"
+          "title": "The euphoria surrounding retro fashion at the World Cup: when soccer becomes a luxury - EL PAÍS English",
+          "publisher": "EL PAÍS English",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWjZnLVc5MHRtYlFvV2dhM2FzTFVxdHd3SHpURTkzU3c1VThXWFpFOXdGY0JHTWZwZmVaVHgwOTlkZGRoYWpPQXBiUVRqLTBLa0dHQkZGdFMwZVJrRUx3THdpbWtBVTZPOW1BNGliVGdUeHF6dmNKSVJtZnlnRDFaSjB3YnhPUExGQzZrWmV4N1EtQzlVNVVuRVp4UWZVSU5NUTFRV3hCTkZxWDZUN0ZDVWd1LUdnQjBYemVwUG9YaDJlMk9NUVlsYzVISkxSeHJ4U2o1X0xuelgzbkVHUjVuQUNn0gH2AUFVX3lxTE1LZlpTOThPMVktbzlrbm9KYVlNd3NzOWtpU1Z0ZDJQemk1VlpwT1h1THZMWWNFQWw3YTl5UC1vV2pYZnZtdmUtOENKZXRCUXRNY2F4M1p2eFgtVGpnclNzOGpXRHlvQWNrMzkySUx2WGVVdzZmWTlFZDRUU1M4XzJINE13a1hIdGRFVW8yaDBxdXFySF9EMXNvR1Npc0xGT1dFT0JwQmtOX0dJN0JvVFkyb0VjU1hrQXJtc3hxUHZCOURXdzhnZlZUYnpsVzZ5cVJ2aFZ0SW5zQWkxc0ZkYzgtd0Q3UTJ1ZGRXYldyQTlOd3Jyd3BuZw?oc=5",
+          "published": "Fri, 24 Apr 2026 14:05:10 GMT"
         },
         {
-          "title": "Spokane launches 'Summer of Soccer' to celebrate FIFA World Cup 2026 Fan Zone - KREM",
-          "publisher": "KREM",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSmo1ekxjclNaSmxlNmNtNXphV1h4LW9ncy0tOHg5MlNnbi14RXQ2VTZiblhwaDY3NFRKSFRHdGFGOWN5eFR1Y2FSOHc5ZmlianF2ek1FaHh0bmdURTB5UzY0RVVGcTVYaHREY2RLcW9HbHFLY2lXT3NYXzVKb01qdi1YZTBETkhQVnVqbURXZFBUNlRTcVlyYjEtazQySmJLcmlVUVgzSUpSU3BZS0pDbXZhcndsckJzOFA1SC1zZVJydVkxYXJ1OERpSkNScmFIX0U0SkFQQUQ0bEZmQXUxdjlNdXB5Q0Ju?oc=5",
-          "published": "Thu, 23 Apr 2026 20:43:00 GMT"
+          "title": "Why it's cheaper for NJ soccer fans to go to FIFA World Cup in Philadelphia instead of East Rutherford - News12 | New Jersey",
+          "publisher": "News12 | New Jersey",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUEthcTU5a01GUTBWelhLeUZHU3BmVmdjeGpXZmU0a0NpMUtaTzF1RXFOQUhEYUNYalhScllmb1kyU25LcXB4bkoyUGxEdm1RU2hES2dNUGtqT1JfRDlEc0hoOWhKaUE4N01hOFMyWnY0bTJ0MjBuRWRhX3BabUtEMmlBanpJQnpkc0lOYWVNd2xnNDQ4eFBXWUFIVFZWSlFRSmpibWdUR2RjVV8zcEVyTTk0ZDZJRDhONV9peVBzVzJLbWhmbmlJLVR3?oc=5",
+          "published": "Fri, 24 Apr 2026 16:23:34 GMT"
         },
         {
-          "title": "Soccer-Italy underwhelmed by Trump envoy's suggestion they should replace Iran at World Cup - Yahoo Sports",
-          "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTFpfM01neWRQRGlWVHZqdVAyek1mVjdiWENwcXhUZDVoZ2lKaURsOWdwaWVnWkpHUHVKSUVnU1NFbmVMeHFpd2lzVVg0RVd0YjFZMjJQNUpjU1ZBOFhFd1ByM1ZsSHQ5N0gwbnhmV0ptcUs0VmFCUGU0WVJ6VzNtYkJWWFJiZw?oc=5",
-          "published": "Thu, 23 Apr 2026 14:20:08 GMT"
+          "title": "Championship promotion race: Ipswich, Millwall, Wrexham - who's going up to the Premier League? - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBOakpFWTlqQ3pEUnh6MWJ1dG83VHV4WE9KMjZrV3FtRlA4LTNhUGtyekdYdzU1MGpzSC1PakZoeGJTSVZUZ1BYQXd5Rm1HemZxTWdOazVoaU5kczhiQ3E2VHV0NG9FUGQ3QXllZVFNX2RRdVpLZzZxejhNYldGVkJVQjR3YnpuQUlJcExSYTdoaTBwaTgtYU1ocllQXzlzNm16VEZjVmlUX3l5bzJFWkZFbmxwRDlWNHcwRw?oc=5",
+          "published": "Fri, 24 Apr 2026 06:41:00 GMT"
         },
         {
-          "title": "2026 World Cup Power Rankings: Every Team Ranked From 48 to 1 - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZzFkS1JGTlVCWmZKTWpMU1plZ2xLU2p1ZWRMSFdwNG53a1NOQ3RLY1NGOE4xNVNxd2p4bWZXa0JPc1locG1TNUJ2QUhFRndvWnRvLXhaUXV3SnpQVW5DWlI1Z2pKYjU2Rmh0NzRoN2NBLVkwZzB3ZE1oM2FIX2Z1VVBwNEdPbDRLakE?oc=5",
-          "published": "Thu, 23 Apr 2026 18:48:00 GMT"
+          "title": "Leagues to be allowed one game abroad a season under new Fifa proposals - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN0FodHo3RkpQbDN6OHc4VF9jZzVaOVZndkF3ekZKX29pVHdzOW9jYVJsdlpFTmo5UW50LW5qdFdvdExseHNEVzlHZzNSeVBzMFpPd1gtVTBnRXZFakc2RjBUY2Z6YTBNUjBrVG9YN2kwUDhtZElRejM3OHhnLW9KLThYLUd6TFVYNi1xRjBtbTZqVHp0SlNZZ1FCYXVXaGdpbDBfc2M1YmxZSWhQ?oc=5",
+          "published": "Fri, 24 Apr 2026 21:04:00 GMT"
         }
       ]
     },
@@ -219,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Box Office: 'Michael' $18.5M Overseas, Best First Day Musical Biopic - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYakY2TTZ4ZEFDM0dUVV9fc1piSnpXRXBqUFBhOENNVzAzaWN4UkZsWTdkMHdyTFhBNzExLUt3bS1WZWU5dGp3bmRmQVU2blJpT1lmRExDZE9KN0VzTDladjVSODhNd1dYcFdHMkpVSDNWb2N3?oc=5",
-          "published": "Thu, 23 Apr 2026 19:32:00 GMT"
+          "title": "“Half Man” Tests the Limits of Brotherly Love - The New Yorker",
+          "publisher": "The New Yorker",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LdWttdlM2TXkzRXlfZlJzRmdYc1dpcXlIUWRfNmZHd1FMUkRwdlRxMmZFMTRmVnlndDN4Z192LW5xczIzMXVIRUF6eEhsR0w5eFpxSkFINlRVd3FZSjVYYXp2TDJSbk1kVzZrN1dYV2tod2liN1kw?oc=5",
+          "published": "Fri, 24 Apr 2026 10:00:00 GMT"
         },
         {
-          "title": "'Stranger Things: Tales from '85' has dropped on Netflix. Here's what to know about the new series, including where it fits in the timeline. - Yahoo",
-          "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQQTFkb0h1OUtLMmhJTzhJdEVvUFU2Ml93VXJ3ZTN0RjluQjlKQm1SWmJnTGdOb3AxV2l2dUU3MjhCQXh0aUNMYlNubThpZTFzTG1XSFJOM0Ztdms0cjhRWjlSRlZ0ZUZ5SFBESC1kV3dscDhvLXJNOXBPdHc1bWpqT0dWLTF4MGdUTV9SNko0ZGhXSmdGZG5Wc2lhZ0JBaHVEVHdGZFRCN0xKZk53WExvSWk4Y3JnVmxWMU80RGdRb1IyVDZFMThVQzFIaWJRbktRTnAtWjRrVXhGT1U1V2tWeHJFX0ZOc0l2MU1SUWZ0b1JHZVNTZzZNNWw2dTVGWnIxbF82Wl9oeVdNQjZCVzdhVHdTR3FKbnpTdjhsVjdCSQ?oc=5",
-          "published": "Thu, 23 Apr 2026 16:22:07 GMT"
+          "title": "Box Office: ‘Michael’ Moonwalks to $12.6 Million in Previews, Beating ‘Project Hail Mary’ for Biggest of the Year - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUUyXy1Lc1VFdXlmdEU0YWQya2tpZFlEdWRGYzB5UjdKQ2NGTHpFZzJYZ1k5X1dBWllabzBrd3ZuMWJNSWhmWm1VaEptT0tfSHVuaDdQcTkydnFCLWlWNi14Yi1YQXdZaEFRV1FXbTNCeklEdVJIR3BjUUZBOHF5Si1CZENQT244dXM1VGhHNHREM2RQMDRqX2pFTHZ3SjZTN0E?oc=5",
+          "published": "Fri, 24 Apr 2026 15:20:00 GMT"
         },
         {
-          "title": "Darrell Sheets, star of reality TV hit 'Storage Wars,' dies at 67 - NBC News",
+          "title": "Bravo investigating 'Summer House' reunion audio leak, Andy Cohen calls leak 'disgusting and illegal' - NBC News",
           "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3BxTHpjN0NoUVpKaktLb05Kd0pwd3huVEZUMUotS25BaVhxZF8xWXhxOWJtejFQRkRfWm9ZemZ2ekhyZHVmREN6dnhaOWVuV2hSbTk3MkhPWkY3c1hnMUd5aTcxSjB4OHk3QzVCSnB2dlVFTUJ0UWRSaUNVXzI4bjNjZDFLX3BFZ3VlSnNtdUdIeTBhbUJKM2d6dW4xbl94OTNwY0Y2VHVmUUN5QXRMUTN5NGJtN29KbEJV?oc=5",
-          "published": "Thu, 23 Apr 2026 18:44:28 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYk5UNmtjd3YwNldCVnZaa0cydWZZRjE5RW1PLTRtNE1pMEU4UnJvRDFUVmpENWRrM2twU1laM1JSWHl4THJMQlVTYXZGQU8xYUM5M2hzZld2ejRFcnZIMXVzbmVzT3I1cFNvWWVtWk1rZnAwNEUzWHpkaDBKeFRhcDc1UXFTRWREeDBvY3NESi00cVoyanpaQ3VpMllTVnlXYXMzVTZ2VkZLaHZMalU0eXduWXJESzdaVFhiMG5OR2xFMmxBdDh2TXdwem9QNVk?oc=5",
+          "published": "Fri, 24 Apr 2026 19:55:09 GMT"
         },
         {
-          "title": "D4vd’s cellphone contained ‘child pornography,’ prosecutor in L.A. murder case says - Los Angeles Times",
-          "publisher": "Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXlzb2lKc3BVdy1oOUxWU2lRVDQ2M1lOb0JfWmU0ZzlKdnR2ZXBoTWV0TkpuWVMycXFSQzQyT0ZURTR2SWVBQnFGVUhFLVhqR1RHcGlnLVN4ZVZXQl9DVW1lN2FUVGtVTjYxcWJLdHYwRHZhWW43SzdwdDMyMnhYdXBHbDM3My1EVXR3U3dNcGtJUQ?oc=5",
-          "published": "Thu, 23 Apr 2026 18:24:00 GMT"
+          "title": "‘What the hell do you say?’: elder son of Rob Reiner speaks out on parents’ murders - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TR1FpZU40YzlCbmtNZkUzak42SDI5anViYTk0TE16V1U1SGl1d3UzSnk3blVtVHFtUTNXeTdMS0RpMk9TNU5pcUJfaXRLQ2h6V3VsYXgzMzNNY1dFUVdiS1NDdTQ1N0pLdnI4aWFmRmVMeGxEQXc?oc=5",
+          "published": "Fri, 24 Apr 2026 20:37:00 GMT"
         },
         {
-          "title": "Elizabeth Smart opens up about new hobby: Bodybuilding competitions - KSL News",
-          "publisher": "KSL News",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaW10TzN0OTZLUkREUTdCalFMbGRYaXBNRnNfc2xWLWVvTUd3NHhxY0dKSnhTcTNMM2FEeExJVGNZT0RnakdadWFiN2c3NE01LUd0ZmZTeEh4M25RUlBmcGpmU3lYQzExTl9tSEo3VnZTYnRMQWJCWFFkMzFvdDBISllOWjltbFBzM1hKelI0TzBNUmRaN05Ic1NiMHZMcVpQWWVFQ0F3?oc=5",
-          "published": "Thu, 23 Apr 2026 03:04:46 GMT"
+          "title": "‘The Boys’ Spinoff ‘Gen V’ Canceled After Two Seasons on Prime Video - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNE5mOFgzOFhyWkZSLVk1MC1tOTV6S1hLS3NYZm9COWN4Z0pRNlAzc1gzOWtSTFdsX3hMUmFyMC1iR2cxRkNMck40T3ByMVJyamcxY1Fncm1PMlNvTU43eS1DNnloNzdVZU1CaDdqTU13X19Lc2F0R1ZudFlSWUJTMC1RemV2ek42S2cyTDZrdWdlMnl3eGJFRg?oc=5",
+          "published": "Fri, 24 Apr 2026 20:24:18 GMT"
         }
       ]
     }
