@@ -1,7 +1,7 @@
 {
   "market": "GB",
-  "generatedAt": "2026-05-03T22:39:42.031823Z",
-  "validForDate": "2026-05-03",
+  "generatedAt": "2026-05-04T22:56:22.731760Z",
+  "validForDate": "2026-05-04",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Two killed in 'suspicious' Bristol explosion as bomb squad on scene - London Evening Standard",
+          "title": "Reform pledges to open migrant detention centres in Green-voting areas - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yLThhdmZDeGs0WXVDZDNGQTdNRXZHMnV0aS0wWGpBT2RXMENEWnBCaE56Vl84ckRDa1BYb0xYbVd6aG1BSExZdG5kM2ZaLVhsNi1FU2VJMVpfQQ?oc=5",
+          "published": "Mon, 04 May 2026 13:03:45 GMT"
+        },
+        {
+          "title": "Tributes paid to teenager killed by falling tree as he played with friends - Sky News",
+          "publisher": "Sky News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHg5YnJCYWZKbHdmcGdsMGdYdWVuNGVNVEhwNldEZmdOSENJTGdMeFlnTW93TkFGZU5iT3hHa1B1Y0Q4NThyNnNaUlp6eUV6NXZuQ1F1ZlctTXM2T0ZnQl81Q2tvcmlhNVhEeXB0NzBiSkRUc1ZhOUR5a3dwVkNkMF9lb0NlNTNzVnRES3JqTF9xblU1RmY4bUtpbnk0Q29Nc3hoRmZVMFA3MElqRzU4?oc=5",
+          "published": "Mon, 04 May 2026 20:20:24 GMT"
+        },
+        {
+          "title": "Labour to lose Muslim voters - The Telegraph",
+          "publisher": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzJGMm85V2VKaFZhM2tjTWdxdHZaMTZRVjJJMEd1cEdGeldLcTFVZXo1R3pWNXI1YnZQRnRSeGJLR01LM0RsSXNpZTEwaDVQU2I3aTNtS2ktU1BEUnhmdVY4YjlhdS1hZkRzNTROVG1sc1VrZEdVejdMdWxtXzRwbUVyMA?oc=5",
+          "published": "Mon, 04 May 2026 21:00:00 GMT"
+        },
+        {
+          "title": "Man, 46, and woman, 38, arrested over arson attack in Golders Green - London Evening Standard",
           "publisher": "London Evening Standard",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXZYSTVxdkNwYUpfYXE5aS1JUmVadXdFWGVvWEc5TUN6dVJvUF8wTGN5bG45Z2RnNFRKWHVGMDE5WUszSDhvTHVfeDRGS1JYS1BmTktpYWNGYkhHc2RpN3U2RGw2RkZRLWotdEs2TUo0dV93bUgxdHRTb2otSEpoS3EteWpUMlJJ?oc=5",
-          "published": "Sun, 03 May 2026 16:35:39 GMT"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWNCUlM0R3FnQU51N2NINnBGcGlBc0tpWnZyb3M0U3pTLXk3OHRqeEpPUmY4a0ZXV0xxTHhDSGM3OFlEWUQwV05LblpQazdlWDV3VWFxQ3VqRHNaazBJa2t4T3B0M1BkRWthUGg4cXBXSmdGdV9BNG1xNEZpZlI0dzU2MXY?oc=5",
+          "published": "Mon, 04 May 2026 17:41:49 GMT"
         },
         {
-          "title": "'I was trying to save a life,' says man who intervened in Golders Green attack - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nQl9kX2UyV2VENGtVeUdyOUNxYUd6R0ltZk43VFVQakhCZXlORTMwTG9Mb25pbDlQaTYzSFJwV3pQVUpkOTNmaVJLX3NIcDBmMjgxempVVFVFX05R?oc=5",
-          "published": "Sun, 03 May 2026 21:00:11 GMT"
-        },
-        {
-          "title": "Serious injuries as man falls 'number of floors' in Birmingham - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XdnJoZnlYQl9fYWxiR25XVDdUeDNMSkF5MVVyQ29hZ1RTdDdEenlSY0VuQkJtNTR1MnNBMDJLTUxneEJENk1LMm5leWMyNl9pRko4UXNFUXJOVjJZ?oc=5",
-          "published": "Sun, 03 May 2026 20:00:40 GMT"
-        },
-        {
-          "title": "Boy dies after being hit by a falling tree in Stafford - The Independent",
-          "publisher": "The Independent",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORFdBRDNNblY1Zld6eG1rSGFCc2VvU1ZzTXBndFZYUnhwYVlCTlVYU0tDLW04NDNpZFpGdng5MFdOZ05sSmVtajNOdmNXTlNvdXEzY3lDQkxPcTVfN3VOdzh2UTZWbHlhajZNSnVDVEk5NHZ6Yk80SGphUXk5VEZYNXpvVkFnSHlSdkJaYnk4TjI0NFpPeUFMX01pWEg?oc=5",
-          "published": "Sun, 03 May 2026 15:43:00 GMT"
-        },
-        {
-          "title": "Green candidate seen canvassing in London after arrest over alleged antisemitism - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLU0zR0ZVQUNlUl95Q0VFTG9LTXlLNnNLQWRxVzRZcVFFcmtRSTRFRmpCMVpMdjlxU3F3UXZGYWhjWTBSUjJZaXdnSFdCTXlaMHdIcjJGeUs2RlJNcWswX3o1ZkRRa2cyZnVQWmhqaERFTXBMTEVXdTExRkdxTDZDaUNBYmhORU9TVi1kNkV5MFFOM0Y3Z1kzZFlZNHpjN19mM0d0QkVweWtGZ09IOVRhelcxMFA?oc=5",
-          "published": "Sun, 03 May 2026 17:39:00 GMT"
+          "title": "Police helicopter spotted over Plymouth as 'serious incident' unfolds - Plymouth Live",
+          "publisher": "Plymouth Live",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEJGS1RGY2ZFSnFBSm5KVkVROWxSblNaaFBlbjMzVHhtWDlSRzYtWHA4c2NtVHJKNWM0U2VvSUZTZU43UmpQNkJSSl81bU9Od3BjSFVralhuR0gtNXI4cGNtTmNKVENwTm92MDdEbzZtMGdLSnduTi1YUlNTcDRPYmhhX3FKQnVmQTRCdjl6SXR2dl9JZi1lUHFIMWJQOWhyNUHSAacBQVVfeXFMTmJ4TENPbFBzdmJwZnUyVzBFTllJZGozYVF1TTk5SldsbkYwT0xsWDNiejVOQ3pTaW5lZFI5TTdkV3h3LVFYbzVYWWJtUEhMTDNQSFRUNnU2RURpSFB6UHdFSzA0emFRbU00Njlpc1RqZWEtcU9tQjM4OC1CUDNnR3ROcUVuYTVwMzVPWEhMNmIteE5hYnRRN19kT0FRS0JwVjV4WXpkT2c?oc=5",
+          "published": "Mon, 04 May 2026 21:04:24 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Iran says US has responded to its latest peace proposal - BBC",
+          "title": "US strikes seven Iranian boats, Trump says, as tensions spike in Strait of Hormuz - BBC",
           "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DWGk5aEdlVmhZdXg2Zk5TVUZiWTlVWjladkpQVFcyRzFOYjl0LUNSa3NXYS0yY0FqQWNmdXZvRi1wdWJQSFl1UThKRXlUMEpxM0FRZVhST0xUMzlF?oc=5",
-          "published": "Sun, 03 May 2026 17:31:31 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WWUk3S1RyLWZCdnc1WEhhdXllTnVockM4aXV6NjluM1d6dEpvemE5Rk5qMDhOSWNoTzJERmsycmhQd3dTdG9wUUxCY1oyeDVzSmZ2Wnhoaw?oc=5",
+          "published": "Mon, 04 May 2026 20:06:01 GMT"
         },
         {
-          "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship - The Guardian",
+          "title": "What is hantavirus, the infection thought to have killed three on cruise ship? - The Guardian",
           "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSXU4NFBtMDdkRjE0ekN5UThOZmlhQzVfeDZCYVJHM2FKdzhQTkdkelFTTGpXUUhxOGY0MVdPdWFJaldzU0dyNjNQUHp3cGZIU1RCYy1QOXR1RkU4LVM4X25vcWY0TnQwaV95WE1FVGpYdUl2NGprSUUwcklfRWZWZDM0aG1JZDVLa3FQUmdlX1ZUUXhPVFFmcTQtbmpsQUFmNVBYNHFNbHNPVWNOc05UbjJta2RkRU5PSnc?oc=5",
-          "published": "Sun, 03 May 2026 22:01:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnE0WlVESGhqeWlFX19Md0lqYkRwU1pCWXhyQTk5RWpkamVZR1F3aFVFbzRkc2pwNUJsU2tYNFFJNnkzTG8yTFdodUFtb0txbnBGWHlRZGxQR0V0RVJmQks5OEVBT093UnZtdXJJa0RvQW56b0dVY3QwUmcyczJlNVVUVHVvRmU0TDEteUdRalRzNEhKSHdpLVdTYUs4VHc1SS1ZWk40Q29zX25ZVWpZc3RvQm9HZVBBN0VQRGRwcDgwckNO?oc=5",
+          "published": "Mon, 04 May 2026 19:27:00 GMT"
         },
         {
-          "title": "'Knifeman' seen prowling streets as woman slashed in throat in holiday hotspot - The Mirror",
-          "publisher": "The Mirror",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREt4VlZDYnh2dlU4OGJob1dnY2xTa3E4WTd4V19kUUlUbzFxX0drX0xWQjNpVnJJaFRfd2xsRS1uV3dsbkxNbVVndEJLX2M5WWxtODFVem8wVC1uUllHUXBvUjdfejRMWk0tMkoyQ1Nnd0lObjZReURENW1DdkZBYmYteERCdGFiS3kyQ0tsSXdiVEow?oc=5",
-          "published": "Sun, 03 May 2026 09:07:00 GMT"
+          "title": "Car-ramming incident kills at least two people in Germany - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQTVTakQtSU9YWVFVcmo5SVBvVmJUQjNMZHpKaUlpcmZJMjVuQUhLX3A4ZkJQaEdYcGdFWFdZdFNTT19nNUE3RGtzWVNGbTExem5heFhhNE1rRDJ0Zll5MEJ4ZkNnekxKamFCb2VZZFlweHd6X1psdlo5NEJqMmVuV0xUM1ZnOEI3QTloQTdNek52d9IBlwFBVV95cUxPRmRQd2RjTHVfYVdWTUNRUkZ3d3F2OVpZTGpyaVVIVTBIMXVrNlBKNkxSbk1tYi12VHo0cGNlNWVMa1ltaVJiRVFZZllZd0Q4NmphR0hVc0p0LUx3TW4ybXdDNHVKNHpJdE9sS2ZVcDRIS2wwQmlZYkZIcFFQZVpEX24tclpfbW8xdWFWSGgtUzBGd3FkSnE4?oc=5",
+          "published": "Mon, 04 May 2026 18:06:04 GMT"
         },
         {
-          "title": "Boy, 4, fighting for life after drowning in hotel pool at British holiday hotspot - Metro.co.uk",
-          "publisher": "Metro.co.uk",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGJEb18weENzZlRLNlZISWk4eDM1cER2NzdxZ0lpejZfSm56YnhxTl9XTF9laVc4VTVjYWxVWlNoMHVyOERGdG8tV1lNc044aDF2YVlyTXJJdXBMdFBMTXptQjVfMjZ0bnRCZmliZnp6Yk1RblJRUFZCemE2WmhsVWtnTm42LUptcmw2TGFTQUMzMVV3ZjRtRURiY3EtdkFxM05qWjNOZ9IBrAFBVV95cUxONlJOSnRvaVdxN3NoTndMcV8wVHlGazBDUVJTZkhzbHBxNFVLSGJBZ0NQMHNSM3E1X0c1cUgyN21nOHN3bzNqSlRHNVJDVHotc2VkZUYxUGQwbzVacjF4dUt3ZWFjMU54WHUtTlJOS0xVRFhKQjlLb3BRZ19UZG9QU1lienJCdXFLVnA4VXlhcF9DZmxyaFR6QU5idXdKQnJodGU4WlZPb01LSXdk?oc=5",
-          "published": "Sun, 03 May 2026 18:20:00 GMT"
+          "title": "Iran fires missiles at UAE after US tries to take control of Hormuz - The Telegraph",
+          "publisher": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPREJqQ2NYdTJLeldwN0thSmhWQ2lLUkZXT1pCcEl5Ml9vcFhwYTFHYXpwSm9pNFNUZ1JmRlRYbTk4ZXRUTl95d2Zwd212bTIwY0ZhTkNuY0Z6WVlCaHZoVElfMU1HelpEeTBlUDNfLWNqYTdOQ0o5aVdzNTRGRUkzclRFVl92MG5MMEY4VjloMmxaUS1VSnVoYkExWkEwZTEzQnJMRnpsY3FmcTl2?oc=5",
+          "published": "Mon, 04 May 2026 13:49:00 GMT"
         },
         {
-          "title": "UK to enter talks to join £78bn EU loan scheme for Ukraine - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhbDVPYjNoNGU1WVIyNWVXNU96MUJJRzZRbUE4MWlGejlPYXdzRTNJSHVnYmtGRkpFS2VoeE5nNHB6Q1lxSTBLVGNTRDVJbGVEVGZnLW9JYk5UbU9C?oc=5",
-          "published": "Sun, 03 May 2026 21:30:03 GMT"
+          "title": "Missing hotel owner found dead inside crocodile - The Telegraph",
+          "publisher": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb2hzYnUzaVRNMWh3SEJDZFRHdXloRVFsRWh4THAxaFJUSDZ0a2ZOVXhGYkdrX1ZxUjJaajQycDVjejlBYnVUS2ZCbVMwcUVCSERoeUl6bW4xWTJ4RjdEdWhoRHdvMTRRVTViOFZyVzNCa3BaT24yQ2tDeW54UWJkWUdoWWlQX19jWEMzWG01VkFlYXN4LVhIaWJPZjFpYUk?oc=5",
+          "published": "Mon, 04 May 2026 18:43:00 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Was the Iran war the final blow in the collapse of Spirit Airlines? - Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOelNjQm0xSER5dTZtLW5zYTAwZk1VdXR2RUNqVFVFQ09NVS0tOWFOV3UydDRDREkzc1QxeUVZengwb2U5MWxIQW9hRmYtTlZIMXBmSWNRUkM0RnFmQnFfOV9WcVROMkxDcHJuLURGdlR3cEZGU1p5UzNyTzJsaTNwcHp3X3BjS2duSG9zU2JmOXZhSDhVZXJSNXdsbHVXNGMtckRtcncwa1Z1Z9IBrwFBVV95cUxNV1BNd3lqRDllU0poeDEtWlFNeHVMMWMwTml2U0gyUHlsY2VKaWRXcEtDMkJtSVd0NDlHazg0Q2JRLVVFcmV6VU91eHpZLUtva0VJRUhyckk0b2RiRFFwVWxTdG82Ykd2QldyNzdTdnAtWFRoVmJnZ0k0eVVYVUhUWk9PY2tBVnU2VUpWMUFJXy1YbEdxS1ROZW1xbVlnR1NINEd5NW05NkhaeUo2eDdN?oc=5",
-          "published": "Sun, 03 May 2026 13:07:57 GMT"
+          "title": "Food price inflation still rising, as lower income households feel the squeeze, study says - Sky News",
+          "publisher": "Sky News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUJlS2RqVnNBTm9INTBoZFB4SlpGUnNhRk5ubTJ1WXJMZW9WUm44LTBBUzBXZDhUZkZXVkNFSTJuby1HT2l4b0lpTC11N1JQNnZiWEZRNWM3RjhYMk1jRmNFNVVyWkpMSUdIWjhzd0JKaWpTYXVoZGVyeFRKbXVLMkNIdW5xZ21xLS1QZkRNZUZJbmhzZkZLTlRCNW1ON0ZodTh2a2JHVHFEZE5ISGs4WldtUGhRenhsRWhuMjhVZzdiZw?oc=5",
+          "published": "Mon, 04 May 2026 11:19:10 GMT"
         },
         {
-          "title": "UK airlines given green light to cancel or consolidate flights to conserve jet fuel - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYnNxc1ZKeGNjVzFickhNZU1zS3k3VXZhNnN3Uk1SQjl6RzFWWU9INTZLWks0THNnM19GdWhaMVQ1MFFXVVJKRDR5am1oSnZpSUtIQUpLSGdnanNoSHlXVlR1WDkzQTIxNl83QV9ENERmUEljTjNTbkdpb1hNSXljck5XT3VveFhNM1h6bEEyMEZWWmZDcFA4cVIxSmQ5alduaTNFRUozdVRZSkk?oc=5",
-          "published": "Sun, 03 May 2026 20:52:00 GMT"
+          "title": "Rental homes in London plunge by a fifth as landlords sell up - The Telegraph",
+          "publisher": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS1ZCZmFzVVRROEV6aG91aHYxNUc5QVlqZWphOXV3dUlCanNlUXE2Z2w2SW1uWWNGbEg2UjVqM1NONjNGM1ZQRjJNbFhFYnlieWFiNjZmOE5zSHVGNVpGQzRnQVpPUXVSVGpCTjRnbGZCZFNSOGtrakdPcDVwVURMYk5PbldkUDVlaEYxNHVzQVlpalVGZy1PUjV1cEhRaVlfWHZxdQ?oc=5",
+          "published": "Mon, 04 May 2026 18:27:00 GMT"
         },
         {
-          "title": "Tenby 'dead zone' for mobile phone signal hitting locals and businesses - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CcVE4WlFUdnBUUzdjUXBzdXVlb2k5UEJ1WVBZSERlQUJvSmpaOGEweUdBNkxpMWE5Z1dyemp4WFVubHBlWmR0Tzh3ZkpocmZGNTRwRFBUYnBzcjF5?oc=5",
-          "published": "Sun, 03 May 2026 20:52:37 GMT"
+          "title": "Heineken hands pubs lifeline after Reeves tax raids - The Telegraph",
+          "publisher": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdXl2ZjNTdG1NaW9ldmJHSExncV9reEVxNnNNX29HOUZuNkc1QkF3UUV3aUVFMzhCS0lUeUd0RWhHUENUbjcxZjdIVTBnaDhTWnRWdEltX1hHeV9CMkFLcEVzbk5iOFJNSUVaQTdwbDhDZTV6QWh0OWpvVlMzbDhKQjJMUmJMa1pDTzFmNkQtdl94cmVtbUVTd3BwLUdTMXJPMHc?oc=5",
+          "published": "Mon, 04 May 2026 08:00:00 GMT"
         },
         {
-          "title": "Bank of England spells out grim UK future in blow to mortgage holders - Daily Express",
-          "publisher": "Daily Express",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1YwZFplTjlxOEZQdE9nM1VFQ0xMZ3dpNE1FbW5uV1FiMk9OMjdQMUNqUDhyTjA2Q2N1cEdzTkVRaktPRm53S2owNW1oSXdzcFgyMzduVnpHb1h0MmJxT0hwZFlPQ1R2aUJFcldHYUFQYkVKZVNWM3YySjNLNjdzclRHeVE2MmI0MGZ3cmF2a9IBlAFBVV95cUxPZUstcVhIM3lPWnI5c01MYnZmelBkUmZ1cmJCRGM2Yno3cmxoczZOay1PS2hKNVdIbGxWb2NSSVN5aVItUGlKUGYtMGZaU2FKaV92ekhFUll2ODVoTm8zZTlDbmlFM09nSTNmNDcydVF6d3RhMDZaZjNYTEltVzRoVm1UczVjOWQtbHptLWFkUmh4YTFF?oc=5",
-          "published": "Sat, 02 May 2026 08:38:00 GMT"
+          "title": "Anthropic Partners with Blackstone, Hellman & Friedman, and Goldman Sachs to Launch Enterprise AI Services Firm - Blackstone",
+          "publisher": "Blackstone",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORExvRWJ4VTBmalBmd2xJakszeS0xOU1hckVUVVROYi1OZlZmWW5pM2FveGxqYjFhOXZnc25XUWR2OXlnX2tIOHlJMmI2eXo0anhoYUszbWE0Qkx5d3RFOVdoWjhyS1NTWVdJN0FaX0d2XzZzWE9GT3E4dmR2OHNMVkFQMVNwZ2lFbmhHdERGaDFEWWVhLWFXVUxSanZPb05tRVA5VzdTVEVqVV9lUUxFZy1CcGp2cFhsb0NOaW43SVRmSThOeEFmeGdzamdxeTgwMmw5T3p3THV6MU5zZEU0?oc=5",
+          "published": "Mon, 04 May 2026 13:08:52 GMT"
         },
         {
-          "title": "Heathrow in talks with airlines to end row that could delay third runway - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHItRkdCMThpbXd1NEt0UkFqQ3l6U0JRTWloeHNCb1lrSThPQjQyNXBqVTJMekhQamhJOHpYVDBsWXhJcFlpNy1oWVlhYlFDMXZYUXQ3UTdJMnZsdl9xV1U0cFIzWmc5S1d3TktxZ1JrTFdKSFliWTNWekhXYnRhZEwxRlhQcm8xM0FvR3Ezajk1cW1lOVF4d3I2aFJULXNObU5RNUUzUXNIeS1YeHc?oc=5",
-          "published": "Sun, 03 May 2026 18:52:00 GMT"
+          "title": "UK Faces Summer Flight Disruptions as Jet Fuel Risks Mount - Crude Oil Prices Today | OilPrice.com",
+          "publisher": "Crude Oil Prices Today | OilPrice.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0w5WVg5N09EVXNVQjc0VDNQbXhuQTQ5aGI5d3dCSG1HazhLN0YtYjJjNDNwTkwtcEFMWVZIbU1UWnlQWHRTWVVjbHc3djJNMzl3Y1I5UFZrY2ExYTZjLXo5Nmk5NGQ4TlJPRk44ZmRsMXRpdHhGYjRGcVRqeWI2N0gzdzNmQ3ptVWtpXzBvamdrc25rNlVzTzc1TnlUUXpIdl81aExkRTVYZ9IBrwFBVV95cUxQSmVFTWtYcmdFbmxlUDRhcENrRlo5cFJnRzNqLXdLREk5WFpTRHR4TTh1MFZNUjRaYnNkSU1EeG5WaWV0bVEtQ3pYNU5scjN1YWVKSXhaRUI5UHhXR0xiWERjMHZPdFB3WUtoUHY4TV9zb0g2VGl0LTRKX3hiT2pETlg2QWNYUlVDOTNYTTRiRFdNM3YyU2dJSG9hNVV3a2RvSGxEM3BpMXhYZzdRNjQw?oc=5",
+          "published": "Mon, 04 May 2026 18:00:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Richarlison heads Tottenham past weakened Aston Villa and out of drop zone - The Guardian",
+          "title": "Manchester City’s wild draw at Everton hands Arsenal title edge despite late Doku strike - The Guardian",
           "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGtlYjVyQ2Fzc1JJN01CRG9jWVB5V2dGQ0NTb0RkMEptN3dkVC1TRkRqbWlNUFRGRmw5eWdaYWlaMmF0bVg3TmhSc18tOGhBbG9sRTRRZVUzanNteE5FV2xkZk5aN2NqeXZ1TmlaeXhDYTIwdlN2eXFZeFNUUzlVZGlhN3h4emRnU2pvVURxc3FLOU1NckFhSks1Z3lGS0U?oc=5",
-          "published": "Sun, 03 May 2026 21:20:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXhKLUJlS1dBenNwVDdIU2RVSUNZaExVWnVhcDltUlVad245Ul9JNlBualRncWlnUlljNXEydmRYOWdNb3pWZnVuMDZhZEtMOEVEYm4zQ0htVkhSNGpUUDJfTFdZOUNHX2VBYnhXRWdVb1NWeW1JUU9pX1Eza0EzS2V5X2dXX0gtTzlUaXpPNWJEdlVFUHZXSVJobTlUWk9rSXc?oc=5",
+          "published": "Mon, 04 May 2026 22:40:00 GMT"
         },
         {
-          "title": "Michael Carrick reaction — What did Manchester United boss manager say after sealing Champions League place? - NBC Sports",
-          "publisher": "NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM3VxX2JNdTV0RHhfSTlYcHdYSk0wTURma3pkenloNUp3ZFc4am9ldW9PSEhwaFdwZGJlU3ROMkk1Vi03OVlLT25zVGxpWDZVWDNBM1hfYlRiVjAxWENpaTkzQm9JQkR6WjNjcXpZQWpHYXRkMTh5WDFmeVIwUVlid0E2V3BJQldPUm80elhLY2d5VEVFNDhwOU5vS1R5blF0c0xxcEZaUWY1cXVFaWVwbm5MZ1FpcFhVN19JMFpvMTNWLWVjN08za19NVEY2WlU1a1hsT0FvS1UxMVk?oc=5",
-          "published": "Sun, 03 May 2026 17:31:30 GMT"
+          "title": "Wu claims world title glory with epic final-frame victory over Murphy - TNT Sports",
+          "publisher": "TNT Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUl5ZzBtcVR2ZmdCRTRhQVlnaDluTHY5V3d6azdURWRid3RISy1FSE8tZzZyalRFdnkxZFdmRTk0WEFBOG0yUWFnVlUtUFF0SXZRR2RhWWtMVnlORUxuangzaFFMTTB5SlBrQUk0WHBxZERkRUZiUHMxQmRlTERYS1pHeWphdkJPemdMYnlmMmpUUXVaQTRiR0F5ZkltclIwcnJobVJXeDUtUzdfNFlhWTc1bFZ3clZJYmJiNlNxZnl2cnF6UmpueXZhVTJiWW5sR2NfTloybEpROUpreS1yNA?oc=5",
+          "published": "Mon, 04 May 2026 21:31:00 GMT"
         },
         {
-          "title": "F1 LIVE: F1 Miami Grand Prix 2026 LIVE: times, results, radio & race updates - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uZDdJcTNXM3A1eWl5NTFrelVXQXdjOWcwU2ZJUTdncVdsSDVybWxzTGhjSFRycEpsRzZMcTVaYmptMXB3enlWWUlkelFZOHpISWVnczJUTHAzOVZHUFBHd2lyblA?oc=5",
-          "published": "Sun, 03 May 2026 19:29:43 GMT"
+          "title": "Chelsea vs Nottingham Forest LIVE: Result and updates from Premier League - London Evening Standard",
+          "publisher": "London Evening Standard",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNUNvajZuN2o2QVZNaUlnemZ5ME9lMkFhTVZUcGZlTXAxVmpuTkpHeUYzS0E0S2JIRmdzcDFsZ19pZF9SdzNaWW5HU2FlWVJjV3BkSDZfR19PbmpFT2VmeV9uSnVHOGZiRGZqdGYxVF81eUpRTzRzX3RYVXg1bnRHYmNxd2pNcjdmSXBsMFRzaVc5QnY3NEtoeGpPYVlTUGxyR1VGVWlfaTFPUkRJaG5uUXgyVE83Y180dVJ5Q0NDTVBxS2JuSW93VjZMVFJidFBVRUJKUTZjQkxSUQ?oc=5",
+          "published": "Mon, 04 May 2026 17:13:51 GMT"
         },
         {
-          "title": "World Snooker final tips: Richard Manns preview of Shaun Murphy vs Wu Yize for Crucible title - Sporting Life",
-          "publisher": "Sporting Life",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbTZnYUZIeXhFTEU3bC0tTTNfZ0txdEdDOFlTdnpNTFJIYlZNU2tETEM0QklpekdoUGdqMUlZRG5DV190aS0tSS1Hc3IxdkpFZlBWSUJwN1dYY2FjamxSTmUxUENIOFRxVmNaQ3FCS3NqSG9HUWZJSHJBeVBZWE5NQVRkdldSYnZZNzNhTkVQcU9kYWw2eG5wX1lYVXh2SEZmajlGWVZla2Q3MnBHTndaWlpxWGo2X2o0RzZXaXNPNEZFSkpUQVRxS2d6RTFNVnA4YnV1U1RuME3SAd4BQVVfeXFMTndpcFRxaUxHaE45b3FwaFlybWZxUDU3bXl2OEt1dFc3cTgxNFVsRHJwcGM0ZkI3ZHdvVjE5cGdQLUtJQV90dEJJdktoeTNCOUFvUUJnS0lfdXAzUUhvRGxyNWpWNjNrQ1ZTR2pBZnl2SmNvZUJGRnhleEFvY0Rucl9ySnl1UXgxWlJUbzZheUpnVm92QkphejJWQWZlRnJyb25NY1E3YlhkbGY1MzBaMkxKLW5aSDNGUlFtakw4VVA5LVVQOC01RUpTU293Vzl1Q1daZkZMeVlOekNKQTV3?oc=5",
-          "published": "Sun, 03 May 2026 17:15:00 GMT"
+          "title": "‘That was his best race so far’ – Wolff praises Antonelli for ‘special’ performance in Miami GP - Formula 1",
+          "publisher": "Formula 1",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSk0xWl9vQzlzTnhYdG1JR2gxNUVaamprLVpqVHNCTVpVUWpNS2ZGckRNT2RqMWlXN1RsSGdWYkM3THJOOUtob1BHM09MQnh0Q3Fkcm9zZHFIOTcxVTB3cVNYQ0hSS192Q1A5VjVVaXVmaGJCUVRlSGRncmZYSjJSX0dTMlVQMzZFeXNVbGdNZDlkQ2M3MGh1clo2N2xSWnVtcC1ld2VhMU02X294RGtyVG04X19XRm1HZ1NLd3kyaG13cDFkT2xXR083cTNfY0oxNVY5NGxWTDZDbHNzQ0liM2VoS0JwcHBoSGc?oc=5",
+          "published": "Mon, 04 May 2026 15:32:00 GMT"
         },
         {
-          "title": "Roy Keane gives Andoni Iraola to Man United verdict as condition for move explained - Manchester Evening News",
-          "publisher": "Manchester Evening News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWx4WjJxS0dUOWxpbW1QemNJQkhBRG4weFZpRnBlWVA4REJISGJoUlNjYWMtN2Vlb2JyTEtrWkNFYlp1OF9FQ25YZjVyc0VsbmlISWVXcnZnUGt2U1V0MnRXS1VDeXBNVUV5eGJWdUFOSENxY2lqUlFIU2tpT1dwNDV5b25OWEY0RkNOQjBrQnA3VGtyamRuZTNQTHJLRXI1cEhpWVVQOVp1T3Az0gGyAUFVX3lxTE1RNktUMWs2T0lEQm1HajFheDlyNk9jcWl2TVpTZUFpajN4amRMb2wteGZZTU4xR2JVb1pWbEhfbzhnSXo1QUo5eE5nd284T2hWRU4tNGNvZ3NFaEFMVk1xWHVfelRPZTdqUk9fZ29pRi1iMnFTOHktNktmV2NnNHpmZWZyNHlQaUY3dU1OeXJTcUhSWkI5Z0w2RVRXTmFMUDhFNkt6dXJUMGxiXzkxVHF1bXc?oc=5",
-          "published": "Sun, 03 May 2026 17:10:00 GMT"
+          "title": "Michael Carrick: The Cases For and Against Him Staying on as Man Utd Head Coach - Opta Analyst",
+          "publisher": "Opta Analyst",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVlAwdE1hTTVlZDVaMVNjZjROelRSMHBtMGJiWkd4TEM4VmNEN3oyOEtyYVdtaUxvbE5oR2NoRWUzYmlZdWc3MHRnX3pZQ2V3RE81MkNCNE1CYWd6UnV2RTRGNzJwYVFCS1dJb0ZVWHFrY0pRcXNQYTJHVjJ2Zk1uMVBGaWVQTkJBSjd2QVpUWWhzQQ?oc=5",
+          "published": "Mon, 04 May 2026 15:56:42 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "OpenAI Introduces AI-Generated Pets For Its Codex App - Engadget",
-          "publisher": "Engadget",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZVotMEtEMVc5QlZwMng3Vl9nVVZTanQza010aUxmRXZuUlVjNERKNGlCWnlCdzlVbnhKZExlbURkWTM2Z21xb21HemFEcXh0b0VRUmlRZk9UWDlIQndFQV9qWW5KYkFkTkRqZ0xQV08tYUJXVVJLUTczTUZpYXVBaWJOellsTFNEZ21qT0ZlNFU?oc=5",
-          "published": "Sat, 02 May 2026 19:31:53 GMT"
+          "title": "Wired headphone sales volumes rise amid Bluetooth backlash - The Times",
+          "publisher": "The Times",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHRNNXgwek1oaWFtWVJOalZHWlNZZ1dPS185VF83SjJONDhSUlA3bDJDbnM2X0R1dEpELVZCRl9jZVh2X3Qyb2E5TFI3azhVNTJHc1J1RXhrQjU3TzYzdEoxRDFBNUpxWmJrSWdYWXp3Zk1lS2J5RW5SSm56S3hfLV8xRkpKaV9FZXk2ZkZxVy1fUnMxUkE?oc=5",
+          "published": "Mon, 04 May 2026 19:25:01 GMT"
         },
         {
-          "title": "Sunday Preview – Take on the Red Terror - Warhammer Community",
+          "title": "Mountainside Tabletop take on the Red Terror - Warhammer Community",
           "publisher": "Warhammer Community",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVhpSnozemZhNVJvVU9aekhhdGpnQnFFaTk5dFpuLTE3U19xY2hPUEtieHlNWUlPTk85d3paR3ZPVXk0aWFtTlBiLUZBNlBHeHlKWmtFWlZzZmlpUmZkenZxT0ZiR2ZDT1lJN19JYnV6S095TjNucFRkZGgxemhnUGh5R3lNdW9EVEtycGZweUZaam9lXzkzTkZHZHVOWDA?oc=5",
-          "published": "Sun, 03 May 2026 16:57:58 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVU0bS1sckhvYmtqUlpybHZkQUhRbHFKa0hERC14SDM1c3BCWmJndnpfQ3JocFpsVVRNU3lmRnh6c1hidm00NjhzSDNTQ1pESHF5SkpuTEF2ZmdSaXltWG1jWUxrdjQyODlvY1hfTzI2VVRoNjFWekdzM0ZPY2RwTUdLc2lKQXVBQWVCYTlBTkF1RWpGa0FndnVRRk9WeHBMTVNId0Uya0M?oc=5",
+          "published": "Mon, 04 May 2026 11:59:18 GMT"
         },
         {
-          "title": "30+ Xbox Games Are Reduced By 90-95% To Kick Off The New Month - Pure Xbox",
+          "title": "Forza Horizon 6's Full Resolution & FPS Details Revealed For Xbox Series X|S - Pure Xbox",
           "publisher": "Pure Xbox",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFVVNmZZeGdYamNnT3IyZ0RzRl8yQkh1N25idEFmY3JEaGlJRWNIYVcyMHVJZG5lcGdzNWZVQ051REpNNjhHYm1mQjRZQmFVT2w3Y1lyXy1QcnQ5d0pqOUxxWTBpTndnZHh3bmxadkFHdC1pYlhOXzU5QmQzTjQtMGFtTk1JYk5VVVNSQ3FGVEU0TFV3Y0QzbndZTm1weVExNWxyZkp5akppQlB6N3c?oc=5",
-          "published": "Sun, 03 May 2026 15:03:38 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHhvYWRNMlNsTGZTUFh6LW81bVZ2SGU2Uk1NaHRWUTZLZlFFZHpqdzJtbExGb2UtM2EtQ1ZXTDI3dnpfclJ2NTNCMUFtdkRZbTIxbHMzLW9qT04yMmY4bXpTVlIxRTcwcWhBMm9RSnEwb3NkZU1HTTFETUwwTm1qSWpBUXJHM29DRmpPSDhxZWFSMFNYeDEzRmRtNy1Xb1pCaGRaY0prdnZfc1lzZDVZYl9JZGo?oc=5",
+          "published": "Mon, 04 May 2026 16:00:00 GMT"
         },
         {
-          "title": "Start-ups challenge Apple over curbs on AI ‘vibe coding’ apps - Financial Times",
-          "publisher": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVJkNVBiczFKSHA4WWkwSkVaeUpmR3JyOUNxWE5LOHpXRzZDTWRvdnBQLTFmUF9NMXFZNWVuQWhQVnM2YndrWFpGYWU4cVAtMjlMM1dUTU1mcmphVUZ6Y2w3SV9VVHdjekxaYzl3NW92WEtmWk9laHhwNXVpa1kwUjh0WU8?oc=5",
-          "published": "Sun, 03 May 2026 04:07:40 GMT"
+          "title": "#New40k – Novel Revealed - Warhammer Community",
+          "publisher": "Warhammer Community",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcno0SkJUTDdmcUprY2gtaTFndGx1eXFRUml0QkNOaHhkWHE2bGlnaUJfUzRFdnYtMXBMRFNTcWY4ek9sTnpZZ1ZxTnktSGhPcWxhcjVQYUZLaUdUWGhYcTNxTHk0OU1RYWJuYkNXQThQaEFXRGFGRHRYU192cFpNenVrTnFYbjIzRmc?oc=5",
+          "published": "Mon, 04 May 2026 14:02:54 GMT"
         },
         {
-          "title": "Sony's $7.85M Settlement Could Mean PSN Payouts for Millions - Push Square",
+          "title": "'It Was a Positive': Resident Evil Requiem Dev Is Pleased by Heated Reaction to DLSS 5 Grace - Push Square",
           "publisher": "Push Square",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNclNvb0FIR1VBemlZd1FJTGRTd3hsMmJwTW9uYzBXM1pYcnlEUWdWYWFqS2R6ZkxSSHYtY2NSc1JubDVDWWd3SlRkWEltYTRBamFBSEJRM0E5RUlUd3dsejVrRldpYWx3Y0lBQjhac2tNS19qeHpEWFFMX0dCZ0t6N0poNXg0c2g0eDVCT3dqd0FfTzlTME1aUkF1N3YxcnBqR2tB?oc=5",
-          "published": "Sat, 02 May 2026 23:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaWgxdFRoV1U5QlotamRsNlRURGRtTUswRl9BUFBiTEkyb1FidHVOSWl6Mmt5YURGalRrbVpYalY5YzRXRzRvX2wyekV4UWxtQWhCUmZwbTA2ZzVfSnc3Q2VtbjhPdjdaSkk0MC1qbjNNa3BHVl9JZzJMVlZaQlVWV1p4b0JsY2RCOGQta1NJeXRtRVIyV1VRLXE5cHhjUVlsb3R1NVB6TnBqcmxPR1ZteUNnbmlVeEFwWmJndlVqeWJ4VWdPRVJKbw?oc=5",
+          "published": "Mon, 04 May 2026 19:00:00 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "New to soccer? Here's your World Cup glossary - KCUR",
-          "publisher": "KCUR",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xQ2dweTIwUkhuQ05GUkZ2OU9ZMzZJZXpPWDNUeTY2ajZWdE12MWZfM0hOakp5UDBwUWk4dHhWSW5iV295WHR6MGo4Nnh6NTZfM1oyc2E1RGRfaWR6WHNjUDhqUWxIVzlQelRQVkF4QS14UQ?oc=5",
-          "published": "Sun, 03 May 2026 09:00:00 GMT"
+          "title": "Thousands of soccer fans waited hours in line to see the FIFA World Cup trophy in Houston - Houston Public Media",
+          "publisher": "Houston Public Media",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDNvTjdJaGJnYm9XeWhNNkg3ZUdtLWNLNnpFZXZTemxtZlVJWHd0VnNGS3RzcVAtQ1NSaVBXeVhKWjltck5KeXBCQ0RweWlkaS1XU3Y2SXhqQ201bnZZcUUyRWhlUFRxYkJod3BpVklGbTZZVy1tc0lqeW5ybDNKS0VvWkpwWVd3REpyTzQ5Rng5ZkJGMWdrcEZaODc5MV9TZ3pneEt4cFNLR1U3YWd0aEhYMWfSAbwBQVVfeXFMT0hjQ0daRE56REFfSHNLWnZiNl9ReXY4aE51YUg5QWFLUUI5QWV4VmgxSkp6TFBGQWVVQnlZTlc3N3FEY3l5STNoUFROaThiMWRwV0kyRy1tTG5sLTd6MXltU0hwMnFOclpESmVIQ3JUNFFTd2ZxcFFYR3RuOWg1WlVRVHhKZ2JZUEF5U01vMVE1WUJyN1JWaEIxTVlaRWJTdkJTbGJzM2lOQ2dFZVpXU1B6a2hvMUI0SExzeG4?oc=5",
+          "published": "Mon, 04 May 2026 20:22:37 GMT"
         },
         {
-          "title": "Planning a World Cup Watch Party at a Bar? The ‘FIFA Police’ Are Lurking - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSThNdXN6SFFJQmQyZFk5TjVKVTNBWkFja3drX0xfOXJmX0Vmd28zbDNhaV9yN0lTa0NLVXVQYWwxWlQzbkZOUU8zLWpDM2pYVlUxdUc1TVVtUnpUUDZ0TnRmU2VFZTBQM1phaENGcm14UFVtSTRGRWd3R2VPY0lYVU5Jaw?oc=5",
-          "published": "Sun, 03 May 2026 19:40:00 GMT"
+          "title": "History of soccer exhibition open at Arlington museum ahead of FIFA World Cup - Fort Worth Report",
+          "publisher": "Fort Worth Report",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1c2RzIxWTZIbTA3SFk0RGdoTUROdjUxaUlQUTJJWkg0ejRpUVNQUmcxd0RCTW5IdzBqbUVVTFY2d19XOUsxRFo2ZHpUNzFLY1FCMVhIODY4TF80NTNSMTBCUTVJQVd5SGItU0cwZDF6R0tRbUZyUW4xUldSSkl1LWNHVGZvT3diN2Q4ZWk0VnNmY05yRFBrZE1RT1AzUWlGTlZFcXUtNFg0WEh4WW5xNGQ0dDB6OGRO?oc=5",
+          "published": "Mon, 04 May 2026 21:06:24 GMT"
         },
         {
-          "title": "Premier League Soccer: Stream Man United vs. Liverpool From Anywhere Live - CNET",
-          "publisher": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQjloUDlKQnNzSTh0Tno1QWhrcXZ1N05IZGkzcWkwdm82N2h3QU93ejN2dm5DVGxRNmtQNG5GTDVTZmRIWFkxaGttcEpDMVpkdWlGZi12dkpGd3dCS1g2NmMySG15Q1hUcW5OQmw0MUZieU80Tm9UWU44MnFsVVZhQXlpeHVCMGRqUDhIT3pGUkpjRWQ4TGtHdUUzOXBtb0ZESHMwLUJxVTJoUkc3bmNSdzAxV0d2eHdRaGpoVQ?oc=5",
-          "published": "Sun, 03 May 2026 11:30:00 GMT"
+          "title": "Bosnia and Herzegovina will play soccer match in St. Louis ahead of World Cup - STLPR",
+          "publisher": "STLPR",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0N2c3NBR2d2enR3Q1VjWWxrVWFvUkJpN0lpcG1aSUVJaGxwSzRUSGVLSWJ1N2VlQVZkdE9KLW1HajRReFRWRUdTaFZybm03ODF1Yjlfa0dMaE1RbjlRYl9qOElMV0wyc1RjbmxVc2x2Zmd0TlJ1SllyUHdmWEZYVEh3?oc=5",
+          "published": "Mon, 04 May 2026 16:27:00 GMT"
         },
         {
-          "title": "‘Not FIFA’s job’: Norway soccer chief calls to scrap FIFA Peace Prize after Trump award - The Jerusalem Post",
-          "publisher": "The Jerusalem Post",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DWjJ6cUtRWVJtekhfV29tV2RsY05OV2x2NloxUU4xemljWGhURVRFQWYyTDQ2SkdfTndxbVNpZFFicVdUSFlfMDZlMnY3WEtEMTVQb0pGbFM5NjNVaTNZ?oc=5",
-          "published": "Sun, 03 May 2026 04:37:23 GMT"
+          "title": "2026 World Cup Odds: How Far Will Team USA Go? - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmZYU0p3SW5lYTZSQWprbk4zaEFna25hanBPSDd1aDI5bTIzbEtfRFlBYkZqT1FVMXN5Y29JSGNpVV8tR2FoU3k2RGRITXJweUhpMmZxdTdUVmYxLVdveFRyZHFnX3dHbGpjZGlYQm5nWmE1d1JHZU5UZGM1R3RENldmTTl2cTJGZWRPRi130gGOAUFVX3lxTFBlaXB3NUxaR2NJR0phWklXTVd4dVVXSjlKNTdXYVg5YUxJcjlyZFFMU0VvdmNlaDVidnRKRHJCb0hXRXpRc29oek1WU185VW00b256R1VPQjJJYldETG1tbjN0eVZhamxYYm1xZFA3TTRqYnkwNXFjZTVndzljVGE2U1ZUekNHZXN0c2IweHc?oc=5",
+          "published": "Mon, 04 May 2026 17:41:44 GMT"
         },
         {
-          "title": "Expensive tickets for early World Cup games still on general sale - PBS",
-          "publisher": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTljWG1iOVVFeG9JRlpFZEI5ZTVSczhtS0RScXpsSHVWRzRDb0dyRGRlWFFxX180SmxNMVNWeXhEMGFWZC1XM1k2M3BVZ285Wk9HbktHM3FoSlNWMV95VGxsdEFTVmF3dkZpbXZ3UDdSQXBEbE90eFFGOWd5bllqaVRzQ0NFeGNKMHQ3ejBSaWFCUzRqS1E3TzFURWZVQXN6aFHSAacBQVVfeXFMTklteVMzbktjWktnRnFmQ0VfcE9yR2k2YW5nXzZyaXdwUGZNeVJqbEx3NWlKTmRpVGw4Y1ktMGpyZTV3RmNTcXFvcDFlaW9fdlNoeEJMZl82N0xOTzl0bTVoRUxyY3VVeS1mRU9GV2o4Z0J4TkI4eTJ2V3hpRDZWNHB2TGlsT240WXotQmZYcFcyZG9XVHdndVd3UV9sdHVmQ3ZpUmwzN2M?oc=5",
-          "published": "Sat, 02 May 2026 21:11:27 GMT"
+          "title": "FIFA bans former Guyana football official Alves for five years over harassment - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0hQUmw5ZWViTkoyQUJMUkVTZktMdVNXM2REZjMzX1VnNGdPQ2FtUnBJNHBkVmhVT2V6ZEhaNy1YbVNOSE5WWV9obHJRVkUxa25nemNfdkxfVEpld3plcEJVNmZJemlZbzNGVkN0QWE1dk90YVFuRk94YlNKc040WjRjdWVBR1RsMHV6YzN0c1lCUmlvWXM4aTJpa2g3dzNud2NHbmNUcWJpSjc4X0lEVFBuX052cGhqS0pyNlNIYUFtQQ?oc=5",
+          "published": "Mon, 04 May 2026 16:37:17 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Box Office: ‘The Devil Wears Prada 2’ Dazzles With $77 Million Domestic Debut; Powers to $233 Million Worldwide - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWdNT095eHFFWnctQzFJZTdIc0RpeTFZV3pKSjU1cXdoMDhIeUpVekVlb1JLcVFaVUpQSnNDdWhPZ0kxbm1JVmtPZFJ5bWtYRldyUjJPMW9kYldJWndzU1lKUW1WdWZnMndTemZ5SWhNR3BmdEM5WmU2aGJDVlZuaEdpLWpFXy1aZWNUaURtNjUxUjVlZXA1cW1zNzQ4SmtnYVBrQkQ3WlYtLTA?oc=5",
-          "published": "Sun, 03 May 2026 15:21:00 GMT"
-        },
-        {
-          "title": "Watch Olivia Rodrigo Perform New Song with Weyes Blood on SNL - Pitchfork",
-          "publisher": "Pitchfork",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVE1yZXJUYWdOSG5LdHNDV1hjX2haVkNLRjZHX3ljRWd1Nm5ZdU9xT2NSd1YzOW5qai1Pb2NJYjREd2FSLUY0QUpNSTJzQXJ5MzViejY3dVRWM29NY3lrTWhVX1NBLWRHUDA4RVZocWhCQTV1STcwcG01M01lNkFIdW92ZVhZWW1yU3drdw?oc=5",
-          "published": "Sun, 03 May 2026 15:38:11 GMT"
-        },
-        {
-          "title": "Fashion’s Faustian pact: the high cost of Jeff Bezos’s Met Gala patronage - The Guardian",
+          "title": "Met Gala 2026 live: stars walk the carpet on fashion’s biggest night - The Guardian",
           "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeWxMN3M0Wk1aRjJwVzVEZnZpbEw4VGlVRlZrX19rQlFzeHpOU3ZVLWY5V3FRdVRNVnc5ZnAwNW8tNHBQaWRmdnl3ZTIxUVpsQzFDTlRVNjBOWmdPQWgwR2htSWVvVEVxT0tocVRQc29BLUtSRHBCNE1kZlVJOXJSNDNGQ1VESmJvZTRfcjVNOUFsUQ?oc=5",
-          "published": "Sun, 03 May 2026 14:48:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZC1SYzZhWHFlUnMzSGRMMmVsVkMydTRMREJZVkFiTWJZc2liMGp4YnlqamZ4eW0tU3V6c1huOEVIczlxRDh5XzY5MDVobHc5anJfV3hsVVNyeHZPVEY4QVZZZm9hOGhvMFFoTVRNVFFyME9iS3VuS1BWREF5OTFuc1lRd1h1aVowaThmclFIa1NmUGhoRElNcm5QZ3hlNjNCZzRnZGFhM1FfNFJSekJjckJibjZSZUdieFRyVEwya1F5aXRRV3l4b2Z2RTZWQ1hINlV1cjRIZXUydXN0Y2NNaA?oc=5",
+          "published": "Mon, 04 May 2026 20:38:00 GMT"
         },
         {
-          "title": "Storage Wars’ Brandon Sheets Finally Spoke Out After Dad Darrell's Death, And Brandi Sent Tender Thoughts Back - Yahoo",
-          "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTRfMUFOTDEwMHRYVERhblk5VEVNUE02ZnQyb1BweVFmd1EtazNJY2MwdWZMRmwyU200bEpLb2FwSjNYUGRQZ3piTnV3VG1hOEpGdnMxb3JsdWppSlBBampzcll5ZXh6cDI0R3FiOTlEM3NYYnRLZWFubGthSVRDYmV3VVJMUTJVRmpHQ3MyQ1NKckhKZnk3aEJTeEF0a2c?oc=5",
-          "published": "Sun, 03 May 2026 14:39:05 GMT"
+          "title": "It Finally Ends: Blake Lively, Justin Baldoni Settle Lawsuit Ahead of Trial - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVFYbnFLQUdNS2NHNzBsZTZPQXl5QVlHeVFybTdLb2NFUU5wNHhmZ0Q5TWw0ajRUY3dlR3BzUW1FekZYd0dlbjNIUkM1MFZiaGg2V0dzQ0JfVDA3TkEydGxoM3ZDS0FWWTU4VDBFQ3YtbXpBb2V1eWJwclZYRTJsNXh5aWNIM0xRbFNBRzBNeDgyWlpUS0hRRWxWSlMxVlVoV05zOHpmeFE1WU1nekNHWVY1MElTb2d6?oc=5",
+          "published": "Mon, 04 May 2026 22:12:01 GMT"
         },
         {
-          "title": "Princess Charlotte's Style Is Shifting to a \"More Grown-Up Tween Vibe\" As She Turns 11 - instyle.com",
-          "publisher": "instyle.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTNjVEEzR1JRZjE3aUxZc3RPMnM4NVpwTEs2S2I5LS1icnd4ZjdYYVlGQi03RHVyWGh5RTFpczhOVHlSSFZSUUN0Y2lnbWRnbXViTUJvQUxUX1VPd3FHSGpabVF2c1IyVDc4MmFYUVc4YzRrcFlRSG5STXNGUFVtTU5Gd2RHU20tYXhkSVNXazFpZ2dLN3RIQ3MyRQ?oc=5",
-          "published": "Sat, 02 May 2026 17:00:00 GMT"
+          "title": "Dolly Parton cancels Las Vegas residency over health issues - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sYUttUEVSX0d4Z0RwdzBTNlNuV2FTLUpYQ2h0MUV1QlVVZWsweDVidFlBcjZBZnBhOTFjSkhuMlE1VTgwQ1VQY25EamNzR29TbXAzY0JKbS03dw?oc=5",
+          "published": "Mon, 04 May 2026 21:18:19 GMT"
+        },
+        {
+          "title": "Britney Spears Pleads Guilty to Reckless Driving After D.U.I. Charge - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR0ZiR1ZrclZIeHJqMWE4anN1QmFzenFrTUhsS0NlZWtrZk00V0xXM1YxaDZaMzBpYWNSbWx4cmNnZEZpOTNROWVZaFJOMUR2N0lHd1ZNQmZoZERfMlYyZkhoVU5vNVk0T1YwYURBaHBCR3JDMVNKSTRRY0RxS0h0SWtLWF9lTWpLWXRn?oc=5",
+          "published": "Mon, 04 May 2026 16:08:03 GMT"
+        },
+        {
+          "title": "Cara Delevingne Does LBD in the Front, Naked Dressing in the Back at the 2026 Met Gala - Vogue",
+          "publisher": "Vogue",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JbjFzdjhqNDIwaDhha3BJNjM4TG5aQ2hGMl8zNkxlR2VpazRqcnFxX0puRDFVaWRCNEhtUGlBaUtQSWUybU9McVVjSTdoS0JYbUZTVm94WlBTXzVYM0hpSlZhS2xkaVE2Wm5wVFVQcUMzb3BXM2JfY0RKVW5ROEU?oc=5",
+          "published": "Mon, 04 May 2026 20:41:09 GMT"
         }
       ]
     }
