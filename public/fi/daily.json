@@ -1,7 +1,7 @@
 {
   "market": "FI",
-  "generatedAt": "2026-05-06T22:53:17.695011Z",
-  "validForDate": "2026-05-06",
+  "generatedAt": "2026-05-07T23:00:48.926541Z",
+  "validForDate": "2026-05-07",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Historiallinen päätös: Autoilu kielletään Helsingin ydinkeskustan kadulla - Iltalehti",
+          "title": "IS: Hilma Halla-aho kertoo, mitä SS tarkoittaa kohuryhmän takissa - Iltalehti",
           "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yNVJhYnhOUnYwcEZsSF8zTmxsZnVuaDZTaWtRdXhkMGhUcUdST2h4S0FoVS1YOFBtMFM2UHk0anpIbml3UnROZ3Z0cElSSEdBMi04TGZLam1LZ1Ixbm40MWFVaHAtbXBjNFl0bERuTmVzci0xVW5KQUxQRmt6bFE?oc=5",
-          "published": "Wed, 06 May 2026 18:21:42 GMT"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WcVlSMXVFb2N1eVEwV3U5VmtybGI4bzZXeldkdFV2ZVFiSC1SbGVpZjdwYW9oX1F5MU5XajdKVkFITkx3aU9rWnk0ZE9WbGhLZ2FQQ1UwQk1DcWwwVU1UckREUHo4aWhCTVB1djVINTNINlZldFZobHl5dw?oc=5",
+          "published": "Thu, 07 May 2026 15:19:32 GMT"
         },
         {
-          "title": "Tampereen mielenosoituksessa väkivaltaa – nyt puhuu poliisipäällikkö - Ilta-Sanomat",
+          "title": "Venäjä suuttui liittolaiselleen Armenialle, joka isännöi Ukrainan presidentti Zelenskyiä - Keskisuomalainen",
+          "publisher": "Keskisuomalainen",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HYnNSN1c3eUVhVUZGcF8zdXRHc0dfRUs4X2VINk9meklUeXJTenNiM1ctR3JMVU42eXFFc29BaGJlWG1ka1IxUEdNelVtbThvbmw2dHdmVQ?oc=5",
+          "published": "Thu, 07 May 2026 18:54:46 GMT"
+        },
+        {
+          "title": "80-vuotiaan puukotus kuvattiin videolle Helsingissä - Länsiväylä",
+          "publisher": "Länsiväylä",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01cEdYbElPOGxuY19wNDdjblJybE1LRFJpdkcxU1poeHpnNGtxaVRoZUZnalNoRzA4bWhJMDcwSWZsNDNsX2JucjVIRmc0cE1od2VoVQ?oc=5",
+          "published": "Thu, 07 May 2026 18:27:00 GMT"
+        },
+        {
+          "title": "Lääkäri kommentoi videota Tampereen mielenosoituksesta: Isku päähän voi aina olla hengenvaarallinen - Aamulehti",
+          "publisher": "Aamulehti",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMbVQ4U1lMTnhtNkdQNzVlWGE3UDJReThFZ2ZaMkhtLU0xenROa1N4cjBrVEVLYWhrdkdDSFRDSkMwS25FYktvbFdoZVh0ZTAyZ1dwMXVWTEw1WlVSZWg4VWVRZWt5QQ?oc=5",
+          "published": "Thu, 07 May 2026 17:30:00 GMT"
+        },
+        {
+          "title": "Rydman: Tämä on keskeinen ongelma vanhustenhoivassa - Ilta-Sanomat",
           "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpYU5YQVhLSGFBdkpFSTc3aEhKaWF6cXlBVUNIUjNNRmt4RGJ4TkhtX1dzMFBqTWNhMzRtalFmZTMtLXlsQXh6b3lDV1dEODNIZzc2LWg4OVhGdmgx?oc=5",
-          "published": "Wed, 06 May 2026 15:45:00 GMT"
-        },
-        {
-          "title": "Eduskunta | Riikka Purra: Oppositio ei kykene kymmenen miljardin euron leikkauksiin - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBSEItODdsNnZNdU5McHdPaVM0V0xhTk1WTnFrZkl0VGlocjZUYW1waERCR2puS1Npc2pRQlI0X0ZhcnVoNi12TkNsYzQ4OUFIWHhZczlVUjJCTHVWbGpjRw?oc=5",
-          "published": "Wed, 06 May 2026 13:45:00 GMT"
-        },
-        {
-          "title": "Ounasrinteen peruskoululla keskiviikkona perätön uhkaus – oppilaiden koulupäivä päättyi porrastetusti - Lapin Kansa",
-          "publisher": "Lapin Kansa",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObG9BWWFGanIwR0ZSZFNNLUJIdE5neDBzdFRCVU9qRmZGemxOcl9pQjJ4eFlXOHp1b3ppRGlTVnVkcDBYMUYyR3RKc1AyTnJ0YnJxNEd5dnJtU21ISkFGUjlWSHZERFM4RExKYjVkbzY2WTdTRFVzSVBXbDBieVNOeF82NThvVVVxdjlNQU93?oc=5",
-          "published": "Wed, 06 May 2026 21:27:08 GMT"
-        },
-        {
-          "title": "Poliisi takavarikoi 300 kiloa huumeita kolmesta vuokra-asunnosta - Yle",
-          "publisher": "Yle",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9SdXNMSS1lWGJMNHN2cWQtT0k2WjhTbHR6cTdpcmdwalNMOXFZcHVNUF8wMllOa2padHR1OUFOam1qZw?oc=5",
-          "published": "Wed, 06 May 2026 06:30:35 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PZlJDcktKN2ttUTk4YjF4a3hNX3o0ai1uVjUtQVRhMVdNQnNBQ1FKcndfX3VSN1l6UFJNUk9aSjdQMnFHQkZZdUJYNnZ1YU5rTkJuYThDTGhGUUVabnlseA?oc=5",
+          "published": "Thu, 07 May 2026 17:52:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Tappava virus levisi risteilyaluksella – Alkuperästä epäily - Iltalehti",
-          "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43Z0tCZk1KQ1BQTmFselVHMTZpZnE0M3g4NjlMVTdST0JRaVBuWEFIUXlMLXJhMWxzUVNoc2JiN2VQRHRGSzBkMjRoaVh6bnV0MWtaZFE3REYzN3VNcjlJZ2U4V2FTZ3VkV1FGYVVLalUtcklSNEtCc3gzRDk?oc=5",
-          "published": "Wed, 06 May 2026 21:23:13 GMT"
-        },
-        {
-          "title": "Iranin sota | Trump uhkailee jälleen pommituksilla, jos Iran ei hyväksy rauhanehtoja - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mQ2lZTWlaeDFOSUpqc3N3Nml2UGUxT0JfalAzdHdyQkRhQ3NuOXlMZERYX04xaGk3YXVYWl81QmpxS05rb0JLbENsdHhFb19yMzllUWlqTE8xUFp5?oc=5",
-          "published": "Wed, 06 May 2026 15:54:00 GMT"
-        },
-        {
-          "title": "Zaharova: Kehotamme diplomaatteja evakuoitumaan Kiovasta - Keskisuomalainen",
-          "publisher": "Keskisuomalainen",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rYldPU05rOVVOaVozaXRYeGk2czJSNjBHd2dCak1WcWNoUUZraVEyb0x6VUxLUHdSVm5SeHhhYUhyWjZWZHk0NFVtREtHQk9jR1VHNXEyRQ?oc=5",
-          "published": "Wed, 06 May 2026 19:55:10 GMT"
-        },
-        {
-          "title": "Elääkö Putin jo lopun aikaa? Asiantuntija Henri Vanhanen vastasi HAAPALA-TV:ssä - Ilta-Sanomat",
-          "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FMEdKcUNNREQyNTBZakZVUEpVb2dPdXRLeFFGYzZnc1FXWmYyVWNwbUlkNGlQUWFnMVg4Wi1QMGI1b0RRLVMxUnRSSlZweUxsa21VeFRmaFl3cHZndzZjSw?oc=5",
-          "published": "Wed, 06 May 2026 06:00:00 GMT"
-        },
-        {
-          "title": "Washington Post: Iran onnistunut tuhoamaan USA:n sotakalustoa paljon kerrottua enemmän - mtvuutiset.fi",
+          "title": "WHO: Hantavirus ei ole seuraava korona – \"Tämä ei ole pandemian alku\" - mtvuutiset.fi",
           "publisher": "mtvuutiset.fi",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzI3Zk94QkViMTdIVVU1cmxyRXJYY09OeHIxbUtUYlhFZEZJRkVyYmJSUmhXWnEzNWtpYlg1ZzROaER3Y2pUQjFPd3VVSDZVRGQ5RVViUkVzTm94TG9YSmFSdWZDSDRnQmJIZzRQNXpxV0FCWGxqMFF0Zll1QkRaSnJZb182LWNIRUM0bWd2cHlnN05ITk84ZGoyWm5tZVNISFN2UFktOFVtNjRqNkFsdnJzLWRSQ2VVTy1TQ2xHd09BVDdXMzcxTQ?oc=5",
-          "published": "Wed, 06 May 2026 16:56:23 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTm0xV2IzOFZ2V0I4eVd6WFlIOXhaOVZOMVZRWlVuN1Z2Z29ZamNjckZlejFHaU5UMlhqV3I4LURzaEtnLWVJclM0TG1BcHVlR0NTQUthOWctVGcyQXBfN3V6QmNhTVNHMTlOU0Noc1lKWGpPU0pwLV91czlnMk45Y1lHekFKZ0VTWTAweVc3UldGQ19LSlJqcHhEckZXTXFwaGdLUDJBbVhiNWU4?oc=5",
+          "published": "Thu, 07 May 2026 15:36:57 GMT"
+        },
+        {
+          "title": "Satelliittikuvat näyttävät: Ukrainan tuore drooni-isku ei onnistunut kuten Zelenskyi väitti - HS.fi",
+          "publisher": "HS.fi",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qUXVjRmM0ZE1kSkhuT1VNUkxqemx5ZXk1dVprN3RVX3QzZTU3OF80QWMtTC1fdjRqclllRGZLbGVGT0VTSUlXREU0Q3RqLTROY2JPT09wS2FSUQ?oc=5",
+          "published": "Thu, 07 May 2026 15:49:00 GMT"
+        },
+        {
+          "title": "Hermoilu Moskovassa lisääntyy voitonpäivän alla – Ukraina taktikoi tulitaukoilmoituksellaan - Kaleva",
+          "publisher": "Kaleva",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDFPV0hJbmNoRFY5a19pWWdwLUd4TDdXRUJMQ0hUS0NCcWNPdHA5VkNLajBYQVV1WHIzYm1QM0RWOVRRUE9yZUNheVFSR192NmZ1R0J4ZzFhakQwclV2azBkMzFaMnlmNzROY3RCeG4wMU04TmhPdG5mN1JaQUl5WFNOOWMtaENp?oc=5",
+          "published": "Thu, 07 May 2026 12:05:00 GMT"
+        },
+        {
+          "title": "Miten Saksan liittopresidentti kommentoi Trumpin tylyä päätöstä? Stubbilta selvä viesti amerikkalaisista - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4MnBaTzRUZUU3Z2NOX0c1ZlAwQ0RPSUNNeWFaYkpUTlo0ckN4VUlPQXZhLWtUSklJeFVTZ1loSTV1VEktNXo3Z2RGRi1ocGVMbEF0dlpXUWMzMVFoR0Vtcw?oc=5",
+          "published": "Thu, 07 May 2026 07:04:00 GMT"
+        },
+        {
+          "title": "Pääkirjoitus Trumpilta raju veto – Nyt Suomelle aukesi kauhukuva, jota Stubb on yrittänyt estää - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUlh4ZHBZd3hEY3NONlRIWHFVZjZxSFk3T2RNcklDZkR1Q3MxdW4xWXlpNG1MTlIxaGFkWjExc3I3S2ZFU1YycUowSFM4cjFRd3YwSU1LcmRrRGdWTWw1M1duQVMyVm5WZ2RTRFJoVzMtR0dWUW10ZUEwZHdZdkMxbEVB?oc=5",
+          "published": "Thu, 07 May 2026 16:32:37 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "S&P 500 ja Nasdaq jälleen ennätyslukemissa - Yle",
-          "publisher": "Yle",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8wS1N3UEVDY2ZrQl9US3prNHBLV0RtNlotRTlsSlNxejBjQlhBZEYzdW1QcktUWGF6Q0RaS1RlOGF2UQ?oc=5",
-          "published": "Wed, 06 May 2026 22:18:44 GMT"
-        },
-        {
-          "title": "Autojen viat | Teslan hittiauto tuli katsastusikään, ja hylkäysprosentti on ennätyksellinen - Satakunnan Kansa",
-          "publisher": "Satakunnan Kansa",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaNFZXOHNyUV85V3NtREJpQ2RSeFBVV3lhMnhJcUxDMUtPelp6WGRwa1dRVDMtOGc0Qk4zbzc2RDhibEV1WHNIQWM0ckFTMG9ERVliLXhXd1ZqUFRPbHgxS01MR2VRMmI2RnRBZUZvSQ?oc=5",
-          "published": "Wed, 06 May 2026 18:15:00 GMT"
-        },
-        {
-          "title": "HKFoods Q1'26: Tulosparannusputki sai jatkoa - Inderes",
-          "publisher": "Inderes",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNENSTjFyUTAxUU1CTjNHeTFDcG0yZXN4VVlIeUpObHdBTTFtb0JwS0dPTlc5UTh3TTJWX2pJYklHUUFNaUNxVFN2eUZ1NFBtWnZzT0NTcGdhMVdUeDdMd3hwMW85UmM5U2JyUVFOcnp0Nmpsd2VvaWYyRmpHaEU?oc=5",
-          "published": "Wed, 06 May 2026 16:03:25 GMT"
-        },
-        {
-          "title": "Sammon arvostus houkuttaa, Helsingin pörssin yhtiössä ”valtava alennus” – Katso keskiviikon Talousaamu - Kauppalehti",
+          "title": "Markkinat ottivat aikalisän – Nokia luisui New Yorkin pörssissä - Kauppalehti",
           "publisher": "Kauppalehti",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ON05WYU1tSFhyc2REYjY4eXdQQmJOUmhzcm9qYmNiZmE5M1MyRllCd01acDdCSFVmSlVlck84Ty1jdng4aVlKbW9QSHA2cHhfd2FqWFB1ci1CZTJRQjFYVEpOazZEbVJJUkxDMEk1NWIxckRVU2JBMTc4M0R5QQ?oc=5",
-          "published": "Wed, 06 May 2026 11:46:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5SHBIdzM0LTlYZmNoMzFONURsb3VBMk9Qb1ZWZGU3ZE5CVEVhUWhjR2lnbDIxVkhBXzNJYjY4aG9WZURwUllWTGJfSVlSUmo5ODlxMURKTHUxYzVBaXhQVTJ6Z0RxTWVrUU81cW80c3NqWmVqb0h5U0E4X0FhQQ?oc=5",
+          "published": "Thu, 07 May 2026 20:35:53 GMT"
         },
         {
-          "title": "R-kioskit uudistuvat täysin – valikoimiin ruokaa ja juomaa - Verkkouutiset",
-          "publisher": "Verkkouutiset",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY1pvVU1vMk92VF9kdk1uLXRkX2dyVGY3QjI1XzZsTzczZGU0dVlhbVNFbHhBOHkzZVVnUzI5azVlQzVCYnlEZE05VTdZT1dLb3VEc1FIMk5ib1VPWVNqOFA1Yk85bkdPUEVSZjljQ1l2ZG5QX1BMMTJaYkVsMDhzMUZLWEN0aGZJdm1rN29KNjRmUQ?oc=5",
-          "published": "Wed, 06 May 2026 09:56:01 GMT"
+          "title": "Historiallinen potti: Suomalainen vetyhanke saamassa 224 miljoonaa EU-rahaa - mtvuutiset.fi",
+          "publisher": "mtvuutiset.fi",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd2RtbGttanIwcThvLWliSHVNYnZUbXkyRVhDbjJqaDZDTlRDNkRsMTBmeC13cGVLQXpVeU9yVWVzaTNzQzFoekNOS2tMeFFtQUFMV0lyWjY0OUNyWVJ3MGE4a0xURVIwMHJ2T05GX1ZDT3hreXU4TWpWa29hejQtMnRzSG96d29TWmtEeWFvSVZMVkptdFU3eVdVYnEzdEE5VXhnWGJ5LXB1Q2ljMTNmUGpBdFNtSDZfTFE?oc=5",
+          "published": "Thu, 07 May 2026 15:38:04 GMT"
+        },
+        {
+          "title": "Helsingin pörssi sulki reippaaseen laskuun ‒ Nokia putosi 7 prosenttia - Arvopaperi",
+          "publisher": "Arvopaperi",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yZEsxamNtUGFfNGI3U3pVck5XYXU2TkpFdFlVWjZNcFRidkZzdlhjRHk0Q0hMZV9kbkc4aFZlV3RyN2M0WHF6LVc5enFPSHZfbjhTNF9lRnQtU0otX0lRSWVKV3pJUGtrMGlyalJMNGNNYVdxMEh3b1RsNUk?oc=5",
+          "published": "Thu, 07 May 2026 15:41:12 GMT"
+        },
+        {
+          "title": "Huhtikuun 2026 asuntokauppakatsaus: Asuntokauppa kävi heikosti huhtikuussa – myyntiajat ja hintataso tasaantuneet? - ePressi",
+          "publisher": "ePressi",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMExIMVc5MTYxejRWdV9tMG45TG0zYW5rc2VsejZ6R2ZaZkIwQU42R1ZuUk9lcV80dHNDcldpRzY3b3VFVXhNdi1CT1NKT2FJbENXOVRoLUdoTFFwUktXcjJjZHVPM28wY3Q1SC01OWxTdnNyemxGSXpkckdoM19XeWNYdUZ1QjdUYzRySkkxQVBNREp4V242MVFjbUxpXzNyM3ZFcnhwX3V0MUFIc2ZlRXFIdEUxeVBOY1NYQ1RYZU85YzZ6bWk2cGhIVkJ2djRkaXhKX3Y5QXBLbzhQbzd0ZlRhT0tnSEtZeC11bEswcw?oc=5",
+          "published": "Thu, 07 May 2026 21:00:00 GMT"
+        },
+        {
+          "title": "Ammattiliitto Pron edustajisto: Hyvä työelämä on miljardien eurojen kysymys – seuraavan hallituksen panostettava työntekijöiden osaamiseen ja jaksamiseen - STTK",
+          "publisher": "STTK",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNU1JULUM3M01ocC1jaGFzcm1vQ2F2dkU4RHZZN0JOYTVaNXFpYkNyLUZBNXV6OEZacVpFek9aRV91dUtuUEhwWnZpb2g1VHNlaFRybWxqejBtb29XUkNQR1U2V1BnVjRfcWRtOWtadDNCZEFyZ2JDelpfcXBKOVRiNjBXM3JvM2pURkRtWjhqaWhMOFlxYmMwWFIyVmh3VThXd0hKc0FITmg5emhRUWVOcllCN2kwc0F6M0Nfa1YwSnRidktjbExsb1hPNkljd2Jlci01Z21UdTB5eko4YWN5UDYzazZadjUtTV9vMXhZOW4wb28ta2NlbGZjOVRMVjNnWm8tYkV4YmpUSzhPTER3?oc=5",
+          "published": "Thu, 07 May 2026 11:33:54 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Tappara jätti KooKoon nollille ja kavensi Liigan finaalisarjaa - Jatkoaika.com",
-          "publisher": "Jatkoaika.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRm9jcHRLSXFwZXhsaXpwUWd4LWxjNzN1cDF0QmJ1Yl9rZUd6VHJlNkRZY2NqSUFkZFIyM19sNmRxenpqWlF5WUxQSWhjQnhuWmhjYU12ZlJFd2Q2TFVHUkM2NVRRV2ZhOF9aYlR3SUt5bmIycVRGM2k2aVcxT3dXdDBLR1ZLSjZzNkhlV1NjbE4wUm1TcklUSzV6QlFvRDQ0dl9FY2NYVTdMRDJv?oc=5",
-          "published": "Wed, 06 May 2026 17:57:34 GMT"
-        },
-        {
-          "title": "NHL Draft -ennuste: Maple Leafs varaa McKennan, Sharks puolustajan - NHL.com",
+          "title": "Aleksander Barkov avasi kautensa Leijonien kapteenina - NHL.com",
           "publisher": "NHL.com",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMTG5kSUdMbWdtcDk4QkdfQzZtbUhyWWpiX2JGQzJSTy1UeVVSSl9OZEdjMU5jYW5RbWh1V3RLbGUtb2JRNjdUS1BOSzItc3prajkzbVVDTmgzN1lNalhV?oc=5",
-          "published": "Wed, 06 May 2026 15:09:47 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40VjZFMl9FQzBfXy1kM2JsbUlsU0E0MUpkRU9MRzBmb0R0MmpMQnBQSWliNGNibDNybHFlX2dYUmo2eDRFUEowYmg4aXlneks0X2dySE5uT2tDWXdXazlZeEpjR0NYelJWNnRRSGdwSGY0dkFobEpZNG5R?oc=5",
+          "published": "Thu, 07 May 2026 17:54:13 GMT"
         },
         {
-          "title": "Sami Pajari näytti hyvää vauhtia Portugalissa – vain Thierry Neuville ohitti testissä - Yle",
+          "title": "Näin Jesse Puljujärvi haluaa juhlistaa synttäreitään – ”Toivottavasti Kölli hoitaa” - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCLUZ5ODBBNXo2Q3lMYjhDU01rbm1KaTJ4bVpfeDVXOV9WWk44dU0yV0xRbWtGbUJEWVhDcEN6Zzd0TG91a2pESXZnX243U3VNSkNobnZOTlZxR3ZZZGtkMzlhTTRubDEtYVRFTUF3ZVVLNWxkYms2TWZTV0ExUQ?oc=5",
+          "published": "Thu, 07 May 2026 17:28:43 GMT"
+        },
+        {
+          "title": "Mikko Rantaselta repesi polven sivuside olympialaisissa - Yle",
           "publisher": "Yle",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8tUWI3dkhBZlkzRE9kYzQ3T1VTS2ZaZW5ZSmU5Q3RkaWpBSXY1Tkhqa0plWW1vaklJODFnOVBRemhBUQ?oc=5",
-          "published": "Wed, 06 May 2026 16:01:37 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWZzhjUnRYUERUOVBaY0xScHBJN2E1dUczaWhxd0w5OE56akxaZ2V0UWRLMEVWMTdyaEhRVS1xeHVEdw?oc=5",
+          "published": "Thu, 07 May 2026 18:06:50 GMT"
         },
         {
-          "title": "Painonnosto | Janette Ylisoini voitti nuorten MM-kultaa - HS.fi",
+          "title": "Classicin valmentaja Mika Ahonen on kuollut - mtvuutiset.fi",
+          "publisher": "mtvuutiset.fi",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFpITjNnUE9Na0VEQnZkQU9LTU9CQmRnZjRzYkRFUmJXV0FoeGJuSTU0U3F2eU05Nk9udnZkSDYwY0dYUUlkX21LeXc5YVlDUmFXTGxYYUlGU2NrcHRMVEpJa1JEYk1JYVJJc29fNDlaNW9DRVJhVEFRcDdEanBtRmdlYTd3eV9KakhUV0lFa0o2UnV1?oc=5",
+          "published": "Thu, 07 May 2026 12:03:13 GMT"
+        },
+        {
+          "title": "Jalkapallo | Real Madridin kriisi syvenee – seura reagoi pelaajien tappeluun harjoituksissa - HS.fi",
           "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ack5kcWx1cURPOFpnMzBVMHY0Q29WcTB6azRXVkNodld0YWplS25HcWVlM2FkeFppVkhtRFhZcFk0azJYdXVNUjJwNnFsR2pvbDNpNU1WY2lMQTV1?oc=5",
-          "published": "Wed, 06 May 2026 18:41:00 GMT"
-        },
-        {
-          "title": "PSG jyräsi Mestarien liigan finaaliin - Ilta-Sanomat",
-          "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xcE1QcVQ3bGxlc1VnV2UySndXdldSYW9EUFBYaHRoQmVtYlBQY2RBVzdJRHE1d2VCaDh4MFRPU1poRmFUeFhsLWl5NkhkakJrYktwYjF0anBLZjB4c3F6aw?oc=5",
-          "published": "Wed, 06 May 2026 21:05:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HX2VRU2F3c05nY1MyUXBmR0pEMTJrZFROZnpHNDNna043UERjRENNWm1BYzRIdmpYRU51RE95LVhOVmprTlBxc2VvMUJrNldLd0tSQmUwN1hkNzZL?oc=5",
+          "published": "Thu, 07 May 2026 21:33:00 GMT"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "World Cup or Bust: Going Into Debt, Sleeping 10 to a Room and Layovers for Days - The New York Times",
+          "title": "World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes - The New York Times",
           "publisher": "The New York Times",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa3J6SGI3VmVxV3Vuc25hZE9ab3FObTJNUFVMeFRPM3VyQVpHTGF2TTBfYWd0aVBxWlQ1M0dyMlhwZEpkRFd5cXlEX2pEeW01R2I0bThjdFhRTWZ0VGJyeWxIMnp4TzV6a1dfX2VPNHpPMWM0Q2pwNHhvemZ0ZTR6NDctS2FpTjFCTEd1c0c3WEp6TXN5cHZRVQ?oc=5",
-          "published": "Wed, 06 May 2026 09:01:44 GMT"
+          "published": "Wed, 06 May 2026 18:55:56 GMT"
         },
         {
-          "title": "FIFA's World Cup ticket defense falls apart when compared to college football and NFL playoff prices - Fox News",
-          "publisher": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY1JqLWxyaWVIYVlkMTkwQ2dyRUtJdFlNcktuVTVZMVhLSkp4b3RWdVlsbTI4XzZiMnZiZHZCMVU3ZThURTZUMHZGZjV4Wk1weW84TGFHa0pudlA0OHRiZDJkSVExbnRoUFZ6ZWZFd0xsWExYTnUtbTdkXzdQM3lRSHZqMUlWLUlsU3JkUFBrc2gyNVRJQnMyTmZ6S1JQR2V6RVVyWnV2NkxaQQ?oc=5",
-          "published": "Wed, 06 May 2026 19:29:52 GMT"
+          "title": "FIFA to drop Panini for World Cup deal with Fanatics in 2031 - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNVZrSGdMZnd0VkJUXy1ocEZuQVZfcDZTSm5USEYwd1pRZVlWMGZqVWFVQVA1Sm11T18yR2ZfM1dNUFItWTl5Q1RWS3RlMzI0TXIwUk1RQ1NNd3UxaHVKRzEzUWFRaC1LaXNySVBFLTAxM0cyeGF3N3NHRWRUWTRocVZxOXVXV1BjU05MTTRXSDluSzQ0WUdGNQ?oc=5",
+          "published": "Thu, 07 May 2026 10:50:00 GMT"
         },
         {
-          "title": "World Cup 2026 tickets are dropping in price - El Paso Times",
-          "publisher": "El Paso Times",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUDJHbjZwTVk2c3g3YmhqUXVzTWtCeFg4YnR4N1M1cEdLMlltWHIzSW5xazhiS09NaGZQMnRuRThMbGVqU1NFbVhhQzV5cHptam1YRmx2YUppWXhBbXpkdWV1aEtjdmhGUWwyc0JHY3gtVkphX09vYmdhUV9ydUczcDQ3OWJaVHZrdzVDNE1EeWVDb3JRSzk0UW5hSkhGMHJKSlNXS1VIVlhaRDhreENjeEZ5Wm1Eay1lbzN3SXItdnBXTFU1UHVrbGYweXVkZElzQ2dFTjdoMHY?oc=5",
-          "published": "Wed, 06 May 2026 19:20:00 GMT"
+          "title": "adidas Presents Backyard Legends With Icons From Football, Music, and Film Coming Together to Celebrate the FIFA World Cup 2026™ - adidas News",
+          "publisher": "adidas News",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVm5nN1lYdktnRHZkRmRjY2hRcjR5anFZQXhoX3FLZ2UwRWlkS1VncVVhckxtNENmZDljeEU2amNjemZaYldLbEx1TXdFbzg4R19UYUR0R0VUT3hSM3FqRFhRNEZIcWJGUHRyMExUVk4yY0gzVk5qYW80ZmJhSXRPTUc4RmpnOEFFaEdCTm5BWmhrZjhzWllzSjlNS2xUbWRCUzNqUUFybW1sal9pX3p6TU9mNFV2clBISWU0MVBEMzZsZFdjbkVUSElNb1BrbjloNFc1YUFNaGNUNldDLXJCRGRJYUFTU1Z4VnZnZW1KbHMtZk5ZQllfeXczQWFXellxRkE?oc=5",
+          "published": "Thu, 07 May 2026 08:00:26 GMT"
         },
         {
-          "title": "FIFA President Defends World Cup Prices With College Football Comparison - Front Office Sports",
-          "publisher": "Front Office Sports",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcE91NEF6Zkw0djZqTy01dm1LNFUyMzJPcXV0dmFJbDg5Q3ZkSGJaMDVfdUFkZ3ZvOXJ5b0hWaDJIdGpsU1VnQV9BNkJRMWdxM2RYXzFHVnUxbzlHWHNoSFkwOXRIb2FWTmRad3lmVEZyY25NdDlNcHBKNGVReVc5ZWFWbWV1emdLYkJMdkZXY2IxSW40bVFFQUxmZUhMOFk?oc=5",
-          "published": "Wed, 06 May 2026 21:56:15 GMT"
+          "title": "France Conference League Soccer - Journal-News.com",
+          "publisher": "Journal-News.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVURGYnNUUzl1bTdtS1dFNVhLaFBIVFVaWlpGMUYzYVVKUnFDcHptY2ZWc21mOVJpMThkRmc1a1hyVmhZN2VNekRweW1qOGkwdVExY2ZKXzZhVFFrNmpabDVoLVRDanhFVlRJQnlxT2pYSmFCQnp0TXBBc1NoZC1tUDFVNEZITW84ekZIdDBPYmJSSHNrcGJGeVlrY18ydEdyUE0wMlN0blVPRkl3NndkVXRoQ1FPNWNDWmFyV0ZB?oc=5",
+          "published": "Thu, 07 May 2026 19:43:02 GMT"
         },
         {
-          "title": "Could World Cup be catalyst for Atlanta soccer’s future? - WRDW",
-          "publisher": "WRDW",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTldOU2Q3NTJDYlhIZFVycVIyQXhmdzh5OEdnc1dSUXZ1V1AyQ25uNW5aT25fZEk1ZXVUSk1DVTQ2WnJOYjBadUdpSWsxNFpxNUI0dXBvZ0RlVkdQcnZ6MzlMNlRWRmljQmlqVVVzZGhCWFVzeHB1c1o4VUtlZ01DbU9iemdPNTRpWUVF0gGfAUFVX3lxTE5ZZTdacFN5NkdoaF9iRUNiNTdEbmhVaDVOMGZ2MzFnVkdiUDFtOGtsOGM3VEQwSWZLTjJaRjNqaFJhTDhMNV9OY3F6Sm9tZXlmY19LUy11dkIyeHFVQXdkbTJiYnZJOTYxYzNiU1M2eGM5enNRc0hBY2hoTm56T0dUT1gtSzhsNEQzWGxOOWljelpQUzFNZ0VZSGM0NGpnVQ?oc=5",
-          "published": "Wed, 06 May 2026 22:12:00 GMT"
+          "title": "LIVE: New US Soccer HQ opens in Fayetteville as 2026 World Cup nears - Atlanta News First",
+          "publisher": "Atlanta News First",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1djZ3k2ZGN4RExVOURocFh3QzdzeU9EMzlqVjAwbGt1WkFQRHFJWnNDT3Qwemc1QkhjTVBtSkRJSzZOamM2SDhVbVFuSl9FQ0l0TTFDMGZrS21vT1c1akl1cldwQWJianBlZVFyQ2xRYWdrZ0kxTEVWbVNyUEZiZnE3UWVjWjd2bmwzRkF2Y2V0MHdCUXNDdGdwWVd0WWdrblhV?oc=5",
+          "published": "Thu, 07 May 2026 18:06:00 GMT"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Blake Lively Poses Makeup-Free With Ryan Reynolds in Rare Selfie After He Skipped Met Gala 2026 - instyle.com",
-          "publisher": "instyle.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSFFLZndXQzJIaXQtTkJudkFMNzdHWWFaOXkyWjNveWUxM0FZV3FFVHhnUG9xSW9QUGYzRnFwNUVDWXZJMFpkdGhTV0RoSjJ5NDd2RkJkRlZDczRTSk9GNmVvRDVkVlJKMWxwZzlTck1Ub0ZzQjhOSjQ5c0tPekVqRnZpWHJ0RndvbzdZV0R5RmJqSktIUkUzRXFVSlRJdVk5U2kzQTBweFlhSm8?oc=5",
-          "published": "Wed, 06 May 2026 16:43:47 GMT"
+          "title": "Blake Lively Sees Attorney Fee Motion as Act of Advocacy: ‘This Is About So Much More to Her’ - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTkNQa1JxWUN4RFR0cFlsSG5xQWJQWXZheHoyOERVZHRQUVJjMndQMmdOTGtyZTQ5LUd0UDlkR3JTQWkyVXExamZFSFV5cFhTMVpZY1FTQnJFT2pwb2lXWXFnYjNTcE45dmZueF96blpSSFBpRFV0Z2w3akFmVGQyOGcyWVh5SGNEQUJiU3ZGVWE3LTR5eXBtMGdaZUw?oc=5",
+          "published": "Thu, 07 May 2026 20:01:00 GMT"
         },
         {
-          "title": "‘The Bear’: FX Sets Premiere Date For Fifth & Final Season - Deadline",
+          "title": "Billie Eilish and Nat Wolff Made Their Red-carpet Debut - The Cut",
+          "publisher": "The Cut",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXQ0VVkwbHQ2SG1CVk0tSkhmRTk3UjJ4eUhaZ05Nb19RQWpFcjhXMXBBdTJlNmlQMWhfYWRZdVRnakZ3NHFSamRONU1SNl9saXFVS3BZakV3TC1fZnV5ZDdzR0pnSENSSlNFSmhyUXR6YjhnYzZoV2xFSVo3RzNDWFJFUjMwejk4?oc=5",
+          "published": "Thu, 07 May 2026 14:55:12 GMT"
+        },
+        {
+          "title": "Stephen Colbert Gets Grilled by His Fellow Late Night Hosts - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWhadENGc21xVU5veU1oOF85N1ZpdFFHSjhRcnlheWdtTmVYa3Etc3dpOWUzaVBpTG5vMm03RHNVbGxRcEp0d0RZWHlUODZsZ2JSX2toMkxPWW9yeDh6Q083SHM0WndlQWV2ZXZWcExuT2MzMVZNNkZ5aG5mUFVWSEp3?oc=5",
+          "published": "Thu, 07 May 2026 16:00:55 GMT"
+        },
+        {
+          "title": "The 50 Most Powerful People in New York Media - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHNkOTA5V1A3NU1ZUHg1R3pfVXlaczFDeGl3OTNJVS14cDZzODNUZVBLRTFrOHUxTk9qemI4YmlYcjg2WmZRWW5NUXliTnBzbnpDUElEcmQzWGFLdkNsNnY2eUJDcnBMTXhRdFFJVnF0SDI4dWs3MWJudHdWMkp4dlJn?oc=5",
+          "published": "Thu, 07 May 2026 13:00:46 GMT"
+        },
+        {
+          "title": "Jessie Buckley & Paul Mescal Reuniting On 'Hold On To Your Angels' - Deadline",
           "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN0g3c2RRWW14d1RpMF82c19WNkF3d1pCZ2FQakt6b1FvV0lWU2RsbzZOQVJ4TTVNQkxrWDQyMkdsYktBR0hQc25qWC1nb0lZaUdMNjBMR1pYQkNGbHdyeElWTkRJY2NZdmtTUVZFdUlMMFoxWm15SzFZbkJJX2loeQ?oc=5",
-          "published": "Wed, 06 May 2026 16:00:00 GMT"
-        },
-        {
-          "title": "9 incredible Met Gala looks based on paintings, and the artworks that inspired them - Harper's BAZAAR",
-          "publisher": "Harper's BAZAAR",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2NUeUF1UWlNOVdIdnRCak5GTURtcWFrZ2k0cW55OEFpOHNvUlFENHZ0bXR5T09IOVdWQTh0NjZMcUxWXzEySFY5RGFtcndYdmJlaXVDZTlEcWlTOUZaZ3A3OU1Ea1V2UGZ5ck91MF9keHdnUXMtSXQ3ODRiYlBFT3dxa2Zpa0dfelYyWjVBT2hVU2lMbzN3?oc=5",
-          "published": "Wed, 06 May 2026 14:54:19 GMT"
-        },
-        {
-          "title": "‘Hocus Pocus 3’ In Works With Bette Midler, Sarah Jessica Parker & Kathy Najimy Back - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOWZYWjljM2tYOHpZZmllNHRwOTdKWE9YMGhuSWpSaHlKbTkya1l5NGFaYm9SVl9mV3Y4RlZjWlNsdlhlek9TWmJ6QWgwSXFLdFE1Y3ZGamRmMzhSSjEwQWdpaFJkTFJmNk90NTF0SmNLSldoZDRseC1FQ0ljYmpEeGh5Wk5ab2Rqc0FwVWh6TQ?oc=5",
-          "published": "Wed, 06 May 2026 17:30:00 GMT"
-        },
-        {
-          "title": "The Rolling Stones / Foreign Tongues - SuperDeluxeEdition",
-          "publisher": "SuperDeluxeEdition",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HR1laM05WeE1HTE9hb012WHk5WWxINmdjRURnbU1BRlhfQWYwVm5MMGRrODJIOXNEVGRjTHpwdkltRjgxcTNFY2tVX2JBRE9LckVxVFJZVlFmOHphbUZmRXdOY0tfZEt6RzgtMmF2TkpXS0h2aFR5cUdjdw?oc=5",
-          "published": "Wed, 06 May 2026 19:30:13 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGtlS1dEcXFsY182dlloUEYwbGR0Q2JBQkhMUFJ0dHNzb3lQNTFXclR6dmhUZDl1QkRnOS1HSzZ0X3l2dzRUTEltQklsUzBkQVR4ZEpzU0REdkJZd1pvVXNlNTVVWkdmblR0VHNMWWx1eUVBX1hwM0pXdHF2LU4zNV9Rb2ZwR0w0YXFYd0N0R3RZeG90MklLX2dDM0FkTnc?oc=5",
+          "published": "Thu, 07 May 2026 20:37:00 GMT"
         }
       ]
     }
