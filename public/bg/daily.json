@@ -1,7 +1,7 @@
 {
   "market": "BG",
-  "generatedAt": "2026-05-08T22:55:11.010489Z",
-  "validForDate": "2026-05-08",
+  "generatedAt": "2026-05-09T22:42:45.607597Z",
+  "validForDate": "2026-05-09",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "На първото заседание на новото правителство Румен Радев очерта основните приоритети - БНТ Новини",
+          "title": "Мартин Димитров: Радев построи кабинета си така, че властта да е в неговите ръце - www.24chasa.bg",
+          "publisher": "www.24chasa.bg",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00N0tLMkJIcEpoT3lEclUzVkE5QWJSSnFFdENwYTB4WVQzRmRJZVZnbFd2Y1NZMmNlRGN0NDNCU2ZSLUFVdFc2dnMwbWVFaVlrXzl5ZUExeTlOeVdX?oc=5",
+          "published": "Sat, 09 May 2026 15:12:00 GMT"
+        },
+        {
+          "title": "Надежда Йорданова: ДБ няма да участва в избор на ВСС - Dnes.bg",
+          "publisher": "Dnes.bg",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNck02ZnhXTERyVXVWd2RmQmtIdkkwVEJpSE42QTRSTGhaRVBKUU9BZXVaMjlDNEdYeWstYXVTaTZJOHNHNUw1Q0lnZW1sRWNHQ3I4N2hXcUkwckV5Q3F5M1M4QVJiMmw4S3BIVlFxdGRNMlVtbWYwUzR5T0NVV1E3WVRpdmRlczFOckZmeEtzLUdoVjFqUDJ6VGFn?oc=5",
+          "published": "Sat, 09 May 2026 16:27:00 GMT"
+        },
+        {
+          "title": "Гийермо Силва триумфира във втория етап от Джиро д'Италия в България - БНТ Новини",
           "publisher": "БНТ Новини",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFRTSy1BQjZoRkdONVVNYUIwU2NlWEphTThDdTBkWTZCN2dkbC1SRDFkclIzaWFOV2VFU2pGeWZqZE9jMGkwYTMxX0RucDFkTnc0cDZURmo0OS1QbjVObU91SDc4dlE4SXJjc05pRGhxVGdieXVUWk1GZEZtaTIzbVYtcHpXaURheEpXS0hReU1TVHJjUjJjaEtQc1UyZ0tmUTFTWFEybWhNZ0I5V1prVDUtMWtxMkljYzRkOHFoR1ZoYVU?oc=5",
-          "published": "Fri, 08 May 2026 13:46:43 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb1lucE90RUM5Y3E3ZURDSzByOVdFSkpYSFNQY25fTW4tRGswZzNjODlnNFNvbnBGLWN5RU9NUUxzV3VHRzV0OEx3bnJIX29QZURpd0E0TnhzLUVRYUJDdHI0eGtqd1M4VFJzQjF6YmxkQVNwU2psZFRqdmlLZzNkNnVnM1pZcDhTNXhETlhXSVd2OFBlY3NGMEtvWFdLSVZqUEZFam9rZ1VPWklQLW9aNXVnNA?oc=5",
+          "published": "Sat, 09 May 2026 15:28:36 GMT"
         },
         {
-          "title": "Ивайло Мирчев: ГЕРБ направиха комлимент от заведението към ПБ - Novini.bg",
-          "publisher": "Novini.bg",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYbjZtaDA5cHY1U0Q3clBhcUVFb2VnNVVWT2wyTUFYTEloeENVazVRZ3J6MzBWVXVuOUVZQnNZTlRMa0JnWVlXLVVQa1JlczVFZzJvTWFCSF8?oc=5",
-          "published": "Fri, 08 May 2026 18:44:26 GMT"
+          "title": "Скандал в българска църква в Одрин: Митрополит иска литургията да бъде на гръцки език - marica.bg",
+          "publisher": "marica.bg",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUHhKMGVXclI4VnhTdUFsZzJOYlkxdHZPbEJ2cnFQSWxRc2tFY0VwZGpEV1JpM0VNUmhOZWdRTmp2U0tmbTE0WDUxalRqRVVBRmttbkZJcmx4S1pjVnpRbm5xMXFHOWxlTklIYXJyMlY1YU9TaDY0ODdlODhjVDNFUUdYMm5wZm93dHhyaXNwTmY5TVptREt2TFZ2enNaNXpiRE9aX2xadDRnWFpZc1B6YW5fanRXdDg2cnlWV0hrMk52SHJv0gHKAUFVX3lxTFBaYVRFOU1jYkpvbU16S3VQRkM5Z0ZydHduZmNUNk1oTGU3RnBucS1IdlNOYkRTSFBCM1ptT2pkYnJpbFk3TW5NVnlFUTFVZGhWU2hwcVdhQ0hGanZqWmhjaTZWY3ctUHItOW14WFU1eXlTWmdTa2hLRWw4VFh0VzkzMlhEN1dHNHBLeUpDYmYxcTFxa1J3aVJUZHJaZ2hnSlA2dWE0clVLVnhVamR0LWI1am1SelBiMEM2Z1JQU2V5dVJ6NmpXeWlPcGc?oc=5",
+          "published": "Sat, 09 May 2026 16:15:00 GMT"
         },
         {
-          "title": "Пол Мание спечели първия етап на Джиро д'Италия 2026 - БНТ Новини",
-          "publisher": "БНТ Новини",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbllPRXZPaEV4NjFuUnN5TWJpQ0prV2tIQUxJZ3F5WU9FTC1XWUMtVVZGaHNBekpqLTdTUzhuNTNBOS1ndEYydklnZHpDQ21jSDc0UUFzOEMtQVdxVG9tYklNZGctaFFsU2N5WTRYZ3I4TmZYNGtxeXBWVjNkd0lscjE2TGxfczlsLWFkejRGd3FrZnQwdTJTbk5mWDh6dw?oc=5",
-          "published": "Fri, 08 May 2026 14:55:44 GMT"
-        },
-        {
-          "title": "Изборът на Георги Вълчев за министър обезглави напълно Софийския университет - Dnevnik.bg",
-          "publisher": "Dnevnik.bg",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONHFkQjRSTTU5d3FFNkR2WDZkWmRneC1GSTJaUnBIVzl2MTNicDBZLUpkaktIZGgxZEE1anhScXFfbVBkaEJ5NWtVZDgzUnRIRzRMcjZueWpra2xYN1U4amJVLVI5VHFpWFR6blExanFIOU5FbG15c0lDZzgyUFBjYnRvYnB5Q2dyY1lUOV96QXJQNkczakxCYXRRcGM0MmdSWE5zSA?oc=5",
-          "published": "Fri, 08 May 2026 10:17:00 GMT"
-        },
-        {
-          "title": "Смяна на властта в Министерския съвет: Андрей Гюров предаде щафетата на Румен Радев с доклад - nova.bg",
-          "publisher": "nova.bg",
-          "url": "https://news.google.com/rss/articles/CBMi0wVBVV95cUxOeW40SkhhV09CR3cyT3JkalNzek1yN3JEUGFjQWVWZXZuZzJIdTZ0aGZBdldWNlFtTGNhdzdVSWE3UHQzSlRGdmRZRzhwUGhYUVlNXy0xX095R0k0ZHRxaUtpT0M3YnJpQkphMlcxQ0sxNllBM2haallDN2xXUVJPazJQbzkwcWVrZ2ExYUpEYWpFTU5QTXUwS2haY0R6Vzh2ZlFFZjlvcG1aQjFVUFBXRkpTSHBZeW45cDQ3VHd0V19HdFBjVnBpTGxfNVNPVGRqX0taOG5FV2tFUV95RDBYcENseVU4eE9TT21mcEtsSGptWG8zUVhqWjZheGZfVWl5OE1fU2E5bTJRSlNLU196TGQtQjVtWE8ydWJ3UDcwdHZPemlleklkSkRjTWRRcTB6X2VBcERlc1QwLU1BbjBXdjhhenprZjlYYUtfVi1tazlfMmcwbklGOFdOT3ZYWHRSUWFFUkRBOTJVWlNzbkdfRGJtY29fZXFhVG9HRm56QzNFNU9qNHE5N0ZMVkxja2laQjhFLVRrT2NXUS1lRVp2QVF4bmxXcXN1ZlI1a1c2TUFJX1gyUDZFNHB4a1EwS2ctQVdRLXJSdDI5a1dOcGkxY1k1ME1oc0hIQW9VYWwxVzFweHdiMndsQnVydXlEUkdMSkg1dUdsWEZmMlZtSkwydHdLRW1rTV93b1hjWlVjeTdtVFJWWDY3SFJUWTVwWXlPRm1keTVTcXhpQkNabzdaRU5GTWZ2dkRzU0RyZkdMNEoxOWhUbGx1ZjJobmx2b3hlNXNGYkw3VVYxeWY0WjV0X1M4MVc3czRVYmhqMmNEN2t2QjZHTy1kcFo3MW5NQ1Q0RW1pM0ZJajh2cnpaT3U3bXpCWDl5S18xS0lKamVYUjNSdVZoNmM5eDhJa25yMkNENEFTUmpHRUE2dU1BckNUVzNENXp2WlRYdmpxN2dxcWNNSTA?oc=5",
-          "published": "Fri, 08 May 2026 08:58:00 GMT"
+          "title": "Васил Терзиев иска общината да вземе от държавата фигурите от МОЧА - Mediapool.bg",
+          "publisher": "Mediapool.bg",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMW54cW1tVlIxVHRmY0VteWMzQk5vcW1yRFdMc0ZEWXAzVHp2SVZfeXZlWFIzd1hfTDM4RmFHVEw1cGdzQXJMSndyMHltblVMNmlLX05CYkVmU09wTzJzTGp1OG96UmRteHVQcGxvdmVrUHUzNjFTMl92cmd5U1pCYmZHWEFfOThGR0g4X2p6Q0M5THhqVkVGZWkwLUY2TkVmQjlqTm9md25lTDZaaGN1eA?oc=5",
+          "published": "Sat, 09 May 2026 14:55:44 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Лавров: Русия ще отговори безмилостно, ако \"нацистките сили\" застрашат празненствата на 9 май - ФОКУС",
-          "publisher": "ФОКУС",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMGRiUVNLTmNSOTZVVi03N3p0RDBYbU9Td0FKUjNJQk0wOFZaSklyOUdQRnZUOWJQaVVWSml1M1RCcEJkSXA2bTZFakJ6WXBaZFFFQjl0Szh6LThuZUJpT05QZnJGV1QzZnFQMmtma20xRU5GQWhGVGFpR19hWmlVa1NVQS1BQ1g1S24tc2w0QWJvN2M4bU5lNWQtWEJNdTNadGYzSmdiRnZuVndPMHNTQ1FMUVNrX2ptZlU1VUx2cFU1N1YwVGFHRndPUzNCVGV5LW9OcHp4Z09fMWg1T20xR0tB?oc=5",
-          "published": "Fri, 08 May 2026 10:47:31 GMT"
+          "title": "Зеленски издаде специален указ за парада в Москва - Dnevnik.bg",
+          "publisher": "Dnevnik.bg",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOUJqTFEzZjE3QU1JU0ptYnFycGNSRjJIU2FTSFZTelJKZWQ5enloZ2MxYi1pcjVBT29xMWtDVjdSMzBjWHJaQ2wzSW0xdXNnVkR0dDhoMm81Wkk1UHNUOE83Q1VGZGtidE4xdzBJZkNQRzNLTDNaXzVWQlBJS0IzdllXeWlGVGNyemRRQzVyMDRfbkpRTlJLYzQ2WFh0SnFKcU1sRm1zdkpDM2ZJNkl1YmJFM0xnMjdUNkltYlhR?oc=5",
+          "published": "Fri, 08 May 2026 20:31:00 GMT"
         },
         {
-          "title": "Утре е 9 май. От какво се бои Путин - offnews.bg",
-          "publisher": "offnews.bg",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fT1M5V3dDTERUajFMU0FFeDQzal85eEdmNVI1cEF2cktTZ3dfNGw1dlRVRGFiVk5hMFBDX0MzZno3Y1pYa01mRndOekZzZnBUWmlMYlNmUmxXeURibDFBOEtZb1pKZm45VUJibkY1aW9oWU9YQ1paX3pURQ?oc=5",
-          "published": "Fri, 08 May 2026 11:39:27 GMT"
-        },
-        {
-          "title": "Тръмп обяви тридневно примирие между Украйна и Русия - bTV Новините",
+          "title": "Очаква се засегнатият от хантавирус кораб да пристигне в Тенерифе в неделя - bTV Новините",
           "publisher": "bTV Новините",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVGlER1JCSFpsa09zTjNTbmtDZTNfWXhwNzYweEtZckJqNVhrOFFmZEt6QkdLYkQ1OVNGQThWZnA1TFF5dUFVanRybDlZNjVROVAwcEsxTktnS0ZYSlozay0wbl9kdGlFeUR0c2NnZHJIekVzdUNiVS1XWklWX2VNM1RBQ1hYTXNiRVY3MWRwRXdoNFJ0Y0ViNnUyTlNuZDNENTExaEZRVG1CTjJ0MldhZHZyTWt6QQ?oc=5",
-          "published": "Fri, 08 May 2026 18:24:48 GMT"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUEc1Q0FOMkhXaGRYT0dUeW96QmRfTUxES0o3WjRjZEh6VC1hU0FJZC1SN0JqbGR1V05NYk4xU1Y0XzBpOUhHX3hlRXJacmtUOVh0c2ctdjV5cHZmS005cEJpRHhCaHV5UTN2Tl9qWlVBOHZMNWJRVGxLVGJza1d1Zk5hTW5rWURfVk03Vi15Nmx3Ujl1V0R4MS1zTWUwQ2lCSHVuUGJ6N3VVZ0RncURneDhB?oc=5",
+          "published": "Sat, 09 May 2026 05:33:28 GMT"
         },
         {
-          "title": "Издирват 40 пътници от заразения с хантавирус круизен кораб - www.24chasa.bg",
-          "publisher": "www.24chasa.bg",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uRUU0QzVRM3hmMkR2MjduYVNrTklFNERYWkNiZVViQzRFQXFMUkhVakFYZVlKQkp6c2dJZDFBNzhzLW5BSnVJNnhaZ1dHeUpqT1pxWWx0Uzg1aHlxc2dCelN5NA?oc=5",
-          "published": "Thu, 07 May 2026 17:22:00 GMT"
+          "title": "„На хората им писна“: Защо Унгария обърна гръб на Орбан? - bTV Новините",
+          "publisher": "bTV Новините",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNzZXNXZ0Zl9LZ1A0NkdFQjBpQVNfVzcyXzBQc1RvX3J2V0NIcXBpa2dFSWFyOVZBTTRwa1RTX1BmLTlrRHRtWUNqNktrTDNqQUxUdGllNTF6VlVnb1Q5cEdYMXdKeFZCcnZQNFp6VXNpWFZOcEo0TDJ0MlA3QUFVTkZHaEpEX280bndZVjFjUFRsbENWMThkZUFBR001VXkwQmR2S0xoS1M?oc=5",
+          "published": "Sat, 09 May 2026 10:45:32 GMT"
         },
         {
-          "title": "Размяна на удари между САЩ и Иран в Ормузкия проток на фона на крехко примирие - Mediapool.bg",
-          "publisher": "Mediapool.bg",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmlmWm8xalFjU0YyY1E4VkhDd3Q2RG1QMDdfWjJ0RXplNHR5TmVHZHdTWTRIb3dLUzdBTVM3SnRZWWgwMHNUcjlzZTdQYksyMlNMWUNUeG9NQm1qWWhHWEdta2QxRWlyVkprUDQza3hueHZnbDI1OHJQSXgtRm9PNFV2cTh0UzBZN2ZvSV9EbktiWmZmdzhXZ2hxeVhScy1yOE0zd0pJYV8wb2pXaF9kTjdQZER1SnNaS1R3eGVzaDdPZw?oc=5",
-          "published": "Fri, 08 May 2026 09:31:31 GMT"
+          "title": "Киър Стармър няма да подаде оставка - trud",
+          "publisher": "trud",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZUjBaNjNrdDdaMHJDNjZDdmJaRDVwYkdiNmhPUFlNUElieXpHY25lT205Mmk2WTBBUUM2TWttTTVURTZrc3hVSXVtNHRlT3ZsN1V1dzFDTjV1LVVmRXNZSXpRM0Mzc3RlamhoMFJNNFE?oc=5",
+          "published": "Fri, 08 May 2026 16:02:22 GMT"
+        },
+        {
+          "title": "Военен парад на Червения площад - offnews.bg",
+          "publisher": "offnews.bg",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zRzdNNUJqS1Z4NHJ3ZHYzWklNX05vaWRsYWFiV2hYTjFSS19LNlBBeTE3RTc2N3lFdmZ2Q1QzMThLMy1oMGhoZWpJMWVRWVJoN3VJX2lralJvWWpLZjJjeHFjZHBIWmVyV1VWdDhJUnpOTUx3LTJfWVFhTQ?oc=5",
+          "published": "Sat, 09 May 2026 11:44:12 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Историческият ръст на цените на златото и среброто може да се възобнови - Money.bg",
-          "publisher": "Money.bg",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmOEE0eWJiTnRnQXFhQ0l4TWhzTmhJc2tZY293UEkxa21mbjRTVlZsNEtKbWhKZ2oxM25ZQjBma2hmZHpBcjFDU2s3anVhOHM4dmc?oc=5",
-          "published": "Fri, 08 May 2026 06:09:26 GMT"
+          "title": "Джеф Безос е забранил на Джъстин Теру да присъства на Мет Гала заради ролята му в \"Дяволът носи Прада 2\"? - Novini.bg",
+          "publisher": "Novini.bg",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtXzBZblVGRWR5a29XdEQ1dmNrNnhCRzVFS2U3dFRiRk9UOFNSQ0U3cGNFU2EtaVRiZWl2ejNBT0VON2hLQVhFbGxzaTRNWU5mZUxMWFZLSzA?oc=5",
+          "published": "Fri, 08 May 2026 12:21:49 GMT"
         },
         {
-          "title": "МВФ: Изкуственият интелект е заплаха за световната финансова система - Investor.bg",
-          "publisher": "Investor.bg",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZTU4ZEFOZmF1eFBicnBodWNCdHdyeFpsNVduV1QyNDFvTTFVdUVaVmZwYmlYSkk1dUFmRmM1MXk0cDE3RVJGcDJoLTdGUzY0ZkJ1VkY4a2Z5MkxtZkU4dmpQNDBpaU1oSFNWYmlzN01QamVtNUwwSExOa3lVWUh1TnVScUUwakpBcXhMYnZnQ1pHNTUtTWZMRUpXa29nZHZlSUZpVnpabXI3X0t3ZklneFVEaDlpX3pkMW1LZGo0MA?oc=5",
-          "published": "Thu, 07 May 2026 18:14:00 GMT"
+          "title": "ИТ специалисти доказаха, че модерните автомобили записват абсолютно всичко, което се случва с тях - Fakti.bg",
+          "publisher": "Fakti.bg",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelpaODhENEdoc2ZhQ254NEY4NW1WYWtvSVBHZnVFYWdITlVHbHQ3RVd3SnI3S2VVT3NaRzlvMlgwMUJ6Wl9lSmw3RlFZbm13SmJrOFQ5RFRtYUtxbUhmYmZvREY2Wmd2enRoUWgwcUpYS2tFbjY4REZSMmd0SGxJY2oyYV9pTXpwUkRwTnBVRzQ3bmhzTFRRbHN0SGh3QktmVGV0M2hjUF9oSW1JcTJOOHdULW5hcVVWbGZrYWRxQzhEUTh2UmU4UTd3dHJ0Yk0?oc=5",
+          "published": "Sat, 09 May 2026 08:30:28 GMT"
         },
         {
-          "title": "iBanFirst: Световната икономика е изправена пред троен шок - Plovdiv24.bg",
+          "title": "Ferrari печели средно по 223 680 евро от всяка продадена кола - www.24chasa.bg",
+          "publisher": "www.24chasa.bg",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83RUw2TFhsZ0I5LWVGUDNpaWtzQkFSaU94MmFhNTJXYnREV2xTRU12N2JhQi1UbXRMcXBoMXFocU9ocHE2MWItMEVQLWFsNWtEU2dTNGpLbFI5UQ?oc=5",
+          "published": "Fri, 08 May 2026 20:39:00 GMT"
+        },
+        {
+          "title": "Разместване при най-големите банки след приемането на еврото в Бългатия - Plovdiv24.bg",
           "publisher": "Plovdiv24.bg",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX1FyNUhidF9uQWtsQ21wM3pMQk5yb1pPYlFLTl9Bb3I3Q2d0aUZPbks2ZW83ZzFZQm1ERXBicmNCMXdxMHJPcV9SUVptdDRDaDF2eVZXb2FSVGYwUXlVRU43R2pFTFhpTEVRdjJGOUxmakNhZmJkWmRsWHhnZkZBa1lKejQ2MmRNRmxidU1HSlhhVVhsS25fTkwtWVZZb2FBQ0VvYUxRdTE4elZhQnFFZtIBvAFBVV95cUxPdWR3TENSZ1N0elZTb2JwOHh3SkhYS0Fud213MWM1Zi1QV2JodW5wb2k0djJ3eGZqd05HQzdWRzNPYzMtMEptQlVwQ1hGWHlZTnNmVDZDNzF0bko5ZXMwOFJLTE8tODdOX05OX3o2dHZtcHVBRTRPRTkzWEZpVVh5a2lVaGVyOTkyZFBVcTdZZ2RIQzZqLXhWUGJvRlpuS2Zrb2VDbUJhM1lDZTh5UGd4X2NSYnM2cXRkR3E2NQ?oc=5",
-          "published": "Fri, 08 May 2026 07:50:06 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZlVRUFQzX0REZkI1MUxMaVhVSk9KVHI1b1kteGdPcDliMlJ2aFVJZDVmUzB5bzFnUkRaWjRzWGczYlJsOEV0T3pMTlVvR3VISDhNbzYxMVdCWEJ6LW80VlhNVkU3RXk3cGg1MExOZjI1U3NoQThHZEdkTFgtUjI2UHgydjI1S25ZbHVBczFoTUwzdjBDMjl6eG5QZ3dSRERRRzZOR0t1b2xJY1dZQURoTUt5YU44RlY2aktFT3F3?oc=5",
+          "published": "Fri, 08 May 2026 18:53:07 GMT"
         },
         {
-          "title": "Вместо нов китаец - 7 премиум SUV на старо - Investor.bg",
-          "publisher": "Investor.bg",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcHJSQUN5U2xNT0Z1RjA2MmVrMndvaTRjZDhPazBkakl6akxnT1djSDNra1ZrVHlCNXRhYmNyeFNlTHFCZ1liTWRTTjlKdjhkbGVyUm1hZV9MVFRpZDY5ZWZ1TDFRSy1wRGh0X01hYUt4U04xcFdNcDQ1d1FFbGVhNTVnSUdGbE0yN3g3bk5pMUk3dw?oc=5",
-          "published": "Fri, 08 May 2026 22:44:53 GMT"
-        },
-        {
-          "title": "Нов лидер и още печалби за банките - Капитал",
-          "publisher": "Капитал",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT0ptWkdfYVhaM2RpcVh3VzVrUHlvRk1iZllaQTZRN0E1YlA2dVFhb2tLRnJ2NkZFMUVSWkEtX1VmNXRRVHpFTHQzTjNQbkpFVG9kOExydjRySFNBYlQyRTA5Q1luQWx5a3JFOXM1bnhmRjBBTm5iUEZ1OWJPYV84OGVzWU5jNGoySW5tYUlPamlHajE3eEVDakFpSQ?oc=5",
-          "published": "Thu, 07 May 2026 08:50:00 GMT"
+          "title": "Alphabet заема европейски пари за облигации, които ще се изплащат след почти 40 години - Money.bg",
+          "publisher": "Money.bg",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLUlEWW5Pa0lfTDhSZ1JTdGx6Q1FUeXNDQU5RWGlYWGZFSElKenB4ODRoeWRjOUFIdHR2WUpvNS0xdld5dHI1UlN6eDB3RWVGeFB2SkZDc20tbTdkWVFwbkFoTG5LZlUwNGdmTlFZbk5TWmNRUTdiOFNMRkhlc0FJdFRYQ08ydzl2WXFVem5EREstMnZSVkJCSDZZOTdnS3RpNnYyYm1UOEpIYnQ3Q0t4azNiWGx3NHlXY19Jb3V3?oc=5",
+          "published": "Sat, 09 May 2026 10:50:51 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Отново Брахими! ЦСКА повали ЦСКА 1948 и излезе втори - Dsport",
-          "publisher": "Dsport",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXVm0zNERvSnQ3cmhaWHlwREhwTUM4N0FQRS02dEpfUktLbVZrZzZDaXY2STNPczJiM054T0paM0hxMlA2ZmQxc1dKY2Yzc0RzM0FSWHZMWi1BN05YQ0xqSVc3NF90UHd0akFJRQ?oc=5",
-          "published": "Fri, 08 May 2026 19:13:37 GMT"
-        },
-        {
-          "title": "Христо Янев го закъса здраво: Петима са аут от ЦСКА - gol.bg",
-          "publisher": "gol.bg",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeEQ5c1hMV21DU1RRTTIwTTJMblRpRG9RRE92Z0t6VUtwZ3NrSVNRWUxyajlFVHI0b3JBbkhDam9USmgtN1RLYXF3ZmRyX3ZNQ28yb0xCNzBhRWc0WGc5OFl6M1RwWG9RVTU0X1NyVFFPb0dVUVNKTzBXZWh5UG1NdWpwV1p0YURWVkFfRzQtVHJQcWc?oc=5",
-          "published": "Fri, 08 May 2026 22:14:47 GMT"
-        },
-        {
-          "title": "Веласкес: Влизаме в мача с ясното съзнание да победим Лудогорец - Gong.bg",
-          "publisher": "Gong.bg",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGo1alBNbGFxeWVoLTJyLUlOeGJNTG13N055Mm02RmVwblJPb29ING82c2xhYUJzTUhjTVBiR1JEUkNmakhDcDlnX1ZRYnctYjQ0akdSdFdpaHZDTXJSN0F5bVBsdUJzcTdIM1M4Z1N0dHVnQzlObll5cWZuY0ZpTVR5TDVCZUFWNmQ3a1lOa1F1X2RCOHY2T29QYkt0bjlCSU5jbUlQVTNOQVdjRndV?oc=5",
-          "published": "Fri, 08 May 2026 12:17:00 GMT"
-        },
-        {
-          "title": "Реал Мадрид глоби побойниците Чуамени и Валверде - Webcafe",
-          "publisher": "Webcafe",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDk5TWt1N1c3M1RxUmlCZ0hPTjQwcHJBazdET3pQUzg3NVBuR3MwYkQ5MHVFYjE0b3RldUNRSE40c1c2TjVFNko4Ty1HYkwxUFdSQVBLeE1BZVhDX1hjay0teE5XZElOUDM5Ykltb3U5UkZTMWpqdFc3eGZkbklocENGbWhSTFdSR3Iw?oc=5",
-          "published": "Fri, 08 May 2026 15:50:00 GMT"
-        },
-        {
-          "title": "БФС отказа лиценз на \"Берое\" за Първа лига - Новини СЕГА",
+          "title": "\"Лудогорец\" направи шпалир, но вгорчи празника на \"Левски\" - Новини СЕГА",
           "publisher": "Новини СЕГА",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3pSZE53ZzBfMlY2alFWZjNBWTJ4cjc5ZzJiWmM1RXZCel9qd0t1MXIyM040QXFfMERmZGU1RzdRbkdOSmVsaGhlb3lsUkE4ZjQxWFVNY1FoZHJWRzFCcHQ4WTFpRExfc2ZMaXZGU2ltbzZIWHZaanpRZHBZejVyMUpfaEx1M3NWTXc?oc=5",
-          "published": "Fri, 08 May 2026 10:44:11 GMT"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVWRGZkpZU3o3dExfYW1Qbk5pck5GXzlYdGUwQ3htN3dtMGxNNmoyeTd0VWFDdW5DM3FWeUFkVDYxQ2E1WTdkLXRvQlgzNldqY1dxNTIyZC13WHN3RnJmUktkd3V2Z1FnQ1FlOVJTa0Z2Vk5yUm5kQkdzbjVfWE9RR0h1Z2Z5WFpDeC1fSXZfTFdKVzBuc295RmZXT2YyUQ?oc=5",
+          "published": "Sat, 09 May 2026 17:59:26 GMT"
+        },
+        {
+          "title": "Божидар Искренов: Залогът в Шампионската Лига е огромен - Dsport",
+          "publisher": "Dsport",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQzd6UldMa0FuYWVleEx0WDBkUmJ3c0dwbmJDRWVmY1g4Slp6R3FpamR3YzJsLWJrOEN1TVZmNVNkandBR2drOTdleTYtdUhTRDBvdjA5OTc5NHp2TTcwU1dwbTZBWkJ3TUNCX2NxNVZIdnMtenJtMDY3X2psbURKM3ZiSG5xdVZSaXlidUZ3?oc=5",
+          "published": "Sat, 09 May 2026 06:42:00 GMT"
+        },
+        {
+          "title": "От Ботев Пловдив с незабавна реакция след расисткия скандал - Plovdiv24.bg",
+          "publisher": "Plovdiv24.bg",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWUldGNnotbzIxZXJodEszX0VfT2FrWTAwOENLN3hxdGxKQlJLeUZ0bEJNSTZRLXBvUXdkNWlEaU5KYlRDcmZaVVh0QWExdUhXeWNtZk1R0gFiQVVfeXFMUHNGenZrU1Y5Z29lYkpRSmRub3ZwdzhiNW5LRHpwTFNoNldTY0h5MUZDOUNXSXZBal90ZU5YRnB2NEdHVktyZGRDWllFa0FacDZpS2tYb0lVNnFuUmRqLWlOWFE?oc=5",
+          "published": "Sat, 09 May 2026 17:17:18 GMT"
+        },
+        {
+          "title": "Веласкес бесен след загубата от Лудогорец - gol.bg",
+          "publisher": "gol.bg",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMjN6X0piaU5kVkljTkdHTzZMd3lHNVFJUlBaWHQtUS1OVlNzTl9VVzdINVFKYlk4UjRndTkwQVBva0NYdmxVNHBmUENKelA3OHQ4NlRRZVV1MDNVdUxGMHNBNmJlM3k2dTJIUUFrVVFTU1RFLWlIclM5dEVOc2RDOUtYTEc2Yk41d3FHWjF4QlFSc0hKNWdXRWtyY2tDbjBrcjNJeUpOZnpUNDFtUFZjcjZtdjNOSXd1Z2VYR00wcUV5UQ?oc=5",
+          "published": "Sat, 09 May 2026 21:33:28 GMT"
+        },
+        {
+          "title": "Ливърпул и Челси решиха спора си още до 35-ата минута - Webcafe",
+          "publisher": "Webcafe",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd3hOQzlmdUhkdVZqQTA1d2ExSFJuQUhTY0Q4UWZjbHpxVEdhRmYwaW8xVUdDWlowaTdVeWFWVUZqbEVZYlFtbnMwUWt5dTU3Sm5OQ2VvZFNRelBlLTNDdDVPSDRjbDRWT1kyOU1wZGFrUlM4SndpYlZlWVJwSktuY2xsejNJQmVjVzQ1SjdLYW1zelJy?oc=5",
+          "published": "Sat, 09 May 2026 13:25:00 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
+          "title": "„Росатом“ смята да развива ядрени проекти в България, Унгария и Словакия - bTV Новините",
+          "publisher": "bTV Новините",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUV8ydE92a2hNZ3NoOXdhSVhTVDhMOHhLWGdrdHZqc3NyaXNHbF9LYl9Jb256MTFFWjQwLWlDemV6MzZmdkFCMldTSlJMbl9QQVBGSGVFRGpUVExWQi1QZXFtZ0NSRU9Wb0hUa2JUSlRkNzBqbWlpMDEwVFl1SjBYOEJJYXNHbXhQV0VnYmRTWEYxWkhKNHh5QzZGNXdRVHctck9sRVhBd29TNHFWbjg4VQ?oc=5",
+          "published": "Sat, 09 May 2026 12:57:58 GMT"
+        },
+        {
+          "title": "Отмъщение? Фермерът Николай, чиято 1400 декара пшеница бе унищожена с дрон, посочи виновника - Blitz.bg",
+          "publisher": "Blitz.bg",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNU9fbDhLYmp1UndfV013c2ZrSnkxQzhMSDJiU0hQVElhS2pKTlFYQmtJQjM3c2REN0Y3LWdMc25iRURVaUlTSjdIckZDNENTcHB0alRxVE8tUVlUM0hpWWdOamlZOVc2UVVEWUhYQ0NUSG9Ba2FsWHhnRkJRRVZDSU9PbE9yWnlvWVdCNHA0UUI1a3o3eHhVeXY5R1BSeDk1alNIenVKOXRBVUZYMW1XVlBRSVNmV0tEMVI0MUV1anB2WE1IX2w0ajdsRUlFUDNLYUV2eTdaZw?oc=5",
+          "published": "Sat, 09 May 2026 03:00:00 GMT"
+        },
+        {
           "title": "Сирски: Русия разгръща допълнителни сили за противодействие на украинските БпЛА и планира да произведе 7,3 млн. FPV-дрона - ФОКУС",
           "publisher": "ФОКУС",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQW5pSWVYM3dYamtDMnpLUnMwQTRsVXotMUVoQXlNbGVRbW9kdHJNckRMcUZ1NEw3MlV3cUZkZUtvd2VWWnE0ZDdzRmtLdWppZldYcExXWnBzaTlsaVZvY05XZHQ1OUJ2aTBtTC1oUUNETUtSYVdORXd4SlBSWXEwNXBfU3lfNlg4cHVuaGxMUW91Q05UMUxGUXVBaTlCUHhvWmVUbkRGeXc2Z3NJemplNkgwc2pPb3hyTmQyeGlmU3VSUS1hdGt1S3BvbDBBVVV0b3ZjeXRnOEtLYW9BUk53YVBSdl9nVGJUR1FYQXlHcmN2bUI3SlJhVWVyWTd2S2xzZ0lZbWNfMG4?oc=5",
           "published": "Fri, 08 May 2026 11:58:01 GMT"
         },
         {
-          "title": "С хитър онлайн трик: Украйна е получила координатите на хиляди руски обекти чрез Starlink - ФОКУС",
+          "title": "Киберексперти след разкритията на Mythos на Anthropic: Заплахата е вече тук - ФОКУС",
           "publisher": "ФОКУС",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU2FBdlRBVnRwUXFpVW9QcEgwZDlHdnZyaU1GTUhjd25EMEU0b2lFN25YSFBpMm44MnpQX2dkNl90ZnJaakdxeTlaVDhuM0p6dTlFQ0FvdWQyQUlwRUZiZlltYlJqeTNCOUthYjVtLXpteU5LbEh1a0t3cHZuWkI4RnVIZE96ZS1DSlcyNkQtbF9UNGFScXlkS2tRaFZrdnFxVWNWeVVOTVVMLTJVUlllRm9TVHE1U2NMcTBEU19sTG9ZcXhHZnhJRDB6ekRBOThsNmJDS3lJUUNUQUhzaXI4?oc=5",
-          "published": "Thu, 07 May 2026 05:23:32 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVTdjbTB6bTF4TXFpLW9UMnNKa1VjR3NWNHkzZnBlcUpLaHlXbk9Bc0xRNDh5QUx1M00wcktDTWRwejdIVlVwOVA0ZHRhNzY4Y3BxTGF3S1ViQzBYZm80RlRzZDR3YzVCYlB2bElDNDRpcjBQQnVWejdvanlGNTR4R2FoTUFNajBUaGU4MC1NeDRpdDZ2cGNWR1ZmRjE1NXNqS2pULTNkU3FmVWplb2dRaE1fcG1CUUlfRHFsSmxwa052Um5UaDhSeTlzZw?oc=5",
+          "published": "Sat, 09 May 2026 01:50:34 GMT"
         },
         {
-          "title": "\"Гарванът\" на Турция: Новият дрон-камикадзе поразява цели на 1000 км с абсолютна точност - ФОКУС",
-          "publisher": "ФОКУС",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT0h2RkZqNko1QkZzMzRlZGg0dmpUcy1VZ0Y1VG1xa1QwR2NXcm1DYVhwbU5sd0NjQnFCMDN1blhOWndoNUpuRXRrMEdBb0JsSFNvXzVGdnJETmhTaUxkLXlHb1ROaW8wOC1HYkhwVFZhNnh4TUJQS2dWeXJWSUNoUjRyU2R2NWN6OXhzSTVlck5GWEtSbzg5NURCc3VFQndjbFpZUGtWbTRSb0tfNDlRNWlYVjRJX1J0ZUlCMUR3YmdZNzFJVHRzYWNzdjVLMC1FVWNJYVczbGtlWjNoRVE?oc=5",
-          "published": "Wed, 06 May 2026 13:23:23 GMT"
-        },
-        {
-          "title": "The Economist: Русия може да е предоставила на Иран хиляди дронове за атаки срещу американските войски - ФОКУС",
-          "publisher": "ФОКУС",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQME5PN2tXVzJCOWt4NlpRWXRVckFIa1VkTm94NEwtM1RLemZkczJ1bGdWdUpibHNPWTNaZUUwOVhObHU1MmtDNXdKZ1BTNWM1cGVwWG1SMmsyQmtOdUdrQnBXT3R1bmI4cW5LNzJVeEpfdXNSV182azgzQWVMdzNtTUpRMWxzaTlWZkJsOUp2MTlKVEllTU5NQk5KYlBjR1lrTzZ1VHprS3ljblhSLUZCQmg4ZGc1R3paX1JCUW1xRVF5VDFJQW93Tk9scmdjbU0xdTI1NjhOQVFOZ0R6NlpFNFJZcGZsMElnM0hyN2JkVHd3Ym8?oc=5",
-          "published": "Fri, 08 May 2026 12:41:26 GMT"
-        },
-        {
-          "title": "ДАНС с нов временен шеф: Правителство реши митничар да оглави „Национална сигурност“ - Флагман.Бг",
-          "publisher": "Флагман.Бг",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1dXNXa0QwNEh4YXJsLTRrQ0NuOUtFZzk2aTZBcDR0VXAtaWVKR1EzaHM2QzhZd1Q3ZnN1bjlsQjF3SkNXV2o3V3lqYWxPd9IBXEFVX3lxTE9KYVYxN290TlhxeF9BeEhfUGgwdTNCaHAwY0NUeGNLbFZ3S0ZtdkRSUU9oRmFfVEFxSHgxVWdBcW1zcS05OUUzVndnQnRrN2ljQnZxSUhJdnFZTnUy?oc=5",
-          "published": "Fri, 08 May 2026 17:21:33 GMT"
+          "title": "Тихият убиец: Турция показа нов дрон камикадзе без аналог - Blitz.bg",
+          "publisher": "Blitz.bg",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzdOU0oxNTNKR0tuSTZ3QjZKOVI3NzhLN1FhOVl0aU1qZGtzRHZhRmdHUl8xS0lwOFk4R3B2S3Q0RHdVU2d0RDJkMndGb1djb1dyaDBvMENkREI3VndjMy03VU5heEZDVk9ORmdEcTA3NjhpM2NKbm8xUFF3ZXJZRGx5eW1XNWZBaDlCUGNRTWN3OHE2Qk9PR3ZHNjJzdDA?oc=5",
+          "published": "Sat, 09 May 2026 19:20:00 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "The Action Before the Action at the World Cup - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHVoaEJPdHVQREk5anJGS3hzR2xQQkNtYTJCNUdKUTZRb2tYRWJpcHZQZE1NQ2dyWk4tMGc5akNfMHJJYXNNWGNMWTBMZXVlYXNfZXFrdC1qTlZEUXR5NzhCMlBKS2dDbkhQM2x6YnRWUlVyVU4tZVFpTEZ5RngwOHVQM1JnQ0Nz?oc=5",
-          "published": "Fri, 08 May 2026 16:31:03 GMT"
+          "title": "Soccer was once considered niche in the U.S. Then came the 1994 World Cup - NPR",
+          "publisher": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc2JxeTZGWGNQYVoxcGpLMDExY2ZtT1did2tkZmx0LUNwY3BsaGExZFlCd3p4UlFBM19RV0dPTjg4a29kRVJEMXBsakxEc1FXemNnOW9ncnNOTHVyanA2MU9HZENiQmtDWFdGX3pxcG45SkRVQTlQUE5TNFBCXy1sOEJDNWd2MFN0emRRNQ?oc=5",
+          "published": "Sat, 09 May 2026 10:00:08 GMT"
         },
         {
-          "title": "Bruno Fernandes: How Man Utd captain won FWA award and got to brink of record - and what comes next? - BBC",
+          "title": "World Cup 2026: How US football has evolved since hosting the 1994 event - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXhMRUNMeGRDV0RzZUdYTGtRd25KRDc2QUhwRzJKa0dhWHVpZTVTU3pnMDFzclg2VGxsUDdFM0ttZUxTMUtmMHpWbUktZGI0MmZkWGJNWl9RN3NkM0t0R2V3WXZLczYwc3NtT0xfRzI0Y1F5NXdGclFmdUs3bnYxVzY2X25UeEEtUkhDVFRDWnNVcVhLZlQ4cW9VZHdQLWdFcGtlbXBsZ3BrZFBadVRic1VES1XSAboBQVVfeXFMTlRIaFp5dml6QW5pa3c1VFB4N0RwY0NDX0hucDByTVZVd1hPanRLRTNMemRxeXlBMUx1cm8wR3lxdVl5TWZWM1BtRmR1ekxRRzFZS0tfMHF1eURhV3FEaGdCQ251VnJ4eUFDcno1WFJkQ3hweUZhRWR6clUya3A4RVYzMUJQQ0RyOWRJLUxnQzJfdVlzQVRrLWhMVVZ1cE9veW5tNlVQVEFxemFqclNSQkoyY3R6Ti1sV2lR?oc=5",
+          "published": "Sat, 09 May 2026 09:50:20 GMT"
+        },
+        {
+          "title": "America's soccer boom is building ahead of the World Cup - Axios",
+          "publisher": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MeXdmaGVkNzlTaFhNUm8wWkxia2F0YW10WkhUdVNfTGhKUWNBUzV6UjNJTDBGb1RnX00wQ1phcTM4VkY0YVBOVGhjTVlINUJBcDRBWUJWVzFHaDRZV0RZTzhNOHRya2MxWE13?oc=5",
+          "published": "Sat, 09 May 2026 10:51:37 GMT"
+        },
+        {
+          "title": "Iran demands guarantees for World Cup participation - BBC",
           "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FNnpOMEdFRDBjNXAtNHZUV1VRMmQ4TXJOSlJWcVpIQzFNT1k0eklyRjJndmtTblFGSHRndTZYVExVaEk3MEdPUXlqMEx4YVdtWTNjek90aFBxOERPVmRZX1pzVkNzOUE?oc=5",
-          "published": "Fri, 08 May 2026 22:23:55 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NYkstMEpiNVJ3MTlERkh0dFdUa0Y0OW5hSTh3cmQtbXBwYnh4V2U1cFFQOWNhaVhjZHcxdkJSTkFiZkpxSTIyek9DWTVMVExKWGJ2V0tIR2cxdw?oc=5",
+          "published": "Sat, 09 May 2026 18:44:01 GMT"
         },
         {
-          "title": "Inside FIFA's huge engineering effort to build a World Cup pitch at MetLife Stadium and across North America - CBS Sports",
-          "publisher": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUW55TThaazhkSDhmVFlWMUhDbTN1WmhJQ0hSaDlyYk04ZGU4bGRHcVpManhESDlMVmRjNVZhNm9MZ1pzek52R254bXdqTGZ3R2s3cWtSRk5DSjk4M19CckdtQWNvNUdULVlLOS1lckoyc0xQdmNrTUo5LUFpYkpaQTNMRGVmOC1RM2dRMGJRQkwteG4tQlJqdjBKbk90b0ZnOWZLeg?oc=5",
-          "published": "Fri, 08 May 2026 12:10:00 GMT"
-        },
-        {
-          "title": "Austin FC To Host Soccer Celebration Featuring Live Viewings of FIFA World Cup 2026™ Matches - Austin FC",
-          "publisher": "Austin FC",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSTA3LThZR2JET2Y3dnBMUWY1ZDNjTWszTHdXNWZKcG15QjRQRGFadUYwOWhKSnA1UDRZanAtWXZFV29kaHRLenBjeUk5YUQ3RkZ5c3VnbEhKcVBJakJ6YUU0MTVjNlJyTGRFLUlNb2dQem9ld3Z1QnNPVUpaZ1NYdTJkX0sxZWFkTkNsMzBWeHRldzN0MldteEZHazR0dEQ1NGpsNnBWb0lBUE8wOE9LTm00SzBsQXVDVVpYaFV2NA?oc=5",
-          "published": "Thu, 07 May 2026 16:33:02 GMT"
-        },
-        {
-          "title": "Levi's links up with Football Association to create England fanwear ahead of World Cup - FashionNetwork USA",
-          "publisher": "FashionNetwork USA",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQenpuUlhNYzYwd2o4MU9PUHd6ZVNrYU9WRWNrTzJsXzVkY0FrNGhWSS0xRDgtX1ZTZzhRNlQ5NzRZb3ZOdDJEWmlqVElZWk15aFlmUkhzcEF2MG01ZDdKdUpONlNMNDBVWFJnakkyYmlDaXhJZWNqZ3NacnlMRkFvaWVWNDM0Zm1qU01WZG9kbTFVQU9oMDlSNHRpU0xnOGt2NlFJY21NZ3kzVTVPRG9JbFBFa3E3RW5mQ2VzSzNIZXByaXBmRVFNRnFRaUJpUWs?oc=5",
-          "published": "Fri, 08 May 2026 16:58:15 GMT"
+          "title": "Britain Premier League Soccer - Springfield News-Sun",
+          "publisher": "Springfield News-Sun",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWWhJSEdpcE1oNHZ4THM4MGFDRFYwOEhqbnZWTnAtMDFpcFViMlAzQ3VPT0RRLWh6YkwxanZuTXRreElpa2dnWlNIdENFenlHZkYwenpUbTVjemwzTXJBZUk3VWJDb0x0d0pVRUowS3BOWC02YzFIWE1xYk8tdlpUbktwRlpEbF81QTUyVDlPQ3ZzeGNRVmE3UFE5cTc5b1p5Sy15NkUxTFc2N0E0WVhybUs5dVF1Q3lSb0J6NFluWDVPZHM?oc=5",
+          "published": "Sat, 09 May 2026 16:45:00 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "24 Hours Inside the Cult of A24 - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWm9UcExUMm9idEI3M1poX21Jb09PWTNVUm40cWUydktkSFpWeGhHaW43bW80T1RaR3d2aUQ1bG4yblJ0UFVOWTBuSXJnTTBjQ0dEQlRYSzBWd3lub3lzSFJqN3o1NFZ0dWlxSTVGN0RxbTR2YVlwOF9lX1hKNFo4MnRWekh1OUJ2cncwMkFlTjUtNEx5ZFlUVEtyMGc0TmhS?oc=5",
-          "published": "Fri, 08 May 2026 16:00:20 GMT"
+          "title": "Stefon Diggs fuels rekindling rumors with Cardi B with PDA moment - Yahoo News Canada",
+          "publisher": "Yahoo News Canada",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRTZHUE0yTk1GanVXcDRoblR0czBhYXNrQXNna3NBLVpMdGtOSTluRG1tM19vZHJlRzFJUGZPXzQ2OHRaSzd2UTduSW9xMnBuVW9wY3hLbHlPRWRyaktLU3V5bXZvYVlmNVN6eHF2cGszRDNrbTI3UV8zeERMWDZvM0ZaMA?oc=5",
+          "published": "Sat, 09 May 2026 20:08:37 GMT"
         },
         {
-          "title": "Celebrated naturalist David Attenborough turns 100 - DW.com",
-          "publisher": "DW.com",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYVU5MGFRTHRQa0hUM1FMMXRrZHRlRG0taktraWJocnE5YTFIVmlCMGp0SDJIZE82X3NhaDR0U0x4dTFNQWt1Z1liZkgxZkVMOXFYbVUxZng1NXp5Q0NXYWpuSFFTTU8zQnpBSVoydE5OQkI4LWktME1Dc2dvLVFYRzJyTE0xY2VQQ0lxUVF1VGUxdDgtUDhabTh5aVZuM1Jq0gGgAUFVX3lxTFA3WnpwM0IwZW5mZkRvT05CaVFfSFIyMGNkWmdiNWt1TEVOdURycjFTREI0cEVwZjd5cFNtbVVLRVZxVEVZTk1YVGkxbnpUaTJwYmR2T1pnMHl4UXZjaTQ4LXkwdldWU3Z3aEZpcWtvZjl2anhjYVdNcEdxSC1FOFU4LV9aN3pidXh4ejkxblRtVk1CdUlXb0w5aHJ5aG1WSTE?oc=5",
-          "published": "Fri, 08 May 2026 21:10:35 GMT"
+          "title": "Spoiler: Opening Match Revealed for 2026 WWE Backlash - Ringside News",
+          "publisher": "Ringside News",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVNYc3h0V1ZfMkp0SE1GVG40cnJTZ0FJZWxCdGNfY2VjZ3BDX1dhNXFPUEN0TWxDLVJqbjhuSkJ3ZjRpb3hEVWJoLXd6Q3h3Z1JkeVVhYVZWNXcxU0gzSDJpd1ZrZ1ZMQ2hka0JqNFpTdnNQRVFFcmVzQjBwRXJNcEdhUGPSAYQBQVVfeXFMUFlTWHN4dFdWXzJKdEhNRlRuNHJyU2dBSWVsQnRjX2NlY2dwQ19XYTVxT1BDdE1sQy1Sam44bkpCd2Y0aW94RFViaC13ekN4d2dSZHlVYWFWVjV3MVNIM0gyaXdWa2dWTENoZGtCajRaU3ZzUEVRRXJlc0IwcEVyTXBHYVBj?oc=5",
+          "published": "Sat, 09 May 2026 19:35:10 GMT"
         },
         {
-          "title": "The Disney+ app could see major changes, new report reveals - Mashable",
-          "publisher": "Mashable",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xQnFZb2htcXBPME5jYkRiNVM0cUZWeFUwaklUMi1YWENIeDN4ckdHWHVpbzNycWdCOS1vRnBLbXVyRVZPNlhhcFpJMkZzZmxMdmtUUVVRanlqM2JQTFo0d0NISjZZNWZXY2V4aEVZb0J3Mkhu?oc=5",
-          "published": "Fri, 08 May 2026 22:28:51 GMT"
+          "title": "The Sights of the Venice Biennale - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HRXFzZmp2UXpNcFZNZFBaZXJmcE04dll2ODZxNXBXeTRRWWZ1VUpNV1JxalowN2tBMFU1aVVRRU5SOXI3THJqTjNsSWhNOG1aajlWR0NLblQ0UW5yczVOaExfaGFUSE5wMndPSjdGOWVZeExtNlFQVWJXRUZidw?oc=5",
+          "published": "Sat, 09 May 2026 14:55:00 GMT"
         },
         {
-          "title": "‘Devil Wears Prada 2’ Salaries: How Meryl Streep Landed a $12.5 Million Payday With Big Bonuses – and Shared the Wealth with Anne Hathaway and Emily Blunt (EXCLUSIVE) - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzc2QVBXLXNyTEw3SDBJelVkdVpVMHhuTTdXMUpWTWZHSnIwMGIzQmYtRHoybzhRbnkwNmZJaWpLdFNCaXVpaEFPSEc2MEpzSUotajZ3YW1rRlRQbV9YbFRwTmp6UE5CbzFJdVVBdl92X1hlZUZiWWpIT0Rma1ZNcFFOay1jbnVFbE9LVHdXTm5oQ29veFhyeTdUT1pjWFd1SE5j?oc=5",
-          "published": "Fri, 08 May 2026 19:00:00 GMT"
+          "title": "Jennifer Fessler Denies Sleeping with West Wilson, Threatens Ciara Miller with Legal Action - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdnJEdUthV0w1VDNZRFdLV3JqWDVwRVlnNjh3cXk4dXBnN2pQSEdOMUZUeEM3djU1a0xtcTNFNzVSMVZBR09qSDFyYXZZMlI2UmFoNG5LQ0RBQndyUW8wakJfSlFLTVg3TExxUjVJUlRGVkVHVHJiOS1vaTFWY1NnUnRsWEJqcXJRU20xVWZUWU9iemRNc2ln?oc=5",
+          "published": "Sat, 09 May 2026 19:28:29 GMT"
         },
         {
-          "title": "At Gawker, They Battled a Billionaire. 10 Years Later, the Scars Are Still Healing - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXFUMDdlb1Y5M1N5aElpM0NjS1FENmNNSXNJRnd1WXM3QzlLYVlEdDBSNnhZaVFYenNSeXJCM0VOT0JmMXV5VXNpTzRxTkpncGtFM3N0MW5OV2JuWjNjcF9QR3kyZVZkdGVaR1VCZGdKQmNOc0lQMkJlbmZyaDRxanc5aXV2X0JrNnpv?oc=5",
-          "published": "Fri, 08 May 2026 13:00:18 GMT"
+          "title": "Reality TV star dies at 35 in freak accident at party - PennLive.com",
+          "publisher": "PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVGhoTGN5X1hTZjlpNmZERWpwMU5HS0FaWkpYSnRzekJpSklvLWxNak8tbkxzU3NVRlRfZC01YVYxYVd1aEQxZlAxRFJBNkRYWWdFWHhiWEdlUHV3T3M2aF9LanZiVTB1UlZoZ3lnaUoxcUc1SUJGbThITVViT3llTGNpSGZYZlFwZ3VQSVVJT3ZfZ0NKbXNXWHZCMGFQcks2TDBNaEctU3HSAbwBQVVfeXFMTlh5U3dQUFNQT0ZhT3dmdUl5NnBUcG82SG5UQUhzaFJxREstSXNGamYzSkgweDJCMXpWNzZ0N0lBQ1FabEFnSjE4U3ROV3RERU1lanJFaG85Z2x1OEZsSXZFWTBoNGgtZ2tGdVhFNkNaZ0VUTU5naFdrTjJlMXVacE9haDJKWnAwU3FvTlpUWGlURVp3dEc0N1FwNTNiSEFWbTQ4SEVMLW51SGRyWW5tcjJ0ZkFzdUxiWlJMcWY?oc=5",
+          "published": "Fri, 08 May 2026 11:44:00 GMT"
         }
       ]
     }
