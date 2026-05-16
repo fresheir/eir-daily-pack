@@ -1,7 +1,7 @@
 {
   "market": "SG",
-  "generatedAt": "2026-05-15T22:54:34.781980Z",
-  "validForDate": "2026-05-15",
+  "generatedAt": "2026-05-16T22:43:58.779811Z",
+  "validForDate": "2026-05-16",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,10 +9,16 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "All first-time drug abusers who surrender to CNB to be rehabilitated in community from May 16: Edwin Tong - CNA",
+          "title": "Police obtain footage of fake Zoom meeting in scam impersonating PM Wong - CNA",
           "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdktPWkxTdGM2UE9acUptX2gyTFV6WGtQaWZSUFdLV29vSTliSUFZLTBSXzFSUktNWkVQOXk2a2ZIa3Z3MHlzeW5kTjd6dnMyY1Y2a05zVlh4WncxS1BRajdyeDFjak1DZ1dYeUNENWIyZWs1bnQzTkFialhwTUQwLVdIYlJHQjJiTlN2QXhLTmc1eXZ4WW1EWU9wM09hS0xMTDlmcmlLeVZ4WkcxaVFfZllQLXNpdHVJN2RN?oc=5",
-          "published": "Fri, 15 May 2026 14:18:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVlRFcmRBOU9QeERkV2J3eWlXVVdTMmFUTzJ5eWh1WWMwV0MwZ0ZOV2xpakYzM29JUnBlVVAxRUE5RHIxWVk0ODd1ZDRrb1JxcHVINGFOQndZeU9wUG91VEN1QXp3c1ZSTC1TYVRXR2VyT1ZyQWlpMm96RU41NjY5VkI0SlpNWU9ScXhYbHQ1UTRWNVpUOW5LWGRYSG53VlRhdFFDSUxtNm1RVDdfMzZxMFU0cGh6bHBpb1BWamFaMGVjVkNhNDYzUnNkcTY?oc=5",
+          "published": "Sat, 16 May 2026 13:46:00 GMT"
+        },
+        {
+          "title": "18,000 flats in 12 neighbourhoods to be upgraded under Home Improvement Programme - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdHMzVXJubGlJYkYyM3RnV0RuTHhoOEdzbU9sbWdTcnEtS0dIV2xJcmJYTWdzOUI1NVA3aTZhYnpIVTJ3RGxQUVdDbW8yQkxzRTAxOEZlSmkxeHVROXZqUFZXVmJPRnlaZ1V1WWU2SndMbkZ0MGdQb2hSYzVaOG9FRFFNbWtYaXdNRGJnSXNfbWhucFBFX2lFZk5CeUJYaVdjaVJGMnVOTFBLbXlhemlQOVJ0a1hNNWk3b1JsUi12aG9KSW5vN2c?oc=5",
+          "published": "Sat, 16 May 2026 22:19:30 GMT"
         },
         {
           "title": "Short, thundery showers and warm weather expected in Singapore till end of May - The Straits Times",
@@ -21,22 +27,16 @@
           "published": "Fri, 15 May 2026 09:25:12 GMT"
         },
         {
-          "title": "Woman found dead in Sengkang flat with father’s remains relied on him for food: Coroner - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYllvZzQwQWNvMGJSd3ZaUjNkUDdNVTlkVHV6WFlqT3g0elZKWlRkcy0ya2IwQlgwQVUwdEk5aFFNLWI0T3hHUU5BdjJEU2NZakJQN2RTVzdvRVJfWEQ2azNtUVZoSFFCdERQb2U2OHRzVGpJdXA2aGI5R2lvcUl0dTl5cGpja0ZjR2g2ZlV5MVRfejRS?oc=5",
-          "published": "Fri, 15 May 2026 10:42:00 GMT"
+          "title": "Man, 22, found dead on Sentosa's Siloso Beach; no foul play suspected, Singapore News - AsiaOne",
+          "publisher": "AsiaOne",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNi1NcGNRZ0pxQ1RudWZhMEZLRnA3Y04yeFVlZU5ab2RvS296b3ZFV0tkeWNaVk1iSDNNT1FDaVpzenYza0FfQlhaeUMwQ2pRa09jOVVyazQ4S0JyUktVbV81dTNGallhVHBHamNJTUxEYXRqX2tvQkV1cUxBQmkwX2VaSWk1Zw?oc=5",
+          "published": "Fri, 15 May 2026 13:57:00 GMT"
         },
         {
-          "title": "Singapore to deny VEP applications, renewals for foreign-registered vehicles with outstanding fines from Nov 2 - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3FTSjNaMmZGNlo4Vk0zcFZtdnd1NUI0TnNzNXBxZjFURmVHcGNtVkI2SDVmYjB2cExjd05BNjd0Z1NPTU1iRHRtY1ZZOTh2aklxUGFPcnZqcGxGeElyeW1hYzdHQTRlQ2lmLU9CSGVuYS1CYnNJVXdRQUhMMHo5SWliVjA5cWhnS2FKWHM5U1BUZzkwc0xibGRyMlZDZkZ2VC1pUWJZWTl0VXdyc3ZBcGdEeTFoaU5sV0hYWklfb2pLUjd2V3NYaw?oc=5",
-          "published": "Fri, 15 May 2026 10:00:00 GMT"
-        },
-        {
-          "title": "Woman assisting with investigations after being recorded entering unattended police car - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTXVmbEJSMmMyajVPemdzanJVVVZRM2c5ZGY0M1hUbDVVNkV0VDJnOU5hblJiY2NvLVZZaW1qMGJSMldTRTdzQ09PNDJ4ODMtSHhjdVFjMXJMSUg3UkRUdUdEM2VyLUFDOGpCcktOOTRCeFhXZ2lINkxtSnl1N0RJRUR3RGlvZnRtd2lJQUNtZTlfeFVtSFNIRDZINFlGZzhCT3NrM1BIckZDUGhPazAwaF9nQ1JzYldZdkVYNTFJWDFxMzB4?oc=5",
-          "published": "Fri, 15 May 2026 07:51:00 GMT"
+          "title": "Motorcyclist, 38, dies in early morning Causeway accident while returning to Singapore - AsiaOne",
+          "publisher": "AsiaOne",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOczlqeGNWYjlkM0Jmc2FvQzZBTFNQQ05XSlZXdTl1NUphVG1zdTRPTVZyQTVzdHJJeEZIaTRQQWRCXy1oV2RRc1lFX1J2OXpFYmNzYUU2b0dQYW1LNDhOUWlPUkptanF5THRLVjZ1ZGxEVjItb0Fmb1lyYUVMaUV5WHZWRU10UEtYdkZ2RVlxbHc4bU43WGc?oc=5",
+          "published": "Sat, 16 May 2026 06:20:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Decoding what was said and achieved - or not - over key issues at Trump-Xi summit - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSzZfVUw5M095OXFYZUIta0dxdG9raV9DallIYVFmQ0tUN2ZzcU1ZOEFlUk42Zm1WRnJUbklsOS1xQkNsMTlpblNMV0ZHOGd6LVNNbk9iRWwxY05jeUVtaXVkRWlaWWFvcFk4YWlGVHVEZUFKaktPeWtOaE1kTlktNGZRQkxVaGtpaE5NeXRLZ21NUQ?oc=5",
-          "published": "Fri, 15 May 2026 12:44:00 GMT"
-        },
-        {
-          "title": "Trump, Xi seeking to escape Thucydides’ Trap: Expert - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM2pUZURFUm05dTFQNHVqLWlORjJDeWlieWViem1rUE9OcHg5QmlYVG5PbGhpSFRlN2hxZ2RMc3BHTlVVb3JLWUNYOVRYSThXSVVaeHFpLUtSZThWYW96T1h6Q3NlTjQyWktYM2FheWdDcXlmXy11SnJJVUNMRldTdTdTVTFoakZjc2xoMm1ETTZmSHpZR3RXNzRzaHk2Y2R0T2t5Zk1xWnN4dFhMc2RvVWVrQ096NldYZF9qTVBBVnZ2V0NBbGhB?oc=5",
-          "published": "Fri, 15 May 2026 00:01:46 GMT"
-        },
-        {
-          "title": "‘Non-issue’: Malaysia PM Anwar says not opposed to fugitive financier Jho Low’s US pardon bid - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRU9zeUszQVlrRkpGMWZYX19HenhEZHVtR1RxSDRhdG5sb0RNOXhqcG1tSm9xOW5uRDJkY2J4bEl0LUhzRVdpMDdTZENNS2FYY01IS1Fpc0t0cU5JcDZiSHB1WmRCd0hmWmdPLWQtZ2FFQjQ1TW1VX0VHUEM2a01yRm1raVRiRDFOZWJvc01QSVdieEwzM0JNdXhENzRRSnNldnYzS09wOFdxaEI5ZVdGUlgyd1JpYTZtbHJ1NzJuLUxMOXhLSWc?oc=5",
-          "published": "Fri, 15 May 2026 08:38:00 GMT"
-        },
-        {
-          "title": "The need for managing China-US competition in the AI era - news.cgtn.com",
-          "publisher": "news.cgtn.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcnFGRW5Jb2hxQ3A4b2F5X01GcVM1aV9GNkVXRF9kcno1MXF6OTU4YkUxYV9yNFJzd3BYdHIwMGp5LUdPbm1qc01ObmRranhCNnF4Qkpwa0lqX2MwZDVFbUJmWERkNHhyV2VLR1oybUpMWWtUMUltY3RTOExPeVpFZkk2aGx6anVSREE4a0RZTWthVFc2THF1YWtueTUwSE80OWN0aVkxX1hUd0wwSU5keTZtZw?oc=5",
-          "published": "Thu, 14 May 2026 08:56:38 GMT"
-        },
-        {
-          "title": "Why Taiwan Is the Hottest Issue Between the US and China - Bloomberg.com",
+          "title": "How the Xi-Trump Summit Looked From the Little Red Dot - Bloomberg.com",
           "publisher": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYzA0S21KTy11SGZURDdnb3AwQjZBRUh1dlJEcENRc2JJMEkyOHRJTHpkR3N1N1JQbG1vNmpGT2VIQzdrazZJYzlEanpla21fOU1TaW1vMnI3SFQySVlnWFZEY2FyZm8yVElVdzMwOXlRTGt1aXptUWRDbTFEWWQ5NzFyV3prN1R1SUQ5ODhuTFVHNG1FWHk3SEg2X0tGcjFmUHREUFlKNGpwVXlWdDVrdg?oc=5",
-          "published": "Fri, 15 May 2026 02:24:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZWFCcWw3dElZcUVQTDVmRE1XRUFoSlZxcjZ5eGJYLWRpNDVBY2U5WE9raVZKVkh1UHNHWGNjcGh2bDJtT1RoZ3Bmd09KdVMwSWNhS09yQ2pOTHRZbXhnMnRReFM1V2VsZVMyUGkwcHF3RWt4R1ZyVjgxNnNoVzZhT0Z6VS0zcmZQSUtvdEtCa05XRUU4ajhHOGdFTGQwRGk1QzlMbkpEckpjM0x2N2t3M1NSNHl6VXJPR3RxdFFHVkR0ZjZnaVIyOUZB?oc=5",
+          "published": "Sat, 16 May 2026 21:42:51 GMT"
+        },
+        {
+          "title": "Taiwan declares itself independent after Trump's warning - NST Online",
+          "publisher": "NST Online",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMkMwbUxocm9OZEo4QTQ5UkM0UDNYclp1TmJQaFE2MWxOZnlvNW1MWkphWkZldWNPczB3WUVXVlUzRzd1Q05Wa2tHY0JsOEFJMmRBUzZBQ25HajJDSVE2WGJLTWZwOGVndHFkWDMtcDUwczhtck5UYkloT2FMN1pfTVY4TS1WU3M4Q3RSMHM0aFlWc19HdFlhWDZyUTZ3c3p5WGZ4WWFEcURmQdIBrwFBVV95cUxNTHBORm9KT2swLXJqak84bWh5WlZibVA5amJNbmFJRGJRY0ZONFljckpIakRUdlprZFdfM1ZvSGlhMElma2g2MEg3QTE0Wnh0Q0dGTkVEdVRKRmFJOGdNRGw0YV9ocGN3TVVXaEVsWF9acHc1X0x5OG1fdXNWZjRDWDUycVJFbXphTmM2MmxaNkJJM3lvRUZ6X0tkRmtrdHFQdWRMUTNxWkE4RnRhOHFR?oc=5",
+          "published": "Sat, 16 May 2026 08:15:59 GMT"
+        },
+        {
+          "title": "At least 8 dead, over 30 injured in train collision that sparked bus fire in Bangkok - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQjBaM05oblJETFZUNTJPWDBUS215UGR1MDJ4c0wwOVc4YUxINjBMZDhybkQxbUdqVFBHOFpaZVFHSmE0bGtkYjJvM2hfZ2E1LWZtSXk2em42STNWbV9ZRlpNbnNUMDY3ZFZDSmhGdmFpNGRCUHJyQ2J4Z3pCT2MyUDJPTC1SLTFLZUdRbHFUd1YzQ0R4cm1qeERtVGVidw?oc=5",
+          "published": "Sat, 16 May 2026 10:06:00 GMT"
+        },
+        {
+          "title": "Police identify man who engaged in indecency at park - Taipei Times",
+          "publisher": "Taipei Times",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LM2NmSWVIU1NScTdKMWZPZ2hXZnZaQUhPS05UZi1sVWdYSHA4NlFiSFYyZVQ0TjR4ZHUwbGt6cy13bWZNNldPVTJoZ0Y4RHNBXzlERWNjbzhNZm1kLVhHV0d3MDRncVBQZHVHRDZfbk95eG5fNVpiQkJ3?oc=5",
+          "published": "Fri, 15 May 2026 16:00:00 GMT"
+        },
+        {
+          "title": "Xi’s ‘Thucydides’ Trap’ warning during summit with Trump revives debate over US-China rivalry - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQldIYmluWDFVNmU3VVJpbm14UHpIUnhpR1RHRDhRVHFoSUx3SEJaMHdiRVd4VmpDWWdJVEpKZTdyQ1NMNEpQMUpnczNxSTVPTVRScnh1aHpUSlFKZWs3Yk5uN1pyN0NmdE13N2ZhRUNLQ1hOR0w2MmFBQ1RzUUpSMGl6VmFVZWZ0eEN4RjYyU2U4QUVuMVNMSXMyNEhqU1p4NnRaaw?oc=5",
+          "published": "Fri, 15 May 2026 07:49:00 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Circle Line Stage 6 to Open for Public Preview on 4 July 2026 - Land Transport Authority (LTA)",
-          "publisher": "Land Transport Authority (LTA)",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZGNTYVZRTXZTeVd6UTA1X2RqVVl5dDJ2YkdWMnVTTk9ZeWc0WkVNdzNfT1NneGVRWTVUN0E4QXdzUXFvYzVrcl9QMGFnQTdJcG9CQWdzYjl6MkowLXVGempHVHZIZEtIZG9YZWhDWF9jUENESmFPSFZTRG9iMW1mR25yOG51SU5XWUZUTmtEa0ctMzYwXzVKTEY2TElmMGRkQmNvOU5FNkJ6R2JYMGwtUndTRnpkWXBWNE5PbFl0Nkw1MUt3YWZDT2FqOEc4T1dCSUZz?oc=5",
-          "published": "Thu, 14 May 2026 12:45:32 GMT"
+          "title": "AP x Swatch Royal Pop launch: Long queues at Ion Orchard and Marina Bay Sands, VivoCity outlet closes due to crowds - CNA Lifestyle",
+          "publisher": "CNA Lifestyle",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0lTZ1U2M2NsN0JSWF9JMGlnVjIzOWtjMnhXSHl1VzE0LWJMdzV1SWN5dHJvREFzWThlNkQ0OU9vQ25uUHcxWFBwU2V3RkVWVUVQQ3RlekdRaTk3aTRBN2RLblpVUU1OWnZmTlRMRmlJdVU2eW1DWUpsUV8wb1VWTjM3X2V3V1VlQUxTYnA3R18zRzg4RXpzdEpVbVVkdDhwOUhnUnZLU0tzZw?oc=5",
+          "published": "Sat, 16 May 2026 04:49:00 GMT"
         },
         {
-          "title": "What is OpenClaw and what are the dangers associated with it? - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRm9uZHJtaGFBeTZOa09GZ3dqdWlFTFZQdnRPVVYtTGVrbC1rUmFvdUJjYUFkNV9BZmFOakxYSzdZWTZYblJYZkpLUUMtV1N4YUNvd1I2bElGYm5zYkpSTjU4X19XRzZqMDI1djBicUl6S2VVRGV5a0NjMXI1X2RUX2J1Y1RpZV91b0dhYWhPWHRXYnM?oc=5",
-          "published": "Thu, 14 May 2026 10:42:00 GMT"
-        },
-        {
-          "title": "Long queues at Ion Orchard and MBS ahead of Audemars Piguet x Swatch Royal Pop launch - The Straits Times",
+          "title": "Living with AI: What is Singapore’s strategy to stand out in the global AI race? - The Straits Times",
           "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc0R4RlgtMTBKZEpNaW1HQzNCRXpmUVZFR1RCRk80WGlkZHBid2E2dVhQRlFhNTNPSC15cUlBQ0tLUElWWndZZjNIQ3BHT2NGR3BuVGFuZlV4NUtSbHlwRV9ERjBHc3Y3d1ZtTUdINFFJTzltLXp4RGFfRUFrT1JBUGFrcFExaEJlTmduOTZqRW5NRlpfN2h2eW1uOE0xZWZ4SzJaNURvam9nLTJEbU1DMUFLNXNtT0QwTFBlaW92dVQxakk?oc=5",
-          "published": "Fri, 15 May 2026 14:37:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGRGd0pScm5tS1VDRlhUT0hTSjJUelc2SFlUQUJkd3RaRWYta1FESXdJeUFTUTl5YzhCT3NoOGZMTVM0Qmo1bU9EZDNxdnRRMzRIM0JmLTNzbnY3bFF0ZlNCandQQ29mWVlXMkI5MkNKZDY1b0x0V0lnc1hKekpyTEhKQjRGMXlLaEFyaEpjMFA1LXg4U2pGLUhGQ3dDZzN4SjZOWFg2SGFTUTZ2UmJWTA?oc=5",
+          "published": "Fri, 15 May 2026 21:00:00 GMT"
         },
         {
-          "title": "H&M lays off staff in Singapore, moves regional headquarters to Malaysia - The Straits Times",
+          "title": "Keppel, Cantonment, Prince Edward Road MRT stations on Circle Line to open on July 12 - The Straits Times",
           "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUG1qNFpEMTZIeXVSUXJ6aENfQXN0d1o1dUV3SV9PeWw3SHE5TTZzam51Skt4Snk1THVudXVSSlFSSFZDQXFIeExFTE0xNkVqbUgzY1o5WVNyZFhBUkZ6ZmJuYktyYWZvbmFMVUFRdHpxRmZ3dkg0dzN5aUdJcXFyeWM5aXRxLTRfX21WbGdxTmVnaWN0T0FSSldjWktjOFlxTEhocnhCSWFmemhBd2c?oc=5",
-          "published": "Fri, 15 May 2026 12:38:01 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdkwzczBMOFFtcmxxSFQwVGwtQmtCVWNOc1VpSVJXeEhiQ2NVeTRSOTBvencxdHczV3VrbU5NNlk1ZXRFbVpBVG1JakNNLW12ODhjazFIOU5aNjJDWkx3bTI3eVdqZm5RTjBraDFtWjBycTFOYUhmZkprWUExXzJ6V0lVdFotcDkxMjgydlJSRlY4X3Rxd01vcG4tVFVsdFowb2dmSS1WenlNd2Q4MTdER0pCcEFVZG5GanNRbGJLbDVXTXloaFNSVU5sbUc?oc=5",
+          "published": "Thu, 14 May 2026 12:19:38 GMT"
         },
         {
-          "title": "SIA airfares up but airline will not pass on full cost of fuel increases to passengers - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRlllTFFlNkkzUklmMzU2N0gtZU9mRkRJdEI5cEp6MVlNWkpqcUs4SDJmOE8yb2NHRVdUaHJTTHpjWWhiSl9OOU90V0wzeDBFU1JWVDFYblRSZnhNTWhFMkVnZ3d4Y2NBWGMydGM5QXRwXzFxc3RfajBsRU5JbEREaVIwM0RDNDNWXzYyM1BVZm9vRGNpWlA3SFRpN2FtVGFuV0lFd2haMHlXbEhGYlN5X1YxZTd6NHU5REwxcXlkd2F6cUNQbmg3Z0Z5ODlRZVN0c19rWUdadlZhd2NyN20yX1hwR3Y?oc=5",
-          "published": "Fri, 15 May 2026 07:44:46 GMT"
+          "title": "MAS to remove mandatory financial advice for complex products for most retail investors - The Business Times",
+          "publisher": "The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMjdkWnVsekpveTNMeURNZTIwMjM4Q1N5UzNvNVFyZDItTmhJRzlfN0FQOTctdjRZVm5KNVZsc3o1d25TUl9tdjE5ckNob0w2VC1yM3A5WmwzV0hzXzlKeHNjb3R1UjhWOVViZXZncGdyS1ZvM212bGFMcS1neDhtQjdCbUoySzRpaVgzQ2x5Ymo2OGMwaG01V3FiWWNBU29RS3k3aTE5cmV4Y3BITERPSHAtdmFfcHljR21n?oc=5",
+          "published": "Fri, 15 May 2026 06:21:00 GMT"
+        },
+        {
+          "title": "H&M lays off staff in Singapore, moves regional headquarters to Malaysia - The Business Times",
+          "publisher": "The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWk5iTDJWX21oRlRTcW1hMzh2c0lYVU8wOTR0VmhWOXRHMmJ2b3RfVXJKbjZFam5xMlF6ZVJoY1F3UzdWTGgzQTZfdXI3bjFFa3FJVjVoNnh5N2lySjlFcEhKZlhOLTZRbVNJcWs0MzJtNXU0bS1zS1NaSi1tTnZ3RzJ0eFVyc29haDU1OXF2bzlNYmhuY0RFS0E5VG5jSFRLRldxUlVB?oc=5",
+          "published": "Fri, 15 May 2026 14:15:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Aston Villa vs Liverpool LIVE: Latest score and updates from Premier League - London Evening Standard",
-          "publisher": "London Evening Standard",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZDNUcnVGMHRFcWUzeFpMUHZpdXdZNzdMTEh4U2pJX095SlVUa3A1NmJha2VhUTJBQmN6MmJvb2pTX1dKSHBzQkE1NmVyOXpCSjJmNlpacl94OGF6VWJVQl9pczhVVzVOa3l0cEhtQ0RGZDllMlBKbkNrekZURzhGY2dSeUVzYlFCV3g1czViT2pNVUJWZVYxd3FVVVlUSkZhNWZTOW5ieXhXeks4Y3AwRFBJZEJINmtSUU9WNm9FWVJJa3E5QkNFcEkwWG0xTUw4?oc=5",
-          "published": "Fri, 15 May 2026 14:05:54 GMT"
+          "title": "Chelsea 0-1 Man City (16 May, 2026) Game Analysis - ESPN Singapore",
+          "publisher": "ESPN Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1UDVfX2RBTkJ1VmJGNmxQV19tbE9nT2xUTlhBWDhJSzJZVkZUTVI4ZnlHRjNYQ1lKNkNZcWxVQkhWby1DUjFrREhwV2NMcnJzMlNJWkpyYUEzeDVLbnpiQnB1R0EyaFk?oc=5",
+          "published": "Sat, 16 May 2026 18:07:13 GMT"
         },
         {
-          "title": "Thailand Open: ‘Everyone Thinks I have to Win Every Match’ - BWF World Tour",
-          "publisher": "BWF World Tour",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2FUX21zMXg3X016dmw5N050RHN6Q3d0TXpyb1ZTd2VyM3lzX0FWMHFHbFV6ZThZc2dfNTlLcllQY3k0Vkp3bEgycm5XcEJZdGdFUTBEWjBwTEljbTRtYWt4WFNzQjdYQlhNWi16VDA5TVQ5OTc4N0d5Ymx5VFpXSTFjSW9XNF9senl2QUw4Ung5US0zWjE2M0ZuVkVtUE9rcXdIU3c2S3h5Nkpob3NsUEMzeExvRGc?oc=5",
-          "published": "Fri, 15 May 2026 11:58:24 GMT"
+          "title": "Chelsea ‘Set Timeline’ for Xabi Alonso Pursuit After Fresh Liverpool Decision - Sports Illustrated",
+          "publisher": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOczdTcjY4MUppd1pCRHZXalNGSXlrQ1ZMZ1hFWG5KTEFkeXM1ZFRGS1N3V3lNdDBEWnViN1pjNm5MbWIxZW9GdVVWd1JIdFpCaDhrWVNsNlBHd1FZZ1RpRUJzU0V5MG5JOWtMTDBQSnZ2SFU3dVc0RFd1OVdqU3hhcElLMmhhWG1WTWNfa1lPTzg?oc=5",
+          "published": "Sat, 16 May 2026 12:10:00 GMT"
         },
         {
-          "title": "Real Madrid RIP UP Kylian Mbappe ‘untouchable’ tag after he ‘targets’ team-mates - TEAMtalk",
-          "publisher": "TEAMtalk",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnlnd21hVS14NmVUemNXUmVmOW16VnJvTE5vR0xWUFRIak41SnVDTmp2ZHBXVGE2b2NRSGZlX2VkNDdIclhnMDRhUHNob3AxR2Vqd1VIUThiMGZCTnVETk9yLUNsTTBwdzhyZENSaWVUSUMtRUJuSi1hWFJMNlVGcVNLVUZ2SkE0b0dpU1BCcENzSzZTd0lrZG03X1I?oc=5",
-          "published": "Fri, 15 May 2026 16:33:54 GMT"
+          "title": "Celtic deny Hearts a historic title as they clinch 14th Scottish Premiership triumph in 15 years - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWXVLazdqZ1NpVUVfdy1Vb1ZrT0hHbi14ZWVqbmNpd1pTOFdscE82U3Vpcm5yNHdxdDhQUDJ5NFFuRGJJTlJ2ODFEc3Y1UVB4UndlVkx1MW9IcDlnQ1MxTThqSkhKWWVvVmZvaEtwWXVhR04tcGwxV3piMk5jQzVKVVh1ZUVoQ0dwRWhmS1Q2Q3VDMmpMUmtxaHNfcWhHRkREUWxSVV9Bb2w3THduM2h3bWd3OE80NFJVcG1za2VYMVdLNWRkaF9mQk5qaw?oc=5",
+          "published": "Sat, 16 May 2026 14:21:00 GMT"
         },
         {
-          "title": "[Watch] A Car Hit Paralympian Koh Lee Peng And Drove Off, The Crying Video Only Caught What Came After - The Rakyat Post",
-          "publisher": "The Rakyat Post",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTy0zRmRBMHZ4Q255R0l6YVAwTC01U0ZWZDlha3h1eXVfVjFzLUs0MXVKRXl2TnpCMXgxbEszUF8yNU5IVnlCUHNOaDJldGxSa0d3dGVERjA1elRhMkhTdEdnMmRFbFdfUk5GTjB3alpQMUR2QzJCOUN5a2JfMmlWSjdnVDRhR2E0SU93djVPR1JFTThLaV9EdDhMOERSNkVXMkpsN3UyNzNkSlMyYjB3RFNhTGNXdVJ4SHp5eHE1OHJuenpIUFVSbVkxbkZlWkFmaWxkNnhkaVJ0OG9Gckk1eDNjeFVZSDdGSjgw?oc=5",
-          "published": "Thu, 14 May 2026 09:12:30 GMT"
+          "title": "Digging Deeper Into Liverpool’s 4-2 Defeat to Aston Villa - The Liverpool Offside",
+          "publisher": "The Liverpool Offside",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakxRS2ZzT1U3UXl2eDdVZ3NYdDRkbDJCRXlYcU8xdk9DY09QZGctR0NIWlUwSXVRbjNjY040T0V4QlhBRXprQTlta2w2UDhQQ0hobmZyUklza0wtZ0d3NW5fMTlrblE3Sk5qVHBNUDJUOWdEbUx0bzNSTlFIVUVHOXRER2phUEtLT2E1cUREUTljdnB2MHloTmpBcnFkUU8yZ3Vkc1dWQkFIN2ItdVdpLUZ1Yi1iT3RCNnFlZktHQ0wwNkVCelBN?oc=5",
+          "published": "Fri, 15 May 2026 22:49:40 GMT"
         },
         {
-          "title": "LPA fees for customised powers lowered from $185 to $30 for Singaporeans - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFZjYmRsQm1wOFdrdTVINlBqTEVTY216RUVXSmZZSTMyYXNhMmwzMXU0RzAzOWI2ejRybTVEMjZVVTdYS19USG1RVm9jX3ZrVUw2ZnRLeHlkSV9qTl80aHpsT2JWX2NodVRRQjQwM040R1E2THRtc3o0TUVYZER2c0N5eTViZDJ2clBldWE2Z19Gc2E1YU9DNzBOTGx2amFoUWVnSlFqeUVxRzRCOXhUYkh3U3JkZw?oc=5",
-          "published": "Thu, 14 May 2026 05:25:00 GMT"
+          "title": "Singapore kitefoiler Max Maeder reclaims world championships title - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDA1OWg2M1FBN3RxVHlJaFJYWXdfbnJON1IyaExjMi14YmRrWnhkTlJwVDZEOE1BbWF6NDBMcEJTR2JUVXFtSHJ1REVSZWFQN1BEOS1iMlY0RzRld2dqNTU5LW9OV3o2WmtJWWZLX1ZlVFkwSkl2ZHFlZDVCdXRnQXFJMWR1OHdrSXlSSkwzQ0hUVld5TjBPYThVMzI4OGUxcEd1YUlB?oc=5",
+          "published": "Sat, 16 May 2026 22:30:38 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
+          "title": "GoPro’s new pro-level Mission 1 cinema cameras - Robb Report Singapore",
+          "publisher": "Robb Report Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YdkU1RUZHLXJ5R2UzS3FEbjhpSlF4YWdQUnhRR1p5ekpfek5hcDVPQjl6OTRNYVFNMEtFcTJsaGs3LXR3N25wVlA0N0h2aXdwcWxFQQ?oc=5",
+          "published": "Fri, 15 May 2026 04:13:54 GMT"
+        },
+        {
+          "title": "Samsung has revealed the prices of its 2026 OLED TVs, and it's clearly gunning for LG - TechRadar",
+          "publisher": "TechRadar",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFBaR00yb0dVRnRPWkpUSTdQZUFiOWE4ZTNsbUZSRW1wZE5aamoxdlNORkQwQTFKT2FPQ3k4MlpOQ2dQdUxWbWpGeE9zZmVTV3doX0pJOEx1VFFoMzVITTBZbDktbGUtZUdEOEkwYnBYSk1tOFRBbElkbDQ1bXUxR3NRVnByajBKWTV3eW1TeHhJb3BnY3JPaEE3UHByZktJSVhnb2IxSVBoRGUtX3p3MUJvdHZBbldkZkpZb1JR?oc=5",
+          "published": "Sat, 16 May 2026 01:00:00 GMT"
+        },
+        {
+          "title": "“I was beside myself when they stopped making iPods”: The people still collecting obsolete tech - Yahoo News Singapore",
+          "publisher": "Yahoo News Singapore",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVZ5aHJiNF96OTQ3R3M0d29nSVhpUXMyQ05zMlpySlRudF9sN3BTWXVBWWM4ZHlNZXN5dUtyRXNFRGY3dVc1MmJWanpJTkFMS3VZa2RVQ1hQOUdlbmhTLW1GVVpmOWVmTk9JSWJsMDVhQ0lOWFZES18yTUtNNlllZg?oc=5",
+          "published": "Sat, 16 May 2026 07:00:44 GMT"
+        },
+        {
+          "title": "How To Fix Google Chrome’s 14 New Critical Security Vulnerabilities - Yahoo News Singapore",
+          "publisher": "Yahoo News Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02Qk1ZQmNNc1dtcjdJQmVVX1JYZGRvRVFqZmV6LURvcXp0bWhfVFpsMmdNQmw3UXRraldlMzgwUmZSWUpfY096S0k3ZVpGLXJ5QlUwY2kyTHJ6MUlOUWdsWE1XS1lLTmFtdEhOUDJMWmdNZnNWNHg3cFN3?oc=5",
+          "published": "Fri, 15 May 2026 13:18:37 GMT"
+        },
+        {
           "title": "Gremlin Stealer Evolves into Modular Threat with Advanced Evasion Capabilities - Infosecurity Magazine",
           "publisher": "Infosecurity Magazine",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRWEtRTE40bVB6U1MzM1BMdlI0UXY5WnpjWWJCai1GR0tYTEdROGM2NzNLNWlzaGM5eHVxaHZDRGpTMHBWVERlR0hKOTd5OUhpQUpqa2IyWDN0TjFGcHhvTDFuam9lM0FVa3NENTBvOHN2UzE1WTU0STA1OFI?oc=5",
           "published": "Fri, 15 May 2026 14:19:00 GMT"
-        },
-        {
-          "title": "Hands-On: The Patek Philippe Calatrava Alarm 5322G, Technically Impressive, Genuinely Usable - Monochrome Watches",
-          "publisher": "Monochrome Watches",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHlXLTlhcHNjY2Zkd2EwQVFwYURaMjhkRjZjcVBLcnJaX2EwLUwwOW5ab2pCT0RqaHk2UTg4WC1UZDhKaGt1RjFzZmZLMF8zUElUQzFiTE1uamhORWd3UldERy13QTc1NExwdTFlMmRRa3lSd3dKd3pfWXF5S2VEMXRhaF8xUE5ITk9lUGZuV3FZaVl4?oc=5",
-          "published": "Fri, 15 May 2026 17:05:43 GMT"
-        },
-        {
-          "title": "Solar-powered, e-paper bus info display trial in Singapore - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQmNIS2ZwU25PX2doWUVZNHpyc2kzNjhlV1BMTGlaNVZ4MElscTF5RkhmX0dBd0pDQVI1cVI0TjhzVUhBM1FjZ2xwak1lanMzZFhWU2pkem5UTWZjYXhUWHg3eW9YeVpJTmRNSi1uQzRQcFJUbWRMQmN3Yy0way03N1BFWWt5Z2VLUTlRMFpEUnkwUnRlYlhUNnZ3ZW53WFRvbWd5bExFd2hwQ01YOUhMT0lTdVhyeFB2RlZGZl8wZw?oc=5",
-          "published": "Fri, 15 May 2026 07:45:00 GMT"
-        },
-        {
-          "title": "Building AI playmates: How multi-agent systems are bringing toys to life - thebambooworks.com",
-          "publisher": "thebambooworks.com",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVFRbVVrX2lCamdfUjVlVVpBR3JROU53NmhBVzNKeTUyNm11Z3lLNXZhTmVEQ0pmRko5dzVPTlBGeEV6MFRvM1VRM2pXeExjMHFNckt6RkFCZGNLdHh5cHRwbm9NVkJ5dnVXUnVFZjlPWjJEVlNJT01JQldzZDF3M2tkN01kcXFaTDJyc1U1a3JoRnBKUVdVNmZDVDZLdFkt?oc=5",
-          "published": "Thu, 14 May 2026 00:03:13 GMT"
-        },
-        {
-          "title": "ASUS Republic of Gamers Announces ROG Strix SCAR 18 - ASUS Pressroom",
-          "publisher": "ASUS Pressroom",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1VjQzgxVUY3X3BSbnNEck1oRlZKZVJtaFE2RU9JT1NfX19BSUExaEJxbEZaWGpyNTVyOEZRUXNCclk0YjN2OGtHb21FUV85NkxqSnl4V21iZ2xhNmpRaFlrcFV5OXdhZGZDX3gySEpYSmp3ZWdXMHYxajRZVnk5SW5scnJhbFlnV3lMVmFRYmFkcXBsb0Y5Vw?oc=5",
-          "published": "Fri, 15 May 2026 07:29:35 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
+          "title": "Austin FC To Host Soccer Celebration Featuring Live Viewings of FIFA World Cup 2026™ Matches - Austin FC",
+          "publisher": "Austin FC",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSTA3LThZR2JET2Y3dnBMUWY1ZDNjTWszTHdXNWZKcG15QjRQRGFadUYwOWhKSnA1UDRZanAtWXZFV29kaHRLenBjeUk5YUQ3RkZ5c3VnbEhKcVBJakJ6YUU0MTVjNlJyTGRFLUlNb2dQem9ld3Z1QnNPVUpaZ1NYdTJkX0sxZWFkTkNsMzBWeHRldzN0MldteEZHazR0dEQ1NGpsNnBWb0lBUE8wOE9LTm00SzBsQXVDVVpYaFV2NA?oc=5",
+          "published": "Sat, 16 May 2026 12:54:04 GMT"
+        },
+        {
+          "title": "FIFA says it held positive talks with Iran's FA ahead of World Cup - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWZtSGRNLVhiQTRLTzBaUmR0UTZsbHZMRzkyZ2h6OFAzZTBUQ2xQRUpUalJzRllyRHdwSmF2Sl9QVUNNelNDZW5Zd3I0VUpxWmx1amd0N2dIUUE2Q3g4ckFJcExXSU16OFZjVkNSSm4wT0lCczRBZjZ5QS1Bb1VtQ1ZhS0hwckN6Q0VqQy1PRk1keW1YZVVZaXZNUkJUV09TNHMyeVlHRDQyb0tYcFE?oc=5",
+          "published": "Sat, 16 May 2026 22:13:22 GMT"
+        },
+        {
+          "title": "Iran men's soccer team heading to Turkey for World Cup preparations - CBS News",
+          "publisher": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeVhmX1FLS3JBTVJCU0Foa25IZXZUTFNXNmZvNkpOZF9IWjAyNjJjZ0FsZGV4eXJrRlQ1WnpLWURIY0FJaVNkaGxfbmlWNndVaE5oVmhsQmVIM2ZBZ0sxZ21RZjBRMnI5RGl4azZkV2ZlS2ZKWG5jSzh0U293NTFHbFNnX0Z2ZHRiZFdFaEdOdVpjcFhrdDB3?oc=5",
+          "published": "Sat, 16 May 2026 21:15:37 GMT"
+        },
+        {
+          "title": "FIFA delegation set to meet Iran soccer officials for World Cup talks - The Athletic - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWgxd3MwcXpOb3V3OGVKR1BoQW1NRDhvai1USXltRVdzREVveWZxNWNYQXNBVE5yMGUxa2JEMklWbVJQTG02QkM3QjQ3RnlvYlh6bnlIN21iYVliRktzaFY3MEhwUm05VzBvSEYwYXNUTDZ6UC1yLUFZUmtpUzJveTRGQV8?oc=5",
+          "published": "Sat, 16 May 2026 10:23:19 GMT"
+        },
+        {
           "title": "\"Family, football and the World Cup should make space for everyone\" - Amnesty International",
           "publisher": "Amnesty International",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXVqak9VUjB2U3dqZ2hnTlE2LWhvbmhCM1lNSXpZcUF4SkhvNjJwcHAzN3VLTmJ1S1QzeUdEZUxDUFBOdm9penJodFlWRFBDZWMwdzZCb3YwT0tHeThPZFN3R2hZcmtsWGNKZE9uRFZOOUdOQ09aZjVKTktsZ1Z5aXVWR2l3cGtRVnVFaV9FV0ZXdlBtMkFISElzT2JpSTh2OU5CQzA5R3YzcUNYdXpDdENJS2sxQWRE?oc=5",
           "published": "Fri, 15 May 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer is gaining ground in the U.S. ahead of the FIFA World Cup - YouGov",
-          "publisher": "YouGov",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR2N5VU5XN281SktfTVdGLUg2Q2hPR0FkLTVUMnlrYWh6dk1DXzN0c0trLW1NZVI3UWJsRXNfVE9tRWRfekpXaDVCaHNxZ1l0WlZnUlhsa2YzRkpiamxoc2syTEpudHJOMEY2X1h5MlJCM0l6d19HQTJpZS1DaVVxWkEzSTVfNThYUFlVLTI1VVB3MEVnQnJfSXhIS0d1Y1JSLXh1YQ?oc=5",
-          "published": "Fri, 15 May 2026 09:48:27 GMT"
-        },
-        {
-          "title": "Soccer: Hajime Moriyasu Unveils Japan's 2026 World Cup Squad - JAPAN Forward",
-          "publisher": "JAPAN Forward",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGFXdC1TNnZPaGxmdWFmazZ3eElwSUx1c21qcGZicjFCNl8tMHNUMm1RZ3F4cVE3eHVSSGlieDUtY3Z5RExFU1JDSzBTUHFVTzZ3R3NvWV9KamJkWFdlWUVtU0NicEswMHVXMUlUOXNHeFNyOFd0ck5pN3VQQjVaY3ZmRGZBbERrMG9KbEZR?oc=5",
-          "published": "Fri, 15 May 2026 17:39:43 GMT"
-        },
-        {
-          "title": "New Boeing Field VFR Routes Live for World Cup Soccer Traffic - FLYING Magazine",
-          "publisher": "FLYING Magazine",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNajRtdDNhYnBoZnhvYktua0hVZ0IwTnJKcy1xV3RMcEFZcFc1aXcyTHBDSHdkb3NnNjRrRVJTNTU1VkhWMDVlQndwMlVERkZYSGRRaUh6NmZvSDlISzNHS1ZqVlFpWlIwTFVPVS0zQmFGaFB0Y3JCYXlMME5pM0EzNGZNMENUUnBHM3BhMXdtRFJWUQ?oc=5",
-          "published": "Fri, 15 May 2026 13:00:00 GMT"
-        },
-        {
-          "title": "Seattle Soccer Celebration - Seattle Sounders FC",
-          "publisher": "Seattle Sounders FC",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FQjh1NEV2UTBfbVFOLTF1dDAzT2xxd2dZZUpySXNkbGJKb0tqZGhVMkVCMkxUdHJlbHZxcGs1MEtQTzRSei11YkI1N2dUNzBvSS1yNzVNbDRrY21RZDZiVmhfeFI?oc=5",
-          "published": "Wed, 13 May 2026 17:44:32 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "5 Takeaways From Drake’s Iceman Habibti , and Maid of Honour - Pitchfork",
-          "publisher": "Pitchfork",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQWJWY0IydHNSeXpZMFM1VFEtWms0YXpPRTB3YVBId1VOMEFNbXdGTTFtTTZhdExuY3JoMWl6enVmMThMX2czX3M5RTBreXUzTDlQQW1fYnh4SXhzUE1BZ0liNlp4LXUxMXhjRnFVeVJGMmYtWDNqS3NEU3FoenBLX0F3Ymw0aDVNaHFmUkl4NHBaYjQ?oc=5",
-          "published": "Fri, 15 May 2026 17:43:21 GMT"
+          "title": "Eurovision: Final kicks off overshadowed by Israel dispute - dw.com",
+          "publisher": "dw.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVFRCN2lKSlZYaXJYWFdjVmN2NGRfU1NZb2JvcS1Cd2lhRE9QWExWNk5uS05nYWpxR2NjQUo0WkRJeWNMSUNKVVJkTGRNNnZiZUNaYUN5OHJZTThONVFLc0J1WTl4WjBLUlEzUHJuUFlSUmxCbDJkRjVDNHJTWkkzUjNSd08xVm9QV05pYmxOQnktT2lYMFJQRENlZDV4WjJBQU9BOUV4N0VXYjI2ekNDcjVQd0NoMmE2dG1uLVhNeC13STFuS2fSAcYBQVVfeXFMUHFwRDl0ZkRNZTVLcEw5U3lfd3NpcEpNbTU1Sjg0MDJMMW9Cb0tkSWREOFRhclFRbzh6c2VGVEtzMXdFaFdBSWN6TmJRTWhVOGxBNWF1X2lVRlQyY0VFd0JNZFRqMEQyMGZSYUN0U3NvV2QxZl8tV3Y4V0lYS1BQM0FrZ01qV2QwMzR2Y09aY29rMk1uZU95OXlWOTA4Vm5faFZjY1FWNjRzTnVPWXpnVnlJdW5hSjY4YVJ6RV9iMlAwMnRzeWd3?oc=5",
+          "published": "Sat, 16 May 2026 19:47:37 GMT"
         },
         {
-          "title": "‘Dutton Ranch’ is land porn. Welcome back to the world of ‘Yellowstone.’ - The Washington Post",
-          "publisher": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNalB1RHFjRC1rcmMzVUEzLXh4YWttb21IOUQ1RlhHWTl1SFJHYzJJQnFJTDRDVlhpY0t1bEFTSmxUdjJsOWRHc0ZrQ0tVY2pXVi1XbVowdzRjZUQ3ZkFwd0owSmdneHpjcW9PLVhZWVFuOWxCQTZOQTFWRzJLUmk1TDNmTXBITUdZeG1CMkE0MHdyRV9OVGl5akJvcURwRGNGWS1tTC1rZk1rRVc4NEE?oc=5",
-          "published": "Fri, 15 May 2026 17:00:01 GMT"
+          "title": "'Paper Tiger' Review: Adam Driver in James Gray's Bruising Drama - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVElqcFlxSllLOXc1Y2p1QW00c3U2aW1lYm9uNjNwS29tal9vQTV3Z0laNlRGMEdXRDhSWlZ5SGQ5TXZPUDlxdmQ0eF90R0NuQm11bHFVSFdtYi1SUUVmTlRjUkhZRmZmdlV6UUlGamdDTlpkVExKTmZ4U0k1QXdNdG1BZGh3OHoyNE1EcmtUdEJ6TFEySkFBX3ZuRDZPdFMtb1RJY1VxQTM5dzY5eEgyUjNQbFd4UQ?oc=5",
+          "published": "Sat, 16 May 2026 21:40:29 GMT"
         },
         {
-          "title": "John Travolta Cries as Cannes Surprises Him With Honorary Palme d’Or: ‘This Is Beyond the Oscar’ - Variety",
+          "title": "Princess Lilibet plays helper to mum Meghan Markle – and look at her flowing hair - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdVZwRFV3VHZLTUV6aTE1Q3NhZmIzbHpaa3hHNUF5dER5M3ZzQUcxWl9kVDVCZF9Qak5lQ3NRWnJ1YzBjRTFVSk5MeTR6WnBoeFpTb011dHJIakctWXh3eE95UkpwbDV1NWY4TlFua0R3UVZOakM4THZZemhMeDBhSGFLMkFTOWQ3RzFTUlp0V0p0WTRkYzdJRFlPcEkwME1nVGZBMUFn?oc=5",
+          "published": "Sat, 16 May 2026 17:42:13 GMT"
+        },
+        {
+          "title": "Hollywood Shunned Cannes in 2026: What Will It Take for Studio Blockbusters and Netflix to Return? - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMVd4dGI5cWg5RU15eHpHZzRUaTRCTE9XUklJeFBaLXA1UDhNLXZUc3VnRk8yRVc3bXoteVNiTElmbm13d1dwTTdfWTN2ZWFHRFg2Wm1RX1dZblpCbTY4WEpZSFJfZFFvaGNqdEZSVV9yekRfQjM3X19GV0RWWGpjcUQzd3oydDVXZHRZSjJxUU92SThyeFUycHFJeGxVZw?oc=5",
-          "published": "Fri, 15 May 2026 17:14:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdkVQR2t4YTd3VDVJbFRnZ3pmaDlJeTdqYU1xZWN0d3ljcTV5UGVYTE80ODFYcUxIWDRFa2tWNm1xMm92Y0xvMEd5S0N6cDlHc0lBUldIbWpaTHJWaEd4TTNYWkNiSjI2LUhKdm5sY0JFajhiaWV0cHQ5S01TTWZfVXVRMmR6ZEljYldETkN1UC1YdzFfOWxXRU9yQURhU1hoVFZXWjZHWnVuVUk?oc=5",
+          "published": "Sat, 16 May 2026 16:39:00 GMT"
         },
         {
-          "title": "'Good Night and Good Luck, Motherf-kers': Letterman and Colbert Toss CBS Property Off the Roof - Rolling Stone",
-          "publisher": "Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLW5Eb1ZndDZ5N3lBTll2dUtsUGdhbHl3N0V4VjNReVFLWkNuYXFweFJlbWk5cnVidU5SdWpMY1NBVzBtRnhZR3pzTzRYYzc3aW1aZHRzSW9NbXk4aTZCQ0RsU3MyNVFMRS1ua2JFMktJZThZTnhlQnM3ZWZQZ0NTeC1xOU5JU1lwdXBNdUd4RTc0NnNlUTBDeDdRVURXajBKVjNXUF9yVQ?oc=5",
-          "published": "Fri, 15 May 2026 14:49:54 GMT"
-        },
-        {
-          "title": "Reese Witherspoon Reunites With Ex-Hubby Ryan Phillippe for Son's Graduation - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMXhLb195aHVGNlZ6cWp1QkRpMkFJLTRsZUhIZEs1UjlXdVNPY1lGYTMtcGJhRDI0VFYzU2hpb3pTNmhmSWZWMXZmcm5qM0ZWcnNCU3VKT0d6dWtlb0xweDFtZ1diN19WRExFSGR0OGEwSWI5MUpZTXFZLW1xcHc?oc=5",
-          "published": "Fri, 15 May 2026 19:00:08 GMT"
+          "title": "Curry Barker Considers ‘Obsession’ Sequel Or Anthology Series, Despite “Plot Hole” In Film: “It’s Broken” - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObjk3aXhaZXBUT3ZHdTY5WGw2VzB1ajEwLUVtakxyVnFvSmEyM0dKUXRObER0VnRmTW9CMVRLQmdJTkJGdTVlVlJMQnF1SEJTNHpaTXJORXVkVmppRGQ4a2JhcHZtREpZR21LYlppQTNkZHNKWmZOSTJreUNiY3dHX01wXzlhYVNqdkh5azZTeFpYd19KVENUYllZTFdEMHd6RlE?oc=5",
+          "published": "Sat, 16 May 2026 18:40:00 GMT"
         }
       ]
     }
