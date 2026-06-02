@@ -1,7 +1,7 @@
 {
   "market": "GR",
-  "generatedAt": "2026-06-01T23:27:13.727056Z",
-  "validForDate": "2026-06-01",
+  "generatedAt": "2026-06-02T23:45:21.298372Z",
+  "validForDate": "2026-06-02",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Μητσοτάκης στα «Ποσειδώνια 2026»: Η ελληνόκτητη ναυτιλία αποτελεί εθνικό και ευρωπαϊκό κεφάλαιο που πρέπει να διαφυλαχθεί - Newsbeast",
+          "title": "Δημοσκόπηση Pulse: «Μόνιμα» 2ος ο Τσίπρας, ντέρμπι ΠΑΣΟΚ με Καρυστιανού - Διπλάσια διαφορά για ΝΔ - CNN.gr",
+          "publisher": "CNN.gr",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcE5RaDhJdHNfT1AxSUM4NlYzcGVwYUNlREVsNmVSWnZzRUU3S2txUkFmN25JdXZHak0tZ2MyWi1YcjB1d1RJSHdmeU92eEJHa3A0ZVEwRWRMeGpvVzdSSDdlY2tUNUZ2OFo4cDNWUy04ZGxRYkFYZEZUYnJ5d2JpdzR5VnA5Q1ZWZW1zMC1UVjc5Wm9URTBhNFN6bHpGNGRxMzFOcDhHaGFnMDR6Z3hkYk9BcDd4aDNtZVE2NktOVDJBT1JGal93OHlsNA?oc=5",
+          "published": "Tue, 02 Jun 2026 17:28:00 GMT"
+        },
+        {
+          "title": "Γυναικοκτονία στην Καλαμάτα: 45 μαχαιριές στη 39χρονη βρήκε ο ιατροδικαστής – Πάλευε μανιασμένα να σωθεί από το δολοφόνο της - Newsbeast",
           "publisher": "Newsbeast",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSUtxTW1HMmN2a29DN2FUamFWalpiU01YZWQxanZJdXdZSzRvS2VqYldTSm01RS1VdlBPbVNJSlFMWnFGanBfdkZ6cWdEYUNaSkZPeF94d081ZEFuQXcwMkI4WGtrbUNvLWNmeE1fdnJaNWJrQlFCLVZHZThCMTRNdGhFc1VGa3ZDYm1zdWd6SFVfRzkzcF8wOTRkRGxUWWVaSnhrdVZYcEgwQ3JWR204N28tTGt5RmN5bTlUeWlIbUU5czQyZ2pHYVhkZzM4Y1VOTkZnNThtczRNak05N004NVpXb3hVR0ZObjc4YXRrcE1VdXBBU00wNQ?oc=5",
-          "published": "Mon, 01 Jun 2026 19:55:28 GMT"
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdHFhc3pHVThoOFZtZUtQVW9QMVM1TFp3a0dsMHAwejZEODJQMHp3ZUk2NWxEekRLeUV1TWtEVzhSQnh4aVFUTkNvVVgybmhJSGF2UEdwODc1Ylg1TkNpelpUVVQwa0E0WThDNkVuTlBWQkxQZ3RvR3ZHa25vSTBybmYzcmJDeUlLV1pUX2VlZkptNUtWNzJhblZ2WVpwZ1hRLTI2NXJLbzZkQjJLWGtaeFB5TWZ6MnZCNVRfa1hoc0t4ZHc0bGxKam1aNjBBOW1sOC0zcHNNOUJjR0pvRGFweEZwQ1FpVXJPanNXN1N6cXpJWk5oWHZ0V21XVHVjQmtydW5B?oc=5",
+          "published": "Tue, 02 Jun 2026 12:52:51 GMT"
         },
         {
-          "title": "Γυναικοκτονία στην Καλαμάτα: Φώναζε για «βοήθεια» η 39χρονη – Έφερε τραύματα και στην πλάτη - ertnews.gr",
-          "publisher": "ertnews.gr",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNelBwSnJOT3U1R1MwWWxsV2Z2a3RIYzBTUHljTWZtQnVZVmREU0xqdkEwdmdKOFk3UmNkMmx6a1dTc1EycVl2STNsQWVvZnpaek9nVVp4TEIzdVk2dENXeVZ2bGkyM1lRcUZwNnhjYThCck5ncXo1Yl9PYnZLU19HQ25fNHBoUzRTZ001SWRiekphYm5KUWUzMWxLM0lqRUJkdEFWeFNNWmMwUGJxX25xWkE3OTZ4NXdNZTlFSWxUdDdVRV9BYkHSAcsBQVVfeXFMTWhiOVpycHBPSnhnWmxEcTJnaDdzRWQycWlDN2owY0VvT0c0Y0pONUpIRFExTjIweHRpS2ZXdkN3anZHNUVhUUZJTWJESWJOS2lxLVA2ZHVRQi11elJzUm5NRXVxel9RWEgtc2xLVkRTc01lSldnZjQwclkyVVF2cTcxWndqS3dyQlNfdmZkRUlrQUJMb1VxekJoTV9BMW5XejNYTzB4TlNfZkZ5THFoZGs3VEZMNzREdFZ3enprTjVTU0Fra0dZeFpTOG8?oc=5",
-          "published": "Mon, 01 Jun 2026 16:29:33 GMT"
+          "title": "Φυλακές Κορυδαλλού: Συνελήφθησαν δύο σωφρονιστικοί υπάλληλοι για την απόδραση κρατούμενου - η ναυτεμπορικη",
+          "publisher": "η ναυτεμπορικη",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWHdzWkhkeVJuaGMwSXdsbjZTMEc4REFJSWRlczNHakdQSU9CUWVtTU5jLWNNZDh1aV9TV0JkZWthYTQ0MldKRDFCQ3NVZ2Q5dThrZ1FEVEdvMTVJeTJQZmpfdXlDUUJJWlpyRUtGUUdFQWhLSFZFcEhCNDdQblJfSXVCTnEyRDFFaTNUcXZjRy00OUxRSGhONGF6cmE5OTNEUGNjQ2t0TUN6bzhLREtzRFB3dHhUUjBpbFBUT3BaRWY4YVZBRWZtdVViNTVmQXM?oc=5",
+          "published": "Tue, 02 Jun 2026 10:56:03 GMT"
         },
         {
-          "title": "«Πινγκ πονγκ» μεταξύ Ράμα-Τσίπρα: Νέος γύρος αντιπαράθεσης για την Ελληνική Μειονότητα στην Αλβανία - Skai.gr",
-          "publisher": "Skai.gr",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHA1UDFMNHJFZzNNamkyQjMtNXhqd2xsVktDWkZQVl8zWGVWanVDdm1Salo4eERQXzBFTWFJcWFwTlBZclJZVUNwdVNjbWZkTmhlaUhXVVVpV0JsR3Y1eWcya3lUbnlwVFZkcFZnT1RMRXdELWhWMkFTSE1RRnhGYXY1VEdTTzFNSk10MXdwNFRsdGVoTzRDVkl0bXVnUFhnNVRNaGRONl9SbU1MRDdjUVVR0gG3AUFVX3lxTE5rdzhtYTREbTZ3OXdSVlY3WDFuREhOMDVsLUlNWWVzUkY4NVhKYTREUF9QMkFQdnV3U2ktTUxrdk9na0JmVzAyYjJ5bDExSUtMT3FhcUJYTm1ZRUpKYnRtLTF5Wk1nbTI1cUtLSy1qQzFBS1N1T29jTlhxUGotMzgtQndMRElOY29EaEFpWmZUbUlSRl9RSUJ2ejRxTVF4N1NyOF9vaXpuejM3NW5tRlAzek1pc3pXbw?oc=5",
-          "published": "Mon, 01 Jun 2026 18:05:01 GMT"
+          "title": "Οι «15 οικογένειες» της Κρήτης - Όπλα, εκβιασμοί, ΟΠΕΚΕΠΕ και ομερτά - ProtoThema",
+          "publisher": "ProtoThema",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWDhwcFpncHV4YTJHcV9TbTJ3Qnl0WVI5SzZfZTJtMjBYTk94YWUtNVZlODc1bGlGc1lkSFJ3U3FiWmlLOWVPckY4dW5jSjRPZ3FpY0ZKajhtREdUaFlGV1Y1SWhBTEwyWlhjWmQ1UUZsWUFIX20zN1JDUUFHSWw2VU9Hblo3eHVudWdkeDdJa2h5QmRvdXF3VnZKUzlrWEdpc1o0V0VFYVNaQjZ1SkpwMk5B0gG3AUFVX3lxTE54bjA5MW1UM0JwWDJ2dHljT3VCNUs5ZWcwdDZ1T1NuSkhsWFMwcnRTMjdCWVhFdzA5bm1LZEdPTmFIUGxZclpTbDc1MTNkQkZCSlA2YTBHTzl2UXBFbllhbUVWZTNsM1ZmX3B5Y2E0bUJBbnlpMG84eVB4bmRlajFjMC1GSnV0OGREb2RkQmg3YXBPM2MwZjBjSHVKYU14TXdKTDlRRUo0MjdNcGVtTWpTc0hlVkU4MA?oc=5",
+          "published": "Tue, 02 Jun 2026 16:38:00 GMT"
         },
         {
-          "title": "Επιστρέφουν οι εκδρομείς του τριημέρου του Αγίου Πνεύματος: Πού έχει κίνηση - LiFO",
-          "publisher": "LiFO",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT2o5YWhLRHNqTzJoZV9NMGJqeHRoWk9ybS0zT3hoYWJvaVpDLU1EREdxUTFraFFmWXVjTF9GU2dvUENid2tTLVNUQkoxNnNBR3h5Nk0xM0tTR0ZEZGhHb01KcF9oRk1ENHB6eWtlMC1uUmNuaUN6LW9fWGhPcF81S05Vd2FJZHhNeENzd0hOb3NXV2w2ZFZpcjJ6VGMwYVlOenhjMHNGUjfSAa4BQVVfeXFMTkEtUWxKbDhCdjJ0UGNuRjR6cUdIX3AxS3RGX1p1UE9aY2wtd2V0MFg5YXY2bkhZZUJJWjhLanZyVUVtQ1A4RXdUQ3poc1R5bkVUbTFuT1lQVTVKRGFQamxLczg4bHZNZFZoVEFQaXhodkF0Y2JDTkF3dEZNdHhqNEVPS0tadHlVQVpuWDFpcUtoeHdWdkxWYk9VcnhvNjJWRU56UGxUMXE3VGRVN3JR?oc=5",
-          "published": "Mon, 01 Jun 2026 17:16:30 GMT"
-        },
-        {
-          "title": "«Έφυγε» από τη ζωή ο δημοσιογράφος και θρύλος του ραδιοφώνου Λευτέρης Κογκαλίδης - Η Εφημερίδα των Συντακτών",
-          "publisher": "Η Εφημερίδα των Συντακτών",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdVIzcWQzWXJhNjE4TWYtUWpoaXVlNzVjMVltUVczT0o0M0gyd25TTURJM0liNm5sSThSVDNKRzF5RDFnZFY5dG8wUG8zV2t1RU5zb2lfcldNX1hKQ3dielZHZ3ZlTTYwYmVRcl9TbG1acnlySjdLREN2MDFCb2ZiMVhpZ1JiTVVtOHRXRHdPMUxlU25ocjM3TkJnZzktaFY5MGtSWVBLSEN5U29uY0hxNVFGMDNVMEE?oc=5",
-          "published": "Mon, 01 Jun 2026 19:12:14 GMT"
+          "title": "Χανιά: Αχτίδα ελπίδας για το 3χρονο κακοποιημένο κοριτσάκι – Βγαίνει από τη ΜΕΘ του ΠΑΓΝΗ - Newsbomb",
+          "publisher": "Newsbomb",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRXQxVXR1bDhCNmhYeVNjNW1jNi0wN1VrYzBKOTl5a21pU1NVdlMxdkI4MGxmdUllUEpGdGtxT0MzMWJYMktrVlplVmVIN2VaazNBeTFCcGZqaDRvQnJuejgwTzZuWURibzdzQWtkbjA2VTdta1BYNGRobm5SV3Nnb0FkZ1RjVHFnWnR3emVGcktTd2Z6NllxMTFGYXMxQnpBMk1GRDBxT3lFREFSUF9qVFBub3VvVnBtNkpRREFkc3BfZF93MmMtNlNoUzg?oc=5",
+          "published": "Tue, 02 Jun 2026 19:33:17 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Ο Νετανιάχου διέταξε βομβαρδισμούς στη Βηρυτό, ενώ το Ιράν για να τερματίσει τον πόλεμο με τις ΗΠΑ ζητά εκεχειρία στον Λίβανο - ProtoThema",
-          "publisher": "ProtoThema",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRGNvS0NxV1ZkSlEtTTlfZTVQc0RTWmZMYktKTXI1V3c1bDRSVkVBRVhiZEJUSEhYcVl6R2xmR0gzakJHdmg0cDZUWGk0bzJhcS1JN2lxbU42Tks1aVctLWxXSXlWWUp3dEd4dHBjZ3BENXRIT2tWS3JDaFd1a0lVNzdPaVg3RW90dkZuaDRiekxwWllMaERqcnc2T2pSTEJ0Mk9IdTFKdmM0RllYSlN1TkxVVFk2QjhQX2VMRnplTlBGRUJxRnNKZGtBQVVhMlFBVnJZQjliYVppMkRERTJPYjRnRElzYUcxMVhaaHRuYzdMelpG?oc=5",
-          "published": "Mon, 01 Jun 2026 08:06:00 GMT"
+          "title": "Το «αόρατο» όπλο της Χεζμπολάχ που προβληματίζει τον ισραηλινό στρατό - Kathimerini",
+          "publisher": "Kathimerini",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbS00QW5TNzdjQi1DbmV6dG9RcVRicG1wX1YwYndITlVRaEp4QXVUWm96TzVSMl9MUEs4Q1RTc2UwUzZuMUxVWVJzdWpVZnFwZEhkaUlwM3JGd203Vm5YQS1pRE96bC1YcDVmeXFjN3h1cDlyMVZCMTk2YlNVSmZTRG5KT3ROTVMwTGZOZGdqcjFMV3VQbHZRcnNpV2ZlRDNOejRiZFBDZTRxSWZVeXl5N283TQ?oc=5",
+          "published": "Tue, 02 Jun 2026 17:54:47 GMT"
         },
         {
-          "title": "Διπλωματικό αδιέξοδο για ΗΠΑ-Ιράν: Η Τεχεράνη «βλέπει» παραβίαση της εκεχειρίας από την Ουάσινγκτον - CNN.gr",
-          "publisher": "CNN.gr",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDR4TXhtOGJyRDNaeHJLTS1rZGlybUVRMG95UWhSZGlPUVpsTlpObVExQzFodzg5VnBWXzJOSm14ekN3VnZldFQ3aTNuWjlVS1JzaEM4ZWlVN1FDcHN1LThldHppVnJOWmRRREZLMktKZzRCSTNzU1c0Wk5aMjlWc1VuYzgzOXlud0QzTWlVSFQyai15OG1aV0VvU1loemdlalVjeFJ2NlVJQ2VwWl9sdjlUeHdjVndOVzVrLWJEZTVhQ0psdHllVk1fTGRGeTBy?oc=5",
-          "published": "Mon, 01 Jun 2026 10:33:00 GMT"
-        },
-        {
-          "title": "O Τραμπ μίλησε με Νετανιάχου και Χεζμπολάχ για την κατάπαυση του πυρός – Δεν αφορά ακόμα τα νότια του Λιβάνου - In.gr",
+          "title": "Ουκρανία: Το Κίεβο εξέδωσε εντολή εκκένωσης χιλιάδων κατοίκων στο Χάρκοβο – Πεσκόφ: Παραδώστε τα όπλα - In.gr",
           "publisher": "In.gr",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkFPWE9VNS1MUm5OYnlNRU9kZVU1R0Yzc3JjMFdFaVNzZ3JMUnJkdkRYMkFJOW00bGhKZFpCel80bFliWWQtLS1kWFhGdTZscTBCU0Z4RmphcVJBX0V6X2FoWXVVQVE2UTJJSEExaDZSV01VUU02OFNIZzJBS1dyaVJVTjkzMFZ3Q2ZRd2M0Z1Z2U0JRUE0zdElKemt0MGJ4UVp3czdNUHN6ZHpJaGE00gG0AUFVX3lxTE1TREZ5ZGpoVGRFSTgxaXpQTUdORGNfSURrSW9JbkNPMldwOFNBUVA2dkd1Yl9QakFUM1FBcTIyV2Jxb3I4OWxPbUk3WkJDdWY5M241QjR0dlVxeGstOHplMHFMOGx3WGd2R1ZhZlotVmtRb2Rfc3paWEhTc0hDdlJPT3AtYkN5NWxNdXRSaFhrY1JzektBbUI2V2Vja0hpWTNmX1lQWXJ4VmtKb1oxZHNtWHlCag?oc=5",
-          "published": "Mon, 01 Jun 2026 21:06:01 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc2dYdzVabDBsaFZVSG5nVGp3MThFYVo0TTRzZ0M1OHJTTjB3WE9taFRLcnhIQTcxVDFJZFNSeGM3YW52RkdiMU5FdTZqNUdYMWYyYUYwSjRnM3VjLTJqLV9JZzVVcjhpVl9YRExxSXlwRTJzdUptcm5tNTlGLXJaU2FuUEE2Z1JZWktEY0oya2NPV0kxWndPdmFKcm10VktYUjlac3JHMWJFWFdrM3RodG95Wjg0Njl4UU5YLTdublJCLVdkc2diS2dfWDlYZ03SAdQBQVVfeXFMTklrUGRPWmlZOU1pdzY1ZzVNUUdjY3FfSXB2OU01VkFiYW9kTWJCTmNRNWZCLUpPRUJqMzZxVmpXVFY1dV9qTnNENmNGTENpLUUtcDdjeWFuZE5JU0FDd0FoSzJTOG54TXBRUzFSN0dLYkRkRUZJSmlzNWtaNG5MZzhHUnNyN25RTUl1dFV2U3JQcDk4UjE1dk1XME1sRVJyMDVTTFlZZlhQNVVIS0FPSzBSVjlITnpQOEJNUGNQUE4wdHdHUE1ocUF5NEV0RjRWN2dxaEs?oc=5",
+          "published": "Tue, 02 Jun 2026 14:13:46 GMT"
         },
         {
-          "title": "UKMTO: Φορτηγό πλοίο δέχθηκε επίθεση στον Κόλπο (Βίντεο & Φωτό) - η ναυτεμπορικη",
-          "publisher": "η ναυτεμπορικη",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSHBHX2VSeU9ZSXZWdktGS0FTUUowcWRsdmw5Q041SWZqNV8tQmVHVzdxQWpoLTNHV3FVdGRMdGpXaGFoNHdaMUZsU3VtQ2p4MnpaY2tRNW1OZXZMcndtU0txbXg4UmkzbXhhV09ZZWNwT0JKMFlxODRiWUFSbDBQZzVZLVJ2a1Z4eGZmNXpXaDVMa25Iek5zbW0xLXpfTDhqelNPQlNPSWlYR2c?oc=5",
-          "published": "Mon, 01 Jun 2026 14:56:14 GMT"
+          "title": "Τραμπ: Fake news ότι Ιράν και ΗΠΑ διέκοψαν τις συνομιλίες - Νέος γύρος επαφών Ισραήλ-Λιβάνου στις ΗΠΑ - Capital.gr",
+          "publisher": "Capital.gr",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVUNlRzdYM2JkN3JITVBmSkZZRV9TTVZtSjRKcThrQXZ0cEMyZHRVOHd5OEZKckJBLU1DVjlyVi16ZWVQX2JYZEh4UEFsN0d2MkVEekZXa1BTZFhObG14Zzc3M3RDWDU0UXIyMnFmMk54MzdCUWNtanBxR1FGVkN2ZnV2d1VWWk9KaTBuQTlkZGI0WTl3cGc?oc=5",
+          "published": "Tue, 02 Jun 2026 23:14:02 GMT"
         },
         {
-          "title": "Βόρεια Μακεδονία: Παραιτήθηκε αντιπρόεδρος της κυβέρνησης - Zougla",
-          "publisher": "Zougla",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb1dqMXBrUVRvcXRQNm1oS3MxQ1YzY3hMdjhSTHZZWjZmVFVaUWF4TTJYb3IyaEk5anJnT19DeW5jeHRaRWstcDBzc0w0YjlrcXhWdVJVdGlCLW11eWlIcHU4T19VTWsxNmhvb2pSMGdqWVZYUGotMkRCbzJzTnVyZWFGdzZxTWxnenJkRGhZcUzSAZYBQVVfeXFMUG1Bc0F2NGRIVkMyRzc1d1RTTTZNRlBaVjNiMDNVbG42SkNGOXhnQjFFUi1qTE1ZU24zaVd6czktcG8xd3ZCYlUwZTN4OXRWXzFHM0haMlYyRGdUWUxvYVFEQmZwUkI5OUUzTjdwbkRfZWJpTmd2RjhCWVhlUW5yaG96OVdsMHRqWENlVHJGMUZIOHFZTVJR?oc=5",
-          "published": "Mon, 01 Jun 2026 19:02:51 GMT"
+          "title": "Ισόβια σε νεαρό Σιχ που σκότωσε έναν φοιτητή στη Βρετανία, η αστυνομία ζήτησε συγγνώμη γιατί συνέλαβε το ετοιμοθάνατο θύμα - ProtoThema",
+          "publisher": "ProtoThema",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVE55UWhsTHZ4em1aaElyXzV4ZE1aMG9aVUJ0TElNbXE3TzUwUHJ1REkxV3FIX2dRakhhTndvZWFCbTRuUV9JRWdEeTJpVzhjaXREb0JxbTNWOEg0dk1WTzQxRmRwWHU4RHU5eWRiWHp6X0c4WnYwYTRrbGpZSVFteGlaa2NFQ29EMVhQc1hJWVViLVlKYnlMR0VaWFhCSXVBX051eFdBY0MwV2_SAbABQVVfeXFMT3dJN0lJbUxDM29tNjVvR3F6NjFmb2RrN2V0bkwtaGtES3Nkd1ZyZjkwLVVva296Y1Z1R2FpQjJQSFl5eVNsZkhxZ3Z3NjJsRk9QT1NlZGtBWExZTllzaDZIMHNKd0VkdEJSYVc2S3YwcW5iWkNsYVJkOWZpU01jSzFKQXhYNDJieFI0UnZLMmN5QXlJZ3JJenRtSUlCYTVSNnN4enhSc000VUh6c2FNT00?oc=5",
+          "published": "Mon, 01 Jun 2026 20:46:00 GMT"
+        },
+        {
+          "title": "«Αναπόφευκτη» η επανέναρξη του πολέμου, λέει το Ιράν – «Προετοιμασμένοι για όλα τα πιθανά σενάρια» οι Φρουροί της Επανάστασης - Newsbeast",
+          "publisher": "Newsbeast",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNVdZX3VZU0ZWaGdyWVpTS1pLTm1HSmNHQ1ZNOUVVbDgxSE9zX2FaWlNvcjloZ2l0NHZqMXRWQUl6NWVGSVFlWWplWWM3d2o5dkRiaHpHN0FIdjROV2VWajhVNlg0VlpaMmR4OF9KSFY4Q2h6WHFnQ19VT2tZWFVEaG5nVm5GWExWWmtjMi00bEEzcEdha2tkR0VpZExsRkk3VFZYWlVrdk1TbV9LU09fb2ZwN1FucWxSc2QxY290ajJzWU9YbHdmZnJMcV84a2VrSEZNQlpNdmpLMmlPWWR6Sk1DcC1pTks4cF94MVJZdFczbm1VT254OGZn?oc=5",
+          "published": "Tue, 02 Jun 2026 09:33:51 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Μ. Αγγελικούση: «Είμαι περήφανη που η συντριπτική πλειοψηφία των πλοίων μας έχει ελληνική σημαία - Ναυτικά Χρονικά",
-          "publisher": "Ναυτικά Χρονικά",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObnNyOFd2TE9tRllxU2xlTnFPQlZ1RkhncmV0dzE4VHpuRkRvWkZHR0ZXQnpoclY1bkRFNlktcUxYSzJ2RlVaS0ItX0hEWFpEUTlHaG9wVnVoVmpMSXRFN1FHLWtSWmdQanJBYnhodWIwUlZRajhUMzhEQVg0eG5RNlRfVlQyaDlILTZZUkJXSGtIVWtXMWt5WGxUbUFiQzg3NzRONFJzT0VHYnVGTlZqNmQzRGRmNk9FMFVXVTJ6QmZzV0d5Sk9pbHFJQW5CYXY3S3YybA?oc=5",
-          "published": "Mon, 01 Jun 2026 15:32:08 GMT"
+          "title": "Χρηματιστήριο: Επιτόπιος βηματισμός με το βλέμμα στα υψηλά έτους - Capital.gr",
+          "publisher": "Capital.gr",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWlp0dTRXTGE0S2ZxRFllTU9MTDB0MzgtZTVlQkc1NnhjanhXa183NjBBSkIzMjZoSFJwcDJlM29JSDFISUNKTk5sdmVNLU1OdkVmVWNmcGJ6dWZWcTlicEFuWmhDRHZ5WWozcE9FT0dXUTAtQTlGdTNPa1N0RlU0dGJyVkQxbWRsMnVZUlIzQ19zZWJ2X3J1WmtVakxwdFZCZ08xNGxB0gGyAUFVX3lxTE5XaDJ6UW8zRHdjUDYwMklYQzdqMDV2TzBuM202YWx2UW54RXZhZkF5N19ybUtGYm9MMjVsVUlqNnY2dzNDcUlIYUZqMHJwaUp0RGFtal9HVWZQVlJYOHdVU0RpTkU3T0RLWFN4cmh6UkpnRG1aVkRfUDZXRDhwSk9uLWR0bVdvNjI4U0o0VXZDN0d2c3Yzc3VxMTZWLTB5enFydG85SF9FSlpDc0lCTml3WHc?oc=5",
+          "published": "Tue, 02 Jun 2026 14:35:59 GMT"
         },
         {
-          "title": "Στο «κόκκινο» τα ευρωπαϊκά χρηματιστήρια μετά την ανακοίνωση του Ιράν για διακοπή στην επικοινωνία με τις ΗΠΑ - ProtoThema",
-          "publisher": "ProtoThema",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOGZtMi1jbnRCQkNRdW5uWWoxQkhFZXhVQjJRZ2ZvbExSOTJDMmxGSnpCRXpYZWh3ZElPY01iN0UyS1JfV3VtY2xoQ0d6M0hTYnd0MGtDLTZxRWN0cWk2UHp3V3otWWhKdTNiYTM4dGJmNzZzczVCbUF1elpabC0zZzhBMWdCZ0oyV0d4Mm5IclByWGx0WENndEN4enhpdllvUThwR0JIemgxWjJ2VmZLSVFjV3JRbk9vaXY0SnFkY3pOeC1NTnJNdEU3bG5WandsQkdid0VPWmdnYVhzWm1EamNMYUlwdDBkQ1VFVC0tTQ?oc=5",
-          "published": "Mon, 01 Jun 2026 15:09:00 GMT"
+          "title": "Επιστροφή ενοικίου, ρύθμιση χρεών σε 72 δόσεις, καταπολέμηση παράνομου τζόγου – Σε δημόσια διαβούλευση το πολυνομοσχέδιο - Newsbeast",
+          "publisher": "Newsbeast",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNc0VqdWpxWUpQZGROd0doc3NjckFBZ3hhX0JYaGt1dTkzdHhyTGZ0TE5xTU1LX0gxZ2l3SnBqU0daZGkwVmVTbFVDMktsVHVKNjE5SFpsV0J4TndqWkpRbkxxVHZjNElVbVUxdEJRTlBONThKQmNNQkRHWUlJMlNzOHFBUkdyMldQLXJQVXBBUG0zZTJCcDY0YXpodWlHMkhXQmJfbGg5YUdVc0MyX0htUE9acHhEWlZCLWhOUy1QaGFLX1RPLWJaQWc1OU1mdHFiSFhFTDVScnpLbzRCMjQxQTVjV0FydDBHeHQ1bnFNSklSQTV1R0paX3Y4M2t2ZkE?oc=5",
+          "published": "Tue, 02 Jun 2026 07:02:00 GMT"
         },
         {
-          "title": "Οριστικό: Έρχονται πρόστιμα σε πάνω από 400.000 οδηγούς - NewsAuto.gr",
-          "publisher": "NewsAuto.gr",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnpiNnFZWkZBd3l2T0RSNGVrM09DX2JVNzZJUFJNOG5JOWFLRHZoVnlZOEtzaXMxYlhJMHRxZmItYkFDOTAwRW5BOTdvN3ozSDVxYnVuLWRGaUsxLWVpYV9rOVF5d0hpTmRyY1ROVG15aWFNYUJCZXowZ0lVT2RqOG1wQzdMOTlMWHJfWEtLaUdsdw?oc=5",
-          "published": "Mon, 01 Jun 2026 18:47:00 GMT"
+          "title": "Οι πληρωμές Μαΐου της ΔΥΠΑ Αναλυτικά στοιχεία ανά κατηγορία ωφελουμένων - dypa.gov.gr",
+          "publisher": "dypa.gov.gr",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNanRUWlhOeTFxZE5lZUMzOWhPV2g2UjNLcUZuaG1xMVAyZWlWZ2dJLWxvLUZGV2UzOWU2ZXc5SjRzYVpoSXlsVWtHS05jdnF6cTVINGxDV2pmS0RncUZuYlJldHFZcExBT1dWaEI5Y1pSLXMtbExFZXBMWmtwQmdzZnN1YldKRDNsV3pFbDdENlp5NG9jMXpORmd3ZEc?oc=5",
+          "published": "Tue, 02 Jun 2026 08:18:00 GMT"
         },
         {
-          "title": "Εστίαση στην Αθηναϊκή Ριβιέρα: 3 προσωρινά λουκέτα από την ΑΑΔΕ – 110 παραβάσεις - η ναυτεμπορικη",
-          "publisher": "η ναυτεμπορικη",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcEVlb2ZTeV81c2R1ZnBTbWRpWFFuQU05aHFJSEN1SUxvX0NfN2pTQUhqTzBnX01RdVg5a3BSOGJVTU4wODN0dnVfNHN6MERUaFdfRUNOQVZiNWtOdmRLUjBTT2tTQ3E1OWFzRzM3M3JiV0p2aGRrT1R0d0RBUE5RSHo1b2YzYy13NUZYQURaOGk0aEsySHRjQmdKemh3TXpWVktJZXNtbWdkblVhSDVOaFlKLWVYTDlJRmVhMkx6QXE5LURZOGVlaTMybVd1aFRVbmpCQ3JxNEZqaUxB?oc=5",
-          "published": "Mon, 01 Jun 2026 12:10:52 GMT"
+          "title": "Έρευνα καταναλωτικών προσδοκιών ΕΚΤ: Στη χειρότερη θέση της Ευρωζώνης οι Έλληνες - In.gr",
+          "publisher": "In.gr",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTA3WWRGamdRSl9mSm1hQUxfZ3Z3LWZTRmVxQ3JXLVR4dlZyV0RidDBsYWRLQzk5MjJMSUcybHE4em9ob216NmhjUkwyeFR2bVp4Z2xOdnV4VXJkWlBiRWhSU19HejUyc0tnSGg0X29LOEhjRzVWMGpLaVB0N1FLU25Sa3JoSTZKWThIb2JBNHpJSUNmTEZFVjNHUDVZc1JIOVh5UkRfTFR2TVdkM01sNWJlN3dIN0lIT2fSAb8BQVVfeXFMTzNkamZIMEZNbXpUaWJabmxOODRXWDdXRWJUSmNnMzBmaGpyLXZKcnRvS181RGplUUZ4Z01xLVZZaDEyTFo0eWZpMzRqNG92WW1fYWVsSlRyeko0OEdGc2JSWDZwM1ZTV2hzcVNzUHZOVVozc2VHSmlVdklZblF0UGxoY1JhVkpmZ1R1Tnpkc21UdFh3OTd6RWRzN1J1c3AwLTJOYlkyMXZ3d3gySVQxdmVaT1dlTEZNbHZSYndieFE?oc=5",
+          "published": "Tue, 02 Jun 2026 19:05:33 GMT"
         },
         {
-          "title": "Συντάξεις Ιουλίου 2026: Πότε θα δουν τα χρήματα στους λογαριασμούς τους οι δικαιούχοι - Tornos News",
-          "publisher": "Tornos News",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT0xYNm9BYlhTT0lFZklodVBpWTgzbVhFLWJLN19JUXFXZ2VjaTVSQmhUcHVVWm1teGVrU0pwMjczeHZUN3ZRMUdmSXR5N0x4bkJtcVh1dHRJXzE3aVNVZmtXSk5UbnQ5N283TWllN0hFYWZxVWNTZEhxYjNRZGxLMTNFT2dHWVFKeFQycWZRSzFXUC1lU184TGxCbnVvZFBJUWppcTl1UzRiUV9sOFBlUjlzd296ZXFjYnExaEwxbFRydHhZQVRjajE4TVdLOGxlckdBYl9heEV0UQ?oc=5",
-          "published": "Mon, 01 Jun 2026 12:23:44 GMT"
+          "title": "Στεγαστικό πρόβλημα: Συνένοχοι κυβέρνηση και αστικά κόμματα - 902",
+          "publisher": "902",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTTk0QkVHM0pkRXF0UFJjYUlUTl9Lamh2R1M5ZWJfSnBUTlV2UGFBTk90VVhwaGZnTWJGTlhDVjA4U3BobC1IYW9FRVlOV2ZXdXBlUS04MmNJZm1iUF94X1Z4UmdUa1NSR3hTbkVGRUxUSUNMakJfN0JjekdNWlNkajNWX0U3WUxuLUFPNVR2RTdwVzBRYWVtQ2l4LUJoOWtWNGc?oc=5",
+          "published": "Tue, 02 Jun 2026 14:28:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Μάριος Οικονόμου: Εντολή της ΕΛ.ΑΣ. για νεκροψία – νεκροτομή - CNN.gr",
-          "publisher": "CNN.gr",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRFJnZDZEc1FNbHhYV2xOM3MxQkpLYXRocUhuQXN5ekZlaWF6S3AyX19XZzMxeE9LeGdXN0dNd0VEdTdsLWxCbDlxQklYelFnS0Y2bmRTU1NZMVZBRlh2eXJLd0l4YmRrU1hQTndJM3NDQlFpblRSRmxyenliSmVqdGRXYXMzaldfd2RmVkZTdThORjVKQ3p2dF9IeG8?oc=5",
-          "published": "Mon, 01 Jun 2026 18:50:06 GMT"
-        },
-        {
-          "title": "ΑΕΚ, μεταγραφές: Αυτό είναι το σούπερ deal της Ένωσης για τον Ζουμπκόφ – Το ποσό που θα δώσει - Sport24",
-          "publisher": "Sport24",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSXVGbzJ4TGlEZlZPOTgxUWlQZHpTc2xpS3d3T3ladl80YUJPbWJSVjVVNDg3cEVFdEUwUDJGdlhuZkNwd2luSEg3cDYwRDdjRVc5ZlpPZjUwRFYxMUM1SjFQa2Fxd2dsM2VCSnc1UTduS1plTDVHNUhIeHVvOHVQdk40T0dFbW05M29mYXM2RmQyNW5Fd3NCTWlybmRNMk4tY2FKekFvM0xkNlpVdHR0VEh1NkNRbW9maEJIS0NvSl_SAcYBQVVfeXFMTlc5S1haNVNfX1ZvWDdJNEJLd2ZwbFNCNlhUNGRZcTliY3lwcnFXNl96SDZTajEzZEFLRmJzaEFVeXBndnFlTThRTWpfdkdkeE1ERXJWQ2dqdGlSN3F6RVNkVnVyVno4QU5QbFBYbWNtR2h3Mk1TXzhXNVMxVDhRaG9WSzdmaVZJSjhTTFI0SVhJQUhSOUQ0OTB5RW92VDZBNXZBYlFpdmtlMGp4WTluOXFYMDhkZW1NbDF0M0NOMXRqb1pGcUx3?oc=5",
-          "published": "Mon, 01 Jun 2026 20:25:00 GMT"
-        },
-        {
-          "title": "Η Μπρέντφορντ ενεργοποίησε την οψιόν στο συμβόλαιο του Ματίας Γένσεν που συνδέθηκε με τον Παναθηναϊκό - Gazzetta.gr",
+          "title": "Ολυμπιακός - Παναθηναϊκός: Χωρίς Ντόρσεϊ οι «ερυθρόλευκοι» - Gazzetta.gr",
           "publisher": "Gazzetta.gr",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2JDck8zbWFDN2Uxbldib3Zna3RHMHVJaklObEFzam9DVHVDWWVLakZRMjFFb21BVXY3azk0bk5tcTZKQW9xcFdPOFBTS0sxN0NHNE1ubldONEJpUy1pQmlfekxaOW5acFhkRjNVZm5qZDlkSEhOWWdPeWlPalI4WkxRYlBlWEtGcXhnekxXSERXVWJIbkxldC1xNEx4eGFsUllLenZ0amthRDZFSV9aLTZzclg1eHM?oc=5",
-          "published": "Mon, 01 Jun 2026 14:54:33 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUEh0R2YtbncteXVZaDNHZ2tEZ1F5YVlxMnFLckRmVzFTa2J1ckR5N2pyeEl2Q3Vsc2RoZlB6blFFbjJacFRLT2htRGp6ZlZZVXgwWUd2MW11Z1F5dDZLN1RWQ1dyREJMSUFBTVFBSEVHeDRUTEpCV2dCRmw0Q2gwVGxZUVU5RHBYVTk2TEtvOFVJV2d0YlVaXzIxcjBib2w1TXVIMEEzU3dheUVTR1FfUXRHbGREQjQ5ckRn0gHAAUFVX3lxTE1KTGxrcXdjcWl6QmRVVzFiVDF0elBiNXVRRnZqM0NxMngwNXo2U0dvbkNhZGc2a21XYjRud1d1bktkWk4tamJ2cHdrcFZhaGpnNlh4YTItbVl2dE1NcnpMRmxNNDlTMmNKYk1KUWhVbnJNVWtZQ1NmS1otVE9yLS1sWDktM0NIcWc3Y0ZVZms2OUtqSnRlQlE3bk1rRF95MG1vTUdfM2N5Smo0NDVkelM4UFF0eElVa1Q4ZGk4ajN2WA?oc=5",
+          "published": "Tue, 02 Jun 2026 09:24:41 GMT"
         },
         {
-          "title": "Πρόστιμο €65.000 από το Roland Garros σε Παραγουανό τενίστα για σεξιστική επίθεση σε Βραζιλιάνα διαιτητή: «Αυτά τα παιχνίδια πρέπει να τα σφυρίζουν άνδρες» - ProtoThema",
+          "title": "Ολυμπιακός: Sold out o 1ος και ο 3ος τελικός με τον Παναθηναϊκό στο ΣΕΦ - ProtoThema",
           "publisher": "ProtoThema",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxON3pwNnpnOTZQbGpMRzItdEtiS3puOVV3alN4WGRKSzVtc2tzQ1hwVVE3ZllpcmttcVV3THpfVlFVRXhvQnd5bE5MS0wycUNxdGNJNDk2RW1KNHNJRW96UHI4SnZNei1pVEg5emg3ZTdEX0xZTmpheUlEaU9YUlZZNEpvanpvcTJxTnVkaWVrLXl0aUU0ekRqeDVVS21taEUyZ1RBV3hHMkJmcDJzOC1LQ0M4ZzM4VDJpSWlkS0lBaTJBZ2N3WDFzc2ZiSU1oM0tGdnB2R1FackNlRHVmczlEWWZrWjVKVU44cS1wdTdzVQ?oc=5",
-          "published": "Mon, 01 Jun 2026 17:06:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWRXT3IwaU1STVBzNnJ6NlZ3cVJRR3dFMWFxdEx4XzNvNXN2cGlhZ3RBUzRIV1NmU19LWktJTlEzOFRuN1c3S0ttdlRJS190aEgwT3pwOEg3aWltSmZrSzJUQUhaQ1R1dm9zZHF6aEwwZHk3MU1ab3Fqcl9pWjdvZ1ZCS2o1MmZCMVIxdzJldlpGNDdFMjdVWnhnaUducF9XZDhSUnhIeG04RHZfaDlsdXkteXR1b0hKUDQtVw?oc=5",
+          "published": "Tue, 02 Jun 2026 15:01:00 GMT"
         },
         {
-          "title": "Η FIFA προχωράει σε αλλαγές στο VAR ενόψει Μουντιάλ – Τι είναι ο νέος κανονισμός «αντί-Άρσεναλ» - In.gr",
+          "title": "ΑΕΚ, μεταγραφές: Ολοκληρώθηκε το deal για Ζουμπκόφ, η Τράμπζονσπορ έστειλε τα απαραίτητα έγγραφα - Sport24",
+          "publisher": "Sport24",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM1Bud2tiR2dqMEJaWE12bXlnNmdkNEtKZnVFd2laeDlMNmlCX29INXc3LVo3WW10M0lOY2I5bGU0cC1aY3I4YnNobUNpbUdGU3VwS21ZU2ZtVzBvY3IxOFJfM1NOSVpDUlFBei1rUkR0MzVqbDExWFlFWDBMbTBRNDlOSlRGTVJoOWdqbHBLWWhRbjR3VVpKNV9GOTFwQ21WcGtWMkktNFBzVWFjOUJfRkx3S3pqb3FORUpoOHloTkU5S25Ma1HSAcsBQVVfeXFMTTNWMHozeHFiMmhZN1MyeGxsamtsNGhpM1NFWjZReGs0QmtmbUVhdDZyeUZGajJPR3ZfT2U3S3A1emdsOG5Mc3JGTkVpNW1yc0xRN3dEOE0zZmkyMGQtcVpTQW5JWk44SDN6Y0U4bTVfZzZCRVMzcHNTaEZrUXRyWHBPalIxRWVXUlZlaVhBMjNISHBDQklxb0YyQ25QYmc2VF9aejBvN1pRejhjaG01RDNyaVhEb3ZOUF9YWjlUWDI4eWZqVDA3SEJPeTA?oc=5",
+          "published": "Tue, 02 Jun 2026 17:19:00 GMT"
+        },
+        {
+          "title": "Κώστας Φορτούνης, η επιστροφή! - Olympiacos.org",
+          "publisher": "Olympiacos.org",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vZFNWaTlWV0NVOG1KZ0lKU0R4eDVXSjZ0SEptTHVPYzZpWUFZNm54RnVMNjFXTUt1WXFjcEZ1UFFmSkZjZUw2NjNNVFdQRlF0X2V5T0RFVFhDdGJSbXZlR1dCbWxQQTdRR3dWQ1NfNk9GN2tzSHc?oc=5",
+          "published": "Tue, 02 Jun 2026 16:19:38 GMT"
+        },
+        {
+          "title": "Live ο τέταρτος τελικός: Βουλιαγμένη – Ολυμπιακός - In.gr",
           "publisher": "In.gr",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU0RkWG42b1hsYTA1eEtXbEdhUUhrVjg2UHg2bkVUMDBtajV3NXp4dDV5Zl9sR2ppVjhvSmstTmlRNENEVjlrOFNrMHFZSV9UT1I4Q0otLWxOWTRheEJfVXMtNm9CV2cwQWZxRXlraVUzOXBLemRVSEhvMFM2WDhVZnpZV0Jva3ROSVZsY19DQzYtaEJLckpyay1XSERPaVlub0tFbkFGSWU1aGNfbzN3WnVlQ05wMmxUNmtIT2pWejc2RWFub1NGeVItcHlxWGo2aU0ycdIB2gFBVV95cUxOaUlWaFdKem1IWGNWUDVjSUtoQjBRcVgyZGw3S0QwRjczRGFUQ1gwclRPWndHTWlXc1o4bHgxVFJ2NjhCTmlEZXE2Y1dKa2N4UlhDUHpDS09oWDdMWW9CSVBreWtoM0VjYlZTZTZ6bno5Vjc1Q2NVbndiZmlXNjkyUUprZkp3UmtBd09nR2JZWmJtVWphM2djaFhSd0Npa2pnenAtTnQyZU9vNGphN3ZlZ2g5ZjR6aGtyaml1Z0lxcFJoeUwyd01icmJOWm9FVXdPdnZTRTF1TXhwQQ?oc=5",
-          "published": "Mon, 01 Jun 2026 07:59:22 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmJPZ0FmUzE3a2RuOHlfRXlzTURVVUNnNHdDSGZDVDNGNzYyRC1jVmtVcUZIcW9iVnFPSjlBVjdfeXFVV2xvc2MyeWJmR3ZBRzdhTUJZdUNQZFRwZ2F6Z3ZsaU10Z3BESC02YzZaTHpkZ3RmaEdkY1dVVFpFRUk3c21HSklJOG1NOEZ1QWduaE5LaDA1M0QyY0h4QdIBoAFBVV95cUxPXzRaelBVVWNoczNNM2dzeWxfZzBLMU9PcTN1LWtlam9hNWNnYUJpQmRBcGliTFJ4cHBTVGhTMTdwRk1RY1hCZ0NUMlNXYTdBWVUzdnI4d1ZnUXVGaU43eW9pTnVud2JCQXhFY2JVRTZfbHdYcEJvSlZORTZIVE45a2hzNmJZZndPRTFaa2czNnpsSmVZN2lPUmhELTBPWVFO?oc=5",
+          "published": "Tue, 02 Jun 2026 15:57:25 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Ανέβηκε στα 4.000 μέτρα, άντεξε στους -28°C για να φωτογραφίσει ένα από τα πιο σπάνια φαινόμενα στον ουρανό - Gazzetta.gr",
-          "publisher": "Gazzetta.gr",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTZnWnRqMHJWSEg3RnJNMGoyWGJRSW9pNk5Gc3g2bjVHZGNQZlNXdjRDZjRZSWlkOWFMeVFDTFZfb2lTMzBTLU5IOVhuMWpheUhFUzVkNW5WWnNYQzBOUWI3eF9KRnRmNFRxSW1lSmppY2sxZWVFZ0lFcDlycHNKSEVTQ3JQQ2JmVkx5T210dG1JVnRLUnJleGFXeGFfc1pUcjByTGpacElGYzFtOEVRdTZiVEFqS1BkU1BENFdR0gHDAUFVX3lxTE1HaThXcUFpRnQ0MjNrSU4zTUhEeGdPVHdyamtfNkgxMGwwY1pwYXYyTC1DS21sc3pRcWtUUzdNTHBreWxsaXl0c0p5ZDJaSm1pZjZUeEpvSGtHTGpDOG51S1JDSGhMU2NNUWQ3UWpoMS1qZDZabnJlcWNrYnNFTHlmT2I4dHNwVFRLNDdzeGkxeGFFZjQ3ajM1MVZQMWNNcWpBY0F0U1RVYldlcmtMel91NXZhbl95OTVKR3RscGhJRGdtNA?oc=5",
-          "published": "Mon, 01 Jun 2026 06:43:00 GMT"
+          "title": "Ο αστεροειδής που εξαφάνισε τους δεινόσαυρους: Πώς έμοιαζαν οι πρώτες ώρες της απόλυτης καταστροφής στη Γη - ProtoThema",
+          "publisher": "ProtoThema",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZFpIemFvYjljY2tjZFFqSjVQMlRrYnZ0RzBHVDhoeENKRGhyUHlWX1czV3VnVXFtVV81WENvMkF5ZjZSLXZFNEhCMTRLeXRVUnRxSXk3d29lX3BXWFhGbHFjUzNyem51WFp0ZVJnYlNYZkdwZjI4NzZieTZlVHV5dkZWTWlqb09ZZkhfM2hhYzd1dHpnWVcxcUpVMkhraWpYeFpyZlFyajJYTG9xSTN2aXh5VDByQnlYSmdrRG9CYXFvSlV6REFOT1RUeXdXU0dWMFd5U3MtN0huVzF0WnlFNldjdGxSREJIdHfSAe8BQVVfeXFMTVE2NjExY3BNcjFZTGJuWmgwbTFSeE9mQWkyeW5MMlNObVNXYW5vNGluazVXb09feWQxQ0NuajVpZXExYVZQOGpOemt1REFDb0tkMGp3SWlBalhLXzRvcTN6emkxTGlnRlNpUHNLRXU5bkRvRTZad0drUFlZaE9zcDVacDJ0enJLTDdvVkVoeEY5VDFFLUhQa01kemlMdWhINzVpQUIwdmtVVmV3VWlJZDVqMjJSV3k0RU00cDB4N3I2Y3FaQnRCRVlrcFd6TS0zeHRsRDhiYW10SVllZkR1OGJnQlV4VXRIanJXUVZnRlU?oc=5",
+          "published": "Tue, 02 Jun 2026 04:48:54 GMT"
         },
         {
-          "title": "Κινητά τηλέφωνα: Αλλάζουν όλα από σήμερα - Οι διαδικασίες που επηρεάζονται - Newsbomb",
+          "title": "Kaspersky: Πώς οι Έλληνες χάνουν εκατοντάδες ευρώ από ένα μήνυμα στο WhatsApp - Zougla",
+          "publisher": "Zougla",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjVpZXVNZmYxWFJnR0lRUVhTaTFmUmljdjJmSnVSY01vSVVUaUpZdGhKcjVzdUxtWlJxd0hRRFJWdy1LdHdwY2VvOWpwdkhfcGlRZ0lhTHRwZm90WWJ4WWg0U0djcE5FWHFEdHYybDNHdmJZeXJ2V1poWEl6V3ZMeFdyUHpjbTRpNHJaZW1DN3Z1TXNXWE1zY1JTOFloRFRLZHh5RldWR29oSzgzT2lCWNIBtgFBVV95cUxPVTdQbWxXU05tMnNqbWdpRzM5UVN5TlUzaVNLaF9RQ1RWalpTSE5GM3VGenIwWXNQcWFTV0QteFN6VlZ1ME9tNlBCb09HS25jTURITDk5elp1dDRrWnE2dE9KeWhRZHdWTTh3eDYtRWotT0Jhd1VlUm9JYmgyTG9fQW1GRDN1TTh6ZklWZldEUE05UDVxN3ZJaXlSYktfcDdHYzhzcGt6bm5seGRHbzQzZTZIbVNYQQ?oc=5",
+          "published": "Tue, 02 Jun 2026 10:36:25 GMT"
+        },
+        {
+          "title": "Πώς ο Επστάιν γκρεμίζει το brand Μπιλ Γκέιτς: Από «άγιος της τεχνολογίας» και σύμβολο της αμερικανικής φιλανθρωπίας, σε βαρίδι - NewsIT",
+          "publisher": "NewsIT",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQnFoY0NPZHBuSDdCU0RxaVJqTGpUbWpTWDc0cm41WDdrNlBBWkVFeUc1emV2ak5jcklERDlCVWNtaTItUmpPYWxMVmRfUUYzUG0xZVlfNlhwemNNdFFrdVdmZlRlaldseGpPX2ZtWVRCZHhGVkVfTkdLdW1IcW4wVXMzdlVBSURnMmJNMFp0c0YtSnZNY085ZWpIbzRpaVUxb2gwRk9Jb3d5Z2llTjJrVjBFT25CTUNvZF9HUURRU1ZnWUFhSi1ZQVBFYV9uMHhPSTZodjh0VkI4YXhYYVBYdWNzMENBb3I5MEdYYk00dmpwNm8?oc=5",
+          "published": "Tue, 02 Jun 2026 04:00:00 GMT"
+        },
+        {
+          "title": "Προσοχή σε νέα απάτη με μήνυμα που «μοιάζει» να έρχεται από το gov.gr [εικόνα] - In.gr",
+          "publisher": "In.gr",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGtITmFQQm9fUF8xQXIzRjJDSW1wU2xrSXhQRVYyeENVd2s3aERZbkdud210WHJENUJHZFJvYzZ0WHdsa3ROZ2xwb1pkM1pvZUZGUFdqaHFON3ctNHN4Zm5pdFlHU2NPMG0wb2VTdVdZX3hyc1lLZ3hVUXMxR2NpUUp3dmpuSjFReEgwMm1va1N3emhBQjB4YTZXSVRSOVBCRVJwRlA2VVhrWF9ZZWQ1ZtIBtgFBVV95cUxPcmtGalJndUlhOHNNLXduWkVPUXJTSlEtOTdnd0pUVXV3ZFREdzhCX0pzTGJ5SzVGelhPY044UEtVd0ZwREM3XzlJalJEbkJZbmkza2JId2s0WndjTGt5dVZnSVE1MUdKdXY2bkhpdE9jbFpybjNSamJHbDRfOVVuc1YyU1ZienE2bG81cWRQYzdJcDVpckF5NjMwbHdEX1J5cVRMbmNjaGwzZ0c5OGlYekJ4ZWQ2UQ?oc=5",
+          "published": "Tue, 02 Jun 2026 12:46:17 GMT"
+        },
+        {
+          "title": "Τεχνητή νοημοσύνη εναντίον περιστεριών - Το «ρομπότ» που προστατεύει τα μπαλκόνια - Newsbomb",
           "publisher": "Newsbomb",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2t3SkZEQTFueEJiNnNWSTZaM0w4N1RLUm9Zd3JhLW5sWUVzRS1Xd01tU215cV9BeHhfV2VqRFBYTGZfRFBuM0p1VV9GeTA2V2J5Yld6QnZjWF9HSmszUHVzdWRTTnVvZ3QwdnBoaFFOMHdjb1RUQnZucW9DeUxPakk5c0xqV29HSEM0Yms2cU1HWEZpaGxidzY3NFU0YUJKSG9oQUNjaldpZDJqZy1FMnhUZWtIeDlvVDFLSFB3?oc=5",
-          "published": "Mon, 01 Jun 2026 06:36:45 GMT"
-        },
-        {
-          "title": "Σειρήνες ηχούν στο Κουβέιτ - Οι Αμερικανοί έπληξαν στόχους στο Ιράν το Σαββατοκύριακο - Zougla",
-          "publisher": "Zougla",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmRTM3N1aElTYU5qenltaGdMQWx3bzRycXNraGpmQXk5bDBQZjRIN21SemR4LUdRYzl3VHJPT3JSWVVjRXBJZWJzOFJqT3c3OGVkQXFuVUlwckY1TllPckJrc09OTU9iZEdQa0d0anNUcF9xSXM4TlJHbW5UWDVKREJWR0xiVWUyNFd6dkc3R3ZUOXJGWDJFWmNfazNpaTR5NnB1cVVXeHJZNldFdGF3Q0N3N3RrMVXSAbwBQVVfeXFMUHlIeFJBYTdsLWVaNzhadVFNbERnRVNNejJ4RkVjaW1vejNqSi1ndFdYamlZa3pQNk1BQWUyYjlfYmMxSWRpNmV1TnZocmxaSGNSX1VyUFItTzhPM2dGQ1llbWpxZUdmT1lrVnliZ3hjZEdJRi1CQ011ekhhZFV3VnF4ZmFFc0dvRm5IR1ZURVBKbllFOV85N0J0YnkxdG5wRm0xNzIxamwzeTh6SkpGOGd3cHhNSzNmbjJoaDE?oc=5",
-          "published": "Mon, 01 Jun 2026 04:37:21 GMT"
-        },
-        {
-          "title": "Η Google θέλει να απελευθερώσει 32 εκατομμύρια κουνούπια – Πού στοχεύει το παράξενο σχέδιο - η ναυτεμπορικη",
-          "publisher": "η ναυτεμπορικη",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMWU3dDBvUk1fc2owamYydS01YURFRXBQU1ZuLXI3WjdqVFBSYXRiNFNnR29wOXFkQWhaS2piZlpTNm1qbDRMNHlISThwWU44V1MzdWlJSWtOa3RlRWtubDJycWZwOWl0YkN0T1puNUM5eTl4MUlPaEc5aE5wb1N1dlBiZVJfOFl5Q0MzU0lYbkVTME5tQ1VMeVJzUUw0Q29weGZ2UDBwQ19HOXk1eVVOWkNmMGVSb3FzTEFqZE52UjNjclpzaU5mcHBoZkZBY2JOaVZYc3hQZ0s?oc=5",
-          "published": "Sun, 31 May 2026 16:05:31 GMT"
-        },
-        {
-          "title": "Άρης: Κάτι λιώνει ακόμη κάτω από την επιφάνειά του, λένε επιστήμονες - Zougla",
-          "publisher": "Zougla",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2JEU19paUl0WVZrQkdad05jbGlGT1hkRUJBWFNBVVdoTmRrSDlBT0phM2lnSmtJdVZQSmZobFhYNzF0M3R5c3FKVFU0ekpfck9uMk8tQkM1MDh1bFVmRTdOR0N5Mm5tMEp1Uk9hTlBnYjBDTmpTSU01WUZBUGl3RWdVMlRteW5taXlxQlBkd1ZvYW9rcnlKQkxXU0NiVFhTYnfSAacBQVVfeXFMTm11NmRFczFvNm9hUGhPck1YWGNXeFY1RU9rcE94VkNqanZMcno3SFhmODhDS1QwdkxORVZpTDFJZUNDZnVTc25hUFdXNThDRlBUMUpoVXhmWGtJcV8yRk45eE1OUXZvbVY4bjdkN3RGTFpCVlVhOG1iakZxYXkyZkdDSkxGbTIyMFp2eEg5cnc3ZFl0YXZrcTByLVhmN2IzYXJCTWJXV0U?oc=5",
-          "published": "Mon, 01 Jun 2026 03:52:21 GMT"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYXo3WDRJeGpYQ21VZ1RoaHh4Vl8zNUlDeUFOeXV1MS1aMVk3bGVOWTVBLUhQdEZDV1NmX0IzVkZ5cEtVVHNwS0t0T21KVklsQUpuQXM1UXJ6YThhcG0yRW5nN2d5WmZGeVhyOVBRd0Z0T2ZydWpOY3hjc2lXMmZlUGNZOFJBek9Fd1FVM3RpVlhySXBqSmxic05fVlprTm9McG9KVHI0NzFpMkJ1MDVoUmN5bVdlQ0lxX2Nxb1lEUDJpUXBJ?oc=5",
+          "published": "Tue, 02 Jun 2026 16:22:44 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "I've dedicated my career to soccer. I'm boycotting this World Cup. - Religion News Service",
-          "publisher": "Religion News Service",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcTBadkRXanp6aDVvUU9KM0hZVVBLODM3djZBdWQxdXpxQi1VQXRJel9NT0wzdm5QZk1aTzYxRmVjTkJxU2Nuc242aWM1Yldkd1F4aHRLR2xIMWR4SWFjWTZXTUsyU3MwdlRIdzMyRUZlZk9LeDg2b1VTOWxMcVJLUWtzWkw5TlhlbDJ1MzdwU0g3MTBUMEN0YXdlb0M1Y250?oc=5",
-          "published": "Mon, 01 Jun 2026 21:57:44 GMT"
+          "title": "Music and the Football World Cup Are on the Same Team - San Francisco Classical Voice",
+          "publisher": "San Francisco Classical Voice",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOemFIVnVTRDJaTlN1b3I3QThpeTRvdUhWdFF2aWV3RXlwYlprMXdoYllCQWhwekdBLUtwWldTOHBVb3N0a3QzVTU4b2VYOUtfYUN2WmZpUGg4ZkRING1iUl9ILVNoLTNwLW9pdk1fQUVBUHdwVTFBZm9wajhiU09xVDdtX2xVUFRQcVJz?oc=5",
+          "published": "Tue, 02 Jun 2026 23:26:10 GMT"
         },
         {
-          "title": "USA at the 2026 World Cup: Schedule, results, how to watch, news, analysis, injuries, more - ESPN",
+          "title": "2026 World Cup schedule: Qualified teams, groups, match dates, fixtures, how to watch - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1hHd3NjSnNnWWluMkxPWEUtOEduZWdMWmRnaWxJSWhZU0lxM1ZNY3dSTjREdnV1Z2Fxckhvam93Szgzc09SUVpFZHRiWjBLYVVQWW1qUVpYVU5VZnU5RXllQm8tTlZNNzZEdmx1OC1PR29EMW1SNFc0NTNmZ0xpY2trTTFJMW80VVlGTTg1WnBzU0F4QmR3dFpIbWdHUXJ3Rmo5VlY0VkhrOHUyTG16STROZWNob29yTGV3UkF0U05GcGMwNVBzQXU4TkVvR0pS?oc=5",
+          "published": "Tue, 02 Jun 2026 21:38:56 GMT"
+        },
+        {
+          "title": "Major League Soccer Sets Record with 44 Players Named to FIFA World Cup 2026™ Squads - MLSNEXTPro.com",
+          "publisher": "MLSNEXTPro.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSU0zOW5PU3VjQkZ2anIyTTRtWHROV2hBRGtvWGRWVl93aVdMN2UyVG0zXzNzcmpiTTRxZmxZdG1VdmlGbzEwRk1RWjYtbjVZUTJIUElzUjRFU1c0eDRQZ3Y0M3paemVtZExXVERpa2xkS0NWTGJnQmxjQWZuT3gtQnh1a1FodEZhc1lBSFR0OUdDNXRGdDU3bl82bW1XTHlJQ0ZHb3JGdWhxQ2I5OGxFTUZsRGhiRlpC?oc=5",
+          "published": "Tue, 02 Jun 2026 17:04:03 GMT"
+        },
+        {
+          "title": "2026 World Cup: List of squads, players announced so far - ESPN",
           "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPek9fcnhQZmxLOENPVjBCb0RqU21QSkg1amNpb3l2TWJJeUtJaldXSU5tVXFDVXd1OVVnVld3TmhieVNfQ0VqMVZQTU5ZSDcxYW05c3k3TXVWcUFhZzZBSkh3RU1zZUlQeGp1cktGT3FfSGluS1ljMElYMGktSkNmaWwyLU5rczc4bThQUTZwOXdHSHNhZWJfUm5iVU9VVHlZcExWYXo3RDV6ck5PRVI0b3RHV1BaalBjdmJfTVV6bi14NDVIQ2sxVDVKNjZTRFBHaGRzc0VFZw?oc=5",
-          "published": "Mon, 01 Jun 2026 20:47:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYllPTzV1Y2xXOS1VZTR3cWRFY05lSEplR0lxSE1XTnhwRUxVVjdadWpVdEV2S05XSUU2dlNKTkNURmh2RjhlNEprZy1YYlRDREZpNnFBZGdLSUVVVGNyMUlrazRoeXhUbmZtRXhheHl2bW5ScmhBQ3doOG5xQnFudE9Ca3JCaU9lMHFGR2tsZUhTaUNEU3JJVW15b3BXb0JvMC1JYzNLWWE?oc=5",
+          "published": "Tue, 02 Jun 2026 17:01:00 GMT"
         },
         {
-          "title": "Welcome to a new World Cup series: The Language of Soccer - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGtwN3NzUmRucVdNSFg3UEVBVWRmNWhYRWNOTm42d1E4QTZzRVB3dnNrYU5uek5kdDJ3V2ZmLTM2d0ZpdGU0UXRQeUp1YnZJZ1RVZXRtRHAyV3RxRkktVmFSeGpjejYwSmwwcW9waU5NdzRGV1owVkpXS3BFTVk1bGhZUVpINWRi?oc=5",
-          "published": "Mon, 01 Jun 2026 14:00:00 GMT"
-        },
-        {
-          "title": "How big are World Cup soccer pitches? Breaking down the field dimensions in 2026 - NBC Boston",
-          "publisher": "NBC Boston",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1dKOGhuYTlrUTFPR2lUay00MkxLUWZWbExjY3VWamxsNVZhQUZuYUpfb0VuaW00eEZpZkRqdmExTHFKOTBsMkwtWnZDci1rSjlxamhqX180TjNOSU1ON1NjSy1iLUFDMHBQOXh3Ylh2bTZNZGJtbXFTVXNiU1NkSGFSSExhblI1M3BMQ3M1dFnSAZgBQVVfeXFMUEVUazZzcVV3VmlpdWc0U1FJZjBpNTkwMHcwNGxKVU94THFPakpMaFRTT0hCWG1UMG52NTJNWXhMc0VNOGJzWFdwVmFwVVJSM0p5eEFJdHdoZDcwUV9wVWprWVNhckVnRGI4OE85cWdYSEkyS0VZUHExM1Q1Zk12SGtVU0hGWm1MeTlqbDNXVllERWdLaHdZVk8?oc=5",
-          "published": "Mon, 01 Jun 2026 18:27:07 GMT"
-        },
-        {
-          "title": "Toronto police seize $2.5 million worth of fake soccer gear ahead of World Cup - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSFh1eVRZVW1tNklGczF0SldCUDRDN1JkYUdseFVhVTBCcGZQQUtqcUFUOEZ1SnJGVUphVEprcS1pbUNhXzdHa2VJQ0VtZDBQemh6Y0pPZ1NjdVBtRGJRTlVxQkQxY08yejBhV29qTzF2OVpoMm5oOVVOd3NlZDFCdXBmSENRdU8xMXE3cUZHYnY4RTZqODRkRnpUYl9uVzRnUERBd3VOX2wwWEZYLUZQMW5yQlNQSkNFcWo0dw?oc=5",
-          "published": "Mon, 01 Jun 2026 21:52:38 GMT"
+          "title": "Before the World Cup: Seattle's long love affair with soccer - Seattle Refined",
+          "publisher": "Seattle Refined",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObDh3VkRaTGJoZTRuTzE5bWtaejYtUnR5LUN1bDk1WkEwT1NuTjU4SVphWU9BUDYwVHBxVjF3TE9DOXFpS0ZaSDRhYkRPZjVuYW91Y3BfVFdXbGxaa2ZsYVF0dU9TUkZhTWZmVmtVTVE3NnRaNFN3dEJpcWdMOGZnaDJ3SDRaZEN3bUxVd0hvdExDMF9nWkhzMFloeXYzb0ZucmhKVXRUY2JOel94eGtiM2hNeUIxWGs4eFJrTVRjUElfY1VRSnNsdURiZFVKTXRjZjAxSjdxb0w2OXNwVWZwT2dmSDN3RDlLLXVJWVVzc3Bfb2FRRnhhbw?oc=5",
+          "published": "Tue, 02 Jun 2026 22:52:11 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Report: Scott Pelley of '60 Minutes' accuses CBS News head Bari Weiss of 'murdering' the show - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGpkTUhQd3lkR2UzQmdkQWtoRkdwRW9KcWNETXFHbXFCVnRoZTNPejZIcER3NEVzWmtpdlQ2WG51ZUN4LWQ5TF9MbFdUcVU3UVUybUc1UlFVNUQwVHdSVFFzLWtPR3U3ZlZxLTJ4UmtacHh0R1BjYXFBWjRpczJ3b3c1UXBKY190M0JSWm05d3lEZlJreEpCSlB5WHgtWFU?oc=5",
-          "published": "Mon, 01 Jun 2026 20:58:00 GMT"
+          "title": "Zendaya's Mom Reacts to “Euphoria ”Finale with Cryptic Post: 'I'm Gonna Keep My Thoughts to Myself' - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRktTVXpobmxleHJySnRHWjhUZjNpZXBLRjhyMG91bmJaMG01cEVVU0NtU0xBLXlMV1pQVENLOXI0MHQ2cnpNOUkyY1JzcFZwVmsySmZNcmVNZlJJcUlHZFd4TVpKemxaV0VBNDFfQm9IZEJEN3BWWUpGX3UyRkEteHJJOXVWRFhyLXZUb1dEd3hzZVhVbGVXUUkwdkxXejg?oc=5",
+          "published": "Tue, 02 Jun 2026 14:17:53 GMT"
         },
         {
-          "title": "'Euphoria' creator reveals if season 3 ending was series finale after shocking death - Entertainment Weekly",
-          "publisher": "Entertainment Weekly",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15ODVualVXODBWbzdLR2ZqdXZ2Yk1BTF8zNndUWE5HdkY3eVEtcUp6ODA1NzF4V3F2SGlqMXdrSURqSm15Q3Z5YXhCUGU0cjJfODhtbk1hemFWVWhaRFJabW5KLXNEdlFTOTdxT3Y1bw?oc=5",
-          "published": "Mon, 01 Jun 2026 13:31:04 GMT"
+          "title": "Peabo Bryson, Grammy-Winning R&B Singer, Dies at 75 - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3BmTEV5RS0zYk9wdG50NjRNcnBDWkNpQ0pjUkJYVHlJUWJkTlpubUFBV0tESGNMbVpvTU8yM00zeFJjRFRJcWFFcUVRZF96Zi1IMEd1YXB4UGFSZHhLTWdYdXFuOVp4NTF3eF9obFE2c1RweVhaYUlfNWxseTBMU3Z4TXBFN3NoamtLendHR3MxYmN0MGY3WnRUbXc3TnZ3bzNzek9QRUdEdFNfdXJNX2x5LWJwNGhz?oc=5",
+          "published": "Tue, 02 Jun 2026 22:46:20 GMT"
         },
         {
-          "title": "Taylor Swift Reveals Original Song for ‘Toy Story 5’: ‘I Knew It, I Knew You’ — a ‘Return to Country’ - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSThaOEF4TlZTa2ZtTGU5eEFVcFk1bDdJOGVsWFpkVVNvMi1XUHZwWnFiN1NmSW1XVm5kZmRHb1ZpUjlicEVfMUdzZmMtZ0l2dzltQnFGMVBQZEU3YkVfejRNdzZ3a2pDYVNubFY4ZVZXUkFlQnVQMHZ2WjQwTGJ5d3dkQXV6V3FJMEE?oc=5",
-          "published": "Mon, 01 Jun 2026 18:06:00 GMT"
+          "title": "‘Masters of the Universe’: What Critics Are Saying About the He-Man Movie Starring Nicholas Galitzine and Jared Leto - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0puWTFBb0tKTTRXQVlkd3JXR3psRWV0RENrckszYVFSa2NGdVhHWnZzbDNUVG9wZzZKMzJqMy12LTJwNlNwVWlJUmlDTUtTWWo1bXNZUFVIX1U4emp5bGYxakRvdU5XZF9PbG5fZGRrM1B4YVRCR3A4NzRub1FDU192aVF2ODNaby03UWFpUklLWjRZZjhpV2lnMHNudlBRSU03QWpQNG9GdEZ3dXZv?oc=5",
+          "published": "Tue, 02 Jun 2026 18:29:49 GMT"
         },
         {
-          "title": "Happy 100th Birthday, Marilyn Monroe! - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHpGQklkUWRPVWN5blJmZGRUSFd6U2d6YkR0Tk9sQ3FmVlEzLVlKbnMxa1N5U2FLWG16dWswUXBzZ0RiNHF0R2Nnc3dsc2w3SWZlSFdkNVNaMTl1bzRQYkpyN0RXRm5hRkQwSldNc21EN1Q0WGZhc0JNYk1SV0lqUw?oc=5",
-          "published": "Mon, 01 Jun 2026 19:55:32 GMT"
+          "title": "The Pitt Star Noah Wyle Was Glad He Remained Off Set While His Wife Shot Her Scenes - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWlkWUdtTVNVUUlDdjdqRHJtQmhsSUE0MWh5cDNxanBrTlFHR0RTcWs2ckxrYkZzZzR5aFd0T0I5UlhmdWVaS2pMbGE4VHo0bERrSURwWTMyakUtVGFpaUd1MHM4dUQ1ckpXWXpoY21WalVBSFd4YUZ0anRCX2ZibVNjcTNISE9ENldxOS1HdjQ?oc=5",
+          "published": "Tue, 02 Jun 2026 20:00:00 GMT"
         },
         {
-          "title": "Love Island USA removes Beaverton contestant before season premiere over alleged slur use - KATU",
-          "publisher": "KATU",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOS3pOeUhvOG1SMXlROTROcDNuMzNoek0zZXR3a09RTlVPNGJNdE5CLXhhNjVZZHN3YkpOQ3luZGs3Qlo0aEhlMHJQbTl4eWt1UWVlOUtvTXN2TE9laF9JUmZLTkRrbW0xY1plNkhtU0Vyam1GMGNSLXpSNlB3ei1rRUhMRXF0RUhDdkZwUGpaNlY1RDh1RVBqeV9PMkxhS1d1VWZ0aDEyODZuSlVzdVZ4V19KRFM4LUZwTkE2ZHFib2tjQlNjVUxGNGFic1lLTXBLNkQtbEFFYUxESy15Zlc1WGxGbUhKaGdsQ2Z5MQ?oc=5",
-          "published": "Mon, 01 Jun 2026 18:20:07 GMT"
+          "title": "Taylor Swift’s Former Pal Karlie Kloss Scores Wedding Invite, Beef Squashed - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2E3Z29xV3VleGJhRlV0N2ViemhmTXRpRFhvbE9rQ2dwSVBKV1dlRDdidDB4dy1LRGdTQ21RRk9mRG1QVkxaZUNMTGNKRHhBNGwwRW1IT3pWcnVKa2pWZHBnc3RhNU1GWjIxTWQ1cEFDWGJ5ZUQxODRQRktVelhabW5n?oc=5",
+          "published": "Tue, 02 Jun 2026 23:06:41 GMT"
         }
       ]
     }

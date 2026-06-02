@@ -1,7 +1,7 @@
 {
   "market": "SE",
-  "generatedAt": "2026-06-01T23:26:44.542496Z",
-  "validForDate": "2026-06-01",
+  "generatedAt": "2026-06-02T23:44:52.068691Z",
+  "validForDate": "2026-06-02",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Tidöpartierna överens om ventil för tonårsutvisningar - Dagens Nyheter",
+          "title": "SD-ledamot stängs av – uppgift om brottsmisstankar - GP",
+          "publisher": "GP",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb04tWkx2RlJ0eHlsSFlQNGRRX3lpdjBOSU15SkRScTdETmc5Mml1amtZTDVjNmwxVS1oQjlaUDNTZHJYUndEeFEtVWJhLXIwNjFFWWFjZWlVSEVpd3I3eFZ0clM1bmNGbFAwaXYwbU1aaS1tN3NUOHFwaWx2ZmxuNmtacmNFSFAxYWhYeUJOYXlDZVg1c05Pb2FDUFU0cGxYSmRRaDF6dWhMbGVUbFU2U2NfbHVPY2dKbnZJ?oc=5",
+          "published": "Tue, 02 Jun 2026 19:00:16 GMT"
+        },
+        {
+          "title": "Liberalerna presenterar valmanifest 2026: ”För din frihet” - Liberalerna",
+          "publisher": "Liberalerna",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWk1NTEZVMEtjQWJpMHBDQkY1d2pZaXd3ZW5GMGhDdFNIb0JMN3NzTmc3bjBQSHZuYWhvU2F6M2RHMUozUjBNX3B3UkRNc2t4MTBLTTN4Q01UWi1vYTBzME9PaWc1OGVtRWpFcVktSmFWZzNPUVhKYk92NmVabTlzRGJZUzJmRnNmdi1GM09oMUh0MnJG?oc=5",
+          "published": "Tue, 02 Jun 2026 13:26:27 GMT"
+        },
+        {
+          "title": "Kvinna död – polisen utreder mord i Örebro - SVT Nyheter",
+          "publisher": "SVT Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hbnkyV3NXbzdFVWhjVFdoS3lyZ3BNdE9ObkpxdWRWTHllckJITjh0Xzljd2Z4ZENqc21pX21qazNFcWhDcmRCdU1PWGlTZGdRSHBOZ0xHeklkcUR1ZmExd1V6OGJ5aFBsQ0NQOG14Mk94VExqWllNY09n?oc=5",
+          "published": "Tue, 02 Jun 2026 17:47:06 GMT"
+        },
+        {
+          "title": "Förslaget: 15-årsgräns för sociala medier - Dagens Nyheter",
           "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM0h0WEh2Z1U2RlZTTWNxOWJMUWpUcFFSZXpvc285ZXFPMjVfcVI3VWhPLWtGcUFHM1RlaTgwZkN3d3pwWlNCZV85WTF2U2pRUjBMbGMwRXZySzFhMzNLYTRpblV5cWdjOXZMLWN0QzNSVmJUYmpuWnNIeHFJNDRoeWltLVBxc2M?oc=5",
-          "published": "Mon, 01 Jun 2026 11:37:51 GMT"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xX1puZm5hOWdjZk8zTWd3XzNZejlHMVU2cl8yUm5YRDhGRWRBNVpmMTZaR1VJVGdLZ3dfcThpNTdKUlozZy1nRnVRODMweGRNNnNBZ0dLN1R0R0dTTDhDYl8tUEV5U2RmVWdTSUg4Q0tpRW5yeGc?oc=5",
+          "published": "Tue, 02 Jun 2026 13:19:10 GMT"
         },
         {
-          "title": "Svenskar får Michelinstjärna igen - Corren",
-          "publisher": "Corren",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV25NSi0wa3BIdU9GT3FtamNVT19INjlvOHNsRVZ3cndWQjJhN1JPc1RrRVJGcFBJc2N3YVl1aVpJWThXeGxHLTdMLVlrTFJQNW9WTGhmby1iRmxENkRnX3h3VHVNT2l1VVJVa2lKTWMtVW9GSE5RLS1yUnBZRWZ4Yk1XNXAyd3A5a1BDU0VacXRIYkg2SGZF?oc=5",
-          "published": "Mon, 01 Jun 2026 18:11:00 GMT"
-        },
-        {
-          "title": "Matkravet slopas – stor variation ute i landet - Västerbottens-Kuriren",
-          "publisher": "Västerbottens-Kuriren",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPajJWOFdiY3ZHNG9uYjFlNUR4UE8tNTZFVnFoTmNYX0pRd3NjaDFNREpsX2RVeTJDeHN4OXZ2Xy1nWTEyOUsyWTlPUzl2d09uSk9WVEYxOU1aN2NaaHk3TGEyNzRjaWE5Nk9QOHc1cFdoTmRQNXZNYkxNakRMZDNSbllhWTM0QQ?oc=5",
-          "published": "Mon, 01 Jun 2026 16:57:30 GMT"
-        },
-        {
-          "title": "Peter Alestig: En obekväm åtgärd kan lösa vattenkrisen - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdjZBY3o3V3F2ekZKUU9rVENRaU5QNkRLaFFkZnJJM0gzYVA1V0s0SXlUMmpMOVFVOElUeF9TMmNvRlhWWk1DZHBZdVk0RlZMRHA3SF9NeVR5S0V4dVNYOUg1UUNmeXpjMmNpSUNNX09XTjRGUF9qU19fSDRMNWlON2tNcmtRbTA?oc=5",
-          "published": "Mon, 01 Jun 2026 19:21:54 GMT"
-        },
-        {
-          "title": "SL-kaoset: Experterna hittar inte felet – prognos saknas - Mitt i",
-          "publisher": "Mitt i",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWRZbUZJTlloRnRIZmlPbkxYa1ZNUjQwUDNLbTZQU2h6c0JJTFFEQ193SlpPd0xXUUU2S3NEX3lObTlnUnE4dkNvTjJzMENjdXAyUmc1Zm1tSkdBd0VCcXVWOWE1ak43QUhzUms0ZFI2OGhJWDFYeXJFWlAxRUdfTzRnTFlmNmJkLUZYNzBaYnQzTXEzWnB0OUpUYjM1TnlKRGRxWDVKYw?oc=5",
-          "published": "Mon, 01 Jun 2026 12:36:14 GMT"
+          "title": "02 juni 20.18, Mord/dråp, försök, Nynäshamn - Polisen.se",
+          "publisher": "Polisen.se",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObENlb0pWRHBqdTFZd0tFeklMbzU1WlFKNHo1ZmJZZUN5ZUotSWJBd3FfV2RoWG5BSmlhTXhzeTh3bm94V0JnWmQ3dWxuRklCR1RweDNBLWRUTVhYTm5tOFV0Wnhha1djV1gzV1RJY19nRFAwX1A0bGlJTmljS3hMTjNwcTNXMEZyWDRkbks0S3FfT044?oc=5",
+          "published": "Tue, 02 Jun 2026 23:19:25 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Karin Eriksson: Frederiksen var förloraren som blev vinnare – igen - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSVlvallIc2U1Mi1nUllRYXBGTlp0V282UE1jLVZ4ZVJsbnNWdThrV3daT3ExbHNpb3pEVVpLTmpRaTFnbURqdm90VjUwRnBRNHVyTEllRWpkMWVsZTF5N2ZySjZVc1RyMklZdUV0Z0J4dTdKNUpKRkc0UDJfNW5FNWN1bGp1WUk5dEU3U0tJZFR2Rmw4?oc=5",
-          "published": "Mon, 01 Jun 2026 20:23:43 GMT"
+          "title": "Ungerns vändning: Kan öppna för att släppa in Ukraina i EU - GP",
+          "publisher": "GP",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeU9qWFJlVFMzdWZhdndtcUFZdFpZejJyOTVzREFIWmFaWTRVTHlQRHRrTHoyaE5ZckhwYVNYaXZxdW9EXzUtYmlxdGJEeVF3UDVzeUxCclJuRnFQSWJKcmdNQ0V1elRsdVZUMUFJNGFRVU1DTktrX1lkU3lrNjZsZXUySFlNcTB2SDlZSURlSVBOTVJBRmFrendJTF9Tc1BXWFhTbTJGTW10S3F2NkRUN0d2bGtNMXd1VGJzOEY0ZkE5elVFYXZIQndHa0E?oc=5",
+          "published": "Tue, 02 Jun 2026 14:15:59 GMT"
         },
         {
-          "title": "Trump: Kunde inte bry mig mindre om samtalen upphör – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter",
-          "publisher": "SVT Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEx2YnNGb0xkcDJjLXZjaFlHWldCT0ZveUNNUmk4R25teTlvbGJTRW1MMURhYUdyNzRPbEN2WUp0VFp2OXJDYUtBd1hzZVhvQXphQ010YTR6QzUxNDhTNVlyYUtubDM5Y0d3LURzVHFLQ1dVZHQ1TDlhcmRnNzhxaUFzR2JuQmpVQ2FQUVVNQzczdEVRdHNvemh5eWFCUzJYb3lOOV9xWnBfS2NrU3l5VmVJQ3BLY041eFpkVENrX1hwQ3UxUDJkaQ?oc=5",
-          "published": "Mon, 01 Jun 2026 17:45:50 GMT"
-        },
-        {
-          "title": "IAEA: Kärnkraftverk träffat av drönare - Hufvudstadsbladet – HBL",
+          "title": "Norska prinsessan på väg hem till sjuka Mette-Marit - Hufvudstadsbladet – HBL",
           "publisher": "Hufvudstadsbladet – HBL",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5seGRYc2lGMWNZSXBaWEpDSHBJSldCdC14V0ItY1JqTjh3SHhoOWpSV3BsMEtGVVVjOTgtMkJZV2UtdllZeGtWVmZXQlpQZXAyaU1Cb2ZhVzJfTElyeTVEMmswcTVrRlBJQ1I0Yl9MSUhveWs?oc=5",
-          "published": "Sun, 31 May 2026 17:28:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeGNSWWV0Sk5pRkFGeU56TC1ORnVtWW52VlhXUTNKcDNYSnRqbjBCdllfVGhLVU9aZjNjMkV5MnBGX2dZT0Vlcm9oOThSaTR5d0VVUUVOeWhhMWhUWlFlOUdCQ2RWVVpsVjlpOTE1aUlyRWRTNjZBOVNBQ0QzejJOY1Y2aDA?oc=5",
+          "published": "Tue, 02 Jun 2026 19:53:42 GMT"
         },
         {
-          "title": "Direkt – Krisen i Mellanöstern – Netanyahu: Fortsätter operera i södra Libanon - Dagens Nyheter",
+          "title": "Nya samtal mellan Libanon och Israel - Dagens Nyheter",
           "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQmUtSHYtSl9Hc3hoSE1Zd3FFUjVhZ2tXdGpTcjByNGlPNkd4SFUxZGQxR3ZuV0tZaWo5cHhkRmJEcVNQRy1KTUFJVHF0MjROVUE0SFY2S2VEcXhmOF9Dc2JZdXdxbFAyU1d1Z3RxdDRsMVBmZkdCREd6MlgyejktdGExTm5aZkZiTlp1YzNTN0NxdWJnbnV5VENB?oc=5",
-          "published": "Mon, 01 Jun 2026 19:44:02 GMT"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZOFU4Smw3WW9SNWxmYkpxWjVuVjRQY2xjVTZYVGRQb0ZhWEFEaUxhb1NxNC1iNmJOanE0RUNvX0h4dUNmRXg2d21COFRmM1JRUTE5SGFJNEY3MXpMNXVmQ180N1hPVHRhSERwNlB2cHQ?oc=5",
+          "published": "Tue, 02 Jun 2026 22:12:52 GMT"
         },
         {
-          "title": "Henrik Brandão Jönsson: Trumpvänlig högerkandidat skakar Colombia - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLVBpVmtxTS1vdHpEVDY5cjdaZ2dqekpWQUZFYm9jQlVOWndUV3JtQlhyNDYwcHd0V0dyem5jbWg1WXZhLV9zTlNuWXlmQ1YtdUd1SUpJMWxlaG1nRGdQYlBCUlJDMjJfZl91WEVmM3lJWm5salFmYWlyTGZIU2NuZGhfRDl0dEkyS1hjZmZ3WGtqYzk4alE?oc=5",
-          "published": "Mon, 01 Jun 2026 16:22:02 GMT"
+          "title": "Fyra döda i israelisk attack mot sjukhusområde i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter",
+          "publisher": "SVT Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZDJINlphQ3lhbVRrQm05TlJ1MUpVQm5fUm51UlQ0QzhlTzZaNVIwamViV3BaZVU5QmxqZWk2bXRlNkYwOXlvTTlPdnRHTnFqVGZWUnNpdWdKdDl0NE5DUEZDNEpJQ0hwelFlVUtya0JHbkJoY3BDUDVoTGJzbFJmOHM0LXVqa2FKV3A4VmNTZUFZU0ZVQkJlendsNC02X1g5RVQ0Tk9XVWluTnZBWGpHMHloc2xUVzY2aWs0Rjd4a2VSZHFWSkgzaA?oc=5",
+          "published": "Tue, 02 Jun 2026 15:31:39 GMT"
+        },
+        {
+          "title": "Frederiksen om sin fyrklöver: Gjort det omöjliga - Västerbottens-Kuriren",
+          "publisher": "Västerbottens-Kuriren",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDFHanM0cHNXQnZ0eTNkWkZQdElHUzBjZGVxOUd4ZElfTkxZQVo2OVk2cTRyemJQS3YzOHBFUGNoMzNKcEdleC1YNGxpeGc0cFNjaDNseXlzMWpjY3pFd2FXeUFLd0FmUm45V1lGdGE4M2lPR0FkX25aUlNBQW14UEU1eHhFaEFycHc?oc=5",
+          "published": "Tue, 02 Jun 2026 14:12:53 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Ny utveckling i Mellanösternkonflikten fällde Stockholmsbörsen, OMXS30-index ned 1,4 procent (Finwire News) - Aktiellt",
-          "publisher": "Aktiellt",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oZUw3WmRLd1lOcUItblAta3FqTTRlbnp5NmZCWERNdmo1bmNPOEZ6UVo5UTZ2NEREUnNsNWFVWjh6X0VQRGwwaXBOVmYyN0Z4bGZtM3JONjFEZHktcW04?oc=5",
-          "published": "Mon, 01 Jun 2026 19:43:13 GMT"
+          "title": "Källor: Gripen-affären med Kanada kan redan vara klar - Realtid",
+          "publisher": "Realtid",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjVVdE16STdQNDhCTGowdzJFN2drOU1TeHE1VnJ2TE15czgzc1AxQzlsTU5iXzNBZ3prREduTlI2NUR5ZjlUY3dFd2ZyTjlnaklXMWJkclJEMUFiQWtUY3hwRVRLU2NwcmZpLU9pLTM5ZjBBOFRhQ1dLNVJQcFRwOUZ6YXlva3Fvb3lxUmRtQ21jZ2JwNzEwX1Fn?oc=5",
+          "published": "Tue, 02 Jun 2026 13:21:12 GMT"
         },
         {
-          "title": "AI-jätten Anthropic tar första steget mot börsnotering - Omni",
+          "title": "Börsen i New York försiktigt uppåt – marknaden avvaktar i skuggan av Iranoron - Börskollen",
+          "publisher": "Börskollen",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlo5RHR2LUlSVEJCTm1lNGhhY0tvWHlFUzFBa3VycTQ0THVSbXhleEQzQXlVVWNCaUV4WnFvTkl5VlBGQnR0UzFCQlE1VGd0bjZXQUtJZG9FSDdsaXRuNWxpMjM3SjYydFJ2WkExY3I1LXRRUFp6cmFaamZ0UGFDazIyZFNabWNIeUUwelNCZzVULTJVcUItZURHSVpKdm5YaUJqRGVqdEw0MnJqcndidFRn?oc=5",
+          "published": "Tue, 02 Jun 2026 20:10:00 GMT"
+        },
+        {
+          "title": "STARK UTVECKLING, TEKNIKBOLAG GICK FRAMÅT, OMXS30 +1,8% - Placera.se",
+          "publisher": "Placera.se",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSzdsYkRhQzVZM2dPTGY1UTF4S0xNd3R4SjBOWnUzZ2dPcFQzRUNzVVdOV0hyeHhOTWxDSHc5VGxyOXZMbWNKSWhpVUVxRTZCc1RmRWJTNHhOVXAxZjJ1RkF5b3FIWnhjbzdHT1pmdEdvMldWcFV0M1MyRGdfYVZ3ZEdGT1FVdk5SMWpnZUw5TkpBS0FKTDFfQWNON05wdDdP?oc=5",
+          "published": "Tue, 02 Jun 2026 18:56:15 GMT"
+        },
+        {
+          "title": "Miljontals svenskar blir delägare i Musks Space X - Omni",
           "publisher": "Omni",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHRFZVk3cHhQWUhBRVlFVnNkWWhLLWtUM0MzRUd3MXBOMXJxTjRMNlZseTk5Uk5KbERuS3lkOG0zcjQ2ODd4UUNJTzZIZkFWRkExMldoaldXdkkxWG9wcGlFWXlNcy1tWjNIZ0Jrb2RMemlob28ya1hkREIyaXh2R2hqTFpQS1FO?oc=5",
-          "published": "Mon, 01 Jun 2026 16:16:28 GMT"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDRnJ4VVFWXzNrMUo4MGlhVjlBVlF2NUh4b3J1elRhUVRMcVdCODZKREVzYVF5TmNOZ0ZfdEZNVTY0M2lRa3BTcmNQUHBDcW9FbDhZQlBqcEJjeHFrRzB1bjZPZlRZdjk3MU9yYzJOQXZxMGNYYWgtOUtJZVlFZw?oc=5",
+          "published": "Tue, 02 Jun 2026 16:00:42 GMT"
         },
         {
-          "title": "Glatt på Wall Street trots stigande oljepris - Aftonbladet",
-          "publisher": "Aftonbladet",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbW9IMWs4bk5lZU5yWkdKc3ZLRHFjZHozdjZMekNYMldxVU9vQzRoM1cybnM0aUdxMHFDYmZOb0drSW45LUpwbUt2SFM5bFRhYTBnei1CMFZkWlZDaUJSQzJ4YkpHbE9QUEh6QW1rWDMtdVdJWlRZeVVuWUxsT2Q0b0FkUUkwWm01ak9oY2RWekVOZGJBaWc?oc=5",
-          "published": "Mon, 01 Jun 2026 20:15:42 GMT"
-        },
-        {
-          "title": "Oljepriset stiger efter stoppade förhandlingar - Västerbottens-Kuriren",
-          "publisher": "Västerbottens-Kuriren",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTmpOM1lmbEVmbnVESGRsX09Fc0RzbWJsdnhoQktiaFNNNl9xelJYTWx5MGxBeXVoSXllQXBvMUZETTBCQlBzUzBKTUc3SjRwUW93SFVvMUptZkFNM0hUeEctUWh6b0cxMXN3cFN2Nk04Yk5hSHZDT3loY3dSUmtSdjFXODRkbEJr?oc=5",
-          "published": "Mon, 01 Jun 2026 15:42:27 GMT"
-        },
-        {
-          "title": "Scania stärker den europeiska kapaciteten för produktion av elektriska lastbilar - Cision News",
+          "title": "Saab får order på simuleringssystem från amerikanska armén - Cision News",
           "publisher": "Cision News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR0J4M3VRQk5SSkROdzd6MGxqRTNPZkt3MVJ6LXZMQU8zUXBjNjBZVTE5eDF4QkFZMWNqNFMwQktNVXYzS2NDN0pYX2h6MVMxYzZzQlVHMnVoUXBFUlBwRU81RktDaWpwblVQRVBVX2lTZ2FySURYancwempqV3FlY2VEOHZSb2g4TjZsZ3NlT2JOeFoySWZVb2dzN2FQQ1NCLUw4TTVZb29HanhTNjNURWlJWlc1ZkxYWF9GYmZJbERldGc?oc=5",
-          "published": "Mon, 01 Jun 2026 13:02:39 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORXgzVm5SNUtLcUNZVXRRVjlRcHNJcHVZWm1XcjNlSi1ieEV4bmNBc19kd09fRDJJaFFBTU5kN2prYzRxSVktejJkalNiSDRITFFoVXFZeFlEZEJ3OXpoejJMai1tMkRxeDUwSnVYWDl6Vk5YM2dfZlY1WXdPLS1mcFJDd1ptMW9INE5ybXpyZ05KX0JhNnl2Y0p1Mm5vZTc1Y2k4?oc=5",
+          "published": "Tue, 02 Jun 2026 14:15:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Spelarbetyg: Sverige mot Norge inför VM - Aftonbladet",
-          "publisher": "Aftonbladet",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMkd6Mk5CdnB5a3Rwd2tUUk1VdGZxWnRhbDN4NU9CZk81cENmQk9NR2VHNGg0ZUtiUE9sdXBDVUUxeThCeV95X2NfS1dscy1ncU5lWUc3SGMzd0lVNXoxMVJCNjEtRzdwOGFDNWhvUklTdXQxTEpNYU9qcDlCc1Iwc2Uydzg5RTI2N0tKUXpsV2JMVjBhTnVEZFd3?oc=5",
-          "published": "Mon, 01 Jun 2026 19:04:37 GMT"
+          "title": "Tränaren vill tona ner hajpen efter krossen: ”Struntprat” - Omni",
+          "publisher": "Omni",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSGxzVm9iVVZ1NUR4T2N4NXNWZnRsS3RNVC1IaW9NWnpLR0lnVElPTmxXbXRyOUVHM28tenNSaTVRaUZxdnJFUk1pck5LMUxiYzR1ZG9WQVRCWVR2VUdvYjd6QXFlenJkZ285SmlEOGpBYUFSTjNkY2RGZklERk5Uc0k3NXl4dw?oc=5",
+          "published": "Tue, 02 Jun 2026 15:25:33 GMT"
         },
         {
-          "title": "Finland vann VM i ishockey - 8 Sidor",
-          "publisher": "8 Sidor",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93WU9QVDJMV2luMVdaaXlmbkVxVW1qOVlkRVh4eDBsc1Z4ZWtWdTlZVGRJYUFkTFhGZ1JSSThMVEdiR0NuMXFwUHJFNmVnbTg2cTdFaWhxbk9Ec0N0aXk2akhJQURvMFFYTTBMaFRR?oc=5",
-          "published": "Mon, 01 Jun 2026 11:37:22 GMT"
+          "title": "Stjärnan Felicia Schröder i träning inför ödesmatchen - Dagens Nyheter",
+          "publisher": "Dagens Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0xBVU0zMUNtQWkzMXZaUklPdnBQY1hxMlNUWVlKNGxkYlpuU2w5UUdNUkZfemhOZTBpdVlua3NYc2dNU0FuQkR6NDh1YWRaUmh2MDBqU2pOVkYwNVMyMjk5TjlsUG5nQkluUHJzMm96bnRTQnJNWS1ULXNQVnBKb1pSRTQ?oc=5",
+          "published": "Tue, 02 Jun 2026 16:32:08 GMT"
         },
         {
-          "title": "Uppgifter: Veteranen på väg bort från MFF - Sydsvenskan",
-          "publisher": "Sydsvenskan",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85RTdvcDlPckNqcHg3anh1bVlfVTZld2NLZlB5V2JEd29SM25UaGtiWW5FbVVRVkdqZ1pXU0pZclJ1UEJtczNpWTVvWEtxcEh1cTdyYnZMeFh0QlpROWgwVXBUa29PeVFtdXZCMG5yOXY5NzVhakxqYUYyTGNfbUk?oc=5",
-          "published": "Mon, 01 Jun 2026 19:35:10 GMT"
+          "title": "Mondo Duplantis löfte inför fotbolls-VM - Sveriges Radio",
+          "publisher": "Sveriges Radio",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZXpZczJ5bUJoVHZPaGRnUG92amZoNDZNbXRyOVR6ZTNOdDJSQ2pQY0R5UGZISGtNTXFTMVczR0h5SWlVSXlSbmR6TkNxbHBkbGRHdDVYM3hZN1hlQVlzZnJCdGVqWTFmTlhRdjFudjdXejIzT1U1Z0RCSlI3LWJTVmVn?oc=5",
+          "published": "Tue, 02 Jun 2026 20:30:04 GMT"
         },
         {
-          "title": "Potter: ”Förbereda alla på bästa sätt” - GP",
-          "publisher": "GP",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdTFXWlAyREZOTTFSY2pCcmZ6cGlhc3o0bzZkLU4ySW5IZnU1WlZJTnh5Ym1lNkRqb3VxOFF3YmtJbVV2WjJ5cWNQNlZaejgzUWgzeXpZa2VwOGJfdkpkSXlRNkN0SzNGSUtGMUMtc0ZBM3RjaXRfLXZzc2U2MTRBYS0wVFZPSE9CbFZlR3VlWnVHcXRrM08yTWNnenc?oc=5",
-          "published": "Sun, 31 May 2026 18:00:11 GMT"
+          "title": "Malmö FF och Jaime Segura går skilda vägar - Malmö FF",
+          "publisher": "Malmö FF",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlFhT1pxZ0NISVJvTVFJT1hQYmJTR1lVTHMtOFgwMmpZUFRpSEV2d21zZElzVXh6Z3pPYUtSSWVtY3JQXzZKZldjZ1pMZW1NbW5ibVpzdmVQOGJqR2l2VEFvVGlRR3VEbVJ6SGdUSzN0TXZaUmFqZW1MdGIwM2lnRmZDaHBJZmt5?oc=5",
+          "published": "Tue, 02 Jun 2026 14:30:06 GMT"
         },
         {
-          "title": "Blåvitts besked – ingen Edvardsen: ”Inte där” - GP",
-          "publisher": "GP",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNUpycGloY1BZbW1CNGQ2Uzl0dGxEQ1RWMEk3bHk0Z1c1LWxmSHE2bm0xUkJDZnVrMVNxbEZUYzgwRFR3SEdLWVQwd0JTdldfUTBzUS1sRV9OQ0VkbWQ5bzBDWjFZRzRhdG9sOXF2XzF1OUlRODRoNno2NDVGS1EtTXI2dUFvLUQ4YXhpQ0hhc3NOQzdfaGdodkpyZWZvUlUyT3J5TTZSRlJCTW1KZ0k1Q3ZIOG1IdlFQY3FqRmFobWdEOUxGQzV5V1JDc2E0TUFYX2czeDBwSVlYcmtE?oc=5",
-          "published": "Mon, 01 Jun 2026 18:18:45 GMT"
+          "title": "Brännan om uppgifterna i AIK – spelare planerade läggmatch - Expressen",
+          "publisher": "Expressen",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcjgxZEdQUjFVcTlNQWxBWEdNNGVxbl9MbkhOSlhDMlhCTlNXNWRXbGZ0SXVYbFN2VWRFNUszVzJ0dmFHZXhENkFvMEpCSGpJUlVFUnpwcVJxaWg0Yjg5Z0RNYnBzVVUwU045Mzg0YVUtM0xUTWp3S0M0UDlRQUVrLWdWc0RSQTNzazFzaGNYM1ZtUDJfd2NkcTVlelBMM21pV0xFcElwZU42OVNXendiSEQtempfc2szZDN2NmtkNGx5UmlkN3ZDS1IyYUtyUTNKZ2h5Wg?oc=5",
+          "published": "Tue, 02 Jun 2026 12:32:37 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Kanadensisk jätte på investeringsjakt i Sverige - Dagens industri",
-          "publisher": "Dagens industri",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rVnFhVWZ6SlRJVkM3NDJnaVRjcUxva2h3b0xwQ2d1YmQwSHJGX0hma1ZKa0praTdYUFNhdmtiUEtndTNJZnNxWC1CcmRwZW1XZUE2cDJJNUo1anhodHgzZlBzSkhpWkNvVFZEdXVRQ19lRXdXMXFKWGY2ZFNtSWs?oc=5",
-          "published": "Mon, 01 Jun 2026 15:01:17 GMT"
+          "title": "Halebop lägger ner - Aftonbladet",
+          "publisher": "Aftonbladet",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxZDJkU285eldHSHNUeWRVR0gxQkhQMXp1NFp0VERCNlFQT00yZjJCMG5yMWtWdVpVVXVKTEgwT0c3Z0ZNOGNJVzJMdEJmYUFJZmFXZU5NSG5xRTE4QmV6dnMxTl9WYUpBMHQ2V05kRQ?oc=5",
+          "published": "Tue, 02 Jun 2026 08:27:18 GMT"
         },
         {
-          "title": "Enormt intresse – men ingen vet vad som gäller - Svenska Dagbladet",
-          "publisher": "Svenska Dagbladet",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0pFYmJxUU51TVFrMmNiSXJNWk4wTzBYVllFVlBuNmFjSDJiNEJ1R015QTFOM3NQek0wSS1MYWhJMXk2UFRTUmJiaGZYQWxkVGcyamNvR2syNExjWE9VNVlZdEprbnZZaTBlRnlPM3Q5OTBYTVdrR19vRHA0VzZ4X20zN25CNERrckxudURROWN0SnVUdklYT0NBM2FzaE55bms0eDFB?oc=5",
-          "published": "Mon, 01 Jun 2026 09:38:52 GMT"
-        },
-        {
-          "title": "Isobel Hadley-Kamptz: Nu smäller Google igen dörren till internet - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbDM0Mk9uRWtpdW1VWW5HQW94cWhYZDRTWWxUTDlpMjBvS2stSW5xUkRidEF5M0JZLU41MnBKaWYwLVI1YlNnUDk5dW5ESU9rUEcwYUlKeXhPZEl3elJDUjktMTk1Zm9BYUpXVmd0dE9LZXVFLXFOcFh6clpHSjVBWGlSb0NNSHVrb2RTanZwSTBOelcw?oc=5",
-          "published": "Sun, 31 May 2026 17:32:02 GMT"
-        },
-        {
-          "title": "Microsoft: Ungas instegsjobb kan försvinna med AI - SVT Nyheter",
+          "title": "Beskedet: Google bygger datacenter i Horndal - SVT Nyheter",
           "publisher": "SVT Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemxoQnQ3M0hHSG4yMTIzTTlQdGdkMThJenhIUy0wR0VFQ0NaNmVJRmRwT1ctQTlyN29WMXp0Y0tjVlhnSHNnZnpsUTBWU0p0WUZ4MC1NaG5fa3hBd0pIalZ1cFBXR0hzTV9JckxMbzBkN0xFSXVwSXUzY2dMYlFDMEF0cnNPS2prX2tj?oc=5",
-          "published": "Sun, 31 May 2026 17:56:33 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkNvXzZvODRyS2o4NGhqc2dWSjk5MGtkZHJ3OWtOOExoM19CcXl0bmtnUFIxQTU0cXZBR2U3QlpQQndvRHRqekJmYzJCblZoQlBVSzliZ21SUHQyMTVvUTdNcDBsT2xNaWhaR3NRYVpuUkZCbHZqdEd2LWR1MGwzM2R6U3JTaTBEcEdPM3p3?oc=5",
+          "published": "Tue, 02 Jun 2026 08:35:44 GMT"
         },
         {
-          "title": "AI:s senaste genombrott skrämmer matematiker - Dagens Nyheter",
+          "title": "Professorn knäcker historiska chifferkoder med AI: ”Tog 28 minuter” - Dagens Nyheter",
           "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiNXNOcFR1ZmF2VWNFR2JYb2JxeFktbEZpZmZvNnFRTnFPbU1rZGY1VGlkWnA5Yktia0tDY0lCbnpIU1cxZUw0dXhsczltWDMydGI0RnNoaHhRbm1fQWY5LVFUVk9Qd1p4Qko1bXlhcnlzb3BIYkVuWVFB?oc=5",
-          "published": "Sat, 30 May 2026 10:38:35 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVpZdDVYQkZuU0hnYk52OG0xS3ppeV9teGpvVUtFdGo5Z3JTZ2M0eEZzVURydDBXMTZ2MkhGNHk0bkVpMkpZS2NIRDZTOXBJWDFHZDVGSlNjM1ZBcU9fVUJKMjRZalE4U2ZpUTdCdjZpQVpFNzhXU3UybzZYcm1kOHpLLTlQblhXWDlZa3FycUUwWEFq?oc=5",
+          "published": "Tue, 02 Jun 2026 10:22:09 GMT"
+        },
+        {
+          "title": "Stockholm ska jaga p-syndare med hjälp av AI - Dagens Nyheter",
+          "publisher": "Dagens Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uZGhZLUMwZzNQeEFRQmd4b0hpdGhNblYtSnpxTV8yX3RzaVp4R0p6ZDZjVVdxNGFQNWhjYUFWdUNVbnFhSmtrZWxRbDVHbkRDVVNURWVSaXEyQ1J2REg5VHdyV2JRdVgzLXRscDJBZUNxNXVuYVk3QUtvZw?oc=5",
+          "published": "Tue, 02 Jun 2026 13:36:29 GMT"
+        },
+        {
+          "title": "Blandad börstisdag i Asien - Google tar in 80 GUSD för AI-investeringar, Anthropic ansäker om börsintroduktion - Vattenfalls trejders har delat på 434 MSEK i bonusar - matpriserna fortsatte backa - cornucopia.se",
+          "publisher": "cornucopia.se",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPMW5wUGxFWmRyN2tURk96Y1ZIdFFxaTVQbjFyZ0tjd3BBYXJ4SndvMjd1MGttbUtaM3Q0bm5BRHdwSzVsUllEMEprdlcxVVBuWlh0a2Nfc1FSNkFNTFJqaU0xYmp2a1dsWjZScmtxVGEtaTZpY0w4NllTRC14bEFBRmxDczBLUXpGWlRLaVA5ME1zN3A0Tjc1dVR2X3N1dWtqdnVnWnhWT2YxVm1BSXRfSExjWC12a3JkeFhsaWV4NldkWFFGRjZnN0VHTjdOOGRtVHBwamFuVnY4bGc0c2tfSjhGYUhjb29nVGg1c2JDTng0MGFOS1lPb3p6bkhITVdYVjJ1WXN1cEJSYmJVWERrSm94WW1Jd3ZpQjdxVEZYSkhOTnM2ZEdDaEN4UnVPaUVDU2ZGY21WdlUyN19CbjZKVA?oc=5",
+          "published": "Tue, 02 Jun 2026 06:39:19 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "I've dedicated my career to soccer. I'm boycotting this World Cup. - Religion News Service",
-          "publisher": "Religion News Service",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcTBadkRXanp6aDVvUU9KM0hZVVBLODM3djZBdWQxdXpxQi1VQXRJel9NT0wzdm5QZk1aTzYxRmVjTkJxU2Nuc242aWM1Yldkd1F4aHRLR2xIMWR4SWFjWTZXTUsyU3MwdlRIdzMyRUZlZk9LeDg2b1VTOWxMcVJLUWtzWkw5TlhlbDJ1MzdwU0g3MTBUMEN0YXdlb0M1Y250?oc=5",
-          "published": "Mon, 01 Jun 2026 21:57:44 GMT"
+          "title": "Music and the Football World Cup Are on the Same Team - San Francisco Classical Voice",
+          "publisher": "San Francisco Classical Voice",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOemFIVnVTRDJaTlN1b3I3QThpeTRvdUhWdFF2aWV3RXlwYlprMXdoYllCQWhwekdBLUtwWldTOHBVb3N0a3QzVTU4b2VYOUtfYUN2WmZpUGg4ZkRING1iUl9ILVNoLTNwLW9pdk1fQUVBUHdwVTFBZm9wajhiU09xVDdtX2xVUFRQcVJz?oc=5",
+          "published": "Tue, 02 Jun 2026 23:26:10 GMT"
         },
         {
-          "title": "USA at the 2026 World Cup: Schedule, results, how to watch, news, analysis, injuries, more - ESPN",
+          "title": "2026 World Cup schedule: Qualified teams, groups, match dates, fixtures, how to watch - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1hHd3NjSnNnWWluMkxPWEUtOEduZWdMWmRnaWxJSWhZU0lxM1ZNY3dSTjREdnV1Z2Fxckhvam93Szgzc09SUVpFZHRiWjBLYVVQWW1qUVpYVU5VZnU5RXllQm8tTlZNNzZEdmx1OC1PR29EMW1SNFc0NTNmZ0xpY2trTTFJMW80VVlGTTg1WnBzU0F4QmR3dFpIbWdHUXJ3Rmo5VlY0VkhrOHUyTG16STROZWNob29yTGV3UkF0U05GcGMwNVBzQXU4TkVvR0pS?oc=5",
+          "published": "Tue, 02 Jun 2026 21:38:56 GMT"
+        },
+        {
+          "title": "Major League Soccer Sets Record with 44 Players Named to FIFA World Cup 2026™ Squads - MLSNEXTPro.com",
+          "publisher": "MLSNEXTPro.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSU0zOW5PU3VjQkZ2anIyTTRtWHROV2hBRGtvWGRWVl93aVdMN2UyVG0zXzNzcmpiTTRxZmxZdG1VdmlGbzEwRk1RWjYtbjVZUTJIUElzUjRFU1c0eDRQZ3Y0M3paemVtZExXVERpa2xkS0NWTGJnQmxjQWZuT3gtQnh1a1FodEZhc1lBSFR0OUdDNXRGdDU3bl82bW1XTHlJQ0ZHb3JGdWhxQ2I5OGxFTUZsRGhiRlpC?oc=5",
+          "published": "Tue, 02 Jun 2026 17:04:03 GMT"
+        },
+        {
+          "title": "2026 World Cup: List of squads, players announced so far - ESPN",
           "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPek9fcnhQZmxLOENPVjBCb0RqU21QSkg1amNpb3l2TWJJeUtJaldXSU5tVXFDVXd1OVVnVld3TmhieVNfQ0VqMVZQTU5ZSDcxYW05c3k3TXVWcUFhZzZBSkh3RU1zZUlQeGp1cktGT3FfSGluS1ljMElYMGktSkNmaWwyLU5rczc4bThQUTZwOXdHSHNhZWJfUm5iVU9VVHlZcExWYXo3RDV6ck5PRVI0b3RHV1BaalBjdmJfTVV6bi14NDVIQ2sxVDVKNjZTRFBHaGRzc0VFZw?oc=5",
-          "published": "Mon, 01 Jun 2026 20:47:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYllPTzV1Y2xXOS1VZTR3cWRFY05lSEplR0lxSE1XTnhwRUxVVjdadWpVdEV2S05XSUU2dlNKTkNURmh2RjhlNEprZy1YYlRDREZpNnFBZGdLSUVVVGNyMUlrazRoeXhUbmZtRXhheHl2bW5ScmhBQ3doOG5xQnFudE9Ca3JCaU9lMHFGR2tsZUhTaUNEU3JJVW15b3BXb0JvMC1JYzNLWWE?oc=5",
+          "published": "Tue, 02 Jun 2026 17:01:00 GMT"
         },
         {
-          "title": "Welcome to a new World Cup series: The Language of Soccer - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGtwN3NzUmRucVdNSFg3UEVBVWRmNWhYRWNOTm42d1E4QTZzRVB3dnNrYU5uek5kdDJ3V2ZmLTM2d0ZpdGU0UXRQeUp1YnZJZ1RVZXRtRHAyV3RxRkktVmFSeGpjejYwSmwwcW9waU5NdzRGV1owVkpXS3BFTVk1bGhZUVpINWRi?oc=5",
-          "published": "Mon, 01 Jun 2026 14:00:00 GMT"
-        },
-        {
-          "title": "How big are World Cup soccer pitches? Breaking down the field dimensions in 2026 - NBC Boston",
-          "publisher": "NBC Boston",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1dKOGhuYTlrUTFPR2lUay00MkxLUWZWbExjY3VWamxsNVZhQUZuYUpfb0VuaW00eEZpZkRqdmExTHFKOTBsMkwtWnZDci1rSjlxamhqX180TjNOSU1ON1NjSy1iLUFDMHBQOXh3Ylh2bTZNZGJtbXFTVXNiU1NkSGFSSExhblI1M3BMQ3M1dFnSAZgBQVVfeXFMUEVUazZzcVV3VmlpdWc0U1FJZjBpNTkwMHcwNGxKVU94THFPakpMaFRTT0hCWG1UMG52NTJNWXhMc0VNOGJzWFdwVmFwVVJSM0p5eEFJdHdoZDcwUV9wVWprWVNhckVnRGI4OE85cWdYSEkyS0VZUHExM1Q1Zk12SGtVU0hGWm1MeTlqbDNXVllERWdLaHdZVk8?oc=5",
-          "published": "Mon, 01 Jun 2026 18:27:07 GMT"
-        },
-        {
-          "title": "Toronto police seize $2.5 million worth of fake soccer gear ahead of World Cup - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSFh1eVRZVW1tNklGczF0SldCUDRDN1JkYUdseFVhVTBCcGZQQUtqcUFUOEZ1SnJGVUphVEprcS1pbUNhXzdHa2VJQ0VtZDBQemh6Y0pPZ1NjdVBtRGJRTlVxQkQxY08yejBhV29qTzF2OVpoMm5oOVVOd3NlZDFCdXBmSENRdU8xMXE3cUZHYnY4RTZqODRkRnpUYl9uVzRnUERBd3VOX2wwWEZYLUZQMW5yQlNQSkNFcWo0dw?oc=5",
-          "published": "Mon, 01 Jun 2026 21:52:38 GMT"
+          "title": "Before the World Cup: Seattle's long love affair with soccer - Seattle Refined",
+          "publisher": "Seattle Refined",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObDh3VkRaTGJoZTRuTzE5bWtaejYtUnR5LUN1bDk1WkEwT1NuTjU4SVphWU9BUDYwVHBxVjF3TE9DOXFpS0ZaSDRhYkRPZjVuYW91Y3BfVFdXbGxaa2ZsYVF0dU9TUkZhTWZmVmtVTVE3NnRaNFN3dEJpcWdMOGZnaDJ3SDRaZEN3bUxVd0hvdExDMF9nWkhzMFloeXYzb0ZucmhKVXRUY2JOel94eGtiM2hNeUIxWGs4eFJrTVRjUElfY1VRSnNsdURiZFVKTXRjZjAxSjdxb0w2OXNwVWZwT2dmSDN3RDlLLXVJWVVzc3Bfb2FRRnhhbw?oc=5",
+          "published": "Tue, 02 Jun 2026 22:52:11 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Report: Scott Pelley of '60 Minutes' accuses CBS News head Bari Weiss of 'murdering' the show - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGpkTUhQd3lkR2UzQmdkQWtoRkdwRW9KcWNETXFHbXFCVnRoZTNPejZIcER3NEVzWmtpdlQ2WG51ZUN4LWQ5TF9MbFdUcVU3UVUybUc1UlFVNUQwVHdSVFFzLWtPR3U3ZlZxLTJ4UmtacHh0R1BjYXFBWjRpczJ3b3c1UXBKY190M0JSWm05d3lEZlJreEpCSlB5WHgtWFU?oc=5",
-          "published": "Mon, 01 Jun 2026 20:58:00 GMT"
+          "title": "Zendaya's Mom Reacts to “Euphoria ”Finale with Cryptic Post: 'I'm Gonna Keep My Thoughts to Myself' - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRktTVXpobmxleHJySnRHWjhUZjNpZXBLRjhyMG91bmJaMG01cEVVU0NtU0xBLXlMV1pQVENLOXI0MHQ2cnpNOUkyY1JzcFZwVmsySmZNcmVNZlJJcUlHZFd4TVpKemxaV0VBNDFfQm9IZEJEN3BWWUpGX3UyRkEteHJJOXVWRFhyLXZUb1dEd3hzZVhVbGVXUUkwdkxXejg?oc=5",
+          "published": "Tue, 02 Jun 2026 14:17:53 GMT"
         },
         {
-          "title": "'Euphoria' creator reveals if season 3 ending was series finale after shocking death - Entertainment Weekly",
-          "publisher": "Entertainment Weekly",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15ODVualVXODBWbzdLR2ZqdXZ2Yk1BTF8zNndUWE5HdkY3eVEtcUp6ODA1NzF4V3F2SGlqMXdrSURqSm15Q3Z5YXhCUGU0cjJfODhtbk1hemFWVWhaRFJabW5KLXNEdlFTOTdxT3Y1bw?oc=5",
-          "published": "Mon, 01 Jun 2026 13:31:04 GMT"
+          "title": "Peabo Bryson, Grammy-Winning R&B Singer, Dies at 75 - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3BmTEV5RS0zYk9wdG50NjRNcnBDWkNpQ0pjUkJYVHlJUWJkTlpubUFBV0tESGNMbVpvTU8yM00zeFJjRFRJcWFFcUVRZF96Zi1IMEd1YXB4UGFSZHhLTWdYdXFuOVp4NTF3eF9obFE2c1RweVhaYUlfNWxseTBMU3Z4TXBFN3NoamtLendHR3MxYmN0MGY3WnRUbXc3TnZ3bzNzek9QRUdEdFNfdXJNX2x5LWJwNGhz?oc=5",
+          "published": "Tue, 02 Jun 2026 22:46:20 GMT"
         },
         {
-          "title": "Taylor Swift Reveals Original Song for ‘Toy Story 5’: ‘I Knew It, I Knew You’ — a ‘Return to Country’ - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSThaOEF4TlZTa2ZtTGU5eEFVcFk1bDdJOGVsWFpkVVNvMi1XUHZwWnFiN1NmSW1XVm5kZmRHb1ZpUjlicEVfMUdzZmMtZ0l2dzltQnFGMVBQZEU3YkVfejRNdzZ3a2pDYVNubFY4ZVZXUkFlQnVQMHZ2WjQwTGJ5d3dkQXV6V3FJMEE?oc=5",
-          "published": "Mon, 01 Jun 2026 18:06:00 GMT"
+          "title": "‘Masters of the Universe’: What Critics Are Saying About the He-Man Movie Starring Nicholas Galitzine and Jared Leto - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0puWTFBb0tKTTRXQVlkd3JXR3psRWV0RENrckszYVFSa2NGdVhHWnZzbDNUVG9wZzZKMzJqMy12LTJwNlNwVWlJUmlDTUtTWWo1bXNZUFVIX1U4emp5bGYxakRvdU5XZF9PbG5fZGRrM1B4YVRCR3A4NzRub1FDU192aVF2ODNaby03UWFpUklLWjRZZjhpV2lnMHNudlBRSU03QWpQNG9GdEZ3dXZv?oc=5",
+          "published": "Tue, 02 Jun 2026 18:29:49 GMT"
         },
         {
-          "title": "Happy 100th Birthday, Marilyn Monroe! - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHpGQklkUWRPVWN5blJmZGRUSFd6U2d6YkR0Tk9sQ3FmVlEzLVlKbnMxa1N5U2FLWG16dWswUXBzZ0RiNHF0R2Nnc3dsc2w3SWZlSFdkNVNaMTl1bzRQYkpyN0RXRm5hRkQwSldNc21EN1Q0WGZhc0JNYk1SV0lqUw?oc=5",
-          "published": "Mon, 01 Jun 2026 19:55:32 GMT"
+          "title": "The Pitt Star Noah Wyle Was Glad He Remained Off Set While His Wife Shot Her Scenes - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWlkWUdtTVNVUUlDdjdqRHJtQmhsSUE0MWh5cDNxanBrTlFHR0RTcWs2ckxrYkZzZzR5aFd0T0I5UlhmdWVaS2pMbGE4VHo0bERrSURwWTMyakUtVGFpaUd1MHM4dUQ1ckpXWXpoY21WalVBSFd4YUZ0anRCX2ZibVNjcTNISE9ENldxOS1HdjQ?oc=5",
+          "published": "Tue, 02 Jun 2026 20:00:00 GMT"
         },
         {
-          "title": "Love Island USA removes Beaverton contestant before season premiere over alleged slur use - KATU",
-          "publisher": "KATU",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOS3pOeUhvOG1SMXlROTROcDNuMzNoek0zZXR3a09RTlVPNGJNdE5CLXhhNjVZZHN3YkpOQ3luZGs3Qlo0aEhlMHJQbTl4eWt1UWVlOUtvTXN2TE9laF9JUmZLTkRrbW0xY1plNkhtU0Vyam1GMGNSLXpSNlB3ei1rRUhMRXF0RUhDdkZwUGpaNlY1RDh1RVBqeV9PMkxhS1d1VWZ0aDEyODZuSlVzdVZ4V19KRFM4LUZwTkE2ZHFib2tjQlNjVUxGNGFic1lLTXBLNkQtbEFFYUxESy15Zlc1WGxGbUhKaGdsQ2Z5MQ?oc=5",
-          "published": "Mon, 01 Jun 2026 18:20:07 GMT"
+          "title": "Taylor Swift’s Former Pal Karlie Kloss Scores Wedding Invite, Beef Squashed - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2E3Z29xV3VleGJhRlV0N2ViemhmTXRpRFhvbE9rQ2dwSVBKV1dlRDdidDB4dy1LRGdTQ21RRk9mRG1QVkxaZUNMTGNKRHhBNGwwRW1IT3pWcnVKa2pWZHBnc3RhNU1GWjIxTWQ1cEFDWGJ5ZUQxODRQRktVelhabW5n?oc=5",
+          "published": "Tue, 02 Jun 2026 23:06:41 GMT"
         }
       ]
     }

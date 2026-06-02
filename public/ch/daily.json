@@ -1,7 +1,7 @@
 {
   "market": "CH",
-  "generatedAt": "2026-06-01T23:26:36.636006Z",
-  "validForDate": "2026-06-01",
+  "generatedAt": "2026-06-02T23:44:43.300564Z",
+  "validForDate": "2026-06-02",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Zuwanderung in der Schweiz: Experten diskutieren Arbeitsmarkteffekte - 20 Minuten",
+          "title": "«Wir sind auf Zuwanderung angewiesen» – «Ich fürchte keinen Fachkräftemangel» - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWG9YaEZrU3lzNE5hdlhORFJvYy1yVDl2T2dhdXRlaGpyU2pXTkxmV2Z5VUl3Y3JPOEhKaVhUdEtHS2ZlWFRRYXpseVI1c1U3WXR1ZzI1OXR4dkhQdGNYeXkyaG9OckpjLXU0Z28tQmNSVDV4TWtETk54U1pPeGhXelJOTGdzZF82TEg0RVhDTE1HYmd0UmIwVFo4cUotWWhhYlE1ZHhTeWI4UQ?oc=5",
+          "published": "Tue, 02 Jun 2026 09:10:26 GMT"
+        },
+        {
+          "title": "Hagelgefahr, Hangrutsche, Flutwellen: Jetzt zieht Gewitterfront über die Zentralschweiz - Luzerner Zeitung",
+          "publisher": "Luzerner Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTHdQblI0SVNmVFYzb1pldjRER2RFWmxUM0dvUmo2WWVQNVN6dWZWOVV1Q3dFRHBBS3ZwZjJVNnVxWTZVeGRTdVhSbFRUVkk1aDlwdjNlLUZkQklNSTQ0QnUyQWo3dE9JQWUyczRheV9tNTA4cV9xZkowb0t3MTZrdVRHVWxHLU1yWlJMZ09CbGtJU096d2hSMzlwM0Z5T1hQbDVvNS1iUVJVblhwQnNVNnpqZzlLWlIyYVB1MzNn?oc=5",
+          "published": "Tue, 02 Jun 2026 16:38:08 GMT"
+        },
+        {
+          "title": "Nächster El Niño steht an - was das für uns bedeutet - 20 Minuten",
           "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVF9PdFpWLUtudXBiLTdRNzZId3h0LTZ0b1NoblVqQWJvRl9MUEI5RW9wWWx0VG9qQVY4TXNUVXRVVVBCUm9WMHlDUGpvSDQyNUYxY2tRMkVuTmpNemVWdVdmaVBsUEVjdG04RGdCWkFKOU9CdTh1RW9CeE0zYTJtSE5OZ29tLWI1Q0JWWmJuZmZNS1h6ZXhjMFFIaHJwQ25DZWctSnNmbEpRdTJ2SG5N?oc=5",
-          "published": "Mon, 01 Jun 2026 12:50:44 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWVVCWWVENFZ5X2pRamprX2QyTVVpQ3BYRHRjX2FQTVJuUnNTTU9ObmRtaUdqcjM4cGRiZ2hJSG5lYXkyV0R6Ri1nWHh2akF3VTNtR3NORjkwY0JCUjV2UFVvODlMRXpLZW5JOVVCVWlqbWV4Q1MwOWh5RHpnNFVxVHNWeHlfVXBVRjZiUllWcGlFZkI1NUhWaGpqTDlJXzVjcXc?oc=5",
+          "published": "Tue, 02 Jun 2026 09:23:44 GMT"
         },
         {
-          "title": "Mindestlöhne: Gewerkschaften wappnen sich für Referendum - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaGhhRk1fV2JwdHB5bXkzdVJDS1pkV2QwRzR3M3RTUlUxQkFLWmNBVEV2UURoWnQ2amVHdElieDR3ckVCaGZxcHZoUEVrOS1lY0ZJMUJIWDlkU2tWRTZqNFlDZkNNTmswRk01bWZJdWZXa3Bxd3F4Yk5zSHhmaHFFcXp5ZmNQWVRqWFdNU1AwMWJHNHhXdGxsTkhfNklZbWI1SE8xaUdTbHBFZUtiYmQtSHFrZjZwM09idE5Ma1Y3RGVLa0ViWGJB?oc=5",
-          "published": "Mon, 01 Jun 2026 14:14:56 GMT"
-        },
-        {
-          "title": "Sommersession in Bern: National- und Ständerat starten heute - 20 Minuten",
+          "title": "Bundesrichter spricht erstmals über Affäre - 20 Minuten",
           "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGs0ODJmR3pXYUJvRk05ZmhyOWFBTHZzX21Ta1BaUzEtLTIxejhOZlJkTjFyTXpjZzVIaUh2ZTBNdVRIRWNHeExGZTJVSm4xQVZvY2o2QUw0ajc2ek0tdHVGYWQyYVpEYUF6N1RNYkFPemNGSHhuZ2w0YW1NMHg2bnlSb2JWdk1nN1BDbFRlVnF5UWNVOWRJSDBLTVRJV29Gd0E?oc=5",
-          "published": "Mon, 01 Jun 2026 18:08:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2FtbWV0OFFvR0M1Uk5rcm85LUp0dW1DdGNjcGVmYVp4YjlrTVBCT2FKdU56WWJFR0ttVWdhMXJfN0hESkpxZU5EdElwbjhtbUxfSFRoUWdCWTB0WUhwUHJkdTJNX0pmRXppWkEzZ29ySmpWcE1mUm05a3MwcG1iMlRGb1pSRlNCSEkwUkNzbnQzcEZ4aXNJSVFVUlJqaUszbjhmcDdHM2I2UQ?oc=5",
+          "published": "Tue, 02 Jun 2026 05:48:52 GMT"
         },
         {
-          "title": "Winterthur: Verhaftung nach Gewaltdelikt in Dietikon - zh.ch",
-          "publisher": "zh.ch",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdW4xbGs1bnVYQUhaNmhtbzVTeVhyWVNkWmFOMFBJREZoa0R1MjZISi1xUGhqMFRBR0pyN09ra0VkQzVoZHh3ZEJRUlFuSXl0b1BtdDlWSXpHMHhiaFJoQUlQYkNqcnR0aUw3MUZ3TVAwRmJuRGhmRzh1UmkyQW5zTkM0ZzBFaC01NkVzZTBJbEN1dnpo?oc=5",
-          "published": "Mon, 01 Jun 2026 12:13:49 GMT"
-        },
-        {
-          "title": "Mehrere Einbrüche und Diebstähle, 1 Festnahme - Kanton St. Gallen",
-          "publisher": "Kanton St. Gallen",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYjlTUE1xR01FT2RacHh2ODl4ZFpNcThXRTY1LWx2VHFhNFE1V1ozSzdtTFNNMThsb3IwdGplc29qb3ByUE9RMDdUeEZVQ0ZiTEZKVGRva3FBU2M3aTVXc2w1YWRMaDZFbXp3TnNoUDFianY1YzE1Y1ItRXdWMGpJMGhFYkpSMjJZN1FESjViVGU3MURNdEM2SjhfajVaSU00SGdtRWtfSkxKcHdtRlF3ZWtNVG8yV1VMN08wSg?oc=5",
-          "published": "Mon, 01 Jun 2026 12:43:51 GMT"
+          "title": "Zu viel Koffein: Diese Energydrinks sind unerlaubt im Handel - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYjR6YTd0TWxMamhXQXo1M1ppc0p6WXhtenM0cnR1NEhVOWFmaXppMlhBSFBDeUlLNmZmbzd4MDlWMnRtcEljdk5FZGhqM3p4aTBfQlh0cUxtZnRscFhnd2pZRDlZb3JHLWphU05PbUo1Y1FiM2hma3pzZjYydFY4WUhlXzRyVUZEZlhUR3lqeHVQTnRGVEE?oc=5",
+          "published": "Tue, 02 Jun 2026 17:00:08 GMT"
         }
       ]
     },
@@ -45,10 +45,22 @@
       "label": "World News",
       "items": [
         {
-          "title": "Trump fädelt angeblich Libanon-Deal ein - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUS01YWhrVjZ1M0Jfd3ByNTV0cGV2bG1NcFNCUXllMU0xem5KMlZrQlEzVTV2U21rVUd6NTUtVmEyQVFoMEd0QnVuVFA2VndIS2FTMlU4RnZJNkpyRUtPa2ExZ1NSVG9PV1FydDhmcE1jV0lqS3lzcmlkNW5iU3FuUmdBdUkxYUhTZ01VVHNjZEQ1STFBOV9XR0gzdTkwaVk?oc=5",
-          "published": "Mon, 01 Jun 2026 19:38:57 GMT"
+          "title": "Trump beschimpft Netanyahu: «You're fucking crazy» - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd0xoLTdLNWMwcmNVX2NubW9NR1JoMXd6Z1V4d09zM0x0bllIOV9QRFlHWk82QmxrTW5BeWYtYlJwRVdZTG5VT0Q4UGJGSllXakVKNFFfQ2ZoVTVyRTJ0SGZHV01iVFluSDlURF9ZU0VxRXdOTlMwYm80WTJLbkdWNzhYSFV1MEhabVZHUWtNVmdoamdzbzhVOEpOdVY?oc=5",
+          "published": "Tue, 02 Jun 2026 09:19:21 GMT"
+        },
+        {
+          "title": "2. Juni 2026: Das Wichtigste des Tages - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmRhRnBjX09ZbG5ySVlDTXVrLW51LV9zUjZaQm9mYVNjNWJEMVFIMTJsYl95RTRyeVRZZ3JrUUlqeW1kZlhMZnAtQkNQS0VrdkluZ2ZUc19OaFEwcXM5MEtwaXlheWlKMHRQVkw2SHBBUklTWHJuNnBGd1FfVWRtTkM5cWxDRl9pclEwbUdDOA?oc=5",
+          "published": "Tue, 02 Jun 2026 15:00:00 GMT"
+        },
+        {
+          "title": "EU verschärft Asylrecht massiv: Haft, Mitwirkungspflicht und Abschiebezentren - Neue Zürcher Zeitung",
+          "publisher": "Neue Zürcher Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcFJwSlp4V1ozLXZDUUFUVDRlbFlhaE8tbnhMY2x0WEN2NmxfZG5ka2QwSHk5Q2F3ajJFd2h1cTZUTkhkQ2RvcjNmVWhiRHRUMTZab1JZeVdJTDQzbURUbnF2bnZncXlWcHZ4aFdGbkhvRlpKT2xWenFTb0RCRy15MkpCS0E4c3kxaThSM1BNUlVvb0s3YnM2RU9lUzI0c2FEUXlRVnNCdlB6b0ZZWUpNeVhwVUdvdXMwWW1lN3dHcjBxQ3lkZ1Zn?oc=5",
+          "published": "Tue, 02 Jun 2026 14:51:05 GMT"
         },
         {
           "title": "Iran stoppt Gespräche mit USA wegen Kämpfen im Libanon - Blick",
@@ -57,22 +69,10 @@
           "published": "Mon, 01 Jun 2026 13:42:39 GMT"
         },
         {
-          "title": "Drohnenbilder in der Dämmerung: Das Drama um den Schiffsstau vor der Strasse von Hormus | blue News - blue News",
-          "publisher": "blue News",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTk1Rb2l2LWY2WXNCX2lNdnJKVkJfS1d5VWRfdF9wbGE5eE9aQlVRM2RFU05HOTUzRlI3QUFFaGRuZzctc2ZiY3lqSFVFaTVnRV9XdGFyNTF5SGprYTJGWGdqcVlyOWVzdm9faHhqYVFnNE1tVHNhdV9NMmdnekpHaHZlSWItRmtrMHZxc2pkUkwyMFZxdVpv?oc=5",
-          "published": "Mon, 01 Jun 2026 17:29:00 GMT"
-        },
-        {
-          "title": "Knappes Rennen - Kolumbiens neuer Präsident wird erst in Stichwahl gewählt - SRF",
+          "title": "Flixbus: Linie 666 nach Hel in Polen kehrt zurück - SRF",
           "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnZ6TGJBWWwtLUt6WFp5aEFMbGxMaURWRnBfNzFoTGJuaHhTXzBXQzJ0UUdDeVhvRUZkZTN1LWJweVVDbU5tTl9tcTZZM3ZnZFNSdHUxZ010aGVlbm4yRzhsX0Q5UlliWjAzNG9OTUpGNmhUWVZjQ2NpUUNIcUxtVXd3WjNwRE5ZLWNOMkJaSnR3QzlWcFl1UFU2YnhFMmVfT2lSOWJxLUZKeERwXzZwT0Fn?oc=5",
-          "published": "Mon, 01 Jun 2026 01:38:25 GMT"
-        },
-        {
-          "title": "Papst weiht höchsten Kirchturm der Welt ein: Der Spektakel-Besuch des Pontifex in 4 Punkten - Aargauer Zeitung",
-          "publisher": "Aargauer Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUGZzaWp0MEpWdnVQbzJjM3ZvOV9Ldm5IX1pvcU5WOW9yRl9GM2tadVFDb1dGV0ZNSnItaGpPbWRGOERyMUsyU0pwcE81RUtUTEMwUXNyblc2TGh6U2ZXZk5qMnFpZzlUYXhvWVYwZG1XVmJRTFljUHNOSHBMSllhYjd6V0VPZzhmTk4xUVFLcC1xQjVXZEYyMUtDOTFVcDJaeGU0YjNxSjlhY1hpb182RV80ZDRSQ3FCMm5DUXJRZWxJcXQtdjdSN1Z1ak1Zdw?oc=5",
-          "published": "Mon, 01 Jun 2026 03:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOclFYT21UUUpjbnlaQXdKTnRQR0QtYTNSWTNQMllnN1BsMEltZFpBYzZuZEd0dlBDTWtRZGtKd21jVkJScllKYjRCeGR6VW05aFBia24ydG13QnFobHhLYzc3cmtYNlhGZjJ5SlV4Q2hZU3c4SnVqTkdqR2l5Wm5XSnhYbzd5YWgzZEVsTWs1eWhCUFp4eWN0U1NYUkJKb3J6aG5z?oc=5",
+          "published": "Tue, 02 Jun 2026 09:58:53 GMT"
         }
       ]
     },
@@ -81,28 +81,100 @@
       "label": "Business & Economy",
       "items": [
         {
+          "title": "Pensionskassenrendite: Versicherte profitieren davon - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUVE0bFlfWXZvVUwzcGdvQzZYNlVkOW5EVHM3UGhtZ2NXX19ocE50MVJ5LVdrMXhtUFE3ZGsxRGM4eWoweW5uMnNCMDdRbmZDOGRkVkdyMm1MOW1kaDRhbVNaOWpyZmp0b2gxTFVYQjVxYk51S3lZdGxhVkNvR1lPRzh5TzNkUEdWZGRsai1PRVppMXBZVUZjZ3ZDZGFDUWdJeF8td2hCTWJKbGlzeThDeDdnM1pKQQ?oc=5",
+          "published": "Tue, 02 Jun 2026 15:22:28 GMT"
+        },
+        {
           "title": "Referenzzinssatz bleibt stabil bei 1,25 Prozent - 20 Minuten",
           "publisher": "20 Minuten",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjhNNzF0dDNMc1ptZks2UVdBY001ZVR0ZWJhS2FJSmxPelNRbHZJdmJOQjBCLVRsbVVOemcyMTV5Qk5wVXJ2Tm1WWE1TV0JTRWhFWmVhbGV1V1l5OHZUUWptSmRmYkRBN2xLQmtTdVhOMXhsNF85T183eDhUSjJmRDlFOUpCdS1kMV9yUnJISTV1dzFvOUVYVVZZb2JkSkJ1OVVYUUItSGx3QUV0SFUxX3h6VjBJd29O?oc=5",
           "published": "Mon, 01 Jun 2026 06:01:41 GMT"
         },
         {
-          "title": "Gegenwind treibt BKW-Chef Robert Itschner an (B+) - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWQ1Vm1VZDJhQ0RWZzdvbVdZYktyVXNXSEdMNGkzOHhwSVNrRkRyNWg1d3JnR1Q3X3d5ZFNNSGIzcjdLS3hIbzBodXpGSjJjb0tsZ3BWWTZ2cTByU3JRRFZoMWNYYmk0bGtKek5EQkhVMGtFYnVXdEVLTUR1UVNHSldZOEhHTVg2LXlEeVpVNnEtcnVQNEctVGdtUFhMaDl3YWVRVDlGanpjcHMxdkJsTEh0SGFHS1BHeXc?oc=5",
-          "published": "Sun, 31 May 2026 18:30:00 GMT"
+          "title": "Anthropic kündigt das Mega-IPO an – was Anleger wissen müssen - Neue Zürcher Zeitung",
+          "publisher": "Neue Zürcher Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdHprWHZWOUE2UENSaHhxUlp5bmxzTm1vZ21rMmt0VGFIZnB3TzIzNEdCdm11U3ItTDNKb0ItbWNoOVlmeHloZlUzcERLTGRiWExycU5ROXEyRzVLSWpjTHpveTBqZDZ6OW5wdDM5cm1FV1lGVW8ySWdCTm9NblpYVGFvYlFBallySHZkdHdjY1gxRTBoUUFIYkVPTUpDWHJYRlhCRXd2eTVZZEJuY2xXSmxyOHlIdEFMc2lBRlA0c2R3Si1ZMExkcVB0cw?oc=5",
+          "published": "Tue, 02 Jun 2026 01:49:22 GMT"
         },
         {
-          "title": "Zürcherin mit fieser KI-Masche auf Tutti.ch reingelegt - Beobachter",
-          "publisher": "Beobachter",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNi1iVXA0Sk15a1lNMzhULWRXNTVLald1X3hXWmlIZ3YwRHB5QTRmdVBfREIzanY1NUM1Z1JxZ0R3TnBydHhZYWhzUGlVdVRTbDFIOG9aQkZIMF9LbmhtbDJBTnlQa21LQ3ZZS01HWV9NdkpSRE8taEh6TlAybTU0TWtWY3dROGVYbll0ZVhHT244TnVOdlhlcDB4RFhxdw?oc=5",
-          "published": "Mon, 01 Jun 2026 11:08:04 GMT"
-        },
-        {
-          "title": "Börsen-Ticker: SMI verliert deutlich – Eskalation im Nahostkrieg, Roche, Novartis und Nestlé verlieren, Temenos und SoftwareOne gefragt - Finanz und Wirtschaft",
+          "title": "Börsen-Ticker: SMI hält 13’300-Punkte-Marke, AMS und Logitech gefragt, Barry Callebaut und Avolta verlieren - Finanz und Wirtschaft",
           "publisher": "Finanz und Wirtschaft",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjTlBTUGtWaTdHcURmRk1fUFRCLVVpM0JzR0FGSWN2ZUVpVWF1cEhlSEdFcldmc0RQZURGMW5uRlJHN1Z4OGZJd0I1U0E3MHpfTTl2WDJ5YklJU1VFWTU1clV1TmZqckdJckRFTw?oc=5",
-          "published": "Mon, 01 Jun 2026 06:05:23 GMT"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBadzExTlRvaDI0LUsxb2VkNk5hQTlhbUZNM3lRRXU5YUhZbk5ZN2hyemhzalBfUnhMTmN1cGMxRzdqMUNGZzA4cWRuN2Nta2lSX0xQcXA0TjM3ZnZXMnRwdVdZS3F2TU04ck9wbA?oc=5",
+          "published": "Tue, 02 Jun 2026 06:02:55 GMT"
+        },
+        {
+          "title": "Aufstand gegen Autoscout24: Schweizer Garagisten empört über Preiserhöhung - Watson",
+          "publisher": "Watson",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeTJqWVl3eEVaUkpZTGNnMWtHajI0WkJIRkFHUnllcURBWXEwX2RtOE9DTGVzdmRvcmRkQ094X1VSYi1tVlVuLXZnMWhvWFVmODAwQVNyMHZvUHNLZ1RPd0NiUVd2Nl90TXRtdWlWNThEalhhNG9PendKQVNwTWUyUkNCNTFPZFdrZHdWR0Z3TzdNV1lhWXNIbXJHQklwRkFn?oc=5",
+          "published": "Tue, 02 Jun 2026 17:04:22 GMT"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "label": "Sport",
+      "items": [
+        {
+          "title": "Eishockey-WM: Josi dankt Schweiz - „Wollten euch den Titel bringen“ - sport.ch",
+          "publisher": "sport.ch",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVEtkeUxlZThTRHJUYkJlQnhrM2NibmRFckxFZVYyS2ZET2c4TFVZLTJxMnV5eVVfbHBxVFVQblRsSVNoay1LNWtEQ0lxTlJQUVdMdnhtWWtlODVEcEUxZllfbDM3UWVpVDIxeWlodXE4dkdZdUhFVWVSOW01alhnNS1LWk5pd1hCRjZoOFgwclVCcnN6OWpONXlzbGwtdw?oc=5",
+          "published": "Tue, 02 Jun 2026 16:32:40 GMT"
+        },
+        {
+          "title": "Abflug nach Los Angeles zur WM - Die beste WM einer Schweizer Nati? Yakin: «Das darf man erwarten» - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSHV3cmtqeHd6VjVVbUljdDJXejVYNzJQb21pRkw4RkxtTDNvUGM4R3gzQ2ZleWRKc0FKdWhqUDd2NVpRZ1A5V1c4UzM3eGd1cXlzWEYtVEN5N3BOUE9seXI0WF9DY3h2Tk13WHlhOFd2aTdvV2FSZW94RHNtS2Z2bjZBSkZCc1o4clRDNlhQR3BndllkcncyVmxXYnB5SWlWOFZOREd6WmJLcEpVNExBNUhoYzNFUVZ0b1VINzczdWhZaWwwTDI1YUdQTkZCMW9pb1dneFln?oc=5",
+          "published": "Tue, 02 Jun 2026 12:44:28 GMT"
+        },
+        {
+          "title": "Schweizer Nati in der WM-Quali - Pilgrim: Schwierige Zeit hinter sich lassen und neu angreifen - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM05MYXlFdDBIREVUaXU4UXJUWk5vNWJzbTRYQk1GX1hMbnFsVTkzZDBsNGx2WjlYTVE3WUxodmhGazZWZThYNUpQd1BPX25uSzdUVTFmSUFLRFZtTnlQcjlrcEZha1dEd255d2drVTVoYndEZlZ6ckpiSG8zanlYR3RqT0tDNzJRanNGNTgzVW5IZERNSFF2eTlWQUg4dEhOVmpLUWkyNHFIRnc4QW80SWpSRmk3VFB4ajJzcEhSTVgyOFBqdEM5bVJUNjlKWkRIdHhQbjg1a1Q1X0R3cUE?oc=5",
+          "published": "Mon, 01 Jun 2026 21:23:33 GMT"
+        },
+        {
+          "title": "5 Rundkurse an 5 Tagen - Nach Radikalreform: Topstars für die Tour de Suisse gemeldet - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3RnYlpOWExiLXRuUmdEdGx0YXNrSXpwYmVNbG5mRHJhbVRuQ2JhbnNlVWxjLWc3NXl4NTU4dE91LTVDcjF2X0o5VTFHUGt4c0pBcHVYaDRjekhwWDVkeThHQXZrWElNWjloUjh2MERGRWhjMkNFRnRZUGlaU1AyNEEyd2o5eWVyZEY2dzk4VWdaTXZnSGFKdERpQ254SW5JRFhzMS1vck8zVTNySURrN0gtcWUzRE9nTUxydzBobXM?oc=5",
+          "published": "Tue, 02 Jun 2026 09:33:19 GMT"
+        },
+        {
+          "title": "Neuer SCB-Trainer vorgestellt - Aubin: «Es kann nur eine Vision geben: den Titel gewinnen» - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU3hzeGlIZ0s3VXRUSURuRW9JaVRzcTlpRXE5aUdnX0lpSENHcTdQWUdFZlllN0dHY2kzTFlxSlBOOHQ4NVdjYVZrR0FyYjBRVWxnMWwwTHhxall5TUMwRXRORXFlNGEzWTd0eGF3TmRoa2JKU3JhZGwxZm1meW9FenlHQ0NCeS1MdUxIYWV6WUdTM1dQMWhPRU5lc2MtWmNvSDlkUEtfVHc2ek5LQjVOeTYyTVoyQUVMSXhfZDU5a283SHBpLTZJVUhlVzFheHZw?oc=5",
+          "published": "Tue, 02 Jun 2026 12:27:58 GMT"
+        }
+      ]
+    },
+    {
+      "id": "science_tech",
+      "label": "Science & Technology",
+      "items": [
+        {
+          "title": "Cyberangriff: Daten von Primarschulen und Fotografen gestohlen - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGdQS0JfZHNQX3pob1ZDTU45T3RCNXVuSHhpeW1jQnVPekdtZ0FGbl9oRjczMlR2d3plaXhRSkVISzJkdDluMnd5V1lHYTRDbFZmUDFHZjBiMWR5ZlB0SXJlREV6ZDBHU3NkUDJRVUJpQkYxU2dnQ0trbnJBTFR5X1JfZGItcFk4M2dxZ3AwMUQzLXc3X2Vwb3VKYnNOU2VMM3dHWV9Pd2duaFNZZFRFVV9nYkI?oc=5",
+          "published": "Tue, 02 Jun 2026 02:29:02 GMT"
+        },
+        {
+          "title": "Börsen-Ticker: US-Märkte legen Pause ein - Marvell Technology schiesst nach oben - Google-Mutter Alphabet fällt - SMI im Plus - ABB auf neuem Allzeithoch - Cash",
+          "publisher": "Cash",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOOWZZbGpsUVJFcmhsWEZDNXR0VGlVQml6Zkp3NlBNZUFZVjRUeS1Td3daS2VuVUZtWWJONlIxX1o4ajc4cjAtX2p4TENOTnVGUUI4clFlWEUzSEQ3dXNyMlJGNERaRDZDaWk0RnhOZG9tYVZtXzJ0clJMd2FpWWZJRzdxS29UTXptRG85WlVWeWRMQ3dCUlJDa1NvTDFBYmpKVWkwb1h1TmVSclZySUVtRU0wTUdNcEQ1b3lqSFo3alRVZG44czFHcjdzWnlyRGlYNGxsd3l1dHg5MDlmNFhkTjE4OFBiWkc3QlpKNm9TSDNTUW9pSVk0ZFptN1pVZUY4MXBuc1k0dHgxY3gwbHR2Ul8tWQ?oc=5",
+          "published": "Tue, 02 Jun 2026 04:10:00 GMT"
+        },
+        {
+          "title": "Börsen-Ticker: SMI höher - Swiss Re auf tiefstem Stand seit November 2024 - Swatch und Richemont von Exportzahlen angetrieben - Bitcoin tiefer - Cash",
+          "publisher": "Cash",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNS29NeE11azQ0akJTS0hmU250NEdhdHlqZlJMVkJ1X3cyRHF2Ty10dUoyUllyc3hCZGtLOS1tZzhiaVZZeFZ2akNSS2JqYmtNOUROYjhabmc0a3c3LUF2Y0l2bFROQUFSRFNWSWlzYUpxV0FKdDN5UXRLdkNDSUc0TTFQR2I5VVVQZERoRzNEY2NkYlRLVy16WmhOUmt5c0NvYlQzV3lOQ1g1VEVhbldIZ01uOHVxUjhGWlJwdG5FMFNNdzhKcGp0UEY5YjFrUmo3TU1ERTJSTFhtdVg1eWVLWG9FQTRsdzVma1JNckRsbnVYcjZ4S2FiRENNdEVVZWNFS0xiWkdCaw?oc=5",
+          "published": "Tue, 02 Jun 2026 04:10:00 GMT"
+        },
+        {
+          "title": "SpaceX-Aktien kommen an den Markt: Zugreifen oder sein lassen? - Cash",
+          "publisher": "Cash",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTlIMEVNOU11UklaRWtxcW5nTVc4VlNvZS1McnFqdXlzVVAwWlk3dkNoTzg0aGxDXzhuYlNPQjZxM3hyWm14X1JvSVFwMkpfMlNSZlpSUTdtSGZ4UHJkRlNrSnhDcktHWXJsYUhhQXJ1Q3VDWlJLbVBZcFlBb0VCaV9LUFZnRjVPNEVyZVdmeHpfV3IyMGVnVi1nYzBGNTQxTkxJ?oc=5",
+          "published": "Mon, 01 Jun 2026 15:51:57 GMT"
         },
         {
           "title": "Der SMS-Killer kommt – doch die Schweiz steckt im Funkloch - Blick",
@@ -113,110 +185,38 @@
       ]
     },
     {
-      "id": "sport",
-      "label": "Sport",
-      "items": [
-        {
-          "title": "Eishockey-WM: Niederreiter trauert nach Gold-Drama - „Es tut weh“ - sport.ch",
-          "publisher": "sport.ch",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRXZsc1FoZFJoc282aEcyM2FFbEd1VmJOSTd3TFlXREpaU3N1UmJvQVBGLTl5R0RQNVdKZ0Nfb2dsTEU5enNzbWFWcnJYYXlIMHBYVDRQV2xtV0xNUFpMSUlfTDd6VlN1UGcyTjdZdmJCRGUzcUg3bExoYTBjZUdWVmdCdUlTcl90SUNKLUlCRTJPWmJQVWNaRUFxeXgtT1NRRXVmRjM5UnJmdTNMYTZSUG5wZmhaOENXV0JGR0RyMF8wSjRW?oc=5",
-          "published": "Mon, 01 Jun 2026 16:22:33 GMT"
-        },
-        {
-          "title": "Mehrkampf: Simon Ehammer gewinnt Götzis und bricht Rekorde - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUWp0bGUyN2NtaWNid1otTFRxa21YcUl4Uk5YLXlxdzhMYnRSeGlpU09DTG5CdTB1M25LT3dSZUk4M1pqYVp4SGxhSmZjQnNMYWkwemtHOXE5YmNacE05LUg2b0ZnVG9wa2ItbE1yMFRUel9temF3ckNPWXNhWURVX3MzbmVOREg1ZUxUTmtlS25yZkNsOTI2bkRNN2VvZEk4RG0tZXpHaEJHVVZTa0d5WWpReVhNRElZbnpCMTYtaS1Eanl0R3pubUc5Nm10N1Q4TzdiSmhJTFlVeTFqOHhvR2pvQmdxUFl3ZE9kSg?oc=5",
-          "published": "Mon, 01 Jun 2026 13:40:30 GMT"
-        },
-        {
-          "title": "Kessler gibt auf – Swiss Ice Hockey bereitet sich auf den Umbruch vor - Neue Zürcher Zeitung",
-          "publisher": "Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUlZobTlCSFNfLXZaZjBlSWNublJLN3F0d1czVUdqSDB2X2ZPQURpLTJ3YjV6ZWlubnlJc0Y0ZF9kYjZPWldDTlpUU3dCeDRMMkUwamJWYnlIc0JZUHdaazEzNDN4bm5yemJBQnJhcE5HM082SU0zQlZFQUk5UnJMVlpTLTZZcDc1QjB5MTFrOEtLSHBHLV9kZWxqWVZmQk01TTNuN3dYRVM0RkNVTjktX2VlSmctVWhQVEdBU1hUeGYzOE4yTlo2b0lyWXNUYkpJNGwwR2otVVREeXhFN1FRLTF2bkhiWGFrNmVnZ0tKU1d2dDBDOWhlNzluZDk0MWlmaThmWk1TdlE?oc=5",
-          "published": "Mon, 01 Jun 2026 10:39:22 GMT"
-        },
-        {
-          "title": "Am Dienstag geht's in die USA - WM-Abenteuer: Die Schweizer Nati und die Ruhe vor dem Aufbruch - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORHNMX2lzT3kzYjYxbUlKbm9vZlB5VlRMcjd5MDRheWZxWE5RNS1zTi1sdDB6WWE5c3lCNzNUWDRlLXNyckJPcTVKLU5feEo0YUxFNkI5TDNHallZTm5paGh5aUl3a2g5ZmpVNEU0UUVuZVBlNGZobkVVQThxLUJZMmxzbDBIcjRCeWdONmxEdVB4VUpaSDhlVHBUZkF1Rm9kMUJubFJpX3VfQVFBQTZndlFfUTF6UkRZQmlSQzRiMENRTnRrLWxxX0dZbTJ6a1dQdXdGNWJqc2dhcmQx?oc=5",
-          "published": "Mon, 01 Jun 2026 12:43:52 GMT"
-        },
-        {
-          "title": "FC St.Gallen 1879 verpflichtet Leon Frokaj - FC St.Gallen 1879",
-          "publisher": "FC St.Gallen 1879",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pSDFHb0c2UWVkZWYyYzRUYkRZU3JPV0NnaklFTUY5ZER4cU9vTi1ZeVZoR1VnSEhoUDlmd1hVSGxMaDY5ck1iQ1RGb0p5aWlZbERic1ptdHBjTElWYk5SVzl6b3d1cjRkTjBVYWNsalZQU3BlWFlma0lJVXA?oc=5",
-          "published": "Mon, 01 Jun 2026 10:02:49 GMT"
-        }
-      ]
-    },
-    {
-      "id": "science_tech",
-      "label": "Science & Technology",
-      "items": [
-        {
-          "title": "SpaceX-Aktien kommen an den Markt: Zugreifen oder sein lassen? - Cash",
-          "publisher": "Cash",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTlIMEVNOU11UklaRWtxcW5nTVc4VlNvZS1McnFqdXlzVVAwWlk3dkNoTzg0aGxDXzhuYlNPQjZxM3hyWm14X1JvSVFwMkpfMlNSZlpSUTdtSGZ4UHJkRlNrSnhDcktHWXJsYUhhQXJ1Q3VDWlJLbVBZcFlBb0VCaV9LUFZnRjVPNEVyZVdmeHpfV3IyMGVnVi1nYzBGNTQxTkxJ?oc=5",
-          "published": "Mon, 01 Jun 2026 15:51:57 GMT"
-        },
-        {
-          "title": "Nvidia-CEO verspricht: «Der PC wird nach 40 Jahren neu erfunden» - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWs2NFgxXzEwd1duXzUzSlRNNjUzRms3Rk44UXRFMFhCWGlHMk5DTHUtZk9RdkhRRkxMakNDa3RzTzdQTUtsc05XSDFzZzRoQXg1Szk5Z1VuMUJwRFlrbHlzQzhRM0YzMnFQTkNDZGQ2R3VROEVLUTBqWFVNZHFDb0dJY1MtNHlVclBnSEZySzlKVFRBVUxPdg?oc=5",
-          "published": "Mon, 01 Jun 2026 15:12:59 GMT"
-        },
-        {
-          "title": "Wer steckt hinter dem spektakulären Louvre-Coup? - blue News",
-          "publisher": "blue News",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR1E5SW1iQUJZQ21pbDJncHJvRlF6MVFXWXZhSnp5V3MzMEYzYlp4WHRKM05sVHA5cFRSeEZ0a1pwQnByZnNCaHMzbHNlS3Z5VGNaSldWejdIY2pqX19ocUVnaXRzTFRSNTc3QzU1ZFJmaGpSS0FxS1JJT1E0MEdydkpKS0NGZFMzMUtOcVNjRktUdUczM3IxN3A5SVhtYXFMR0tqZnE1Y3ZCWTA0eV9CSmVoWHI?oc=5",
-          "published": "Mon, 01 Jun 2026 18:18:00 GMT"
-        },
-        {
-          "title": "KI-Psychosen und Vampire - Inside Paradeplatz",
-          "publisher": "Inside Paradeplatz",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aMmlZSGxnNWhvdkppR05HQWRXS0RGV05ZTE9LODFQakdPaFRxS2lZclMxRURDYk01RW1vbXVfVmlBa0xRUGtJM2hRMkdoQ045ZjE5TGdVeUJ4ejhuNThHd1hMOW5uX21KOXplYTFqMUFtcUk?oc=5",
-          "published": "Sat, 30 May 2026 09:13:46 GMT"
-        },
-        {
-          "title": "KI-Boom: Erin Brockovich macht die Rechenzentren zur Zielscheibe - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVGFhbWVWdG43LTItaWRRaDhGbVRlelpRSkg5ZnFuUWRvU3g2SGZ5WUQ3ZW1VRkRHUHBpVUJNVWxrSTE3UThEWmpKdVFMV2VPNDloUW1UcWw1OTZDTF85Q2tsQWVUYnhaTC1jcEJZT1BBVW1rWWpuZFlCTzZYd3BUVXFvZ3BEZzNGT2FlVUVUTkxUb2dIRzFEVHpCNXFKLWdn?oc=5",
-          "published": "Mon, 01 Jun 2026 15:04:37 GMT"
-        }
-      ]
-    },
-    {
       "id": "football",
       "label": "Football (Global)",
       "items": [
         {
-          "title": "I've dedicated my career to soccer. I'm boycotting this World Cup. - Religion News Service",
-          "publisher": "Religion News Service",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcTBadkRXanp6aDVvUU9KM0hZVVBLODM3djZBdWQxdXpxQi1VQXRJel9NT0wzdm5QZk1aTzYxRmVjTkJxU2Nuc242aWM1Yldkd1F4aHRLR2xIMWR4SWFjWTZXTUsyU3MwdlRIdzMyRUZlZk9LeDg2b1VTOWxMcVJLUWtzWkw5TlhlbDJ1MzdwU0g3MTBUMEN0YXdlb0M1Y250?oc=5",
-          "published": "Mon, 01 Jun 2026 21:57:44 GMT"
+          "title": "Music and the Football World Cup Are on the Same Team - San Francisco Classical Voice",
+          "publisher": "San Francisco Classical Voice",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOemFIVnVTRDJaTlN1b3I3QThpeTRvdUhWdFF2aWV3RXlwYlprMXdoYllCQWhwekdBLUtwWldTOHBVb3N0a3QzVTU4b2VYOUtfYUN2WmZpUGg4ZkRING1iUl9ILVNoLTNwLW9pdk1fQUVBUHdwVTFBZm9wajhiU09xVDdtX2xVUFRQcVJz?oc=5",
+          "published": "Tue, 02 Jun 2026 23:26:10 GMT"
         },
         {
-          "title": "USA at the 2026 World Cup: Schedule, results, how to watch, news, analysis, injuries, more - ESPN",
+          "title": "2026 World Cup schedule: Qualified teams, groups, match dates, fixtures, how to watch - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1hHd3NjSnNnWWluMkxPWEUtOEduZWdMWmRnaWxJSWhZU0lxM1ZNY3dSTjREdnV1Z2Fxckhvam93Szgzc09SUVpFZHRiWjBLYVVQWW1qUVpYVU5VZnU5RXllQm8tTlZNNzZEdmx1OC1PR29EMW1SNFc0NTNmZ0xpY2trTTFJMW80VVlGTTg1WnBzU0F4QmR3dFpIbWdHUXJ3Rmo5VlY0VkhrOHUyTG16STROZWNob29yTGV3UkF0U05GcGMwNVBzQXU4TkVvR0pS?oc=5",
+          "published": "Tue, 02 Jun 2026 21:38:56 GMT"
+        },
+        {
+          "title": "Major League Soccer Sets Record with 44 Players Named to FIFA World Cup 2026™ Squads - MLSNEXTPro.com",
+          "publisher": "MLSNEXTPro.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSU0zOW5PU3VjQkZ2anIyTTRtWHROV2hBRGtvWGRWVl93aVdMN2UyVG0zXzNzcmpiTTRxZmxZdG1VdmlGbzEwRk1RWjYtbjVZUTJIUElzUjRFU1c0eDRQZ3Y0M3paemVtZExXVERpa2xkS0NWTGJnQmxjQWZuT3gtQnh1a1FodEZhc1lBSFR0OUdDNXRGdDU3bl82bW1XTHlJQ0ZHb3JGdWhxQ2I5OGxFTUZsRGhiRlpC?oc=5",
+          "published": "Tue, 02 Jun 2026 17:04:03 GMT"
+        },
+        {
+          "title": "2026 World Cup: List of squads, players announced so far - ESPN",
           "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPek9fcnhQZmxLOENPVjBCb0RqU21QSkg1amNpb3l2TWJJeUtJaldXSU5tVXFDVXd1OVVnVld3TmhieVNfQ0VqMVZQTU5ZSDcxYW05c3k3TXVWcUFhZzZBSkh3RU1zZUlQeGp1cktGT3FfSGluS1ljMElYMGktSkNmaWwyLU5rczc4bThQUTZwOXdHSHNhZWJfUm5iVU9VVHlZcExWYXo3RDV6ck5PRVI0b3RHV1BaalBjdmJfTVV6bi14NDVIQ2sxVDVKNjZTRFBHaGRzc0VFZw?oc=5",
-          "published": "Mon, 01 Jun 2026 20:47:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYllPTzV1Y2xXOS1VZTR3cWRFY05lSEplR0lxSE1XTnhwRUxVVjdadWpVdEV2S05XSUU2dlNKTkNURmh2RjhlNEprZy1YYlRDREZpNnFBZGdLSUVVVGNyMUlrazRoeXhUbmZtRXhheHl2bW5ScmhBQ3doOG5xQnFudE9Ca3JCaU9lMHFGR2tsZUhTaUNEU3JJVW15b3BXb0JvMC1JYzNLWWE?oc=5",
+          "published": "Tue, 02 Jun 2026 17:01:00 GMT"
         },
         {
-          "title": "Welcome to a new World Cup series: The Language of Soccer - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGtwN3NzUmRucVdNSFg3UEVBVWRmNWhYRWNOTm42d1E4QTZzRVB3dnNrYU5uek5kdDJ3V2ZmLTM2d0ZpdGU0UXRQeUp1YnZJZ1RVZXRtRHAyV3RxRkktVmFSeGpjejYwSmwwcW9waU5NdzRGV1owVkpXS3BFTVk1bGhZUVpINWRi?oc=5",
-          "published": "Mon, 01 Jun 2026 14:00:00 GMT"
-        },
-        {
-          "title": "How big are World Cup soccer pitches? Breaking down the field dimensions in 2026 - NBC Boston",
-          "publisher": "NBC Boston",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1dKOGhuYTlrUTFPR2lUay00MkxLUWZWbExjY3VWamxsNVZhQUZuYUpfb0VuaW00eEZpZkRqdmExTHFKOTBsMkwtWnZDci1rSjlxamhqX180TjNOSU1ON1NjSy1iLUFDMHBQOXh3Ylh2bTZNZGJtbXFTVXNiU1NkSGFSSExhblI1M3BMQ3M1dFnSAZgBQVVfeXFMUEVUazZzcVV3VmlpdWc0U1FJZjBpNTkwMHcwNGxKVU94THFPakpMaFRTT0hCWG1UMG52NTJNWXhMc0VNOGJzWFdwVmFwVVJSM0p5eEFJdHdoZDcwUV9wVWprWVNhckVnRGI4OE85cWdYSEkyS0VZUHExM1Q1Zk12SGtVU0hGWm1MeTlqbDNXVllERWdLaHdZVk8?oc=5",
-          "published": "Mon, 01 Jun 2026 18:27:07 GMT"
-        },
-        {
-          "title": "Toronto police seize $2.5 million worth of fake soccer gear ahead of World Cup - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSFh1eVRZVW1tNklGczF0SldCUDRDN1JkYUdseFVhVTBCcGZQQUtqcUFUOEZ1SnJGVUphVEprcS1pbUNhXzdHa2VJQ0VtZDBQemh6Y0pPZ1NjdVBtRGJRTlVxQkQxY08yejBhV29qTzF2OVpoMm5oOVVOd3NlZDFCdXBmSENRdU8xMXE3cUZHYnY4RTZqODRkRnpUYl9uVzRnUERBd3VOX2wwWEZYLUZQMW5yQlNQSkNFcWo0dw?oc=5",
-          "published": "Mon, 01 Jun 2026 21:52:38 GMT"
+          "title": "Before the World Cup: Seattle's long love affair with soccer - Seattle Refined",
+          "publisher": "Seattle Refined",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObDh3VkRaTGJoZTRuTzE5bWtaejYtUnR5LUN1bDk1WkEwT1NuTjU4SVphWU9BUDYwVHBxVjF3TE9DOXFpS0ZaSDRhYkRPZjVuYW91Y3BfVFdXbGxaa2ZsYVF0dU9TUkZhTWZmVmtVTVE3NnRaNFN3dEJpcWdMOGZnaDJ3SDRaZEN3bUxVd0hvdExDMF9nWkhzMFloeXYzb0ZucmhKVXRUY2JOel94eGtiM2hNeUIxWGs4eFJrTVRjUElfY1VRSnNsdURiZFVKTXRjZjAxSjdxb0w2OXNwVWZwT2dmSDN3RDlLLXVJWVVzc3Bfb2FRRnhhbw?oc=5",
+          "published": "Tue, 02 Jun 2026 22:52:11 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Report: Scott Pelley of '60 Minutes' accuses CBS News head Bari Weiss of 'murdering' the show - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGpkTUhQd3lkR2UzQmdkQWtoRkdwRW9KcWNETXFHbXFCVnRoZTNPejZIcER3NEVzWmtpdlQ2WG51ZUN4LWQ5TF9MbFdUcVU3UVUybUc1UlFVNUQwVHdSVFFzLWtPR3U3ZlZxLTJ4UmtacHh0R1BjYXFBWjRpczJ3b3c1UXBKY190M0JSWm05d3lEZlJreEpCSlB5WHgtWFU?oc=5",
-          "published": "Mon, 01 Jun 2026 20:58:00 GMT"
+          "title": "Zendaya's Mom Reacts to “Euphoria ”Finale with Cryptic Post: 'I'm Gonna Keep My Thoughts to Myself' - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRktTVXpobmxleHJySnRHWjhUZjNpZXBLRjhyMG91bmJaMG01cEVVU0NtU0xBLXlMV1pQVENLOXI0MHQ2cnpNOUkyY1JzcFZwVmsySmZNcmVNZlJJcUlHZFd4TVpKemxaV0VBNDFfQm9IZEJEN3BWWUpGX3UyRkEteHJJOXVWRFhyLXZUb1dEd3hzZVhVbGVXUUkwdkxXejg?oc=5",
+          "published": "Tue, 02 Jun 2026 14:17:53 GMT"
         },
         {
-          "title": "'Euphoria' creator reveals if season 3 ending was series finale after shocking death - Entertainment Weekly",
-          "publisher": "Entertainment Weekly",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15ODVualVXODBWbzdLR2ZqdXZ2Yk1BTF8zNndUWE5HdkY3eVEtcUp6ODA1NzF4V3F2SGlqMXdrSURqSm15Q3Z5YXhCUGU0cjJfODhtbk1hemFWVWhaRFJabW5KLXNEdlFTOTdxT3Y1bw?oc=5",
-          "published": "Mon, 01 Jun 2026 13:31:04 GMT"
+          "title": "Peabo Bryson, Grammy-Winning R&B Singer, Dies at 75 - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3BmTEV5RS0zYk9wdG50NjRNcnBDWkNpQ0pjUkJYVHlJUWJkTlpubUFBV0tESGNMbVpvTU8yM00zeFJjRFRJcWFFcUVRZF96Zi1IMEd1YXB4UGFSZHhLTWdYdXFuOVp4NTF3eF9obFE2c1RweVhaYUlfNWxseTBMU3Z4TXBFN3NoamtLendHR3MxYmN0MGY3WnRUbXc3TnZ3bzNzek9QRUdEdFNfdXJNX2x5LWJwNGhz?oc=5",
+          "published": "Tue, 02 Jun 2026 22:46:20 GMT"
         },
         {
-          "title": "Taylor Swift Reveals Original Song for ‘Toy Story 5’: ‘I Knew It, I Knew You’ — a ‘Return to Country’ - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSThaOEF4TlZTa2ZtTGU5eEFVcFk1bDdJOGVsWFpkVVNvMi1XUHZwWnFiN1NmSW1XVm5kZmRHb1ZpUjlicEVfMUdzZmMtZ0l2dzltQnFGMVBQZEU3YkVfejRNdzZ3a2pDYVNubFY4ZVZXUkFlQnVQMHZ2WjQwTGJ5d3dkQXV6V3FJMEE?oc=5",
-          "published": "Mon, 01 Jun 2026 18:06:00 GMT"
+          "title": "‘Masters of the Universe’: What Critics Are Saying About the He-Man Movie Starring Nicholas Galitzine and Jared Leto - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0puWTFBb0tKTTRXQVlkd3JXR3psRWV0RENrckszYVFSa2NGdVhHWnZzbDNUVG9wZzZKMzJqMy12LTJwNlNwVWlJUmlDTUtTWWo1bXNZUFVIX1U4emp5bGYxakRvdU5XZF9PbG5fZGRrM1B4YVRCR3A4NzRub1FDU192aVF2ODNaby03UWFpUklLWjRZZjhpV2lnMHNudlBRSU03QWpQNG9GdEZ3dXZv?oc=5",
+          "published": "Tue, 02 Jun 2026 18:29:49 GMT"
         },
         {
-          "title": "Happy 100th Birthday, Marilyn Monroe! - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHpGQklkUWRPVWN5blJmZGRUSFd6U2d6YkR0Tk9sQ3FmVlEzLVlKbnMxa1N5U2FLWG16dWswUXBzZ0RiNHF0R2Nnc3dsc2w3SWZlSFdkNVNaMTl1bzRQYkpyN0RXRm5hRkQwSldNc21EN1Q0WGZhc0JNYk1SV0lqUw?oc=5",
-          "published": "Mon, 01 Jun 2026 19:55:32 GMT"
+          "title": "The Pitt Star Noah Wyle Was Glad He Remained Off Set While His Wife Shot Her Scenes - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWlkWUdtTVNVUUlDdjdqRHJtQmhsSUE0MWh5cDNxanBrTlFHR0RTcWs2ckxrYkZzZzR5aFd0T0I5UlhmdWVaS2pMbGE4VHo0bERrSURwWTMyakUtVGFpaUd1MHM4dUQ1ckpXWXpoY21WalVBSFd4YUZ0anRCX2ZibVNjcTNISE9ENldxOS1HdjQ?oc=5",
+          "published": "Tue, 02 Jun 2026 20:00:00 GMT"
         },
         {
-          "title": "Love Island USA removes Beaverton contestant before season premiere over alleged slur use - KATU",
-          "publisher": "KATU",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOS3pOeUhvOG1SMXlROTROcDNuMzNoek0zZXR3a09RTlVPNGJNdE5CLXhhNjVZZHN3YkpOQ3luZGs3Qlo0aEhlMHJQbTl4eWt1UWVlOUtvTXN2TE9laF9JUmZLTkRrbW0xY1plNkhtU0Vyam1GMGNSLXpSNlB3ei1rRUhMRXF0RUhDdkZwUGpaNlY1RDh1RVBqeV9PMkxhS1d1VWZ0aDEyODZuSlVzdVZ4V19KRFM4LUZwTkE2ZHFib2tjQlNjVUxGNGFic1lLTXBLNkQtbEFFYUxESy15Zlc1WGxGbUhKaGdsQ2Z5MQ?oc=5",
-          "published": "Mon, 01 Jun 2026 18:20:07 GMT"
+          "title": "Taylor Swift’s Former Pal Karlie Kloss Scores Wedding Invite, Beef Squashed - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2E3Z29xV3VleGJhRlV0N2ViemhmTXRpRFhvbE9rQ2dwSVBKV1dlRDdidDB4dy1LRGdTQ21RRk9mRG1QVkxaZUNMTGNKRHhBNGwwRW1IT3pWcnVKa2pWZHBnc3RhNU1GWjIxTWQ1cEFDWGJ5ZUQxODRQRktVelhabW5n?oc=5",
+          "published": "Tue, 02 Jun 2026 23:06:41 GMT"
         }
       ]
     }
