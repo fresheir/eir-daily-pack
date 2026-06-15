@@ -1,7 +1,7 @@
 {
   "market": "CH",
-  "generatedAt": "2026-06-14T23:08:56.963560Z",
-  "validForDate": "2026-06-14",
+  "generatedAt": "2026-06-15T23:44:28.736725Z",
+  "validForDate": "2026-06-15",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,10 +9,16 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Alle Resultate zu den Abstimmungen in der Schweiz vom 14. Juni 2026 - Neue Zürcher Zeitung",
-          "publisher": "Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTg1ZDFCZzNZNDJrNnNtR2E5ajJHT3daNDM0Nk1keHI4QlZNekZJQTJzSzRkRnV1WG9yYnRJNHJLTkJ0RHpES2tvTFZ5Y3ZZVXhuN1c2aWhuYlU0QWVMcDBwRmU5U3ZmcXZHT2c4SFB5WnJ1YjhlbE9hdDVUWWUtV0tsU2hnUmxsOUNkTHBtc3FDTGNOdWxEVHV2Rkd3ajdJMHV3R2JYc3A?oc=5",
-          "published": "Sun, 14 Jun 2026 17:47:13 GMT"
+          "title": "«Schweizer Brexit abgelehnt»: So berichten internationale Medien über das Nein zur SVP-Initiative - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYmduWTZscXBtUlNCVktWTjFqcVNhNVAxMWczQ3FEUmxpeVYwcXdmMHlSV0RhYVB0UVFGRDJRYWJCVWNNYTFkVWFDbmQ0Y1F6MVRJSjN2T1lMdlFoVDZLeXhlS0RpdHpYb19Id3F5UFZIMVFxTncyelBRRDJJS1JxdjZiT0pIZHdCOWRwczZxNTJfVU5NWlZhYksxb0UtZGtGX3dDWUlpSjEtdw?oc=5",
+          "published": "Mon, 15 Jun 2026 09:44:42 GMT"
+        },
+        {
+          "title": "AKW-Vorlage: Nationalrat schickt Gegenvorschlag zurück an Bundesrat - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkd0Q1RTdkkyeFhqeHNMSGttREs1OG9iOXR2YXVyaTI1TXFEaXFaUVNjaTJXWnNpTnRlY2tuVFV1SE1pbVBFSVZhM2JfWEpUdjZjcU82WU9zb3JVTHdGRkVsWDNMVTQ2V1B4c09vYTBGc1dVRWFhQVlQaDliN1BmMXBkSVNaZXp1T3BRQVoyLUhKT2NiX2RfbWdsdThFelhWRVpiTU16RkV0aHBCcTBOeVhqWEZjUE0?oc=5",
+          "published": "Mon, 15 Jun 2026 16:51:24 GMT"
         },
         {
           "title": "Referendum gescheitert: Schweiz stimmt für höhere Hürden für Zivildienst - SWI swissinfo.ch",
@@ -21,22 +27,16 @@
           "published": "Sun, 14 Jun 2026 14:20:00 GMT"
         },
         {
-          "title": "Nach dem Nein wächst die Sorge um ältere Wohnungen - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0xOa3p5OTJ1STNRU3A2WWR1NjlSenV0V0g4UTMtYjl0NVNldGVkOTRza2VYNVVZaFhIWWp0TzYxWGFUc2lVUUVMTWd0SnVlcElXVUI4OF93R21GcG5xWnRjdVFZSFJTQ1d5cU8zV0w4NmZkUnB1UzJWMkVncDRMbTRyTXBnTFJNRmdYRWZNX2FqRUh4VEE?oc=5",
-          "published": "Sun, 14 Jun 2026 16:42:00 GMT"
-        },
-        {
-          "title": "Wahlerfolg für Valérie Favre Accola: SVP zieht nach 18 Jahren wieder in die Bündner Regierung ein - Tages-Anzeiger",
+          "title": "Zürcher Wohnungs­initiativen scheitern, Ja zu Gegenvorschlägen: «Regierung muss jetzt Lösungen liefern» - Tages-Anzeiger",
           "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTll5SmJpNF9CYmNVTGRZR2h5Y3V3d1hseDYxRWRuUnRlYjhENEZ5dE0wS2tTaFliVHVxa2p3QXBSYTlvdzRDYmlCNmprUXppWTJsa21oajBZZm1RbTVaaFpMNENIWVZsbk1wVG93cC1FVlJzS3RvUF9MUUZjeGNWd0R5UHpmTkFnbWczSGtKMkF4S2NoNXB2eFdTaUc1V3ZtdEg3RFZuUlpOV1BEdEE?oc=5",
-          "published": "Sun, 14 Jun 2026 14:53:15 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQWNqdDFGUlRBNS1SZWQ0OVpIUzdrME5GVnkwejlQbnEyLVdLYkFCUVBWS1Fpc2ZlTDI2cS03RjlPNmFYTlhDZ3NnV29PY2pCaHQ0XzdpYW1UQzJBcXU4amNNdEZJLWFKWnRzV1hETmpCeC1nSTJ2STBIT1hOMFJkS1hsTVFGY0NDdzJaaHJQOHhWaGp0TS0yc1ZFeGJVNFdZcE5QTWtLSGJfaU4z?oc=5",
+          "published": "Sun, 14 Jun 2026 17:27:06 GMT"
         },
         {
-          "title": "Grosse Demonstration: Der Feministische Streik nimmt das Basler Stadtzentrum in Beschlag - Basler Zeitung",
-          "publisher": "Basler Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWm9SNFNVUGRpTE9maURLRG9qMlF5N1dIbmNoc2tpUmVrVFlTMHJkcThXUTU2NDBSOUNfLWNpS0M3Wkh4MVdJWkF3dkNYVzNmSW5CSlRQbmJXV29TQnVOUWFLcDJSeU0wdWhITDloZkk5OG95dXBraUdHT0pJb28waWxYVlNzRlFVbjlUeHc5cFR1LWhyNWc?oc=5",
-          "published": "Sun, 14 Jun 2026 14:39:01 GMT"
+          "title": "Wahlen in Thun: Jetzt kommts zum Duell zwischen SVP und Grünen - Berner Zeitung",
+          "publisher": "Berner Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnZKR1BDczVFRVo5VGNyVndTczlOeFY2cjlDU0NTSDNEYzhHcmZCZy1CMVFmc1BrYUtnMnVXbE9ISmVsdjhzMjNrVlNZU3RFdnc5bnhBc29TQ2diWng5M1dtUzdIVHg1NzZQU3lWNVAwVldVUVR3d1I3eVRPaXJ5QkppME5oQ3BtQ3FLR2lSNzVuUnUwWnhiTlpRdDNGZzV0MkM3a29sX2Y?oc=5",
+          "published": "Sun, 14 Jun 2026 13:21:20 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "G7-Gipfel: Tausende demonstrieren in Genf– Tesla in Brand gesetzt - Tages-Anzeiger",
+          "title": "Netanyahu ignoriert Trumps neuen Iran-Deal – und lässt weiter bombardieren - Tages-Anzeiger",
           "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWi1HOGNLMGVfR1ZHZm9IWU5JT01walF3RGcyeEFvcmJtREMza29rd3FRMVZ6TVBpdGJaUVBGTUJwZnVrSWI5ZGR5Tm9aR3A2enBvN2hsYTVUcjhIdnd2NEh1OFhla3c5LXhjTEtvRlpxYWxwdzJEZmpYM0djSERYSHRtY0otUDdSQnNzbEZiZmptZF9C?oc=5",
-          "published": "Sun, 14 Jun 2026 16:08:09 GMT"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ002Z1NpcFFyZWU5MFBDaF92cjg0QTdhc2pyMGZrMXg5ekZuUmlERElKcmtzT3RBMlZxUEdwVkh0LWxaNEVnTDVRNmxJOEJCTEVPenBuOTZycjBvcUlhS0NQLVRFUDhCdEdTdFQ0YjNLVHNCSnJRanZEUlhPVnYzRzAwdUFPeXl6UU1wWGlqcER3SUxCbFNfRDUxTEcyQQ?oc=5",
+          "published": "Mon, 15 Jun 2026 16:03:27 GMT"
         },
         {
-          "title": "Trotz möglichem Abkommen – kein Friede in Nahost in Sicht - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRC1Ia2JfVW4tSXZzZ0dkZFBIdGs5LTFiOGlXMTZrNlNPbGkwZVc0UVo2N0hpQzR6aTVXWi1SMy1KcXRCeHFJMWRFUWVlVVZ5S2cwMTBhNXJrZ0ZXdjhsdUJPT2MwalhqQWo3QTdGUjMwQ0prY2lkZEQ0aW5raWlCLXp1dXMwS2E5U09qcHpPV25rNmkyQjlBbnM0VnhWWWRtWllTYlRVR0szd2dHMmNNcUdkNm45Nnc2bDhBLXkzYw?oc=5",
-          "published": "Sat, 13 Jun 2026 19:45:00 GMT"
-        },
-        {
-          "title": "Fussball-WM: Wie haben sich die Schweizer gegen Katar geschlagen? - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMnRUelljWWs1Tmt4bGhNNHN1Q1dsV1VjNU1VUDM3NnZUY1NTblY0ZnZPc1d6eU1TS2VBdmhuUEdKNDh0bWhFUTlTMjZJX3gxbXNYTWFlQjZkQzYyMUQ3TWtjM3lLdHdSb0hoS3ZiRzdlZFpmM0VmMjh2TzBBTnNvLVFBUmh5U1VNRVB2SVZB?oc=5",
-          "published": "Sat, 13 Jun 2026 21:14:26 GMT"
-        },
-        {
-          "title": "Rückkehr von Geflüchteten: «Der Trend ist: Zuflucht wird unattraktiver» - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRk5NMFlzNUlwVzd5azdpWmJqNTBnYmVqWXhqSy1Ec1B3RTJiTUVJLUVCVHZXc3RSRHN6Y3h2Y1o4S1JzZWFtOU5kODRfR0luVTRHejJnRlFsa1h4VjB2TERCc3ZoUmhpVFJldzN2TmtUMGdjSnJjYmRfQmQtLWhWdkowSkJBeWpXVjJQY0dxMUJ3eEwtajdsTC12YU50cGpldFlQREtMWHBCcDFjTF81bnZ1RTAwQlBiZ1VNVnZHcVJkaDVJ?oc=5",
-          "published": "Sun, 14 Jun 2026 16:38:38 GMT"
-        },
-        {
-          "title": "Donald Trump und MMA: Der Kampfsport erobert die Schweiz – und polarisiert - Neue Zürcher Zeitung",
+          "title": "Trotz Trump und Iran-Krieg: Macron wirbt beim G-7-Gipfel in Évian für mehr Multilateralismus - Neue Zürcher Zeitung",
           "publisher": "Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeHRuZGd0aHVFZ09lNFRLV0VYbVF1U2pqOElnMXB0WTR3WW44NWx4bG1CMWpQcHBteUE1bEUzdGljVjdGNHhOOS1fQWgwTzE5X3ZXLTB3V1VMbXAtbDRrYTlEQWZrZkVQTDJBSGJUMV9pLVllQUxBTFpVLV9kazVFcFNwR3loT3lnb0RHZ1R5UmtHaENLcnpVYzhGMWlzNG1xSW5vSmIyUWVqZVlOVmxjd1RUVElIWGNFbUhiMDNoaWZRaGVDdm11ek5wSGVFR0FGVWh3NEx2TmFEdWwwX09yME5wa2c3WXh0THVaa2hFY0hVaFd0TUhpYUJOQzdOdlJWY0pWTzZSRExOZy05Z2c?oc=5",
-          "published": "Sun, 14 Jun 2026 03:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUhua21KWEJWRzhhOGpCanlOb1V1NVhtNVV2SjBmMXVGR3czRko4VGFOaWMyM0l0Z0tIQkQxSHhiSThIOFJqRnNzUnhTa1JiTmktVHU1Vy1nMEV1S2RDM3ZSTlV2ZE14cGNER2dDWDhZcEQzaUo5SC1MTTV2VERoSzhHM3RuSWlNM1RJRUtJblRsMHpFYnFDSGRnTUZvb3hSVTRnbWh3?oc=5",
+          "published": "Mon, 15 Jun 2026 03:30:00 GMT"
+        },
+        {
+          "title": "Krieg im Iran - Trotz Absichtserklärung: Israel plant keinen Rückzug aus Libanon - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVVaSEtOQmd4UEdRdDZsY3R6Mm9UWHFLRWhDZTRNOVd1OV8zX0NvOGptM2NKZEFPNDRoNW9qdzFLU19SWnZfd0Q2bnRsbTFLbUZSZlNCbnJQWVBoS1pVbVo4MmRQaXJPc0ZQbGZuc042T3ljT0hneHlVOTJqbmR6dUE1OHJOdXMxVjFSRk1ZOHNjWDJ4NWVTeklBVzZhU19BYl9PMGpDRUs3U0l3ZWktRktXQmRoc3pZbmZwVmVram5Ldw?oc=5",
+          "published": "Mon, 15 Jun 2026 12:11:05 GMT"
+        },
+        {
+          "title": "EU beginnt Beitrittsverhandlungen mit Ukraine - Watson",
+          "publisher": "Watson",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM2xzZUdMMF9LZDhFbEFxSEltQXN0STZJVm5uSWcwdFc3aHhnWDBuelZiNVEyNHdQdWExVFYxdXRSS3Z4NTlBWHBFT08wZ25OQ3RBWC1JcG5yYjUtNUpaaFdNTm83ZzZIU2VrTEN2WkRzb25ybDVvWWl0TTFuOHV5UEdPS1pacHAtU0Iyd2pUNXE5Ql95M3kyZ2dR?oc=5",
+          "published": "Mon, 15 Jun 2026 17:42:57 GMT"
+        },
+        {
+          "title": "Ist er eingenickt? Über diese Momente von Trumps Geburtstags­feier lacht das Internet - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMk5wb3Zoc1haSDRpTXpBd2NRLW5uOFEtaHplTWJVd2tMaEVPZ2o4WVI4TllvY0JBWkc4b0VBNkNlNW1feGpGWVN4c3dncVVKcUFxdTFnLWdOSm1GcjF2aWQzaE9UQ0JBMFltbGowRkhRTzlyTHlqejRfYmFXbmp1VWxyaG5DRHJweHQ0THRiNlFLUDBVMkh3OVdGc01tUW0xWTExWU93?oc=5",
+          "published": "Mon, 15 Jun 2026 12:32:02 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Schweizer Tech-Firmen profitieren vom Rummel um SpaceX - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeW9IQjZzQVdIS1hxRllJMkFWQWd6aFJxMDVNMDRFM2JGMDRxcEJiUGw2enpDSE42SExxM2VKaDdwWlpoYzBVaU5JVktQTl9Nd1g5UGw1ZDFoLXVjUDZHREY0Rk0yN0hfRTV6R0laTmVJUXgtOU9vaEhFay05cnR4S0hXajhmak5NRnZTaUwxWVF5ZFN3cXZsX0doMUQ2NWdZekJZd0JsSGg4UFBWdHkta3YzZi01Zm11WFNxVDlB?oc=5",
-          "published": "Sat, 13 Jun 2026 14:32:17 GMT"
+          "title": "Was der Deal zwischen den USA und Iran für die Börsen bedeutet - The Market – Analysen und Hintergründe aus der Wirtschaft",
+          "publisher": "The Market – Analysen und Hintergründe aus der Wirtschaft",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTEgtSjVxYUJ5SzlpbE5yNkV2RWptaFJXV2dsX0NpVHlSRGpfTEEyY01jeVRSZkNBeW43aXhIX09zZUJyU2I1UzY1dzdqN1I2SjJqV0RFNFdHU0YzUldGN0JYNGlRT1NIdG9TZmdldzNOMXZQRzdhUnNmYkY4dHQzY19SZmVERmhRa1h5R2NUWUZjSlg5LTBFWjl3Q1lBeGFwTnBraTZRX1ZaczNV?oc=5",
+          "published": "Mon, 15 Jun 2026 16:01:23 GMT"
         },
         {
-          "title": "Claude Fable zu gefährlich? USA sperren Zugang zu KI-Modell - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQjNxOGF3VXIxb3ZPUGNPcE9BMDNWampxeEFMbkxHZTU3TUdPUC1WSnREOHV2QzlSWTByVlZ1Wlc0QzhNcTNVTVZMbEdFN0JlZzZlMVA0SFpFRmZRd2ZUaU11Z2pVYWVLMEUwS0lvLUEzMHVVN3pPMEZGRHZTbGlhNnNYSHBhVTJWMGFjcno1cHhDX1Y5aVI2X0MtckUyWURsZmk0N0JScGNaNWEtMzNiTlpYR05iajQ3blFjY1RHZUYyNG9UTXZ4OGFWOFlsSURRS2c?oc=5",
-          "published": "Sat, 13 Jun 2026 07:58:30 GMT"
+          "title": "Claude-Modelle gestoppt: Was bedeutet das für Nutzer und Firmen? - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjZWZVVmTXNKTFdkakViU3RWN01pQjFnSVFUZWtjOHVjNDV3d1V5ZFNoa3ZEaFdtVGRTTEJqbXFGVGU0amFEdzlOQnhsYlVPT0hidW5yWVB3MVljS20xcnktUXYzMUJYUjVZdXBhMUxxd25IR1p0VlVSZ2habmZoWFVoWlNvY3JHQkhoYkpQSjMxa2xudExxNGI4OEJSaG5qeFlrQmRsX20?oc=5",
+          "published": "Mon, 15 Jun 2026 13:57:46 GMT"
         },
         {
-          "title": "«Würden gerne mehr in günstigen Wohnraum investieren» - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR0RfU19VVXhNSlRidk5GcG5pbmViWmFHMldGTHVVWjFyMkZVYXctSTJfMGhEblFoZTR5T2NUMTlWNmY0LVhyc0JHWjQxSUFmeVdmdl96WXVHbmZIQVo1bThiczBIaEZrR2ZGdlNhMldaT1NFTklEcFZHck4yejNWMWZqb0pPWGlMVGVzU3p3NXNFNlQtMVMzUkJ3MVF3akVoM0N3OWpwQ3ZIZ015aXZ1MWpLa0Y?oc=5",
-          "published": "Sat, 13 Jun 2026 19:10:03 GMT"
+          "title": "Markus verkauft seine Jacht für nur 1 Franken auf Ricardo - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVU1QNkJiRGNoVk9Zc09ZQkV6TmtuZ0pkdjQxelhieWdwbWN2NUw3Qm5MWDJoS080VXJvOU1lcXYzaGloR2ZDY1UyaXkwZmVaSkVVY3I4RW5LMlJWczA2TG1xVnZUb3ZpOTAxRlo5N0FpeGZYRk8wbzhoeTlPSi12cXNhVTNlR1BpUW5IU2U2MjNaS3g2LTZaaU9TQlJIUWdRY3c?oc=5",
+          "published": "Mon, 15 Jun 2026 17:01:18 GMT"
         },
         {
-          "title": "KPMG-Bericht über KI-Vorteile bei SBB ist voller KI-Halluzinationen - Watson",
-          "publisher": "Watson",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXFwQ2QyS3p0V3ktQnlvVjY2cUFNdVNfVHpYc3BYZlhVc2M2eXBSQ3JNR3JaQzB3Mmh6dk1VUU5WT21MRkhQdDlFaXdCRERqR0Q0NHg3b3d1ckZjbmtBSmgyb3F6ZU5EZ2N5dnoydmNydVlGSU53cVF6eW1uS0dzRUVBYi1XX185ZW5KVHNhWUlaazhpWUVXLXplX0V1SlJuQ2djSzZsUjB0ZS1hTTktWWZ3?oc=5",
-          "published": "Sat, 13 Jun 2026 06:04:20 GMT"
+          "title": "Awards: Das sind die Gewinner des Pensionskassen-Ratings 2026 - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTc0UHIxUlpNTWVxMmZUWkpMM0hDQ0tIOUlwV1VtZWdXVzE2UjZKSEppUUduVW05V0Jsa3pnQXRqT3RRSzRCQkZEbmJacUVHNUJ1eWRHTTVfNWlsdnlMUkRkMFZEQzQtdE96cEJ3UFg1dzVpLUJ4TzkySTJlbmR4cGo3UXJkYXhpUzVZaGpzZw?oc=5",
+          "published": "Mon, 15 Jun 2026 09:22:02 GMT"
         },
         {
-          "title": "Vorräte bald aufgebraucht: Ölkonzerne warnen Trump - Watson",
-          "publisher": "Watson",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXlfalRBQVlEdmlGSURmZk5nSXUwU0V6NDRWU3VnengtLW9jQ1diTkdtZHNOWHF3cTY4S2tWbDg1SmVBanNSY1Zqc3AyeG0tT25MSlJrSXpOZl9BbXN4X29RdTFmZzFpY3YweDVTUTAxaHNxZGxNX1NKWVlFdEtXbzJIeUxfV2ZVOEJnbU9nbTZZRnhaUHE4Ykdhck5hSnlJaDAw?oc=5",
-          "published": "Sun, 14 Jun 2026 02:51:28 GMT"
+          "title": "Börsen-Ticker: SMI von Schwergewichten ausgebremst, Holcim, AMS Osram, Belimo legen zu - Finanz und Wirtschaft",
+          "publisher": "Finanz und Wirtschaft",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwMFVOcElpNjdfYnRfNWNDOEpCUnRoVUkyWVlSTjZHVkhWWDAtR241ZXVtS1FlWG9helBZOWkyTEFaZGxfalV4TlRVNWY2OXFscnhVM3VBM1QwQTZMWlpjZFhHblpYblR2Q2dkRA?oc=5",
+          "published": "Mon, 15 Jun 2026 05:12:10 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "WM 2026: Die Schweiz dominiert Katar und kassiert spät das 1:1 - Neue Zürcher Zeitung",
-          "publisher": "Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVRBMktHcG9vWFNOSjlQWUd2cWdiRkhla0R4MVgwRjF2Tm5remxtWnRlRzlwanZVSUtfR3hLQ2hLYWtkUm1xY3EwenRyX083NW1UdHU4cXd4WGRWNDIyZnN0TjhvcEs4SlpBdm9FTVA0MmRKWjBOaGFMUk5OcFFDajhTLS1oR0xfVnRHRmFNSVEybUJiU0ZhM1dOLVpuS1E?oc=5",
-          "published": "Sat, 13 Jun 2026 21:30:01 GMT"
-        },
-        {
-          "title": "Schwingen: Resultate nach drei Gängen auf dem Stoos und in Gstaad - sport.ch",
-          "publisher": "sport.ch",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZi1qcHNoWGk2UnluTDI2aXQwZExXNy1nY1F1b3lPWXpPbDl2cFhIRnl0MFM1NHdvUzR4cU5DQy1uaEd4cDFsTHRLVWpPcjU4STNzQk5pT2VNOWtrcmFheG1fTTEzeUR3aXNQWW41MWZuNkxlMVJsckJYc0RSWGFCWmtRWWFRV1ZYb0NhSjBzcXlpVXBRV1lRbnlsUW9rSjIzbnk4NFZ1cHhqeHo4WE5WRmktUmlGYXBEaVB1VXNRREdxTDJkZFdlNnpBN2M4RzBUVEFhSVVVQkNNODBBZ1NVOWkzdGU?oc=5",
-          "published": "Sun, 14 Jun 2026 10:41:05 GMT"
-        },
-        {
-          "title": "Cross Country in Leogang - Schweizer Mountainbiker gehen für einmal leer aus - SRF",
+          "title": "NHL: Erfolgscoach von Carolina - Was lange währt, wird endlich gut – Brind'Amour hat es geschafft - SRF",
           "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdUZUcjNCZXJhdHFNWU84WU91YXpaczJZTmwwTW1jRmFaZGh1OUdidHpiTl9kM182bVFBN0FUeThkTVFtbTJZX2tNZnJOU1FjMU9iNDlfOUVFVUNZMmFYemZGYS15S2g5YmQ3N3VIaG9uaFBjN1pJcGxtZFFsVVZXU0szTmt6WW10bEdOWFZyNnhkVGd0S3pqM3hMTEsyOG1GTjdsNVl2a3B4bXY1SUtLRkZIb1U5WGNrajRVSklYZ2w3M21DNkE0?oc=5",
-          "published": "Sun, 14 Jun 2026 13:23:17 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcDllbkFwZmZneUx3NzJIZEc3UXVQVU4xOF9PdXZoS0pEdF81aXBaeUo4Y05RX1JtQmhLbVUwLXlraVNXeElubUpBLVpDN0YwaXZ2Y2hmb2pvT2NXZzRtV2c4UFlLaWh3TGtIWU1hT2gzMl9LdURoYWhfVGZpQkdwTjdMZ1hkbzNIRkt0bnRVcU5IRUk2UEJjbW5JQTZ4ZUNSY0JSNVVwOGpvcDZOU1RQbzNkd3pyaGprMDhKTllrVEhmUERFVFhxVGhWOA?oc=5",
+          "published": "Mon, 15 Jun 2026 08:26:21 GMT"
         },
         {
-          "title": "Nati-Stürmer Biasca verlässt Fribourg Richtung NHL - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc3llcjhBVklQM2tmams2SEtWYkZwRUlPMG11czNScHg5Nk15TXJ3bFZTVXZoQTBjUXEtazFFelI4TkpXcmFmRVNRaXN5cVFnSm1hbzhiMVR6ejJtcnZOUkNQVFFvb0VQN09aaUdTZzVDdnBRVExlMlU2R1dtZWhNYmozcDdCQ0xRTWNiU1NsUl9Lc1lNMUVPT3JId1UtYTFZM1c3cldrYU1iT3U0M0V4d0ZwMWkxU3hwdS1DNUpINFRBS05RSVhIbVRnOHRZaDQ?oc=5",
-          "published": "Sun, 14 Jun 2026 09:59:18 GMT"
-        },
-        {
-          "title": "Mit Video: Inklusive Schönheitsfehler: DFB-Elf startet mit Kantersieg in die WM - kicker.ch",
+          "title": "Sensation in Gruppe H: WM-Neuling Kap Verde punktet gegen Spanien - kicker.ch",
           "publisher": "kicker.ch",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcE9ERnl0alpPZW5uQlFUbnJPMmFfNUl1azUyVVdKM3M4dTd2VFlnNFdUQ2lUVU5NTEd6Qm92blhTbTctNkRPQ0MtVnZab0NzM2NHNVVKLW9aSDAzZ1dlSndoMkxYNVE4RWtOd2pxTXRJbjQ3bko2cVZTTTVfMndZYVl6dE5CZG5IMDN1YWR2TFpNRnZBWWc?oc=5",
-          "published": "Sun, 14 Jun 2026 18:58:58 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVJzM0JGUjhCMWE2b1lKTWlnUWZCYUY1UHh2VFpSeWs0Vmp6WkJxN18tTEF6Y1lyV2dKTm9WSTNIY3o2bjAySk1mM00tVjZxdW9iT0Q1aWVSMExxLTdkN0hKSm45YzdHMWN1aDFKT0ZqSmxtLXhDM1NGaVZkeVJrYlFLUFZfWnM2aEVlc1RjMnJ0OG8?oc=5",
+          "published": "Mon, 15 Jun 2026 18:16:54 GMT"
+        },
+        {
+          "title": "«Ich bin keine GC-Legende – ich bin Zürcher» - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUNpMlhjQ0hnZm90ZjdrbGc5ZXhySFBUeTBDaDZzWDFrd0xjdDZQcnBsdEZVbDZIRkw2ZVE1dGNLbXlMdDVwVzd0YjU4d3BVdzFIZ2RTYjdYQTlVd2pRa2RuTkNEc1lsVEF1Q3FVTDgzQkxBQ3QycmNLZFBNNGFCdTdsamR2RUVVOTRETm15MWRVREZSOWx0cDdTWWNNdURsc1E2RWpfQWhEaFlHbE5DTkJPZFA?oc=5",
+          "published": "Mon, 15 Jun 2026 15:14:17 GMT"
+        },
+        {
+          "title": "Nach dem 1:1 gegen Katar muss Murat Yakin sich fragen, ob er dem Team zu viel zumutet - Neue Zürcher Zeitung",
+          "publisher": "Neue Zürcher Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaHJpS2xka3FBTEVUaTBhNjdnMzhKSVlreHYxX25mSWZKZE94emZ4dGRRV3NmRFI3dnhPODdHeFE0ZWhlVEFpNnE2TUQxN3cyV1ZEZlBOaXNxQkgtWHVTVDVZcTBlWU1YdFpkRUg4Y1Q1ME5hS2ZIdFVZZ0VJUVd5WlBWZG1MZlJvd1JVUDBuYmU1bWFrV2Z0TWZkNVRscWlycmx4UkJrYUV0UTFYSV80c255SXA2eDVqWnZRZzYtYWdMVlEyd2VKbXo1T3o4MjVPZXNkZENFRnFWSnNNMUdF?oc=5",
+          "published": "Mon, 15 Jun 2026 05:21:36 GMT"
+        },
+        {
+          "title": "Drei Leihrückkehrer und zwei neue Profis bei Meister Thun - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHJ4WGVDbHN0dGVMYkd6VzBqN25WQXpuMWQtTlc4LUxGbzNobXkyaHRKeVdhWG9TY25MbXFZQ0tHY3hhajFVZFM5U2ZUc1NmNGJONEhZWXlsOXJCeTdQdUZ4ZTdodWx0Z3hpcHlWTlUwc290VGpfVjZPRHI0MGJ3WUxPNHFkYlZKWmtMdjhSdHRHMzNtYjFFSW9iR1RrUmZNc0JuRWRuU3BxcW1YYkd3Z1plY3RPdzc5WGVPWnVtSm5fUzN3Q04wUEM3cw?oc=5",
+          "published": "Mon, 15 Jun 2026 09:51:59 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "„Claude“: 3 Tage KI-Wunder, dann zieht Trump Stecker - Inside Paradeplatz",
-          "publisher": "Inside Paradeplatz",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzR4dFJTNTdyUmhLYkdVRlhWUGdjcFpQWGVaaTM1RFpuY2RQa3dscEpmSHBkU1ZhdGQ3Rlk3SkFhRy1ydGpyeUFIVGpYNmhrQVM4dU1KMWl6YWJnZ28zTkNxSW5QUjVZVUNvalBkT1E4UFBtQ21uR0lTZlptWEloVW56djZKZDA4WUoxR0JZSnpLeUk?oc=5",
-          "published": "Sat, 13 Jun 2026 10:32:23 GMT"
-        },
-        {
-          "title": "22 Niederlagen und nur ein Erfolg für Palantir - 20 Minuten",
+          "title": "«Oma braucht Aufmerksamkeit»: Carmen Geiss kontert mit Bild - 20 Minuten",
           "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUloZ05hWndSbDQ5X2E3ckJycnI0bEdRdV84NFFxU1Z2LXR0OEM1TEI0bXM3X0lLR0g3dDJkOTN4bUE1N05HcEs1VXBFWEtwTjNKTmdBZzBsNUF6M2g5ak03S0l0Zk9peFRrNnJyQ0NLaWtLT3BaS1FsLVpwZEVjUnlFQ0Q4TFZNbGtNOTFOWGRpUUdod0pva3FjR182Tko2NjJOU25UZ3lFbHUzOG9MUQ?oc=5",
-          "published": "Sun, 14 Jun 2026 07:39:28 GMT"
-        },
-        {
-          "title": "Börsengang von SpaceX: Willkommen in der Dagobert-Ökonomie - Neue Zürcher Zeitung",
-          "publisher": "Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTRhVTlJUUdLd01WSGlVSjEyR1NIY2dlVDhCQmNHRUpiMGFWU1B6M1Bvc3c4anRoWW5sWlppNUtFclU1WXFyU3NhYTF6OEt6ekZLZENRQnMzd1RLU1Nzc0Z3aWlnaUpOaDd1a202RHdBQ3RQNkRrc19YNzl6YjVQSU5jUVBPY29wbWM3eDlmUDBkUmhOTkR2Zl9YWHM3X0N0anc3WklRY2o2OGlodkdPZDdPQzV1dw?oc=5",
-          "published": "Sun, 14 Jun 2026 03:30:00 GMT"
-        },
-        {
-          "title": "SpaceX-Börsengang: Ein himmlischer Hype oder ein fataler Absturz? - Neue Zürcher Zeitung",
-          "publisher": "Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR3cxRUVzeUJjUENfY0g0bHFrdDhPUmlwQ3p4WlRrRzZ5QUtPUlFsbHRJZXgyc25WSEltbUF6UWN6dHo2ZU1ENnMzenVwdVl6SC1MSjZnSmhjTnQ4cnR1VGp2QTNmempiblVEV3RJcDlMVEQ0bXZXSlVDS2p1djN6TXVDNTE0TUlfdVpoYi1GcHp0a0Fqc3NMMWc1cVREYzhLNW5BU0dWNk9vWlZPay0xQzZEa3pidkNHMmtKRERpemNsUEF1bWNDdEwwMktoWXZKSFJFcWRwVDViS0YwZkNaa0I0X1JkVklVUF85SHh3?oc=5",
-          "published": "Sun, 14 Jun 2026 03:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPakdQY1NPcmlhZzlpTkFxN0NhLUdEYzdrZzBTNGFac21lSVpKYU43LTFFLXI0bkdZYU0yaUtVNVRlT1RSVUJpUG0tZzc2RFFiTWs2dF9OdTM1VXNzcmNhREVfcFpJS1dTRGJQdFRreUFlVkhjRkwxaEV5ZkM4REItdmFNbUZRb3lCNWw3MEVtUlJXTThLbHduMmo2bmdvRm9tNWhxNmw3N1hmZw?oc=5",
+          "published": "Mon, 15 Jun 2026 12:33:41 GMT"
         },
         {
           "title": "Vom Hauswart bis zur Chirurgin: Diese 16 Jobs kann die KI nicht ersetzen - Tages-Anzeiger",
           "publisher": "Tages-Anzeiger",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQTdHT2JBVXd1SDNQYzVGb0wybGQ2dVNXcmM5a1hYdUlpRUFOVWk5MVBEVlBfenlyd0lQWTh4U014WEtjblRWQzFnbXE1WUJ2Ymg2ZGhOOEU2V0hYWW1mTkZSS1VCRjI5M2RmWllyUFA0SmxlZVdocVNrbzcyNUotY3hSczhlSFFyRG5MQjdhaWlLRGRjdHh5SEVBMA?oc=5",
           "published": "Sun, 14 Jun 2026 20:17:36 GMT"
+        },
+        {
+          "title": "Neue KI-Ausbildung: «In der Schweiz besteht hier ein grosser Nachholbedarf» - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNUt1Z1BaTWUyeF9WUXpTTHBPYU02ZGp1OU9Wd0xXOGlrVkMydXB2TzVLLW4taUNDOXd2RThrTFR2NG5mbWdZOF9iaG5XR3hFTlowbnc5OFJBVjJvTkpGQ1BTMVE0LXVRMWNfTFlEN1JhX2J4dG1Kb2RvWW56bHE5bklRbzBOR0NMUmp2OXlFNXhBaEhlN1l4b3Y1MG1vR00?oc=5",
+          "published": "Sun, 14 Jun 2026 20:17:32 GMT"
+        },
+        {
+          "title": "«Ein Blick auf das Handy – und Ihr Kind schwebt in Lebensgefahr» - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSy12bzd1aU00dlVZVEVkaTZLbUZlV0Y0blNEcmZ4N0ZpMFpTeG1KNkdPVnN2bjFhRURBMUVlSnRPTHJGczA5YWJrcDdRc184NW5lWk9Td1Y4T0ZyZ3JsV1VhTHFXSEs3WG51WDRQMHpWX0trLVFSbUxsN1pITDRTckJ2V1ZaQ0diVHJEdTJocHN1eGs0enVwV296RWQ?oc=5",
+          "published": "Mon, 15 Jun 2026 04:17:59 GMT"
+        },
+        {
+          "title": "SpaceX, Fed und KI: Die drei Faktoren, die die Märkte diese Woche bewegen - Cash",
+          "publisher": "Cash",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUF8yeU5MeG05MFBpeUFIM1R6TUhzU0MwLWs1ZXBjU1F0YmtqUDJCRGNkam9UU2tnWVFTXzc0V2NfN2dMd182dnJZc1dXVVIyZGtORVR0V3EtQ3RLaWFGYlIxWGFvNlcweTc3ZURBMUhkQTFrMExmMUhSalhseDFiekhBTVZUUDF0S2NmYzlvenF4aExiZDFYSDFnZmcxakloQTdN?oc=5",
+          "published": "Mon, 15 Jun 2026 12:00:00 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Houston hosts its first World Cup soccer match as rain pours on thousands of fans - Houston Public Media",
-          "publisher": "Houston Public Media",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORUxZM1llbkFlcjQtNG5ZY3MyZ25rd3dqaFdYY2hIWDVIOVhMaU5ta1JWQU5sU19USE9IR3Q4Qksyai1qa3FpeGg5a3ZZWG1uZmZCRG15eF9CbmN5My1SYTRfc1FUSFpKU2g2UURSWHJ1cUZJelJhaDdnbzlnMWxVNG5zNl9XV1BFMDBWNURmclR1MFdLM25jdjZLTlJEaHNSd3F5Vl9tXzlRRE8zYm40QVNiMS1BdWJvS05wNGc2ajUxMGN0Ykx2X1A4YkFvNzZWNUJLOdIB3AFBVV95cUxOWklDYUQ2OEoybkVKSWZXM1Qta1pJZWFEeXFKMFQtcFlzMDFSQ2h0YWw2am9Ca1k2SkRVcWwyY2NzYjR4Z2tteHE4cnJwZEJzZjAzcmUxRndsRm9hTDQwZmpEa1Y5blk4WXo3QmNTTkZtSVZzTXdaS0lyV09DWXhmU3FzV1dqODNRRUV2blNVTHF6MnFrS284UmtNWFQ4THl4UXVJX0xnZG1JOEludHI2SUJjWGRNQjlramV5OEM5RUwtbkcxV2hhb3Q0dGNkZGV5aUdscThqV2hfajBn?oc=5",
-          "published": "Sun, 14 Jun 2026 20:14:13 GMT"
+          "title": "Iranian Americans plan protests and watch parties ahead of team's World Cup opener - PBS",
+          "publisher": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUGJubm9qUVVLMVRSVHNLNEtSUDUxcUlHcXZ3UFlLMzM2WVBhLU9Rd0p3ZUNTWWpIa2VEalBFRTkyZlU0SFJuZ1F2d2p5WXVaUGdZZXQ5TG1fQ3A4RnFHdXFUT2NIWlZqYl9uWDRxYTRqbGkxRWMwYi1YSmVSR2ppZ05IeTR2bmI4NlE2VmNDSGlJam4tN3dBWnY5aHA3eFhIakVvcU54VjZCdmZpNkp2bTNCdGZ5Q0nSAbwBQVVfeXFMT3pkOURhY21Hbl93X0dNcWItRDZEbDJ6ZlpTYlMwYkdxYWFydFFtVy1QcUdLM0tXUUIyY2trNHZ6dXpOMzVSek9DNVpVbFo5akJjNE9ocEZsQWhWd0owbll6Z05NRU9nRzFsNmFYT0J5VUlzNmJzZ3dOTnNKR3A1TjdHSHIzenJfWVNlX3VRYlE3MkVkcXVkTkRPb2M5a2Q1TDdnaGlHTXpOU1VTQnpIcFI4b3NkT2lvQUg1N1c?oc=5",
+          "published": "Mon, 15 Jun 2026 22:11:05 GMT"
         },
         {
-          "title": "World Cup in Philly: Fans arriving for Sunday’s match at the Linc pack Lemon Hill - WHYY",
-          "publisher": "WHYY",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HTWM2R1c5TmswZFRTY1lyVHZ6S3dtQ09rTUoweHkwSDlMNlhQSEFtYmYxTlZuWnQ4ZllmTGMtTVdaRVdUeGlTdXU2aWd6RW9yOUQ5Tmh5TVhKcmZJSmg0SDNRZzZyM1FYa01UR2VFRnZxc3MxLVROdlhrcmNhUQ?oc=5",
-          "published": "Sun, 14 Jun 2026 21:51:57 GMT"
-        },
-        {
-          "title": "Here's who's missing at the World Cup: Soccer-playing grannies! - NPR",
+          "title": "Soccer Edition: Watch World Cup highlights from across the NPR Network - NPR",
           "publisher": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9acFlDOUJwQlBaZldkMk51dUtZRnlmaDlZWkZkX19xVEN6TF9WWjFrQlNlYWdTTFFkcHIzSlRNamd2UWotQmI4cXJUNnpSNkhEMjlXVGZRMDJMd1lmUTZBZnZGMGdlZWFxUF83cTJZa0hLeHRycXA4?oc=5",
-          "published": "Sun, 14 Jun 2026 11:17:45 GMT"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEhFM0lEWGZpcE5nSmkwSGtHeDNibS1yTG1VX2J0ZDk4M1R6dHlJUmg2d210ZjZUYnNZcE5SVjc5S2duVDgyLVhYUHljMVFXb2twOXBaU2RHV3BDZGNkTmZILW5yZ3pFMEZnSlVJRlUyWE9zNGRRb3BmZ3ZsV1VuWTRlQnN2UU1BN2pBOWRNMTNSVFNDOWVWUWtra3N0U0VMNjBFVjJXNHNGNGJGeEo4T1Rn?oc=5",
+          "published": "Mon, 15 Jun 2026 16:09:09 GMT"
         },
         {
-          "title": "World Cup predictions: Germany vs Curacao, Netherlands vs Japan and rest of matchday 4 - The New York Times",
+          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
+          "published": "Mon, 15 Jun 2026 19:17:08 GMT"
+        },
+        {
+          "title": "Iranian Americans plan protests as soccer team prepare for their World Cup opener - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNclFZVzliN3NBaFNjQ3M1NS03S1cxRXVVVlpYQjFwU0gwamRrTGxXZVZxamdxNlhETE85MUxSZFVRd1VGOVZLcnY0b1lvZ3lYd2NxZnhmZDdyamRrcHZ1M0tsNExGLUtia3hta25lMWxhalhYS0NYMWVVek5MVEVZbU5nNTgzbzl1MG5nZXJjd3pJNHhvcXdxQm0xbk4waE1MQUlMOEt1YTE2UE5YcV9iRDhyVnlUejlfS25kWEZXRkhrUQ?oc=5",
+          "published": "Mon, 15 Jun 2026 22:31:43 GMT"
+        },
+        {
+          "title": "Iranian soccer team touch down in U.S., feeling the ‘tension’ ahead of World Cup bow - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlp1aF9zemJKZWVhRFFvNDlKWGJOUUxZTXRZajdmNWVRR2xrdlRVbWRobmR0M0RacHdHVkF1eTMwYmU4bl9IX2kxdmQ3UmlSSDJtM3JLVUZxRERTbm1GTndHc2tRWFdRYVVWY2ZOZFh4QmVVV2dFTHgyeTlPcXZqX2F1amxTdUFhZlZ4T0lR?oc=5",
-          "published": "Sun, 14 Jun 2026 22:03:24 GMT"
-        },
-        {
-          "title": "At The 2026 FIFA World Cup, 7 Ways To Prevent Soccer Injuries - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGRQX0pCZmRZUWl4dS1JZk1xekxIQXF1UUc3Wjk2S3NMU25sYlJhNDB6YzB6OTNINkZzNU9YQ0VjSEo4OHhlWnpfTTRlMVF6OWlFb3VIWVhUQlcyM2RFb0JaRUFpQVotbVNTV1g1WF80U3QxWEZoaFczNC0yZVFkYlVsQ014NmR6MjhSSTAybWVsWFZfMGYydE1YaWQtOW9DcVQ4bHozY01TRHVaRWl3?oc=5",
-          "published": "Sun, 14 Jun 2026 21:16:55 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ215c1pubV9mc3ZQb0diVWN0RWpaMXE3NDVYUnNuajhfZ01FX3FQcVcyWTNsS2tFbFI2Q3RpOWhHV0NoeDNyUHk2OENiSTI4aVVLakZqSVpXMnF6NGl6ZjJIZGJZMjBRbGwwcXlwMnlodjVPOTFJa3lqY3hYWURmYThtbE5VUF9pcTlnUkJpd0tJUQ?oc=5",
+          "published": "Mon, 15 Jun 2026 20:35:00 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Six people killed as helicopters collide over Brazil’s Rio de Janeiro - Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQk5DTHlDMVRVVVBrRXFyTHhtclIzbFJyOTV5clNuOTdNX1I2V3ZLVzZYY25VQWxBZ09wVm13ckJrTHR5aHdJd1IzYU9YX0RjTFVyTFdESEJtc0ZlMGNUVE9mRnpQZFZ5QjRQUTRzWWpieEdFUlJUanJ6WjY4NXlDbW1mR1N1M01QZmpvQ0Z3cmJ0WktkeWJQN2dQTmZOTjJ3WVRFLXpQcE5VS01GLXc?oc=5",
-          "published": "Sun, 14 Jun 2026 20:15:00 GMT"
+          "title": "What we know about fatal Brazil helicopter crash; singer Oliver Tree among 6 passengers - NBC News",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUpxenB1SHJ6VzNOWFBXNDRrWG9HRWNoc0lxRG5GU2ItQTFuUUFoVFlZeXlOdEZHMlcyV01hLU5jNVoxbk5sM3BGSzdVLVlyZ2pvS0ZlNnJXR1JKaDRyX1BfbFl1QnlTUzREV091Z3IwdFlCWGVPcC1lbmlzTFlFZmhrbUNXQVdHVm4wVGRrTm9tRmlLZlF2Q05tQVpQZjFGc0hLRFFDQ1BhcG1DZGlBVkVRbmE?oc=5",
+          "published": "Mon, 15 Jun 2026 19:59:39 GMT"
         },
         {
-          "title": "Tyra Banks Sues Netflix for Defamation Over ‘Top Model’ Docuseries - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFhBNEJ3UlBfM2Z6eHpCS3RYeGVSOW5JbVFpSHlrWmRubk4yckJEcldCMWJyZmtDQVMxdXFuakpBOTJCWFFhUHpwdGxLRnRtVjFOQUNZZ2JZUFpnUTBxVkFaTUI5bXE2dFc1NjlTWGdWcDJRS3Fnd0Nsb2xTeHo2Nm1JV3lFWHA0VTZKa1JKcXREZmFZc1RvNXB5R2QyS1U?oc=5",
-          "published": "Sun, 14 Jun 2026 17:35:29 GMT"
+          "title": "‘Love Island USA’ Executive Producer James Barker Dies In Fiji Amid Season 8 Filming - TODAY.com",
+          "publisher": "TODAY.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkZxelU0NlRKZzE1Z0x0ZEs5cFFrTXlLWFkwUHBVTERQaExYck9nbTM1MVhmTjdjM05LbVVGNmxseExYNTU4RFo3M1lfNVdIMnJJUWNQVDRiVTdyYUdWMzVBaUJsMll3dFYxczNBNnFUbUF5Q3BOUi1ybDg5MHNRMWRQM3pTcXc?oc=5",
+          "published": "Mon, 15 Jun 2026 19:05:14 GMT"
         },
         {
-          "title": "Ben Stiller Got Mike Brown's Whiteboard, Timothee Chalamet Celebrates on Knicks' Jet in Viral Videos - Bleacher Report",
-          "publisher": "Bleacher Report",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY3ZtQ0I0RndvWUhsNzAzWHJSRVJBeWtqbmFxeDhjWjhNeVp6SVBvOXRPdkdyR2xMNzItbFNqZmRXOHZtOHhoZmNtREdEN284WjllNGdZcGFEUG5Kd1ZiM3J0Y2Npdk5aZkNQd1FwUXktWXdEb3BCUmZFcU9EVmY0aVNvOFJxMG15dGE2VGI4Q1oyVlZxTjB2NjIwWERUYVRWOGZweGZtckdnbHpUVF9lUVFlYmNaTDdwY2k3dll2TGdObDg3SXkzclBZNUQ0TGRySkE?oc=5",
-          "published": "Sun, 14 Jun 2026 16:43:45 GMT"
+          "title": "West Wilson Exits ‘Summer House’ After 3 Seasons - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTjQ4Y01uUXRhM29ZQ1ZQeEZCVXAzOXBYOHlKOURLVlAxQi1rUFF0MlI4TXdDckNib1FjMzRCTTA4dWlhbUFDbmx1T2cxdWZxZy0tUEM3cFVEVDI0SUtRU084Q094aVgyVG1tU19UeDB3cEttbDUwek5rblJHRnV4M3ZQbw?oc=5",
+          "published": "Mon, 15 Jun 2026 19:40:00 GMT"
         },
         {
-          "title": "Did ‘Backrooms’ and ‘Obsession’ Really Kick Off a Gen-Z Horror Wave? - Rolling Stone",
-          "publisher": "Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWRxTmZZWUk5alh5Q2d4R211YmhDOF9YVEQ2TkQtYjlLa09jRlBSdG1fNUZWbjFRb0JMOEhxWUo3TXRIdFQ0TFRuRzBPNl9TeEdqTFA3MTJBSGppUjBJcGlTcXQ5Xy1zb1AxV1R5d0tPSkFXN29ORGxILWs3MGFRWVdIdkI3aVhHVmxJZ0ZrSFVCaUpjOFdyYVg0Nk5FZlJvWmNUMGJwQ1laWUU?oc=5",
-          "published": "Sun, 14 Jun 2026 13:00:00 GMT"
+          "title": "Curry Barker Got His Wish: Inside the ‘Obsession’ Director’s Wild Month (Exclusive) - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNTlISnlFS0lFV1dxMFkwcUhjZ3ZlWTZNb2ItWHpfbk4tdGtUeV92a2EtY1RmcG55TnlnZHV4akVXYV8yTGhRV1ZaVm9FalJHNVNWRVhTdWtYWVNMRGNWS0lkaHVubFdhU0VEUm91LW5VVVhpY1E4eldCM0pNeHBUUDU3akhoYzBSRHNraWJ4TzdYMFRaMll1ODNRWC1IMVY1Zmc?oc=5",
+          "published": "Mon, 15 Jun 2026 13:05:23 GMT"
         },
         {
-          "title": "Box Office: ‘Disclosure Day’ Launches to $93 Million Globally, ‘Michael’ Nears $950 Million Milestone - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHdBU0IzMFJIOEIwVjZOQmFOWm4zcHpPU0lEQ2thZEJRWEExUEYtX0xjVDlJUDNwam1ma3lMdUF1UUJIa1lncDJ5THlPOFhneWV5YkREazFCMC1sOUV0a250cDRMR3RYcjBrTk13YlJxSk1RcmJsV2RBVFJRY240cXhQRkh0TUdja3NCX1FuQkRUMU1GSzdpSUxRQlJPZmgzNlVkQkdVbVhsYTJTT1dCcFVVYWJxSEk?oc=5",
-          "published": "Sun, 14 Jun 2026 16:36:00 GMT"
+          "title": "Zendaya Drips in Fringe in Flapper-Coded LBD With Hip-High Slit for First Red Carpet With Tom Holland in 5 Years - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSVN4ZHdmQVFURXZSWVU0YVc3UVI0YzBMTEZnOXVPMERtczBUa1hTNm5ta0tfcXNzOTRzSXhFR2FLYUhRWi1OVmZSdmNSbXdvNFBCSi1OdGUyN253NVFJMmhXX1pfc2tGeVN5T3E2X014ODJtM2hodVhHVXpzUWI0SFlrS1l0cU1xWEFqbzk1STNQWVkxdkVrZ19KNmVuXzBVbTB0X3Z6a1h3Yi1iNllyZE12OFByUUpNN3dUS0c5WHRuZEJXY1NtckNWQTNYOHc?oc=5",
+          "published": "Mon, 15 Jun 2026 14:45:09 GMT"
         }
       ]
     }
