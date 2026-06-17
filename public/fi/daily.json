@@ -1,7 +1,7 @@
 {
   "market": "FI",
-  "generatedAt": "2026-06-16T23:23:40.186772Z",
-  "validForDate": "2026-06-16",
+  "generatedAt": "2026-06-17T23:23:53.453039Z",
+  "validForDate": "2026-06-17",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Kultaleijona Konsta Helenius hurmasi Vierumäellä | Urheilu - Etelä-Suomen Sanomat",
-          "publisher": "Etelä-Suomen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SYlU2MWpUcEJneHlxZjhnYVBucW03RHlBcUR6NmxFVGs2ZXVDcXRMRThtclluVEJfVHJWTEEyRnd2ZWNwbGFQaDFB?oc=5",
-          "published": "Tue, 16 Jun 2026 15:31:41 GMT"
-        },
-        {
-          "title": "Kolmekymppinen mies kuoli ulosajossa Jyväskylässä - Keskisuomalainen",
-          "publisher": "Keskisuomalainen",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmUlpqUVNjdG5JYlZYSm4yanREVDdRejJ3eDdCWGp0cklUeFNIS2VJZXVXazgydi1zSUgzRzFzenNGX1BWRmNobExYSk1ON19uQ18wbzVXcw?oc=5",
-          "published": "Tue, 16 Jun 2026 15:29:23 GMT"
-        },
-        {
-          "title": "Poliisi epäilee: Sijoittajalta huijattiin 25 miljoonaa euroa - Kauppalehti",
-          "publisher": "Kauppalehti",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRdGNqYmtSRzJMZ2xlVEs0QVc2S05VVHoxaUZZblNkTl82ZjNzelBxakxZZjY0VnBQbENWR1pHVDlfSGF5MnV4REtNSk1Lck4xTXRjZnNWQ1hCNHFGcjQ2a1NIZ1YtYl9wS3FpbHdOWnNrS2h1amNoYkNqM0F3QQ?oc=5",
-          "published": "Tue, 16 Jun 2026 14:08:47 GMT"
-        },
-        {
-          "title": "Saako juhannuskokon sytyttää? Nyt tuli vastaus - Ilta-Sanomat",
-          "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XdG10UXhWSlBGVng0S0MwdW9hT3g0T092UU41VklZR2VHX0J0aC01UmRIV0xfTnVpMEdsejNFNUdWYms2bVdpV1YwekU2RnJaNGJCSHF4Q0ZNOVda?oc=5",
-          "published": "Tue, 16 Jun 2026 12:30:00 GMT"
-        },
-        {
-          "title": "22 pelastusyksikköä lähti sammuttamaan paloa Tampereen keskustaan: Tämä on tilanne nyt - Iltalehti",
+          "title": "Auto suistui kyläkaupan varaston seinään jo toistamiseen – Nyt kuoli ihminen - Iltalehti",
           "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Wb1hhV1lvSlhzd1FGMFZFVTdGcDc1Q3locW1zRWVROTQ5dlR5YjV3d09OOEFxU05BZ2dUZDhSTldqcUl6RWxTRkhJNDl3T2VPdEtEUFVnUHB3b1liNU5XNHp1VGM1OXJnNmJDQ2QyMVI0T1VXdlJtN2dDcw?oc=5",
-          "published": "Tue, 16 Jun 2026 18:15:57 GMT"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfMWNrUjJzMUJGMmFTdjRsa2tKMlhBei1HaDJlNGFIY0xTR05DUWJzU1VDR3BLaEdLcVkxZWEtTVhKYzBsMnVSSjYzWkdvdS1rUGdjUWI2MU9LXzZQMVlBY0R0bWZNV0YzXzRCYi1xbGNsYktyTnp4dGJKaw?oc=5",
+          "published": "Wed, 17 Jun 2026 17:01:00 GMT"
+        },
+        {
+          "title": "Tavarataloketju Kärkkäinen tähyilee Vantaalle | Paikalliset - Vantaan Sanomat",
+          "publisher": "Vantaan Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91bHVNTEtCVDBUcmF3dFRLaG1ydld0TlNRbzdCak1hS0ZrdnJQZEt4Z1c5VEpKREdDVVZmLUhXWFRreE9iMUNzN3U3aEdRQzUyaDhSWTJtdlJBOGJBc1E?oc=5",
+          "published": "Wed, 17 Jun 2026 15:55:00 GMT"
+        },
+        {
+          "title": "Juhannuksen supersää: Tänne iskee lämpöpommi! - mtvuutiset.fi",
+          "publisher": "mtvuutiset.fi",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemdRMkl0YnNXUm04c1FFaFFPZ3pjN1B5MnN1WkhUaGJvT0djbXIyNl9KaVBCWXBfUVZuX005UzVfd29aeEZvcThTU1lFWUVJWnR5RjY0UFhjd3k1Z09uQ2lhbDNEUGhxVEp1Zndpa2JMU1p5dFFjS2xRWFFqVjNPclBQZGI4U1NuSVlRYV9FVUE?oc=5",
+          "published": "Wed, 17 Jun 2026 21:08:06 GMT"
+        },
+        {
+          "title": "Suomen paras Lidl on täällä - Länsiväylä",
+          "publisher": "Länsiväylä",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10c3R5SkpLUjVzMkp5MVlUbHkyWnRhc1FxNXFUMXo3VFNGdVROZmtvaWE0ZDREbDllN292eG0zdGxsaHJwYTB6STRONS10SXRCMktHdg?oc=5",
+          "published": "Wed, 17 Jun 2026 18:21:00 GMT"
+        },
+        {
+          "title": "Ihminen kiipesi radiomastoon Espoossa – Poliisilla pitkä operaatio - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TMnExVEFlZDFldmFuZjFTN1RFS3hHakNuWVhxbXo2V3NyLV8zMXcwak5ZUXpoVUlzWnFsVGJUVTh0S3ItYzNnemFOM1d6RjNuNGpmUzdONHNDU09HWEZQWWpINC14NHI1d2VlMWlVX2ZuN09fRk4tazVHWQ?oc=5",
+          "published": "Wed, 17 Jun 2026 20:01:17 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Iranin rauha | Iranin tärkein neuvottelija on Trumpin aiempi suosikki, joka liittyi vallankumouskaartiin jo teininä - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xQmFJd3RKQlREMWFRZ1dDMEItV2RfZ0tyMHlGUGVIWjRmcTY2WElTWFQxQ0pkN2VHRktCU0NxRGVsMFFvdW1LMXRDdmt6Q3VNcFh4bFl3RXlTczdN?oc=5",
-          "published": "Tue, 16 Jun 2026 23:00:00 GMT"
-        },
-        {
-          "title": "Arvio: Putin todennäköisesti valmis rauhanneuvotteluihin - Iltalehti",
-          "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vX2hramxoWHZpeXhDWFI1SzdnOXBJUUJLUnlqTjhfTFQyQkNlRDNadTNzeGF1MDU1S29iaVdOQ2hURTVHLTdnN2t5WWZ6YjYzZ2E1VHdzQ1FlelVSQXdOczB6X2RyMDNFcDNveUxhSDNQSTduTjJMVlhjRmk?oc=5",
-          "published": "Tue, 16 Jun 2026 20:27:33 GMT"
-        },
-        {
-          "title": "Venäläinen sota-alus ampui varoituslaukauksia purjejahtia kohti – nyt kommentoi Venäjä - Ilta-Sanomat",
-          "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LdmdfX3hnQ2xTNElOY0UteTFoUUFtTUs5ZXdzV3o3TWNBR24xbHJfRUNGcDgzVGhpSkVFLW9NWTFaNUQ3YllHTGdVZFJrMF9HNHJ3YXdJWFlpU29NT1E?oc=5",
-          "published": "Tue, 16 Jun 2026 18:26:00 GMT"
-        },
-        {
-          "title": "FBI:n mukaan Trumpin syntymäpäiväjuhlille suunniteltiin hurjaa iskusarjaa - Etelä-Suomen Sanomat",
-          "publisher": "Etelä-Suomen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vN25fRWZsTnN6OENBYUE1UU5tUFEwNjkxNW9pVkE0dHd3T3BIN0JkVHlkZlJRaWctb2JOckVBd2pLNmxTOXBnQURHVG9yTGZpdWFEUUd3?oc=5",
-          "published": "Tue, 16 Jun 2026 13:21:19 GMT"
-        },
-        {
-          "title": "Vangeilta karu arvio Mariuksen asemasta vankilassa: \"Päätyy hierarkian pohjalle\" - mtvuutiset.fi",
+          "title": "Trump teki Iran-diilin – Hizbollah: \"Onnittelemme Irania suuresta voitosta\" - mtvuutiset.fi",
           "publisher": "mtvuutiset.fi",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeHFncEJCVlJVdGV6NmlfdnZWSElwNFExeFY2dFlnRWJEMkliUW1wcWlvX0JHVjBtRFEwNjVKcjZWYkJWV3N1THdyVmxqVGRPUWZuNFFoV0tYNDVZMHpqSC1OTEx4SEJ6ekpFclNZVFdJMF9yYzBJMVdsRjRsR2o3Vjc5ellWdUVXdk13VGFDdUVIRzVhdl9xeVFUeGNKS2wwVVZ1RjRwOG9oRGR0XzJqRHB4R19Hck1wTHFmVXZ3?oc=5",
-          "published": "Tue, 16 Jun 2026 10:10:55 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTkVJdURoT1c0bHpCem5ReXFnWGJ3Unk0YVlCQTZoNDJjUHFBUm9Pa1NUa2ZjTFFJRWRKNTBNWHZXY2t4OEVNQ3dXcy1UbG00YWRqRkdxMjRSaHZvenJDTnpWNi1Zc2otdHpjZUFaVThTN1FfSm83RENlSGotekktWDNsZ0RLYUVEeWVYR0w5R2tZVmJtV25wTHY0dUlNbWdVWmVzTDRuakkyc2NrRHdzSktfTnU?oc=5",
+          "published": "Wed, 17 Jun 2026 19:54:57 GMT"
+        },
+        {
+          "title": "Trump Putinin vastuusta Ukrainan sodassa: \"En halua ottaa kantaa” - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yOUhvT0g4Q2JhWVg1RXJMb3ZRWDJaa1FBZDVoemdyb1pEd3hadmlMZ190cFAyM3pJaldxdzh3RlFRckZhU1pNVUlHWTJVQ3l6dG5ObkJja3VQOTA2UFkxcm5HRnZ0ZlRER3pBVXlBNEY1bDQ3bzZDOUlXT3g?oc=5",
+          "published": "Wed, 17 Jun 2026 20:37:42 GMT"
+        },
+        {
+          "title": "Venäjän hyökkäyssota | Ukraina tekee juuri nyt niin suuria, että Venäjä ei voi kuin hoiperrella - HS.fi",
+          "publisher": "HS.fi",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42MDhjZEljUXI1NGdqOURxWWNkTU5iWW5mU1lCRm5xUGRmNDBnU0UyUjd1eFYzOVdyQVhINlRuNlB6UWZYVHFFYlNfLUdDZjRvMHlXejJsRkczZVZzYlFRN2VWLWd6WnRm?oc=5",
+          "published": "Wed, 17 Jun 2026 15:05:00 GMT"
+        },
+        {
+          "title": "Mette-Maritin keuhkonsiirto herätti epäilykset – asiantuntija tyrmää väitteet - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxRjM5UEwzM0Rqa3FpeEMyZWFQRlVLQXJWYlRYYkZNdEpISFFfS3d2VEdZNnhEWW9FYlZBZkJKU3JxQUxscjZERDRuZm1KLWJncDkzSjNicENlcnM?oc=5",
+          "published": "Wed, 17 Jun 2026 13:47:00 GMT"
+        },
+        {
+          "title": "Venäläisen fregatin miehistö ampui varoituslaukauksia Englannin kanaalissa - Aamulehti",
+          "publisher": "Aamulehti",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CVTB5MFJFdnJObTJJWGdrSXpPRWpGVllLR3UySnhHUUE0TmxxY0dOU2hvcVNfV0tsUHA1b19jSEF5VW5UWFlPUi1jUUhIX0lSeVVUWElHTHJUSklTanpzclZuemtGVkE?oc=5",
+          "published": "Tue, 16 Jun 2026 17:13:00 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Kokoomuksen Päivärinta: Talousennusteet osoittavat, ettei Suomen kasvukäänne ole toiveajattelua - STT Info",
-          "publisher": "STT Info",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbXVTcUROSmNYd1htdE1tM2pfeGE4Ym9wT1pqNTBwcW5SUmMzU0t3TU1OOGMtdGVuMERSOFJZNGJZMXY1U012MF9uUDQ5bndyVEhQc2ZNM0Nfd05sdFRxdGJZX2g3X0ZNTTVWSTVHUF9DRU9CN3B0MjdiaEg3dlpJaU1yUG5CSWc4NEZRc1U1Wl9xNXk3bGpfVVFycEg1NklIUzlhSW9ia3JEQUZqZWxXMllINWJOVFhIVlpTanJqME5Hd3J6YjhpS09XaWNxYnFVZS03T0JJZUZ4cVktUUhjQVJGdEQwZ3lnUUEyTEQwZXU3T0lh?oc=5",
-          "published": "Tue, 16 Jun 2026 12:32:06 GMT"
-        },
-        {
-          "title": "Norwegian ostaa Sunclass Airlinesin ja matkatoimisto Tjäreborgin - NLTG samaan konsernirakenteeseen - Lentoposti",
-          "publisher": "Lentoposti",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOWpHaFpVM3NoSmpqc0xid1g2bjdoQTZLRFlRUGNjSGNJSV9sMF9GM3ZsY2hWVzBHOVdSa0dtWUNQOFhKcjVSdUllQjVsVXhSbHViQUNYdW0wazhiM3NaQ1RKSHYwRTBXclAwUkI2QlZJWEVyR212blFSak05REhRY0tJREdCZEtKUDMzNVpOOHpHcWxkakZ4bzlZeGZyVGplT2RKdDVQTG1VcGJGLU5XeXBuYlI2ZHRnbmRIcVdOOHEzdEJFc2ZzeVNn?oc=5",
-          "published": "Tue, 16 Jun 2026 19:38:00 GMT"
-        },
-        {
-          "title": "PÖRSSI: Helsingissä laskupäivä – Reaktor laski prosentin ensimmäisenä päivänään - Kauppalehti",
+          "title": "Analyysi / Kevin Warsh astuu tänään valokeilaan ensi kertaa Fedin pääjohtajana - Kauppalehti",
           "publisher": "Kauppalehti",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xS0VHa256aVZDaXFweFZzTGlQS18zbnZQOWxkTFNZanJiamtOWmhpM1pBSEZKRmxjUVVsQzZQT3p5eEd3LVFWRzdWVVRVcnpkSTAxRW1UZjJJcExZMFY5NlBMQUNaUFdSUmdPdW10VHFsdk9VSW1HM3YwenlXUQ?oc=5",
-          "published": "Tue, 16 Jun 2026 15:40:21 GMT"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81aHJfNy14VFRYS3RHZTJVY0s0RGFkbzVUeUs1cGVBZ2VpbVk1cFNKMEpna0RwVExaTmc0Y0VRVW9HajZDRGFWbUZpYXpXOUVrZUM0RS15Ty1EUFBiaXNRR3dpR2lNS0RUS1dwOU9Ddnotak9CcXNNQi1GRTZTdw?oc=5",
+          "published": "Wed, 17 Jun 2026 11:00:00 GMT"
         },
         {
-          "title": "Neste lätkäisi sähköautoilijoille uuden maksun - Iltalehti",
-          "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeUViY0V3c2NGSTJXY1VfMWRQRldBdktJNXhiOGc2SjhiTEJrWVN3a05obW5iYkthbEpiN1ZUQ3MwVzBZVUVmUTlSd0hxeTlkam9qcGRlYy1YNHkxWjdHbksxY09ua0MzQXJ4UzYwV0ZXWWtoVkVoZTNBdTY1WkxubA?oc=5",
-          "published": "Tue, 16 Jun 2026 12:28:41 GMT"
+          "title": "HS näki Suomen talouden nousun – Orpon infrakuuri voi silti rakentaa uuden velkakoneen - Uusi Suomi Puheenvuoro",
+          "publisher": "Uusi Suomi Puheenvuoro",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWFKMGtzekRPNzBzTDhMWEJiQjhZLVhGVUk1VkdLMjRGZXBtWGtjWS1HaHB5OVhGeTNPd1k0alJFVE5SRDZQcGxQOV90dTA3Rm1FYlFtQVJodTl6cTB2VXhaR09qamloV0dVOFh5SUdpSXhOMENOVzFZZjFUeG1jWUdiN1JFVHl2TW9wZHktRmdwRE5faWZ6ZWtrc1ZydXhienJMM1BWTkszdUtka256Y2NKNkx1ODZzbFlGejliR0ZDbVVnTE92eTZVQ181eTA?oc=5",
+          "published": "Wed, 17 Jun 2026 05:58:17 GMT"
         },
         {
-          "title": "Trumpin uhkaus toteutui: USA veti tappokytkimestä – Näin EU vastaa kiristykseen - Talouselämä",
-          "publisher": "Talouselämä",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWQ2JZSmxnOTRhRC1CNE4tcnV0NTVjamxFUHB0UG1qdi1RSjFyX2ZPVDZmRGhkVGExYWdKcWJCaXVqbVlNUTlxNFRLTU00bFVrbGRRYnFwSVRMLUUtNkF5cW90c1VuenpBQ2tMdHc4X2c0TUk5SFh6cEFJazNzQQ?oc=5",
-          "published": "Tue, 16 Jun 2026 04:30:00 GMT"
+          "title": "KPY osk:n kymmenen suurinta osuudenomistajaa listautumisannin toteuttamisen jälkeen - Arvopaperi",
+          "publisher": "Arvopaperi",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZlhSYldZY295dkRLVm84c09ZRklrNVZfbEp6WmZjcW1sb3lQejRwTk9FdHdGb0F2akVtZFg3ZE8zZXd6a1ZjczViVExZVzNCWkRxeW1rbm9kbWFLc2hLaWNmdUtPWlFJVHZqRk9IcllYUkNOZmNFaWw3M0lCWU1GMUlTWl9GUTZq?oc=5",
+          "published": "Wed, 17 Jun 2026 13:00:00 GMT"
+        },
+        {
+          "title": "Pohjois-Korea huijaa nyt työnhakijoita – Varo tätä ansaa - tivi.fi",
+          "publisher": "tivi.fi",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00TFBJdFctMkQyV2diUldQWEFsMzBXTkZBclZaYmJkalhOZHpLbUEwM0Q2UzY3MDJrYjZPZXFOcVhYQ2xxMTVVWlJhY0pzZjNEUldKbUZkS3BQYldnVFpOdzdPclRVWUQ0NUcwYnNST3pOVjZT?oc=5",
+          "published": "Wed, 17 Jun 2026 08:13:00 GMT"
+        },
+        {
+          "title": "Kreaten 30 MEUR:n tunnelihanke vauhdittaa kasvua Ruotsissa - Inderes",
+          "publisher": "Inderes",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSnNvNFIwQkxzLThVUXYzOGsxdHZybG5ieW5LdjVWV2FjTWdIX3hnVlZQdEJwRmhENm9CeUZGSElPSkZUS1RWZXRocWVkbXVycUlQUk1EVXYtOTQ4czVtTHJIN1JuU0pIMzNvQWoxUHpHbjhlR2lZYkl4ZkVJZjJpdC1VWU5Mdk1wRnNJdHAxWFBVVm1CR1NLRzBvS1hldw?oc=5",
+          "published": "Wed, 17 Jun 2026 06:17:21 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Sebastian Aho paljasti: Päävalmentaja vedätti pelaajia uskomattomalla tavalla - Ilta-Sanomat",
-          "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fZWhiNXNGcGlqZXc5Wk1qUEN4NUlrbExzNTJmamdDMklVZ2JSV0xqMDF3ZzhUXzNQS1UybUs1MThHOW13d0w1YjY0UEEydng2VzZzR0FkUQ?oc=5",
-          "published": "Tue, 16 Jun 2026 19:22:00 GMT"
+          "title": "MM-kisoissa seuraava jättiyllätys: Kongo masensi Portugalin ja Cristiano Ronaldon - mtvuutiset.fi",
+          "publisher": "mtvuutiset.fi",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc2hGTTlYTnNtUDFxbS1UaFJHZHhlWXQ2VGFUUjRabWxDWFhwV2U2bVVVUXNtcnBWRXp6UjJBZXlLZ3ltcHl4VF9qV1RlV3ZPaGJBTWYyR3l3UFlzSVBiS3NWeGVLY0syc0dnZjRIZnl4ajFEeFVsTndZRVlPWE1zd0toUjlvNy1DSXpkTmNRQlJxOEI3VzRuclg1TlpoWnZUNUNoTF9ib0c4ckRtSGJNZ3lwZkJvR094aW14bWo0VDFhdw?oc=5",
+          "published": "Wed, 17 Jun 2026 18:59:18 GMT"
         },
         {
-          "title": "Kylian Mbappé häikäisi MM-avauksessaan – Ranskan uusi kuningas jätti Lionel Messin ja Pelén taakseen jäätävällä tavalla - Yle",
-          "publisher": "Yle",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9hY01UMEMzRnZmMHlmNThJQWoybWgzdlVWeVNwb2F0eWwzMUk0aFJyZTRmVjg1bnR0Q0ZpOWFUb0NYQQ?oc=5",
-          "published": "Tue, 16 Jun 2026 21:55:55 GMT"
+          "title": "Lionel Messi teki törkeältä näyttävän tempun – MM-kisoissa häkellyttävä päätös - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlB4U29KNWVoNnN0YXpmOXZzdHJRenI5Mm1PZzc1T05mb2NlQW1jZjFraUw5Z2ZRMWM3SGpKOUY1b2l1V2VBMlh1ZG1Jd251RGFITVd1bThFaG5pR3JqUkZfcmtIWjVUOUFLNE4tT0VzOWNsSWc1dFpqQnBkTWlvWG54TW1NcXBRRjVV?oc=5",
+          "published": "Wed, 17 Jun 2026 18:50:49 GMT"
         },
         {
-          "title": "Uskomaton vaikutus – Kap Verden MM-​sankarin suosio räjähti - Karjalainen",
-          "publisher": "Karjalainen",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UMWlRTm1vLXZpeEhkSWQxMzBWTG8wNVFGZFYya21pVXl4a3BpUDJmMldKbXJhSGxONkpSTnM1OXV5Ujlfa052bUdEYkFIaWdrRlF6cw?oc=5",
-          "published": "Tue, 16 Jun 2026 18:49:18 GMT"
+          "title": "Tapaus Sebastian Aho − mestaruuden voittaminen on mahdollista myös ilman eliittisentteriä - Jatkoaika.com",
+          "publisher": "Jatkoaika.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcW5PQmFnTVo5N21IY2tqNTkxR1NFZEstX1dTZDhTZVQ5Y0Itd3dKcmxGeG1mVm5ya3l3QWdOR0UyRjc1N05Zc3NGelVGVnFTc2hFdF8tNmhVN3hhbFZFTDRCSjZsaVFtMmtnTFMyT1F6emNZckdCYTNUNGNmNExjRE41MGEzWmh4M2FvWVg2YkpSQnAtdnlGYlpKVU5XWFBMbWNaWHlLbmtHa3hySkFnaGhMTDk3ZDIzMXZFdFNYZnRxVEprS21jeDg1c1liSlhqUG9RcDkzWUlBTVdfaFFFWnVB?oc=5",
+          "published": "Wed, 17 Jun 2026 06:45:01 GMT"
         },
         {
-          "title": "​Interille vastus Bosnia ja Hertsegovinasta, Ilvekselle Luxemburgista Konferenssiliigan karsinnoissa - Veikkausliiga",
+          "title": "KuPS nipisti pisteet matkaansa Turusta (TPS-KuPS 1-2) - Veikkausliiga",
           "publisher": "Veikkausliiga",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZEF6VjBTQkJUcVJzRmI1dlFXMUJpNG9OSU5OXzF2cTYwaHoyeU5GWW1FV2l6Q1FZeEF5V0V1dG00N3JGaUhaSmc3M3I2Mlg0UVI1ZXVMTXlJcUVGWENVckRIZEgxdXR2QUZvZVk3dUw2RVZZNjludTVjd1dxTTExN1dva3RZSkNKZkgxandwaFUyM1NlM1BBZVNxVVd0c0lnT0c2UXRwNmVWVzM4RDhuU3BnaU9XN1ZZTHpuZlRTRXVmRmY1c1YyRWFfVy1pQ0tTZXJSa1Qxb3FUaUlteUh4WA?oc=5",
-          "published": "Tue, 16 Jun 2026 16:20:50 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlVxYW9VZkhveDRCQ3dBYWZGLV83Zm5mYUdoUmJwUnNtQ2tkejYyUWlPdnlIN295ZmJBX3ZKY3EyXzBVZm9LWERlVWFnT3hFZ3ZqTDc3V0dpRHAzUG9NYVFxWlBicVVDVWlXNllaTjl2b2FQSlJQX1M0VmtDbHRiYVZxR21DSW9KOHVR?oc=5",
+          "published": "Wed, 17 Jun 2026 21:38:31 GMT"
         },
         {
-          "title": "Noah Lyles tyrmäsi Kishane Thompsonin maailmanennätysajan | Urheilu - Etelä-Suomen Sanomat",
-          "publisher": "Etelä-Suomen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5GMTd4TEJhYU9EMlA4U2Z4Z2R4Q2pmMVMzd01jelVPcGl5MWlYUG9lSS1Pd002U09waHdEM3g3YXAxTlZnd3gwZ0NR?oc=5",
-          "published": "Tue, 16 Jun 2026 19:13:18 GMT"
+          "title": "Uusi tv-sopimus on valmis – täältä SM-liiga näkyy jatkossa - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0RFBheGlod2ctWkx1dW9HS002clh1cmYtYjhGa2NwRjhtbFRkU3pPbzBrS1ZxTjJsXzBDbktBLWNZUXQxNXlWdzBzajVUWVdQbV9lbnNoOE9RUTFMNUE?oc=5",
+          "published": "Wed, 17 Jun 2026 10:16:00 GMT"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Iraqi soccer fans celebrate end of 40-year World Cup drought - NPR",
+          "title": "Re-ranking the 48 World Cup teams after day six: France and Argentina justify their top spots - The Athletic - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjhjM2hOSENrZlpUM1diNG9Td25nQktWQ1Y1bEdITl8zdEZKNWc1ZkZUSnZLdUw4Z09XQUpIaUJFYVNRWTJ6Z0YybU5uTXFOX2xGSWNaZVppTFlYQnItX1JGTG1KNlNQT0VVdHVkbUh5eG1LV01MUTk1YmhBbmtTSUZIZE5pRkk?oc=5",
+          "published": "Wed, 17 Jun 2026 18:14:40 GMT"
+        },
+        {
+          "title": "Adidas Leans Into Soccer While Nike Chases Culture In World Cup Marketing Showdown - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRXc4LThxUG40aWNEMndtdGpWLU1VdnoxUHV4YUxWeG1TblNiSXdRaXdxcW5zMFozd1BBN3RwcUlFTWhWSzdRMzZvanJoRzFIRmQ2b3B3RlhZUmZUV1BZbnctS1dIaVl1MVdtaWFpdlhOSlNRSXlVSU5wdm9xSUFRQnlhWFRfUDc4WDlKelZUZ2k5TW01X3NPenBjUXFVQTE3ODlwMXFfRVV4VXpfNWtwQnM4NjhCczlHcGZHM1lsZkJLclk?oc=5",
+          "published": "Wed, 17 Jun 2026 14:08:35 GMT"
+        },
+        {
+          "title": "Far from the World Cup, a girls' team tries to revive soccer dreams for war-ravaged Sudan - Courthouse News",
+          "publisher": "Courthouse News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaDBkMW1ETG5YQTJGVXJMeEtaYi1ucHRMOWJLSGNGU284M2h0aVFGa0ltbVdiLU5adWRPU2Y0TklubWtMclBiVEFHT3VKQlp3YWV3TGc2WHV5UXgwd0RhVWlFa1VpVVdkcGZxcjJ1c1FrdjY1WnV3Sm5VMmtMVjhzSDFfcF9qS2dXbElPS05NMXJ3dVA3TUs0RHlEcEFVMHk1NHNQSDZ2bHh5S2l1eGE4MkdWOWdVbktyUExV?oc=5",
+          "published": "Wed, 17 Jun 2026 23:03:45 GMT"
+        },
+        {
+          "title": "Soccer's premier goal scorers, led by Lionel Messi, show up to the World Cup with a bang - NPR",
           "publisher": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU3VlQVJBbXBja2V1TW9QelBBV0lmZ21PcFhKN1dqZVI2S016MjYxR0VYb1ZVbHlPSWt5SERsNVZUOVZRR1ZrWldGY0w0TS1GMERCdmdRcHZsajJ2clg3WElYS0x6TlRnOS1TOU9IQ281cXJsZHN1UnNwalBBMGZVYmZaZjdSMTZIOE1Gb3h5VjliTVk?oc=5",
-          "published": "Tue, 16 Jun 2026 20:21:51 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkhQdGhnVWhMUC1URnhDbU9VWk54V2ItbEhZaTR1d3k3aERoaU1fTzdIQWFQbHJoNGQtNmdiNTJ5eXBPak9xTUM1bUFuSi1lNHQ1eGJ6WkFKOEt2ZHFCQVV5WmdFdll3YnRqX0QySnQ4VzduUjN3Tk8wQ3ZaWTYtNFh4S1hpeXdkU0E?oc=5",
+          "published": "Wed, 17 Jun 2026 09:00:00 GMT"
         },
         {
-          "title": "Thousands of soccer fans are in Houston for the World Cup. Here are some of their stories - Houston Public Media",
-          "publisher": "Houston Public Media",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzNCc0ZHeTZ4clVpV3ZaUzVfa0Vscnd4SUM1SHVQb00xeDgyZVJoS0s2ZVNLOEpVR3hpQnFYS2o3T09rMWpkbjdmWm1NNnB1Y0U1SENnWXNITXZfMXJGaVlkMEVZU3ZGMmpaRktIMUxqdV93REpVX1BPNEVCQl8xSG5CSjRHb2xfZ3BOcGpTX1g2VmJUNWtnTGVwRlE2dHdwZXI2bjk3WFh5bDlabXdOMtIBuAFBVV95cUxOdHNMWUpqN0RuOXBuQzRyT0stMG9xb1BrUmc4LUtZaWN0d0R0ejVsVzRHVUdUb252RXlVSUNlTTdZMU9IRzFYSmY0UVRyLU5kM21OcWpHdGxLZ0ROcENnUXI5YVdfOV9zWWh2NnNrZktPNm1NUHRtU0U2Wk8xVjBvcmVHenNOemlGQ1c4N3NDYXBkcEJuZkpTTGxwRUJtQmU3cTRJa182aFpzYXBBUDRtRUwyNzdwNnUt?oc=5",
-          "published": "Tue, 16 Jun 2026 19:29:13 GMT"
-        },
-        {
-          "title": "How Do You Host the World Cup? This Philly Soccer Exec Has Been Preparing for Years - Philadelphia Magazine",
-          "publisher": "Philadelphia Magazine",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHZzUGpCUUxoWjFpVWFtdFo2Szc2Skpha1BMU25iWmdDeTd1dFV1M0JFRGJia20xR2FGUkdQME9iY3diamRPbzJjaFJCTGI0dzJSQmZ6QjRtX2tnUElpNDU0VW4yR1A2MU1kbWhYYkNlQVBvOEw5ZWhUbDQtczhMRkg0RUNCNmNTejZ0bEJhSjNPY25WTmt1Rw?oc=5",
-          "published": "Tue, 16 Jun 2026 19:51:21 GMT"
-        },
-        {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Tue, 16 Jun 2026 19:10:00 GMT"
-        },
-        {
-          "title": "Are World Cup hydration breaks actually commercial breaks or momentum breaks? - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnNUZ25yY2N2Q0ctYUxBd19tZUhHdlduQlhib1pPQmFpLTd2emVTLXZtU0pucnhFbmlxU2tSbXl5S2MwVjUyd2x3eUNGeWFSdXR2OGJFa2lCdWlvRUdicGFhcFdZZ0dtWG5UY0ZrRjBLbC1Jcm5rX0FsR015M1FoT3ZoNmh5ZVhFY3FLNzVRT1d6eXVsc3VRZ0JGQmlmTlpIVE1YTlVhamVvM0dtOEZTVHRQNENKSUdvRkhBRlp3?oc=5",
-          "published": "Tue, 16 Jun 2026 15:35:00 GMT"
+          "title": "Soccer-Haaland World Cup goals shook Norway's foundations, says seismology institute - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORl9melE4V0lGX2hFNERmZTRLZEUzeUdKa2k1cFBkb2xjVzJaYm1NZUQ1OFFHN0gyeDNZLU9FUkpsVG9IZ0hHSUU1MW0wVEZBQTAyTVc1dHJpQndBcXFWbjk1Q0Z1aTkwX0xwNk1ubVY2X1FWbWJUellrS2gwenphWVAzLU15QQ?oc=5",
+          "published": "Wed, 17 Jun 2026 17:25:21 GMT"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Toy Story 5 review: Jessie gallops off with clever animated sequel - Roger Ebert",
-          "publisher": "Roger Ebert",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTamVIVEpIZHBZTXdNYVdlSWZuYXVPdW9GWlN2dFpTOHlrV080dlpYMkVhNjJjNlNrUEJaODZER0lTQm5UNk5MV0UyT3VNVy1iWGN1d1llQURwUzEteXNVQjVkMHhYWWtqVlhCYXpqN09QZw?oc=5",
-          "published": "Tue, 16 Jun 2026 16:23:20 GMT"
+          "title": "Daveigh Chase, Disney’s Lilo Voice Actor and ‘The Ring’ Villain, Dies at 35 - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPalNaZDFLblBoUnFnYTlTbXByTmZHS1U0bXlDMVcxS2dMVEhSSUZqWTJwV3ZuNVh0LXRPWEFfZFRBQ2NRdzBaaHl3SEtDb1MtQURMbERzZ3dPWU9VLTlsOFRWaWdQZUN4OWhEZTdZay1JT0d3RHJSYkV2bThHREpjRUZEUUdkOGR0T0U0M1NZRS02NW43WnhQWnlXeHRtVFM4blJHbjJ3?oc=5",
+          "published": "Wed, 17 Jun 2026 18:57:00 GMT"
         },
         {
-          "title": "From Vegas Wedding to Divorce Filings: Jelly Roll and Bunnie Xo’s Relationship Timeline - Rolling Stone",
-          "publisher": "Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTNqM0MxWjF4YjE5ZUdEb0NaV0E1WVhBVWlfVkx6Rnk3U0F2V3hub1dkQXN2bHB5S1lwMDJTTVNkQTJrMDFQNG9DUVRkaTgxMGRGMHFvaDEzdW5leVVER0xjUUF5bWlJRUJFNW54VW55U0haTzBMejEzRVJIM2QydzVfRXJaYWNncWp6RnhYRTFERWNlWWJ6b3hpOVhLbVM3ZUw0dlpTNA?oc=5",
-          "published": "Tue, 16 Jun 2026 20:12:40 GMT"
+          "title": "Jelly Roll and Bunnie Xo had tumultuous marriage long before divorce - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjNtR2dfaGgtWk5VSEl0YmdVckZUVTFmcE9GVzFjZE91Q3FpVkpqX2ZDYy1oTHZDbFluUEpSNjItVnZraVNUU2FnOHJzYmUwcENiX2oxZWphZ1dYaGJaenNMV3lEdl9INHU3ZVRBRllLUGRLTE41U1JZX25DWklMYTZnODBXSTUtU0h5dUFncXRFcUtfZkROTzlDWVJmQkpjc0Y2ZTNHLXV2VnkxWnM0?oc=5",
+          "published": "Wed, 17 Jun 2026 19:22:00 GMT"
         },
         {
-          "title": "Tom Holland confirms that he and Zendaya are married - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaldTR1hCbWlRMU9YWkxNemE0bnloUFliNTV1RkQ3X3lqODMtNmRzWHkwTDA4ZDNPcEJaeVVBU2N1Q0xWczRtVm5CS21fZGUzOUVSRHJIcFFpZUIxeWVEU2Y0dmh1VnRXUmtBMFpBOWI3RXZCa2JIcGdrTU1XRmRmNmZlTW54YnRa?oc=5",
-          "published": "Tue, 16 Jun 2026 14:34:00 GMT"
+          "title": "Duffer Brothers’ Series ‘The Boroughs’ Canceled By Netflix After One Season - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSU1NLTVvbXYxTHRySkNlamdWSDdKdzNDVkZmLV9MSGU5VC1ZQWZTdFpMVnk2Tk1vZlluNFhaTmZ2eHpyUjBSdGtEcHROanRMb3ctYk9SakRXeGU4VXA1b3dsR3czYW1vakctaVNoTXVfRTdKU1d5UjVXRUM1dVlJNnhKQ0ZOX2RsWU9aRTVXMXRRX28wS0tLVGJmQTNXQQ?oc=5",
+          "published": "Wed, 17 Jun 2026 21:23:00 GMT"
         },
         {
-          "title": "Armie Hammer Wants a Second Chance: “I Made These Problems for Myself” (Exclusive) - The Hollywood Reporter",
+          "title": "‘Ocean’s Eleven’ Prequel: Wagner Moura in Talks to Join Margot Robbie, Bradley Cooper (Exclusive) - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLWxzQnlPb0xnQ05RM1g3WTZ5UFZidFUwX1dtQWJHUlZtUVRRNHljeGdYUFgzXzRZXy14R1lna2FvSTNWWjJpaGNkT0tMTUlJYjFDREpfSDFXYjN4VjFXX1ZyWnp6dHFoUVhnekljdHFBalRuWXZ2ekdwLXd2SDl1ZEE0U3N2Sm1IM2NEMElzeDI1aEZ5UG1vTzRrNTA5cjUxOHJ1RHg0MFA3WGFyZWZJVw?oc=5",
-          "published": "Tue, 16 Jun 2026 13:00:56 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHBlV0hzY3l4SjFqa3lMTEVOcDRLZmxrUlZUVDV0NS1uZWtpNjdUb2JLYzVWa1VOeUh6a1hYTVJjTzhPNHd4c2VkWGx3Q1Y3eDhPaEp6cDV4Skh3Vjc1T2tERzVScnlaUkpRNXRiUkhZTEpteFBkTUwtYXM3RFUwZTllOHo3SGNMVUVSMFBvMllUVk45bGl0V1k5TWhVekE?oc=5",
+          "published": "Wed, 17 Jun 2026 21:42:08 GMT"
         },
         {
-          "title": "Exclusive | Corey Feldman gets diagnosis following in-flight emergency - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZmZQUXpyR3oyWkw1TDVrOGZZNGlUckNWRU8tQ0p4TVBGWGdFY2E4dkYxdVJSSHpaNUdWNkg5VmZpNFZKZ3ZIQUxFeEVRZzJmVENET1MyVVZSRTBsWjZib1lQOUNYS1d2UXBWV1FwcFBYM2ozQnU2Y0diTVBWYVc3dngxVTZFMzh6Vzc4WnJ0T3U2WVhOUkRGR3pVdXdDLXg4ek5rVGtqX2s?oc=5",
-          "published": "Tue, 16 Jun 2026 20:48:00 GMT"
+          "title": "Anya Taylor-Joy on ‘Furiosa’ Struggles, Being Bullied and Joining Middle-Earth - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU2RlaVpoOGUyNWFXMGZnTUJwaHl2VXVVX25NUFRLOGpYVGpkY3ZGUUpRbjlwSU8zYUZkMDhlTTJ6ZFhLQXZscUZUUXlYelQxeUdmYXlQSGRjN0pRMmlPRHVpMmlUOE4xdld6OUdLaE1pWjh6NXJrQWl0T1lOMkxJby1GUThXb284SGFZXzVsbGZMNTI4WlVYRUMwcFd2SnBpbXNkWDlnQi0?oc=5",
+          "published": "Wed, 17 Jun 2026 13:01:06 GMT"
         }
       ]
     }
