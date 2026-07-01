@@ -1,7 +1,7 @@
 {
   "market": "LV",
-  "generatedAt": "2026-06-30T23:11:52.508255Z",
-  "validForDate": "2026-06-30",
+  "generatedAt": "2026-07-01T23:14:49.583844Z",
+  "validForDate": "2026-07-01",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Pēc svelmes nāks negaiss – jūlija pirmajā dienā laikapstākļi strauji mainīsies - Rīgas apriņķa portāls",
-          "publisher": "Rīgas apriņķa portāls",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNXppdVlOMVdIRktTUHgxYWRYWG5MdVZoMENLbzNKMFE1SzliY0NSSkV4a3FIVDdadGtjYVNwUkZjUHpUN3RFVXhPMTQ0b2xaUjhtaFYxbUZmdS1ROW9ZQTFZZUc0YTgyQ09HMm9hWElTYWNWSDBhUWdSdzI3dS1DdGNUOHZQQks1TWp3OU9iM3VtUlJDR3VzeVF0T1RyZ3Zmc3EtV0xvNlE5QTdxMTNVME93?oc=5",
-          "published": "Tue, 30 Jun 2026 13:42:00 GMT"
-        },
-        {
-          "title": "\"Pret mani uzsākts kriminālprocess\"; Elviss Strazdiņš informē par notikumiem saistībā ar kiberuzbrukumu LVM - nra",
-          "publisher": "nra",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaVl1ZUNsNFA3cGVpQnlibkhFS2d3d05iUFc5MjdFOXBJWWd2ZUtBSjB1NDhCemRQZ1V3TlQ0YXQwdEtfSXNJQ0x3WnRfRHd5OE1hUEZEa3RPSHo5Zkc1MV85djRsY096VWFLU0Q0NnNVYjl4cmQybU1JUzRNcWktSWpBY05Nc2Z0dkJjNVlKZGlBQkNjQ09YeA?oc=5",
-          "published": "Tue, 30 Jun 2026 04:14:00 GMT"
-        },
-        {
-          "title": "Ugunsgrēka vietā Kārļa Ulmaņa gatvē ierobežoti dronu lidojumu - TVNET",
+          "title": "FAKTOMĀTS Kiberuzbrukums \"Latvijas valsts mežiem\" netika veikts ar mērķi falsificēt vēlēšanas - TVNET",
           "publisher": "TVNET",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPelg4OEp1QjJ3M2xqT0VyalNOVzlZclBpazY5dXBmN0xENFNnMHpfU2ZSTmlHM0o3dUZ5ZW5vWV9oNWI4WEVCekd0aDdOclNjY3RHQ2JBamJudkJuZVA0OV9XSGFlTFROYTFSdFY1ZUNaNXVqSFhuUlAteHFTVjJNZDJaUXd5WXJoeVVqaUwxQkpzVU0y?oc=5",
-          "published": "Tue, 30 Jun 2026 20:20:54 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHVNa3hKelJhT1drOGZpS0JNMXgyOUpZd0lCb2FZZUsxZlRPYXh5cC1tMzJJYkk5ckRlaUJaQWs3TjV0c0JaM0ZxSS01eGtfcEN3M04wTURRMU5UMFRFdzBBZzdLU2RMNlJwdDB3YUF4aFFmXzcwWFlqZ2xKMUh0a1hsN3FCSlRCdkRCU3dObnZjeUNFSk9UUkFZZWtvYzY0X0ZFN1NWWFo0XzNjbEoxeFFqa2FhYkU4cmdGUw?oc=5",
+          "published": "Wed, 01 Jul 2026 21:00:00 GMT"
         },
         {
-          "title": "Ar NATO komandvadības maiņu stiprina Baltijas aizsardzību / Raksts - LSM",
+          "title": "LPUF: PVN likmes samazinājums var mazināt pārtikas ražošanas izmaksas - Press.lv",
+          "publisher": "Press.lv",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDFqSTN4ckFrTUFYTEJzVjlGQ012bnVlQjRLbmFBMzRRZDdKeTNaTUM1aUt1dkhxRFRwanJhdVhUODV0VEZ1WjBSd3RPNVhVQk1GUzZkeTBJTzdFcDU3bXhCR1ZiRW5aOGp0Tl95WE40RlQyU2YyLXJKMTlmZEtkcnRRVWl5d3ZNWU5WNDFkcUV6djRHUWRBS2NR?oc=5",
+          "published": "Wed, 01 Jul 2026 17:45:23 GMT"
+        },
+        {
+          "title": "JV Saeimas vēlēšanu sarakstu līderi būs Braže, Siliņa, Kozlovskis, Jurēvics un Bērziņa - BauskasDzive.lv",
+          "publisher": "BauskasDzive.lv",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTnRpUVFHb1FrbklocGhuTHB0b1loT191WDVoZk9XQ3ZrQXBzZnZRWTZGRVJGXzVmOXZYTTY1U01LQUdpc0doNEZnWWdDZUszelJUTzJpQS05ZGRGYndiWUNDc18zb21nVWFyeTRDd2FNU0tYNVdNcGd0VEpkY2lJd3NSV0lfdDV5VE4tbHZJckRKMWRQdjRQdEE3bjB5ZnRaZE5PWDNvcFk5TEQ5azBscjRBTFE3S1E2NFFvQk1tSlhVaF90X3c?oc=5",
+          "published": "Wed, 01 Jul 2026 19:53:21 GMT"
+        },
+        {
+          "title": "Igaunijas prezidents sarunā ar Rinkēviču: Ja jāizvēlas starp Roņu salu un draudzību, tad es izvēlos draudzību - LSM",
           "publisher": "LSM",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc1daQ2hSTlIydkw2ZUZDVEZTc2FseGRWY3FDNFBYb2pWeGR0dHktaFliV3ZwUXBmTGtfVU1fclBvU0Y1b3Z1ZDVGdGZwUEVnbkZtOHJHSm9tajhaRUZiYm5pR3VEejhMVXB5cWl5Y2Q0eldtZlVXS2Fzd0VQMEtVYjRMRDU1Q1VtUVl0dTg5dDZQUlpSbFFKenRFZy1tcGlWVC1USkxfY2dJOFVwRXBpWm84QklnYkVN?oc=5",
-          "published": "Tue, 30 Jun 2026 16:49:28 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObkNlYUZpQXc4Wlo3b0lVMmJOOXJpUnM5MGpld1RSMDVOeXRNdW9pVExSUnNrZkVuNURUZHlDaUlNREROT2RPa3FINlFtVDlxNUVQUVY5aXFuMERhUm1nVmktZm93TUgxOHI2a0hmMVpfMmdNSmgwRW5qMFBxYVU2a0hhTmNqaWtoOTB6djZ6cDNVMXNnbkRZWnI0Qk9EaURtNFE4VVZPYVRXREVJakJsQWVHdTh2Y0FYbEZLaklBb0owbmNaRjd1SklqVlBud21iSUZhZUZUX2l2VnZyY0FNMTRvMF9xcVJCc0sxenRVeTJmcFdUQnF4VDhtYw?oc=5",
+          "published": "Wed, 01 Jul 2026 15:31:49 GMT"
         },
         {
-          "title": "No šodienas slēgts Jelgavas cietums - Jauns.lv",
-          "publisher": "Jauns.lv",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93bHJ3WngxNENTZktnU010dVZ0eDREc1pjd05TWlpXUWh6RjlNeVlBM1FHZXM3bG9xV3loSWRRdDk0QThUZFBtTnFRX2xieU5uck16X2RobkZJZ0l2cjh4bHFvS2UyVGFQcTMtM0J6cy1jMi0xSnUtYkdiNA?oc=5",
-          "published": "Tue, 30 Jun 2026 11:56:29 GMT"
+          "title": "LSM valdes priekšsēdētāja komentē jautājumu par vēsturisko Latvijas Televīzijas un Radio zīmolu saglabāšanu - Apollo.lv",
+          "publisher": "Apollo.lv",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOEhQTGdEQVFrcDdEeGVUR0RtRExMd0JwcW1HWUR4VjZGb2VvRWl3NDZkS25rMXZCX0xOb29KMS1nbWhnVzh2aS1SZHl5bWMwSmJjLU44eHBIZXdDQXBsckNXX3ctajg3d0JpOGpOVHlhTmRndkYwVXlsMDJXc1E4YXVvcjZHZmJCTjFGaEpMSlRLSm9nR2wyMlFxU0lpQXlOTjVJTXI0OWo2R3FIVUw1QzVSWTdQYl9ycmc3OHo5bkRBeVNfN3paSEpwUXgzT2k5dzk4?oc=5",
+          "published": "Wed, 01 Jul 2026 10:33:20 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Apšaude turpināsies vairākas dienas: Krievija gatavojas uzbrukt Ukrainai ar simtiem dronu un desmitiem raķešu - Jauns.lv",
-          "publisher": "Jauns.lv",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa1pmVGs2QUMyc2kxa3luNVZvSG9QS3pLeXZTeVFmLS1OSUd5dm5keVpjU1RuU0txVWszMFkzMmt1NWQtVzZYR1NZNlQxTUJFSXliUE9tQWItZ3c3TmlPcEtPaXludThqWEZtUlR5bzdrNnRhZ18zQlFmT2tVbWdzNWxMaXAwX3pvOFN2SkZvSjByVnM5UzNGcGFNVFFWamlWa0hmbGswNWM0S0FPMWZ0OVg2bGI1cFJ5TDg5ZlZuSnFGRXd1aEdfbVdXZ3BDRzZPbnVaTEM4enVablBQbERsWQ?oc=5",
-          "published": "Tue, 30 Jun 2026 13:07:13 GMT"
+          "title": "Jūnijā Krievija pret Ukrainu raidījusi mazāk dronu un raķešu nekā maijā - 1188.lv",
+          "publisher": "1188.lv",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzI5dlRUY0FyMms1NHNzQnZLdk9yXzlVcHZkVlJHbm5VUi14aFZ0MllYQjFxeHBoVzJMT3d2d3EwVXJ6cnh2ZlVsclR2NDBfamR5NkZkckFDTkNjLXhkd0JOXzcyVHFZMGpZeUNjMl9sTVJWSFNiR2ViSlo2dmJnMkRKUUtrTzAxbkppaEg4Z3l4d2RLR2FZTzEwOGNoR1NiWG5zUG1R?oc=5",
+          "published": "Wed, 01 Jul 2026 19:38:18 GMT"
         },
         {
-          "title": "Krievija deg, bet balto karogu negaidiet: CNN atklāj Putinam bīstamu iemeslu, kāpēc tā - LA.LV",
-          "publisher": "LA.LV",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZEd6cS03R3NmTW5DT3dwQ3ZHN21EVDl1MmhGeFVveURuZTlhWVRKWjI4VTYtaHRqMFpCcFFjNEg1eWw1MHJmTk1ZbTJIT2JuQjFyeGhfOHZwZW5wOVpjbDRESkxDSkhNSVFDeFVuT1BFcUZ0NWZUTVNmZDhMUnJPUmVVZ3ZDekwzUnFQQ1gzMUloQ2RqRVlBc281MEVIcXF1ZElJ?oc=5",
-          "published": "Tue, 30 Jun 2026 07:17:02 GMT"
-        },
-        {
-          "title": "NASA dati: Zemestrīces Venecuēlā, iespējams, sabojājušas vai sagrāvušas vairāk nekā 58 000 ēku - LSM",
+          "title": "Medijs: Krievija importē benzīnu no Indijas degvielas trūkuma mazināšanai / Raksts - LSM",
           "publisher": "LSM",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOXc5TFhBWllfektxTGJISjRGb1AxbTZKczZqbzFIaWhZb1o1VmFXRVNFRUd2QWlFT2c0MGx1d1lRMUhjTmoxUDNpY2pmeUE5YTA2dnRVSVV1ZHhuUUtGRE1ZVWhfQXlKeE5ydGZqdWlGRk55X0N4Yzl5Q1Z5TFc2VlJ5TlJQcndLVGI0cUJFNUhiWGZKS1BEVTIzQks1R241WDZhellVXzhqbUxIdlhqUWFSemdnaFZnUzZaOUE3WDlVSkswbTZqdklhQXVDdGMxWEQ3aTJlVmdUdEl6ZUU3OFRtb3A4dw?oc=5",
-          "published": "Tue, 30 Jun 2026 07:44:11 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORlVLZThtNFl5Vjk0UkVwRE1pS1dsX2QyaUpqd0IxUHF0bHR0cG5iY25VckV1MlhPaHlnWGhvdmdSeVJlNEdISWliS2hXUXl5UU5tcWMzc1pWZkpsNXl0NFkwLTRfZnV5STVNNXRxTExDcjZsM3g0WWNhRFdwcHc1YV83TEZjYms5S0lzQjhNUElxVWQ3M2JzeXBWak93V0UwS1ExNDlBVVZhaHNaNGtYa0NhVWhYdGJIMTdKYV9sWG1oWUozeEdOaGtoVEk0cDA?oc=5",
+          "published": "Wed, 01 Jul 2026 13:21:25 GMT"
         },
         {
-          "title": "PVO brīdina: Šīs vasaras karstums ir tikai iesildīšanās tam, kas sagaida nākotnē - tv3.lv",
-          "publisher": "tv3.lv",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNlhLZHFnTGw0bjM4OElhQlZWbFZFZmVuZE1XeC1Fb0gxMzd4Y1BUOGdZb05VNERyX2lRV1RkTG5RRGRfM0JnNHBzbHFhNWRzVDk0ZHdUb0lEQXFCQ3VfZnRPRUx3cXpsSUsydEdRekRRT09HaWVra2xmNGk3Y0VtTTR4VXJybl9lOTFNb3A1eGVidGlBc0cyQ2Q2V29pV1hkbkRNY3ZEWG5WYkFhbHZB?oc=5",
-          "published": "Tue, 30 Jun 2026 12:01:10 GMT"
+          "title": "No šodienas ievieš trīs eiro muitas nodokli par precēm zemas vērtības sūtījumos. Kā tas ietekmēs iepirkšanos internetā? - Apollo.lv",
+          "publisher": "Apollo.lv",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY3RkbDdHVGFtYldMcGdBaC1maXNlRzJ4dHpBWmd0d1JwdmFmY0p5Wi1CTnQtck9UOEVuUnJuVmhtQ0NXeUhyaWt3ZDZfSHB5VVZURlpMdEQybmNrSE5RTnRQZ2FRc3dWM0NpaDQ2WTZNMURmSGNCVVZGT3c5YldUWV9NRnZoNWQtWjNRbEVOX3BkQTdYWE9Md1VsOWM2Z0RWQWtvRFhDSFNwUUphVUQ1VDJ4dkg1eHJUemVRbFEyQkJ1Wk1LTXlMYXNLNkZGQ1NERWVtUFlER1ZMWnVkajBvQw?oc=5",
+          "published": "Wed, 01 Jul 2026 08:32:44 GMT"
         },
         {
-          "title": "\"Brexit\" vilšanās jāatstāj pagātnē. Lielbritānijas vieta ir ES - TVNET",
-          "publisher": "TVNET",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeVFCSzN6S3V3ai1NdzRrOEFVZG9JZGJYa1p3QnlhUDR2cmhNNGJMNVEtR2ViSnVvOXlyZTF1UVlfRTYzZ0tvZ1dWUzVoVkpFN3RaVlAwaVY0YnRidnZwZ0ppckFERVFXZklzdnZvRlNHbU8yc1d1WlpNMkptOHNSNnJZSXRYLWRUTlVpekxOX3NYQQ?oc=5",
-          "published": "Tue, 30 Jun 2026 21:02:00 GMT"
+          "title": "Valdība pagarina pastiprinātu robežapsardzības sistēmas darbības režīmu līdz šā gada 31. decembrim - rs.gov.lv",
+          "publisher": "rs.gov.lv",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUDhTVlRrU2M2MGVHMVUxbXVtX0JORklYUXdCcUJHX0NXdlp2ZXNoS1NzSmRHQ2FCdm1kOGFkWEV3Y2h2OWxKWXptN2lHWkNpYzdncDBzOU5qRW5Ea3gyNHpwUXFQOEpZaGdERGtiUmU3MFRhOVZrTlVQUHlXMzRoOGt6MC1BZEt6eUhJWUFxSlUtR2FlTGM2VzByMGQ0X0M0NWQ2MUtsLXl5NllBUDk5RllWdUhtQ0lMdkhWaE9kMFpKejFmRWtES2lDZ0M?oc=5",
+          "published": "Wed, 01 Jul 2026 09:01:43 GMT"
+        },
+        {
+          "title": "ASV un Irānas amatpersonas Dohā ved netiešas sarunas - liepajniekiem.lv",
+          "publisher": "liepajniekiem.lv",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYU1NckhJRkdUTXFuU0x5akUwOENCMHp4QndIWGVqSkJFNkpPRXREYVM5dTBlVGRlV1M0b1BmNUhEdzRvZ0M0dkNmVW1GVndQY19uelpNQ1pTa2xybnYwazUxaWJISWNCVTFESTJub3JBOHFnMGl2YWIwZDVpRm1QeFdlWllZRlRoemVGbUhhRmlTaGR4eWhrS2F0ekFsS2M2U0RnMGYzYjVkLWs?oc=5",
+          "published": "Wed, 01 Jul 2026 12:42:19 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Maijā mazumtirdzniecības apgrozījums pieaudzis par 3,3 %; vairāk pirkts apģērbs un apavi / Raksts - LSM",
-          "publisher": "LSM",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONHdxVkswLWJhV3FXQU9INW9xQy1rOG9tWVFhN3FuU202ZWwzNXlVdlpTdDBQejRpZFQyVXpNWUJxc2VpMnBZRWl6NXNWeWtmVWVSY2VvT25saVVPRHpPNmF5c0ZfVWJEY2ppZm5LYVRsOUV4YXlYTy01OGxJWkZpdXpVMnNYa2VQUjdPSGo1cnloYm43cVp5R21ROUhsbFhROGt2RFJrZGt6M0JIVU9HcEFFS0g0MjZBaER5Tjcxd2VESDl0b3NzLXlIdDBFNHQtSWFSb0UzTjJpc2VrbUYw?oc=5",
-          "published": "Tue, 30 Jun 2026 10:33:58 GMT"
+          "title": "Latvijā parādīsies auto bez vadītājiem? Valainis tiekas ar \"Tesla\" pārstāvjiem un izmēģina automatizēto braukšanu - Jauns.lv",
+          "publisher": "Jauns.lv",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSlEtRllRZFQya1BROUpMeUlwNGZtdWIxTXo2QlEwaXdrQklwcGZadVZrWDBXS3R6TEJiV3JJUUhvS04wZnF1NUdKVmR5NDN5VUpqQnBZcFh5cVJ4OEJGR0N1Y0daRUZCU19ES0w5bzFCV0l5a3lKM2N1bTUwdWYtU0U5S0ROTmdrZkRvODV4bTI2UVlvNk1oNVpiT3F2Q2JqSFlDNzVZRHhJODF0bkhhV0ZsU3dCM2Nsai1ZUGxHLTVsbmxDdEdXR2Y1eGQycEwtUDVjNDFneWFtSkx5VTIwWHAtdw?oc=5",
+          "published": "Wed, 01 Jul 2026 15:18:50 GMT"
         },
         {
-          "title": "Dienvidkorejā dāsni ieguldīs mikroshēmu ražošanā un MI datu centros - Delfi",
-          "publisher": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVo4Ung5M1hwcHlnQUdVLUdMd0ZHRjN6SmJ1VXJxWG5qcVF1bTltZjFBRk94eGI0T3lwOGdxSlk3WGtwZkNPV0RvV2NxSUtFMF91RUhnZVEwVDhaYjk5OHE0cXNneHMwWEFEOG9qV0lXRHNyTGRQVzE2emVfd1hoWDkxYlVXWEt1RV9qNHk5ZFV2eE5pd0VHZ3YwOThQRE9BN2s1WUpLSmZLUE5MaktzTWloWDVBdw?oc=5",
-          "published": "Mon, 29 Jun 2026 14:13:10 GMT"
-        },
-        {
-          "title": "Akciju cenas pieaug Volstrītā, bet krītas Eiropas biržās; naftas cenas kāpj - liepajniekiem.lv",
+          "title": "Akciju cenas ASV un Eiropas biržās pieaug, naftas cenas krītas - liepajniekiem.lv",
           "publisher": "liepajniekiem.lv",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT2VtLWNSbzdQTmN6YjZIeVUwb2VGWGo2cE5mTy1iWExzSVFqYUxLd2RNOGNjN1NIZi1rZ1luM3MtUVhMLWhkSGR4enZLSFBQaGdrazNVTjkxLWotb3FKSnFjX29PRXA0YndnQzFwN2c1Y2VHWnFWbUxWVlN3dFBsSU40eGdMZTFzNV9SN21HZ2Z2WFMzRlRGRTl4NDZ2dlR4NzRjbDBLWkp0YmV0TUxYUDdaaUlQQ0JLNlllUDBaRW92T3paNFZ1ZmxB?oc=5",
-          "published": "Tue, 30 Jun 2026 07:02:25 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVV1Zk11aUxOanBrNXJzZ29xQkVGMUtCYkJoem92Mi1RclZkUTVtbWpvNy1NbVdnLXpqdkpLTm8wbnlDbm5wVXIySjZ6alRwMEVsaW5OaWdJQVlBUkd0bHc0Q21sR0VfUURSWXhON2JWZnZMdTljdnlyZW1vZENwSHlFNWI4Mm9ubEVNRFpzUERLTzlMUHFZRXQxbXpvNFplREktZGpiUTk0X2QteGJ4SlAwRGV4N0xDbEE?oc=5",
+          "published": "Wed, 01 Jul 2026 09:31:24 GMT"
         },
         {
-          "title": "Google Ads vai SEO - kuru izvēlēties mazam uzņēmumam Latvijā? - Aluksniesiem.lv",
-          "publisher": "Aluksniesiem.lv",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlcwS04waF84bEQzNl9YaHktdm80ZVRSVjUyNU05SWxFNS1FZzZjWkllYjM3UnZxanVXdW1nUGEtc004RjFMQVJhTjRHNWhaTExXdEtHQlh3cl9aUjRaUEs0RjZ2UXd4aWNMT0JRNDdqVEdidS1lZzRjRF9QTUdzRVBlOGZkMU5pUFdKVk1iZ3g5aXl0ZkRoaFctMi0?oc=5",
-          "published": "Tue, 30 Jun 2026 21:03:31 GMT"
+          "title": "Latvijas jaunuzņēmums \"Adsmom\" piesaista vairāk nekā 600 000 ASV dolāru investīcijas - Lente.lv",
+          "publisher": "Lente.lv",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRXFXY0hKd0lESmpvalBscjBPU0VsQXpLNW1pdVRTd0lHNS14a2hpb0pXUEtkdHNPR0ozeEZ1THlJejlJNmpvNUJueF9TZ2VGeVFOeHNQMGxYM0JPU0hPVWMyY1pqckRzWlJNbUM2SzNkMG1zU3ltNG5wS05vcURRSHF6MXNNcHRkVGVrWE9ySERBdXpySC1xRmFjMWFQZElqMGxBY1ZDM0REZmZjNDl2U0pQM0tCSkpMc1RJeEJJUEVBQ1hV?oc=5",
+          "published": "Wed, 01 Jul 2026 23:10:02 GMT"
         },
         {
-          "title": "ASV tirgus apskats: SpaceX akcijas strauji kāpj, tehnoloģiju sektors atkopjas - Investoru Klubs",
+          "title": "Baltijas mājsaimniecības banku depozītos tur desmitiem miljardu eiro - Investoru Klubs",
           "publisher": "Investoru Klubs",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNEVSaG5yYXAwYjdnY1BpQzl0OWFVVjRHU3g5Qno3aU9xaGR4ekFBQkhTZnI1UFFzLXRYUkRvWTJ3TklRQktxLXZWS0NUWVNrU0gwRE4wWTFxaW14czB4UHBHR2RPVlA4b0tZY3cyaHlBZi1DRnZrUWc0N241Y2tycFF6amJibGppYlR3UmpycXJOcXRlRXZvWk5yTDRDNGp2bVFyWEs0RUVGOFpqb1g2anFURlRjM0tSSTFwWDZWZjFQTnhfNkZhN25sYw?oc=5",
-          "published": "Tue, 30 Jun 2026 09:41:45 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTE5sY2lVVGs4MkkwRWpZRnRZSFNHWnQ4TXJwSHJraW1PZlBiTWp5NGFCTmY3bExwOGthWmRIY1hPUXBoRHlvbUpiRWNoTFBRLTg2dEl2M0Z3LVJfck5RdW9LU2FHQ3JpVVJiNWhuS3JVYWxwbjYzZldTTjI5VHFycElSdG83RWM0N0s1cUU1djJWdTlZWHFBdE9yeXdja0hLa2Zabkt4NTlHa0dVeU8ya2hmSTVIUC1SN0p3ZTBNbHppQQ?oc=5",
+          "published": "Wed, 01 Jul 2026 06:38:09 GMT"
+        },
+        {
+          "title": "“Volkswagen” apturējis pusotru miljardu vērtu autonomās braukšanas projektu - Kursors.lv",
+          "publisher": "Kursors.lv",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0QtbGtrcjdnd3UwZWFfd3NlOURqUjFkQjFUSG1MamktYUctZFpLOW9admd6NVg2OTBsSjR3NUt0el80ZWdDVFdHTnVLQ0dzZUphYk1qbDhtMzFmZExBWjNhcHA4eGpZaDNOY1NsTDJMTG9INTlWQVl4ZjFUWEYzbnEtV1Rvejk2VXY4eEVkY3M3UC1JMVNPemtDWVo1c0MxM3dYd2Y5VQ?oc=5",
+          "published": "Tue, 30 Jun 2026 05:30:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Holanns turpina savu rezultatīvo gājienu Pasaules kausā un ievelk Norvēģiju nākamajā kārtā - LSM",
-          "publisher": "LSM",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWnFGbFE5UWhLbzRNczI4RVRxR1gwWGdHWndBZTVKc2tQZlc2anFkMkhIMUhlTjhyWjd4V3JtS1R4cDBBd0dpaFJwVUJIWVB5eVB5LUdsU1luYXFKTk1QLUZneWxmY0phVTdEa09MT20wUFk2UEtpc1lQdE9iTGJLamp6TWRKZUtJbUI5UktEUFlqa2xSLVFvNnppTHl2WEJmOWdLN0E0Wi1KWVdlR1JmTWFKenZ3c21RZnpiY2pWUC1iTUk1MVpLaDUyX0pZMlU3em56NlVtdkE2RWxGR1ZaR0JYc0xDUQ?oc=5",
-          "published": "Tue, 30 Jun 2026 19:04:28 GMT"
+          "title": "Aļona Ostapenko pārliecinoši iekļūst Vimbldonas trešajā kārtā, kur spēkosies pret ranga līderi Sabaļenku - Jauns.lv",
+          "publisher": "Jauns.lv",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONXdUbEUwelR5aHB6ZUVnT2xTY0ZDVWMyM25xbmdLNE5CaGN4V2ljTlAwZDg4WWNWMEdMVEtiNE5xVG5VUkpoY0Zab3dWVmdMcm0ycExUWU5oVzVPVC1OTXRiQVNWdjRqc0JqTzM5R2RNWVhuN041NXpYcnhYNk91UGh0U1JvT1JZaG9fU3RtMkFMbGFETEhnd2hqa0RfTkRXa2RiSGFIQ245N3FWR3VKRy1LN29WZXZrRlBnX1ZMSGZUWm1yOTFNME52WU5vcW56d0lpaGFFbDg?oc=5",
+          "published": "Wed, 01 Jul 2026 15:02:02 GMT"
         },
         {
-          "title": "Virslīgas spēlēs uzvaras izcīna RFS un \"Liepājas\" futbolisti - tv3.lv",
-          "publisher": "tv3.lv",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWWVUOWNNUHlQaTc5YVkxVFM4aVh6S1Q1SDNiZUQ3RktKQTJiWmhKWFZfOVlyYnYxY1VOWmVUMzJRMWU5anRlRHU4WUdrOGpaSmZlOEVOY2lGM2VUU3BfWEVobHpQVThOcW1GVHROYmROQUg0N1VYWXh2M1R0WVhKdTVfa3RfalBPSXN2U2hEVkEzLTg?oc=5",
-          "published": "Tue, 30 Jun 2026 17:58:32 GMT"
+          "title": "Porziņģis par \"Kings Of Air\": Bez variantiem labāks par NBA konkursu, bija reāli kruts līmenis - Sportazinas.com",
+          "publisher": "Sportazinas.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnkzOUxyWVJXM3hVbF9qeWVNR3VHSUVPTlQxbzIxcjR0NmUyRHd3bTU0MmtDcEg4NkQ3WEEwUVRMR3ZkSkFZN2pLU2NPRm1MU05PMWJmeThhMkN3c3NMX24tLWFOcGUxWC1UUmxmQmU3VnN1alExRjZzN1o3TmVpWkM4eGpGZGJBNm40Zkh1U3FwdzFkQXRJZGhDRFBEbG5jbkpqTWp6NENSYThmejM2cHp5VzQ0T1BoNTlN?oc=5",
+          "published": "Wed, 01 Jul 2026 19:30:00 GMT"
         },
         {
-          "title": "ESPN kritiski vērtē Porziņģa 40 miljonu līgumu ar \"Warriors\" – Basketbols - Sportacentrs.com",
+          "title": "Bļugers tiek pie lielākās algas NHL karjerā un turpinās spēlēt Kanādā – Hokejs - Sportacentrs.com",
           "publisher": "Sportacentrs.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0tVbjM3aGFwXzJ0UEVrc185SmdjbFFiaFhqZmZJaG5sUE9mNHdTSTNDNU5VbXJ0dzhFdnBtdzBkUy1rN3lYM3NQNDU0WTE4dldidy1DREp0VTdmNmhSOEFEZktkc3JmamJMVnBaeENDbXZydEJqVHpvS2x4NWx5Q3hPeTl5MnhJQkVBNVN5NUEzNjVXcWdFMG5XMHhoRDZlLTNlckFTc1Q1RE15dVE?oc=5",
-          "published": "Tue, 30 Jun 2026 19:26:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcUNzYjUtdHF2Y2c0V2wzZjg3M0htSG5IeVdaY1AyWWo2ZnNlcVA4eFd0MEN2R3pKc1hOWmpncHZfV0VUOVhpQTkydTI0UnQtc2NEZnZhMXJ0NXFjSy1STGJ6Q0ViazBGbFczOGhqeXp5VDRYY3pPcko0Q1NZSDRWRlp5MVcyYkl5OVV5T25Va2F0MEZRYnZjR0Y0cFpFMEo0Tkdqeg?oc=5",
+          "published": "Wed, 01 Jul 2026 18:39:00 GMT"
         },
         {
-          "title": "RFS uzvar \"Daugavpili\" un apdzen \"Riga\" cīņā par Latvijas virslīgas čempionu godu - Jauns.lv",
-          "publisher": "Jauns.lv",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDhRNXBaU2l6dDhRYTAwUlhiSjFzcEN1dWtjRmc4RTUyQmtROVRzZTJJTHdDTVh3bG9CLXdtSTFTT3VaYUxqM3BwX2pWVENkMUJ0YXI3WmdFeXg4SHl0S0piSlN4MnhQOUlpMVhXZk9NRW8tcDRTZWNDbzVZbVNOSUFhM0lNYnZqZS1lVEJSaVVFUTR2dy1Nd0dwNklaR291M2RQZkQxSkNjd3c1bnRxQzdlUWw?oc=5",
-          "published": "Tue, 30 Jun 2026 17:39:16 GMT"
+          "title": "Vilmanis paliek Floridā – Latvijas jaunais hokejists pagarina līgumu ar NHL klubu \"Panthers\" - tv3.lv",
+          "publisher": "tv3.lv",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNHJmaTlyVUNVak10RDUwbTlnMXNhWFJSMmtfa0s1RUF3Tk1EVUxvQnFjTEdKMHQ0N0M0ZlE2a0lEcTdJVVlRaDd5amxUMDNLTW00ZlMtQzVjdWlUZDQyZ1BsMHNnaE1YWDFUT0NhdUZNMFh3VnVKcFhyYUo3cUdQV2Nxb2ZUVlRUS3lWUnZVeFAxOGJ3OHhOSVVlVl9xMksxYmNsNUU1eUlIbWxoZVlFY0U0NGNsdWtZQjAzOG9adzI3Q19y?oc=5",
+          "published": "Wed, 01 Jul 2026 17:37:26 GMT"
         },
         {
-          "title": "Kristaps Dārgais karjeras pēdējās \"Kings of Air\" sacensībās apstājas pusfinālā, triumfē polis Grabovskis - Jauns.lv",
-          "publisher": "Jauns.lv",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa1BxVVlORk8xSmxCVDJ6SmJpVHJkd1N0T3lOMjJGeTZSSF9hM2VUSkVQYWVIb2xTYVFqYTZ6b3loMDdkSWRyOTYzaXl6YUI1cXFHdG42SHpneHpBR0U5cG8zVGZQdG5yYnZyWF9nMC10OGRQdFBDUkpQdXB1azl1SzNDRTByQnNEUFBsYVVEQ3RkbjBBbXNvYWkxeERYT2k4WXBqVEM4WV8tY3VEWThHRzdEaldmLUM4Q0J4WWVqWjFxRGZvVkpPRElRcEI0dzJXS0VQYQ?oc=5",
-          "published": "Tue, 30 Jun 2026 21:44:32 GMT"
+          "title": "Jēkabpils novadā Baļotes ezerā uzņem pasaules labākos karpu makšķerniekus / Raksts - LSM",
+          "publisher": "LSM",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPelp4WUhjNHA5YjBaQ3NEcDhtcDlHaW5Oc3poY0ZEZGNfTVd5ZEdtcmJ5d1owa0VHWGotNWJaRk52OGpacDNaOU1WSFZoQ3lnMUEzZVJaNXdCUWRuLWstcEhubzRyXzBPZkNxcVZnRllyMmgyUVRGUnRqeXZxMUxQWTZxazhoaXlzRUpseUd3c2IzRjNpSGpWN0JNTDBETVNtVzBHR1lzY1pwZFg3bTNzdHJSbERkbnlsLWplSDRmaTBNdU10alVrSGxvdjNVdw?oc=5",
+          "published": "Wed, 01 Jul 2026 16:23:04 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "“Sony” gatavo flagmaņu “Walkman” mūzikas atskaņotāju - Kursors.lv",
+          "title": "Kritienu testi atklāj, ka “iPhone 18 Pro” dizains neatšķirsies no priekšgājēja (video) - Kursors.lv",
           "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYVZPM1QzdWxMQTE5akVXWjVHSmJuVW5DR3RRM3Itck8zbmVEeXlYcS1iWXA3b1ZMUUl0N29HTGZqbkE4MjlWa2JaSGQ5Y0daOVVKRDhWWTVFTFkxdERIc3k4NWU4VUlndDVWNDJWQTM3b3ZsMUdxaHpXOFBOczRxMGtPLVlWdw?oc=5",
-          "published": "Tue, 30 Jun 2026 09:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGRPZDFOaGJuSGNuaXFFa2J1aFJrajUxbGotSUZPbWhRMnhBaElwWkJrb3F3eVhPbzJkSERjZEhOSDVLTko1U3dhMzFfV0xkRXJxZnRjNjg2WkR5Y0RMTHE2ajNjcXRXdG9EdnFua2drckNvZV9qdWpRaWZlaTJjLXd3SEpoSU5sQTd5ZjVXSFlBdnU2ZVlRMVdodUNBc2E0RGxmRDhBMWdxN3M4UUhBNGx3?oc=5",
+          "published": "Wed, 01 Jul 2026 06:30:00 GMT"
         },
         {
-          "title": "Zvērs bez cilvēka pie stūres: Xiaomi YU7 GT uzstāda vēsturisku Nīrburgringas apli autonomajā režīmā - Uzlādēts",
-          "publisher": "Uzlādēts",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQTVvN3JpY1JrTUl1ZW1QQ2ZaUEpMNk4yWWd5VzI3RWtqQ25lcWFnMi1weFk2bm5Ub2N0YU94VXNFd2lBTEc1bW9NTnJPeVBjVFJGQUJIZGNNSFpTVnExQVFyVXFuMnFydlZIOFpmSmVPYW5Tak9wTzBpWkMwbHhOclNNQkxBMkUxYlFyWDdTSHNWZk5PZ2MxRGRqWTkySDR1N0NsUjNaOEpnQjZReG5uVnBFX2Z4VTJ6ZEZJ?oc=5",
-          "published": "Tue, 30 Jun 2026 10:04:40 GMT"
+          "title": "Vācijā ir uzražots viedtālrunis, kas izmanto Šveicē radītu operētājsistēmu - Kursors.lv",
+          "publisher": "Kursors.lv",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSU44MFRqbHBtTDVTN1RMbFdJbmx6aGlDQ01BZ3pvaUZvZnd5MGgtUGRxbnRhWjNNTi10QjRTLTRJV0pROUxuODN4eS1ZU25DZDE1VE03d0l4azlYdTZqRkFxdHVGVnFmT0hISU1nQ0kzSVRkZjkzcmRvLTEtXzVrdDhTSEdwQ1htZFhhcFRYUzBCZ2d6M1VFNUlXSUhJTG5sdWlPczYtaw?oc=5",
+          "published": "Wed, 01 Jul 2026 08:30:00 GMT"
         },
         {
-          "title": "Īlona Maska ziņapmaiņas lietotne “XChat” tagad pieejama arī “Android” ierīcēs - Kursors.lv",
+          "title": "“EPOMAKER TH99 PRO” apskats – pārsteidzoši forša 96% mehāniskā tastatūra - Kursors.lv",
           "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcV9uRmtmaktUUWZnWGFfSFg0ZjdrSXp2Sy1DN210cExHZlRqWXBWVGdOdkdqaTVnR3Vya2h6VnJ4alBidm9kenFfM0hQazdGT2U2a0J6Y3dYWHJIdjRLODFRdHlzeVl4TjhPZXBzamxjUEtsZU9nNHFiZlFXN2F4T25lenJTVnBaRWRfek9jSmt0QTdyYU1lUDdFblc2TUlFdlh1REVUdw?oc=5",
-          "published": "Tue, 30 Jun 2026 08:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFdSTVBuSVNuQS01cW1lNVNFXzF1ZGg4TVVESHVDMXZ3MEp2bHcyRVcwcUJuNHdPLXJ2MFpEUmxybzVpY2hBcGw0RUp5dUw1MVltajRXWGlaZHhBNkdwR0ZHTmpXX0xUbGM3RkpvU2dZNGszSjR4TzhoY3g5WWNwM3dvVHFTXzdnLTY5dnhvdjlFWkFVMmF4UkpaNXo5cDQ?oc=5",
+          "published": "Wed, 01 Jul 2026 09:30:00 GMT"
         },
         {
-          "title": "Pētījums: Spēles, kuru izstrādē izmantots mākslīgais intelekts, “Steam” platformā raisa uz pusi mazāku interesi - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVENiSjkweUR4ODFJaFhieWFUM0l2cmJ1UWVCbFRBbEoxTHFZLTB6MEc5UFlmRmszT0dwbFd4a0RzMGlHWXBVbUREZmhKWldiTWdZZE03bmZJdmZlSnhYRm9ZeTQ5QmVwY3ZZUEZIVkc5Y3lDNzFCMGhUdVY5aHlwT1VRMUt6bHByVmM2Z2xRdnZrbWg1YVNiRHRtUENqbGlJQ3VPU3F4LVlEY3JLUnlCU0hJNTJLZ3Z3YkwxcHJBdUhOanNhUURLWU9xXzgyd1dSZkVv?oc=5",
-          "published": "Tue, 30 Jun 2026 08:15:00 GMT"
+          "title": "\"Microsoft\" gatavojas atlaist tūkstošiem darbinieku - MI ēra turpina mainīt tehnoloģiju nozari - Jauns.lv",
+          "publisher": "Jauns.lv",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzdnLUVuUkdYS3NhU3MxS0lzbWJjWmN2dEVKV1VKVTk2RlhMTVc2ejQ5WjN3S0J5WktEQ2ZvWU4tUnZ4R0thYkpwUmdCLU5wajRzN1BmLVVlQjdKRVNvSFJRbktiVzdxMWcwVDkyYW9GT0l6UU1GZlF2bjlLTmVTeTIyTkRKTUxDcWRnYWRBMTRUbUZQakNyZGw2OVM5UjE5dG1TM3ZiQUdMeWF2Q3dPLVZKbk5CYVFEcUt0U0tXQ1Y5Q1FRX2Y3Tg?oc=5",
+          "published": "Wed, 01 Jul 2026 20:00:53 GMT"
         },
         {
-          "title": "“Apple iPhone 18” un “iPhone 18 Ultra” modeļi tiešām nonāks veikalos dažādos laikos - Kursors.lv",
+          "title": "Jaunākais “Qi2” bezvadu uzlādes standarts varētu ieviest 50W bezvadu uzlādi - Kursors.lv",
           "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRjNIdTJZRkRsTWpSRV83cnNJUXdnX09qWi1pSVZFN3JKYUROaXQwRGswbzV5bHVadk9xR2otUkR5c1hWTHVLREIydVotXzA2aFZBckduYm9EQUREM2pZd0wzT08xSUNhcGFzVlNsZGduOGg5TVQ1OVJrekVTRXowUlNwb0tpSURFdXdNWklzUHhLNHd6eFNmZG8zZWxyV0c0SmkzQmQ5d1lOMy01b1g0?oc=5",
-          "published": "Mon, 29 Jun 2026 05:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVY3NXZHclBobm1Ha2tPNUlYcHpyMU9hV3c1UnA2MGg2OWZQck81ZUVYNjhWZ2ZMZGJTcHBxbGc2dUNLOUlyQnk5MG9wMFY5Z3ZYdlU0OEhSWUJONFFRM0NxMnNzajYtWHd5Q2VCMWpqcVVDNkttRGpRdmdrLVhwMU04MUEwaGgzbzVxVnlnUUNFek1RX3hmNjRfZUIwOFFVRzVNVjJzcw?oc=5",
+          "published": "Wed, 01 Jul 2026 08:00:00 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "The Netherlands’ World Cup exit sparks identity crisis in nation of Total Football - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3c0U09KcWVzekJrYW1EamJ2MUpFZG9wYlpobldDbF9WOUFPUlRBY3VyaEtTeUlTRDNYZ1RxS3E5cTJjVmVBLUdqUnprck1FVWpjeXZXUmpWNlBMLXhpQ1JYR3ZKM09wb3JjcFVQYW9pNkJ6bHM2MzVyTUY0dWkyOHpTdU1LbS1maTdz?oc=5",
-          "published": "Tue, 30 Jun 2026 18:01:20 GMT"
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "published": "Wed, 01 Jul 2026 19:31:00 GMT"
         },
         {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+          "title": "2026 World Cup Odds: France Strengthens Grip As Favorites; Mexico Rises - FOX Sports",
           "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Tue, 30 Jun 2026 19:07:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Wed, 01 Jul 2026 19:19:00 GMT"
         },
         {
-          "title": "A Clueless Soccer Guy’s Favorite World Cup Things - Defector",
-          "publisher": "Defector",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aMnc5YkNxUTNLSW9BSU5scUI1MV81eWhNbkpKU1BXeFJlOUNRZFlhNkhVa1JJdldGc3BHMUlEUkpHVUR2OThUZVA2U2tFUldtUlo3dVB2RkdNRU5QTzZhZ3hna0x3RkdzQjUta3N5U2Y1Nm04WE00Rw?oc=5",
-          "published": "Tue, 30 Jun 2026 18:43:00 GMT"
-        },
-        {
-          "title": "Led by Morocco, African Soccer Is Having a Moment at the World Cup - Sportico.com",
-          "publisher": "Sportico.com",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEdua1BRc1hzNGp6Slo3ZnBPa3g2M0xjNEhQdHlMenpqQl9qVkFpU1V2R053Zlo4dC1IWTRjUXFrQW9iOV9TTk9FVFZyVEZaa1hpdXZiMDNNeE5aUlRxSkpjYjhWQjZnVm5LVkFpb2F1eXZaSjAzZG1GTXV3MkFUTkN0NzN4MmEwVTl6c2tfcWhyU3F4WjVTNG9IVjFIUWRqT3c?oc=5",
-          "published": "Tue, 30 Jun 2026 20:40:18 GMT"
-        },
-        {
-          "title": "World Cup schedule, results: Morocco and Paraguay are shock winners in PKs, Brazil stuns Japan in stoppage time - Yahoo Sports",
+          "title": "2026 World Cup: How to watch all of today's games, Wednesday, July 1 match schedule, free streaming info, and more - Yahoo Sports",
           "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU0RVckFGazBlUUNaYjJGNTM1RFltb29MdHl5SGRLbTB3SF9TY0VSVGpCeHpQRm1OZWlYazhqN2pIenVqN1hjNjVCbHhoRlVtTzM3R3R5XzB3Q3NPVlY3eWNHSEdlLVFXSElVdHFqRzlPcS1qRE5aUm5jNUNONUtMb0tobXlJY2lPU2ZoYnptWEtSbjI4Mmc0eGF6dG9oZHdsR1ZtNHJkajRISGYtSHFQcTVXYVFKeVdicWVpRFlVbnZuVTloazBiSWlfTWZhVGlRSjljM3JDNjhLakFuZk5z?oc=5",
-          "published": "Tue, 30 Jun 2026 16:25:40 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZXIwMnlPVC05bml6VnlZR2NpX01mRUJpQUpZRnB0VTY2dDZuc3JhRmdCNFYwUFlnaTZjQnNtRnZkYkNiTmd2NFBlVVFzaGttcnZUZWRQMFdlc3EyQ241ZG1WWFFSdHdELVJ3WnVZcndZNFA4QmFnQTVJMDU0bGc3ZXJEb3B4LVNhZkZyUTJyZDBjUHRUYnZCVWNwem1BUmdoRkxnazBoR0RqMmpzVW5pWUdTN0ZFalhhdENqVzF6ME92UFNjbVNrRV93M3Y4S1p0M0hMX29RQ0NscjN3MV9FUloyWXFCQll3UXpJUzB5Ni04ZWRubEE?oc=5",
+          "published": "Wed, 01 Jul 2026 22:15:18 GMT"
+        },
+        {
+          "title": "Americans are showing up for the World Cup in record-breaking numbers - NPR",
+          "publisher": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVjRSYmt1clE5SDM0a2ZaRngyUmJFTFY4N3BiX0RacXpOaUd1b0pZTHExMG1WOHVPekFodWZHT29ab1llY0NhVXJTczVOMTNzTTBmX3JYb01VRzB3eXN2UnlBcmx5TGQ5cFYxZnA4ZGhSYW04ZndkcWdRcEtIc2h5aHVLaW9OZw?oc=5",
+          "published": "Wed, 01 Jul 2026 15:06:18 GMT"
+        },
+        {
+          "title": "FIFA World Cup 2026 | Soccer fans in North Carolina rally ahead of Team USA's match in knockout stage - ABC11 News",
+          "publisher": "ABC11 News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWYxb3VXT2ZBS3hCLXdYN05TamNjNjY3aDRZVDNST1JhRjIzdl9STDVlamxzc3BGNDBGd1JJRjE5REU1UGJqRzRtWDZxX0dLS0U3MFJlTGlZU3ZHVmgtOTVJMzFDOVppVlZsRFpLb2NJQXNVZVJ0UUVsS1JiYUloT2pnRklnUDNNUmxQcGNZNmN4TFFfLVhybUVtVUIyTDdrUWt3eHQ4Skd3UV9lM2RESGZxUGRsRkU3OVQ5RmgtVdIBxAFBVV95cUxPN1lCMWxCYUNGZkF0a3pfRllQTHNkT251RFN6LXcyQ1FVcWl1Umd4NUhtQUs0TVh2bGJHU0VCS1pXMnhIZ09BSVZiTzhMcnBrRzNXV2lvb0V1VXU1dVJYQVNYNy1LSDVYY2sxbUZHQU9UU2JTckUwWnpuVFc1enZhQ2IzTUU4VFRqVGxWYTNSVVBfc182SmZjNklKZzBIVDJQMHlYc2Y5LWNSb2RSYjYwYkUyUEFWMV9vbElVOXI1bWpsQ3Ji?oc=5",
+          "published": "Wed, 01 Jul 2026 20:38:42 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "MSG hosting 2 events related to Taylor Swift, Travis Kelce wedding: Sources - Good Morning America",
-          "publisher": "Good Morning America",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmlVeEtLVi1jZXo5R01CWWxHZEN6ZUFQajVQbkdOZFpNX1NUM0NrOVNsSW4xTzBuZlVocVN0Wkwxd1NrdTJzWGlYMmNGcnNHZjlYTXlNdVBtTDgtSFdkWmxBSmhDMUJHVXZKN1JkRGdyZUdFa1FiOGdpdnJVa01ET3BYVkdpR21VYVQweGQ4cUpLQWR2UERBMFpBTUNBSDVXYjliSkRGRTdxaFc4LTJTVXVB0gG3AUFVX3lxTE5kU19kZkU2c2xGak9iQlhjZXdxa19MV0o0WEFGLTk4dFlhSUJQYmFza2d3cUFnRTlSUU40ZXZmTzI4ZGRYNGxFeUQ3TXhBSUoxcG9rSmIxb1RLRFdhdUNENWhQWi14YWFIa29vUTlGN3lXWU1KcG5YZUQ2TFpGVm80OEctQWg4bndVYm1fY1hSUFhDQkJDMi0xQ0ViSXVLQ3g4MXB4NmNyZ2lHNk04Qnl0SzExbjVnWQ?oc=5",
-          "published": "Tue, 30 Jun 2026 18:08:33 GMT"
+          "title": "Law enforcement official confirms Taylor Swift-Travis Kelce wedding at MSG on Friday - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVlhQYjBvWV9TM3BaZWZZLTZHeUZSdDVGNG1YZ1JfdzVvUnQzSzhzdjU0VTNQSTcwNmx4WjZ2N3UzU1NDSXE2blRwMXNUMWhyZkZHbjdYNFVSNUhQZjFPaENBX19Ud1RjX21wbEZMeGpnX1RPOVQ3eHFtVDgyWHRDdm1NemRTeENhUWxUVHJRZG5FbU9ScjJjTnFHUjVuZVBhQ2o3TTloMzlCNlgycmc4b2xQNWF3RmM0cUE?oc=5",
+          "published": "Wed, 01 Jul 2026 21:17:00 GMT"
         },
         {
-          "title": "Tom Hardy Settles Beef With ‘MobLand’ Producers, Back in for Potential Season 3 - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSlV3Wk02TjdnQW96V1FMRHNwTmpnWlhEUTBpNlB0ZUNfdW1sZ1dLSFRBeEd0bjdXLTVjTU0tRENzNk5maFdJUnl2dEtybHZ3bnJRUE5LWW1jaEVKUm9wTVFCZHpyZjFtYy1TT3k4OGRxWnMxbDVJUDhnQ3k4Zll5U0twNDRfM1dGaEVEUFRnSkQzVEtXc2NRdllVdEFVM3M?oc=5",
-          "published": "Tue, 30 Jun 2026 20:13:20 GMT"
+          "title": "Victor Willis, who fronted the Village People and co-wrote ‘Y.M.C.A.,’ dies at 74 - The Washington Post",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWZ0MkMwUkRyWWRoU0xBeFhfcVRGektNQzdiQWZSLTRrcTVPTDlPaFVEaUY1MWt4SW84dGJ5NHV3bnZaQjRMOWZRMWNwV243Y2JHYUdCYzllVFY5eVg2TVZxT1RlcmRrY09YcFExbDZMcGx4a1F5emZ5ZmlzM21iRTh5ajhPRkxCQjhkMzh3c0E3MXJETlJpZVlIZlA0SHUxZU5NR21sdUxSM0RHVTVsVWtlN1hVT3M?oc=5",
+          "published": "Wed, 01 Jul 2026 22:07:54 GMT"
         },
         {
-          "title": "Kate Gosselin speaks out on estranged son Collin after scathing post - USA Today",
-          "publisher": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGVDNDRIdkhNeHRSRks1M0xKemUwVXNDNjZSU05DckVIZTVyZ0xDSTFkSi04U3BocXFPNFZ5Y1YxMDF5d29FLTJQZ1Bna1dYNmVmUU50RUNRSk1PSGkzSllmaXdWV21GNG9LNkF1V3d4S3ZkWE4xY0xtdThFV0k1elFXSTRkcTdrQWJxOUhkZEZPeHh1NUJaOS1qUENXZktDR2w3Q0JpcjB1QVJSUVlpSkNR?oc=5",
-          "published": "Tue, 30 Jun 2026 19:38:00 GMT"
+          "title": "Legally Blonde Prequel Series Elle Is 'Officially Canon' With The Movie, EPs Confirm — Here's How They Made Sure 'Everything Tracked' - TVLine",
+          "publisher": "TVLine",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTmhYbmNBWjFsZE81YmNNQ21XR2ZLTWliWXdTb2owM3NWUENBc25NaTVTZnBIenV5czFKejVYMW95LUJCSm1RVEU1bFBkR0g1MkdlSjB3MVRzQzZfZmtnWU43cEc1XzduRC1FRExxblQwYlc2TWRNb1NnR1Rzc2dOMzJZVHp3ZnhfaG1wT2Qxcw?oc=5",
+          "published": "Wed, 01 Jul 2026 14:00:00 GMT"
         },
         {
-          "title": "‘Erratic’ Milania Giudice threw candles and food during domestic dispute that led to arrest - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVjhkY3RjYlA3bzFNZHlNUVNrdDBKdFVUSjBFU1RDd3hKYUhrSXZTSDhWVU9CNUlmRkcxZmZQMGE4WFY2RmVwWGd3RGc3UmluYUVOSG52Q0NMNTMzTkUxUW1namFyZ083cmtEbVVxdU02RlRMSENmU19mcjlhdTIxXzB2YmNZeWpNbnpTU1hIRXZZZ1lqUnlpRTAwSEZJaUdxUlpGa3diOWh3cVdkRkJVOXl0YWZWRmNCVThmb3IzNkhPTHp4cUxCaE1kMzMyTjhEdlE?oc=5",
-          "published": "Tue, 30 Jun 2026 20:56:00 GMT"
+          "title": "Utah reality TV star reportedly checks into rehab facility - The Salt Lake Tribune",
+          "publisher": "The Salt Lake Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmRYT2U3b1hSVENQUFhTblF6a05KSWZHQ3lJUXlYUG5PUHRjMWR3blk2MlRLOHYyMmozSm9XcS1XRHhVR2RkMmc4cUNVWXVnR1hCQ2l3VEp3eFE4cHU2U1NiRkU1el9LT1BXSl9ucWtJVEJEcy04Y0V6aENuR1BEVW10ZmU?oc=5",
+          "published": "Wed, 01 Jul 2026 18:07:14 GMT"
         },
         {
-          "title": "Taylor Frankie Paul's Ex Tate Files For Restraining Order in Divorce Case - TMZ",
+          "title": "Taylor Swift Visits BFF Gigi Hadid's New York Condo Ahead of Wedding - TMZ",
           "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUQ1bnhwdW9MeHFDQUU0aFdjcndlMVIyYWhRVGZfTGd3UG9Ya09oVDRZdzkxRW9ua1JXS0M0UUpDOHpqQzVMWk16MW1ka1VYRXNRcDNQMEY2X0NfWk9rSDdlb3lzNndaZHFjdjdDRU82bldaZlBlQzMwRUVoVXJqNXcxaUx5Y1BxczJVY1VWVUR0LUMzZEFMNlhMVTdjNFd0Sk1MbnF3?oc=5",
-          "published": "Tue, 30 Jun 2026 22:22:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MSjhhRHloYmMwVm5TX01Sekc0NmhlcERFd1k0NGpyRm95dUVZcmd0T25NbzdyMmNkYVhVUDBGRGtPRUR1NXowX0RMS2hxbmd1bTMxNGw0ZUhmd0o3SjRIUTZFazVWa2JPT3UwejlfZXFoTGcybV9B?oc=5",
+          "published": "Wed, 01 Jul 2026 19:19:45 GMT"
         }
       ]
     }
