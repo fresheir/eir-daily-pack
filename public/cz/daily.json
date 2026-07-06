@@ -1,7 +1,7 @@
 {
   "market": "CZ",
-  "generatedAt": "2026-07-05T23:00:17.095868Z",
-  "validForDate": "2026-07-05",
+  "generatedAt": "2026-07-06T23:05:56.290649Z",
+  "validForDate": "2026-07-06",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Babiš před summitem NATO: Dostaneme sodu a kartáč, Trump je politické zvíře - Novinky",
+          "title": "Zemřel psycholog a manželský poradce Petr Šmolka - Echo24",
+          "publisher": "Echo24",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QT3J5VnBWSEJpS3M5d0pRRmxUZFNDcE90WkRfdFV6WVZXTkxMVU1VR3NJNUgxd3BMa0wzQTdXQVk3T1hMRHlTT0FkcWtPWTdEX3Y1TU84ZEdvTVZ1UUFpcDJubjJJRzdwcXhxLTBwMm44bldKbU4ya2Zmaw?oc=5",
+          "published": "Mon, 06 Jul 2026 14:15:00 GMT"
+        },
+        {
+          "title": "Konec týdne přinese zvrat v počasí. Blíží se tropy, má to ale háček - TN.cz",
+          "publisher": "TN.cz",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWU50SXJ4QWphZTA0YktQQkd2M3NLMGdfcjFTR2wybnRVOHhPWnVVbzZLU3QtRGZDOGhDemQ1MG4zSEstMXg4WUFXOEtqUDhlUTBzdjJ2LWpSQUU5QUtKZy1MWlhmNVBTeUZwYjBkdkt2OU9oTGVKeU9ic2cwN2o3czQyV1NpSTJTTGo3SXV2VjlKT1ZFNzYzcVJFWDRpR2dXWUdvSWZkbEFIdlVhVVFDYktn?oc=5",
+          "published": "Mon, 06 Jul 2026 03:40:00 GMT"
+        },
+        {
+          "title": "Jan Vávra: Proč by měl jet Petr Pavel na summit NATO - Český rozhlas Plus",
+          "publisher": "Český rozhlas Plus",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVlZ4V2dqZms5NXFMSWRaVVZFb2FTQkNaeVJ2UnZBaTNwcklfZEJEUG1wRFpqS25yRlVlVGxMVXEtWFZBNEpKcGtZaXZHZXhGNjVCcm9YMzI0M19hZHlZY01CdnBTaXotTkpkeEpETjZ3aFJ4eVZzcXBzQlFBeXk5SEpWbjcxcWc?oc=5",
+          "published": "Sun, 05 Jul 2026 13:01:58 GMT"
+        },
+        {
+          "title": "Upálení mistra Husa se připomínalo v Betlémské kapli i v Husinci - ČT24",
+          "publisher": "ČT24",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQXBXTjJTYWpyTkI4aUpuendIT3F4U25ac2JVN19mXzNnMnBMYXBsMUFZelRwU2RtWlA2Rm1aamJiWEt0cnduMHlIWHhrbHloUTA4WHB3T2tHb3lEZU1jUmVDcGotcTN3Skhnb2VCc3FJaUpfaWx6SHJFT3l5OGhDVFlNc2JyanRRTUJVVFZqQmFRX2ZtN3MxQ0NNeGt3dkZzbTEzRnhmMA?oc=5",
+          "published": "Mon, 06 Jul 2026 13:00:59 GMT"
+        },
+        {
+          "title": "Slovenský ministr Susko obměnil radu pro lidská práva. Končí tři odborníci, přichází ultrakonzervativec Chromík - Novinky",
           "publisher": "Novinky",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdnlsZVlxcDNNeFdocXVKOTZaZkJHeVFzVDVMWDFpRUlzdmlaMGcwaXVPandYRFpQZVc1VGt6MnhLVWFyUWpjY1VXRXJVVWdPdVIwYmJhczU0OHBpR2F1OTFOcTM0enVDM2pUTXZZWEJ4UUZQSUY3VG9ta2hGa2N3OVNsM2dGWDJQREtXM2dZaW5QQW81dlVaWVN2ZWV1QV9VSlFPVGp0cFZSNHFTXzNmNk92Y1BITmNmYmhN?oc=5",
-          "published": "Sun, 05 Jul 2026 12:56:21 GMT"
-        },
-        {
-          "title": "Na Velehrad se sjely tisíce poutníků kvůli příchodu Cyrila a Metoděje. Mši svatou sloužil Přibyl - iROZHLAS",
-          "publisher": "iROZHLAS",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTUxqZWVOazU2NllSbVZJbVJvcUhWeVc4bEExM1U1VkZIcVFtdEFqNG1rZGhKeS1VSHNnMHpSU0Z2OG9pX21YV3FZanVHbFJsS01nSks3d0Q0bkwxR3pSekFwbkJ3TVYwX1c3dkNaUnhXX0ZrOTdNdGZRWVFXbWZsdjBidnlSQVBjLTJwNl9rQktXTWh4ZnBwUmhETVo3SVRXZUhSTkw3dVlBdFpZekNIalNSc1FLd1ItcndQNmtvaW45dkh0?oc=5",
-          "published": "Sun, 05 Jul 2026 14:47:00 GMT"
-        },
-        {
-          "title": "Kamion na D4 narazil do rozestavěného mostu. Řidič policistům přiznal, že usnul - iDNES.cz",
-          "publisher": "iDNES.cz",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaFNrN2tsbmpEcERhZXM4NUxJaGg5RGZfMEs2cHFpbU1nVENUeDh3LWRQWk1MZFlESm52amtUS1JndXdnbzBhWG5uaXozUkFCMnVqSU9RTmtRRllpSE5NZXZzNktVWHpRa0JIelBpZTlCd0JPVG9vakR5UkRsZ1psWkFZSFFkcFlCZm1raThmaGIwZ3VzWEZEY28tYnZJR25taEF3dEJFdVVBWDIwN0hfNTFvOVIxSm5uS0ItRVh6N0hmT3JsSEs3QzBmSV9iTnlLVDdCYnpFVkhEcGZCSnc?oc=5",
-          "published": "Sun, 05 Jul 2026 15:25:00 GMT"
-        },
-        {
-          "title": "Zahájení se Klempíř nezúčastnil, do Varů ale nakonec přijel. Ministr kultury navštívil filmový festival - iROZHLAS",
-          "publisher": "iROZHLAS",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0t0N2xkZHNEODJTbkhjQkZtZl9BRS1pWWdhZm4wZFBsWlZpazlaRDZlaGpSZksyTWM1V0wyYTZ4NmdDWGgxSV9TRXBoTk9EVnlKcUN4VUljczNhQVlvV2Ewb21aS1pMbWVGRXZuSVV4YVl6TVRxSWFQUmtBaWIwRG96bkFlZHltdG9MQkJMSlVtNndndW9nVElYV0l0dTlRSDYxb0JjMm1LX2NzRDRwbzFyUDhUQkdRWnZqZ3BhVDJrYUZt?oc=5",
-          "published": "Sat, 04 Jul 2026 16:41:00 GMT"
-        },
-        {
-          "title": "Den upálení mistra Jana Husa připadá na pondělí. Zjistěte, jak fungují obchody 6. července - iDNES.cz",
-          "publisher": "iDNES.cz",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNXVYMWNhX05KNGFRQ3lIcE95WmE5Y0N2V2xPMUNWN3hDS1N5RVRZcGJ5TWE3Z3h6dkNTYjNIYklHdndkWU1rZFQ1Q2hyUTl1VjlobkEyOWN0c0xrODB3Y2RTbjNMQ3FETXZ0TENuUmJnWUJfR09rRmp0RGFycFczU3BUSVNSMjloS0ZTMzlmZGR4djBZLWU4cHRUYXVsSVFQTHJGX2dxOF83NkEwNmlOQWJoTm9CVnEtclFMZlBkZk9Lci1qdVNF?oc=5",
-          "published": "Sun, 05 Jul 2026 20:41:43 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLVlyM09DZkxldzh5RDJqVVVubHFJWWJlU1RORnFORERsNUNwanRsXzJsNGtFZmx0dkljeXVfOEtzY1pyVGE3QnRUTi1ZaFRyU2tRejB0NUZZTTAwZTRETS04a2lBT1V0VUxJcTNnMVhCNmNBN0p4NUJLYWFJbWhvcU1Oak5Fc2QzbmJ6WFdUeDlPR0ZJX3RqekdnMHFVeVRRM0FHNjROQVgwRm96cDRDNndKZ2ppaXdad21aQV9FaHc3cDJTaXdDX1pBNEZuQWo1dHhOZk5pN1dRRWxKTER3VU9raVpiRmtSVTFNcw?oc=5",
+          "published": "Mon, 06 Jul 2026 13:40:08 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "AfD a Benešovy dekrety? Jsem přesvědčen, že bude velmi tvrdě vyžadovat jejich zrušení, míní politolog - iROZHLAS",
-          "publisher": "iROZHLAS",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVEJCbEdtZjJITGl4WklVM0Y2czZZa0JFZDN5Q2ZkY3ZJU0g0RW9vTjQzMEg3ZmxWOHFkcW9PbUt2amRHYmZuUjZjREduaXZPazdtN2VlWXdES0I3ampGM2w4X1g2WnhKMWlBLXcyX1RaZkxpLWpIcVhHam5oZ3ZtR3JUUnhjTFNzcmV4VHF5Sng5N3ZtNTVIdGJ5cUN0YjREYS1GRGpnUjJLQ1ptSlFURWEyVmxNZG9QUWc2ZUFBMTI4R2hNRkE?oc=5",
-          "published": "Sun, 05 Jul 2026 17:27:00 GMT"
-        },
-        {
-          "title": "Na jihu Francie kvůli požáru evakuují tisíce lidí, část Tour de France bude bez diváků - Novinky",
+          "title": "Putin je pod tlakem, řekl Trump. Konec války je podle něj blíž, než si lidé myslí - Novinky",
           "publisher": "Novinky",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU0w0S0dVUUlUQ2ZNZFJ2eFAzMkRFMUFvWUFab2pET2E4MWhLeGhHakM0cXF6bWZnSGIyOFFZQkM2LVhpQnJ3NlBaXzNaMHBrRFAtRzQwcEhiZTluSGgxS2N3WG9zTjFhVmtxNEtHYkEyWDJvOUw4RUkyUTJJcG1sbmIxUXZGOHpaOHF6WmRIMFN5SlpFRW1wZDdERDJOZFYxRDAzMHAzTGNUdXB5SDNDRkR4OHl5M1ptelRKQjVOa1k3dHFlOGhnZDcwX3hrNW1nOWM3QlVmT0dUQQ?oc=5",
-          "published": "Sun, 05 Jul 2026 17:58:27 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbm5TOFZtSXRFWW42V0xVUHFGN2QwMGVfOE0zcHdCeUFQeEJNTkx2UUpKSVJMSUhTblBGTzNrcUtPbG9mdFJxZXdPbzNwamg4dWJDTjk4cW1jZXF3SkRKbVZVVUhmQVZqNnM1OXhUZ3FwenZralo0MGxxTWVXUXFpQjdad19ITzRLSEQ0dUFPV2l1emdQVVVXekFyRHhWX3ZfYlFacURaOTNaVnFfTHowMFprTTlmV1Z0cVBxN0lvSk1KN0RLR05SamFvX1hRU21O?oc=5",
+          "published": "Mon, 06 Jul 2026 18:35:12 GMT"
         },
         {
-          "title": "Trump se v Ankaře sejde se Zelenským i prezidentem Sýrie - Seznam Zprávy",
-          "publisher": "Seznam Zprávy",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVC13UUlTbGo3UmltOTNINlpvUEdrQnpHVFdjNE5MYVVLRHd5WGVHN193SGdLc1U0Ty1RMXlOMDNBSjRSemZ0WVBLT3hHZ2ZKQzVSQzNteHQwQmlvWEgtTzNFdDVBQlBFd3lMWGZkdGRrT1VlRzF6WnNuLVE3aEtlREFkVWlZa1hOREdMaGRQeGZqY1hNNHlSV2ltOGIxeDZHZHRRa1pTQ0lhcDZhNkE?oc=5",
-          "published": "Sun, 05 Jul 2026 20:05:00 GMT"
+          "title": "Kyjevem otřásly mohutné výbuchy. Rakety zasáhly obytné domy, nejméně 13 mrtvých - TN.cz",
+          "publisher": "TN.cz",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVnFkMDFTN0x0d1pWVkRaWEc1R3NUWHdCUXBsRUt5UkNXbmJLd0R1Q2w5UkNJYjFvMk5iQTdESjlVY0xORmUzbzJVXzhRZWpTU2x0dnJ6NjJoY2dXMS1Pcnh0SFhhTlY1OXpISnNiY3RwTl80WWs0ZFFKRmlPLVU3bTVQWmZiS0tncm44UGdPNEpyN05TV3ZYU2pPM1MtWlBKMkVWU2lxSkVVMzhhalZDNHhsTE9FN29PVkFyY1BIOU1feVU?oc=5",
+          "published": "Mon, 06 Jul 2026 06:05:00 GMT"
         },
         {
-          "title": "Dvanáctiletý chlapec unikl smrti po napadení žralokem. Masivní krvácení z nohy zastavily bratrovy plavky - Novinky",
+          "title": "V souvislosti s obchodem s lidmi policie zatkla přes tisíc lidí. Obětí identifikovala přes 2 tisíce - iDNES.cz",
+          "publisher": "iDNES.cz",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUlIRHA5SU1Lcm8yV3NKaTVZamRZSHFhTWVfUmg2cXFLMEx4ZzZTYUZWSlAzbkNaSC05Nnh1bmN6S190azdVdE92RThuVFBFMnlhV2Y5ZVV3cUpfbE5mclp0d1lLczhIY3BCalNVU3YwTnRSYWUtdmNkeVhBdDgwVURZb3NMbGVyUk95cVQ5VzluQktjckl6WnV5WHdNbXJ5aHVqYWNFYmdNTUwxUTFBQnZ2d3ZwWEZSRF9vcXZDLU45bjduNU9TSQ?oc=5",
+          "published": "Mon, 06 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "Macron přiletěl do Damašku, chce rozmanitou Sýrii - Novinky",
           "publisher": "Novinky",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWW9QQkxlMTItQU9hRDdRbFVTb3lMb2FfMWhtVFNSSUR3OFpyZzFWM2dfaWlMZnRfckhOWHZ3SmN6WG44aEFCNDUwOEdwZXl4ZTVKSXA5VFNQbzFNLURkdFNVbmpRVUxiSFlsS1hqZDljYU1GeDllYTlJTWlYYUxOQzhuLWRTX2dPUnpXdUJCc0Y5dEVDdlNGc3VSa0ZpU0VWVFhucWV5OXNnYlZ0SUxvREM5emVGVjlCN29yOWtwTjBhUTBWTjdZQUZvanIxOExrdHlETG41SkhpNk43dDB4ZXQ1TUQ0LW12?oc=5",
-          "published": "Sun, 05 Jul 2026 19:53:27 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTU1LNmJCbEtqcTBaWnFtRWt6ZV9sd1ZrYld3ZkJfQ3o2MDFCOGRDQnhlTzItSmJpcW5LRWNMUC1zOEU1Q3E4Q3p0dGdXbWdqOThLMG51bU5tZGc5OFR5RXl5UEt6eklOR19VN0NjNzlGbVBZVWxfTnI5UWRaLWdnLW1VdTVRWXladUI1R19TWXpKcWt5V2JHZFp2RVFGTHpyUlNIS2ExSFptX1V0eUx6ajE0b2NSZFljNXA2b2pWMA?oc=5",
+          "published": "Mon, 06 Jul 2026 20:25:42 GMT"
         },
         {
-          "title": "Americký sen je zpět, uvedl Trump na oslavách 250 let nezávislosti USA - ČT24",
+          "title": "Ukrajinské drony zasáhly rafinerii v ruské Omské oblasti - ČT24",
           "publisher": "ČT24",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS3pCaVltcHkwS28tNnNuRzJZajN4TlFScGxJUVJsSGtpdFhiTFNoVzBYN0Z4ejYyYzU3dDRwY3Z6TUxLVVVURUQyYzdDTk5ELXhZTlhFVWVnSEMtMFg0VzNXX1pxZGtfNG4tUUtSdHJpQnkyMnJXbENXeXFqblFOcUZ3VFZDV1NrSi1Qc1N3LS1YZUlH?oc=5",
-          "published": "Sat, 04 Jul 2026 23:40:19 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTNRZXQ2aGF0QmVUQVBCWlRCWUUtYzc3RWoxMW5WWDFJU291YUhkNzhVRE1lbFlwTmNhbE9rNGxiN1hteGVNNkhCWnNDa3c5SnA3NFFrTVJ2SHp3QU5YMmdVQkJ0Qkk5RG1DVEpGYWZZcWl6RVpNNGY3R3pFUTJtaHlNX0dBWmtHd3c4dE9pZEFvUF90X0h3UGNMZ0lPYkFPY0txeldFVXI?oc=5",
+          "published": "Mon, 06 Jul 2026 13:19:22 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Aerolinky easyJet v zásadě souhlasí s nabídkou na převzetí od firmy Castlelake - Novinky",
-          "publisher": "Novinky",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFRmcmk2U19lakZ3akZSU3JtcTNBTGYtaFl3Y3lNMGJXbm1IX1JsT3o1UWRhU2p0Nmx5bHBaaUVVcjgwblFPcGQzWlM1RWxjZ0VISEhrNEV4aThmTWxpNjN2NWlvQWRURTBfVzNUUThBQlVNNGJKcklvSXJkY0FTXzJjVm81QThoZ25uOVV5RklxZkNnUjJoWHVkbklzQ3N5ZlVJbElMaEZSTlFhNHUxb3dZaWxaRXIybTdCM0xiUXhFbk5ra2c?oc=5",
-          "published": "Sun, 05 Jul 2026 18:41:11 GMT"
+          "title": "Štěstí musí stranou. Lidé přestávají hledat práci snů, chtějí džob, který jim zaplatí život - Aktuálně.cz",
+          "publisher": "Aktuálně.cz",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNX1AydWlLMDFVU1ZJbjcyTG00LTdVdXo1anlaanZlcU4yZW1rRXR6NGlKWE9SN0UtcTlXTUtQMnh2Q19JYWVrRHFKUjBnMFhKRlE5MW12TUtZZzA5Mkc5bFVod2NJWUxyU0tGTGt2bDRnUE1vSU5ydUJHZk5PbDhfT1Q5WGlOZDFkZ0l0YWNCTV9vSHl6ZGhmUm5haURoT0kwV2FrMFdvS05USXV5ZHc2RFJvZHNNUUJUQXpscFh4MFVfNlFSUGJVMWtHUmdqRTJSNmFma01nWlpKQllUclhzM21PSDBZV29URlNUa0lLcVBzTW8?oc=5",
+          "published": "Mon, 06 Jul 2026 17:11:00 GMT"
         },
         {
-          "title": "Olympionik pomalu splácí dluh, El Niño je tady, pád barefootového obra otřásá trhem a Sparta mění pivo - E15.cz",
+          "title": "Strnad má na stole obchod za desítky miliard. Může mu otevřít dveře do slavné italské firmy - E15.cz",
           "publisher": "E15.cz",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ2NHdEZGQWNKU1YxNzBHX3Q0b0dlR2xPOXA3NWlpc1RMM0VwRzV3S0tiTW50UVJQSG8wZ2MyV2tadGxBSElqZTJiVXgwXzBYZ3BhQUgwbG42RWpRRnd3R2hydjROT3JmSkJUcl9CMlNqU2Z1TnU5ZzhNM3A5bzlfVnAyRmNPNEtLNjA5Q2d0WjBmS2c2dHNEMHJDNUNIWFJOZmtTaTFCVGdTb0lsTlZRUWpZeHlpbUJ4cjNnVmtFQXB0Z2EtU0dmYm9rU0h3NG9hbTRFMXRGa2lUaFdjSTVoaG13cGpQMm5UQ0d6RA?oc=5",
-          "published": "Sun, 05 Jul 2026 15:15:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1F3SlYwNzFYRmdMNVc4VjZFSWZqOVRsUWs0LUw3aHprUE1yanZkTG5VYjlxal9tRjlySndNUGtFZENfd1dBazlCTFl3MGZjSVFWMHNBX0c5WWtucGpHdHN3RXRRS0poX1BvTEt6NHRpVVlUbXQ3bnFNc2pMaG1SVVdJRG96WFFhRmhuNFBXNTZjVy10VHB4czI4TGd5eEpzR1diWWY0cG9qbkU5LWVETlVzbi11aU13c2wxNzkzZVdKZw?oc=5",
+          "published": "Mon, 06 Jul 2026 07:30:00 GMT"
         },
         {
-          "title": "Vlastní expanze Uberu do Česka se nekoná. Firma podle FT nevzdává převzetí velkého konkurenta - Hospodářské noviny",
-          "publisher": "Hospodářské noviny",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWZvV1N6cEhiZFpxejY1UFk1clBZUmxjR0JLRVRWLVdacjJtX0xBSEZUanA0dWhUZ3RKTnpod1hVUENVcEVIeFluUnR1ZjFfTDdUbHJPM1VINHJJMGdlY3BhRDBWWGlTSUhJVk92SkswQmNtcnpTWE5pVkxWUzRrSDRBQXp0QTV0WTdyTDdnMWtmYVY0VHloQlJRZW9PTmNUMkVuWU1iUkVaVFBMYThUeUoxVW5aUFdyLS1aVGVnMFNRVDg?oc=5",
-          "published": "Sun, 05 Jul 2026 13:12:00 GMT"
-        },
-        {
-          "title": "Na prodej je vzácná Tatra 613 ve verzi, které vzniklo jen 18 kusů. Zaujme nejen nebývale luxusním interiérem i s videem - Garáž.cz",
+          "title": "Propouštění v Porsche nekončí, automobilka plánuje zrušit 4 000 pracovních míst. A může to být ještě víc - Garáž.cz",
           "publisher": "Garáž.cz",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNX19BaW5fa2ZxRVpkQU5wUEtaUEQ1S2VMVFQ4X0JzazRoaThNY08wbml0SmRiRkRWYmluZzBYWHRROUtvbERRZW4tQ2VxN3BRb0VkQmtWZ0hud0lmODY1cmFJbmNOU0NkV2ltNGJIb2RlbUVTZVF4YTdqeTdkWjZKS2VNdXJXRWJ6LVFQZGVIOEg3QXg4TS13UjA4OWVvZ0tUd0s3OXZKVlJrX0tTbXNhclRYamVZNnlOQjRGeEx3d01YWV93WG9WMDJRaEhybWlGdDNKOUNWWXRkRWpBUzl3VjVnSi1pRk1ic0luZnladW03SFZ1NFVaWGFwcUxiZ25UVEpaLWtHYnk?oc=5",
-          "published": "Sun, 05 Jul 2026 17:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZUlQSU9sLXliZzRQekU3eFFqdTd0WF9uNWVmdTB1eDY4SWZvVkp2WHJza2E2MlQ2NHRuX0ZibEZOVUthd29zSk5fZ2J5Wk5NT3BFVWZYWXVZNVpucEtZUmxodE1LRVF5WjlsYzNibGRvY0ZTSnIyNXFETmlaU095YjBIalFSRUl1cGRsQUpBV043cTdYQjI2M3lwYXN2UFREUVAtRlppakZVQTVCbWxRSlVYV3o1NGtXcEhpdDRvRVI0d1N4V0cyWGtfaWJ1elAtNjJna3U4ZTJBbDNHaFRyUA?oc=5",
+          "published": "Mon, 06 Jul 2026 13:00:00 GMT"
         },
         {
-          "title": "Placení na dobírku zdražuje. Některé e-shopy zvedají ceny i o desítky korun - TN.cz",
-          "publisher": "TN.cz",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzFlTEtQOHZRYi1xX3lFZ1g2M21zaVpxaDhiamJZR0pKNVl3TEdrT2Rjd1lGcXo4b0R6Rjd0dXJ3LUEtZFo0Qi0tdTFtWW5URFJ2RWRSSTVBN3oxZ0huR0hvaWJoQlEtazFtSmFrMVBvaGVtNmdVZHJUaEpybWR0ZWNoNGhNSVV1Y2dvLVFaMmVNZngwTjhKelk5Vm1qOW1XU2pCeVF5ZkNldlhleHNVYWczN2w4Z1FKc3lYdHF3?oc=5",
-          "published": "Sat, 04 Jul 2026 18:42:00 GMT"
+          "title": "Sky kupuje britskou televizní společnost ITV za 1,6 miliardy liber - Novinky",
+          "publisher": "Novinky",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYTU2cUlYV1lFMExNLWNYanEtNEl3eWREZ1dMQlM3SFlnbmV3c1NGck94eG9tTkN4bTYyY054aW9heno2Z29JOWxucld6X0pYd1FOQVowZjBWMUlLLTBMRXV4M01zdzRTVFV2MHlDZUpzTTMzblFBRGZtdjV1ZVdRZUgwRXhuNFJXVXVVbkxYMzNkb2xIUDRpUW83bWJST1RJYTFJblpzUEJIaXpNNjR4UF81Mjc?oc=5",
+          "published": "Mon, 06 Jul 2026 14:26:02 GMT"
+        },
+        {
+          "title": "Levnější než Uber a bez spropitného. Autonomní vozy Waymo dobývají Ameriku, ale občas si nevědí rady - iROZHLAS",
+          "publisher": "iROZHLAS",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlRWQi1MV1NkQmdnOE95NmgtREFBbUZDeUFmMzlqaUtNVm1fcVR6X2tzaUtUUDBoNlpJOG11TnNHNEc0U3F0OWZuX3YzbU5PZFVLcFN4OHFRa2dtOEVnY0Q3a3pSYnpkMjI1Smd4TEdyUGFNUUZ0SFlNcWd2VGNnRE1vbTdEQWdCaHFReTJ2a21PUFdZX1VzcGxIaGxTRVZnenVjbFplNjFaSDBLNnVsZm5FRUlkdTR3MTFSYzdmX0s3c0hwNHJtZURoby1sblk?oc=5",
+          "published": "Mon, 06 Jul 2026 10:38:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "ŽIVĚ: Brazílie vyzve v osmifinále mistrovství světa Norsko. Radiožurnál Sport odvysílá přímý přenos - iROZHLAS",
-          "publisher": "iROZHLAS",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR01wU1dTQlVMMmZnWVNkWkFkcEI2SmhuS0xNRk1HaXZYV21IRjNCSFEyVlV4VjAwOE9CZFI5OFRDdzVEbXBLQ2lwWnI1Nk5JN1hDNThFYVg4VUFleUgzZ3BuSUdqVVg1aFRaRUlzak9QNTV4TkQzR3hLYUtqVXFHZjBkSGxyc1dhM1ZwX09vQVJXWWhKd3ZqMEVNWXgwUGIwXzlsTlUyWEhvNUp1RFpTS0pPaHc2bU51MC1PZVhIUkY2V1hXdHc?oc=5",
-          "published": "Sun, 05 Jul 2026 19:30:00 GMT"
+          "title": "Portugalsko - Španělsko 0:1, prodloužení odmítl Merino, rozhodl v úvodu nastavení - iDNES.cz",
+          "publisher": "iDNES.cz",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ0g4UWVwajNidF90R1FCTWtJZjF4LV9ZTlRFSnR1amdRWVNKYURVaS1XM2RDcGNjTUlFb0ZVaFRCWm5fRnBwTmtnWmwwWjVYVlZGd25zZng4UElEZnp4eFQzS000MDVOSUVvWnRRdVgtcS00OTlyTWo5eXd1MGdjTXpFZFQ4azlZU2FQd1EtekZUUWVkZDRVTzlxZzdiR0tQamk4UUxVczI3UzZEYzRoQW1sTXlpaExBMDlzZ24yZ3M1ZVhlSUtrNU1ucEdmVFJhc21Xd2F6M2tGcVE?oc=5",
+          "published": "Mon, 06 Jul 2026 18:00:00 GMT"
         },
         {
-          "title": "Muchová opanovala české derby. Ve čtvrtfinále Wimbledonu zabojuje o životní skok žebříčkem WTA - Ruik",
-          "publisher": "Ruik",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWVFQTloaHNRYWxrbjRFT0xidzJOaFV5TVdOY3ZMeG5YTmVMWjB0ejVIY0pyU2h1MlVuME42LUF2RVRPb1NfTkgyc001UGtCbFVULWhyTGI0MXh4NmJaVFlJNW8zM29sVFBYaHFKUGViSnYzUGVMczlLcDk2MWtCUGxnQ0RWYkZLamxybGdmRTBYd1RvR1NnR3J4TE13LVBZM3RLWUQzMEpURmY5eGItMHo4NUQ?oc=5",
-          "published": "Sun, 05 Jul 2026 16:06:56 GMT"
-        },
-        {
-          "title": "Pogačar přenechal Del Torovi vítězství v 2. etapě Tour, dál vede Vingegaard - Aktuálně.cz",
-          "publisher": "Aktuálně.cz",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQeHNNb3ZWM2hMRE1sOFVqTkp5dEpCanRPcFdQU1phSU9qZDFyMVVfTHpWbjd4UUZFZUY2aDNXVEM4c3pfU0JRUlVLQV8zY25aNk9oZ1BtTlB5V0ZVaVFROGhyQjJvUnd0cUJYZzdoT2RVb3VzWTNMVTNLTkQyWWx6Qzc2akI1Y3BST2pndU9jajFEd0Fha29sOExoSlRjeEczc3U2eDRpZzU2YXhqZHBsY3I3VjlnTk1hOUdTcTRMX2ZIajNYU3h1UzJYVHVSRGxvRFg1cHRnR1FTMGhvQVJFdWhjZ01SaXhzaXVvTG44LThtc1B1UDF5aXZZeWtYakN4cHRpX2JPQQ?oc=5",
-          "published": "Sun, 05 Jul 2026 16:21:00 GMT"
-        },
-        {
-          "title": "MS fotbal | Kontroverzní odložení trestu na MS! Belgičané zuří, hvězdě USA měl pomoct i Trump - Sport.cz",
+          "title": "TENIS ONLINE: Drama pokračuje i ve druhé sadě! Lehečka se drží v zápase se světovou trojkou - Sport.cz",
           "publisher": "Sport.cz",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWk4VGFvNUxNMDMwNUVfZzg0WkkyZHRCZ1NxZGtlaTZpdmozRV9RcVVVc2R5eW81VEc5U0VxWHBOQVRzYWRyWDlHTkFiQWxWYTdrT0p1UHFwZVI2YU5qMURhemMxekZ1S0VkbmpVUFRYbWM5UEh4aFZ2Wi1CS3pOcFJXcDJiOVh6a19JanZhYjE4WlpuYlVuejR4S0ptdTA1aWhhVTBvVTRETjFxU01RMW5vMTNOeER2TXAtNzVFWFY3NUE?oc=5",
-          "published": "Sun, 05 Jul 2026 19:59:43 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMnJqLW9aYWVzTm8ydkNkdHVOeWxmd1lJNXhMRS1zeVpJQi1PNGViOWxGTncyODFEd2oxMTdlZkN3R0tUUVAtVVpiSFVLcm9DSVJtSWZXb3hhV3pNdXUtSmk4MG4xeGtHMFQ2dU00cklYNDNWZ2ljQi1jY3BqNWEwZTFCVklmNDZRZ0ZtZTdhcGdRSEJuNVpSZ0M3bTBYaFVlbS1ROXpUR1pXM3hMdzBxbElMRE5Pd3BIVW5yVHZZV2VOTWwzcDBNUzA5cDJVdw?oc=5",
+          "published": "Mon, 06 Jul 2026 10:43:41 GMT"
         },
         {
-          "title": "Dramatickou Grand Prix Velké Británie 2026 vyhrál Charles Leclerc - F1sport",
-          "publisher": "F1sport",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtRzJyS196UjhYaktuLWVjSGg0X3BlZ1NMRnNvRjgzbHRHbDVkNWRJYWZ0YTN2ZFVjcFBJQWdxOHNQc09yUHIwUHFLZEpVY1BZRERNT0hKZ3RuNVdKU3F4U1ZIOHNveTVFaFBr?oc=5",
-          "published": "Sun, 05 Jul 2026 16:02:00 GMT"
+          "title": "Basketbalisté těsně zdolali Estonsko, z boje o MS je vyřadila výhra Švédů - ČT sport",
+          "publisher": "ČT sport",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOTRFdG9DWGw0NFJmNHgwakRwbUtmVXlNelhOZEY2RnU4aGpmd0lHOHhXS0p4amlmcUJHRmNhbnlSUzZOcF9DMk5fNVRWQjhMNzZuRUJYeElQZi1pSEFIRF9HNnMxMVVSMnJWODhGNGJkUmVxU1RIRFRrcHFvaXR4OVhFSF9tQ0xPQmhZOGtfNndYbFJkZU1XdGYwbEx6MHY1SlRCREU3amRMUVRYWnNUMkJFYjN1VzRSR3dqNm5sU2lDMWdQZ1IwbUxTVlhlYjg?oc=5",
+          "published": "Mon, 06 Jul 2026 17:12:00 GMT"
+        },
+        {
+          "title": "Kairinen a Rrahmani opustí Spartu. Na soustředění neodcestovalo sedm hráčů - Eurofotbal",
+          "publisher": "Eurofotbal",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnVDZUEtblFDZ01zakJBX0RVRTRnR0ZVREhwZW03VE9aeWRJakMtOFV6TDRVTzRraGRmS0I2MFFZcUxzb1J0bUFicVJSSjZaMjRIc2h1Zm9HSHY2amMzU0tQeU9sSlEwR3NFVGtiaXdlLXFyQmZmOS1LY3p6WmJvcXVwODQyc0JPMXRCRzNVQnVheGN0UV9JaFBXZ3VkY0dlbkpabUxwSlFtYjdQWm9taEdWQlM?oc=5",
+          "published": "Mon, 06 Jul 2026 11:22:00 GMT"
+        },
+        {
+          "title": "MS fotbal | Ronaldo v slzách. Loučí se kuriózní statistikou i rozdílnými pohledy expertů na jeho výkon - Sport.cz",
+          "publisher": "Sport.cz",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzdCNC1JbkU3UGg5VjBqY2M5WnRwaXFhdFZDNld5a0tteUJzU0dtWFpyMURqMUFMekJBUk10aDFiR0o1TXh4azNWdjl3WHBZMWFLR3h4WWVCTmtQYmVDYXlzd0Fhb0lvUlkzaWF5Qy1Va0pwMEs3ZTVRaWVRUC1fWlFTMFRYN3hCejhhbUY4cnFTUHljX290MnVPaERqc1Z5RzhYNGJPY2xmckQwZXdSVG9FS2dNWlRsTk5YNXRRS2xieDk2Rjd5N0RPUVhSaTkw?oc=5",
+          "published": "Mon, 06 Jul 2026 22:17:05 GMT"
         }
       ]
     },
@@ -153,10 +153,16 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Rusové v Záporoží hromadně nasadili autonomní drony s AI - Novinky",
+          "title": "Kubánská elektrická síť zkolabovala, bez elektřiny se ocitlo deset milionů lidí - Novinky",
           "publisher": "Novinky",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVB2VjM5MzlUVnRPLVhYdGl0T0JtallEMTh2U1g4bkRSS2pzNVl0R0VtMnpzaHBLRjFnd29TLUdpdGVkYUlVYzhDSkwzVmJVQzNzUVRTV1IyWHdpcXgtY0FzYTNuRGd1YWpfcE5rNmxWQnJBSzdQS0hHZEV0a3NlNTJDNzdUVmRFN3l3VEp0Q3BPWEVJYk5WTVZjWGVldlhTcTljUkJiT3dJMTlIWjR4aC1GNA?oc=5",
-          "published": "Sun, 05 Jul 2026 03:21:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU1NYSGtYMkNCUDZncUxyQWUwbTc3SkJidEV5RXk0cGZhOVdZUGtELS1WMjRWR05acndfQ2p0R2p4R0FEMWx6d3RnZVZiM2ZHNzQ1RkFwSnlKM1EtNGFHNFhBV2Y1ejhWaVNfVkRiYjdlSnctWktvdlpDcUhWcWdWQllHS0NWdTJpSF9lN1pMeFpHYjVfNnk5SktYQ0pHYVp6SklORGhvc2FJNGhMSFBtcDBDcFUtX3RzUERmRWtZbWFsdVJ0NHZaWG5ta09UY0kwZVE?oc=5",
+          "published": "Mon, 06 Jul 2026 17:11:32 GMT"
+        },
+        {
+          "title": "Ukrajinské drony zasáhly obří rafinerii v sibiřském Omsku, 2500 kilometrů od hranic - Novinky",
+          "publisher": "Novinky",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNE9PODlFbXRuUXlFNi1STUx1SnJRQ2hpeExsZmF1WUNqSHFWWW4wR19iZmduZmNOcElaX05qT0tkMkc0REc2X0FpNjYyWkJRdzBiaHpOM3Rlcm5HRXpCVk4zaDRqMDduZnN2dFFRUWR3Q0FYU2JCYjN1NEphLUE5SXZXaGdyMFVOMjNhVUlpU1FhQ09sUmhkT19HTV9TZmYwclpaVzhZTFl0MFlRdnp5M3UtbnRKZW0xVGFnVE93RGJEVlNHMWgxejk1TmdXbmpvaHhLOXRn?oc=5",
+          "published": "Mon, 06 Jul 2026 13:20:55 GMT"
         },
         {
           "title": "Očima byznysu: Amerika šlápla na plyn jménem Mythos. A Čína poprvé nestíhá - Seznam Zprávy",
@@ -165,21 +171,15 @@
           "published": "Sat, 04 Jul 2026 09:18:08 GMT"
         },
         {
-          "title": "„Svobodu je potřeba bránit.“ Tisíce poutníků na Velehradě slyšely varování i před AI - Novinky",
+          "title": "Rusové v Záporoží hromadně nasadili autonomní drony s AI - Novinky",
           "publisher": "Novinky",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGhCXzlvcURLZHJnU3V1QlQyOVhmc1JwMnM4VHdtTzhFM0x0Y1F2YXB4eExqVDUzMEgtdVc5WGN5T1lzbktyajhmbkV2RmNZY1FoNEMwRTBfS0Vtel9GNG9iUGlNZnRFLWgzaF9HalRMYVRlSy1WclA2TXl1Q0FCTkxyVjJTT0ZKZHVmc2dUR1lkVDRScDFIMmV1MGM4WFpUSHJZSlNmTUx0V3JmeWZITDRDcUZHM2tjdkRVank0bVhncGlmdlE?oc=5",
-          "published": "Sun, 05 Jul 2026 12:12:21 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVB2VjM5MzlUVnRPLVhYdGl0T0JtallEMTh2U1g4bkRSS2pzNVl0R0VtMnpzaHBLRjFnd29TLUdpdGVkYUlVYzhDSkwzVmJVQzNzUVRTV1IyWHdpcXgtY0FzYTNuRGd1YWpfcE5rNmxWQnJBSzdQS0hHZEV0a3NlNTJDNzdUVmRFN3l3VEp0Q3BPWEVJYk5WTVZjWGVldlhTcTljUkJiT3dJMTlIWjR4aC1GNA?oc=5",
+          "published": "Sun, 05 Jul 2026 03:21:00 GMT"
         },
         {
-          "title": "Ukrajinské drony udeřily na vojenská letiště na Krymu. Zničily sedm letadel - Novinky",
-          "publisher": "Novinky",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTTVpT1lHY2pQQmwzMlVhZ3VvN19rSHhvaGs5UEJsT1BKRjNFOFdtaTd1dVJzVEMxMDhqdFl2LVhsNUdaOGRWcG1TcWtacEt3YVJfSDRUelp4XzUtNGNHUVRRMHV5YWd6U2xvX0IwYkNUTDhvNk5SYk5Fam9NcnlZUWxHWGdKaExZVXp2WDlNVnlOME9GUmxTa2w3bEoyRzVwb0VZaGVuWUxuU3ZqNi1ITWp2ZElqWV9hSE4zUVdhT2wwUQ?oc=5",
-          "published": "Fri, 03 Jul 2026 15:55:01 GMT"
-        },
-        {
-          "title": "Ukrajinské poučení z Černého moře: konvenční válečné lodě budou dál potřeba - iDNES.cz",
+          "title": "Válka se mění bleskově, Brusel papíroval roky. Nový plán teď bojuje s časem - iDNES.cz",
           "publisher": "iDNES.cz",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRHhQbVJqSkdHMTF1SGpJdHg4bHFIWVBWVkJ5WENlZzRMamhoVFlLa2pGeGNFMHhHVnB5eHA0eHN1WnJZRkhaeE5OZG5Ib2UxUEctN2FKay1GZHRMTnEzNTFXekExcDVZZHBQWS0xaGhqNjFUYmNXNy1XMVp2V0M4Y1FRUk1keGJPQ2NtZE5fbmxqSS0tZHlIR0RTbnc5RDVCYkZnU3E1U1dkUDBGUzdnQzZVNkM2ZlVYUm1ZREtEUTdHd0FGRUNEQVFSRG1uN3R4czUzZ2FRMHRTMHdHX25LQkJ2SlVmbHR1QkZ1SElkZl9hUGxaeHo2aWNnWVVJUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbG9HSFhUMEtnUFNJSll5XzY4bmtSWXl6aDZjQmQta3h3MTJVR0V0LXpUeU96b0lUN3Y5RW45cVVXaEJ4RlJaSDFsdVRINnhrRmZSQXRlRTJEbnN2OXRqLWpvekZTQ3VNcW9aSUNkaVlHaXZibjF4eVVxV05iNk84dG40V2dzSVE5VS1jTDhkdUNpbmJHQ1hNWWt2MEZjQXpkWlkwMU9nS0dEbVpKd1A0Qmc2RzVjQUZiemdua202Qmg0WVRPUzZV?oc=5",
           "published": "Sun, 05 Jul 2026 22:00:07 GMT"
         }
       ]
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Folarin Balogun's ban is lifted by FIFA, allowing U.S. striker to play Belgium - NPR",
+          "title": "UEFA statement on the Balogun case - UEFA.com",
+          "publisher": "UEFA.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXlPYl9zZUMyVWctd19XLVlyN2w5UDBSQmNiS3lqUmJpSnY0MVpGSk1RandNYXI4N04xYzJGU3R4Zy1VaWZhdUR5MEY2OV80aTFBQlVzUjQxcTk0MVJ1akFXeVpjZGFCdTVOU0ZDRlozYjBMbnQxd2U5T0lRWG1TT2QyVWNHSlpwUlk3OVMxdUJpMUVxZXlIbHdLR3hhTUdWYUFfQjUzZGZqbW5EUnc?oc=5",
+          "published": "Mon, 06 Jul 2026 09:47:41 GMT"
+        },
+        {
+          "title": "This World Cup marks end of era for Ronaldo and other soccer greats - NPR",
           "publisher": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTREeXNhbDY0WG12ZGlQS2d4cTBSaWY1RERrSFd3M1pnYTc2ZDVITElXUDdiUTlZZlVVTmFycXRwQjJrMmdWbk1Mai1jcVFySmZ6X2dPV09CZXUxbnRHX0JfOHhzWjNnM01RMk9OUHQ2YUF2TUdjbVoyUXUyM1pvNEhsT05wTXlldVVwckJnLXFlS0ZhMXc1Uzg3YlNnNy1iWXEwRDF3?oc=5",
-          "published": "Sun, 05 Jul 2026 18:37:19 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVJEWU95RWZDeDJoN2NvWGxNQ1pfWHlKcUV1aEhMQWJ1Q1d0dXgzWWlmNDgydjBSUWh2Ykd0QTluV1RRc0JoamRJZGszcjY3VTl0T1dvOXEyaGt4Sl9IUUVwOThZV1NlY2pUeDVoYlFhaUJDVWtkLUJ6OS04N0Q5R2o5VUswZzVZZmppdUZYVQ?oc=5",
+          "published": "Mon, 06 Jul 2026 21:31:21 GMT"
         },
         {
-          "title": "Can USMNT World Cup run ‘change American soccer forever’ as special Seattle return looms? - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblF3NUZmV190UldENnVzODdtV25jWEpaNHNubkVRSnQzSkJSeXdLa1VVLWxPNkpPOG9leTBzUkpNSzhvVnZxTV9zUk1KZ0dPdlNHVGx2ZmppSlcwNDYwOEFCeGNRb0hrU2EyRHEwMmI3OTdzNFkxNVZVdzdYRXRzMkxxRmNmcGhXSFJzbU9aaExMWjJWRERZOFFlbzVWTGQ1TXdDM05sVi0zeXNDNVNv?oc=5",
-          "published": "Sun, 05 Jul 2026 13:57:18 GMT"
+          "title": "Uefa accuses Fifa of ‘crossing a red line’ over lifting of Folarin Balogun’s red card ban - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaldKTEZxWWlfV0F1VEZVd1ZQbEpqMWFkOEZCaHFGYUlRV016WThaWm9GWUl2S1AybVRSYUF3MWU0dE1CWkl2V19VMjFfWEpiU3pIX0lyakZiLWJtVzJLazlHb3dxWEFVcjI0OEhkVG9acDZPNWxTV3lwQkZOMEpnVm8zVHM2UV9ZQzkyTHo4OEg1S3pXcHZCTWNZN3EwNDJKc1ljYXQ4ZnRSZUxUbEZJTmpVcEUyd25mTlJFSERnbk0xdTJN?oc=5",
+          "published": "Mon, 06 Jul 2026 21:46:00 GMT"
         },
         {
-          "title": "2026 World Cup Odds: France, Argentina Remain Favorites - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
-          "published": "Sun, 05 Jul 2026 18:35:27 GMT"
+          "title": "Belgian football body challenges reversal of Balogun’s World Cup suspension - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmowNVB0cU5FbWZUa3VXbUdvZy1rUlBRQ1BQSUpNbWFKZTF3dHAtUXVWZEF0V0pxaE1tSG9JZHZRQ1Vsb28xZFpNTWd2cmpHb0p2bXMxdzA1RzN3SHN5SV83RjRsVXdyVDNrMXdaVVl3NmxkQlE3d05EVXRrMGN4VjZiWk9rSkRRLW5fYlNIcllrQi0zVE85NHJaaVJaMm9vY2xQeDI2aG5jSFBwUEFLSWFpZUfSAboBQVVfeXFMTVU4c2VOMllFUmJLd1FmaVVVcWdUT2lkVjBuZG80ZXlFTHpTTjNrMmdPaUJZYVBIaVd6b1ZxMjA1MmZtc0hsXy1JcWZaM3VZSUtaSjd5ck9DcEtLV2dScjFOTkFWbzktM0MtRHFvSElWMjFKeHk1czN5TlN3b09jUkQwX3lXRnZucHpBajJWNG5KSlJFY1hldEw0VHlISWxyZWVrU25iTlpJQ0hrSmNSX01sMlRpeEZZTTFB?oc=5",
+          "published": "Mon, 06 Jul 2026 21:11:15 GMT"
         },
         {
-          "title": "Trump asked FIFA to review Balogun's World Cup game suspension: Reports - CNBC",
-          "publisher": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHVOMGMzMUZta2dhUlZrekYybGUxWHlScDRjMnJKVDk0NTRtSjhTLWhvT1lSZ2NPaGxJMF9ZNnhXRDBRWVIyTldMVnFfN1JOTm5Sa1JSWEcwVGFGOGJVajVyeHRkQmxXWmJZWDJhMGEzUXN4R0NocDkwVWp5TUlPRXZ5UmZWRjFtb2YzTGFR0gGTAUFVX3lxTFBvQ196YXk4WXg4OGtvT3k5UHVkdUZIYy05cmhkaDdHUllsYlY4WG5oeVBSY2VvTkRnSzlKYjBuWlg3aFotXzJ1c3FVZTNaMEdnVi1xQVRScHlmY3dMWmV3X3NWeWI4U0lQNHJJdUo2d1NjdGYtbnNsU01XZ2EtZHR5MVVsZkhOY0FiMFN1UUZyQ09Raw?oc=5",
-          "published": "Sun, 05 Jul 2026 19:35:13 GMT"
-        },
-        {
-          "title": "2026 World Cup: How to watch all of today's games, Sunday, July 5 match schedule, free streaming info, and more - Yahoo Sports",
-          "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeGF6UkExSWtIb25HUEpJU1JLRVBYdXFNN1MyV3JSZnpkUzZIcVhBbU5YS2paQUpMS2ZISC1WU3VrYzdDakVUaVg2SFVLNi1DOGxlcmd0c0VkQ2FyQWt3UDNQc1Y2NXcyaWlKVEVXMURmTWFIQXNibm05eWRKNWhFMjVLQUhHdlBjdnBxUGh1X3dWdGRmY2xGclE0WmVrUDhvV25zY1k0ZG9oVUVva0VrRWVnZTNqTkFOU1ltdEpLNUppWkwyNUo1NURTeG1BUHhqb19WMGhLTnNzQkNScXoxQ1o5eVJfWFBvVnVaYXpIVFdZZw?oc=5",
-          "published": "Sun, 05 Jul 2026 19:16:02 GMT"
+          "title": "FIFA questioned as Trump, Infantino defend actions surrounding ruling to let Balogun play in U.S. match - PBS",
+          "publisher": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR2dZNnl3aERGRWM2OWFzUmExZldMVERnMmxRdTFvUlJsbWpxZUd1NjAyb3NIRHlfUEYwelpBVFdsMGJDVmtWV1BGbWJ0dFozZ0lSVDVNalQxNFB6ZkR0NmV2VE02U3FPVC1ia1hla291U29rT3BGbnNOTjQ4TEZPS25ZTG1GNmFlVXcwV3BGZ1JyNzl1WGlIMjhaQTFhTkZuZnB4aFBBNl9jRjh1b3c0N0Z3NGUtbWJHSE1RaXA2MG5jc3MyNkkxdVdkNGpDb3dZ?oc=5",
+          "published": "Mon, 06 Jul 2026 14:23:16 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Taylor Swift sang, Travis Kelce cried during their 20-minute vows to each other, wedding guests say - Entertainment Weekly",
-          "publisher": "Entertainment Weekly",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHh1WmpHSUdjWjdFamg5dnhuMlo1Sm9tSXNYcDBPdkhodllqaV9lR2llRVFNNmpXdHRCR3pxUG1TVF9xbWxPQ2g5VVJQbk5kR2FOSTQzd2g5UWttUlNRS3ZhakRpRFdKZjVZaGxwdDRsT0RWWmxGN1NXaWsxNWxDVFpmNFZvek5yZElmZnloa0pCb3RVUTM3M0xIWFREeE5uMFE?oc=5",
-          "published": "Sun, 05 Jul 2026 20:57:09 GMT"
+          "title": "Jonathan Anderson Reveals New Details About Taylor Swift's Wedding - WWD",
+          "publisher": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWtoX1doRUdHS0dXSlFJdXlMaUFtbFJ4QngxWng4dzBwZmo5VC1jTTJnUnhSTFlYdlp1Q3pTdzE2LWlCLVVWcjl4UEtKTFFpbUp0MEZtRXNIUlFHbFE5X0YyZW5aU293Si0xTkdYNExxbVQwNXV3WkNzZXE1ckhjWGpHTkY4MDdJSE5LaHZ5bWFuSXNPaUhkSmtZVEhwR3FJWWlsTlVJRQ?oc=5",
+          "published": "Mon, 06 Jul 2026 20:15:00 GMT"
         },
         {
-          "title": "Box Office: ‘Minions & Monsters’ Nears $100 Million Overseas, ‘Toy Story 5’ Climbs to $764 Million Globally - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYTREN1YyR2lkSzV6SmhUZUZfSzVQQ2tsMUwxa00zSkR3UUo4Q2pEdUc5OTB6cWxpU0ZhWTVGeXlyX2U2RDI4NzFueTdESTlxSS14bV9GNmM5T2xVMEdlS3JNUWxkNnIxV0JyaWVtYnFIX1U0aFlZNjY1NU1EdndRclpVZXdJNjFzYU9namFUQmh4R19ucXZmY0dPY1I1a2ZJTS1xOUd6MHpCTVZqVloycm9YRTJqZU91eWFpOXRaZlUxazJ3c21R?oc=5",
-          "published": "Sun, 05 Jul 2026 16:36:00 GMT"
+          "title": "Prince Harry won't stay at Buckingham Palace during London visit, meeting with King Charles unknown - ABC News - Breaking News, Latest News and Videos",
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb1did0JMS3lsLWZqRUZDbE1MU1VHbWZ2aG5JUjBPNXRBMUFnY0Y0WC1LYk1QUGNqcVRwaDVobmRKTDZ6QTQ2dU91OVZxWEtOWF94WGdjZ21IUFlqRWYwUWlOZzA0ZHVlZG41Z1RWbmdVQ1RfenRtUHFpR201OWk3dU5oY2U1SGd4X2pMek9OMnVFOVlSb1FwZk1IeGhtTEVxU3B30gGoAUFVX3lxTE1rQ0V5SlRIZ1l3WXdlZ3RWdTRnOGs2T3ZDa1Fvd3RLMVhOWVZVT3JOY1dXSGhRMzhGMFhSMGZDclVfMFQ1U3k3YldKeUJuZUduWVZjcEV2djV6VlNVdmMwREtPQ3dEZjJ5RG9SOGpFWXFCWVU2eDNKaXVPbDFZMDF1UXlhUzhMQk5RckNFMVdEUlBXOGFtQVVzTUhuMUpXaXdvYkhqMUQxSg?oc=5",
+          "published": "Mon, 06 Jul 2026 16:17:26 GMT"
         },
         {
-          "title": "Andy Reid shares his — and Adam Sandler’s — best marriage advice for Taylor Swift and Travis Kelce - Deseret News",
-          "publisher": "Deseret News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbC16UF9RSVAyWjV4bEEyQjc2WE1xOE5mb1JqaUFfUHZ6clRSNHRMeEFKTUJ2aXV4NG5FZzVaNWV0dU5kaFE3VzYwVlRHeHplZ3ZfbGxUS1hNOTdxOEg3blBBVUJFdmREczExQ05sMnFQWDI2Y21TTWJ1TDhkWm1BWjZKbjRGMEFfQjZjaTdtTFhqU0ZKRTNQeW5HMTRDaWNndy1VdGcwRWxOUVV1RGZYeXF2WWs3dw?oc=5",
-          "published": "Sun, 05 Jul 2026 19:35:39 GMT"
+          "title": "Lauren Bennett, singer on ‘Party Rock Anthem,’ dies at 37 - NBC News",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN29NNTJzc0pwa1J5VnpTSG93ZkhRZUd3YWRZamZLNl9YWTVOdVJVSzF1RVFlSGhaYVcwQ1otdFBBSm50YS0zOGlBbkVORi1sUUlOckw5T1FtSmNUTXV0a2tPUnMxdHRFbEdtcmVSQ3dycHZfNGRwM1dSNUVxV3BYd3lkVGJQWjMzNTg1X09iSWN3WDdXeXlvbmJXY3RhVFpMeGc?oc=5",
+          "published": "Mon, 06 Jul 2026 20:54:53 GMT"
         },
         {
-          "title": "Thousands of miles from D.C., a July Fourth extravaganza not about Trump - The Washington Post",
-          "publisher": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXBBX2VsRmgwSmpiSXRFWHNYUE1nM0ZiUWxfVkQtSG5FTGJsOS0zLU90bEhlSkdMZXA3a3JDbjUyNGk1d1dDbDZMVXZLb0hqRXE2WGxIbkEtZG41WXBfZmtrRGsxNTVvZHotQURmeVhhektZbnFUcDNEWEZnelRwbVRJcGx0MVJIdlJzZTA2WU1wUzVBQnBobVhmb01vTmV1ZXVWUXNmOWhfa2xXM1o5S1liNHhqcmc?oc=5",
-          "published": "Sun, 05 Jul 2026 16:00:00 GMT"
+          "title": "‘The Odyssey’: Matt Damon, Tom Holland, Zendaya, Anne Hathaway, Robert Pattinson & Travis Scott Hit The Red Carpet For World Premiere In London - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDNXTFJ2Y3Z4N3RTVWNxaU05bkc4a3dCWlB4Vk5MazdRYVVQUTZOV1AzUzRNSFFFeVNCbXBPbjFfQVRjRUMtREJwVGVOTENjSUNfeDdtN0FkNGxzbVR6MGpILWVWdnZxcmVEbVlUNGJEem0xWUZ0ZVJ1SnFYZVAwb1V0aHExbmtQZGVjM3FoU1RsV3VXbUcySHJwTl9RaHdy?oc=5",
+          "published": "Mon, 06 Jul 2026 20:24:00 GMT"
         },
         {
-          "title": "Taylor Swift Prenup Explained: How Scott Swift Protected Her $2B Fortune as Reports Say Travis Kelce Agreed to It - International Business Times UK",
-          "publisher": "International Business Times UK",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJUVhUWG9md21mTDFVcVBTV216YnJjc2hkTHFqLXRya2V1VkMtVXlRWVFUWlNhR3ZzYWd2OERVQnFBVHJvaGZGSzlQOWsyMzBsYmJCelh6UzVUR3FqR1RweEkySm5TSnQ0Z25RYi1Zaw?oc=5",
-          "published": "Sun, 05 Jul 2026 12:12:27 GMT"
+          "title": "AI “Actor” Tilly Norwood to Make Feature Debut in Coming-of-Age Movie ‘Misaligned’ - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVlTLVFJTnUwd2lTbmNzUTRsbHBRMzhYUzU2b1N5ZWtLWnJkVkp2bUJBWWk4THZxN3J3RUYyOWR2MmtRZFFIcDdUQmhURWdUSmthMVFrSVZja19BN2l1bFdKMjNSazliN3pVQ1U4aUZlVWRhWmd1OGNsR0VTbnRmVUlBWl9iam1jLUtuRW1QNkU2c0U2bXpiald0bjhnZW93TnNPLVlka2hUcFlWMGc?oc=5",
+          "published": "Mon, 06 Jul 2026 15:43:44 GMT"
         }
       ]
     }
