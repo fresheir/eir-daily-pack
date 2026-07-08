@@ -1,7 +1,7 @@
 {
   "market": "SE",
-  "generatedAt": "2026-07-07T23:00:16.607301Z",
-  "validForDate": "2026-07-07",
+  "generatedAt": "2026-07-08T23:05:31.082696Z",
+  "validForDate": "2026-07-08",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,10 +9,22 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Sorgen efter Christian Zedig: ”Har bara hört fina ord” - Dagens Nyheter",
+          "title": "Misshandlad förd till sjukhus i bojor - Skillingaryd",
+          "publisher": "Skillingaryd",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS3pucFFldnJ5YjlWdXZTelBWX0NYVnBLSlVwZ25UUzFTaWhPT0xuOEV0MlVVTXJwcmpOTVlxNHllWmpSRk1lVXp2UG1rN19fSHE0bFFITUEtbkY3Y2JPLW1nUV9KR29nb2NhUjRwbkJSbVI3ZFN2MnJGU2FPQWxBSHJDMGc?oc=5",
+          "published": "Wed, 08 Jul 2026 18:56:23 GMT"
+        },
+        {
+          "title": "Franska soldater välkomnas i Boden – nu väntar akut bostadsbrist - SVT Nyheter",
+          "publisher": "SVT Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmRVRkp3QUJsS0cwYjdrM1hWOXlCVGF0Mzh0UXJTRkhfOEd5VjBPUV9FbFdWSmNTU1VVMmNqUnlSYzFIcUZJWGZJb3A5aUdtSnJoMGpxZkN6ZXlRTVp4dmI1QnBxWlcwa0hSdUZDSFl1N0hSMGRZcUVtWXlVd0h2TXQ5enA4d2tWX0xmOWs5YldQZVc2bnBLbFRCMXV4Zlo1V2JUX3JSNHNhU2M?oc=5",
+          "published": "Wed, 08 Jul 2026 14:28:38 GMT"
+        },
+        {
+          "title": "Så vill SD locka ”tjänstemännen på Söder” - Dagens Nyheter",
           "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNajNiYmxPanBlaUh3Q2VYcFU4UFpOUWVkc1dReDhNY1hqd2NILUVuZ3NwV3Z2ak05QUhRNzh6SXZDZXFmRGIwcnVxbEdtdHpGVV9QS3RIZ05GWGVDSmc2OHhITVlXRVFvYXpwMkxuVXpDdW1MUFQwRmNUem1UcVd3TXhYNUI?oc=5",
-          "published": "Tue, 07 Jul 2026 17:33:35 GMT"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40UExJUG5tR3J5YnYzRUY3ZkE5Vl9JQnhDNDdRdlV1bjFjdEFUTFdnZEZmX0FnaC03Yk43MFZHamh5NDFXWEtzVGZ6eXVNNWtDclBkZjY2Ry10RnkwYkhxTElrN201c0IwNnhwazZZU25JY1Zm?oc=5",
+          "published": "Wed, 08 Jul 2026 21:45:55 GMT"
         },
         {
           "title": "SMHI varnar för skyfall och blåst – tåg ställs in - Göteborgs-Posten",
@@ -21,22 +33,10 @@
           "published": "Tue, 07 Jul 2026 12:56:22 GMT"
         },
         {
-          "title": "Nato väljer Saabs Globaleye – varnar för robotar - Folkbladet",
-          "publisher": "Folkbladet",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcTdTNEdNaTFzVGRXaW5kcUpiWmFjVFl4OEZ6Ukk5cmJpMnAzSUJLWGUzWVVGTHZCMG5qMWZiSkctYU4yYkcxWG1TdV9jVmVmeWl0UUN4alRUWG52UVFJUVdwWXB4TTVXdjE1VWpmUzFpMjNCZnREZXJ3ZExEVnFTalo3ZU1ZQlY4RGw5ZC16NVJCdEU?oc=5",
-          "published": "Tue, 07 Jul 2026 09:25:26 GMT"
-        },
-        {
-          "title": "Kaos på Gotlandscamping: ”Tälten kollapsar” - Aftonbladet",
-          "publisher": "Aftonbladet",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBESHV1ZkZsQlBkcU9ueEN3MFhXdTZIQUpOemd6WWhYeFBIZ2hlOFBLQnNtWVg4Q242NWpianBtTEpiU2N3ZDV4WHQ0R1BpdGNTdllENFh0OWg0eHhjQ2cwRG5QNThNZk4zM05iOUE0NTBFUXM0azloUF81SjZvTEU?oc=5",
-          "published": "Tue, 07 Jul 2026 21:05:56 GMT"
-        },
-        {
-          "title": "Försenade tåg Malmö – Stockholm tills imorgon - Omni – Alla nyheter. Alla perspektiv.",
-          "publisher": "Omni – Alla nyheter. Alla perspektiv.",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KLVdCM3EzcFhMRFgxdHdQU0ZqMTRUckdleXhuLVlGdWU1Tl9WYnE5MWh5OU1Sa2lUSzl1dnRMUW1JQWJHdUJOR3NXYUV4d0pDODh1X1dHMW1CQWU0WU9iejhoNmpLX1M1aEM1ZGhJRE1ZUGExeUxF?oc=5",
-          "published": "Tue, 07 Jul 2026 17:52:21 GMT"
+          "title": "SMHI varnar för vattenbrist i Uppsala län - UNT",
+          "publisher": "UNT",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcUdCUnlkZXhjS08wNmh6c082Q0tpZktYYkx3UGNuajZXRktDbXpsX25LOUFwUHJmN3BHdlZTRXYzRy12UTdLdC1YRU9wR2ZsWFNfZlRNWU5FWG9jMnlfVkgtSUdKZHRrVGw2R2k1Vi1meE0wazF5cjBCVzZkT0JpTTVkYUpZUTNOMFhWbjNkSUt6SzIwVUJyMHVueDRUdw?oc=5",
+          "published": "Wed, 08 Jul 2026 11:25:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "USA attackerar Iran: ”Brott mot vapenvilan” - Västerbottens-Kuriren",
-          "publisher": "Västerbottens-Kuriren",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSHFIQ1RvazNkMjZLTV9rZ2U0UVhMZWNxbXpjS1A1WjJqWC1HaFMtckJDaC0tUE5DTV9Sekl4N3dtQk1NblZTOENxWW5jQnh6T2p0RVFQajAybU5IeEhqdDBVcExMT2VWR1F0Q3pGSEZBSHgzWU8zaE9oRUc3SnM2Rw?oc=5",
-          "published": "Tue, 07 Jul 2026 21:30:26 GMT"
+          "title": "USA återupptar attacker mot Iran – Trump: Detta är en hämnd - Göteborgs-Posten",
+          "publisher": "Göteborgs-Posten",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXJRcjhWZ3NhZ2xUQ2VmUnd1LUhkRXJQQXY2UVJuc2VNYW5ScUdJY3RHOVJXZHh0RC1PNVprRzVuUmh0YkpGSmpNWWxKOVYyQndQRlNoQmVYd04wYVlQV1NqX2VtUjlrekdxN3JNMjlXa1B0aXVvQl9hdXRwdW5yMkpjbVFtMW85Y1NtQmd3NEtSeWZkaHBOMGo2alJIVnNQdTdMNEhWS3lCTUNfYV9iWDBXLXV4MFJBUXNPbnIwNDF5RnI2YkE?oc=5",
+          "published": "Wed, 08 Jul 2026 22:07:32 GMT"
         },
         {
-          "title": "Erik de la Reguera: Fotbojan kommer att förfölja Le Pen - Dagens Nyheter",
+          "title": "Bo Torbjörn Ek: Trump skrämmer inte Natoledarna längre - Dagens Nyheter",
           "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlE5ZFdOOExGMDVESXdMa0tMY2lsemhZQXlJaVJEN0JxUzVqell5bVRHN21nQnR1bmFjYVZtdUYwdVNyUncyazlGRXJMT3N4cFFyY0VrOE9MbFdkeVdNdlZCLUUwQjEyUnVBamJkalRiXy1sVVNocjFYX200WG5NSWFDMjR6NDlz?oc=5",
-          "published": "Tue, 07 Jul 2026 20:11:30 GMT"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRG02Tmc0UmZoWlBJam1NNTNJRV9SYTRQc3lGVHdPZlYwOEhGSEtxa3hmeHVNNE1zMk1JbEZ0dmtSOEhNazVnQ3NIWFZYR3NsTlU4cldzVG9xTkYxYmxYczZ4WVpsNTVXMVlzX3FXeDBWRnpSVnZSSGlPZmMyRTFyS0tqMllwSDQ?oc=5",
+          "published": "Wed, 08 Jul 2026 17:29:09 GMT"
         },
         {
-          "title": "Efterlyst för Monacobomb dödad av ukrainsk agent - Corren",
-          "publisher": "Corren",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmVwdlBXcjFUdThQa1M5dHlGUDFiQjV5akN6MlROUVpybXZybFZHRFhLaE9ELUtfMlRIWTlHLWNqb1hDSExUaC04MmlfeUQ4TExzcElPOWlRSHZ0WjZqem9BWVJtUW9JTDYyQ3FibWZBUWJoS3pJR0JLTlowcjl4Y1U5T0J6MjJaamtUOEhPbjBQZDlSVFc0dkoxVWJidklDU0lER3JVbHZFRmpFcDM5MEkyd1hQdVd6b3c?oc=5",
-          "published": "Tue, 07 Jul 2026 08:56:00 GMT"
+          "title": "DN Direkt – 22-årig brandman dog i fransk skogsbrand - Dagens Nyheter",
+          "publisher": "Dagens Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTDdjdkVOb3U5MU1feVJKdGpoOXp4ZmwteU1JanE4UGRtY2hlLUktVGdZQjltTk9BSkJhRkRKbG1fVGpyRGpxRWE4NWo5MTY2TzQwZjBHOVpKQ0sxSFZfakFVYmhIMFBzeEZRdFBjNWVUa1RTNEpTNHZ0S0xQa1gzSWhYcw?oc=5",
+          "published": "Wed, 08 Jul 2026 07:14:26 GMT"
         },
         {
-          "title": "Så var Nato-toppmötets första dag i Ankara - SVT Nyheter",
-          "publisher": "SVT Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObDNRSThvWEJ4bzljby1xYjR3cVhDV1JUb0hlblFVSVhMY3ZBWW83a25MSUtJbUpoOXZpR05wQkwtdU9mUnNTcEdETXFnNjV6VUJLeGVhZG5oZTdpVlp6ZnJpMzk2UVJLdWUwX2NnN3VyczJydHAwUDdDMzllQzQ5UWtiQQ?oc=5",
-          "published": "Tue, 07 Jul 2026 19:49:05 GMT"
-        },
-        {
-          "title": "”Storskalig fullträff”- flera ryska fartyg eliminerade - Marcus Oscarsson",
+          "title": "Ryssland inför totalstopp – får inte lämna landet - Marcus Oscarsson",
           "publisher": "Marcus Oscarsson",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX0JmMnRDNnJ2LUk0UjY2N3FnV2pYMmgtTEZuN25qc2U1dXRjVFB2alpjbGtoS194TElDVnRzbFk0aF9RdEE1NEszZUZ5YlB4MGZRblpDeldWQ25iY0haOWpDYW1nYktIVTZRNDRCZDFqYzhuc1hRWW1reU16aDlwcVhEVG5xSUU1ZUhlUlBQd1U?oc=5",
-          "published": "Tue, 07 Jul 2026 18:11:35 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb1djb1k0U2RwV2l1WE16WXBGdUZVOTloV3NjSHRMd1BIVEVrOVQ1cXZsMDgxWUl6X1FkRzMxX0FLRWc1am5TZTZhUUpuTWk1UGUyV1RlYVJvM0gxYXFMbXhJSXVBZlU3dTAwM2pSNl9HeU9HU1NPSS1CUkoxb2lOakgtLXR0cHMwLXFR?oc=5",
+          "published": "Wed, 08 Jul 2026 20:23:07 GMT"
+        },
+        {
+          "title": "Stigande dödssiffra i Venezuela - Göteborgs-Posten",
+          "publisher": "Göteborgs-Posten",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQXzdDYU96Y1RsbFlTMUdrQm1EM2h6eTd2R2pIcGVrbGxuMm41ajBVbkZCR1ZXQ1RPUFFEOXdRdG5xdWNKRTlWTWRtVUltVU5aWHhyVDJWby1wVTJKekphM29qbHgySkFEd2lnNVQtanZKWnNtQXlKaGM5ZmhTU3NSSUJBMkFvU1Z6SFdWTGV6SGlWcnVNV1M1ZUZTRGlkTFVSYURiQQ?oc=5",
+          "published": "Wed, 08 Jul 2026 00:38:04 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Finland vill också köpa Saabs Globaleye - Västerbottens-Kuriren",
-          "publisher": "Västerbottens-Kuriren",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1WFlIMFBFWnRZbjM2ekJpNTlHTjdLZl82MFRQSnN3blI2RmI2bi1qdVF6LWlGYl9oaGlseVVCeVo5U0h3VzkzaDk4SUhKcFJFczFzSXFKV0RVQ2JNTWliVUZ4RGRjTjZzRzRoRXItcm56cjdKQUQwdGo3eldUZms?oc=5",
-          "published": "Tue, 07 Jul 2026 17:50:26 GMT"
-        },
-        {
-          "title": "Experterna spår fortsatt rotation bort från AI-aktier - Omni – Alla nyheter. Alla perspektiv.",
-          "publisher": "Omni – Alla nyheter. Alla perspektiv.",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNGItZTVXZU9fNGpZblgxbGNQaktTZjdhM0o2T1laZlhfYlYwVlNscTBaeVJnVzJkTEd2bkZNYl9TWjZBNGJkTTZFOXNJTXdDeHUxM040MHVZN0dJYVZsLU1VTkFkTnFLUEgzRkR2Y2QyaXNmenVDNGJFZEIyRkU0NjVvckY?oc=5",
-          "published": "Tue, 07 Jul 2026 21:07:29 GMT"
-        },
-        {
-          "title": "Näringslivsprofilen Björn Svedberg avliden - Folkbladet",
-          "publisher": "Folkbladet",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX0JqR3FtVkoycnR3ZFZ3S1NDOVZzU2cyRkhzVUt4MDRIVWs0cXR6ZXFMbnJwaC1wT1JVN0VhYkpJSWh2LU4zc3VFN2pGWFNCcU9WZm1QZ0REaHA2THhwNEdkSk9ubkczdlhyY2llWENnMjZDRTR1aU4yc25mN1NjdHNHQ1NqdnN4TVR3Tm93?oc=5",
-          "published": "Tue, 07 Jul 2026 14:45:04 GMT"
-        },
-        {
-          "title": "Stockholmsbörsen avslutar nedåt - Affärsvärlden",
+          "title": "Bahnhof: Karlung säljer till Telenor - Affärsvärlden",
           "publisher": "Affärsvärlden",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OM3pZcTNhWjVLY1QzeXhWVjNJS3Z5MGxtM2JvZUUwRVpYV1VBLWE0Q1Q3UXZYdko2M1dHdU05X2YzQVM0UjJNMERnRm8yMUxiWE12UEFscFJjdEVkalRYQ0NIQnFUN1FueGRTY1BfLTVXRVVfS1Rr?oc=5",
-          "published": "Tue, 07 Jul 2026 15:50:44 GMT"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xVkgySVR1TGU4Y0pZQ0ZjT1d4WldEcEpkcXdDWHdvemZOeUpNQUE5dkhvU0haUkF5NHlyd0RxZFNyU0hxdUNZb3pLUXpCQkJLbHJmcFl4Nm1aSk5zdDFrLV8tYmZIblliWVE3S0dCYVZWWG8xSXpENWVLa18ydVU?oc=5",
+          "published": "Wed, 08 Jul 2026 10:52:54 GMT"
         },
         {
-          "title": "Riksbanken varnar för snabba AI-modeller - Svenska Dagbladet",
+          "title": "Industrin i gungning – tar fram räddningsplan - Svenska Dagbladet",
           "publisher": "Svenska Dagbladet",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TaU1Za0FMbnFhNUZobW83bUw4NEdJbWY4U29nZ2NZeWtpU3Z2Y3ozc3d0UlJsb0E5eEplbTJ2ZTUwZE5hdk4yOTFTeEtXWWthVUJWZ3VvcndwLWhwVG82SlB0Vkwtc054Vjc2amFNRXVBVUp6Tk1n?oc=5",
-          "published": "Tue, 07 Jul 2026 10:14:33 GMT"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FNHhFZ1ktYklESE1VLXI5eDdMTUY0MEpORS1zTHRuaEVpRXp6S2ttdTB1ZnV0cmdaUWtHbkFycXN0dzhjNlJ0LU9KSkNKUVhUMmhoRU9tUVdlX0dXMGVtMkhxd1J5aUFPaTUtRE53?oc=5",
+          "published": "Wed, 08 Jul 2026 17:46:14 GMT"
+        },
+        {
+          "title": "Jonas Fröberg: SAS vd slutar i känsligt läge - Dagens Nyheter",
+          "publisher": "Dagens Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94RkFyaHlEY1Fsa2hicVJISjh5cGhCdEpWdGo4UlppbU1UT0hTNjhXS3JzNXJ5YWRQSHUwOTI2YmNKRUJTeWZEU3N4WFZZUnE1N1pfM2o1T29wdFJ3TDVSdHFwOGFlYTh5T0RUalo5VEFXYXA1cXZrOGV3?oc=5",
+          "published": "Wed, 08 Jul 2026 14:43:02 GMT"
+        },
+        {
+          "title": "Lavazza: Tar minst ett par år innan kaffet blir billigare - Omni – Alla nyheter. Alla perspektiv.",
+          "publisher": "Omni – Alla nyheter. Alla perspektiv.",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeW01WHphUVo1TXluN3VobFNFbzFYRVNjRnZLWXdkb3VSQm41R2F2WHNmYnRvWkhHVm1FZ2FFbDVGYWF1eUdKVngydnpmNFV4ZDNRWTJ1dWkwRzh5VEhrX0FHTXhMUTBmUE43UHc2XzFBbzZzZGNpN2M0bnFyS21saXgzdFA2aGNk?oc=5",
+          "published": "Wed, 08 Jul 2026 20:46:25 GMT"
+        },
+        {
+          "title": "Ny våg av krigsoro sänkte börsen - Västerbottens-Kuriren",
+          "publisher": "Västerbottens-Kuriren",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BbXYtXzV1emhTUzJGUlJoUjZGZ3FZc3VmM3k3Zm9aSVZSeTFPdlAyQ05wdXEwMUZoRHFFT051UGxGbFN2Zk1FOEptN3lCNEctU0tuZ0ZHcGtMZy1RdFhSSlJrd09DcUV2ZThoM0dwV25DbU91WHc?oc=5",
+          "published": "Wed, 08 Jul 2026 18:40:59 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Jens Littorin: IOK-beskedet bäddar för konflikt med friidrotten - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUVpCRFVPOEllemtXT2txeUhmNGlEbndKRXRMVnhRckl3dEVMekluaVdIeXVTcmE5dnh3Y0RVTlZRVVZOdkdDLVRqcUZXaWJoYVVIUTFMOU5Odm5UMm5hSG9LcFFYTTBLcjIxRXpCY0tCNmF3eWlHaFRzVWpqSmMyMHVVU2lFbUI1Ry1odFJXd20?oc=5",
-          "published": "Tue, 07 Jul 2026 20:23:23 GMT"
-        },
-        {
-          "title": "Messis tårar efter superdramat mot Egypten - UNT",
-          "publisher": "UNT",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMk94NDNYQWVnb0p2blluU3FkTXd2bEFrX1p2RUw5REhQU3hvb3hEVWE1YUI0eXBMS1l1XzlndEpDNmlPTFFtQnNmVG1yczZKanJGN0NPZDhwOG5neU5zM2R3QnhmdDN4Zk96bXI2cHMxTzVjUDlmZjN6RTdyMEh5T2FPdnBKQ1RQTzJ4WXBEeWFNc2lKd2Nj?oc=5",
-          "published": "Tue, 07 Jul 2026 18:44:00 GMT"
-        },
-        {
-          "title": "Belgien dominerade – USA utslaget ur VM - Nya Wermlands-Tidningen",
-          "publisher": "Nya Wermlands-Tidningen",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RLVpZVlZEaFZ0UEU5X0FuQl9IV09JUGVQZDY3YkpyTE5xWS1zcEVScUUyWHdfamY0Njd3Y1JGRUNES29pNzRHem1wOGxqZ2tWVmpTRldYR1l5M005TFhPSWNNa0hWbXVUSDFQTGVoWFZPQzdtSkNzUg?oc=5",
-          "published": "Tue, 07 Jul 2026 05:36:31 GMT"
-        },
-        {
-          "title": "Djokovic till semi – efter fem timmar lång match - Omni – Alla nyheter. Alla perspektiv.",
+          "title": "Duplantis kritik mot IOK: ”Tajmingen är konstig” - Omni – Alla nyheter. Alla perspektiv.",
           "publisher": "Omni – Alla nyheter. Alla perspektiv.",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MERYQzFRNmh0N1pqSkQ4SDYtRTV0VVoxX3lLbmpYdngwaXNqM20yMWZxNGFnSm5uSnE0ZTlUbGJmb2tPaXE2UEQ4b3dqeExwYWVQLWR2TFl0R256UlhZQXdNRzVWME5MTXM5cDk3U3pFdkpXNlkxSGZvTQ?oc=5",
-          "published": "Tue, 07 Jul 2026 22:26:09 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aUzh0WXNVMEhZVVFveHNUSVp1MEFScl9yUXM3dVRiWl90TzdzeVNtWENLRC0xQ2lXQlVFNGJhVHhoVzRFY25MZG5hcDNBTEZpR0V6S1FqdmV3WE9fLUlPaEpILUplcURCNzE1UDVRbEVLR01DY2NpcFln?oc=5",
+          "published": "Wed, 08 Jul 2026 16:17:04 GMT"
         },
         {
-          "title": "KAPITAL FLYTTAR TILL DEFENSIVT, AI-AKTIER NED, S&P 500 -0,6% - Placera.se",
-          "publisher": "Placera.se",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZlJqcEJxanBacDJFY3lqc192dDhuVm1HTWRhdE1lRlJaTFRFYlVfZzl3ZEtLSmJpamtwaFF1NldjMmJLT1ZUWTU3N0FaY0lYWHNZR3Bhc1RwTkJDUnB5aWY4dktqbl9tZE1xc3lJNE43SHZja2o3ZnlPVVFndzdGLVpwWUp4YUJDU1I1Mm5PSUNwWF9DMnJ4emNOdFZBQmlsOEVfNXQ3QnFBdw?oc=5",
-          "published": "Tue, 07 Jul 2026 15:01:51 GMT"
+          "title": "Efter VM-härvan – Gianni Infantino anmäls - Aftonbladet",
+          "publisher": "Aftonbladet",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUY3UmxoRlhnSERYYTVOekk5S2VzX2lVUFdGVy1CZDZEd1ZYS19wdkktOUZQLVpZN3BTamt4ek9IdWdkT3JFTFhSVTNQN2RsRlU4dV9YN1hTX21lQ1NySmdLT2xxNGxVRjQ1MG04Nnc2YnJYREVqZHFWakN0eDEtZ25rRk1sTVc5cnVQRkcxbmFQUQ?oc=5",
+          "published": "Wed, 08 Jul 2026 18:59:32 GMT"
+        },
+        {
+          "title": "Robert Laul: TV4 klarade inte hantera VM:s största och bästa drama hittills - Göteborgs-Posten",
+          "publisher": "Göteborgs-Posten",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaEs1dHRwUjZiTHhvR2k5YVRNUjdkUVd2d3dwWkJuclJDNVBOaTJfek14T19rdThwTWlfcDlWVF9teHhsdl9leGlHNklyWHRTbnBFYWZtZTE3YkNpbGd2MlItTjAtWTc0QmZzcExtbkhzdXlrZUoyY0pUWTFtZEYtdmJzbWU0TThfeVNleGZBajZodWdtM3RYUWktY2I4R29RbWpDSkhVVjZybVpOSkxiMGNpZXNMT1djZ0xHcFQzb1REd2poZm91UGhpcno0emM?oc=5",
+          "published": "Wed, 08 Jul 2026 20:40:57 GMT"
+        },
+        {
+          "title": "Kap Verdes hjälte Vozinha föddes på sten och grus - Dagens Nyheter",
+          "publisher": "Dagens Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBETDFMUS1aaGxQNVA4YlRVMWptRW5mSmIwUjZiam9GUzdUcmRRZWxLV2lyakktaWJHUzg4RVRWdmdKcFZMOVlhSGM4V0pNTE1yZm1kYlNKR1J5Vzh3R0dQMkZZeDF2UzU1RlB6WTZEMzBhdGR5WkxXalFyYldGdXM?oc=5",
+          "published": "Wed, 08 Jul 2026 16:02:01 GMT"
+        },
+        {
+          "title": "Blåvitt-basen om ikonens kritik: ”Alla ska avgå” • Förtroendet för Billborn - Expressen",
+          "publisher": "Expressen",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGZodF9BN3hLYzVmQ0RKeVN5TE13RU1HNXowd1I4ckFZQURmcmZiLWVrMjdyS2N4UG5HOHZCSV9MSkdObEV2aG9FMUZnSlJJUW5WeFZxanE0SzdLdEVYRlRTUG9MZWJKanhEb1NlSTE2SDRXSEJjclJaQnpEWTlkbG1VMmtWcWc1YUhKcnlzdVpBMzlDY2FiTlJuYXNTSklLN1VqS1NuSUcweXc5WEU3SHdaYk4?oc=5",
+          "published": "Wed, 08 Jul 2026 15:46:08 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Köpråd haglar över Space X: Då rusar aktien 460 procent - DI",
-          "publisher": "DI",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPME9zeHJCaW5WcXN5dExUQTRDSXR4MUFXSHI4WGZlWnIyOVFvby1KTG13Vll4dDVCM1huMmRiQTNYY1U2ZlJqOWR1eTdVOW9tN2NMNXJfUmVZdTZQdzg1RlVjU3dsS084MV82aFQ5cm1sWWZDbTF6R0pkWW5WUmFueVBDS2pDOTJD?oc=5",
-          "published": "Tue, 07 Jul 2026 14:05:27 GMT"
+          "title": "Oro för elprischock när Google vill bygga enorm datahall i Torsboda - SVT Nyheter",
+          "publisher": "SVT Nyheter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaWVyaUJ3Q0d3ekJrdWlhSUtQeUctSzA4U0F4REo5eXd1cF95T3JscnV0WTA1SFpJOTRvY2tlMVdGSmQzWTY0QmlmcVRoMXFOd2pJUF9TVDJEVnBXSFY3Z3hheU5ScUVwRGswSllXZWhNY2NlWWppQmlnbVptMDZEMHZLNzZ4V0g1bGVNYTFYUHpvTl90UWwzLU5EVjlXRXkxNUNiOXBaSEpzcXJXem04?oc=5",
+          "published": "Wed, 08 Jul 2026 03:30:00 GMT"
         },
         {
-          "title": "”Snart är vi en digital koloni – Googleaffären senaste beviset” - Dagens Nyheter",
+          "title": "Hälften sparkas från Doom-studion Id software i Xbox-krisen - Aftonbladet",
+          "publisher": "Aftonbladet",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS05pVHBkYlVEQVpVLVMyaWNxUFpfc2hPVnVxSnNzUHdmWlpjOEdTTXpxYkNsSTNaMmpXaWZpN3R1a2x0UGRoLWxLUHBPaU9ENlc5MVRzSTVyOVJreDFqSGUwcTRNNnNJNmhybjBqWVYzZDFqUU1Sc3Rzc0ZtUmptVU53aXduZlplalhRSW5Hc3FBcDAtSUxZUi13?oc=5",
+          "published": "Wed, 08 Jul 2026 10:20:55 GMT"
+        },
+        {
+          "title": "Rysslands drönare har fått jetmotorer – dyker brantare - Dagens Nyheter",
           "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaVJFNk9uNmIzVHNELTdNV2Yyd3VfMWFKZmo0c1pBZFQzWGFfaDNMQTdEb24tRmdjcC1UQ1JKLUllQTBWUG9lWHhaempUZUthQ1BjeFl3ZWpodDhsallWbVpMVXdXbmREYkdhaGJwVDhCU2R6U1VYSUtzYkpvM3c2U1o5Q21kbEhvOVZ3XzJn?oc=5",
-          "published": "Tue, 07 Jul 2026 18:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdVJwUVkxT3N3WE9VY2dKZ1lObm8tWUNTMW9Ob3pTdVBXTmZxVktwS3Y4Ym5vRmRhSGdILWQtekE4Vy1JaXFXWFJBYkRDd2ZlUTFjbnBaVGdVcUg3bV94TDQ3dWxFODhJMHJENWJadG9nZEtSdVhKd2pTSmsxQzhaS1pmRm5DUQ?oc=5",
+          "published": "Tue, 07 Jul 2026 19:49:28 GMT"
         },
         {
-          "title": "Börsbolag vinnare när regeringen miljardsatsar - DI",
-          "publisher": "DI",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aLVE4b2Z4cHNvbW54WmJPVmNfVUEyX1NtMVVBTVFiSnpfREx4eFlZS21jNmZid2lROFNieFpGRUVUUnY4NGdNNTlKNjR0LXVSb3RDa0JPbGFOZ212STBScnd6aFllWWF1dUxPM3Z2bUt0V2dpaHU4OEpXNTRqZw?oc=5",
-          "published": "Tue, 07 Jul 2026 18:04:36 GMT"
+          "title": "Är det AI som tvingar jätten att välja sida? - Aftonbladet",
+          "publisher": "Aftonbladet",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUWxZNkRNTGpIQjBjSkN0V25QOV9NR19PSExwSi1iVl9FTTFENkh6eW55U3ZvXzJPSjc0Tk5ocS1waEdQSElSSTYtektwUHpFTHREYkltaHNDOXJLSUJQandYZi1TRkMxSlM1clR0NUpfbUxldkVmaXNZZEJzazZfUWg4T0t5c0IyYzZkN2EtUTQ5MFQwekNJRWk2VC1TSnRkTWNaYkNn?oc=5",
+          "published": "Wed, 08 Jul 2026 16:01:57 GMT"
         },
         {
-          "title": "Nintendo slutar sälja Switch i Europa - SweClockers",
-          "publisher": "SweClockers",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaXFNNjJma0NjVGJsTlhnSXRpTTl3dVJVaG85UlNzYzZsa2hXV3FINXBvanpqR0NRaWVubUhoY2JPaks1QVlpaGlwam5aaUxLSkpwcjM4eDZmMWx5Q3E4eUV2bFk4VkZEaGVlQnZudENJMnR0NG5iTHpuZ0czMzNrdjBmSQ?oc=5",
-          "published": "Tue, 07 Jul 2026 04:00:00 GMT"
-        },
-        {
-          "title": "Här ska koldioxid fångas in – mitt i Stockholm - DI",
-          "publisher": "DI",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jU1V2NXZsQVkzVEdOb01BNHBUQm9Oay0yR3JhWHJLd1ZQNjAwOURoZzBhdTZyYlp6MHR3V2FURGtzWkZqcm5WNGU4N2h6QmNLZnFQWkJ3M0paWkFVNW16QjJGOHVzd1JRczJHOUVFbmdaOFlnWG1QcEdCYw?oc=5",
-          "published": "Mon, 06 Jul 2026 21:14:56 GMT"
+          "title": "Nvidia på lägsta värderingsnivån sedan 2019 - Dagens industri",
+          "publisher": "Dagens industri",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pTXJjWVRIMHNCM09rUUk3bFM5TnBDbzdxd2pSMTZzLUFCSUlYV29QQndNQ2FMX2pybTlOT1dWc3pSVkwzRVlVMDZOaXBWU2VTa19UTE92eWVGdmRWTlNnYmlmN1BsdXREeUJUTUtXMm4wMzNKRnc?oc=5",
+          "published": "Wed, 08 Jul 2026 09:48:33 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "I Hated The World Cup Of Soccer, Until This! - Woodward Sports Network",
-          "publisher": "Woodward Sports Network",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81ZDV6cnpMM183Vy1CMEY5WEdmNkxySGJOVDhiRVEzZHc2anQyMWlUdlZteXhHcmJkSnZBWHhQWjBkckRuXzJBSU1rWlVxa1NCU2xwVEQ4cEFwLVRlYXg4ZEowMEpTTHpoWENYSVg1YnRHZVgxUGtvdnl3?oc=5",
-          "published": "Tue, 07 Jul 2026 20:08:54 GMT"
+          "title": "Two US Soccer officials suspended by FIFA after controversial Folarin Balogun incident - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbGZ5WkZmZXdqNzkxYmZudFR1Y1N4N2hVaTBnOEpkR1dZLU9LT2p4alZCOGZmWEw4S1dRVEgzdWhZQ01sLVBTaHpRTnF4bWFBTlp1X1o0U1VjalBDdjNXSGJpRVR4Z3lSNUVQZ25MZ3RNR2lMNlNkUTcxMHg4aFlyOUExVnhOMENPR1E?oc=5",
+          "published": "Wed, 08 Jul 2026 16:16:18 GMT"
         },
         {
-          "title": "2026 World Cup Title Odds: Argentina Surges After Historic Comeback - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
-          "published": "Tue, 07 Jul 2026 18:29:00 GMT"
-        },
-        {
-          "title": "FIFA suspended 2 U.S. staff members for Belgium game - ESPN",
+          "title": "World Cup 2026 today: Live updates and news -- as it happened on July 8 - ESPN",
           "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3JLMnZ2RjZvX1YwVl9NcG1OalI3aXRudGVPa2hYRHFnaXZwSE9GR0xwYUZZYzgzSERXOEJUcEZiQTMtV29oU0pIeGJjZWh5bG9sMUJYWmk5eUpHb2ZQSHlPaUlqNUdWYzYxUk5tXzhCbUpfWm1NRE5ENHROdTNqN3JXY0RRUUs5bkkyOXpuQ29UR3ctNkhzRFh4dw?oc=5",
-          "published": "Tue, 07 Jul 2026 21:54:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQMU5rZnNxX1ZIMlBXQm1uc256VG1rbVRpVFVQYko3U29ReVJ2cEtQVFNVdWpDMTgyNXRKbEtNMkFZQnJ6NGhEdWFsazR3S3dIRnVSMlJsMWtRUXJiN3ppaGpCQmhKUURUcXNRR1BUR2J1b29LMUVVY0htZnpfQldDbjRudTJsaE9xV2VwZFc3VWctNE5IZ2E1RU1DOG1vbWEtVDVHLS1oRWFVTEM4MWpVVFpxRlp2TWhDZG9maGt3QUJjbTJJRFB0WlZ5RlpUbHdDZHlodW13MllnckhKZDBxTk9rUXFXZFFUMXJBeXFXVENLOTNmcGlRcEVxMVlxZEI5SDE4bjQtMjJZQ2tIdDR6VGJIcjdzbXlqZGY0Qm9zV00xTFB4cUlibU9DTXVNUzFDQWo4dXNLby1uOWhXVEhYVmN1a3dDOV9Oa19sT19vNnJtYUNBZUE?oc=5",
+          "published": "Wed, 08 Jul 2026 17:51:00 GMT"
         },
         {
-          "title": "Colombia soccer fans invade Vancouver ahead of World Cup Round of 16 clash with Switzerland - Fox News",
-          "publisher": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMG1RVTBBUy1rWGFxQW5MNGFmTV9rSk16ZmJjRHFWb1ZEck8yTWVKbG9ZVWQzejVweFlSYkJBa1NVRjJhYjE4aUh2VFUyc2NGcWo4SVNlUE1xcXN5WXNYSHVlWFBFckFYME96TlEta3RWMWRtY1VTbkxoR05Hc29IY1dqNy00NWgtalNYcEJoZ2RJRVJvalRfbEpZdUFTS3lYSHBGSTNwcTVsVmx0WFRaQlFSOA?oc=5",
-          "published": "Tue, 07 Jul 2026 19:51:43 GMT"
+          "title": "World Cup match between US and Belgium was the most-watched soccer game in US history - KPTV",
+          "publisher": "KPTV",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjE0YkN6UllPeGFyN2NVdm13ajBwQ0huSTd6T3I0UXBEMWxVS0NXMFZRV0NoaW92dWFERjdBOVJ3R0gwT0hRMWNEeFFEb1Y4bENKV1ljZXUtSTFCZFo5VFNULU5UMDVqSm9JRmdPd01TeWpLa200ZE1sbW9SU3J2UXV0TEhZdVpzRk1XMmFIWkVLTndlT2hBWHZra2swT2dwWjhmQmhHQ0hCX0XSAb8BQVVfeXFMTms4OWhvOUJHeHZqclZhYUVOX0VUenV2VGlwcnBwNzU3cmhSNm92MDFEUDFJQVpZSHd6aWkzbUxFbTBqUndLenBaLWh1OW5nZURYMVlkQ2podFFPbTVpcVhrczhEVGhzejZ0Y0FIcFhvWE44aE5BLWM3ZGx1dU9ZWldfejc4UzZnbEdtbS1jaW40dDVfb1NsTWk0eXFZMkVJaHU1VG5GNGhRN0JnaGJWZjZHcndRLWF6TEdVQ2xWS0k?oc=5",
+          "published": "Wed, 08 Jul 2026 19:11:00 GMT"
         },
         {
-          "title": "‘Watch shoulder to shoulder’: Portsmouth org builds NH soccer culture with World Cup watch parties - New Hampshire Public Radio",
-          "publisher": "New Hampshire Public Radio",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVG9ZTEJYd2lISTlmZngxbkNQVHhodWl1aTZYWUphN1VVR09jcG9UVEVfLWNVaGxrbWdiX2hyNlhQUUhHRmdJTUZ0OXJQb2JvaXBOLVY0NzR5dDhrekZuOXdnM2lLVkRGZUJvRmw5QnNRa2pjRlg2QXVKSkdwSVJNVENjdFpTUFdFNG55MjlIQnh1cldqZ2x5U0h1djMwQQ?oc=5",
-          "published": "Tue, 07 Jul 2026 19:36:00 GMT"
+          "title": "This World Cup reminds U.S. it is not a true soccer country. It might never be - San Francisco Chronicle",
+          "publisher": "San Francisco Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0NQN2ZveUt6d2xWY3g5QW1tYUZLU1lfSWxULUk4ZHV2aUw1SDZaOHlpMWg0Q25kTXhqeGVpTzgxMmVjMTBmdmtaRHloRlRVczZ1TXZ6ZGZRODdNektScjc1QWhZYllwRkpINGVESkRQRXAyQ0RyeWlBcU0tQ3RaVkNlS2dOdHM1TngxRVQ3ZDdsanZUZHFpMDBydHJXWEFDNjdkdWwtNDVacGJi?oc=5",
+          "published": "Wed, 08 Jul 2026 20:44:18 GMT"
+        },
+        {
+          "title": "Uefa could block Russia returning to football in potential new clash with Fifa - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbDdObG90aXFXZS0wdGp6REk5YTl3OUROVmpCNnd3SGcwT2Q1MjJBNmRCZWVHblhCV1NDRV9zYkdGa0drSUE4Q1c0TFhwTmlDNEFmNmZnWTBwaS1ESzJfMDg2cVpOZ081N0xkTGVzVmlYd3hMNTdlbEtyRmk4bjRPQU16dGlRMURPaHhOWjNidHRlVlFUUUc0WHhhalo5TlV2NkFV?oc=5",
+          "published": "Wed, 08 Jul 2026 20:59:00 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Chiefs wife wins $6,700 Chanel purse at Taylor Swift and Travis Kelce's wedding - NBC New York",
-          "publisher": "NBC New York",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLWNVbjV0MWNXQUE1a05OdjNCRjlpTTVWLWt1SjIxa3poaUprN0xmYjlYWUtxdGlVZjVZbEMzY3dtdmpkUlZ5ZHZUWkI0SExJT2g3NXJhcHhibUl5Tk9SMXo2dG5YTm9maENsLXR5dmRGWFNNTWh3b1NoNFY2cC1FeDNDU0RTSV9RZXpYT2lxOEQtRHNSRnZZVFBfR2dCb0pMY09pYVZCZUhaVXRPN3hSek9laVZkNldqbldIaHI2TUJoMEF3Y0p0T3BqVmPSAdQBQVVfeXFMUDNWYmhHa3dnVVc4dDJBMldoZGIyNFVwTGZ6SktaREtHbDBtRkpxcnp3cEhyWEhSTXowaTBLS2RpZDNEMHhGOEpVNEpIejBvbHlIVENfUkhPMFNmNDRoUmNsY1VJX25RcE9vc1puenBmS1RhVDRVVUNfQV9aemN1azJDYVdxcVhXaU85V0U0Zi1aajZzNWtaVUZZRU96LWZfQW4tR1ZPMGQ1a25jTi1WcHNSVlpHQUtqcXpwS1BuMWR0YjFRbFJWMFdaSEM4ZXY2WWdnV0E?oc=5",
-          "published": "Tue, 07 Jul 2026 16:14:10 GMT"
+          "title": "‘The Pitt’ leads with 25 Emmy nominations and ‘Hacks’ breaks record for comedies with 24 - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOTNFMmU2T1N1RmlqWmRpTVBMcVlyTXJ1MXR4dmFZVllucy1ySnF1c2Q1cjlVZmNldkZKOVZvMVBQc2d4UUloUktUY2E1YTlmNHhJLWJSRmdzOE5zRVJHb3RxbjV3SUJTejBLcmhOd1lSaTNkR0gwWENvVEplSmtnUnVCd1NfRUFRbWxfNVFyUXV0LXZpNFpNU2F6Y1UyQUtLTDRF?oc=5",
+          "published": "Wed, 08 Jul 2026 19:35:00 GMT"
         },
         {
-          "title": "‘Survivor’ star Rick Devens to compete on ‘Big Brother’ season 28 (exclusive) - Entertainment Weekly",
-          "publisher": "Entertainment Weekly",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXcyOUJKcWpRT0tOV1Zzd2Q3QjhYeEhYSl95ZXYweV9Ua3FxVnF5elFzc2VnOHpCYVVpOUN2NWVYSXhOdUpXWWd2QnFzT2RXQWNuRDM4VUl2c2JLcjd4d2RaXzdpbGRNal9tbFFhbXIwSjBvQ2JWa294VmlaYzNwVkFPN0FNVTBsVWtkbUF3?oc=5",
-          "published": "Tue, 07 Jul 2026 19:00:10 GMT"
+          "title": "Justin Bieber joins Madonna, Shakira, BTS at Fifa World Cup half-time show - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96YzJ6WDZpcUljcUVuR2lvYU0xLTBYc1JUa2FwbzVDenNHa0ZlQ2VJNnVWaHZzSFhzRU5JcXE4cmlzWEtQU3dpcE5GTk5Gcm1Md2gxS2NqWHRBZw?oc=5",
+          "published": "Wed, 08 Jul 2026 20:58:21 GMT"
         },
         {
-          "title": "Mariska Hargitay to Host Emmys; First Woman to Emcee the Show In 15 Years - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUVQajdJY3ZIR2RpQkNfQUxHc2tldnJQUVVWamJPTHJ1ZnpxaTBsYng5c1BYbTlsWkw4ekU4c0dhaGk0YUpheHJFNEdmZHg0VzNTN29FM1A1LVNWM0w1SEZfNkpmYTR5SUZxdkE2V1VCblllMU4ydXVfNnZJbl9iVnhzZHk1Nmxha0NfTE9qSFRucE92cVVFTHREYWdrdzBiLWc?oc=5",
-          "published": "Tue, 07 Jul 2026 17:00:00 GMT"
+          "title": "Margaret Qualley and Jack Antonoff separate after nearly three years of marriage - Los Angeles Times",
+          "publisher": "Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTU5TjBvWlk3SnVOU180emRRZ1dQVUphbGRKdndVVlhha1owV2p5QS15REh4VU5wLWZFeXkxV29rWmtPX1JCUmVOeVhYTl9HQXhkUlBqcnVUVDRObjJjRFRCeDlYVUFaTnpUZTltdmhRQmxMQ29Cd2F2TDB6Z2xCMkYyVUxVREdmQTd5Z1paMy1iX2gzUGRIcDZzeFNzNm9PVjY3YWFJLVc2RnlJWGJTQjMyU0VTVGJC?oc=5",
+          "published": "Wed, 08 Jul 2026 18:07:40 GMT"
         },
         {
-          "title": "Megyn Kelly Says She Feels ‘Sorry’ for Taylor Swift, Questions Her Upbringing - Yahoo",
-          "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObFpwSzZfczcxMmdRYW05RjE1U19UWUxndE9xZUg0QTJqX2VQc0s1NjRCNDYzN0VZTi1EYTRzZGdveGN6VDZHQ2dibWxiTDctMjkwdUFYZG5kNndiM2hpNnl1eUxXLVYtb0J5anpmN1BidV9hazhrSGpKZlJDUzBsamtmRjlDcGp5LU42U3p1eV9LUkNlZVdsbTg2a24?oc=5",
-          "published": "Tue, 07 Jul 2026 17:09:24 GMT"
+          "title": "'Storage Wars' star Darrell Sheets wrote about 'Facebook bullying' in suicide note before his death - Page Six",
+          "publisher": "Page Six",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNmdJRGd1OHlMaVRfNHlRSFpSLUxhaTExWG8zVUd5UUJzZzZ4QlFfaEVQN3FydG5MZ1ZxTXhfa2hGRXlrTFRQeUttNXAxa3UtOTVlcHUtRF94ODhaaENxenRGYmxvVFNpM3dGdEFJU3BWOG5Sa3p1OU8xci0tTHVBb3FKNzcxcXBrVTdxN3duMEJ1MV9kV21Mclc2TUYtbjJLNzd3ekl4WS1yR3dSMFhXME9Oc3BqMF9LY3hfZEoxXzlWWFFzbEpHTUI0OVZGVGZoel9SWGNISFZXdw?oc=5",
+          "published": "Wed, 08 Jul 2026 20:40:00 GMT"
         },
         {
-          "title": "New Museum’s Next Director Will Be Massimiliano Gioni - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSEJ5amVfYVN3a3hxR1BTSjB6T1NZMlRLdVFqaUg1T1JtZ3F4dFc4NUdyd3ZXbE1hWDdwakdpVGFydlM0WmV3NU9jc3ZoTjNSek1kc0JQeGtVSFJBQWY0Q3VDNzR3cVFnNEllRW9rRTNwS1BqcE9iZFZEQTZxUm9RT3ZLVk5IcmpQMmgwdTc2OVRBRE1Q?oc=5",
-          "published": "Tue, 07 Jul 2026 22:08:39 GMT"
+          "title": "Luke Wilson, 54, and girlfriend Kendall Yates, 24, welcome their first baby - Page Six",
+          "publisher": "Page Six",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUTZ5Q0h4YkcxdTM2RU1qNWktNE1mQm5jVUx3TlpKb3ZiTHRHbEdmcUl3ZVVJbjJhdEgtcmg2dzQteDdDR3BRYXVwd2RwQXZLb2llaTdOX2NzYmN4dkZ3TmJXTjJSN0h1ZTlJMFZHNmk4ZkFNSVlJWTBfRmp0aUZveks0djFkOXVQVTUtVHJQY2R5ZzM2LVVTQmYtdlpBeWJLMW1XME5VemMzekxlaThsTVB3?oc=5",
+          "published": "Wed, 08 Jul 2026 20:35:00 GMT"
         }
       ]
     }
