@@ -1,28 +1,152 @@
 {
   "market": "EE",
-  "generatedAt": "2026-07-11T00:10:01.521085Z",
+  "generatedAt": "2026-07-11T22:46:03.015341Z",
   "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "NÄDALA KELMUS | Järjekindlad kelmid: vanapaari kodus käidi raha järel kolm korda - Ärileht",
+          "publisher": "Ärileht",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSDlfS3JPWHUyS3ZXVVBLYXM3bWwzeS04aUdxV2JmMzF2ZXZDRmRFVDNsaHFDdmFma2d4cWpKMnpsR0pDWlc2LWZRZVRObkJOU1JHdGZ4YWdqbGU2YlcxeUZLS1pBSjgyOEFtaU1FMjRKdHBvd19qZTRGUWIzWjgwaUhXa2ZET25ITkp0U3FlOEdiQ0c2UUg4OXdqMjdDN3kyaUdkUG1zemcyNDQyVTJVdlA5Yjg?oc=5",
+          "published": "Sat, 11 Jul 2026 18:00:31 GMT"
+        },
+        {
+          "title": "Ilmateenistus andis pärastlõunast hoiatuse: tuleb paduvihma, äikest, võimalikud on suured raheterad - Pärnu Postimees",
+          "publisher": "Pärnu Postimees",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUlJfaUhobGFuQVFsMGRSV0lndG81Q2hkdUFvUk55a1VDendROHZneDdFTExZaUdlUGQ3bThCd3BnQTM0YWxYdTVOd1pMRVhjQVpiVzFxYmR5eXczSWF2VkZ3X1BfYWl6TE9paEpqMTE0RE1IdGIxRVk0dW5zZ3M3U0w2cTFrUFA3WmVjOHM5ODJtLVVfVFhrc0p5aHl0ekF4MGRGd0pMSTZTMC0zdXctUnlzdTFnQ1N5LWZqcE5IUHRHX2FZWW1EZExwbw?oc=5",
+          "published": "Sat, 11 Jul 2026 07:27:58 GMT"
+        },
+        {
+          "title": "Pärnu ja Pärnumaa üritused kolmapäeval, 15. juulil - Pärnu Postimees",
+          "publisher": "Pärnu Postimees",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0xkdHJlMkh3X0sxS3RBYjYxeUxpTnhLZ19BVlVhbGZ4LTlJQ0Y5dlVGVmlBbVJlejljcUZvX0ZGU1M1TzRpMExzcEVOT3BsT2d5T1ZSbFpFdWNMMnR5SE9hRUYyX1NRVGVEZDRxWFJhM1hXcTFyNkZ2OFZXY2FhcU1mZ2U3QXhCd3Mw?oc=5",
+          "published": "Sat, 11 Jul 2026 21:01:00 GMT"
+        },
+        {
+          "title": "12.07-16.07.2026 on asendusbussidel Puka ja Mägiste peatuste asukohad muutunud - | Elron",
+          "publisher": "| Elron",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU2tReGljWTc2eDZIQXhfc3FhWkFjTWROeEhCaDFMWWt2TmpYcTVuNEJMOWY1SWNZc0VldGZMcGJ2a3NSbUR6cm1RSWRkcjdNcmtLeU5jai1zYV9pdVJPWGZhelhRXzRNV2ZiV0hUVVY2dDNwUDVOdTNGekdIUko1UzdnRTFHaVo4UFRRY005R2V0Z3hpcnM4R25FbGZiYUFKTVdUSUYzZXlsVmx4VXc?oc=5",
+          "published": "Sat, 11 Jul 2026 15:29:11 GMT"
+        },
+        {
+          "title": "🟠 OTSEBLOGI | ALGASID TALLINNA MEREPÄEVAD! - MuusikaPlaneet -",
+          "publisher": "MuusikaPlaneet -",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hVy1uRGp3Y3hweDBfMnplZlI3YkNWSTNHV3E2d3c4TlNJN1dGRklBOTZsQkgtcEJnNlAybXl5eFdtbHNKLTRTOTVQQ1VCYXh6OTI1U0NoMA?oc=5",
+          "published": "Fri, 10 Jul 2026 12:16:22 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Ukraina droonirünnakute tõttu on Venemaal bensiinihind aastaga ligi 20 protsenti tõusnud - Maailm - Postimees.ee",
+          "publisher": "Maailm - Postimees.ee",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDR1LU1ZTGVRLWgxRml0YjRMejFwbHBCdllaQ0RhNW13X3BCRHgwdWJYbGRkQ0E1NXd2Tmh2clRuUmNQNG5MSHVYN1dHbjdHVnM4UFRLcDl2dFpBaXdkTTdheHE0UmtOS1drbFhwRG9TRkVNRU5OV09ZU0IyT0NFV2RRdllkckVnWEVWYjBobFFUVmQ5eXkzc3lKVW1nSWV1SUMtRnBuN3NRZ2hEVHlCZ1EtRzFTLWc5NFRqcU9ablRlUQ?oc=5",
+          "published": "Sat, 11 Jul 2026 09:39:22 GMT"
+        },
+        {
+          "title": "FOTO ja VIDEO | Lätis Riia–Tallinna maanteel hukkus rängas avariis neli inimest - Delfi",
+          "publisher": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGVMUWMxcWdMbkZkN013YUZSOEhSclJRYWg3a0NFMnRENFR6MEQtbG1pWVo0MENYcmxQUXRxeVlTenN1eElqRmh1Y08xQkZETUg0cVctY2hIZmJ1SmJfaVJBZ0RPOXJPazhtYnhnR1Nyd2t0Z1hHWE1JSzNwZ2xITjVLcG9xeGZmYnowakVtNHo4QWk1R2pfRzJOVDQyNVZXNVRHd1RR?oc=5",
+          "published": "Sat, 11 Jul 2026 10:08:28 GMT"
+        },
+        {
+          "title": "Venemaa toetatud häkkerid murdsid Ukraina sõjalise abi jälgimiseks erakaameratesse - Delfi",
+          "publisher": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObjZEcm8xZ2lGT2czbUUyTl9vSFUtYm51b3ZwM3BoVXlZTDRLcnhPQy1hNHpqUUx1eUltT01IcUZ1ampENFBkUVY3SVZTZ25FUHI5V3ZmZlRMR1MwSk5yNHZua3BKUTdBTm1Id2pYQ19ITmtrWUZhdjRnTXpfSVU0Q1ZKNnZJM2VXcnNyWUxLdFZFTVdfcG0xbXZoaTBSTjNkbkRFNVVZYmNOeTV0aXZyUnYyQTF2WXhJX0RhSThtOA?oc=5",
+          "published": "Sat, 11 Jul 2026 13:58:37 GMT"
+        },
+        {
+          "title": "Trump ootab Iraanilt Hormuzi väina kohta avalikku avaldust - Maailm - Postimees.ee",
+          "publisher": "Maailm - Postimees.ee",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMzdKdzFaZ20ybnBrOUFZWDg2UnJHNkVmQ2otNm1yNTlBSVJFbzVlR1o4aEszaDExdzJZa09OclFZcms2RDJnLWlxOGsxQ1Bfc0tqSUFLcVFZMkVEMDJ1MmFiTk9kZGt3aTFIYXFwY3hldE5ac1c3UmstRmFZQ1NRREs5MWRaNy1Vb01LdGdZZjY5WDBMMHdjWm13?oc=5",
+          "published": "Sat, 11 Jul 2026 09:10:04 GMT"
+        },
+        {
+          "title": "Briti politsei vabastas endise ministri tapmises kahtlustatu - Maailm - Postimees.ee",
+          "publisher": "Maailm - Postimees.ee",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2JGYmlPY1pDSzY4Mzk0Q2hwT1J3RWVpQlVBODZ6Mk0wUmRRTlhUcVNyRVpBdlA3Q01pNno4WGN1S2JiVkYzUHU4YU5NYUhnTDB0SF9pZm9ZeV9vZFV4LWM4elF6WFhXbERXZkNTdUJWdVJOZFIxdjNIXzBHTU4xRTlQRkNSa09ja1NtaHVUZlRJQlFKb3IxYV81WE4?oc=5",
+          "published": "Sat, 11 Jul 2026 14:55:00 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "Tarmo Tanilas: SpaceX-ile tuleb anda aega end turul tõestada - Äripäev",
+          "publisher": "Äripäev",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGExZmlVVDBhdGhiWEtLOVZnNjZ2bURINFZ4ZWppamJYcEV3UzgxTWpFR2VGLVd3X0JfSUxYRUZzcTJ0bHR5eS1NUHlTbHRhcXc4aDlnUlBWWWZzdXAxelhzaW5XRW9pNk15S2wtX0k4bDlqYXB2WXRnSjU5NHNGVzM2b3RXQlRGZHlZRFhhYWRpZjYyX0pLdWpoejJaVWQ3ZTNwVTNFeWxBZw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:06:00 GMT"
+        },
+        {
+          "title": "Enefit sai võimaluse müüa killustikku Rail Balticu ehituseks - ERR",
+          "publisher": "ERR",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaFBfbXc2Q2tNU0Q5c1lXNEpsbW02TUVnX0lPcVhfbHZQOGZSbk9IN0xmNmhhUjRFQ1dYYTRNM3NZeGFBWVYxTFFCbnZSWWwyVUNHU0dHNVc4aFM4WXlOTV9JQlBFYTY2NWVudnZBSHB1VVVfdHFSU1cyaUljUkxmaGNPOHhnZVhTS0lZdFF0OHA1Z2JT?oc=5",
+          "published": "Fri, 10 Jul 2026 16:13:00 GMT"
+        },
+        {
+          "title": "Investorid ootavad kasumipidu, SK Hynix sööstis debüüdil üles - Uudis.net",
+          "publisher": "Uudis.net",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5lRENENG5rQlNJdXRzVGV3aXNDUWFpNTJremRXTXBJZkdfd1ppbkJnZnBHUkxDWUstTTBaVG9fWQ?oc=5",
+          "published": "Sat, 11 Jul 2026 01:05:21 GMT"
+        },
+        {
+          "title": "Apple kaebas ChatGPT looja kohtusse - Majandus",
+          "publisher": "Majandus",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsWDNnT0E0YjFrb3JnVDJwNzRTQmh6WnRneEgtQ2ZENXB2XzZpaUwzTjZVZWRtUXhNY1lyNXdmOFdlT3RsbU51M05aQ3VyU2lINm5HQVFpa3VDRG03SXdEdTFjc1dTa1RpRHBId244RERSSVNJU0ZHMURKTmVNZw?oc=5",
+          "published": "Sat, 11 Jul 2026 08:01:00 GMT"
+        },
+        {
+          "title": "Statistikaamet: mais kasvas kaupade eksport 9% ja import 4% - Lõunaeestlane",
+          "publisher": "Lõunaeestlane",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ19YNks2Y01BcFZkS1NhTUZmYXlaMUVtN2pqN2thYmlIZEpnYXZrWFV5bGh4RUZGSDc3ZzlPcnVibEdtNUVFZEJaMGVMd3NMVkFtZlROczdSSFBNZW95UmRlYk16NkxtOGQtMFhyV3ZoZXl0cm5hMzR6T3R0bTN1d2xIMkdqSV9fRXc?oc=5",
+          "published": "Fri, 10 Jul 2026 06:02:40 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "TÄISPIKKUSES | Vaata uuesti golfi meeskondliku Euroopa meistrivõistluste finaali - Delfi Sport",
+          "publisher": "Delfi Sport",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWk1RRlBPekhHNS10di1FbWNQR2dQQkttYVBtd0t4aThQLTVZNGlTYVVkQzZpcFZNU0ZpUmxaMkstNjBiTnIwZUV5VHpaaDJNSnpOSVZpVFREWkNmQ2w0eFpBdG5FcUdmMm02dldLSVBFN2NZenRoX1hlNXhhUmNRQ1dXSzFoRVdiRkRFWGlvcElWQ3QzTThvUkdGWVVVVTBocVVmbUlkZk83WUxaNjh1VVNHMW5fLUFGRFBYSg?oc=5",
+          "published": "Sat, 11 Jul 2026 18:14:09 GMT"
+        },
+        {
+          "title": "KLASSIKA! Kuidas ühepoolsest ja igavast Wimbledoni finaalist sai erakordne psühholoogiline triller - Õhtuleht",
+          "publisher": "Õhtuleht",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUNlcG9jbWpPSXN0ZDdkdWZacENpR09tMkowVTlXQ1MyYVpEM3V5bVI1bHdyUDA0YnJVc0RldUR6Rm91eDlDWU9YTHZ4Q3JaM0twZ081RnFFeHh4bkhKTjJ1NmhUSldCM1RVM3h2OEphWHlOUy1SODBoWVlxRUo3azdneW93bjU3aS1zeDZzdUVYWlN3ZFRYb0VYcDlteC1waEVwazhtOXROaUlmcXV2c0ZlcFBQazljcjNsQUQwLXBvaEVrR2JpUQ?oc=5",
+          "published": "Sat, 11 Jul 2026 17:57:47 GMT"
+        },
+        {
+          "title": "Eesti U20 noormeeste koondis alustas EM-finaalturniiri 6-punktilise kaotusega Ukraina vastu. - Eesti Korvpalliliit",
+          "publisher": "Eesti Korvpalliliit",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44SExIQ3VnRVdRcFVoLTV5M2xBVmdxbVloZXl5emlaSnlEc00tMEQxX0d4T2d3R0pOQ2J2cXJEOTcxdTBOTUNRYlVyaG0zWkYwdjB3bGJZSjUzWnBydXU3cm1zU2FQWGc?oc=5",
+          "published": "Sat, 11 Jul 2026 19:36:16 GMT"
+        },
+        {
+          "title": "Memo | 199 minutit ootust, Pärnu suvi ja kübarameistrid Limberg ning Pajo (galerii!) - Soccernet.ee",
+          "publisher": "Soccernet.ee",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTR1emxmdWk5TXFuenBYamtQVFVrMWNNUGQtNUNpR2dGYzJtVUhFWTNJcDhTV0l0dDhHWkkxNHJjRE1YVFhXU3M0RWhwNXFqLW5fX3VBUWNaWEJ2QzhwSHBIZTZvbU1xNzZqXzdKejFfTjZPTWpTNW55WlBqdmpVNmxyRXdmNUMwMWh1XzB5V3V5em9pd25SRm8weXhObDJ3Rmc?oc=5",
+          "published": "Sat, 11 Jul 2026 16:32:51 GMT"
+        },
+        {
+          "title": "Kuressaare kapten: mida me ilustame, emotsioon on s*tt! Peame hakkama vastutama, nii mina kui kõik (Beglarišvili: tahame Tartut ja Pärnut püüda) - Soccernet.ee",
+          "publisher": "Soccernet.ee",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXV6ei0wZWN6ZGdaYmc4bFJhMkRudEtIR0xTdGpuQ3B5OUhNbTU2R2Q5ZV9WNDNpMDJEM1dOQ2h2ZUlKLXFRSmtpWHlCWmN6SmszQmdRR2ZteUpPNEFzcVpTaXI1eURQOGZkRFpWSXIzY2pXa25qUk0xUm1tR3FiTDhYY3FrdUZuVlNmWXUtSF82MHVWRTByNHhGa0xLMWQ3WW1QdVhQNmZJeVJCWVIzUGpNQkhMb3l3RnJsdW56RkxkZw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:05:46 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
@@ -32,12 +156,74 @@
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+        },
+        {
+          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "publisher": "Business and Investment Development Agency - CzechInvest",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+        },
+        {
+          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
+          "publisher": "KTLA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+        },
+        {
+          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
+          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
+        },
+        {
+          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
+          "publisher": "KSL.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
+          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
+        },
+        {
+          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
+          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
+          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+        }
+      ]
     }
   ]
 }

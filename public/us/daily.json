@@ -1,43 +1,260 @@
 {
   "market": "US",
-  "generatedAt": "2026-07-10T22:57:49.227731Z",
-  "validForDate": "2026-07-10",
+  "generatedAt": "2026-07-11T22:44:55.757405Z",
+  "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlFzVU5NczBGN3llRERnZ0d4X3B6MlhjVGVCRXZHUHZBM1BGQ1pqQy1FY0ROakhoMjNXU3NhWTV4ZmtNSVZUYklLWVZ2aGtEZWc4VUZsdnlGX3lnWUNBMkNETUh2V0VKc3pieXVLTUV1RDJLemJlanRSLUJVR05mT2xyaW4yUTdrczl2Nw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:17:44 GMT"
+        },
+        {
+          "title": "200 young campers, staff rescued amid record flooding in Missouri - CBS News",
+          "publisher": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEkxUENYaUIzdjZQaU1jYXVSUTd1NmNxaFJUTG1zaUNmcWdyYVR6UGtDYjI4UENTQkRueGRnWEFQQzVNQkNuSkFZekNNaW1fYktpSjZCNm44QmtPY3lLYUtDSDBfVzFaenhONXZOeDhsUVF2MDIxY2g1eGYwQlZLME9kYjRhMk90Mms4MVc5eXgtTW8?oc=5",
+          "published": "Sat, 11 Jul 2026 16:23:18 GMT"
+        },
+        {
+          "title": "Court documents indicate teen in Apalachee High School mass shooting to change plea later this month - CNN",
+          "publisher": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81ckVreHV6VzJPanE4RWJSNTVpODBmWVlUMFVpcWZwUUNMZ21tT2hlaXhGQmQ2bUlnOHF4MkRySFFUbzA1WjZacURsZkV4OW0wNlNxdlJyaTNSYWgyV3d0Vk03cDQ3S1JEM0tOLUN5N1l5aXp0eHc?oc=5",
+          "published": "Sat, 11 Jul 2026 15:50:16 GMT"
+        },
+        {
+          "title": "Trump administration subpoenas New York Times reporters over coverage - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUcyZGhkbFU3bnBrU1FKcm9JbDJONGNLTVdObHNKbUVIYlRVTnV6ZlRPdTljbHVLbnFBUG9YVmZGM21fZkFaVlZza3hNNmRkZGJyVkJVS0NoQ1dZMHRpWE5HVUdEWWJOV3E1LW00aVlnUDIyb1F5UXJHMmM5QTJQdzIwd045VjZuMWdpdU1xOHBGbUlfQjJRRUhhOThIRjlQR2huZ2NGbjRiRGJMZHJN0gG0AUFVX3lxTE1iV2tFQ0VKWERmalcwRDN0QW1mZXpIaWxlRmxKYjA3dlJhTXI5bEpzMmVxaGRuVE5YcHpLWmtUaFBaS1dhT3lYVXBmcDJUOWdMczNXaWxIMzdwOUNCMl9KV1ZrdXFNNHhkUzczTW5ENzIydGtLaDdDQXh3am10MFBpSUJzYnY2RDAwcVlxNUdkaEp2SU8yaWUtaHhET1BnSTBjLXFHNVp5QTU5SW9JYTRISWpGeQ?oc=5",
+          "published": "Sat, 11 Jul 2026 18:50:17 GMT"
+        },
+        {
+          "title": "Israeli leadership signal readiness to strike Iran again as US negotiators head to Oman - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX2lSb1hPcXFEVm1UUnhEZk1YTlFJZ0gwVmdPVWNwcXpEcVFwc0hUME9JOExHcGdMLXloYm1ISUFpRUk4N19vWWhmbUROZDgzdThuZEhvMkRMNmlVbHY4MWlVU2J4eVp5WjZzZ01KVFF0MFpWM3duT2JIaExRRm5kSl9IQUxpVkNGcEZVM0NZcXN6Z3JjUHBEVnQ0cw?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:19 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Live updates: Race to revive US-Iran talks centers on the Strait of Hormuz - CNN",
+          "publisher": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMVlvZWhZemtQSGdfTzNxam9JME9jc3RlNy1rUDNIT1lzM0l6ZHlFWGQyU3FpV2JNVXlDRUlMbEVhWi13bHZTSHdfS0VvWkhmTksyY041b19tLUNHajB6RkVHaloxdnBEX0dheGln?oc=5",
+          "published": "Sat, 11 Jul 2026 19:47:00 GMT"
+        },
+        {
+          "title": "UK police free suspect in ex-MP Ann Widdecombe murder investigation - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORG1rcXp4M25hbU05bkNvS0g1dXVDaHlQQ2VNdnhmRXBsZ084bk9NQUtRNThrcnlDOXJSbWhiVEUzZ1F5dVd5QWJ6YmQ3Wlk5VHE0ODVYQy11WlN1bzB4NVJ3T1lNS3RLcGN4V3dlUnh0cDZFcHRIaE1fVFczcW5DQzhrSU0wN2ZOcno1VHhXazljbWtQNWhWZUkzdXFKOWxMVE5XTkh6MmZxbGNt0gGyAUFVX3lxTE5jRnRZVEdxdkNWNE9KcVBUbGhfZ1FIMVQ5SEdjNVpDTzZRdkkwUWlzSmIwWnNEbXNIel9UbTI5RXNXTWlEUzJua01PRkJ0T3QxUVBDakcyZzJ6Vi1OMHdET0J6RU1FUlJRcXBqY2ZCZDlXd1FqY0hJVUZ5TG11ZnItLWNXTjd4Q0J6Nm96aUJ1Rlh3OWhBX0xjSFllalFZU2RYUWZKT3ZEX0JiQ2thQU5ibHc?oc=5",
+          "published": "Sat, 11 Jul 2026 14:28:51 GMT"
+        },
+        {
+          "title": "Teen Venezuela quake survivor mourns her 'young forever' friends - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjltdUZyZmRQYzY5dEVNSFluVlR6WFBZd1o4cGFvdGc2b20tY1Y5d2NsZEFaX0dpUVVVODJHcmdRZFlTczNYaUsyUmFzR3dKdG5xaS12MmdhQlUydzdEdk1DbEFDOURqb3RzdmVxVUpyOFgxOUlnXzJhZk0zTXg0U19TNVA3bzlSa1kzR2ZOZ2hKeGpYNHhRRm5uX25FOFh1SHhqbUlDTjJCQ2V5dGdFc1BzUQ?oc=5",
+          "published": "Sat, 11 Jul 2026 13:52:19 GMT"
+        },
+        {
+          "title": "'Expressly prohibited' — Ukraine's largest defense firm illegally stored weapons near civilian targets in Vyshneve, Zelensky says - The Kyiv Independent",
+          "publisher": "The Kyiv Independent",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQWR6RngtZDJBb2p0RWc5WjVENlkySGRKTjlPWWFMclhZb1NnX2FVOHZPV0ZRY2FTdG50cGlMY2dtLU9UeTgzSXUzUDBJbm43LThEU3B6ZWIxR3gtLXJUSUg2ajdYZ2doSDdNV2lOQWRfbVNQWGV4MThzVHVZdFU5UGlLajJpQlB1cjR3OU1pQTYwLWNaby1aZmtKYkNHSl9nZmswaVVGVXkwUFU5SXRVTUplMDVfS1RIc0F5UlJtV3pTNnlZc1pJOXpzWExZZ090d01iWnYyRzc5VHRvazh3SXFDU2VCWk0?oc=5",
+          "published": "Sat, 11 Jul 2026 18:04:29 GMT"
+        },
+        {
+          "title": "Trump says Iran talks will continue, but \"ceasefire is OVER\" - Axios",
+          "publisher": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mdEt6c0FXczVVTnJMbGM3aEZVTzRpd3BRblNsNWRMYmc0RUlieHByLUNVVG0wSFpuOWo2My1RbVMxR1hpTEo4RjdObkRJbnRDNkZQMXJlNml5cm5ieEdkc3R2WjdWUVJyTW1pdTZaUVJZdw?oc=5",
+          "published": "Sat, 11 Jul 2026 12:47:58 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple - Bloomberg.com",
+          "publisher": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQekdUWlV4aXB3Umo3VHgwLVdjaUNpWHNvMW5fM0RoYUNnQ1I4amFqZEkyRjlSV2Nrb2Fma0xSNkVrbVFCSExCckJVdVJGblVrWnRnWXpHNGFVWWlYMW9vSUNsalpjUVNjZ1FiRm9IaGo2OVdBcjZ6U0owQS1EbXBtc3hwMzM1N0NSbzZka1NzZnJhbXVoNFlVcmhwTGlqOFU2a0REcG84LWl2X1JJeTV6ZUl0Z2VBZ0k?oc=5",
+          "published": "Sat, 11 Jul 2026 13:59:00 GMT"
+        },
+        {
+          "title": "The Public Got So Mad at Meta’s New AI Photo Tool That It’s Scrapped Already - Gizmodo",
+          "publisher": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdlp0R3Zhc3dMR1QwOE0xcUx6VDl4b00zejVZQmo2RUV6SzFNSjdqV2M1STZYa2l1QXNpakZ5Wk9Qamt6WUhKa2JSN1FJS29lU08yS2xKQVJTV1Z6VGpVbmpaTlRHYXZQN000dXR0M0NvN3ZyMk9lQWpXOHFIZjhQMjhDc1BIQk9jMG9sbllYSk1lYXpVMDQxaDlaN0RXM1Y2aG5ZMWZqVG4?oc=5",
+          "published": "Sat, 11 Jul 2026 18:11:08 GMT"
+        },
+        {
+          "title": "SK Hynix shares jump in marquee US debut as AI euphoria persists - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWhFRmx4bEZ1MW5rMXlkYmN0d0RqeXR6XzhQOXpiTlJBUGhub1gtWDhkb0hrM1RteDhnTmxacklUTXQ3UjRJb3laeEJoSFZXV0ljWklqMTVTYlpnNzMyLXRTd2xzWTB1QkZkNlI1RnFnWE1FX2kzNkVCTlNLMWpKUDhCVUJ5ZGxoQU1DalJLNFhvTVRZN0ZuSDVDZW1LR0duc3pZ?oc=5",
+          "published": "Fri, 10 Jul 2026 23:36:28 GMT"
+        },
+        {
+          "title": "'Explosive diarrhea' parasite prompts some restaurants to change the menu - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzgwYlR4LU50Z3Fwenhna1JGMDktY2t0dnRzY0hrQ0Jpb0w5eVJKaGtzSDBSRzZyV0xHQXY4b0tlbzVEbGNpQTlzNTQ4dGZHbk5yVEtjbC1CaGlhc2pCd2hVM2JvVVNNNHpjYjRJZGd6VkFBVHpFeEotZFlWVDgxMDUwTHFWdWVEWkt4WDFhdnoydUZoMFd4N19sMzJWU3RnZU16ZGdCOGdIRnRjUmh6Qkl3?oc=5",
+          "published": "Sat, 11 Jul 2026 22:22:00 GMT"
+        },
+        {
+          "title": "A tiny GLP-1 implant is the latest bet to help patients maintain their weight loss - CNBC",
+          "publisher": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSU9tam9BcVhwakhRWS1hN0tPRFZHc0JhSDJTWklDWDN2QUx5ekRkUF9uSUtXQ1lEWVo1VmpqQTdieUo4Zmdid0xNcmM2M2lXVDk3R0h4a01haXJpSkoteHhXcFNiRkxtNzY2Yk1IajByMWQtM05FT2xUN3ZON20ySjR0UnFtR1BCUDI3ZjlkVkpkXzJuSmZrRjhWVWR6MWpBSmdxMmNRRDV0X1pQTmg00gG0AUFVX3lxTE5yb0FJbGFJMExjcjQzNVpHZkZzTS10Mjh6QWc3amhMYURnMl9PQ3JJc0hvR1I1dE1DemtjNnRWOWZmOEpPakM3QkZ0MFUzNUctY0todl9LRUtsU2lxY1lvZHRuZlY3SlJsSk8xaVgzWDBHNktDRHpfR3I0ZV9NOEhMUjJJeUd4VGtTckZuVUppMEpjWWNXVkMwRjczZlFyTUpmenh0eVNmblhRQ21GZzRuSm1HSg?oc=5",
+          "published": "Sat, 11 Jul 2026 12:00:01 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "England vs Norway LIVE: World Cup thriller with Haaland, Bellingham battling - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSmNidm9DUmszWE1fUGdma3N5Z2R2NWlUUHlvU0dhMWNlNlZDYVhkdXZJdEhtdEdsR016bXo2cWpxZmZZeUJtdUZNeG9WSEJUWE9acU5wenNBcFRKQ1JJenlRWkRETDlYUV94MTV4TW8wdFIzQ1FjdXppMzUweTM5YzE0UmQ0VmJ2a3lGelFjVVlqeEVqVk82S2JzNS1LUUZrSWFpSE92YlltdzZ1dUdTcVc0TlhTUTc3TFJmTTE1LXN3QXBQM0JuaXZrRWhQbVpfNmNGcFJqVm9tYXY1SG5V?oc=5",
+          "published": "Sat, 11 Jul 2026 22:33:00 GMT"
+        },
+        {
+          "title": "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWJIR2FwQnpUWnRLdEM2SXBUVHZsTTVFYXpVSXlvTjJ1bEVOZGZCaEQyWWtmVGNUQzc2UDVaSG9ZQTZTeXdEUmVrT3FUYjVrR05lWXgyUWpfUHYxWHNKSndDWkFzS0V2N3VJYVRnbVJMdEg3TVN5YmxpRDZPTTlwOHdoZ3pKbHlPVGJPTEpQVjRmSHkzM0dkVUo4alFiNC1FTnNFS3BWM0UyUkJ6V1cyNFpQN3hhWU4xSWfSAb8BQVVfeXFMTk1TSERma0xhT3FvU2JmTlItLXdMQktmYXVWQVQtYkoxVk1sZ252NFN2SXNLUThManpoak5uNXdQczhBVEpzWFNja3FmOWJVZ0cyc3pvcHlfMy1rZ285d3B5R3JBODR2T1ctZUpmVTJWelhoLXFNei1NWnJlWG1QOWZmSlpaV0RJSWIyaFA2LW5ucVh2VFFFR1Y3ckljMnpXNC1SV1czUklWbnhmemItdjNfY3cwZl9JTlIycGw5ejQ?oc=5",
+          "published": "Sat, 11 Jul 2026 18:33:26 GMT"
+        },
+        {
+          "title": "Conor is Back! UFC 329 Livestream: Here's Where to Watch the McGregor vs. Holloway Rematch Online for Free - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLWNjRXVydkFOZ2hnQlYtSW1iV1BYREhJTHhHTzZiVzA4ejZMUnYxbURnN3dDRUluTGh4eFFraFl3OEU5TGdZVUxVWGxmTm9rZzgxYjdNRjFJS0N5NlIyMTkyMWJUTHNiR1JjYVp2RDRfZnlYTGM0WFRBczFJZTJidEJRczFBMng5bll1cW5QdDFVYUc1SzUzcFdUSERRRV9WazR2bFVsbWdYZkZUTThn?oc=5",
+          "published": "Sat, 11 Jul 2026 18:00:00 GMT"
+        },
+        {
+          "title": "Lionel Messi and Argentina face a balanced Switzerland side that could force a World Cup draw - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeTNQMS1jRWRqX29XSEYxWnlqc01PZmFmZXNrMHJIejU2aGRpTWhUZzNKckVnYklfWEJ4cmpXMlY4T25RMTczQUtneE9lVHFKT2h3WVcyaWRfUFVWRGNURzN1eHBWeElxSjQ1cDRVdi1Kc3dwbzNjVlQ2eURFc0w1OWlCdDZWdExDcTlRaDlfaXlSUkcta1RxT0J0NGFRQkk3Z0wyNWVTcUJHVnJralNkanJuT2ZEdV9MSGpR?oc=5",
+          "published": "Sat, 11 Jul 2026 18:29:59 GMT"
+        },
+        {
+          "title": "Meet Erling Haaland's family including lookalike famous sister and athlete parents - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGg5YjYwSE5URnhkdmV4b1VVSkduU2FSRW9VdzhRcHBBNms2a096REs5WTd3WVlkYkhGTFJFREw1LVM3Uld5cmo1eXdmaWRaOTFub19MbVcxaGEyaWFTUnF4aEdHNWRLLVduQ1FLdmFQVHlQRVZMMDF5c1dkZGpzRmdkczZoUVFUYjJ4X2pqOTlvTXd2OFNyag?oc=5",
+          "published": "Sat, 11 Jul 2026 15:35:24 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "More info about Galaxy Watch Ultra 2's Snapdragon chip appears - SamMobile",
+          "publisher": "SamMobile",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVRvTXNpRTFhdndaQTRPY05pbzUydmFhLTdrWVBrSVJJcHNSQ3lUZU1seDZ2cy0xVE5ERWI0Xy1WbzhIb1VHd29OTXU3ZzM4aHd4dE5MaTU1b3F4QU1SNm9ueC1EdzB1OXBKbWR5YUYwdUFNNXlpT1d6cUlaQVo2UHNyTFFXbXhrQWdTTE93?oc=5",
+          "published": "Fri, 10 Jul 2026 06:39:00 GMT"
+        },
+        {
+          "title": "Anker’s 3-in-1 Qi2.2 charging station is $95 off - The Verge",
+          "publisher": "The Verge",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbTQybmxoT1hqWmRGdkQ1aVVtOWhoczlMN2pNLXktZS1pcV9wYm9BNHdUcEExQjVWTlBBVFBDS1ZhM2VoZlZBTDBsc3JyU2xLRmw5cjk1RlIxVHB3dzVBdFZYQjJPZUJ4UkZyd3V1MUxYVWtDLVcyRllwMkZTNUU2Zm9ScUZVeUkyTVF0cDZDRXppeDEtSlUzZkVqTVpxNVRUd2JZ?oc=5",
+          "published": "Fri, 10 Jul 2026 15:11:08 GMT"
+        },
+        {
+          "title": "Saturday Pre-orders – New starter sets for Warhammer newcomers - Warhammer Community",
+          "publisher": "Warhammer Community",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2xrQjEwcnozOVRaWEM5bmJaaWhQM1dydlBKbTJnMDlQOU1hWVdTNl95eW9MMnRaZTVYd3o2VmE3Y3VISkFUOWNXVXYtLU9LQWJCTEI4TFlPTWlBUVhfaVhHVGMxNW1heEVSMnlMMjV3dDRsUThlNUZETXhmMUQ1TkNmdkNNSEVPSWlTdWFGdlZwT0RQbVZZZG13ZzNOc3VoZnh2VDhBQnJRRDZVUjJiT0FOcGFaR0pFYXhUS3F3?oc=5",
+          "published": "Sat, 11 Jul 2026 16:56:25 GMT"
+        },
+        {
+          "title": "8 Cool Consumer Reports Approved Gadgets Under $50 - bgr.com",
+          "publisher": "bgr.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZVVXb0pkRnktamh4THZCX2lkSzY2b0pMc21WcFFjOWhFLVZXQ2ZwTjNvdlN4SVVhOTQyVklmdFlBcWhTUVpNaVpmc2hiN2Rvb0dCV3MwSVViUEoxVEE4S1VrYnp6dS1KY243Zk1mM1lRaUdic3pKR1BuV1FFbTc3NHVmRmdDUjA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:02:00 GMT"
+        },
+        {
+          "title": "Who needs scalpers when GameStop is marking up Pokémon cards by more than 300 percent? - Engadget",
+          "publisher": "Engadget",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORk5xdzJ1ZUs1UFpvUG5HUzUwdWZGbXNMYndxcUJ5Y3U3WDhhZGJ3UlJyZm9aQmVzM0wwaTF1SXllRk51c1U1QzlIWHVCZ24tNDkwTjlwemxJQVZVZWQyY0Z4dnR4dm5qbzRfZHRHd3dNakpqVk00NzY1SlQwMWJPbURhSWRPX0hhN0NGZHB4bjdheHZJNUE?oc=5",
+          "published": "Sat, 11 Jul 2026 12:00:00 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+        },
+        {
+          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "publisher": "Business and Investment Development Agency - CzechInvest",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+        },
+        {
+          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
+          "publisher": "KTLA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+        },
+        {
+          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
+          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
+        },
+        {
+          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
+          "publisher": "KSL.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
+          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
+        },
+        {
+          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
+          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
+          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+        }
+      ]
     }
   ]
 }

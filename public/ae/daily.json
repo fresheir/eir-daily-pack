@@ -1,43 +1,260 @@
 {
   "market": "AE",
-  "generatedAt": "2026-07-11T00:27:53.825234Z",
+  "generatedAt": "2026-07-11T22:46:17.598900Z",
   "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "«إسلامية الشارقة» تطلق برامج صيفية لبناء الإنسان - صحيفة الخليج",
+          "publisher": "صحيفة الخليج",
+          "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxNOVh4eVg4cVIzalU3S3lTUDI2Q0V5WDRMSGpQc3V2WkxNajhxUjFXUGUyYm9KWjI4ZmxfVmtXbVZ4RmoyTmRPMWJSbmozT0lMUHlYMm1JWjBJYjA0RVY5NnU0b19zSTR6WDMwVUdQNkMtYTJUOVVIcUVCTTVCLWE0RFhWSHlrT2ZrdzZtTWlEQkxIRWRYQjlxM2NRWVJ3bVZ1b3F3U1lzN25xYzJnTlBlV01QU3dBZl90bG53T2lmTTdIUldDY3psZWFMdThtblhIcUw2cG44RWk2Ukp0UkJnWHFPSTdmNHFJMDcwLVBxSkNqSVFhNGRTOTRIWmhXOUliTTVjVGdlTTNoRmVEZy1MdHdDYjhwdUJSVG5KaVBoeVFKOWVaTjN0Q21QT09TQWpSQnZtSDhDR0FlTllaMnpPTjhOd25BVC1SVThNOXVQNzJITkJLM3FpU0N5S29WZExBOGIwd1hkZk5PNC1fYVd1WFNmSUpRY3hNTjdmRldIanFFQnJqN3k1dl93dksxQWlsd25RQ2s0S0poaXpMR054a2djOTlXT0huWGdqNXVxbHltVG54OTZJdzUxYnpEdVhTRzZsVHdRUHpUMVEtQXVnMGF2b1lQSzlJV2VxUjVpOGQ1VlIxLXpuWjNTMjFiZWN3S2E5RjBfOFBaRTFmM0JqdjBwWmNFS0VlQWdUZ2tvajROUi04dGhFWHViQ3c5bU83VFBSN3pmOEQ?oc=5",
+          "published": "Sat, 11 Jul 2026 21:32:30 GMT"
+        },
+        {
+          "title": "الندوات الثقافية في الإمارات.. منصات حيوية تنعش الخطاب النقدي - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MT1ExZUxQMlBVNEplR0JEVmxueUZ0d09IMXR4SHVuYnFYWmNHUUUzOUJQM19zcW5RNjBieG44WWx0WkV0QnR5UWU5V09yenN0YjQ5eFhpeDlaRjJt0gFiQVVfeXFMT0pHQ1VhWFl5TmJndWxWNVdiejlZV3poeGtvSnJJcDVzTWd5UGNJQlFwZDdhUEs3YktOUmtJbmRjZ1FGekk2Und5Y1ZFZE5GUDFqeWlCR0dCb3AyYzJBelZkX3c?oc=5",
+          "published": "Sat, 11 Jul 2026 20:59:00 GMT"
+        },
+        {
+          "title": "ولي عهد ونائبا حاكم الشارقة والشيوخ يعزون آل نصار - صحيفة الخليج",
+          "publisher": "صحيفة الخليج",
+          "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxOYmp5Yk9kcEhubW43RzMwTndxVVRQUEtxV0hiYlUxT0xLejFUbmxueXJzbmRJY2ZidGxQX0xTT3RmaU1sd3NwbWhOQmJaN3djNURsYktFMThGbkpCaGk3T2JDWWVfc3RReWdRUkk4NnBoQzY3T2taajBvNTZmR0pfZUZnYzZyYWhETUNMY0ktMmg5Q2R6UkhXb1BQbHhJYmNtZlI0dHd0NTdxLVo3RDZnbVI3aE1NalhrNFdreElCQUItSS00S1BUYkZQekVieXpwOUR6clF3X3pLSjJBX3pIZXpxSzhjVnFBTVdXSmhGLTc4T2M3VTYtTllyay1Vd3RTVlVaeXZ2VnU0Q3hwNTJ0YnJGVkpvWENORHpmNC0yc2YzOUwxbTBNTHpKNnJEN214UkNyT3ltSnNEZ0JrbVRidFJvTi04VFZZV3RCWE1GbEVobkVCWVpxbF8zeTNQdy1kU1FBY3Voc3RXVUNaOGVqS3JoNmVPUHRFRXd6SHdGT2ZJLThfMTIwU2pwXzdacXZlWVBrNXFOTlZ4bTFwWnpCUHVyTmdCWW9lc05lczJxcEJtd1dwNHNfbktjUk4teVpqZHJwWUdXaHBhamRkU25RT1pxYzdHd0NFcGx6WlZqYS1fT08xRnprcjNwcXFrdFY5TnVGMnBkdkpoRTJpUGR5TVYzQkNwNDZDZnIyODBEdzc4bzBIVjMyTlp2bGZnQVpPUFY5emVaSTJ6Qm44QkRYZEhhbw?oc=5",
+          "published": "Sat, 11 Jul 2026 21:08:21 GMT"
+        },
+        {
+          "title": "750 ألف «زيارة طوارئ» في مستشفيات «الإمارات الصحية» 2025 - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EMW1wNlgwQVo0V3VGUGdxWE9WeVJ4ZUoyaldkNHVjOXJsLVRydmhxZERFdllxTW5jblQwR3lwSVAzMEVUb3hBUk5HaUt5MzB5ZUNYXy1Wdklid9IBX0FVX3lxTE1aT2IyVmNOWnBiTnRNODA2RVFraU9SbkZHcDlaM3prbVNTa2JaX01hc2l0d3pfNEVDNjdvdGU5U0dORVB1Y2EzSUJaR29JM0IySjQ5bU5VRG91VVR1NGxN?oc=5",
+          "published": "Sat, 11 Jul 2026 20:00:00 GMT"
+        },
+        {
+          "title": "منصور بن زايد: تفوق أوائل الثانوية ثمرة الاجتهاد ودعم الأسرة والمدرسة - الإمارات اليوم",
+          "publisher": "الإمارات اليوم",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HbkQ5NS1GZ2dWVm0tXzVnaXNoODBXdUpvX0d2ZDdJeWpET0hHOVFYdXB5TVVWRENVN2huY05NZldWY0VlUDgxZjhSVFpSRnJGRFl0RUY1OHkybk81cHFrRElyZkR2Mnd0SlBXNDBteU9ZVEk5elNISlpxUjkzQdIBmAFBVV95cUxNVW9ldWt4UHVvQzRFZURxTnR2TXNWQ202ZktzWk9sNElLcUlfemstWC1HTndNS3FYQ0hlUzBuZnFGR1pQdVNLbFhtNURTWlRFSVZISnQ5aGJ1bWNVeDFjMDhvS1BjdGpSWXNjeXc1bzJxbGwzNXI0bmw0emdBU2kwQWJTRkV4QnRDT0F6TTIydmZlQ083a0ltag?oc=5",
+          "published": "Sat, 11 Jul 2026 07:48:18 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "ترامب يواصل تطويع إيران بمبدأ الجزرة والعصا - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zcm9uTFhZMU9IdEN4UnhieGpvRnFDQl8tZ0dlTVppY2NIdHZMOXFTanVkS3QyMDZ4Vi1uNkw0dEt2UEdoMGVwOGQtY0hUZUh0VlZB0gFYQVVfeXFMTnpoTTZMcjVCRVF2ZW4xS1A0RnhqTnR4RHBnVzdvOGVMU1g4Z2NzMktMQ3R0THhMYlgzRkJUaGNrZWYwcE5leVdNVVBkRWJ0MnRJTU1icnVaMQ?oc=5",
+          "published": "Sat, 11 Jul 2026 20:58:00 GMT"
+        },
+        {
+          "title": "إنذار أمريكي لإيران: فتح هرمز اليوم أو لن يكون يوماً سعيداً - صحيفة الخليج",
+          "publisher": "صحيفة الخليج",
+          "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxPUnBtRHEwSG9oNFNGVHlvWWx2Q3RqNmdId1FrNlNWdW9kTm54VmoycWxFQlQtYW5qWGw0YXp6OHQwaDlqVXdGMVJhVFR3M1dGNXhZZnhtSGtvQW5lUUtZZmpvcG9UaEdXN0xWc2ROYWItVWNZRW5UM1pDSzdJSlBYQVFMMl9Dc2JnZkZFZVpsNjZ3bkp6VTFTS2c0b1hTTExqUmRlX01HbEJoVFBib1JmSHkzQjY3ZklBelZIcFdyTkJtUGpmU1FOenZGMk15bHJiazIyTUg1QWZwX2toUjVaRHNjTkxpaFFKRGdNeGdqM0kyVmxNaFpPRmdrbDVzbDFVaUhnQUpNazlDb0tGcW9QUWM3WXAxTWFZczlFTWREQ1RlUzZQLTBhYVgzQzB5b0pBVWc3QlY5RGVFcF9KeGNJM3d4VktRUGV1TTdrZE5pZV9PVnRxYk9yc1VEUEU1M0s4RzFEZ1FFQVBHX0p1M2JGNWRicjR6ZS04dmxLamExeXlCVElfdVdyUGZ0NXEwZWNvSkNWTmdqNFMtM2I2RnBUZHJOcU9xcmlPeXRoZGF3M0diRWlDQ3dSbE4tTFJtVDduWVRGcFJBekRIV0Z4NW03dXBhUDVkY3R0cTROS29CendxMXpyUzFJdTBuNXFMb2VlYmJrb3QzVUhjRlF0c2w4X1JUT082WmV3eC16VlpsZ1pSU2hTbXZLQlhwRnJ5bEVOd0VFNy00Vlp1UmtVdmc?oc=5",
+          "published": "Sat, 11 Jul 2026 10:04:34 GMT"
+        },
+        {
+          "title": "بيان للمرشد الأعلى الإيراني بعد دفن ولده علي خامنئي - CNN Arabic",
+          "publisher": "CNN Arabic",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2Q1WXRSZUhVSnVSYklvQ0hoNV9vOU1LUGFrYkQ2T190SGhRWVUzdUp0bGljcW1ydmxpU1lzSHVEdHVXOGlZN2c1cElqLXBqLU5SUFRSenVya3VhNGpoYklNY09QNHVaSmNHRDV3X3QxejRiSlF3bVR5cXhLVU10S25uUDdKMlZfeXNuUjJiNE9ZaXFZdHNjUGVKZ3A0ekI5elBhVEM2eDdlNERsT2xCYm1Ic1PSAb8BQVVfeXFMT1IwNll3WVhESVh2M3BRMjR4Y2tQTV9qdVIxcUNuTFRDWFJaSExNS3lTN0NCTVh6eUJzZlM1RW5GTEZ6cldpbElyakxwWU5jZEZZZEljSzlsejd3aVBiVmhSYnNvdjZlckhKQmVEU1lQUXU5XzNfNTVuQ25uS3BzbjBKUUdUTGtWUmtuSWd3VGxvcWlEX3k5ZkU0QWR4dmh5eUdwREl5aEVMR3VkekdXQXpacmtGYmZoMnVGa0tPdXc?oc=5",
+          "published": "Sat, 11 Jul 2026 11:10:09 GMT"
+        },
+        {
+          "title": "الصين تجلي أكثر من 600 ألف شخص مع اقتراب الإعصار \"بافي\" - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zSklSaUs5SXBhVHc5UkYtRFI0ZTlVY1E3UmhFQmhJRzkwWVU3R1FtVFp2X2RWOU1HcnpOUDZ0MWFKTmN1Y2NrcDk4Z2NSVGFNenE5dUctRGtLMG_SAWBBVV95cUxQRW94U2xMWGVyQTZ0X0I5V0hJUzVmVEpnNGFGTzNiaEFpRU96MkJ4V3ZFZUsyNlpvNHlsRUIzOHI5SFF2bFRDeTZ2YXlISG9DNHNueWE0amFnaEUtcDdyYUI?oc=5",
+          "published": "Sat, 11 Jul 2026 08:52:00 GMT"
+        },
+        {
+          "title": "رئيس برلمان فنزويلا: ارتفاع الوفيات جراء الزلزالين إلى 4333 - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlRXRhN1dubE8xSnFUeHJfNmRoUXNtTURTX0dwYlo1aFBfYmRhUEYzbnJIWmNtVzlvZ19nckJiU0ZhVVQxdlJhZ0FVQ0lFZTE5M2l30gFYQVVfeXFMT2RiZFFIRWtkVGIzVk11V2ZpNFQxOHBiNF9QQUE2TElqbWFUZkREOGRIVEJMbG9WVk10V0pIUFhYaWFGY0RjemJOSlhPc3RJbWZ6eThpOGZrcw?oc=5",
+          "published": "Sat, 11 Jul 2026 18:33:00 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "«ميتا» توقف أداة لتوليد الصور من «إنستغرام» - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13dlpqblFDTGZiYXQxdXNnc2hMSmN3aV8ya0ZxQ3lkbTVoY3R1VVdObGhXQ2FSSkNxbHFFLWQ4YzJ0TGtlZUFDZ0s2eEdMYzhyVGRwakxORHRtdWEyRkJWSXRvamJqUTNGaVZ3Y05DY3M5d05kSWN2Y1ppd1BDM03SAYQBQVVfeXFMTXplRFNvQ2U4Q1FjbVhaTFdlREpfT3BuNlpjVUJyM1pGWHJuQTlVUWlBYVpXUkdsUk41ZjFVVGtaS1drQ29IVkhmV0VRckc1SUlVMFl1elduQzk1NVJqR3J4aEM2NmhfYnpKdFJkbFI3VTRRTjM4ZTBpX29YQ1VRZnBMeHlP?oc=5",
+          "published": "Sat, 11 Jul 2026 20:51:00 GMT"
+        },
+        {
+          "title": "بعد أقل من عام.. \"أوبن إيه أي\" تنهي دعم متصفح الذكاء الاصطناعي \"أطلس\" - الإمارات اليوم",
+          "publisher": "الإمارات اليوم",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBienBjOXloanpyNTliWmRWQzJya2d6TERSaGFmTkFMYndWVGtoQmthQW1kTmVrTHFheXM2YnJGbXdCZDFlbE1Sd1ZCRlY1aWR6blVWdkptZndUT0pLb04zYm1xb3dnR1pBY2cyMNIBhwFBVV95cUxNWDdoQVhLZnFBd1Q2LWxmQ0ZwSDZGaVBKX0hXOVZFWTcyREtnVlJCRXVoMU1oUUN4My02SGQ2dC1OSGNmd3lUbnpISmhRaDFzQzcwSjBRUk1GWWFzMk9aN2Z0X2lvZnl6QUU1Nzh5cWc4Nk5aekpYTmJMNDdUSE5ublIzVUNKdXM?oc=5",
+          "published": "Sat, 11 Jul 2026 16:29:43 GMT"
+        },
+        {
+          "title": "أبل تقاضي «أوبن إيه آي» بتهمة سرقة أسرار تجارية - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YT1FBc0N6WjZ3SmVIZUtZbDFWc012X2gyVXJ1clhnaWtQWHA1Si1GWGRzdl9DX2F6Sm41TXpBaWhScnEyalBOUlBiMEJia19XQm1fbFdNQ3lHQUNCdTgtdXg3cVFNc1dCWGxGZWFn0gFzQVVfeXFMTk1QZkVlYWEwUWVOWUdGcnRma0NMSFdIemhjQUNXa2ZMc3hWM1NfOWNVNUlBSV9pV1BvTjdiUUJoRzBaX08yZFo5UE9mUThIYmtlZUFucTkzY1dmcGF1WDgwU0N0UVRYMDlqR1VjWGZKTU5Taw?oc=5",
+          "published": "Sat, 11 Jul 2026 14:26:00 GMT"
+        },
+        {
+          "title": "«بوينغ» تفتتح قرب سياتل رابع خط لتجميع طائرات 737 ماكس - صحيفة الخليج",
+          "publisher": "صحيفة الخليج",
+          "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxPMUhGNWlOdVN4YTIzMW1OUXpuczFHTmFmblI5S1hvNGlqVnBSQWlLc0RXejN2WFRVTWhQcTl0Y3ZETUlIZEZ2M0t0Wlk1bEdSQmFwUTVoc1hyMnd0TzdPRnJZTGlPUEd5N1lsM0xtVFJCaG0xWUpEWlpyaTNaNkZZc0VxbHV0TW80TnctTG5yQ21OczFral8tTF90WXBEVk9wdWdsSXBheWJnM0x1a19xMFduajhoS01OcFNKUTU5QVlncUdwX0NVSkgyYkFFcmRjTGVna29MMWtHNEV2M3NZMnVLUXBYdl9UcC1QeDNiamtfMllEV0pqaUpvWVdBQXA4cHJLdVdUTXRSU1lBWVNPSERoR0pSbmJkby1DWVBwdGFyRk1rM2U1cnJSZUYxSEpobFVLSHZvdHVVQWtORjVmZlFwLVBkWFRtekU5SHRkekJpV0hfUmxrVHlJdDgzOV91aDJKQTByRF85VVpzYzV4Z0lSdFoteXAwdHpkQmsycUtTa0RiVE1kRUFDMmFQRmpNdDN2czhnX3pLY19ZTEEyY1pad1IzLXk5N1p2ZmJpZzRIOXo1NTBWaVVHb2poaUlSdmlFb0dqQzQ1TVE2Nks1OVFrc0N2Rm5IVVdwazhnaGRweDI2RFVqSFZNN3BqUml6ang1QmlCZFctclpkNEkxRVlwdVotYWVfY0dTNDBUZjJZNm1VQklpc0lfRGF3TGRDOHJ6eGhDRkU?oc=5",
+          "published": "Sat, 11 Jul 2026 18:40:40 GMT"
+        },
+        {
+          "title": "حالة من التخبط تسيطر على الأسواق العالمية في أسبوع - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1weXdnb1NRWm1ibW1Od1AzYWd1LXh2SXZtYnA5Vl9fRWw1UFhZdmhlWVBYSUUtMlI0dHJCNkllWmpJb3VlZGNfODNCbFJuSmpsWHBrX2c4TTBiaU5abW1jM3MyblpwN29nbmFiSmtB0gFzQVVfeXFMT29uV1NqcXJ1cE95WlR5Q24yV04tNEJmZWh3eGV5a1M0UHdtaDFfR3J0b184eC04eWl0TFFfZWl1YUlxUV84WDhQVTl6NHQ1UldYcjd2akJ6VGJITDRWaXgzWjhGTjRNMVFtTTEtOFZON084cw?oc=5",
+          "published": "Sat, 11 Jul 2026 13:29:00 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "تصرف \"طريف\" من بيلينغهام تجاه هالاند في لقاء إنجلترا والنرويج - CNN Arabic",
+          "publisher": "CNN Arabic",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOW1PM3hubWg0NXlIN0RXaF9oSjFOcWE2a1dVNTlaMTlVc3BqQWw2THdBcnRSelYtNTdCWm9qVEg4SnRJUXUtQzZuMEtpMFRQRkRyTUtJV3Nvd08yM2dPc3U0NEJaUGR0clYzUjBDT1d3dzd6ajIxREVLY2tsR2k0NE02RE5rNXU5eC05S3h0R3fSAZsBQVVfeXFMTkl2SUFlZllWcGNVOWpNSTh6S3Iwa2lzdjhzLXZnZmRHU3l5UW5JZG5fR3FmRDl1Z3BlSHpDd1BJb0o3aURUN0VCUnF1bVM3U2JlN2RDVHFad1FjZlRNN3JHVVRPNEM2Vi1VcTlObGdLOHVtNVFkREU0V0JlTGVWUjF2ci1rNWw4TG9XcTFfTDdqTzd1MFFXZ21SUm8?oc=5",
+          "published": "Sat, 11 Jul 2026 22:00:43 GMT"
+        },
+        {
+          "title": "تنس.. التشيكية ليندا نوسكوفا تتوج ببطولة ويمبلدون للمرة الأولى - Anadolu Ajansı",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxOcjh3cjRxNXR0aEN0ME82NlkxaGhya1Z6Q1RwVmh3RkN5V2VqbHdWdVlQZ0FxQ2tpYUtMcmxYUzhQN19WRElMMC1ZZTVsYzZ6VUZYdnpmM0E3RUR5cWNfNVlSQWRfWlVMVy1MZU1zRUdBbmZIa05CS0xTa0NISGktOGRfbUdYWGd2LW4tYWFqMHh4OU52N1BOLVota3hia3JhSzVrVDJWbXBiWTlEUXBmWnhDMW00cldycF90bzZONFBBZUhVamp4S0d4S1AxalIxU1kwMGZBWWZQSk52ZzAtbkRHRDRITnczV29mS1dvZlFKR0hYWlAxQ1dlLTdUVnlXRENaM3RmSjJNc2hvVTRHOXg2SjhfVzdYZ05qSm9MZ3p3WklsTlhtc3dscnZPX1BfVTVlcDdiTVdmYTN6bDYxS2hHX1F0c011Y0gwOXBHNjlOZ2VoR01ZYks1dlN5eU5Xbng4Q1JQX1AyeHdQdmI3QmNsTFdyTVRuQnlMa1pQdDEwaUI2dWVOSnZzaFZaN1Rmc01kdkxvMHNubDB6ck1zTTNJdU5RVFV4a0VKVkV2bG05ZFktcWxPOVgxX1RTeXJXMnJoNlNnbkRrMFNLM3gzZW54YjlNc0RYQ3BZRkdIdm9tQkdiS09tdTh3QW5EWi1ZdzgzX2g0Z3poZ1k0TXd2M0FMUWlJaDRfYW91MnU0TklOVDFzRXQwV0NZUk4?oc=5",
+          "published": "Sat, 11 Jul 2026 20:35:10 GMT"
+        },
+        {
+          "title": "تيم ميرلييه يفوز بالمرحلة الـ7 من طواف فرنسا - Sharjah24",
+          "publisher": "Sharjah24",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GLUFQbU1POXhFQUJEb29kalFxQWIwOTVRYWg3SHpVVjhOZlNjOXM3MlpNTE1veXlRUW14MG5RVW5hcTdjamdkeVhwaFlrRVpWT3NuTUZxbThqWTg4UHc?oc=5",
+          "published": "Sat, 11 Jul 2026 12:14:36 GMT"
+        },
+        {
+          "title": "موعد مباراة إسبانيا وبلجيكا اليوم في ربع نهائي كأس العالم 2026 والقنوات الناقلة - صحيفة الخليج",
+          "publisher": "صحيفة الخليج",
+          "url": "https://news.google.com/rss/articles/CBMi3gVBVV95cUxPWDZHYXExSG0zVDVHUldXenhPdjFrWVdYVzBObGNlMGYtaGl2MGVoVjRLV0VKYkV4NDFQa1BsV2lncWN1eE8tRTdOMWJ5cFVvMy1Cc2JjNEdvMGpQZm00d0xvelZ2UE1WQVlFRmlmUTJvbWVERXc0cV9BTUd0ME9ydXJGdmtZUXhtTTNsQjVIOW5Nc3JBM0hTVUp5enljWHVZdFVHLWF2V2dZNVA5X1RjeUZPZFFuelFCeVFCMC14VDl5MEpRZlp2TDZhT2tBMmI1WUh3b0xTTFBGV21ZbVFhdm5uWVhzQTgtMmNWbk5MUEtiZUpEWG1ZVGduSFZpczFFZFl1eTlubEFrdlQ0OVJMSFJpNmw2YUpxV29IRHF4a0FpUHZvRWRsSmVkQ3V4di1UeG1EZFZWUVNDR0RiZ2R6eTZoMUJ3T2JJRnhVbVBwNW12T0U2WnBTZzlna0xMWmJQT253dUpWMEk1R0U4RkpiMTZDaHQyeWptV0d2b0ZsaVZDdEhicVZvbjl3dXBScTNlZTVWUzVPU21lMXZ3N0hfSFpOTUVMNkEtckVyRkFIVGhhcVB6WVBMTkZOTTM4U2JOZTZEVHl6QjJCenNqWk9pVE1SUkI5SkZJM3ZJWlgwRTRxT01ZeDltV0JXdTM3bnd4eEFIVU5KTi1yYllQSW11X2ZhYmtWc0U5NzdlYWI1NjF0VUhENkotYTVNSHZTb1Q3MTlrdGtnd1FEanNWNC1xZjQ5VUZCYU53VHRCbVJ3UFE1QU9tQ0dPekFEekZrT0FHQVlnekMyakc1LThnamN1Rjd2dEsxdi1xeUFMclhFeFM4N0YwTkxQckZxLTdwNFdPSWpqN1g0eEwtTnFwZ0E2T0ZOZkVTMHA1VGg3OFFyNTh3dDNXMURVZE1XcEsyV0xkZXBOVFJwQmhuaklSUGp2RmhuRGhaMHRERHlZeDhmRFBkOVo4M00yMno0b28yUQ?oc=5",
+          "published": "Fri, 10 Jul 2026 19:52:39 GMT"
+        },
+        {
+          "title": "مونديال 2026.. حصاد عربي يرسخ ثقافة المنافسة - الإمارات اليوم",
+          "publisher": "الإمارات اليوم",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96XzYxeS1jM3RkcUxzZXVZbjhpaE9aWFpLNk5jd0dPZG14Q0ltXzF1emRiRWxZSHNfVGFNUjRTc0JjNzlXanBqLVRfTFJUdkVsVFpYdHlNa2pvdjFNa0N5VkpXYS1FQko1ZnJjZVFPWGEtaEpZ0gGPAUFVX3lxTE96YnJyV2VsTmJaZTRULUJrcGVKMXFVQmFkaU5tdXlEMkFOdEN5ZEh3dkc0T2k1Nm5qcW02N0NmTVRSYjF0cjFIVld5MjJDMmQ4T2k1bzI3TjF3WGZrdmpOREpPX0RQYncwMkF3NkxIQzB5TzdVTG5haFptZmFudk1KYktJOWdEV1JqYjdUdV9Z?oc=5",
+          "published": "Sat, 11 Jul 2026 20:01:49 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "أمريكا ترفع الإمارات إلى المجموعة A:5 ضمن ضوابط التصدير - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QNGxsZ210VktEazRILW5ORDVPSE80X3dnVmliYXhSZDBaQlQ1Z0kxbWpSRVZRMDVIWkExOXl2NDNyN3B3WF9OV3pzTVV1UW5r0gFWQVVfeXFMUFB3SEt5UzlGYlNRRjNiUE1QQVA1bG5lanVXRUNvWHhLUVZRajlsTllSN0t1MVo5Y2dKYllqNTBDWjBxNllvMVlScXBxSHVZZzdmbGR0WHc?oc=5",
+          "published": "Fri, 10 Jul 2026 20:27:00 GMT"
+        },
+        {
+          "title": "مريم الكتبي الأولى بالثانوية التطبيقية: حلمي دراسة الخلايا الجذعية وخدمة الوطن - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EQW1tdWdwaThmMVY4WnNmdUpJSjBnQnRpLVZNN2tfd0hDNkowRktKYTc5X2ZsTEdlQTQyOXVGR3hNbVM0eVFrNFVnUldLbV9WempVQ1h6SVZ1N1V0UmfSAWNBVV95cUxPWWJ6czRWT3lyN0RBUUhZaFVfcUZiM2ltdGEwTVVJSGNmWlh5b2dQVzcxTFU1aThYdjBmLVMtWmJJNlVBd095dVliYlA2akZSNjFmUTViVzlOX0xZM0dNclM5N3c?oc=5",
+          "published": "Sat, 11 Jul 2026 07:15:00 GMT"
+        },
+        {
+          "title": "تفاصيل إسقاط خلية تفجيرات دمشق.. متابعة استخباراتية تقود إلى \"مخبأ سري\" - الجزيرة نت",
+          "publisher": "الجزيرة نت",
+          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPMEhkcnRGdGhPS3VOTWpicjN5emRLWmdoUEYwdVRvLXZIdUw1OU5HZG9fazRRMFZnM1B5cV82U0laNTJ2VnhSUHFfYUtNM1FlMTY2UzZOZ3FzYXJ3WXlOT2ZZYnBLMDVBX0JTUDZxc1h6YWRnTXNIVTdVWXFUSmFKanNyTkFfRzFydTBxZ2l5elF2cU1nYWJjTVpTSi12SjFQNUplNTRxZGZwUC1UTnc0VG5tendGQ2l5OUJrbWVIRkpHZXRTd1NqdUQ3TklTV0lLU0psb2VCMGtLdEprZ3BTdlZrU1g1b0E2by1VbG9PWWk2dXE0MFRVNHpzNDBGbDNMd1lwTXJaSEktdENmblhEdUhYcGVXTDh5MXlSUlQ2OC1JU3VFM0hXcDVRR1dLX29DdldzQk1qcno1VDhyZkhmTUo1b0xPeWcwM2IyWlotYUhOX2hLcnVacWRB0gHfAkFVX3lxTE1FWVRLUk4zbXJQMWgwXzZPN1pwc0FyMHBodTNLVmpaWGJINmRFWUtzQmVIZzNTbU41MjM4Z052SzlyTHVRczAyM3BiNG1wUWRaSUFOWGRoeFFueEFGcXNBR0NGRENNUXRmODUyRWp5RXR1T2QwVzFValVsdzlPckVKblN5eGEtR3JuYk5DZmhocGMybVEwUlhOY3UwUm9scUMwY2djMjhkdm1fbzNYc1E1UHVvOHZWU1F0QnNPLUVpTklNbVBXcXFfWGpxRlFxS28wZW4tZFZxSWhvZHh2XzQ1SExuOWdTLVFjcDVmRFp5UXJkUGd0cDNqX3Ywak9EaDZBc3dwR0Q1MkkxVndYT0lIcl9rSUlPaFRlTDNCeEc4a1ZfUVFSa29jNjJpajczTDhMYzhJU0JObXV1Y3lJbGRYUE1WTlpmOFgtM1dZT0xrZlZjVEJQUzlTQzlpel96Zw?oc=5",
+          "published": "Fri, 10 Jul 2026 18:36:27 GMT"
+        },
+        {
+          "title": "ثورة في حروب المستقبل.. سلاح ليزر \"يعمي\" الطائرات المسيّرة - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82YXd3WEFqbHdUR1IxdXVUUUVFcm84a0VhWTNpUG53NWZ3bUdSQXdCRjBKU2FKV2JoNjZ0bEhGS1RHOTc2bHVMYzBEMEV5NnZ3MW130gFYQVVfeXFMTnktVFpTUkR4cmZ5alllQ0Ntc01EREY0NmhTMkhVSEplVW1DNTQ0Ui1BbzZmcGpFM0lmazNuOVZsa2d5QWZpLW11SUs0amJ4UnktZS1nYlBPSQ?oc=5",
+          "published": "Sat, 11 Jul 2026 12:34:00 GMT"
+        },
+        {
+          "title": "ثورة في علوم الأرض.. الذكاء الاصطناعي يكشف إشارات خفية تسبق الزلازل الكبرى - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWVOT1dtRXI1LXFpNnJFNTNCNEtfNTdMbk5qa1BMek9NTEFTOC1rMFVTWk1EeUhmMU9ZMFdyYVZHR0JBN1h6bmloYU81NkhpdmMzNFZKNVpfLUw5VWQtNTJXX0Zoc0tneUhISy1EMmhhcEpEQmxlMUFqUVlRRzhzbHUwaFlGcU44Sy1Ob9IBkgFBVV95cUxOZHVkTnNfVkZhT1NPQ1I1aEZjbk45UTJJdko3Ym5GaFdXT1hMWlZtV3JtMmV4Z1lhVWNWMUpTeTBZdWJoM0s0a0xNLW83bENQR0NfV3R6S015WEkwd3N1SWhJZlZxakhzcThWckNmZExYYW5YdDQ5RnQteTBZcG93LTFhVWlHR2ZwdWxVYTNWd2VCdw?oc=5",
+          "published": "Sat, 11 Jul 2026 11:47:00 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+        },
+        {
+          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "publisher": "Business and Investment Development Agency - CzechInvest",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+        },
+        {
+          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
+          "publisher": "KTLA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+        },
+        {
+          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
+          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
+        },
+        {
+          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
+          "publisher": "KSL.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
+          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
+        },
+        {
+          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
+          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
+          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+        }
+      ]
     }
   ]
 }

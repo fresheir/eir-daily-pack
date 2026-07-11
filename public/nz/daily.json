@@ -1,43 +1,260 @@
 {
   "market": "NZ",
-  "generatedAt": "2026-07-10T23:12:04.244216Z",
-  "validForDate": "2026-07-10",
+  "generatedAt": "2026-07-11T22:45:06.130502Z",
+  "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Thousands welcome Modi at Auckland rally as protesters gather outside - 1News",
+          "publisher": "1News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSUtsalJ0R0RydnNHX3ZBNEJqalhENm4tUlMtRjNMc2QxMlYxUUVhRXVkTlZvX2VKaUVaMFg3dWlJLXc2YS0xVVYyZEtybmd4ZE5lOVR0NGN1N3lMZkZRRXBjQlpLYXZIWWV2ZXExb0lMZW1fY0VYSWl3UzVQd2VpRXpZM2JNY2IwaUFBSldtLV8teG90V3J0RjVtaDg3aERfbGwzSVNKeGE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:54:05 GMT"
+        },
+        {
+          "title": "Watch: The bar brawl that led to a police 'blockade' on Auckland's K Rd - NZ Herald",
+          "publisher": "NZ Herald",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcEZFTVJnd2ZkTHhfOXktWmtRMUpZdTBLb0JodF9GMW9SbDV3Sm1wMk5kRm5qZ2FGWVhqS01KN05zNmUzR04tcXlfaVJOVG9uSVVqaVc0ZXNsa1RKaFRsRFh3TWVLbldEZTBlT2s3c0pKV2RSVEIzNGttLVNZMHdfbk1YQjF1SjE5OTdjLWFNZjZPR29UUVZHdkV1TjVlR3hRbzFNY2ZHdmIyenh0bnI0LQ?oc=5",
+          "published": "Sat, 11 Jul 2026 20:05:26 GMT"
+        },
+        {
+          "title": "Matariki for everyone: Māori New Year 2026 – in pictures - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWZCMERnejk0SXF3M3ZOTklkMWJFQWRIaFJ5djR5dXMyc251My1QLWtyXzFVcjZqS25lazVvVURJbkRZUWhaQjVILWJqVlRHdFlsTk1KZm9wLUJTalJfb2tSVng3LTd0WDRZVjJpeW9JcUhVU3hsM0pvRXMyNkFRUUFONHdjQ2YyNEQ4dEpHTGJGOXl2ZlR3LTNfWTFZSGtkbWNqanpEX3dvTTQ?oc=5",
+          "published": "Fri, 10 Jul 2026 06:43:00 GMT"
+        },
+        {
+          "title": "Coldest morning of year in Canterbury - Otago Daily Times",
+          "publisher": "Otago Daily Times",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BbTRCQVNiT0hCeGoyVXFlRzB6WnVzcURMY3R6QV80SGZhNU00eEZ5MWZKWmNPRGZKZmgzc0FpeGxKY203ZlpyYzd2MzJ5TnRXVjluMll3a3dOZ0pOc0wzUk5JdDNhdHhUc2thVUc5eW9uTUpSRHBDYUNWYw?oc=5",
+          "published": "Fri, 10 Jul 2026 23:16:19 GMT"
+        },
+        {
+          "title": "Boy with Down syndrome labelled a 'curse' in homeland fights to stay in NZ - NZ Herald",
+          "publisher": "NZ Herald",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUVdCSVBXeWpMYktxSUExSTdJUG9LY2xoVGFTbGVWbVBCNFI1SGhLX21iMWZaaFdYWU5Xb2Y0TndGTzkzay1fZjBXb3lHaGI4WFlHY0ZOT3ZLUHA5T3ctbUlVbXpIblNYVTFJSWp1aUdUdTZCb0RqcXJIZTFsdHN2RUVieGhDQkVPWUx4eWpLX3hIbU8tYVFDN1NsY3kybVpqVEJqQXJjcU9QempTVzRvOW5zQ3FHRUxWV3lsUFU4Y3VpbHZ1SHZSdzFWdHA?oc=5",
+          "published": "Sat, 11 Jul 2026 18:54:59 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Rescuers renew search for boy feared lost in quake rubble after new signs of life - NZ Herald",
+          "publisher": "NZ Herald",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMDhmRG41THNoZHAtZEFPazh5bks4blFWaWk1M0ZiWFcxc3U3UjhNcGRxcHNfSnZ0YUR1VlVkcGRvU0JRUDU3ckJEQldnZnVNSXItZS1OSWk4OTBrQWM4RlRRZ2FkVmsycTh2dmF0X3RWZnZXTHpDbF82U3R5NkpPVG83eUotVlhBRkhGcTNfZVBTVDA3V1RPUHZ1bUYxQm5iSFZWZzhRU1d4aHNObEdkQkRoT3BuSXBGOW9rWnpMYXdwQm50aUJCbHE4bFB3U1JI?oc=5",
+          "published": "Sat, 11 Jul 2026 19:51:11 GMT"
+        },
+        {
+          "title": "China evacuates over 1 million as Typhoon brings winds and rain to Taiwan and Japan's islands - Stuff",
+          "publisher": "Stuff",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeDRGU1gwTGc2ZGY1QmFxNkxLS2QwX0piMTVJYjFlckYzbkVHT3UwV29OT0dkSk41UFV1OTFwb0RxN2VCSzlwTC05UzRJNHJIbS1tOGEtdnQzcXZkYjZXVnZOMzNZZ2RHbUtqVDB3Qllocm05Q3U2LUl3SG83bE9zQ1N2TlVXRVl4UVdhd2lBd0JDdksxMnI2ZEU1TTc0QUluVW9J?oc=5",
+          "published": "Sat, 11 Jul 2026 11:34:54 GMT"
+        },
+        {
+          "title": "Trump warns Iran after calls for his assassination at Khamenei's funeral - 1News",
+          "publisher": "1News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX2haU1ZocUo2VmhzbUYxQUlGdmVuTGxQbWJTdzVOVzFCWk92X0tsU2N3c0s4bk8wZEFhVEYxNjBkdDRUZjl5dWpqU3F2UXlsbjZ5TWZWR01CY1dzTkEwYkw1TENpNUs3VDZJU3U5ZXhONEw1NVZ2RVFneExCSUx1ZHVOVS1FQjJiTURpTDA4NDQ1MnRsOWdTN0JtZmlOVDgzOE1CNGJMV2ozWTg?oc=5",
+          "published": "Sat, 11 Jul 2026 22:18:10 GMT"
+        },
+        {
+          "title": "Liam Dann: Is AI my drunk friend? I asked and got a surprising response - NZ Herald",
+          "publisher": "NZ Herald",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTk9kU1hQQV9pV1RXUkRyLUtOUWJFS2QzS3Blc2tScTlCeXhZOWFzNHE2S2pOZkhDaW1NMVFyak1lRkZDZE0yaHJZZ1hJbTBJT3Yxa1p1UUtKNzlGMDBLZ19PQjRuSkNWWUdjYy15S0RVOEsxR2tOaE5mWkloal9kS1lneDROUHVTcTZkZGdvQ2ViZmJjWnJiT0hKdDBpQ1ZKbmJ0a00weWNpWUxOdXZXUzBKUV9EZTVINjBmbnJJTUd3R1lDYWp1QThmUEtGS042dHcwVm9OWlY?oc=5",
+          "published": "Sat, 11 Jul 2026 17:02:23 GMT"
+        },
+        {
+          "title": "Pioneer or ‘pervert’: The strange case of John Money - The Press",
+          "publisher": "The Press",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUhSZ2d5U0NhX3VJc1c3VGpIVlgwTjJBR1NweTMwc0xWVDY0eUlhTlpTSWMzekZaRXA3TmN3Ty1VRTZvaTk5LWRrQmczNkRHd2RydXlBTksyMGhqTzAzT2hTU2h5c3ZtbEtKU0hUY0RNSUU5ZXpVQzlYTVh4aHpuVWJ4aG80bGNsbXp6bkM1Y20?oc=5",
+          "published": "Fri, 10 Jul 2026 16:00:00 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "Why I won't let this week's OCR hike scare me into playing 'safe' with my investments - 1News",
+          "publisher": "1News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV25UMnhaNWNmb0NVc3Z0V243YzdmOFVReGF2ZGNLd1Nuc2M0N1hqSWpuaU54OC1vS1Fld0JFSWxldnpWbmo4cmtRaUVTaUJBMHpWWFVDNmhZdV9mNUp3cERrYlFfMHhRRERkZEZxZjhlYWFLMGxyWl9HRnlIUVdwbFVINklJblowbVoyMHV0ZXdVMUtiYXVpN1FrOTJGRXRTRDBjREtIb3ZSUktQT0FfTDZ1bUJBcmdz?oc=5",
+          "published": "Sat, 11 Jul 2026 21:50:08 GMT"
+        },
+        {
+          "title": "New Plymouth council saves thousands from sunshine after solar rollout - RNZ",
+          "publisher": "RNZ",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGFZOVVqZTlFbF9VNTFuNEYxMzNTODM3YUlNdXVEdENIekVHdFB1RGVMQzNySFNwaGNNNFJaaGRLTjBaZU1iVGdkSzZsN2lfV3ZMOGd1Q3daa2R0Vkt6LVdLMk12QjNIY01PbGd6NGFjOW9MeEhVYmYzRDU5bnlvTUl4OVRKT0NTaGNxT2ZfcHB6a1FULXlLRFBkLVE5Skc5RDhtSUhTUXl4cmsyTVVhVEtR?oc=5",
+          "published": "Sat, 11 Jul 2026 04:52:51 GMT"
+        },
+        {
+          "title": "Diana Clement: What not to spend your money on if you want to get ahead - NZ Herald",
+          "publisher": "NZ Herald",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZlpqYzltVVZuM1RrMUhuRFl2bms0MUJJVTk5R1c2dGt6VlhQYjl2eUhQMWx0YVRnZVN5NEhYRVlrRG9jcE5wSnJPSWdOaEtacHpzQlk2TFBESkpyMjJ6aGtlbXBjV292MnpDemRlOEdRaXF4eVlRN2JackFBMEp4YUpGZU9IcVVqTk5YX1ViNTYtQTZYdHAwX1VZZ2JZaUI2Z2N4X0VzMmd4eHRtVVpSQVl5MklZek8tZ2xBcm5vRFpFdnU2VEtOaTN3YTJCWmtBckhVSTJTTW9Cdw?oc=5",
+          "published": "Sat, 11 Jul 2026 21:03:40 GMT"
+        },
+        {
+          "title": "‘We feel sick about it’: We're down $350k on our family home. Do we sell, or keep paying $950 a week to hold on? - Stuff",
+          "publisher": "Stuff",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUVAzdTFUVWV0SlhXbWRkcnAxUWxuejNOX0RDWl81UndTUzdVbDE3bjZNX1lpQmxDeDJHRTZGaF8zTEJiLWJHQm9qTUNLWU9LY3BDQ2VRRUFpOEJTN3QyQXdlbElRWDZ4UGVBc3RXa0RHVzk5SmwzRWdfSTFXVTBGSl9ldlF3U2FpdlkxSXZBQXFkVXg2dkNsUnFCU1pNaFFOT0RFTU54azJIbTB5eU5zY3lLZTJwenFKY3J3dkpfc1ZhX1cwUW5LTnJFSmZmNW1RRVBRSFVyekc0UQ?oc=5",
+          "published": "Fri, 10 Jul 2026 16:00:00 GMT"
+        },
+        {
+          "title": "Tension grows over fading heritage character in Northland township - NZ Herald",
+          "publisher": "NZ Herald",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdVpQMkhsN3JYaGhjSGFqNWFOVk9LcFUyVkFId1gxX2p1M2xZcGtJdGNka2NURTNLRFVuQ3hwTlJtQWd2WXl2aURFVllGTmptRHVJbnFmNlpjeU9XcnVtU2w0N3dEXzdxUWNZTDRZbDBTT2c3VmVzX05RYUktYzlydUtrZkVIR2k3bEdFSUVFTzZiWERQS21GMi1oRDRCZzBrOXVzTGFZUE85RGFJRDBaVnBkSGg1UXZlUzNjNjhKQlNSUjJJbE9GM2dIRThYWTk0dTRiMXhXRDhxeHdoNmc?oc=5",
+          "published": "Sat, 11 Jul 2026 17:05:48 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "Player ratings: The All Black proving his doubters wrong - NZ Herald",
+          "publisher": "NZ Herald",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOb21UOHpyNGpUTnVjeGRmM3dseUVtTWRfdkpCLVhuQWhvc2hnSE1pM05uZUFfNldJSTlXZ3pGWF91cjNGckhiZWZFV0JzVFRkb2piVVVDTDhIY0JDbzVzbmkyVXptaGh0bnFrM3g0TVRzMkNqbGJfMzlxRXlFX2t5S3Vuc181UWwwT1BHVXFNV2NoRXQ1d2VBWkI2RE1GR1NJLU0xZHFTZHIzRHdjQVpPVjBWd1lod3BQVEJfV2wzRFl6WmpzV2F3QWU2TnV2OURBck5GbGF1T0l4WjJDbk5wdF9nNkllZ3VWV1R4cmNqTG1XTnJEZnc1SGlaN1pINmJwUGdZLQ?oc=5",
+          "published": "Sat, 11 Jul 2026 20:06:26 GMT"
+        },
+        {
+          "title": "Live: England v Norway World Cup quarter final - RNZ",
+          "publisher": "RNZ",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcE1mbXhHa3pPa2pIYWdaUnpGWFBNMzM3eFA4bHBHbk1DZkNIbnc2ZG9JbHNidVNueGowekVuakFrOUhuSTNNbFZZbDlpN184Q0NXa3FtdFUzTTI3c3F2M3hGRk9wbUhacmo0Sm85MEdKdE1XTERMTHdZdHNvMk1XUm8tOHlCNkdaTWhMWUxR?oc=5",
+          "published": "Sat, 11 Jul 2026 19:59:47 GMT"
+        },
+        {
+          "title": "Referee leaves field injured; Hurricanes Poua end Matatū unbeaten run - NZ Herald",
+          "publisher": "NZ Herald",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMXI3Q1NlVEhqNlZfOFlvQjVDWjl2bXVUUUdsTkVxSmJlN2VsV05fM2dJVEloMkxFZ3hWTkpPN1hOOUdQSi1OX1Zmd1JlVTc3RzUxYjhLUy00eHI4cmN5REE5c0RuLUFMNlc3eXBtSTlUbzQ0R1R1UFdmN2lrR3FUcThreV9GcG9Cd0JKS0ZzeDg4YzVQRkpGcFQ5SzE4MlBwTjByVFVWYkZ2RFdaQS1DMEswaTA0and3b1N5NjVFZDRQZ0lkcWJrWXdaYVM3RWVLeXUxb2RYSjRzQndyYlFoMmQyWGtGbzVsRjBKRA?oc=5",
+          "published": "Sat, 11 Jul 2026 04:47:25 GMT"
+        },
+        {
+          "title": "Race 21 starting grid: 2026 NTI Townsville 500 - Supercars",
+          "publisher": "Supercars",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEZReDdieTdVdG8wWmJNVk15NlBCcUVRWXpXSmk2ekVTNHV2d3Fyd2ZFOUdhbGhRR0pjSmxDcWowLVRRNE5pREpwb3d3Y0JjUzVjZzJUc2wyM1RXT3RjV3piNTRONExOc21YNVdlNEZ3TjNnWVZDMGs5Q3RMcW11SnRMbURyQU12V1EzTDR6VnRseHZZRThmOVpRd0VNUkVlS2ZZVzFrY3Ntdk1hTkVIandYcjZTYjE0?oc=5",
+          "published": "Sat, 11 Jul 2026 02:49:06 GMT"
+        },
+        {
+          "title": "Black Caps v West Indies: NZ collapse after Mitchell 50, hosts to chase 268 - NZ Herald",
+          "publisher": "NZ Herald",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcUlTc2Rmc1luRkNuX1JaWXBSYW9tUlAwQXFUVENfODhsQkt1ZENnRWM5RzZseWVEdXo5WGwtVVV0a0FYczUxdW9jN2tSTHRpRmFfS0tMUlA2RkdNWTVhTng3aV91bHRNbVc5dm9nMEdCY3ZJb0JWXzRvVnRHTjdIZGwxOHVGSmh2MTdKeEEyRHhlc05Nc0tvaUZ6LWVXXzlCcFZVV2taQk93NEYwNUtiaUxaTTUxM0lNbkF1aU1Dc0xwOFQyTlNUNGZPWkpNdFptSGQwUHZYRzgwdHNPQ0doQUwxSTQ2WUpPRUFmYktn?oc=5",
+          "published": "Sat, 11 Jul 2026 18:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "We adopted a retired greyhound; What we got is more half pussycat, half baby giraffe - Stuff",
+          "publisher": "Stuff",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaGVRc19TcGlYVkxaUWxtcjNvQVpUZmk5WjBSOHdEOTZZUEVfcWpXZ1JlUDROVEtXRjRZM1lFbm9Vb1VMNzVmNmhrbGFzZUxNWkRlbkdwYWRaVUxSUGdoVEJHVzZyOGhKTGdMT2J6WG1lTHEtRmxfNE1Zc3N4eURCU2xkMDhRUlM1VnBEZDRjOFBjLXRVNnhRWVFKN0RLdTZJSG8xUHhTTHBhS3FnMm1WblVYTGhGRFhqdlkw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:00:00 GMT"
+        },
+        {
+          "title": "\"Breezy entertainment\": James May goes overboard in new problem solving show - Newstalk ZB",
+          "publisher": "Newstalk ZB",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLUpveThqcnBTaVFTT2VFZmRLMk10OEpYSXAyWUFybzE3b21oS3dNNURJTVZlVVBSZ1dYZUtTV0NaUVgyUFluVkZteWdmSHpYci0yZm1FMi16ZU1LdzhhNXRpblpYbThSakV1aEpVdEtEM2ZKNEU5anlLUUEyZ3A5Z1FNaHFkdEpDUU1tLWVOajVaOFR1Y00wT2dOV1M4X1NwaUpaWkZaY0h5MHRNNl90UG9IYlRLTFdlblpYTVdYR0hWYi10c1VpdVZWYmxrNnVRNU9wdHl3?oc=5",
+          "published": "Fri, 10 Jul 2026 23:05:19 GMT"
+        },
+        {
+          "title": "Performance car buyers’ guide - Auto Trader NZ",
+          "publisher": "Auto Trader NZ",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YSHl0OWY5ZDFFdDQ2U0t4MXg0clRFWnpKT09YNUNNWHpLSVJRei1iTk1fa0RDQWg5QTlpZGtEWkttcjlUbUFac1ZvVkY5Z3pNeXR5VzgxYlBZbnFZYWZyVkRNRVlBcktLaThj?oc=5",
+          "published": "Fri, 10 Jul 2026 20:02:19 GMT"
+        },
+        {
+          "title": "Customisable keyboard, but higher price tag - Otago Daily Times",
+          "publisher": "Otago Daily Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVHAzdVJlSUt5OW0xdk16WmFpQUhBOUZBZ1d3QklxTlFfcU9hc0NWWkVfSlRfaHpDZ1hRTEcwc0ltdWZrQnUxazR5NWlkVDZuM054X0dZdjU0SUI2Njc4Y3ZjSV9KYlpWWXR3dlE1bDI4UThVNWgtOEEwc0xmRS1RWEVUbmNJQ1c5?oc=5",
+          "published": "Fri, 10 Jul 2026 15:30:00 GMT"
+        },
+        {
+          "title": "Samsung’s New R95H Isn’t the Best New Micro RBG TV on the Block - WIRED",
+          "publisher": "WIRED",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTclZicU55Mi1GX0laY19aejRhem93SXRJeHBneWg5SFY0YTZOVnY0OFNma1J6UGVZblZPTFN4VENaOGhkcGE2cUViSWtuYnVkTEpaTFNMZ0tGVzdVcE11Ymt3?oc=5",
+          "published": "Sat, 11 Jul 2026 10:31:00 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+        },
+        {
+          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "publisher": "Business and Investment Development Agency - CzechInvest",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+        },
+        {
+          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
+          "publisher": "KTLA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+        },
+        {
+          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
+          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
+        },
+        {
+          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
+          "publisher": "KSL.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
+          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
+        },
+        {
+          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
+          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
+          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+        }
+      ]
     }
   ]
 }

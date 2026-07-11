@@ -1,43 +1,260 @@
 {
   "market": "IE",
-  "generatedAt": "2026-07-10T23:06:21.856888Z",
-  "validForDate": "2026-07-10",
+  "generatedAt": "2026-07-11T22:45:01.653115Z",
+  "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Water will be turned off in north Kildare tonight as reservoir level drops due to hot spell - The Journal",
+          "publisher": "The Journal",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3gxWVRNc3hObGV6TVJyaUM2LTB4Wjd0eHpOaXFNVUdGcG1tQUQwMHVoWDBWSU9wbmszZzEtU0tGLXg3LWtQQ19iWUxHUDZIU3BFNTYtckdoXzFrOElLTS1pZ2ZTVFpqS0ZaS19yck4wVWVwVXNuck9Fd3RoWU1ZekRKRE45V0dnS2VpR0pR?oc=5",
+          "published": "Sat, 11 Jul 2026 18:05:00 GMT"
+        },
+        {
+          "title": "Man dies after falling from Twelfth bonfire in Belfast - RTE.ie",
+          "publisher": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FMmhvNWREcnVJb0Z2Q2ZIOGlWWTZGV3UyVkhzUmdmVXdQdmMwRm5TbGRoZTUxYkdZcHgwTThFeXdGbjhDNzV5SGpiWVkyVFVNdW92eGQwVGNQQzRFV0t2TGZhWDVBU1JrLXd0cGQyYTVZZw?oc=5",
+          "published": "Sat, 11 Jul 2026 18:53:53 GMT"
+        },
+        {
+          "title": "New heat warning issued for Cork as temperatures set to hit 30C - echo live",
+          "publisher": "echo live",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ycENIZlVmaU5sUXBlYnhZMjE0Qmw2blY4VXF0Q2psOTk3RlB1alV6ak5xTjRINDU0MHRobmNCXzhlaF9Xc2d0UXBFV0FKNjI3cC1fRE9lY1o3YUtSQjZheA?oc=5",
+          "published": "Sat, 11 Jul 2026 10:41:00 GMT"
+        },
+        {
+          "title": "IFI investigates major fish kill in West Cork lake - Irish Examiner",
+          "publisher": "Irish Examiner",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNMGF3Y294bDFMc2NuWUp5d3ZzeHlnTmlzVFdIVGNWSExTdU5hZENoUUkzMFNqWDFnRkI5aWVHX0xMTGx5aXI5NUE0NVRxNENCdUlQLUVuTHNGVGNuTUhaVmxOUXo2Q2NIVFVRZmRB?oc=5",
+          "published": "Fri, 10 Jul 2026 17:26:00 GMT"
+        },
+        {
+          "title": "‘He was incredibly entitled and manipulative’: The grim pattern of femicide in Ireland - The Irish Times",
+          "publisher": "The Irish Times",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZGFvdFZGbVZGSnAwYkRMVUlVZVExWlo3M183V3pXTHg5WGJFMHhDVEotWVhJVXI4ZDZ2SzAtSHc5NXJKazJHUEw4MUc5V2hVZmVQTU9BaWtIV3g4dTFjUnl3SG1ycVFsNno3Z3VTRjRWdk5mQmExdl91dU40c1Y2aFJuMjRvVlhtbHpLMFF5NlIxQkxmQU1RWFZpUEtRQktIX2hRUGl0dTk4VlhJcmJhVDBiZmNxTkNZOUNsS0t3VktBWWdnNVZZX0pn?oc=5",
+          "published": "Sat, 11 Jul 2026 05:01:31 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Spanish firefighters struggle to contain deadly wildfires as more villages evacuated - The Irish Times",
+          "publisher": "The Irish Times",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTy1DZzE4QXUwUFFXRFF4U2YyZXJoTzBZU1JFQjhxc2l5enlqWVVCZmw0Qkg1TFJRcjBGYW1PZTJoTnBncFRUb0stZl82MHlHbnJFdnh3azRZLWw2MldVaHZPWUE1UzhlY1JMeGN3S01lZU1TeThHSnItbVQ5ZmIyVlJrWjVwbEtKLW5BUFZ1ZWNTZ1BEdmlEMmQxeGVMRXRDc2RHYXR1NlZGNjh1cFN5LW9OMjJ1RWx5SWdSaTRKenBERnNfN2FJ?oc=5",
+          "published": "Sat, 11 Jul 2026 14:49:40 GMT"
+        },
+        {
+          "title": "Police believe Ann Widdecombe was attacked 24 hours before body found - BreakingNews.ie",
+          "publisher": "BreakingNews.ie",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV09TUC1IbTdkM1oyZkhJZjFJSWRsblNYYXlDZjRIUkJuUkVLdHdDN05FWlpIMG9rV3dsT05ISkJfV1BwV0psRld5S0VCY3NHbndxT0REdHZHc0l4UURkbFNMT2xZdEVJeU1ydWNFOEFRR1hMbzRmUTg5Q3NOZUl4Ukc1VkU3WHZtT0h3Vnp5WVRNUEl1azNCYU9jZ1hkcDYzZU5fX2pzNFZ3QmpSdWZpUldrYjc?oc=5",
+          "published": "Sat, 11 Jul 2026 16:23:52 GMT"
+        },
+        {
+          "title": "Three arrests after man injured in north Belfast stabbing - RTE.ie",
+          "publisher": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10WlhfVUUwOU1DdE1GV3JTZjM1S0drckYtQzhER1ZxZ3dJcG9QWDh5azN2VXBPOFhRZU5memhuWkZRMWdPY21oVUxOLTZVTTNYNVktR1RRd0FUaF9hMk1VUndtSXdhYldUVl9hc0FOdHFXQ3dRdFJYdHkyLUw?oc=5",
+          "published": "Fri, 10 Jul 2026 09:39:51 GMT"
+        },
+        {
+          "title": "Man nearly sucked out of Ryanair plane after window 'detached' mid-flight - The Journal",
+          "publisher": "The Journal",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbDFDTFFmZzNUREJmNjR3REpBcTdNaW5kVkJPc0V3aGgyVzRRTmtYSjNpZ3NBOExCcVJmaXpYNU82N2J5RU8tcGtxUllPeENtR3I3WTJsX0RkWTlzU29XMTJLNjBVZDVTR0hUa0J0NGUtbUp5NjYtNzJONV9GUDdnOGNYVV9vX1NjaFJsbFdB?oc=5",
+          "published": "Fri, 10 Jul 2026 11:19:00 GMT"
+        },
+        {
+          "title": "Police in Tyrone seeking information after petrol bomb was thrown at a house - Highland Radio",
+          "publisher": "Highland Radio",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWnlSOU1CcXAyQ2huLXhUaUl2X3hsLXNGd2pQYy1zRkk5REYzcUE0eTcwMzR5WEVZWUNGZnE3YTJzRGZVZkRZaEFNNko5QWJtU0kwbG1nd0pjMG45SW1LYlRkYm9wMm5aekZ2cDAzQXBUQ0tvaHVPSkFuVkg2bzZNZmtVWTlxeV9wbDROSWNhZ2t5Z3FRYVJwbF9GeEs4ZzFwYlZEcXpDSDlzWlNUZzVpSkNPN08?oc=5",
+          "published": "Sat, 11 Jul 2026 11:14:59 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "Eyewitness photo shows broken window inside Ryanair plane - RTE.ie",
+          "publisher": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56VEVYbzJTSGkxMVhJYk5mMnhTeU9qUjdLdXRLUmlWNk55dEpwSTNabTRUbzI4M1NkWmFqWnZGVl85OTdrenNQbEJmZVRtR2VlVDltOXc3Vl8tMDltdFdIdnh5MEYwVUhRVzdGMjZTSGM?oc=5",
+          "published": "Sat, 11 Jul 2026 17:33:37 GMT"
+        },
+        {
+          "title": "Warning issued as impersonator tries to cash in on TD Pearse Doherty - BreakingNews.ie",
+          "publisher": "BreakingNews.ie",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXU5cFpRQzlFT2JCUUwxQm53WXZDQ2VQVHdkM1ViWUxYOHlMZVFxek9QZGp4V0pCVlFlb05XamFmUmdpbnVsVTBjWFZFeXRFZlFZWEhiRHZTUXJlbHBqMlhVTVhvZW5KQWlhZmlyeXNUY0ZSYjU3a3I0dU9VWDU4bU1Oak1tcUotQXJBbnVIb1NvRzNwZUIxcHhMREJTQ3pPXzhiSHVoMVUycFNBMXRuRU5mZzlOZ3FL?oc=5",
+          "published": "Sat, 11 Jul 2026 16:53:42 GMT"
+        },
+        {
+          "title": "US Bound Flight Diverted To Shannon Airport Following Reports Of Engine Issue - Clare FM",
+          "publisher": "Clare FM",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbEphWkhYa1BGajRHeHFWZkVrTzNKamZwZ0hmelJpRTJqVkRPZXh3NG9FU0p4cnYwTnQyNnk4VHpueXJGM0oySnhTMFNtWkw3c0NNMDl2NW9XLWhJNW1BT2prcHdzWWw3ZkQ2V1VsRDExc3YzVXJBZUZ1QTFOS3I4d2lsNk00MTFjdThGemFrdGNIbk5BT05Hb0Q1NWFGUXJ3eUVuX01yUQ?oc=5",
+          "published": "Sat, 11 Jul 2026 16:08:44 GMT"
+        },
+        {
+          "title": "Letting them fly: My daughter just got her first summer job, I've had to learn to let go - The Journal",
+          "publisher": "The Journal",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHQVRzX19laEEtb3NHWXBHenNNNC1ZbERJS2NRemUzcnBnLWg1WkRlNzBtaC1wZmM5Z2duSnV0Q0x1V081cHlVNEJ6ZXhDb1psT3NnZlRucVZGSlYzN3FrZG40TTU3ZDFiRkRYbkpDTjU1QnZkcWc?oc=5",
+          "published": "Sat, 11 Jul 2026 18:01:00 GMT"
+        },
+        {
+          "title": "Varadkar the star turn as Chinese investors sign up for Great Wall tour at nearly €1,300 each - The Irish Times",
+          "publisher": "The Irish Times",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONDJfdVNkM3pPckFmbmxOejZVWTlXakNJc3JBSWVSbklKbFpoRERaTl9mem1sTkd2VUsxcHZCZzZCXzktU1pNRWdaTzdFNzJYdHNJcjdKd19UclBWVllVbnJVMTlRZzJwZ3c1WGY3cFJkTG1DZUdXMWxfSHQyS1FDbE1kTFhyNG1EUWx0RnVqLXF4R3ZwenVsbFdEYjdFbFZSTE9nclEybUdDRFhGR2hqU2hYUVptUGtSMVY1UTdnWUtmSmtNek9tdlJLWFFMZ25GNUd1Nlh3TEtUZy1RSnVremtGMA?oc=5",
+          "published": "Sat, 11 Jul 2026 05:05:29 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "Live GAA updates: Mayo beat Louth in All-Ireland semi-final; Wicklow win Tailteann Cup - The Irish Times",
+          "publisher": "The Irish Times",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUC1mcXZaRTI5emMwb09rZGx5N213VFBDT3Z4WTVQRHlHT0RhaEY1TW1kNVNiREZoblZ6Yy1fcFJQTVREancxdzZMY2xmaHUtZFRtZUQ2T2lESlJ1LUcwM1JpOHdVYXZSWEVYOWFraDlLTUFXX1FTTEZwUk4wMUFDNzZxWUNRTEpXZ3R6b0F2QXQ1cTFEOHpLMElDOXhxMW1Yc0VfVlliT0pORTl3UXpwR2VSYy1DUQ?oc=5",
+          "published": "Sat, 11 Jul 2026 19:34:26 GMT"
+        },
+        {
+          "title": "Norway vs England World Cup Bet Builder tips, picks and odds - Racing Post",
+          "publisher": "Racing Post",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ043TVc5MFdyQkNYMUFtZzVoeWRCN0JUZ2xmTXRBcnRRY056OWtCVU94SkRPYXpESEZoWWN6S2VyYi1ESUJhajVDcHgtMnhTUS1zYmdFYkJrWDB4aTlMY3g5ak9YYzNUNmVpY2Q4bTVDMFY4UXpPOUh0c0NjWkVQNEN0N3JTYXMtcWJiNF81WEVpTWtZTFhobmFTbnZ4OWNJbUVsdVFWUEM3elVCcjN6YmJoNGJ5aGNFVU9MRFhBczdvZ1FPeFY5SlhFd212bm5N?oc=5",
+          "published": "Sat, 11 Jul 2026 18:59:07 GMT"
+        },
+        {
+          "title": "Wicklow produce stunning comeback to win Tailteann Cup - RTE.ie",
+          "publisher": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSFJJUkFtZlA3a3hRSzdESEt1c0gwaFBsVE5HLXlxLWxzNmtic1Z1WkxWVXFVWXlRc2lmeHNqVjAxNzNxMThfbzVjMFBvQVNpbUt3MHFocDlXaHk1U3Q1b0hLXzR2SGg2RzZtWUVaNGVmbWw0YzM4d3U1SldIZGFkX0xnTlVWWmxpTVNFRXhuenNjbmpLbm9Xb1l4UlBReTdkUElnVlg5VG5GUTQ?oc=5",
+          "published": "Sat, 11 Jul 2026 16:54:33 GMT"
+        },
+        {
+          "title": "What's next for Pico Lopes? Branding experts say World Cup hero has 'critical' few months ahead - The Journal",
+          "publisher": "The Journal",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMkNhRUgzWWg2S3l4MENpa1F0X0Q1T1NwY1R2SzRDa3FneW1lR1BMLUxETWR5VkxGd2haS0NSbVpZTUoxRS1HQXJ1MlgxLWk2ck9ZWC1qd3V6aUxhTE9hOFByeW1YaUxqWkNBaHQ0R0M1VHZGdDhCLTE3MFlXdVZqMTZudW0xcmo1NVdr?oc=5",
+          "published": "Sat, 11 Jul 2026 20:01:00 GMT"
+        },
+        {
+          "title": "Nations Championship: Much-changed Ireland overcome Japan 36-20 as debutants impress - Sky Sports",
+          "publisher": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeVpzQU5pZ3dBNnZzQ0pBQUJwSm1lWjJoNlpZT3g2RjU3Z3RZLVA5QzQxMnpLaUp6UFlwMXBjTGZoa1V2VmIzSWRCSzEwYlB5aTBlQTB1QjgzWTB2QW5tVDY5bU5NLUhBRzdCZlZKaEQ4QXlwQ3pnWkFHczNHVGpCWkVfMUk4RW1ZZWpLSHdSUVhVQjZwdUVZSzR2c0h2Tkc5Rm1YTTM3ZzRueFhDd3dHX0pDR29qQ2VaVXlmeXItOVNYT2V3VkgzTGNmbDhXT1NOYUk4TUZRaGE?oc=5",
+          "published": "Sat, 11 Jul 2026 13:59:47 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "Vocational school 50th anniversary reunion planned - carlow-nationalist.ie",
+          "publisher": "carlow-nationalist.ie",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0l5SjhsUVp2UEVOWFlWWU5YcHV5WFBUTzAzNUpscWItSHU5eFlVb2tOV0tSLWcxUnZLcmFEUjNybGVoZWFQbHplZWh5M2RHNkllbEFINVhaRFVQdllGNjBSbGdsemc3RE1XQWNhMnNpTlYwMy1vZkQwSHA3V09VMk5VVXlNNjlxWVJJM1V6dFZPUnpyYXAxLWJpcWw3dkFVcDVrekxSRllNUHdibTBRNy1hazBQSmc?oc=5",
+          "published": "Sat, 11 Jul 2026 16:27:00 GMT"
+        },
+        {
+          "title": "Killeagh home ‘going for a song’ at €695k - Irish Examiner",
+          "publisher": "Irish Examiner",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84TmJyZmJLdFdmYTBxQjdHdndKb0dzOXQtelNwNjQ0ZW5leU45dk9yaFQzLXBpQ1RBbUNjSDZfR3VZYTdPblNjdFl2S3haTlBnOVkyRV8xMUJwRVNET1d4bl9kNmU0V1o1cnRXQjdiNEdmYm1KSnpobw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:00:00 GMT"
+        },
+        {
+          "title": "Planning permission granted to complete 14 houses in Palatine - carlow-nationalist.ie",
+          "publisher": "carlow-nationalist.ie",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYjdUOVJFY0p2M2JfdkpaTXEyeHlrU0ZWcGhFZ00xeVRiQndEclgtQ2RzQzc0U21JTzRuYVRlb055MzBQSi1rLXRSLUEzOGh3ZVhhOWlqNDIyYm01VG10YkdGRzNyeXVzZEhIQkl5QUZZVWVPdzFxV2tPTEVfS21GUGFPUkQxbENuXzlHejFXS21HMXpUQTE0ekRZdG5OT3ZUVGxoRWc0VEpBR3Y3eUNtRUZseDVUbW5YV01ZY0Q1X1VCTWVjenBrUXp0UXdMRHJFU3c?oc=5",
+          "published": "Sat, 11 Jul 2026 14:19:00 GMT"
+        },
+        {
+          "title": "Inside Estuary Ridge, Kinsale's new €950k luxury homes overlooking the estuary - Irish Examiner",
+          "publisher": "Irish Examiner",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04S0tpc1BsTXlJaHVLX3BMUEdJTklOT1BtUzl1cGxCdGFqYWFzMXhzSjdKWmgtS2VXSnhFWVJQTWFsNnptUHo0OUdzM1NueEg5d1R6dlNiRS1yM2pNbmRtNHpyMzVfVEdGMTJ4UWZMWmY5a3lJR01rVw?oc=5",
+          "published": "Sat, 11 Jul 2026 12:00:00 GMT"
+        },
+        {
+          "title": "Viral outbreak forces temporary closure of An Cat Dubh Sanctuary - Clare Echo",
+          "publisher": "Clare Echo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmxwNDFqUUVrRjJ4emRBRlZid2UtR2dmVkFuMFNZOXd1bkJCWFI0MEZjcGdTckttdFNUalJqWkpKSGhFZlR6V2JVVURPUl9MclR6b09lS3BtLURjMnhUV041QkVlTlI3eVl3QmUxakZCV1hrcDNzcWRiSVZjSUlRSmN5MlhBMDc4cnZIc1JYSi16aHdY?oc=5",
+          "published": "Sat, 11 Jul 2026 13:50:31 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+        },
+        {
+          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "publisher": "Business and Investment Development Agency - CzechInvest",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+        },
+        {
+          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
+          "publisher": "KTLA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+        },
+        {
+          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
+          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
+        },
+        {
+          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
+          "publisher": "KSL.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
+          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
+        },
+        {
+          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
+          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
+          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+        }
+      ]
     }
   ]
 }

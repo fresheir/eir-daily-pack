@@ -1,43 +1,260 @@
 {
   "market": "SG",
-  "generatedAt": "2026-07-11T00:25:51.947463Z",
+  "generatedAt": "2026-07-11T22:46:15.159921Z",
   "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Ex-SIA stewardess dies after slipping on wet tactile paving and undergoing surgery: ‘A life well lived, albeit too short’ - Stomp",
+          "publisher": "Stomp",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYklQZklTOVFnS3JSTXJqVzh6QzRlV0ExbTdzWUhoSTZldnNVVUs0LUlZNUNGZi1CSkgtUFhsOUs1UzZpZ2hZbnl6MU9CQm1xajI5UTFYTjRNUUt5MUNlbVBKNVRHWkowTUg4RGtDaE5SWTA1OVBabVVwRG5DSkNDWF9GTW5sNHhfc0I4ak41TWJSMVR0ang1RFhsUmNNdWNkUnl3b05ILUlBWlJjdVRHNmd2TDEwRWNzRHpFN0JQbHV2dzhGWWNQUA?oc=5",
+          "published": "Sat, 11 Jul 2026 11:23:03 GMT"
+        },
+        {
+          "title": "Crackdown on scam and unlicensed moneylending - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcFp5aEFxalI2VnhET0poUHNLN2lYN3VrSDRFTVhpM1R4LTUzOHBNMHh0M1E1MVN5bVp3dmdrenEyWG9VWlpoLVBWU2gxLTI3MnZaMXhaRkkwYlFVUEZWWkVDaWlJdi1TX3E4MkNBSlVIMERpOGVydnJRV1ZKZk41UGx1M3dZQ3pBY3h4R296VkpVSExkTGNnMUNKM05IN0FSbDlHUmxHdVRZSjNHaWNkcndaYkxGemM1TTZGUjdB?oc=5",
+          "published": "Fri, 10 Jul 2026 14:40:00 GMT"
+        },
+        {
+          "title": "Two workers taken to hospital after fire breaks out in manhole in Tuas - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkZlVXpiX0hVbW9CT2tNenhtUUhKU2VlbHpMNDloQk1sRm5MbUwtSGFOczBSQnZqa212UGhrbEJSTjNBd3Z5b24wb2JmVHVFeHRhQmJ5V1Z4WkZPdkQ2UnN4OTRicnhxLTNmRHMtTFlPd2pZcDNtNmh6amFHdHhqeEF6WUtPNnRKcVlmdGJXc3JZbzdfOXJfdHhBUHdIbmpxME1aSGMySlM5RnNUeVE?oc=5",
+          "published": "Sat, 11 Jul 2026 10:05:00 GMT"
+        },
+        {
+          "title": "Teen cyclist trapped under car in Jurong East accident - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZGk5aGoyVHlfUkJDekphYkpaZGs5NERFcWRBeWRVYUJLaDgxeFQ3cENuY3hOek5ITTJJRHlneDduLWpIenNva19tWXNURFN6NElYc1RsX1ZxQlhEa3VNbDFyNldDN0x6aEZ2ek1LQkZ6NnRCcFJXYi03d2RWeFBBa0FQRmhPV2FhQTB5LVYxaFNGc045R2FqN0FhNmN2cHdjSXc5MnhtUkV2LS15dnRUX2p3VWV3Y21HVGJNcHRVdWZEdk5oRC14eFlxWXk?oc=5",
+          "published": "Sat, 11 Jul 2026 14:00:00 GMT"
+        },
+        {
+          "title": "'If I see it, I will catch it': Vigilante retiree who photographs and reports offences irks Tampines residents - AsiaOne",
+          "publisher": "AsiaOne",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZDJEMWtmZ2xOOVV0MHBFTVVpT3Z2QTFfYnpoUHYyeXFoYl82U0twczNoUnpwWXVrR29SWU1rdUpDanRSem1pVzRwU0txamp2X194aW1RSVk0SlliVzVrR2FLWHdSOHFnR2xKZWlWQ1ZybDRDbzg4U0hVVnJoSUYyWUt6eGlLa0xDNDllZEhQR2J4UUk?oc=5",
+          "published": "Fri, 10 Jul 2026 13:00:00 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Typhoon Bavi: Shanghai, Hangzhou brace as nearby cities start evacuations - South China Morning Post",
+          "publisher": "South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV3lKZ0ZLdVVvVUVNWS05b0RpSktPdHdhU3BXaEo2WDg0R2VlOTMxeEJSeWZ3YzJhTkpXMWg5VFp3dzRZOFNOMmFYS2tPaGV0c2R5bVhWTm1HTENZRG1xSFp0NTJZRk82dmxEMk8zMmVTaEpXR1M3SS1oTUNzR05lZEQtSW9GLUNMV2ktWFRpc2gzLWZscWtuMW8tSGE4MkRUT09JUFFwc2RocWNRY0t2enNhVXRLOWkxYkY2ODRnN09Vakd1ek5UY3RNY0pIQdIBzgFBVV95cUxQSEc1WlU3c2JLQ0syOUlhTFNINHpfYUY1VU5RNjdvX0g0NktVSTMyUjZ2amx6ZjV4MUhWRG56ZURzcVRHd0xMejZtN0xBbUZNVnV0SmtHcUJFQkpMNHdKXzV5bER4M1N6UldJTkdUYzFDcVcyaVVqSlgtY05CLWh2V3lwX0FwZnJKUmNuYzUzTW1yY2c2REduUXF2WURibGFqeFNiVV9zMXhrN2VIdl9KWmstY2k1RTl3cHBKSXZaVkhiTGQ2M2pRVnQwbUFzZw?oc=5",
+          "published": "Sat, 11 Jul 2026 02:39:36 GMT"
+        },
+        {
+          "title": "Johor polls: BN sweeps 48 of 56 seats as PM Anwar’s PH cedes ground in southern state - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN2lDYlF4UkVMWnctRWpvME1yZ1lZX29rcWR1c0R1NzdvdzNrNWZ6VmZSRWZGelVRaHBTak9DRjZDNEFrSWFBX3FBSk9mTDNOdWJlRFNVUTlUWFBVS28xUXpRaXRfY1FjWXJYNDlVWlFJcWUtUXlmZVl2eC0tdkJ3WVIyNnBORzNPdVUzRzd4bk5vaWJX?oc=5",
+          "published": "Sat, 11 Jul 2026 15:13:00 GMT"
+        },
+        {
+          "title": "Japan heatwave: Extreme temperatures rise - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT1hqamxYcGtJeFRQM1AzUXdJS0NrM05ybGNjYVQ3OFlHU1pTOGh6Q19YNE5Ga0t5TjdFVWNxZ2NaUVNJM1FiRXJjQWN3cTkzN3Z2WF82RUIzdWFWV0ljdXBvX19JVjMwUXIyTHB5Yl9wWlBpTmpYSy16ai04eWhrU2FzMWppREpCSUxkM0lXOVZnV01OZndRZTNFbXYwekFLTE5XNnJfMEhOYUVRZlVsR1RPbTZ6TlJiNGN3MWdB?oc=5",
+          "published": "Sat, 11 Jul 2026 11:50:36 GMT"
+        },
+        {
+          "title": "Trump says US agreed to Iran’s request to continue talks, but ceasefire is over - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEFRa1l1c1VWd3pLVGc1dTZyMmZlMWY3Nml0aUxDeDhyRkNCZGU5N2lxSzVqSlZSSlhmVTZRTm9QZlhzazB2M0xqQ291eTdXdjlkLWxva3NIQUQtdlZsXzhVTXpwRWJsaTFULTFwX3RGM0hMOHhaTUItc1hUM0NsMC1MbTdIT29FNEo4M1kySjZrb1huZzdmQ0ZEOC1YRWRKYVJnS2pabV9uZ1hiSm96dGlybw?oc=5",
+          "published": "Fri, 10 Jul 2026 12:06:33 GMT"
+        },
+        {
+          "title": "\"Our seabass industry is dying\": Malaysian farmers caught in Thailand export crisis - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX2QtRGRsZjdjNUd2RWFlWXB5VXFLVkxiZjBnZ2xCRFlDRktFN1owM0NNRk1Sc0lsSHdvZmVWb2pmZWtfYzdVVXhXX1JPUFBUS1U1em1BcVZuX3h0Y2paejQzMDB3VnBhYnhxZF9UYjhDSFJDSzc5SFAtd2FxLTFjNk9vNnEwbldDX2pPdUZWcmdUSUcxRVdUVnhtSmx4WlYtRHhjMHZUOFVDcEgwNFJybEstV19ScTJFb0lmVk9JTTRGUmVUbmZ2RHR6aW5Jckk?oc=5",
+          "published": "Sat, 11 Jul 2026 06:00:00 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "SK hynix: From near collapse to AI chip powerhouse behind record US listing - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEpOak9kbWctcWM2NTl3UXozT0ZuSHNYR3NhS2I0Wll4REJSQ1pZRERzMTNCU2VianpNSWxIbEMwR0QxU29UR09oWVFWTE5Hbm44S3R3T01OVlpuV1d0cmw3Nm9LSEt1YXpYS0diYWJhRjJCZDFzYnBueHZKREFSeFI4VnZwbGo0SGYwNDZtSl9RaFJ1S0E?oc=5",
+          "published": "Fri, 10 Jul 2026 22:01:00 GMT"
+        },
+        {
+          "title": "Matcha, beef rendang and Japanese pasta: 15 eats to try at Circle Line’s new stations - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa25OeGFoeUJPaVBLSkJIc2c0RFVVNEQtbmVPWVhYTW9idFBTVVN6REs1RC1teDVBYWwwbk5vM1ItVGVjSW1QR1ZPRU5zZkt0WjFZWGxWajQtdTVPUUZJSzVNTHJCeWRJUmV6ZFdxQUtZdi1Sa3FIM0pMcVc2dTRTcmpFdUlPTmQ0aDBRT2NMSkNWRnRIaV9EY2tqbVRXNjM2emVpZWJHeTFQdUtLM2UwYnRyTE1mZER5NFBwZFBMcWhLNW9VTEl6OFRmX1k?oc=5",
+          "published": "Sat, 11 Jul 2026 01:20:00 GMT"
+        },
+        {
+          "title": "$3 off eggs and rice for DBS, POSB cardholders every Saturday at Sheng Siong, Giant from July 18 - AsiaOne",
+          "publisher": "AsiaOne",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0hIU0JRbmpHaC1UYVpiN1IzaXpVT3N2VjZOOUctRVVFUmdnMk9HLWJvaFRlck1XZzdER3ZkZ1NPVzdyY3M2SjQ0YUpaTGVsc1U2SkxHTFR3bzRsSy1rREpmMmE0NU9kanZxR2NnVzliMW9jU3RnRDlzblZDaThzck9objdhd2Z3ZWJ5Wg?oc=5",
+          "published": "Fri, 10 Jul 2026 07:02:43 GMT"
+        },
+        {
+          "title": "Changi Airport opens new building with aerobridges for flights parked away from terminals - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQTkxTjNyZHFFR1ZaQm1TaWdKRzlDcTAxSUdBMmdZTWEyWlpYemx4enBjdFhyZDVFWFRaaVF6X1VYTHRmVUotUXI2aU03Tm5WR1h4WUJ4NzRVM2p1eEVVMkZHRzU0S05WejBqY0RDcllTdDdaRzFFMGVKcm1Fa1RfYm84a1RUd194Tk5hY3lXdHBPZkpNN1ZQc0JwdlNyNlZ1ZjdNemxiVUhJOU9BYlE?oc=5",
+          "published": "Fri, 10 Jul 2026 10:00:00 GMT"
+        },
+        {
+          "title": "Tencent leads deal to unwind Meta’s $2bn Manus acquisition - Financial Times",
+          "publisher": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPell3MmplZE1Zb2V2cTA1azE1Qm9TVmN4Tml6SUZNcEVSRGlVUXFISm1jY2hobUtiX0paMm1mV0lSY1pWdWVEUmxMU2xLOGt5X1V4YTl2N1R3Mm1xSnYzNjZBZHdJOTJHWE9iVG9fRkN0TURHOUVVM0w5WXJXS0pEcWROVGw?oc=5",
+          "published": "Fri, 10 Jul 2026 02:52:48 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "World Cup live updates: Norway take on England in quarterfinal clash - ESPN Singapore",
+          "publisher": "ESPN Singapore",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0oteG0yU3NjR2d3STN3TlZXUVB2YjVXN1hEZEl2akt0Z0xXblBmOS1pVDRiQ3prQ3ZqN3dVd21tMVo5OEl6b3N3c3N5ckw4MDFlbndvbzVndTRQbWRsRzRISjhjYnJRY2pzb2R2cC1OaGt2ai1zM0pSLVIxOEkzbmswTjF2cGJzekFCeExZSkxuN3JjcjNmOHJ2UTJoMHowWk1BVFVlb010LTNSLVVrMEJn?oc=5",
+          "published": "Sat, 11 Jul 2026 20:48:45 GMT"
+        },
+        {
+          "title": "South Africa midfielder Jayden Adams dies at age 25, weeks after World Cup appearance - ESPN Singapore",
+          "publisher": "ESPN Singapore",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSGxEUksta1ZsMHNGcTRzY0NtcGJaZlhpMXFweU5Ic1B0TGRyVUo1ZU9PMVhVcVE2aEpvYUdabFBZSXBTekNkY1BFV2s3SmJtZUJGYnRVTU5OM195SFBxVlloN2wwQThmdUxZeW93andrbkl6VmRXenJkWTg4TnBNUzhtTXRHZlpTSzR0LVI0Y0wxSWF0d1FyNWNmZDRYcmFSeTZ4VnN3R3hMOGdkaFNVeU1vaU1WbWswaWFVMTZTc0VxeU5XMEE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:11:15 GMT"
+        },
+        {
+          "title": "Magic Merino strikes again as Spain down Belgium to reach World Cup semis - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHg2em9Lc2ZPM3ZYOHBuaVZsQ2l0cExnOW1oYlJJbHprbklOSTNtUFlMV21ZYjhwcDBFcV9KN2cwRDlmOEY4S0h2dUtYZGluV1NCZWx1ZkVEQ2t6dDVvaXZXdjlmdnQ2VEtVMUtocU9GeWlOdG0wX29EVzdhWWtJbTN6VXVDY3V5RGF1Tlg1VnJrTFRUQ3VSRXJZRElnUTE3bkNaMWF5VjM1VXZGT3E1dFh1Yw?oc=5",
+          "published": "Fri, 10 Jul 2026 23:22:00 GMT"
+        },
+        {
+          "title": "Jorge Jesus named Portugal coach, would welcome Cristiano Ronaldo back - ESPN Singapore",
+          "publisher": "ESPN Singapore",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNkVFOFFNem05NmNiTVozVWZUVHRtQWFuY01oZ0NfUmdhck9QaVA2VmNKc0xtenF0aEpuX0doejIzYjRWcm8weC03Tm5SMVRIY0s4TVphV00zejNqOHBxeDF5eGx3ZWczU2ttYmoydVRabGZaQTJEMzk5aXIxZ2tnQnpMVnVaVHp4VEN6ZXM0QTFmdG8yTjFaS3hqSm1DZw?oc=5",
+          "published": "Sat, 11 Jul 2026 00:22:33 GMT"
+        },
+        {
+          "title": "'Night and day': Difficult to draw footballing parallels between Cape Verde and Singapore, say experts - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDlCc1p5SG5sZWJRSmhCcl9iYTh2a19Qd1BYcFFDWlV1b0RzbmpSX1MybkFQUXpaWWxWNVpNRXpuOTFTTnVFdWlRYzA3Sl83ekZzbnRxYWVEaWo4S1hpUGlRTVl0QXJ2R3VYam53YkUtdk04QTNpRjhGMVdXNVlkdjhCQk51TjczX0hPamVzVmxfQ3JjVlphV2hyRVk5QQ?oc=5",
+          "published": "Fri, 10 Jul 2026 03:10:00 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "10 best camera apps for film & digital effects - Yahoo Lifestyle Singapore",
+          "publisher": "Yahoo Lifestyle Singapore",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oQ25HcGZ4ZTd2UlFnMzA5WDA3TDZ5RW5jTkhncjVmcFpOa3ZjQzk4UVZaM19TRENkS3hwWm5LTzExTDVKM0JhVmU3LTM5UVZPNVBuM1Q0bnlFTFZFWUpPVmhJSDJxcmFMbDh1UEdEU1BZb1pF?oc=5",
+          "published": "Sat, 11 Jul 2026 08:00:21 GMT"
+        },
+        {
+          "title": "Jacob & Co. Goes Minimal with the Astronomia Régulateur - Revolution Watch",
+          "publisher": "Revolution Watch",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONExYY1AyLU1zMXYxV2ZoYmtVUXoyZUM3OG9SVzItTDVkNlBRTVNmMTdHdHlkVXBqOGxMWmE5Tm1LNWt1SXUySnhmRlZTMGVHT1IyWHpRUWhmWHoyOURRdlBGSkNyMlZWbldoOGlXM0tZa0RlUFhGX1g3aEJhdDJJb1gwOWdLS3df?oc=5",
+          "published": "Fri, 10 Jul 2026 07:02:25 GMT"
+        },
+        {
+          "title": "ASUS ROG Gjallar Gaming Desktop Soundbar - microwire.info",
+          "publisher": "microwire.info",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzdWt6bldjR2loOW0wdzBoMEU4YUNkTHE4c1ZMOXRMNTFVRDFhM0V1dEMxcl9VaHp4VmFqUjR0NlN5UktyRENIOE9RTEpscEEtYmFHeFN0ckxCSlE4T3lMS0NmOTBWQ0J0amtPdFVUU0dHQQ?oc=5",
+          "published": "Fri, 10 Jul 2026 12:01:40 GMT"
+        },
+        {
+          "title": "In-Depth: The Urban Jürgensen UJ-1 Tourbillon, a Pocket Watch Masterpiece Reborn for the Wrist - Monochrome Watches",
+          "publisher": "Monochrome Watches",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjhjNkVZaGw2c3Y2WmJKMzdaYkU5WVZNa1dKa0FGX0dJUlgxai14Rmw3NHNVWkNCNm9mamJSUUNFeUlVN3VtbjdHd0oxVmFYZGNzUXJ0VzhqeG1OUUNQcW9VU0htRnJfTFdNN2k4NmFWQUhwaS1JNS1pVHNha1RtR3lkZlNITUU0Z1NEdGdjSjZVRmtVZ2oxSGpGLXF3X1Q2OG1zNDlOTXE?oc=5",
+          "published": "Fri, 10 Jul 2026 16:30:20 GMT"
+        },
+        {
+          "title": "Microsoft laid off id Software employees, and John Carmack’s response is hitting a nerve - Windows Central",
+          "publisher": "Windows Central",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQM0tYQlZPRzNXRng2M3NXcWR0M3VNTlQ4M1U4YjIyTDdrTzVqUzB3Y2NyR3pMMFAyZTFfVGY1SDJPY2hKOFpnbHIwb0VNOUlpbEs3eGluSFFaWEdPWWJva0dYWUtmVkN3QnZRbmdhNXBtMTVDLW5aZExkQzR0bU02S183dnJBRk1vTW9haTZSQXFBajh2WDlpS0ZMS3VUUXdZWk50MzlSV1lyVVpkaG92NmxwVTVvbGhMaWM3RXU3Y0tkWTA0TXlhLVFBWDh0dUY2SlJ2bElZUGw1ZldNcjN3UkZCdlJ6VVppeHdDcEdpQ0RRTWF2VXlXdlppa05iRXZlQmhnWW9YeGcyUllPRTkyRzZTMThtQQ?oc=5",
+          "published": "Sat, 11 Jul 2026 12:35:54 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+        },
+        {
+          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "publisher": "Business and Investment Development Agency - CzechInvest",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+        },
+        {
+          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
+          "publisher": "KTLA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+        },
+        {
+          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
+          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
+        },
+        {
+          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
+          "publisher": "KSL.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
+          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
+        },
+        {
+          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
+          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
+          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+        }
+      ]
     }
   ]
 }

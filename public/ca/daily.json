@@ -1,43 +1,260 @@
 {
   "market": "CA",
-  "generatedAt": "2026-07-10T23:09:12.898543Z",
-  "validForDate": "2026-07-10",
+  "generatedAt": "2026-07-11T22:45:03.840005Z",
+  "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Delayed Gordie Howe International Bridge to open at end of July, Canada to forgo revenue - BNN Bloomberg",
+          "publisher": "BNN Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVlpGdGI5UTRza3BiM0ZQT3lsbXMyVkhORUdfQWIxbF84MklUNldzZVlMUGtESlZ6WFdUY3JsbUpnX3ZNSjhxNzZqYVRvWm1pd2dyMzl5bW53Z2FsQUFnaVB0M0duS0dRUktoaENtZG5IZkJDUW1DWFIxVDVHcVJUSjR5Y2hWZnBHVW5CZWgwbHdWNThaV3RYaXF6RDBMYzRzeHI0d2FTb2ZlTDl6aFNjWW5ZdTdEUDR6VnJsTWI5amFVbFliOGVlbHVLMA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:44:33 GMT"
+        },
+        {
+          "title": "Veteran pilot killed fighting N.W.T. wildfire was a trusted leader and patient mentor - Castanet",
+          "publisher": "Castanet",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUGhoZ2dTdDdIcWx0ZVZzWlpMWHpYTkhIcEpLRTUtSmpaOS1jQ0w5MmNmS2hrUXFScy1wdUVTVU9DamZJclE0ZU1BVlpOcVpPVGJMMlRtTGdEUHM1SmNBWExKRi1JNEc1TEozSTlscXZPczZ6bmlwWXh2UmFCSVBJakNjQ2ZpMTQ3WTBaa2gtbUhudlZ6aHdsTk5ZcnBXTHpfakRJYVh0cW1nMDB2TkdZVFdacjhCcEE3VU85d0FuQVZRQXZTTEVR?oc=5",
+          "published": "Sat, 11 Jul 2026 16:55:00 GMT"
+        },
+        {
+          "title": "Highway 1 reopens in Fraser Canyon, but twin wildfires remain out of control - CBC",
+          "publisher": "CBC",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTBsNlF0OGN5WVRpX3NXUmpUbmlhZTFROUlCaXBNZGZoSHhXRkdHTnRMVjlPNHFoT21PMXNuOEM4MmhZZDF3cVBuTHFEOXdxdG9QN09ObHBRYjl5T0NNZEZ3NWxzeTJkWlBpcjhraDN1TUxwM0o0VXkzTDM5STJxd0xxYldwZEhnaXlEQzNUdUpTOEdPNHRvLXpHR20?oc=5",
+          "published": "Sat, 11 Jul 2026 19:49:41 GMT"
+        },
+        {
+          "title": "Canada Day storm a 1 in 200-year weather event with 167 mm of rain in some areas: City of Ottawa - CTV News",
+          "publisher": "CTV News",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUTF4OUMxWGNXYWFHRnZNN0RiSVQtc0FMTVZzTUp3dzJnMU9SM3FXMlJjbGwxNFRFdXkzeHNFOXkxcDQ5VmFpSFJjdm1nTVk3elVzX3V6OHlEZHQwcy1sdzZ1d0ZxeDNBOVpwMDRKbGphdXhybzZPbXNOMG5YMFhJMHZ1b182eGlXTVhPelA5QkMxN1dzcE81UGJEQkh4NHVBcFRaelJoZGtkaVBFMUIwQk9TUFJud3FER000TmtPbnY4YVVid3ZlZlZ0YWVXNnM?oc=5",
+          "published": "Sat, 11 Jul 2026 21:51:03 GMT"
+        },
+        {
+          "title": "One dead, several others injured after shooting in North York - CP24",
+          "publisher": "CP24",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeDhaRjRNWmFJaWJQbHMxRUVTVGphTXY1QkQ2V1BIbEpXdVBTaFJXZ1VOTkZvU1pieFBiTVpLb1E0b1Fxc0RqLXZiTFV4cmZaUWZuNTlWUUctTGNsWEEtZ2lKS3Z0TXF1enlzSHVEYWl1NURFTWxvSXZqaVVFRVA1RmVKUDh2SHlWY1NjcXlNUEJXa0tReFNDRWpncUV1TmllcG41a2NsOEVYVXc?oc=5",
+          "published": "Sat, 11 Jul 2026 14:14:19 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Trump threatens to 'decimate' Iran, a day after saying talks back on - Euronews.com",
+          "publisher": "Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjR2RHlTZjZHbzJfV0xyZnd6ZURqdFB3MDVmMlNtWVlNdHQ2MTJ4SnBGdmtqUzRaZUhmUktZRE9QN1FFOGlhMlFPQi1NZXZpb0liNGhCWFRhNFFWZjFXU3hYQ0phNXIzVEQzMFFXc3ZoNTl0anc2MjhOUC12THlPcDVSakNZaDBsaFdfSEUxekZUSXFwSlh5SFZNeDkxeW9tTFo1aVo5V1VDeWNhcWZNODlvOW8?oc=5",
+          "published": "Sat, 11 Jul 2026 09:41:46 GMT"
+        },
+        {
+          "title": "Typhoon Bavi makes landfall in China after brushing past Taiwan, belting southern Japan - CBC",
+          "publisher": "CBC",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5akd4aVdRVVNLRElON05VcC1Gb0NGTTVkbzJyN25YTVl1eXNwdzdlaXp4Nnh5aXZJSkJ5MHMwdDRKclB5c0JNTzIwLTNSWE44ZFhIYU8tdE5GX2JKQ3BYY0JWQ19tQmZTN1pQMUFtNjc2cDZuUU9LZnF3?oc=5",
+          "published": "Sat, 11 Jul 2026 17:06:42 GMT"
+        },
+        {
+          "title": "New York Times: Reporters subpoenaed for Air Force One reporting - CTV News",
+          "publisher": "CTV News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGgxX0swOGwzYWotb09xRmFnWVF2anFRdGdrQTRXX2ZMWEllSDVZNVIzc0VReFBCOUpuRk5xUlZyVi11QVRHS2JlaWtPM0R2M3p6eXo2dUtsdGY0QlVwaXBMYlZuMGtfYXJqRDZXNnZBX2RLV3hGR2s4YlhPV21hdXViWU13RDNBNUkya3JLSF80NVRYMlVlYXpnNl9WUVZRQjNyQ19Zdm5iSzg5TkdnWHNxaTdaX3ZtUktScGJ2WQ?oc=5",
+          "published": "Sat, 11 Jul 2026 12:20:33 GMT"
+        },
+        {
+          "title": "In written message, Mojtaba Khamenei said to vow revenge for slain father will come ‘soon’ - The Times of Israel",
+          "publisher": "The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3AzejdHTDlFNkRLSjhQZjVmNnRVQ3NNR2hLM0NQbV96SWZ3NkJvV3BUdDdTVlJmYUVEX0VqUUdCYVFsQTJGN0ZUY01kem9XQXJnanM3Y3U5VFh2emU3a0lUU3NqZWs5SmpZZ0pWdi0taElhVmZvYmdWd3ptTmVORm5iT3lMT2JWODROWEdZcWN6V2c1dWFobm9ybXI4T2l0bjJ0bVJpMF81eGZGdjRBV9IBtgFBVV95cUxOYno1UGdrY1BKY2NSaS1ibUxFUmRPVWlLRDBrZm9adFFRWnRxUk52U2RfaS1CdU5qUnl6bXJjd2toa1VHc3BjVFZ2elg4SmE4VzhYOVhwMElmeDFHTk02TkxVdVZUNkFHUjctOEl4MV8wbndKa3JXQXBNYkZMUXVIMlRpVXRSbW9DQ2JjOVlUNW9VdGNDZHBZZk1hVmFLbUJjSllyNzZyVEhPZFB2aV9IY0l1NHlrZw?oc=5",
+          "published": "Sat, 11 Jul 2026 13:27:25 GMT"
+        },
+        {
+          "title": "Trump refuses to sign housing bill, but measure can become law without his signature - The Globe and Mail",
+          "publisher": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0R4QTRFMFVRWU1BUVRJM1ZXd1FHTnBxTjFXang3OF9uX2Y5YTZLT0trdDRqMG44c3FUSkxRQUpobmI5Rk9SaEI2NjB4dmtjRnF1N19kYTFHZUNSelpYRFNCcVhiNXcxaEFHUklHeTQxMTkybkZ1NFpTc1RpUUc0bGUwaVA3ZnRISGFMVWtNc25HZGh4T1dwejhibjVIOTk5M3FRNg?oc=5",
+          "published": "Fri, 10 Jul 2026 16:02:09 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "The Public Got So Mad at Meta’s New AI Photo Tool That It’s Scrapped Already - Gizmodo",
+          "publisher": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdlp0R3Zhc3dMR1QwOE0xcUx6VDl4b00zejVZQmo2RUV6SzFNSjdqV2M1STZYa2l1QXNpakZ5Wk9Qamt6WUhKa2JSN1FJS29lU08yS2xKQVJTV1Z6VGpVbmpaTlRHYXZQN000dXR0M0NvN3ZyMk9lQWpXOHFIZjhQMjhDc1BIQk9jMG9sbllYSk1lYXpVMDQxaDlaN0RXM1Y2aG5ZMWZqVG4?oc=5",
+          "published": "Sat, 11 Jul 2026 18:11:08 GMT"
+        },
+        {
+          "title": "Alberta premier offers reassurances on massive Meta data centre during radio show - CTV News",
+          "publisher": "CTV News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWF9oYXE2U19hakFNV1FydHVkd1NPVFYxNjUtci1kY2dGR1I1WkVkRFFvWk1PXzJKV2xtSTM3UVdOR3d0NkFweFZWLXREdVdZWlh2SFRLV083cHFkeFNfQnVzSDdXbmtPd0lTcm42ekJ4VkRDWHNnZUNuekp3NXJjMHFKQzNBQTBLUk1rMi1GaHczTm9QWFNWVzhwRmt2SHNwSlRjdGtOQTBxdFNqZGpxVXhFNVQyMFlpcEtrN2VQZw?oc=5",
+          "published": "Sat, 11 Jul 2026 18:15:54 GMT"
+        },
+        {
+          "title": "How SK Hynix just pulled off the second-largest U.S. share sale by quietly powering the AI boom - Yahoo Finance",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQjZSYnM1VjBKY1B6bmMyR250VlNOeHB3cHpJTTBfaFFhbkZIVGRod2Rxb09MNXNqOHJnbDVQQWh6YzhOOHJfbEFieGZUcUd5WGVFWVpMRlR0NjBwbFVFOExEX09jVU1HNkVhd2FELXFXOHhtMTVHdFFNX0J3T1l0OUxaUWtBOC1ra3M3LW90ekY5dw?oc=5",
+          "published": "Sat, 11 Jul 2026 09:00:00 GMT"
+        },
+        {
+          "title": "Unemployment Rate Drops in Newfoundland and Labrador - VOCM",
+          "publisher": "VOCM",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUG5yaHFOM05fTk9OblVHcFN0MTNybG8zTUpHZkVSVThKbHZSY0NUZFU2Q1JZbTRWZ1AtSG5FSjZCT2hwTWRuVkZ3QXVPWS1LSFZkdE5vc2NCWXU5SEw2bHFkTVJCbnhWNDJhSUtWTU9vZ3piZk9Fd3NEQVJzZ0tjdElKTmhzc2M3?oc=5",
+          "published": "Fri, 10 Jul 2026 18:03:00 GMT"
+        },
+        {
+          "title": "Métis Federation buys former research council buildings in Winnipeg, eyes bid for Fort Garry Hotel - CBC",
+          "publisher": "CBC",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVVtUVAyTElJRF9HZXJ3TTU4LVdtYzJOa1gwRFkzU24tTmFpdmluUWNOSzBsUGpZWHVpMGNRN25ELWdJcFYyRkNPZUlINnVUZE5ZbXVJS1ktRXEtT05uTlBxV3JTemJkM21yRVZPQkFDcXFfRW1LVDgyQkJLYUNlNDhhZHVBVmxJNkU4dDFjU2lnWnkybF9UaGxvaw?oc=5",
+          "published": "Fri, 10 Jul 2026 18:15:32 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "South Africa World Cup midfielder Jayden Adams dies - The Globe and Mail",
+          "publisher": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYm5XNXdXaXZtaXNLOUhjbGdCdGpBSnk3bzFocjlsMXBjbzRGbjBDTWZVOFdrWjNOaHVqRWRfbUNjLXRoNkQ4MWQ3N3RjUWt1aGR5b2NrbXdpS0gzUkkxd2xZUUd2UGR0Qm03djlXYk5DMmR6U1YtczYzLXlHZC1kVTR6M1ZrakVZMTNRbWVrZmE4TGdIV055R2dqMEc4U1MwczRyQXVfMVliUQ?oc=5",
+          "published": "Sat, 11 Jul 2026 18:41:37 GMT"
+        },
+        {
+          "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 11 - Mashable",
+          "publisher": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTTZFbGpTNy1SZWMyN016SnhaY3V6ZU9ENVVzUGpPLW80WTFtZFpUY21iM1JWNGJYQW05alVUVHY4a3FOaHVZMlBNbTVaSVZIS1ljNnBUTTR3SHVVd3dJdHVQeU9xOW45QjJuZDlJWmNsMW0xQVJ4Z1RkVlBKa1FaX2FZclZ0MS1UdmlOcmEtM19EMEEzdVE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:29:43 GMT"
+        },
+        {
+          "title": "Tempo fall to Wings in Montreal, set WNBA attendance record - Sportsnet.ca",
+          "publisher": "Sportsnet.ca",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbGwxRUgtbDBsUUlnQzlxNWQya3hjYUktcHZta2ZGdHJWODRoOUdOaXN5TGo5OVo2RnZxdVVMNDV1eHNtS1paSFFweGwzT3RIbGhSUnhibVMzUmJGdXJQZFczeEFlV1hrODJzQzZlSXluTVFqdDJDNmFYV21MU3ZkZWRXT19pSmgwWlg4TndjZ3FlTlU?oc=5",
+          "published": "Sat, 11 Jul 2026 15:28:00 GMT"
+        },
+        {
+          "title": "Time Trials Set to Begin This Morning at Quidi Vidi - VOCM",
+          "publisher": "VOCM",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14aFZOSUlrUWdDeWx6RE12bWRPS2RmVHBEeUR4aXhUdjRkTUsxa3VNTmR1MDl4QVkyMlNBYnVLYTM4TnY5RWpBU21naw?oc=5",
+          "published": "Sat, 11 Jul 2026 10:24:00 GMT"
+        },
+        {
+          "title": "White Sox select top UCLA shortstop Cholowsky with No. 1 pick in MLB draft - TSN",
+          "publisher": "TSN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkVJR0tUU01rTzBKbzVkSXdWS2hEMUdXcDJrQlRCMUJWR3lVcjNhUHFmUUFoOGozSTdFUUw1Wk42b05ZUXp5YWhuaDAtS0Rfcnh3U09ESUZoZzlqZGwwZklBWVpudDF1T3FBNXpCZWtldGxwLWRKTDg0d08ycVI4YVYwYTdSeVpQYkk0QmhaUGlPTW10VFNoNDNiZWZiLUlCNEdR?oc=5",
+          "published": "Sat, 11 Jul 2026 17:53:47 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "WordPress 7.0 Ships with AI Foundations in Core, a Modernized Admin, and New Design Tools - infoq.com",
+          "publisher": "infoq.com",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwZmpWa0RqS1N1eGhaX1BXVjhhRTV2dHJJRGhPRS1TSEUxUFVQSkpLbUR1aGpGa1VzUms1NFZrSWoySmN0d3pNNEZUdzY0Vlp4Vk91dmZpMHloYmtXNnBr?oc=5",
+          "published": "Fri, 10 Jul 2026 06:30:40 GMT"
+        },
+        {
+          "title": "Google Photos Brings Back 'Auto Trim,' The Video Feature That Quietly Vanished - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbm9YamhhYzRaNHAwZjdYVXpCUC1lMzQwRFEwb0RvMEQxcDY0ZVp2V2NxRTZFUzJXaGw0NF9oVVYtMFVYaXkxWkhvN3o3dTlCY3BaT3gwM2Ywd3E2X3E1VjFYTEhNVTV2eEhKaUdLVjVpODdjaHpTLXNkZDBXbzQtak85cmFGVFRRblJUMVJfcGFpQ0x4S3h6WWlXVGdnUQ?oc=5",
+          "published": "Sat, 11 Jul 2026 13:56:16 GMT"
+        },
+        {
+          "title": "I went from professional skater to cat rescuer - Yahoo Lifestyle Canada",
+          "publisher": "Yahoo Lifestyle Canada",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSkhVNjFmU3hEWTZjYVhYbHB0THpVdV9Sd1FRZ1M1MDRreHAzNExZbmgtV25WdTJFb3RULVRST1EzdWNyZUV0VGRFQzFTN2paVjBjdUNEaW9YUURSUFVMbjBiUnpVMlI5X3NyQXIzWGxjNjl1bHQ1V0dqQ3JPUEVMdWQ1eUk?oc=5",
+          "published": "Sat, 11 Jul 2026 06:15:00 GMT"
+        },
+        {
+          "title": "Prince Albert store weighs in on protecting physical media - paNOW",
+          "publisher": "paNOW",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmUyODEwbmdVQUtXY0RDWWVHWXBiTmN3MktIc2hWRHRrbUgyQTg1N093UkdoUld4cHpwaTVyN2JXdC1jN0lxQ0RITG5RcG5oa2FHbVNoRVdodGFlMDVYUmVMNFNaZ0w3bER2M3lzbEstWDgyRk5Fa3ZyUFRDQ2pxZ0NsQmJ0S1hTalluZkNKOFRZdw?oc=5",
+          "published": "Sat, 11 Jul 2026 14:04:28 GMT"
+        },
+        {
+          "title": "Microsoft laid off id Software employees, and John Carmack’s response is hitting a nerve - Windows Central",
+          "publisher": "Windows Central",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQM0tYQlZPRzNXRng2M3NXcWR0M3VNTlQ4M1U4YjIyTDdrTzVqUzB3Y2NyR3pMMFAyZTFfVGY1SDJPY2hKOFpnbHIwb0VNOUlpbEs3eGluSFFaWEdPWWJva0dYWUtmVkN3QnZRbmdhNXBtMTVDLW5aZExkQzR0bU02S183dnJBRk1vTW9haTZSQXFBajh2WDlpS0ZMS3VUUXdZWk50MzlSV1lyVVpkaG92NmxwVTVvbGhMaWM3RXU3Y0tkWTA0TXlhLVFBWDh0dUY2SlJ2bElZUGw1ZldNcjN3UkZCdlJ6VVppeHdDcEdpQ0RRTWF2VXlXdlppa05iRXZlQmhnWW9YeGcyUllPRTkyRzZTMThtQQ?oc=5",
+          "published": "Sat, 11 Jul 2026 12:35:54 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+        },
+        {
+          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "publisher": "Business and Investment Development Agency - CzechInvest",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+        },
+        {
+          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
+          "publisher": "KTLA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+        },
+        {
+          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
+          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
+        },
+        {
+          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
+          "publisher": "KSL.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
+          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
+        },
+        {
+          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
+          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
+          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+        }
+      ]
     }
   ]
 }

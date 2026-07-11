@@ -1,43 +1,260 @@
 {
   "market": "AT",
-  "generatedAt": "2026-07-10T23:37:20.665954Z",
-  "validForDate": "2026-07-10",
+  "generatedAt": "2026-07-11T22:45:30.781604Z",
+  "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Steindl-Rast zum 100er: \"Der Mensch stirbt an ausgereifter Liebe\" - Kathpress",
+          "publisher": "Kathpress",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeFZDN2w4NmpjOWZWQzM5a3d3OXlGY1RJRGtjVlF4VUtFcVVNYVp0Z0M2VEVYQkI4NmJjUTBZcnhFYzVPa0VTcUZkaExSclRLd0xLVy1IaTE2Mk14QmN3amhpOHVyczRLN1lrVkpYM1V1TVZXMW9mZlNQUWhSNC1sakI5NzJ6TzdocW8ycHNsQTd1QTA2cHctTDhJS19HWTJqWHlJZnJ0UHA0REh4?oc=5",
+          "published": "Sat, 11 Jul 2026 13:56:00 GMT"
+        },
+        {
+          "title": "70 Jahre Franz Lackner - Zum Geburtstag ein „Heimspiel“ für den Erzbischof - Kronen Zeitung",
+          "publisher": "Kronen Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA5b1U2aFZFak1xNEppOW5KMGE1M0dnbU9hSjRzZWRRTmtOdF9UTXFLRVMtMHdwZzJCQnpoWUtTbzdldw?oc=5",
+          "published": "Sat, 11 Jul 2026 13:25:00 GMT"
+        },
+        {
+          "title": "Paukenschlag nach Stadtfestkritik: Vorstand des Tourismusverbandes Hallein tritt geschlossen zurück - Salzburger Nachrichten",
+          "publisher": "Salzburger Nachrichten",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSzlHMnhlYVJhLVRoUzkzZDJKZEZMV1k1N1FxR0U3cXY1ZmlFMHUwZWxxR3QtUWU2RzVMNlR2RzZHZ25adzRFU2RHSXAydlJubXhQQW5tWDBOTkh1MlhBTlBRaWdGZVp0c011QWUzOUcteFRSR0paeUgzb2UtODJuT0k3WWlzX0lZMTltb3BSbVNGZ09wSWFfYjJZOXp4bTkwUzhlOW5kM2xhSDFYeDZtbjZpZGgwdDdaRGRVMExuay1rZlY2b1FfaGRNeGFtS3lZREowS1B4c25OcG02bmxpOGln?oc=5",
+          "published": "Sat, 11 Jul 2026 11:49:00 GMT"
+        },
+        {
+          "title": "Rund 600 Schweine bei Stallbrand in Oberösterreich grausam verendet - Tiroler Tageszeitung",
+          "publisher": "Tiroler Tageszeitung",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2NNM0JkNEZ2UmlJY0lIUFNLREIwd0dEcGwyamgyRTdUbzNNY0N2OGRhZ0VwZ2FLUXZla2hvcWltbVVld1JsdTBkNHF0QXJtMFBOTXdTZEZITEc1NXVSSmtBY3ZvWHdCS3BDRzBod0tnMFhzMF9lN1Jub3l3Q2FoRmtyTHJ6aXlyaUw2ODNaeUo3bmhjUWhuOVpwcTFrTXltc2RUN0tPUQ?oc=5",
+          "published": "Sat, 11 Jul 2026 17:34:11 GMT"
+        },
+        {
+          "title": "Stall in Kärnten in Brand geraten - VOL.AT",
+          "publisher": "VOL.AT",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuOGItM0JEUVU0bUc5TEh1ejk4NjVHc2ZYQ25zb0llc25taUtCLUJvZHFNaG5sOUxrdmtIUFJ2SjdLX295S29Lck4wSFFMWGZSbjRvTXJ4NW44SkhMUTYzQ3pqZE1lUFJUSkJXMDVQVQ?oc=5",
+          "published": "Sat, 11 Jul 2026 14:25:11 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Ein Papst hat keine Urlaubsvertretung - Leo XIV. arbeitet weiter - kath.net",
+          "publisher": "kath.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9tblItblE3RzB5YW94Wm5Va1JndEp5b1hfdGY2OEp2Z1RNMjd1azVTUThSSFVDczJ6ZW5faExoQ0J6Yk9rdGc?oc=5",
+          "published": "Sat, 11 Jul 2026 09:23:29 GMT"
+        },
+        {
+          "title": "Iran schwört nach Chameneis Bestattung Rache - ORF",
+          "publisher": "ORF",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9UUE8wM2lnSTRNVG1MbE9Wd2s1cXVhVDhCcG1mQjI1R29jNDZQSFQwcVR6bWk1eWcxcnJvdEZRVTdEZlM0X1E?oc=5",
+          "published": "Sat, 11 Jul 2026 11:07:49 GMT"
+        },
+        {
+          "title": "Fast zwei Millionen Menschen in China müssen wegen Taifun Häuser verlassen - Der Standard",
+          "publisher": "Der Standard",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVWtCTEFucmVocG1sWmFwbk9UMnlSbkpkQmdBcm1VQWxRS2U2YXpRSUc2SEJYX0NGWkRxaWlFWDVmVDQzVy05c3hwVEJ6dlk2RVprcWdMYXMzQjMzaTdmTlpjbjZjUklFQWVpQ1RhaW5yTlJrZUFTUnJXd0FjVEJkazB0Rjh5TTNEd2ZmX014SWIzYW9qVEJzbTVITWtHNUVMQVplbVlIa2E1eW9zSFVzZU56UW00X1gwYW5v?oc=5",
+          "published": "Sat, 11 Jul 2026 14:47:00 GMT"
+        },
+        {
+          "title": "„Immense Schäden“: Wichtige Bahnstrecke in Deutschland nach Sabotage gesperrt, Bekennerbrief aufgetaucht - DiePresse.com",
+          "publisher": "DiePresse.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSk9aRUFkWkZHQkxxSi1oaGp0dWp6ODlCZGVUWk1sNWI1aHhWNHRpQmQtRnlzSXhBTDZjeVhEdkNHTHF0TXdPWG1QTjVYRkFtNjBRNjFnOFlYNzlvejdVdkhhenVMMmtuM1RZODNadzVIMzh2WmhpWkNpYk9oNlFFaWtjQmh3Y2RicGNlbDNpVV9aTTlud2RGSktfWGJKNDRXbVJj?oc=5",
+          "published": "Sat, 11 Jul 2026 15:18:33 GMT"
+        },
+        {
+          "title": "\"Rache unvermeidlich\" – das ist die Mullah-Todesliste - Heute",
+          "publisher": "Heute",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQXZiUEp2emFHd2xRbGdkMjBLcFZaZFBiNVdrcHdSUlRJYU5yUW5sd3V0ZUxZZVhuUE45SG8wTk9QeTROT2dGYWY4MXNPZkthdEYtam9CTkZFdDJVSGhmZmNzWTZQTU5xSjlEcVpHYzYzaVJ3TXo3aWs5dWpEYUNZUkRWRzU4cmpSZ2c?oc=5",
+          "published": "Sat, 11 Jul 2026 18:51:00 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "Wiener Börse steigt am Nachmittag um 0,38 Prozent - trend.at",
+          "publisher": "trend.at",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5WW9TdFJYS3dVbDIxNktRRGJCSXlkbnVqUV9ubHRDUHRWdDdLZnliZ29CcE9yQ2dPVVhyM2Z4VXdFbzNtZm1aQVdpYTJLeVBSd0MwcEtIQk0zUTZKNGp4MGNybXI3ZHR5N0l6TUxkYkFYQjl5WUF2R3dVel9mTFE?oc=5",
+          "published": "Fri, 10 Jul 2026 18:07:00 GMT"
+        },
+        {
+          "title": "Zwei Spitzenreiter: Wiener Bezirke mit höchster E-Auto-Neuwagenquote Österreichs - MeinBezirk.at",
+          "publisher": "MeinBezirk.at",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXhFZXk1QUd1d1Rwa290Ml9jVG45ckZad3VCUlVHZUxnQkRIaHFYQlVoYVA2MVhwQkRHWWhnYnFhR0xyNXRVUkpzaThHNHhKa1ZlWS03NmRWNExGcFBuWWxGQnBEc0VIbmVWb3pqd0RadGZTdG9EdWhHQVgxUzdOQV9DRER3bEM2WVpCaEM3aTFDZEtWN19CTlN1SWRtRzhKa1F2YUFieFpnOG9LWU0xWGxCTjhaUQ?oc=5",
+          "published": "Sat, 11 Jul 2026 08:01:07 GMT"
+        },
+        {
+          "title": "Volkswagen-Chef will Fabrikschließungen vermeiden - Salzburger Nachrichten",
+          "publisher": "Salzburger Nachrichten",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0Nkcm1CY1VCWkFlbjJvWE44cldhNG9YWTkxX3ItLTNYUDA5V0d3U1I2d2ZFSkhQSnFlMFN6MHNWMVp0UFQxOUxDTFFVbWsyTnZ0M2c5QWgtc3MxZVdnalRaUFhKVVc4STR2dzBFWUlvZXdXSXl5aElIQlgySU1ZMUlPZU1xN2tZUEhMWUs2djdteTY2ajVELW1BYw?oc=5",
+          "published": "Sat, 11 Jul 2026 22:24:00 GMT"
+        },
+        {
+          "title": "So steht es um die Reichweite – ÖAMTC-Praxistest deckt Wahrheit über E-Autos auf - Heute",
+          "publisher": "Heute",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaUdFaDdhSXJFNENGcVl4c1dIcVg2LXdjS1UwWm13dGYwNTkzRkNJVExuc09tOFNLUmRPRDYzOUxUdGFvS0hjdTlSOGk3emdjdjdsX1RVYnlYQWpEcEtYRnRoczZySVM2NHVnYWdiMy1RY2pOUjlGMkNYLUFPS01jNVY2TFBnVk11VGo4?oc=5",
+          "published": "Sat, 11 Jul 2026 09:15:00 GMT"
+        },
+        {
+          "title": "„Explosionsartiger Stuhlgang“: Parasit plagt Hunderte Menschen in den USA - Tiroler Tageszeitung",
+          "publisher": "Tiroler Tageszeitung",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0p4dWlGVGtHaG9pbmt5MUUxRHB4ZGlTd1czc3E5YnIxUzI5ZF9OWFU1QkxJYTc3OFpNcXBjVnAydW9YeloxYURMWmlwcERyUmI5aHhha1YxRVdndzN2Qmw0anFBdU95eDJoLVB4cmdHYXY0MFc1R2ZHMmp6ZEhjMFc1eUp1X3VQakJEZEc5WWRTZU1DT1A4UVlZM1JhU05DMVU1N2JxZkZJUQ?oc=5",
+          "published": "Sat, 11 Jul 2026 11:53:24 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "Teamgoalie Schlager zieht es von Salzburg zu Werder Bremen - DiePresse.com",
+          "publisher": "DiePresse.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFhKc0xYVlF5amdfSXh6N081NlhTN1hmWEVoMFN2eHhfaHItM1hFU1ZsVGFYZDV4Z2hyTjF0c2dPT3lJZkNkVGhrUm1HWURrTWpKd1pEYzZlMUpUVGk3SzAzUWttcVpOS1FWNGF6b1lhR3pTeWNkZF8tdmF4N1c4T3NCZDQxU1dNYUJnTWdscFNyYWEyYl9sRw?oc=5",
+          "published": "Sat, 11 Jul 2026 15:06:33 GMT"
+        },
+        {
+          "title": "Deutsche U19 verliert EM-Finale gegen Spanien - Ligaportal",
+          "publisher": "Ligaportal",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTEt3N1kzenk0T1lrWVJoSFdNclkxeVhlQlM0aUhzZnpxSms4b2xGZ0NDd2dMdUU1SWFuMUtfZHRHcHktNklaSkFNcGNjaTJxc3NrMWR2RE42dm9fYXJScnlvQkhOUVczZ05xeTdPTURwZlRJOTMwMDhoRUVNUDBVTTh5T1NBZk5sekdFRHFQWTdBMnJjSDNYZjVrSWMwMnU5amFjTGxkcXdGeTNuT3pWdi01LWdOdWtpWXFmdNIBwgFBVV95cUxQMGR3bEVIU3VObm10dkdNZzdQc3k0WlhvLTN0NlZfU2VlUVdwWTluQWxhT2pPaW9ERC1wMkxBeWs0NTZnRE1udnBDV3E5Wjd2SGpjQ2VwM2hFSFRSLTVPdkpzaEtYM3BDZWpIbnAxSDVrTDlaVTZ1YWdaMFJKU2pINXAxS2dxdjFjY2tETlBEeHpuNVFLbkJmZzVxY2hPeFBGZER2cWhUN3JNRUxnem1kSk1yMWkyYjJwclFUemdsMUc3dw?oc=5",
+          "published": "Sat, 11 Jul 2026 19:59:06 GMT"
+        },
+        {
+          "title": "\"Tour of Austria\": Gregor Mühlberger behauptet klare Führung vor dem Finaltag - Der Standard",
+          "publisher": "Der Standard",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRUs1aVdIdkR2empQR19aZXNPUnQtWFNZSS1nRzZ1dzZtbkVoSkNuNWRUckppQTZ5eFdNSUkxLWstSE9NT1UyZDhjZnllZjNqOHBPaUVhcGRxUzZDSnRmMWstNHpyck40a2hpeEszVVAweGtITHFPQk5CQ0NtSGVrVVl4dkl6WE9ZLUVpc1NMT1JDQ25RckpndXQtVmZWRmYyd1FjbTcyeV9pWngydEMtS1lfdE90NU1BTDJGQzFFZzI?oc=5",
+          "published": "Sat, 11 Jul 2026 16:12:00 GMT"
+        },
+        {
+          "title": "WM heute LIVE: Viertelfinale Norwegen - England - LAOLA1",
+          "publisher": "LAOLA1",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTNPakJxZEtNOUxnVng4VUtwYjVmYVBNTmM3blcxeF9VdUVWYWFGNGJsdkU0QzhlMlVzczZOZzJKdkZEM3owM0VLTkVidk9LX1JOeHo1emdJT2pldTk3cUhfWVFBd0FQSU05RlYwZVJjYWlLYUdGUnZ2TmZiZDNnVHRnTktTWVVHVngydzVCdkIweUo4bVI3UE1uTU8?oc=5",
+          "published": "Sat, 11 Jul 2026 20:28:00 GMT"
+        },
+        {
+          "title": "Zwei Siege gegen SKN & Admira - FK Austria Wien",
+          "publisher": "FK Austria Wien",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pY19hclhlb3pJeGxhUldfXzJla255Wm5UaTJ4NEJhRmd1c0Zld3VsS1k1S056Vkw5U0dvZG8wakljaGZJTHdiY3cwNVAzYnFLdW4tWmxPYkhUU0dXczFfbHlhS2U?oc=5",
+          "published": "Sat, 11 Jul 2026 21:07:57 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "Präsenzprüfung offenbart KI-Betrug an Eliteuniversität - Der Standard",
+          "publisher": "Der Standard",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEJsU1VpcEN0V3dHT0I5bDZ2SDl6blBZUFZHcno5dmt2c1pBejVDb3hJWEVkT2NzQVhQdXNvV3pORXhlYl83Qkx4T1NYRkM2VFJYblBlVnJKYmFUWmw5a1J4V1dudVJQMEk5Y1hWZUVpdUxkYnJsQWxHYU9tS3ZjRVBsa2lac1h1YzM0aTVsS0R0c2Q4VG95V01XbnZpSDRldmdCaGZjNA?oc=5",
+          "published": "Fri, 10 Jul 2026 17:10:00 GMT"
+        },
+        {
+          "title": "Vorstellungsgespräch mit KI: \"Ich habe mich entmenschlicht gefühlt\" - derStandard.de | Nachrichten, Kommentare & Community",
+          "publisher": "derStandard.de | Nachrichten, Kommentare & Community",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYV9fdlA3UUlnbzRmUW5jZjVIUlFqb19Lc1FfRzVwQ2p0dk1NOXprbml2eUZyZXNNWG1MemUzZExZRVotQm5tN0lOV3l6TzdMTDVJSklLV21RbXM4U0xrT2hLRVp2VjF2aTJlS3B4ZWtWSktwS0pGQ0VGcVphWkFkQkNBNWxORHhoVkxkVGxJM2R6dklPSV9UOWpOWDJ5VFVFcEU1ZTJuX3ZxMTZadHZXUzJGRQ?oc=5",
+          "published": "Fri, 10 Jul 2026 12:41:00 GMT"
+        },
+        {
+          "title": "Terminator an der Front: Ukraine plant Einsatz bewaffneter humanoider Roboter - Der Standard",
+          "publisher": "Der Standard",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd2R0RjNmaTFZNGlFZHBXTzU2SklCWmpKWEZnNkhUaDRMTk5BcTllRVdVdlM4dWd5Y0lwak9UQmpUdTh2RVV4OG9WMUtGanpfdkJRU3dDdGZZNUVDNk02UEZLeXJLR05mcEdPcjJRM2R6eVp2aVR5VXkxV3NhZEtvbktWcElILV9heGVnZHItakxlaVYxQXN5bENqY0dMU3FYcHBLZ0tIQnZ1S3RpLTV3RFowaHBnWXlGazNGVUhFRFc?oc=5",
+          "published": "Fri, 10 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Apple klagt OpenAI wegen mutmaßlichen Diebstahls von Geschäftsgeheimnissen - Der Standard",
+          "publisher": "Der Standard",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhMSGpaZjlBajNmM0h0YW9Dc2p5RFZEQ214bWZRUDNKOVZINnpVUGNxdjFZQmNhRlNwaXBJdlNrei1vcDJDdmtsU2ZpM192TldEck1CSGo5ZVV3Z3ItQ09DZ3BhNnJkaHJVUlFjQlAzaUZlTVF3VUFWbE9JcjZaTGxpVzNZLWtGXzV6aVl0V2hFdjZXS0tfcVNaYml5VHhTcHVkTkVwY3BRZEJkYklpNWhPOWdBUEpONDdtSGkxSEI?oc=5",
+          "published": "Sat, 11 Jul 2026 05:10:00 GMT"
+        },
+        {
+          "title": "Kampfjets, Hubschrauber und Drohne im Anflug: Großübung an Salzburger Grenze - salzburg24",
+          "publisher": "salzburg24",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMkh0ci1YX2x6TTRubmNDWWRIWkt1V3RmVDcxR3hZb24zNXRVdWhBdnJmMzBwaDh4d2pKb3BQREVFRHAtLWE3Y3Yzb0RnMjA1Skc0WnJoMk5VcF9XLTE1SHJtdTZPRUNCb2ZndTg0Mk1YOG9BenNaUkhrM1hodEpsODEwdFFJejN3QnpDQ2lZQ2ZEYWc2eXJDajMtNkxIa1ZDOTBSM3Mwb0RDZ0UxN1RMWjdiVDc0Nk5xQWVFZDRuUzR6cG9UVzFFMUNtT2VjckFva3c?oc=5",
+          "published": "Sat, 11 Jul 2026 07:59:17 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+        },
+        {
+          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "publisher": "Business and Investment Development Agency - CzechInvest",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+        },
+        {
+          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
+          "publisher": "KTLA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+        },
+        {
+          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
+          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
+        },
+        {
+          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
+          "publisher": "KSL.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
+          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
+        },
+        {
+          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
+          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
+          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+        }
+      ]
     }
   ]
 }

@@ -1,43 +1,260 @@
 {
   "market": "AU",
-  "generatedAt": "2026-07-10T23:00:42.338117Z",
-  "validForDate": "2026-07-10",
+  "generatedAt": "2026-07-11T22:44:57.621482Z",
+  "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Boy charged after remains found in search for missing girl - The Australian",
+          "publisher": "The Australian",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOczl0bWViWmk4Y3puODJlZjRnemNZZFZpOHJUbUZPSUdtaHNSY29nSHVOcElYVE9oTnY1b2kwVWo1VHNiWWcxbkowcEFBRmFxeks3c2VoeWRsTGRZV0VadUtia2xQSW8yNktZcm5XdURRbTc1d0VUQ3BqN3dQVGdERU94Q0RvZ0NrSDV1QmdvQnIzNUxUVFVnVDRsTHJudGo0WmdoTXp5S1ZjaTdaWGh2SXF0bl8wcGtWNkdlTmVTaG1pR2tEaTh5RGszb2FTVDB0cjJUWkRmdk15UlNuZWJ3TDl6SWQ2bXdoUloteG9EY2hJV2plajFR?oc=5",
+          "published": "Sat, 11 Jul 2026 13:39:41 GMT"
+        },
+        {
+          "title": "Newly released trove offers rare glimpse into Shackleton's Antarctic expedition - ABC News & Headlines – Australian Broadcasting Corporation",
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3RvM3hDT1FOR2pXRmVLLUdrZ09Mel9YYWVFbGhmazhEQTFLUjd1Vm02ZnV2VmpUaEJsenp0VTBFM2JhY0ZpWUl0RTExSVhnVi1tdmVDcm45OVhab2prWmtQR244MTAtWTFtUGZVM0k0SjBWVU1TR2FjTXR5OUhJVWx0OGZpempnRzBIUmtja19CeVFxSTBUMmhzLXJZUlVNbFVTX3hXQ0tHY25m?oc=5",
+          "published": "Sat, 11 Jul 2026 19:06:11 GMT"
+        },
+        {
+          "title": "Hanson’s chilling joke about her enemies - News.com.au",
+          "publisher": "News.com.au",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZ19NSW1mRTViQVF2Zk0zVldpUHFrVXZJV2RoWDdGbVlMNE9RR1U4MVotRUhZLTEzUnBNTlZ3RmI2VnlCZi1jMDJ4UUUzbjk1OXRWNHJ5X1plZEFLNHBqRVVkZ011aGJVR1J0M3RpZTRTeDhMYlAwV3JWOTk1QnFpZnBTZU12U1VEajk4Mk9Kc0ZtaVphNTlSRXZteE9IVEJXWm5pRjZCcTczZkNXVk82dGxSdnBlNVZlcVRkRkN2Zm5IRW9nVDlkMzRoT2NuR0EzeVRsc2UyN2s0RmdCLXpORDR6OWNjVjFnUzc1Q0o5cGVhN1FDUzFIcXhVTWM5RXRick02SXhIelMzSEJMT1JrZXk5aEZGcGxOMmEtY0tsd1ZXUQ?oc=5",
+          "published": "Sat, 11 Jul 2026 11:56:11 GMT"
+        },
+        {
+          "title": "Jess Wilson is trying to convince Victoria to trust her party, one High Street at a time - The Age",
+          "publisher": "The Age",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcW56a1FrX3QyQXZYd1RZYjFuNWNQeW5lc2c5a3dTbURjOVpmVnBPNU9tN3JoM0ZlZVYtM1dMWnc0S0xTSC1vYjFlMGZDOWlYckRsYkxOUzd6UndGZzh0RG9aNk02VE5WRDRNcHRKQmlKcm1ZWjBoYWowLTFwdG9jM2k3ZzZ2MzlwME9kMTZ5elZBbkpjRk5rRWJGUmJCci1hZ0I5VURERVpqd1RoNjBFNWMweGU0a0FUZS1QNzBSWHdtLUhIWGhIdGF6a1M0NG9yVmQwRUV5SWZLZ0ZYWkNVTW9Td3JmU0k?oc=5",
+          "published": "Sat, 11 Jul 2026 19:00:00 GMT"
+        },
+        {
+          "title": "Man charged with the murder of missing mum Jana Armstrong after body found - ABC News & Headlines – Australian Broadcasting Corporation",
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WZllNd2R2b3ZvUHlQUEpOUGtxaW1KWUJJbTdTSXZ3ME1QazZvWXRkMnQ5aGdOUUlpczk4SHpSUlM3YWFjb0xTQkNYUm5Sd3IzeUsyaXNPNk1BNExMc1VFdFRDT2FnSVVJRV9FWjVqeTNLdw?oc=5",
+          "published": "Sat, 11 Jul 2026 22:03:19 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Iran's supreme leader pledges revenge for father's death - ABC News & Headlines – Australian Broadcasting Corporation",
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTW9sTHplZUdmaktzUWE2ZHE1RV9mUnFRX1dxSzZSWE1Fd2JhSXN3Y3d4ZDR2d0tNb0E5eFV5THVZanVObjhKVkZSVFMyUjFWTFh0a1RvcXh2ZnA4VnoxOGU3SGZlQ1NoQ1IyU1Q1U3hRRm1PQ2k0TG1UQzhXQ1FTMEFDZkVkWmY0dEEyc0JSN0NmenE3OXVYUHpHVjlUNko3bWxpTGcxSmI?oc=5",
+          "published": "Sat, 11 Jul 2026 12:30:52 GMT"
+        },
+        {
+          "title": "China’s missile test did not target any one Pacific nation – it was aimed at all of them, including Australia - The Age",
+          "publisher": "The Age",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVGNSbVE3Y0xjclptYUc1cXVhQ3UzeEpQZUtHcEw3eFlhamhCMXI4Mzk0TjNlSDU1RFhsNnZpbG5uRzl4TGQ4YkxGb1Y4ZDBxd1ZMSktLWHVnOC0tY3VkN1VSMlVLakppaXoxcmFINDhiSnpKQy04RWltT29uUWJqcFp1T0xyRVEtOHA5b0xwRW1uQTRMbWtHV0otbUxMTnMyTHZqQlZmVkFsQjFEakFvb0hqZ3MtOUg5cExFbEpUZFZZS3lZTk9IYmp0dnpaSVpkLVE1dFFvWTEzWWJOMEtFR29EaXRhR25GT25Jc3VIU0JqV0RBWUkyY2F6Z1RkQkE?oc=5",
+          "published": "Fri, 10 Jul 2026 19:00:00 GMT"
+        },
+        {
+          "title": "NYT reporters subpoenaed over Air Force One security concerns stories - ABC News & Headlines – Australian Broadcasting Corporation",
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU25lTUNtZnNNcDhCLUpzZ3B2SG85b0lnTWNkbzd2NVJ3UVVyOEhPR3pYUzh0U2hRdjBseFRaU0lPSms3NGk2enVQOWpvY05JdThzdFBaak1JNjFRNDZzWFNNT2F6d2VHVzRKN2VXakFOQVRMRURMMFdiTGVNMExiQVl0c3VEZUZCbDhmRmE0bC0zSF94c0VXNGtUb1BvQzRoejRsWVQyNWJoVTBPVnJn?oc=5",
+          "published": "Sat, 11 Jul 2026 12:10:37 GMT"
+        },
+        {
+          "title": "Trump threatens to ‘destroy’ entire country - News.com.au",
+          "publisher": "News.com.au",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNk5GTHJlN25jMUZfRzNWQW9VS20wWERkU3hYbUZTdHpTMDBocXcwRkcxWUJpYUR1REI3bDRiRllNbWpvSFNhUHkxeDRpbkN6RWpsMzBOb1BSWEg5dTFsWWhtT1JmMTJDcjl6eWFxU3dMcy1jT2h1WU5aSEF0bDFFLWZiX25Oa1NoRVU0aVVLdFlLc2Q1YmFURUZ5OHJzNHhtYnktQXlzdkNxaHozZnhjLUtQRm5GRVJURjJZbkROaXpnOWxTcnpMa2VfWGthdWhfZXpZOUF6SnRiVHYtS2NMMHBPclpqS3E0clB6bjlXclQyaXpySkxnbXNudXFOWGplRXJ4OTE2bml4YWhMNFE?oc=5",
+          "published": "Sat, 11 Jul 2026 16:35:24 GMT"
+        },
+        {
+          "title": "Taiwan, Japan and south-eastern China brace for Typhoon Bavi as landslides kill 15 in Philippines - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2cjdFbUxhMTVFbC1sV3RuOXhxRmlkVjJzeE9VSk4wRE5CSk9YalhzVGxHZ2E5MGZFVVJSaFFaYlpocllmVmt0VVhzNzZaS3dpcVB1WEN2d2pudw?oc=5",
+          "published": "Fri, 10 Jul 2026 13:53:11 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "Telstra will face Senate inquiry after nationwide outage - ABC News & Headlines – Australian Broadcasting Corporation",
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTlOblBhcl9NNUpxajFtQkVLdG9nOGs1SS1FSmVjVmFlQnpBMjhiT2gyLXRnZ2lHS2g1U2RqakE4NlJ2NzZXR0VtZ3JfS2ZZVFlXRTZiRklER1p4UnB5T2lWQlM4OW5meWNDTzVSU3dDX0NNREhmbWY0WkxydEt0NGRhZ2JmSzlqV19oNWlhemczV2VtbFJmWWUtdWZTZGFXRGMzYnhIcGduWDhrdGxVaDNn?oc=5",
+          "published": "Sat, 11 Jul 2026 05:05:32 GMT"
+        },
+        {
+          "title": "Simple reason Govt won’t fix housing crisis - News.com.au",
+          "publisher": "News.com.au",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbkprR0hPd1lNQVQyOVJKSlRLT2dHeGJweTJMY2s2am1nMzFVYjRHMWhROTZDMHF0UTRTdUdfMzlLdUoweDBtVTlRRkkzSUJGWnFUZjBnS1JHM0Y2QWtvZ0g5VTJWWk1Ra1Z5NkxqQUVoOUFDN0FwYTNGUmxhTDFyLW9UNzNDQmFDRTMwMTJLY0R5LUpSWWYxMEVUM01IcWRFYzY5MkF6UXVUVTRpdHBRejJ5NldTRzMxdEN2WGJLem44bW56YzBjX1Z4SmhCRnBtdDV5QWFIejctakNvbjJxNzdHMkFGQlhrLTd3eXNMbUxxVHRlbUlhYUpqSjFkNUZBYnZXZFdn0gGLAkFVX3lxTE8zMTNPRTBlUWJOOElMTm1pZ2tZR19WTnJmWjlDSDhhanhQN0dPaS14UUE1dThlZVp2dTJQMjhyLXVDLVY3d1M2Y3llLTFsNXBVaVdmZ0V5QWM4QW9ld3F6NTZBdDlKdDNwQ0t6M0tvLThwVGQteXlYLUxDRGhXT24zWXZGYnNXNVlTRW4ybXYzQmhDY3MzNktpNlJicjFqQ2YySTU3UU5ndU0wWk13bmtjcjNNM2RGd1diMUFXaU82RGNmeHpUeFpPRWlfcjNDZnUzeXNkVDRLMEtOVFZDVHFoNE96RWJEWVBNckI2bkw3R01Lb24yczNZX2trRXZkR2lzUWgyZkNGWlVCTQ?oc=5",
+          "published": "Sat, 11 Jul 2026 21:22:30 GMT"
+        },
+        {
+          "title": "‘Chasing their tail’: Renters caught in budget trap - The Australian",
+          "publisher": "The Australian",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNjJ4ekg4bmM1ZFJVU0E2dDU1Vm9SYUljRm54ZW1rU2RIUWpkbU5wWE02MnFGaEhnSVFwZkVNMUkzR1hLM2pBcTZUVE0xUkRMWWlSYjBIMGxtbVF3aVlkLWt4MGgtUjZ2UXlHaFdGeG9lOFMydGp2NXhydEQ3eW04RzVldkFkaG95VUVWV1VocEtHb0RqQ3dpeGFqUGQ0dnRibkhWSWJ2Ukprd01sWEJ1bDlHVFE3OExreEd4RGVRVEdiQ0Yzczk0WlZka0NFS1NNNlNmcnpfb1loRnl4WS1nNkkza05fZ2NKb0sw?oc=5",
+          "published": "Fri, 10 Jul 2026 10:31:46 GMT"
+        },
+        {
+          "title": "First-home buyer loans surge as market participation collapses - realestate.com.au",
+          "publisher": "realestate.com.au",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTlNkSm15UlNVeW5xTF9RQVNxWFJPRk85UDJnczZKMmJpYWhUbmFZMVlZSlZ1T2EtU0tHVjR1cXZHQmZXdmZxR1Y0bTVyMHdFQWxjSHVZQWxwd1ZMTUFQc1ZUQlJlU3I2MTRyQUxaQVNNeXdRZHhDU0g3Snh1SVdtRFlOeTBlMFd0ZUowaTNtbUlhYXV1MkJGRi15M1ZnQQ?oc=5",
+          "published": "Fri, 10 Jul 2026 23:25:18 GMT"
+        },
+        {
+          "title": "BYD offers compensation or refund to buyers after model year mix-up - SMH.com.au",
+          "publisher": "SMH.com.au",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnFXTjRZRDNIalozVDZ4RnNxb2liNVhJUDJGcFdfVTc1VVlKLUo0U0JjNUQyREE4Y0hrdHRfYWtJdFZ0ZVVEdjVhOU1rYjhHMlJ0bVBIWnVIWmw0aUhxTGxqbUNJYmZFRTU5TGFIbzVIb2ZHYVl0ZXlxS25jT2tZYzFwa0ZzUlpnaUM1ckV6ZjFhQ3NrVkF6NkNPUEQ4S0piV0tfSGF0RVVuVlRLWll4czB2S2x6bk5zWHNMQS1pQ1dZUQ?oc=5",
+          "published": "Sat, 11 Jul 2026 09:22:43 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "FIFA World Cup 2026 LIVE: England and Norway meet in quarter-final clash in Miami heat - The Age",
+          "publisher": "The Age",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMU5iY3BWYk1jcjN6OV9fb0FhSzNpTlIxQ2FlU3pnNHhWQ19wbEpONjcyUTV5UXRiODBmTi1WeUE0cldtam1ZR2NRRjVuOU9jcWU2RzQtb1RqY0ZMaHdvT1FSaFZWblF2SENxakxTQ015ejRla3RPMWFweXZaQjR3eklVYjVnUDBoeTZJQ1NpaUpfV1doNmx6d3o1UE5LZ3VHZWR3QzBzbjYtMV93ZUF0OGFaYy1sU0FhYXpmX0dDMW9mNjU4eS00b1hKd0JPTVhkX2tOZUsxNEktUTdfVVE?oc=5",
+          "published": "Sat, 11 Jul 2026 22:18:25 GMT"
+        },
+        {
+          "title": "‘Those d**ks don’t know’: He’s been ‘bashed up publicly’ — but Ricky just had last laugh - Fox Sports",
+          "publisher": "Fox Sports",
+          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPdG5nYlVneElPaVk3cUVRZ29SSXU0VUNNbnJKclBmVktKbXo3OTJsRVZsUlNIVEd2WFlkOTN4SVdtUmd6TUd1OHJXWHBTN2VkWVZoQm1jaFlaNEVHbk9zLWVGRjhiLU1DbHFUbTQwenZETVl6eWk5dkVNTE96aTNkTWt0SC1DLWp6Ry1KVVVkUkFnZ1Qyc3FEVkg2Yk1DdXNoV0E0OVlpSy1raHE5OHV5UUJaY0NVbUZ6ZHFXd182b0x6U2VPWlFQSklPY2F5NDFKMXBGWkMtREJMXzZvemkwMldQUk1YemZvOWI3Wk0zT2F2b3kzWWRjcmloTnZwZXFYTEpaV185T05DcW0yMUxRM0VjTWRiZm9PMkZzUFBzcFVSeGpUb1loU1pwSGdLd090NGVzVWd3?oc=5",
+          "published": "Sat, 11 Jul 2026 11:26:31 GMT"
+        },
+        {
+          "title": "'Get out of the basement': Hardwick blasts Crows fans, concedes season is over - afl.com.au",
+          "publisher": "afl.com.au",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUNVQkFzRzUxeFFSZnFqOEFWNXZLbVc2MXFrWE1ONm1hSmJ0enMzWjNjSEZjTlYyU05EaFFwQ1ZsczlyUkNxRmxJVVozSFo5N05IazdzdTVuellhWGNqWFlkM1V4Y2l4RGxiaWI3dmhpLWVqMDQyRmY5NEpvUlVRa2VvWTJfdFR0Tk5ZRlFTQ191QTRRaFViNmI0T05lQzhpUHlNOVVxVFVfUTcyd1dabjR3OS1vTFN6NjVSUTdkTHhMNzNUT2xad3lGZDZnUEU?oc=5",
+          "published": "Sat, 11 Jul 2026 14:31:00 GMT"
+        },
+        {
+          "title": "Watch FIFA World Cup 2026™: Argentina v Switzerland: Quarter-Final: Live Stream - SBS",
+          "publisher": "SBS",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQby1aOXFITXRNaWdPZXBQeFE1ZnhaOHpsSlIycHNoTjlDdm1iNFBhV0c1Qi1SckNIOGtmLU5vd2M5Zm9BYjV1SzIzY3ZjemJUY1kzRW9hZGwyMXJ5U2luWGRZRDViWmdCRXE2NGd1dHdBa2ttVE9JNHIwbDR6UHBFS3FPYXBjQ1hlVTItQUNqZ0hxaG81Yi1weC1KNzJvbWRXSkFmZXhvSWdMQ2Y4bVBHRmk5N2FQN2Jzb0c3YWhKaVgtQ1lUNzZJWW9B?oc=5",
+          "published": "Sat, 11 Jul 2026 19:50:17 GMT"
+        },
+        {
+          "title": "Linda Noskova survives Karolina Muchova fightback to win Wimbledon - ABC News & Headlines – Australian Broadcasting Corporation",
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1NhcW9HVVdzbFBSb05LZHpwX2hLdDQ3TWFHRGhEc3hjc3oxVVpiN3ZKSmh2RmVtY1BqZmRHdkdlUHJaNmozNU1fb185MEM4b0tQNzYyOUhYMzJuSDBDZFpLN2lMRzJ5REpmWlZIV0FFRm82TV9yUjdOUzFobUhQTTlKRTdlWE1hcWVqV0tEVFZHOHZBeTJCSg?oc=5",
+          "published": "Sat, 11 Jul 2026 19:58:10 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "Meet the Newcastle mum who quit her career to become a Pokémon 'pro' - Newcastle Herald",
+          "publisher": "Newcastle Herald",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTldncUEyTVVfRjFBV2Z6ZFVZM1BCellULWhUWjRremtHZEJJUDIwWVluZ196UDlvZW5jcWRpV3RaQ2xaLUlnYlF6VWtHOGstdFRjVTFhbHhqbExhT2lEMkJ1M0JGZllydnc1Z0dObHJOdnV5cFpMOWRZU3dmV3RtSmNIX3J4Q3JvYkYzQjdnOGNJc3k1aTYtSXZWT3VxUnJoRjRSUjJSdnV4N3VEdnc?oc=5",
+          "published": "Sat, 11 Jul 2026 22:03:26 GMT"
+        },
+        {
+          "title": "How feeling lost in life led this young woman to get bush inhabitants boogying - Queensland Country Life",
+          "publisher": "Queensland Country Life",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb21VZWxmMTRWMWZzSmlQZXdnTEZ6OEhUNzgtT29DeWZmd1ZKelJUazhOdmxBcjU2cjhEZXMwVzF2aUtKS2VlNjZsR3huWnliYlhRS05UU0tjektKTWdPMENKMmxHQmVIMDZiUmYzRFc2TjVvbWRhdDdpd0xxX2plVF85VkpfbE96ZXFuM1JZZGpQeGxJZUdSRnN0bmd6SXNOaFV6bkFQb1B5WEZUc2s5YjJXR1ZXWmdWM0pLVQ?oc=5",
+          "published": "Sat, 11 Jul 2026 20:01:30 GMT"
+        },
+        {
+          "title": "Everybody appearing at Newcastle District Court, Monday, July 13 - The Daily Telegraph",
+          "publisher": "The Daily Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQd1AzQXViNlJoSnNKbUxweWJZUWh2UHRHejJGVnp1MEJ1Q21wVUhQeFhwdEJsUWU0Y1RoRnNQSzc2Q1NtRE5icXkwYWswR0NVQXNlM2VYdE5OVXhNazNoVlA1ak5fVVNlV3Fkbnk0ME00S0J5cXRQRVFuUXBibjNiRzNRTmNmVDdubUQ4dkVaQXRTWEp0RzZtaUtBRVFid1gtejRJam53UlpCOE1GZTZCUUZCQjMyUWpoV0dwR1k3eGl1WjJQS1VNMU85aGR5QTMzbDZqcGxPVHYtZ2xrS3FCWlNhdHowTk1jNnFRZmZEd3E4cms1cUhhMXdNUVBSMmwx0gGGAkFVX3lxTFBvQk4wa1lLTEs5YjRZT3BFUnJyWGdXVmh3VXBObEU4SDFzZXloSmMtbndKTXhqU3FpYmJQXzg4LXd0TV81amlLckhjM2tIbGowNmFUVXhXS3pSak9FendlVXZFaVA5SkFSZHBMX3lsSWJpQnYtc3JJV1VPTWpyMzAwekRTdm55eEVaUWcwd21FZTBrMzVmV2o0azlUMXRsRmFlamZyejRJeXZId0kzdVRrYlZsSTUzOHFlckZIZlhKcnFON21lSk95OF9YQmVLTUNoWVNzQTVrOWpxNnV5ZUxOZmVLRl82ZnpLdzMxTHYwbFdHR0g1elRoYTNicThLMEZwOHdqS2c?oc=5",
+          "published": "Sat, 11 Jul 2026 19:43:28 GMT"
+        },
+        {
+          "title": "We’re 21 and 27: ‘Looksmaxxing’ apps told us we needed to fix our eyebags - The Mercury",
+          "publisher": "The Mercury",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPT19oQmtrU3VlLWpyXzhUQTR0Q21xVldUcGJoY2hRaGpSVkJQWExqNzg4SEZsSmU1TGdhOHdnaE51ZDViYk1EMExhYkRCN2N4bWpIMEthdDg4Yk1jN2J1bm9Qc0dNbXFKLUtNQlpWTTc1XzhCb2lUMWg2Q05kZDhpMGZDTkt5QUdQTlJpZmhtUDJKNnFMbHpEQ1lfZmI5bm90UWlpU1FjQW8yLXZJajZxVjRub3dMSTNRbVlpNDFNOUR0TjRJV21KN0xXYmJIZ29tSHBXZUl4cG0yTVZnbUItRFdTVTJqLUlnTnpabFBhNVJsVWM4ZkFQN3RiYm5Xd2VEdC1RZlpNZHFScURZcWc?oc=5",
+          "published": "Sat, 11 Jul 2026 19:03:04 GMT"
+        },
+        {
+          "title": "Are 4WDs too clever to have fun? - Nyngan Observer",
+          "publisher": "Nyngan Observer",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUXF5bmdtQnlFMU91TTN2TGpmZ3NmY0ZseXZVR2huYnhEa0RIRi04b2RZUnUyRHlvTWhTX1IxSXdWWnBldVVXSVJ3NlRCMXlJM0dBWG5DdDVKSXI1ZU9mZHd6MVVhSEtpZ1JxVHZ1aEtZUDVTUVA2a29vdS1DeWh1bHA2dWpzS0k?oc=5",
+          "published": "Sat, 11 Jul 2026 18:09:21 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+        },
+        {
+          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "publisher": "Business and Investment Development Agency - CzechInvest",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+        },
+        {
+          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
+          "publisher": "KTLA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+        },
+        {
+          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
+          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
+        },
+        {
+          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
+          "publisher": "KSL.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
+          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
+        },
+        {
+          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
+          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
+          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+        }
+      ]
     }
   ]
 }

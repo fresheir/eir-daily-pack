@@ -1,43 +1,260 @@
 {
   "market": "UA",
-  "generatedAt": "2026-07-11T00:07:27.628376Z",
+  "generatedAt": "2026-07-11T22:46:00.161010Z",
   "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Зеленський про вибухи складів у Вишневому: Керівники двох держпідприємств діяли всупереч закону, імена відповідальних відомі - Бабель",
+          "publisher": "Бабель",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNVlYN1RyWW9pNjdTanF0ckpjQm82RHpoV0d2dmJmdmR0M1VxYkM5d3R4UXlEOElXTGRRRDk4ajdLZUhDdkk2NUtUYnVtbUNKYXpWcmFYakFhb0g1WWlyRHc5MS01WFZvZGE2V0stYWRLaFVyWWlvVnRSQVBxSlFsZExEbDZxTWJvZGh3YnNhcGd2OVFDWGVOMTZQTkg1U2F5dmJPVXhNclVDc3VVSU5BTWd3SU9KTlNSUFVhb195MVl2YmRjTE5qb2xxQ3R0Z2xMbWktd2VSLWZWOWUtaU9veDNTajZpU0NHM2fSAe8BQVVfeXFMUEVRdFpoWmR4Q2JCb1RwVmR2c3BiS2czdGpxYjV6R09Na3VIdnFnblB0LTNpVjkyUGVZeU53X0h5OE05V2JSa2dPYW1RTHoxZWlGLTlwOWdQcFJqNXBpNUlfNWRwSHN4SEotZkl1VjRpR2ZKNmo4ZjN2V25VNEpmbkFfN3Y0NnBGbHVaSHFxZUVIMWZZTVR6TXJPaGxnUk9wZHg4c29yMzNZTURabDB0WElybjBsRGQzMl9GRExIb3hkOVJ0NnAxd0tkNEN2NlZUbmRuSlQ0V0lVR1ZhOGQzMkpfR3BkM1poal9pZTBrS28?oc=5",
+          "published": "Sat, 11 Jul 2026 18:11:49 GMT"
+        },
+        {
+          "title": "Онлайн російських атак: росіяни вдарили по Одеській області ракетами, у Запоріжжі троє людей постраждали від удару КАБами - nv.ua",
+          "publisher": "nv.ua",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQzUtTlZUdWotYzdVOU1kUnNHeU9mMEJtRG9adkRaN1Zhc254bmxBaHdVVVljZ1JNOF9JNU01UVAxcHJPQm1nZVJjbXJrNjJfMlFTa2ozX09yejFtVDJSdUdhbXRaOV9qSDh4WURRSEVjcG9BVE1VTUk2X0RNeXRZcVIzcTVUZHJWcmhFV2hVaHNPWWZMUkxTbVAwU1RPWkxiQklLM2JfanlvMGZJaTdjcnRpQ0c1ejFkejMxODVGaDUzdndPMzVrN9IBugFBVV95cUxPRG0tYmpyenJmNjd6QkpETE5TcnZFdzFFU2xTSjJIalRkS2V3TnVnRkxURjdrN080UTlUQVVLalN1S0FpVjlLMFFOY3UzSmhYbUNsbjk4aTdMMGp4bzFPamllMXpNRXFVT2tHREFoRmllTTRWSWZCZ1A4aXZiYVhzZTRraDh6VzdERkVhVHM4ZWd1YnNuNkdLZ2J0ejBsNVJ4QlhiWFNQTG1kbWJOUTdLSlQ2QUg1cEFEenc?oc=5",
+          "published": "Sat, 11 Jul 2026 20:24:00 GMT"
+        },
+        {
+          "title": "Антон Петрівський про напад на ТЦК у Львові: «Сказали порушникам зібратися докупи на певну годину і провели з ними бесіду» - 032.ua",
+          "publisher": "032.ua",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOGJUN2k2bVJmUElJRnpjUnVON18wQ2h3SU4wU3VKampsUV9fRjhJd2Nmd1ZaeURIU3lrNmtNbzFwanBtNHkzekxlUkQ1UW9qaV80QmhqNnI2eVY4NVhUWXVudlRHRWlLek1nTFlpdnJoNGt1SFoxVzkyZldtTzdLdU1xWkcxcDZaTnY4SThPTDQ2bU1sN2tXOTJLS2FHSFB6a1BSV1NnNS1aMVdBV3BiQU9OV3c5WWxVN2FaVnBNZUN5UXJ3Y1B2a0kyVTBfWlVsUDhNS1lpVmRYMUJ3eWFGV3FhWdIB6AFBVV95cUxPa1lQeUJITVdkRHVvUGtnX29WSHdLOEIxUEtyb2ZRZTJ3NjFvb01OSDRlVDM1cGJTbEd3TGROZnM5OEZtMWh6WUZMNWhKRkdFUjlmYllaMzVHWlhmbk1WU1BQSmVxMGlTTDNTN1hIWTFGX0c0TzNNRHFxRmVmVFhLeHd3U3RDekU1dnBLdDUzZ3BwekQ1a1JwMDdjQlpIZml2TWtSRi1IcXZLZTlSV09XNUhRVWFhempmeURlUzdiQVFtRHVlSXFwazNqSi1lOTQ1MHFKS1FSZlpPaEtQNkllYXNrUnVKOE9i?oc=5",
+          "published": "Sat, 11 Jul 2026 15:47:57 GMT"
+        },
+        {
+          "title": "Зеленський зробив важливу заяву про Волинську трагедію: що зміниться вже за два дні - ТСН",
+          "publisher": "ТСН",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXlyb1pWUlpnTFFBc0FEU1VJc3RRMTJVRzFTdTV2TDlMRzVISWozNWpwMjJUVHpNenpkMDRBZ3ZXT2s1RFlxWWx6b19EZHJTdy1qMVNFMTg0TktFLWRSUXE2cTZxWklPVU1JbnpjcnhNUW1WLTUycVB2TE5KdHJRSktjMERzU0VTRVJ2cktwdG4yaEZUd1VHRVM3ZFBPYm9NbURtV1B5S3VWYUJwRUV0YWhXbVl0YTZvWWFxdm5iONIBxAFBVV95cUxNU083akdTazhkSzVMMk81czR0WVRMdUI2R09sa2pxVGQ1ZThNcTVYZDh1cV94WXJXWVFLendGM2ExbTNuc3NPSkxvZWxjZURNTGhKaXJ5T21hcEFlejg0WjdUdW5TVXFfcXFyRXB2YWZsWkdWVXhXNnhhazdhQkFxOVBVdlVoOE44Y1BLbGIxanN5YzVWcVFHTWtoTnc4c1pxS2VIYm44NmZyalg2MzBxLWJ6c1FCWHdtWXFVQnRua1VsZDNL?oc=5",
+          "published": "Sat, 11 Jul 2026 19:44:08 GMT"
+        },
+        {
+          "title": "Удар КАБами по Сумах: вже 5 загиблих та 30 поранених, є тяжкі - РБК-Україна",
+          "publisher": "РБК-Україна",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1d0Yk5rRG5RUE1OWTZFWnRna0lweGFRUU1xa2JXWTdCeE5XeE5uOVZzRnJIWnF4aWh2V2t6d2dJaHN6X2lDR1lpTkZsdGNEVGk2X1RSdzdkSVpKeVozc0owN05ZNExHYXhtUFF2QU93ck5faEVZMlNSVHd4Q2YxTDhHVU4weFh2bUNZbktvM2xVVnNwakZJWdIBngFBVV95cUxORkhTOU1FV2dTdGZ5Yjk0NUJYeVRkUFBqNUFvRjN1bDdkS1U1WkxObk9QVXZRQ28wRkF5QjhPWERhRnNSaUlYd0lmMzNYWllEcVhtNVNXVlluRy1icm5fVGJOTXBneVktQzFuQV9pLVVBWWxjOGJ3QTVWdDFPcV91Z1RCVjNzbHMyakhTUVg3NS05ZlZ6aVFNaDU0ZnBBQQ?oc=5",
+          "published": "Sat, 11 Jul 2026 16:11:48 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Ейфелева вежа та Лувр скоротили графік на тлі спеки - Європейська правда",
+          "publisher": "Європейська правда",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DMVhnb3hrT2RpVjRyQ0ZmY3A0d3VwOVE5WnJXN1I5ZVZ5RXhKNmNXN0wtRHJDUFZQcnNQY0gwSkZIUzVQQWh2eG52UFBUaDJVVEwyQzBLdHhsNHRZVzdXS1VsOUROaUdsRkVR?oc=5",
+          "published": "Sat, 11 Jul 2026 13:52:19 GMT"
+        },
+        {
+          "title": "\"Перемир'я закінчилося\": Трамп зробив гучну заяву про Іран - УНІАН",
+          "publisher": "УНІАН",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONHNzbDRwai1hckFXZ24xNWZIMUdiSXZlN0pLMmJGZ2hjLTR4ZGJkVU5jZkZ2bllKRnBYVEk0eHo2Q2RMUk5FbVZNNWl6SmFIbS1RVWhhZUZ0eUpVOGRsZlBoT2RoazVWZHd1YW9VTHVGRHc1b0gtYXkxMl9yUVF0UUVwSVhicHVZRlc2Tm5NMWxBNEZxTk5rLWgxeTdkNG1UZEo0VVRabXVSalpuS29rUlB2Wk9WRUVhdnBtSi1UWdIB1gFBVV95cUxPb3NxZUdIM09LalBZdEdOenVEbG1WNnZ2M25ITlVDZ3N3X1pxY3RtMXNnMWlMcFN6bWNicFY1YkowRllmNjJGbXh3bEwzdmctLWRQd01HdnlUTFdobG1RM2hGNVBzSHFZNGFLMTNRSDU5VHVSVndaRkVwSDFwS3FlUGtxMHg5QjZnWEQzUkgyM1k1TXZTRS1xWTROMFRZVnZDcGlpMElkYzNJZ09yaHQ1enJaWWh2WlZSWnpNakxzdVQzNGtpM1IxWGtPTGo0a2o4a1lBRnBR?oc=5",
+          "published": "Sat, 11 Jul 2026 07:08:19 GMT"
+        },
+        {
+          "title": "Верховний лідер Ірану Моджтаба Хаменеї вперше після похорону батька звернувся до іранців і пообіцяв помститися - nv.ua",
+          "publisher": "nv.ua",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaFV0VE1oeTFnR0NEOFg3dXJBbUpnam15TDhVYzlvNnY0V1p6TDE1ek1BeVlwTVpMTnRRVmhtSGFjSFZXUVVsc3lnOWstRm9XcWFPSEluVHFRNUxVZkJOSHVfNU55SUxFWkRJdGdRRnZaX3AzaFhvTGdiYUx0S2djMGRQRnU4SGxOeEd5NW10bmxSRC1tZjByR3FkWGVpdWdqVkwzbTZmYkZuMVFxM1hESlNkYmE1TS1NS2dqS0pJeEJUd9IBrwFBVV95cUxQdzdCZDlkZmpLLTVpM2xPRE0zRGN3UFdGYURmN2hUVjJCTkNiUkpDMzRjRjM1THRMSTRxbndqaVhBdkY3cUkwRGM4cjVvdDlQTEl5UHF3UlN0OWxHSEhVeU1KOTZTS0ZyNW5VNU5lc1o5UGpPYUoydTJvb3hWZHRrWW9lUFNoaTFrRXZxdENqb3pjRENEdUw3bFY1MWdBY1lNSkxlNTBPekR4VmREeFln?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:47 GMT"
+        },
+        {
+          "title": "ЗМІ: Туреччина намагається позбутися російських ЗРК С-400 - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0teWZFakJ4dnZoZVlOVmwtSEttZU1FaWlsX1c0MmlkNXZrcWlvYWgzTEZsSDlHWUZ6Z0dQcmFjS2EzWDdwVXRlVjZSblJzSU44NEpXbzlBRzBMTW0wNjRv0gFrQVVfeXFMTm9aWGFqVDNteWVrNmsxRGtYZ29pWXkxYmhDNGVVVmdGOGFSeDByRVoybE13eGFqTnFqc25VdWVlTGhqb1ZhQ2dkbUhPUWh6d0V6ZGhlUmEwRXc1dlppYXoxWVFwRWlVN3RhSXc?oc=5",
+          "published": "Sat, 11 Jul 2026 10:31:00 GMT"
+        },
+        {
+          "title": "В Іспанії ширяться смертельні пожежі. Очевидці діляться \"сюрреалістичиними\" кадрами - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxMXRRaDlISVZvNWdKYVRWNG5FUjMtS0VoT1FtdzRITXdKRE0wVFA5T1g0aXFWSzBjOEI0ZUtOcUJRVlVGU1RWT0RkQ2ZmQXhkU2Y2MnNGdkhlMC1xS0lOStIBZkFVX3lxTFBLd1FGeDB6ZlJYT3VxUk0zbzFCLWlNUTVuQ3RBV1h3UW9kX01uRHhxcWM1b2NPa2F4SExpcjJDTERFYjljWTRKamRBUlpIdy1MOERDeklnNXM1R1Q5dHlGeE5qdlBxZw?oc=5",
+          "published": "Fri, 10 Jul 2026 16:59:28 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "Apple подала до суду на OpenAI через ймовірне викрадення комерційних таємниць - Патріот Донбасу",
+          "publisher": "Патріот Донбасу",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzkxZUh3T2Z5bDgwTC1yQUNjaDBhSldZcjllTW5JbXlxUXZ2VV80Y1l5Wmd2WUNqM2VXOEVMMHVaa2txTHBIeU9Dd1hZQ1VrM3I4QkF0MEdfV1J0YWRkVFRqZ1RQYXU4ZVBKQTE0aDhObXZEajVtV1BlUlluaGlyaGdwS1FIamFyQ3k4TnVJbGl4bkVKUzY3eldBMnV1S25uRWhjTW1xMFU?oc=5",
+          "published": "Sat, 11 Jul 2026 11:00:00 GMT"
+        },
+        {
+          "title": "Масові скорочення на Volkswagen: чому штат такий роздутий - DW.com",
+          "publisher": "DW.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzhfdnM0SFl2amhEdnlTa2o3b0V4NFBZb0JuWHdkR0pGOURMVnlCalRlTEIyTUJOM2Y5c2FkWUthWkdYUkE1Yi1SUjNfWjkxT0RVaGt1OHFCZ3h1T09MTmFQTjk3c1pQcjZMemcyS1VicjFVYTNzOFlrbTBJaHBWY3JHQ0FLQUdiRW1oOEx0T0FSb1BMNDhvVVhEcmlLcDVwNnF1WXJR0gGmAUFVX3lxTE1WUmVQWFZqckp1a0ZIVHFjT2F4eFA2SGZURDFWYTc4Q0NaUktRZF9oNmZ5QTBwSUdwcHlZNFBOaHJjQkh1R2VJTEVIcEZnY1MtZW1ibUVWMV8ybmNNQ2ViLUlFQ1RzSUxrb3lZR29YbW9wUldiSGQ4YnRGdUxFOVk3Vk9qOFhXeXAweVRhQ0s2ZVYzX2NzbW13UWFMbHAwLTV5NXl2X0E?oc=5",
+          "published": "Fri, 10 Jul 2026 16:01:23 GMT"
+        },
+        {
+          "title": "Новий Toyota RAV4 2026 вже продається в українських автосалонах: які ціни та версії (фото) - MMR.net.ua",
+          "publisher": "MMR.net.ua",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Wcy1DVDZaUWZUcF9SVm9VUmk1NktCYUl3YXJza2Y1eHVELThZTmdZNmFUVU44anE0RUFxTFFkOUthMGNXUXh3dG1R?oc=5",
+          "published": "Sat, 11 Jul 2026 12:30:35 GMT"
+        },
+        {
+          "title": "Капсула часу: ЗАЗ-1102 «Таврія Нова» 2005 року продають лише за $1800 (фото) - MMR.net.ua",
+          "publisher": "MMR.net.ua",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VZjg2c2h5RGxqMGlRVWFzY0I1R2J4eXc2ZHh4em1zOWhVM2tCcS1KLVl1bVRORGtxTHBjT1YxR25aWGhIaGVHR01mcFNGcVdH?oc=5",
+          "published": "Sat, 11 Jul 2026 10:30:18 GMT"
+        },
+        {
+          "title": "Volkswagen Jetta M6 офіційно розкрито: характеристики нового бюджетного електричного седана (Фото) - MMR.net.ua",
+          "publisher": "MMR.net.ua",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3OVpGR3ZYNjRSX1ZubXR4SVlxb25taHd6MjloN2Vka25BOWNBN1ZlSzhLNkI3SV9ZWmpjNTVTcWtoSE1nd3g4dmtB?oc=5",
+          "published": "Sat, 11 Jul 2026 15:22:58 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "Волейбольна Ліга націй-2026. Жінки: результати матчів 11 липня та розклад на 12 липня - Патріот Донбасу",
+          "publisher": "Патріот Донбасу",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXFqR2hTWHp3TVhqREZ2Vlp0T1VCUDhUOENIUUR4VTFseGREcWlQaXlLWllnU3JFZ1NaQmhZMzI5MW1fMm5HT21yZEpyOHh1V0hsdmxITG5KRWJySXAwVG00VXZOREhVcG5Db0tsaENOWWY3di1HRGdhTU5LbDVfRkhLVjNra09PMjJlbFBacXVoZUtfbEh2Tm1vTkliQWxlamJfdXQ0NVp4ZFVMZHJ3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:21:53 GMT"
+        },
+        {
+          "title": "Чоловічі стрибки у висоту та фінал Погорілка: пряма трансляція чемпіонату України з легкої атлетики - Суспільне | Новини",
+          "publisher": "Суспільне | Новини",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV0EtR2k4RWVUOHBZZ0o0VllDb1FxT3d5S0hJLVdwcDBFX2QtN2MzYUduSWVVWUdtRmkxMU9LZGlQMzg1NFNPTTQtVzR1N0NHRV9OSzVBUXVteDdXRFBsUkhSeXIyQkhrRlNYNlg5VnVxb0Z5SjdySEpiMXZOTloxUUhFMEQtejBHdTNSYXlIc3k4Vm9wSEZZeG1Da1VsUVJkM0VPSWhwOG5XZWl2WHB2X1hZcEk1UDIwWVpkMUFiVm1mdVNJdERXWkZyWDhwTmJJZlHSAdcBQVVfeXFMUC1Ydk5DMzR5anZ2aXhRQUpvdDE4RXBHTjFsbmppZmZ6RzV6S1hrTTJJbG5fZlRFanZNU0RrSWdCMFQ1SFd1OVhDR1YwOGFISHQ2Z0JPak42Rk95SjlJbVUtN1FTeFJLWldoRHBfU0JmT1JFcnM0ZTUxaDlVemhMVXFHYkxHRjlTdVNxT1pKS0lvUnNQUzcwaUxRZXhfM1pxdk5qeHhRWDgteWh2WlJSMmtqVTdpMVVfYXhkRnJjeHZTYlhLTVhlMnV3WXR1b0NQektrZ1FpY28?oc=5",
+          "published": "Sat, 11 Jul 2026 13:37:51 GMT"
+        },
+        {
+          "title": "Кривдниця Костюк стала чемпіонкою Вімблдону-2026 - ТСН",
+          "publisher": "ТСН",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ3VCcDV1VGZuX2xCOHl3NTJ1LTFmcl9kUF9zbFNaWW9LMndfT0JGZnh1SUJsQ1dLMXRJOUowTGhfT0RPVmhtMXI1YjczSER0aEhJN19yaGphZlJ4eVV3VnhFWXU4RzVKRWxuS19qOW1vUUx5N015VVNQNU15RUNqRE03TkpBRXd0UGxMOHdYZF9kV1VU0gGaAUFVX3lxTE9nXzZXVlhTVUFnamJHUVlDeXoyR0g4TDZzbno4dnNxcGc2Y0pCMTdWXzByZTRJUjBBYkgzTnBkV2tFclllSjQyemo0blpfZFdFWWVRSlVJa0NNTkdUVjQ1VEhSSFRFTS1sdGNVM01QeHFPQkR1cU5pVGNnUlNsYmdfWFctNXV1dlVhVlNDSjNxckE0QWItOFdyVmc?oc=5",
+          "published": "Sat, 11 Jul 2026 17:37:23 GMT"
+        },
+        {
+          "title": "Магучіх вперше прокоментувала скандальне рішення МОК щодо Росії - Obozrevatel",
+          "publisher": "Obozrevatel",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGZYMUozNU5BYzFDai01b1pQTTdmaEpISlNfdzJOOTc0N1dwWjZ4T3J6Y19FaUpyczRTZWcwdWIxUnktV0ZrUHFXdXhrb0xWX3B1cmxVLXZnMnp3RldmY1RRTW11VUdsdFhkdlBzOUFlM05NRmlSVEhweGFPWEQxbXJsbUVvNXFSTlo0dnAyQUVHS2ZPN2VOUDNKbllLcWhOSjBNNFN1M3FFTy1ZazAtSXI5VkNqd9IBuwFBVV95cUxPTXdUWkNadXI5UVBjaGdFN0N1Z25URGxqOU5SaXlzdFZxVGQ5aDZLRkZQREpOWmJyVGFfWVgwZ2w5SzBjOEJIMFQ4blBRWVFTNzB2cUpDV1ZWMXNVazlsX29HdVVhQ1FFQWNWR2RWOFQ3YmRhVzdOQzJfU0ViZmlidUM0OXgzM3hYLUwtc0NiVW9MTHhqNEJDajA1bzllM2ZVTEdNYzBBWTZWUHVZMGFaV1Roamw3N2NXanhv?oc=5",
+          "published": "Sat, 11 Jul 2026 15:01:33 GMT"
+        },
+        {
+          "title": "Норвегія – Англія 0:0. Онлайн-трансляція матчу 1/4 фіналу ЧС-2026 - Champion.com.ua",
+          "publisher": "Champion.com.ua",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDA0MGQ1MGJJUGt0TW4yWFZnLThHbzNfdUlQcTU1eTRxVTdWT2VwNGl6QmxRSFVpYWNMUEd2YWRwdFVHdDNqUUtyRnJNOUhSNW1Sd19LQ1RYd2QzMTZWWFBSZUxpMDdreEFfT1hCYU9OTlJNX2dEVm85RVhQVk04dTF1NmlUTWozVDRsc2YxMkRjRHFCM2NiZndDdHJ0T3Vy?oc=5",
+          "published": "Sat, 11 Jul 2026 20:56:00 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "Росія вночі атакувала Україну ракетами, БпЛА та КАБами: під загрозою були Київ, Одещина, Запоріжжя та Харківщина - nv.ua",
+          "publisher": "nv.ua",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR1YzZzluNnZzZm5JS1VweGRzdmpUT2dFY3NGQXgxcmptR3p5UXZYODUxTTRQWk9qSDJreUlZNnJqUXl3azlFR2E1bnk1d0JtVUZKUUI5cmZ0cXVhVEFiNnB5MjhoakRJUVVIdEtjZ2ZNcFdoNm5ZNkZUaldUeENBeFpxMXBrTld4NXUyWnVXR0V0SUMtRVV2cnhMeS1aUUFIelBwU1hEWDQzaHRoZ0ZGbTBLZjZTUdIBpwFBVV95cUxQUTQ1X3ctbXdsV0pVRkR2bXJjU1lEcDFZbDJPWnRINWtwZ0tBSnplVGtERURoanBIZ0Qxd3NHOGYzcDViZlA5VktZbzk1dGg4Y3FPQjd2OXI5THBaREFLWDZZM1VURnJubE94dlE5VWpaTWhyY2lQSVNPaHFjWlA0dnk4UUI5UjRVQW9QR0hfUm9yazk5WV9tZ29ibHczVFhmMzd2VnNtUQ?oc=5",
+          "published": "Sat, 11 Jul 2026 02:00:00 GMT"
+        },
+        {
+          "title": "РФ зламала камери на логістичних маршрутах НАТО, щоб стежити за переміщенням зброї – розвідка - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jTHVpMVE2RWltTXUwYVptSjlueWFuTHM4TG1DVFZiRE1tWkFqSW5kY014dExiZlpzdlZfS3VOc1JLUW1KTnBxMHlyMXFyWnJ3MWFST01GWVlWbXhLc2Jr0gFrQVVfeXFMT1NqTmFjUmJkSVA5Y01YazlsNE5oQVVSZmhLN3JCWWF3cnpnRG51RkM0ODlRVEdXRElwNnFsUjdSZ0p2OHdvYlVoVUVnYUJWU094Q1ljRnpXX2JqRnc3ampPcHBrUHlWdDk1SjQ?oc=5",
+          "published": "Fri, 10 Jul 2026 22:56:00 GMT"
+        },
+        {
+          "title": "Apple подала до суду на OpenAI через крадіжку надсекретних розробок - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QYVBEUUhxNndNRDZ0d2F5Q2JjbkJfeTUzbjh6bWxxSVhqc1VMamhDYjhPMGdySWx0aHJTNmxaLXpFajNyVmhtQktma0NyNnliU01NekZrX21WTEU1eU5V0gFrQVVfeXFMTXVPOUJwd284Tk9zUGZPYmFZZmNkUjBqLUhEOTBmRjFMZ0gyR0Z1NFVXMHVPcU1jVVNzWjhnV3hmYmswT1lTUFZ4WXQybHI2bWhIZ3hqcjFlRWN2SW5zOWx5bW5hMWRBX0U1eE0?oc=5",
+          "published": "Sat, 11 Jul 2026 03:45:00 GMT"
+        },
+        {
+          "title": "\"Обшуки у компанії були неправомірні\": виробник дронів Vyriy зробив заяву на тлі скандалу - 24 Канал",
+          "publisher": "24 Канал",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQTFJR3VSRmRoazhjanhjVTlMLXNKMEpFbHI5WWVISXdmRTJGX0RNU0oyWFFySGJ5RWF2bl9ZOWhDdnp1bV9OcnRHZFk5TnAxRnFySnVQSFAzNWwzalIzSUt1R2xJc1dOaHFYYkRkcHRQWFF1SDdOLWFhS3N0VU52QVRvM0VRcnRkMllwMmtXa9IBlAFBVV95cUxON1RDU1hnWEVQOEhIRlVjQ0NBRnBOeThYWjNlVmN0blJubjVTSmRIX0RMOXZxcDZ5QlFrMXA3R0FMTkFjNjBnV25NSjhPNkU0MlQ0TXZ0QkhOZTF1MnVXRGU1UGRHTzhVblMzQjRCekliZkZKSjV3bVFrV010aXpaZnB6U3N4WnIwdnBqRWJVcDhqYjBn?oc=5",
+          "published": "Sat, 11 Jul 2026 12:03:00 GMT"
+        },
+        {
+          "title": "Румунія заявила про знищення п’яти морських дронів у Чорному морі - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UbTk2VVlYQVNPUGZoczlOOTBmU3E5VG1WYXBWSjVLSjZSRHExMjEwbGY5VV9BZkNqVmNwRi16QzVxc1JtajBsVGRoU3lxaTgzRVZvWTB1aVNTemdVdFBJ0gFrQVVfeXFMTUVraE9SZmFEOHVsaTJrbkhxTmUwaFJlOE5kQTNxaU1zaWNibjQ4Qy0yZk5wb1J2bk9fVTVjSVYtU2ZtLXJjVkdxNE12Q003aWJRbEtuY1NUbHctcW5UZXYwcmxKT0lWOWpKQkE?oc=5",
+          "published": "Sat, 11 Jul 2026 09:00:00 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+        },
+        {
+          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "publisher": "Business and Investment Development Agency - CzechInvest",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+        },
+        {
+          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
+          "publisher": "KTLA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+        },
+        {
+          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
+          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
+        },
+        {
+          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
+          "publisher": "KSL.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
+          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
+        },
+        {
+          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
+          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
+          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+        }
+      ]
     }
   ]
 }

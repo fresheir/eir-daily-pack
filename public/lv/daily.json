@@ -1,43 +1,260 @@
 {
   "market": "LV",
-  "generatedAt": "2026-07-11T00:12:47.799604Z",
+  "generatedAt": "2026-07-11T22:46:05.494391Z",
   "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Zvejnieksvētki Engurē: no senām zvejnieku tradīcijām līdz iespaidīgai kravas auto parādei / Raksts - LSM",
+          "publisher": "LSM",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdGVtZUNvSkdVQ1oyMlFIZXB3bTRiT1Rlb0d2ekZtR0YzTDdiRXN4YzlaamhYdi1yNjZTb0F6dmhwYmk0M0V6cGpxcGpaRG01VlAzOUk4VXBWQlFHZ3h5clctWEFVUmw3MzJBYlJqaUV3YmdLQ21BOThLcExaOUhNc28ybnlYWjE5UHF1c21QY2s3RGtpS0FySU16RjVkcXZOQjJsd1VDemtRVGdqUDhYbTVidUJEY3NSRmgxQWQtQlVIcTlDN2VPTVNZYVVVa3JOc2N0empSZWdjYjRmM1VLY2pn?oc=5",
+          "published": "Sat, 11 Jul 2026 22:31:56 GMT"
+        },
+        {
+          "title": "FOTO. Sarunu vilnis pārņem Cēsis! Festivāls LAMPA pirmajā dienā pulcē tūkstošiem cilvēku - LA.LV",
+          "publisher": "LA.LV",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmo5cEtBNUJNaS1iQ0ZQbVB1emFsd0ZtT3lQcjBKNlZVZjdXT19rLTdIeG9HVlc5Tlc0SDBya19pZUhkVEhkVElVbnlVUXBoVTRlWEJHdVNvYVdjSV9DZ2dsdnFNZHRNc2dVU21HZWdSSzdwMWN5cjhrQ0J6WFlWRjJXTUVDZ1lKSEVhemFFYXB3U1pDNUF6Tl84NlBxVlNSaTMzMXV3cw?oc=5",
+          "published": "Fri, 10 Jul 2026 18:46:10 GMT"
+        },
+        {
+          "title": "Par spīti skandāliem, koncerts \"Manai dzimtenei\" atklāts Mežaparkā - tv3.lv",
+          "publisher": "tv3.lv",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3dTcDRsaWJPX2ZzcWJwbUoxWkJndlZaT1BDOWdnLTVCTks2ZEllbjFJT1lqd1A4bm13VkUzTFhUX2lNSTRJOEV3Mjd0dVdmQkNsZWlDNUtscVhJS0hFekJOQkdOQ050R05PZGlJV2w0Sms1a3ZpRTFOaXNGbnRJU1FPQ2R0S09yYlF6ZTJqRWtsTWlNOFBzR3RnMFpxbWFOTDllOGxxQQ?oc=5",
+          "published": "Sat, 11 Jul 2026 18:22:44 GMT"
+        },
+        {
+          "title": "Sestdienas rītā uz Tallinas šosejas avārijā bojāgājušie ir Turcijas pilsoņi - Lasi.lv",
+          "publisher": "Lasi.lv",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlNBcjRKWjdDcHpEMGhrTTJxVkc4RXJ1cmxHY2QwdUpEWnZWXy1rd0I0OEs0bGpIa2RneUtzdFZxcm5DOHVLUnlZb3NEZW9GQ2s5WW1KTEdhRmdST3Q3dm05VzNJd21MakdkemRraEtubEtUNm1EV0x1Mk93eWVxcWxWb3ZORzFKUUlxc2szejZDdjZTVEZFbkg2Nm0xajMzWlRZUEhnQjlKUk1xOVl3Q0trQ2RZU0Y1?oc=5",
+          "published": "Sat, 11 Jul 2026 17:57:10 GMT"
+        },
+        {
+          "title": "Vasarīgais siltums atgriežas: svētdien termometra stabiņš pakāpsies līdz +27 grādiem - 1188.lv",
+          "publisher": "1188.lv",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnpMVUFsMnZiOXlKTWh3ckdBSk4xUlJJVDAwWWtKbUFXVk53Q09mcldCQjZRM1VOaDV4TTJCcmRGY3hXbVRRTmpaWVpRMGdyMDJrcTlSR09ERVdzTFFsdmU4dlhhbk1tOUQ0ckZZSi1uM3FiX2NMVnlVZGJLSWRKcW1FdDZJRk9YenBabVA1Vk9SVnBLMEdrbnlsam1HSXZZNHE2SGtlYklFc3NqV3NmRzJmN1M?oc=5",
+          "published": "Sat, 11 Jul 2026 17:49:45 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Krievi uz Ukrainu raidījuši 12 raķetes un 121 dronu - liepajniekiem.lv",
+          "publisher": "liepajniekiem.lv",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSHQzU3V4enpKTnBuQWZ2VGVWQnFwWHgzMVljOVNsdkhnWkdEMjloSGE5UkJCcWxTMVBjajQ2TjFDZHZ1R2NxeHpHd3BkQTNGY3pjenhKZGdVeGVMWGVQeTJ5aElDR2d2a2dsd2xmaVBxZDNrR3VKVG0zS2tLazZiNnVEdk1qY3kxeXJ4ZGJnSzJuSG9aWVg2RGkwa2huLUZ4Y0YwUlNPWHJEUQ?oc=5",
+          "published": "Sat, 11 Jul 2026 09:38:24 GMT"
+        },
+        {
+          "title": "ASV gaida Irānas atbildi par Hormuza šauruma atvēršanu un aicina Teherānu nodot gruvešos apraktos bagātinātā urāna krājumus - LSM",
+          "publisher": "LSM",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZzcyZndfejU2UTdmM291Y0xLdTZOOU5HVThmdXluNENDazJSNkxhbllIdWY4M0dJZ3FiRS1UNGNGcm9DYTBjWHBjbzh4ZGJZYjZ6anpfTlROSi1zMVZLRm9HSWVpYnRBVC1DRGFLUy13THExTlJITzI1NjljN0h5djlVelZ2UnhBSG9VVE1JWkw2S1pZb25vNFVQUUVuelBQZkN3WTU3LUkxc1ByNmpYbFYydU83a1VsX0JEYl9SSEZlSzBpeFluWHJfSEd2dkFPRndmNEo0M25qNVBMYVFNR0VGSjNoX0Q2MzViVVhzTUJWVFUxLXV3d0lkcS10M1dYQlFaRlRWTDRqS3NtcF9ZdQ?oc=5",
+          "published": "Sat, 11 Jul 2026 16:06:34 GMT"
+        },
+        {
+          "title": "Krievijas uzbrukusi Ukrainas austrumu pilsētām. Nogalināti pieci cilvēki, 29 ievainoti / Raksts - LSM",
+          "publisher": "LSM",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOa0RNWmotdVd6YncxdDdqbVBhc29rR3ZuTzNmSVdEaWw4M3RwWDllVHhTdTYtNHp2LTNhQ0hYMzk0ZGdWSnFnRUFFdUY1V1dGWjYtWjhoV2NxOGpfc0oxS0Vyb0xJOG5zaDZQQXNON054cHRJZkR5c3FDYzJ3T1BvUUlWYUtiZ3dfcXNBQ3hwZHdRTXpsMzYwazFEeU9UUFpHQ2JYeEtBeGFSNDBwNl81dEdCUzZGNFJZbDBHSTZMdnE1RjlkZDFnOW5leF9WMEVTQ0RTYjVOeXBSbUYtaUlVRDJta0dMTUFlUXlIT1o5T252QnJhNHlvTXNRbVhfR1ZlOEZZNVRoR2Q2aloxYVhyVFV2QjBhVUhzU3FINjJR?oc=5",
+          "published": "Sat, 11 Jul 2026 07:47:32 GMT"
+        },
+        {
+          "title": "Volodimirs Zelenskis sasmīdina NATO līderus ar asprātīgu atbildi par tikšanos ar Putinu - Lente.lv",
+          "publisher": "Lente.lv",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSFVqR2Z4ZU5LOWFQak5DOV9lRW9QSXV4WFl2S2t1S3FpOE1RVE1mdnV4Wk9hSWMtLUNEb2pGNHg3VWN2b1VBVk1rSkJfdnBqYzB5OEtzVEVSa3ZxdzZ3aVhyVXVrajd2RkQ0OXgyRVNFc1VtVEo1cjRGcVNPcWdRbTdrUmtiR3ZNZU5NUTc0ZHJVMG52cmZuUFJRNGppZWVXQndxdU1NNnpSRW9oVXdOd2h5LVpDalVsU3Bjek1SaFY2WVVvZGJHeXlVcw?oc=5",
+          "published": "Sat, 11 Jul 2026 06:35:11 GMT"
+        },
+        {
+          "title": "Ukraina Azovas jūrā uzbrukusi 21 Krievijas tankkuģim - 1188.lv",
+          "publisher": "1188.lv",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzVwdjJjTmVXeW9QV1FvNWZ3bS1lSmMzd3FHeV80ZnNnWG5HSG00YnJwaExxcXVLM1NQaFlXakY5cmptTHdycFh6Nl9KQm1QczN6MWxhcnQyWnYwamsyVjhGVElWZWpfaG5UZDhnbkhQMHJRN2JIUTJ5Z04yVm9Gc1hfRmpkYUpLckhObg?oc=5",
+          "published": "Sat, 11 Jul 2026 19:03:45 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "“Apple” iesūdz tiesā “OpenAI” par komercnoslēpuma zādzību - Kursors.lv",
+          "publisher": "Kursors.lv",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYnZqTjhOTWhnWXZ2dWRKcC11RlpDazYtb1JYWUhONHpvTDV4REllZGRGdVdqZFM1V0JkLVdqRVVpY055dE44MkE3MWRtbUVVM3ZaSGNqcHdYYzlJVkZKbV9CMXBwdmgzaDk5UGs3aVpON1dVOExjR3pkVEtrNzIzY08xclQ2dmdKYkxFSA?oc=5",
+          "published": "Sat, 11 Jul 2026 17:14:31 GMT"
+        },
+        {
+          "title": "Atkarību izraisošs dizains. EK vēlas izmaiņas «Facebook» un «Instagram» funkcijās / Raksts - LSM",
+          "publisher": "LSM",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNckFObXRsSFNJOERPc1JRSGtnTGV0OG55TlhMcDU4X3VQWEZvLVo1U3MwRUNzYWpPQWJRWTNhdWFzSTBLdE00eFlWQXBBTk5RR3BKejd0TzV5dk9PNnJkdkE5SEZObmJHR1ByWWc2WVZIMm9UZ1lfeTZyZFU4NXAwMjVfUURvdEFKN0pCNHg2Z2pCWnFCRTgzYldEMkdodnM1blljLW5lT2Q3dHZsLVlnYktCSlEySDV0Y0ZZNkFJTUFycTRWeUhTaW5BZ05OMnMzN2c?oc=5",
+          "published": "Fri, 10 Jul 2026 12:06:44 GMT"
+        },
+        {
+          "title": "Truck Meet Engure 2026 - iAuto.lv",
+          "publisher": "iAuto.lv",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zLTYyYXR0aHltVkp3OWlhbnBUZzQ1dzVXZmFaNlc5N21QX3dDUTFnX0hjbmdQYlZlbXQ1RG9MS3Ewd3ZtaVZNZXd2WVVPX1dRVDdZY1FLVHdibV93eDU4SG5mWWFmOFQ3dkE?oc=5",
+          "published": "Sat, 11 Jul 2026 14:11:53 GMT"
+        },
+        {
+          "title": "Latvijā radītais “BirdyChat” ievieš API un MCP atbalstu - Kursors.lv",
+          "publisher": "Kursors.lv",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGljczItLXdNQnUxd0Z4Z0xNU0tVa0JEb1BCVEhiVnJfdFFBWmF0SEJxZ09QZkdlRzY0a1dfZEo3dnZ2bHN6eHJ5Sm5mRUJEbjBNS0Z1VzA5bVZNYmYycTdXNVhGdmdFNGhnZDJka2xrWlpNN1p5TU1iRnlVV2h1MlA1WVQzVTl1T1R3VQ?oc=5",
+          "published": "Sat, 11 Jul 2026 06:00:00 GMT"
+        },
+        {
+          "title": "Hormuza šaurumā atsākusies satiksme – tas maina situāciju pasaules naftas tirgū - BNN.LV",
+          "publisher": "BNN.LV",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTNzenI2VGRlTFRxZWRJcFN1eEx5MHVJb3RzbVF3aWJDUzJQX21QeFlaek9HVEJiVWdVX2NjSzhFZ0c5S25MSjhlZGh4Y054MEotUXV1ZUdZbmlZYXhIUDNFNXRWR2ZERWY4aW9KeWxyWEU3R2pVeTBtaFZSX3RSSFVnWHpXSldQSVJpLUZ4NWotN0xKRFBieQ?oc=5",
+          "published": "Fri, 10 Jul 2026 10:52:19 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "Gulašs pēc \"espresso macchiato\": Latvijai otrā spēle pret Ungāriju – Basketbols - Sportacentrs.com",
+          "publisher": "Sportacentrs.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVlFMVzdtMGpOd18xaHozUGxFTkpOR3dGYllQdjYxdXZlcDN2SElHMVRMZVEzXzQyd0tuWjJOd1ptLWJTSWM4dWp3RDlXdUNMY3o5UkVfYTR1QVpPU2t1ekhCMXZ5QmM1M2NZMThlQlVoV3oybGFILWV5LS1CMlZiSF9DMWFfR0c5LWJla1V0RUk2QWRXcnZR?oc=5",
+          "published": "Sat, 11 Jul 2026 10:31:01 GMT"
+        },
+        {
+          "title": "Latvijas U-17 basketbolistes cienījami nospēlē pret spēcīgo Austrāliju Pasaules kausa pirmajā mačā - Jauns.lv",
+          "publisher": "Jauns.lv",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRmJsbFFFLU01aExnVkdmN1ppZVBtQVlncENyQ0k2ZHlyMnIxQ1BWbDE0NnlmZlk5dnJzTndaOUd4dEJkTVcwUVJLMFVoT3l4bVpkekd5cW1ac29BWnU2eE5vRTBMdXFhRUlqa2htSjhzVHhHV1hIcTNncUxPVG80ZnB1ZDRVT2tSU2ttd01HbUc0bFB4NFBqYS0zd1lCT09GN3hMbnRUaVZsRzJtTUNjS3d1XzZkVXJHV1hoOS05SGlBSGZPUlUxM0dwRmdyUHNpcHc?oc=5",
+          "published": "Sat, 11 Jul 2026 21:28:21 GMT"
+        },
+        {
+          "title": "Čehiete Noskova draudzeņu duelī Vimbldonā izcīna pirmo tenisa «Grand Slam» titulu / Raksts - LSM",
+          "publisher": "LSM",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd19mUGg2TjdvdmFIRC1aRW92VzdoQ1BNLWs3WGVHcHZ0N3dGdlh3aWpHb3FnTmhjbW9PdDdOLTU1RE1kNnFYelRjdnpRZTlKTklrcmJmRTVQMmM5YVJIWlpNWElRNTVNQ1I2ei1va3k4WjRLOTN6a2hZWkxjNGY2Q01qSTRzdG9Jc2VvaUxQWW1hQU1MREV2SDhxZ0lsaGI4MTZXRW9xYTZZd3Y4UnNVUThBRDFmVVR5aE5GMG0xOTZXek5kNElEdGxHcXlHTkR3c2VNMjVn?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:16 GMT"
+        },
+        {
+          "title": "Neilands palīdz komandas biedram izcīnīt otro vietu \"Tour de France\" posmā - Sportazinas.com",
+          "publisher": "Sportazinas.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamt3WGtkTDVGa2p5WjlVclhka3NnY2E0VF9iTk5GdjdxcklueFFkRmZ3ZWNpd0NHUW5BTlUwN1c1UW5CZXdLSlEtRVJvOVl1emdYTGxxbmdzUGFjNDVNa1B3RWZtaTR4ZnFuZS1wMkk4TjhpZngxYzBvSzFscnZkNVZtejBOT1gyWVo3N05mNkZoSTZFa2EwRU03ZlJjbkp2bWp3?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:46 GMT"
+        },
+        {
+          "title": "”Auda” nokautē ”Liepāju” - liepajniekiem.lv",
+          "publisher": "liepajniekiem.lv",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2VjZZSC1RMWFMQ2tzcFQ2bHJrVElOdEdXMmFnSlhrb3pxenNZdEk0T1J1eHgxajdMR0ZUWnFFYk5QTWIzZkVEeDJCWnY4aTFxRVg2UXRhcnp6RzI4N3dUaGloYlM0Y1VMem1ZeWllYzNZaG8?oc=5",
+          "published": "Sat, 11 Jul 2026 18:49:15 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "“Noise” radījis konkurētspējīgu un cenas ziņā pieejamu bezekrāna fitnesa aproci “REP” - Kursors.lv",
+          "publisher": "Kursors.lv",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd21ZeUcwLTJmc0RFZW16TTZqMzNHTnhrUmMySmFOZUFVYV9rQkt3SDRwS0luNy1VOWFMbkZueFBRbHU3c0pRdDU2RS1aNEJ0bGRrSUNVRFpmQTE4TFNZbXlXWnBLMVhFT05fLTkyUXpxZ1IxQml3blRRUkdyeEo2MkZtNmdrX2pKWDE0MWMzNzl4aE9MeHQ0Z2tUNkxYcDZmbDY4Vnc2aThkdmhCU0RYYjV3?oc=5",
+          "published": "Sat, 11 Jul 2026 08:00:00 GMT"
+        },
+        {
+          "title": "“Microsoft” nespēj sasniegt paši savus nospraustos klimata mērķus - Kursors.lv",
+          "publisher": "Kursors.lv",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1BkNGl2NzdKVi12aUpQV0MtRmxzUTZneUk4bDY0TWVLZjB5UllFc0xnNkEyNjFuMUFVeHFxSUFOejV4Y01zZXJsd3pwZlBIOU9DRjNkOGZ0enF5NzZYNUl4MzZIc2ppSlNCdS1yVFd1VG1rYzlxNmVSY3Vub3lTVU50cGVNVE9jUGlLZ1RFVU5FS2JVb2RkRm5n?oc=5",
+          "published": "Sat, 11 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Jaunajās “Samsung Galaxy Fold” ierīcēs locījuma kroka gandrīz nebūs manāma, bet būs kāds kompromiss - Kursors.lv",
+          "publisher": "Kursors.lv",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT0dKZTl4RXMwZnRBbk51SkNaY0hoWmhrQWlQMXY0QUpaMEt5a1NFZ09IZzR0VVZibUFTZGNPZ3V0WXpqS2FKTlRFaEtXZ3VFWGNKNHU1XzQtV2RlWFI3SGxzXzllS0daUlBXZmcyNjlXUjdDWm5UWjdRc3pLRmVHZUVLXzlqX0ZRSHA3c3V5LW1RSVdjRFhlLVhza0s5cXR4dXdtb1ByMmdPcE5ZaDZiR2NLYmtWdldrZ2psa0NMQ2VVcEtqV1E?oc=5",
+          "published": "Fri, 10 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "“OpenAI” slēdz “ChatGPT Atlas” datoru pārlūkprogrammas projektu - Kursors.lv",
+          "publisher": "Kursors.lv",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOG4tVWI1eXA3OGRDRk9NUWprZHU2MW96VHBvNVRJQUVQckJUNVpac1NqVmR6RHZucXhxYnlwVUFqWjBNcFp5VXFaRDF0YWJKaU1NaEEzTGxzZHB5X1BfSlN4SGJCcGdfQnAwSU52WXVLTmxFTEZHRFVkamRiemFlRHhHeXRqVmp1M2F1RXplRjJxVUlx?oc=5",
+          "published": "Fri, 10 Jul 2026 08:15:00 GMT"
+        },
+        {
+          "title": "“Apple Watch” dominē viedpulksteņu kategorijā, kuri spēj lokāli darbināt MI - Kursors.lv",
+          "publisher": "Kursors.lv",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNalQ1QmUtQzRGRFJ5cjl2ZnVhblNFdWxSdzFoekFRVFVJRDNELVl6d3VFcFB0TTVfaDlUMXpHRllYZU1IVVFZcWphY3UyMGZCZm1xdU4xZHVKRC1OdTlwVXFJWVZnOGJyb3lZaGxXeVRhSy11dkcyTHNYRlFMLUx2eW9sSERwaG1HOHVYUkFPUEZKMjc3clFSZVY0VE9acGlVZ0dsbHVn?oc=5",
+          "published": "Fri, 10 Jul 2026 08:30:00 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+        },
+        {
+          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "publisher": "Business and Investment Development Agency - CzechInvest",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+        },
+        {
+          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
+          "publisher": "KTLA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+        },
+        {
+          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
+          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
+        },
+        {
+          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
+          "publisher": "KSL.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
+          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
+        },
+        {
+          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
+          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
+          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+        }
+      ]
     }
   ]
 }

@@ -1,43 +1,260 @@
 {
   "market": "DE",
-  "generatedAt": "2026-07-10T23:17:41.556949Z",
-  "validForDate": "2026-07-10",
+  "generatedAt": "2026-07-11T22:45:11.127596Z",
+  "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Telefonierte Wegner mit Merz? Kanzleramt widerspricht Rathaus in Berlin - T-Online",
+          "publisher": "T-Online",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSFREUk40d2R5WWtaOHdMTUdXbDZRQy1GTnA1RHJLVVJrN3REZVh3amgzM0U3b3FDSUx4Uzg5Q2ptRklNRVhMcXgtU051UUlCNFRyc2YtNUJaT0xBZVBVXzFrUTdHV24xRVhoTVVibWNLTHU2LXF1ZW00UUt5ZU5jMTdSVXRpSUcxSE52SWRYUnlKMFNCUVlRMUdwV3k4TXBKUkRSeVdxeEk3eDBmM2hhMEcyRXVoQVZkOTdsM1A3Rm5jQUkxd3BGT1hZYUdQTVVubGJKNDludUVkNm9qUTMtVHBWOEQ0QQ?oc=5",
+          "published": "Sat, 11 Jul 2026 15:12:38 GMT"
+        },
+        {
+          "title": "Wehrdienst: Janosch Dahmen meldet sich als Reservist bei der Bundeswehr - DIE ZEIT",
+          "publisher": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQelotekpneFc1ckJQRjUwdjM0M05IV24zY0lnaHFZYXZlVFNxeEJldGRETEtESXlTSjdpc1JjZkFYMFpmSUFsU2NYYUtoTzBGdUZNdGhUWTJuUE5fbXJzcnlvS2VfRkl5eVlZTWZ3VHp5ZVduQWZSZGdHSnlxX0xtMDNVVHhaajBPcVE5YnczMEpHV0h5STl5VnhVTzBoNXp0eE1MZ2o4UkYzdw?oc=5",
+          "published": "Sat, 11 Jul 2026 18:30:27 GMT"
+        },
+        {
+          "title": "Flucht von A46 durch Haan: Jugendliche flüchten vor Polizei und crashen gestohlenes Auto - RP Online",
+          "publisher": "RP Online",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYVFRZS05SzVoalVqd1ZPWk1XN2xoY3pJSTFyZjBRbWJHMUplV3pSWVo4MXFpM1RZUHJ0QmNPQjlRRFhqYXF2Um9Ua3p4QXh5ZXc4ZlBNR192ZjlEX0RFWU4zQWxFUVdVZWs1YWtHQnBrLUdDSnpOVXhXWUQwWDZTLUhqajhCckRCRWloeTRLOFg1SmVaclZNc0pyRGNyU1NtUUltZWtnX05PcmNrS0tQVFROS0w5V28?oc=5",
+          "published": "Sat, 11 Jul 2026 19:20:00 GMT"
+        },
+        {
+          "title": "AfD plant Regierungsübernahme in Sachsen-Anhalt: Das sind Siegmunds Sofortmaßnahmen - Frankfurter Rundschau",
+          "publisher": "Frankfurter Rundschau",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0tuS3l1eWQzU2Z0Q25FUkVTaFFZZEYyVGFHY0tDRGxYMkI1ZW01XzdUVk51YXpPN2JXR2tYbTJwNXBDOVVKQnJaZ20zOXQ2dVNPSjRqZUZNdTNZQ0F4cjVIc244TW9IU3JrQkFWOG1QS3h1Q25GR2RTSTBfMVpTMXZlNVMwcnNXeXVYcldNWVdWQk9wNE5xRkVRV29tRFBHVTlqbzdTVy16MjZEUm96bE1KOW4?oc=5",
+          "published": "Sat, 11 Jul 2026 15:24:00 GMT"
+        },
+        {
+          "title": "Staatsschutz ermittelt nach Feuer auf Bahnstrecke Düsseldorf-Köln – offenbar linksextremes Bekennerschreiben - Deutschlandfunk",
+          "publisher": "Deutschlandfunk",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONUhxc3lEckxLUmpQYVBfY2JxeUh6SEk1SjFkZjhJVUhyZnk3U0NRa0xlM2pKUzlNLVJLRWZyMXhycWVZa00xTkRMLW5wRGJfUVdVNFU5NnNCUzlzWkxKdE90U2Jpclc4SnNGY2hFQ2x3VzVVTzlxcmxDLW8zSlEyZkxXU0xqR1o5TGhzUWczWTlpdE40VWhILUo2MFRPR3hZbHRSZFpoRkNNeFFnY2xIc2JodHYtYnFSNnRfZ2NvY1JBc0VBQWxqRWdTUENLSTFWS1hZUEl1QQ?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:32 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen - tagesschau.de",
+          "publisher": "tagesschau.de",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2QmhnVnE3clVpcTdLTTloNjc4MTZmRG5ydk9ULVEzYkxnOTliNERiQmNsaEhVeURGNEpXVU10V0E0WE5rUzFDSFRfNGtRZmJJek1iSUphRXQxMFBrZkZycHBJemZRWjU5NEdxalZvWFhPLWs?oc=5",
+          "published": "Sat, 11 Jul 2026 17:36:00 GMT"
+        },
+        {
+          "title": "„Jede Frage richtig beantwortet“: Trump rühmt sich mit fehlerfreiem Kognitionstest - Tagesspiegel",
+          "publisher": "Tagesspiegel",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcnVYWGNJM0NKTkhmenhodGhKbHFzYlQtUm85X2xwa3FHWnZlQnkyUjVNb1ZxR05YMzVGcnhvdkRPampHdUhBNGN1N2lNRmxWTFk2dGNCYnZtbnlzeWlNZzZhdGdJZHdpTi1hRnU2a3M5UWhXMlBPaDF2VXdhN21HbVJyeFJ0c21pWlAwX2dDSkcwVVU0Vm9kemxGaUhxSjNpOW5nMkVqZzZHZExoOVhNdXhfMzJFelBPUkJYd2NB?oc=5",
+          "published": "Sat, 11 Jul 2026 20:00:22 GMT"
+        },
+        {
+          "title": "Droh-Duell geht weiter: Teheran will Rache – und Trump verspricht dem Iran Zerstörung - Frankfurter Rundschau",
+          "publisher": "Frankfurter Rundschau",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObk9rbW9EVkxnTENhaTJ3djJqY2tIMUxyODVnWUtTeU12RmcwNWpZbFcxckdHM1Z5S1o4aDN6MVlJVUZja003ejVPYzh0eXk0X05DLU9sSG9HS2VreEVNOHdGLWlyNlo3ZExiVmt4a216UFhyN2FCdFVuazYxZ096dWdvMXdncmtoYmZmR1BKMl9SZkxiTWo1a3ZLTnY1QkNkWjU1ZndiUEpadm1KaVpxdXdaQ0xLdVJFeWJ4R2N5RlF5d0Fy?oc=5",
+          "published": "Sat, 11 Jul 2026 20:22:21 GMT"
+        },
+        {
+          "title": "Wadephul: Trump hat \"in der Sache\" recht – es geht um die Nato - T-Online",
+          "publisher": "T-Online",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTEpCa2NjTDBZelRZZ0QyVkNqYzZ3Y1NBcGR2NHRQWG4tQWdzWVBuQ2w4RUQ4M3lHcUkwNTMtSlpiUWRJbjVxSVNwZjJzX3ZHOHZBeGJMWVZtMjZhOGk0bnl2aFB1X0IzQjFxQUduZ2hDcWFGTzh4NUNQNW5GbDdnUFZ1VDhtTFludmEyZ0RzYWNOSmtlRExBbGRsdm8zRUtjRjdDOXE5NG5aaGJMcXpEMUpYdmNsQkpvdjlfN3N2VHZZYzVINjhuZ0lnNDJCaXM?oc=5",
+          "published": "Sat, 11 Jul 2026 13:09:38 GMT"
+        },
+        {
+          "title": "Auch Touristen evakuiert: Feuer in Südspanien wütet weiter - mindestens zwölf Tote - n-tv.de",
+          "publisher": "n-tv.de",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1dfd0Y0Y1c3UXpjc3M0bGNzMnNVejNlMS15MnRSbzgxRUYwVnJoajVFdUhsdlJCcUF1MlgzTnM0WEtvZWE5bWR2d2hXNjl2OWltSVJIcEo1U1h2UFR5STZNSUJzYzZPTEJqemE4SXo1QUk3SXdsbm9ZT2d2U1k2LUpaM21vY1JBNVlNOFp6dFM4NnByZkVUSWhsdDMzV0szdjNvcw?oc=5",
+          "published": "Sat, 11 Jul 2026 14:53:09 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "VW: Betriebsrat will Vorstandschef Oliver Blume vor die Belegschaft zitieren - Spiegel",
+          "publisher": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOU0syQlZBY1lYVGM2T1lQYmVuRUtzLWNPQmdKd1JCYmVsLTZZUVJoN3J0MWtibmZ6UlVzekM5cUFKbHZKdUdjNWZuNDJxbnVucG1VUWRfeGJXNjEtekV5R0VhRmMzNnl3VDVUdHMwQXl1aGZOakQtRTJHUW1oRlBkVVBHU1F2MjZuM18tdGYyc09VdVAtTXgtX3VUbWpTTllxUFZyX0FuR0JtZk1WWGUtQmlmcTg1NFV2WG1CMVZkazRmam96dHF6YXFILWt6cXV0c2Vka3cxamtOTDh1WWxlZjJkaW5wc3htaFV1RjlweWJpWXZ5YUgwcEpweHBhck9X?oc=5",
+          "published": "Sat, 11 Jul 2026 10:53:00 GMT"
+        },
+        {
+          "title": "Apple verklagt OpenAI wegen angeblich gestohlener Firmengeheimnisse - tagesschau.de",
+          "publisher": "tagesschau.de",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53TEJFWDJoNVo3d3BqdDFBdlRBNVZHRzZZVjJEbGhDYjh5Wk0tMDhod0VYOEZUWlRtLW1ZMzU1LVZDVDV5ekl2RnBQdHIxOUNvekJNZEhyamtLempMb01VYnc3bWZNeEtIYlc0YUQxRGtsbWZrY3ROS3VlMA?oc=5",
+          "published": "Sat, 11 Jul 2026 02:46:00 GMT"
+        },
+        {
+          "title": "Parasit sorgt in USA für „explosionsartigen Stuhlgang“ - STERN.de",
+          "publisher": "STERN.de",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOekpoSWd0dktiQWZ2TDZfeTN5T1pJaUFUTUx3bDBOQ0VpcnJCb0hMLWdVWGxBRmVrcWdUeHhsQU1KMWstdm00bG1XSk50UjZBLWJ4YVBHOEZ6SXByRWthNGIzRkVUS0IyYVA2MUFDblpUSUFQYU9DX3I0NmV1b2VENm5uNTNidFdVcVdtM2cwNkdDMTJ1bzhzMDhRZmdWYmpKem1SRUJFN19EOEFNWFNF?oc=5",
+          "published": "Sat, 11 Jul 2026 16:55:00 GMT"
+        },
+        {
+          "title": "Unicredit übernimmt Commerzbank: Der Sieg hat viele Gewinner - FAZ",
+          "publisher": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZnFFSGhlZU1QQXZuSUtGUXVScUNsbUIzbzZJSmc1MnQ1RW52QmtoMExIeTBVUUdTTC1VN1ZpQ0piZnhUVGpWNm1RZkpJbEo3NEI2NTVsbXh0ZmFkbFcwbDBfUkF1bFBHcHRuRzZ6SlhlZ3g3Vmh6enY1N2lyd1VwT25QYkZXWFNRZ3VUQ2pDaVZSTTFRS2lIUnlUYmdsWnpRR0Q0Y0lLcXlUU1c4bXBFOXdoX3Y?oc=5",
+          "published": "Sat, 11 Jul 2026 10:06:56 GMT"
+        },
+        {
+          "title": "Wettbewerb: DIW-Ökonom warnt – Technologieoffenheit schadet der Industrie - Handelsblatt",
+          "publisher": "Handelsblatt",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLVMyb181ODQwSVd0N0xjbmNZZ2l4ZFFGSmkzOGFUcS1OTVJ0OEM5ODFIeXpiVFNrVm5WYUZNNTRMbVVmTThDZEFjc2RDMEhXOXZQcFVZd1ROYXB6UVVhRC1CdEpQblp3WHZra0lkdURoem50SHVRRG9UUDNpQ09zWGJJSHc4Vk5TdHl6RXNZV3oyX25CYzBWd1g2cXRmQjkzUndmT0UzRWdWQVNwRUdUeVJ3dUVsMlN5M3UzTlNVNk85YTRkVGJOdkRteWZ3T0Js?oc=5",
+          "published": "Sat, 11 Jul 2026 09:28:46 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "WM 2026: Norwegen vs. England heute live - Wer überträgt im TV, Livestream und Ticker? Halbzeit 1:1 - ran",
+          "publisher": "ran",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFJ4V2g0NVhsUFJOMjQ2RmpzMmRKR2JmNnFvMjJWVUhPckY2bDdobWVva2V0UENuajRnVGZCVlFzOTVtSWJhN3RCbXEtM0EzOVNleUIxVWdlLUtFMk1ZSTdyUW1iNTc1WVBMSms3NTJ4b0pFYlg0T3JYWUlqWDhMODlNMGM0UTJRb3c5SGN2OERZYS1qQm5EaTN6bFFwYWxoRjNGbjFhVFMtMjdyR0hzelpDeE0xbXdlYnRfYmVpbXd1OGJZeU1pOGZoMzN5SEliSmJoSkpudGxSZw?oc=5",
+          "published": "Sat, 11 Jul 2026 19:41:15 GMT"
+        },
+        {
+          "title": "U19-EM: DFB-Nachwuchs verliert Finale gegen Favorit Spanien - sportschau.de",
+          "publisher": "sportschau.de",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa01Dbll3WEV4WmRBaUhjRUNUSi1DcjlVcFlOc1ZvbU9EaDRpXzQ2V1gxN2xVU1lKVlNLajB2YTd1bGZmTFBKbDFpSHFWbjh2QWh0M2MtRVNFT0p1dU83NE5lUXhLcG1MYlRVVmRCb3pNR29JQ0Nid3J6eGoyVjFESk5waWJwSUtmV09VVHdrLVR6VXhhOXZHQXFwQUZKdHQwYzY0TzlSQ0J4bkliRktiYXI1WmZhdw?oc=5",
+          "published": "Sat, 11 Jul 2026 20:28:30 GMT"
+        },
+        {
+          "title": "Tennis: Tschechin Linda Nosková gewinnt Finale von Wimbledon - DIE ZEIT",
+          "publisher": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMnRXVFB6bVROZ3JmLWtBa1B0YWpCSkdSOGFOMzR3bFBpc1k3YXBDTzNRc3c4NVRNVlBLb2ttT0JBemZRXzY1NWZOemJWdmtBazQweXR3NTlHcHZXMjFQUHd4R2E1Q1ljM2wwWXZRQUI4aktpR3oxMko2aHBoWmFhVXN1MUVHYlJPRDNHYkNfSk1zdw?oc=5",
+          "published": "Sat, 11 Jul 2026 17:56:35 GMT"
+        },
+        {
+          "title": "Bundestrainer-Frage: DFB-Spitze ist sich grundsätzlich mit Jürgen Klopp einig - FAZ",
+          "publisher": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNkw2elpsUGlxOWNEOVNDSTZkOGY3LWVGbmJSUXN2ZmU3WktzalF3QzE2MGY3dUg2VlZaaHNDUnVJMlIxODF4NFFsOWpJUGwzVldsanIxS0RzUFA2LVNxeFFIcXdWQjBZb1hhanJxWi1aNkZoc2F1TDVXZkw1b005aldVUktPc2hKODM2TlM5dUc5aG8tMktpSjlsb3VRVlN4ZDVHLTRTdDJnTW5mR19TM09yTC1JTVUxUWRvNkJWN2JxOFNYcTVTT3k3alBaNDFLNk02R01qWUpWaHBMWDBaRG9QaVVqZTdTQk1KdTMxM0g?oc=5",
+          "published": "Sat, 11 Jul 2026 14:03:43 GMT"
+        },
+        {
+          "title": "Merlier erneut nicht zu schlagen - zwei Deutsche in Top Ten - Eurosport",
+          "publisher": "Eurosport",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaV8yQmtRcGh6SGdVRmdWcTRPNUpBOTY5U1MzWVU5dHhxUGNYTVNSNVJTMC1VX0c5REN6UlhXZ2pwUzNwY0VycGxyRjBkME9mYThmc0h0T0c5RjdqQVFyQ25hRjI1TzNPNDZsaldOV25JVmJfQTBXQTA4T1dzX0pEaVY2Y1U3NThmVWVBUEk3MnVtNWxFdmp0a1RCRGFxNnZRMHlYd3ppejZzaUw4clA3Q1ZaRE1IZEJfeFBhc1pWaGMxX0VnTlhOWGZYYm91V002dUtTLWVfYS05dC1CQ0pMaXkxeERuNkFGV0FJdHBqOWlhQzJKTWc?oc=5",
+          "published": "Sat, 11 Jul 2026 18:38:00 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "Alexander Zverev checkt sein Handy auch beim Wimbledon-Finale - BILD",
+          "publisher": "BILD",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdGM4OWxLM2MxV2ViZG1wek1fSDlrYmowdWZGVGkxU2YzS3F5dVZ3OGFkMkhnNU95NTdEdDJxUW1pOVJJS0lRMlN4d3dNUWF4UjNhUkxlSzNIM09EM3BxZVE5MTl6NGlsTjBDdjdiNlRtTUdPeHRxVWFaWElrRkU4QUREZFZNSC02TFJRdm51b2tqZ05SSGFmVEg1UkpPRklpclhqWU5zZXhiZnRmZHNHRno2cFZsa29DUkNGUVRiOVQ?oc=5",
+          "published": "Sat, 11 Jul 2026 17:12:37 GMT"
+        },
+        {
+          "title": "\"Wir wollten Windkraft unbedingt ablehnen und bekommen jetzt das Gegenteil\" - n-tv.de",
+          "publisher": "n-tv.de",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkhvVWg1cXRsVHE5ck80Mk9ydkt4cGV4aTBFWkVfemwtdW9oTTlHSWFNUjdwNHd2M1hndFVMLXBRcy1oelRsTlNIUWpld0Z6UDgyQWlaLUt0VnZNdWtmc0tEd2xTZ3dLdzlHLTRqMlc2bHM3cFpGWGVfc091dmwxM1hQRVRvS093UkRTUDVsMFdLNUtzTnJSaEU5Z0dQbW9VOWdCbkwtSzBIeHdHT3F2NS1IRDIxT2pIUE5HYzlvekVrS0FwVDlr?oc=5",
+          "published": "Sat, 11 Jul 2026 12:28:27 GMT"
+        },
+        {
+          "title": "Liebe Eltern: Dieses Gespräch rettet Ihre Sommerferien - BILD",
+          "publisher": "BILD",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkJrU1VSZWxJTlo2SDFwZXFxamVHY19IaTNPcGpwX3BQZngtSXJHdFlpcU92Y3JmMV9ic2tuVWE2UlBURkVMUGtSZklNOGg1UWpzeXlDUkYxMnNCbUNydW5yR0hNNWtyQ3hjaFJkRU9CT2t4dEZrUjRuMXoyZjJXUzlzVjdOSzZpRzBJT3JubWZtWEtpMmFFa3IwTEtDMlhfc3hJd1dWT0I1ZFdvSlUxcGZmaGtUM0hUR05r?oc=5",
+          "published": "Sat, 11 Jul 2026 12:03:42 GMT"
+        },
+        {
+          "title": "Rentnerin (83) soll 760 Euro für Sexportal blechen - B.Z. – Die Stimme Berlins",
+          "publisher": "B.Z. – Die Stimme Berlins",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUDk0YVZCUzFZMUZ5THBwRnVkSHl3d1Vrb1laT3lhbXJUOGxtVXhSNXdYS3Vsc3FlYUFvRzI5TWdoOFgxRV9vcXV6UjVYNEdBNDZaZ0NvTENMbkRGcm1YMnhlTm92Y3ZyNXJUSTZfOGQxamkxTC1zQnZrRFliM2xFaEFqZGJ6aHA5?oc=5",
+          "published": "Sat, 11 Jul 2026 18:30:10 GMT"
+        },
+        {
+          "title": "KI-Prognose zu Norwegen vs. England - 90min.de",
+          "publisher": "90min.de",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fd2NDOUUzMDIzWWdnQnRNUGFaT3ZMenVfenFCbVF0Z1lMelhRMXZseDdHYmRQMkN4cXoyS1Radmwyd3ZqcnJLYU5LMmowWUNXOVNDdFcxRTh6UldacVFwbG5wNHgza3lCU2tlMEVFZXBDX2N0?oc=5",
+          "published": "Fri, 10 Jul 2026 06:40:10 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+        },
+        {
+          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "publisher": "Business and Investment Development Agency - CzechInvest",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+        },
+        {
+          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
+          "publisher": "KTLA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+        },
+        {
+          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
+          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
+        },
+        {
+          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
+          "publisher": "KSL.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
+          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
+        },
+        {
+          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
+          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
+          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+        }
+      ]
     }
   ]
 }

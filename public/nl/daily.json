@@ -1,43 +1,260 @@
 {
   "market": "NL",
-  "generatedAt": "2026-07-10T23:28:52.357131Z",
-  "validForDate": "2026-07-10",
+  "generatedAt": "2026-07-11T22:45:22.331598Z",
+  "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Onrust en opstootjes bij aanmeldcentrum Ter Apel na vertrek hulporganisaties - RTV Noord",
+          "publisher": "RTV Noord",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQlZmZVVSeFM0d1hkZk4wdWRyZEQ4ZHpoTmIzZFBKWV9JanBrUXViMGJLSGx6TlVPSWFVZGg4cUdBQ0steGpfMnRVeGxXOGtVUjJDcDJTaGJ1UUtxTGFuMG1kdlBrLThzbEF4NWhORDVna3FZUEtQWFoxT25FWldBWGhjSmRha0F3Um02ZVAzQ1B0ZG02NW8zdndneU5nY0JyZWN4elpkWFc1ZlFZWU1fZGFaWVpvRGZR?oc=5",
+          "published": "Sat, 11 Jul 2026 21:00:39 GMT"
+        },
+        {
+          "title": "Ubachsberg wint OLS 2026 - Nederweert24",
+          "publisher": "Nederweert24",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SZWluN05pUUFUTERxTFpxWmhFMk9UY3BrekRHUHo4dWM2ZGgya2xqWkVKSkpadG5mWUZGdXF3MElac3cwNWYxYXR5S242T1ZsbnpQNjltbG9Qcy1wXzVxQjNoT1pBNVFzSXVGRzdIOFJKZw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:00:46 GMT"
+        },
+        {
+          "title": "Toerist (22) bedreigd met vuurwapen en beroofd van designertas in Slotervaart - AT5",
+          "publisher": "AT5",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlpYQ1lHM3dvOThlby1iaWZUR1l0aEtQV2pFLUFKWWlRcldqODN6V1gtS3EyelRCd2xpeHFXQ3lneW51czMxMnIzeUdmWmM2NnI3SU03UldOb2lCUGFITkY0X0x5WlJ5Y1VUOVBrbGNYWXpRWC13VnUtRTZTNjBjMEhpMUVZVmYwSklKczVkM0FzZGE2Z09CeENKR1M2MTJ6ZEhvQnhON3BtVEFhVDRzVg?oc=5",
+          "published": "Sat, 11 Jul 2026 18:02:42 GMT"
+        },
+        {
+          "title": "Man mishandeld ’door jongens op fatbikes’ en zwaargewond achtergelaten na Amersfoort Pride - De Telegraaf",
+          "publisher": "De Telegraaf",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVjJHRUZzMlNJUVlvRkN4NkQ1TldYcnFhUVk5dXFycFlmUWVDWWVJN2prZzJ5cXdzdkFiSlVBU0NMS0RvUFdaTmE1YzN2ZDU0ZzBzU2FIX2UyYkJodHd4enBrSXItRlcwbldQRzc3MnF4S1p3bWNTVnFucDZjcklCeklQa1BhYmJtNWxLUUdZN24xVWl4WmZ3OEd4TWdBb05penNWa0lacTNEVHN2NTBjazVOY2JyT0RobEd2SzNIdndja1owZVExRVhjWGR4d25TTGVlZ3Z3?oc=5",
+          "published": "Sat, 11 Jul 2026 21:51:03 GMT"
+        },
+        {
+          "title": "Grote brand verwoest loodsen vol landbouwvoertuigen en auto's - NH Nieuws",
+          "publisher": "NH Nieuws",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVlMTEFmUUloZFBnTDJOR0N0U0xXNnQtcVlHTFZUVDZQYk1OXzJJX1hIdlhlMkdrRENkcEx1aS1qcmhocHVpdEF3UmlLQ0VfS2lVSFVVTGJ5SzJpUUstZ245OHBCTkJLak14c1dTcE9IWjBJcmVkMi1QTkh1alZZQ0xfWUk2c1l2Qm9LbmhhbHJKNU1CWGZWS3ZpbmE0RjQ?oc=5",
+          "published": "Sat, 11 Jul 2026 04:27:48 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Journalisten van The New York Times gedagvaard door regering-Trump na berichtgeving over veiligheidsproblemen regeringsvliegtuig - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "publisher": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZkxnamdQNEM4d2lTVHZlcTExSGhyRDU2ZV9PUVNqeXJ6NVdlSUtUQ2lFcXQybkJaVHBNNWx0QWZBdURudkROMldGWmFpU1BmZ1dNV3JzaE13VHFqU1hkUlVxSDB6UzZKNmZWWkpkQjlheFhndlVxdUJsWjdyX24wU0dSbUJvRVZEOTdBYVV0VzJXcE9ZR3NKbDBvbmNudWExTFVkT2E3Tkh5STJuSU1iOU51Y3U0WnphOG5ld3BSTUg5TkNwX2hHYk5UOVgzNGZDZ0ZOVWJvTzNWWVpoU3RGT3FMTUZYeEc2eUs4Mlhsb255V2JwbWJaRkx3MlRkaUlXTHhmcQ?oc=5",
+          "published": "Sat, 11 Jul 2026 18:46:04 GMT"
+        },
+        {
+          "title": "15 Indiase toeristen omgekomen bij ongeluk met speedboot in Vietnam - NU",
+          "publisher": "NU",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnVwckNhNE94THEtS0xhMVZXb2VFeVJGSXlVWXJsNm14SXMtS1pNTWtQOF9wakY2cVZDM2cxcUtfOWdBQktZOWxrdjB6VXJ2NThFRDJxVGxkVjE3aWt5Nl9rQWRvV09EOXQ1Z1dxVzVaTjgtRVZ5ZzdadGFKUWJrSkk2YzB6U3Ffb2VhVEplUkd0VWE0NjB4cDBZZzR2MVFNeXBYQnlCcktuZGRkbVE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:00:38 GMT"
+        },
+        {
+          "title": "Gevlucht voor dodelijke natuurbrand Zuid-Spanje: 'Buren kwamen waarschuwen' - NOS",
+          "publisher": "NOS",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRnZzTi1zaGFUUnJzS2hHTGRJSHBYVXpGWHB5bnFGbjljeGtGZ2NJSEpZeW83cFFKM1QzczA3M1h0Vi1ENFlYS1BOZ0gyOGhkV0RBOV9xX1NLU0djcGY2bnV2ZXg2RU41YnR5QzZJMXlkMW1sMU91VkVORGtJQzVVZFhKdjBiMm04R0pRdEo2VlJDM2V4MGxPZ1RSNEJBWUxib2Vva193?oc=5",
+          "published": "Sat, 11 Jul 2026 19:10:28 GMT"
+        },
+        {
+          "title": "Noorse politie blundert en vindt verkeerde bij zoektocht naar vermiste 85-jarige - NOS",
+          "publisher": "NOS",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQkdJMlptelNNckJmSnRIeWJUb2hhejg2eWIzd1BXRUlrQ0pLdTlrSG5pbWxxX2JVLXVDQkt5a3BwS2FVVllDVlhNcEc3UzFSSGRld0wyaGZ6QTk0U191VFpLM3F6dkVzWjBkeXpuUmpYb29SSXg2TElwN25ESFByQ3c5UEg1ME9kZUhnNndidEFUNlhQcHpIamRtMjFiQXlscHNtb0NXdTg3UnBDemF3Rw?oc=5",
+          "published": "Sat, 11 Jul 2026 20:59:34 GMT"
+        },
+        {
+          "title": "Braziliaanse vrouw (62) gered die 55 jaar als slaaf werkte voor rijke familie - NOS",
+          "publisher": "NOS",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzhQYVV0TGZhZ00xMlNGN1JoT0ZUT2RwNmJ6SzlRWGJpbzZONklEYTVQRWtBVHlQcGEyUVVqQ3VyVzZocDB5a0RZZWhQLUptRmw5OXFSVUVtTzljd0xUWXBLeURlVFdNbGxLRUFpNWxyUUNwZHZoaDJjeGRvV2hzM1VuaFZidmNBVkZkOUc4dG9HZDNZYVlPOTdrZnFIU0JYX0ZkWEFoWkhHZw?oc=5",
+          "published": "Sat, 11 Jul 2026 20:27:25 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "Vlag hangt uit in woonwijk om schrappen azc-locatie: 'Drink er een borrel op' - Omroep West",
+          "publisher": "Omroep West",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTExSb0J5YjZzek5tVmhoZVFzNkNUUGdRUEtjQXNlajRNV0lxcVJwcDR4SzVEZW8xcUpfcGlaZ0pEX2xvU2RuMTM4dkZIZWNqVEs2SUJUV2I5ckx6U0M2MVV0akkycEEtejR5NjlQNGl5ZDhKbklGQzBCaHg1U0ptTHJOTUlQRzVVR0JMdHJmZXVXdTJXdWk0bklUdEdnUEVJQTJsU1ZwTzVqdlpXTE5xcElHSkFXRUt1?oc=5",
+          "published": "Sat, 11 Jul 2026 06:01:43 GMT"
+        },
+        {
+          "title": "Op Dreamfields houden bezoekers zich knap aan de GGD-tips, behalve die over alcohol drinken - De Gelderlander",
+          "publisher": "De Gelderlander",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORjBWanRQU1R0a0VTdk5jSFhCUUxiODZyYVRZM0ZGRzdVY2hjN3IxeE10cDFRSHBVeFQzQzdjR1dkdWlrTnp2clY4T3dhNmlZbDRrQnZRZHkzRFZYSXREb1dNWVVGSXNzN2p0ZlR6ZjBkOTF2N3hiZUtKSVluR09XZ2ZsLWNnSmN3aldxT3JyTEE0MENzOFVSQnh2ZEU3QWtaMVNwSzJxeHRKSDRCVW9oak0tX0RybzlYaUQydXpBXzJxUWJIakdJSU5aOVZDeGhuMWpz?oc=5",
+          "published": "Sat, 11 Jul 2026 08:45:00 GMT"
+        },
+        {
+          "title": "Oud-minster Hugo de Jonge erkent: coronapas kwam te snel, ‘dure les’ - bnr.nl",
+          "publisher": "bnr.nl",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHg4OFA2bmVaeGRzR185cmpTMlY0b09HZEFwcmFYNkV6RERlOTEzbmtjQnhONlItWVdacURjNmh3MHB6SDV4M2lrRVY5NEUwLTRkQnkzV2JpRl9VYkYwRjdKZEdxb2Vzd3JEbGlBYldtSXpFemdwY3BaYnJPTHpOQTd2RVZGQmpRaTVISnpRcVVEaGxEWnVFb0tyWnFiY0tKSno2Q0Q2RWRQamg0OEotdlU0RjZ4dw?oc=5",
+          "published": "Fri, 10 Jul 2026 18:02:46 GMT"
+        },
+        {
+          "title": "Alarm over ernstige gezondheidsklachten bij werken in de hitte: ’Je moet werk kunnen weigeren’ - De Telegraaf",
+          "publisher": "De Telegraaf",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOVM4TzRTcWpiNnozbnZ6TDRnNjgwWlN5RlFEdnA2aWE2Vk1RWnZXU0JhbXJfRC1mWm93MERXV2R4TXNlRXBmTWFBNXhKVXcxTEpYUlJpTFZueFY2bFlSSkJzd18ySDRUdGJYOFotYWcwcXdEbzgySXNTRF95cVpQaGw2VGZVSTR5ZVBGYy1jSERvejBzMW5lWEtKRjRtbHA1c2FHRHd0MGpMU2lVdzVPdnFTZ0d2VHQ0VkFaaV8xZ3Q4VFVGVERUNkxmV3JZZHVLcVFNUUZFaS05WllqR3BpbXRBZVR6dw?oc=5",
+          "published": "Sat, 11 Jul 2026 13:15:00 GMT"
+        },
+        {
+          "title": "Horecabaas verloor vertrouwen in politiek tijdens corona: 'Overheid had eerlijk moeten zijn' - Rijnmond",
+          "publisher": "Rijnmond",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUk2ZEpQUTE1N29ySTg4UVN1T3RSXzhXRUg2cDVqUjhKUWxaV3RkZDN2cDhkNnpmU0N4WmpQMHlEakZ2M0pIS3pxc2I2R2FzRW00WVBpdHpnMkIxaWpfb2o3MnZqWFJuWGZzOE9CcWhwcWhsQlQ4N1hPMVhsYkc0QXVMUGR1aURuc1BmTUt2WTdXV1NTVGViZ2pLNWxBS3ZJVkRUaW8wREZYOTZrZ2hhLVQxZHNUSjFRNVR0UXBUOTRVcTJQWEJj?oc=5",
+          "published": "Sat, 11 Jul 2026 09:51:53 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "LIVE WK 2026 | Opstellingen bekend: uiteraard staan Erling Haaland en Harry Kane in de basis - De Telegraaf",
+          "publisher": "De Telegraaf",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVnpVWW03akhHc1pQUHgwcl9rWlpCMVZ6RWdRUUVBNWQxclJoWDJ6V2hlZVVIaEptcXhkTDVnd1VvMFdCUUp0UEZXYllOSUF1dGpuZVlPUS01TXRBRkhpdlpOdHR6Y2pYQV9JV2RFZnp4RGtCN3o0ejZUT2ZPenRvQTRsQmpTYnM2Ry1kU0QzdFVmV3F4Q0RwZzRGa2FtVmk5MWFlVWpLaHlXN0cweHdNOVNGeU0ycGpBNVlDenlyM0hTWEk4cGJ2d2ZyTUlIWi0zbkQ1cG5BMzNIX1E?oc=5",
+          "published": "Sat, 11 Jul 2026 20:25:46 GMT"
+        },
+        {
+          "title": "Nosková draagt Wimbledon-titel op aan overleden moeder en laat Kvitová huilen - NU",
+          "publisher": "NU",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQci1GRlBha09LRUllVkZwTGhuWks2RnVRWnN1YU12TW45ckNrYlNCLU1wZjBwRDZrYWpOQnJxZEFzSktIU1c4a0JQaXp3cHExWXJibVRMcFQ0eHJoek1mR0FVWjRRNkt5NklVVjdBTHdOam5sSFhJWU9XRE5yM3VDcVByY1ZWQ2U2UWV4OU1CRERXVFMxelZLRWpINUYzdFAyMEYtUng0N05JdGZ3cEtWeWpFdlpXQQ?oc=5",
+          "published": "Sat, 11 Jul 2026 18:07:38 GMT"
+        },
+        {
+          "title": "Rebelse Argentijn Rattín, aan wie voetbal gele en rode kaart te danken heeft, overleden - NOS",
+          "publisher": "NOS",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTkVIR3Q0OHJkUHlUSmdaYWhVQnRXNlNFNkl2UDhEOE5HYUZEYWFIN1RMWVgwMktXc1JfY3BpU2REMHJpZ3NvMGJPNlRjQ2FIeF9GMWhkemdfWmliN3pJTFNic2E1MXA0YUdnY2lJdHVZLXE2T2plSEVnRTc2QlVDN2E2aUM4R0Y2S0RGNmNsQ2FaYWdfM3JYREdhWXp6N2ZUbEZkc2JVWWVzT1luRnBkUjlQV29CeVU?oc=5",
+          "published": "Sat, 11 Jul 2026 21:26:26 GMT"
+        },
+        {
+          "title": "Shaqueel van Persie scoort bij rentree in De Kuip, Feyenoord verslaat Club Brugge in oefenduel - ESPN.nl",
+          "publisher": "ESPN.nl",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOEJFd2dXOUtOTmsxSWJSeDRicU5CTE1nczUxWTlHa3VKMUxuQ3h6VXJYMnZPdFN6aXlVWVZ6ZzlaQmo0OVZSV3NBYXhtckExTXVBZkFrSHFVaWJwZEVnQlpkOUN1aUtmY29yUjZfSHVPSmcwVmM5MTBFY0c3VWFNd0l3WktzaUIyekF2aEppWC1rdDVYUDdVZ1phbmo1Q1FJX2N1NWFCblhvOUVzeHRhNkp6OVk1NnhlbS1OcEZEOU1XQjVNd3NWcEZfWXh0c3M1elZROWlobEN4LVNxTFhJ?oc=5",
+          "published": "Sat, 11 Jul 2026 17:34:14 GMT"
+        },
+        {
+          "title": "Ajax-fans duidelijk over vertrek van Sean Steur: 'We zijn geen instituut!' - FCUpdate.nl",
+          "publisher": "FCUpdate.nl",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUk4d3RSRVRuYks2REtJMFpKZkNNanpWUGg3WGR2MmwxN2ZHejh5WlljM0xCT01BZGVJZXhXWXd5OGZWM1pDZGJrNDh6TnlmcjlDZmd1VTF0YmxMQ3JTb0xvMmNnTlBuZkRZSkNSbi15cGhGWDVwZVUzME03ZkJac0Vkc0U1SnBVZnpaRW9RQkYxamRKcmF3S1JBdXpuRnU3YTZfYmNKcnpLUDJ6SUdwTXp2dWFMYVE?oc=5",
+          "published": "Sat, 11 Jul 2026 14:32:47 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "Meta trekt discutabele AI-functie na enkele dagen weer in na veel kritiek - NU",
+          "publisher": "NU",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd292N0VLYVFBV21TU2hlWXpQWU85eE5RUF9kalhmUVJHSGxNY2VheWd5QlI1d2M0V095ZzZxWXhXZ0RjZzhFZ1hvMWdKVkZ2QzlLWnNSX3Nod3c5WUZLSWdUVWQ1MlVUaTI2VjNBTDQ2WHIyaHYzemZqTjdhVzVfQXoybzZ6eVRNQTA0ejlZZUVPZ2szanhiQUFjalBWRVpqOGMzdmhjMzlNOE9vOEE?oc=5",
+          "published": "Sat, 11 Jul 2026 07:28:25 GMT"
+        },
+        {
+          "title": "Apple beschuldigt OpenAI van stelen bedrijfsgeheimen, spant rechtszaak aan - NOS",
+          "publisher": "NOS",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0J6dGJUSGN2N1ItSnd3blo4MldBSmtja1FIOVpBRUdIeWJxUmN6dllHZXQ0UkJ3RjkxRnJvbDlRQ0I3Y0lZamQwcHBieHBVZzI5TmM0WXFZNDg1QWF4UTJoV1FJdUtFWUJYSkgxX19fc2pvSF9INEdGSW9RZ3FCb1dIVnJhN1hLSF9Nbl9EbngzYjh6cTNnbHdKMlZjY0VoOHhkWUhUSQ?oc=5",
+          "published": "Sat, 11 Jul 2026 03:31:14 GMT"
+        },
+        {
+          "title": "Laptops, spelcomputers en smartphones veel duurder door AI-datacenters - NOS",
+          "publisher": "NOS",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUJtc3RiN0tPaU94V3B2ejRLWGNSTmxtVUpmQmxQVkowczV2TXE4VXc2WDFqeE9LcW5EMmhZLTJCQ0xVV0FPR3JyVUlPTF8ybEkzNnhFWTJKV0U5dFhxZGhsN0ZtaDZVNDlpMm5OWnVjeGEwY2VzanhGUFFlNHYzcV9rUDV4UzR1NGp5Y1JKWElfdVlvcWdPdU80N0lhUVpyZEE?oc=5",
+          "published": "Sat, 11 Jul 2026 08:56:01 GMT"
+        },
+        {
+          "title": "Als je AI-teksten wil lezen, moet je naar LinkedIn - NU",
+          "publisher": "NU",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYkhCMy01N1g2WkQwOHNiRnc1M3BpV0hXYnlBdEVtY0FIM0JZVndiWWJQeXhEV0hnSElXak1NR2dQY3UzZjRrQ0I4N3hrQnlHbU5NSkN0clJ1ZXRQWS1mT0l3NHBFVnM3VzVUTUIwQnNuRzNsVS1YRnF1TWRueWxUUElfT3JRT0JyaGdha2Fn?oc=5",
+          "published": "Sat, 11 Jul 2026 06:45:57 GMT"
+        },
+        {
+          "title": "China laat voor het eerst een raket landen na een succesvolle ruimtemissie - Tweakers",
+          "publisher": "Tweakers",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORlExbjJsR2l2Uzh6bTVEWnBnUXdUNVNDQ0xPM1pqTHVLYXpsdzRRN2JmQUVmOERFTlhheU1iZ21nUmxza2RmRnlGeVNZdXRaX3pxOFNkakJRMTNRcGQyR3ExYmpQVWpZd0xRQ3B1QTNVSHoxZ29YUmdUVU50aUJnakM1RnMxSGlkTUpkUllQOGVuc1JZTl9kelFOb2dBclF0MWMxWXk2X0wxcXoyUDRjTUpTdE4?oc=5",
+          "published": "Fri, 10 Jul 2026 18:58:37 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+        },
+        {
+          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "publisher": "Business and Investment Development Agency - CzechInvest",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+        },
+        {
+          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
+          "publisher": "KTLA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+        },
+        {
+          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
+          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
+        },
+        {
+          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
+          "publisher": "KSL.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
+          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
+        },
+        {
+          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
+          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
+          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+        }
+      ]
     }
   ]
 }

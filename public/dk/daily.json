@@ -1,7 +1,7 @@
 {
   "market": "DK",
-  "generatedAt": "2026-07-10T23:48:14.550209Z",
-  "validForDate": "2026-07-10",
+  "generatedAt": "2026-07-11T22:45:42.279744Z",
+  "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
@@ -12,32 +12,218 @@
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "New York Times-journalister stevnet etter artikler om Trumps nye fly - Aftenposten",
+          "publisher": "Aftenposten",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmJPRkhDTjNhZzZPQ1lkb1k0OHk2eXp0T3dMUEw2eUI1OXQ4dUlEUXVXLW1BWEkzU01ManE5aW5QMV9vN25mZHo5V2dVT1RMcmhjOG9xdnZwVFFWOWVFZHNEWlhjYTdhVXVOVksxdG1MUXBTaGI3UVJCRXV4YXN2NVVCRDgyODJvT01UenphSkktek1pb0hCQzZUcEU0cGRTZVNxeWZFVjllMm81X1pVaQ?oc=5",
+          "published": "Sat, 11 Jul 2026 15:25:36 GMT"
+        },
+        {
+          "title": "Irans øverste leder lover hevn - Finansavisen",
+          "publisher": "Finansavisen",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNHZJd3hWcktkZWNlMnZEclY2Znotb09fRmJibXFHUVZEdmRaQW1hMTVXbFcxQzBRMG1xdGVVVW9nV3RQQ0o1ekp4NTZSTGhhckhtankxM3F1WGRBQ0FqdnVGQXJuejgxbU9EZzJ2TmtIRFRNMndFclgxMV9MOGM4dVRRcmpNcG95LXVz?oc=5",
+          "published": "Sat, 11 Jul 2026 11:57:59 GMT"
+        },
+        {
+          "title": "Prøvde å flykte fra flammene – ble fanget i branninfernoet i Spania - VG",
+          "publisher": "VG",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43R0c1MkJiWmp6dXhodHBNRlUtVkNTS3FqdnFpVGlheDdRQURicjh1anJpLTI4WWdHbngyQ29wc1RvSE5zUzZhOWItaEFwazBHQy0xUy1uWUlVS1kzZjkxSHl3Qm5tU0FodW5xU19vTFMzb2tFVHBxcElRSDFpMUE?oc=5",
+          "published": "Sat, 11 Jul 2026 05:17:23 GMT"
+        },
+        {
+          "title": "Mann delvis sugd ut av Ryanair-fly - Stavanger Aftenblad",
+          "publisher": "Stavanger Aftenblad",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUNoZk15OUxtUG5pdXh6dFJuanZsY2phLTNpWkNzdjg0TUpWOWhNbzFaRmlYb0NHdFBLdUhLRWdjc0MzTFhtLTFPRTJvbHQzWml4eDB3X3BlZ1QtWmxmU1hFQWt1NjlEeVpPWTM1cnM5WWNiQXpzamQ4dVA5R0Nuc05hWkg?oc=5",
+          "published": "Fri, 10 Jul 2026 13:10:41 GMT"
+        },
+        {
+          "title": "(+) Slo alarm da han ikke så kompisen sin - fvn.no",
+          "publisher": "fvn.no",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNNDFhblh4M2pkWG1MOEN4UFNLMW9tMTlxN1BXYWhwLXJ1QlI4YmVnOEFBeURwTmtPRFI1MUJ0M09xZVZBRTh3c0diMG1yVEctUmhOdnRPY3JPMXZNYV9RTU9INDUtNk5WazJxTmh4MA?oc=5",
+          "published": "Sat, 11 Jul 2026 14:40:33 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "Fall på Børsen – børsrakett sendes hardt nedover - Dagens Næringsliv",
+          "publisher": "Dagens Næringsliv",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTJXTmg3U1VOc3g0Z2h5YlpLVU40SEE3QzJJcjFrWmZsNFBYem1mMzZ5SnIzRUR0R2ZFY0w3UjRxQlQ1RVNNMDJMNnFWMlNzamU5bUhhZ2lVdHhWQ2ljN3ZQUUd1OTdjc1kwYmlVaUtYSkZoOVl4dHE3Z0wxMWxQbXlwelg4SFE?oc=5",
+          "published": "Thu, 09 Jul 2026 22:02:00 GMT"
+        },
+        {
+          "title": "Celina Midelfart snur skuten etter kjempesmell – tjente 25 mill. - Dagens Næringsliv",
+          "publisher": "Dagens Næringsliv",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWtDNEdFY1Q3X3N1NHc5Rmx4ZHpqSlRRTl9VNU5vZ3lVREZoZWRuVzBSdEJkeXBwSzJOWElGQW9xQS13NWVNeENWUm9mbjB1M1dwMGxZRXdJWE5fZUFaZzY2X2lMMjRzMVlrOFN4Skk1eElmalBaamVkenVZdGNOc0stV3RkMjFQNXk4SkdyLU1SNlo3YWYtUEEwSEZPaUNwSlVKMV85VWM3dVQ1bXE3dExuU0owUV9B?oc=5",
+          "published": "Sat, 11 Jul 2026 07:04:00 GMT"
+        },
+        {
+          "title": "Think: Norsk «industrieventyr» – endte med fiasko - TV 2",
+          "publisher": "TV 2",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXX1NTNGsxRng1c1RtUktLSFVld3Y3MGI0a3RZYmpuLTFrWWlYY1B2VDVxWnVzd1g1YlltWUNGTE93ZVJRWDY1aEY4MXYzSEJPWTVkTGpmWGwwVVFSeXBKMnZPWDlkMGdUZGZtcy1aRDNoS2VNV3B1RUJ5ZHh3UQ?oc=5",
+          "published": "Sat, 11 Jul 2026 15:12:42 GMT"
+        },
+        {
+          "title": "(+) Denne detaljen får flere til å stoppe opp - lister24.no",
+          "publisher": "lister24.no",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzhCMlRwRDFFeTRsR0ppNjFrWGxnUHlmdGFuQVo2SWt0aVRZZXdDRDBoc1VOc3RvRzRaSS11ZXFyN1NneW1LejRqdUFnajMyald1NUZWVnN5dHlVYVN0MXJtOUc4a3lldUNRZ1ZCU3Fxc25mQnpma3hFZVNyOUYzaWYwUG55bl9tekJFMUdTM0dGUTN5QkZKR1pqcmg0T0M5cXg1ZGdWeXMyOVM5eFNETjdR?oc=5",
+          "published": "Sat, 11 Jul 2026 15:54:25 GMT"
+        },
+        {
+          "title": "Instagram lar hvem som helst lage AI-bilder av deg - Tek.no",
+          "publisher": "Tek.no",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0djM1lJQzFONUw0UjkwWkctR2FCQVM2aWFoMnpGRGg0U09SR09HQWZWeXhkWkdXUEQ3VlE5aXlHQnBjX3BaUXJwdTZmOVBDS2xqUGR3Y1lsUERDUm04b1lQdVg0TGNCVkhHOTNmb0paYWVSZHdjMk9SWjFzWHNzLS16aF9NMnVvdzRUZDVqbHk1M2pZWUFz?oc=5",
+          "published": "Fri, 10 Jul 2026 06:54:00 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "Vikingtiden er ikke glemt. Nå «mobiliserer» den britiske marinen før kveldens VM-kamp. - Aftenposten",
+          "publisher": "Aftenposten",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZExqX2Jpd2NIdmNjakJpc0QyRzNFTlVIMTZkM1NXM3RMS1FPVm14V0VXOXFSTTZmdVhhVno4bHZLSkZ6T011V1J0OTAwS2FWODZXYmJVY1BwTEM2Z1ZvWHQ1Z0xUandUSnU2OUhIZ3R3VFBSS1FxVjlqRC1GNDNtZ0JHZXh2ZS1LQ1plSlBvLWtORVJ4UGdwbUNXNWdpakZfOUpuRkF5ejhYWkh0Q0JVWVI1elFuQzc5a3JsYzh4enFudXhqc2c?oc=5",
+          "published": "Sat, 11 Jul 2026 12:24:02 GMT"
+        },
+        {
+          "title": "Norge raste: Ballen traff vaier - TV 2",
+          "publisher": "TV 2",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZDJJdS16TUFwblh4RFRieEhYNGtlUVktZnBycmkwY1MzX2FleDZjYVc2U0lKRmRBRWRrVjdpOE1kLWd5SVFUanFnQmVneUl2aDl5RkpDY2Y4NF9kdEl0THVPb3VCSUVCT1NZRHA2c0g5Zm81ZjhVU3RiRkxZcXBSVFFBQU40Y2tsNHZmYVJXOXdTVFRrV3RJ?oc=5",
+          "published": "Sat, 11 Jul 2026 22:18:45 GMT"
+        },
+        {
+          "title": "Fotball, Fotball-VM | Schjelderup starter for Norge i VM-kvartfinalen – Nusa på benken - Romerikes Blad",
+          "publisher": "Romerikes Blad",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWVBvUWpJYmFKZldrdE44eVlOUlNTaHZkYWUyRmF2aTdRYjZCbEkwTm1QLUVtWWRlWnVwVE5MTTNBOUVGOURLZEJYTDlfaWdCZTRjc3JZX2xLVUVZQlhhNUFZbnV1TFVFUmZjMXVvNHdlYmhhSGZybkp6TWNZTndRNDRWeHlnX29YNkww?oc=5",
+          "published": "Sat, 11 Jul 2026 19:39:16 GMT"
+        },
+        {
+          "title": "Haalands forvandling: –⁠ Viktig å kødde litt - VG",
+          "publisher": "VG",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdFFlVEhIUzBZVWt0bU55QV96RzNRWkJFeGVaZ3VsUWN4YlNlcUczdE1sMzdMcTM3UkxlTlV1alBTT3RSMmRtai1Ud2VsbHota1hBdFRObFRaT2J3OWtCN2p5TVFKZUt3S0llQ0pBclNCRWFFSjR0SEE2eksxemRxRUt2RF9JME1ZMUNFcWJWWUdIMldkVW51VzZqcTJNNzVrRzZr?oc=5",
+          "published": "Sat, 11 Jul 2026 14:00:26 GMT"
+        },
+        {
+          "title": "TIL-børsen, Tromsø il | Se TIL-børsen og stem selv: – Dette er et varsel: Gutan er i toppform - Nordlys",
+          "publisher": "Nordlys",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLWdIdnR0MjVHNXB1RW1GNk1rZkYyd1Q1bzRJeU5YUEtONDRuVFJ6YUxJczJBdkxjSjBKZEpPUGgxVktXZEFPQVBRb3lRanRfZHFyMUJzZzZROUs1RkI1eUFHazlHSXYtTjBEVUNRcS1NVEdWTFFDeGd2anJvUU0xbVRQRnJ5WDk5dFlRR2JWQ2xzcTVkRXB2RlFkU2FjX0pXM2IzQm93?oc=5",
+          "published": "Sat, 11 Jul 2026 18:01:07 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "Yrkene som gir sikker jobb: – Kommer til å få sykt godt betalt - Nettavisen",
+          "publisher": "Nettavisen",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVTFYYmJYSGdjNTJyLTVIb3F6b21sYWJnSHJ0c05YOHZCY0xEVkdQM1o0Q1NrUlZFbng3UElYT25FTmdOTkR3b1FKemVLTElWRU9nYTVwQThhbEJFVVM4X3ItRG1wTXhfMzE5M0hUa0NINllEZ0NtYURWUFZqSW9IZUlQZHpyYlpKS1FjelFFZ0tIWFpwd1B3dkx2cEZ2WjA3Y3FHR3ZaNDF0NFNDcEFSeGR5ZnBhRjVMeW8tTU1Wel90M1J3T2p3dV9R?oc=5",
+          "published": "Sat, 11 Jul 2026 03:02:28 GMT"
+        },
+        {
+          "title": "Apple saksøker OpenAI - E24",
+          "publisher": "E24",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1bGJUaFRoNnVubEdMZ203akI0OG9lVmkwY2tiUG8wRFozbzE2eVkzcWtGM1FxMGstZEJzb3YzVk1qMVBDcDNxclN0RzIyWDJMVjZBMHFxOGFsbk1sV1VfMnBxTDhPVjF5cVZwdVl4SlRjc1BMb1A5cQ?oc=5",
+          "published": "Fri, 10 Jul 2026 20:41:07 GMT"
+        },
+        {
+          "title": "Telenor, TV-signal | Raser mot Telenor: – Dette er en forferdelig behandling - Budstikka",
+          "publisher": "Budstikka",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVjEzMkV5Y1hyYW45aWV1dXNqaFljdnBsbEhKcEJyM2s4ZXhPVmNhcXdRZTd2a2pqY0dRWHU2eVAyNTlPcGdHN3hPZjdTUmNWVl9qWTRsRERlUTRuYlpnMmd5MHpQOG41cGhCU1RwSXlvRU1PV1R0Tjd4YVJaaGI1TVVRbEIydWxJdFcyeDhOaU1pbHFqY0Jz?oc=5",
+          "published": "Fri, 10 Jul 2026 15:08:47 GMT"
+        },
+        {
+          "title": "Alvorlig dataangrep i Lørenskog - personopplysninger på avveie - VG",
+          "publisher": "VG",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazNVVy04Y3FjTmU5TG83dHNsckJxNmRqSUNfcHcwY2R2MU5OVEpwZWhTdG1iVjhjdkxtRUVETWl6M2N2Mm8xc3dZT05rWXB2dk84bVBDVWpoWDVjWGNzb3FBVTFlQVZqSXdNR3RWeERzXzFZSGE0YllCNlFCaGlZVWY5SXJzM05xbVFRVW8wTFhkeHZCS19UTVluUmI3NGpxekFfYzBQR0ZZVVJsN0ZDN1lXOUpkRkEyc0JLdEhYaDhiUmx5SWNtX29vTHNiNHFX?oc=5",
+          "published": "Thu, 09 Jul 2026 16:21:53 GMT"
+        },
+        {
+          "title": "Salget av overvåkingskameraer øker: – Kanskje ikke til så veldig stor hjelp hvis du ligger på Kreta - Aftenposten",
+          "publisher": "Aftenposten",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUJPYkxld2cxODBvdHhpWkJGVkpUaFdiSm1ycnNEekFuMGdFbldqX1pHeGJKV1lDeXJndWp1UDdNQ1dVOFB2SHltQU9ZX1VLbS1pZUJNYXd0UlFkU2JuRlMwY25ibXJicTBtTHJoTDV0MUNDZjJod1VvZzBsTFFfRzBPNnlFOXl6XzNwSVZDX21iZVQ4OUFyUm50ZXVHY1JySHFLOFpEb0w1NUpjZGF0ZFp3dXRxM3VGLTlaT19QdzJSUUQyRmFKUDNjRW9aZw?oc=5",
+          "published": "Thu, 09 Jul 2026 10:01:04 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
+          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+        },
+        {
+          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+        },
+        {
+          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "publisher": "Business and Investment Development Agency - CzechInvest",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
+          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+        },
+        {
+          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
+          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
+          "publisher": "KTLA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
+          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
+          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+        },
+        {
+          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
+          "publisher": "instyle.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
+          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
+        },
+        {
+          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
+          "publisher": "KSL.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
+          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
+        },
+        {
+          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
+          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
+          "publisher": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
+          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+        }
+      ]
     }
   ]
 }
