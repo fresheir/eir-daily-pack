@@ -1,260 +1,43 @@
 {
   "market": "ES",
-  "generatedAt": "2026-07-09T23:09:47.450254Z",
-  "validForDate": "2026-07-09",
+  "generatedAt": "2026-07-10T23:20:33.392273Z",
+  "validForDate": "2026-07-10",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Ayuso defiende las palabras de Feijóo sobre las bajas: “Tiene más razón que un santo” - EL PAÍS",
-          "publisher": "EL PAÍS",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMzZfX1FKbWdRN0RQc1FfTkNMYzZHT2hlc2gxN2p2WkFGWjlqWjZOU2hIbElYSkdBbDZuUnI0MmRkR3ZKM1FFRTZEU1JVQnlTTVBkSTVjSTY3YjBmSnljVWxOQTVpdDFoaEFISjRmb01oa2lzZm9oTko0aWZWMUFHZEtaQ1B2bEVDa2RzSmNKUWRpaVVxZGtUSnNBUF9GamVKTnV2WTV5RllJYVB5Tm9YRkJieW1yT1FKOXZXNDFudDI2TmZhcklnaUxBMNIB3wFBVV95cUxPOGJIWFpKVkNSVmt5WTlNZG55YjlOd3F0UkF0ZlF0dVNuMjdfbjE4czRteU9jdmxHYlJsWTJHMWpjVW41REY2bktCamZOZlpMeDBFdjJQalBySk5aakRpRndQYVVuYmxwYWRIZjZ6dHUyNXg2dXJWenZUajZHNGhUNV80SjdIbVdva213emF1U2xHNlEtRXBadm5fR2wxV2dURTJEbVp0OHNSZVlBYXo4WmlkeEhXRGQyNWw4UUFudU5zanBiZTBzdW5rdXhFU3hoWS1YT0JUTHpVNHFEWUY4?oc=5",
-          "published": "Thu, 09 Jul 2026 11:04:42 GMT"
-        },
-        {
-          "title": "Bolaños responde al presidente de la Conferencia Episcopal, tras calificar al Estado de \"banda de ladrones\": \"¿Qué le parecería si el Gobierno calificase a la Iglesia como banda de agresores sexuales?\" - Cadena SER",
-          "publisher": "Cadena SER",
-          "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQckIzb2k0dGpidDcxSjRmY0JJajl6bE1XMmp6dm1nLUF1cjhlaGtHd0hjZnM1LU03cHVweGpUNXE2clp6WUQ5QUYwbDlNRnFtZjRRRnZZbW5QTFVzQWZVU2RCWTdLdHB1S0tlX2lxZXBqVjlVY1gwbFlPeXg4ZzRpOW1uWDBrd3FiY19rUUc1cXJrMXVDcnZBZWRMcmd6SWhEWmttcDhsd1NUVFo1eF9YeVZqdTBmWlV1NlFDN3QxeHFjaWtfM0hESGlDTFZRQ1QtMDI4aTV4Mk1wRV82N3RXMXd3eVBmcVhiVTZ6TTY0TS1ZRFd2OGdBYUhnNnVMQ3FDWUpVWXNhZXhIMkhyVm5xVnJVci1qdVItazBqT1NKaEhJNm9zVDBXOEdkS2V1TzhGU1hhczVPWTBxQVdkd3c3Zm40M1Q3a0VFRlA3UF9yYXRKUHJ1UkN5YUFENXRsdTczOURWcTVYS1RYTE5iLTlVVNIBhANBVV95cUxNeDdpWHpkazQ4SnBjUWQxRHJ0YlJBdHpLQlVSQkF2cWxpMUNTVnAxNWhGdXowMTd6SEtLQ012dU1jTUx5V3ZBejJzVUZBRFQ2ZWpoLVhOZnVGaGZrMHZhdFhXTlB6elVDeUNtcDNMc29kMGxKdUlhaEt1V0V3eDkwXzhuSnBsMjdCNFV6RVJIZU91Vk9tM3pJTUh4V0tjQjlaWTNQRHY3MlI5a19qYVJTaW1rNzc4ejBDX0MwcDFJNUE4NHFSZkxldWFmVDlROVJGX3A0ZGppbE5XekdGNmJDaFlBb29pYXF1eWZUUVRNZkExWE52X0tpaXRFT3B5dHpfdGpNZVM3NjhVWHlFdTh2WS1oSTk0cUFtN0puMUNDd29wZ0oyaTJTdGUxM3dacHNkcGdUWU9ZMGNhX2Vld25oS3pLN25xczAwNjlqVU1qM0ZpLWVsaDE1TmxDOGp4RVB3eGZDOVJ1WGJfMXBZNU9naGJaZ1J1c0dKWnJaNHFKTlNpNVpB?oc=5",
-          "published": "Thu, 09 Jul 2026 20:23:47 GMT"
-        },
-        {
-          "title": "Ni Donald entiende a Trump: alaba a España por ser \"muy generosa\" con la OTAN mientras sopesa \"opciones\" en contra - LaSexta",
-          "publisher": "LaSexta",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcHBLOGo0N1BmUDVDaWZ2aEZIRkI1Wlp6eXpMTkxOcTFJT1Z1clJEZUZBY1ZXRVlWaEs5WkJHLUNydXZlTjE3XzF3Y2QtOGljczdkRURsUnNvaTk5aVBpTGQ4bWpHb0hCUmt0X19EelBJNkljUFh3NzdvcHJUNjRtZmFuYW84Vkh1QTJ3cnJkQUJFTjZ3TUEzUFNydVVBczBMRmNMSGFoR1R3NGVBWEtTcVFGeFl0eEpzNkRvMTRZUk9TTU9md1Rzc1F2d0dfcTZOM0RxN1MzcmZtaGpUdGVEamxxRTlBMzN2ck9jVFFIVGR1UW9nckdjUlln0gH6AUFVX3lxTE5iOEpWNnd4d3RVZndGTE1pM3E3aG1XWGZ1RWxzWnBEZW9wOW91WFlNRkd5SDNpWFlHbUhoSHI4SGVoNTJFRGlkN09ZTV80cFhtNGI5Q1YzanV5bkh4Qk1CMjQ4dEh3aXFYWmdvTmpmZ3Vma1kzQldsejhjbGo1QU1LWGoxN082OXFoRlU5TzRmS05BbHNVUXNqUW9tZHlnOUYtVlQ0SWQyRklWZ2otaVFvd3hNNzd3cENZOWZEVkxndUk1Z3RQUnVDbU5MT0pqUklOTlBobk9MT28tcHBaQXJNVkJCcU5IVjBpVHMxWXVoRkVnOTZTakgxdGc?oc=5",
-          "published": "Thu, 09 Jul 2026 18:00:22 GMT"
-        },
-        {
-          "title": "Almudena Lastra recurre ante el Supremo después de no haber sido renovada como fiscal superior de Madrid - RTVE.es",
-          "publisher": "RTVE.es",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnhGeWVDVW9ybXpfbnpXZ1BiaDBxemtQcUlNRXVRSUlKNjRkVXA1cDV4cnZYQ3BsWUVvbjdKY2ZfazVHYXhfNXU2bU5QTnJqQURXMXhreTM2VlVwbXExU0NxNUFJM3pyMlZqWkhGMzdBc2lHSkFNS0VyQi1GUHZWZkdUZ0hadzJrZGE1LWtIRmlUaEtDSzRnRTlMVFdOQnFnR0R0SmlEYU1Nc2M3SHAtU2pxZHZfVlZDVzVyTnFFdHczTFNCRUFvN1I0NU04bUZ1MDk3R0lBMUk4MVdyZzc2dE9n?oc=5",
-          "published": "Thu, 09 Jul 2026 17:54:19 GMT"
-        },
-        {
-          "title": "Así es el nuevo Gobierno de Juanma Moreno: todos los consejeros de la Junta de Andalucía - ABC",
-          "publisher": "ABC",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3U4a3RTUjNDMWJyR3pGY25pSjlSd1hvLW5kRkhVZ1c5T05MdDdTTFFDM3FsTGpaTjBhN0pJc2tGOWpmbzczdTd1Y2xxMUxDYWluT0s1cFRNaC1XQmtPQjZSbGRMZWV0QkFyLU5oSmFGemoyZGFfWVR4VDl5TUI4WlZQRU9XY2Z0MGZobDZVYmliMmFfQ3FOSVQwemljM2FFQXpTUU1UY3NicWtZT2ljQjNOQ2JId9IBuwFBVV95cUxOc1JnYy1OdXB0SzNVNG1PdlJ5X2l5eXF4OGtSVUdnbkdRekxXb2pjbEkzLTZXUUNhVzlzNTBJZ2ZiMjdlUXFtdmhTZDdoMDRGdExQSTZhWThRLW9jNmJmblVrMWIyMF96NEdOUzRmeEg1MnhLbGlEOUo0UGdWTU1mbFUtRmV4TXpja3lVbDEtdWI4anIzOE94RXBMenNCdjBSckhNZzlTZUloQm1JMTVtOXBpREVYTVcwbTg4?oc=5",
-          "published": "Thu, 09 Jul 2026 11:50:21 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Continúa la escalada de violencia en Irán: ataques a una instalación militar cerca de la ciudad costera de Bushehr - RTVE.es",
-          "publisher": "RTVE.es",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWEZWQjJpSkV0QWhGY3FHNlRURndZMjZqZVNkOU5BSm5YY1Q2S3IwVUhUUzZfRUNDblBoYTNKSkVMdVJMV084YU8tRVhOeXVScy1TS3hxWnBwYWZWR09NT2ZZZi0yZ3h0eGZ4RWlRVFFNTV9kUS1WMGZ5UFZMcjA3UGRWVnFfcV9wcTFfcVBQRnFoNHB3WGY0U2MtdG10SHhKUTMzSUxndzlRbTRXU19CUDJra1VvUDI5cFk3TkViRUliY1E3eTVoMmFKQ0VGQ1hETW12Y29nVVBpNGtV?oc=5",
-          "published": "Thu, 09 Jul 2026 20:14:23 GMT"
-        },
-        {
-          "title": "Casi 3.900 personas han muerto tras terremotos en Venezuela - DW.com",
-          "publisher": "DW.com",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0xiTXZRUzEzWlF5Y01lb05RSjVSanExWjJBVVo1MzBaVUJCYkdpZDR1RXVNNGk0bG1fbDUzXzVmVGN4LTZKOFA4UHpyN2RZN0M0dlRkNGV4Z1NjTDVoWkNyMFloWXlMQmRTYzh0M1YycDdyN1FISTFfb21oQUxMZTZUcTNtWUJvNkU1OVZrVEFCSHNFWGfSAZYBQVVfeXFMTVFHUG5LbTJxMlF0a1JOSlZhajV2UHdCOTdvdTZyVmduVUE1MDhmcm1qdHZwaUdfWWhIU3NSNWQzdmU3SzJ3eW5YbnNDMlBPY2dzaVJMYkxoMGJHZFdZS1VCamY1QkNrcy1pRzhUMnFLX05HOWc0bjFkNWZSeFVjU3Y5ckFSdGI5Tm5qWEUzSHBPb1NRMnBB?oc=5",
-          "published": "Thu, 09 Jul 2026 21:35:55 GMT"
-        },
-        {
-          "title": "Cuántos miles de millones de dólares costará la reconstrucción en Venezuela tras los terremotos y con qué recursos cuenta el país para afrontarla - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVVBIeW1LVGFERjlQb1hCVVIxOFRQOHpxeksxQjRUVXBCMHhBQW1IZTk3eDkyM0UtSVRwaXZQdGZxQjRUVmNnWW5lc3I4aDJpS0xDSkFManBRYnPSAWBBVV95cUxPNnNreVpKMG9sUi1wSTFzU2FiaVFWT3NPeTF6YXJlZ2hvVjVXVmRzeHNWajJTZGFuQk1HUjJqaXg0YVo4MVc3RFRkQmNQVzZMVXRObmQxQ1RGdWRwM3JPWjY?oc=5",
-          "published": "Wed, 08 Jul 2026 14:58:19 GMT"
-        },
-        {
-          "title": "Qué pasó en la cumbre de la OTAN de Ankara: los cinco minutos que cambiaron el humor de Trump - EL PAÍS",
-          "publisher": "EL PAÍS",
-          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQdlQxLU9iOTJieGJRN1g5TGxNdVpsbi1KRmtjY1h1LWt2WEZRc2pTeUVGMDlmNmd1ZEVMV2ZCRFhrYk5EVl84aEtXbzlCVmtMNldKVlFfM1M3dnRIa1U4elpxMVo5NW1SdnUtaGpjREM0Q1l1VllvR0k5R2p2dnZvZjdTeUpib1U4NGdMYm5BUUhDdW5pVGlmRE1LeDhuSGY3eTBSY0c1VkNFeU12ajYxaGR0MFRXRXA5c081aVdvRzE2ZTdNdEVFdDF2XzRGbDZ5TDY5amFKV2RIY09UN2c5dk0zR21oMXJZS3Jvanc1Q3owTXVjMkl3d2lqQk5TeGZiemhRR1g1ZEgwNVBwUkduSUZjS3hqdkJKMC1WMllYUTB3RGZUdVVIM0Z5WmxmakXSAcMCQVVfeXFMTng3LXo0OHJOakQtcW1tVlN3eHRWNU5rX1JrNWpjdTEzd0RORFBWeUJZNDdObnZpUVEtbDZoOWg3WHdvMXVkeE0ycDlSbktldkdjNjJkcnJNRGZwdjBZM1ZyNTBXVTltb2Z6ZUdSZzVQVDREWlNMTEZtQ2FBeW0wVV8yUEhGXzE4YU1iYXU5VWJPczd5RGd6ekNEd0N4RkI1dEJfMWZVY3V5LWFIbVRWWDR3ckRXR05nMVBtdVl0MWNtX3AwRjNmX285TXJlVzBQaXlHWTVSX2hUYWhWU3ZaWWp4bmVudnRLSWVVVUFMMjZKMVNwa3ZHTUVaV3hHTEpOaXlFemQ3WmZRQkhEeWoxT1dTdFREQ0xvckxkbXY0RG9TOUZNaVVFWFlzOE5wYnc2SDdENWpNcHZFRUxYQm54RmNTUkU?oc=5",
-          "published": "Thu, 09 Jul 2026 17:33:22 GMT"
-        },
-        {
-          "title": "Los grupos antiinmigración de Sudáfrica pasan del ultimátum al puerta a puerta - EL PAÍS",
-          "publisher": "EL PAÍS",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTGZXejlZVS1EazM0VWlRUlBMUVNSekltY0NWc1JnNDUxTmhNRTZxaXpVSkdBa1FPU1JpTFpSTWFBRl84RmpwdGlKcEhxR1pCZDNrNUpIQTlFNm5FVUUzampVanZiQmFLNmdaYVF6akd4TXVXRjdYc18tdUNFaDdvTldNS3VuR09hY0Q2V1h5TWd0cHAzYzIxTnhreHdVQUdxcmxJbUdFTldvSEdYZ1p5djBPc0Zmdnk1OXdmSFVRZmxBTmtiMnfSAdoBQVVfeXFMUHFTRF9YMjdLUXBFcnItZkJVT0lULTZRNXFnYVdNRnVPaUNoU2xBcWgzVmMwd1Y0UW82WGQ1MnlmeWpzZEwwVzF5SEdWbkV0dDhVMzVzUU9lbnEzM2lNOW5raF9PLWwwZ29lWU5tXzA0NnVYQ3NGcDZldXlIUjJ6azBtanprZkxfQWFqNTJmbWg3QllqZTFYUHlPNzFJa09pVW0ycDAwMlVGakdMR0l4YTQxai1rZjN5R3ZJNndLWXZMYU9ma051eUllTDBfQWpaSWhmUnFTR1lZNHc?oc=5",
-          "published": "Thu, 09 Jul 2026 19:26:06 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Los sindicatos alemanes protestan en todo el país contra los posibles cierres y recortes de Volkswagen - La Voz de Galicia",
-          "publisher": "La Voz de Galicia",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbHhKaVIzb0d4SHVZbzNYTU9pMmgyS1I5UXpFWjlTM0ZDSi12MUdhV0MzZTE2WlIxZm56U3MxM3BzUW4tSnJTM3pncm1LVzUydXg0X2ZmWWtuemY2OEZyeEdIVnBYWGphM1ROQ2IzTnEzQVh0ajdXTGpNR3ZwRkxCZ2M5bjBZY29qaHBaWFF2ZDFadzg1bThrZzlFREVrMmVKbUpIYUVyaWpNWHd1NWJ6SmpLbWVxTERlc3AzUTZLREZDMUotX21lMG4wcFRhWUtySHRGblJqNlhKdHBrRXNMT0hxWThTSGZVWWY0ZExR0gGKAkFVX3lxTFBYVzUyMnZfa0VLYjY1eWJMMGFmc053QUhpcmJlckJkVTlEMUYxQlhBNFEtbEVKMDBsWWxWb2MyMUR1cEdwN3JKU1NVZHZOV1VRSkVvTUtybXdQS21lRi1zWXp6cXlkZEJGcjFBYWlLVGZRSkNUazlISmV5ZGUyYWt2aFNUVnFCcU4ySzBmcHJUaUpzYWsyMFhPTXlOTzhFVWlmbTNlVUEtZUc3VE1IOGhhLTl4dFNoOGV4QUtaaU5BYm16emVtLVBwU0NVNk5qcmF4UkQyR0FVTXJwUHhQaWZYcEJvVkdIN0pxdU53d3Q4elc4WDJyWExRRkFnbVhIeDFWUUt2Snl2anp3?oc=5",
-          "published": "Thu, 09 Jul 2026 21:32:27 GMT"
-        },
-        {
-          "title": "La riqueza de las familias crece un 9 % y roza los 2,66 billones en marzo, un nuevo récord - Valencia Plaza",
-          "publisher": "Valencia Plaza",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbks4MjJQcjFGbGVZMVc2U2NGSDFSVlRqa2NxeFg2SXRXUnVLSEg3Q0Jqa2pNaEk1QTBBdzhHa25vM0lyOFF3Q1RtcTQwQ1llamxGRldaaUF4UjZvd1psM19tV3hhaGFmRjZvblN1WTluQjdDaUQ3UFJ5bTlxZjJSZ0NNT3RWdkJNQ3dGS1B5NlVvZmtVZ2QyNWJYXzVhMndERmx2TnVMaGpENG9hSXUtZVUySlZJTjlEcjRnZjkwanFITEJodHN5LWpXbFJ1QQ?oc=5",
-          "published": "Thu, 09 Jul 2026 10:34:26 GMT"
-        },
-        {
-          "title": "La Primitiva: comprobar sorteo del jueves 9 de julio - EL PAÍS",
-          "publisher": "EL PAÍS",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdTZBU1Q1RWdlQkMtdVIzYTZ6Vk1XME5zMTVuczJ1dUpyWTZYWUE2TDR0eUxvZGJKZ29Kd0RZTG1SVXQzQWtpRDlVUU9KTGxadDhpMHJ5VFd0TzFMVDkwZnlOY2R2MVpubllVSzBJY29PUUMwYnVrSDByclZtWUYzLU4zcVgwdXByX0xLUA?oc=5",
-          "published": "Thu, 09 Jul 2026 19:01:00 GMT"
-        },
-        {
-          "title": "El BCE subraya la fortaleza de la economía española frente al impacto de la crisis en Oriente Próximo - Demócrata",
-          "publisher": "Demócrata",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbzFQS1BjWmZkelhjNWNub2JHSXVlNy1ZLVN1YVpOaU1xWklFRUVGUTZocXZ6YUxTN2Z2c0lWblVpVkNUemJnTU9pLWh3ZTJzUEYtZFVjSkJrWVFlXzhPZEZFVXU1MHJJTFBFdUNZem1pUGcxcUpJamVoWFFaTDJXN0t5aXhiY2IzWXJaZ08taDBrbl9JTlhXUEJsTTBueC1oT0R0V3pTQTJCbkFEYkNfRDlRcnBUeGdMZ1FOc3JLc0ZKbDN0aUNGTDdsWVpHWDNYN2fSAdcBQVVfeXFMTU5vQldVZkFzLVJrSmM4X0QtcjVfMjJHeXNYVUIyR1JrVndGVGhJbmM5LUlxc2kxdFBqaDg3LTlPcGVFR1hsMUZOTFNJWkt0b1JPdW1sTWg4Tm1QMkkxYjAtU1FmQlRiWEtraE1kODRIQ3pDQTV1UzVBMjN5eGxmdzVJMTJxcFJWRTFITUpWcHB6NlpQXzZXUy1aU29kNWMxbmViVlluQU1pUDRwdnhPMERwNVp1d2xaVEk2cmJGU1B4ZVRRTy1hcy12TmZJaXVibS1rcGhFWkU?oc=5",
-          "published": "Thu, 09 Jul 2026 14:28:41 GMT"
-        },
-        {
-          "title": "Comprobar ONCE: Resultado del Cupón Diario, Mi Día de la ONCE y Super Once hoy jueves 9 de julio de 2026 - antena3.com",
-          "publisher": "antena3.com",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaDFQTjRpaVBZNnJ1bE1IY1pPQlFySHQzUG9iaU1nQTFEMW4zUjBoV0VodmhnaGExdUZXc3lSWjJUbmpXbFN6SzBPYklpUGljOGVHT25vTmJrYkFpOG83aEtjZ2N5bkFCcEhLbWZyTnFLM1hwaFZ0NmlBOHpnNTE2c1ZQUG15Ump0Mk1HT3ZGMU1iY25NOTh5d3lsOWFYU1ZnbjlnaU5tRXBMZDNVR2tCR2dZalJuX0hMamRtNVZ0TVdaLV9EUFpSQnVYZUhxbkw0QmJ6WUYtdnJqc2hnN3ctMkhFNndxMlJMbTVUQm9FelM3Sm_SAfMBQVVfeXFMT2JjUVFiN0lnRzNMMGQ2TjZpMUdMeWoyNGduVkFPMlkwMGFwUllyZkhkWlgxZHNZT0swQXhIYWI5Z0JwbEJVY05BY05idmFhWVFqNDk4M1lTTkd4Z3lJd1ZaUktsN3UxZ2IwNEJpc3VCa1pmUFNDSWhDS3JCMGE1RHlqVXFETlpUNmx1RG9za0R2QnJaVFZwRFlPVzdiZlhmSklMbDBNSEFIUE53ZVU4VnBISlFqbHdKYXlFRjRyUm5NaVFfc3Z5Vmd0bEtiTW9zT2k0ODFPbFZ1bURqQUI2SXNEN29paUJJSTc5Smk4bmx2X0U0?oc=5",
-          "published": "Thu, 09 Jul 2026 17:00:24 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Francia - Marruecos, en directo hoy en vídeo el partido de cuartos de final del Mundial 2026 - RTVE.es",
-          "publisher": "RTVE.es",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUkNQblRIOE80b2ZQUFh0c2kxanNRamFQUV9CcHF3STVTOHEySzc3V2tiRGhkRUx5b0RGVVhQMHZxM2pONVd2dklwVU50QUpySGdqcjJLc3hKVjlxLTNCU20yVjA4SGV2VFZSbHc2cFFwUlNTOENqWXlacU0tOGVaVTJLaDBYa1g0TGNuZEpkcnVPUGVxZjQ1VWNkU2ZCSDY0a0E4U0tQNzJnbjA?oc=5",
-          "published": "Thu, 09 Jul 2026 21:37:00 GMT"
-        },
-        {
-          "title": "Tadej Pogačar honra al Tourmalet y (casi) sentencia el Tour de Francia - El Confidencial",
-          "publisher": "El Confidencial",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjY3S0RpVVdtN3Zta29RWUxkcFoyMHJ6SHhBVXRFUE11NTdpVkZ5RFB5NXhYSzRWZE1zamNJRmVJSTkzOEVwZ0I3a2Y4TnBXaDlOeUNuMmNhOEhwTUxQQ1BmM1BTX0w2UlBZbThJVXJiUC15RnNKSGluVFYyd0pYSHZWNjZCa2pzakcyU2xYeDBwaThxZmM1X2U0OVh5OFl0NFdrVWlHQm0?oc=5",
-          "published": "Thu, 09 Jul 2026 15:42:00 GMT"
-        },
-        {
-          "title": "Cuadro del Mundial 2026: clasificados, cruces y quién se enfrenta a quién en cuartos y semifinales de la Copa - Diario AS",
-          "publisher": "Diario AS",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTlFYem1IbWlheGVzMW04R2M1Yk5oOTdXS2FVN1E3V09wRW9fQzhIdVI2aUFuTkk1clpHRk5CMkVUMHJwMVQtalk5RDRiYTNWWTdZQWRBVWdFVjdyYnF0dmVtSDR0SmJrVVpqTVdMb1hUcVV4Z0dpTWdocFJjMmNzNnc2U0NvNllPYjRLeG1ZUV9tMDFsakxPTzZPcTNnbjFHdmJvY2NCNGhIbUJja09Ldms5eDExZFQ2bi1FcktwQTFlN01QM0NxZ1FaeFdRSGxlWlN4WGVaUWk5U3NqWUItOUlWVjVfLTFsWTRwQnZaONIBgwJBVV95cUxPQWI0WTVab2dWWjFzLXh4ejNxN3d0UkRmNThMU1R4b1NCRkxRX215RHlwbjlVVmJ6YnVQWWN5WkprRk9IU05ubDUtWEhPbW4xTUVyVW0zZ2ZEbGNUUlVZS3gwVktueHlGWkloQVd5RzBkTzF2SjMyX0g1ZzEtdTdCd2hlZmlqam5qMXctWF9OekRha1FxN1JoRnVsTHo1V2RTeGVpOHZZU003VDlyQXhZSmJFZ2xJdmNxN3N6N2N6SmRxLTNjN2t0aERtV2g5WEVrTHRrRUxkdGM0WmluTmtESmtYa2l0WTF1WWZZSkgwbUZXNjhLMmdvU18td0p0aWpKVjVB?oc=5",
-          "published": "Thu, 09 Jul 2026 22:33:05 GMT"
-        },
-        {
-          "title": "Brahim Díaz y uno de los momentos más surrealistas del Mundial: ¡Dos periodistas discuten en la rueda de prensa y tiene que parar de responder! - DAZN",
-          "publisher": "DAZN",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPOUlaT0szdHl6UDBaUENnTE9CVkpvOVZvbEZRblZtUC1MbFMzVFN5YUpWejlQcUx5cGFFaFpVQnZVQzZQRVZua2t1Ynl6cXVTN1NuUlFxYjlxdDl0YlNhSXMyQUFGcnlUOFJ5WTByZkFYd2w1Y3VSdjJlWmYyNE53b2xGczNUeDRrUWl3elhKamk4aG1ZdzY0ODJ2M0V6aHFBODIxU2Q4UnQwLTh3cVhQb3hKLXpseVZ0MS1BR0tweG1HVnBhSmhacmtZdDd6WEtOZXd1X2dITDA0eHZQdFlFM1IwazhRdTNxeGFsYU4yelFORnFDbjlKYVEzck5QR1ZwNmhvRjZVaw?oc=5",
-          "published": "Thu, 09 Jul 2026 17:04:32 GMT"
-        },
-        {
-          "title": "Oyarzabal, a RTVE: \"Ojalá no marcar ningún gol más y que la cosa vaya bien a nivel colectivo\" - RTVE.es",
-          "publisher": "RTVE.es",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNFFaWDl0RzBWcExZU2tIN1dHU1dFZnBvelg1QkhJc0NmWW9KWF9PWV9VR3dNTUd6RXNoWXdkWGw1QUE5Z3I0RmxfcjMtd3ZlUnk1RlNRWXFJY1RhNHVpOWhrcm1pSGJKRFE5akF1d3ZfM0VRVF83bWVSTXB4UFZDOXRXQUNHUWh5UlhNeDdHanRoUjdzdWNhYldpMWlrRmZzcHFmV2RhY2hQdGZ0Y1FxLV8yNnl0ellHTi1BQjRFZw?oc=5",
-          "published": "Thu, 09 Jul 2026 13:44:02 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Paco es una IA - EL PAÍS",
-          "publisher": "EL PAÍS",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85SWJPRi1IVl9IZjhEUnZyZVFQTUVFTGZIM0ZmZWxzQWFSR2o4TzJPYS11Q3AyT3lXOUVyZTFQUVozQ2wxS3I0eUtxc0tuZWdFRlZGTVlnY2tMX0NRbXd0eVVxclVnZzJM?oc=5",
-          "published": "Thu, 09 Jul 2026 03:30:01 GMT"
-        },
-        {
-          "title": "Los Mossos identifican a la mujer hallada muerta en el río Segre en Lleida tras difundir un retrato hecho con IA en redes sociales - 20Minutos",
-          "publisher": "20Minutos",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMXJTeEFPTHFPVU5xcUF2ZHVfbjdtd1o2WGRLaTEwUURESzI5WjdXSnpKeVVtMXhBR2FHcjVENU5IemQwODBFbkNGUkxVc1ZOa3FxekFhZGhwd1VIM3FkZENFNHF5ai1ESnA0ZUh2dnJ0cUhxd0dIWHN6ekhhWTBGSVlaMGp1SU5FQy1EakR5Y1RwQVp3M1NzUjkwMDdQRHQwM2RJZTBKdmNGTjE2Wng1aHlQSWtHd0VVbFV0cFpwb3B1WUI1blZ3ckNVclo5Wkd4LUFFR2xoREdlQ2plNXlEdlJLLXZYZzNtU1pSclNwRHc0bVlRLV9IaGhtM3Y3UQ?oc=5",
-          "published": "Thu, 09 Jul 2026 08:49:19 GMT"
-        },
-        {
-          "title": "Díaz Ayuso anuncia un gran campus de centros de datos en Alcobendas con más de 1.000 millones de inversión - 20Minutos",
-          "publisher": "20Minutos",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNENlYlZSUUk5dWdkaUVTRE5nVEZ0X0N0elY3LTYzdHZhSUdVTV8temRTS2x2OHJKbXFmLU13MTNqcXNQa0JzRlBHRFdaVmM5NTZkYTVaejdtLTNkYWRxemQ5S3BPdFBEM1NzRmhJbmZ5dTBEV3V4SUJmX3VCLUdhYVB3Ty14dlN1OUhWYmV6S3BfYm5sMlMwZ1NyV2JWX24xb3F0SnhuSW1QdEhheTVHN1ZGemtWN0VCME51azRYR2FIbXZFMVEwYkJBSklWUG9EaHliVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 08:54:49 GMT"
-        },
-        {
-          "title": "El error al usar el móvil en el extranjero que disparará tu factura: \"Provoca situaciones sorprendentes\" - 20Minutos",
-          "publisher": "20Minutos",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMmViQ0VrMHdkRThXMGRRb2JwSmZjNlFZd0FSTlMzZGhiQUlVOVE4aVJ5TU83RjlWZndjV2FSRW9xU3FuaDBHZHVNTDlKY1UyQUUxTGV3RktxMjRGbE5fUDRVU3RicnR1SjFERDUwSzNhWTZDX0l4N1I3aFVnZ005TDBrT2lNenlpZlROdm5WZkE3a2o2Nlhwa1pFTkIxNzhxc3FTLThWZFd2cU1CQVNuMXRnbXlQZTM2ZzVDUkFwWk5Sbm1KUmhzd1VyODZBNXNnTHFSSC02Y011QlRDQ1BySVRfaG0taGRucVcwWGtwSU9MUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 04:07:28 GMT"
-        },
-        {
-          "title": "Si odias Windows 11, no estás solo, pero ahora puedes ponerle solución - El Confidencial",
-          "publisher": "El Confidencial",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjlrOWQ1RzA2STFfX0llMk94VlRDWWNMbXV4bVVfUDBmcUc2b3BmR2FoeVJ3N2htRW4yQjd4QnM5bklOV1VtZ0dMeUw4RTVPYU9yQnlmcS1LR3poQ0ZteFZJWGZiS3Awb1FNRHlOdE1CY21wcWpVaW50YUVjM0RfUHZKMElRTVBhN093eTBENnBsRXBFV196eURBTjMxdnRYU3B2Y3dvalhlQkhlQ2JiTUNJV09KYUU?oc=5",
-          "published": "Thu, 09 Jul 2026 03:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM - SiriusXM",
-          "publisher": "SiriusXM",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTFoxYVIxRjc1R0lkM19yM2VWdldEck9HbVQ5Q0FiNXktbHlibi1HZjBDc29yRjlHbEJyUTVCSzdWR1BMVzk1N3pLVE9VY3dfdDQ2cFByU001UC1neXZKUGh5VjVnV2dfMXc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:50:34 GMT"
-        },
-        {
-          "title": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
-          "published": "Thu, 09 Jul 2026 19:55:14 GMT"
-        },
-        {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Thu, 09 Jul 2026 18:23:00 GMT"
-        },
-        {
-          "title": "Mexico vs. England sets new record for most-watched soccer game in U.S. history - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:42:00 GMT"
-        },
-        {
-          "title": "Scotland soccer fans donate $15K to U.S. students after FIFA World Cup - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXRhTEFzRVg1bldRZmhoRHlBRk5LLUpSTlRZZGZBeXdIMkxsM0xTaXJzWHM3RmFGVFZSdXZ3Unh0SUp4T3pmZ0phOGlEYUs4bXZQSEhyYjNUVzE3TXU4NlpSbjExRFVnRi11ZWFabjBENVN1cHBUeWdybXZXQ1dVVXFGMjNJSC04X3RLd3MzcTNVQk1iWkMxQzRnZ01hS09HaUw0SUNobk9LUXpHYlFhUlRJVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 19:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Emmy Predictions via Feinberg Forecast: Scott’s First Post-Nominations Read of the Race - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVhalF3dlZVLWZNSFEzSjdKYmxhRXFtano4b1hJSUFEd1gyOUhvMHFUaGJCRm5fTVZuSkNEdzNnaEpxOWx4d01ER3NDcXR4aW1rMS0waTlKY3dCOXFtekhXUExnX2YyYmFoQ0xqeE5sY1p6VmtVWWc0MDN2dzk0X2VhWEJHZ0FEdUZiOHY3NUtYTTg?oc=5",
-          "published": "Thu, 09 Jul 2026 15:18:23 GMT"
-        },
-        {
-          "title": "‘Heartfelt’ or ‘creepy’? Justin Baldoni video after Blake Lively legal battle divides PR experts - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlJQcS0zTkstYzQwc3RzS3VrenFPeWtxRkV1X1pocTFzQ01MNXpKTlNXMEt1ZW5XVUtBbWdZY01xOVU1Xzd5SzVVdXdUZkQxVERGUlFIZTJuYTFtaE8xYTd4QmpmS1V0WWJ1RTUtNjRlS0RlcWo2SWNVNV9RUl82akpqLUtqVklfNktPdXVodGtxR3dBZUVTcUtIcGFPd002ZUxMQUVxTzM4Q0luYm12SHZ6NjBBOTVXRnc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:33:52 GMT"
-        },
-        {
-          "title": "'Task' Season 2 Is 'Mare of Easttown' Crossover With Julianne Nicholson - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEVwREEzR1o2eXNyNFB0ejY5Y1U2elk0TDRGV0hFMXgxUFlpTHJhQjZpbWhIcDhISkRqMFU5Qm1QZ3NNZUQwQXg3Zk0waEVpbVRueEt4OVhJNG0yVkFxbV83ZHRCczJ1SXp5TlE5UGRkVWdpQ3hTV3NYOENNblJwSWtjVEtNdG9FdEZNcV9pb1JGSG5uandSalVWcGJjcV9EN0xVX2lWaw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:30:00 GMT"
-        },
-        {
-          "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTQ5VzJpdkt1RXpVOTE2VmpRWUREUmpxTGxoeDNvOEQ5ekRnM0dkVDZ2alctTlJLYUk0MlZHSmFaYy0xMXQtb25XcDNXbXc3RWx6YTZfRUlfaVA4WHFoOGNRY0ZDc0Z4VXd1TzNjNWhMMW9wWF9Gdk0yNXRKbFlvSmlNV0hUTTdWN19DcnBCZkxKRnZrNnp5TnVrZ0NUR0xDaU53LXlR?oc=5",
-          "published": "Thu, 09 Jul 2026 18:18:09 GMT"
-        },
-        {
-          "title": "Moana’s Record Rotten Tomatoes Score Should Give Disney Pause - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGgybnFxUzlMeVBvS2VpV3RKRDVqYWE0R01vLURNamVHWnd4OUFZT1hkaEp2b1NTX0dmY2pENFVLUTY4OTI1azlEem1ndFV0UGRUTEppLTRIbjVjUUo1ZHNfb2FFU0lRQlFMaUlqeVNRRG52X1hNTldLUnZOOU1BSXFqa3JiaWw5UmhXM3Z5cUFnclZaTWhlQ29kRFdUUFRHTUQ4UF9CNkZDSFRKakJIeg?oc=5",
-          "published": "Thu, 09 Jul 2026 14:04:59 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

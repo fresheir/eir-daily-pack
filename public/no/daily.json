@@ -1,260 +1,43 @@
 {
   "market": "NO",
-  "generatedAt": "2026-07-09T23:10:13.551983Z",
-  "validForDate": "2026-07-09",
+  "generatedAt": "2026-07-10T23:42:54.785483Z",
+  "validForDate": "2026-07-10",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Skogbrannfare, Vær | Farevarsel om skogbrann i Sarpsborg: – Følg instruksjoner fra lokale myndigheter - Sarpsborg Arbeiderblad",
-          "publisher": "Sarpsborg Arbeiderblad",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNGhNZ05HcUpVQ0tCY1RMNFlfLVhXWkVGQ2h5OHFFU3FWM2ozclI2QWh4Y3cxWF9hWWtuMGdTYUVuOTA1LTlTWFM4N0MyaGdsZTA0bXJrX3NTd2ZQMmdNTURmd2FKb2RvMXk5M2xaNTFfckY5QXNjZ28tcEUzUTVaVjdSaUV5dUQycFJGT1F5LUpMMUZCamJreHd3WkloRDZibkprV3dzcWNHOGYtaGpz?oc=5",
-          "published": "Thu, 09 Jul 2026 16:01:02 GMT"
-        },
-        {
-          "title": "Togfeil mellom Oslo S og Lillestrøm rettet - VG",
-          "publisher": "VG",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OUGQ1dHhESXoyVEJhUHAxdHBxSFpYb1Rta1JyOVI3djlrazlaajNwWGZGblpBdDNuZXNLajkteU9SQXFYdlFOZzlhM3JJemFZM1Izci1BZE1mcVFRc2ZvaWVRQXIxdGoyQlFOYw?oc=5",
-          "published": "Thu, 09 Jul 2026 21:38:41 GMT"
-        },
-        {
-          "title": "Nyheter, Lørenskog | Massiv lekkasje: Barnevernssaker, pasientjournaler og elevmapper publisert på nettet - Romerikes Blad",
-          "publisher": "Romerikes Blad",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2M4eHFVV0Z4eXRVN1lfMkpBSXpJQURxMDFUd003Nl9QWFlnZ3VWelBJeVRQWEhDa3BfUVJpOFdrSHpWWkNLRlRQRGZudjRXR3ZGZnY2eHE0VVVtaW1pX19sT1MxYnVQSUc5TF9lNGJuRkZ5R3l0TkY1cDBWcG5SNUlsQzNJUEVsWDlXZG9wa3M3ZjE4dndOeklVWmxval9PRGhXeExNblUwQzMyMTNjSURld0V0QQ?oc=5",
-          "published": "Thu, 09 Jul 2026 18:18:29 GMT"
-        },
-        {
-          "title": "Svindleren i stuen – Dokumentar - NRK",
-          "publisher": "NRK",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4teXBsLXVvWHhKVFJmVGNzRkVtRXN3ODFfVkdmRFVUT2FMdmFjcTl0dngtNEpUNktJVEVOZlluWE1pbkhMWVU3c0xLX3dIdzlzenp2VVp6NGpSMEhYV09JRlQ5Rkcxb2RNSjF1MThZVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 17:41:11 GMT"
-        },
-        {
-          "title": "Forsvarsmateriell avviser gradert lekkasje - Dagbladet",
-          "publisher": "Dagbladet",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRy1tOG1kZE1jRmF1eDJYWFIwazJudUlkV3ZJMU9kczlaODk0RFRNc1hVOXM2dnItRlE5WmoxSzltNEhBcVNZNm90NC1lTm5GQ1pUREMyZlhZcGE5RnBHYjkxMGJVcmljUkN2TUh2YU9sZE8yd1lBTllEczdWb1p2OXJXR01UOGcwRjRrdg?oc=5",
-          "published": "Thu, 09 Jul 2026 19:11:22 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Sendte melding før dødsulykken: – Overlever kanskje ikke i kveld - Nettavisen",
-          "publisher": "Nettavisen",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWNydHVJelM4cVBYNkRob3VwYjlTVTduRERSWW1GSDQwWlRtUWxqbGZwX2Z1d0Q4X2gwYUJNZXFJcWYxSFRLVng4bVBMUUNMU3g5cFhjZ0JwaFAzcHZOWUV5Z1lobU1yNk96TTVQRW9qQXNJc0plTUhqRm1XSlg4cWpkT1M0VUlzejBhZVhWS3dtNVlfRFVFX2Z2ckE3blp6R25oanU4M1dsTHpsNHZETFhCaENDY1ZaYkI3eC1mdG0weEx0Mlo5d3FR?oc=5",
-          "published": "Thu, 09 Jul 2026 21:08:27 GMT"
-        },
-        {
-          "title": "USA: Har rammet 90 mål i Iran - Aftenposten",
-          "publisher": "Aftenposten",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55dE1PVWxJZU05OXBDdUYtS1lwbl9KU1YwY2JrZ1dldWkyV1p4YjNaZXo0YWN3MkR2QkdacFA5Y1BRNTlBdDU0M3N0ZXd2V3dEeGlXZ0Q3YXJneUFMMTFNMGpGbXhreXJEUmdCX2xZbTc0eTNPeWdSdzVCV0M?oc=5",
-          "published": "Thu, 09 Jul 2026 04:35:33 GMT"
-        },
-        {
-          "title": "«Grev Søppelbøttefjes» kan bli spikeren i kista for «Brexit-sjefen» - Aftenposten",
-          "publisher": "Aftenposten",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWdWbHBrMml4NVBXZF9Wdjc3OGRxTEQ5S0JaV245dUdMb3M3aTY0TjJFV0Zyb1NqZktRTzJjaExHTDFLY0NkT2NYZVhxd1hDc0ZTRWNnNGtjaE8xUXZVT1RENFNBX3M1TmVYdHc5Q1pUMTZ1bnVDTVRfeTBDVEV6MmdFX2RfLTQyWFo0b2x0OWYzSDJtWlhQSzJPM3dDWnVOVkhCOWl4cmhJcHF4a1Zj?oc=5",
-          "published": "Thu, 09 Jul 2026 19:31:24 GMT"
-        },
-        {
-          "title": "Ulykke på campingplass i Gol - NRK",
-          "publisher": "NRK",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVRVdHQ21uVHdhc056V2l1V0F1cFpqVVp5SUo3aFY0dTA2bEk1Ul9LbG9vWGFOQWNUcEZIV3JTYUY3U09jSnhkZjlaSUh1YTRmRk9qZU4zLVNma0FQU2hheXJ4SnpqSExYNWZ4dk1jbWJaZXM0amc?oc=5",
-          "published": "Thu, 09 Jul 2026 16:52:30 GMT"
-        },
-        {
-          "title": "Ulykke på E18: – Trafikken står bom stille - Aftenposten",
-          "publisher": "Aftenposten",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORlFhaVlDbVY1Rk9mZGs4VTZpMFNWNURfelAwVEVBWk5veGNLMWRtalI3SDhQaUVGcGFSbkl5QmRabmZHaHh5Q1QtazVBS3d5NHgwYVdSRS1IUHAtVTVKMXlpT1dlVk1ITXZqUFRuMW0xN1lVMFcycGozRjBXZkoxYzYzclBJRTZJVnc?oc=5",
-          "published": "Thu, 09 Jul 2026 13:08:49 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Nasdaq endte opp 1 prosent – Elon Musk innrømmer: – De er klart lederen innen AI - Finansavisen",
-          "publisher": "Finansavisen",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenhhSmVTNlQ5X2NwNFNFRUllckFKTGlkQ3F0cFJBSnZmT2xBRFNvM3Y0SkJLN1BBdy03QkJRa2xPaDA2LWhrYlUyUUk0bDB3UlpjUDJ5N1ZIWGwyN1pFWVFGbDBRUUZmVzNsemF3REhJckk2YkhoZ29kLWhjcVNlU3A1YnZPV2RkTnkzVGVLVWNzMzhlWG9NTXVYT3FZWUdMN3JtcXBKUGtyWnVyZ05hNG5vV3V6d21tY3ViOUp0NnZTbzZIdTFWdQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:00:16 GMT"
-        },
-        {
-          "title": "Lett spill i Persiabukten - Finansavisen",
-          "publisher": "Finansavisen",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUlNqUUdXR01zbUNjZVZCQUF0ZUtWYWZUQ29uYVBxVThFdWw3anJNRFB2NmtOQ0I5OUZ2XzZRWXhaeHhiMFJhN0owUmVVTVd3QkpOYk5NbUJ1TkpKYkxtb3ROYUY1ZG5PQVhSRzI0bV91VVlKcXJyeEhlVFJYQldITllPWVdVT2M?oc=5",
-          "published": "Thu, 09 Jul 2026 18:00:15 GMT"
-        },
-        {
-          "title": "Telemark Kildevann-sjef kjøpte strandeiendom til 56 mill. kroner - Dagens Næringsliv",
-          "publisher": "Dagens Næringsliv",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNHhubmpLU3JSOHpqcHNWclB1LVE2dm9qbXlyaTc4VHpwaGdPN0VxX2lkcUNVVGZ0WXU1SlVTdDA0NFpHeXNuTjZPOHQ2dmFCUXFnZktCcDV0WGExT3kzNkdndkNmMnFLWGJKOERodW10cXZabDZJeFVXSGRLU0t1aDdxNDNHTlFJRUlRdHZZSjdIbXJ2U0FlTzh0VDd0MWNiSVZneHFwSnFpZnp0ZEh2dHROcW9mRDREN01HOWF6bHlSUkpfa3lub3hLSQ?oc=5",
-          "published": "Thu, 09 Jul 2026 10:18:00 GMT"
-        },
-        {
-          "title": "Oslo Børs ligger ned ved lunsj – krakk i børsnykommer - Finansavisen",
-          "publisher": "Finansavisen",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkNUNGQxVmVwb3dxQm9HUXBkRlNRYUxYT18taWdGRzV3SGptZlZlMUJTMnhmZ0dXNFE0b3g0Mmc4UFlKSnJKZ00wVUg0Nk5Oc1BaWHktY0ZSX0JhTjY1TDFLOTFybU01MjVZcDhSdUhsQUloNUZ1c3BVWXdiWHdzTm1ZUXc0SERKLWQ0dE9fbkljWm5QazI1dXhPZzh4RGY2eWFXVlZObVE?oc=5",
-          "published": "Thu, 09 Jul 2026 10:15:16 GMT"
-        },
-        {
-          "title": "Sjeføkonom: VM-fest kan gi rentehåp - Dagbladet",
-          "publisher": "Dagbladet",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZWlDWVE1b2tUbEV5Yks5WTZqS2gzSXlqOWxiRS1LNHVkZUsyWGJQYW9wRkVRX3pLNjhpMVhCMUFqaU9ZdnFmNHRITG5jZm9XV1oxY1NjdHNFTGdpV3o2UEFJQXoyTHg5azI3TE1sR2dTdm54MHlUeWlvV3RwWTNIcmYxbTYyQQ?oc=5",
-          "published": "Thu, 09 Jul 2026 15:50:22 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Reaksjoner etter Mbappés straffebom: –⁠ Helt håpløst - VG",
-          "publisher": "VG",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wa1ZTeHlmbEdxS1pqcXRxUXJCOGtIazkwb1ZwbmtYdmdyelpwS1BrMkgwZlVpX1JXMjVJZmpTUnRkV0cyTTJEYU9OV3VWZUtNWVd4X3Vrbm1TOWoyY1lHT1dwLVZ6TWNrQXdzMmJHeHgtUUE4OEJVX0pnbTA?oc=5",
-          "published": "Thu, 09 Jul 2026 22:13:51 GMT"
-        },
-        {
-          "title": "Tour de France: Torstein Træen i stygg velt – mistet den gule trøya - NRK",
-          "publisher": "NRK",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFBzM2VZSFY5bnJWaFA3SGNMQ2dwSUNLNGNRSXhKcWtHM0p3MDVXdXhfdVAtak40TXNTWlRmYl83MzF2dWtGeWJubzBHRHJRNmRnR2c1bkt2anFpUWsyT19vVkRzbHhqcWRzWjRjUVByYmZtSENucTAxMkd0M29EUjh1T0Z1Njlac25nVDhxOUdFNXdFSE82MUVOR3ZGSHBScXAtYWdlWQ?oc=5",
-          "published": "Thu, 09 Jul 2026 15:14:24 GMT"
-        },
-        {
-          "title": "«Alle» har lagt sin elsk på Haaland. Er han den nye største fotballstjernen? - Aftenposten",
-          "publisher": "Aftenposten",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV25Qb0ZPQmNYeFh2M2JkNjFMQjZmQUdJQ3VUajQyeGR6YVd0bWZoaGJldEU1VFB1M2JsTlN4MmtkMGItc2tycGJRU0x1b1pSSmR1Rmo1aGtLU1Y0MEMySVZtMWQ4MVZXUHBfU1RsR2Z3WFYzSC1DSG5nTnV1SzA2QVE2UzNra0Y5XzFtYzQ4ZzU3YVl0dXcxR1Q2T3lJVlZlZlI1NzlRS3NPRGhBd3VoVXdIczM4SjlGTU1vdnZzX0ZXQQ?oc=5",
-          "published": "Thu, 09 Jul 2026 15:53:35 GMT"
-        },
-        {
-          "title": "Så VM-bord til 50.000 kroner: Reagerer - Nettavisen",
-          "publisher": "Nettavisen",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUEtlRnN0MVVzenl0THc0a3pleUVHWFBqNWNnWXVuT2xwSmU2WnV2MVpqcmdjT1d6a1BOV0ZLWDFQcU4tM3dreFBMT2dYdTFteUQtUktYV01qcm1STXBsR29sUkZIWnRkS0pJcXRHclN2Z3ByQkZ6c1dCTjhQdzRNRjRlV09QUEVPbjhsNHJOUWpjWDBXSDcxQlhualdDdG9nSlJEZ19leS1Rb2E3MXpEWkE2Vm1ZMkVOaTdIWDNZZ0daVlppcnR4N2xBeThvRHFUVnVZWXVHcWhUcjJrQ0xRakFCY3hvVW84Q1J0bQ?oc=5",
-          "published": "Thu, 09 Jul 2026 14:00:21 GMT"
-        },
-        {
-          "title": "Folkefesten i fritidsparken er i gang - og det blir ikke bare fotball på storskjermen - Telemarksavisa",
-          "publisher": "Telemarksavisa",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByOWdHeDZOWXNRbmpkU2dzZU5abDZSbjR1bDRxUlhVOGJ1WXh6ZG5pbnFKNmdySExGSWhBMUhOLWQwRzhjaE0yQ1hlbTIzNGNSUk50TXhCSVdsYmVqWXJn?oc=5",
-          "published": "Thu, 09 Jul 2026 16:55:41 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Klar tale etter Haaland-KI: – Ulovlig - TV 2",
-          "publisher": "TV 2",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04T1Q2akpHMHpkbnNFTTV1ZTIzNmU1Yi1MaWcyVnByMFlzU196bWtOMUJFQXhHRkJoeEZ3S0IxdXhvZzJtNkJFbzVHZzk5VjV1MXFqWUloS2lJMm9HWHhNcURIbnVXNl9KQkRIRVUzVUxod0t2dDVreXF1QQ?oc=5",
-          "published": "Thu, 09 Jul 2026 21:17:43 GMT"
-        },
-        {
-          "title": "Honor Magic V6 er et déjà vu fra i fjor - Tek.no",
-          "publisher": "Tek.no",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYZHFTeV9uQzhhRVNQcGhOZmpRcFAyQUE3QURvNlNTVWdIVWRzSXVtWUNXclAzWjY0d0s3WWhoYUs3cWdaNUhmMzFVN1Qzd2FXU2hhYU9ZWHJfekE?oc=5",
-          "published": "Thu, 09 Jul 2026 14:16:29 GMT"
-        },
-        {
-          "title": "Salget av overvåkingskameraer øker: – Kanskje ikke til så veldig stor hjelp hvis du ligger på Kreta - Aftenposten",
-          "publisher": "Aftenposten",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUJPYkxld2cxODBvdHhpWkJGVkpUaFdiSm1ycnNEekFuMGdFbldqX1pHeGJKV1lDeXJndWp1UDdNQ1dVOFB2SHltQU9ZX1VLbS1pZUJNYXd0UlFkU2JuRlMwY25ibXJicTBtTHJoTDV0MUNDZjJod1VvZzBsTFFfRzBPNnlFOXl6XzNwSVZDX21iZVQ4OUFyUm50ZXVHY1JySHFLOFpEb0w1NUpjZGF0ZFp3dXRxM3VGLTlaT19QdzJSUUQyRmFKUDNjRW9aZw?oc=5",
-          "published": "Thu, 09 Jul 2026 10:01:04 GMT"
-        },
-        {
-          "title": "Alvorlig dataangrep i Lørenskog - personopplysninger på avveie - VG",
-          "publisher": "VG",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazNVVy04Y3FjTmU5TG83dHNsckJxNmRqSUNfcHcwY2R2MU5OVEpwZWhTdG1iVjhjdkxtRUVETWl6M2N2Mm8xc3dZT05rWXB2dk84bVBDVWpoWDVjWGNzb3FBVTFlQVZqSXdNR3RWeERzXzFZSGE0YllCNlFCaGlZVWY5SXJzM05xbVFRVW8wTFhkeHZCS19UTVluUmI3NGpxekFfYzBQR0ZZVVJsN0ZDN1lXOUpkRkEyc0JLdEhYaDhiUmx5SWNtX29vTHNiNHFX?oc=5",
-          "published": "Thu, 09 Jul 2026 16:21:53 GMT"
-        },
-        {
-          "title": "Vil bruke like mykje straum som 88.000 husstandar - smp.no",
-          "publisher": "smp.no",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tNkQwYmZQUHZha2RUd1k0MFp5MkRESkJYZ0xBakxaaGFGSk5EZHpWdWlVei1xdWo4Z1pIUHphcDVJRzdOaGNaSVRCZHZvV3R3d1Q1a0FwUDVwbVc5MDRVaEJzVjNQVDR2WWJlOS1XSFJRQTBFZThVcEFmTldKazA?oc=5",
-          "published": "Thu, 09 Jul 2026 09:32:36 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM - SiriusXM",
-          "publisher": "SiriusXM",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTFoxYVIxRjc1R0lkM19yM2VWdldEck9HbVQ5Q0FiNXktbHlibi1HZjBDc29yRjlHbEJyUTVCSzdWR1BMVzk1N3pLVE9VY3dfdDQ2cFByU001UC1neXZKUGh5VjVnV2dfMXc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:50:34 GMT"
-        },
-        {
-          "title": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
-          "published": "Thu, 09 Jul 2026 19:55:14 GMT"
-        },
-        {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Thu, 09 Jul 2026 18:23:00 GMT"
-        },
-        {
-          "title": "Mexico vs. England sets new record for most-watched soccer game in U.S. history - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:42:00 GMT"
-        },
-        {
-          "title": "Scotland soccer fans donate $15K to U.S. students after FIFA World Cup - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXRhTEFzRVg1bldRZmhoRHlBRk5LLUpSTlRZZGZBeXdIMkxsM0xTaXJzWHM3RmFGVFZSdXZ3Unh0SUp4T3pmZ0phOGlEYUs4bXZQSEhyYjNUVzE3TXU4NlpSbjExRFVnRi11ZWFabjBENVN1cHBUeWdybXZXQ1dVVXFGMjNJSC04X3RLd3MzcTNVQk1iWkMxQzRnZ01hS09HaUw0SUNobk9LUXpHYlFhUlRJVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 19:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Emmy Predictions via Feinberg Forecast: Scott’s First Post-Nominations Read of the Race - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVhalF3dlZVLWZNSFEzSjdKYmxhRXFtano4b1hJSUFEd1gyOUhvMHFUaGJCRm5fTVZuSkNEdzNnaEpxOWx4d01ER3NDcXR4aW1rMS0waTlKY3dCOXFtekhXUExnX2YyYmFoQ0xqeE5sY1p6VmtVWWc0MDN2dzk0X2VhWEJHZ0FEdUZiOHY3NUtYTTg?oc=5",
-          "published": "Thu, 09 Jul 2026 15:18:23 GMT"
-        },
-        {
-          "title": "‘Heartfelt’ or ‘creepy’? Justin Baldoni video after Blake Lively legal battle divides PR experts - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlJQcS0zTkstYzQwc3RzS3VrenFPeWtxRkV1X1pocTFzQ01MNXpKTlNXMEt1ZW5XVUtBbWdZY01xOVU1Xzd5SzVVdXdUZkQxVERGUlFIZTJuYTFtaE8xYTd4QmpmS1V0WWJ1RTUtNjRlS0RlcWo2SWNVNV9RUl82akpqLUtqVklfNktPdXVodGtxR3dBZUVTcUtIcGFPd002ZUxMQUVxTzM4Q0luYm12SHZ6NjBBOTVXRnc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:33:52 GMT"
-        },
-        {
-          "title": "'Task' Season 2 Is 'Mare of Easttown' Crossover With Julianne Nicholson - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEVwREEzR1o2eXNyNFB0ejY5Y1U2elk0TDRGV0hFMXgxUFlpTHJhQjZpbWhIcDhISkRqMFU5Qm1QZ3NNZUQwQXg3Zk0waEVpbVRueEt4OVhJNG0yVkFxbV83ZHRCczJ1SXp5TlE5UGRkVWdpQ3hTV3NYOENNblJwSWtjVEtNdG9FdEZNcV9pb1JGSG5uandSalVWcGJjcV9EN0xVX2lWaw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:30:00 GMT"
-        },
-        {
-          "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTQ5VzJpdkt1RXpVOTE2VmpRWUREUmpxTGxoeDNvOEQ5ekRnM0dkVDZ2alctTlJLYUk0MlZHSmFaYy0xMXQtb25XcDNXbXc3RWx6YTZfRUlfaVA4WHFoOGNRY0ZDc0Z4VXd1TzNjNWhMMW9wWF9Gdk0yNXRKbFlvSmlNV0hUTTdWN19DcnBCZkxKRnZrNnp5TnVrZ0NUR0xDaU53LXlR?oc=5",
-          "published": "Thu, 09 Jul 2026 18:18:09 GMT"
-        },
-        {
-          "title": "Moana’s Record Rotten Tomatoes Score Should Give Disney Pause - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGgybnFxUzlMeVBvS2VpV3RKRDVqYWE0R01vLURNamVHWnd4OUFZT1hkaEp2b1NTX0dmY2pENFVLUTY4OTI1azlEem1ndFV0UGRUTEppLTRIbjVjUUo1ZHNfb2FFU0lRQlFMaUlqeVNRRG52X1hNTldLUnZOOU1BSXFqa3JiaWw5UmhXM3Z5cUFnclZaTWhlQ29kRFdUUFRHTUQ4UF9CNkZDSFRKakJIeg?oc=5",
-          "published": "Thu, 09 Jul 2026 14:04:59 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

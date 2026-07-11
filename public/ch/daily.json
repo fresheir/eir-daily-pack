@@ -1,260 +1,43 @@
 {
   "market": "CH",
-  "generatedAt": "2026-07-09T23:10:03.746191Z",
-  "validForDate": "2026-07-09",
+  "generatedAt": "2026-07-10T23:34:30.643756Z",
+  "validForDate": "2026-07-10",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Schweiz: 37 Grad erwartet: Die Hitzewelle kommt mit voller Wucht - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNREtNd0x1d2N5MTJVQllUMkFlNEFhZ1dEX3U1VDBBbkdSYWdFcUpGYzJvb0duLXdXQ2hxUzk3cF9JSFpBQ0FpRmM5dm83bHdfc3dReVdRdmxYU3NicFFWOUh6MDJTeTVxY2w4UGJRY3hZTG1vclNGUWZvSXl2T25zNk5tOHNVT01hbTR3cHl5Zm94QUtzdmZoVGY2WkMyTnFl?oc=5",
-          "published": "Thu, 09 Jul 2026 09:56:52 GMT"
-        },
-        {
-          "title": "Waldbrandgefahr im Kanton Bern: Feuerverbot gilt nun auch im Berner Mittelland und im Emmental - Berner Zeitung",
-          "publisher": "Berner Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYjRqeDFSREtEVUdUUlpubUpCclBtQmRmNEJ2bGRRaWQ5UHdrQmpJTHhoRDdaeGpLN0E1R3JIUERFV1dzalhDSkd0bmgzZzgwcUtEX29lUmtUdnpmYWhFcGVjR2R5QV9tUE1KMVhsVG16SFlfWFN0Y1dIOFQzT0pNOVJVYlIzYUh1VEtCSTcwaEp0M1E4SGFBN2FGLW83REEtbGc?oc=5",
-          "published": "Thu, 09 Jul 2026 10:34:17 GMT"
-        },
-        {
-          "title": "Trockenheit im Kanton Aargau: Wo gibt es Wasserentnahme-Verbote? - Aargauer Zeitung",
-          "publisher": "Aargauer Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZDZCQzRwLTRpLUg1Sk5iaGlWY2tGTU1fRkRhcG1uT19Ccm84MHFoa1BTT25ETVVNRWQtQktLN1JVQzRPanlLYUZETGtmTHRzNHVyRTVRNE4tdzllSFU5ZnU2b1F6ZzFYaXQtYmhSSkEzS0VUYXNDTU5iWFZSdjdqaFZ4ZUJFNFpfWEdPMkcxLWFnV2pnWVQwRk43WFJRWVlQY3l6SWFuVWdqaHM4eG9FV2VMT3dIVjFiZzd0TGhfcU9Zd1U?oc=5",
-          "published": "Thu, 09 Jul 2026 08:41:23 GMT"
-        },
-        {
-          "title": "In Pommes-Boxen und Make-up: Fast niemand kennt diese giftige Alltags-Chemie - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYkJzUFhJOFZHTUoyZm85eFR6NDhWUzdKQ3FOQmMyR0ZOcnNMOW9GajdscGh1MTY5dkkyR0s5WWVNZjI3WjYtbGdRb1dCZlVobEVneU5zb1V3YzRtQklZTVh3eE84cjhLblV3WEZtazQ5TVViSVh2cW1YOV9CVGE1TGIxbUtIZzA?oc=5",
-          "published": "Thu, 09 Jul 2026 09:49:44 GMT"
-        },
-        {
-          "title": "Tote Frau in Buchackern TG aufgefunden – Festnahme - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOakFIRkpjSUlqSDFCM3ZVSG5BWnk4M2ZBMjJJUm9jSXM5Y1ZFYUxvTDcweHlrc3BBNjFPRGFlSk1HbF96UUFXZlc2MzBmMHhRMFFSbWVVZVljclVOSGd1MGpudFNNSEdSLUdzVkoxb1pReXZBaUpZNVpPUlB5eUhraHMxbG9QLWFodVlCU1JJWlZ5UXpvZGFrSTVDX1hyb3VQdnUtTUtaRGpXUHp2RDdr?oc=5",
-          "published": "Thu, 09 Jul 2026 15:06:38 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Trump: Angriffe auf Iran könnten «viel schlimmer» werden - NZZ – Neue Zürcher Zeitung",
-          "publisher": "NZZ – Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTE0temhfaExHT3V4aU1rbEhRUzNwdDlaQWhxWTFHSmZJSlBHajNhSmk5Nlh0czB4S2tUenZ4TnVHR2djUGpMYXJyaTQzOUFUZUp2Y0x5MzRDOERxV29VczdnMnZzd0RscVdhcUYzNUVqbE5QMlhOSGVTWHhkN191WkUxWjlkRC1Qc25GemVXTGYwX0VvTzBENUlZaURXX0FyZnlyUjVLeUlmMkVsdGQyVERyS016TmpBOGs1TkllNU5YY1FSUzl1d2hBby1mZw?oc=5",
-          "published": "Thu, 09 Jul 2026 03:25:28 GMT"
-        },
-        {
-          "title": "Nato-Gipfel in Ankara: 140 Milliarden für die Ukraine – doch die USA zahlen kaum mit - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQXzZEenpVaEtuTGZmZFYzNHB5M3I0X01wc3BzUGhxT29mRmtUMXBiUkpmYno5S0xUNDVhTC02Qkhxb21rZ3UzbjVYckhERkhHdUd6cldfZkx5NlhmSEJlQXZJbkliejEwN2VkRkhoSVZLN1cxSUNaRDIwXzduZ1I3Ui1ncEo0N2lIS09SUUF5eDZIUXhS?oc=5",
-          "published": "Wed, 08 Jul 2026 18:59:16 GMT"
-        },
-        {
-          "title": "Erdogan schenkt Nato-Politikern gravierte Revolver - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVNrR1VqZ0R3b3pwMVc5N3I3TzVVenBONDlFRjk5OHBSMlo0MUk2c3BpLWxSRThha21TYmlyMUJYaEFRVC03bU0tOTY5TDRXQUFfWHVpWWhOaVdtNzVncVhsSjdWd0lSalMwcFl3cVR4SHFDTzRQdmJScjZMTm9PcXEwZjNMQkNXeXk2YmVpNzMtZkNSd2lfdUpSX0dycTU5cVkwbnpB?oc=5",
-          "published": "Thu, 09 Jul 2026 17:20:13 GMT"
-        },
-        {
-          "title": "34 Prozent durchgefallen: Abi-Wutrede sorgt für Wirbel - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONjZOZnFiTGhfbWxBVWtIWk0tS1lsODJZcnJzSi12ckxLMlM5VVhwS2Jqby1DVDVXeGxZbzdncG5EUGZsOFlyQ20zaGdzXzJIMlptdTNHZ09BX3puMzZPRW5FRU5DWjBFVnUtdzVaZW5vVjlKZXBBMzNKTm1xZWtuYVoyQ1dQTnZOdVRiOHRZMm41dnhUamZLN3FtalFoaEh2c2FnY0Yxb2tON3NGN0dLTnVNTWN6U3Bwa20zUWZJaTM2aG9wRUxKOUJ5QV9WSW5ETEl3?oc=5",
-          "published": "Thu, 09 Jul 2026 17:17:29 GMT"
-        },
-        {
-          "title": "Ukraine-Krieg: Benzin-Krise in Russland verschärft sich - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbVNXRHM1b0lHYVNzbmVUUnhEdW5SNUhqRFBmeGZKNzlJSDlCd3NQWVVlNUJHZlQzaDRkN3hmT05faDFQYjAyWUVrMnMyTEJJekhoblVGMnZPOHozbTR1M0VLWVFIdnBOa0ZhZDI0ZEZ4ajFSU3p1dmZXUjNJRU5Pc1NwajkxZk5nOUU4UEhSR2w?oc=5",
-          "published": "Thu, 09 Jul 2026 18:12:38 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "VW-Chef legt radikalen Umstrukturierungsplan vor – Gewerkschaften protestieren - NZZ – Neue Zürcher Zeitung",
-          "publisher": "NZZ – Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQTRRVVBmcjRWM1RiSEJzeXhnVFVEU1JoSm0zaHUwNV9uLXZrVW1LTWxKZXJLbE1GM3JNdnY0NVBzY0ExcXk0cDNWTWVqM0lNZDN1Y2VFRXgySzFHdmZraEtNemxEeEt5dEZvV3VZZUQ1Rmo3V3Z4N2JyRnFzTlFyUEZqc280WkpxRVllZFVsc29VUWV2ZzBhZWdrT2RDcF92UEVaOVlHRlo4bWp5WG5wZkhzYmQzaU14QmZ3MTNYeTE1aF9rRWRr?oc=5",
-          "published": "Thu, 09 Jul 2026 23:05:54 GMT"
-        },
-        {
-          "title": "Das billigste Bündner Ferienhaus steht für 130'000 Franken zum Verkauf - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUktIbms0VjRrdUVYVXdsVk9aaDVNMW92NlEzZTlINkJJckxQQmJCTnhiTm5vbUpXRTZoa1I4SVlWeVI0MjBCNnR0OTZnQUcwOVlnbEJ4cTdGTUpPNURQM0xIQUY4MGt1OUdPN0ZGUFV5THRnR3lONzF1T3lQcEViSHMzSTdzYU1EalcxYk5mNTR3d3J1T29wZ3UwMTRGa3dOaTNLOFhraE9fTE05dzFQU1lHWE9DUVpkOWJZQ0swU2h0RndGb0lqWGRQbFlPUmhSRksxNURtd25jWWlx?oc=5",
-          "published": "Thu, 09 Jul 2026 15:34:28 GMT"
-        },
-        {
-          "title": "Börsen-Ticker: SMI erholt sich vom Iran-Rückschlag, ABB, UBS und AMS Osram gefragt, Swiss Re, Lindt & Sprüngli und Swisscom verlieren - Finanz und Wirtschaft",
-          "publisher": "Finanz und Wirtschaft",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14QUQxNUloYUZrcjlLdjdZd3p2RUVqRlMtR2hKVkpYT1IzZ1dLdzNWYThWZC16T3hZUWxBUkk4aU9tZXkyakhFSkJxTGNjQ3hPaGFNQVJMM1hXeHY2ckFuTWFpN0tIZWZvLUY1Wg?oc=5",
-          "published": "Thu, 09 Jul 2026 05:20:32 GMT"
-        },
-        {
-          "title": "Swiss serviert Hot-Dogs in der First-Class: Ein Gourmet-Erlebnis - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTGZVdjZ5SW90SjdEdWlodTk0blpvaVZDQXBacElJWmdieDdqUjNkMG9SQkJVOTF4Mkdacy1Rd2JFOTJmMnZDd0twT2dRMnptdWhueENURDVLREs2dWptWXVCWFRITUJjTDV5OUFnWU5FRTdYNF9YMDM0eU1uM29NakZ3TmNST0pCWWdSaWtrbUhTOHI5WE5zcU44UExNWlk?oc=5",
-          "published": "Thu, 09 Jul 2026 13:38:27 GMT"
-        },
-        {
-          "title": "«Banken, die jetzt nicht handeln, werden in grosse Probleme kommen» - finews.ch",
-          "publisher": "finews.ch",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1FqRlEzU2NSbGlNMHVzN2Zkc05rZ0dmdGxyVUVxMS1FSlF3OEpEYlNrUzZYQnBvb1JPQUIycnhkdUZWYW9Md1QtYm81YXVtOWJPemhVaEl0bHpfbnhGR3B2RnFkLTJKYkRNQVEyQU4yaEp6YkhDZUpSWG5XZFFOdWFVczRTNllpNmE4V1RoQmpLY2RKNy14a1RjbjhfSTJ1VERLLTZKNGtueEgwQ3FSZ1Zaa3pLdEd5RU1JMnE0NUlZV0hxN2JOQVlUV1BTUnc?oc=5",
-          "published": "Thu, 09 Jul 2026 08:23:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Luzern feiert Fussball gemeinsam: Public Viewings zur Nati weiter im Betrieb - Luzerner Zeitung",
-          "publisher": "Luzerner Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzh1QTN0UzZla3V0U3FDVEdEYW1adnVBQ2xRb3g3SHdsM2ZXSGU3bVJCRGRka042RjdNMGx1QVFIQ3g2RHVjRUVpTnYweHVYblBVZ3ZKei1yMUs4UmY1cElzbGdYa1VNUWFheHlqRHFDdnFoNUhwQlJZMnBfN0RuZkl0SUVfazMzb3ZETUZFUnY5dHBHTDBGRVBqaU9UUjRZeUl4RHFPeEJ4MmVjcEFWRURnai1QOTdtVnprOEN6N2VMWlhG?oc=5",
-          "published": "Thu, 09 Jul 2026 09:41:50 GMT"
-        },
-        {
-          "title": "Gregor Kobel: Vom Schatten Sommers zum WM-Helden - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQXVOSjBacU9GcUp3SjFLblpJNVNsc09aT2ZOcFR4YmdUTTZIMk9hT1ZXdGFQcHczTXk5V2RHUFZsVlhZRmhqVDZabm9Yd29tLTIydVBQblgzOHRPV1JmX196cjdoT3A0YV9xS2xZVElocEJFdDlGTkpaX3B2Uk1ocWF1SVdMRmtJX0taeDRraE9qTUkwZ2pBZ1ptZ1dWc0ZGSkJFM0V0a1ZhVHJjcFdZTWtmakJRZlFGSm9OcUdkQTM3bVlvamVqWWMwN0dIbnNmTGdxZld2b2pIaUg5azVJWGdlRmY?oc=5",
-          "published": "Wed, 08 Jul 2026 22:02:19 GMT"
-        },
-        {
-          "title": "Frankreich – Marokko im Ticker: Die Schlussphase läuft: Marokko steht kurz vor dem Ausscheiden - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNU5IbnU2SXBLOVQyb1FFVl9LQmpaRlhVREtLMm9vLWdqOXJFMXF6MnB4bm9fWDE4N2twRHQ1TElabnJyT2E5M250cjBkMy0zaVdfU2FVWlFNbVl2TjFsUnhabl82Y0ktMU53YU9QS1pWZzA3bURYbjEydUxhdkZQcWJlRFhPZWNxV19UWjRjdkJfNnM5Tk11Rzk5dmRSTTJXaDdZ?oc=5",
-          "published": "Thu, 09 Jul 2026 22:28:29 GMT"
-        },
-        {
-          "title": "6. Etappe Tour de France - Etappensieg und gelb: Pogacar schafft am Col de Tourmalet Fakten - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNFdHOVR4aVVFYncxNUZVd3JueFhkZnh6NlpIQmZ0bE9na0NEUDZXeXQwYjB0d01sZ0kzSDVIUHBxckJiOGtxWlg5ZUpXS2VwSmg5M21CMUhxbWoydEg5MHV0dzJqWVc4ZlQ3TTlwVlJManNLUG5SMjRlN3N6Qk9MRXNxeHVpeGRFQXJORDRMZU9CNld3T2FIMHk3RkJMbFk0bUZGSVBZOXAxNXl1Nm0zb2d2ZjB6VlNvbS05cDhJZVpIRHM0ZWdoR3FhUnZzNko1Q1pnOVdn?oc=5",
-          "published": "Thu, 09 Jul 2026 15:22:02 GMT"
-        },
-        {
-          "title": "Severin Ottiger verlässt den FCL - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaFZZd25pcjhPTXgtY0I4M2hFeWpWVllTaWtoQ3RTdFJxUXNwQ2JQZG83dERrR2RaeWhYV0E2ZjlncHJuSGRDMnVMbFVJTGpDRnBLXzFEV2hpMmZ3ODhCdTl0MzZNdll0SjVLVEVFVjhhdWJLeU1DYjI0OENxQzNPdHhlekZHS3kwZmd5ek1qSC1EVDhoVTJHUDBtcGdzMl9oNndkQmNwNDczYmZMODFwY2djNFlDWURhZE5qcHhHUE5PaXZJOWR0NVRqQUxTR0R3djVkbS1pbw?oc=5",
-          "published": "Thu, 09 Jul 2026 18:52:55 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Kann Sprühnebel Städte abkühlen? Chinas neues System im Fokus - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXl3cTlxX0NRd1RIREEya1dlOU16RHFaN2dSTUhJVzE3YjJ4cDNjVjZJdWxHR1ViaXNpNVpTY3p3WlJKR3I1MmNuS01CeWlIMlZ4cjMxdnNhVlM3bmRpVW82cTRjRUdZUkJVTHVKaTdveTZLeXNjMlJQYUlwTnltT2ZFUE4tQVNwMFhPbVJJZ1ppUV9Fekw0Wnp6bHJqRDFnb21ISm9jUUkzTFhkMGI3YnJnbw?oc=5",
-          "published": "Wed, 08 Jul 2026 17:25:58 GMT"
-        },
-        {
-          "title": "KI-Synchronisation: Amazon Prime löscht «Deadly Patient» - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVUxUaUNuMXdwMW5rdzg5anVSR2U1dXJobmdsVlR4d05KcWVCSE9sYjJEZUxnRUFOZzBYSFdncUNablNKMV9FUkthMEdNSTFYYjEzUHpLeGo5bVJDRnFtc0lScXhMamFscjA3akZ5Vm9sdDQ0TmhGUkw1Zjl0OG5VMjNUMWZDZ2RUeG0tUWJJMmY1QlZud3lwbVc5VWJXb3Azbmk2ZVpMUjVxNGF2QzdFNFU3SEFLbmM?oc=5",
-          "published": "Thu, 09 Jul 2026 18:42:45 GMT"
-        },
-        {
-          "title": "Der beste Tischventilator kommt von Noctua – und aus dem 3D-Drucker - Digitec",
-          "publisher": "Digitec",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTERTOV9lY0VJc2MtQ3VjM3N6eWQyWEI0M3JTN2h4ZF85QUtyRG42TlVIVXVIN2tGak1FRUk3SHdOQTBlejVYeE4zY1JHV1hfYVppT09LNHVDM2ZaVnlseHQ2TnhvRktKZ0dIblNXQnRTMWZiWlY0cHJUbTJoUmdIY2M1Y0t3YjVKOEhpcDVjNENqcy1NcDEyaFpQUGJRMXo2VmlYaQ?oc=5",
-          "published": "Tue, 07 Jul 2026 22:01:13 GMT"
-        },
-        {
-          "title": "Disc-Aus bei Playstation: Warum Sonys Kurswechsel alle Gamer trifft - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMTdQQzhVUmlhbEdkc1BJcjhIWWN3TnlBUmZieEZMTmlRR3hldFhDczE5ZGxubjZrRTNKT3hLTDladUlEaDcxTThUeV9KenZYU0FoSGRmOWlQY0N6RFAzWi1QT0lGSHFhSHV3MDR4N2xkUEVHYXpNN2F1V0xwOS1IamlDcjRvUmJYTVdNa1dzTE5hWHU1OEdHMVJSeFgyRHM0ZXpINXBBWkxQWEZRNDhJ?oc=5",
-          "published": "Thu, 09 Jul 2026 12:10:29 GMT"
-        },
-        {
-          "title": "31-Jähriger verunglückt bei Handy-Suche – Rettung durch Rega - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTRtQmpoNDVrTDNjLUNvM0M5NWhlUEI5Sy1BeWRmemJYUFBSRGxub0xpX2M1NnJ2OHdSM2lfb3RGMlp6Y21kZ2JjRzJhdHZDUGdwTENNR3ZfSTRpUW5aWW4xWGhFcnZKbUNYek95Skg2ejFqLWoyTGJYSFlUaDlmTEgtMkFxRDZfSVdfYWRhTmFUWDVCcjZiZEcxMTk1Mjc5eEliUDdR?oc=5",
-          "published": "Thu, 09 Jul 2026 18:01:37 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM - SiriusXM",
-          "publisher": "SiriusXM",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTFoxYVIxRjc1R0lkM19yM2VWdldEck9HbVQ5Q0FiNXktbHlibi1HZjBDc29yRjlHbEJyUTVCSzdWR1BMVzk1N3pLVE9VY3dfdDQ2cFByU001UC1neXZKUGh5VjVnV2dfMXc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:50:34 GMT"
-        },
-        {
-          "title": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
-          "published": "Thu, 09 Jul 2026 19:55:14 GMT"
-        },
-        {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Thu, 09 Jul 2026 18:23:00 GMT"
-        },
-        {
-          "title": "Mexico vs. England sets new record for most-watched soccer game in U.S. history - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:42:00 GMT"
-        },
-        {
-          "title": "Scotland soccer fans donate $15K to U.S. students after FIFA World Cup - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXRhTEFzRVg1bldRZmhoRHlBRk5LLUpSTlRZZGZBeXdIMkxsM0xTaXJzWHM3RmFGVFZSdXZ3Unh0SUp4T3pmZ0phOGlEYUs4bXZQSEhyYjNUVzE3TXU4NlpSbjExRFVnRi11ZWFabjBENVN1cHBUeWdybXZXQ1dVVXFGMjNJSC04X3RLd3MzcTNVQk1iWkMxQzRnZ01hS09HaUw0SUNobk9LUXpHYlFhUlRJVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 19:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Emmy Predictions via Feinberg Forecast: Scott’s First Post-Nominations Read of the Race - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVhalF3dlZVLWZNSFEzSjdKYmxhRXFtano4b1hJSUFEd1gyOUhvMHFUaGJCRm5fTVZuSkNEdzNnaEpxOWx4d01ER3NDcXR4aW1rMS0waTlKY3dCOXFtekhXUExnX2YyYmFoQ0xqeE5sY1p6VmtVWWc0MDN2dzk0X2VhWEJHZ0FEdUZiOHY3NUtYTTg?oc=5",
-          "published": "Thu, 09 Jul 2026 15:18:23 GMT"
-        },
-        {
-          "title": "‘Heartfelt’ or ‘creepy’? Justin Baldoni video after Blake Lively legal battle divides PR experts - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlJQcS0zTkstYzQwc3RzS3VrenFPeWtxRkV1X1pocTFzQ01MNXpKTlNXMEt1ZW5XVUtBbWdZY01xOVU1Xzd5SzVVdXdUZkQxVERGUlFIZTJuYTFtaE8xYTd4QmpmS1V0WWJ1RTUtNjRlS0RlcWo2SWNVNV9RUl82akpqLUtqVklfNktPdXVodGtxR3dBZUVTcUtIcGFPd002ZUxMQUVxTzM4Q0luYm12SHZ6NjBBOTVXRnc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:33:52 GMT"
-        },
-        {
-          "title": "'Task' Season 2 Is 'Mare of Easttown' Crossover With Julianne Nicholson - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEVwREEzR1o2eXNyNFB0ejY5Y1U2elk0TDRGV0hFMXgxUFlpTHJhQjZpbWhIcDhISkRqMFU5Qm1QZ3NNZUQwQXg3Zk0waEVpbVRueEt4OVhJNG0yVkFxbV83ZHRCczJ1SXp5TlE5UGRkVWdpQ3hTV3NYOENNblJwSWtjVEtNdG9FdEZNcV9pb1JGSG5uandSalVWcGJjcV9EN0xVX2lWaw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:30:00 GMT"
-        },
-        {
-          "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTQ5VzJpdkt1RXpVOTE2VmpRWUREUmpxTGxoeDNvOEQ5ekRnM0dkVDZ2alctTlJLYUk0MlZHSmFaYy0xMXQtb25XcDNXbXc3RWx6YTZfRUlfaVA4WHFoOGNRY0ZDc0Z4VXd1TzNjNWhMMW9wWF9Gdk0yNXRKbFlvSmlNV0hUTTdWN19DcnBCZkxKRnZrNnp5TnVrZ0NUR0xDaU53LXlR?oc=5",
-          "published": "Thu, 09 Jul 2026 18:18:09 GMT"
-        },
-        {
-          "title": "Moana’s Record Rotten Tomatoes Score Should Give Disney Pause - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGgybnFxUzlMeVBvS2VpV3RKRDVqYWE0R01vLURNamVHWnd4OUFZT1hkaEp2b1NTX0dmY2pENFVLUTY4OTI1azlEem1ndFV0UGRUTEppLTRIbjVjUUo1ZHNfb2FFU0lRQlFMaUlqeVNRRG52X1hNTldLUnZOOU1BSXFqa3JiaWw5UmhXM3Z5cUFnclZaTWhlQ29kRFdUUFRHTUQ4UF9CNkZDSFRKakJIeg?oc=5",
-          "published": "Thu, 09 Jul 2026 14:04:59 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

@@ -1,260 +1,43 @@
 {
   "market": "LV",
-  "generatedAt": "2026-07-09T23:10:42.459874Z",
-  "validForDate": "2026-07-09",
+  "generatedAt": "2026-07-11T00:12:47.799604Z",
+  "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Robežsardzes priekšnieks: Latvija ir Baltkrievijas izvērstā hibrīdkara primārais mērķis / Raksts - LSM",
-          "publisher": "LSM",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV2tfTFlEWDhCWWJuYUp0N1RRNVFhVXY2OHVtYUQ1RnMxX045WjJvUVBBQ21nLWN5TnFtRFN3YTZMck1rRl9paXdCNHBTZHJCckJINHVxYzU0RG5wR0VuUXRma3VIYWY3Tk9UYW1kU25zR1oxSVRMSFZSRGw1dUtqTTFTZ0FiaGZ6YmVvQW5PS29OY1dPbExVeENTTGNyU290bktRTHN0cnhZanNTWWRpSDhkU0VtWHNKWXF2dm1lZG5pMG1YZTFXU3BpU0N0T3pxQ1JVajZVNXZ1WU1zM28w?oc=5",
-          "published": "Thu, 09 Jul 2026 17:08:26 GMT"
-        },
-        {
-          "title": "Daudzviet līs, vietām iespējamas stipras pērkona negaisa lietusgāzes - Jauns.lv",
-          "publisher": "Jauns.lv",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2VHcGdQNk1hSjc2Uzd4MVIyM19BLXNJLXlSQVQ1bG1jX2NNVC05MzY0QXlpdHF3Qjg1YVIwTzZBNHdHY0lIWm9pdjVLa1MxSGpEQldXSVhsallKelhxTUJCUXpQSmxIQ1pGeTF1dU5tR1pBR3B5bGk5MVZaSzB4ZzUybExjRGdjUk1ZUmFadC11S2pxQmVmdmNQMUlTOEZveXZaN0lkRQ?oc=5",
-          "published": "Thu, 09 Jul 2026 05:50:54 GMT"
-        },
-        {
-          "title": "Pirmajā dienā pamatstudijām astoņās Latvijas augstskolās saņemti teju 2220 pieteikumi - 1188.lv",
-          "publisher": "1188.lv",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3VuM25VeWNFR3NHU1h1Z1JzOHlwaF9qOEkzblZCZXJZRHNfRng5ZVpCTmFJU19VNUxhWWZtVXJ6NmZPdEZucmo0TERIUFpoelpYbFY1dGVURUp5ZGwzRFI4eklMQUUyWTFLSGZnaXB6S0t3NF96S3ZjVE5XUTZhSkxfeWdDYlVXV1pybkhFaDlOTmU5OFBZV0pmMHVJMjJWeWdEOENFTnZvSVBhQlFTYU80N3h2SWw4?oc=5",
-          "published": "Thu, 09 Jul 2026 19:56:26 GMT"
-        },
-        {
-          "title": "Jaunā valdība mēnesī spējusi izpildīt trīs no 61 prioritātes; Kulbergs paveikto vērtē uz septiņi - tv3.lv",
-          "publisher": "tv3.lv",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV05aQkdpMkJxMjU2ekpLN0p1TXFURldiNEJ5aEpHeFN2RjBBNEJtWXpCVWc2Z01vTURxYUoxRF9tTmxmYzVZWlZOSlNjd1ozMkI3b0g1Tk5mM3RSOXYwSFlKM1NmNzdXOEZEVUk1Q3dzekE1OUpNOWdTUEhoNkNVTEZZLTZlYWhLX3NSNWtSQlZiSDNDM3V0cV9JalBvRDRwNklBbWoyUVJjNXY3UUU5ekZrSFBSZWhUSDF5cDhvbHRnUk0?oc=5",
-          "published": "Thu, 09 Jul 2026 10:08:24 GMT"
-        },
-        {
-          "title": "FM: inflācija varētu pietuvoties 3%; pārtikas cenu kritumu var aizēnot enerģijas izmaksas - LVportals.lv",
-          "publisher": "LVportals.lv",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX0JXN1o1RVg2NFIzTjRDRmZ3SWJXaWFTYzFpUjNDNDd0ZzM4RHRjWjdNYXdjTU5Tbl9Ra0QtdEtfV0hRa3ozSUIxVTlJR0kyOENSUWRzWURENUEwLWQtcC1sS3o1T3ZjNEMxQURzWFk1d0NXblVmX0gtVUxISjlEMGQ1NmdFdmszT3MxbEFtTU9nbnI2VTliRUdzMlpXQ1NWUkNEV2U0NjRDTWxkaEkycEJIYnBVWU1hYTc4MUM2eEVUcGVqRXNSTlcyQmd4dw?oc=5",
-          "published": "Thu, 09 Jul 2026 07:10:05 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Ukrainas triecienu dēļ Krievijas naftas pārstrāde sarukusi par 20-40% - 1188.lv",
-          "publisher": "1188.lv",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaV9pUTVKUDV2SExUQ3dMbFNQRWtWd3BkMFkyVGxWYkliU1hSZk4yNmhaenlQUlQxY0JGbFU2THN0M2tyYUF4M1JsWHhLM3NqMThDNUxHektoMW9LZHAtbWNhR2JDRDdRQ09HNFo5cjhodFFSYUhET2d0NURxU2s3NW1GSVMySFVlbC1Ra2JRMjR0SVNSX1VVLXIwTV9UVDh5elE?oc=5",
-          "published": "Thu, 09 Jul 2026 19:56:26 GMT"
-        },
-        {
-          "title": "Līgumi 50 miljardu dolāru vērtībā, NATO stiprināšana un atbalsts Ukrainai: kas nolemts samitā Ankarā - LSM",
-          "publisher": "LSM",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNzEzeDFReENDenFzMUNaLVo2LWV0N2llVGdlaDZPMmVNVjN4cVZlZERFT01VQTVRZHlfOG1nbFFxVGwtX2N1OEhVdEFlcGRSRlJNYmplQUN5bTZCc2RGRkdhN3gxMHp2RFg0dlE5dU9MSGRGcnV4RXVpYlI3RG96c1ZhRE5sNEZ0bHZvbmlBRmthT243UU9KZVZlTjRLRmtFSlNudE5nLS1mdlR5ZVgybV8wSFBQQWRIQWlSN2FyN0VmQWpiTG4zNWpMNnR3MDJ3M0F0ZGZ1SnZVMkRlQVpwVEtXWkJlVlFTZWRoY0VNaw?oc=5",
-          "published": "Thu, 09 Jul 2026 10:18:34 GMT"
-        },
-        {
-          "title": "Tramps publicē vecu kara foto, to saistot ar jaunajiem triecieniem Irānai - Lasi.lv",
-          "publisher": "Lasi.lv",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDdER3R3M2FPT2V1MkZTWkVUNzJNSWVicy1saUlPT2VWeXJxWVhBbUhtYThWVGNycS1GUXAzNVF6WWkzSmJBRHZFMkVzbEdhTi1CSlNxUXBRLTZ4WV92YVc5ek95R2J2czY5eGdWWDB4TmNzWWpHUUpkV210a2RmTFp5LTg5MXlzYzRpUnhRenY4cXpvQjVRTjRpbWpPVVhzRFFMV0gyMGdzZS14S0R1R0hRYjE?oc=5",
-          "published": "Thu, 09 Jul 2026 07:15:27 GMT"
-        },
-        {
-          "title": "Eirogrupā un ECOFIN diskutēs par fiskālo politiku, mākslīgo intelektu un finanšu sektora kiberdrošību - LVportals.lv",
-          "publisher": "LVportals.lv",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbUk5UWJsVk5Mckl0UDJDbWRWOXFrSTdudjRlM1Yzd2Q4ekQyaEEtWWE5bXAyTUl3MEk4NzdKenREYlI5QmRBUDMyZlpKVDJpS2V3bU5nOENQREZaMXVsNURYX0hYcXM2SnN0QnhvZWxGT2dacVdpUENJYUpQS3dvUHRoT0tIR1NlOEczVmhlcWNoNUZGdFJTOWdzdG1CaHAxTDFuUHlqRldKWkthbWtIbUlLeWN5bG1KNFh1eVpoS0tpMm5ndmR3eFlXdktkNzlpeHVGWDhHUUt1ZTNsbk8zeQ?oc=5",
-          "published": "Thu, 09 Jul 2026 14:48:10 GMT"
-        },
-        {
-          "title": "Putins ir satriekts, bet nepadosies: alianse uztraucas, ka Eiropā varētu atvērties vēl viena kara fronte - LA.LV",
-          "publisher": "LA.LV",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmFaTTdKU2xTd21VMzV2dEZ3N2pxNWo3Zzl4OHZDYUt4akpXS2VFVlF3ZktrcjJ6Smd2M2ZhMFVfck9pWjAtb1BiVm45Sl92LW1oLThRc0ZIS29LRl9aVDlRNk9ESXRPUjltUFEzOWw5YVpFZVRCNTZhQkNxNjltYlR5cHJIRDcxcVEtWlFPWWJoanN2Rm5OMm04Ym91SkdHdmFvWjQ3eDN5VWthMGswejRTUGdjdDh1Y2NV?oc=5",
-          "published": "Thu, 09 Jul 2026 19:08:59 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Jauzuņēmums Gritnord iekļūst Shipyard Batch 2 programmā un attīstās Latvijā - Labs of Latvia",
-          "publisher": "Labs of Latvia",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORDBSd3V5VjJHdzVjbmxyamFpVWM5MEZPc3V1QldjZEYtV2I0cVZFWnhjcnNzWlFFU3hMM05OLW1pd2pjRzNtNTI4MUMtS09CMndpSzlsaHFwek8yTHplLUlyOE9XSXVIbkg4ZUhYZmRqc3U1VDM0MHFRZTNnSTMzTkVzbkFobWFDWmZHLUZrY3dIMVBjMVh1Z1RyNWZkV2hERVRtZWpQWktJSUhJ?oc=5",
-          "published": "Thu, 09 Jul 2026 10:14:48 GMT"
-        },
-        {
-          "title": "Kosmosa invāzija ir tikai sākusies - Investoru Klubs",
-          "publisher": "Investoru Klubs",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVXhIX1pJRkRPMHdOYXdObWEzUi10LXhha3lHOEdtVnktQXZUMGs4S21nMEhlNXFES2UtQktYRmhianRpZ2U5M1RaV0hITGw0Y2RuUV9uYzl3ZlJwbzJFRlE1OUkycDdxMGZac2pBV0EweUUtWlR0WndoWDEwNEJYZE1oVUhrRE1Cb01pTQ?oc=5",
-          "published": "Thu, 09 Jul 2026 10:19:12 GMT"
-        },
-        {
-          "title": "\"Būtiska pakalpojuma neatbilstība!\" Elektroauto īpašnieks vīlies nacionālajā uzlādes staciju tīklā \"E-mobi\" - tv3.lv",
-          "publisher": "tv3.lv",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdHB1cm9CVlhleWpSSjREcV9ORDVkY0JheWtEcEFBVmxMOG45QUNIUDZnZWd5eXJ5WU9STlNPSVhQMGMyLTBXLWFtOTJmYXdCTWJPdU1QZm55WlM0YXFRYUNiLVQ2MjZSNzItUEo4eGlmQW9NVThqZlhOaDFuc010QXhkbHR6WUVLNWszQW5xZ3FHSnJHQlNzbkQ0Nk5uWU9GYk53R0ZQWGMwVlY3NUJOZHdXTjRvTENIMEhGUUFkQlhqeWFSNHBMbE83MTdBSXFydHl3?oc=5",
-          "published": "Thu, 09 Jul 2026 18:58:18 GMT"
-        },
-        {
-          "title": "Eirozonas akciju tirgi jūnijā apsteidz ASV - Investoru Klubs",
-          "publisher": "Investoru Klubs",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa2R3b0xNX2dTcDdwWVRDUFBqM01MYnc0VGVSMUprYVpRYzY3UEh4RFczMHlVMzVXYjhNSXFUVTZNR2ZmLXZOM191LUpBallHOVZqQ0UtNDJ4SWNhbHJoU0luNHlQaHlNNkFOS2ZJOWJtZ2Z1SFJneWlKdklzM3RLTm5UZnhPZU0waDJLTGNETFJpbHNVMENN?oc=5",
-          "published": "Wed, 08 Jul 2026 06:13:23 GMT"
-        },
-        {
-          "title": "\"AstraZeneca\" piedzīvo negaidītu neveiksmi sirds zāļu izmēģinājumā, akcijas krītas - Lente.lv",
-          "publisher": "Lente.lv",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0tMdkpIdVVxY3EzZHNSbVV1OHNXZDRaWFpJOW9NNGozcC1idVpuU3Nqc2lUcTQ4UVZZVnlPa0NXMlhkcXlTekNHVTA3cXZOODI4REJpSzRtdWRva2xsOEZWUWF3MlJQSXV5TlRCa2Q3eGdwMXc0NkZZU3NSMS02aFBMNEJaMWdPenBLd2JQcUowMXo4TWFUcFJZM3lmdW1XRVhkeU5QRTdBaVBzQ0NEc2lySDhLTWl3bERFX0xRaXJKbG8?oc=5",
-          "published": "Thu, 09 Jul 2026 14:55:09 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Mārtiņš Ķigurs 2, \"Glentoran\" 1! RFS ar uzvaru Belfāstā sāk UEFA Konferences līgas kvalifikāciju - Jauns.lv",
-          "publisher": "Jauns.lv",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNclJFR3BTeWNmblVpaDdNYXp3bHozOE1FSUkxSk5nTGdUdTBhWDNZM2NmZDB4ZDQzOU1CWlhZZnJ5YTVLT1B5cllHYnBiVDA0dDlRRTRab05pTEV6YXdMQjRyeE9QaFVjcFV1Ui1obDBFMEZ1OUZheUtmTmtIcEtkMmMyZW1NOVpsOE5FY3FRdUo0RmVOOXVuekIxWHFyM1RFV0dKSEhiNzVzMjFlUDBFYXRGVWZyc1NlQzFOUkF5SWdNdkxJOVFMSjBn?oc=5",
-          "published": "Thu, 09 Jul 2026 21:20:32 GMT"
-        },
-        {
-          "title": "Ostapenko uzvara Vimbldonas tenisa čempionāta jaukto dubultspēļu finālā - Diena",
-          "publisher": "Diena",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVElJNEFsek1vMXZoSEx6RWdCX2IxeUJJSzZTRUMxWEY4MUxMcmxvN0ZENEwwd1g5NGo4YkFhUWxTZUFqcVpqVGEyVy1JSEdYWllLeVVsZi1jbVNrNzAxYjdZbWtISFB4enhBSDZBTDE0andhd2RaYTNiNy1jY3lrOHVWXy1PX2RNREw3OU9xNzJoTFpKdmNzVnpPMnRQT0xYSFNiZkxpS2tlV3ZMN3c?oc=5",
-          "published": "Thu, 09 Jul 2026 21:08:24 GMT"
-        },
-        {
-          "title": "Francija uzbrukuma futbola eksplozijā nodrošina uzvaru pār Maroku un vietu pusfinālā / Raksts - LSM",
-          "publisher": "LSM",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON0dWT2RRSW8tRUd5T2RRSEJYMnRxTVo0TU5uMktEc1BodEp1VEhKclVtQ1hvLU5VWW9vUTh0S1pyN1RpTXI0RmowYTJoM2p6cjAtek5GOXB3elJpTGl1VnVLa2FITWNuUmxsSWJCckRUUDJVblVHQ25OM2xNX1Q4S1V5WnV5Y0J4b1dZSFF5dW11WkNJV1ZIeEduTlVEemZYSjcwZEFtdHJZZ3Y1aWhoWjY4dGxVaDRobkIwRVRlckZTajdFQkNmOGNXM2dBVXZJVm1hVjQyVzFLRlgzN1E?oc=5",
-          "published": "Thu, 09 Jul 2026 22:12:13 GMT"
-        },
-        {
-          "title": "Latvijas Volejbola federācija nosoda lēmumu par Krievijas volejbolistu atgriešanos sacensībās - tv3.lv",
-          "publisher": "tv3.lv",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa2NmUjR1OGI4RmpQanBNN0sxeE9EM1d5SW94S1JMX2lrMk9IV0sxdWZXcG1CSzYySFFfdmZkVWNZOGFlNVNYM2RpZFdkMlNSMHlsbXNFb1Y0QW1WTHdjTHRCbHlDWWM5YWxFZVltcFlpa0J0aUlyVFNRZmRmeFhuUFgyYkdzcmNHdDlvSWM3dXlET3l0M1QtRVA4Z1JicG1MTzlkWDV4TDFTaUtNamxCb1hrZnR1WmtCdm5wYktzNU83LXl2?oc=5",
-          "published": "Thu, 09 Jul 2026 11:23:50 GMT"
-        },
-        {
-          "title": "Muhova taibreikā triumfē pār Gofu un iesoļo Vimbldonas finālā – Teniss - Sportacentrs.com",
-          "publisher": "Sportacentrs.com",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVnhaUFBWQmh4elNteGo5SWE3TF95WmY4LUQ4R1doXzBOZ0JNdDItM0N0RjVwVnUtZTV6RGl6b0FHRGRxWnRfMjlLYlQ4dzhvQWp3ckNmUU5tUjFfNXNob09KbHp2ejR3Tzh6UVhRVm54SDBDUUxTM3JsT1RGOHBXNkl3OENwaTVzMVZiRG9UZWUtM0JIR1Iw?oc=5",
-          "published": "Thu, 09 Jul 2026 15:25:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Noskaidrots, ka gaidāmie “iPhone 18 Pro” modeļi saņems ietilpīgākas baterijas - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVENqUXBoMmdlZjViSTVuQmxfN29mMUF6V0RGb2FtbVV2SHQtVWNUcDVTcjNKaTV2ZGRSdzVUZlU2SXZ2bFRBb1dBMDI1Ti1kbEF2b0xxMFhQQ2E5elZRQXE5enhUb2RoVEViSU1ubm5hMWpzdElrc2pyb0pHWUFQMXQwR3hvMThLN2FXOExSZVRBaTNzLW0tMmwtb2pRSEQ3LTlNVDBSVVg?oc=5",
-          "published": "Wed, 08 Jul 2026 06:00:00 GMT"
-        },
-        {
-          "title": "“ChatGPT” balss saziņa kļuvusi vēl dabiskāka - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUeVFKcFdhSkRqZ2MwM1U1THpIekl4RFAzem1DR2VrR1NBXzVKTHN6WnM4dkZiZzc3SmJENjAzblM4ZWJ5YWNBQmhQWTV6TUt3YXgtUnNTcVlwTWFNU2xsNTZNS3o5azFoUF9TWHR1SlBqNC1FLUg0Q1NJZTFqUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 08:45:00 GMT"
-        },
-        {
-          "title": "“Logitech G512 X 75” tastatūras apskats – nomaini mehāniskos pret magnētiskajiem slēdzīšiem - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGZkcDdoNlZhRWZuc2hTLXZrSmF3MncxOE00VUh6b2hqRmxBdnlZRG1XSGlXQndhYUs0a1YtRnpucEE4QjFiLXVDMnFZcTVkTnI3SU44TFRsRlRxTlRjOTgxckRJV3hZRVJBa3EwQmpfZ3VHUmV4bmZXQWYtbXpBSzRuckNzNmVURmlEdjRMelFnb3poSlFzNkFDdlBTRk9ZNy1IaldWSjU2blNENkduV2ZsVUYxMWVjT0E?oc=5",
-          "published": "Thu, 09 Jul 2026 09:30:00 GMT"
-        },
-        {
-          "title": "“ZTE Nubia” sola prezentēt pasaulē pirmo MI aģenta viedtālruni - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUHV6Qjdlc0Ztc2hfN0tvcjBISEluRVFZVU9yUUc3LWNzYWxaLVgyd2phMHBJUjIwM2hFWVlwbjVSaUhNZ1FXWFNUR3k2d3BsR1A5S3dDaHRiaHM2ZElUX1JJTXVXMEE4aFpyRDJKeGFidGlYNGg5NEF6QllQZjkwcjBsbjJPQ1pmV2Z6ZEp1OUZqSDhNTFE?oc=5",
-          "published": "Thu, 09 Jul 2026 06:00:00 GMT"
-        },
-        {
-          "title": "“Meta” jaunais “Muse Image” attēlu ģenerēšanas modelim ir īpaša integrācija ar “Instagram” - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXlKSTZBMzIwcTN0c0ZybEpQTmdfRUNPOXJIU3NDUGFtR243bUh1LXZmNncyN0FqZmhRMGpXQnhJZFdTTWhqb2I2bzh5NzF3TW1GOGVoazl0LUJ3VnFRSTNodHE3N3FWTGRJNVNlYlhXdFlQSFVaZkZQd05rUUFoWTZQY0VqaF93Zk12d1VaTFh3SE56UGN6UU9sUl9aTlpXRW9WbFFIckdQUTBaSkxIdE1PMjJydw?oc=5",
-          "published": "Thu, 09 Jul 2026 08:30:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM - SiriusXM",
-          "publisher": "SiriusXM",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTFoxYVIxRjc1R0lkM19yM2VWdldEck9HbVQ5Q0FiNXktbHlibi1HZjBDc29yRjlHbEJyUTVCSzdWR1BMVzk1N3pLVE9VY3dfdDQ2cFByU001UC1neXZKUGh5VjVnV2dfMXc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:50:34 GMT"
-        },
-        {
-          "title": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
-          "published": "Thu, 09 Jul 2026 19:55:14 GMT"
-        },
-        {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Thu, 09 Jul 2026 18:23:00 GMT"
-        },
-        {
-          "title": "Mexico vs. England sets new record for most-watched soccer game in U.S. history - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:42:00 GMT"
-        },
-        {
-          "title": "Scotland soccer fans donate $15K to U.S. students after FIFA World Cup - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXRhTEFzRVg1bldRZmhoRHlBRk5LLUpSTlRZZGZBeXdIMkxsM0xTaXJzWHM3RmFGVFZSdXZ3Unh0SUp4T3pmZ0phOGlEYUs4bXZQSEhyYjNUVzE3TXU4NlpSbjExRFVnRi11ZWFabjBENVN1cHBUeWdybXZXQ1dVVXFGMjNJSC04X3RLd3MzcTNVQk1iWkMxQzRnZ01hS09HaUw0SUNobk9LUXpHYlFhUlRJVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 19:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Emmy Predictions via Feinberg Forecast: Scott’s First Post-Nominations Read of the Race - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVhalF3dlZVLWZNSFEzSjdKYmxhRXFtano4b1hJSUFEd1gyOUhvMHFUaGJCRm5fTVZuSkNEdzNnaEpxOWx4d01ER3NDcXR4aW1rMS0waTlKY3dCOXFtekhXUExnX2YyYmFoQ0xqeE5sY1p6VmtVWWc0MDN2dzk0X2VhWEJHZ0FEdUZiOHY3NUtYTTg?oc=5",
-          "published": "Thu, 09 Jul 2026 15:18:23 GMT"
-        },
-        {
-          "title": "‘Heartfelt’ or ‘creepy’? Justin Baldoni video after Blake Lively legal battle divides PR experts - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlJQcS0zTkstYzQwc3RzS3VrenFPeWtxRkV1X1pocTFzQ01MNXpKTlNXMEt1ZW5XVUtBbWdZY01xOVU1Xzd5SzVVdXdUZkQxVERGUlFIZTJuYTFtaE8xYTd4QmpmS1V0WWJ1RTUtNjRlS0RlcWo2SWNVNV9RUl82akpqLUtqVklfNktPdXVodGtxR3dBZUVTcUtIcGFPd002ZUxMQUVxTzM4Q0luYm12SHZ6NjBBOTVXRnc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:33:52 GMT"
-        },
-        {
-          "title": "'Task' Season 2 Is 'Mare of Easttown' Crossover With Julianne Nicholson - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEVwREEzR1o2eXNyNFB0ejY5Y1U2elk0TDRGV0hFMXgxUFlpTHJhQjZpbWhIcDhISkRqMFU5Qm1QZ3NNZUQwQXg3Zk0waEVpbVRueEt4OVhJNG0yVkFxbV83ZHRCczJ1SXp5TlE5UGRkVWdpQ3hTV3NYOENNblJwSWtjVEtNdG9FdEZNcV9pb1JGSG5uandSalVWcGJjcV9EN0xVX2lWaw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:30:00 GMT"
-        },
-        {
-          "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTQ5VzJpdkt1RXpVOTE2VmpRWUREUmpxTGxoeDNvOEQ5ekRnM0dkVDZ2alctTlJLYUk0MlZHSmFaYy0xMXQtb25XcDNXbXc3RWx6YTZfRUlfaVA4WHFoOGNRY0ZDc0Z4VXd1TzNjNWhMMW9wWF9Gdk0yNXRKbFlvSmlNV0hUTTdWN19DcnBCZkxKRnZrNnp5TnVrZ0NUR0xDaU53LXlR?oc=5",
-          "published": "Thu, 09 Jul 2026 18:18:09 GMT"
-        },
-        {
-          "title": "Moana’s Record Rotten Tomatoes Score Should Give Disney Pause - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGgybnFxUzlMeVBvS2VpV3RKRDVqYWE0R01vLURNamVHWnd4OUFZT1hkaEp2b1NTX0dmY2pENFVLUTY4OTI1azlEem1ndFV0UGRUTEppLTRIbjVjUUo1ZHNfb2FFU0lRQlFMaUlqeVNRRG52X1hNTldLUnZOOU1BSXFqa3JiaWw5UmhXM3Z5cUFnclZaTWhlQ29kRFdUUFRHTUQ4UF9CNkZDSFRKakJIeg?oc=5",
-          "published": "Thu, 09 Jul 2026 14:04:59 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

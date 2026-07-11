@@ -1,260 +1,43 @@
 {
   "market": "IE",
-  "generatedAt": "2026-07-09T23:09:34.265059Z",
-  "validForDate": "2026-07-09",
+  "generatedAt": "2026-07-10T23:06:21.856888Z",
+  "validForDate": "2026-07-10",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "US woman murdered in Killarney died from suffocation, postmortem finds - The Irish Times",
-          "publisher": "The Irish Times",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDY3WDBNaDhqNjlqWmhSN2h6M3poTHREWjhSeG5kUWludG9SUDc3NWFQTk5sY041YVZVUXlPUVVmVDNqSlFRTng4SzVyd21uYjlmanlDcm5kZ2xrLWtDRG1FV2s4M09UZzZpSDlUUGxnWFJBZENERVRfdnkzdTdVZEgtUjlSSkYzQmg1Ri0xU3Z2VEhibW9hSUc1TUlQWjBLcXRxRmhLTGpRM1doYXI1V05FaTlMVW9HN3lB?oc=5",
-          "published": "Thu, 09 Jul 2026 21:27:59 GMT"
-        },
-        {
-          "title": "Patrick O'Donovan hospitalised in Brussels - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CWmszZlQ2c0ZtM3k1SlNYdGg3WmZoeEJzcllFdG5RZ1E0WDJjMS15bzdxeUp5VEMxRE11NUlSZXBIV1pQX0VHenVEM01ja014d1Vubzg3TG91aEZ1WFZmQ0dYM0daSFVBNzlR?oc=5",
-          "published": "Thu, 09 Jul 2026 16:28:01 GMT"
-        },
-        {
-          "title": "Temperatures reach official heatwave status in Cork, according to Met Éireann - Irish Independent",
-          "publisher": "Irish Independent",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaU1uVGxpNlNRd1N3VFJhVWxhQ3BwdlBZaXdKVTRsZVVCbW5nRnpyRmc2ZlQyVlJWLXp6eW5jTnhEejBCRFNTUjV6bjE5Ql9SaFFVTUFlYXBaME9ybnFoQ2g4T0dxMmMwVjA2STJrREtRRGY1SVUtYUhhQlZ5UHc4aE5fSlY2MEEyV3d1Z0h0Z3FQRElxcHl1cElsdVRhSWF1YWswUEJxWTN3Rk1NYldWNXhLd0x5VGFLR25BdFc2eE5oa19Icm4wVHdDVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 19:43:24 GMT"
-        },
-        {
-          "title": "Decision to allow apartments be built on Bessborough site condemned as 'shameful' - The Journal",
-          "publisher": "The Journal",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPckF4dHpzNmJNZUJxSXFnTXdSRFV4MlBqWThvdnN1MGJYUV9mQmF2c2t5SXpDR2NCWHlIbW9ZNlp2dmZKeTd0dzc3alNwZDZHdFdCOGx5MF9fdk0yeHEyMS1HWE1QTkxYalBQNk1EWkh0bncxcnpCejdqQnlRMXFmX1U1VEU2RzNhaXdiZk9YRnhQUmpZ?oc=5",
-          "published": "Thu, 09 Jul 2026 11:58:00 GMT"
-        },
-        {
-          "title": "Ireland’s EU presidency is a far cry from 1990s - when visitors got a trad CD and bottle of whiskey - The Irish Times",
-          "publisher": "The Irish Times",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXFxSGtEaEU5N3FYUlljOERaVk9reUlLaUs4N1E1aWVMdlRWLTByT2x2X2dobUJMSDBxZm1RRlpyNEJuNGFkNFNBYkFWd1dHdndxa0VvOGdOX0tfdE9hT3I2d3dhaExjUHRDa3ZXbWFUY0h4Qy1OWng0MzVfRGlaNU4tY1VZcGVPN1ZHM2FZY3o4OERISGV2RGY2MlQwWFdsWk5vYjFVUERzMVFhdGVXSml6WmZFNEZleUE2MzV1ZVBwUXJPa0E?oc=5",
-          "published": "Thu, 09 Jul 2026 04:59:32 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "US and Iran trade strikes; Irish Government prepared for ‘all scenarios’ - The Irish Times",
-          "publisher": "The Irish Times",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXNWTkpKcXNQbG5sX2kydGhzX0psQXNJUlBrb1ZNMzdHME03OTh4SE5YZjFaY0tVUWp2WHRkd2ltS0E0M1JjYVktX3d4V1NVU2RGcmw1R1VFUi1OOUNpRG9yZS1MYUl5NnpLU3BVZXZzV3dmV2RqNGM1QU9NbXF1bVBIaTI1RG9tblpYenpBUTdZNF8xSXBZVmhHam1vVEZrSXh1dGpuMzJqN2Jy?oc=5",
-          "published": "Thu, 09 Jul 2026 20:41:36 GMT"
-        },
-        {
-          "title": "US strikes kill 17 in Iran, officials say, as battle over Strait of Hormuz continues - The Journal",
-          "publisher": "The Journal",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRDlVdnEzZFV2QS1tdmF2UmZ3b0tzVUlJVnNadkxPQXZ1amdlMGpDV2x4Sjh4RFBocUI5Y2xfa3RNV0t5dW5TN2t1Mk91VlhkVVVrdGR1V3l6djFLeTVzYlV0MGdjdVNkV0Vpa3BqNlRyVWl2eFY5WWN6Wjh5azhMRGJrUm41Vzg?oc=5",
-          "published": "Thu, 09 Jul 2026 05:45:00 GMT"
-        },
-        {
-          "title": "Dublin man jailed for murder of American nurse in Hungary - BreakingNews.ie",
-          "publisher": "BreakingNews.ie",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGY0NlRld0NFNlFVcjZSY29DLVJTd09LM1hnTV80TEZyaDJTdHR4Ty14amxITkhra3lDcld6MkNRM243TzJmLTVUb0FlTkt5MDJzQ0QyOWlhbFBWa0IzcFhCZGNCdzZObWJ0VmppZVkzTG54U0ZLUmppdUJIcnMzVTM3WlNxMTRyS3lCcWRYd3RzZDVGcThkel83SXBTSHgyd01oRVlBeEkydw?oc=5",
-          "published": "Thu, 09 Jul 2026 13:22:48 GMT"
-        },
-        {
-          "title": "Replica mosque on loyalist bonfire condemned as 'vile' - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xWGlsQkxkeHA0RnptaURKNXZFamJ1eERPT1k0b3E2Yjc5UVJsUGp1ZTlKbHZnNUIwM2YyRzFSRHZQcVI5YmdqN3NGUlg2ZllJX1pxUnB4MW9jUVpSQXB5cUFGUXdLdmFvUmY0T2RyNUtsdw?oc=5",
-          "published": "Thu, 09 Jul 2026 07:51:24 GMT"
-        },
-        {
-          "title": "‘We’re going to hit them hard tonight’ – Trump says ceasefire with Iran is ‘over’; tells Nato leaders he wants to keep US in alliance - Irish Independent",
-          "publisher": "Irish Independent",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORUtUak16MnB4M3lHOGlmT0JTUUR2RGkzdWFuT2hKMG5GRUx5eW93TE9DUG1HWWg2X0ZNZ2d5alhTVzhhYzFwbGlvZ2tUeUNlLTczRUgxUnpuaHJJTlZSX3N3R29TM1lHRlA3VFJFNlVTUnlOZGlKazdQbmNEeG1lN25CdkR5ZnJtdnFPLXNuTVVOeVlyWkhNeGhjdjhBbEJoQU1UWmFYbGRCa2czdWtfUDhoeEFWS3NBNXI1WmswTm1nYUtsdHBNSzJSdkFZdUpCY3BfMTlRNkpMTTVWdE9mUkh5XzZTZ2tienQ0MWN1aTRRZUs0Vjg3bUtSaXdQYmdMV3JpQ3ZqTG5ORkdF?oc=5",
-          "published": "Wed, 08 Jul 2026 13:30:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Oil eases as investors assess US-Iran peace prospects - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96SXZIOHFNcWVFMFpLQzYtLW1UWWRzV2dGSTJEVERaMGNHSmxDZ29fZEVRSF9KX3ZjSk9uSTdDYVJDeEN6N3RMbVhzSUFZR2o1MDFHZWM2Tm4wZUtDbm9YeUs2S0ltUjA3b1lGUDVVX2FtVS1SUmln?oc=5",
-          "published": "Thu, 09 Jul 2026 06:21:27 GMT"
-        },
-        {
-          "title": "Tánaiste to attend meeting of EU finance ministers - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVbVNCa3pCQktMcDN4TmlRVXh5R2MzczBLWjJGcWZRV1FDbDV2SzR0RmhScTNGUXNOUXdSdkhoZkluZlI3dVRKY2x0VWtVSHVxSmg0X0tuOHhBM1V3WF9mc0hvVU9iY2pSb2c?oc=5",
-          "published": "Wed, 08 Jul 2026 23:00:00 GMT"
-        },
-        {
-          "title": "PwC employee was working remotely in India when he should have been in Dublin - The Irish Times",
-          "publisher": "The Irish Times",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRDJrM0Z6ZVlueUs4Sm80NVNfN3ZjWGxYQTlUOUd5eFYxMGpzM3dMcmszTE1IVm1veE5xM1cxdS1oQ204Tl9TUEFWa1NWeGZYZFYxUnE4YWl4eWpOdTJPajFyM014V1NVN2JzWU5QRDh5NUlTOHBRU0V2UC1ULUJjUWVyWHpZMksxSmk3WXJEV2g0TFBrdzg3RDR4VTJqV0VFZ2cxdDgwSXBaNmprVTRfU2RlNm9WelZpQkxVZHAtRVhjXzBacjIzMzV3?oc=5",
-          "published": "Thu, 09 Jul 2026 13:29:48 GMT"
-        },
-        {
-          "title": "NTA bus fare increases for Cork City labelled as 'sneaky and underhanded' - Irish Examiner",
-          "publisher": "Irish Examiner",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBOHA3R0FJQUx5UlVtbTVYX0R0SjlILTBLUjc3UWNMcmVDYzdQXzNiNkNvRndPcURyaHJTZXA2X3NJWTlTZzRSTlVpV1hxSkN2NmhmZ25iQ2l4bnd6Zk81WXdHNTZXSXBwRmNBR2dB?oc=5",
-          "published": "Thu, 09 Jul 2026 14:39:00 GMT"
-        },
-        {
-          "title": "Zara Home is opening its first ever standalone store in Ireland - The Journal",
-          "publisher": "The Journal",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84MWFpNkU5WmE4VUFTODBqQ3NELVV5akdfWXV1OVVZLUlhWGZTMDhzRktvOWlHVXVsOV8teHViVjZuNy0ycFlSTlEwZlFQNGRJZ04yb3hVbzR0SzJ3d1BYeUlzLWtzVVFVV0h6Yw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:58:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Japan vs Ireland: Sean Jansen to make international debut as Andy Farrell makes nine changes for Newcastle contest - Sky Sports",
-          "publisher": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWnIxX1VUMkk3bU01OFNZYW1oeDQ1dWI4SmNvdXlLaUp4eE5ydU0wdGZhX3lQY01QMTAtVDhTcndiZ2RxS29Dc0VocnE2bTBFbDFtYkJCbndzM2tiLXBKWDM2WG1jZm1GUzNaX0YxWkZYOUtXajFjbjZ5bGVLU2YzWkJJUnFxTWhJak0tcUE3Tzk4TW00MWY3WHFlV2NvTG03MTdpSHJHTmhmWFFVbW9RM1J4ajBrU2k5QmN2R0hLUmx2Qk1wR3hmWjdWU1NiSG5Pc3lfR2tZZUVXWktPd09haUJHUGd3RVllLVJrWUVwOXAtb3RxNFpsczBCTEI3RGhC?oc=5",
-          "published": "Thu, 09 Jul 2026 21:38:27 GMT"
-        },
-        {
-          "title": "Mbappe strikes after missing penalty to outclass Morocco - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNODREaHd4U3pXVGNGYWd2eXV1R2RiVWFWMkdYb2lPTjZuV3ZYcUdXam0yek8xNTYzNnRnS1hmU1BLUi1wUjd5RnNrbV9TWVh6WGxtQjJlcVlOUEhRa3haUVktdW15VUVNYmloUDc5Vkt1MVlteXluTmwyQmU5ZzE0TElUUkl3V2I2TFJ4YXY4RGJxaks0X2xVcnUyQk93QW5qVmlnbA?oc=5",
-          "published": "Thu, 09 Jul 2026 22:17:34 GMT"
-        },
-        {
-          "title": "Ringmahon Rangers given five-year ban from FAI Cup for walkover against Bohemians - The Irish Times",
-          "publisher": "The Irish Times",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc1pXU2VqVVdwVWdvbTh4aDBrU2wtRW1ueFN4RGl0YnVIR2RnRXA0NTdSUnl2a1czYVFTMU5QUEowZktaLWlCdWxYYlg3MjVtS2VnOFpDVWNSYndCMzhjWW5XMFBMUkVPcl8td2FnQktHWk5MZ1NOTGV3cDQtbWpKT2xHTGdfSTd4X0FiTDd0Z1JBbzFmLUpSN1R5aGc5SWdpczdnX2dMOVdpQlhocGVsOEFCQUZuZTEwZWh6eUdPWkJxVlUtVGt1U2dYLU9XbHVIdHFDV0tKTVZ3SUNjX3c?oc=5",
-          "published": "Thu, 09 Jul 2026 13:40:29 GMT"
-        },
-        {
-          "title": "Team news: Kerry and Dublin unchanged for semi-final - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2laSUNORHpwb015dTFwQm82d2IzUnl3OFc2aW9aaHBFVlNUT0RBb0VaNWJwSEpHM3JwbVdhV1cyYldoN0ZpaDFBRGxUUmwwU2JfTTREN2V4bkk5Q0ljaVFfUzFFVmpGb0w1elpLeTg4MzBreHFTWkNWUjhqUkN5SEY3N2JPbU1pR2l6NThfcjAzSTgxRXFnc3hIT1ZqTjN3bVRsdVRzRQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:51:08 GMT"
-        },
-        {
-          "title": "Bohemians cope with nerves and the heat to earn win on European return - Irish Independent",
-          "publisher": "Irish Independent",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUVpsT29Ha3RKaFNvbDFoQ3R0aC1aM0R4OU94dXFRbzJsTXZvYzRhTjdGSHJrRHVHUFcxOGZoeW50SzlxQVdaUVJfeEtDVmVRU1hlajIzMFdfanMxdTZ4TTI4dWpFaTNnSmlUZzNGSlhVVjh5QVVRazJXQWc5ZW9WNDZSMVY0M3l5cEpCSXp3RzNHbFBTTm5EOWYzQ0M0bXNQQXhfUnZ1bWRMeUlDNFo4bjItSmZYU3VKWE1SR2dtbWRXTGxWdXc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:23:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Clare Animal Sanctuary Closed Due To Viral Outbreak - Clare FM",
-          "publisher": "Clare FM",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzlaX3BCTFlKekt2VVNfY29peU52NUE4T3F0OFVfcmdJNkpKVzI4TFp0S2s3MmY3cHpraWh3cHRrRi1GSDZybEZWbmZLbnZheUFkSFBZYzRCdDVKNFZtNmsyQnE1NmZCOVZMMTZqUkc1NndBVUFhdmx2Q1ltc3IybHNBR20?oc=5",
-          "published": "Thu, 09 Jul 2026 15:22:21 GMT"
-        },
-        {
-          "title": "Carlow store announces closure with a 'heavy heart' and announces clearance sale - Ireland Live",
-          "publisher": "Ireland Live",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUY5RW4wV05USEdRUUYxZVFoX0huY0FXMW5DbTBTM1JsY3BOdlBiUkZqRVFpLU1DZ2NSVzZma1M2cHd2VFprYmg2dHJueUk1MTJJdlVvbk9BQWFlMWd0aE01UWl6UWdTckc3TENNUUUtS1NEUzNaWk5IZUcxTVpZa3FNVFhNMFk3b3AwTlRDR3RFNkpCWFFvbS1pOHYxWWE4RmJXMjFfVkhSMWVKRXFvSU82aGpnbk96dk1kTVl4dER3ejk1N2s5ZmhRdF9LdVJwRXo0?oc=5",
-          "published": "Wed, 08 Jul 2026 15:19:00 GMT"
-        },
-        {
-          "title": "BetVictor Still 100/1 On England Handicap - Newbury Racecards - Sporting Life",
-          "publisher": "Sporting Life",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSllpWld6UkJFaG4zYktISXVuRjZyLUc5em1RY1VUUVZKVU9oRTZMZW42VUFQNG5NdXlYSlVyR2xUV3ljeVJVY1pSWmRmMG02UmZGYVIwSzNRN2hDZlQzOE8zRnZ5NENpUlB2cjVyMnppNnhUYmVZUjh5cExYaWJ5ZjFBc3F1djVrdTJIcW15TS03R3cwME4yUHZXWjFONGV2SnlpMHhCNlFxZ0R3UTEwanRVT1RaNFF1MUpPX1VR?oc=5",
-          "published": "Thu, 09 Jul 2026 19:25:27 GMT"
-        },
-        {
-          "title": "Shopper has 'best night's sleep in years' after saving €1,044 on cooling mattress - Dublin Live",
-          "publisher": "Dublin Live",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLU44ZFZfcmk1R0tCY0U5UXR2RFVPMjAxaG1xLUtTUXBiSDIzdW1IUEw1T0NnX3liZ1BReDRBODRpLVpYOGhoZEEwODBjMmowa3JZeDR0c0t5TzRJLVN6Z1FjcGt1MUtmNGJST0dHWkxvM2t5bGV0dm0xR2FBUnFSUWVlcjlUV0xTSEFxSHhCMNIBlAFBVV95cUxNTkJndDhISk94UUhMTUp2NkIxY0xDUW8zTDE2WHVYNERQSmx2VnNJOUVLZktXaVFISTRWZ1lTbDU1Q0FXZDdoaG92VF9HVER6QkhVZFZYY2pIYkdpU2Nhck5OQlpBZDdicUE4TlNvWnVIWVNCVXRXVXU3bXZ1OGpwUkdXNVNocEZCalVKcGZyWmplRFRJ?oc=5",
-          "published": "Thu, 09 Jul 2026 14:02:38 GMT"
-        },
-        {
-          "title": "John McGahern Annual Book Prize shortlist celebrates best Irish debuts - The Irish Times",
-          "publisher": "The Irish Times",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTI1eGFUM1NSZkM3WkVqdFd2QVFTSkNtd0dTVU1qMm55TXNSQnRybXUyUjZRZW0tcEZURDcwb3dCVGNmTzhGdW9UQ3ZFTV9xZm9pRnFJTmpFUDVmU1RWZHBWdU1uVGxvYzM5WndKWDJOUHN6LVdhWWhtLVNpby1MQ0s3RnJ5NlR5RjdLSFczWi1YOXh1dGFTdU5uV0drd0Q5Wl9BQTJQcTZNOGctWVNnb2ptcmhjY0NxTjdfMDgxNk8?oc=5",
-          "published": "Thu, 09 Jul 2026 11:03:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM - SiriusXM",
-          "publisher": "SiriusXM",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTFoxYVIxRjc1R0lkM19yM2VWdldEck9HbVQ5Q0FiNXktbHlibi1HZjBDc29yRjlHbEJyUTVCSzdWR1BMVzk1N3pLVE9VY3dfdDQ2cFByU001UC1neXZKUGh5VjVnV2dfMXc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:50:34 GMT"
-        },
-        {
-          "title": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
-          "published": "Thu, 09 Jul 2026 19:55:14 GMT"
-        },
-        {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Thu, 09 Jul 2026 18:23:00 GMT"
-        },
-        {
-          "title": "Mexico vs. England sets new record for most-watched soccer game in U.S. history - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:42:00 GMT"
-        },
-        {
-          "title": "Scotland soccer fans donate $15K to U.S. students after FIFA World Cup - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXRhTEFzRVg1bldRZmhoRHlBRk5LLUpSTlRZZGZBeXdIMkxsM0xTaXJzWHM3RmFGVFZSdXZ3Unh0SUp4T3pmZ0phOGlEYUs4bXZQSEhyYjNUVzE3TXU4NlpSbjExRFVnRi11ZWFabjBENVN1cHBUeWdybXZXQ1dVVXFGMjNJSC04X3RLd3MzcTNVQk1iWkMxQzRnZ01hS09HaUw0SUNobk9LUXpHYlFhUlRJVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 19:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Emmy Predictions via Feinberg Forecast: Scott’s First Post-Nominations Read of the Race - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVhalF3dlZVLWZNSFEzSjdKYmxhRXFtano4b1hJSUFEd1gyOUhvMHFUaGJCRm5fTVZuSkNEdzNnaEpxOWx4d01ER3NDcXR4aW1rMS0waTlKY3dCOXFtekhXUExnX2YyYmFoQ0xqeE5sY1p6VmtVWWc0MDN2dzk0X2VhWEJHZ0FEdUZiOHY3NUtYTTg?oc=5",
-          "published": "Thu, 09 Jul 2026 15:18:23 GMT"
-        },
-        {
-          "title": "‘Heartfelt’ or ‘creepy’? Justin Baldoni video after Blake Lively legal battle divides PR experts - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlJQcS0zTkstYzQwc3RzS3VrenFPeWtxRkV1X1pocTFzQ01MNXpKTlNXMEt1ZW5XVUtBbWdZY01xOVU1Xzd5SzVVdXdUZkQxVERGUlFIZTJuYTFtaE8xYTd4QmpmS1V0WWJ1RTUtNjRlS0RlcWo2SWNVNV9RUl82akpqLUtqVklfNktPdXVodGtxR3dBZUVTcUtIcGFPd002ZUxMQUVxTzM4Q0luYm12SHZ6NjBBOTVXRnc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:33:52 GMT"
-        },
-        {
-          "title": "'Task' Season 2 Is 'Mare of Easttown' Crossover With Julianne Nicholson - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEVwREEzR1o2eXNyNFB0ejY5Y1U2elk0TDRGV0hFMXgxUFlpTHJhQjZpbWhIcDhISkRqMFU5Qm1QZ3NNZUQwQXg3Zk0waEVpbVRueEt4OVhJNG0yVkFxbV83ZHRCczJ1SXp5TlE5UGRkVWdpQ3hTV3NYOENNblJwSWtjVEtNdG9FdEZNcV9pb1JGSG5uandSalVWcGJjcV9EN0xVX2lWaw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:30:00 GMT"
-        },
-        {
-          "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTQ5VzJpdkt1RXpVOTE2VmpRWUREUmpxTGxoeDNvOEQ5ekRnM0dkVDZ2alctTlJLYUk0MlZHSmFaYy0xMXQtb25XcDNXbXc3RWx6YTZfRUlfaVA4WHFoOGNRY0ZDc0Z4VXd1TzNjNWhMMW9wWF9Gdk0yNXRKbFlvSmlNV0hUTTdWN19DcnBCZkxKRnZrNnp5TnVrZ0NUR0xDaU53LXlR?oc=5",
-          "published": "Thu, 09 Jul 2026 18:18:09 GMT"
-        },
-        {
-          "title": "Moana’s Record Rotten Tomatoes Score Should Give Disney Pause - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGgybnFxUzlMeVBvS2VpV3RKRDVqYWE0R01vLURNamVHWnd4OUFZT1hkaEp2b1NTX0dmY2pENFVLUTY4OTI1azlEem1ndFV0UGRUTEppLTRIbjVjUUo1ZHNfb2FFU0lRQlFMaUlqeVNRRG52X1hNTldLUnZOOU1BSXFqa3JiaWw5UmhXM3Z5cUFnclZaTWhlQ29kRFdUUFRHTUQ4UF9CNkZDSFRKakJIeg?oc=5",
-          "published": "Thu, 09 Jul 2026 14:04:59 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

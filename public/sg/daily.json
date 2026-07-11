@@ -1,260 +1,43 @@
 {
   "market": "SG",
-  "generatedAt": "2026-07-09T23:10:52.636643Z",
-  "validForDate": "2026-07-09",
+  "generatedAt": "2026-07-11T00:25:51.947463Z",
+  "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "1.5 million Singaporeans to receive GSTV cash payouts in August - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcmh1VE1DakwxcGgtQlpqZHhOMzFFZjNwLVZQTEVEbjhsRk1DWlZnd0tldXp3RU9DMHhTZlpUalp2d1pWb042b3FPV0ZpZG5ob0ZERHJjLTBGanFWMlA0bHRYZktlSUtBMkxMOWMzWWFKM3czTE85T0JjaDh0SXN4eXVMbkFiZWkxOENnZW54V2oxVExX?oc=5",
-          "published": "Thu, 09 Jul 2026 02:50:00 GMT"
-        },
-        {
-          "title": "Missing 13-year-old girl last seen in Tampines found, Singapore News - AsiaOne",
-          "publisher": "AsiaOne",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YaXMta1BmamRob2xaMnJKRXp1T2pxRGJJS1RfWWx4Q01MOGpKYU5mUFZJY3R4bTRRaHlodklQTUk1aHJQWEQ2VkVzSFVQbEFwU2FINnFucVJ5aTRBTnRXOG9Cc0p6V05wODNSZndxQ1ZiYlpZbGR1UGhiTW5ZQQ?oc=5",
-          "published": "Wed, 08 Jul 2026 14:05:00 GMT"
-        },
-        {
-          "title": "S’pore money changer charged after beneficiaries in China could not access money remitted through it - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNamg3RVVxeDRHQmtDWXFSMGk4MGpKSXMyMlE5ckkzaGRmVTFoZTNXaWRCMWctQ1hQVEdQLTdKUVNSSUdLbG5vOG41bmFISGpQZl9NTmRwdDJET2lGa21VWHRvaWphWGt4aS1nMlZCcFJUUHMyUnpXWHJpZEFWWV9aNVAxY1ZhNTRDU2VNQ2hoN2luT2NWRE5STnJKQVlrR0lkd0pILU9QMUxVRGJiMVdUUjRjYVNuUW5VelpLMlVyT1JjTEh3VXJFVG03UlJfTTJaS1dqTUxwNk5kVHpGX1Z1VGVIYU8?oc=5",
-          "published": "Thu, 09 Jul 2026 07:56:43 GMT"
-        },
-        {
-          "title": "Tenant wins court award in air-con row with HDB landlord - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd2twcGlKZ2E1bzdTN3JGYTRfbTZPZTg4SjgzQjhHLXNleVpURUpCVFRvbjhSMkhlc25JQzh1Zzg1SEZPa1VVYWlFa0JMV0ZoTzRqTmNRTWVKcUd0alRON3lRTEFQRXUwWHBVSDZ1cE9FT0JJZ0RWVm82a3FTbUY4dHBhb0t4Sk53dE03MHp4NjVfLXNpdGpYVjM0YXVIZ2ZIRWM1Mm5Ib0xtZWlsR0JuZTZqa0pJY0ZiNGwwQ2kwR2hNUDgta1FpTWxB?oc=5",
-          "published": "Thu, 09 Jul 2026 04:19:14 GMT"
-        },
-        {
-          "title": "Healthcare AI models tailored to S'pore patients being built - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTctYno1ZFUtek8tSkw1cU9Vem9jTlpNWFJ0SC1LR2FSVVg2RUtEWUZENW9pcG1BUzkxSHZPZXdFZjNyVzdEVTFpNlc0UWNlc3ZtNF9qemdBWEhacTdOTU1uTS1HdENzNUhxdzhFY3dPY0tlVnJrMnpoODViVHNvZE01RnkybnM2Vmh5VmVYdGhDV0t1UnNpZzFUMXhLaks5RXk0bEJoaG9MTUt1eGlSVUdUVTBHUC00Um5TVklOOGs?oc=5",
-          "published": "Thu, 09 Jul 2026 03:55:40 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Johor polls: Onn Hafiz urges some 300,000 Malaysians in Singapore to come home and vote - The Star",
-          "publisher": "The Star",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcEp4TWdpc2NKRE1zN0FwQW1SVTZHY1FhSXlQeHVvcFNKdjhiUzNIYTNHRFl2SXg0azdKclpCNXlxVXc1M1M3ZE1pRGgzS2RIYUpxbjRWM0ZEdzZNeUVGcnJ2VlJNWTcyNXNfeERhX1JvdllUeWhCY3NMVkpFZmh0YVVQbU94LS0zVHNOb1V5allLVnN5WV9sSkVtWktFaElWZUZrRDVXTG0tbDVtRnQyTW1XT1p3S2pWRDdnWXBiMnRLTmhwS1phYVg2RUdIajRoVGlSbGVXdGsyR0ZxN3FLYzEyeHV4NmFuek96cQ?oc=5",
-          "published": "Thu, 09 Jul 2026 09:21:00 GMT"
-        },
-        {
-          "title": "A new kind of ‘ceasefire’ between US and Iran where talks, strikes are part of the same process - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQlMxOHdkd1BKTFNrSEtlNGFhX2xQd1VFb3FhOEx1Vzd2ZFotLTByQ3cwWEt0TUd0VnMwZURSWmQ4WnoxTkllSXJxbGEzMXpaUFJZRHpxV1dHNzdRTHduUDcxVVFmelo1bFd5dUdwbFNBZnBCYVphT0VMQURveEZlUXhXMVV3UVdhdE1DeEN3b2l0RmdsWkYxYk5uV0dsc0FfNnVMRGFvUXdoVVRPX3MzMHpUYnlZd1VlSlpucVFZbVR4dDlJQkFLbUEwcTlTQkE4RDQ2YUExNlBwenpo?oc=5",
-          "published": "Thu, 09 Jul 2026 03:30:00 GMT"
-        },
-        {
-          "title": "China, Taiwan brace themselves for Typhoon Bavi, possibly the most powerful storm in years - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDFSR3owQmZGcE5FVHIyc1Qxb3BqZDRNQno3LW45Mk91QW1Gb0lQTDZyUHpZOUUwb3BpVlFoWklkWHJPSGhOZ0JzUENkTFFOMmx5TmdEN1o3bnlwdU11VWpDMk9qU3ZlQ3JqaWVFSXJQM0RsVzF5a3FQWW9KNDJVVHc2X0FyRDhKOUVDaWJ2UXYzNk9mWVdfUkFGRlF5Y2oxeHJGeUlLVGNIRlk?oc=5",
-          "published": "Thu, 09 Jul 2026 02:02:26 GMT"
-        },
-        {
-          "title": "US says China gave only hours’ warning before Pacific submarine missile launch - South China Morning Post",
-          "publisher": "South China Morning Post",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeHFrVnljT1ZGTzZTWDQyTlYyNW5YMmRkMEFfZ09tTzZRVl9WTWZyZ0M3T3owZmhVZFBrSUJmV2dVd2lqcGVyb3hkbV9WN3hKVC1OUU50NWtnS0VySDY3enFiV3UxZ3dOZzdYVXVPQy1BQVk5ZzlpSTQ0NG9vREZ1SGpqQ1MxYnJRemkwWmh2OE02ai01em9hVHhZSmplRm9ZQlhESVBmVXJTbzNRdUVBQmNNUml5ZUM1Z2xnNkpXWlUtNmvSAcMBQVVfeXFMTk5XaUlZRkh2THJmR1BoOVQzbG5zeU9JVm5rU1g2Vkpid19oMDJnQ2ZQOE9XR3BaSkdya1dBMHlKajhNb0k5ZVNobEtrX2pDRk5HemVNUHpjNU85M1pISXlvWThNa0FHSmtEMFdrSlFKRTZjRjBvQ0tkYUI3LUZDN3dHb0hEM2M1WlVHWGRkV0J3QTI1TEhJOXZIOHMzMVBMN29ERU1pME56UTMwcTBFaXEyQ1JjZ0xLeFdSRHp3SFphb1Fn?oc=5",
-          "published": "Wed, 08 Jul 2026 22:51:46 GMT"
-        },
-        {
-          "title": "Heavy rain and winds batter China as Super Typhoon Bavi approaches - Asia News Network",
-          "publisher": "Asia News Network",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjdNZkNwRmdPanFmSzFnbndhWkNjMTExdGdIbjg5R2ZJdFpLc0w5c1B4WWQ2cFVvWE1LOEFmYmM5RWl6dEJrbmtZOGdvUm9IUmZsb1d0YnMxZEJJQzNiaHBaVEU3VlhFRU10X29GOFJjZ3dpTE1Qc1BCaFg5TF9NZ0RDeEpEQ1FFcVhHQ1FXZUFxaDNWcFh3?oc=5",
-          "published": "Wed, 08 Jul 2026 04:06:16 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Why Turf City's transformation will boost property values in Districts 10 and 11 - EdgeProp.sg",
-          "publisher": "EdgeProp.sg",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMVBXdWVzN2FVcTJSYXNzYl82bldfTkU0UFpyR3hlYjZva0EzNzRIWEtTdkhIU3duRkRLc2tpNTNjaXlxRWEwXzVRRE9IUHBfMFFKSDBFUjRqcjM1RnY5QXlqS2Q2eTlaVF9yVjFjal9UWkpkRjhneDVkT1lZcWhBdkNhZFJwN3NhbVNWX0FkUDgyMVZEY1ZzcUlZUkM2M2FWRjR5TEhVSVVoWnpVZ2VhY1FkMDTSAboBQVVfeXFMTVc0aUNvZ0Q1dmRCYS1jM3ZnNjkxaUF1eGtEMmdNMWxKZThTaXkzNFQtSzBYY1JCT2hOYXFZbHAwbWJrek1OYlM3Slc5ekZDRGk5c2RRd0NOWXFsNXdOQjRyZmFlLVJxM0tRbjZDUEdnM0pkZDAwTVBNaDVnNS1zUmNvck1QalBwM1dFaXBKNW5KUXhqVWxhdEItVWNISHBVbGVrUFkxbXVWbW5kTXN6Z2xNaEhRZGpGeXJB?oc=5",
-          "published": "Thu, 09 Jul 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Gold prices continue to slide - VnExpress International",
-          "publisher": "VnExpress International",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRkpiYXczREhZMjVSbmhqdk14LTAwU2lDd1pNUWtmRm55MGJMZ1FqTXlCYnlqRnVIRWtBSWFhYkV4di1tRUJBN1d0dWZwTVFwM05UQjBRdGc5dHdsbGo0UktQamJrcDFsR0ZyanB5dXFwVnJtTXFzRy1veHo0T2d4VVBIb0pNRV9SZ0VGVkJQUVZnUQ?oc=5",
-          "published": "Wed, 08 Jul 2026 09:10:03 GMT"
-        },
-        {
-          "title": "Temasek aims to more than double AI investment portfolio share to as much as 15% by 2031 - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON3c4QnFnWWRUU24wNHlWX2dSVjhlaDAtMHBXUzVrYzRod1dvUkowQkdlYTRmZUVKQllqUnpmSzdnQW5oYnVmckZmcmZFUGFVRGc2TDU2emVYRkpDakk5djFOZ0NqRW5qOFRRZXkzSWNxZF9KNkxfRVZITTRMcGZyWXhiaW9LWGdPcGRGQU5JblZOeDhWdjdrXzZfSndaLUZ1U1ZySjY5STEtLV8xU01qcmdR?oc=5",
-          "published": "Wed, 08 Jul 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Mediacorp, Moove Media and SBS Transit sign agreement to display content at MRT stations, bus interchanges - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZm1CLW1ra1p6TUliN01GX0NGQ2VFZlhURlJwb29tODlOUzd6UkRxYkxUT09MamF1TFA3Rk9IWU95LVBmdEZpQkd4V3pjU2JqTG4xRDNJbDBaV1RVMGhJc0FnLXBIbVhFcmhWaHAyT01sbmxmdHU4YkpHZFJJVzF1Y3I0TFU3clFfTTZNaXMyMjlPSHUxU241V0h0OGtDVjlVd0xxTw?oc=5",
-          "published": "Thu, 09 Jul 2026 08:10:00 GMT"
-        },
-        {
-          "title": "Arbitrage Traders Face Tougher Challenge With SK Hynix Than TSMC - Bloomberg.com",
-          "publisher": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSUlwa09leHRpczFzM2t6c0lDazRPOTVhdXljLVlfWE1LRVUzVlVWaEh2ai0tcGJCZVozZHZSSjhoYUlabUtOV2pBdmM2aUNSemVHcmIydEFOcUVBSVNWRDNRNEE3V1dxYjNZWXlBRndVTlVGOUhCeVRrR3VWb3VsS0hqWXdXX2RvWTVieHduUXE0WGJvRmdSV2REUmJpTjdxUDlDMFJWVl9GcTI2cFBuLXYtYV9Cdw?oc=5",
-          "published": "Thu, 09 Jul 2026 08:08:04 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "World Cup updates: France take on Morocco in first quarterfinal showdown - ESPN Singapore",
-          "publisher": "ESPN Singapore",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXZqdDFrNXpyZ2JOaGhpNDhMVFJON3pyRFFpVTN6QnJVLUVsOWU2WGtfOUJxaXM1QUVUVDlBRmZjLUh6cHVWRE9qU1h3NVYtMDN0bEszdkZvSTFwd2dmUjRsNjlNRHdBZHVNOEd1VFgxclp2eWw0ZmgwdUowcm9LaHJ1emdtR1Y4UjE3TldrNzdYNEtMUDcxSm12a1lMQWxtMTJQQmluOVF5U1NJZ05OOWtObFc0eTA?oc=5",
-          "published": "Thu, 09 Jul 2026 19:52:30 GMT"
-        },
-        {
-          "title": "England's Jarell Quansah suspended for two World Cup matches after Mexico red card - ESPN Singapore",
-          "publisher": "ESPN Singapore",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTE1XQklqQjF2dTR3NHM5b0Z4eGhsWnNMaUwwOUNrdlhnRnNuMFJJSEo2WGdNRGRCQjdrOUxYZk9EUWhZdFRlODVyVTV5dVFhdnZKY1BTaTN5bVQ4VE1XaGpJMHRxcUtoY1J1ckdKQkM2Y1dTcE1pb0ZpOWpuUEhFaU9abE4yMWlOSFk0Nk1nS0NraW51V3RFanhET0h0QW5zaWlDOGZoNlg2MDhweFdMRHNFR0ZvVGM?oc=5",
-          "published": "Thu, 09 Jul 2026 19:22:12 GMT"
-        },
-        {
-          "title": "World Cup quarterfinals: How we got here, predictions, odds - ESPN Singapore",
-          "publisher": "ESPN Singapore",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdzJFbElIWTJzeTdvSVIxX3ViWWRnZ3hvQW5rRW1ERVdQM3Z6WEVac01ZanJCenFHRUxycHlnTmw5S1VuaHNaYVhZZGp4bklXSndiWEFvV3pnT3lIeVE5dkRzMVNiN0RuX3VacERZbHJPeVZhZ0p3eVJxazRyYjRtdUd5YWxwUmdxcHFLNGwyaEZ0ZGJMNVJSUTFfc0ZMVkM0NGRQUTRCOUQ2ZGl5Qmw1ekhQVGlpUC14MmxyWGdkVDVkWS1GSUR0d1otWnhlX0ZZY3MwMjlXbUpaODZ5Y3B2UmUyVkMxOC1rckdjZ2txZktQckthWU9hTUw0aXpnUQ?oc=5",
-          "published": "Wed, 08 Jul 2026 11:32:17 GMT"
-        },
-        {
-          "title": "'We're going home!' London empties out as fans pull sickies after England's 4am World Cup win over Mexico - London Evening Standard",
-          "publisher": "London Evening Standard",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWdQLUhKdDhUaXZGd0g4R3lZYzhyWWVhTkpETGxodkVaRDh2X29ucUx3TjMyLXBmWTJxNEFCOGxFWUdvSkNDOG9BZndSejEzaS1wR0tWbW4xWWlqeW5iX2RnX01Nci1NeWxwLVk2SnpZLVR5MjFVYXlqSUVCVV9faGtIeEtrbFJWQ2JvcUJTQ1RLN1JRejRlMGZ3QjRsMGJZcGtkbDM0UGRNLXVxZTBBVg?oc=5",
-          "published": "Thu, 09 Jul 2026 08:59:50 GMT"
-        },
-        {
-          "title": "Switzerland beat Colombia on penalties to reach World Cup quarter-finals - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYm55THdLYU9oMmFacDdDNUlIZVAtX1ZpMWhuYThNbkk0WkE0M29ZdkN6UVVRRldvZmVERGZSNnM4dC1jTDFGUlNKbTlxUktyZTR5eldtZVc3VGN0Y2JMeVJQbEFzM3lBeEVvRTZIdEQwRHNaclhTMElKMXNkV3RlQnZ0TlB2NkJFMEZpdWZ5X0l6V18yTXc?oc=5",
-          "published": "Tue, 07 Jul 2026 23:02:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Geopolitics of submarine cable ownership, repair - BusinessLine",
-          "publisher": "BusinessLine",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmpjTnBhaERTOVFRUkpvZk95b2dyVy10UnFTdXZUa1pDa2pROVRZTjZYTUNzOXpzR3RPMEU0OGYzUnFObzhFaV84ZDBvbnJmTmhMNVg3OC1VRnlpU2tYbTBEbDViQm1CVkJ5LU9fZjNmUnFMTmdHNGxvWTdjU0dtOVEzQkwwdGJzSThULXliMnhvOTVKajViNWZrYVdNNTFtR0RuLXhua2N4Yl85V2JpUkhn0gG4AUFVX3lxTFBMeWZZeGpTSThibldQWE4wVUdGakRyV1FKMVJfU2N6OUJtdmN0NTZsN0lSeHhWNktxUnhVbmx5SmxRQ1VRZlluUzhRNlZ0MHg0X29sMkkxUHItUnMwNFlVSTVVN2FWXzM2ckJYMllzVFNFWXRrbjR6LUd2Q1VnX25MbE94VmFJdi1UaDZJN1dLZy0tUENWeTVsUEtkNjB5XzZxbXJjd2dabzllV3hKcEhUWHU2MmV2RXA?oc=5",
-          "published": "Wed, 08 Jul 2026 16:12:48 GMT"
-        },
-        {
-          "title": "Creative launches XF1, a S$249 Hi-Res bookshelf speaker system - HardwareZone",
-          "publisher": "HardwareZone",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0lqZHBYV0VaVnB3RVhHNlNqQUhrLVhMRmdLTWZFMVBGYmN6VTBLMjE3UnJOajgwSWlIZTRVeXlOOFEwSUtkX05sRVU1VVVwOHVVZFRMZE8xaGhQRUl6R0dzVDhwLWUwMFRVVU9aX0kwOGNLRGRxNi1sU1lPRDZGdWl4aWxESzFpY0FvOFVnQnV1N3JWZ25j?oc=5",
-          "published": "Thu, 09 Jul 2026 13:24:23 GMT"
-        },
-        {
-          "title": "Introducing: 1776 Atelier Celebrates Independence of the United States and Watchmaking with the Liberty 250 - Monochrome Watches",
-          "publisher": "Monochrome Watches",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVi1KRGhPeW5YZ1RYNVY4YVJRVmo4Y25TdlgtcFFQZG1JSmJqZjl5bjBtZ1cyeXFzRTFRZ2dFaE50b3RUVFlCQlp1d0twTFNHM3ViMUdSWnpzNmY0VzhmSTltZnZSVVpweVFnaUFaTThfZXhET0Jseno3WXU1Q0JDbHdPVTI5SDNZd2JDM1RpWlAyOE1rTllRM3VZZVJzcU9CaFBEVzhVaFJuUm9aUmtPX1BkSXBLck5fYUMybEY5THZ4UkFhQ1NFWkJjN2h3YWZWSjlOZjgzUVhKTW1TdGhaVXJGQlhmZy12M21GOWtZNFQydS1oNzRPdmx6ZGg?oc=5",
-          "published": "Thu, 09 Jul 2026 13:00:46 GMT"
-        },
-        {
-          "title": "The Sans Arrêt Rewind-A Watch With No Seconds Hand, and a Photo Where the Battery Should Be - The Hour Markers",
-          "publisher": "The Hour Markers",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSb0tsOTFuZDhEM3pUcF9XNWZnc1FuTEk3SE53Q0p1dWhhR0ttWHVCc3JKblVYek9qMVNNUFNEWWMtamJ1QlA4WXNWdU5RbllOVHpiYXNhbjFKb1hTRmV0eWIzMmZpb3g3UEdLaS1CQXQyRUE?oc=5",
-          "published": "Thu, 09 Jul 2026 07:45:01 GMT"
-        },
-        {
-          "title": "Everyone has Spotify. So why are Singapore’s record stores packed? - Vulcan Post",
-          "publisher": "Vulcan Post",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KX1l6SlJza0MteHRhWHBFV3c1ZGZGUzFVRUhUZlg0eGREZV9MRUQwRnd0ZDVldFlRTTBSMThfcldVeTltWWYwdmpJT2MyRjloVzVWbGs3SjBSLUl3cWdGdXZn?oc=5",
-          "published": "Thu, 09 Jul 2026 06:36:14 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM - SiriusXM",
-          "publisher": "SiriusXM",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTFoxYVIxRjc1R0lkM19yM2VWdldEck9HbVQ5Q0FiNXktbHlibi1HZjBDc29yRjlHbEJyUTVCSzdWR1BMVzk1N3pLVE9VY3dfdDQ2cFByU001UC1neXZKUGh5VjVnV2dfMXc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:50:34 GMT"
-        },
-        {
-          "title": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
-          "published": "Thu, 09 Jul 2026 19:55:14 GMT"
-        },
-        {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Thu, 09 Jul 2026 18:23:00 GMT"
-        },
-        {
-          "title": "Mexico vs. England sets new record for most-watched soccer game in U.S. history - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:42:00 GMT"
-        },
-        {
-          "title": "Scotland soccer fans donate $15K to U.S. students after FIFA World Cup - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXRhTEFzRVg1bldRZmhoRHlBRk5LLUpSTlRZZGZBeXdIMkxsM0xTaXJzWHM3RmFGVFZSdXZ3Unh0SUp4T3pmZ0phOGlEYUs4bXZQSEhyYjNUVzE3TXU4NlpSbjExRFVnRi11ZWFabjBENVN1cHBUeWdybXZXQ1dVVXFGMjNJSC04X3RLd3MzcTNVQk1iWkMxQzRnZ01hS09HaUw0SUNobk9LUXpHYlFhUlRJVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 19:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Emmy Predictions via Feinberg Forecast: Scott’s First Post-Nominations Read of the Race - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVhalF3dlZVLWZNSFEzSjdKYmxhRXFtano4b1hJSUFEd1gyOUhvMHFUaGJCRm5fTVZuSkNEdzNnaEpxOWx4d01ER3NDcXR4aW1rMS0waTlKY3dCOXFtekhXUExnX2YyYmFoQ0xqeE5sY1p6VmtVWWc0MDN2dzk0X2VhWEJHZ0FEdUZiOHY3NUtYTTg?oc=5",
-          "published": "Thu, 09 Jul 2026 15:18:23 GMT"
-        },
-        {
-          "title": "‘Heartfelt’ or ‘creepy’? Justin Baldoni video after Blake Lively legal battle divides PR experts - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlJQcS0zTkstYzQwc3RzS3VrenFPeWtxRkV1X1pocTFzQ01MNXpKTlNXMEt1ZW5XVUtBbWdZY01xOVU1Xzd5SzVVdXdUZkQxVERGUlFIZTJuYTFtaE8xYTd4QmpmS1V0WWJ1RTUtNjRlS0RlcWo2SWNVNV9RUl82akpqLUtqVklfNktPdXVodGtxR3dBZUVTcUtIcGFPd002ZUxMQUVxTzM4Q0luYm12SHZ6NjBBOTVXRnc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:33:52 GMT"
-        },
-        {
-          "title": "'Task' Season 2 Is 'Mare of Easttown' Crossover With Julianne Nicholson - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEVwREEzR1o2eXNyNFB0ejY5Y1U2elk0TDRGV0hFMXgxUFlpTHJhQjZpbWhIcDhISkRqMFU5Qm1QZ3NNZUQwQXg3Zk0waEVpbVRueEt4OVhJNG0yVkFxbV83ZHRCczJ1SXp5TlE5UGRkVWdpQ3hTV3NYOENNblJwSWtjVEtNdG9FdEZNcV9pb1JGSG5uandSalVWcGJjcV9EN0xVX2lWaw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:30:00 GMT"
-        },
-        {
-          "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTQ5VzJpdkt1RXpVOTE2VmpRWUREUmpxTGxoeDNvOEQ5ekRnM0dkVDZ2alctTlJLYUk0MlZHSmFaYy0xMXQtb25XcDNXbXc3RWx6YTZfRUlfaVA4WHFoOGNRY0ZDc0Z4VXd1TzNjNWhMMW9wWF9Gdk0yNXRKbFlvSmlNV0hUTTdWN19DcnBCZkxKRnZrNnp5TnVrZ0NUR0xDaU53LXlR?oc=5",
-          "published": "Thu, 09 Jul 2026 18:18:09 GMT"
-        },
-        {
-          "title": "Moana’s Record Rotten Tomatoes Score Should Give Disney Pause - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGgybnFxUzlMeVBvS2VpV3RKRDVqYWE0R01vLURNamVHWnd4OUFZT1hkaEp2b1NTX0dmY2pENFVLUTY4OTI1azlEem1ndFV0UGRUTEppLTRIbjVjUUo1ZHNfb2FFU0lRQlFMaUlqeVNRRG52X1hNTldLUnZOOU1BSXFqa3JiaWw5UmhXM3Z5cUFnclZaTWhlQ29kRFdUUFRHTUQ4UF9CNkZDSFRKakJIeg?oc=5",
-          "published": "Thu, 09 Jul 2026 14:04:59 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

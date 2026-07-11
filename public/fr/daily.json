@@ -1,260 +1,43 @@
 {
   "market": "FR",
-  "generatedAt": "2026-07-09T23:09:42.520311Z",
-  "validForDate": "2026-07-09",
+  "generatedAt": "2026-07-10T23:14:58.241575Z",
+  "validForDate": "2026-07-10",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Fortes chaleurs et feux de forêt: neuf départements placés en vigilance rouge canicule ce vendredi - BFM",
-          "publisher": "BFM",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSkdORWgwVnhFVnhqVVZZX2d0OENLalJIUHpWd2ZTT1psWjlOLVN0OHRhSDVYQU1qUjF4WDJSc2JKTm1QZG02cFZ2ejdhNnRDUUlNNGtZel83eDVNYWxoRi1DSjZnRTI3cVgtOEtSU0toTlZfbVJpV01FZXZLOTktT2xJTUw0SUpWOC1MVmQtSkZsWVh5WjV6XzVMd0Zod3pVZDQ4VTVfeWtpR1hGZUtleVVDREVXM3BQNnBFbi1xaWFrWGJjS3dNZEE0OGlCV1BhUlotaFZHOUxUbXk5MEh1VA?oc=5",
-          "published": "Thu, 09 Jul 2026 21:54:29 GMT"
-        },
-        {
-          "title": "Assa Traoré perturbe une séance à l’Assemblée : «La déliquescence de cette institution est inquiétante», cingle l’ancien préfet Michel Aubouin - Le Figaro",
-          "publisher": "Le Figaro",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQR0hSMGpldlFrWVZPc2xiSTA4S1h3YW5yUDZmbkIyNDYxUHNYSGNiaVZXUDRjOVowNjVUWEJDRmhfWG9nWENwX3pLdzFEa0wwRTBEakZMdi1WVktlTU1FLUJiTkFUU0Z3b3NmQmttaGhmRzA1aHBqUGNfeFUyUnd3YXI4Z1BUTTVtN09yMnNpQmZNaXRRYnZMOC1mZUtkdUpnb2tzbk0wQ0k0V1ZuMjBUcW54VVpvUDQtZjU2cEs1LW9DblI5VjlPT3VmRTRWWjZvSmN5MldmdnVRVlpPY3V6eE1aTkYybEctYXZSVldkRVRYTmdONWVhSEh1RzBZY2VvNG00ajVlallfc0xj?oc=5",
-          "published": "Thu, 09 Jul 2026 15:54:03 GMT"
-        },
-        {
-          "title": "Le niveau de vie augmente en France mais la pauvreté reste à un niveau record - 20 Minutes",
-          "publisher": "20 Minutes",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHE1TzJRd1FfV3h3U2t1bk9UbXdrRERkWjBQVEhzRWpaYzRRNXltS2ZJbjVwZzVRclVXeWVXWFJkWUFjN2pTSkhGbTJsZWtlaG9VSWRPYnFYTU54U1FCS3c5RjBfaERuaXlTZDFUTWJadnowVDlUbkxHRXZfTnBUYkQ2SzF3LU0tQmk4Q3p5TUlDQkpZZDkzX2l0Ul94ZElPSVpFam5lTFAzWnkzS3l4SUVIbw?oc=5",
-          "published": "Thu, 09 Jul 2026 19:34:00 GMT"
-        },
-        {
-          "title": "Projet de loi de lutte contre le racisme et l’antisémitisme : après l’échec de la loi Yadan, le gouvernement cherche l’apaisement - Le Monde.fr",
-          "publisher": "Le Monde.fr",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOQ28ycnJNenRFUGF4NzhnTE03bm9WX2RVZEtWM25xbTYxM3o5ekdrOWFMU1U4QnR4NmhxeTRlbkkzVGdIdmtDVi1BYkZBYVBJbEFUM2M3dDJNd2o0eGNxdkY5UFVsclVjVnpkMlE4NjNseEFPdWFxZ1NVNEpKNWFLQXpsckFwV3JlSEs0NkdXMUZKd29YRWRUNG0xOGdKaTN1Vl9SQ242TVNEY1Q3TFpjRHFYXzZyRHFwbExnb2ZjV3hFQXNNczZtQ2VqUTR5b05DM1M5UGpVR2xhdzdsajk0dWs5R0dKb0JuRnQ0bDljOE50N0FScFFlQmxDaDBCREtVLTczdVZsQXdaU3o2OTZKeUlzLTdhWFE0WGhJUnVoZw?oc=5",
-          "published": "Thu, 09 Jul 2026 15:12:41 GMT"
-        },
-        {
-          "title": "SONDAGE EXCLUSIF - Présidentielle 2027 : Marine Le Pen largement en tête, avantage Edouard Philippe à droite et au centre - Les Echos",
-          "publisher": "Les Echos",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUmdRYlo5MWZxUDRZUmNsQ2pfaENfREVrcWI3WjgtVGdqSTgxLVhFYjZNa29MU2lUclA2YWNqYW9MNUNFRENjN3dieGRmeVZrWmVneXJ3YU5yUzJTcVh0TlVGZjhYalJEaFhITHB5LVdSQi1kSGRjRjluYV9LLUNBUWRSRWZ0cUNaR2YxWWM1cGR0VW5ua0xodE5RLW5yWm9DNlRnQmdwZlhGZXVLaEFGb3ZuSEN3MVQ3MThjTmc4RzUwSXNtN296MW9jUnZ0bF8xSEtoU3U5cW5iNDVYcmM2SEJuekVIbGx3QWFfWWt1WHpIZGRJaUZzU2xqV0N3X1pqRFdV?oc=5",
-          "published": "Thu, 09 Jul 2026 15:30:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Guerre au Moyen-Orient: Donald Trump a informé Benjamin Netanyahu des \"derniers mouvements\" américains dans le Golfe - BFM",
-          "publisher": "BFM",
-          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNbmxDNk1HMEptRU5CYUU0d1BKUjlCOS1mUWNLSTd0MXpmSVNNX0hkaEJ4ZWhnSjdhWldWV3l5VktTdlNGSWxoeXlwemV2RjNhd05zNFYyM0VaaWpid3ZXTlVlb3lPSnUwc2lyWHV2ZnpRbzRtWFROTmFSeElQRXlVSVhjRElqTEdEOFgwYXdmRUVkVjdSdTJFM1BINnZLM01neDJnMHVidWhWeEJhTjhleXNTWVpLZUdtZWVvWDAzT1d0bjA2eG1hbjNqb2thQ201RUNaelR5WFhQa1VWMks3NE9Ia0xUSndrbUFDY0pKenFxcWxfZ0JRQUtsTjI4XzB3cTZERWlqbDR5V0pXMTVNSVdCc2NnczlVUFhkWVhXNVBlTHhGYW9ESE1za3FTdTBxQWdQclhXczZfZ2dYMVliT2FEUkpZUEc5V2phZzNZLTdmNGRfblExSkJR?oc=5",
-          "published": "Thu, 09 Jul 2026 22:17:43 GMT"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : les dernières informations - Le Monde.fr",
-          "publisher": "Le Monde.fr",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTWIwM2JKMEpFbHJWQ0hYMi1uNDQtMXV4aEIwd2hUT1hnTzZpX2t2SDNGVmJsTGFKczlSamVmT2pvS1V5SGhXcllTT3loY2lqQnY5VXhFb2gzMHpLdV9DeHdwVmdhQXRCQmhCSE1DbUNSblZCbDdzcEZaWi04MzBkOG5wWExLYk5Bd094TkRDQ1htVjZtSFpzMFRLV0I4NWJvbHNxMmlpYktZQ2hja2MwWThjeThuaWJnRnZNUjhwUUdpNTg5X1hKOWlFbzFLaHFVajNhTG9ZNmdsU1FMNWxwQnFibWRybzRSY3k3aHgwQzZkVXN6eHdOWl9aZ2tlSjB5WEY2bEdKbw?oc=5",
-          "published": "Thu, 09 Jul 2026 17:40:38 GMT"
-        },
-        {
-          "title": "RDC : L’épidémie d’Ebola se propage plus rapidement que toutes les précédentes - 20 Minutes",
-          "publisher": "20 Minutes",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdi01V3VidWVtVkhvVXp4bkc5WjdOVFZxWHlCd2VMVTRGOEYtSW82VUMzSV9PY2pDbmlFV0VuY3lOdVFvbG15NHdzQXZTWW9IS2poeDdGMW9mb1o0a1B1bjFHRVBjbDJ1dmJzc1NLSHhSVHNtdzFHc192VmdEMmpQeGNLUUNnN1prM1J1TjJBMVJoUTJuSFM2ZHlpeV9TMjIzcEJEb3Z1V2xfcE5VZDJyZUotM08?oc=5",
-          "published": "Thu, 09 Jul 2026 14:38:00 GMT"
-        },
-        {
-          "title": "Un aéroport de Floride rebaptisé à la gloire de Donald Trump, son fils s’y pose en premier avec le « Trump Force One - Le Parisien",
-          "publisher": "Le Parisien",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPRGs2QTMyNGxCV0ZGQ0ZiejNJdkdkVjZHNnI1Q01wOHhhWU9odWRVRlZReFROTTdOUFQzbDNJMHdMOEZjMmpjYlk4YnhRVnozR0lUdWIxejM1UE9tRWpkSk5RTUp3M19lSmpmWjdLQ2lRTDZCR0NLdjZwQnNHcWZYdzl0NGs4dzN6X25uVkRrZ1h4V3FsRjVuNTc1YTBCcGNCR2JiQjU2QmNzcktTb1dEaVB4NWpSU0ZWZ190YW82NEl5VjZNZC04Q1Btd2xOSFBHMnc4ZzJTUUJQQW1ObG9vRWJmNXMtNDc3NnZNdDZtb1dDQng0RFJKYjdZa2gxcGVPWjltSmRxMWl6SWt6UjVvQUVqSlVuWEVXeXpqZXJZckFYNnlVcDFQRDk2X2E2dw?oc=5",
-          "published": "Thu, 09 Jul 2026 19:08:37 GMT"
-        },
-        {
-          "title": "Système SAMP-T, missiles Aster : des ex-espions de Rome renseignaient Moscou sur l'armement franco-italien pou - Boursorama",
-          "publisher": "Boursorama",
-          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNS0N4NWZLblpHenphODVhaEZSNXNTeDlEXzNSaW9OM3Q4WUluT0U3Wm1QMkJEY0lScGUxQm5OS0hCNHNVY3FUVHV1LXpRcnAzMFowUmc2ZXNNZW83Z3NjcDQ5VlZNUll0WTdvQ2ZqV1RVSVotM1ViT1c2MXZpMVdPb08xLTFreXJGSWIyOGtvcmVNamhfc1cyWkRBRDRoUFRud0dBWUNJVjh5cDIxTDBJOE1DdjJScEVXTEtYMXVGWXhGYnh3aV9MWl9YRUxKYnR5NlRrOHhTUHczbWZmTW5seHRrc2ZSOXFKUmk5QVFvNldLT2E2X29Kc1U5TnhZV1pTZlI0SElmUFh6YzJTeTRoSDBCR1lNNlJWQ21TQkxfX3ZVbVVYV1lvTkE1UERMcEhTbFhXd0NyVFFzV3ZaV2VEeUU0SHo4cEpDWDE0OFlCM3QtT09uVHBWQ2Z30gHfAkFVX3lxTFBUZXZ1c0J4ajJ4ZG1NU3FuN3JMVjRhZG1YaW9oV2RwWHZXWjFOQXFIR1ZjS2RVY09ZOVVSLXFWNFJJTmpEbkZKZVYyOHJEVnNPODBvT1lJUkZ3MnNMY25uZ25QbTNuODBRcWpxR2ZrSnFraEJBandrOXNZNlB4OExKbUlySzdkN3JuWThITEI2V3p6VG5JYU9SN20wV00zdlJFYmhpRUVQVkNyeFViUEVfYVJZMkxwX0llODQtVzdqMUxaRDNxWG9xeW5TQlF4NnRlYm5uSkhBZUs4a25YbzJpX2tkRW82MFRxYzhraHdzMzNqbmsyVnQyU2g0Qk14NGYzTTNpTEEtSTcxZ0RYOU9UTnVKT1duR1VzQ2E2ckNfTmhTUUxNd2VtckJyY3JoNll0WjV1UXowMXVHRThDTlFYSndqelM0TFN5WFoyWFdUY3ZwcUh5clQ2NmZwckFZOA?oc=5",
-          "published": "Thu, 09 Jul 2026 12:05:51 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Croissance : le spectre de la récession s'éloigne pour l'économie française - Les Echos",
-          "publisher": "Les Echos",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOa3M3TEdSSjIyZ3FIR1FZeWlfSHVRZWtVSnUtaVJoeENIdk5xbVZfMGlSY0pSdkViR3Vfbm9HX3FNRmhMZUJEbXdvbXQtM3N3dFg5M0htM3FXbEdLTkdhTXp4Q0F5bU1iZnFsQ0ZDX0hlRXlyNzF2WHowU1NvSVgyVklQenFJdE5ORnJucGNsdXhyTU9lR2x6Z1JmMVZzWl9STDBqMUNyOU9vRXV2bG9sZzQtOU05alFwSGRWMnpVNUdPSUZqT3FzVHpfZks1Vml1dlZ3ZFFYNWZGclBnNGZhNEFRR0U1TDkzV3FuVHdXcjVoMC1adW52R3VKeUIya0gyUXc?oc=5",
-          "published": "Thu, 09 Jul 2026 18:00:19 GMT"
-        },
-        {
-          "title": "En grand péril, Volkswagen se penche sur son avenir sous haute surveillance - Le Figaro",
-          "publisher": "Le Figaro",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXVxZ1NTcUZEOGcyNWlBSHJHbFNuYW9QaTZOdlR2YTVnTEFiYXAwV1QtamFOVXBKcGFTOHU0dlI1V3c1OHpUa1JDQjBPa3IwOEQ1NUt4UWJFT2x2eVJtTzM4VXNJQzdsU3VxeTU0b2k2NXRVVGtJVmtsZEhhdFBTM0JSckdCNzc3cW1xZ2dTXzRwNjR0VTVCWkg3Qk9HY2hyRGt1c19VU014czBxUFRvUy1rakk2c3M?oc=5",
-          "published": "Thu, 09 Jul 2026 21:32:57 GMT"
-        },
-        {
-          "title": "500 plus grandes fortunes de France en 2026 : qui sont les représentants du Sud-Ouest dans le classement de « Challenges » ? - Sud Ouest",
-          "publisher": "Sud Ouest",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYTV0TEFMV1NPNGxGN3lDbGRWYUljd2wwVGJJSHc1SnFCNkRwVUlUNlVjcEtmTEprOWJXZTdqb3Jra09ud3lLNzhtczZsZmVlRDZVN3Z2ZUtCRVZaaTNGbUJ5UklmMmg2QkZFY3BDVUVOSUZqdmpjM0tsczlBTy1nOUptYWFiRWNhcHh0d2ozOHdHM0h0VTJTQV9YQm1DdHNSVWtoZ3RWYUpWTi1pQUd1SmQ3V2JubllYdGlNbUFMMjhzSVl5WWNDbEx1UVhqRFJWUm5aYlk1eDRtMjYxUm9kTlpIa3pzRFJSTzBFYVBFQQ?oc=5",
-          "published": "Thu, 09 Jul 2026 10:46:43 GMT"
-        },
-        {
-          "title": "\"La situation est alarmante à long terme\": un comité d'experts insiste pour sous-indexer les pensions de retraite par rapport à l'inflation - BFM",
-          "publisher": "BFM",
-          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNYXotS2pHZHRrajhwOE5PWGExMEo5MXdLRURpY1JGSWxXY1k3WmRQLUM1cnhnMDFzdEc0WUFrenZiX2huV2RmV1Z4QUE1SHF0eGZaajdtYVB4bnFDTEZSRDhBdjFRWFNYMHBPdnc1MnF3UEUzV0dFTjZFZGZlcDVKM1dIUXV0M21pMUZJaDZfZmRNdEFFTWU0cnkwWDJtenVaRXV0ejZ2akJia0hYa1BOT29xaFNBSkI1ZmhtaUpoZnpCVlJ2S0hvd3BWY01Ecm02eWMtblV4LTQ0NUJpWklhWEFMRlVuU3JFRkdzaGVqX1lrVlBDSkp3U1psMFY2R0lzVk5HYTNYR0cxZHRQWkwzam02VDBpcjJCdTZubUJYQTBFUFQycFRqN2pPUHh6aUFOeFZ5aDVB?oc=5",
-          "published": "Thu, 09 Jul 2026 18:48:06 GMT"
-        },
-        {
-          "title": "Intermittents, une facture record - Radio France",
-          "publisher": "Radio France",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2JzMzVqelBRZFUxMWFaT2VwaDBCX0l5bHppRFpxbGNTeWp0QUdrdldEaGczYlM1akhSVzZFTHlRdkI2Z1pReHNvLVJWWTJJZU0tS19FZG1kZDdUR0JWR0FJcktvc0FLbE1fZXpWSnVwTFVqb1BiTWRKUXZrcGphdzA5VTVTTEpRX19JaWtuVjJUMTFXNEtuR3Z1VjlrNzZPQmU1ME5Fbw?oc=5",
-          "published": "Thu, 09 Jul 2026 05:46:45 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "DIRECT. France-Maroc: le duo Mbappé-Dembélé frappe encore, les Bleus retrouvent le dernier carré - RMC Sport",
-          "publisher": "RMC Sport",
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPVUR6cVV2WXZNMW1iYjF0dURrQnhTdlJRVlhLVGFCbDVRSTVWYi1OYnZkaEFXdlFtU05BZDRRaG5tSlZsaFVPSk1sUEdNUmlwNjE1UVgycGxzZ3VxUkdpV1E3QVVReVFxYWR5ZTBrWERaaWFxWmJtazhDbUp3bWJyWmtOakpBdjV5UVNjS0FON1dPVk5DY3Qxc183cDltc2dXN2NqT0haYVpDZ3lWVnRZaVBRYV9FZkFmaTQ4emh1V3RlUzZPc3Btc3dKVFNCek91bmJneHl3V2VBNDlodURzdFpVWG9XZXFwcFNGMDgtbXNwVmduTGJtVHN4T2lfbTd0ajl0a1FvSzZGakQ3NEJzLTREREJQalBSTGVn?oc=5",
-          "published": "Thu, 09 Jul 2026 22:16:28 GMT"
-        },
-        {
-          "title": "\"Ce n’était pas mon meilleur jour\" : Vingegaard, le KO et le coup de la panne - Eurosport",
-          "publisher": "Eurosport",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNWjRqREhvSDhSV1gzOFM5ZnRmMFdvc3FkWEl0WWFTM0duOVRHbnNGNWFBdkdOMHc1WjFqdGQ1UEJNb2tZQ2lkSUwyNV9vb0hGbEEtV1ZOTjdmRGFlTGtZal9pUm9rMDlYd2FOSS1qNUxhbHh4Umt4R3BGYUF0TERJMWNkOUNzS1hyMkpOaWFCdmtQMG5QZ0diamVjUnUzZHp0WmVPOG10c1VLYzNoMHFzT1N0aEF3U3BQVzFTdF8tMWQ4T2ZwTFBCb3NXd0hVWVpvd3V4UkdtWnp3WC0xZVpvUHNpWV9wd0h6c3czLVpVVlRqc1Naa2VmWEV1czFjUHlwTmV1cmh3MEdCOWZjeV96Y19lQTNmYkFNOTc1dkJpWQ?oc=5",
-          "published": "Thu, 09 Jul 2026 18:41:00 GMT"
-        },
-        {
-          "title": "Paul Seixas, un baptême en haute montagne réussi sur le Tour de France : « Je crois que je suis à ma place » - L'Équipe",
-          "publisher": "L'Équipe",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZUVVU3p1Nk8wbm1ZdjFwX1djRFcycnRzYlZXejY5RG5aNTItTGplYnJjSkIyMWlBNWVhMElrV0Yxczl3cUxCdHBlLWEyNDFUTlluVHhXaTdMcldEd1dxRTdLMU5OZXI4TVVVOUJaSzNmUXpVWVN5UDdRd0RQSnotSWV6TEdCNGwxQlVNbnR2ektuSWEyVXFoNml1b3EtMWtmZnl5QUpOUl9LbndodzdPZnRKQ1FPS0psQTU0ZWRCNVlMQ21nTGd4MEU5TEt5bzBGM2VYeWVib2YxTExtNXo2czUzaWZIOXdrd3BURFJ5N1c?oc=5",
-          "published": "Thu, 09 Jul 2026 19:04:56 GMT"
-        },
-        {
-          "title": "Un homonyme de François Letexier vit un calvaire depuis Argentine-Égypte - SO FOOT.com",
-          "publisher": "SO FOOT.com",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdWU5alhRU1hnMFhtT3hscjI2Z0g5al83QmFrQ0tEMng5bnlPcW9uME9KekwtZWhtUE9fVFhEaUNIQWxhOF9nMF9HRlFqWWU5WmV3QjhPSDhMVkhfRWs5bURDOTJsRTExUFNfQzNoQ0tGeHhRbWJPSlpIMm9jWFE5R3YwaUthUDhpOGpvZHZrRjcxUTNfajYydk5OMk1ZQjRrV1RKY2ZQNjlzYTlKQ3hVM01LSVZlS0t2VEZxR3M0R1QydWVSakthdnh4YVp0eE5Y?oc=5",
-          "published": "Thu, 09 Jul 2026 21:18:55 GMT"
-        },
-        {
-          "title": "Coupe du monde 2026: Clément Turpin désigné pour un quart de finale prestigieux - RMC Sport",
-          "publisher": "RMC Sport",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYTNWNWpzSTBINmgzLTVrLWgwUXR0ME5nd28yd1JkNDZ1NnZnQmpSZE9RLW51Q21EdVFKVWVBUGNLNkVNa1liQVdiRXNtdXp5QmVBZzZmTVFKT1ZNdG55VDZUUkY2SU5OSXVLRnFweGNNeTVxY0RlUmtLZ291TTlDTWxDMXd3cWhQLWIwMVdkZjMwWGlWM3I1eEM5ZVp5SlZERFRtanRkVkdHdU5KdlBlMDMyOXNXeFZYRVdZNzRhM3hDOXJVc2lIVXdOUjBsbVZSeThiMVhXWWNpbVZPUG9mZGhRemQ?oc=5",
-          "published": "Thu, 09 Jul 2026 18:06:03 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Doctolib va utiliser vos données personnelles pour l’IA dès août : voici comment refuser - Les Numériques",
-          "publisher": "Les Numériques",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMFdqWXZqazViOElRc1lHaXlVOVVOZlRZY29NUjNzcE1US2tRMF9Lb3M3enNUdWlISlVGSldwZy1BVUNfSHBibVpTdlBHaGtxUGdJbkljUzF2SlZOcy1qd19KQkRFTjdQaFA4NW5oSXhqM3dBdTBXMG9NeVJIYkN1TmxaaVV6YlNQZE9xYmNpY0taNm0xdXNWMC1YRU5TVDhPRllkX2VZaVJLR0pZd2FQTDQxY0h2TzlZcDdhM0dBVjdDdjVSbzkzYkRfUUFrbkdlNkZkZFFxMFE?oc=5",
-          "published": "Thu, 09 Jul 2026 13:13:00 GMT"
-        },
-        {
-          "title": "Pourquoi les « tiny teams » sont en train de révolutionner l’entreprise - Le Point",
-          "publisher": "Le Point",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXpBcENDSTBHYWVSdFhRQzhKTWg0c0ZnVGFSRGZGUFdaMVQxY0FGYzN5aWh5V1F2QjVTaFhTdUJISU4wMUZoT2VMNF9JSVViaEZMMG9aRW5UNk1zeVZLbFNvQjBWMlFNRG11aTFrZWNyYlJyWkhRVTBBNlNYOUVISmRSeWROQmhJUHhuMzJ3b1lINHRJZE8tWVdYeFhmSFNyd3FqQmln?oc=5",
-          "published": "Wed, 08 Jul 2026 09:00:00 GMT"
-        },
-        {
-          "title": "Votre téléphone Android cache des outils comme scanner, PDF ou mètre à utiliser sans installer d’application - La Crème Du Gaming",
-          "publisher": "La Crème Du Gaming",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNjhsRTAyNlpzQmstX2RJcGFfckQ1WEJVV3o5a3pPdW9yNU4yUHpHVTBZQy1hQXROTGdkeEJET2pQUnd3TGdlS3hST3hTNWs1anJDMzY3bmhyVm5aMGxZZU5aNFF5Q0JaRm1Db3hOZlI3ejR6cGZiTTgtS0prajRVUkpwaVhlOTNZSUp6VVZuUTZaeFlUSjZoaXRfZVBhajg0NE9pUV8tcWFvYWhhTDdfaTZJSjh6elEweTFIR2NaajVtbG1keDlxMVNjczBFaFB3Mzk4N2ZuU1ZvLURaTDh6ZkFmN3BRZGlheFpXWjZ5Rko?oc=5",
-          "published": "Thu, 09 Jul 2026 16:00:15 GMT"
-        },
-        {
-          "title": "Ces smartphones peuvent appeler sans réseau mobile ni Wi-Fi, une cette fonction change la donne - La Crème Du Gaming",
-          "publisher": "La Crème Du Gaming",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdHpoMXZwOENPWUF4cWUzaXpTTzhGMFZtanEtak05VXhzRXF0MUNCWVZwRXhSQUc1dG51X213WFFYX2FFcnF4NDNseldSbEN4ZThlYVVhZkxfSGlNelZRS1RSVzNaUlR1c080Z3QtLUtYQUlFY05QQ1FVYklmZFlVSlRrdEc4R1JWNnVIc1NEaU9aVDdTbk1IWHpiMkFKREdTa0k1UVdtRGxlY0lwRDZxT1lMbTU2eXJVZlJad0hjVUIwQURIUXFOQmhXSHhJVm5vckIwWDEyWVpNYWJJSTNYLQ?oc=5",
-          "published": "Thu, 09 Jul 2026 18:00:16 GMT"
-        },
-        {
-          "title": "L'iphone 18 pro max pourrait être plus lourd et plus épais pour une meilleure batterie - La Crème Du Gaming",
-          "publisher": "La Crème Du Gaming",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUm5yUnBwUnMtMFd3M2xjcTQtcTRxSnkyNUV3U0ZweV9jOUh0bmQ2ZkZTcjUzWjBoZE93UGdSOGtTeXV5ampzMnA2Q251UTU5TzRSb0I4MkNRbndPMnJ3VExJTThtN18wOWFFdTVWUG1YbU1MbGtNOTR5UzJGcU1NSmJHdFhNSkhDY3F6c1VhdTcxaDFoOTdzek5WUkFzSkxtc2pCQVhXbVhpRU9VZ21aS1dkQUYycFAxMXVoVjNXY3FuMk14ZTg5LWphcmNBeXlqV3ZIbg?oc=5",
-          "published": "Thu, 09 Jul 2026 17:00:15 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM - SiriusXM",
-          "publisher": "SiriusXM",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTFoxYVIxRjc1R0lkM19yM2VWdldEck9HbVQ5Q0FiNXktbHlibi1HZjBDc29yRjlHbEJyUTVCSzdWR1BMVzk1N3pLVE9VY3dfdDQ2cFByU001UC1neXZKUGh5VjVnV2dfMXc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:50:34 GMT"
-        },
-        {
-          "title": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
-          "published": "Thu, 09 Jul 2026 19:55:14 GMT"
-        },
-        {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Thu, 09 Jul 2026 18:23:00 GMT"
-        },
-        {
-          "title": "Mexico vs. England sets new record for most-watched soccer game in U.S. history - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:42:00 GMT"
-        },
-        {
-          "title": "Scotland soccer fans donate $15K to U.S. students after FIFA World Cup - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXRhTEFzRVg1bldRZmhoRHlBRk5LLUpSTlRZZGZBeXdIMkxsM0xTaXJzWHM3RmFGVFZSdXZ3Unh0SUp4T3pmZ0phOGlEYUs4bXZQSEhyYjNUVzE3TXU4NlpSbjExRFVnRi11ZWFabjBENVN1cHBUeWdybXZXQ1dVVXFGMjNJSC04X3RLd3MzcTNVQk1iWkMxQzRnZ01hS09HaUw0SUNobk9LUXpHYlFhUlRJVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 19:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Emmy Predictions via Feinberg Forecast: Scott’s First Post-Nominations Read of the Race - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVhalF3dlZVLWZNSFEzSjdKYmxhRXFtano4b1hJSUFEd1gyOUhvMHFUaGJCRm5fTVZuSkNEdzNnaEpxOWx4d01ER3NDcXR4aW1rMS0waTlKY3dCOXFtekhXUExnX2YyYmFoQ0xqeE5sY1p6VmtVWWc0MDN2dzk0X2VhWEJHZ0FEdUZiOHY3NUtYTTg?oc=5",
-          "published": "Thu, 09 Jul 2026 15:18:23 GMT"
-        },
-        {
-          "title": "‘Heartfelt’ or ‘creepy’? Justin Baldoni video after Blake Lively legal battle divides PR experts - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlJQcS0zTkstYzQwc3RzS3VrenFPeWtxRkV1X1pocTFzQ01MNXpKTlNXMEt1ZW5XVUtBbWdZY01xOVU1Xzd5SzVVdXdUZkQxVERGUlFIZTJuYTFtaE8xYTd4QmpmS1V0WWJ1RTUtNjRlS0RlcWo2SWNVNV9RUl82akpqLUtqVklfNktPdXVodGtxR3dBZUVTcUtIcGFPd002ZUxMQUVxTzM4Q0luYm12SHZ6NjBBOTVXRnc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:33:52 GMT"
-        },
-        {
-          "title": "'Task' Season 2 Is 'Mare of Easttown' Crossover With Julianne Nicholson - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEVwREEzR1o2eXNyNFB0ejY5Y1U2elk0TDRGV0hFMXgxUFlpTHJhQjZpbWhIcDhISkRqMFU5Qm1QZ3NNZUQwQXg3Zk0waEVpbVRueEt4OVhJNG0yVkFxbV83ZHRCczJ1SXp5TlE5UGRkVWdpQ3hTV3NYOENNblJwSWtjVEtNdG9FdEZNcV9pb1JGSG5uandSalVWcGJjcV9EN0xVX2lWaw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:30:00 GMT"
-        },
-        {
-          "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTQ5VzJpdkt1RXpVOTE2VmpRWUREUmpxTGxoeDNvOEQ5ekRnM0dkVDZ2alctTlJLYUk0MlZHSmFaYy0xMXQtb25XcDNXbXc3RWx6YTZfRUlfaVA4WHFoOGNRY0ZDc0Z4VXd1TzNjNWhMMW9wWF9Gdk0yNXRKbFlvSmlNV0hUTTdWN19DcnBCZkxKRnZrNnp5TnVrZ0NUR0xDaU53LXlR?oc=5",
-          "published": "Thu, 09 Jul 2026 18:18:09 GMT"
-        },
-        {
-          "title": "Moana’s Record Rotten Tomatoes Score Should Give Disney Pause - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGgybnFxUzlMeVBvS2VpV3RKRDVqYWE0R01vLURNamVHWnd4OUFZT1hkaEp2b1NTX0dmY2pENFVLUTY4OTI1azlEem1ndFV0UGRUTEppLTRIbjVjUUo1ZHNfb2FFU0lRQlFMaUlqeVNRRG52X1hNTldLUnZOOU1BSXFqa3JiaWw5UmhXM3Z5cUFnclZaTWhlQ29kRFdUUFRHTUQ4UF9CNkZDSFRKakJIeg?oc=5",
-          "published": "Thu, 09 Jul 2026 14:04:59 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

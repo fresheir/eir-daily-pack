@@ -1,260 +1,43 @@
 {
   "market": "BG",
-  "generatedAt": "2026-07-09T23:10:31.096690Z",
-  "validForDate": "2026-07-09",
+  "generatedAt": "2026-07-11T00:01:52.996561Z",
+  "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "\"Този с чашата ли... никога\": Мартин Атанасов съобщи за отказано участие в Би Ти Ви след намеса - Dnevnik.bg",
-          "publisher": "Dnevnik.bg",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUzlvWTZPVWtlYzZfOU5qR0ZZT2xtS0p0YXZYYk50ay1mOVJjeWE4dFBmUU1EQ3J6SklOZll0bmZ1STBXbGtTUnhfY0dId1hSRG1EOGtHdFM0bUIwUGF5UXFLSnNEZVhIWHJyMzNaQWtRbmZRSXEyS0RyWEZPV2JBWXM0eFVDbVVnbDI3ZEJLQ0lWVVlIdW81UVJmRGNrcnU2ZzJMSWgwRGk?oc=5",
-          "published": "Thu, 09 Jul 2026 10:36:00 GMT"
-        },
-        {
-          "title": "Радослав Рибарски: Замразяването на договора с „Боташ“ е глътка въздух за „Булгаргаз“ - bTV Новините",
-          "publisher": "bTV Новините",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS05kTENhRUNmbU0xWU5CdElmbGljeGNqWmJpclYyUFVPVm1WR0c3NEdMWVVPdzZtZDdYNEJNRDhibWt2LXdlbHhvMlQ5T0xrZVpmYW5JMWMtdFNaWUV5a1Y2UENjNUowX2xlNDl5UHR6UDNtUXFRNUFfVUNsVEVRWk00Q0k5N1ExRUdpZURvNjhURlNlNXpsRllqTzRHV1B1YjVpZjgzR3NoMzZ5emxmYXpFUWVpbXd3b3k3WFdXeElsZzV1MjRqTU9HdjRyQQ?oc=5",
-          "published": "Thu, 09 Jul 2026 05:33:00 GMT"
-        },
-        {
-          "title": "Калин Стоянов подаде сигнал до прокуратурата за „трескаво заличаване на следи“ в МВР, ГДБОП и ДАНС - Nova.bg",
-          "publisher": "Nova.bg",
-          "url": "https://news.google.com/rss/articles/CBMi7AVBVV95cUxNU25wMUpHNFZQa0RLRGdKNjIyQVM1Wk8yRDl4c0pnOEFPdFVvZXRJWDdlNlhLYzhYeFZGNlN6WGV5WmN0SURRMTMtT2hhQXdOMXM5LUJTWHFDdGxzWkloYVdDXzdiM2FuRHR6WE1mS3NYOXU0OFpTTVNobkRoaENFYzUwcm5lLTJrVDBwTUNPdVBOODZhMm8wT1BoMGFXU0t6d3I5WGVwN3hzN1RqeGM0ZkVXUUdkWW95WkdKeHNaRkpLYWdrVHhYRVJ6UWk5NkttSk1adFhLMDFsLWdqS1hRZEpTS3NKakh1NXNfcFVJclVBdGs0Q2V4ZlZVd2lFbVQ5cDQ4R0RKYjlrcDZraG5PNGs1VWhWdDhyWURmdnlTWnZuSjNCcHlkT2k3eWttc0V1Sl9BSHNoV1lsal94b0dxRWM3S0hicDdueGJDYWUwVV9aV0EtMUI3Y1lnem1PYm54U0I3a2VrMjR6eGtfcXM0d0VaS2xRN1QyLW5JdGY0UlQtcURsRjNQUjdQSEphZTJtVEltWVBFRHhZanN5d19IcmVaNWUzaDU1RUVDb3pVZEJrcDZDdGxpaDZuMXhUYXFmUFM1T29zRHhRZmpRa3dqWUVXZnBOTTFaMzJ4WXY1SE1MS2p5ZVVJdGIxM3JObERISE1qeU8tcXplVmp1ZkVnTFY3T0RBd0hIRkM0eVcwdm1jVlpHeUt4WVBadkh5TjV5d0VIcU9tZjV6Q1JSbWJNMDRHSW56M0lrRndwLVhaSWtaUmZDMHBfWTZvXzNTNUJ0ZG5iT0RFbmRzUWNfUWtnSVBXcFJMbWNhZGhXMG8wT2F0NUo4N1VCdEhQdUNwMHNFOFFyOWxqaGtMeHFFU0s2Ni1HUWQtMTlPMnRHbXV6YURHc0tIbGtmVVlxTFNaZXhPZnVrekRUWVBTbEJKVTVTS1NoNGRDOWV3Wkp5WExWU0ZpU3RCQzR6WFV2c21SNGVPQ1ItN091RmREYVZY?oc=5",
-          "published": "Thu, 09 Jul 2026 07:00:00 GMT"
-        },
-        {
-          "title": "България няма да налага вето на санкциите срещу Русия, имала само \"резерви\" - Mediapool.bg",
-          "publisher": "Mediapool.bg",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX3A3OU9ac2NpVHRTUlUybTNBVEt5VVdXTXo2RlgtLWwwXzBEbWNLNzR5QXpVbXN4cFRRMk9DQ3cxS0V3U1hENW5kZ1VuZlJTTEdrTUtTdDBHWGd2NVJ6Q2dIZG55amtRdmYyamJZaWVGejZPbGU2VUpUWTkwYXByaTZrZzlzVWk0UkRta1FxbkF6TGszd21aNUdyXzdWRkpXanl3MG1HOUhnNnM2WVdpcVpoa1NDVUVNTlE?oc=5",
-          "published": "Thu, 09 Jul 2026 15:12:31 GMT"
-        },
-        {
-          "title": "Десети ден издирват 11-годишната Наталия. Доброволец: Асен се е опитал да запали нея и майка й - www.24chasa.bg",
-          "publisher": "www.24chasa.bg",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wOGZQT01WQ1BJbFZoa21EcjA0c3BKcUQ2N182RVVJTmx1N3BWZ2pSRXNsOU4zaUFuTFhJMWtHd0Ywdno0SlVPeWVNZE1uVFNqdGpQXzJDaUxLR3Bt?oc=5",
-          "published": "Thu, 09 Jul 2026 04:48:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "От петролна сила до недостиг: защо Русия остана без достатъчно гориво - Dnes.bg",
-          "publisher": "Dnes.bg",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMEI3aHBBa3Z6YXJYN010eUo0ZF9zaV95ZjFLdmtHeUdsUkNiYTRNb3o5ZkZwZEFNQ0ZYcF9zUDJPLUJicXdjZVNGU2hUeDQ2bENhWlFheW5xQy1sWE12XzVTeVBDWEFQclppbGExNzBFckJ1R0dXLUxvMVQzYW44VWpTRHBzVy1HSkV2bFhSUTZ6UnJKb1l5bnMzWVd3eFdoNXZmVWRsNEt5LS1BaWc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:00:00 GMT"
-        },
-        {
-          "title": "Тръмп възнамерява да засили военната подкрепа за Украйна, за да й помогне да постигне пробив на фронта - Mediapool.bg",
-          "publisher": "Mediapool.bg",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbHhYX0xGbUhGWVA2NzZuLVh3dEZmVzg4OW8zLXo3dG9zS055LXBoR0MtXzFZMmJHbzhFZVpUeUExSk1aampiMFFtWnBlV1RtLTdQamFDcmJVaDFkWnlsZEpsdS1NX1JhOTRUTWk1akxTcmEyVEd0TTM5aUg5V2tTNW12UnRkMEUydENRTS1CZmlRSTcxNGYtLW9ic3RFdmdrMEpXY1FwWjFHdnNNVVBaMzlOalo1d1pGTGNicWhNZTRkS1lqNnAtV0haV3RGWEhEeGNpemVMVnZ3UW8?oc=5",
-          "published": "Thu, 09 Jul 2026 10:56:19 GMT"
-        },
-        {
-          "title": "Тръмп смекчил тона към Испания след заплахите за ембарго на стоки - News.bg",
-          "publisher": "News.bg",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRTNTZ0l5UEJYVHdKTzJsZ2RXN3RUZ2FsTzVTRVFUY3dORE1yMDBQRWd1ZWZRb2JIcngyVnQ2N0FWcDNPOXJUNnh2ZklPNmtoNWdXNXZTSXZtX0FvbjU0YVVhbUl0VmNiZVVTRFZSeGdYWWswVDB6YXRLUlhPcjJpV29hZUVPdWVEdV9jcmozalN6ZXhFQmhEY3Y0Z2g5TG8?oc=5",
-          "published": "Thu, 09 Jul 2026 17:37:33 GMT"
-        },
-        {
-          "title": "Първи протест срещу Мадяр е свикан в Будапеща - Dnevnik.bg",
-          "publisher": "Dnevnik.bg",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa0VQaWxxZFJpX0ptLWZtM2lvNEcwWXdDYXNzYnNXdDZqdEo3QU5XVDZPcDkwVXlfeHdCOWtjWjlHX1lVMGl4OTdYdkduaHRfOWpOMVhfZEhndmRndlN6NnRXMGpjTXpzX1R2R0lab2o2akFrSzhvMjRJSmxMNVo0VlU0aTZ3T3AwUjlvNnk0LU5laGd6Qks2M3ZUZE9JeVdD?oc=5",
-          "published": "Thu, 09 Jul 2026 03:58:00 GMT"
-        },
-        {
-          "title": "Нападнаха президента и външния министър на Иран по време на траурната процесия за Али Хаменей - ФОКУС",
-          "publisher": "ФОКУС",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQS1MT1o4NXlEbUpkWUNwN1hPZ3pEbmNjNXBHSTU0b2FSX3VvZDdEWXR1bXJSYVVZVG9mTFJCaUlhYTM4OGFrbWVRNG1PUDFad0xjOHdBdmpZOXY3aHhjMVZMRVE2ekpBaVlZUW1mM0V2aTJrTWctVUdkUkc3S1BlNDE5RzhtVEdYbjZqbGxhbERkNjIwZFJ4cFMtSGx1Uk10am05UFdPY2h3bnJXOTNMVERmQ05DZDB0UWxzQk1CVHBzTndQUG1EdmFQWlpfNm5JelBmWjFuNmlnWHZfb0pjMndCc3ltdw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:50:33 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Собствениците на Porsche могат да спасят Volkswagen от катастрофа - Investor.bg",
-          "publisher": "Investor.bg",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblgxX3k2Y1VieExSMmRzcVFjc2F3eXZER1FXckgzWTM4Wk9KWjdKcEdKSnRWNHNxSlVZaTNrX3pSUnV3NGlsbDk0WE5VcVR6ZUx5LUcyMndDWG9vdWdTcUdrTmpCcEJKWkg1WTc4XzFfSi1zSXgtNVFXS1RZUG5kZlNkbGRveWx4QXp4dng4aE1xbFdSME5TZ2hzYlpPSE1BVlJDMWFiY3A1OFVUcVZmZExR?oc=5",
-          "published": "Thu, 09 Jul 2026 11:46:00 GMT"
-        },
-        {
-          "title": "Dacia Striker: Достъпен универсален модел с приключенски дух - ClubS1.bg",
-          "publisher": "ClubS1.bg",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3lfbmlRNFIyX1R5UGg0eXRXcUMxblRlcElId2JkTlliVUZJNjJpcHJXbDZ3ZEJQQVY5NVFoRTFDVGpneXh1WlBYY2NoTjdHLWdxZWRWaUphaTBkU1hGNEFaaXhBT1pOckptZ1J0LVlLZ2p1ZkwwbUtZdFNpU3hQeXJscjdCNkdrbF9paWV3?oc=5",
-          "published": "Wed, 08 Jul 2026 16:01:02 GMT"
-        },
-        {
-          "title": "Само една германска компания попада в списъка с най-ценните листнати компании в света - Investor.bg",
-          "publisher": "Investor.bg",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSnVsakpFajRvdU1sM0M2VXJpVUdmS0w0d0VVOXpSYU9SVmhRRDY3YjlIRWtuUV9qVER1Qm0xeWpfVEd2Vmx2QloxeTMzYmJvM0RTVi1FOURkOTV4VTExVzFXd2FxNGFBb0VHSUhva3Y3R2lWdHRsbTBXZkJZdzNwY3pvUWljS0t4VE52bElTNHRSdkVaWHBRY2p6czVHYjh4Z2JRTlRub1F0SjZWTzlBMHFWbXBibEtmSEhWbHl0OEszUXZxMG9mLVMwZw?oc=5",
-          "published": "Thu, 09 Jul 2026 09:03:00 GMT"
-        },
-        {
-          "title": "Apple ще закупи чипове, произведени в САЩ, от Broadcom за 30 млрд. долара - Mediapool.bg",
-          "publisher": "Mediapool.bg",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnBVVnNDelF3Z1pST3FIVlNxQ0lZcjl5eldoRms1VlJfNng3Uy1IeUtCcjdJb3paeUpRWVl4YlR3d2ZNeW1oNS05elFMek9nb1hDUlhJOWpxZndjVkVZQXk3NTNBeTQ0UkdGd2lvSWw5aG1wWW1VWnFtZWc3NUxsNTVPYjJEMmktN0ZtLVZfWkVJdlpWd1hYOXZoUl9ublE2b1lGV0w1UllwSFlPbHVyWGVINXdCOFk?oc=5",
-          "published": "Wed, 08 Jul 2026 13:57:18 GMT"
-        },
-        {
-          "title": "Stellantis: Стара Panda спасява Autobianchi - ClubS1.bg",
-          "publisher": "ClubS1.bg",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04emJ6MHh1SS1sMHFHMFpwTUNtVUl0VXRNcVF3Y2ZnSjUxREJpMzNnRkFrdzhFTW04Tmk2RmhNenl5UndETGxzYjAzV2NTbTRWa3VNXzBqaDdfX2hMRVJIejlTekl5cjJ4WXI2ckU5dVFRWHUxb3c?oc=5",
-          "published": "Thu, 09 Jul 2026 06:00:35 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "ЦСКА се завърна в Европа с победа, но има още работа за вършене - Gong.bg",
-          "publisher": "Gong.bg",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU2hwRGNOWjMyOTEyUkRvYks2bkZxTXQ1YWsyMmZJekNJSWVwMmYxM1hRZnhMeGE5OU9hLW9CaWpGR1dZVjRWNWNIMDdQVlFiSE9vOFVWSThKX2pCV24yZW5zRzNXZkVjNjRNbFF4bV9PV2RIcHcwV0FVNVBqQjU1YXdaNERrZHlFQnpnVHhEQUNXNmVPMF9WZDQwcjU0N292OUR3RlN2bXhsZkRrZkJYVUZLUkh0Zw?oc=5",
-          "published": "Thu, 09 Jul 2026 19:53:17 GMT"
-        },
-        {
-          "title": "Гледайте четвъртфинала Франция – Мароко от 23:00 ч. по БНТ 1 и БНТ 3 - БНТ Новини",
-          "publisher": "БНТ Новини",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGUzZ1BoajBncHNHZG9RYkdkV3I4cVMyM1dLZUVDUHFiSkJJZTBJYzdtVXJsa0hiUkRvWE42SzdVR3dkdjl5YUN0MENUMW1UZzVtUExJcXRIcjI0S2lnWmltbzc5VVRKWXdHdXVYMk9ILURyVTRkLTUwTnBJN29qd1RjVUR0SXQwazFRNXAyclRqVDRjS1JMTElVMnRHSXJxdUZLX0s1TkdvSzM2NUV1TVdZWnhqbk5jZXc?oc=5",
-          "published": "Thu, 09 Jul 2026 04:50:30 GMT"
-        },
-        {
-          "title": "Свободна продажба на билети за реванша с „Борац“ (Баня Лука) - ПФК Левски София",
-          "publisher": "ПФК Левски София",
-          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPZ25PSFc1ZTl3STI1eEZzQlIyRHMxMHlWbjVDT3BHLTRzdjlwSy1jV0JjNXNDSzVwbDJQUmgxU1RRNDM5Q002b3lsOVhIYUlhWmNSTktFNEtua1JxRy03OU5jZFBDUnNiYk8xblRlWnRkWUZlU3pUM0tndXc4dGZySmU1cnQtcnBsVGxzXzRFOE5qdFFiak1zdGVwZEVfaDlnQ1p2dk41cHg4dml4YXVTVWU3QVlPS0NwcUpRMXJnUFVMVEpsT1V4T1J0SlVCY2s4WjctVFlyb2l0QW8xUVlGaThFU1J5c3RISGJ2WGRkR0J4WmZJM2RlVlF6ZWk4NGEtdFdGN3BiUGxCSS1WYk1nTmxBZDFXSG9aeUI5UnR1SHBZOFRGNEpuNDcxVFVnRnhsYU5GeHpIa1BwQzhEdy1Z?oc=5",
-          "published": "Thu, 09 Jul 2026 09:08:26 GMT"
-        },
-        {
-          "title": "Днес започват четвъртфиналните двубои на Световното по футбол - Mediapool.bg",
-          "publisher": "Mediapool.bg",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQU9RZ2h1ekdSSERXVHFzX0d5a3llOG5wZkt2M2puU3dpYlhCVGNJRWlSNUpjamVpdDM5dEt1TWJqVVlRanJnQjBwYU5vLURRVXJiY0FyVVd4RWNTYTM3SVNuSHBxd3Rybzc0MUp6ZG9qMUExX3h4STNLLS1TVjEwMEF6WXFQLUZnQzNaRzRjSVVCT3lDUWlSNWgydi1nTlpxbmN4UkF1TQ?oc=5",
-          "published": "Thu, 09 Jul 2026 09:47:12 GMT"
-        },
-        {
-          "title": "Лудогорец има нов треньор - Gong.bg",
-          "publisher": "Gong.bg",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wYllHZ2lRRThzbUc4ZDJhaW5GYm9tN2lNVTZMNll4RkJWa19hZ3c5RHpTclBKVmJ2MnFJTUo2Yll5TllsUHpSLVBnaldwdTFKaHpmaXZIT2hMbGlFMEFPM0NqdGU4WEw5b0V1MnhQUHRBVS1oc2VLVlJwSQ?oc=5",
-          "published": "Thu, 09 Jul 2026 16:51:40 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Огнен ад в Русия: Дронове атакуваха петролни депа и танкери в Русия - ФОКУС",
-          "publisher": "ФОКУС",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDFYeHRGWF9jSWktMUI0b1hsbTZfOHpveHo3V0VKMGpVLURGQnpLZ0tuRi1MTkpSNlFKSWtvaE5yWmVWb2RFb19IeG5kbmpwTHVMMzZ5UzF3ZnA1WW1mZnRMZnVZa0JVT2phTWpMSmRRTVdrS3hzUTVySjExMURDazlrQXcxM3M4RWRLck5zWWU1UENEcFlpdzNJNFdMWmxEWXpydzV5SDN3YXpOMkJFMGI4R2stMkdPRWdFNFlRbFg?oc=5",
-          "published": "Thu, 09 Jul 2026 06:47:20 GMT"
-        },
-        {
-          "title": "Германски дронове за Украйна: защо ги критикуват - DW.com",
-          "publisher": "DW.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVzVyTHJYMDNvUFZNc3N4N2RKTkM3ZHZYS1ZwSWViZmZFand6eVY3QnZvY2ljQmdiaE5vZjlGLTB3Q2NzS2VsRkZkT0JuczJQVWtQSHFPRXhQdWpWOEI2dWV1T0I4WTRZYXBKVWVjTklkd203VjA1OWdKaU9Zd2xQN3BjZ084RVHSAYcBQVVfeXFMUFJnSFY5U0hYMzR4Y2pBYWVTLWd6b3lfOXpVbEhKdWVPcHpXN2Nlc1dYLWN4a1RWeEFMVFlDb3JtU1dHdEZpSnlpd0VoYlN3M25iMjBNeXF6WVZHQnREalRaQ1U4OUdxUzg0RHVfWkhQR2dzRnV1SDVycVEwa1Iwaktpd214cm1R?oc=5",
-          "published": "Wed, 08 Jul 2026 10:09:45 GMT"
-        },
-        {
-          "title": "Полицията за изчезналия шеф на хлебозавод: Няма данни за отвличане - www.24chasa.bg",
-          "publisher": "www.24chasa.bg",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NWHVTdzBCNk0xM0NCb0VlX20tb3VWQUdXUlc0N0lwVnVKRHFjUHIwMEhZU1ZZdkNVUXJZM0hFcm04ZlFCNUMxeHZCenh2eEhMc1RYOTI3T1hpTnVS?oc=5",
-          "published": "Thu, 09 Jul 2026 10:55:27 GMT"
-        },
-        {
-          "title": "Кралят на евтините семейни автомобили: Представяме ви новата Dacia Striker, която пристига с 4х4, 3D технологии и цена под 25 000 евро! - Fakti.bg",
-          "publisher": "Fakti.bg",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRDlrZi1UOTdkaXZzdE5qLVVzMWtRZzRBMWtORDdMU0RRc0pxSDdWVmZ3LUpVXzNCeGtLdG9KTk5XR2dfbENKcDNJNTRidDNQUExBWndiNmd3VWZCNFZNY3RmcFNCUExkalAtS2NrX3BQTzlLYkhwSzZaZXc4eS1NcTNydVZ4RFBPRlhNdnU1dGs2dzdXcDV0dEZjdHZxUDAydUcyUHhsZUYxTW1vZlZuZGJaaWx6blBqT2dHcnpqdXpaQlNsTGZyZk5OckxzMGlPczk1T3llcXcyZlk1el9zSFp4QnliQzBlaktGTklrX2NIamM?oc=5",
-          "published": "Wed, 08 Jul 2026 05:00:07 GMT"
-        },
-        {
-          "title": "АI филм за Левски \"със световен потенциал\" отприщи вълна от възмущение сред българитe - News.bg",
-          "publisher": "News.bg",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWQxV0F3ekFCRXZYMVA0Y2pVYl9iY1VFTzlveHBuVUpROWI2M0xBaXk3a3JNLXpNYUltR2R4cVJfU0w4VzRlMmVyTEdOZUpodVBtUWdCMXdvSjZ6dWdvN3o5dWpWQ1ZOY25PRnpqRVdlbWdXVWpsMHc1N2NKZGJYXzRVdUFfM2N2Ti1nUjN0ZjRvbEVXQzJxTlhjWjI4QTltSjktZFhVYmhyZnp2OW53M3RWMTlZZ2xh?oc=5",
-          "published": "Thu, 09 Jul 2026 09:51:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM - SiriusXM",
-          "publisher": "SiriusXM",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTFoxYVIxRjc1R0lkM19yM2VWdldEck9HbVQ5Q0FiNXktbHlibi1HZjBDc29yRjlHbEJyUTVCSzdWR1BMVzk1N3pLVE9VY3dfdDQ2cFByU001UC1neXZKUGh5VjVnV2dfMXc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:50:34 GMT"
-        },
-        {
-          "title": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
-          "published": "Thu, 09 Jul 2026 19:55:14 GMT"
-        },
-        {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Thu, 09 Jul 2026 18:23:00 GMT"
-        },
-        {
-          "title": "Mexico vs. England sets new record for most-watched soccer game in U.S. history - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:42:00 GMT"
-        },
-        {
-          "title": "Scotland soccer fans donate $15K to U.S. students after FIFA World Cup - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXRhTEFzRVg1bldRZmhoRHlBRk5LLUpSTlRZZGZBeXdIMkxsM0xTaXJzWHM3RmFGVFZSdXZ3Unh0SUp4T3pmZ0phOGlEYUs4bXZQSEhyYjNUVzE3TXU4NlpSbjExRFVnRi11ZWFabjBENVN1cHBUeWdybXZXQ1dVVXFGMjNJSC04X3RLd3MzcTNVQk1iWkMxQzRnZ01hS09HaUw0SUNobk9LUXpHYlFhUlRJVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 19:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Emmy Predictions via Feinberg Forecast: Scott’s First Post-Nominations Read of the Race - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVhalF3dlZVLWZNSFEzSjdKYmxhRXFtano4b1hJSUFEd1gyOUhvMHFUaGJCRm5fTVZuSkNEdzNnaEpxOWx4d01ER3NDcXR4aW1rMS0waTlKY3dCOXFtekhXUExnX2YyYmFoQ0xqeE5sY1p6VmtVWWc0MDN2dzk0X2VhWEJHZ0FEdUZiOHY3NUtYTTg?oc=5",
-          "published": "Thu, 09 Jul 2026 15:18:23 GMT"
-        },
-        {
-          "title": "‘Heartfelt’ or ‘creepy’? Justin Baldoni video after Blake Lively legal battle divides PR experts - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlJQcS0zTkstYzQwc3RzS3VrenFPeWtxRkV1X1pocTFzQ01MNXpKTlNXMEt1ZW5XVUtBbWdZY01xOVU1Xzd5SzVVdXdUZkQxVERGUlFIZTJuYTFtaE8xYTd4QmpmS1V0WWJ1RTUtNjRlS0RlcWo2SWNVNV9RUl82akpqLUtqVklfNktPdXVodGtxR3dBZUVTcUtIcGFPd002ZUxMQUVxTzM4Q0luYm12SHZ6NjBBOTVXRnc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:33:52 GMT"
-        },
-        {
-          "title": "'Task' Season 2 Is 'Mare of Easttown' Crossover With Julianne Nicholson - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEVwREEzR1o2eXNyNFB0ejY5Y1U2elk0TDRGV0hFMXgxUFlpTHJhQjZpbWhIcDhISkRqMFU5Qm1QZ3NNZUQwQXg3Zk0waEVpbVRueEt4OVhJNG0yVkFxbV83ZHRCczJ1SXp5TlE5UGRkVWdpQ3hTV3NYOENNblJwSWtjVEtNdG9FdEZNcV9pb1JGSG5uandSalVWcGJjcV9EN0xVX2lWaw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:30:00 GMT"
-        },
-        {
-          "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTQ5VzJpdkt1RXpVOTE2VmpRWUREUmpxTGxoeDNvOEQ5ekRnM0dkVDZ2alctTlJLYUk0MlZHSmFaYy0xMXQtb25XcDNXbXc3RWx6YTZfRUlfaVA4WHFoOGNRY0ZDc0Z4VXd1TzNjNWhMMW9wWF9Gdk0yNXRKbFlvSmlNV0hUTTdWN19DcnBCZkxKRnZrNnp5TnVrZ0NUR0xDaU53LXlR?oc=5",
-          "published": "Thu, 09 Jul 2026 18:18:09 GMT"
-        },
-        {
-          "title": "Moana’s Record Rotten Tomatoes Score Should Give Disney Pause - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGgybnFxUzlMeVBvS2VpV3RKRDVqYWE0R01vLURNamVHWnd4OUFZT1hkaEp2b1NTX0dmY2pENFVLUTY4OTI1azlEem1ndFV0UGRUTEppLTRIbjVjUUo1ZHNfb2FFU0lRQlFMaUlqeVNRRG52X1hNTldLUnZOOU1BSXFqa3JiaWw5UmhXM3Z5cUFnclZaTWhlQ29kRFdUUFRHTUQ4UF9CNkZDSFRKakJIeg?oc=5",
-          "published": "Thu, 09 Jul 2026 14:04:59 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

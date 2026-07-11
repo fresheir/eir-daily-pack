@@ -1,260 +1,43 @@
 {
   "market": "GB",
-  "generatedAt": "2026-07-09T23:09:32.450946Z",
-  "validForDate": "2026-07-09",
+  "generatedAt": "2026-07-10T23:03:36.417955Z",
+  "validForDate": "2026-07-10",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "UK Labour leadership nominations begin: Who’s running and how it works - Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1NTV0kzaDZGMHFFcHpubzVoRUk3VDFzSHNYZm9vbFVMQkNoMW9hV2xlVm82N1NCSlFsNHNuWXdlQkJ3UVdyVzE0bTZ2ZjFIWG5EQjlvalNhMWZhN1dlRmtiQnZnR2ZzZWtJbHEyck1ZZ1VEajZkb3FFUll3YjN1cHY1OUZqYkxFY1JvdzJTN1lTUDJ1VHdrY3VsRHU3WkE4SnJBdmhCT2FPbHZy0gGyAUFVX3lxTE1OMDlkYVBoZWJUN1NITlJBYmEwRER5aTRtZ2ZRaTVrM1ZLZHc1YzlpRGhxRnk2NXN4VmVNdWMtRHRUaXRreUtfbkJHbHVWMTFzR0hGTHJRZVFseURKTG1HcFhoYnZjMklBcWdEYUd5YnJHQVc2S2NmendKZ2xrMm5PT3lsRWx6OVBFTVNtZnp0d0tjNFhZemtKTlRVdHJrN0kzcV9KY1huUEFNYW1yc3Vmdmc?oc=5",
-          "published": "Thu, 09 Jul 2026 11:44:17 GMT"
-        },
-        {
-          "title": "Police investigate £500,000 Reform donations from mother of fraudster who backed Farage - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX2MzVTN3WVF2aFF0RndQc1VrdHFFenltQm1aQTdmMkVFVktraTJ0clQ1WEVkclNwZTJLVlpsZTNGMFdGdkN1NzZQZFZxeFpjaDZfaGUwZnlPajQ4dDQtLTFHQXppdkNBNEF1OHdLMnFMUmFtQXVLaUMydGNncmpPODUtelpOSTZadXhOeXdsbFd1WDFBNzlfQl81V2gzNFpDSzF1c0lQUWx5NF9YcXRERUdtUHFMTW1TaldkajI2MVozVGZ4X082VlpPTVltMVk?oc=5",
-          "published": "Thu, 09 Jul 2026 21:24:00 GMT"
-        },
-        {
-          "title": "Grieving family 'had such high dreams' for mum and daughters found dead | ITV News - ITVX",
-          "publisher": "ITVX",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWhWWmlYWXp1U1pUR3NTQ1ZvTVlyOWNuNFlLZzRwOVhhaDdTdE15WXVoYVNVRjlBYWtGcnM0a3pnUy1sVEp1bXA0Qzd4MzRzU2RaZWVZZUdLbk5MaUdQSjJydEo0WEJfbDJBYUhqT25VODl5NHZjUGdfcG1oT1BXSmsxb1QzeVJUeUh5MnI0b0pJYmJLLUVsc0JOamFraGF6eVRFLUM2YXJmdng2OUFVX3Fn?oc=5",
-          "published": "Thu, 09 Jul 2026 16:32:19 GMT"
-        },
-        {
-          "title": "Burnham apologises for Labour's initial response to Gaza war - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82MjBWQk1xbGV6Q1hFZ1FHU3o4NFNqcmxwS3NMZmVWMXV2cG12WmVIaXZRaENCNkF2Vzd5dHEzYkVvRFlzb05NM2VUNnJYM2h5UUdxU2Nic1FEelQ0?oc=5",
-          "published": "Thu, 09 Jul 2026 17:27:33 GMT"
-        },
-        {
-          "title": "Pakistan must take back Rochdale ringleader, says prosecutor who jailed him - The Telegraph",
-          "publisher": "The Telegraph",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcGNTV09YRmZ1UGNacFJfb1d2X2hXUG85d0FkUDd4aWQ1QnkzN01SN3kyNWlyTUVUbTVZaVBlNVk4VW5SNG9ocmRaRVhBaU9oSGJxdnRjZUlDQTFVdHpLQVQtN0tuWEtxSXNfWWo0dEZjTGtKcTR5Vy0xTVNmUGVodnlmS2FoNm1HVUFjUzMtZnRhX2RhSXM0aDZOd0d0TUhFeDl3QmJyaw?oc=5",
-          "published": "Thu, 09 Jul 2026 13:59:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting - Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNTNGMWh4a2Vpd3VvX202NjR5NEJNTVZ2ZmR3cTdKVjZFYlFnZWh1MHFvUTdXMzZ4X3NFcXJySi1RTFFUWnNKd2c0QmVObm8zbkJoVzJqeS1YUmdZcDNvUFY3Ml80UFpTb3gtMzBRYTItS3ZnODFsdkJMWENjS29Qdl9UOS1NWDZCUzgxR0prTHQyS2EwMzZVZnZfUWVZcUNlOEFCUGN2dVFPUnpw0gGyAUFVX3lxTE5RWVFYdS1wNkYtYnktZUdxLUk2a3dyZjc0YlVHVWdUZ2RDcVItYlhVelFlVm1kcGtadk5TVUxoamJYekVWQXFJRXpYSHRuSDNWU2VVNjhzaHVCMndTbEJNRGpSVXF2SllYTTc5UnJldkl5RWQyUlV0SGxzem9nTHlYckxRMlZJdlFKQzhLU2RZX2VpbkFyU0xTeGJQczNiQksxeDlIclZ6SXdnVVM0SHBHbHc?oc=5",
-          "published": "Thu, 09 Jul 2026 21:41:21 GMT"
-        },
-        {
-          "title": "‘It was back-to-back explosions’: Iranians recall 48 hours of terror after US attack on port cities - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM1h0OXFaN05FWmVJSl9jcklwWFQ0TnV5MC1nVFVLeS0yNGRGaGFYVjNxVEU5UV9qdDhUdHVhSnlWancyMUotd01LU3hwbm9xbVpHbk5zS1lNQkNQVThKUzVXaWMxNEw5ZEkwTVpnTTVpb2hJMXRjZUxIaXhaVklRV19iYzk0Tmg3U093Y3pvbW1HeUVuRlp0dHBVeTg?oc=5",
-          "published": "Thu, 09 Jul 2026 20:00:00 GMT"
-        },
-        {
-          "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PSEUwMXFBSGlfT09JXzZ0cWkwb1p4S2FmcE4xQVV0TG9DVktHRWhsMHNOU3lSV19iU1hJMTBCb0YzRmpEYlIydWl6VEZ4eTMwZVNGZ1FtZy1oV1JL?oc=5",
-          "published": "Thu, 09 Jul 2026 16:15:10 GMT"
-        },
-        {
-          "title": "‘President Donald Trump Airport’ is christened in Palm Beach — but flight attendants may not call it that - The Independent",
-          "publisher": "The Independent",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy16RmNqd1U2TmdOTElXVDY5c0hJM3AwbnRCbUI4VTg2cDBwekNMLVVKdlhOS291aXQyc1g4NVZ5NFBuUFJhcjJmOG1rR3NoZlI5ek1rUmk4RnFfN1M0MjhNUkdQVWlGaV9SZ3gxczBsXzRfVHJrU3QxZmpRTTJBUkMxTXFYNHdyT3R3YTZQYXBBRnJIWGZtZDJ1cnI1QXZzYkktcGtVTE5UVlE?oc=5",
-          "published": "Thu, 09 Jul 2026 16:45:00 GMT"
-        },
-        {
-          "title": "Hols hotspot airport hit by major delays after summer FOG leaves tourists fuming - The Sun",
-          "publisher": "The Sun",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVk4VmZ2NXpWNzd4VEJIb0RLcFA0MjRQblVZcHc2ZnpYQ0wtTVRjS3NEQ0Z1cWV5QlhGT25sYWlrLUZOYkhnQkF3SmhQQU9kSDFtSVQzYk9kcHN4eEV5bTZiZXJOa2FBUHNrZEY4c2huemJQWXVfZm42d18wak51aHdvb0NFWkdQTGloUXRQaWlJZw?oc=5",
-          "published": "Thu, 09 Jul 2026 20:21:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Grid operator warns of energy crunch as heatwave strains network - The Telegraph",
-          "publisher": "The Telegraph",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWkzd2VxaGtPMGJQZllQZ1FhQUYwaER6eGtGanJmejk2Q3FXR1Z3XzlzVzdxb3FpLUNHRlVjbWdpd1lWQXpjTmVVeHgtX3dUSGszbjI5bEwwZXVySG5Bbk9OdXFCMkdhdUQzWE54a2VtdUF1WFdnNGhlemhtTzVxUHNxMjlkazQyUkktUXh3?oc=5",
-          "published": "Thu, 09 Jul 2026 12:55:00 GMT"
-        },
-        {
-          "title": "Exclusive: Big Four giant KPMG to cut more jobs - City AM",
-          "publisher": "City AM",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tc2poRk1ETWNueGpMaTVFNXdwN2s1Q0k2bUxpc1dZSk5rbXRPSlJFR2NES3lRQjhtTEY4Wmd1X3FWYlRjblJucnN6OFQ5RHFMWGRjNml5REZoamo1YVNVNldqV3Y4TUxTdHNxQmZPM3hDMzdjc2hNa0R3?oc=5",
-          "published": "Thu, 09 Jul 2026 15:42:26 GMT"
-        },
-        {
-          "title": "Wall Street set for bumper $140mn payday from SK Hynix listing - Financial Times",
-          "publisher": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVctMVB4Zzg1M3dVVzNqNDNpRi1KbkVreWZHcnRGWFl6Q0ItdEhGMWhIa2swNGRjcHhzRHVucDNwRTd5UHVZSExtVENUcW9jdHFnTU55d0tTeERCN21SYngta3p0Z3NpNnFRSHYwQ3Z5dEs1dzlPRlUyWVRrY2xlUXVGenI?oc=5",
-          "published": "Thu, 09 Jul 2026 12:12:51 GMT"
-        },
-        {
-          "title": "Capita expects to lose up to £40m over pension scheme fiasco - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFBzcVY5cHFONkdOYmZLWERvdlg5QUU3TEZWajFVTjNnVmt2X283d3NvQV9FaW5xQmJpd04xQXJIbmhjV2JacHhMTldINElIenFsam40TjlnaHdhdzhvQlk4WHd1VTJueFNVeUNQcGwxaGd6Nkpmb0pDZDE5MUdEWndJZFFLaXNZQzVfbzctaF9zRnVCZGtLMl8yeTc5bW1aX3dlNTZEZlVGcnF3?oc=5",
-          "published": "Thu, 09 Jul 2026 18:31:00 GMT"
-        },
-        {
-          "title": "AstraZeneca shares down as drug trial fails to meet target - The Times",
-          "publisher": "The Times",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEpTcUQyVHFoa2VLdGtBdlp6WTZzQ2w4akpjNW1uM0tLcUJ0T2JBZTJDOEFXOEg2cUtRdnFMYnZ6T1U5bDB6QWZlSE1UZnBkYnNiSnotNjVNbW5QTTh0VWotR1NPSXhkVE5DTTljS24zR3lhQ01iZEw2MHFfX05LSHlJd2pjODBSSzhfZHZuTmxTYVc2cGFtWnA4N0FKTnQ4ZEZ3WnVCMWhVaXBwdzBwNw?oc=5",
-          "published": "Thu, 09 Jul 2026 17:20:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "France vs Morocco LIVE: World Cup 2026 quarter-final score, commentary & updates - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jVlZuVV9GZGU4U244SXNiTEtUb09pZnU5UlQzQ0p3V1Azcnh4OS1LWHdoaWxDX1p6Z1phcFJ4MGwzcWItcnhiNnRNQWxaelpicmhpU0Q0a1p4SU9VSm1QeTRfaDk?oc=5",
-          "published": "Thu, 09 Jul 2026 22:01:48 GMT"
-        },
-        {
-          "title": "Jarell Quansah handed two-match ban by Fifa for sending off against Mexico - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2tHaE1fczVoYVQxWEpkamFyRzNIWkZ5VmRJc1F3d3hDekRjeUtlTjAtNjNZWk9WbTBzYWhLNUNEc2VTRGh3MndpekdxbVhUSHBFZ0gzWlN4VTFCWDlxSmNGQmpQRHBFNG1LTm1zRzRrcVlGM0hhY3o5cmM0ZW16WFFKQlZfQmYydGJuQ3hmdUlaMy1VVjBtY2Y5TlRKS1NTSTNVNGVDdXhtZ3hTYWZsdERZc0p6VWU4aUppYk5odmE?oc=5",
-          "published": "Thu, 09 Jul 2026 20:30:00 GMT"
-        },
-        {
-          "title": "Erling Haaland starts World Cup mind games with England - The Telegraph",
-          "publisher": "The Telegraph",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUlIeVc0WWR3eHNnZjRKUXRxXzM3RDNGdFVBVm91MjRiZ0dLWmRIV3pOdktXNHhBLXVvUV9jMGJQX3dXVFUwTm9MdGt2Nzk2RDIzdGxCeER5a1R6Q1VYenhoZEhra25PazZIeUhsTFUweV8tbHJVVVptMmZBOGNQWENVdTJfRkhkLWI4ZmFkeW9JNUVvaUdOV3VtM1Z1VjhicXp1ZTZJdw?oc=5",
-          "published": "Thu, 09 Jul 2026 18:50:00 GMT"
-        },
-        {
-          "title": "Wimbledon 2026: Arthur Fery's journey to Alexander Zverev semi-final on Centre Court - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16OTlRX0Y2RWlLREhKUndWUFZfcG5ad3dSc1l5S3VZdEdZei1YelpXSlJFYmdnWlVlTzh2YW02aEN0bXVsalcyRmJEdy1odmRCRzUtQURuNy1BMHZNcWZicUczc01fX3c?oc=5",
-          "published": "Thu, 09 Jul 2026 18:49:03 GMT"
-        },
-        {
-          "title": "Allies and Morrison unveils masterplan around new Man Utd stadium - The Architects’ Journal",
-          "publisher": "The Architects’ Journal",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQjVDTVNKUDQ3N1hfaXVGNVQ3OFBqOWRHNU1lTHM0ODBzQUlDRldPMnZZczVtN3EyRFE4UmxiMUtPTUlzMXlMZ0xQWnlSdUt5XzV0bDlfd3NsNWRJN3F0TEFYMXN2RWlNU3ZpdnZUX3c3S2NuY2NTbVMtRWhONXZuYjdjRDVjU2VZbW5JS1NjcDVBWXRyV21nTUgzT0lHU3VJMTIwMW5VdTBDdw?oc=5",
-          "published": "Thu, 09 Jul 2026 10:42:56 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "The Future Is Always Listening: OpenAI Says Its New Voice Assistant Is 'One Step Closer to a Truly Accessible AGI’ - Gizmodo",
-          "publisher": "Gizmodo",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSDBDSWdNblpaTHpENTI3cG5aa0NYZ0dFN3NUT0lMamNITnBhUlZXb24xSkV2Mk9HSXdOWGNaSHlzRFdGd0xoNTZKd0xqWVdaTmp1STAxWFZKWlNoTnZkMlBGcTdoWmg1WE5fYl9FUzVSRDBoZjA3MEw3dUcwZ0R0Z0VPNlJLM1FNaXk5MGd5YS1mR3NQM0o4NE1GWmJFTHdEYWdLQU5TV2pNQ0NyOHMwSnB6TFVNZlkwVHBCR1ZTYm93bkRQMzNsS0h1WnRDbXpoeDNCRFlBaEp0UQ?oc=5",
-          "published": "Wed, 08 Jul 2026 22:00:24 GMT"
-        },
-        {
-          "title": "Samsung’s Galaxy Z Fold8 Ultra said to borrow Galaxy S26 Ultra's camera features - GSMArena.com news - GSMArena.com",
-          "publisher": "GSMArena.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0hUUlFiUW8yb0hFZnNubVFMdnFKSzhabTVzTUlaa0Y2d2ltY0tkTFhxN2MydF8zN3pBSTF6VG5oNzM0Smhtb1BmVWZZQ3N5c0N3UFBhLVBLQzR1dkczZmhDa21lMVE4X3I3aE93WDRFQmFGNDBIQmYtWkVtYnhOcDEwSHZUNUJKbGxhbkhSOEFCTXRJdGo4SEM4WVZ1aDFHTUFpNlFlYTdtTEU0LUN3c3NkTlV5Yjh2bXfSAbYBQVVfeXFMUEFfU3RaRTdMbVdQWTNLQ0k4VG5QZkxsZk50cGhIZGk1S2FHZnpwNXRaU0lYSzU4WDVhNWNVQTQ4S0RZN2t6U2xtVUNvQ3dpMmthbXBBbXZ2d2M2ZkRZY0FodnR1blAwTlkxNFFlU09zcWJsTGkyZzNuQlprbDJ4aEtnNHZyTGtkTUlGTXd6Qkd6Vmw3amJtWElOSEpvbi1lcVUwamtfSTQtM0NlV0xZX0hpRDgwaGc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:07:02 GMT"
-        },
-        {
-          "title": "\"We really squeezed the PS5 as much as we could\": Ubisoft talks tech on Assassin's Creed Black Flag Resynced - Digital Foundry",
-          "publisher": "Digital Foundry",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb0RpeWk2dlFHQ3lIakJUeEMwemVpVmdwTDY4UDctRHByNW9BTjZEWE1XZWM4SjZiV2NCZ1Rtc1JrWkNLOU4teGdKbU1rYVFCdHlEc1VwTDFVUGxPVGtheDdIdVZOZVBkOUtzeTNEbGx6ZDdkd3c1RmFCaE1US0cyYWF1MHo5N1BVNlk4el9MWXF2WkM5dTB6T3laSmJWcVFhTlg0SFlISHdUUl9XbWZIRlV0TEdrTklGWXVnSHVoYVdEYm8wRDFMS3R4U1BHOTlHNE50Zmloa3I0MjdK?oc=5",
-          "published": "Thu, 09 Jul 2026 16:00:00 GMT"
-        },
-        {
-          "title": "BetVictor Still 100/1 On England Handicap - Newbury Racecards - Sporting Life",
-          "publisher": "Sporting Life",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSllpWld6UkJFaG4zYktISXVuRjZyLUc5em1RY1VUUVZKVU9oRTZMZW42VUFQNG5NdXlYSlVyR2xUV3ljeVJVY1pSWmRmMG02UmZGYVIwSzNRN2hDZlQzOE8zRnZ5NENpUlB2cjVyMnppNnhUYmVZUjh5cExYaWJ5ZjFBc3F1djVrdTJIcW15TS03R3cwME4yUHZXWjFONGV2SnlpMHhCNlFxZ0R3UTEwanRVT1RaNFF1MUpPX1VR?oc=5",
-          "published": "Thu, 09 Jul 2026 19:25:27 GMT"
-        },
-        {
-          "title": "End of an era: McLaren bids farewell to signature supercar with wild 788HS - Autocar",
-          "publisher": "Autocar",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVNMaUxENnlGbHlJWHZGcFdCXzRkdjg3MmlRaTIwZllKb09yZ1JBN01ZazJOLUtSYkJuM0xsS05WTjA0cUkxdW14MldqYVZGX056X0ZWSWVJRkFodlRveTlaM1NsdWNQSEZtcF96X1RfanF1azJYT2M2M1pzbE11UXdOVHhiSkJYRFZMWFp3UDVUdw?oc=5",
-          "published": "Thu, 09 Jul 2026 07:01:26 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM - SiriusXM",
-          "publisher": "SiriusXM",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTFoxYVIxRjc1R0lkM19yM2VWdldEck9HbVQ5Q0FiNXktbHlibi1HZjBDc29yRjlHbEJyUTVCSzdWR1BMVzk1N3pLVE9VY3dfdDQ2cFByU001UC1neXZKUGh5VjVnV2dfMXc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:50:34 GMT"
-        },
-        {
-          "title": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
-          "published": "Thu, 09 Jul 2026 19:55:14 GMT"
-        },
-        {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Thu, 09 Jul 2026 18:23:00 GMT"
-        },
-        {
-          "title": "Mexico vs. England sets new record for most-watched soccer game in U.S. history - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:42:00 GMT"
-        },
-        {
-          "title": "Scotland soccer fans donate $15K to U.S. students after FIFA World Cup - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXRhTEFzRVg1bldRZmhoRHlBRk5LLUpSTlRZZGZBeXdIMkxsM0xTaXJzWHM3RmFGVFZSdXZ3Unh0SUp4T3pmZ0phOGlEYUs4bXZQSEhyYjNUVzE3TXU4NlpSbjExRFVnRi11ZWFabjBENVN1cHBUeWdybXZXQ1dVVXFGMjNJSC04X3RLd3MzcTNVQk1iWkMxQzRnZ01hS09HaUw0SUNobk9LUXpHYlFhUlRJVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 19:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Emmy Predictions via Feinberg Forecast: Scott’s First Post-Nominations Read of the Race - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVhalF3dlZVLWZNSFEzSjdKYmxhRXFtano4b1hJSUFEd1gyOUhvMHFUaGJCRm5fTVZuSkNEdzNnaEpxOWx4d01ER3NDcXR4aW1rMS0waTlKY3dCOXFtekhXUExnX2YyYmFoQ0xqeE5sY1p6VmtVWWc0MDN2dzk0X2VhWEJHZ0FEdUZiOHY3NUtYTTg?oc=5",
-          "published": "Thu, 09 Jul 2026 15:18:23 GMT"
-        },
-        {
-          "title": "‘Heartfelt’ or ‘creepy’? Justin Baldoni video after Blake Lively legal battle divides PR experts - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlJQcS0zTkstYzQwc3RzS3VrenFPeWtxRkV1X1pocTFzQ01MNXpKTlNXMEt1ZW5XVUtBbWdZY01xOVU1Xzd5SzVVdXdUZkQxVERGUlFIZTJuYTFtaE8xYTd4QmpmS1V0WWJ1RTUtNjRlS0RlcWo2SWNVNV9RUl82akpqLUtqVklfNktPdXVodGtxR3dBZUVTcUtIcGFPd002ZUxMQUVxTzM4Q0luYm12SHZ6NjBBOTVXRnc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:33:52 GMT"
-        },
-        {
-          "title": "'Task' Season 2 Is 'Mare of Easttown' Crossover With Julianne Nicholson - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEVwREEzR1o2eXNyNFB0ejY5Y1U2elk0TDRGV0hFMXgxUFlpTHJhQjZpbWhIcDhISkRqMFU5Qm1QZ3NNZUQwQXg3Zk0waEVpbVRueEt4OVhJNG0yVkFxbV83ZHRCczJ1SXp5TlE5UGRkVWdpQ3hTV3NYOENNblJwSWtjVEtNdG9FdEZNcV9pb1JGSG5uandSalVWcGJjcV9EN0xVX2lWaw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:30:00 GMT"
-        },
-        {
-          "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTQ5VzJpdkt1RXpVOTE2VmpRWUREUmpxTGxoeDNvOEQ5ekRnM0dkVDZ2alctTlJLYUk0MlZHSmFaYy0xMXQtb25XcDNXbXc3RWx6YTZfRUlfaVA4WHFoOGNRY0ZDc0Z4VXd1TzNjNWhMMW9wWF9Gdk0yNXRKbFlvSmlNV0hUTTdWN19DcnBCZkxKRnZrNnp5TnVrZ0NUR0xDaU53LXlR?oc=5",
-          "published": "Thu, 09 Jul 2026 18:18:09 GMT"
-        },
-        {
-          "title": "Moana’s Record Rotten Tomatoes Score Should Give Disney Pause - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGgybnFxUzlMeVBvS2VpV3RKRDVqYWE0R01vLURNamVHWnd4OUFZT1hkaEp2b1NTX0dmY2pENFVLUTY4OTI1azlEem1ndFV0UGRUTEppLTRIbjVjUUo1ZHNfb2FFU0lRQlFMaUlqeVNRRG52X1hNTldLUnZOOU1BSXFqa3JiaWw5UmhXM3Z5cUFnclZaTWhlQ29kRFdUUFRHTUQ4UF9CNkZDSFRKakJIeg?oc=5",
-          "published": "Thu, 09 Jul 2026 14:04:59 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

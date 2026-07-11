@@ -1,260 +1,43 @@
 {
   "market": "BR",
-  "generatedAt": "2026-07-09T23:10:47.911831Z",
-  "validForDate": "2026-07-09",
+  "generatedAt": "2026-07-11T00:18:12.679930Z",
+  "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "'Pix Pensão Alimentícia' é aprovado pelo Senado e segue para sanção presidencial; projeto foi relatado por Laura Carneiro - Diário do Rio",
-          "publisher": "Diário do Rio",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU21QSXdjallrTFItV3BRU3RYMnNRRFcyVkE1WjZhZDNURUVxMk9SNl9ocTdZRTlncl9JdVBad3FJSWxUSEpWMkp2ZkpGT2RVTE4wV2hvSzAyY3ZXLVl4ZWpRSGZNTWQyUHhZMFhoMmdYd2pOeFVueU9Va0ZyMW9XVTd2VFlEd2VHdW91THlHSnppLWRTWUE3TVRIcXFiY2VoNjhzNktLbENEenU0NEZPaVpBV2FqX3dENGFBRFlMQVBPMTZFQjMwMVpOZzA1dGJHVm5BZ1psX2l2LTg?oc=5",
-          "published": "Thu, 09 Jul 2026 15:07:21 GMT"
-        },
-        {
-          "title": "Setor produtivo teme repercussão de falas de Flávio na Casa Branca - Poder360",
-          "publisher": "Poder360",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3NFMDFKSXVWSzFaUmU5cVBLV3g2UTBtTGE0emp2elplM3c2VlpOLUFHYW9KNmI0Q2NRNFVMSlVvVG4xZHV1VGphVTlHcDZmMTZkYmMxMEQ4MFFEbFVKd3dTdGNINHR6YTlCSXE4YTVXUDltWnZUOW8tYzR0OXljTWd4V2NHTGdhcjJTZVlwWjE5RldpcHQtdWFzSEIwSWNCVTFGWTgwQjRLbXZzaFdN?oc=5",
-          "published": "Thu, 09 Jul 2026 16:16:07 GMT"
-        },
-        {
-          "title": "Quem é a 'mulher da mala' que sacou R$ 3 milhões em dinheiro no esquema do Instituto Rio Metrópole, segundo o MP - O GLOBO",
-          "publisher": "O GLOBO",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdHNWN0FQV1pQMW5pdWJscjB6M1hZNURlOTB1Y3dMOXNfcGV4T2JKMTdmV2t2bXg0NWRZSzlTVDI5SzdsMURXVUI3TFRYNnZYTno1U2UySy1tMUNxQWFpQkVjNFBrV3IzSGtVYXFKSlM5Umo4cnFXRW4xcEVfS3pLcG1lbHMyUWpoNVhKd0FFQXlOanNkX1A2OTM0VE96NnJ0V1dCTk94anUwQlVWeVBBUVkxZ1prb1YzRFNCUVE0LVloNW1sTDNQU3pmdWFQa2d0SHZIc1ZmZzhEWVptUEZVaTVvVGYyYndjQmRaeXFJM0xtc0Va0gGDAkFVX3lxTFBhX0FneG9acnJCWWItZ1hkQ1A0VXlvcDZMRk9Ebjh5RzlzbFBFOW5kM050dHlUZzNBWVdGM05GeVpjZzZnbTllaXpvaklqMUM5cTZiVFdqYzBxdWlZVWw3dUszSUVzdlpHRmFXX1hZRWZnSHowM25kVWJtNW1ReEhObzhFcktoMVcyd05Mc29SN19tMGNrdWRBNkpveGpyQUhTUFVSeDFUSkN5Mi1mSXJxbDRJc04ydWowTkJIeU9iWjhDcWRZZFVfOFBCNkFNelVWR1JNeS1vWXdTT19QT2Nwb3lsNktPSUFrVUpiM2RpWURwOGptNUMyNlFYN29sTGQweFE?oc=5",
-          "published": "Thu, 09 Jul 2026 13:43:46 GMT"
-        },
-        {
-          "title": "Simões: 'Cleitinho teria dificuldade de pôr em prática medidas disruptivas' - Estado de Minas",
-          "publisher": "Estado de Minas",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN2pIbWw3QjYxaktwRnBuNTFNSFpPd0dvMU9zVFdiU1FGMUVaRjMydFpFcmw0dHIzUG81clphM2lOQy1DMXdfMmliUHdLM0thSTVMN3BuVWxGZDFPOXBXczdWbWQzdm5laTRIQ2d1VmZua3E5b2VlMV9XZk1yRHlMOWttR1JKOUhTbjU3S2xJYVZCSHRsalVxVy1XNTlyMHBZMnNCTXlsNHFpektmUXdxRmNraWxVdVduYjZOQUNEaHQtUdIBxwFBVV95cUxOSlMzSlZlMUxyZnhSMEl6V1VTNEttSWxCSkctZFF0NU5aX1lHZWdYTktwZ2tudzRJM05uTFJ3YUhtNkMta0V2NlhWNW1sa3V4LThHVk00U3hVM01NX3B4QTU4Q1RGVkkyRmNwM1BxVGp1Z3FCbVpqaXFaYWlCS1EzTmhjYVVCTHFmcmV2VWk2bTVTSi0wZDNsZE1qa0UzRmV1cFlxd3YtVzRlRzJLSHBXb0RUeDEwSk5ic3RMWnFRbjBJMjZjR1lN?oc=5",
-          "published": "Thu, 09 Jul 2026 16:12:00 GMT"
-        },
-        {
-          "title": "Aécio descarta candidatura ao Planalto pelo PSDB - CNN Brasil",
-          "publisher": "CNN Brasil",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZHpzbkJNbl9RTEs4YUx0RkNHOXZjZkZSazg0SEhyRHFDdlVadk5ROFFxR2FyWmxDVXg0aDVWUDlaYmFwRm5xRXFETG5zbExGSkdxVUt5MU9yTXdtakpucmVtbTJRRm1JMUpQYTh0MFo2OVdWOGo2MFZwREwxMHFEMldnbGwxd0djaHYyUEluNFE?oc=5",
-          "published": "Thu, 09 Jul 2026 16:21:06 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Intervenção dos EUA interromperá reabertura do Estreito de Ormuz, diz Irã - CNN Brasil",
-          "publisher": "CNN Brasil",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT21raXljY0VFR25Zd3d0Uzl0dHZRWG8za0k3UHNoSUxqd3BnSHpWcm9uN3NqY2lTV0FfZ3VpN0o5a2N3YllsZHZFb2lqNkU1Y3BLSUNNZ0g5QUFHZlRLYkdyWEFYM1E0c2VWVm1MQXk3YVVoQTJmVkF0LUJVNzJIbFp5dE82Ym5KTzVLLWYwSURmVC1CUkw4VTdZSkpXUFNzaVNQcWc2dzJObVg5Y2wzaE5ic3ZyRWs?oc=5",
-          "published": "Thu, 09 Jul 2026 16:22:05 GMT"
-        },
-        {
-          "title": "Em meio à crise sobre eleições na Colômbia, Petro telefona para Lula e diz que fará 'transição pacífica' - G1",
-          "publisher": "G1",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc1RYOHZaVHVpejFYZnZaUzN6a1lJSXJ1cmpWQXdXV2xUQ0FIWWl4allxZGt1OWpaUEh2VFZ2dHVUa0FaT1FmUWUtcVRyWGxCYVZnYVBNeURJMl9pYThTc29BdTZtTkZJRjdtbUZHdUR3bERCT29zWFpqTmRDallxZndjZXhCZlVaMjVxSVdvN0FRMmd3TkIzVFZZclV5eC1XMjVMMk1RWWdOakZZR19CMHYxU2x5S2ppLTVXRG5LSkQ4SzBlUVRvcjNMWkdhWmhUQW1MNWxHMlZBYlVuZTJ2NVNBS1QtalBqcklXM3FPWmNDQdIBgAJBVV95cUxPTkptT29ydTdRSy1SVmdKRnJ4R2NqQk04RGZLQWVtNW4xaVVpa3VRS1JSMGdyUjdOWXZrYVB3VkNGNnhneEF3V0ZiYWE1ZWlqaFdfalVRYVV1UkNYVzVwbUFtRXR2WmZLTldqYWlwdG9VYzhKTTdxMHM1UGlaeUFiaU12dWFpZjRfU2RYQlRlYmJGaGNZVEROQUN6VjNUSXRLOW1UTjRFZlQ3WG40ZTNpMmpmMFVCVU8xZnZRcmVZdmhBVXVhVGFPQUREOUZ5c2JPUTdpaTFXZmpXN0djcEJvQWd0SHlYZjdhdkduUjNPZEJ5SnFsVTYySGtrMXNiaWoz?oc=5",
-          "published": "Thu, 09 Jul 2026 20:37:01 GMT"
-        },
-        {
-          "title": "Como o Irã preservou o corpo de Khamenei por 4 meses - Poder360",
-          "publisher": "Poder360",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmgxTnZnaUxOWUY1RzlPT1NjcDR3R1llZUNwZ1J2bDRzRmZ6T3hGRkZGN2ZXNVNNdTN6azZUZnEyNGVZY1pCZnJRWEpvV2FpNHZXRFZSUlVQak96bTFWNTAxbFJpWWhKUk50NzR2RWd1bTRKdEJKMkFwaG1BZ3luR1ZGbXVjZmlQeXF5TFE2aURfNklMblk3bzFLOEQ1cFdsbGJr?oc=5",
-          "published": "Thu, 09 Jul 2026 12:05:10 GMT"
-        },
-        {
-          "title": "Mortos na Venezuela chegam a 3.811; país pede ouro a Rei Charles III - Jovem Pan",
-          "publisher": "Jovem Pan",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZzBmMmhuaFNXLU1aYUo3OWNNNnJYZl9ERXRRdEJ1SjY3aU9OVllIVC1ybHBYODJCUVF0dU1IRjE3UnlGSFJNaUx0MlgzUTdZZTFySURVVUt5Q2d4R2VfNWp2eVNTMmdzbm51ajNWbzZqRnBlTVJ2R1A1MFFNSGFrU3c4ODEwQ0VTMmtQSzlZZGtVdi1SaWhteXpCay1lcFU?oc=5",
-          "published": "Thu, 09 Jul 2026 12:34:43 GMT"
-        },
-        {
-          "title": "Putin deve intensificar guerra na Ucrânia, apesar de pressão de Trump pela paz, diz agência - G1",
-          "publisher": "G1",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ0FxTnY4akdNTDVRaUNjTGxTcDRubzlOaHJQS1YwVWpLd0FkektveFhJQzlUWm11NENSeG1MVDllVjdfV2lyVjA2TWI1cDlEOGhHa0hlZWQtRHhoc2pza1FDYzFYZ3ZRVUpzRTMyV3hVS2xOYlpIU21Zd05md1NPSUxJUGJGLURkaXRJUGVYazFkYjEtcnF3T1JHdlpTSzhkMThsamJQSE1PUXpsTUx4N0JTLWhJWG8zdmdMNnBkSnFsNWNyYWNDVXlFNUUzRkJVVlN4aVFyTkfSAecBQVVfeXFMTWVVNnp4RXp4cmpUbzk5bTdGU3c0eGx1dmlzSEFkSVVkdEgtRmlVWkt2YV9yUUZJQVRnWkFJbk8wbHg3T2VnbTEzRlBQc3BWV2l3ay11dUI4NE1xbzBMR1RXRkI5c01xcnJrR3pOUFN5ZHdjN2ZjamdoMDdrdnFnVm1XTWpYTFFuOTlQWWpsbmVLdVh6ZFVna3NQc1BiNUNLVjJ0ZFpfb3ZwWHJZR0l3enZBakVScGV6VzFFR0pKRkdXa0dGSTBzakRzRy1JelBGZmJTd2pRb3VwVVp1X1EweDJUcWxyYWhr?oc=5",
-          "published": "Thu, 09 Jul 2026 09:50:21 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Motta: Governo prevê retirar subsídio da gasolina após preços estabilizarem - UOL Economia",
-          "publisher": "UOL Economia",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdEthU09RZmx4VmJjSGhpdVd6dV85RGYwQUFtdzNULTJLU1pOWFFxdTRmU1BRRHlpSzRRLUkwZEFWQm9NbWVEYXFLa0UzM0hRRFlreU5QUlN6YTVqRkg4Y0oxOEV2WkZOa2NJZEtUSVpNR2NYUzFDaG1GUmVWZ2UxUFd5MVhyWGV0QkZGOGJJYm9icmx6RUU0SlZyWXltbnlYc2VvYXBNUEVkazdzdWRWdmRpc2VrbEs5Y08xQVVna2pxLTc1VzdtelZPSkNPMXM?oc=5",
-          "published": "Thu, 09 Jul 2026 18:59:50 GMT"
-        },
-        {
-          "title": "Ibovespa hoje fecha alta, seguindo NY, com ações de bancos; dólar cai para R$ 5,12 - InfoMoney",
-          "publisher": "InfoMoney",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPREF2dFNRcFo5aG5DUmFhanAzRlJEcnB4d3RGQlJSSHZqU3BFaVk3YTk4VnQtLURpbWZiMDdweWhNdTdjcWFFM1R2dDRGcUEyZmNhX3c0X3J3OFJMWU9CenRGWlpjOC1aTDA1QzVlY013QXNwMlppLS1QSGNnYmFrcmZSdE5wVzFOLWk0LTJSOA?oc=5",
-          "published": "Thu, 09 Jul 2026 20:52:01 GMT"
-        },
-        {
-          "title": "Correios suspendem parte de plano de reestruturação e adiam fechamento de agências - Extra online",
-          "publisher": "Extra online",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVTZSWHNLTVhlTDZvWkNsVmY2WEVLNUVyNnNsUlF5OW92X04zZndQc2Zadl9UMVA4cDJZOFgtTlJjc3gzWkduemNpMmVSM2g1SkFXOWtTQlh5b2YyYzZfYTBNVXBxTS0wT0daZXRwSzRQbl93b25samkzb1NBa254dnVKMTJMZnlaRkZxWUJSbmw4ZnJHTlRKZ1kzVm5HaG5acHR6RzZhT1E5dDlFOFJTR3lVUEI4d0gtRTJjRG1lQXctUUpvNW1DSGNqODJsRkZ3aU040gHiAUFVX3lxTE9GcHNMZUVsQk9zZEZLNk9kcWRseFN3Z2kzc21MSnFpbndfOG91Mkd6aldFV3FZUnNjNEJDczBWOE50OHJjYUQ5MFdRUjJfWktxVzFZSmJzQ1d6SkV2eVZYWjBwa1NxczNiMzgyYlhEZ0htUFBDVmRCaVRPcTVkMmJjdkZnQWtoWmNRei1XNDJLa2VZN3hRd1V2bHNrQmxkNDFta1NmZzlJcjEtMFQwUlFNaEM3Qkh2Nmd1R0ZKS1RWNndMQ0pvSHJMU0ltNnUwMkV3T0daWEw3blZxWXlta3hvSnc?oc=5",
-          "published": "Thu, 09 Jul 2026 10:16:16 GMT"
-        },
-        {
-          "title": "Trabalhadores do Grupo Oi advertem para colapso de serviços; alertam para o abandono dos funcionários e pedem a intervenção do Governo - ConvergenciaDigital",
-          "publisher": "ConvergenciaDigital",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdmc2bC1xLWNmajE0alBhQVBLVmFBeG4yOExGaGV5RWxrZ1dyT3h5RGpiS09wVms2LUNydkkzMzZ3ZC1GQnprRXBiSl9lWWlyMmt0M2dmYlZEeF9MSWFwcjJ6SUhGdnBtdGFQSXBLbWxsUkJNVUF6d2hJS0dGNWY3UTAxTGZmQzRwLXFiVnI3NFJoNmV5RlNWTmRXVkRKRTNCX0NJUjJLbjBZelEza2diMk5JcDFDdnpZbHNCemhTNkxta3c2X2Q4RXVGd1ZnYU9KRGhUT1BlbFUtcVg2cm9pVkNTdzkxQXVnXzV6WkJlTmlyTmh0b0M4YTN5TkRHZlZOZHJRTEZxb1Y?oc=5",
-          "published": "Thu, 09 Jul 2026 12:23:07 GMT"
-        },
-        {
-          "title": "Câmara aprova fim da tarifa mínima nas contas de água e esgoto - Congresso em Foco",
-          "publisher": "Congresso em Foco",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0xlYkZvdFlYUThZVlNsZ1BqX0F2UGNoRXFEemRNLXFJVWJIT1ROZGlzV3NrNUZLdkowZVVjVk9QT1Npc2hLN3NXaHJOZnRxbXNCRXZaMVNxcnREUVl6dXZCTEZNMUVhTEZPZVRPYXdzZ21EWDhPM0dDQWtXb0wyRXYxVkkzMFQyWnNPenZHVm9RYlV5ZGE1alJnX0ZNSGsxQ0E1S0t1VmpvQ09JRVJUV0RB?oc=5",
-          "published": "Thu, 09 Jul 2026 13:13:53 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "França x Marrocos: escalações e onde assistir às quartas da Copa do Mundo - CNN Brasil",
-          "publisher": "CNN Brasil",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWExYm96MnN6SWZqSzM3SWQ3MWt3bEtVSXFHdkI5eGRrV2ZSWERGd3ZfMDRrVlpHWEdsN1o0QkFKeURnZ2ZwQTFnVlRwWHpqUThkc1hiSEdxM1VkSHd1N3RUUXhFTmMwNF8xT01QanZSSjdKQ3hRcnVHZG5ZN20wQm9iWjItdVU0NVYzZUVMZG5UODNabVh5OFFtaFlsYmVFX3Q2cFc5WmIxNVdGa25Ea1c5Mmd3NkNwUVlZUm9RNVRQdHcwektvRmxHLTBtUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 18:38:10 GMT"
-        },
-        {
-          "title": "Santos define data para a reapresentação de Neymar após a Copa do Mundo - UOL",
-          "publisher": "UOL",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZVRnSHBoZzQ0bERkS3pRd1Azank4NkVKMk1iX3dqNzRJZ0xwbWM0SF85RHlvekd1WUl5bUlYQkFkRHl5azBBOUxPQTZOV255WnA3cXlQNm11UjBtSTI0QmlxTnNFd3J3NDVmcUw1SWtOeWFLcmRXV1JiWmMwZGNJU2ZUTHByTjhEZlhabW92Z3Z3TkhUb2RJb3d6am5EektqRlFMZHV3ajlFWHdycEljYUJXTUVpcEFTdG01RHNfQzRBejZvU0lHOHFvS01hdnBRd1o2OXdZTThrTVU?oc=5",
-          "published": "Thu, 09 Jul 2026 21:38:41 GMT"
-        },
-        {
-          "title": "França empata com o Brasil em número de semifinais de Copa do Mundo; veja o ranking - ge",
-          "publisher": "ge",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdTk0UXZLUWo4eFpZZ055U2NjREV0RXlmTVdGTmdSa0xtTUNYclFZMjI3cUtnei01a00wWVluSzF4Q010Rm1ISFZUMEZNMjVVemhwVjRMVnVGeXc4TllpNWRiUmlJZlhIbENiSVZNSXFPWkd1WnFCM0FNdFJkLUZES0RUYS1CaWsySjJwZ3ZQRGdhYlpvSXNQaUJva1phVlBJdThnUl9zMTRfTHBVZEh3UHBoM1JZT2FscnppUjdKZXdybG1tYjgtQ2NpZ2RDNjRQLTJxRzNWYjIyQzg3UlBxQVY0MU_SAfMBQVVfeXFMTzRzX3BTakIwTGZDQXc1YXhIM3VMZDlTTnBoNlR1aFBaTU1MQWZ3VTRYekNHV21zR3hSY0Nia3pqOEpmNjVYYzZFbmVaWmpRUUhhakNGa3k3b3RBbXFaaGoxZE5icWdoR1pTclladGxPSGV6MnRCVFBUbFp4LW9wMVZFdks0NXNNVWxXZWhNYklDYzVfV1FqRVFNN1hqNHRWWEJMWVRIeGs4X0UxMkJwOXNIYlhSdjhLb2dpalpxTzJ1TmVPcHE1bEJZdlc4SmYyWHdJV0FEd2NpTTFuUnN2UkNvOVpJTWpTRjFNQUZteDFnS1FJ?oc=5",
-          "published": "Thu, 09 Jul 2026 22:00:36 GMT"
-        },
-        {
-          "title": "Executivo da Fatal Fans confirma primeiro pagamento ao Corinthians e dá detalhes sobre parceria - meutimao.com.br",
-          "publisher": "meutimao.com.br",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOFU3aVV3TjEtX1htOTBVeURlUWN6VWlsVzZPdEdjSGw2U2NLZFVLLW1kdG1ocnVnQTdZaC04Q01CekF6SW5uNEVPOVQ5VElUWXRrZEZ1TU5FT2hBSzlzZ3NXX0V1U3UyRnNTSDlyUWpWd0VZdTJPYmgteTlXNkEyQ1lnTUU2SksxWGZ6cXVRUnROZkR6VU9panA4RWVNVzlUenpQRzdlRjNrNHlpQmlEcjNnTWZCZUV6VE1LemhVNm0ySkNvODlmVTBQS3Y3WlR1Wm5tZVpFU3lWSUFHMlV3SzhfUmlWc3JtY2fSAdoBQVVfeXFMTndXd2p5by02UEctOEd2YVd4RGhIVUptclJrQVE3dUNSNWJRYWFVZ3JJdVZReDEwUXBNWmJnbmtEOG9LRlJibERXcVV1YzZiZW1EUzRNOVZZbVA3TlRZUWtFUF9Lc205THRNekdIUXkyQXdaVk55QnRDbGRBOXI0UGkyMjdEUU45VzZYUjVab0V0b0FoRkY2VzgyaDZPU3BQb1N2NWVWRVFRUmx5ZVA5N1dmdjBvMjdTcXhVcUxFWE9TaW83cmZOcno3T3NvbHlpSlZ3MmJvT1pwLUE?oc=5",
-          "published": "Thu, 09 Jul 2026 21:01:00 GMT"
-        },
-        {
-          "title": "Julio Casares quebra silêncio após caso dos saques: 'Vítima de perseguição' - UOL",
-          "publisher": "UOL",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTkIzN1RHd0FoeGtoZkwtSGtEVHQzVzFnYjhLdGNkWnBCbEVtemRQenRhdXBGTlU1eElKUXZEYnUyaGlGRUo0azJ3TS1PaDAyTFdZSVF3azJVZGExTmZhV0t5dUdiak9zZXJOQ0k5ckhRUlhTeEJNUjBSMlRSaWVWTlNBeVN6SUZuenpaTXQ4WE9rY3dKTXN6a09tbi1rejBoRUVlb2UzaUhCZUpKSVZtdGM3T0lIYmY1MUQzQWtyUTY1U1RISjBraUpuV3hKTU0tMFY5Z3U2VWNlUHM?oc=5",
-          "published": "Thu, 09 Jul 2026 22:43:46 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Governo Lula notifica 37 fintechs que movimentaram dinheiro de bets ilegais - O GLOBO",
-          "publisher": "O GLOBO",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUngyZEVVZ1V2VDF1dVZ0NFJUNXRxMTg0LW5kYXhZdWM4OEtCWXF1QnNzb3psZllmNEdhd0FrdXpKOS1BdGZFTkVZa21HTll3Wll6RHF5VlZtV2pkSDVhdm9sNHBQNXhHLUxhaGUxN0VsVk5uQzJLTDhNbFh4YVp3a2lIUFBkZkJmSTEwRVpEUEFBTU42a3ZNNmFXWXM1dHc1aHVwb3g3NHFxYVlFRW8wM1R0bDZ2VXg3XzhSWnI0Z0xmejhHLTBfQ1BfYjZIamPSAd4BQVVfeXFMUGR5WTU0UmFZbWtITDNaanExeVJDa0JzOGIxYzJ2M3RqYkx4cUZDV3A4X19IZnJBRUZFT05tNlB2dnFmY2pTTHBKR3dKczlvRjVGQW96Q3EyYTJ4SlNMdm5jSnFRZERLQUwxWkNTUVhod0g0bmxabFNNMktHMGhYNEhkUkRfckp4SWFYakQ5ajIzc1pwcU9xZkRNUGswNGIyWWFuRm9ESzM1VEdNcFFHaV8xemN0M2JRWWdyMWoxUEltckYxT0QtRUJGVFVWYmd5Q01UZXFUc2hoUlMyN2VR?oc=5",
-          "published": "Thu, 09 Jul 2026 12:49:24 GMT"
-        },
-        {
-          "title": "Como radar com IA flagra motoristas no celular e sem cinto? Sistema já aplica multas no Rodoanel em SP - G1",
-          "publisher": "G1",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPb1R0VUZHVHh4SF9sbnZIVUhqYWphdDlXcGVUOEJMYjctdXhfTkE2QWMzT192dlM2dWdldTBzbnRiVm9ULTRzLTFOcTJ6YUZJaERCTFV2Z29lU3JOUjlscE1UQ2tZc1VZSzBObVZOMklMdDJzRjZzdkQxb3V1R0RRZUEwS3o0Rkg3LTNOa3V1VnpuRm9oSkY4OFBBTmVOR0Nhb0NKMjg3bWlXeXg1TFNaMkJDT05oR2xoZFR2WGJjdG9lcGxVbHdJX2hES1hVRGJfVDBPdHVQVkJEWC1KSVQzaEVNdkFEaHJlNWd5WU5jSdIB_gFBVV95cUxNM3FtQmp6aWRPNk9hMmptNG9HTlpaZHBwekdac3dYMThBdU1BTklMcEdNVHZOdFZkZkZZQXp0cjNFbU9xc0FLdHBpOXdBYmtZd0FwZ1Y4eUlINDVKWlNKN0VoUXBCY0NBUE9QWTl5NWkzX2JaWkVqOFR0SnRhZ2o5Q0NObF81bWxSRVNOV1NnUjBlSWxDSndCVjNlX0ZvSkpvLXUzOFhwcDItaHJJMmVabTU4VVFGVl9LS29UNTJwNzBiT2pScXFmeFY2V3p2a0lDTWN6clhSRldBWml2dEVsdjI0TDZZeG9SaGFTbWhqNlJ0Z0wxZ1dDUFdpWjhDUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 15:31:59 GMT"
-        },
-        {
-          "title": "Cliente percebe comportamento predatório e evita que homem grave com celular por baixo do seu vestido em mercado - Extra online",
-          "publisher": "Extra online",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWEhacTVvbXFya0ZSZ1hVeWJTeVB3Sy1HYzR2VzRXSWx2cjA4V0QxbXlqcE5Jc24wTy1DVHA4Ty1tSlhiSGhDNWM1eGxzSldDYTdwb0JrZzRlNjllY19HR19XcGdoRTNpSVBkYlI5TG51dmtPX2tkQ09NRHJ2T09lRXhhcXNRZHp1eXotZ0lZRXVibkFyVy1TUkxvaU9oalpucUxmYV90cWtUbjVBZ1huQWFKVk41LUxiTjdxWmNFaVg1a19DQlBGWU5sck9zcnVwQmFuZ2ZabUJQSWF6Tnktd2VyYVJJeGthdkRYQmJwWTJyaUx0OG1CcWxZaEM5S2VUSjd3eVFkTdIBlgJBVV95cUxPWThoQ1BrV0dNOHJubkdQb3A0WGRsTDRvbHdsZTNaTVRROVZsaWtHQjVvaG50LUF4ZnZPTUtVbGpUVVY2U1ZjNDF1SkI1MmxENndfZTZCbDlxSEE1bGwzU1I2QWxZTkJqQ045NGdacEI0eGczT3o0SW02bWVwQWxtZkl2Nkg4RVJnaFhSeHcweE00VjBwbWhFczRPM1AxSFRLeEN2ZF8yN2ZzWnlUdlFhcGowd0VDYVF3aER2djIwa045VHNacnduVGQ3dVY4anQtblBPaXdEOTVJUk1sQ2dRZmdQTWJVTlltM0N6c0MwdC15cEZMaWtmbXV5ODhuOG1tUmZfX2FNbU1pSUdVc2hoZzF3SlBJQQ?oc=5",
-          "published": "Thu, 09 Jul 2026 15:09:36 GMT"
-        },
-        {
-          "title": "Ataque dos EUA atingiu área próxima a usina nuclear, diz autoridade do Irã - CNN Brasil",
-          "publisher": "CNN Brasil",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdm5YeTl1RGtHcXhIQTlXTnBsR0htNDJlbHVQa3Q3UHVNRHJ6cUVuS1I3NGNjUTVyVFRRRFBmSDV6WmEtZzN6cVBzLUNwY05FTEpCbzNPVVRNWnR4bWdBTzJNZ0RGUUZxd2FpU2hJY2JxcXR6LUpQS2VTT2Q2RXM1UU5OUHNzTk1HYzhFbXR5OFh6bDZSNUZZMi0xb1ZZQklHR0dvV0M3RmlVZTlkYlFzOHJvY0MxUndD?oc=5",
-          "published": "Thu, 09 Jul 2026 11:19:39 GMT"
-        },
-        {
-          "title": "Fernanda Abreu busca disco \"humano\" em tempos de IA: 'Só tenho a minha voz' - UOL",
-          "publisher": "UOL",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWGJQMWtHTWE0dDBvclRiN2lGVzVTUHVqU1VoVThCWkN3Z1dIcFVZRFRtaDNFbmVxUDNwaFZ2WGpwMnItNm9aZVIyNVQ3bkdkN2VyenJDTE10QlE5MWFGSDh0LWsweWFyaDRSZ0ZRVjgteEt4RHRyREc3X0VVS2s2b0RYaU5qRGRGUGtOZVNDVllPMmpqaWd4MWxZT0ZUa1haODBsdzRabmdhNzc0dWZkZ3BUbjlkMzlwTXliQ0hBVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 08:30:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM - SiriusXM",
-          "publisher": "SiriusXM",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTFoxYVIxRjc1R0lkM19yM2VWdldEck9HbVQ5Q0FiNXktbHlibi1HZjBDc29yRjlHbEJyUTVCSzdWR1BMVzk1N3pLVE9VY3dfdDQ2cFByU001UC1neXZKUGh5VjVnV2dfMXc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:50:34 GMT"
-        },
-        {
-          "title": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
-          "published": "Thu, 09 Jul 2026 19:55:14 GMT"
-        },
-        {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Thu, 09 Jul 2026 18:23:00 GMT"
-        },
-        {
-          "title": "Mexico vs. England sets new record for most-watched soccer game in U.S. history - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:42:00 GMT"
-        },
-        {
-          "title": "Scotland soccer fans donate $15K to U.S. students after FIFA World Cup - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXRhTEFzRVg1bldRZmhoRHlBRk5LLUpSTlRZZGZBeXdIMkxsM0xTaXJzWHM3RmFGVFZSdXZ3Unh0SUp4T3pmZ0phOGlEYUs4bXZQSEhyYjNUVzE3TXU4NlpSbjExRFVnRi11ZWFabjBENVN1cHBUeWdybXZXQ1dVVXFGMjNJSC04X3RLd3MzcTNVQk1iWkMxQzRnZ01hS09HaUw0SUNobk9LUXpHYlFhUlRJVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 19:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Emmy Predictions via Feinberg Forecast: Scott’s First Post-Nominations Read of the Race - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVhalF3dlZVLWZNSFEzSjdKYmxhRXFtano4b1hJSUFEd1gyOUhvMHFUaGJCRm5fTVZuSkNEdzNnaEpxOWx4d01ER3NDcXR4aW1rMS0waTlKY3dCOXFtekhXUExnX2YyYmFoQ0xqeE5sY1p6VmtVWWc0MDN2dzk0X2VhWEJHZ0FEdUZiOHY3NUtYTTg?oc=5",
-          "published": "Thu, 09 Jul 2026 15:18:23 GMT"
-        },
-        {
-          "title": "‘Heartfelt’ or ‘creepy’? Justin Baldoni video after Blake Lively legal battle divides PR experts - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlJQcS0zTkstYzQwc3RzS3VrenFPeWtxRkV1X1pocTFzQ01MNXpKTlNXMEt1ZW5XVUtBbWdZY01xOVU1Xzd5SzVVdXdUZkQxVERGUlFIZTJuYTFtaE8xYTd4QmpmS1V0WWJ1RTUtNjRlS0RlcWo2SWNVNV9RUl82akpqLUtqVklfNktPdXVodGtxR3dBZUVTcUtIcGFPd002ZUxMQUVxTzM4Q0luYm12SHZ6NjBBOTVXRnc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:33:52 GMT"
-        },
-        {
-          "title": "'Task' Season 2 Is 'Mare of Easttown' Crossover With Julianne Nicholson - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEVwREEzR1o2eXNyNFB0ejY5Y1U2elk0TDRGV0hFMXgxUFlpTHJhQjZpbWhIcDhISkRqMFU5Qm1QZ3NNZUQwQXg3Zk0waEVpbVRueEt4OVhJNG0yVkFxbV83ZHRCczJ1SXp5TlE5UGRkVWdpQ3hTV3NYOENNblJwSWtjVEtNdG9FdEZNcV9pb1JGSG5uandSalVWcGJjcV9EN0xVX2lWaw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:30:00 GMT"
-        },
-        {
-          "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTQ5VzJpdkt1RXpVOTE2VmpRWUREUmpxTGxoeDNvOEQ5ekRnM0dkVDZ2alctTlJLYUk0MlZHSmFaYy0xMXQtb25XcDNXbXc3RWx6YTZfRUlfaVA4WHFoOGNRY0ZDc0Z4VXd1TzNjNWhMMW9wWF9Gdk0yNXRKbFlvSmlNV0hUTTdWN19DcnBCZkxKRnZrNnp5TnVrZ0NUR0xDaU53LXlR?oc=5",
-          "published": "Thu, 09 Jul 2026 18:18:09 GMT"
-        },
-        {
-          "title": "Moana’s Record Rotten Tomatoes Score Should Give Disney Pause - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGgybnFxUzlMeVBvS2VpV3RKRDVqYWE0R01vLURNamVHWnd4OUFZT1hkaEp2b1NTX0dmY2pENFVLUTY4OTI1azlEem1ndFV0UGRUTEppLTRIbjVjUUo1ZHNfb2FFU0lRQlFMaUlqeVNRRG52X1hNTldLUnZOOU1BSXFqa3JiaWw5UmhXM3Z5cUFnclZaTWhlQ29kRFdUUFRHTUQ4UF9CNkZDSFRKakJIeg?oc=5",
-          "published": "Thu, 09 Jul 2026 14:04:59 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

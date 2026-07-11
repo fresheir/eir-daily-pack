@@ -1,260 +1,43 @@
 {
   "market": "DE",
-  "generatedAt": "2026-07-09T23:09:44.511238Z",
-  "validForDate": "2026-07-09",
+  "generatedAt": "2026-07-10T23:17:41.556949Z",
+  "validForDate": "2026-07-10",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "ZUE steht offenbar vor der Schließung – Bundeswehr plant eine Kaserne in Soest - Soester Anzeiger",
-          "publisher": "Soester Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFdGQ1FKM3RINDBRUWtjWnRtcVFEWW9PYjlfZFVfNm1BZ3RPbnVpeGpsRldjUG5jU1dOUm5FZmFwckF0eUNJM25BdFl0VkxyeXg1STJORmlnT2M5b1c3YnRBeGN1RmFsd3JDTTJYTUtqYjY5VWlvSzU4Sk5yNWJPX29fcW1GcjRCZkZQak9CYW4yeDR4cENweDdKeHNfSzJYT2tXYWdvSDdoYVBpWXE3WUtSRFQ1RHFWS01sQWVPRXJuTWtBWXQ3RFJIRmc?oc=5",
-          "published": "Thu, 09 Jul 2026 16:04:00 GMT"
-        },
-        {
-          "title": "„Milliardenfolgen für 75 Millionen Versicherte“: Bundesverfassungsgericht stoppt Krankenkassenreform nicht - Frankfurter Rundschau",
-          "publisher": "Frankfurter Rundschau",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOThuNnBQOHBmcFpucWhxeDFaeGxXTGY4ZGhfRC1hSjNaZlZqTkdRaEx4RU9oNEZvYUN5TmhTRTIyc2sxZS03UVBCQnhTUXUxSzM2NTNLSHFrdFEtX05ZaVdrcHlkRTJNbUxiNFJRNXlYcDBPQWhQUUw1VndZMDFiZmpBYTlTTEJaQy1GOWROMXJLR0V2S3YyQ3ZBX1FVRkJQUVdwa2NVQi1RbERHOVdzekFaMzNfeUN6dnhIMTk0WUhOSGkwaEt4aG1n?oc=5",
-          "published": "Thu, 09 Jul 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Live-Ticker: Amokalarm am Welfen-Gymnasium Schongau! Täter soll Mitschülern schon vor Monaten gedroht haben - RTL.de",
-          "publisher": "RTL.de",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVFlDZnpBOTFHUEllWVZteWswWGJsQkgwUHpIOXNiMEo5cjI4NlhvU2NtaGhzcUZ1WjZON0pMVEJFRXJzTW9CSW9IVVhDV2xXSjRzcXdnMVpnSnVRdXNEMUlsVG9GN3hyX1luNHNVSGN4RjRpN0sxWTFXUXZxYmFndUNjSUZhUDJKQ0dld2RyUFQ0M1k3b1g4cFJYZ0hnMW9zbGVqcWFUN2p5S1BzQ2lfQm5QRkNzYkdaNHBwS0IwTktUQ19qelN0SVItdXF1UnMxazhOOVdLZU1WaXFYczFfOA?oc=5",
-          "published": "Thu, 09 Jul 2026 16:22:00 GMT"
-        },
-        {
-          "title": "CDU-Krisentreffen nach Falschaussage Rückzug von Kai Wegner als Spitzenkandidat scheint nicht mehr ausgeschlossen - Tagesspiegel",
-          "publisher": "Tagesspiegel",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeEtnWTRHNTVwbmtMOEQ3SjJrM2otT3hvRk5DRm1iSFV6bzRjWHlaSV9XWlpCeE1kVXdKZnF0d0V4SXB5WGFtUkJvUGxYTERqd2FhM1Bta2hNZzh6WnFqMlVsQjZDUk9RYlBsbDNUeFJWa2FKRFdia3JDVXZVMUQyVTRLTkVnOG54UUxGaFJiOEEtclN4eUFaYlpDRWliS1hUNjhYWTAxbTBERmdzVjRQNm9SR2V0Q0ZyQWU0bV91UVRYQWFHZlFFSmVQa2RYZVotY2xobEhHZmxFNkpLN2hNbk1aczNKa3RLTFRiWFJZT2FtZTV2?oc=5",
-          "published": "Thu, 09 Jul 2026 21:25:00 GMT"
-        },
-        {
-          "title": "Landessozialgericht Berlin-Brandenburg stoppt umstrittene Honorarkürzung bei Psychotherapeuten - Spiegel",
-          "publisher": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVFJxcFZ1QmRkY2NNaUVGaHpvOWFQYVZmSHpBT3dZR0daQlpEMW9RYXJPNVV5c1BGRTRDVUdIa1pvOHVQaXFydXVoeVZHaWNwYnBZcDc5enRIOVlUMGR5TEhGYThadlg5UERGMUJ6RzhocVJGZU0tQldLR19BN29nSXlia1BFbGxnajZfYkdsUHY5Q19TZXIwUVl2ODAwMWR4Zk96cjZQS1dUNGZjRzlrZnFtbzdpUUFPVl9BUWZQdHFsS2FwQ3N6cUxyU3lwXzF6QXYybDVPNEs0enc5dzRGVExJQ3JjMzRxUE5pcTAzcDViX19mMUF2UA?oc=5",
-          "published": "Thu, 09 Jul 2026 18:10:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "US-Angriffe auf Iran: Teheran könnte sich verzocken - FAZ",
-          "publisher": "FAZ",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUtsRGlEOEpGSzJuYVhYR3Q4WVFkdkdUelVqSnpDc0VEZXlZVFRPMmxyLTREU2ljLTRFdHVDcDRsTW1ZRWs2SHUzMTlLRU41VkNIOVFVN05saVVSRzJxTURPLWlDcHNxbXE3bEpZYjVWRGdMcktLOHdYZU1IS3lVN01McEVXeEwzbzluLWhVMTZsTnVteUR1azdJUjZVU2UxWjIyakVBLXNIMFVtTzhr?oc=5",
-          "published": "Thu, 09 Jul 2026 14:00:37 GMT"
-        },
-        {
-          "title": "Zu wenig Schutz vor Iran: Trump steigt auf RAF-Stützpunkt in die alte Air Force One um – und erklärt warum - Frankfurter Rundschau",
-          "publisher": "Frankfurter Rundschau",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkw1Y1E3RThqMW9RZjlmZy10WWZ2eUJjSDBOMWdNVG85dXRMb2otN3VfTUpoN0JrRzBjdVd0SDZnUl9fS0c0cDRSM1phaWNINF9tN2dmYWpZX0h2MVByVm16ZHJRLVVuank4UUFKb2R0SGVxWGtwVEx4Y1FsLWVLY3I0MHJrakxwckloTTJ0STVWdXo5eU9ldzJrODRfWF9keG44?oc=5",
-          "published": "Thu, 09 Jul 2026 15:45:09 GMT"
-        },
-        {
-          "title": "Schimpftirade im Nato-Streit Trump will alle Handelsbeziehungen mit Spanien abbrechen – zumindest Sánchez bleibt gelassen - Tagesspiegel",
-          "publisher": "Tagesspiegel",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNY21XbS0xdG8tOVRUdFk5elp2OTJnME5nVllQanI0T3ZSUjhoU1dHTUcxZEJRLVM3YXFHUjVJcExtVXZYMEtaSDN4R1JMeUdidTlmdmlhQ003cHE5NVQ1WElocXdGUkFwaG9BMlJXYXRpNWJ1VFNBMjh6VkhBeHJqTFZCS09UdjloUXJKLWZSVlRkQ2RkZVNEZVRhYTZJc2NhdDdxbXltcXBtSjJMZFdjdEdGUkF2SV9xSmZ0UmE3czRMMTZPaHV1eGhUaVhnYm9aRHNNTEQ5eUpLN1dGbm45ZzNSbW41emxtQzBubXhSWFJsTF9jSUFCcWpUUnJuTThzSWppZXF1X1FXUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 08:08:00 GMT"
-        },
-        {
-          "title": "„Wir wollen keine Freunde sanktionieren“: Trump rückt an Erdoğan heran – und Netanjahu schlägt Alarm - Merkur",
-          "publisher": "Merkur",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWpYbWkyUFZiUXcwSFl0SDhXWVNMaHFlZ3Rldm1UV2hzemNOTGpGTzJ2OFl2dHR2QmIydmVValhjbF9BWXdWNTFHUVhuTzhVUGxBbXJ2aU5rLTVlUDh6VG0yYmlUcmhSenpaVG1uU1o5QjlscGpDM1hHQmhFSk1SRE5qaXhTM2xpU1g4MHk1c1FwVm15cUR1eERBTkdJQzFOTkVjNVBDZw?oc=5",
-          "published": "Thu, 09 Jul 2026 17:03:00 GMT"
-        },
-        {
-          "title": "Mexiko drängt auf Strafverfolgung nach tödlichen ICE-Einsätzen in den USA - Spiegel",
-          "publisher": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNGRDUnFVOWV1OVRNN1NSZnN2ZGJTbllITU4tSWtvdTVfelNUMThmZ1kzSU93ajNxcGhGRklZQ0diTjVOS2ptbFNUcWFGUjJ6Q2ZLMGRZdjU4cDJrMUxXM1NpbXoxOVJqaTl5WVdPMU5kTUQ4dUhkcURjd0VQZldsTjhaUHFVWnZnbXhtX05WU2N1NGZQbkRrVnNjU2daXzRPRGxDLURNUXB2clNSZWM4OS1NbjdRaUYySEJfdGdqNFF3TzF6YjROOXdLOW5sM3ZaT19kanpR?oc=5",
-          "published": "Thu, 09 Jul 2026 21:01:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Live-Blog zu VW: Draußen Proteste, drinnen Sparvorschläge - diese Werke könnte es treffen - NDR.de",
-          "publisher": "NDR.de",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWdLOHVzbDJWV2NGLXJwd21CY1BvOTlBSlplNUFURGFURDR2el9JckFha1J6ZnBIcV9KdFlJUWl3ejRTei1LMGIwcnFTTU9zTV9BdjAtMkc0eFNWLWkzNGVBMHRWTkREVTQyZDFobDFqSThHSm8xSGNzdndQc3dGT0NrdnJybVpkV1M1T2hvd2NNeFBfTXBtT3pYdExHZDZWblNLRXlXR1pjYjAweUFMeG5WQmU1MWhaa3BLOFd0Um9oTFEwSmlV?oc=5",
-          "published": "Thu, 09 Jul 2026 17:18:29 GMT"
-        },
-        {
-          "title": "Hepatitis-Viren in Beeren: Rewe ruft Tiefkühlprodukt in mehreren Bundesländern zurück - Tagesspiegel",
-          "publisher": "Tagesspiegel",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRF9kVVRiamxkWDlVMmVBdTlhei04NnR5YWVBXzVtTjM2UDR4UHJ6bld5TFlTWGw2eGJIVU1lVC1HdXBBWmZ4TDFyTTYzdXpjYi1JVkZWMmxYOS1hZnBjVjZ4M1JRXzFLTWZkZFdtMU9UX3ctcnk2enZOamNLeEgyYzVsUTRhaUlUMklfTUsxYUZhLTAyZHVXekxTd3I2VGFKVENGQ2F6QUJ2a2l3M3VqWXRMVUwxSnpwT1otaTFQcThRcExuQjNHdEZQb3ZZazFJNGhv?oc=5",
-          "published": "Thu, 09 Jul 2026 14:50:45 GMT"
-        },
-        {
-          "title": "Hunderte Teilnehmer bei Kundgebung vor Audi-Werk Neckarsulm: Die Aktion in Bildern - Stimme",
-          "publisher": "Stimme",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdGRfVG9QbVdjNW1wWlQwLWV0Zjg1VV9uZTNuU0NMMUxwVHN3V0VOYmMyTm83MjhmTDBfSmRucG1CakdKcWVGYXhoY3E3cXF6Sk12TV9Jdl83dk9sRkhBT2ZtaDNuS05FbXhVNUxZV09BM2cxcnVGazVCUW5HcVBMR2JGV2FqdmVCN0tad25qbEhMRHpacFRYR2tySXF1dm9JZ1d0U3hLU041aHJCb0F4SWdZQzZCR2xWZkdhUDJZWXlaMVlneEZJV0hB?oc=5",
-          "published": "Thu, 09 Jul 2026 19:39:03 GMT"
-        },
-        {
-          "title": "Zalando schließt Standort: 2.100 Jobs weg - T-Online",
-          "publisher": "T-Online",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZVNibzRxRDFkVlc1RkZVQVRKYWIyc3AteWk2N1pnUmwxOWxWSU9iVXBSMHYyazB5Ykl1RkJrTlJBdGlMYkoySmpnLVpwUjduMWR1ZXRnaHJONUV5RjJCSzlOQk5QYmRMYTdvbjg4X0V4UVZOa0VFX2xWMzBuOVlabnR4SXVqRFJ3SUJlVUl5cFRfd2gzV296LXNkTXNfeWNENFJSV3RQV0ttVXdZekxYNjloVl9XOUY0VDczUzJMZmN5ZXljS2E5RnhLaF83VDhfLTBKblNfVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 16:43:42 GMT"
-        },
-        {
-          "title": "DEUTZ-Aktie gefragt: Milliardenübernahme bringt Rüstungsgeschäft voran - Finanzen.net",
-          "publisher": "Finanzen.net",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUXZzVnc4aERtS2pyaDJQSkMyYmZRM2xtb2FRV01YNmRZSmpzLV8yejR6dW5XMkJaQkxOWXZIUWwwOHBpOGZTLU5TRlhvRXpvMEwtd1pxSXNHeGg1TGdQZ3Z0UVM3c3pDX3B6U1pPXzNFbnJ4WTkxZks1MXJXU2lBRGtUaThsRVB1dENFODBma091Y3NNM1VERDdnTVlUR0JGMzBtcC1DNFBzcVBpZWhhc2ptZS1qVUItT1BaVkpzcFh0QmF6YUJxRVVoNk9oTVFZNW5QX1pGT1U5eXZIbXNB?oc=5",
-          "published": "Thu, 09 Jul 2026 15:55:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Livestream - Fußball WM 2026: Viertelfinale Frankreich gegen Marokko - sportschau.de",
-          "publisher": "sportschau.de",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ0ZJd0l3Y3c5SDBZYnV0LWN2dGZucHM3elgxajMxMDZlQ0NuUjRPVUNvM3p2UUpXbElWRWE4MjJTbU1URDlBMXk4bld2N2NhemRjX1JkaTlMcWwwVzJiVnloSGVKRmlkUXFyY0NWMzN1aExZMXlNa0RNX3JYd2o2UFlvd3o2U2tNMlYyY1Boc3Vwb3g3S0lKNXU3b2JXR0R2UDZWWFh1UXZ4QzZMSHNtWXp5aElOTzZldGZNdTFFdFgyLUJhQzNrTC0tY3ZQSjA2czNDRFVNY19feThEZXl5b0xxNTdTTDAw?oc=5",
-          "published": "Thu, 09 Jul 2026 21:11:15 GMT"
-        },
-        {
-          "title": "Tour de France schon nach fünfter Etappe entschieden – Pogacars Solo am Tourmalet - WELT",
-          "publisher": "WELT",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWWUwdGtnUk5aS0R1MU5uVE9scTRoOW83WlQ3S0QwMGNjV3VBenYxU3JDYS14dERfMTdRcW1PakZWRURfdmNQVkdhUWhDa3RQVDY0S19FVlN2SjJTVjlCV1VtSWN1NmlOZ2NiVGVLZUFGREZ3UVB0cVZCMHZyczV6aGxoWGlORFQxd3NBTzZSZENIdElXdGJobW9BV2NyQUhOVkxSRFp1V1VPb21LMDQ3ek1ELU9iVE5QTXVtNVNjbHlMejgyV2tzZ2pScjFWUHJYY0E?oc=5",
-          "published": "Thu, 09 Jul 2026 17:08:11 GMT"
-        },
-        {
-          "title": "WM: Klopp packt komplett irre Mbappé-Geschichte aus! - BILD",
-          "publisher": "BILD",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLWw5TG13TDNIMzRiVjQyWmNxeDg1d3FOZGMxTTZ3RDVxSnllNm1EMlRTTjdwcmNQQjM3aFVxbG53WW40UEVxdUMyN1hXSTRrV0V4VVlEeG5NNFYwQ0dveDRFY2RKLUtGdy1SSEo4aWh6c1lKMDVjQXdNTWxUN3EzMGgwNkFSLTNwdi1ENXRMQ0VkanBrNjhMNUlxdGM4RE9qZUhVUTVXZmZrNTRKdEhJ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:27:09 GMT"
-        },
-        {
-          "title": "Eintracht Frankfurt: Heftige Riera-Attacke gegen Klub-Boss - BILD",
-          "publisher": "BILD",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVF5cXRpVmxodnIzVDhOSXNEVmwxMzhabG1EYThqaTd3X1FCeEdockxnZjdDZjdTdURySGRadVdCaWEzZWtDeUFSdVNMYmtTVkpFYnFlek1DM0h3Y0tYcnNwYXpwU010Z3VCbTAxT0dDc0V4NE9ab3UyeFdsRHRKWUxhWTJJN2NHNHdZZm95d3FZSzBUNjhyd3dFSXV0WmNLTGhKNU9MQUhoZkFzQmwzaGVEbUxnUEJV?oc=5",
-          "published": "Thu, 09 Jul 2026 18:30:58 GMT"
-        },
-        {
-          "title": "„Völlig fassungslos“: Zverev bei Ansetzung im Wimbledon-Halbfinale gegenüber Djokovic und Sinner benachteiligt? - Frankfurter Rundschau",
-          "publisher": "Frankfurter Rundschau",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWGF0SzNDUjBSSnN3LWRMZEpLQ210WU1IUTFjSC1Hbkc5TDRFanl2aU5oY3JodW1tTFQtOHc0b0JZakt1NmlrdDFQN1dRQjc4b2VvT3BtUkpPSDQ4Y2lCQm1Oa2RNeUFQcE1qSmpJclpUOXVUSUxQLUdNR3VNMmxjS2tTX2oyRmdLam8yZFBzSm8waXpPekJOVmVacTlfaGpOYnRFaDJHYTlkMFIzWVZNbzhRRUpydUlL?oc=5",
-          "published": "Thu, 09 Jul 2026 15:40:32 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "FC Bayern: Kein Zutritt mehr ohne Handy zu Heimspielen – Was Fans jetzt wissen müssen! - BILD",
-          "publisher": "BILD",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcHRhYjRFc3JrYzgxMjdWc3I1YzZhNmVlbDlUcG9LNnE1LUV2ZEczdHo0dGwtbVZFaGlUT19NeWM5U1MxMXNmMXM4YjQ1ZHJ2VGU4S2JKanZ2bzcxWDhreHcyMUhHd0N5dnp4RDl1alE0aUJscnR0ODF4YkQxdjQyN0htWTc3N2RtZTBsQUxQZkVhWGNiaTAtRXlQTHNmMHR4eG5FTFpMSXZvNHFtbDZRN3huWDlWcmk3Y2dROE1weEJOS1VyZU9ib1pTSS1nVUtXVzJlSEZpRnc2aHM?oc=5",
-          "published": "Thu, 09 Jul 2026 19:51:30 GMT"
-        },
-        {
-          "title": "Zwei kritische Sicherheitslücken: Darum sollten Google-Chrome-Nutzer jetzt handeln - T-Online",
-          "publisher": "T-Online",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRl9XeV9UdUcySTRsczZMTERYYVpUM2NpU094V0w3b3NzNnNOQmR1UjJ0R2staDJnQTliSHhLRTBjWFFScGlhRHRjRjNFYkJFR0ZBTmo4MDlLYk9Gdk5wNEhiT1I5Y3Yxcy1naUg3MFJVRGdsVnBSVnlJb0pTa3BOVkxDWmNUVEIxLU01STZqOHc4OWhBS0pjamhpdVQ2MVJvV3VYR29ZaG52YjVsekhLeHVWNmFDYWhtVW0zaWtBUTFVd0pPRFI3QWJCZw?oc=5",
-          "published": "Thu, 09 Jul 2026 16:25:17 GMT"
-        },
-        {
-          "title": "Spezielle Radtechnik: Leichter Roboter zieht 100-mal schwereren Militärtruck - heise online",
-          "publisher": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdVRxMHlBcm41WU9mRE5Va2VfcE5saElkR3NBaWJ3WW1mNDRldU8xN0NoSnFlY3AwNlliVUJjVk9sWTFSc1ozeVltMTQ5Tlk0bWdCVTN3Z0hXektuRXBsRG1mZEtXcjFCbTV2WXpFX1lPTGozd1NFVC04QlZQaXZ3aDhRbkJxREZNaVB0ZktlanpsZlJtQWp4WGxZek1UQmlPVGxLZldCNVhqdzh2aTl4NXc2dFd6eFk?oc=5",
-          "published": "Thu, 09 Jul 2026 10:17:00 GMT"
-        },
-        {
-          "title": "Urlaubsfoto verrät mehr, als man denkt: Vom Bild zur Betrugsmasche – so schützen Sie sich - T-Online",
-          "publisher": "T-Online",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVk5KVmdsTGdQVXBfd0FRZWozX0hfX0VKOHhIRC1maUd5WTRYRmtVRWJjbXFwd1lKbTBPMjItX3g0Qm5hMWFfMnBOT2lXdWQ1RU5CdDZYQ3JQeDM5QmJhQmNFQUFLNW1valFkWUxUNUdoMlZvbzVSZ0VNeFB1WTJ1dHFMR2MxR2lZQmpNY2V2ekxJUFpLdGwwdUZrMkxITjVyUXBlN09DbDhvUVBfYmhKbDZFZ0FtdjlNS0tpbEVXVkd2SzVnNGIxbkVhX20wZw?oc=5",
-          "published": "Thu, 09 Jul 2026 05:56:39 GMT"
-        },
-        {
-          "title": "Produktion lahmgelegt: Cyberangriff treibt Textilbetrieb in die Insolvenz - Golem",
-          "publisher": "Golem",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORkhPdWdDWERVbFRTeFhZSGhFVmxQNGxtV2g2d3dPVTkxdFk4a0dtTUh4NEFJdEpSbVZEc1pGakYxMzZRQ3ppVWRnc1JBY2YzNW9qVExIb0E5N1RLUExja0loSmZRek9vQzY1Y3JDeUFYUnRPV3N4Y2NYQ0EtUzRGSmNzQTlEVnRPeW90ZzdxbHJFaXlTVEIxcnFWSERiT25fQ3lXcFpoWjZYZk5jMWpQczdHcy1OQQ?oc=5",
-          "published": "Thu, 09 Jul 2026 08:24:02 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM - SiriusXM",
-          "publisher": "SiriusXM",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTFoxYVIxRjc1R0lkM19yM2VWdldEck9HbVQ5Q0FiNXktbHlibi1HZjBDc29yRjlHbEJyUTVCSzdWR1BMVzk1N3pLVE9VY3dfdDQ2cFByU001UC1neXZKUGh5VjVnV2dfMXc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:50:34 GMT"
-        },
-        {
-          "title": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
-          "published": "Thu, 09 Jul 2026 19:55:14 GMT"
-        },
-        {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Thu, 09 Jul 2026 18:23:00 GMT"
-        },
-        {
-          "title": "Mexico vs. England sets new record for most-watched soccer game in U.S. history - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:42:00 GMT"
-        },
-        {
-          "title": "Scotland soccer fans donate $15K to U.S. students after FIFA World Cup - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXRhTEFzRVg1bldRZmhoRHlBRk5LLUpSTlRZZGZBeXdIMkxsM0xTaXJzWHM3RmFGVFZSdXZ3Unh0SUp4T3pmZ0phOGlEYUs4bXZQSEhyYjNUVzE3TXU4NlpSbjExRFVnRi11ZWFabjBENVN1cHBUeWdybXZXQ1dVVXFGMjNJSC04X3RLd3MzcTNVQk1iWkMxQzRnZ01hS09HaUw0SUNobk9LUXpHYlFhUlRJVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 19:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Emmy Predictions via Feinberg Forecast: Scott’s First Post-Nominations Read of the Race - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVhalF3dlZVLWZNSFEzSjdKYmxhRXFtano4b1hJSUFEd1gyOUhvMHFUaGJCRm5fTVZuSkNEdzNnaEpxOWx4d01ER3NDcXR4aW1rMS0waTlKY3dCOXFtekhXUExnX2YyYmFoQ0xqeE5sY1p6VmtVWWc0MDN2dzk0X2VhWEJHZ0FEdUZiOHY3NUtYTTg?oc=5",
-          "published": "Thu, 09 Jul 2026 15:18:23 GMT"
-        },
-        {
-          "title": "‘Heartfelt’ or ‘creepy’? Justin Baldoni video after Blake Lively legal battle divides PR experts - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlJQcS0zTkstYzQwc3RzS3VrenFPeWtxRkV1X1pocTFzQ01MNXpKTlNXMEt1ZW5XVUtBbWdZY01xOVU1Xzd5SzVVdXdUZkQxVERGUlFIZTJuYTFtaE8xYTd4QmpmS1V0WWJ1RTUtNjRlS0RlcWo2SWNVNV9RUl82akpqLUtqVklfNktPdXVodGtxR3dBZUVTcUtIcGFPd002ZUxMQUVxTzM4Q0luYm12SHZ6NjBBOTVXRnc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:33:52 GMT"
-        },
-        {
-          "title": "'Task' Season 2 Is 'Mare of Easttown' Crossover With Julianne Nicholson - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEVwREEzR1o2eXNyNFB0ejY5Y1U2elk0TDRGV0hFMXgxUFlpTHJhQjZpbWhIcDhISkRqMFU5Qm1QZ3NNZUQwQXg3Zk0waEVpbVRueEt4OVhJNG0yVkFxbV83ZHRCczJ1SXp5TlE5UGRkVWdpQ3hTV3NYOENNblJwSWtjVEtNdG9FdEZNcV9pb1JGSG5uandSalVWcGJjcV9EN0xVX2lWaw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:30:00 GMT"
-        },
-        {
-          "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTQ5VzJpdkt1RXpVOTE2VmpRWUREUmpxTGxoeDNvOEQ5ekRnM0dkVDZ2alctTlJLYUk0MlZHSmFaYy0xMXQtb25XcDNXbXc3RWx6YTZfRUlfaVA4WHFoOGNRY0ZDc0Z4VXd1TzNjNWhMMW9wWF9Gdk0yNXRKbFlvSmlNV0hUTTdWN19DcnBCZkxKRnZrNnp5TnVrZ0NUR0xDaU53LXlR?oc=5",
-          "published": "Thu, 09 Jul 2026 18:18:09 GMT"
-        },
-        {
-          "title": "Moana’s Record Rotten Tomatoes Score Should Give Disney Pause - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGgybnFxUzlMeVBvS2VpV3RKRDVqYWE0R01vLURNamVHWnd4OUFZT1hkaEp2b1NTX0dmY2pENFVLUTY4OTI1azlEem1ndFV0UGRUTEppLTRIbjVjUUo1ZHNfb2FFU0lRQlFMaUlqeVNRRG52X1hNTldLUnZOOU1BSXFqa3JiaWw5UmhXM3Z5cUFnclZaTWhlQ29kRFdUUFRHTUQ4UF9CNkZDSFRKakJIeg?oc=5",
-          "published": "Thu, 09 Jul 2026 14:04:59 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

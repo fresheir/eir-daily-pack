@@ -1,260 +1,43 @@
 {
   "market": "AR",
-  "generatedAt": "2026-07-09T23:10:49.508654Z",
-  "validForDate": "2026-07-09",
+  "generatedAt": "2026-07-11T00:20:50.880641Z",
+  "validForDate": "2026-07-11",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Javier Milei y sus medidas, EN VIVO: \"Arrogante y vacío\", Lilia Lemoine cruzó a Jorge García Cuerva por su discurso en el Tedeum - Clarin.com",
-          "publisher": "Clarin.com",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM3BHa18xZTZCaURNMnM5ckROMWc0RFhObXVMUzMxUVFfMTFSLW1iWTlHSlQxTlV1NUgtbDlybVYtUFAxVk4tOWZ5NWdjYUt4MFFGSmNZb1hpaUlsOWM3VS16RlNDdnhLV2RRYnRhRWlQOUlRam9aZEM0UG1TMjFfYU9zcWl1MHNha3g1TC1XT1RLNlRRd0ZuV21hT09jU0pPRmlkU1NBV3BlLVYwWGlzSmtHTURRS3YyWFhaRlo1NW1ZLWFuZzhTY2tjRjZIQ3c?oc=5",
-          "published": "Thu, 09 Jul 2026 22:04:08 GMT"
-        },
-        {
-          "title": "Tras el Tedeum, Milei reunió a sus ministros y les anticipó los primeros trazos de la reforma del Banco Central - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTVkxbGdZZ0xzX2h2eDhMSWwxSGxxbXg4YXVVcXJZb2pJS3hJbnEyX3VSWldzc1hwV3M1WEJDSW9qYXFRYkJzTnNheEdMSUNIVDFMRUtFeWlMQTBIaER3TEJMOFlRcFRNeUR3ZVN3T1VxT0FBUzZHUHRLcHB5VzJ5NG9jSmhIdUlPMkRVSG5RTldsWGZRSkh2UUlTdW5nTmVKd3huU25HR2REREdsZ2daNjZ0QVktY2JEdkFYNHNDWDd2R3FtakdIaDhVbkJ0empXaUN2eTdGSFN5OXRXYUtzSGRPdw?oc=5",
-          "published": "Thu, 09 Jul 2026 17:50:00 GMT"
-        },
-        {
-          "title": "Más de 10.000 personas participarán del tradicional desfile cívico-militar en el Parque 9 de Julio - La Gaceta",
-          "publisher": "La Gaceta",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYTJwSjNQcmRNWmJwWDFNR0ZReFZPRlZ5SmZxczhPWnViLUtZLVdvVWJWSlgtU3hjYWs1eWVyTk1VNXVHTlVERXhaeUx0ZS1fQ3pla2xzQ3FJT21IR2ZKMnZCV0VhTTVOTnJ1OFdUZDlzZ1NCY05TS2xtSndHb1N2UHFKWUxDVlBaak02LUxVYWNuazVrWnJuNGdJSlRhMk42NjFQY045UHJKM2hFbWVodUJUQnVoRnpoV1FkOFRLSlZ0UFZuVXplblctaVBITTZC0gHWAUFVX3lxTE1xdFN2ZGtyNnBkdmNqcmROZ052REpQZEk3bUhHMWlJOVVMdlhjNk4yN3ZKcU5vNWt2MGcxOUFTMjdneE0xVGwtVFRJZFgyQnItRENZNTdrZUU3MWlkQTVzODRtYnYzSEZzSE92dENmeXpWQXlBYnZGQ2dRS01Wcmw1NHA1N2J4bmNjUllQZmtLenpkdmh1TVBFbjRwTUFOOXZ6SmVfUmh1S0JOeGFPdDdWbEg3ZUotMnZmTnJ4TWF5UzlTYm9OMURIUVJOaFJOd3NiUU5Td0E?oc=5",
-          "published": "Thu, 09 Jul 2026 13:32:14 GMT"
-        },
-        {
-          "title": "Máximo Kirchner encabeza un encuentro en Carmen de Areco - Página|12",
-          "publisher": "Página|12",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1p2bDBWUS1xSTJvR19BNV9UdjVQdzJmeVNhTE10V09DR2JFQXFKOG9uNmJUMG05N25zdWVYYUp2RFBaV19ZUDZLRzVHdEc5RjlNRE9xUkV3SXpXVm5BQXlnMy03ODNRUnFHajVUVVZybzRualNpVUpBOUhMMWtVNjVuSkZqYTRwZDg0RXdGQ3RuOTdmZ2ozX1lRWDA?oc=5",
-          "published": "Wed, 08 Jul 2026 15:11:00 GMT"
-        },
-        {
-          "title": "La transformación de Facundo Jones Huala tras su traslado a una cárcel de Esquel - Perfil",
-          "publisher": "Perfil",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRi0zV0RBbEZ4cUs1NHJESTFvWUxFTlpVVkZfQnJSV3piTnRwRkUwNTV1SXpSbUpNcDFGaUJTZ2U0N25kNWdLVTc5T2ROYk03Yl9IeXFDYlVDalFnN3NyWEF3QzJtT0VjanBQd0hmcjdyaVU2bDNZR0VZZWszTjQzV3ByTDA5X2RUMVBlOE5jSE5YYTdaVVpvS0w2UlBwU0VZTVZUNS1EcDEzSjkxN3V2M3pRTU5FZmctTllRUGNnYWpPbzFl0gHKAUFVX3lxTE1kQkl4Smg5a2ItRnh0YTJFV0FDME5xUktjNFdJdnFNV2o1TWNnS1Z1MGFMU0MzSEtpNnZzRk1pc3UtSkNPcDd6dHJVM21KNDBpdm5oLWdxS1R5MFNNd0x4MnJ5dkxvcE1TUVhESTQxY0FnRkdPNjU3MVlCTW1ZSzRoRXNmNC1XN3ZoZXRVdEFQQ2VaZzNjMXY0d2RQbDlFcVQwZDhFdlRuckk2d29QbGRsTTlEeXVBUHNIc2xIQlhVa29BOVFnWTRZdUE?oc=5",
-          "published": "Wed, 08 Jul 2026 21:42:20 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Estados Unidos vuelve a atacar a Irán. ¿Podrá dirigir un golpe definitivo? - CNN en Español",
-          "publisher": "CNN en Español",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGxLZjE0Z3lGVGpQcllhTFRKS3FubHNVN0pRcDFkNkprLW12MWVrRlUxaDY0SFZJeFVHX2U5WS1RdWpSSGlOYTRiQ2NnSlMxdVNhZ2tfZnhVakZqVVFKem00UXB1U2RueVAyTFVfV18zbFFXcHBZa2RWemJMcTEzMTJBZ0kybFoza0JFSi1JMEx4c1g2RHJB?oc=5",
-          "published": "Thu, 09 Jul 2026 14:14:00 GMT"
-        },
-        {
-          "title": "Habló la madre de Lucas Gámez, el niño argentino que murió en el terremoto de Venezuela: \"Duelar a un hijo es una de las cosas más dolorosas que existen en la vida\" - Clarin.com",
-          "publisher": "Clarin.com",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWlpqX1lyTWZlc2NUcUFpOW82UjhVQV9aeGxkWnp5cTh0bG5CMVpzVC1SS2lYMlVoWWozeUQtQVVlSW5KeWpwSU01eHE5cXBYZTFpdmM3YTZIOXVmc0NpWDRwb08tcmxHZnoyMXdsMU5JcF9Rd1I1OHV0NWFKbkdYZlhBbnZlYTRTUTFaaFZaX3JFWF82NWV3Yko0X1JwM185RXhzVFM0djQ0SUt0WjByamF6THpiQVg4NlNBdkxDRVlIU3BaMXktc0hSOHVMaURzZS1WWjlQYWdJS2NsZHJBRUthNG9MX00?oc=5",
-          "published": "Thu, 09 Jul 2026 17:55:25 GMT"
-        },
-        {
-          "title": "Irán sepulta al asesinado líder supremo Ali Khamenei entre actos multitudinarios y promesas de “venganza” - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYmpxOWZUSHMzbTlUaUd0cnRfOUFibkxBRVlYd3BwTnRUTnZXWVFpR3FoWnUzQkROYVdqdzVoWklTWk0yaE9UaHkwd19lUEtRS1hqTXc3UEFGaGpKbjNJWG5TV0F1d3haVEJqSjdLVU9vaU9raGlZZ1dtU3VuUUxVYjF0QVU2UThlNG1aS1NpMXViSVRyQWczWVhzcHhVT2hBZ0x1Yl93VDBETHcwMmg2N3E3TWhYNWlVWUVUQjd4dnZwVkpNaWEtejV0WGxEOVJpYWxoVC1kekpGUnVF?oc=5",
-          "published": "Thu, 09 Jul 2026 19:57:00 GMT"
-        },
-        {
-          "title": "Delcy Rodríguez le pidió a Carlos III la liberación del oro venezolano en el Banco de Inglaterra - Infobae",
-          "publisher": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRmRtQWNNUjhOZHB3OEZMM3Z1bDljdThNLUU2ckFmRnFQVno4eVM5Nlo0XzhXQUpRQmVMcUU4c1NSS3NSXy1CLUZjdkdoUDRfbEhyOV94dmZZcDFXQ2E0N1drQTh6VHV6Ty1MaUxkTXV6UEdqSi1kS3dzaEJhRElOSEl4bTNGUHF3Z2ozaTl0VFBXSEJZMGFZUTZEWXBSbUlQMkd2eGk5d294YXhrcjBJelljX0FVeTcyemFqNnViOF9DdHBUOWJHWm1LLU9mYlI3TnI0a2FtWVhtZ9IB9AFBVV95cUxQdDI5dTF2Q2FXZU96bFlyektJUE9RajFNS3lBeWVQOEd4di16OHBPUFhlUFFhcENXS3gzaUlXVTNpbXY0Y2NQX042b3RrVFU4TkxyekZhclFrdVJDaUQ0UGNVVkRZOG0tNTNiQW1qeXZYbm9LWDhZelViazY4c2tJckFTRF8wdWJqQVRGcmZYLW00Tk1qY2JmY0NFemZVQlE4a3BubGl5RGZyWjJmYUFEdkNPdWxrY21ELUxjYU9DSUpHbnhqQVBweTRTUTQ3ZEE2X1g0UjZsc0Fjd19SLWxTX0hNUDdsX1JySGhacFhhak90V2dq?oc=5",
-          "published": "Thu, 09 Jul 2026 14:16:00 GMT"
-        },
-        {
-          "title": "Terremotos en Venezuela hoy, EN VIVO: daños, víctimas y últimas noticias de este 8 de julio - Clarin.com",
-          "publisher": "Clarin.com",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFdpdS1HVHV2NFVqZnl2bGc0TFpTYVMwajNQVlZYRF9KOXFTa0ZuNDRkazAyTjRKMW9pVjNYZTBYbEhjeTZwOUdZeVBmQzl5Vld5UkFzVF9XQWxlNUpZT1d3Sk03SlZvQjU4dVhfZ2xQQ3ZGYTN4MUhKazZsX3h6WXRnVk9LQTBRcG5NRjlIMnd5bEJ1aWN2SnhNcThJTjNBbTRmZ1B3U0owelJVd0tpeTdqV0tVb0U?oc=5",
-          "published": "Thu, 09 Jul 2026 01:46:04 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "El dueño del Inter Miami y una italiana le ganaron a Techint-Sacde la mayor obra del GNL de Vaca Muerta - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRGxjbVlpNmJ0TTJiZ25fZFJNSEJhOWRtRE80c0QydDQtQ3ByRFJfYVZ6MVRPaDZ3NTFrOWdFYllxVFZKYjQwZW1MS0RDNDdMek5PcVlmSEtMdzBFalhhd0MyZjM4bGtvbE83MktkQURfRDFVRlowZGszTjJmSUZCcFhMcmpBOF82NTFPRjFsYklMY2RSc1Q3ZUhBQTlVeHo1V2lmanNFYUQzb2Z4aElVWVhJaURlam9HZThBNDF6bFpCajU3NGxtLVQ4ZWhBM2xzM21oWllUNW9aTl9JMU9Z?oc=5",
-          "published": "Thu, 09 Jul 2026 17:24:00 GMT"
-        },
-        {
-          "title": "Una oferta relámpago cambió el podio de los autos más baratos: cuál es el 0 km con el precio más bajo - Infobae",
-          "publisher": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT2dJbzhEd3VpdmItSUZWSUI2cm5XYkctV0JuZ2dtN3N6Wk1SbW13TS11bnJUMEtmOGNxcjNSUGpRZ2pSWUVaQWw2YXFiaXQ1Y19KajhlWnVLZFpVTTF6SUZaWXdwQTJnejk4X2t5VlFkUTBVUEJtV1F1ZG1kZWZheEZfanE4MXM2TGZFcGdub3p4SzIzeUpueW51cC1nNnNRRDVQZWZIYzVLbEM1aWNDanBYSFlvTEZXZ0xHMGZTNHZoOFVScmFTX012LW9nLWpLS1pQRkVFeDlhdkx4SG1IR2g0OHVJVkR3V292RNIBhwJBVV95cUxNdHItSnhIUWc2ZXZNQVVRNnRBdEsxeEhDUUY3c3pWWmRYSW1xdEd3aEZUVlExSXp1T3FCSUpqRm9WeXlnVG1OdklUWEFGUG9CSEtoa1pWSFdhVnlRb3lUOHRGMk9Ob0E0NG9MQWhjd0VpRGF6MF9iaEZsSEhKQ1kyR3NUMnluNEtqNXJ3X2dRMUpHWnFOMEU5UkRMeXBPYXBpUWV5MmdhNFJPaHBKMmdvZFJUdENFU0RubERKb3hVT0hKZm5wY05tM1l1aWYzanBvYlJPaDRUUVAyd2lvLVBld3ItNi1oSXhuODBKSG9PdktlR1VqY1NDdEJxSVJsTjdQdGNtcFMyaw?oc=5",
-          "published": "Thu, 09 Jul 2026 15:12:00 GMT"
-        },
-        {
-          "title": "Alfa Pampa entró en concurso preventivo: la crisis del consumo golpea a los alfajores premium - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR1QtbjRCTEdlcnpYaWNTU3VfeG1fUDB6ZVpGbHhMd1Q3Qi13THNjZ0RXSXV2eGotd2s5aXpmSEJiZDdHRnVmTVhoR0h2SXdqM2FydU5rbHlOTDB5YUtzV2ZlODZWTEpBMU5yUWJJOEZ5VHNCMW8zaWFQc2wtQ3FPX3Uwb1hTSEJqSE8yVGRLanR6N0RkYjlGNkRtNUNXMy1XWWw2M3dobFhrSXhQSWMzV2ZxeDBBZ195UXctb2duUkVOTzhpNUVoQXVkMHU3UmRJakNuRmZwY3hraWNsMjJXNUVCZ05lUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 15:25:00 GMT"
-        },
-        {
-          "title": "En plena era de la electrificación, un auto de ultralujo podría volver a un motor de alta cilindrada - Infobae",
-          "publisher": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMjFqM29tUmRRTjRkdEpJQi1fNmRGS3FCNGRZaUtJOVlqNTU3TXowT2dHWlp2anZRX0lIMkNzRjlBY1BFX01sQ1hScnQ1UEdXdUxtTWNRbTA2OE13MjRHVnNwcGtsd1ZqRlhqTjQ4LUVNUmNUZUZ5QXVQV0RZZ3NEb0Z2WHZDWVVyeHJWMGNIZnp1U00zaUZhWUNPazNnZHZsVXRQamVhRUppX2MtV2NaUE9KNHdNNzNOVlZIelJ3Ympkb3ZXc05QcjRFeXVLLTdDZ0FyM3NVYjF3cS1E0gH3AUFVX3lxTE0yUWFwdFJfQkt4My1BeW80cFg1MUI5TWo3STNIY1BvU3pGZy1rWGJkdlFxYzcwbmkwcXNMVjZWaG5GeldsU3lQNldOaThvVUFIWEJ0SEhWUnR0MDFuTVVEWnRzbVJ5S09lam9nSFBlTWY2QllSVkVKWWN6dlcxZ1U2NmU5amFzMWw0UzlTV0VlaVlpa1RYSEFaZE1EcFl1V0h5ZERVM1p0a1VVMWRfbkJoYVZEMjNHVkVsMEd6d18yZzlsLVljWnZySnBLUEVlUl9BMUI5aFhJY0JSaXVoQlNFdWNsbXFjd3pra284U0o3dXh5M29MWWs?oc=5",
-          "published": "Thu, 09 Jul 2026 18:58:00 GMT"
-        },
-        {
-          "title": "Ahorristas con bonos argentinos: qué conviene hacer con los dólares que se pagan este lunes - Clarin.com",
-          "publisher": "Clarin.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQekVYNnJfaE51cUVxVUdWWFBUamtQa2VyY2FpNk00eG52d0Nla0FUTXBiTGx4Q2twZVhDZGlSbDNCeHdMUDRPUk1KZlFobFBFOU02SmtQNFFBQUt6S0lGeTFBSkFnVUNvczdrUU15NkVRaVU2ZmxLRjRESDduUmZDUnI5ejZvSER3NFVWMEVEeWZnVTJOT3M1VVMzcHJDZlNRYzUtMndYREY2VEh1QUU4NUhR?oc=5",
-          "published": "Thu, 09 Jul 2026 15:15:14 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Francia vs. Marruecos en cuartos de final del Mundial 2026, en vivo: resultado, goles y más - CNN en Español",
-          "publisher": "CNN en Español",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQazJySDJnOEJ5RElIb042TkVReEdraWZ2Z29zQk8xNEVxZUtoVEppQlFFRHVzLWw5OUJVMnNueEthX3diOWllTm1YTmNmN1pTV1NBaUpQUGpMY2FLcGloRklDaEZYN3o5cmFqUlNEbWRiM1BhMy1SUWg1WDE4Q1ZEeFRCd1dUSFR1SWtqTnJhU2pabGJQdEd4OFl3RVV6SkxOTEdWLXI4R1R6QTk3?oc=5",
-          "published": "Thu, 09 Jul 2026 21:48:00 GMT"
-        },
-        {
-          "title": "Mundial 2026, EN VIVO: arrancan los cuartos de final, partidos del día, Selección Argentina y más noticias de este jueves 9 de julio - Olé",
-          "publisher": "Olé",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX3czR3JGNGQySldIMjI2VWRLTXBkRkM1d1hIbFIzcUpqcE1RU1pFMk1waC1KN21HVGdnYk5BcG8wQkYyeUNLRmV3MmJobnAxMHpXOUpobXF5WkEzREtHRmxlRmFOYzVGS25iamNwQUpvWkVEOFFCZTVLR3hYODhtRDlpc2lBTTFYbmZOTTBaRWJnX1ZCeEFFaDZpNFZuRHc1WUdraTVpdWhhZzI3WUI3S1RlNEp6WHZpZkthU0F5OFctYkxTOVhqZ0FLd1ZtQdIB0wFBVV95cUxPTlJzeS1lWFZpRmRlNjlSbUYwRldFLW1JdEY1YmdlZzZXU2JILW96aTYzTzQyOUVrOTVzd0Q1TF85TEdZanZ2YVc2Y3dBbWhtNmVxdmhWQXNwQ2RIZUhkYkFsaERCSkRqeVVmMVJ4SDZCc2JCSEtPU3JLQnZ6eE9mRWhfSVBPc1FaR0RKX05EdXUwdmZmLXRXd3VZTDRJeTlaWkdvR3pGV0FBaWVCTGhkVkVpY2J0SEVSbFE5a2hxd0lCaGJfZTVOYXg4RUhVQUkyY0tB?oc=5",
-          "published": "Thu, 09 Jul 2026 22:13:55 GMT"
-        },
-        {
-          "title": "El Boca de Arruabarrena le ganó un amistoso a Paranaense: el golazo de Blanco y la patada karateca a un joven debutante - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaHN1VTJzZ1UwMFVyWXduNFVaUklraTNPUVBQU3dELVFrYmszVTQwNTRBY0xaanNXVGFPbVZJbGRXQTJraUo1Z2pUaldGV3J5anZFRE5neHBmSjN5SjRXV2ZONVdmVmltQ29vRExfRUlMSU5ONHBtZi0wQjFRVmRvYy15cVM4X3RqUW5zU0N6dERfLTJESzVuUUZVLWEwTl80d2ZKR1RZbU5zaVdGZGVVUFVwYVJRM2ZhZE9xWkZaaHNEQ1JESm5qa1dxMEV6RzJreXplYU5VOFpJamRyQlV5SHJiTTRKUV8ySUNTOA?oc=5",
-          "published": "Thu, 09 Jul 2026 12:13:00 GMT"
-        },
-        {
-          "title": "\"Andá pá allá, bobo\": la irónica respuesta de Jorge Macri al alcalde de Nueva York por decir que Argentina le robó a Egipto - Clarin.com",
-          "publisher": "Clarin.com",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT3dmWDliT3RGdmplWFQ0ZzVncVBuYk9mTFdfVFFtYkhpOGo4UThpd29NX2J4Uk5DbmhzS0tKbzU1TnhoenNOeFpUX1FuYmEyTTUxdXBDQmtfeWN6SnJJYzZ6ampKLXR1UGsxMFBUc3hpUzl2ZS1aTFlmR1h5WW5BeXg3MERvRjNQdUFUSV9OeXpEN0ptQ2lrV3F3V3FMV1JsTm4yOWtHa1FjTjVsSmE0QW90ak5FQ2VTRUVQbHpNTTAtNmZaM2RFV1BwTml2V2NOXy1UVVJRdF82bGFD?oc=5",
-          "published": "Thu, 09 Jul 2026 14:10:20 GMT"
-        },
-        {
-          "title": "Las tres incógnitas en la formación de Argentina que Scaloni tiene que develar de cara al choque ante Suiza por el Mundial - Infobae",
-          "publisher": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYk15ZEJvajlfTjFpcFp0X1dGU09lY1REc2xLOWpQTk42bEhoakg2dzFPSVlNYV9IUWlUS1NaMmc0T1hEbEJhWm1KSFYwSFQ4eVk3QWNITUMxalZtY0hmNFlUOGRHelN5dGl0U1lPZlFYZHpxX3NrNFpqXy03bU40VkZCWWl4NkR5SzRKS1pHWGptRmZzYXpiTUVhODY0RXBZVlc4WGxTTGFtWWYyelBIWmJhQVNtRllFUUlqcjFRWlVHb2lhQm5zbHRQUEhCbHBEWXllQ0t1Q2htd29udUFaa0J3Q1FaaGhOVHRIWk1zeTJrNFZlR1d2M05Tb9IBlgJBVV95cUxOS3Rta296NGVxZVk0QW1va3lfSl9rY1ptUDdXZENFbllTWnBXSl9UeFZZT1FXdWFrOWJpV1VtMVJTTlU2eWR4ckozT2tKZmRrRTI0SWpScDAtWDFvY2tKUU45N3A2RVNCdk5iSTR1X21wM2Q0akh0MVBvX05LQmV4dWZDNHlKWWZnQ1hwTmg0WEtTWGk3cE5BM0ozYzFwQ1BhdlM5RWs3RVpBcFFZUFVldXhxeHJmXzl5MVJrZ2Q1Tk80WVlHb2ZFLVoxTXVFWFlBMjc5TTB6SXZhbEUwaTJtZXRVSEJzenBqUlNUMjN1NllXNFdOS0VaSUMxYW1ibEdZLUhSMDlMQjd1U0Q4ZGJCOGowdG5idw?oc=5",
-          "published": "Thu, 09 Jul 2026 19:55:01 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Así será el resultado de Francia ante Marruecos, según la inteligencia artificial - TyC Sports",
-          "publisher": "TyC Sports",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkZrVHNseXVtVVFTVk01VWg5TlRGSmExNG9Uel9MSlZabE1EVWxqMFVzLUc3RmdvS1llU0t1LXduYXFCMHZLSXNLX0tUVEhEV01zRURJVEVKaHhZd3RYXzRUR2lkTEFkb2t5NlY2d21ZZUdiZU9VQnl5S2hvcEFPeGsxcE5obmtYU1d4MlREMmgxbVZxbUtsc1E4YVIxSzZIQno3bEhKV1FsVWw4Skd2SGh3SFNSMzZMZ1ZrbkNPc1lwcGlDZ1E?oc=5",
-          "published": "Thu, 09 Jul 2026 14:11:50 GMT"
-        },
-        {
-          "title": "Denuncian a alumnos de secundario por generar fotos de sus compañeras desnudas con IA y venderlas - Infobae",
-          "publisher": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdUM5RGNuUzhJNk1weEVFdjhWVFFodUNiWHhlbzlTblhtVXh6V3Aybm5NTG4td0U2QURkeTJiUnFsWkFhczlkUHI5VkdDWVBhQkVhQXVnVDNEV2F5Q3J5NFUtd295UFItakFma05pQkx0ckswbUd1SDgyUThmZG1WZnE5YUVxTmI4UEN5V2NuZ1RFLUJiMnZ3S1Z0RWkxSjVvSjU4bVJDeDJaTS1RdXNrN1hhVExQVkJEWWtWaGk0VUhYY0lyR0JkN2xMdmhEdnRKLW9vT2lCaDExUdIB9AFBVV95cUxPR2FVR1N3ZnVFcDYxdjJzWjJ2el95WUFMVl9zWkNDcEdrUVY0UEY1UVFvMEx0NkFyOC1KSXpUdkNndVA4SXc1aEJmeVVVN2JZczg5NjJ5Q1ZIYkJnWlV1V3BSRVdkbEd1a0lNNWVXc0lLeUdudUxGOWJ1QkZ4Vlp5aFR4RllzODUtSXE5SWlGLS1VcXYxcGkwZFJuMS1VdGpLbE43YlV1Z3R1V09yZ0VTQlNaTEQ3ZVRsLTNlY3dvTmh6R0lTWkFJNzE1Znh2c25pbXBxaFR0NmlaLTB0eW1fM3RwNzl2RWRlVHJGTVExLXVONVJ2?oc=5",
-          "published": "Thu, 09 Jul 2026 12:08:00 GMT"
-        },
-        {
-          "title": "Los fierros por detrás de la IA - Página|12",
-          "publisher": "Página|12",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBramszMmYwd21Lcm5QZFZqSFhYcG54a0NZc1l1NzVSUUFvSXlna2M0cXk0TUZvTkpMQkJFaGNhWHZkVTY0dm9CZDA4Mndxc0xvcFNpVEtwdmUwSVRHVzlNMFRxRlF0dW1sWkctcXZqdDJyb0ZLbVJhMVI1RQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:03:12 GMT"
-        },
-        {
-          "title": "Video: policía retirado mató de dos tiros a un motochorro que intentó asaltarlo - Diario Panorama",
-          "publisher": "Diario Panorama",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzV2VElQMTFSdkM4ZW9UYlpMNEQxUnVMa1lxRDhsMmxDOXZ2bjAybjVnRTUxQWtJcGxsNTFRc2Q2aXEwT1ZrZnMxRGZhdU15UmcxaUNyQmNKUU5oY3dJLUtuZnNIQzc0QjdYSlpIWllhc0lHd1ZsbVd3Uk1PdnREWTZMUDBMamNmZWpjRUVzX2ttQ1JVTUkyUzlwUjY3d01lUTFYNW5Nc2RkNlBtMkJVZ2tB?oc=5",
-          "published": "Thu, 09 Jul 2026 12:19:43 GMT"
-        },
-        {
-          "title": "Contrabando en la Argentina: el comercio ilegal representa cerca del 5% del PBI - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2ZVLW41eGYtZXFSNUZiUFV0S2V5M29qS2NKRFBzdE5WLXBURkJzWm1ZbllTdmtmM3pKYTFCNktyMWl1NG5mMWpDZEI2eXhveFUzbkNEM1hUWk8zSU10aFZ3TUZmdHJaWkFZaGZIWmFTODJCSmROMnhGUnVCSmI1d1JkV2ZWaUJvRzdNRG1OWjRKNEJwYTZ5SUZDM2dKdTlnX2V2UFo5VVJWUkdxQWlVQ0E1YTRJZEF0XzNHaW9Da3ljclVIZENpV1VndUJwVnc1c2c?oc=5",
-          "published": "Thu, 09 Jul 2026 18:46:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM - SiriusXM",
-          "publisher": "SiriusXM",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTFoxYVIxRjc1R0lkM19yM2VWdldEck9HbVQ5Q0FiNXktbHlibi1HZjBDc29yRjlHbEJyUTVCSzdWR1BMVzk1N3pLVE9VY3dfdDQ2cFByU001UC1neXZKUGh5VjVnV2dfMXc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:50:34 GMT"
-        },
-        {
-          "title": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
-          "published": "Thu, 09 Jul 2026 19:55:14 GMT"
-        },
-        {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Thu, 09 Jul 2026 18:23:00 GMT"
-        },
-        {
-          "title": "Mexico vs. England sets new record for most-watched soccer game in U.S. history - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:42:00 GMT"
-        },
-        {
-          "title": "Scotland soccer fans donate $15K to U.S. students after FIFA World Cup - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXRhTEFzRVg1bldRZmhoRHlBRk5LLUpSTlRZZGZBeXdIMkxsM0xTaXJzWHM3RmFGVFZSdXZ3Unh0SUp4T3pmZ0phOGlEYUs4bXZQSEhyYjNUVzE3TXU4NlpSbjExRFVnRi11ZWFabjBENVN1cHBUeWdybXZXQ1dVVXFGMjNJSC04X3RLd3MzcTNVQk1iWkMxQzRnZ01hS09HaUw0SUNobk9LUXpHYlFhUlRJVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 19:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Emmy Predictions via Feinberg Forecast: Scott’s First Post-Nominations Read of the Race - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVhalF3dlZVLWZNSFEzSjdKYmxhRXFtano4b1hJSUFEd1gyOUhvMHFUaGJCRm5fTVZuSkNEdzNnaEpxOWx4d01ER3NDcXR4aW1rMS0waTlKY3dCOXFtekhXUExnX2YyYmFoQ0xqeE5sY1p6VmtVWWc0MDN2dzk0X2VhWEJHZ0FEdUZiOHY3NUtYTTg?oc=5",
-          "published": "Thu, 09 Jul 2026 15:18:23 GMT"
-        },
-        {
-          "title": "‘Heartfelt’ or ‘creepy’? Justin Baldoni video after Blake Lively legal battle divides PR experts - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlJQcS0zTkstYzQwc3RzS3VrenFPeWtxRkV1X1pocTFzQ01MNXpKTlNXMEt1ZW5XVUtBbWdZY01xOVU1Xzd5SzVVdXdUZkQxVERGUlFIZTJuYTFtaE8xYTd4QmpmS1V0WWJ1RTUtNjRlS0RlcWo2SWNVNV9RUl82akpqLUtqVklfNktPdXVodGtxR3dBZUVTcUtIcGFPd002ZUxMQUVxTzM4Q0luYm12SHZ6NjBBOTVXRnc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:33:52 GMT"
-        },
-        {
-          "title": "'Task' Season 2 Is 'Mare of Easttown' Crossover With Julianne Nicholson - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEVwREEzR1o2eXNyNFB0ejY5Y1U2elk0TDRGV0hFMXgxUFlpTHJhQjZpbWhIcDhISkRqMFU5Qm1QZ3NNZUQwQXg3Zk0waEVpbVRueEt4OVhJNG0yVkFxbV83ZHRCczJ1SXp5TlE5UGRkVWdpQ3hTV3NYOENNblJwSWtjVEtNdG9FdEZNcV9pb1JGSG5uandSalVWcGJjcV9EN0xVX2lWaw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:30:00 GMT"
-        },
-        {
-          "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTQ5VzJpdkt1RXpVOTE2VmpRWUREUmpxTGxoeDNvOEQ5ekRnM0dkVDZ2alctTlJLYUk0MlZHSmFaYy0xMXQtb25XcDNXbXc3RWx6YTZfRUlfaVA4WHFoOGNRY0ZDc0Z4VXd1TzNjNWhMMW9wWF9Gdk0yNXRKbFlvSmlNV0hUTTdWN19DcnBCZkxKRnZrNnp5TnVrZ0NUR0xDaU53LXlR?oc=5",
-          "published": "Thu, 09 Jul 2026 18:18:09 GMT"
-        },
-        {
-          "title": "Moana’s Record Rotten Tomatoes Score Should Give Disney Pause - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGgybnFxUzlMeVBvS2VpV3RKRDVqYWE0R01vLURNamVHWnd4OUFZT1hkaEp2b1NTX0dmY2pENFVLUTY4OTI1azlEem1ndFV0UGRUTEppLTRIbjVjUUo1ZHNfb2FFU0lRQlFMaUlqeVNRRG52X1hNTldLUnZOOU1BSXFqa3JiaWw5UmhXM3Z5cUFnclZaTWhlQ29kRFdUUFRHTUQ4UF9CNkZDSFRKakJIeg?oc=5",
-          "published": "Thu, 09 Jul 2026 14:04:59 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

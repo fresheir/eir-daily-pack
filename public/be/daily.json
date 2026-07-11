@@ -1,260 +1,43 @@
 {
   "market": "BE",
-  "generatedAt": "2026-07-09T23:10:00.299236Z",
-  "validForDate": "2026-07-09",
+  "generatedAt": "2026-07-10T23:31:39.664077Z",
+  "validForDate": "2026-07-10",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Veel meer hittedoden in Wallonië dan in Vlaanderen, en daar vallen belangrijke lessen uit te trekken - De Morgen",
-          "publisher": "De Morgen",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT2kwREt4S3BJZGp2WnhSd20tZWV1UUxMWVJWUmhhb3UzSVdWVmRkOGNmSnV3Q0tjY2Q3dGYyUThWRWh5U202TFpVRU1MZ0tpWTlkT05oLVpjNEN4RVNacHVmVXc0djhuTTAtWWtZMFFPd0NQU21INXBEakZzR2RGWkoxRExhUGlSNmtrZFRkbmtuQ01XbGd0bGxvQW1nbzNaUE93V204ODhnNG00UE9yb2JhNHZHVTY4d3hrb0x2TE1UQ2dQbFNGdXJ2Q1AzbHBUeF94eFQxSQ?oc=5",
-          "published": "Thu, 09 Jul 2026 17:43:00 GMT"
-        },
-        {
-          "title": "België krijgt maand de tijd om Belgische moeder en dochter terug te halen uit Syrisch gevangenenkamp - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcUU2dDU4TG1pWHZNM0xJVlcyNjJkTFdnMFNfckNPM2UyQzhmQmFSeWdoaXFOUTVuUXJHdWNJQmtvNUhpOVZnLXR3MUJidVl6R0VXdzVzTHB0SzFETTM1QWQ1Q1ZPUGpWbk51VThRTUloaEVPRkptTkt2ODRHYTV6dS1TZHlLSkVQbFpuZUFSaGZNRFZvZFJWT0dnbW9KdUp1dlNlN1JIUGdPQW5XdWpBMWVNOEtMYnlYMnJDYWlscFN4OE5MNjZ6LUZFRXB4MUNxRW9PX053QQ?oc=5",
-          "published": "Thu, 09 Jul 2026 18:06:55 GMT"
-        },
-        {
-          "title": "Vlaamse begroting komt volgend jaar dicht bij evenwicht, maar verslechtert daarna weer - De Tijd",
-          "publisher": "De Tijd",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcjFWaEtGUU9tYnFYckJMQ1RhQy1sYmszQ2JDd2YtYmU4UTRJZHJmSlE4WnU5RU1RSE1EUU9kMVNfdDZqeVk4b0lVbWozTHB6V1prRDU0NW5GQkFZT2IzTjQtUzdYQUQ5UkdKTi1HWTFiWTdjM2NrRm5HQmlzX29samZwUjBQRTFoQkV6VExmcm4teEhlejMtVXAtLTlKLU9DS25NR2p2WFRVOWhqMUFsOUM3dVE0N21CYTRZRWNlX1VkUkJuQWtUTUs5bkFtOVB4MFZZS3ZwdDEyN0QzNTBGYl9zWTBEdFppbEJJ?oc=5",
-          "published": "Thu, 09 Jul 2026 09:41:16 GMT"
-        },
-        {
-          "title": "N-VA haalt uit naar nieuwe voordracht Lotfi Mostefa als voorzitter van Anderlechtse Haard: “Dit is hallucinant” - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU0JBclN0R01lR3Jvb0k1SE5LaUVFNVJrYk5KemJzNDFRSDVNaHFUckctNjRoS1ZTUXdyUnRDRjIxUWQtODRfd0ZOTVBKV1FmV0dNT0haN21Gd0pYNmhDN0x2RkczTllsUWJHVVRySmVobUl3TWgzWjQ3TjhZeTRoLUNkblJiTzI2YllXTkFfYld6MTFLUDRBbjV0Q21SUnM0TDBmMkdMUzRRaDFnVlgycksta212Nm5KZElzOVRFT0FGNUNmd182Y2JpS3hUQlFFVVI0UHg5Zk9FRVJ1aWc?oc=5",
-          "published": "Thu, 09 Jul 2026 11:21:39 GMT"
-        },
-        {
-          "title": "Standaard Boekhandel, Delhaize en Bol stoppen verkoop van populaire squishy dumplings: ”We raden aan om ze uit de buurt van kinderen te houden” - Nieuwsblad",
-          "publisher": "Nieuwsblad",
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQS252VHdOaTdEYWx5Zi1iN1VtcmNhYlViQy1Dd1pkTkpZRDBmUzdLQlNOclRtOXF3cm5LcEMzSzk0akEyX09paWxXOXp5RnNRVXd4UmZKbFl4UnhId3BvOEdET2xLRGZNUUpNTTUwbWpMTlBzY3VCRVFHT2tZMFgyT2poeDl6Mlc4Zl9ONzVORmc2OVktSTdQRzlXYzBmZmdYeEpnS2k0RWF3YUplNmgtX2k3cktPNzFVc2l2NWdHRjhiUWVNNlJzVmEyMlVKcjdPZ3czbTdRQm0zX2xYSDlxZW03SV9qR2d6Qzg2QTNUcm1JVGxZLUphbTBqaHptVmxSeFBqTG5DR0d6amVXdE1xZzU2M0xLVExhXzEw?oc=5",
-          "published": "Thu, 09 Jul 2026 16:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Nieuw pakket Patriot-raketten onderweg naar Oekraïne, zegt Zelensky - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0RRaVYxMlpQUTdNOU5WX0VKNlZwb1AxeUdmdGhaazF1VFdKSERUbVQ1M1QzSS1GNWNoNHFQOGp2Wl9FRmczSndtY0RVeVNyTXMwTjFwRllUMWZHN1RPX2trdzVYc0N3b2hHSzVHQlNrQV9aMmRwd2hHZWo3eWtSV1FjZGxueENNZEtyZ2RES1hKcEIxLUpaQkYybXFWOURreWxzckJjc2E3QQ?oc=5",
-          "published": "Thu, 09 Jul 2026 21:10:34 GMT"
-        },
-        {
-          "title": "Minstens 28 doden bij fabrieksbrand in 'schoenenhoofdstad' van China - VRT",
-          "publisher": "VRT",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4ybUxpUmh5bGktSnF4WEtjYzRLTjJIV1dvTFdsa2tIc0k4ZlNWczB6M0pLZmNqbEFaQVNXUHhaX0Q1VmxlRXZlWTVEVTFya1Nha21SRXFybDZtdGl3TDdKcnN6Wi1teWFRLVU0SEZaNXROd2s2alBj?oc=5",
-          "published": "Thu, 09 Jul 2026 16:47:16 GMT"
-        },
-        {
-          "title": "Terugtrekking van omstreden Platner uit Senaatsrace is een ramp voor de Democraten - De Standaard",
-          "publisher": "De Standaard",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ3BFZEtIa3NnX3hhSndHWjAyT0ZLSkZQZ0dQZzBfMVZtZlNoZFJKN2EtX1lDWHFXUzltRE1QdThrSUxZa2pnQk1rTW9kbmZwZl9xeFh2Sm9TTGtkdnBFdGFDaFNIUDlOQUV5Z3ptWkFFV2RTYkwwRVZ5OHdtaEpIcTNLbjNvV0xwSllueF9YcktWQ0wxNV9CMl94MUhOZDI3S3B1YVVoZWZBOHM5cFp0TGh0OW1qaGlCdExrUWxuY0VRcVdSR1pBZkhCRXRWUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 16:55:00 GMT"
-        },
-        {
-          "title": "Live - Iraanse president aangevallen tijdens begrafenis ayatollah Ali Khamenei • Opnieuw explosies gehoord in Bahrein, luchtalarm geactiveerd - De Morgen",
-          "publisher": "De Morgen",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSnJqMmRSRXBhZnF5bXVVemlqd2Rrb3EtS1hoM1prV2hncEkxU194RmwyWm9PQ19CLW4yZHo2MFFZN2xEVHprbnBSVzhGQWZWNzdTUDFLamJ4UUF5WEp3cmlibEtWa0J0X1hrd3RuTTF5ZUdRc3J6S3dJYndkSWFham1oVllZQTgzc0E2NlRQdFVMWTQ1Y3VpWGFWR0ZUcHdSVEhVNEtpdXc3VXlSaWpQQ05jaDFTejF6VEdMWHhFR2xjZWNEeWNpZGp4SkNYYjRrMjRTU01DYnNQWGQ4WEtjeF93OHF3VmdtS3RxejNXMy11U2ZMeThtYnMtLXI?oc=5",
-          "published": "Thu, 09 Jul 2026 08:40:10 GMT"
-        },
-        {
-          "title": "Dodental aardbevingen Venezuela opgelopen tot ruim 3.800 - Caracas vraagt Koning Charles om vrijgeven goudvoorraad Venezuela - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc1J0UUlOQkM1Vmd0QXdOZ0VSZUIwQzY3UVNiandEa2xfWUlhbGlUdUFlS3NsaGthTUxPd2lpb0R3cmxPd0FEanY5dlJIcENvQmE0a0tJSzBLWEhmaXRBdklvM0l4ZUZYQS0xMV9pUGNaZlc1b3pNNEM4S29DcHd4OVhCTFc3bFQyeTY4YVBCTS00bGJTYkh3MkswZmNoUjBuckZLSHlWTWFPZkxWaklqNUYwMGVjbnVzQ2ZmNUFJWG5BMEFISTltQVpCMG5XdDQtOS1pZ3MwRmFkYTVyV25iMjl1ODlSMWlDejhHOWNvdnFPMmRF?oc=5",
-          "published": "Wed, 08 Jul 2026 07:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Uitstel van executie? Vergadering bij Volkswagen eindigt zonder duidelijkheid over besparingsplannen - VRT",
-          "publisher": "VRT",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObG1Edmp6b3I3UUZhSkl6dldXMWdIajkwbll0YnhuMlQ2UFVGVC1QSVFzcG1nU1RYRnFNek1NWVVOZlpCdGJhaVhTUm1PVDlVRFNjWjFRSlprV1BUSUZ4bnRsempGR2ZfY1pYZkJSRUswZGxwMEd1UUpSSEY5QWFkWEZyN1JIZTVNRTJKQ2VlanVYM1JfeWlvbTVxYlJ0MFVhX2VoTnlB?oc=5",
-          "published": "Thu, 09 Jul 2026 20:19:10 GMT"
-        },
-        {
-          "title": "Na Standaard Boekhandel halen nu ook Delhaize, Bol.com en Carrefour squishy dumplings uit de rekken vanwege HLN-onderzoek - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRWxpUkR5VDEweENyaEJxcThfMGdrdlBMMUdFQnR1ZnlhQkRfeDlqT3N5elJCeUswR0dyS0dESUZERXVScnVzeUV4N1BrRVN0R3RDOHJXR0dvVHlGTklfLVRmYkpRLXlhd0RIQjYzR2xxM2NKc1B4NXRyaDhxZE9xNjRIRHc1SFFuSkdlaGV4MEEtcUVKS0NRcGZ0OEFjcWpBd3dRTHlLaWFrdjRnSDd5WnBpTGlhdm91MFl2MVJkLS1vQWhjMmdIWkk1QlJrRnAyQlRha2M4SXYwS1dlZi1NTEJEUjFWakI0S2loY0RwaTdKQQ?oc=5",
-          "published": "Thu, 09 Jul 2026 16:21:55 GMT"
-        },
-        {
-          "title": "Chatapps mogen berichten opnieuw scannen op beelden van kindermisbruik - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGVxYXBKT1Z2UmpJbmJLRUVMMUstaGY4eFRyTDQzMHVycHZUWWxKZ0k5Q0VOYl9wd3p3YkgtRGR6SktVNnVuX2taa1A2WndHNWsxcE90Q3lKYk55RlVrRl9qU2JHU01YdUU3VG1QdDRjM3RIZzM5amkzZld2THVHR0w2ckRjWkNhX01tLTZjUUxuWnlvSXMzLW9YSHhsVi1WZUtDa05JcEY?oc=5",
-          "published": "Thu, 09 Jul 2026 18:02:10 GMT"
-        },
-        {
-          "title": "Regering-De Wever blijft onverwacht op koers om stijging pensioenuitgaven te halveren - De Tijd",
-          "publisher": "De Tijd",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWW1mdHFVWE13YVVQcUh1LVFNMUFpVjlLZXJLX3VQdTRzOUlPdDF3WWVacnJmaDBxOEd4QXZtM0JsMmJXRnhnOEVlQlppMU1jdkxmbkxCZnBWZTRVQXJ3bEN3cmd4V1RmejVMNmJmX2tDdnZwM25yWlBtZzV4WnU3aDl5REczaVJmSzVoV215UE14OFRybHVGLUV3emhQSHNCbHo0dWROUXJHT0VZZWEyanF5VW4xOVJwQ1g1SEhqTFlfSzNTbGxCWjdVY0RiVFR2ZkxaWGFITXJHbURkMUp4bHREdXlORmJK?oc=5",
-          "published": "Thu, 09 Jul 2026 08:44:09 GMT"
-        },
-        {
-          "title": "Schauvliege (Groen): “Ineos zou schade door misgelopen vergunning ramen op 1,5 miljard euro” - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWkNRcG1qVlVocnV1Tk5RNjRzQ3BWZURPRVc1NTg1al9TZTNwY2hhdzhNVVZ0bXU2V2UtUjZvMlRkY1JVSF83bmcwMl9pRFJwV0hhbkNhWGgwVjJVSFYzdTJHREU3ZlRrUjNveC1ZeUZDOG5jMk8wSTE4VTZjUVZlOVFiNGdjT1pNdk1Tb1FaN0c2T1R1OWVUdGI4bk1NaEpnQ0NQZ09fV3d2TVZoMFpyc0lBbFIwMnlDSVhwVk1LRHV5YzA?oc=5",
-          "published": "Thu, 09 Jul 2026 13:22:12 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Tadej Pogacar maakt er korte metten mee en trapt alle hoop op spannende Tour de France nu al aan flarden - sporza.be",
-          "publisher": "sporza.be",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQRXZhV0RNMk1WaW1hT1NsbWZ6MG5rek5sZVFJNjdNdHBxZ2FOcWd1R3NHTVJOaGU3c1BnMzlOQ0NESzRteWJISmZzSnJuV1VDaV9qX0k2dHp3U2dXR3A0bThXUjBKUXhlVEItSlpCcW1hVjUyM2FJVlRJVDhzMGU0dDZKaGFaVWx4b1hpaGY2eUdoNHpucmh5SnpsY21xaWpGWi1FUkxoY3JsTVp6aDdpWWlfS0JwczJYVmdmUWRpaEd2LXZkYnRBaExFSGxuVklkZ2FNZWxueGpudVlFbVlUOHV1TlMtelBsWC1iZHFMQ3hOekpoeGNwdDl4SWhaUjRTTktMZlpjQ0FrLU1pM0tTZ2F2YlpzVlRqNnhEQkpCTENtbkdpaHcxMEFxN3FjQQ?oc=5",
-          "published": "Thu, 09 Jul 2026 16:09:46 GMT"
-        },
-        {
-          "title": "Thibaut Courtois wil met Rode Duivels de WK-verrassing worden: “We kunnen Spanje pijn doen” - Nieuwsblad",
-          "publisher": "Nieuwsblad",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbWtNNFVCS1N5ZHZlTy0tWm0xY0xaVUFlUnJpNWJfVFhHSlMzczQtX1VBeW1XQ3BwZWpJaXo4UzMxYUhaMVpYX2FYU2JsQmItZVhpa3p3WWpjM2IwUk1KaWQ5Sjc0ZXlwR2lsQk1COHUzdnFiSVlrSDZ2Qk1sT0JoN1ZhMExEbEg5WUplSVoxenVxWlR3YzlHU3BudnYyTk5JMGllSVkyM3JTTjZELTJOM0VEdVhZUzdLR3JFSnhETVExaXVJR3BURVVabWJQaktJZXFLUFdpQnlGZms?oc=5",
-          "published": "Thu, 09 Jul 2026 15:38:15 GMT"
-        },
-        {
-          "title": "Als België stunt, treft het Frankrijk: Kylian Mbappé en Ousmane Dembélé schakelen zwak Marokko uit - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNam81eUhmaXFRa1AxSm8tNWU2azlBNXRMMFQ1dXJLSU1CaWdIZEJzSjJJa1h3c3QzU2I3ME9WWWhhNk9Ka1ZQYkdSN3JvLU5ULUpKQ1g3ZFM4V1duVWhBbl9iU00tYjhQRUgtSHVHVkdiNGRsOElWTS1vbHRBbmVuZDQ5aWxQMEJTSUxqa3BOaWY2bkJvWjMweVdNM1NTdkVRcnZaTmcxRlhXdjVENUdlQzhMQU5ROWE4Z0U5Y1pZZ1ZvdldKOXlyLUdQN21Vb2xRLWc?oc=5",
-          "published": "Thu, 09 Jul 2026 22:01:29 GMT"
-        },
-        {
-          "title": "Evenepoel steekt met vijf zinnen het gedeelde kopmanschap met Florian Lipowitz in brand: “Ik ben terecht boos, denk ik” - De Standaard",
-          "publisher": "De Standaard",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZGZRdkxmUTFCd0t0S2dOWjBMUUR3S0hNeWxfRUhoMkRwUGphVExiUm5zUHlDZWpSdW0taGZyX04wa0Y5WFgtUFZYS01RT0NHaXZXSGRKM0hvV1lTS3V2dENaSmRGRVRUYWpSbXh1R0hlS1ZqRHRnVUM4eFlqbnhSWW1CQU4zSGtNbmZWOXVpc3VrTmMzRXkxYXduWHB3dllkUExaS2h3WUR3SERrX0lHUEtzakZvWXpMX2NnRExHTGJsQUgtbFRZZWs0N3AxZHlXVHdvWFZVZVgzVXBkQjluUnA3cnp6b0JWMjcxY3JkU0JnU2pla0Z5T0FPb0l4dGM1U1E?oc=5",
-          "published": "Thu, 09 Jul 2026 22:43:40 GMT"
-        },
-        {
-          "title": "WK kluistert de natie aan het scherm, en dat hebben organisatoren van festivals en evenementen geweten - HBVL",
-          "publisher": "HBVL",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMkNRNF9tRmkxMDdJbmNqUHB1MlU1cXRSWjUtLTBvRm9MY2VZd2U1WFhFekNiSWR6djBWem5XakZFUk41c2UwaGdqdmVOVzNBbEpBVGotdnBWNDRBcWg0NkZ2amR2VC1WdTZTbnBFb3AxNGktV1pTUHRlc2JCYUlWS21Pd0xSYWFRZFlmLWlEdi1YMk5PQlFBMVFZVWhmbkJWOVlpdlgtUVQ0Zmh5TjFLMlV0YXFMcHlxdGJQRkZyQ2FKbHA3Vzdfbkh0ZWRzVnh2NWpudm0yMHQtbDJGVmNHY2dlY00?oc=5",
-          "published": "Thu, 09 Jul 2026 19:44:54 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Rusland legt grootste olieraffinaderij van het land stil nadat ze geraakt wordt door Oekraïense drones - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTjFHTEVLVHBob2c0c0xvY2l0UWtybm9UT2RPLXpPN00yczFNclBwQm9BM2hzTnNkd3hXZzRwVjBzSWo2VjBHRU43SGhaUmV1T3VobFJWRncxT3M1Qnh5VDJrYnV1enVsRXoweFMwQ3dYS2JUcVdSZ3dyUlVDUjJpTHoweC11Q0xRUHVKdlBISWZ1UnZoWVpXZkU1Vk5xQ3pESXZsdkFqTUU1VU1oaHY1b0UycXBKdVBBVUtZT3Bqbm9nWXItYnppV0VRM2J4d1h6QVJmTjlCVUl4UQ?oc=5",
-          "published": "Tue, 07 Jul 2026 23:03:42 GMT"
-        },
-        {
-          "title": "Primeur op Belgische snelweg: deze Maserati rijdt zelfstandig tot 120 km/u - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1lPX3JtZ3JtZFdkMUlXTktkVEY5cHExZVQ2aEJjcnZST09feU1yUExMSXVKZV9OeVk4Y0x5TjNfTGtJNXlmV1dCcFdrMTdIZHdKMEotNHNtWXRKR0NmSUlrbGJJeXgtUG1hT2FQUWJTeWtPN0lia2ZiaVczOGNiWm96eHRyQkItcEk2WlRUZ195aFZud05kQ2MzbW1XY1F1V29UeGhxRXpIbFk?oc=5",
-          "published": "Thu, 09 Jul 2026 05:09:20 GMT"
-        },
-        {
-          "title": "Voor sommigen “de grootste intellectuele diefstal ooit”, maar hoe werkt AI en welke chatbot kies je best? Onze techexpert legt het uit - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaFdJRXJ4cW9ONEozbC1hNnFCd0h2WDJlTHdaNW02YjFnOUpvVnR0Tk9sWFhaZ05ycE10dDdYaUw0WkFWTk1oZU55NUtnNTdTRUhoR3lNYzJMTkJnbjlHSkNCYUI2aTBrQ2xKVHRKVHp6LXR0LXVzQmhuNjZGZGp2UGZCeE5DT0U1aXdtWGdsTnZ1TS16SXVZTFdnR3pVLTMtcjVTQjhjWDc2b2VrOHVVOG92NlBmblRSYWtxNldPcjVBd3ZqNEtSX2w5Z0dRelBHNDJ1b2VhY1VSNk5GQ1pLZ0VnOTFkbEl4ZXpoTzJ1QmdvLUtXMkxJ?oc=5",
-          "published": "Thu, 09 Jul 2026 13:44:15 GMT"
-        },
-        {
-          "title": "Identificatie-app itsme verplicht gezichtsherkenning vanaf 2027 in België - Tweakers",
-          "publisher": "Tweakers",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclQydk5Ub3FUTENjUWY5ejF2cGNVSEwzWFN6M2lBSkhQOE80LWhtSnJIM1BMdTlBVG9BUGhaYkp3OHNfdnpVanBudEo0WDg3aVpDSGtIa3hncVRVLUJDZlZ0ZndOdlpzdFVnUnVSVW9pUGJ3bmxzY21ROHN0MUtyam5vLUF0WkRnX0tFX082QTZmWDB6cnJtSG1GMlR0U3dWeUxOWmJ4cnJoWmpFYndRMzNPNA?oc=5",
-          "published": "Wed, 08 Jul 2026 16:31:51 GMT"
-        },
-        {
-          "title": "Anthropic maakt dashboard waarin gebruikers Claude-gebruik kunnen zien - Tweakers",
-          "publisher": "Tweakers",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY3JldURoT05JZVlsNVZ6VDFESU80TzRLZTBTSVB4MkZORnVLMUpSUUFsdmhoZmNNSE52SExhM0RzYl9yd2oyZmpOZk9IMERBQ29FSWs2S0dhVk5venQwNGpHSmdPeE1CdmFMZkV4bTNqQUY3MXNjaVNJVG1Sc3lVQ2VFQ2JVWGE1S1JTb1IyYl84ajJVTUVpMDI0VGtaSGt2d08wbHpQN0lSZU5oNkNZ?oc=5",
-          "published": "Thu, 09 Jul 2026 17:24:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Today’s FIFA World Cup 2026™ Games: Listen Live on SiriusXM - SiriusXM",
-          "publisher": "SiriusXM",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zTFoxYVIxRjc1R0lkM19yM2VWdldEck9HbVQ5Q0FiNXktbHlibi1HZjBDc29yRjlHbEJyUTVCSzdWR1BMVzk1N3pLVE9VY3dfdDQ2cFByU001UC1neXZKUGh5VjVnV2dfMXc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:50:34 GMT"
-        },
-        {
-          "title": "Argentina, Switzerland renew World Cup rivalry 12 years after thriller - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEpYWEdjUlRHVTRZalQ2ZW4tcG41a0JPQU03N1NjcUNqLVRFUmlDTzZrNlhWbzZjZHZLQUJXNmJlSThrY0NGUVZ2Yk5rOTNRZ09tSXN3cFpmaHpCQmJjWnBOMzJLeG9sa1lnVXJOcl9ELWhqUnJPSWlmVDRWLWtTbG1Hc1dqVDJ1TnRsejlJSXVsRlpNQVA2cTdxNzREMFpCcWJnUHlBT1NtZ0FqRThtMkUzOGRreG9WQWpn?oc=5",
-          "published": "Thu, 09 Jul 2026 19:55:14 GMT"
-        },
-        {
-          "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
-          "published": "Thu, 09 Jul 2026 18:23:00 GMT"
-        },
-        {
-          "title": "Mexico vs. England sets new record for most-watched soccer game in U.S. history - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTklRemk4M2RCSzJjMjlFQU5sZzR5TnEwMGVqQTJCZldUcG9rV2ZhMy1RU0JQYXIxOFhCaDVXZ1N1TGdEUXJiSmFWMVpaN0t2Z3ljRzk2M3h3Z2FrdXgyS2VCTVpPQnR2VHRnc2JnS1FDTDgzRXl3VW5HRWVZaGtFS2R1RUJWdjR6aldPdWR6MHFqUQ?oc=5",
-          "published": "Thu, 09 Jul 2026 20:42:00 GMT"
-        },
-        {
-          "title": "Scotland soccer fans donate $15K to U.S. students after FIFA World Cup - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXRhTEFzRVg1bldRZmhoRHlBRk5LLUpSTlRZZGZBeXdIMkxsM0xTaXJzWHM3RmFGVFZSdXZ3Unh0SUp4T3pmZ0phOGlEYUs4bXZQSEhyYjNUVzE3TXU4NlpSbjExRFVnRi11ZWFabjBENVN1cHBUeWdybXZXQ1dVVXFGMjNJSC04X3RLd3MzcTNVQk1iWkMxQzRnZ01hS09HaUw0SUNobk9LUXpHYlFhUlRJVQ?oc=5",
-          "published": "Thu, 09 Jul 2026 19:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Emmy Predictions via Feinberg Forecast: Scott’s First Post-Nominations Read of the Race - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVhalF3dlZVLWZNSFEzSjdKYmxhRXFtano4b1hJSUFEd1gyOUhvMHFUaGJCRm5fTVZuSkNEdzNnaEpxOWx4d01ER3NDcXR4aW1rMS0waTlKY3dCOXFtekhXUExnX2YyYmFoQ0xqeE5sY1p6VmtVWWc0MDN2dzk0X2VhWEJHZ0FEdUZiOHY3NUtYTTg?oc=5",
-          "published": "Thu, 09 Jul 2026 15:18:23 GMT"
-        },
-        {
-          "title": "‘Heartfelt’ or ‘creepy’? Justin Baldoni video after Blake Lively legal battle divides PR experts - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWlJQcS0zTkstYzQwc3RzS3VrenFPeWtxRkV1X1pocTFzQ01MNXpKTlNXMEt1ZW5XVUtBbWdZY01xOVU1Xzd5SzVVdXdUZkQxVERGUlFIZTJuYTFtaE8xYTd4QmpmS1V0WWJ1RTUtNjRlS0RlcWo2SWNVNV9RUl82akpqLUtqVklfNktPdXVodGtxR3dBZUVTcUtIcGFPd002ZUxMQUVxTzM4Q0luYm12SHZ6NjBBOTVXRnc?oc=5",
-          "published": "Thu, 09 Jul 2026 20:33:52 GMT"
-        },
-        {
-          "title": "'Task' Season 2 Is 'Mare of Easttown' Crossover With Julianne Nicholson - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEVwREEzR1o2eXNyNFB0ejY5Y1U2elk0TDRGV0hFMXgxUFlpTHJhQjZpbWhIcDhISkRqMFU5Qm1QZ3NNZUQwQXg3Zk0waEVpbVRueEt4OVhJNG0yVkFxbV83ZHRCczJ1SXp5TlE5UGRkVWdpQ3hTV3NYOENNblJwSWtjVEtNdG9FdEZNcV9pb1JGSG5uandSalVWcGJjcV9EN0xVX2lWaw?oc=5",
-          "published": "Thu, 09 Jul 2026 14:30:00 GMT"
-        },
-        {
-          "title": "Bonnie Tyler, singer of 'Total Eclipse of the Heart', dies at 75 - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTQ5VzJpdkt1RXpVOTE2VmpRWUREUmpxTGxoeDNvOEQ5ekRnM0dkVDZ2alctTlJLYUk0MlZHSmFaYy0xMXQtb25XcDNXbXc3RWx6YTZfRUlfaVA4WHFoOGNRY0ZDc0Z4VXd1TzNjNWhMMW9wWF9Gdk0yNXRKbFlvSmlNV0hUTTdWN19DcnBCZkxKRnZrNnp5TnVrZ0NUR0xDaU53LXlR?oc=5",
-          "published": "Thu, 09 Jul 2026 18:18:09 GMT"
-        },
-        {
-          "title": "Moana’s Record Rotten Tomatoes Score Should Give Disney Pause - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGgybnFxUzlMeVBvS2VpV3RKRDVqYWE0R01vLURNamVHWnd4OUFZT1hkaEp2b1NTX0dmY2pENFVLUTY4OTI1azlEem1ndFV0UGRUTEppLTRIbjVjUUo1ZHNfb2FFU0lRQlFMaUlqeVNRRG52X1hNTldLUnZOOU1BSXFqa3JiaWw5UmhXM3Z5cUFnclZaTWhlQ29kRFdUUFRHTUQ4UF9CNkZDSFRKakJIeg?oc=5",
-          "published": "Thu, 09 Jul 2026 14:04:59 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }
