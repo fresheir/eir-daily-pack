@@ -1,7 +1,7 @@
 {
   "market": "FI",
-  "generatedAt": "2026-07-11T22:45:39.869576Z",
-  "validForDate": "2026-07-11",
+  "generatedAt": "2026-07-12T22:45:41.736418Z",
+  "validForDate": "2026-07-12",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,10 +9,22 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Salamat iskevät nyt Uudellamaalla – iso tapahtuma keskeytettiin Helsingissä - Ilta-Sanomat",
+          "title": "Bakteerit | Ainakin yksi ihminen kuollut todennäköisesti iduista levinneeseen salmonellaepidemiaan Suomessa - HS.fi",
+          "publisher": "HS.fi",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45ZHloZkhubUtnRVFqRkFRdGFEclNvc09ORXNkemNLcDVOc1FFZmJVM2taVVlUMnNRN0oxTHBJSmM3UXlFWDU4Ykdxcm9tYWRPQ0M1RDhxRmNrUQ?oc=5",
+          "published": "Sun, 12 Jul 2026 18:25:00 GMT"
+        },
+        {
+          "title": "Rankkasade vei tien – kaupungilta varoitus liikkujille: ”Ei missään tapauksessa...” - Ilta-Sanomat",
           "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MWWl0T1NpRmNhM1ZqalQydEpzbVhFTTA4V2xBTkthVjlEcXpkdWhRN1RrdF82YS05WWw5c3llUU80WEp2aFpHZ1doMVhvcWRWQ3o4U1pvaWNlUTZJ?oc=5",
-          "published": "Sat, 11 Jul 2026 19:26:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BcDZtT2VUSmdXSzJzWU1PZGhIbllrTXROWnEtMjlwclV4dGJlM1VlTnVpZ1pIdHNYRXFyMGVGOW9uQ01RR1lOU181SjVMYlJBeG1yam9Sd3Jubm9n?oc=5",
+          "published": "Sun, 12 Jul 2026 19:38:00 GMT"
+        },
+        {
+          "title": "Kempele sulki Kalliomontun uimarannan hyppytornin toistaiseksi – taustalla alle 15-vuotiaan hukkuminen - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9fd2RLZmhCX1RVNGg3WWtxUHdhS053YTNkRFRfZTlwQk16bmJKVUJEM3JjMWNQQm11cEoxS2o1Ym5kdw?oc=5",
+          "published": "Sun, 12 Jul 2026 12:26:42 GMT"
         },
         {
           "title": "Turvallisuuspäällikkö: Tunnistetut tappelijat eivät ole tervetulleita FC Lahden otteluihin | Urheilu - Etelä-Suomen Sanomat",
@@ -21,22 +33,10 @@
           "published": "Sat, 11 Jul 2026 15:53:48 GMT"
         },
         {
-          "title": "Latvia | Mediat: Kolme Suomessa asuvaa kuoli liikenneonnettomuudessa Latviassa - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05eFVHS3c5aTN6V3FmYWp0T0NnVHpuRmlFVEJsd2tXeEJmc0tsenh2Y2hHZ0hrM3JTMWd1bVRxMjc5MldqbGlJREVkdnUzMm1TeFdLeWktbG1zWTB1?oc=5",
-          "published": "Sat, 11 Jul 2026 15:45:00 GMT"
-        },
-        {
-          "title": "Syöpäpotilaat huolestuivat Kelan päätöksestä: viranhaltija tyrmää pelottelun - Aamulehti",
-          "publisher": "Aamulehti",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cHBEWVVwaDBkMmhPcUNNSUhXWFlzY0RkVnZRR0pKb2YyX1pfVW1hYVlRbmJVbFBVMWktUHV6dG9iUlR5VWFkU1ozN19iY2ZWZ3hJM1BIbGdPM0dHNjRhOWYycFlsUQ?oc=5",
-          "published": "Sat, 11 Jul 2026 13:15:00 GMT"
-        },
-        {
-          "title": "Oulu | Alle 15-vuotias lapsi hukkui uimamontulla Kempeleessä - Satakunnan Kansa",
-          "publisher": "Satakunnan Kansa",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PYWhDOEhHVkQwa3dIRjdqazl2a0paVC02UnRNUDVuSEF4MzdRcF9FZ1MtLVlzallOYm9QaE51aUQ0dF9FUjNYcklsX1A1S0pRT2NuWXJlOXRwQWN6UmRxMGVUbVVEbjJGWXNjb1Zn?oc=5",
-          "published": "Sat, 11 Jul 2026 14:16:00 GMT"
+          "title": "Dramaattinen video Vantaalta: Autot kelluivat veden vankeina kuin lammessa - mtvuutiset.fi",
+          "publisher": "mtvuutiset.fi",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFhCTUpTMjlLSmdTaWV5LXNVMzBVMV84SjRPaENoQVhiaXN0Zm42aFk1UHJxOG9odnFXMm1WUk1GS2o4UWk5dmtIdEtpbXEtZ3FuWkVkVjhCamtOMzdlOWZ1eEY2UmlNb2NKRnVmMkZqRHVpVkI0akNGcllYNkthZ2s0UlFrVFpucEhaX0xwVFp3MmVicmxFS3h3X2JoTmZvVTFrVmQ3b1pWOERJczBHaDJzbXVIVDJw?oc=5",
+          "published": "Sun, 12 Jul 2026 17:02:44 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Etelä-Espanjan tuhoisien maastopalojen sammuttamisessa edistytty - Yle",
-          "publisher": "Yle",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kS2IyYXczU2J0LXVRSFlJSHRwLWN3R1VUWDJ6TnpvMnBzLTdtNE5GMVBBV0QzYnVBRFhmbU5SREcwQWJnMmtqWjBCVnBtV01LZ2tnLWVB?oc=5",
-          "published": "Sat, 11 Jul 2026 17:18:36 GMT"
-        },
-        {
-          "title": "Ukrainan sota | Ukrainan uusi taktiikka on iskeä Venäjän aluksiin Asovanmerellä - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mN0lyRXdiV3JlRDg5NlBYa0lSdmllQU5zN1h0QVhKQmxJMmdFZVFoR3pYUjBIUU9UM2FHYkZMWUxINEhKSkpUNF94TUlXTUpDckNTc2hVUzE0blMw?oc=5",
-          "published": "Sat, 11 Jul 2026 15:30:00 GMT"
-        },
-        {
-          "title": "Siperiassa kehotettiin etätöihin polttoainepulan vuoksi - Hämeen Sanomat",
-          "publisher": "Hämeen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBicm9fXzZERXVIMW5DRkQ0Z3VGM0UwOXZQWThwbTFKX3Bua0Z6SFhtWWN2M01CWmZTTzJWMWp3T2JiVlR1ZExfSkRvZjEtbEx4cnQwNGpSNHNGSHd3ZG1NSnZaZw?oc=5",
-          "published": "Sat, 11 Jul 2026 14:36:16 GMT"
-        },
-        {
-          "title": "Kiinassa hätätila – Yli 1,8 miljoonaa ihmistä evakuoitu - Iltalehti",
+          "title": "Ukraina: Rajuja iskuja Venäjän selustaan – 14 alusta tuhottu - Iltalehti",
           "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90MUU4Ti1wYTJJdHduWXZLQWRveWM0enE1UVEwaUFqRmlHM292MmxCa2xiZXgxV1JrOUdkMTlJeHBPby1UeUxMSzdoWUdpUGQ0ZG9waUwwZTJKR3ZfUzVmWXpTU0dEbWpZT1ZZQWZjNnQzcGl2eGpocE00Mi0?oc=5",
-          "published": "Sat, 11 Jul 2026 16:10:25 GMT"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DTEJTWWRWU3pWeHg1YUR2UUZfMzVZU0dzc2dubDFCRmZTM3hfd05nLU5iU3FoTnB0VTY1NEV1UGJHZ240SkpMN0xFNmhzT0s3WUhCMjlvRnQ3RnlnSlBrTjFLVFpSU09wYnJMblJjVkF5MFdlVDIxNzJ4Mkw?oc=5",
+          "published": "Sun, 12 Jul 2026 20:35:09 GMT"
         },
         {
-          "title": "Yhdysvallat vaatii Iranilta julkista lausuntoa Hormuzinsalmen avaamisesta - Etelä-Suomen Sanomat",
-          "publisher": "Etelä-Suomen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fcmpqTkxxTlFPVFc0TmNVbHVUVW9NaEEtRmdQZ0s4cE9KUHpfRlQzODlQeEllaUNNVVdoeDA4bGVqQk5rMDdIb25rZG83QjRxUFhKd1lR?oc=5",
-          "published": "Sat, 11 Jul 2026 03:53:44 GMT"
+          "title": "Yhdysvallat iski jälleen Iraniin laivaiskun vuoksi – Iran sulki Hormuzinsalmen liikenteeltä, Yhdysvallat väitti liikenteen jatkuvan - Kaleva",
+          "publisher": "Kaleva",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHJ5YkVKQWRiUzZXME1ycWltMmliZmVwOGVzOWxHVUdyUVFQSTNmWUFMX2dGenY3cWZTYV9wMWhtSEtCcHU4emRTQzdpT00tWmN2SG9OLVpZMnlBdXYzeHQ3VGk0QXo0Ni00SkJlZjNpcDZUX1ViNGg3d1p2bUhjc2NVcnRZQ0JR?oc=5",
+          "published": "Sun, 12 Jul 2026 18:59:20 GMT"
+        },
+        {
+          "title": "Venezuelan maanjäristyksissä kuolleiden määrä nousi noin 4 500:aan - Hämeen Sanomat",
+          "publisher": "Hämeen Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10bDJkQWp0c2lkSGNmcTQxYWxoZ3dFRjhYWC12QlhHdGFTZVBqM3hNRVI1c3RGQWNNRURhZHdvQktHUnl0b1FKTXl0Y2pnUFI2UHBmdVU0dHdNS3VZQ05lSVpVRQ?oc=5",
+          "published": "Sun, 12 Jul 2026 21:38:18 GMT"
+        },
+        {
+          "title": "Tulipalo pubissa Bangkokissa – kymmeniä kuollut ja loukkaantunut - mtvuutiset.fi",
+          "publisher": "mtvuutiset.fi",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY3BqVlZOTFNNLVgweHJ2V2YzcmotY2NmOVJPM1RqQzR6SC1KYmFhSUJFS3ZRSUlhZVVGQ3JqaFZGZjR1UVp5TFN4U1FBMVE4d3EtRi1ONkRVY01ieHBQRGZpLVc3MF9XZmNUeHpLLWJWeHRrWl9fQ2dvWkpydjVXTUZlNGV4dHJzUUcxZ1hOZ21QVm5KUEE?oc=5",
+          "published": "Sun, 12 Jul 2026 19:33:07 GMT"
+        },
+        {
+          "title": "IS: Päivi Räsästä ei päästetty Britanniaan - Keskisuomalainen",
+          "publisher": "Keskisuomalainen",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WYVNyb2lrRkdSWlN2TU1PX2lIVEdiTXhKaC15cFZBbnVmSU1yU29wckx0cDlDN2tYb0RRLVE1aDlWZkk0R1BQWUJmZVotd0JUMXo2cVpYZw?oc=5",
+          "published": "Sun, 12 Jul 2026 13:59:44 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "ABC-ketjun myynnissä hurja nousu – syynä kallis bensa - Valkeakosken Sanomat",
-          "publisher": "Valkeakosken Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CczFJaFhydkYwS1lRb0pjWlhoRXEzQkJwV0h2MjhiLXRFOXRNczVvMTB1OVlidE1jQVI4aUFLZXZhYXE1V0FYa1FjY3ZDcjUxMjVCUFVFamZjQVMydjUtR0ttZmFQU2RhUExiQms5M3pOQkU?oc=5",
-          "published": "Sat, 11 Jul 2026 11:00:00 GMT"
+          "title": "Aurinko tahkoaa sähköä Suomessa enemmän kuin koskaan aiemmin, mutta kuluttajan sähkölaskua se ei juuri pienennä - SSS.fi",
+          "publisher": "SSS.fi",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWWRsNFJ6Q19EQmpjOUhFWFVZaTVHdkE5Z2dNVGZCbFNWYm9PUWxyWWdGNHdGVlctTmluZWVmMW11VnN5SkxSaExPeWhSUllhdC1HZW0zelZxdlVlWTVoMW5GQ21RUVZIYXFZYVlLQ3hZWUpEU0VDV1FZbk5vSGg0Z1RIay1XcmJQLWwzWkpGbDk1SUx6TnNsdXczekxkWkt3WXl4cU8yRnplV2tmWFlqZzU4YnN2WHpMOGVnZDJmdFhwZFRZcVVDeGt0b0J1U1FTUVVMag?oc=5",
+          "published": "Sun, 12 Jul 2026 05:32:29 GMT"
         },
         {
-          "title": "Veittijärven asuntomessualueen alkuperäisasukkaat ovat tyytyväisiä yli 30 vuotta sitten tekemäänsä ratkaisuun – ”Isoin ongelma oli järjetön kiire” - Ylöjärven Uutiset",
-          "publisher": "Ylöjärven Uutiset",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlMzaW9RLWVScGNIQjJhaVZmY2xhSVdyMnYzZXd1WVc1TG9pYVNXeEQ5RElFTURFYjdWY3Zfc1BLSHBhX19ybVR4aDhhYnFYUENScTRvcWw4TThyZl9PSnozOGhFYTlHeG9hRkhtQ0ljSHduMGI2S2llYTJES2ROczViemE4U25sdHdUV3FPT1cyM3V6ckRxSGRR?oc=5",
-          "published": "Sat, 11 Jul 2026 07:12:55 GMT"
+          "title": "Näiltä Helsingin pörssin yhtiöiltä saadaan lukuja pitkästä aikaa – Parin kannattavan kasvajan osake voi lähteä lentoon - Arvopaperi",
+          "publisher": "Arvopaperi",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1czNEVTBWRUtpVWhMaHlOeUVYa292b29ObzdqbFNabUhkY2xRYl9PY0daSWE3U2pMNkJObWtzckNJVTFaOERGY2FoaHlkZjlmN2ZaZWdFckpkSEVHWWV1QmxHZ2RQRzZjN1BBV01vWTBfejFGVUtUUVJHUzg?oc=5",
+          "published": "Sun, 12 Jul 2026 09:01:08 GMT"
         },
         {
-          "title": "Teknologiayhtiöt | Apple haastanut Open AI:n oikeuteen liikesalaisuuksien varastamisesta - Satakunnan Kansa",
-          "publisher": "Satakunnan Kansa",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UeEo1dkhaVVd0ZGlrVFZDdUpOZXIzZWdnLVNFdmZsVzNqMXBWelpJanJwaDhLbEQ4REIyT25NSFpDWmFyc3pFRGhPaEFCaFZPNTZkQk9zMjBqdGFDTFFXbk0xQWJRSU5qMGZiaA?oc=5",
-          "published": "Sat, 11 Jul 2026 04:23:00 GMT"
+          "title": "Dacian uutuus yhdistää katumaasturin, farmarin ja hatchbackin - Maaseudun Tulevaisuus",
+          "publisher": "Maaseudun Tulevaisuus",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdnV4YXR6NEJqYVFVbkxoUl9rbVhoSWVEa3ZLaHhsQ0NObWwxNGhiZDdYOXhwdnFkU083emJKWlVIOWxMY0ZnMDJsdTFhaXIzeVBaZ01qdkppWUZfTzh1YlM0RWxjLWZPMG5iSUxCOTZRSzVMY19ENGhrQjZqU2tneExFSFNORWdxbVViQmlhZldtZw?oc=5",
+          "published": "Sun, 12 Jul 2026 11:04:03 GMT"
         },
         {
-          "title": "PÖRSSI: Neste ja metsäyhtiöt hyvässä nousussa, Nokian osakkeessa myyntipainetta - Kauppalehti",
-          "publisher": "Kauppalehti",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15TWNjV25RSkhfNFMwRFRFWHJGNXBrSmlMbTg2LXJBM0NfMTBoZmVPRjZvc3U3cVEtMjZWekhXcFF4Z05vaG9aYUtITmg3RzRQaGtsS2d2UHduc3d5eHhoMEtROUQtUXd4SDRZc3dKZ3BScDBudUhSNGFIWlNEZw?oc=5",
-          "published": "Fri, 10 Jul 2026 15:41:25 GMT"
+          "title": "Sähköpyöräilyn suosio kasvaa hintamuutoksen myötä – \"Buumi on vasta alussa\" - mtvuutiset.fi",
+          "publisher": "mtvuutiset.fi",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQk5pT2lXTks0cEZSTkR6UGdmOWNqeHJIQjZ6eTZGSUxEdEFrRmQyMjRpMW5SUTdmTmNia3lxY2p4ckNZaUdDVHd0UXlWZ2w1VXRNcGx3YnpZOEw5enhJeDg2OWh6RmY5OUVwUmsxWGozZWZOek54aEk4U295aFhOaW91Zjk5dGpYVVRTb2pQWVZrdUozbk5WSUlBcGdEN1FENjdicWswcFkyMG1Pa3VjREJGU1hxQQ?oc=5",
+          "published": "Sun, 12 Jul 2026 16:19:36 GMT"
         },
         {
-          "title": "MTV:n aikataulu - perjantai 17. heinäkuuta - MTV Katsomo",
-          "publisher": "MTV Katsomo",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mVFlsWjV2UkNmbUFSQ0RqR2Vta0k4R2wtQUpneUQyeG1ETmZXY216UVpVZjV6U0VrZERCZGt0VHV0MHBaem1yLU12MVFpdW5RMkkzM3JnMF9tcGFOakE?oc=5",
-          "published": "Sat, 11 Jul 2026 11:29:40 GMT"
+          "title": "Varallisuus | Hämmästyttävä tilasto: Näin heikosti suomalaisnuorilla menee - Merikarvia-lehti",
+          "publisher": "Merikarvia-lehti",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qUGZIN1FFN3VlS1NzRjVFMkFUR0FkdndOQkhwNjRuUy1tWTRoMGVRVk8zOVpmSWU2SlVxTEJiY3BENjlLOUtzZ2FocGc1cXVaSF9NSE1LdTVjWURDRFFQTUthbURjNHdZWHJhQlpn?oc=5",
+          "published": "Sun, 12 Jul 2026 05:45:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Seuranta | Harri Heliövaara juhlii Wimbledonin voittoa – näin suuri on palkintopotti - Satakunnan Kansa",
-          "publisher": "Satakunnan Kansa",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kMUFzX0RCNDNzVU54VjcwNUNKWExUaWdvOUplNkpxVDAzLXBkcWNEZWNQTXM4UTh6WUpzbjhLVzEzR0E2RnBIMUlsREpmQlpVZmRUaHhJcnRicks0RnN3OTRFalZRbzlPMmtBR0dB?oc=5",
-          "published": "Sat, 11 Jul 2026 15:46:00 GMT"
+          "title": "Norjan tappiosta nousi kohu – Nyt puhuu Englannin pelaaja - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcGRoSkd1YkRRbjM2cHN2YWFSU1MyTGZUZjY0U0JrOHVIWkV6TWdsUmo1cHVYdWIyaUhTYXdqWVJ5Sl9nY3JaeHUzYlZrcUw2Tm1FWlhqMFdaOGNFVlAtUjVyWWpDWExnLWdhWmNtS3k5LUtnM0tVRXcxMnBNNVFod0xDVThUUHVmcV8w?oc=5",
+          "published": "Sun, 12 Jul 2026 18:50:37 GMT"
         },
         {
-          "title": "Alexander Stubb vauhdissa Joroisten triathlonissa – hylkäsi salanimensä - Aamulehti",
+          "title": "Lionel Messi jyrähti tuomarille: ”Puhu kunnolla” - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94VUE1Ql9yaTktNGQ0dnFhVUt5WDhabWsybk5TZE9pNnNTRktBZkMxMVFvYk8tSzE2YktQc2o3LWpIMURoQVVGMWRRQTVKbGQ1VXdFa0F6WkFsV1drS3c?oc=5",
+          "published": "Sun, 12 Jul 2026 20:19:00 GMT"
+        },
+        {
+          "title": "Suomen ennätyksen tehnyt Hilla Uusimäki puhkui itsevarmuutta – \"Ei tämä mikään yllätys ollut\" - mtvuutiset.fi",
+          "publisher": "mtvuutiset.fi",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWxoQ0dzQ0RxM1ZrR214OFc0eHYyc3hFdHhnZ2M2cUNPMGZEb1p0ZVZNeW1ER2YwdDl1TXRabWVHMGdNLUNuY2I2eUs1czN6Mkpsck1RdklDOW9WMm1qeUZJaTMtQzhIUE9BSlVyR2V4cnJWUWxtVHpHOVc3eUh1NjRlbmpWNmEtd1dseDktSzN6ODNwVzkwLUNZcHVhZjdteEhMMEQwVHp2ZXZNYjkyVElrRTNEQWFNMWgwWTVJMnlzTk5ZUjF3Y21BeFA4Zw?oc=5",
+          "published": "Sun, 12 Jul 2026 17:53:38 GMT"
+        },
+        {
+          "title": "Silja Kosonen ja Krista Tervo sydämistyivät moukarinaisten kohtelusta – ”Miksi juuri me?” - Aamulehti",
           "publisher": "Aamulehti",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HdjVsdmxYUGZtRHRPR2txUDlQLTNVZksyc1pmNEd4N1FZLWxDMkNlOGhKQ1FkN0lfNU5jTE1BRUp2WHNRVDVkZFUzdi1sZFB3YUw4R1BYdnMzNkhBYjFocWNMNzlaZw?oc=5",
-          "published": "Sat, 11 Jul 2026 13:35:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HWUNlS0czUTFLUnVWQnNnMkxVX254VW93NG14eE54MVZlRjlIc3dKWlBDZ1VpcVJQNUI5czZ0Wjc4a3ViYXctYjc2YXJWemhCYmdDOF8yV3JjNlZ2LTFHUjBwb0JNdw?oc=5",
+          "published": "Sun, 12 Jul 2026 18:21:00 GMT"
         },
         {
-          "title": "Jalkapallon MM-kisat | Etelä-Afrikan MM-pelaaja Jayden Adams, 25, on kuollut - HS.fi",
+          "title": "Tennis | Jannik Sinner Wimbledonin voittoon – jännitysnäytelmä koetteli katsomossa ollutta äitiä - HS.fi",
           "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIcElPWWxCVjUxSHlMWWUzZkhMZzM4ajFfaVdtMWwyUjB1MjFMeWJtZGRadjhXZlQxMFZYX0ZaOHdoVHVCbU5IUXFOSkFxZnBINERQWFo4RXM2SGdm?oc=5",
-          "published": "Sat, 11 Jul 2026 13:46:00 GMT"
-        },
-        {
-          "title": "\"Kaikkea\" - HJK:n päävalmentaja Joonas Rantasella yksinkertainen lista parannettavista asioista - Veikkausliiga",
-          "publisher": "Veikkausliiga",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMlVNU1FHZzZFSkFaeS1UMWgzR282cFRJQXg1WU5mYXkzLVRqVTc3VDhJVDlkZlpfMzBNOFk4M2dhb0tOMEhrWUJzOU5WamdEMHRvbmtoR1RWSWhkMVZ1YjhtQll1eHNhdzQ3eTRmU01aOGZxdkxyeTlqY3ViWmZaWUxnRnFTdXd0bXJna2FHZndGTEdVVzRXODAzN2VQQkhZc3NDNlN5QV9BdU1KV0FvVnJGOFBUeUxrYnhOVFhqRzhvZmFZU0tmeWs4TG5lOERzZ1lpWl9B?oc=5",
-          "published": "Sat, 11 Jul 2026 16:53:14 GMT"
-        },
-        {
-          "title": "MM-ennakko: viikinki Haaland vastaan ritari Kane – yhteenotto tullaan muistamaan Miamin Hard Rock -stadionin taisteluna - Etelä-Suomen Sanomat",
-          "publisher": "Etelä-Suomen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPQzhOUTJHMUZtOHNkYmVPRFNGUmY2dVBrVHprOVFPQi02b1pXNUt1RnVJcGpuUVU3QTBudG13Nl9HdW9idmh2Qkhn?oc=5",
-          "published": "Sat, 11 Jul 2026 07:18:13 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sck81ZUxiVXFCbk1GcFVrMlR0Z0JsM1ZQUG8zdXVJaVRSYVMza0xpU3d2UWJaVmk5WWloeUJoaGN1S29PenM0alI5YWdJWE9jSGNZaEo5cVo0STh1?oc=5",
+          "published": "Sun, 12 Jul 2026 19:53:00 GMT"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "The ‘Soccer Capital of America’ is now gunning for the Soccer Capital of the World (Cup) - Fortune",
-          "publisher": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlV4a0xOOWhXNVZ6SlhQTTJrNWNDeTU3SzNtdnprLVdVTVNlMjI5T3lwQ3IxLS1XSXl1RkszRk9ndUlsMjdhbGdkVE9xdnhUVEhFSzQ1WGp1QVBGQ29VZmZaZ0VWcmhiOXZaVVlCcmpuX2JtWWFmUzQ4dDk3WndMcVUyMkp3WGto?oc=5",
-          "published": "Sat, 11 Jul 2026 17:55:00 GMT"
+          "title": "FIFA's top four teams make World Cup semifinals for first time - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeER1U1ZVaFdKeFlQQ181WUdzRzNEM1I1WjRFbl9abHlYY3JhWjdCc3NpYk1sblJnZm9XY2ZYMHBCc084WFg1dDZSRHF3X2pNUlJMcVctMzJ5M1lKa0NnRXVSNkFONDhHbWZVNXdSZ0M3dGtjZGh1QnFPTm1tbURETkdlQnJObTl2ZzZtaVV6cUI5aElCTEE?oc=5",
+          "published": "Sun, 12 Jul 2026 19:34:00 GMT"
         },
         {
-          "title": "2026 World Cup Title Odds: Spain Surges After Win Over Belgium - FOX Sports",
+          "title": "The Ohio State Of The World Cup? Each Semifinalist As A College Football Powerhouse - FOX Sports",
           "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
-          "published": "Sat, 11 Jul 2026 16:20:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRGdFVER4cjFITDkyLUhvV2d5N29PYTM0a0VULTZGOFdaMmFaZnJKREkzUDBWWlpCVFF4bXZTRVUtSDZWUnlnaS03Nzg2WUl3RHlqaHZoZE56cXg4ZjZER2VDQkdpYTNQLVk0OFUwd2d3MnEtNVhFMkpVeF81Q05iWUg2bEJWeHk1cm40a2FLOUZPdlNRQWFPSTNUNmhlTmxDN2x0VFlPclRIQ0kzbGc2cDN5Y3VnQ0lXMFIxRUwzc1FQRjlrQmg5cDlCcw?oc=5",
+          "published": "Sun, 12 Jul 2026 20:53:37 GMT"
         },
         {
-          "title": "+![TOTAL SPORTEK]! England vs Norway 𝐋𝐈𝐯𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 FIFA World Cup Soccer 11 July 2026 - Business and Investment Development Agency - CzechInvest",
+          "title": "[LIVE^FOOTBALL]FREE]* Zverev vs Sinner 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍ FIFA World Cup July 11, 2026 - Business and Investment Development Agency - CzechInvest",
           "publisher": "Business and Investment Development Agency - CzechInvest",
-          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQRjVLZndTVVkzV3VSeEpIVWdPOHJCWTF4XzFuWFRuM05rZUxmLTBlSnBvdFNDLWRpSkhnQmVicHhCSFFRUngwOVYzX1JhVzBxWHN4LWdxN04tc2hQd0tRY2JMY3A3bThMZkZ6LUNDNUpEbXlsN3UtOERtaEtrUnMzTmxsNGtZaG1NdjFFX1JrTU51MmJUU0EzbTVEVnNPbmhkaFlOMDZUQXpGTnVjekZ2ZFBGZFczenNzUjZhWU5od1RTTGRpSkdwN3ZuYVBEXzB1SkNFSGNDX053R2NHVlVWWmpENFJNS2RpWHFyaXJycndJeXhyRUVCVS1CSnJfMTJpYzlMQXI5WFdPLW9mUzNRakFwejJXclA3WWlkX1FIVUZuWFY4V0xPeFYzZFlQcHo0dGg3ei14andTbHpLMFVNT05FYzl5aXZWWWZjd2RZMFo0bVR0bjNQNGRpT3JOdjhuMWZ3R1dJLU9Sa2N5N0hUN3R0QlQxS3N5TmhtMWN3cnR5VXVHUWRwSTFXNXNELVhkTy1ESklPNlc2NDE2ajFhakVrdTY0TF9SdlEwUUEwT29iVjU3?oc=5",
-          "published": "Sat, 11 Jul 2026 20:02:04 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQUU1qSzJsdmpuN2pOSE0yRW9LdFAwaVRpRTA0X3QtRHdwNTJYQVlWMzk4N0UzNVNZVlZxbjhneEUtY0tDaHFwUndWQTZMSUIxejZ3N1NVckpwSTBuaDlJRl9pVHBoR3VGb1lQaS1GYlU0b1o2aE1VNFdXYXhJeXlYaE5tY1IyQ3ZlQlBXSWo3dDdwRUZWZmNxU2dqSVRHMHhaQ3NJM2tZTkJ1R3p4UW5wRHk2eTJaVlRIZER4cXBNUDNXNnhFNlB6c0N3MXFncHNyWlBDMkYzT2RoS2RwTTVwd2d0dF9fZHl4UlZJc3JYWkJhdWNiaVFzT2dDUm9UZmYtMEpZM0RuTW5XT0RlQ2tlX0dlcjBSZUdvcEZ3UHh4OHNIVjcyY1pZZ0V3S0ZuTnZla2xZUGYyZ0ZTQzYtVDlnTFpOVHBCUWdWWTkxUzlUd295Ym9WTmdfVjFwYzlFeU4zWVFHLXY5Wmd0X241SWJBbnBtRmNXUjYzeEFQeEx1cGZNYTBhZzBPYTFpSm5PTDYzbXVFbGJ3ZDhPVW9GVWcwQ0ZTX3BmWl9kcUN1WmctY21nTGRU?oc=5",
+          "published": "Sun, 12 Jul 2026 21:59:47 GMT"
         },
         {
-          "title": "World Cup soccer star dead at 25 days after playing in tournament: ‘A gifted player’ - Cleveland.com",
-          "publisher": "Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd081ZFVJbEo0azN3LVZOczcxTzdOeUpuWGZTUE43NmNPRTNERGRRU3JNWGlVbFQzUHdTcjlaR083RXgzLVZOUmROeVRwazRGa1hiNnViVVNWVHVqdjF2WUVkdEJFR1RXaHNLcGpDeWZ4czdmUlllVGxlYkF6M01MNzgwWEFMd2s3LVZoLTE1bkItdlo5NkFZbDVfZ21VRGhteC1QUHRFdUZ1Y255aXg1TGxqTktNaUhBS3VnZEhJdmtwdlpiLUE?oc=5",
-          "published": "Sat, 11 Jul 2026 21:10:00 GMT"
+          "title": "England's resilience faces ultimate test against Argentina in World Cup semi-final - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNk1HNTZCUDdraUpKQUlMcFZsYU9LYVVWTXFoRTFjNVZsQ2lHYngyaDNsaHJMWldYSm9FZVJzQ3oxSy1rOXFIMVhtSFBXWmtWRFBNV3ZROHd0czgxRlhrTDBEaFc1NldFelk4RmZNb0k5YVFqYjJIVkMtUi1YTklkZm54TTh1cU04NEhIOXNScEtVV0FKUnRMeEk1MXQ1MnA5LW1ZY0xYNkdyV1ljTkdkS3lsTEh0WG9FU0ZtZm44d1dXTWZGODdz?oc=5",
+          "published": "Sun, 12 Jul 2026 19:23:16 GMT"
         },
         {
-          "title": "Soccer player dies 16 days after World Cup appearance - KTLA",
-          "publisher": "KTLA",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVp2MjNhUGE4ZFRIeEZZRkJnTkFqYXVLcXFtaUZWR3U0TlJkN1ROYjdTTXJxZ0VSaTdsRHpLcHp6SVV6bDQwRWF1cU1JZ0NSX1d2MC1rS1RQRTdCN3pqWWZ3NmhkOU1sMFhncXJEc29JdjB4SXljWWJ5VWJXMWVQcjI1QWE5dUduOUg4Z3k5VS1lUdIBlwFBVV95cUxQbXFtbHVKdUJGUU1FdTdqaDBfNjdxc3piZDZMZ3daYWZqbzhOUGxwVTdGYnQyamYtUzRoQk9hUnhIaFJ2Q3hycU50RThjM2w5X0hoNnpHUXZYR0pzdUtfWThnV1NDd2xXemhLX3BSZFVMQVV2MnFESzZka1JUV2JvWnNFQ2NZX25VRTctMDdxamtXbVdwUnIw?oc=5",
-          "published": "Sat, 11 Jul 2026 16:14:02 GMT"
+          "title": "World Cup semifinal picks, predictions: Best bets for Spain-France, England-Argentina - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFF2aDBBWlVSSUt1VHZYMXFyenFBdDJJSTJ6dThYQUZ6bVpWN1Jib1U5LWhpd2xBVTVKQkpzTXVkZ1VtbG8zbVc0dERWOXRleXlIQkdwa3ZvYm13Wk5qUDE5eUdLU29MQnZmSHgyUVB3MFpJdlRpbWIzZk9odXRWNGpBcW54MEcxa1NfRzdWS25DT19vYjZlYXRDSnJrNm53S3IwTGJMdnNtOE1vRFU0ek10ZXpYSkYwajNOY2NUMUVQQzk5UlZEVWRuZ1ZJeFRNVGxEM3hmRmNOb0NzdFE?oc=5",
+          "published": "Sun, 12 Jul 2026 18:58:57 GMT"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "‘Moana’ Failing to Make Box Office Splash With $45M Opening - The Hollywood Reporter",
+          "title": "Disney’s ‘Moana’ Remake Crashes at Box Office - WSJ",
+          "publisher": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1gxSnlsclZRRG91c0toa1JaVS1tbEU0eV82bWNVNUU0UGNnMWJwVnpiWFNKd1dQM3hFQ3J0ZjlCQWNtWnlFUFFoQUNZcW5JNEhPeGxQSTV4MHVILTFyUk9jZXhhZmdxRV9wZzQ1eFU0OWtCTHZJOE9pYVhMTV8zcFlBWWgweDk4Z0IzNnZyTQ?oc=5",
+          "published": "Sun, 12 Jul 2026 17:05:00 GMT"
+        },
+        {
+          "title": "Britney Spears Dismisses Odd Behavior on L.A. Highway: ‘Nothing Is What It Seems’ - Rolling Stone",
+          "publisher": "Rolling Stone",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXRmZEdXWEN0UTlaNmxjakpNNTVSNVY3Wi1fSWc1QklTZUMxbXlyRTEzd3o0NHlzV1VnbmVCbWlJMjZnU0h2U29MeWdvblZOcDE0cy1PVDF5R0VlZENUdWRTRWNSeUxfSUNpcVQybE9kNmltc1BtRXQxSVpJaERWWjNsT2dJWmtxYjNLejdYcmZpY0pneElrV3lFZnJNY3F2a1RfYklmdXFOUQ?oc=5",
+          "published": "Sun, 12 Jul 2026 15:39:35 GMT"
+        },
+        {
+          "title": "Everything You Missed So Far at Jay-Z’s Yankee Stadium Run - Pitchfork",
+          "publisher": "Pitchfork",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmOHZTeDZwYTJEMzIwYnRFVWNvNVVSemU2SWRjS1FROEtKcWdYQUNTSDNIeGh4a2J2eDJjY2d2a3hrS1FudFFDUGpjanU5TkpXRko1NmxObE9sQjdHNHh1Y24zNA?oc=5",
+          "published": "Sun, 12 Jul 2026 16:14:44 GMT"
+        },
+        {
+          "title": "Wai Ching Ho, ‘Daredevil’ and ‘Iron Fist’ Actress, Dies at 82 - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS1GdDg2Z3pVMkJETjl1Y2VEU3E0UkJVSTEtLWdEbGI3bWJXdm0xZ3R3NUlqeUJDWW1HaUhiR2xBRXQtOVh0OWhNZUk1WkVkbjl0QUVfMWJBclJEYWsyMERITHI3UTk1QTkwV182TDBvRVpYc3cwemtuY1hyXzd6Vm9QQmJvbjdRaE5CaVotUVVKSWZuTDV5bmk2dDR2ZmdZNllMUXplX3RfVzEyanNj?oc=5",
-          "published": "Sat, 11 Jul 2026 16:58:26 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzBpdjZYdU5tYUNYOXZEck5wOWFERWtLaUZjWHV3NzNyb3BGNjFwd3Z6bDB5UXdZRXhTcU5SVDFGWXJZcm1fWTh4Tkg3dXZYdkRBdVpHRnYzenB1UTdwZ1BDXzlYMjg2elVMdm51di1GZWNKY2NZd0hQdUw4aVNnTW5FWUtwUlJGVzF1RWpsNHdpZndwWFc3UXlCa1NtZVU1d1U1VA?oc=5",
+          "published": "Sun, 12 Jul 2026 17:22:17 GMT"
         },
         {
-          "title": "Blue Ivy, 14, Looks Like Mom Beyoncé With Waist-Length Blonde Curls as She Performs With Dad Jay-Z - instyle.com",
-          "publisher": "instyle.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM016SFRmMVhnYkI1enktbC1FdmVfd2xiUURRcTFlQTdjc2V2MERfcy15MFF6eE1xaXRMSkQ1OFlMTVRIbHVfWVlKcTZ2dTA5VXRQcjFyZWlmUGRKVkM5bFljVVhZbGFEZmpqbmNNdWRuTFhYbUlEZ0dkdmFmUS04aV9vOHRhSThLcDdVdmx4WVQxY2std0ZEWkItdkFZRW5YQldWRlVFOGRTNE1f?oc=5",
-          "published": "Sat, 11 Jul 2026 15:26:44 GMT"
-        },
-        {
-          "title": "Interview: Nolan talks horror elements, mythology of 'The Odyssey' - KSL.com",
-          "publisher": "KSL.com",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVp4T2lYU2kyazlfVXFhb1RoTTZFMjdaemtxOWNFdVZBZEZoQ3J2QzFERWF2ZlMwek1QMG1yWVh6a0p6SXBEQmdlYXVETVZBN3NVOU1VMG1IWGdzSlpUV2lZZlVPeFgyNVJ6OXJZUmhZT05ZS3FMR0pZbVUzeEhlQmNwOU1GbmN5N01lVGVQWThhcmNWOWoyQmVtZ3U5RTlY?oc=5",
-          "published": "Sat, 11 Jul 2026 14:34:22 GMT"
-        },
-        {
-          "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
-          "publisher": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWxyck9YZkZKRl9CcmxEUmUtMjV3VHFXTTlLeGE4R3BleWVnSUpaNHVBQzcwUk0yWDJYT2FlUlY0MEY1RGZaTVVIRGUwZ2o2eVpIMGZwdHdTMmQ4RzZGeHBYNE5BZ00zWllIQ3JVdXdPZnRTdk9OX21sR3BzNkJxQkdUeXl2ZFhsdWZBdFM0SXlyQ1plMUdrMmp5WjVFNkU5R2FWc2xZVmZJVERqTTE1QjV2dTRVaUsweDRMZktnbzZlcmF3?oc=5",
-          "published": "Sat, 11 Jul 2026 07:07:00 GMT"
-        },
-        {
-          "title": "Taylor Swift and Travis Kelce make their first public appearance since their Madison Square Garden wedding - Fox News",
-          "publisher": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0pLbURNSV9yUFNLSFJmNHZ0SHV2b3RaYVpYbGI1Tmw3RjlhWHhNSDVWZ0oybWNJMWdmNjUzLUtBcGxuNXBPV2wxV2lmOG04VllpX21BeFFtcmFLOEhqdm82YTJiaWFSOVNtVHh6dzRjbzdiNGI5VklSZ0ZKcTQ2czhFNEVvOEczdzJFbzJBQUJWeVhMcFV2NFVWVTZYYjZTXzZLdzhTRDBXU21hNVY4SWhQQmxrQ29P0gG-AUFVX3lxTFAtdXFQQWgwZ3R4cUtleUM5NVNMT1U5TUgwRlpXQXFVMTc2czFRTE9IMmVUZWJLQmhPU055NXFTeEFtbVZDSTU2VWpyd2pZTnY4UGwtcF8tTkpiMDNjYkI4MlpGYXhMVzR3dEUtdXFBT0hsdEdnUkFudk9rRU9WWXdZQVpPYzVXNTFjTWRDUU9zWWdKem5MNTBhUVNGMy14WmhHTjAtbU1EU1RFbWhnMVJMTnZVQjItbXc4QW92cVE?oc=5",
-          "published": "Sat, 11 Jul 2026 17:38:45 GMT"
+          "title": "Exclusive | Rosie O’Donnell’s prison visit with daughter Chelsea was first time they’d spoken properly in 10 years - Page Six",
+          "publisher": "Page Six",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVU11UjVyS2RxZWdxVkFTY0NRekgyQktlN08zQ2FXVmdPdXdTZmE5UFNxcDJ2UnU3NlpPZl93cUhZQUV5emVpbFZac0RxNl9yNFRuMWFGOURtN0hPTVltRDhXVXdiV0xwLW1lRmt2UGNoNVJRUnhUdUxaUy1uQXVPU2t0Q3I4RUh3YTRJVzJrVUVHMFpVVERiU0RhWnZpZ2JRZ3BMeXFHU201SGIt?oc=5",
+          "published": "Sun, 12 Jul 2026 12:56:00 GMT"
         }
       ]
     }
