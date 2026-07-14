@@ -1,7 +1,7 @@
 {
   "market": "AT",
-  "generatedAt": "2026-07-13T22:55:11.320816Z",
-  "validForDate": "2026-07-13",
+  "generatedAt": "2026-07-14T22:55:34.955881Z",
+  "validForDate": "2026-07-14",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
+          "title": "Bis zu 50 Prozent weniger Niederschlag: Historische Trockenheit in Teilen Österreichs - ORF",
+          "publisher": "ORF",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCVEdncU5URm9GbkxsNmNPdTU5TzFlZVdiSnc3UmpQZmhjYmNvbDdsdDFQYXpHdHhOM0J2ZGdKYkVuUGtYblE?oc=5",
+          "published": "Tue, 14 Jul 2026 13:40:20 GMT"
+        },
+        {
+          "title": "U3 Wien bis 31. August unterbrochen: Sperre zwischen Hütteldorfer Straße und Westbahnhof - vienna.at",
+          "publisher": "vienna.at",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeFpPbC16bGdaYzRFd0Q5RVBPb0pQMHlsNUVxWmJ1dVUxaEM0QzJDc3h4d3RlMjNSZzJLWXlaS3NTSHNuNjU4ZWV6OGZrT2xUYU9hX2ZFaFJtUmdyTXFZUllIT1pTUGNvcmtwSlkxVTd0Ui1FaGVQWUJVbW5KZDdSMFY1U3U5cjZtSnlTUFZKRS0?oc=5",
+          "published": "Tue, 14 Jul 2026 13:21:00 GMT"
+        },
+        {
+          "title": "Meteorologe im Gespräch: Sturmböen und Hagel in Kärnten erwartet - MeinBezirk.at",
+          "publisher": "MeinBezirk.at",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdXJIU2I3TlktMXptQjhCRVdLS1JSNWg1d2pHV1RuMFZWMVpNUk1sc0RvTGw3NEZjRFY4aEZyYkZZOEQzVGlSX2JTaTNSX0otTW9ja3MyMXJHamdqck1ya1dVQXNDUGpQeWdXUmZVcUtTdVVreklha19XT1UwcEIzMmFHeXBlelJaZ3hmOUU3U19YT2tZV2NPa2F5OA?oc=5",
+          "published": "Tue, 14 Jul 2026 11:34:10 GMT"
+        },
+        {
           "title": "Österreichische Buddhistische Religionsgesellschaft: Herzlichste Glückwünsche zum besonderen Geburtstag, lieber Bruder David! - OTS.at",
           "publisher": "OTS.at",
           "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdWtVN29udnhlVktleFR3N1Q3azVUTklVNVdmVEFxNjJBb2Q4WFI1TUVtb2FTbWlETFVrRWVBdmJtTFh4RGMxR1VPVGZmSlpnMkxWam5yNWRWQmlwUkpadE5zNTA5V2UtYlpSTHNtOXByR29yTVdxSndkUWVfelhkQWR1OHFXVUJwZ0wzWGNKdno0S2xlMHg4UFdoRUYxYlZQZjhCTmFpTXhLaVJ4NVZ1Ti1PRUFDbGFhRVFNY1lVdlVSVVZGcTFRZVBRaHdFZU9tbzZQb2E3TTRSUVdIWTV0bDV1cFVuYmY1U3N4ZU5pT1lIMXJ6bGZwUGZwMXV4NGFHcF9UNFJNZUNuOHV4OEQ0?oc=5",
           "published": "Mon, 13 Jul 2026 11:03:03 GMT"
         },
         {
-          "title": "Begrünungen: Floridsdorf erhält grünere Frauenstiftgasse bis Oktober - MeinBezirk.at",
-          "publisher": "MeinBezirk.at",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnljNFAwb1RiQUw4MXc1c2ZZTXJuT21nM1lpVEViMmFlaU1XUVlqR2gtR3ZyZVNUUVZjeWE0ZWJGaWoxNmpqbjRiZTEzVXNZcmRLZGg4YjVBQUl3cmdPUTJPTExkR1dKWTRvVXhwdGVkb25fWE5YTGFhYmhTemZ3bEFSbXlBRTYxUU9kczMyNlcwaDRMVnJDM1RaOTZEbldReXgwUmpMemF4Z2pXUmpYeGhuaWY?oc=5",
-          "published": "Mon, 13 Jul 2026 13:04:17 GMT"
-        },
-        {
-          "title": "Electric Love – Polizei zeigte Drohnenpiloten an und beschlagnahmte Drogen - Salzburger Nachrichten",
-          "publisher": "Salzburger Nachrichten",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcjBHUTJRLVMxZXg2bnpwWHhHQUZMZ2VhMzd5OXdIMU1RbGFFZG94SEdYdVRxMGM0alRUcFh5ZldVS2NVYUJiQnRCMzdoZXJqWUhTVjBOQ3BGdGVsZGNrR0t3Y3lmdVAxWDJSaUlOY21YVzZ4RGxsMTdUWHlNUUEzLWlIaDBWcldWbWNlS1hlSm9yVGVfN3J6SHAyeWZvbmhITnpSNmFTQlBwcHlOWUtQZVVwR2xlVW1WT1E?oc=5",
-          "published": "Mon, 13 Jul 2026 09:51:00 GMT"
-        },
-        {
-          "title": "„Semesterstart“ für Kinderuni - wien.ORF.at",
-          "publisher": "wien.ORF.at",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GT2ZQMW1ndTF0UjE2ckpXSm9xZUFsaXc2MDl3SGFOMjkxTHFzeHZ5SWJtZjBKS0pfQXJYSGlablVtUHl3Z0xRbkVkbWc?oc=5",
-          "published": "Mon, 13 Jul 2026 03:10:17 GMT"
-        },
-        {
-          "title": "NÖ-Feuerwehrjugendbewerb - Stockerlplätze für Feuerwehrjugend von Kürnberg und Behamberg - NÖN.at - Niederösterreichische Nachrichten",
-          "publisher": "NÖN.at - Niederösterreichische Nachrichten",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOXJDeHBrMkZWZFY4amR5VzdBQ0phVHV2WF9YNGlpMEFnTlMtUlc2RGNSdllxN0p0d2J2cVRKczhudFZpUld1YzBDdnVzSUJtMl8tdy1TUl9XRVRDSkU2TmdNYkRiZzdCejFNTEFiLTR4VEZHSWVxUW84d0JESkFJSE1sclhnb3JrYVk3dnpCUVVoYVc0N1lweU42RlFjWHQ1UmZiZzZCNmVOOUExZ3VlRWg1OUw1SXd0Rl92VHZFWkY3LW1rbnFJTw?oc=5",
-          "published": "Mon, 13 Jul 2026 06:30:00 GMT"
+          "title": "Land hält trotz Volksbegehren an Spitalsreform im Unterland fest - VOL.AT",
+          "publisher": "VOL.AT",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVkRBZV9XTmZrZWt3WmF4SWduckM2ekZmWm50LThNdGpGVkw1RGpZRmRuRHNBQ1NDYjR5b3h5aDFJOUtYd0NSSWF6WWFkRExqTFRQS1NzSTl4UHhfdjZjMkZLc1k0b3ZlejVNd19SaGpLS1ZlNmRjWGRITk9EUjJfNTlvWkg0TndoWmF6U2kzYTlzNXZ0clRNeA?oc=5",
+          "published": "Tue, 14 Jul 2026 13:49:37 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Trump will die Straße von Hormuz „übernehmen“ und Geld für deren Schutz - Tiroler Tageszeitung",
+          "title": "Nach tödlichem Angriff auf Tanker: US-Iran-Konflikt eskaliert - Euronews",
+          "publisher": "Euronews",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TbkhXWlQ4NVM3Ti1XNTJENkZIT2JqX1FDSUE0eXBEb19VM2VaRFprUmV4QWo2SVk4eDRub2JwSUw0YnBFcENjNVc2amlYNG9JZ0FaazNrX0t5Z0EtbkhVeERjZGdtUEliVnlkVGtIQ3pXMW8?oc=5",
+          "published": "Tue, 14 Jul 2026 12:47:52 GMT"
+        },
+        {
+          "title": "Trotz EU-Vorstoßes: Österreichs Entwurf für ein Social-Media-Verbot soll \"demnächst\" vorliegen - Der Standard",
+          "publisher": "Der Standard",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR0JnU1AzNnVlRnBsN25vMGNCVEpTYUZCNzNjNkppRmVkTDlTMUs5VUxXRXZrTG1JWW1meXdMY0hxLWJlUVhwWnJZZmVXWWdHelZyRUlua2Y0LTZIRFJ4ZjVQUW1kTTUzMVQtSGVSTlFuLVgzWEZWNDI4UFgtaWttQWhVbGt0NFJycl9iaHV5UjQ1LTlrekEwT3d4NjhLSGg3QWFQN1NiNXJ1c1ZjR0V3RFkta0g2QllKQ1FxVWpRc00zRmMtYmJxY1UtQTdWeDVaNHJKNWwzeXdndw?oc=5",
+          "published": "Mon, 13 Jul 2026 13:32:00 GMT"
+        },
+        {
+          "title": "Wie Europa und die Ukraine militärisch kooperieren - Tiroler Tageszeitung",
           "publisher": "Tiroler Tageszeitung",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkQtTkJNcF83cjl3RnVTSGNrbTZGRndPTG9HLVo5azVYVEtUNGsxYVNBWlpMYXpKREFGM01JZGVXcXlYd2hRUWo1bjlERTdUMjlDd1FKSGp6X0xVVnBOVzFzeXpJY2Z0MG1ESjJDcTZramw2aHRDU21nTFNDam54bVhaaThhMUVVamZxVE5VN1hMTmxSMkEyZjRqemk1ME5iZnM0MkxDaDNVVGRj?oc=5",
-          "published": "Mon, 13 Jul 2026 15:02:56 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZTdDbHc3cEJkVVFzYzZocGhjdENJMDJzRGdTck1DbGFhc0RoN2x6YmotcmtoRnRwUWRhR3VqTDA2UlhQcHVqS1pXaEN4bHBhOXhjbWQ1MnR3T0Z0QzZfZlNqSFdTRXlsZy13QmYtUF96bi1IWnNOUXI5aUFETElFYV9CcUIwV002SXNxUFVsYVU?oc=5",
+          "published": "Tue, 14 Jul 2026 16:35:49 GMT"
         },
         {
-          "title": "Sonntagsgebet: Friedensappell des Papstes aus Castel Gandolfo - religion.ORF.at",
-          "publisher": "religion.ORF.at",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OM1U5bjQxYjVOWXdxdW9lclVDZVdFM0dsbkNmbTlPcHZQV1NBRzFHYmtlbXpsdTd1R3l1OEwyX0phSktUcUZDcUJQaTdIX2pmUXc?oc=5",
-          "published": "Mon, 13 Jul 2026 07:27:25 GMT"
-        },
-        {
-          "title": "EU-Verbot für Social Media unter 13 Jahren empfohlen - Kurier",
-          "publisher": "Kurier",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2NnbEhydlZZRTFlODlNT2NBMFVjSVg1TVZVbm9mSW5fSGZyMkM5U3hxN2xKck1hWXRDTE1ERFBiOWJqQllBSTBtZGZpTEdfbFJOQklIOEpaUmp4NGgtSUlQWkFDOGxQUmtJSFFaRWtzR1pvS2UyNHNraUk0VlBPd09YNlkxT2ZKR2MyMWRodkU3blZpeldMbVY1bmFBX0thS21EcEk5ZFk?oc=5",
-          "published": "Mon, 13 Jul 2026 09:13:00 GMT"
-        },
-        {
-          "title": "„Legitimität verleihen“: Urteil zerreißt Trumps Steuerdeal in der Luft - ORF",
-          "publisher": "ORF",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vN1BNaVhRYnlKamxLWWE2bm9JWTB0X21odXNyWU5sRU56TXRBRnY4UzR2NWlNLTg3aUFFTEt3U3RoUlZhQkE?oc=5",
-          "published": "Mon, 13 Jul 2026 20:24:48 GMT"
-        },
-        {
-          "title": "Mehr Fluggastrechte für EU-Bürger - DiePresse.com",
+          "title": "T-Rex-Skelett für 50 Millionen Dollar versteigert - DiePresse.com",
           "publisher": "DiePresse.com",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzWF9NR2ZjZXdtYkpERkl6aXdpTHlWWGF3Wml3VmJPaDVPOTFVRUNEZnJOdG5XQnhDdWhWb1JiamJwU05Tc0gya3FPdWVqRXlBZHJPamNETkx5ZWtlT0hmcXQxelJBMTNfU3FBTEtMbTd2d2UzcktLbkVB?oc=5",
-          "published": "Mon, 13 Jul 2026 08:57:09 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV01ta2VBajNwZzJpblRiLW5RUHIwT1FhVTNXbFI1UnBFZmczbHczSU9ZTmdHUmh3WE9CNWsxekN2NXVHNXY2dGEzS1R6RTJGVmpucjN3TFBvQWRiTEhJbENIWXVReG5hNkp4U093bVZQb2NuRHdDODhKN2gzc0dVRE5uc3hQSVdPUlJ0X1Fn?oc=5",
+          "published": "Tue, 14 Jul 2026 17:11:06 GMT"
+        },
+        {
+          "title": "Lula da Silva wirft Trump Piraterie in Straße von Hormus vor - Euronews",
+          "publisher": "Euronews",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcVpmbU0wMkdUWTY5N1FPR3ZuZU52ZHExNzh1aEVRTEd6czVPcUFYcEdPQzN1azNCQWpXUDNxel9OcVFCSEtxZnlPU0M2WXVkS1FPa1loVzFqZUp2czU5TUVjSkthX05WbDRCeXBoTlN1cEtkUjItSUZ4dG80WHhsRjdrSGZQb2pJblZPYzhvM0FKNURSX0FleHpFUWZuZw?oc=5",
+          "published": "Tue, 14 Jul 2026 16:35:00 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "ATX der Wiener Börse fällt am Montag um 0,32 Prozent - trend.at",
+          "title": "Wiener Börse startet schwächer - ATX verliert 0,4 Prozent - trend.at",
           "publisher": "trend.at",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLTl0bm45azVyODVjRHBUZ2IyQTN1R3YwRDJ6blBHanhjeWVwNVZuVE1HM0JlR1ladlR2Z0YwMG16bmVpMXZMSUhBLUpGRTJ0NjhpVkxrdTQxTTFHc3ZlRkgzNXhNTWFkSjdOZTFjVlBKWkJnOUlTTlpDNkxkQzlTLTRWQQ?oc=5",
-          "published": "Mon, 13 Jul 2026 18:07:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS2dUZ2ZfMjVHMzJnbnh1R1R2LU1TOFBFMWNWaXlUUVpHY2xaNHUtTFZKUVVaUS1pV3QzUlVFakdJLWdKaFp4NDVURUh3aHM1cnhNSjlBTmNQeVo1N2FGYU4tSk1jS3pRVllUSlB2ejJOWUN3T0duVWlEZTM5N3lDckZ5TVdfcFk?oc=5",
+          "published": "Tue, 14 Jul 2026 14:07:00 GMT"
         },
         {
-          "title": "Wasserstoff-Anlage der OMV wird 600 Millionen Euro kosten - DiePresse.com",
-          "publisher": "DiePresse.com",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDVOZFNKNWVOVlJRcEJnYjdGWVhKb1hjRmZQVmJGd2N2WDlZRHlxMldsZWJyNlFhNHQzREdIZTNhaEdESldrc2lkRHBkRXZrT21MXzlka2pPR0l4djFjaFFDNFplT2Rka1BVUmNCRUFkbUpFaDJKYkQ0eW1iVU9UWXFsNnZVZWIwSDRQUGtsV0Z5TVV3SzMw?oc=5",
-          "published": "Mon, 13 Jul 2026 12:47:25 GMT"
+          "title": "Halbjahresanalyse - Österreichs Immobilienmarkt gewinnt weiter an Dynamik - Leadersnet",
+          "publisher": "Leadersnet",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVmktdnRHaWZOcHgxblNZSGxlVTlFWlhOa3hOXzRkdzh1aGpqWjRUcU5abFlXT1I5R0dVaHJGUWJ1djAzLW4zN1NZSFdSQ1lYN0RNd0VQNmFMa1BnN1lOZTFDYW5kbjNKSU9QbzRJUjM4Rld4U2NLMWs4M1R6LWJqRHRTRkV1R19yWlpFUzRoMTNscndFSmFfMFdFZ3ZYZw?oc=5",
+          "published": "Tue, 14 Jul 2026 14:58:04 GMT"
         },
         {
-          "title": "Eigenmarken im Einkaufskorb: Bis zu 1000 Euro jährlich sparen - Oberösterreichische Nachrichten",
-          "publisher": "Oberösterreichische Nachrichten",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjdHTUtWcDhieXlfS3hjWXNUX3g2ck9jYTNkc0k0RXRraTJPQmV0NHNHWFhHMHIzZFNVVVNDd2gwMERub0JjU2xuOFhFSDRueUlKMS1fRDJINDRGcmE1aEJnN0V5a0J5bzB3UEZVa3hrRmlxZ1RsZVdleTJUcHpkWkVXU2UzY2pkYWxNTHlrNVJjb3hMVUNWVnFaeVpkM01Pd3JzRjAxRDdEdEU5UGhndTNRdw?oc=5",
-          "published": "Mon, 13 Jul 2026 17:55:00 GMT"
+          "title": "VW-Aktie im Blick: Warum Experten vor dem Detroit-Szenario warnen - finanzen.at",
+          "publisher": "finanzen.at",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONENCLWhkUkR1OUdNNTliMWdrTG0wRDRrVk8yWXViam1aQ2V4dFh4bmdBMnFkbFJDa0licTJNZklOY2hRN09HaUdHbmE3Qm0yRzRjOG1aN2J5RDdVM2FyOWJ3a2U1UlJ3b2JTd08wYW5zT05pbjEzZGl3dHpSTGs3Y0trSWhubFczeFJUY1RaUVNpWV9OX2hHeDFPSmRfSnNlZ2ZvVkhwSlZuYkFSaXRmam1rVnVuajRWUVE?oc=5",
+          "published": "Tue, 14 Jul 2026 14:08:00 GMT"
         },
         {
-          "title": "Lidl ruft beliebtes Eis zurück – Allergiker sollten aufpassen - VOL.AT",
-          "publisher": "VOL.AT",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSnJDMTR1RUtiRXpyWjA0OHlhaFJhSjNuQjhJSk5oWlJVOWh0S21EWWVqOF9XejFpTUFRd1E0SlZBWHpVYnVZSml0ZXVYODBOdHdrMXZ1UjdzZC1WeDFOWUtIcU01UUNFS0xTZmktS3k4OEhxYmk5eHdiSU9DVldoM1U1YVIxM2FEeGdaRHduR19SQQ?oc=5",
-          "published": "Mon, 13 Jul 2026 18:40:21 GMT"
+          "title": "Euro hält höheres Niveau zum Dollar nach US-Inflationszahlen - BörsenNEWS.de",
+          "publisher": "BörsenNEWS.de",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd0YwZlJ4eXBYNmc2NVZFTGVfVFdVU1lTTVg0bWVSYVc3Si1FV2JvMTdaQlVCMFdXS2diVTVmaGRnbG5sMFcxMjFzRnlaRy1WZl81SVY0aklieHk2cmNjSjgwa1FCRTNXSGszcjFlcmF0dzBOQnE2dl9ickFieHAzRkFLSU9VdGpMQ1dxYXFoS29acVY2RVl3RnREaEZmQW1oU2dEMDdyckJpUUNFUGQwcnNqcUwtdkFPXy1vR2lkX21fYTdLNE14X014TGZwSjA?oc=5",
+          "published": "Tue, 14 Jul 2026 19:08:01 GMT"
         },
         {
-          "title": "VW-Chef droht mit Abbau von bis zu 50.000 Stellen weltweit - Kleine Zeitung",
-          "publisher": "Kleine Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUw2WGlSYXNwd3UzR2l3bzh3ZS1GQ0RMQkpva0ZwYWxzeDBjZXRjQ0xxemhqeUJuSWJsd25CX0M5T3RWekRLTkhTd0QxNkxfcGNXS2NUbVNvQUhPTHBFQnZiel90YnQ3eFhhbHp1dms1cVR5WGYwNTVXLTE2azdLV3lhNzhraEdBMTB2VldIN0pkYWROYk5BNjZiRERvVGJabC1Odw?oc=5",
-          "published": "Mon, 13 Jul 2026 10:08:00 GMT"
+          "title": "Sanierungsverfahren eröffnet: Hinke Tankbau aus Vöcklamarkt konnte Juni-Löhne nicht mehr zahlen - MeinBezirk.at",
+          "publisher": "MeinBezirk.at",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFQybTA3OHF0UTdpLWZrTmJKMEtXQXFzYXlHc1ZuUTV6a1ZtaVZBRDg0Y1pmOWR4dk1WaTVhYUxhd0l3SWFZQU9rVTd2a2dEWnF2VEFVUW9VTkZRUnA5eGYxVXpwdU5rbGlnbmtZSzUxUG9PVUNheDB2T0Q1U1hwbmE2MXZNeTNjQVhNU0RsTDhWVzAzb2Q5SnlGajdvZFBqYXQwMkdMQTRKWkp0d2JsaTFXamJDeERlUnJDbVQ1TG0zQU9QQnFR?oc=5",
+          "published": "Tue, 14 Jul 2026 14:46:43 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
+          "title": "Frankreich entzaubert: Spanien nach 2:0-Sieg im Finale - VOL.AT",
+          "publisher": "VOL.AT",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzBpcFN4eTZqd3hnTHhOb01yb25NUGhyTUtIUEdzTV9feGU4NWpwMVFBWmdla0J0NEIxbUxCanZTLVRuRkc5YnRTRUZYZEhiOWlWSFI1cDBKaDVmWjJ1dDhxQVlreHpHaFV0UmEzOFJROWVhcTB5M0xDM0VSWGdpcWxOZ0lLR3M?oc=5",
+          "published": "Tue, 14 Jul 2026 21:07:44 GMT"
+        },
+        {
+          "title": "Tennis: Grabher bucht ÖTV-Duell in Kitz - sport.ORF.at",
+          "publisher": "sport.ORF.at",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tRzQ4cmxJNjVGcFFJa3RGc21mZDQ0VlRlLW05cFlya2J3ZGNTX0ZSU05hN3E0bUgxRjEzR1JrRzFpTWdDRmlQSWJ4TGQ0dw?oc=5",
+          "published": "Mon, 13 Jul 2026 16:10:04 GMT"
+        },
+        {
+          "title": "Pogacar über Buhrufe: \"Denke an Djokovic\" - Eurosport",
+          "publisher": "Eurosport",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdno2alJiWjkxdWZNd2JzZG4waHM5V0h6bmJzTHVkSVdLRTlQSnk3SFJld2VZVDhMMEN0UGRnRmthbWdndUU0eWp4UFY5Y2ZCa3hJOFJjMDloTEFkS3FHWnBiMjRTQmFQaVl0X2pKekRTQ1UySHBGcVc4V0ZpZDdwbzJ2TVRtZGNKQzlRd01hekN1QldCQkhLdGNpUFpUXzc5Z1FOZENocUYwajJVbEJOZmlORHFRTmMtTDhReE1ualcxYnFuNnNKRi1fa0paejQwbVJzczI1TVdMdU4tQmFQU3ZtaVVoTGdfVVR2dXRwb1ZtZXZjRFJxVnZSSTdaZw?oc=5",
+          "published": "Tue, 14 Jul 2026 20:42:00 GMT"
+        },
+        {
+          "title": "Red Bull Salzburg bestimmt 19-jährigen Zawieschitzky zur Nummer eins - Der Standard",
+          "publisher": "Der Standard",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON3JMQk1GXzhZaUJvZ2FCbWxzRmc4TW1PdjVYcFJDRU5yS0s5Y3lfQWNycHo0Nm4tMGpHeWZhZzh3VWl0U0szMGdXZEdvTVU5aWMxNjFvR2taaE13LWNtQkkwbFVZWHQ3eWhyZTM5c1l3NE5YakI5cDJhajY4Slhpam1UUWtsU3g2OTZrdnQ2VWFpNFZ4UHR4WmJRR0RVOGFoeVo4NldOMXVYWVhuY0JRX1B5NA?oc=5",
+          "published": "Tue, 14 Jul 2026 10:50:00 GMT"
+        },
+        {
           "title": "2. Landesliga Süd: Beliebtester \"bet3000\"-Spieler der Saison 2025/2026 ist... - Ligaportal",
           "publisher": "Ligaportal",
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVjV1emdsRDgwWWwyUXpieFNEZnNWZW9zVVRuLUVMbmVOcWx0dUQ5dWxZaWdFeUR2WXV1Q3dXUnpaLVk0dmxNV2VkalRsQW9tdU5CdUNncDd3SEFSUVRmdGRzcGE4MWxtRElvRlpkSGxwTW1zOVFMSHlTR1JPMEpNbk91WUI4UFZHTnJpbkMybl9uQXBvUjRaV0MySkg2VzdjbUo2WUUtdGVrNTZMeVlGR3dFY2E5M0dqNEVMQnBFdFRpakM0RXFuT2FOTHNRanlDYW5ZMEswWFhJcVk5MUhfc052cGdlUnlLaTNMVdIB8gFBVV95cUxQTV9xNnNVcll6dWdNdW1zVGM1SGwtdFp3akZNQ3diLTNFR1BmQVBhTE5IdE5DWkxNZ3lFNVFDVExNaV8ybzRPVy10WUNZV0xUaTNWUEl1WVE2QjR2WmdCOEY5WkpYZjhNQkI2VnpnSXdwaDMxbmlkTzk0akIzMkNyZ0lob1pYeW96ckV3WDZtLWF2Wi1QNmV3UGRiWk1rS0NMQklDbnBjU3p1Nm90c2VHeVJJdEx0RWN1dmY1RlJ0QkZ4WFNqYmk1VUxwbFJvaHYyN0Ywd0UyRW1FSXZnZUp0MFVFWDNBTU1TVVFodWZyUWpuUQ?oc=5",
           "published": "Mon, 13 Jul 2026 09:38:32 GMT"
-        },
-        {
-          "title": "Grabher gegen Perelygina im Kitzbühel-Achtelfinale - BVZ",
-          "publisher": "BVZ",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkctdEx6SzFZWk0zbnAtbjJQell4M1RYLXNHX3JybFlwREdLZk5UZ3pVdlB1ZXJnZ1ZTMVNUVFIyZjBueENZajhNMU5ucEM4WWtQcWxzcmliN1VZRnpSaHlPUy1LckpKTW5sVUFUazFseHh0cE5rbTNQdThPV3FISE9vTVhybWJFZDJKT08wNUpzNl9zemc?oc=5",
-          "published": "Mon, 13 Jul 2026 16:17:00 GMT"
-        },
-        {
-          "title": "„Unerträglich“: Rassismus trübt Fußball-WM - ORF",
-          "publisher": "ORF",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sUnpCdm5Ub1VkdXA3MUROVWpiQUxRMUlWcW1aYnZkS0FCcENTeTRYcVhCMnB3eXA2ZTByeVlEUTRaYl8wQ0E?oc=5",
-          "published": "Mon, 13 Jul 2026 17:44:50 GMT"
-        },
-        {
-          "title": "Eintracht-Comeback - Adi Hütter zurück in Frankfurt: Gänsehaut und klare Ansagen - NÖN.at - Niederösterreichische Nachrichten",
-          "publisher": "NÖN.at - Niederösterreichische Nachrichten",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdmtmM1M2SDV3dFY0RE1UYmthTUlDRDdGOHE0RVNkd3ZTb1o0dzBkUXpxU01jOTczcXVtZEpkTUc1Z1BlTXJSWXRpeXFTY2NKWkVIU01OR3VvMnVaUWs2OUlWV3RBRXFYWnFsaWx5T20zRF9VZ0hxdVlHX1lVOWs3R05MQlExYjdOdE9reVlNZ3pIRTB2WlRneTJvdlQzd3RaSTc3M0RhdWN6Vm9HbG5ZYmJMcVpKYlUtMWx3cGdsTjc0ZWZxbDM4MTBvRFpETlJaQ1dwdFFkcm5fMndja0EyaFdKTQ?oc=5",
-          "published": "Mon, 13 Jul 2026 19:05:00 GMT"
-        },
-        {
-          "title": "Starker 8. Platz für Fabian Steininger auf der Schlussetappe der Tour of Austria 2026 in Wien - MeinBezirk.at",
-          "publisher": "MeinBezirk.at",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYm9hQjRVMUU4X203M0RvOHBpSVNqTkNYd3VoaEYxdVVBRXhiSkhMc09fdGdkZEotSHU1dUd2dzJjc0JYQVQ1Q2tnOHhWRlRoT3VLdFBZVU41WnFvOHJ4em10M0tGcG1XMFhYc2ZaeGVkTHZOOFB5dlhFc3dBUUNFN1luN2JWeDVraldaTEVhNHk3RS1od184blFuM0xrdE16MmZUTW00ZENKVVJfRDdFSGlqWng2TUV2dDAyVUVkQzZyOV9sWTBvVUd4eVBNVnBwV3gtQUxtMktFdGwwb1Q1NzlBRUszV29xdDVsanRGS2ZQTTR5a3RzX2E4aw?oc=5",
-          "published": "Mon, 13 Jul 2026 09:09:59 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Wegen Hitze: Frankreich schaltet erste Atomreaktoren ab - ORF",
-          "publisher": "ORF",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1WMHpMbFMzcjNZMHdoWjFhWDVKeUxvMS1pRHhhbHJMZFRteDdjTDU5MmdIRm1PcEJ4UUprSXpVZm1kRm5Fc3c?oc=5",
-          "published": "Mon, 13 Jul 2026 04:19:56 GMT"
-        },
-        {
-          "title": "KI-Megaprojekt in der Wüste: Wie ein Riesen-Rechenzentrum den US-Bundesstaat Utah spaltet - Der Standard",
-          "publisher": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa1BJZWZaUHFTdlM4UHF4WHBBRTlaNHJWeVZpSlAtV3o3WWY0d2U5NGthZ1pQZUE4ZlVmQUdRbFpzSWpqdFJlT2N6TFVXYi1WZ09xc0ZSN0NXRkVQb3F4a3Zfd2liMEpEcFlzcUFSb25tNlBkbm90MkJOVUlYVm5jNjU5RDMtSnNfNVNEVXF4MUtNQlc4UjQwNTd5TnFrQm1zYWpBVzd5eVFHMXBiSUd1enVWdVpiRDlGLW5rME9JSUgwLTB1X0NKZl83SkNPR1JVc1E?oc=5",
-          "published": "Mon, 13 Jul 2026 16:11:00 GMT"
-        },
-        {
-          "title": "Vier Menschen starben - Kiew feuert wieder Drohnen auf Moskau ab - Kronen Zeitung",
+          "title": "Kabel durchgeschnitten - Sabotagealarm an OP-Roboter in Wiener Ordensspital - Kronen Zeitung",
           "publisher": "Kronen Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9RNTRsNzdxVWhCZDBFd2R4dmowcm56bzlGMmFmQW5GZGlFSmNFWEhuajJPSHhCd0NNNGRPXzVTRFZFdw?oc=5",
-          "published": "Mon, 13 Jul 2026 06:25:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9kVndKSVdocVQtc1A5aXhSOWpoUG1TS2JudU9FT1hFeUsySERsZlRXNGFHdkJDRTB0U2ZjT01Ra0pDZw?oc=5",
+          "published": "Tue, 14 Jul 2026 17:00:00 GMT"
         },
         {
-          "title": "Meta stoppt umstrittene Bild-KI nach nur drei Tagen - Der Standard",
-          "publisher": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR0pka2xaM1R4YlUxcjR6WWRnRVZDTklPU3Job2lPNHNKUVNWUDJrQU0yWUUyMEY2azlDYXJaMkhwQ2tDWER4aDFDM1FBZnNZOTRKblY5OEE2SmQ0YzZaLS1PZVZrZTV4Mm9XLXJPeHpTano5b0hKUDlzVndMcmdjSVhwdFUzU3FPcFBsZ1hfbnR6VjJHZW1vekpUVHczZlE?oc=5",
-          "published": "Sun, 12 Jul 2026 13:07:00 GMT"
+          "title": "Google-Rechenzentrum bei Linz: Widerstand gegen \"größtes Boden- und Energiefresserprojekt des Landes\" - derStandard.de",
+          "publisher": "derStandard.de",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeGRyOTJzYVlncG90VGlCSS1OUzR1R2lyMEl5d0tlemJfWmJZdXZxYW0ydHREVWVnVHZnNGRqOTAzR0hGdWJ6QXY5X2JKeHk4S2N1VlhKQzR0U3Awd0o1a25aREtGTzFJaVZkdW1xNzdfSGUxM2NnbThRWktuU2JEY2RoUVdWdEFWeXJ3bmlONjNBNnZMWXo2cklDOTd3SURmZ08yREdnTWdaWVl2a1NPNXBQWllrZHREZkh2STIzNmoxT19Ka1ZkNDhlZ2NzeGpuenN6Qw?oc=5",
+          "published": "Tue, 14 Jul 2026 03:00:00 GMT"
         },
         {
-          "title": "Diese Smartphone-Einstellung bedroht Ihre Passwörter - oe24.at",
-          "publisher": "oe24.at",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSnZyLVh4blRCVktPamNUdThpTGU5TjlEZGVDMWRwQzk3UVdWU1dkSnlVd19MLXREUXJzQ2hEb3ZpdGRaamhlUDN5SEF0aW5XajJsN05zZGFEemg0SG1pUlowN1MzMDJRX2NGc0RWRzMwWXlxVVE0THN5NnVIMlNaem5oTGFFZldxQk53NG930gGTAUFVX3lxTFBOVFJ0UDhLdXVvenJiaGl6cU5zRURnNXhGa0kxN21YLUZuQThGNmZQbVFLdm5TLVdWaGx2QXg3OHV1MEsxcTVWY0hicDBCQVh0RjY0U1MzRzA0c0otd3BXRlFiQVRRVHl5cXdGYW9ITlRmTkdpSWpGNktDeXItRjN4YmFjMkl2Z3FaUmdfU0lVT01mbw?oc=5",
-          "published": "Mon, 13 Jul 2026 10:39:57 GMT"
+          "title": "Bestätigt: Microsoft versieht jedes Windows-System mit eindeutiger ID - derStandard.de",
+          "publisher": "derStandard.de",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYnlIeFBOWlpnZVYzNE93MFk3d3YxakdGTGZFR0RmcWxZcUN1OHFkeDNzVi1UWjhzSVNCZzlHaUNjQnNXVEdvMzFMc0FCUnJGelJwTmdqWGNtZFdSQzBETFBIZ0o3QWZqSjM2VjRjeTg1ZXFGeTBHXzJ1cEMzVW81MmhqVGdKcnJXdTNEeDFRdG9ROUZhLUhTcHVnaW53cHY2M0dfRnVKenFIN3NUenhDWFBaakhNV2c?oc=5",
+          "published": "Tue, 14 Jul 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Stromausbeute sinkt - Warum Solaranlagen die Sommerhitze nicht mögen - Kronen Zeitung",
+          "publisher": "Kronen Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pT2V1c3FxYlltWlRzSi1ZbXJwdll6X2NMdVBHc2UyeHdWb2xnSzVWdGhkeHNfMzU4bXgxWWhEeHhFQQ?oc=5",
+          "published": "Mon, 13 Jul 2026 13:50:00 GMT"
+        },
+        {
+          "title": "Uber schluckt Lieferdienst-Konkurrenz - oe24",
+          "publisher": "oe24",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xbElXY1FLX3FkcGZDTHBHenFLZ0xuaEtaNkdRa2p5WVV4eHJFWGx6U0Z4cm84NUg5cGJUeTV1N2RpcDNaWElLMlVKaWJaNmtPeVN2ZmlRb3p0RUNXdXUzWW5QVVZjX2pCX3VFNy1XVHBvaWVxUkJSdtIBfkFVX3lxTFBhY2RRamN3bVlxUGRveXM3T2QyNDVHRVFTZGRjNTJzZ1FWX1J1QVVTRHFKZXRIREZldXlaSmdjaGFTSUM2LVFZTFNRQkFnWDRWdzFJWFQ0YnJMajl5Y1l2NTdTMHM5VTBxM3ZpTExVbkZJR3VkNTVCaGtHOWxzQQ?oc=5",
+          "published": "Tue, 14 Jul 2026 14:49:07 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "How France went from World Cup embarrassment in South Africa to soccer super power - Los Angeles Times",
-          "publisher": "Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORExVUkpxNjNsM1UyUDEyNGh6X19uZWMtLVJWR1llQ3hLTkJyTmxWMHZOYzQ3YkRmNXR5NE05b3NwRGZrVGpiSGxyczlwdS1tR3B3MC1tVXlYNDR6TXF3ZERIa3FaUmprNkxWblZWdXpva1hxQTFrUHBNMUduQnZrbEFzN3RfR2JMUlpMQnJVRWpaaEw4OTRRTGpFbnVvb3QzeEtpZ2s2YTJ1VGNVNjdIMm9YWVlXU256aWN3ZVN3?oc=5",
-          "published": "Mon, 13 Jul 2026 21:09:40 GMT"
-        },
-        {
-          "title": "Highlights: Senegal vs Brazil (Men's) Special Olympics Unified Football World Cup Paris 2026 - Special Olympics",
-          "publisher": "Special Olympics",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZnZzSmVod1MwNUNFNm5WUkJCeDcwamtMNlRMOEpMSlZRajk4UWgxYWtfZzE3QURYVlVkcXpNTWFmWWlvSnZBWnBJX2ttOU9sclVxSDZYN1pUQS03YV9tOW1mUm1qSy1jU0tPUjhGVnExeHlESkVMNm9mNXFDemM5ZjhxVXBkU01wOGJJSG1fSWlPX0xhTnQ2TGpJZ0lVUlQwTVhlRVRrclRsci1JNnhscHFMNU5xbm1zSkJXWEE0c1l6X3BGemc?oc=5",
-          "published": "Mon, 13 Jul 2026 17:23:33 GMT"
-        },
-        {
-          "title": "Why World Cup hydration breaks have media 'salivating' - ESPN",
+          "title": "Spain shut down France to advance to World Cup final - ESPN",
           "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaE02NHBPWFBxWmhnR001cGt3QmtuaklQLU16bmdsa3ktUVRMeGVNQ0JYekN5bVltalQ1RXlCc2plR3doNHBSV0ZwWHBUcEY4QXBOYmM5MVhrT3lWRjU3UkgtTmpRZlhHeXVtT3k4NzNsWEN4UGNSSnBhQ2l0ZmNkQ2RleEJ3YmpuMnZGMzc4aWdnWk1KUEcxNnhDN0JESHc?oc=5",
-          "published": "Mon, 13 Jul 2026 12:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdndrOGkxSmdlaC16YnN1X3A5c3JkNU1NT2NNS0gyTmx3eGc5YWQ3R3VZX3BuaWJ5TVd0N18xaXBlVDU2YXMtNXRwdmdPaU9XZ0ZTc0Q5Q3FMal9UbVdjSmFLRjJWTEd3QUhfMm1VNU9Ub2FJZFkxOFI4LVNQU3pwR1VtRmEzZWhTQ0MyaDUtTksyc2M?oc=5",
+          "published": "Tue, 14 Jul 2026 21:00:00 GMT"
         },
         {
-          "title": "7 things to know about France's soccer dynasty ahead of World Cup clash with Spain - Times Union",
+          "title": "FIFA President Gianni Infantino potentially faces investigations over Trump’s World Cup involvement - WLRN",
+          "publisher": "WLRN",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLVFLT3BzWHgzYU01a3hOMXdFMTZ2YUpyQjktWm96QXpHVkJQYmVDMktSUWoyd0hGdnJSRC1Obm84dVd1TnctUi10bkhBRGRtcFBmSGVIVUdLX3cyeUpiMjNXV2NfV1ZBWkpwRDl4bnd1a1BNMWJFQ0xKOVd5YThrQmlicXVDcG9ndHA5TXFtc2d1Q2xaY25yUU00QXA1MW9vYnZ4UWNTdzI2cGhsZ2xkWG1rMHRNU0hkV1ZkQTZQVmRSWHBVZ2xZWmVfbXZZWFE4dDk4?oc=5",
+          "published": "Tue, 14 Jul 2026 15:52:00 GMT"
+        },
+        {
+          "title": "Dutch soccer referee dies weeks after being dropped from FIFA World Cup - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzZabXJHem40MEVhUDh1S3dPLTV2RDVRcnVqeUd0M1h3VWFLV0tneUk2bUJyYm9LRmdwVFMwWjQzaFpzTG90LUk4RzZIaHNGbzBpTTdBTzJUem5lXzFybEVXLTZOOUt0dERNZDJ6X1JMTjZteE5ud0swUTcwX1pmYlhoQ3lwVFdIb01rYm9WQXUxVnVTMU9iNDlSSlBQUEhuWDNQX0tTdFNvbFZvd1p6Wi01RQ?oc=5",
+          "published": "Tue, 14 Jul 2026 15:47:00 GMT"
+        },
+        {
+          "title": "Stoppage time explained: Here's why World Cup soccer games almost never end at 90 minutes - Times Union",
           "publisher": "Times Union",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnE4QUhNWGNqblRzdkFVU2h6WUpxMXk2VW1Gemx0bXA0bkJVVTREa094eld5eW5oWURNZV95MF9NMnFnYk5CQVhkTzdxMnpHTmR0b2lqczBGbEJHMFpBTHdGS193UWpzeGdOd0ZNdTY5VTBkdjF4eXNzSmE3c003LWhieVVGbkhrWkVuaTRFR2tMSXRBbEVkUERZUUJlbmNCcTEw?oc=5",
-          "published": "Mon, 13 Jul 2026 16:12:57 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN1FrZVYyck1DcHhaTkZPZXZHMHU3UXNWNXdIQk85dnIwUGw5QmJRM0EwOS1uV2h4S2JjOThfX1RVM3dqTkZUTmdCSFRPOFZXMXYwQ2dtVV9FNk5GZEZUZmNvYVNVTUZuRnRzbzdyMXJmS3VpSW43UWF5V1FVdFNLVVRuc3puVlQyZmw4dWEySExKZXQzbDZqR2hsWDVzWHREMnJScG9MSQ?oc=5",
+          "published": "Tue, 14 Jul 2026 20:41:27 GMT"
         },
         {
-          "title": "Expert World Cup Predictions For France-Spain, England-Argentina Semifinals - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdl9WV2hFdjdGS3MwbFRYOExyWTJFMDZIQU45ZDQtR19YNTJBY09BeGtEWFp5ODZDZXU1NWdBRVh0QjBJUEY5OXRKOWRxNUc0U0JlOHBCYm1EaWR0SDBFaWNDS0VJYUZ0eGJWYVYzdS1fY0taMHRhMDQ1VElEZFlnM0cwTnl4NmlvV2ZIY0J0VXU1OVFUZnpkR3R6eGU5cWRCYmR4SDk1Z9IBpwFBVV95cUxOSXVxTDF1eEJaeG5SNTFpQmJFYkQxRVFOX293aWMxVU0yS0xZejZKbUR0SFpXZktxc0V2MHZxeW1jeFhJQllyQUJTazNQQVJmZ1ZrQWxSU2lESEV5Ykw4azdkVzByYm5fVENQOGk4TFFjRmo4WmE4MVpEX3dQLXFFUmhia0pWRFRfd0ZTd0g5TVlKd2VITXlLelByb3dySS1wYzdXYUU5QQ?oc=5",
-          "published": "Mon, 13 Jul 2026 18:31:29 GMT"
+          "title": "Inside the story behind FIFA’s massive flags at the 2026 World Cup - Diario AS",
+          "publisher": "Diario AS",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmJ6b29rUWVwYVhmZU05QkFhVkxFX3VvX3VMd1EwVWc4VHFKT0ZoVHFuT0gzZGFZMkNKanlXQlBRRWpQRlVkOTFqZUxyRm8xME55cUtLSnNuRGo4MW4zX0J0NWZTQW5Ld2dZckJYV1pFR1I0VjdkeWo5QlJXWWlqN1FRZ1A3aHo0M19OcUR4LWwxUlFNVEFHa0dLYTBveFgzckxCcmJlRFhTb1lLX2hvSVJZRdIBxwFBVV95cUxQalRsb1YwYVdjRW5zTk1zdm1mZHZtX3p3dGhLVTVYMHlyenYwY3VKX096Z09YcVU0VlN0YXhmeGtfaEdVeHhWVFYzcUh3SDRNUEVLa0FOdU9HUFJiNnpsMkxYTEhscERybW9tYzZEOGprdXFLMU5POERoTFFWRWZ0MlA1c0VyNE80RzZ4OTVYZ0JRbFNCNXVCVk1qZEdtZmppa0RacHNvYjhuTmhOaDJHUm95ZF9TaFRCZFpyMG90SUg1S3UybVdj?oc=5",
+          "published": "Tue, 14 Jul 2026 18:07:06 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "'Jurassic Park' actor Sam Neill dies at 78 - ABC News - Breaking News, Latest News and Videos",
-          "publisher": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2p1VU56Y2pabVlCT1Z6dE5PajNSdVZFVWJfM2tOMFZ3LW1Za2FIeDNMYmNHeTNLcV91dnJnajV0V09IWG9jek9pWlZzbFlZbkV6Qm41THV2VzJoaGY1WjBYbXl4eVhwSk4yR0ZHNXlRUWZmeGhzMlZOVEJpUHFFNTVVZGhMNXVnVDB0RFJ1TmEwZ9IBlwFBVV95cUxNVnU5OFc5QUpXeWNzQTFMV2JBejFhVkoxWlVxcnhlVXpWRkF2S2dramVITGExTUdDZmRSV0VOcU94Ul9WalUzTHczVzMyY2Q5X2VJdVpxTTA2clp6SV81bWN2S3d1OVIxb0M2TjhoS0VmRS03LTdaMVVTS25wUGswMW5JaXF2TlN0d1NNNVN6di1YSGxydHdn?oc=5",
-          "published": "Mon, 13 Jul 2026 20:27:53 GMT"
+          "title": "'The Odyssey': Inside the Frenzy for Imax 70mm Tickets - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0xoUE5rOVdsbFRqVEJnRjVWMWdxYklSeUwxVzlISmNfdWdhN29zQklBaWNTZFRXQkFXdjgwcXR0T3BzTFJGSFJYWTRYRlJNUE5mQ3RlMnRiNFNmYlRxVjM5UmlVSHR1NGNoeEZ4Vm9vTl9zQ1ZLY0lhb2c0Vk9nSi1BNjdJNjdzQjBUVVB4U1hWUQ?oc=5",
+          "published": "Tue, 14 Jul 2026 17:30:00 GMT"
         },
         {
-          "title": "Jay-Z Yankee Stadium Concert Security Breach Caught on Video - The Hollywood Reporter",
+          "title": "'The Shards' is Ryan Murphy's newest murder mystery starring sex, drugs and Kaia Gerber - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdzJZUkg5SW03eGR6eTgzY3BaSERrdi13V2h6VHJSSVVsMnlsc2IwU21YNmFqM3pKbzNjUjktVk5aejdIY19VUTBBamhUYmZ1TUI5a0VPOGNuTmlYenNqY2IwYktjYUE2eXhhaUxGdW5VSUpSUkk4UnRsU2ZtN0ZjRW9yeTdaQ1Q2V3VaM1hxZTNGZEJEa1lrMDgtMHNFcnRhR3ZjWEpSNXEwN2FYNU5SNzlSRlh4RVNSS3dBalVpUXlKRWJxYjU1WS03a1VvclVJMzdvc2RReEpTU0FvN1E?oc=5",
+          "published": "Tue, 14 Jul 2026 18:48:41 GMT"
+        },
+        {
+          "title": "2026 Daytime Emmy Awards Nominations Revealed - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVXo2V3hZejBvWnI1bGJyelFEZ0tRRjRVOHRhdlBic0tSOWJxamg4SmRseGx2cUcxS1p5ZkRKdWVkOVUtYl8tZS1BOFFmb283ajU4RDFfTXlic1NDaDBmNzgwaV96UXNfNFJOR2FETGczQWYtQ1RtSkZxRTRhVl94N0NjRnNzNUNIdTkyWXpHdUZkVUd0dDVTaVlIempTVkJKOWFmc0pUbWVtWGx3RXQxU2gyRkJnQzd5dkdkTWZPWmgwZ2ZiRmc?oc=5",
-          "published": "Mon, 13 Jul 2026 18:31:06 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmkwYklNS05ZQjBTdnQ2aWx5d200THhPcVQ2VDkxc3dPRTRDYmxUM2pQTEZsVjBYSmNiWjNURVFheUhybXdJUk9yVmRMMTF4YlJFUnBObG1IeVZ6bFRnbEg3N1BadjFVY2hPV19rbERseE9DMDN2NlctLXpmWXo4bWRRRVg3YXQ2azJBcTV0MXJ2NkdHV05xRHRxQzEwS1ZQR1I5UEFmSTRzdFE?oc=5",
+          "published": "Tue, 14 Jul 2026 16:01:17 GMT"
         },
         {
-          "title": "California-led states sue to block Paramount’s $110 billion Warner Bros Discovery deal - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2dZM1Z4UFFmcllDRXdWU1NXZkVHdTlOZHc5TloxS1FOQlRCYTdCbjZJRXk5OW81QnZIUFBRWnFIeThHX2ZESS1hU2JReFl4UldEcFBBS0pjdEtITlpJZWFZamtOQjhWYlVFdUJRbVdZZ1NaU2VLLTJ4Wkx1Q0dJaHdXQUE4ekNCZURKUDg5Tlo2QzRhVXNZdkdxdEFHSEFId2hEMGIwRUZuZFRPS2tqa0UzVUdkVXNNUHVLYTB3?oc=5",
-          "published": "Mon, 13 Jul 2026 21:08:48 GMT"
+          "title": "'The Ring' star Daveigh Chase, who died at 35 while homeless, leaves behind six-figure estate - Los Angeles Times",
+          "publisher": "Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUG41TUthLTgwckN0ZGFJUUxHWVVKMnB5bHlqbUhVX0lZazJsV3J2YXZQV241Vm9iUFRsRjZPM1cwY09CVzJLZHB1TVdWNm1OSC1vQnp1Z1J2c2ZNVU1jSXB2Nmd2R21PRy1zdkVwRjdVYTh6Nm9nTlNtNUtUVS1UQ1N4WnZFMWIwZDFFalBSNmJOQnREa3VZMzNSVkQ0V0piLUs5M081X25tWW5jdDVqRlZDdzJuRWM?oc=5",
+          "published": "Tue, 14 Jul 2026 18:43:04 GMT"
         },
         {
-          "title": "Blake Garrett, Child Actor in 'How to Eat Fried Worms,' Cause of Death Revealed - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54eGFhQnoxZW9BMUFsRXI2cjdOWG5mV2FyUnZCaHQxMGxaVnVsXzUzNmpOZHRmWkU4M0xRdjl6LXN0ZUoyUHhHRGZLU2g4eHM4RW1BWW5ab0dEajFFZmxlR2NzMTNOaTVOalBGdkJ4dGFUajFJZU9mXw?oc=5",
-          "published": "Mon, 13 Jul 2026 21:44:00 GMT"
-        },
-        {
-          "title": "Sunny Hostin's Son Gabriel Cited For Trespassing, 'The View' Host Representing Him - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNME5adC12V3VZWjd1NTMyUFpNUlFYVDRvQjlzWlpFMmwyNVhHcDBodHNUZnpXN2g4ZUZpWXgycVlXLWx3VDFidWtWbFdxX3l5bnVyWUZYZUxzVzFCRWxMOE1UUWJkYVQ4bFNqM3NKYU5tMDZOT3JqZGhfZk8ySUZYUWFvVUhrWFE5V1E?oc=5",
-          "published": "Mon, 13 Jul 2026 20:23:40 GMT"
+          "title": "Ariana Grande changes lyric about her ex during concert - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUVfUl90djB0SXdDR2FNQ1VldWRRR1IxZ1R2VFBZdWVPQ2dlREJoOXdwMEhkdUdVNGg4U0hPam9vOGMxd25zVDhkUEZ3Z3ZsTEVKTVJPazlBTTdCeVBMVXFRVUFSeVRfeGZ1UFF5M2Zhb2JiMFlsckpUZjVSWDNoYURRazJCLWpxUTJfYTJhRWtiSXhrUDU4bU9ydFVlY3VU0gG0AUFVX3lxTE9PSmIwQzAzajEzWDlYYVYxWW1TTE9GTE5hT0g5QjZVNEE0NlBNWnA4TXVvMDg1cm1tb2llSklBM2EwVXhKYzl5WU44SkdvY1pHR0huQlJsaHdZTTJubDZrTUxqTTU1eWJMWUMxNm1vVkVkN2RXSVZZbDJieXdicmxyemd6MXF5WHdvWkNIRnJpZjUyWXVwMzRNUTl6YlJ4QUJJLUtmcllrUm03cmhQUUZLenJRZQ?oc=5",
+          "published": "Tue, 14 Jul 2026 16:16:00 GMT"
         }
       ]
     }

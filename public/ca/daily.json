@@ -1,7 +1,7 @@
 {
   "market": "CA",
-  "generatedAt": "2026-07-13T22:54:32.185962Z",
-  "validForDate": "2026-07-13",
+  "generatedAt": "2026-07-14T22:55:16.091536Z",
+  "validForDate": "2026-07-14",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Former Manitoba MP Inky Mark charged with firearms trafficking after hundreds of weapons seized - CBC",
+          "title": "Police Find 439 Guns and a Cannon at Home of Former Canadian Lawmaker - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYTFrRlJUUVJkZDg1dnpDRjNDN3hFazNvTmtLVEtKdW9lSEdlTjlrSXdiTWhGR0xQSTBUNE9wWDFCUnlGRjVoOHZrZ3YxZnlrcUtpRWI3MWJyVEtTM3RjSHp3U3RZdmt3X3VoWkNvUWJBNmtmaVlOM19LTmdXSzZwa0sxSG9BNDVZbklNOFJ3?oc=5",
+          "published": "Tue, 14 Jul 2026 15:25:49 GMT"
+        },
+        {
+          "title": "Gordie Howe bridge opening deal: What we know and don't know - CBC",
           "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjcwazNocFRndVZpMjNrdXpfY3UxYmxOend2WTNWcnNQbERtZkxsUzQ3NW5LT3l1aTRwbUREWlQ0LWxtdnlNdW42OVNBRl9PUzFzSW8wZFpXOFllUjNXYnVTcmlyWFZnUGpwLXZsMVVVT25vcVU4ODNVTEhwVHFoLXRZMHF5MU9pbVllemt4TVdheFdHaUE?oc=5",
-          "published": "Mon, 13 Jul 2026 18:24:10 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeExiNGtmTkoyNzVvR0FMd2xPb1BsclZ5MUlVaHA0V0dMeGxwZDh6OHNHM1NndEl4TFpvTnNiT0piUFVlX3J5VjRMS3N3WTBLWFVxQ0c2c0V5bFlqNU5FV3d3SzNNUHRxX0J3TDhMVWdRM2FxVjYwMWc3YXBxWVhGWS1lYVhKVHA3dmFCR3VBWGIxcHM5dXBhVmJEbm84TDF6TzVBVXpKQQ?oc=5",
+          "published": "Tue, 14 Jul 2026 19:08:15 GMT"
         },
         {
-          "title": "Man presumed drowned after tubing accident in B.C. - CTV News",
-          "publisher": "CTV News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGdMXzR5eEQxQk82TzM1enNhX0cxOHhxeXN1WkxpQVlabUZCVU1EUU5PcloxRWZfRnpvVGxuWXBmUVItUXRla0VORGhveTZ4UkRYQjhRQ214MUxHeW9WLTlxT0xLaW5qR001V0pfQVRtRHBfRXM3a1dUZUE4Ujc4VzFYX29aRmw4S3lFLUZpOXI?oc=5",
-          "published": "Mon, 13 Jul 2026 18:22:19 GMT"
+          "title": "Millions in Canada swelter as heatwave continues to move east - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93cE1rZ0VnMERiSDFTVEE2QjBDNWJJRTc0dHpSLVBGd3ZMMTVmY2t4Z0VORWlmTUlIcFBhRXkweVhGN1NCR3l4Y3I4WHZZNUdzV0ltb2ZQb3RIUQ?oc=5",
+          "published": "Tue, 14 Jul 2026 21:39:06 GMT"
         },
         {
-          "title": "Police ID victims in deadly Salsa on St. Clair shooting - CP24",
-          "publisher": "CP24",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTHU5aGV6Zm5uMkQ5Z2c1dnF3NHdPSGZJbGk2ZHVyMlI5aGxoN0R3ZkZNSUNiX051MUxXY1RvbHJ0ZEQ2a3ZieXZpa2x5Z0VKNzhOT0FqYUt6M1hmWEc5Wm1PejlGbDhoX3ZVekpoMFoyc1JUZXlrN2pRRWg5alNKX1BpTzFDQm03OHRmTVNmSjZIam81QlM1MFNSbnl2STVrNkU1dmxwUnQzWmpPTE80NFRGTDltcEl1dWxLdmVqVQ?oc=5",
-          "published": "Mon, 13 Jul 2026 19:04:16 GMT"
-        },
-        {
-          "title": "Police officers pelted with rocks, bottles after 'magical' Sunfest draws to a close - London Free Press",
-          "publisher": "London Free Press",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQU10WklEZ09WVERoa3p2X1k4NnVBaTVmT3prRDdqM1lYeUxLcnYxbXBDLUI0Qk9DSVVwX0VnRUR1WXc2bHVnMGpyTWlib1VkZTByTm9XclRfZXp4YTA3OE9ZS0U5OFZ5U1RQc2loZG04QWxMNVU4VC1TYjB2WjJCcUZCazhaZ0pxT2NOQ3Y3dXZWeC1SeldwNHZrakNDY2Vid2tWTFJNUjhMS3kyR3BGTXB3?oc=5",
-          "published": "Mon, 13 Jul 2026 19:36:14 GMT"
-        },
-        {
-          "title": "Heat, humidity return to Ontario while Manitoba shatters temperature records - Global News",
+          "title": "Ford cabinet minister agrees to repay cost of all hotel stays in Toronto, where he lives - Global News",
           "publisher": "Global News",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93eThqU1A5TFRLcS1vclQwSTBMNF93U2xCM1lXQ2tyS080YWVveVh6Zk0ybVNLT3lGT0J6QUZZdlk0bzEyLVN3S3ozWlpqSHgyT2daQm4tdUJiODU0S0NRV3lxcHNoTXJTVDV5YkRtdUloVHJlUGc?oc=5",
-          "published": "Mon, 13 Jul 2026 14:46:41 GMT"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwREFjWVZ1cVgwb3VQSmhHYm1OUUk4N0ZtTURyV3BLUVhtVXNjVDJuZjhrblFWSlF5UFNTRm5jSFpuOWVURDVwZXZBdFN4dkw4Z2t5SGxUME1zV1RfSUxISGlmNXFPS3dJbkZoTmtHWk12bzQx?oc=5",
+          "published": "Tue, 14 Jul 2026 16:04:37 GMT"
+        },
+        {
+          "title": "Jeffrey Rath fought for First Nations. Now former clients are fighting him - Global News",
+          "publisher": "Global News",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiM3RnUE9XbnNndjJiTDFaLTBZc2Y5LU5SX0FCZXY3dHZlTGlvMElYTnlZME1wRFl6NTRISk45NHlLLVNRVzB6bTZEOHRzdGdnR1RLRmdBNFd2MGJzM2ZFazFGMXVXQXBQQ3JyUVBwRjBoWjVQQ29iOWxBeEdtNUU?oc=5",
+          "published": "Tue, 14 Jul 2026 18:47:44 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Lindsey Graham's sister appointed to fulfill remainder of his term in U.S. Senate - CBC",
+          "title": "House passes bill to make Daylight Saving Time permanent - CNN",
+          "publisher": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wVDdnX0dyQkVUWmxSb0FLUTljM0lwR09ta3lnN3ZSV1BuQ3poM0djRWJkOVBSZVRXOUFuZTdDUGVwSFhvRFJIc2NVckZYWUZTcUpoZXQ4UkYwZ2JtTTJlOVBEQkdvS1dKZmoySkF3ZnRvU3hrNkh1M19pTjI?oc=5",
+          "published": "Tue, 14 Jul 2026 18:40:43 GMT"
+        },
+        {
+          "title": "Caribbean calls for return of British Virgin Islands – and for King Charles to back decolonisation - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNF92eFUtU3FsTzRkTzVjYkdDTlhTUm1JR1JfQkJBc2pLdDdldS1QcnVOVU1Od29fUjR1MUJnTGEwYzUzdHg1MDBtT2JybG9vNlNhTEt1WlNHM1NxSXJXLXlOUDRiMmtMSHozSmpfdXBXbG1MSmxLNDJpUnBSZVRYTE52dlBYcGljVl9JbmNLTnN3eTdrTFgwWmlTenBMbmVqM0s5dC1xdGtGa2NZaklhSENiNG1zTkd4MWJrWnQ2T3JOUGJYUk5XUVNFY2ZMWS02c3c?oc=5",
+          "published": "Tue, 14 Jul 2026 20:23:00 GMT"
+        },
+        {
+          "title": "Trump backtracks on Hormuz fee proposal as U.S. again blockades Iran - CBC",
           "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdG1raFBsRXdOWGxqSXRvQU00cFZnT1hfSjhmaElfbFc5OFFYZXhWZXRoaXZ6ZzZGeFl2d0wwLXZ4eHdHMk1VRWlFQUtzVFQtY3ktNmRRVVhFajZIVEdGWGsyUG9WTUhCVEtxVU5OVGd3YklfWmVkTmtoaFlmemdtX2FqMXk?oc=5",
-          "published": "Mon, 13 Jul 2026 21:57:23 GMT"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xMzNDd3JUb1BIWENBTDF6Qk1aYmIxS3F2YWhZQWFURzhzU3ZCY3BjRzBfZ0Z5Nlc0UzI5M1REeVZ0MGN3UUxkcTZjZDBEZ2w4RkpjdVpTMG1iQWcxaVVOMk1IaWNVdVBaNC1JMnd2amZiTl9rSlQybXVpZw?oc=5",
+          "published": "Tue, 14 Jul 2026 19:57:56 GMT"
         },
         {
-          "title": "Burnham cements Labour leadership with backing of 349 MPs - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NRXFqRWpXZXVyeHJOV2xXVmlaUjVWZ1pHOXpQejdFY3JjOFZod2FPSlJDdnp5LWR5VjlCbFo2eGc1WUFSdG5vMDFEYUZySzd3NnVQRjd6TXlZQQ?oc=5",
-          "published": "Mon, 13 Jul 2026 21:11:08 GMT"
+          "title": "Trump orders ICE to suspend most vehicle stops after two fatal shootings - The Globe and Mail",
+          "publisher": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUtrX25lRE90OHJiVlQ3Wm9DV3BfbVV1aG1hMHhVbFFYNEE0UThEUjlINjFuUnlCeElfdWIxZ1c2Vm9TNDM5Y21SSnN5RFcxZy1JQjIwb0w3Vi1qT3BxLW1tcFN4TWFEODVTRE9nT1BPaHZteXMtY3JKeURObGRFXzRZbzgwSGhwanhsb2VzOXZyVVNiWU9GVHdidktrVDNFNGc?oc=5",
+          "published": "Tue, 14 Jul 2026 17:03:57 GMT"
         },
         {
-          "title": "Trump reimposes US blockade and demands 20% Hormuz shipping fee - Euronews",
-          "publisher": "Euronews",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjVsRVVlZW84NHp6a0dqWEdnbERKUks5d1JGbFlIX2JtRy1TMGlYbjlVQ2pIemdGUzd4a2R2WDc2Z3ZKeHkyVFpkeHlOSWQzV0RlUUxfZkZvV3B3N09HNmhMSFBFUFp2cGoya1JoOENoX1RsSWwzeVowdnhET0xnMDgxcTVzZzAydHFyVnk4aWxJMTNUc2xsdllNZ3Atb3c?oc=5",
-          "published": "Mon, 13 Jul 2026 16:34:00 GMT"
-        },
-        {
-          "title": "US, Iran exchange attacks around Strait of Hormuz - Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGVRSUxGa2g1WWtrM2NsRy02Q1NoUjMtR2oxQ2hPS20talhlRXlDZ0pWRFgyVnFnQmVxeUhVTXpQb3hSdFFMeWU0Wklqck8yUmRhZW1fUHI4WEtibjRWdTlPaHJCLUNmWUhXbjltSjBoMTRNTWprRlpRNmVFSDFUU3JKelprTTYtR01mQ3QxSE84NnMzRmYwSzViZ1oxejhvd0VrM1Fub3Y3ZjhyOUdz0gG0AUFVX3lxTE0yUWdleHdLN3dkdURxNkxESFdBMVhZS1dESjlLalg5NDhyT1JXSHl2ekhtSlg5alM5Y3FSaU1CRHZYN3N0dVh5eGhIekJSRzlQU3VzZExXNzJ6cGJyU0NxQmVFYkp2cGJQRWJaVy03bWUwNnIwZi1DV1lSQjhscnEyd2gtYzRTRFRlM25FZGwzZVZZRVEtWk9zX0RJdmVSQUpXNWUxclNzdFRXOXBPR1JsMnJhaA?oc=5",
-          "published": "Mon, 13 Jul 2026 21:26:46 GMT"
-        },
-        {
-          "title": "Carney says U.S. Sen. Lindsey Graham was steadfast defender of democracy and freedom - CTV News",
+          "title": "A timeline of Nolan Wells’ disappearance, death and the unfolding investigation - CTV News",
           "publisher": "CTV News",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUkh6NmVhT0pBOE9EaHBzTkVvbUFTQVVpNWZfLVIxUFpRa1JabjVJLVotdHpTSU5nRWdTZjJmNWdUZ1o0YURrdWpIcmh6bUxFd3lhTjgzTndrYzVoZ004ZEN2Z3VpVmdJQVFTZ2FtN2ZicFJvWGpxT1loOHNDNkpORjhkV1dtaFozWjJLRS1SWU5sU2VXSHhVSWU5RnE4Wk9VYTJOLXR5WGgzU2xtdTdkd0NGVnU4VGNMeC04a1RhMA?oc=5",
-          "published": "Mon, 13 Jul 2026 18:10:03 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdkQwU0tJdHBGaERJX25LeU96V3Q0NDljd205bUpGRXl5NEdEM3ZwdkVpNWpqWmUxNnprWnBoeHNSRC03bWVhVENkckdCX0hCT1JQTWVhdXJHVUREM21weUdLVUI4cDM2YkttT21KZDhORldtczF1UV9abWlXRVZEc21MZWE2M01jZ1ZsTHB6aENoTTM4VFdQcTl6UVVwUDNtcnN6YVJZMDRwTGQ5ZkRkWXp1bWFOdw?oc=5",
+          "published": "Tue, 14 Jul 2026 14:53:30 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Ratification votes set for later this week after Unifor, Ford reach tentative 3-year deal - CBC",
+          "title": "Prices at Canadian pumps rising again as oil climbs to 4-week highs - CBC",
           "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSk5oVGg3XzdPMXFfOVZVZFpRQWZoSWJQb1FKdXpMSWJ4Y3h5Ni1TRnJsNGNmOExIcUVtQVdWb0c4ODctN3lDRnkxbzVBT2w5T1FxdVVFR0t4dVZKNHBHajZoeHlrVzlreGRpRHlYNktvTU1XODdoUlMwQm1pZUdNWHNfUVNBTmJNRlZ6LXZ0LWU2WFlVdERJLW1jdl9rY05iUWZ5QnJ2OS02MkFBRmU0SzF6NWlxRVFFd08zaTJOMjRPR3BNWmR5U3lqdkNaSFJuVGc?oc=5",
-          "published": "Mon, 13 Jul 2026 10:44:08 GMT"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mV1dIZW9vSzNpbERrak1fdm1yZGNvNXk5NWl6R01UTjhlaEpfYzQxbWlHblNwMUoyLThxdVdwSld4QVh0R2VNamZPSThheTZXNktjVWFjZ0xsWkdUNWR5eUE1ZFo3dUJ0OTJndg?oc=5",
+          "published": "Tue, 14 Jul 2026 20:10:25 GMT"
         },
         {
-          "title": "Alberta will provide oilsands producers with incentives to fill proposed West Coast pipeline - Financial Post",
-          "publisher": "Financial Post",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVVTNkY5SzAzcWtGZnAwR18yaTMyQTNaWk5sZ1phSmNLV3NPV0kxU2FoekdIS19pSmhzN2xFbmsxOUVoQWo5RmJ0SnVkSmtWWVVGSmpHcnl0RFQtX3hxZHBVeEVEd29Vc0JQcmwwTWdXZUdIYVV4YTJmUnhZaUVFZXlDZVFOWFF5Qjc3VEI3VW13OEpUblNJZmx6YTRLUTh3bDBUbW5Tb3pCN2xrbVpKVjB3?oc=5",
-          "published": "Mon, 13 Jul 2026 22:07:30 GMT"
+          "title": "Canadian trips to U.S. inch up despite months-long travel boycott - CBC",
+          "publisher": "CBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTy04Zmx3dS10TmFsTTRpQVBsX3ZRVk9tTFlSQUM3bXZua2NaSElDMG5zUTV4MVlPYk5rTEsxV2lIeW52RXhLVk1Db3Nnc08xVVRKMTIyVW1haVpwSEtxSmd1UFlDWE5VdnhhdDRaeURCUW5uWGNF?oc=5",
+          "published": "Tue, 14 Jul 2026 08:00:00 GMT"
         },
         {
-          "title": "Regulated iGaming market goes live in Alberta, government aims to box out grey market - CTV News",
-          "publisher": "CTV News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcXVpOU0xaERBbUU0ZWdLSUhZclhJaUlYQXdDai1WcHRvRlctY2dqRkpweHByLTNCNFhRY2x2U1M2ZmxqcTlWbHBIWUkyVmZLWnRXdzAydndsWkpsWmkxUi1IZVMtLWlNanExWVJlV0hUN2xXeklObWIxQXBTeDFLbjNSQUNXMDBuam00eGFSRWFuWUxIT3FuMTl6T0swSXg2UUFzS1drQjEwSUxSN2IxRGhaOWJROF9TWTRWX1g5U1o0amM?oc=5",
-          "published": "Mon, 13 Jul 2026 10:03:32 GMT"
+          "title": "Oil's Oversupply Narrative Just Died - Crude Oil Prices Today | OilPrice.com",
+          "publisher": "Crude Oil Prices Today | OilPrice.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWd6MlYySnpzXzc0ZW80RC1XUzhIbXlITkg5YXpkUXJReDB2QU5FS0xBV1E2RXBtNnVhRERiRUxQTnRRZTk3TzdqbkpUa1lianpKU2E3dGV0U0VwdXlDcnBIZmVYV2ZOQVB0NXlKS3BhVHM0Vk9KcUtaZFcycE5HR1hJQmLSAYoBQVVfeXFMT2VfU01rQlc0aTZTTFFwTnhhMk1mM3NJNjI2b0FkZkRTaHVoMkt2RktmQVJDekx0Slo2UDdJbGpTY29lVDlCWng1YkU5SE9HcFJpUFRlUERlTnQwNGtpeG95eF8zY0xjTG8zT0tMR3NGUWZ5OUZnbFE3Z1RvMVpKQ3EwbmZTaVNycDdB?oc=5",
+          "published": "Tue, 14 Jul 2026 16:00:00 GMT"
         },
         {
-          "title": "Quebec First Nation votes to reject landmark hydro deal - The Globe and Mail",
-          "publisher": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaVNSeVlMR1lRcVlJOUp4cEVRcWVydXhOelR0aENKUDVqVVVCWko0M2dyNHZVTzNfdDZmSjdzdmVycWRMUjlQTEk1YWpXYTd1Vm44QlZ6WURITWtuSXJZcGMtNDEwUW1iSnhzb2dxRzlsR2d0RERZZmFLOHRvUEQxZ1gzaTZ3dm9YZ3pSR29ycW5xT0h0WHZUc1dWNDg?oc=5",
-          "published": "Sun, 12 Jul 2026 23:48:07 GMT"
+          "title": "Kruger Launches ‘Project Tuckamore’ to Revitalize Corner Brook Pulp and Paper - VOCM",
+          "publisher": "VOCM",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WUzVCaUFDWkg1WXllbFJaUUoxYWJTbDc4MTJoNUtLTjhtRkRfczFjRDNEcDBuUkYzMjFUYXZSRlhzSTNPdTk4SUFjQQ?oc=5",
+          "published": "Tue, 14 Jul 2026 18:44:00 GMT"
         },
         {
-          "title": "Travel by Canadians to the U.S. increases again, says Statistics Canada - Global News",
-          "publisher": "Global News",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaERGMFR5OWVvajJtS0wxeDZSNnFmVWIwcnhWX2cxcTY2ZHhHY3h4RTRqWU0xcUhPWmRCRjQ4VHhBbl94Ni1PS1JfNExfRGJ5UXZ2ZU0xRzNIZHM4SlB1U1VmOWtrMGQ5V2hTdjJBb2F4M0tjVGxtZGJ3ak8xQ21NcEltcEZTNmh6a2RVR1N2QQ?oc=5",
-          "published": "Mon, 13 Jul 2026 16:48:22 GMT"
+          "title": "Tech Blogger Warns of Enormous Power and Water Demands of AI Data Centres - VOCM",
+          "publisher": "VOCM",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSMWdHX2REV2ZyY1FZYVNBUC1iOGZqbDg5cDEwZGhsdnUwYXdQZGI5clMwdTFiYnZYUElzeDEwTEl2WkxpZW5mbWhsbw?oc=5",
+          "published": "Tue, 14 Jul 2026 14:30:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Neither France nor Spain has trailed at this year's World Cup, but only one can reach the final - TSN",
-          "publisher": "TSN",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPODh0X25sTjl2VDR2WXk5WFN2eXVDS0M3R3k4R3JIQ0pFbDZzMXlfdjdwMlRjeHUxaHBMWS1TeDgzdUpkZS1WLWRuZWlCS0VXUm9YYkdySFh0R2VfSkpOYzBBTHp5dE50dWhaMksyTlI5dGJiNzJ5cDNaRnBmYVA0VzFxNTVKUHpxRlBMZC1kTXpINDFjX3BYZE1LZjVlS2k5RTl5LTBHanFHUVZxS2N1NG1qSUJkOWZXeVFkcURvR29RNTVRSklEWGNGN1hIRzVHX2pJSE5QenpWcWM?oc=5",
-          "published": "Mon, 13 Jul 2026 17:31:35 GMT"
-        },
-        {
-          "title": "England eyes 'mega' World Cup-Open Championship double on Sunday - Sportsnet.ca",
+          "title": "Spain defeats France to reach FIFA World Cup final - Sportsnet.ca",
           "publisher": "Sportsnet.ca",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEdRRF8tUEV4MExuZ0VvbjZ1Ukx6eEZhWlhtT0FtcTZ1QjQ1d2lhUWYxcFBzRlVMeFhCSEVmdFY3S245M0R3emV3NTFlVnZGclg4UnRhLWN1MzdaNDlIQ1lPeS02ZjhjTVRJQjBZbE52VnItVS1Qcjhuc0xPaTNHUUJTN0NiamRiTW5WSHBaZHMxMmdVRFJfZ1NnajBxNjhsLVAtODJTUEFmWmhPamRvMg?oc=5",
-          "published": "Mon, 13 Jul 2026 18:54:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeHI1bk9obDN4cUM0LUVrckh5S3FMM19TamcwdGRxZlNaYXJYaUZLN3VuUk83UXhNd2F1UjVQZHBBZDJBN1F2Z3I0V2hYeDU3dzFWbUc3UG9qeTNtSEdhX20wUTJ3NDRnOFZVdmhCanE4THduZGZtUUQ0czVWUnlRS2k5ZXFZcEMzaFNBX1dwTTFBQWxWWWh6TVJ3UkE5MjNR?oc=5",
+          "published": "Tue, 14 Jul 2026 21:05:00 GMT"
         },
         {
-          "title": "Kelsey Harshman's 3-run homer helps Canada past China to claim 2026 Canada Cup softball crown - CBC",
-          "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc29leEVMdHc2Rk4xOFRmdDhWckhkd2liNE5JeE8xbmNreHNrMWxaMllfam5uY2VZSVNWNklqZTU4MkpYMGw5RVFXUDNfbHBUdFFPSW0yZFY0LU9HNF9IQmpJQi1hQ0xzWkNVckRmSm0waDJTVmEzeTVPRWtPMEVpSG5DR2FmRUIxbHQ4U0w4OXoxTHJjZXFrcGtLREF1dEdFSlRPSkNONTNwNjRaaWc?oc=5",
-          "published": "Mon, 13 Jul 2026 19:17:57 GMT"
+          "title": "Four strategies England can adopt to beat Argentina in the World Cup semifinals - Bavarian Football Works",
+          "publisher": "Bavarian Football Works",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdWlKYmpxVnlLNC1CZW1kSUlYakdQdmg2eXlqVnVtOUwtQlF2RGJrczBoR05EQ2gtLW0tMjY3Uy04WWhpU1V3ZTVGUDdFUlRRX3Z1eEtlTF9Sd0t0OU5HT2ppbWZ6eU9qUlFwYlAzTEQxREZzb1J0WWg5djlEOHhkdGc3RF92aVhITy1JUVJtZFZiNVBILW5penVlamtOUXhvb1J1Sl9VTUdIWkhXdDAtQXRLU3RVTFd4SGZhTVlsUzBvQW8xZWNJNGpYSl9LaXlZZGlTeGt3?oc=5",
+          "published": "Tue, 14 Jul 2026 15:15:00 GMT"
         },
         {
-          "title": "Saskatchewan Roughriders cook Jake Dolegala, eat Tiger-Cats for dinner (& other thoughts) - 3DownNation",
-          "publisher": "3DownNation",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnNBWjU4b2I0czdLQWFzRnhZdGZYR3MtUm4wdFUzTzNZYzAtdFVKNnNsNXk1Z0pBNmdFQ3lHUzU4allodmt3WFVFUFoxVkdrcDVCaXlMRllBOXNRcEY5SEJaa1VWYWhaTWpCZ08xYWdfbXhqWnJ0aGFaM2JkT00xTk01TVg0S1ZNMGhEdWFpMUswNldWT1FGRlpXbDhXcnhQMkx3cTkzYkdUTWVYcmxJNWZaVTZ2SzBkWEZyZA?oc=5",
-          "published": "Mon, 13 Jul 2026 04:35:48 GMT"
+          "title": "Kylian Mbappé in for France in World Cup semifinals against Spain after 'slight' ankle injury - TSN",
+          "publisher": "TSN",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObHNRYnNlcTg5YjgtNUs0QTNPU25PUHJabUpoc09VVURyaU4xSXhaQ1paOGVfbkRwZXlHdXcya21CZEgtcXl2SjctZTBPU19ucy1nWEppYUcwenNvdDgzYVd1MWp3YndCYmZYSHA3LTkwTWRtajVfdTBtLWdCVHJHSWVHTnY1YWNwWGpnUmxnTWRzWlpIbXNzdjFCbElGN1N6ZWx1UWh4dGQzS2ZKVkw3MURndFBCQnk5T2g1WHl1LXFDZnVEUC14X3ZCNW5heTA?oc=5",
+          "published": "Tue, 14 Jul 2026 18:03:00 GMT"
         },
         {
-          "title": "Dustin Poirier reacts to ‘dirtbag’ Conor McGregor suffering injury at UFC 329 - MMA Fighting",
-          "publisher": "MMA Fighting",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOVFkcVd5SDA1eHI1VEd3blo5UnFLMjgyQ1d6eDNVc2xsTjBTWkhobzRfX1R3c2FTSnBhM3VDSVg4a3pmMzBNTnMzdndBMlloRk1DY0pLbUZJbnBVSWNkMmhXRmpvLTE0b3dwWWFweGp0a1c4OGZIMmstU0xjdmJGM3pzd1ZrUkxuaGFXR2VWdDlxbDBzUHFad0ZWdUNVVE9KdF90MUJWRXRSd1MwQjdCb2RKb1Q?oc=5",
-          "published": "Mon, 13 Jul 2026 18:00:00 GMT"
+          "title": "Overreaction Monday: 5 hot takes from Week 6 - CFL.ca",
+          "publisher": "CFL.ca",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LdmwzT253M0wwcnRCaDIxbWhWSXRlNmZQblFaR0tuWTZ3dkpSZE5xS1lXbmtlejBZSHpseVZSY1JlT2lCTWQ0Q054VEd1cndfYU9UdXhxN2ZjRWdpN2VZeWZNS3FWZks2WkotQl9vYkphcHp5TWJHZm9mWWZkLXM?oc=5",
+          "published": "Mon, 13 Jul 2026 13:08:44 GMT"
+        },
+        {
+          "title": "Blue Jays running out of time to turn season around - The Globe and Mail",
+          "publisher": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLW5IRWtYbzNDcWJQTGNNcnc1NU5KWEotUFNfT0pNbXhzVjNHZkFSaDV6NzVDT2FBSlhwNGhIemt6OXlPMnNsRGNkTG5KbDZVWGtBUXh3aUlwS2hlbGN2TUVKb2VISm9vckRjTHJsVnlYWjQ5MFU0OERLei1WRFFYc3k5d1d0Z0tzSkJ1YW91VmFxZkpTOExRakJoaTdhaXBKaDJ3NUVEdWRWNldu?oc=5",
+          "published": "Mon, 13 Jul 2026 22:38:38 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "I just discovered Amazon Canada’s newest feature by accident and it's a game-changer - canoe.com",
-          "publisher": "canoe.com",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jaXN6Y3BmNk9IQThyeWtzN2ZsZDJOQnVPNENIb1dBVk1xTlFzUlpPSmpIX05Ya0h0SUlxaE1CamZpMFFhVGJYVGs2eUxLY1IzNDJfOEhBZEVwMWtGUk5CMVdB?oc=5",
-          "published": "Mon, 13 Jul 2026 18:15:31 GMT"
+          "title": "Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks - infoq.com",
+          "publisher": "infoq.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwelJ2bkIxVWR5d0R0SVZFWk9fZWN6YnlpdjhmWDZueDZEcFl5Yjg0Um1adGpka21pbEtfY1ljMm5zQlp2cU9rNmxuMlREWDE0MktLTGNJbnI4ZFpJNUFkeVhVRF9ESE9lLUlFVkgxOWlrMW9fNEJz?oc=5",
+          "published": "Tue, 14 Jul 2026 22:00:56 GMT"
         },
         {
-          "title": "'Not sexy' or 'Tech Moment'? Lorde hates on AI glasses as Kylie Jenner faces backlash over Meta campaign - CBC",
-          "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkphLUZ0SDJVRlVwRzFuRVZNZHEyRy1OWVRjZndzYTdwVVMyU1BhNjlPSHpKdDJyNExIRW9yQWV5YjA3VWVrV2pWMEpVRDZJei1pWEI3c1g0NHJvSmFSWnVMdkdpMkNaRGlUel9KZVZHenBpMUpHc053a3FZdGlOX3NIemRiWVhtd1Zj?oc=5",
-          "published": "Mon, 13 Jul 2026 21:35:00 GMT"
+          "title": "Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents - infoq.com",
+          "publisher": "infoq.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9maVBOSmd3ZXBsbkNVZ2VmWUx4MGl4TUxIZEJHSG9PbC1uYkx5SkpxTmZDRzBQQjJoemJqNERWaG81WE5BYmFLeWhBYjl6TTBaY0NzMUQ1MFg1S3NOMlZmdmlRaUFEcHA4OWx3XzFYaXVONjZONlE?oc=5",
+          "published": "Tue, 14 Jul 2026 13:40:56 GMT"
         },
         {
-          "title": "Quebec video game industry in limbo - Yahoo News Canada",
-          "publisher": "Yahoo News Canada",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZc2hjNWhZYlQxcmY5N2FYUXgzeGNVSnFnX3h6WFdGU0tKbVVtcXZSNUFzdWtxRFhiMEFWekFNUkk5aVd3MmlBazNTUl9sWmtOdHVuT3oyeFpjUEdzOWFDVjViSmVKX2VKbHZQclhMUjhPZHo0b0VUZ0M3VFVSQQ?oc=5",
-          "published": "Mon, 13 Jul 2026 00:36:00 GMT"
+          "title": "Most pregnant people fail to achieve recommended seatbelt placement - News-Medical",
+          "publisher": "News-Medical",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQlUtaDhGMVZsbHBWT19pbDluQm5mV01Ba2RHQUJ0Z1FBSjhzRFd2UGpaV1FSSEF1aXB0VlJheDZFYTlJNmhWcVZGd1FEYU12TWlMbzZxWkh2MWRYU3ZSMWF2cTdBanNrSlV1dWRrU0h5LXlrbEdiMHRMcmhPUzRfLUJxMVlDeDJrY0ctTlJkVXpGM0FQTGZSanNSUEtCMEszdmRObG9DMmJRLUtlSEpUU0FPUXd3Zw?oc=5",
+          "published": "Tue, 14 Jul 2026 19:14:00 GMT"
         },
         {
-          "title": "Experimental Transmission Aims To Tackle The Biggest Problems With Hybrids - SlashGear",
-          "publisher": "SlashGear",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX01FM2ZUM2k4VTlydXFXbEpPT1hVN2d5NmhJT0RsenVrdEtXdURlMWk2SUZ5aHJlT0owR3duMm9EaUxWdXdYZXhCQUM0VzFNb1V6ck85SXNTdTFwS1htVndGaDJ2cUdrM0pMampJcFkzWmRqbWk5VmdKcVNnbE5feUpTd1BPcDJUYXVpQmNjWEdiY3EzdEpr?oc=5",
-          "published": "Mon, 13 Jul 2026 17:45:00 GMT"
+          "title": "Linkerd 2.20 Delivers Smarter Traffic Management and Dramatic Efficiency Gains - infoq.com",
+          "publisher": "infoq.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TSzF0RFFzUXhZMFd5M25sMTY0M1VXUFE2bVp1NXdydC1WQkFBdkZENHlLb3VVbkl5akNSNGl6ZkJCUWhLczVreEhfYldLaF8zeGd1Ym9JRGl4XzJ3UTRBNXR2bEFfVkVKTUt3SWZR?oc=5",
+          "published": "Tue, 14 Jul 2026 12:00:58 GMT"
         },
         {
-          "title": "A chance encounter led to one of the largest T. rexes ever found. Now, it could be ‘lost to science’ - CTV News",
-          "publisher": "CTV News",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdzhNMlhfMzlUWnJCWWxKZ1dMZ0NKWVAwaEN6ZnZ1ZmdRa053Y3R4NDRYOXVUbjVzXzZvM1ppQ1cyc2RacnU5dy11ek1XbWMxbGdibXlaSlc1QzdrMjBRNGhYSW9jdUs5Ym4yTnp4OFZ6MjI5WmVGZG1rREVrdFdnWGlCdUFHaThMMUhpQURLcEJ1c00tMDBNNWJnMTRtZWtsTklKdGp1dm1IYWtUbkl5djR0RVEtNnBmeE1Lb0pVc1VXQnQzamFjQWwzdXVJNDJSdlE?oc=5",
-          "published": "Mon, 13 Jul 2026 14:18:59 GMT"
+          "title": "Apple Watch, Meta Glasses, AirPods get reprieve from EU replaceable battery law - AppleInsider",
+          "publisher": "AppleInsider",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX3hFdF96Rl9jazg4ZV93c2pZRHhlU2J6OFVuZDVCNkhYUzlvOWJDbzdLU3ozZlQ1d0J0emNkYmdpMlp3bHVHRmFSeUZ1ZVUwaUFVUFpGcDlMdEpoU3hkanBWcWh6NDNLdDRIaUFVbGp3SGZzTm1GeTBKbU9VeS1BN0pYZnpCN2JNTWZzdTVzUjVmMlZSWmk4aWpsUHAyc25PRFRNWWNFWG90SGhoV3V3Sy03V2pyRWcxcVhhRg?oc=5",
+          "published": "Tue, 14 Jul 2026 18:49:00 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "How France went from World Cup embarrassment in South Africa to soccer super power - Los Angeles Times",
-          "publisher": "Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORExVUkpxNjNsM1UyUDEyNGh6X19uZWMtLVJWR1llQ3hLTkJyTmxWMHZOYzQ3YkRmNXR5NE05b3NwRGZrVGpiSGxyczlwdS1tR3B3MC1tVXlYNDR6TXF3ZERIa3FaUmprNkxWblZWdXpva1hxQTFrUHBNMUduQnZrbEFzN3RfR2JMUlpMQnJVRWpaaEw4OTRRTGpFbnVvb3QzeEtpZ2s2YTJ1VGNVNjdIMm9YWVlXU256aWN3ZVN3?oc=5",
-          "published": "Mon, 13 Jul 2026 21:09:40 GMT"
-        },
-        {
-          "title": "Highlights: Senegal vs Brazil (Men's) Special Olympics Unified Football World Cup Paris 2026 - Special Olympics",
-          "publisher": "Special Olympics",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZnZzSmVod1MwNUNFNm5WUkJCeDcwamtMNlRMOEpMSlZRajk4UWgxYWtfZzE3QURYVlVkcXpNTWFmWWlvSnZBWnBJX2ttOU9sclVxSDZYN1pUQS03YV9tOW1mUm1qSy1jU0tPUjhGVnExeHlESkVMNm9mNXFDemM5ZjhxVXBkU01wOGJJSG1fSWlPX0xhTnQ2TGpJZ0lVUlQwTVhlRVRrclRsci1JNnhscHFMNU5xbm1zSkJXWEE0c1l6X3BGemc?oc=5",
-          "published": "Mon, 13 Jul 2026 17:23:33 GMT"
-        },
-        {
-          "title": "Why World Cup hydration breaks have media 'salivating' - ESPN",
+          "title": "Spain shut down France to advance to World Cup final - ESPN",
           "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaE02NHBPWFBxWmhnR001cGt3QmtuaklQLU16bmdsa3ktUVRMeGVNQ0JYekN5bVltalQ1RXlCc2plR3doNHBSV0ZwWHBUcEY4QXBOYmM5MVhrT3lWRjU3UkgtTmpRZlhHeXVtT3k4NzNsWEN4UGNSSnBhQ2l0ZmNkQ2RleEJ3YmpuMnZGMzc4aWdnWk1KUEcxNnhDN0JESHc?oc=5",
-          "published": "Mon, 13 Jul 2026 12:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdndrOGkxSmdlaC16YnN1X3A5c3JkNU1NT2NNS0gyTmx3eGc5YWQ3R3VZX3BuaWJ5TVd0N18xaXBlVDU2YXMtNXRwdmdPaU9XZ0ZTc0Q5Q3FMal9UbVdjSmFLRjJWTEd3QUhfMm1VNU9Ub2FJZFkxOFI4LVNQU3pwR1VtRmEzZWhTQ0MyaDUtTksyc2M?oc=5",
+          "published": "Tue, 14 Jul 2026 21:00:00 GMT"
         },
         {
-          "title": "7 things to know about France's soccer dynasty ahead of World Cup clash with Spain - Times Union",
+          "title": "FIFA President Gianni Infantino potentially faces investigations over Trump’s World Cup involvement - WLRN",
+          "publisher": "WLRN",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLVFLT3BzWHgzYU01a3hOMXdFMTZ2YUpyQjktWm96QXpHVkJQYmVDMktSUWoyd0hGdnJSRC1Obm84dVd1TnctUi10bkhBRGRtcFBmSGVIVUdLX3cyeUpiMjNXV2NfV1ZBWkpwRDl4bnd1a1BNMWJFQ0xKOVd5YThrQmlicXVDcG9ndHA5TXFtc2d1Q2xaY25yUU00QXA1MW9vYnZ4UWNTdzI2cGhsZ2xkWG1rMHRNU0hkV1ZkQTZQVmRSWHBVZ2xZWmVfbXZZWFE4dDk4?oc=5",
+          "published": "Tue, 14 Jul 2026 15:52:00 GMT"
+        },
+        {
+          "title": "Dutch soccer referee dies weeks after being dropped from FIFA World Cup - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzZabXJHem40MEVhUDh1S3dPLTV2RDVRcnVqeUd0M1h3VWFLV0tneUk2bUJyYm9LRmdwVFMwWjQzaFpzTG90LUk4RzZIaHNGbzBpTTdBTzJUem5lXzFybEVXLTZOOUt0dERNZDJ6X1JMTjZteE5ud0swUTcwX1pmYlhoQ3lwVFdIb01rYm9WQXUxVnVTMU9iNDlSSlBQUEhuWDNQX0tTdFNvbFZvd1p6Wi01RQ?oc=5",
+          "published": "Tue, 14 Jul 2026 15:47:00 GMT"
+        },
+        {
+          "title": "Stoppage time explained: Here's why World Cup soccer games almost never end at 90 minutes - Times Union",
           "publisher": "Times Union",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnE4QUhNWGNqblRzdkFVU2h6WUpxMXk2VW1Gemx0bXA0bkJVVTREa094eld5eW5oWURNZV95MF9NMnFnYk5CQVhkTzdxMnpHTmR0b2lqczBGbEJHMFpBTHdGS193UWpzeGdOd0ZNdTY5VTBkdjF4eXNzSmE3c003LWhieVVGbkhrWkVuaTRFR2tMSXRBbEVkUERZUUJlbmNCcTEw?oc=5",
-          "published": "Mon, 13 Jul 2026 16:12:57 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN1FrZVYyck1DcHhaTkZPZXZHMHU3UXNWNXdIQk85dnIwUGw5QmJRM0EwOS1uV2h4S2JjOThfX1RVM3dqTkZUTmdCSFRPOFZXMXYwQ2dtVV9FNk5GZEZUZmNvYVNVTUZuRnRzbzdyMXJmS3VpSW43UWF5V1FVdFNLVVRuc3puVlQyZmw4dWEySExKZXQzbDZqR2hsWDVzWHREMnJScG9MSQ?oc=5",
+          "published": "Tue, 14 Jul 2026 20:41:27 GMT"
         },
         {
-          "title": "Expert World Cup Predictions For France-Spain, England-Argentina Semifinals - FOX Sports",
-          "publisher": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdl9WV2hFdjdGS3MwbFRYOExyWTJFMDZIQU45ZDQtR19YNTJBY09BeGtEWFp5ODZDZXU1NWdBRVh0QjBJUEY5OXRKOWRxNUc0U0JlOHBCYm1EaWR0SDBFaWNDS0VJYUZ0eGJWYVYzdS1fY0taMHRhMDQ1VElEZFlnM0cwTnl4NmlvV2ZIY0J0VXU1OVFUZnpkR3R6eGU5cWRCYmR4SDk1Z9IBpwFBVV95cUxOSXVxTDF1eEJaeG5SNTFpQmJFYkQxRVFOX293aWMxVU0yS0xZejZKbUR0SFpXZktxc0V2MHZxeW1jeFhJQllyQUJTazNQQVJmZ1ZrQWxSU2lESEV5Ykw4azdkVzByYm5fVENQOGk4TFFjRmo4WmE4MVpEX3dQLXFFUmhia0pWRFRfd0ZTd0g5TVlKd2VITXlLelByb3dySS1wYzdXYUU5QQ?oc=5",
-          "published": "Mon, 13 Jul 2026 18:31:29 GMT"
+          "title": "Inside the story behind FIFA’s massive flags at the 2026 World Cup - Diario AS",
+          "publisher": "Diario AS",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmJ6b29rUWVwYVhmZU05QkFhVkxFX3VvX3VMd1EwVWc4VHFKT0ZoVHFuT0gzZGFZMkNKanlXQlBRRWpQRlVkOTFqZUxyRm8xME55cUtLSnNuRGo4MW4zX0J0NWZTQW5Ld2dZckJYV1pFR1I0VjdkeWo5QlJXWWlqN1FRZ1A3aHo0M19OcUR4LWwxUlFNVEFHa0dLYTBveFgzckxCcmJlRFhTb1lLX2hvSVJZRdIBxwFBVV95cUxQalRsb1YwYVdjRW5zTk1zdm1mZHZtX3p3dGhLVTVYMHlyenYwY3VKX096Z09YcVU0VlN0YXhmeGtfaEdVeHhWVFYzcUh3SDRNUEVLa0FOdU9HUFJiNnpsMkxYTEhscERybW9tYzZEOGprdXFLMU5POERoTFFWRWZ0MlA1c0VyNE80RzZ4OTVYZ0JRbFNCNXVCVk1qZEdtZmppa0RacHNvYjhuTmhOaDJHUm95ZF9TaFRCZFpyMG90SUg1S3UybVdj?oc=5",
+          "published": "Tue, 14 Jul 2026 18:07:06 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "'Jurassic Park' actor Sam Neill dies at 78 - ABC News - Breaking News, Latest News and Videos",
-          "publisher": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2p1VU56Y2pabVlCT1Z6dE5PajNSdVZFVWJfM2tOMFZ3LW1Za2FIeDNMYmNHeTNLcV91dnJnajV0V09IWG9jek9pWlZzbFlZbkV6Qm41THV2VzJoaGY1WjBYbXl4eVhwSk4yR0ZHNXlRUWZmeGhzMlZOVEJpUHFFNTVVZGhMNXVnVDB0RFJ1TmEwZ9IBlwFBVV95cUxNVnU5OFc5QUpXeWNzQTFMV2JBejFhVkoxWlVxcnhlVXpWRkF2S2dramVITGExTUdDZmRSV0VOcU94Ul9WalUzTHczVzMyY2Q5X2VJdVpxTTA2clp6SV81bWN2S3d1OVIxb0M2TjhoS0VmRS03LTdaMVVTS25wUGswMW5JaXF2TlN0d1NNNVN6di1YSGxydHdn?oc=5",
-          "published": "Mon, 13 Jul 2026 20:27:53 GMT"
+          "title": "'The Odyssey': Inside the Frenzy for Imax 70mm Tickets - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0xoUE5rOVdsbFRqVEJnRjVWMWdxYklSeUwxVzlISmNfdWdhN29zQklBaWNTZFRXQkFXdjgwcXR0T3BzTFJGSFJYWTRYRlJNUE5mQ3RlMnRiNFNmYlRxVjM5UmlVSHR1NGNoeEZ4Vm9vTl9zQ1ZLY0lhb2c0Vk9nSi1BNjdJNjdzQjBUVVB4U1hWUQ?oc=5",
+          "published": "Tue, 14 Jul 2026 17:30:00 GMT"
         },
         {
-          "title": "Jay-Z Yankee Stadium Concert Security Breach Caught on Video - The Hollywood Reporter",
+          "title": "'The Shards' is Ryan Murphy's newest murder mystery starring sex, drugs and Kaia Gerber - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdzJZUkg5SW03eGR6eTgzY3BaSERrdi13V2h6VHJSSVVsMnlsc2IwU21YNmFqM3pKbzNjUjktVk5aejdIY19VUTBBamhUYmZ1TUI5a0VPOGNuTmlYenNqY2IwYktjYUE2eXhhaUxGdW5VSUpSUkk4UnRsU2ZtN0ZjRW9yeTdaQ1Q2V3VaM1hxZTNGZEJEa1lrMDgtMHNFcnRhR3ZjWEpSNXEwN2FYNU5SNzlSRlh4RVNSS3dBalVpUXlKRWJxYjU1WS03a1VvclVJMzdvc2RReEpTU0FvN1E?oc=5",
+          "published": "Tue, 14 Jul 2026 18:48:41 GMT"
+        },
+        {
+          "title": "2026 Daytime Emmy Awards Nominations Revealed - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVXo2V3hZejBvWnI1bGJyelFEZ0tRRjRVOHRhdlBic0tSOWJxamg4SmRseGx2cUcxS1p5ZkRKdWVkOVUtYl8tZS1BOFFmb283ajU4RDFfTXlic1NDaDBmNzgwaV96UXNfNFJOR2FETGczQWYtQ1RtSkZxRTRhVl94N0NjRnNzNUNIdTkyWXpHdUZkVUd0dDVTaVlIempTVkJKOWFmc0pUbWVtWGx3RXQxU2gyRkJnQzd5dkdkTWZPWmgwZ2ZiRmc?oc=5",
-          "published": "Mon, 13 Jul 2026 18:31:06 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmkwYklNS05ZQjBTdnQ2aWx5d200THhPcVQ2VDkxc3dPRTRDYmxUM2pQTEZsVjBYSmNiWjNURVFheUhybXdJUk9yVmRMMTF4YlJFUnBObG1IeVZ6bFRnbEg3N1BadjFVY2hPV19rbERseE9DMDN2NlctLXpmWXo4bWRRRVg3YXQ2azJBcTV0MXJ2NkdHV05xRHRxQzEwS1ZQR1I5UEFmSTRzdFE?oc=5",
+          "published": "Tue, 14 Jul 2026 16:01:17 GMT"
         },
         {
-          "title": "California-led states sue to block Paramount’s $110 billion Warner Bros Discovery deal - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2dZM1Z4UFFmcllDRXdWU1NXZkVHdTlOZHc5TloxS1FOQlRCYTdCbjZJRXk5OW81QnZIUFBRWnFIeThHX2ZESS1hU2JReFl4UldEcFBBS0pjdEtITlpJZWFZamtOQjhWYlVFdUJRbVdZZ1NaU2VLLTJ4Wkx1Q0dJaHdXQUE4ekNCZURKUDg5Tlo2QzRhVXNZdkdxdEFHSEFId2hEMGIwRUZuZFRPS2tqa0UzVUdkVXNNUHVLYTB3?oc=5",
-          "published": "Mon, 13 Jul 2026 21:08:48 GMT"
+          "title": "'The Ring' star Daveigh Chase, who died at 35 while homeless, leaves behind six-figure estate - Los Angeles Times",
+          "publisher": "Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUG41TUthLTgwckN0ZGFJUUxHWVVKMnB5bHlqbUhVX0lZazJsV3J2YXZQV241Vm9iUFRsRjZPM1cwY09CVzJLZHB1TVdWNm1OSC1vQnp1Z1J2c2ZNVU1jSXB2Nmd2R21PRy1zdkVwRjdVYTh6Nm9nTlNtNUtUVS1UQ1N4WnZFMWIwZDFFalBSNmJOQnREa3VZMzNSVkQ0V0piLUs5M081X25tWW5jdDVqRlZDdzJuRWM?oc=5",
+          "published": "Tue, 14 Jul 2026 18:43:04 GMT"
         },
         {
-          "title": "Blake Garrett, Child Actor in 'How to Eat Fried Worms,' Cause of Death Revealed - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54eGFhQnoxZW9BMUFsRXI2cjdOWG5mV2FyUnZCaHQxMGxaVnVsXzUzNmpOZHRmWkU4M0xRdjl6LXN0ZUoyUHhHRGZLU2g4eHM4RW1BWW5ab0dEajFFZmxlR2NzMTNOaTVOalBGdkJ4dGFUajFJZU9mXw?oc=5",
-          "published": "Mon, 13 Jul 2026 21:44:00 GMT"
-        },
-        {
-          "title": "Sunny Hostin's Son Gabriel Cited For Trespassing, 'The View' Host Representing Him - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNME5adC12V3VZWjd1NTMyUFpNUlFYVDRvQjlzWlpFMmwyNVhHcDBodHNUZnpXN2g4ZUZpWXgycVlXLWx3VDFidWtWbFdxX3l5bnVyWUZYZUxzVzFCRWxMOE1UUWJkYVQ4bFNqM3NKYU5tMDZOT3JqZGhfZk8ySUZYUWFvVUhrWFE5V1E?oc=5",
-          "published": "Mon, 13 Jul 2026 20:23:40 GMT"
+          "title": "Ariana Grande changes lyric about her ex during concert - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUVfUl90djB0SXdDR2FNQ1VldWRRR1IxZ1R2VFBZdWVPQ2dlREJoOXdwMEhkdUdVNGg4U0hPam9vOGMxd25zVDhkUEZ3Z3ZsTEVKTVJPazlBTTdCeVBMVXFRVUFSeVRfeGZ1UFF5M2Zhb2JiMFlsckpUZjVSWDNoYURRazJCLWpxUTJfYTJhRWtiSXhrUDU4bU9ydFVlY3VU0gG0AUFVX3lxTE9PSmIwQzAzajEzWDlYYVYxWW1TTE9GTE5hT0g5QjZVNEE0NlBNWnA4TXVvMDg1cm1tb2llSklBM2EwVXhKYzl5WU44SkdvY1pHR0huQlJsaHdZTTJubDZrTUxqTTU1eWJMWUMxNm1vVkVkN2RXSVZZbDJieXdicmxyemd6MXF5WHdvWkNIRnJpZjUyWXVwMzRNUTl6YlJ4QUJJLUtmcllrUm03cmhQUUZLenJRZQ?oc=5",
+          "published": "Tue, 14 Jul 2026 16:16:00 GMT"
         }
       ]
     }
