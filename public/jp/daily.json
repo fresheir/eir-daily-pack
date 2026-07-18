@@ -1,7 +1,7 @@
 {
   "market": "JP",
-  "generatedAt": "2026-07-17T22:50:07.606299Z",
-  "validForDate": "2026-07-17",
+  "generatedAt": "2026-07-18T22:48:17.925307Z",
+  "validForDate": "2026-07-18",
   "source": "Google News RSS",
   "topics": [
     {
@@ -14,34 +14,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "A 7.3 earthquake hits Mexico-Guatemala border with no immediate damage reported - AP News",
+          "title": "Venezuela quake death toll tops 5,000 as IMF releases emergency aid - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlZySDRLbXY3eGhXOU92Rlh2ajE1cmJPN1poeE9zdlpvR3p5VEhBSVFXd21BMUFZTHNmN0NFREVIc21ZdXdNUEdTV3lKd0oyazJzTzVmcy1rTzFWNmVOM05peHFqN1k5bWdObG04aTRlTHhLWjBmMVRLeWM5bG5BcGZzNDJ1ZzM5NDRnMTdWZDdaaXFOblBldFlJTC1CVkhTRVd5SXN4V1l4VlnSAbABQVVfeXFMTVc4bEVGdUpsRzlhRm5wd2ZiZ2x3QVlRU29XNDQtVnJ6VGdTNnE2U0dlbUxYekpfdXljUWZtTVQ5NjNzNExHOGZHUl9yTWUyLW94TklIaGZ6S0dPWmpCTG0yYXVSaDdsOFUzZ1hNWDNyeVRXSENoaXQ4RG5IZ2MxdTVzX2FhcGRlSVZkUWdkZXdNLXByTHpWUndyVEdjY254ai1rUlNmcGZPU0ZvRkxHdS0?oc=5",
+          "published": "Sat, 18 Jul 2026 15:48:31 GMT"
+        },
+        {
+          "title": "Zelenskyy May Fire Commander Syrskyi After Protests, FT Reports - Bloomberg.com",
+          "publisher": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFlHLUtCc3JuclJSMXBXT0hMMTM1MVA0cVJHeS1QRjZ3Vi1uZ3ZKdG5FN0N0WnpraU8weF9rN2FvTlZ5bGlUYjZZVEdBck5SSmVKNzROcEQxOUl0Y2RWeUlfNlpqTkdac05nLUwtdjRaUWpQaDVrN2FhQWtmaG9ZYVd5U0N6TWppSW9aTElnODExdDZKNE55VVdQLV9zN20zbG9YWlpCU2tKNjVhVkdYRmI0OA?oc=5",
+          "published": "Sat, 18 Jul 2026 12:19:25 GMT"
+        },
+        {
+          "title": "Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 80 - AP News",
           "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWxrSEMwLS01RTJuYy04NmVnVm5jS3Z4a09UWXNZZ21RT0tEVU9YSGNrQW9KM0FQZDZlQ2xyOHR5aGNLM3ppUWNkTG9yaGNodnhlVzJjUXRyNEQ1TUw1VWtTLTZhbXRzSHVuNUNmSjJSMTBUYWR6anNLYmNpaXhXRXpMZ2ZoT0dNY09fSUhtYVJwaU82ZGdOOVVWNWwteGJhR2x0bDZaMzY5VzA?oc=5",
-          "published": "Fri, 17 Jul 2026 21:19:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQldSVzRUSldGOFFxMWdpb2FFdm9oZURyN1VNakRvcVpBVlA1QmJJT0E0RUJPOVYxRTc5NEkwZEk1b1Q1dGlIWGRFd1RxMEcyUWlXMngzYTJmQTVVd0tESmJJN2doOHFwYVlzcnpYaF93MUtseFR1dmpzQVRHdld0bnY5WHljRkdWWTdUUEVFbTBZeVZZUmlZ?oc=5",
+          "published": "Sat, 18 Jul 2026 20:52:00 GMT"
         },
         {
-          "title": "Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMTdjMURHTkdhSXA3V09QbF9oSEpvc0I2R3hfS1NpSjNyeld4TW9YYzVudFM1OTNrTWxUWkFOd1d3RWpTZk1NX0paVWpTd1hOcThOd256MVlXQ1VXNWg1VnZYM1BrREcxU2lyXzNQUUgyMGM2OGlsYVJLRWU5c0E?oc=5",
-          "published": "Fri, 17 Jul 2026 18:53:00 GMT"
-        },
-        {
-          "title": "Iran War Updates: U.S. launches 7th straight day of strikes as traffic freezes up in Strait of Hormuz - CBS News",
+          "title": "Iran War Updates: U.S. launches 8th night of strikes on Iran after Iranian attack kills 2 U.S. soldiers in Jordan - CBS News",
           "publisher": "CBS News",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTms5S29XQzlnbjNtVi1RXzJ6WUtBLTVIVlJZVnhMbFVfemxMdmpxNlhqV2k4dkRHemU2QnpLcFNjTWRjN2NzLW4zTk9vbmFSOUQ2ejYzRVBGbC1hN2RaQWhVaE9EalhzUl9mbFY4WVFPeDRwVkNETGtEQnl3VHNpc0steHVaT3lLdFdESi1kWlIyUHla?oc=5",
-          "published": "Fri, 17 Jul 2026 22:08:00 GMT"
+          "published": "Sat, 18 Jul 2026 22:28:00 GMT"
         },
         {
-          "title": "Israeli attacks on Gaza kill 14, including mourners attending funeral - Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUEg1aUQyWDJXLXdxYklVQ0ZtQzlxa1VMNVBOd1lhREpFcHpaUWFsd3ZXVHVkOFZxYkRwM2RBbU9KTDRKNHpOWmZHOVo2bkVEUW5uTE9JNVo1UEg0YThpMXlzNTQ4NlZXc0ZKUXBINWdDeFpjWnBIQUFHNzlEdzIxdEkyeXRiWXVUSTBEelJlQjhZWnBJS05KTThoXzRDVW1rUFJ4QzUtdm85QmxkTnfSAbMBQVVfeXFMT2RWQjNQZWtHTXRUV3YtU0xMTjZ3R2F5NFRHUjN1cWlyZGJsVThEVDdmdEFzS2s0Z1hta1QybkVBeWxpeGlGOGczWGhILUp6UFlBSS05YVJQYUtVY3hfa1UtT1FJTG9ZMmJUd0VZN3FFNFNvM3E3UlRLMk5TRVh0bXlhYkdILUlOLVZ3V3d2MWJLVlV2UnRzNGp0ZDc0SWEwOGVUeDNCSFFDdHVwMHQwYUx2TVU?oc=5",
-          "published": "Fri, 17 Jul 2026 19:37:40 GMT"
-        },
-        {
-          "title": "They Left to Help Family Back Home. Then the Earthquakes Hit. - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGZyaThWdnBpNUlxaVJrUTRvbVZBTmVSMnliM0pFY1RvRkpLVkZPMzJYNXFjcU1MOVNxTmN3MGd0U0tJSTBFeEdZLVRVb3dac1J2WE9xQlBaa2hHbmYyeGYwczdrSklWVnJmV0tzaWxTUDB1Ulpiek5uYThfYk1LUFhuYUlPUEtNYXQ5NkJuRmQzRDJaZ0Z6YXhVdw?oc=5",
-          "published": "Fri, 17 Jul 2026 14:50:01 GMT"
+          "title": "Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JOGZCOXhtTlVfcGVZQVc4YUVOV1hBcDRiQ1RsdGZaTHAtbXc1cVpnNUwzR0xId1dpRHJPekdXR05WVHZsSzg1RmJhZ0lLUm5MalAwd3FDbUxqdw?oc=5",
+          "published": "Sat, 18 Jul 2026 20:15:26 GMT"
         }
       ]
     },
@@ -50,34 +50,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVBqWUdjSUl2WVZROE9SQlZxVHA0RTcyOTZVS25iYlc4WUtFSUxlaVRaSmNZZ2E2RkhXMk44XzBWN2VTQXdvR0U4TVFtU2FXS09uYUg0YmEtLWtnTVNDanhzM1ZVRFp6VXBMV2dIRzRDSDFmaDJzNllWVHlRSmtISmM1aXhDZVk?oc=5",
-          "published": "Fri, 17 Jul 2026 20:32:41 GMT"
-        },
-        {
-          "title": "Stock Market Today: Nasdaq Drops as Chip Selloff Deepens — Live Updates - WSJ",
+          "title": "Lettuce Supplier Linked to Cyclospora Outbreak Is a Global Salad Giant - WSJ",
           "publisher": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTlGcjJuRTZoRXpSR1dqLXRBV3NtSjZRNmRMR3FKMUw1NjRvSDY0X2Q1eF9hZTRYUVB3V1JncGVONkZJTXdGS1hidHk5S29uRzlMZU50cms2Y3JOT21FeFhWS3lHdzktYkdSU010WEtadzRCR3JyZjZTTWQ0WllRTWx2bENRSW8?oc=5",
-          "published": "Fri, 17 Jul 2026 21:25:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGxLR0Roa3RQeURiZjJQMWxScXBiSjVXWFdPamVSVFR1TWtRNWFDUWV3UlIwcm5nOW1pa1huWHBGUzZyVHJJdDl2bVRMRXNndGxTR0RES1RnSjRxcHJjWnAzeTUweHZJdF9zWnEyeWJVeXVwUGx1eER5eXVpSTUtTVo0NW9rZ2E1UDV1aUVlLVJJWllnNWdnU0ltMHd1UmdNb3AxU2JCLTRYOFcy?oc=5",
+          "published": "Sat, 18 Jul 2026 21:31:00 GMT"
         },
         {
-          "title": "Trump Media pitched $100,000 monthly fee for 'fastest' feed of US president's posts, FT reports - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUXhybkhSVTZzdG9mUEw1S0ZveDNCRm81ZEJmYWl2dW1BTzdGWkMxbTM3TWhqTVRlaGN4M3ZZMWNsU21hd0lYRnhtLVBBbWxZcHFLRmpmeHFSTFBfaVZjVFItUWlXMjRlbWpBYlM5b00wYXlnbFU5bnpWX2hwSGdrTzBVWm5ySTcwZnFwNHpqbnlJRVRGQUdDUGR4NFhlVzRqZmJLN1ZPUkdremVHR3VGUkdIOTJ0OVE4dFl3aGVJUmxwYjhMcDJZWC1XTGp6SWFxVThhUg?oc=5",
-          "published": "Fri, 17 Jul 2026 21:39:27 GMT"
+          "title": "Warren Buffett warned investors to be careful, calling out gambling in markets and the cost of AI - Business Insider",
+          "publisher": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMGp2OTVtNV9VNDM1bWt2LXgwbThMR3N5d3dXMUUtZTVVUEhhdE5kd0N6bkE1dmR2S1RZUzJleVdVSXdTOFNiaE1hRnJnaGpsTHJ2Rlp6UjdlVm00R1doZFRPdEtOQUlEMU9VVFlhRXIyQkoxaW1RdVJYZHpsdWxIODdTTTE2a2liNHNZTlNjVjA5Y0ZKSlIyUjNTLTNma1ZlTlJUQ0dTdGJFWGV3bzd1cDdaa09yLXFOYUE?oc=5",
+          "published": "Sat, 18 Jul 2026 09:15:02 GMT"
         },
         {
-          "title": "Semiconductor stocks keep falling as investors go risk-off, Chinese startup releases powerful new AI model - Yahoo Finance",
-          "publisher": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdmZsOTRacXQzTDBtUEpPODZ2RkQ0bVAtQkh1YXRCSTJVSUNHYms1WWdWOV95YnZ3MFlCem4tVU5rbGJHMGs5MV96UTF6a1BxMzNfUFBOa3UxeE05cGJGZ1VWQVMxeHE4cDF4UHZubWZTSThIM2t6eGJVTnpsT0c3NmdYak5mekVPTVJoZGw2QS1telBFalNDOU90RlVmMW5ndG5jakVWeDU1WlJXMkZjY1M1SXpUYXVqRzV1OERJcTFIMXhSM2JaNFd1aG1acm9MT24wUnptOG1HZmREcE5sV2Z0eFo2X1dDZFZJLWx4MG1nZFlM?oc=5",
-          "published": "Fri, 17 Jul 2026 15:13:12 GMT"
+          "title": "Celebrate National Ice Cream Day with these sweet freebies, deals - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaUNuMjgxbVdPZF9DenRxY1U2RGdSdngxcFNKOVJOclQ0Q0Ztb3ViUjBQRFBwNWNZbDd4MjMyZUpQNzhIWGtFN3UtZU5YVy1DYVo4aVEzbzdfbkhXUFRHMzJuMk4wYmVTRjRFeHJYQmJTSE4tUy1mR1FvU20zaDhfQV90SlE0WGEtTldoN0JwNjVSNnIxaFZzWjdHM0R3dVpkSzgzeVpEVU1Nd25x?oc=5",
+          "published": "Sat, 18 Jul 2026 11:02:00 GMT"
         },
         {
-          "title": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again - CNBC",
-          "publisher": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wVmVOeUpPR0o0eWJpaU9hMGZocHlPT1A3Y2NVbEY3VlN2UHptU1o5ODNfX2dZSkJhWDJlMV9sN1J4RVNBRzdMR3JMQ25zRG5zWks2RTd2eXNpQjdGLVZjU1pzb2FiZHc3amRV0gFwQVVfeXFMTWtqdkJuaEE0N0xCSkVNdlpmdDF0c2xCSTFWVEs2elU5c2trbHlHY3pBQ05yaWdQSnByTElKeEF6WW9Wc0MxX3lXNS1qY0pkMF9xb0VZSG1WUDlid0lscVI1dmNTd2J0WUlxNU9tcHdIcA?oc=5",
-          "published": "Fri, 17 Jul 2026 17:55:14 GMT"
+          "title": "SpaceX and Pentagon Discuss Data-Center Deal - WSJ",
+          "publisher": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTZudU41MERhcWNoYVRDdDNsOUVWUEIzeEhPcFhkSEVnMFczSEI2d2ZnbWFZbHdWbXp1LUY3ZWxDSEYzMTdwM0FqNGJZbVpGOWlGYWtiZ0NjTDZpbjVEN3UzekhEWDMxb1ZUdGhZd2dKVHJxdnc2RE82UUI5NHhHVHprYnFrUkl4WnpyUWlKMGh1QQ?oc=5",
+          "published": "Fri, 17 Jul 2026 21:46:00 GMT"
+        },
+        {
+          "title": "You’re About to Retire. What Are You Doing for the Next 20 or 30 Years? - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DTHBYQkVXY05acW9NQTJ5aVFmd0NkR25tNE9lR2w0ZExiOWMyN0R5R01GS1NRcHlqUGxkUzVnbGJKSnYzR1VtdjFKbDNSYnpxdlNFbDJLaEoya1NBdjFGcXU2a2hHR3NBU0RuaVdtVk9NZw?oc=5",
+          "published": "Sat, 18 Jul 2026 09:01:31 GMT"
         }
       ]
     },
@@ -86,34 +86,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "The Open Championship Friday live updates, leaderboard: Bryson DeChambeau making a charge up the leaderboard - Yahoo Sports",
+          "title": "France vs. England live updates: Score, highlights and analysis from World Cup third-place game - Yahoo Sports",
           "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEJtTWQ4WjF5VWZYMnp5YWZOaWowdDBDTUJJY1BhMWxnYkh5ZVJ1T29vXzYxU3NJYmY1cjI0Q1FndFJVYU1rcjM0TVlWd1JHQ3Vwb2ZmaFNEUkwxRlVOc3dJTVVPeGE5c1dfeF96MkFNc0JvbXFZYXJWR09HLTNkVWx4WkcxREVsbzh5LTFTS0k3bUgwRHAtaURlZ0tBS1FtS256anM5OVFJNmNpcFVJQUpEUmQxWlBPZU1PREFad1FjaUM3X1BWY3FyME0yMDFyUnBSSllWelhtNjBBdldBdTJ4NklOdjR3VUk5OQ?oc=5",
-          "published": "Fri, 17 Jul 2026 19:34:40 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkphVkx3eGFZWkQzd0N2UjFhMlNNS0dJSmtBeHc4XzNuWEFxZERXd0t0TXo1b3FjcElLY2NEZkE0ZmhqWmNqYjBaX3ZGVmVrdTBHdFpieXd2V09BREY5MzUwY1FfeG9zdk5nRWRhUHBiUmR1M0RFZjFFTUhhbHM4VEdpTTJCc0dpNW9CZWEwUUZlaUpIVnJlLVd4azRpeVJfVmx0aEQyNUk3YW0wZ21ad1REZUM3T3c?oc=5",
+          "published": "Sat, 18 Jul 2026 21:52:49 GMT"
         },
         {
-          "title": "Open Championship 2026 LIVE projected cut line: Spieth, stars on bubble - USA Today",
-          "publisher": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmhZX0l0STRCQThYbFY2NWYtMWhmSUZ2VEk0RHM2MmNlbWQ1dHNHVlhPRXdmVTY2N1E4VVBQWjlBZEZVcjYzQmEtY2I3Q0pfOXVRNGlkcV93UTJiZ3ppdWdsVnNOOEI4V2dySkIyT3FENHJ0V0tES3g2M0txNG9LZEdZeGtlSFVxbWphTF80MmM3ZU50akxCMHE0cnZIRXFKLWFfM3NyZlJmRGJXbjB1SA?oc=5",
-          "published": "Fri, 17 Jul 2026 21:26:00 GMT"
+          "title": "McIlroy accuses DeChambeau of trying to ‘hold the tournament hostage’ at British Open - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa2M0cFItTzMtVkR2Yk1LSC1lXzlKZktQQk1IVzRPcDB6blJsWnhZRXJxSEV2U19vbVIwNGhNbmJ2RkotUWFpWGJDbjZEaVpjMGNobnk5aTd5bGEtYTg3NFRuMVpIRzNwWUhpM0RvWVlTZ3lYNUJxYjVzbUFaN2ZEN1JfTDBIOEV3cGY1eU83NXk5Mi03eUE?oc=5",
+          "published": "Sat, 18 Jul 2026 17:56:00 GMT"
         },
         {
-          "title": "NBA Summer League scouting report: How the top rookies already look stardom-bound - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzdqNmdNQzdRcmhZUjNQMjR4TmtNeUFVTVBqNkwxaFVXM3hmbF81RWUzanZGdnBYQ0xjWFJKUzd3WFhVNDlBbGhTV01nSTJfWE0yUExNNnE0aTdwTTlmbkY0ZzIzelNzbWNMU1pkYnFaekZZcHFxQ1VRb3h3SEtFdnRMZU9Udi02WnR4X3E5ekJnRzFpd09IMkZDdHdJOW9oenhfRG1kSQ?oc=5",
-          "published": "Fri, 17 Jul 2026 15:35:25 GMT"
+          "title": "Fox's 62 matches major record, the third at this week's Open - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcm1UaWRhU0phS3BqTWRrdkVpUnRrbGFwcEtuVmNVck8tclMzdjRqZ016b1hYTlVDZkJxeFhLRGpzanRLV3VwNHFZeTJabEVMeDZ6MVBHQnNRNDVOZWNxczh5Z25TRlNvRG1TZURuMkFhZF9LOHlUdmc2ZTctVTZZLUl1bkRCOEZQOHpPYi1iTHdYcWc?oc=5",
+          "published": "Sat, 18 Jul 2026 14:04:00 GMT"
         },
         {
-          "title": "World Cup 2026: England coach Thomas Tuchel delivers message to players - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4OGFOYUs3S2xlMUpPTV9xckJCSFJkQy1LWDBNTHRIODBYbG42X0Z6UXlMNVRzOVJqbXdKb0cyRlV6THJIWjlXN2FiazdEbllBMzcydXhCelYxdGgwWGEwV2pNWkFpSG8?oc=5",
-          "published": "Fri, 17 Jul 2026 20:39:45 GMT"
+          "title": "LIVE! UFC Oklahoma City Results: DDP vs. Usman - MMA Fighting",
+          "publisher": "MMA Fighting",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHJzS0xJYjhibm5teFZ1MGt1eENoWkhZQVVBWjNtZElkX1hMaTFlUFcwYjNUTF83cEdlUjI4Y2Jvc3RfVlQyMnpuNGtBVXRRS0RjVlRUNnJCdFcyZmlyYVNkTmxZRFNZcGN4Q0hURGpFZDZKcjgwQldUblJlczV4M3RYTQ?oc=5",
+          "published": "Sat, 18 Jul 2026 21:00:00 GMT"
         },
         {
-          "title": "Winners and losers from Belgian GP F1 practice - The Race",
-          "publisher": "The Race",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSYlFQaGItdUFHZEFiZFVhNzA3RTFudnp5UjRVOUJjVU9tSWg1cER3cVcyd2ZxX3BOZjBRUExPRTlUMHVWNU1iV2RUREQxblFtN2JtYzJPTVdEYm5tZ0t5dXZjbUswWGVld2psOFhsczRETFNPdzR6Y1ktYnUtUQ?oc=5",
-          "published": "Fri, 17 Jul 2026 18:05:35 GMT"
+          "title": "How Antonelli found half a second to thwart Verstappen in Belgian GP qualifying - Autosport",
+          "publisher": "Autosport",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNmNhTGlyV0hUaDVrRFBJZHRWWmE2aEtwcWpZNi1FR0RNQklkWWZtb21BOElQcmdfanJhYXhRZnNYOEdwN3RVUzFNVFI1ZmVYSHd6eGJxNFVKa2FZaEZYVlU0Wl9hTzNWblE4RTZHODZPNkhpTk1uZkVkMWp2VThONWlXMGpOSU1oOUZMUy1QdDBSd3ptRU1fTHZ5aTh3WEFqb2s0UWV0eDhIV2ZRQ0NqSG40QUJxSW1VMmYzM0hheGg?oc=5",
+          "published": "Sat, 18 Jul 2026 19:27:43 GMT"
         }
       ]
     },
@@ -122,34 +122,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Apple Music Hikes Subscription Prices, Citing Rising Licensing Fees - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmtvSjhIbXBaejRjTU9FRlFwWHVBb21FcXJKaGtudlZCenV1SkZwdVJ0c2d5T0hwRWpabnZweDMzYVZxc2c3RTQ2Tkg2b3VSbEdSMTFYRENsVkN1MW9FSW5XY1hBdS0xdmNlR1N4YVZPRkFnTFJGTHJGNTVuaE1Sb1Z6NFY4VEwwSU15RTNqdlg4Zw?oc=5",
-          "published": "Fri, 17 Jul 2026 18:04:00 GMT"
+          "title": "Pixel 11 Release Date: Price Reveal Hands Advantage To iPhone 17 - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTGNHV1lVZmgwSlV5aEdXM1pZWHh2S3J3akJtVWFtdk5FM1g0Tk1XM2JVTlB5RWNuTDl2YVJOOWJ5akhMVFhwWGh5TUt4ME1NNk1aUTU1Q3MxcWdMOUhMSHI5RTRiOWFfUHpWaFRZZ1BESlFyZUJ2U0RJNG5MNXZWRVRSSFRONEN0RU1lYmJTMWZ0VVdESm91MXlCRmtOenVSWDFwZG5Nc1hHUlhwZXFVTlY5ci1sRFd3enJr?oc=5",
+          "published": "Sat, 18 Jul 2026 11:41:00 GMT"
         },
         {
-          "title": "Marketing images of Galaxy Z Fold 8 photos leak right before Galaxy Unpacked [Gallery] - 9to5Google",
-          "publisher": "9to5Google",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ1IwbjVWZ3FreEItVExxbTcycXMwWVRyeTlPOFZrVzVZVDNmeTE5MXZFUDMyeXZuYlVBV2NMLVY1NDZ5SGRIQXFZT3FIelYwbWJRUGJ4TDQtOTV5bGF3cGJTa2VNWlRPR1RfS0dmcm40OXBuZUpJSGgwSUZrbUFGVzNNeFlyaEpE?oc=5",
-          "published": "Fri, 17 Jul 2026 15:28:00 GMT"
+          "title": "Samsung's Galaxy Watch 9 just leaked in full, and it's not the chip that stands out - PhoneArena",
+          "publisher": "PhoneArena",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnBRaUtxQWdyWmMyWVRHTDFKeksxdGtsb1UzbTIxbTJua3REMDNoa0hnaFhSNWkxS3QzaVpEazY0Ni0wb0QyalBzX3dNMmVmdXZWSk0wUkpxVFFTLUh5TGRDNEFHZTJXQ0lQQkdhZzZheWRLTElBYkpheDBMeTZGdHBjcWpvV25IaDY0WGd4MnBhN1ZXR3ZPbF9GNzh1dXhzTkRhWmhtVVlJUTBtenliaE5HbVJNNmowdVhrdENB?oc=5",
+          "published": "Sat, 18 Jul 2026 15:36:50 GMT"
         },
         {
-          "title": "Shark’s versatile ChillPill cooling system is back to its best price - The Verge",
+          "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants - The Hacker News",
+          "publisher": "The Hacker News",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVXROVzNwVnpKQkkxVFk1UktfU3J3MFZmSHRGcUlIZEVkVnhTdktOUVpudlhLS2xwc3ctSDM0VXU0UFdZOUVnZnpqTEZJMHRVWmVLeVlTbnhsVEQ2bTRXazA3SElWS2ZJVG5tUGphRENMRE5JZXlWRUJBUzc4aExKaQ?oc=5",
+          "published": "Fri, 17 Jul 2026 11:44:00 GMT"
+        },
+        {
+          "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores - TechCrunch",
+          "publisher": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNy1QajhmN0pJMVJoYWgtZTg1b0dJSXJqTERKWUFBU3dMV3R0WUZkVDdQUVlIMmFXX1JFbHM3ZGZvLUgxbTNPWDdHSkdsYU01UXdMWFNkNVF6VFFaWkFMYVhWYU9kMVZkUXdWSjBidEdXalBvemRGNW9Ub2MyYjUzXy11RGpmbURXRW1DZmxyYW4wdU9IMVAxVnBEQUg?oc=5",
+          "published": "Fri, 17 Jul 2026 19:49:53 GMT"
+        },
+        {
+          "title": "Google is open-sourcing its 3D emoji - The Verge",
           "publisher": "The Verge",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMU5hWF9rQWw4NEhiTXBxTHlTNk1SbXdfT0FGcVZvdkhGSGUta1RRbWVHWWplcFJfcTl1dlZJV09IRENUWURYaHcySXQxMFhnNW9PSjloYmU2dlN5WHYycVB5MmtYUk5HUldTQ1l3ZHpuUVUxMmJpOHRDalpzdXcxYmhJNlRvZEZBc2VSUFd3R0FaZGxFUzlBb1RPZnJKUQ?oc=5",
-          "published": "Fri, 17 Jul 2026 20:15:54 GMT"
-        },
-        {
-          "title": "Siri AI vs. Old Siri on Apple Watch: It Wasn't Even Close - CNET",
-          "publisher": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXJBcjU4VnMzaGRoSy0xbDhYcVF2ODc1YmE1U205M3lDSHdjaEMwbGRKbm42UTFIX0g0aGxwc3pqZzRoUGN2WXVlZmZSRl9CbjJ4RnU2ZFNEcFBiZVBlSEFUVzV0ckVZRjYwWGZ0VDNzcGpXalpfWHRJM3BLYXIyMk5iLUg4V0Ru?oc=5",
-          "published": "Fri, 17 Jul 2026 12:00:00 GMT"
-        },
-        {
-          "title": "Samsung's Freestyle+ Projector Is Now Available For $1,200 - Engadget",
-          "publisher": "Engadget",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3WkZVZG5hS2sxTkdxWjF4NnhYdC13MmhINUhhVnJSQnRIdUFid2NHS1dNTFE3V19ZNHE4bk1JOHI3TlRnSmxGSW5UckFkYUJ2cjJLS25KLUtlME11U19ONzFWblRjY1ZBdGNTdXNBdkVVd2l5?oc=5",
-          "published": "Fri, 17 Jul 2026 15:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85Q1BjS052a3NmQm0yZVFTV2s4cmN5TG41Wi1OaXdKLVRlN1NzenB2YkFob2tfU1g4RVFQa0tWWWNhRkxpZWhjd05QWUItV2Z5NXFtbk9iZkZBaFFWTTZVRG9JVHlVVFE4OUIwXzdzUER4NE53?oc=5",
+          "published": "Sat, 18 Jul 2026 16:40:55 GMT"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "label": "Football (Global)",
       "items": [
         {
+          "title": "Reporter's Notebook: Finding World Cup joy in speaking to women who love soccer - NPR",
+          "publisher": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSjd5UFZjRFlCNzlCREZRVGVnZHFNSkx3XzI5eXdoaWhJWnlDSkNMWUpzUW96R1d1M2FzS21GeEo4RGxmVWdGM3Z1LTVfVWlLWUNlMW1SMjBncVZhdmZ0OW01M0FWcWdOai1VUWpYNnpVQlNIeXBRNnQzaXVHWTlJY1BYUDh2WkFIVFJNSUoyYTFVcXh1UFE?oc=5",
+          "published": "Sat, 18 Jul 2026 15:30:00 GMT"
+        },
+        {
           "title": "Football vs. fútbol: Nine reasons I'll always take the NFL over World Cup | Opinion - USA Today",
           "publisher": "USA Today",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaENFV0hHbjBWVXN4SnY0N1N5RkpHbFdMVzN2SThtYzBaSGpkWW5SbWIwazlBekhLdDV4VHdzYjRuRno1TlpWeFZIbHozV2tzbGFHd29GaWxKTWo0VTB4dVdBNy1uMTVYZXUxMFRQcklMdF83QWMyWFN1VHBtU2xVSHZSZkhKX1Bfc2ZtZ3hJbTdIdGZob3BkOXp3R1d2b2xVbVJ1QjczU1NTZEs4aWtoZ0E0VEZxNGVVbFl3aW1EZXVqR2gyTHc?oc=5",
-          "published": "Fri, 17 Jul 2026 20:00:00 GMT"
+          "published": "Sat, 18 Jul 2026 16:24:00 GMT"
         },
         {
-          "title": "Vermont Green playoffs, World Cup driving soccer excitement - WPTZ",
-          "publisher": "WPTZ",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmR0dEVJLUIwMW9YV2JmTy14Wkd6ZVl4MHRaM1o5ZTZQZ1FvV0tvTzF5VVR5bXpmbDktMnZFSktuX2dSZUJLalc5UGdDREtYS3dCN0RoMXRKYUtfdUl5bmszMGRicUpRYWdsM3dtZ2wyY1NaMTkzWFpIenF6UnM1R0VwY3JXMUpo?oc=5",
-          "published": "Fri, 17 Jul 2026 20:16:00 GMT"
+          "title": "Future of hydration breaks undecided - FIFA's Arsène Wenger - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVklUNExiQjV3c2NtNlBNYmpDa3ZRaFhmd2o2eWtJeUlUS0JXSmt3MHEwb2VSYlRMWVVySk5kcEF1Tk5sOFk1UzNGRGFuR2ctYmdmQTRCYW9zVlNqZmRpOGliU212dzFlSXZrbnZYaEUzWm5sYVItZ0VZZ2FJazJIbDlGbjZHckZNcTF6WFRCMWFqWGoyOF94bXZIbzhQVmVSOHc?oc=5",
+          "published": "Sat, 18 Jul 2026 20:23:00 GMT"
         },
         {
-          "title": "Faith joins football as Spain and Argentina face off for World Cup title - OSV News",
-          "publisher": "OSV News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmFHU3BfNmNrZ2hLc0RUM0J6blctSTNOUGt5YnRPZVR6TVZLT1BhVmo5MlFNMHdrMGgxM3dBaWZmQXdIWlduNk9xMzMwdGt6TThyTE54MmlEcngxTGVvUXV6VmRyLXc3eklrR3RZTVhZWWZXMmR4bnROMXJxSEo5czFNUGJtdjBIMnEtYzhyTjJxVVBlX2l2d3djaEhHZw?oc=5",
-          "published": "Fri, 17 Jul 2026 16:59:49 GMT"
+          "title": "The Soccer Show | Kohler talks Revolution's return, plus World Cup Final preview - revolutionsoccer.net",
+          "publisher": "revolutionsoccer.net",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa3IxR1FjN1FjTU1RUFZSRVQzTXA1YmtodkJfaHJtQlprQTNqZ2M1NUstSDc1Z0kwVVcwdjcwNk5mM0VsbzFUU1F1UWtvdlVoeXJnUTlkVWNrLUw2QVVuT3lfSkVKTUt4enprMlZxVlhTSTRUTzhSeHp2UTlTSllYYWhDRHVyOGxmbm5ld2JHcEo4UQ?oc=5",
+          "published": "Sat, 18 Jul 2026 13:26:04 GMT"
         },
         {
-          "title": "Is men’s college soccer a viable path to the World Cup? Here’s how it’s changing - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMmRZNDVzWTFnejBjY2kzTm5NRk5USC1vRHk1MFNyVnNOWDB1TjdRS1NmRWt3Y3FZZzN6M2daTkhUVlJac2dOYkQtbUo0ekVhRWVXdGhpdllpOE9aX01xMTJsbzVtYnoyak9jMXdnMndzd1pHbnRoVEhhRUlhaHBtVlNmcTUzOEhrN3c?oc=5",
-          "published": "Fri, 17 Jul 2026 14:46:19 GMT"
-        },
-        {
-          "title": "Live music and soccer: What to expect at Scranton’s World Cup Fan Zone - Scranton Times-Tribune",
-          "publisher": "Scranton Times-Tribune",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGk4Ym1Ca05VaXNGNmlvMnVnOUtxeGZzSnFLUHFIaFFIOWJ3c3JFdWFldzNWMUxDWktPZ2UyMm9xT2Fmd21XbHU4MlRvMkdBa2c1YUhfODNMR2RYMGFiVHhFSkpnN1VtQnhIM0hKaFdsekhDRHlhSzM3SHhiWHNMLVMzWG94SHFBOFh4QTY3NXA1THZUWEhmTjdTUmREM2gycjlqZGhValZCWXNXN1pZTGg4aw?oc=5",
-          "published": "Fri, 17 Jul 2026 17:46:57 GMT"
+          "title": "Hydration breaks did not impact World Cup results but future undecided, says FIFA's Wenger - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ2NzNm04ZmtFWVhWMWNlUTZHNDkzRFJLZkR4bWUzdlVfUGVXX1UtU0JMTFlGa1hIazZLUElEcUpldURHeWl6d0gyVF90R0dHVXJ0b292ZmF4SXF0M2dNcHdEXzlUWnNBS3JXQ0NpSU9sNDZfcTA3TEJ4Vm1uSEJrWW02LTVGaG5VcGhWQW43Vk5QTUo1OXh4U0FOVjNJWHZxQ19hazUxRUppUnF3UU1RTk5tbjNkZkpWbmJkUV81QmNESWE0b1E?oc=5",
+          "published": "Sat, 18 Jul 2026 19:17:44 GMT"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "‘The Odyssey’ Box Office Journey Begins With $17.6M in Previews, Targeting $117M Opening - The Hollywood Reporter",
+          "title": "‘The Odyssey’ Galloping to $120M in Muscular Box Office Opening - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUx2WG9UNW8zcW5PM1U2aUV1TUgtSEFFdHZVZnl2QW5LY2Y5YmNjOHM2XzNpUGFncTgtMWtfRUFFQ3gxWU5QUXBpcExtSXg0UlBEcnZFZlN6M0RNbmR1bmM5QWVQdnpBNXNNWWdPeUxhOWZaVHFvUjFLMmduaks5cUtEa2J2SGNRQUFCdnFQY2MwbVhvUVV2d3hWaGNFcy15TEJDY04tNTAtSTg2Y1pjVHFxNA?oc=5",
-          "published": "Fri, 17 Jul 2026 22:11:39 GMT"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDFTUkhiV0FUTFprZjZjeFFvUVp4ZlNaS1Zwd3ZtT1NVZU9qRXVpTUpQU1VySERaUWFHWnU3R0NUcUVRT0tyU2x1cEpfZ2xHcUI5STNtNk5tX2lfX1FlTG16OXQ3OExTaXViQUNNU09Ea0hSUU1FYWRVV2xkdi1VNGlROHNBT3pWSWt3eWs1TkN6ajYzSHV4QnRJWFREYzNHXzV3UjF6RnVSY3FuSF8xX1ZB?oc=5",
+          "published": "Sat, 18 Jul 2026 17:36:05 GMT"
         },
         {
-          "title": "Jelly Roll and Bunnie Xo settle divorce — with one major stipulation - Page Six",
+          "title": "Tom Segura’s estranged wife, Christina Pazsitzky, breaks silence on their ‘really difficult’ split - Page Six",
           "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYWxKZ1JCU09mTXRoUC15cUp6MHNqWXNvdTFJVWlYcHlxZ1pzOGI4bGRKOW5rSlB0QzFxY1hNR3k0Sk9aQlhoNGd4a1ZVbTFWTExZOE5xNTBrZHNETGg2d1E4MDl4c3VfWW5jU3dGNjFma1QtRGRWRHdha1c0V0FpdmZ2YXptYUFPbnZ3eTFGaw?oc=5",
-          "published": "Fri, 17 Jul 2026 21:42:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTkxvRjFVdWs2eXJOS1NYYnYzZVVQclhHY2twN1lvaWtmMWlEVVFaUDFDOXAxY29mbWcyZmNJMjltVk95YkgtUldkeXZZQU1yekJMVjZmRVZiUFdaRjFRNTBsY1VxTkJLWXJJdmhsZDJpN08zZ2ZsRXMxN0x1cXZzV2t1LVd6Yk1qTGp0ckluSTRheXR1MVdUTGJOOTkxSXBZSXI1NkNtUDdIX3dFWENnZWhqMVQ1NUx1?oc=5",
+          "published": "Sat, 18 Jul 2026 16:04:00 GMT"
         },
         {
-          "title": "3,000-year-old earrings and one-of-a-kind couture: Inside Zendaya’s priceless press tour wardrobe for ‘The Odyssey’ - Page Six",
+          "title": "Britney Spears’ son Jayden James, 19, addresses long-standing rumor his mom was cloned - Page Six",
           "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONmpLdTdMSVNHM1J5SEZ6d1pwMGwtN1BQSl9rZl92Zmo4NjVyaVFiZUF4R0Q0T1VrcG4wN0xYUXBRV1FKaXBqeXRKbXBEaF9tYUp5aFlUS0pEalA5UnM5cnJVUEhpdG9BTkptQU9rSEZJdWd2SE81eEJLTHVhbnhBY0RnYmpnVTlURlNXMk9LY1ZQaXV4XzZhdUROZmUxTjA?oc=5",
-          "published": "Fri, 17 Jul 2026 17:43:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHlaa0xfcnd6TWNmNTdCUGhWV3czanpBVGtWZ1d6WGJ6a1JwOUNocjl3aFZwODd3UWtNLTJJS2lVand4bUNCem1fSldkejhEN3JXRVE1TUp2VUhCR2hfWkR3SjBrVkxVS3FDRDNDQk5oTFJEUHNFVlFVRHVmOFA0QU1NZFVJT0hjWnNQQXQ1WDIyRGJVZGRRS1h1bDRlV1M4WF9sZnltT2pKZVU?oc=5",
+          "published": "Sat, 18 Jul 2026 19:04:00 GMT"
         },
         {
-          "title": "Ariana Grande ‘Happy’ with Ricky Alvarez as They Take N.Y.C. Stroll (Exclusive Source) - People.com",
-          "publisher": "People.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYVdMUHlycE5YdUdKUGNaZE52b3FpbWt2WEFlOXhGaDlqRXZNZGtvVDAzOVZaXzdoN1FXMlo1UlBlTHVFSjcySElQNzZSQjVCVHpiUjhZaE1LczNwdGlZSlRseWhfWUFBOUVzRjBwcnJrS1Q5LVdJdGVFUHBGNWt3UEhYV3dwV3FKTC12LWRVYU44akU?oc=5",
-          "published": "Fri, 17 Jul 2026 17:56:37 GMT"
+          "title": "Shaq Sarcastically Thanks Taylor Swift & Travis Kelce For Not Inviting Him to Wedding - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRloyN2J2M292dUcwRnVuaExRWEZPb1VsNUE3Uk5ERWV6bXU2M1F4WTc0V1JiS2pNR2lUQ0RHaDk0SDNNaVlCdE9kMWhMWm5QeFR5OXRXS21YUHpqZGVvZmpncW83bTNRRnlyMVRiblI2YVRqdmtYSnpjZTNQNURqa0FEdFFOMG8wUFpabA?oc=5",
+          "published": "Sat, 18 Jul 2026 21:31:02 GMT"
         },
         {
-          "title": "11 New Albums You Should Listen to Now: Steve Lacy, Syd, and More - Pitchfork",
-          "publisher": "Pitchfork",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWmQ0T2dldWJvTS1xcjNBblV2R1d6ODFMUGltQUVUSm93bzdGTXdhN2o5MFk3VnpSQnlPZDFKOXFnWlpyNTkyQ3NOb0JhSEwyRXRsYnZqSzlWUlNJTTBvdW9hTHRXdG04VmFMcG9lOE5tMWVaWlFfdnlkaXRyaWpjem0xVFozbC1ZQXJ1bGhPbDNla1QzaVE?oc=5",
-          "published": "Fri, 17 Jul 2026 13:56:03 GMT"
+          "title": "18 things worth buying from Nordstrom’s anniversary sale – from Our Place, Away and more - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeVRlSVhmU0VJbTBnWWs4bEk3bkVKeEtsNnNQcWVlN2lMRDlkLWVYdHhHZGtYbEhqMVdaY09QUVlRVmJkME9TNFFfWVN1a2VSZUxtUkJXZGZTcl9jUjR1ZTg3VnJ6eFZkSWVrZmdEMTRMTzZCY3J6ZkdCMng0eURqU0VQMUtNWWJma0Qzd0U5ajktdnRDZFhoZ1dRQTM?oc=5",
+          "published": "Sat, 18 Jul 2026 14:15:06 GMT"
         }
       ]
     }
