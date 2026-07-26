@@ -1,7 +1,7 @@
 {
   "market": "DE",
-  "generatedAt": "2026-07-25T22:54:19.561364Z",
-  "validForDate": "2026-07-25",
+  "generatedAt": "2026-07-26T22:57:18.582976Z",
+  "validForDate": "2026-07-26",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,16 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Auto fährt bei Berliner CSD in Menschen - 14 Verletzte und ein Toter - rbb24.de",
-          "publisher": "rbb24.de",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHJVV0Vqd3dxTVkwZVZnV2ZRYmhoTjlLSlU4ZFl6eVgtT1ZHelc3UVRmdmZVZzl3RmdldlNfWjhDcTY3TGlXVHZpNl9wa0thRWxjTDMyUVBreWFmWjdNVWt5a1VuUEEwNE4zbXQ5TXgtZXZjSWxnakUzTGdJdVBTaGdibDRUMWFrTnlkazIxek8xZVRPTmNhMg?oc=5",
-          "published": "Sat, 25 Jul 2026 21:52:30 GMT"
+          "title": "Schläger, Räuber, Dschihadist – mutmaßlicher Attentäter vom Berliner CSD sympathisierte mit „Islamischem Staat“ - Tagesspiegel",
+          "publisher": "Tagesspiegel",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZFhPaVVhU0dfaFpUS1lXM1ZVZmtjdXA3SXBPRkhWY19jRUxOSWw3ekpHc1hGdUx2Mjl6QXRULWk0clFneWpkRks4OS1wcDVrcDM0UnltRmI1d3Rmb0kwLWpnSXBhTUtpTlNyWi1TRWZOWEtsU29MYlNSbXZ6MmFUMXRuTk1EY2dWNlIyWWhhcE5TdmZCeVBjaThjU1dKekIwU0JUaUEzY2pVaTBFMDk1QkJFWE9aX05KbXh3LVlXLWc3dnljWVJMaFF3cGc5ZVlsT01QTUhYQkp2OWVWZTc2ZHR3M0h6UFR5R0tNQzJwVm1NX04tNTVuckdGczVoUnI2YnhfRFNfa3RrZw?oc=5",
+          "published": "Sun, 26 Jul 2026 19:25:00 GMT"
         },
         {
-          "title": "Niedersachsen: Kleinflugzeug stürzt in Wohnhaus – zwei Menschen sterben - WELT",
-          "publisher": "WELT",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRGlRM2VZWTJXY01lWFBMT1c5RjZmSE5tekhRM1NQZEh5c3JsVkFMZXRmWGRyMlRPajZpQWN6VjJLNmRvdjRHeWV3ZV8tTUJueUJBZ1p2UHFxQnZnV29TRWRzS1k5Z2tUNGpFclo1bVBZRjJZUlZLNnhsRENMSUZWWUV3elhLNjQxelRtc2c4WTdvXzhreVhWRllBMS0xVmRraWMteEFkRHlwVzZBMldYZXlVTmRRUnViR1V2bzU0cVVqY0NGVUZ0RGxOUTFHcHE1bVFyLQ?oc=5",
-          "published": "Sat, 25 Jul 2026 15:58:27 GMT"
-        },
-        {
-          "title": "Kabinettsumbau: Immer mehr CDU-Politiker stellen sich gegen Merz - Handelsblatt",
-          "publisher": "Handelsblatt",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmY0XzkwZjJCZXFUSGpJcXhGcFFCRlpSN3BGM2tZNzlxWUJZdzIzaU1uUjk3WndXTFlEcjVXZE1DUzlibHk3QXJJeFJYNERFRWt1Sy1oYlU0dXRNNGlSSTNPS2QzVjFHTGdMb0Y2eXZrdkNCcm1PaUtsUzN1NjJKcVpuS0J0MjRJVUxWMU5UNHB2R25objBoVXdTVXhudW9DcWc1aUM5ME1famhDQ3o4czBoYk8zbDVhbFU0QXpXVFJQbEk2dmc?oc=5",
-          "published": "Sat, 25 Jul 2026 20:20:00 GMT"
-        },
-        {
-          "title": "Weil Waldbrände toben: Jörg Kachelmann räumt mit verbreitetem Irrtum auf - TAG24",
-          "publisher": "TAG24",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWnZ3aGxrSnhLNFprUVhUQjVOeEo4eDRCa08xWTlQOHVoWEhsMlMtVl9qVnBNVkJxdG01NndiQ3NQWVlEcWhjXzRkWWJqSUZyd2JXaWUzaWU5TmlFMUh2ZWxqNTlyNnhqS1N1TWFoeFh6SE1mSG1Gd213QTk0RUdJNEw4VzhHSnRZU1YwRDlQYkJ1WURZUDk3ODFycksyXzFEVTQ4bGZ5WkJZbmZkajdKRU9LcDA4clI2WlMyZ0liYzdFS3M2Q1HSAcsBQVVfeXFMTzJORmM4Y0cyLXZfSm9OcXlGa05OdlhvWXlNMGZlMWpnY0hOa2FBaVFuTWlDREJ2VWlCTTZpeUx6N0xWWWJGQWtZcmtIZTQzZmM1RW4wX21HZTdxalRqZWR0SnB0ZHh5Nzk5QXJoMFpzN2FwX1AzRktuQ0NFVHNoVEh3MUNXeUNBcVFKRUtDbVdtUi00c0JKaTJJSXFKSFBDNzhDQ0pPbzVtdUdmNUNpY0RLVlVxR001UndBemR1Zy16YXp5N3ludldDbmM?oc=5",
-          "published": "Sat, 25 Jul 2026 15:06:00 GMT"
-        },
-        {
-          "title": "Extremwetter in Deutschland: Neue Hitzewelle rollt an – \"wie eine Herdplatte\" - T-Online",
-          "publisher": "T-Online",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUi1nQTNVZDVubkt1Sk9welI5bGZ5VXZhblM1SVRacXdRTXZUVWpuWWdVWGNPRUhGTVh4aEx6d2JSOXhYOU1RM0RPLXRIY1dyNUVjOHJkZHpub2hObjAyUDdiMEhrM0ZUWGlFRHBrOHFiU2V5bElSN2lhS21aX3NMeHBPT3hzbTZsbG9wMVJFQjFhLUNQM09KMVZkQmRLRDVWTHZSTXd1cjJhTFlLdFlpREZfX2VGaG5qTDNaVzlIS0VFVjlweHdwVnVLbGt3UQ?oc=5",
-          "published": "Sat, 25 Jul 2026 12:59:35 GMT"
+          "title": "Verkehrsminister Schnieder will Kanzler Merz um Entlassung bitten - tagesschau.de",
+          "publisher": "tagesschau.de",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHVydC1Hd2RaYm9BV1hPN1pTcjRzM19GNzRnRDg2QW9vUEpoZ3hMMWMxeHFZcjJuRzc4UjczQ29XaDNEbmpWYlVvNzhkQXNzYlFvcGUwbS1PSjkyUTFLS0IwMWx4dlZoTjJDdm1Sa1BfM3RUODFDM2RLREpIWlY5Nw?oc=5",
+          "published": "Sun, 26 Jul 2026 17:35:00 GMT"
         }
       ]
     },
@@ -45,34 +27,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "\"Beispielloses Ausmaß\" - Waldbrände in Frankreich und Spanien außer Kontrolle - mehr als 250.000 Menschen in Sicherheit gebracht - erste Vororte von Bordeaux evakuiert - Deutschlandfunk",
+          "title": "Waldbrände: Weitere Evakuierungen im Großraum Bordeaux - Feuer sorgen auch in Spanien weiter für große Probleme - Deutschlandfunk",
           "publisher": "Deutschlandfunk",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaGEwRW9IVDliNG1ETGZaY190c3VQUDh4dndNUVM5d1FHUFFqMDhNTWdoZThzWVoyOUVCWmQ2Rnd4SGRKS1NHVWlxUjJlbWtzWm9lbmtCdVRCd0Y2bEl5QVBzUTRCZC1LbDhuT1Vac1BrM0s4b2VtM3VSeTAxbWU2aE9NeGh4TmNlSXdPR0JhbjhPOGFtSi1HbWFGVnZ0OXZlSDdIX0JkWDZ1MmJpZjZRSnlvb3ZTWGYyV00yVElvTUYzdFhGazI1RjNHMVZsY0w0MjVSLThOaw?oc=5",
-          "published": "Sat, 25 Jul 2026 21:22:40 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcmVWdzdua1RwcHR0Q2dSLTBjeTkwaVJlVE44dG1IV2xkdzFMSnZHZkpJMnNnMnYxY3pnN2pEenlabndqV2RrRmthNXFxdUtyZTFsaDRPTVJvVjVHTkdzaFJhVGNzQ3JHNHA0NFo3c1dxSFFLZlk4TFI0cUdxWDJhRHlPRHVwM3dmMGdRLTRxcFM3QU1xV2tObFVma1NDVmlNVEdSeFJQZ1B1NFZKMHJjc0ZEUFU0R3MxSW0tbGZMbUZCamNhWUhhNFRqcTVJYUk1cXM5YUFSbw?oc=5",
+          "published": "Sun, 26 Jul 2026 19:47:30 GMT"
         },
         {
-          "title": "Indien in Aufruhr: Ein Prüfungsskandal, etliche Suizide – und die „Kakerlaken“-Bewegung - WELT",
+          "title": "„Kakerlaken-Proteste“ enden mit Jubel auf den Straßen – Minister zum Rücktritt gezwungen - WELT",
           "publisher": "WELT",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeTlHQ2ZkUWNFYmRDUDRJdk5xMmJtUFFKT2JaSDJ3WV9zbjlidk5ISmdKQ1NldkRmWWxYWjZMT3k1Z1pFU0xyOHRwZS1abmR6aTN2TkJqZkd4TlBvbHVKMHA3dFoyWnR2eXVGN1VQeXBEQnM1UUxwampTR1d2MTlZc3BKTE5rTnVmLVlhVGlsSE5vOVFJUTRTakxzeWFfUmg4dnVsaU5ITno3Q1FoUXB6bVB4Ml9YX3JlN2lURzJETGNrd1FrODJoZ0tZT2gxN0RBSHJKdzlzS1JIb1dZaWxvQjNHODdhLVFQUUhF?oc=5",
-          "published": "Sat, 25 Jul 2026 18:35:39 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMURpaGZ3WXBTT0k2c09RU0xJSHlZeHBwLUZtRTdJV2FmdUJod3puejRTanZCcmRsNkREWmdDZ0RVenBqRmRWNFRRaFFZOTZNQnRhMmh2akZrMmJ5OGUyVEdpRFJmMzVUWnBab1BtYW42SWtsZDBlcmhpa2tPRzRVOXZQMzFEZTA5QmNIU0JTXzU3UENyZWoxODg1Zkg4OTVBOWpETFVvQndRMFBWYXRHY2dyZFdxTC1UNHBOUWpxVXhvMHVsRG9IRkF4VGdmeUJfc2FMaXQtSGthYkNZcDNIWERJU29TYVZUVENhZTZWa3RoQmtyOTJoVkpR?oc=5",
+          "published": "Sun, 26 Jul 2026 15:55:53 GMT"
         },
         {
-          "title": "„Verlässlichkeit auf Probe gestellt“: Trump verkündet Deal mit Saudi-Arabien – und nennt kaum erfüllbare Bedingung - Frankfurter Rundschau",
+          "title": "Sorge um Waffenbestände?: USA setzen Iran-Angriffe zwei Nächte in Folge aus - n-tv.de",
+          "publisher": "n-tv.de",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1Z1UFRyVHc1R1pfbzZsQ0JJb3RqdktoX1d5UWxleFAtbnplcWswTFBxUnlHS1cxZ3gwVGVjU0VvS1dWVHRlXzJTcU10YVl6czFweTU2eXRYYjlaYWtoRFNhVEh4SFNQb3J3TWpZQjJiWlNDQVZ6cGh2bmN5cUlqMmV6ZjVlRENpSy0wV2V6N1FTOHYzWjB5Y3F3?oc=5",
+          "published": "Sun, 26 Jul 2026 15:18:51 GMT"
+        },
+        {
+          "title": "Wegen Durchfall und Rauch: Neue Zoll-Drohung sorgt bei Nachbarländern für absolutes Kopfschütteln - Frankfurter Rundschau",
           "publisher": "Frankfurter Rundschau",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGNERUNHRUh6UjVXTXlGWVJrX2FTQlFNbWRVSmotQVBQNTJkYjBHWmpub0s5NUlTV0hBXzRFOHZCdzhabUJOR2lJV092RE9Ycm5yYnR5ZzAxMHU2NlB0bGlTYzBta3RCNTFHeXZpWTlLTGFFZnFneDlqbHc1RzRzdkRISW5US2UteFVMR1RqV1hzTXRZa3VtdDdQRTEzcUNiZHdQRFdvZWEydGkwQ3lXeWJXZURYMEhZcEFCcVVaMV8?oc=5",
-          "published": "Fri, 24 Jul 2026 18:49:56 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTI5aVoxQ2t2YUx0RGZ2NmdWYUN3NjB3eDdEcDg1TE1sNXNVSUgySno2X1hPSTd0Uk1tX05PV2VUVERtcXAxS012Q0hRRG90bXpGMDhmRHZJUGVxTFlBZElUcEdMdGV2TWp0UWhidzlzMEVXN1FDZmhtZGtwN0xWUTJlMUdpcFVzZzNJdWVnNUtFZC04d3V6Yk1WaHltRE5TbGE4ZmV4LUY?oc=5",
+          "published": "Sun, 26 Jul 2026 17:00:00 GMT"
         },
         {
-          "title": "Putins „Amazon“ brennt: Russen weinen – Ukraine gelingt massiver Wirkungsschlag - Merkur",
-          "publisher": "Merkur",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0VhdDZkbU45VlZ4S2dodWs3QWtHb3VBU0hlNEc5dVY0dnkzbjFlME1Fa3RJSFJCR3JQeWNVYW9YdTNSMUJvUzdydHgxQzF0VkFDZ0R5UDBhS2k1a19JM3htek1veVRGNC1xUHRDSzdYOUR2UGlsZFNacTBlYTZDcElUbkZ2SHNWZTg4b0tLZUN6VWFsczlWdXptR2NiMnlTMlJxT3F1d3pzY3ByN2tPdDBSMmVGSnNvWGFiLW5oYw?oc=5",
-          "published": "Sat, 25 Jul 2026 09:38:05 GMT"
-        },
-        {
-          "title": "Rotes Meer: Huthi-Miliz greift offenbar Hafenstadt in Saudi-Arabien an - DIE ZEIT",
-          "publisher": "DIE ZEIT",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaXpmVF9jOThNdndZNkN1QmNiaVBYNEZueDNSUUNZZThycURIcVhiMnd2ZXc3Qm5BSjlaaWlqQlF0T1lFRnhhUUI3UGhyczJHNXJzQ19mZ3VITC04Z0RqdlhtenZISzRNS2lfLVlmcHVjNGlWZEpiNmQtSWh2X3JucDF6UEtOcnoyWm9MSw?oc=5",
-          "published": "Sat, 25 Jul 2026 07:48:57 GMT"
+          "title": "Israels Militär befürchtet Eskalation im Westjordanland - FAZ",
+          "publisher": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc3cyRkR3QVRQWVNjbi1DM3NXejR2WG1vLXMtRmxyRy1vYlRCejRBeUEwT244VW0wSFFVa0VMeEFyRkVDMmphZ29BcVpjMDY0bG5LWUxKbU51ZWJxbi05SUhBUWp1Nm9CRzB6LVZNdDY5eVNPdlh0cm11UWh0UnlnYmRDS3c2M3ctMTNWMTNZYVhiUUN1dHQ3N1NNM3dPRVRMc3VKM3h3SDhNYWt6QmItMmpRU0JXeHkzVVF4SkJR?oc=5",
+          "published": "Sun, 26 Jul 2026 14:00:20 GMT"
         }
       ]
     },
@@ -81,34 +63,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "OpenAI: Ausgebrochenes KI-Modell ging tagelang unbemerkt auf Hacker-Tour - Spiegel",
-          "publisher": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT1dVZkUtdWpkcGhXcjhrSEstRnh2XzFqdkFNZEFZeUdwanRweDdUMXFZcW5rLVNVS0FIbVlTcGxSTUotcE02bmgtNDhBMGt5LUVMQ19yNU93RmI0RzFtaUZSVS13VlVQaU5JR0hZRmtNSGNXbF8wVm9IMFhyV2xkUHlfZlhzUHFXN1dnVUlhUGpnamhpUHh0Smo2V2xXRWpIUEJUalpzRm5zQ3FvZk1jSlVaWWRtTlVzUldSNEp5OGJ5SGRNT0Nic28tNmRhdk85WmMySnlYczVvdw?oc=5",
-          "published": "Sat, 25 Jul 2026 13:33:00 GMT"
-        },
-        {
-          "title": "Tiefkühlbeeren: Rückruf bei Aldi, Lidl und Netto ausgeweitet - MDR.de",
-          "publisher": "MDR.de",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDJOYTFNaXVNZ0JxeHliTGUtcHdzd3dsNFpoZVNUSHN5X3lRWVJJQ0hPNjUxVWRhUWRCNkQ4U1V3OG4tV0hSSG9fM0JvNVNhS3RQUGMwV01MLTdGMFFPa3l6VUxIZmtnYkdDdDRZWUxSRzNxb21LWUxaZHZVY09nMGVQcXBBRmg2U0FMcFZJdUlVeVQ4dWRRalR0VWdvbnM2ZU5qY0NnVFNGZjlRYmhjendRUWdmMmFxWGViYkVpTG9RYUFZSms3aW11Wm9Mdw?oc=5",
-          "published": "Sat, 25 Jul 2026 13:51:01 GMT"
-        },
-        {
-          "title": "Neue Zoll-Drohungen aus den USA: Trump klagt über Diskriminierung und Durchfall - taz.de",
-          "publisher": "taz.de",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XNFFyLVRMRGc2YzlpSFFEQng0ZHVVUUlyRFZWck5zRExMNjVnN0VYajFBclo5SmItb0VLaTY3c3F3TlZNU3BOcEc0Zl90SDllU21zTUpFOV80N0xJWWs2OWozYXppVjg?oc=5",
-          "published": "Sat, 25 Jul 2026 08:38:23 GMT"
-        },
-        {
-          "title": "Batteriehersteller Varta stellt mehrere Insolvenzanträge - tagesschau.de",
-          "publisher": "tagesschau.de",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNXzQ2RVBreEFlcnJ3TFRvcUdudjlWN1lCeUktUUtjQVAxdDNFRkNxM2VBVVBwbkVYemxQdGt4QlRiMGpncG9xa003b0M2LVc4QlBDa0hRWEJkRnI2TTg1ZllxREd2QW9NYS1mZldzQVNQZmdPeEVvRzlBVVZiZlllTjE4c08yT2dWdVppZC1ndk95WTg?oc=5",
-          "published": "Fri, 24 Jul 2026 13:01:00 GMT"
-        },
-        {
-          "title": "Paramount setzt Warner-Übernahme nach Wettbewerbsklagen aus - heise online",
+          "title": "Nach Angriff von OpenAI-KI: US-Politiker fordern Kill-Switch für KI-Modelle - heise online",
           "publisher": "heise online",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHRQM3VCUjhuSVZMSll4UWNidkJVTkY4Z0hSMG1FVHpLZm9JVHNySUJfTjVCT0FuZUlWN0R6LXRCcUhiSEJ6UnNnY2RhRVFjSUVDa2Z2OVAwRnFlWEYxRnNIZFRybFFCVl9aUHhYSlhoX0NTbEFpRU5FeUZnVG5IV2pJYWR6RGJVdHl0ZXNDY0ZsM09xY29xZWdRUEFQM3pPbVE?oc=5",
-          "published": "Sat, 25 Jul 2026 12:27:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1gybFVDY1BFM3ltTnBvVFhzTzNNRnAtV1ExRm5KX0syTHdEQUE0cDEzUUVaYktLTl8yVHotdnpSNWtjNDVoMkpiN0dPMFBaX2tteXhub0hFc1IwOXVKM2pDR0E3c3B3V21pQzlFWGtFS0RLWjhyckdDbHNhMzdLLUl1d2JDOVYxWEkydFJzUUR4UQ?oc=5",
+          "published": "Sun, 26 Jul 2026 13:10:00 GMT"
+        },
+        {
+          "title": "Verdacht auf Noroviren: Jütro aus Jessen erweitert Beeren-Rückruf: Lidl, Aldi und Netto betroffen - Mitteldeutsche Zeitung",
+          "publisher": "Mitteldeutsche Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdndmWUZnejlGSEpYMVhBeHlVMVpPT0Fib291RkVyQ0xCQ213T0VoQUR2MzJqeE9YYV95TUlRTjl5MllJcGt1Q2FSS3pZd1MyQVdvSUl1bjdVSk92QklLQWtieWJrcnRLakw3RzRrel80MWlaWkV0MGJQWkFTWTY5Njc3LW9XQQ?oc=5",
+          "published": "Sun, 26 Jul 2026 13:16:00 GMT"
+        },
+        {
+          "title": "Was kostet die Welt?: Die Zerschlagung von Siemens - FAZ",
+          "publisher": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2VEeWxlLUFoQkNwdHIzVDUtSTJTcFhwQ1pLU3RCaDVYZU5IZFJOaDg1WFl5WHV4X3ZhRERwalFvTDk0VXI5WTdBb2V0X25DdDd2MmtvYTRDbGZDM1pEdjBzV1k0Yk1xcWp5UmxBck1zSFpVWmR5ZnM2cUlPTHJkbDd5aFhnRzdXVHpSVEptaThrVUt2LU9td0tXR2VCaTYtaFFVXw?oc=5",
+          "published": "Sun, 26 Jul 2026 18:59:24 GMT"
+        },
+        {
+          "title": "U-Boot-Bauer: Wie das Kanzleramt den Rüstungsstar TKMS fast in US-Hand gab - Handelsblatt",
+          "publisher": "Handelsblatt",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDU3MVBMWTFDbklOb1NEWVNuMFVMOXJnVUU0N3NodVVfRXZUc2dDOGQ2N3F5T3ZNX3FTMWpOdzlVd1FoQjU2aGhnOVlxc3F3bU9MdldQX09jMU1vUDBFRmRySmJ3MVpadmpERWdmMVl5cjkyWVRXTnVFMldndUNNZTR3X2hEZkRwRi01SF9nVldjTmY4RG8ycUs1NXhYTXlidXZJbUtQWmpFV01QR2NDM1ZsVGFuVEJsOEsyN3c2S0J0RElpa3owbTJXYzBfQzhOcVZUSA?oc=5",
+          "published": "Sun, 26 Jul 2026 13:32:57 GMT"
+        },
+        {
+          "title": "Elon Musk räumt Fehler in Trump-Regierung ein und rechtfertigt USAID-Kürzungen - Frankfurter Rundschau",
+          "publisher": "Frankfurter Rundschau",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREJzQjVMLWtfbXlETXdGdDVRbTlMLXE5UHY0cUs5SDYweGVXQmprOTdReTVKdGdxYkQzbWM4WUY5Z2hMZ0htLU5oZm9sVm9ORTFCdERrcE53ZkhjektpZEU3dThJZW9LeUNaNXpZUXE5cUhCOVJZNlVhTG5DVlFoME1ZOGlETXV3Ym03TGNZdFJVd3pUVVJidXhzUGFIR0hwd29RYlJ6Tm1PblJGTkV2ellpMEVTaWJVNFFSVg?oc=5",
+          "published": "Sun, 26 Jul 2026 17:00:00 GMT"
         }
       ]
     },
@@ -117,34 +99,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Der Klopp-Kosmos: Warum ein Ex-Schalke-Coach wichtig für ihn ist - Joyn",
-          "publisher": "Joyn",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0Rqb2JaSERIY2Q2UlVHLTFLd3V4RTh1ZFF6el9oaTRTTGI2TmNXX0Y1OGx4c2xoQzV4bFpCalFORnpKM2cycDA0QTh6RGs4Wjh2aDM0WE1IRzlOZ0k3UmV5S01WRVpHNkVQUTY1bDJWelZ0YjlfWHFFT1B5MHNzY0dsOEd3N2xTOENWd1hzSW1zSXZFTlAyZXlpNjU2OUpDM3lzMF9YWC15UzFZR3JyX2xwcllLVFNHQWc?oc=5",
-          "published": "Sat, 25 Jul 2026 16:13:58 GMT"
-        },
-        {
-          "title": "Stürze kosten Kuss den Sieg: Carapaz jubelt auf Königsetappe in Alpe d'Huez - Eurosport",
-          "publisher": "Eurosport",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMjVyeDRyNEVhdW5Da05xeEhsQlRTNXk5TmpSQmpXbnpBUXZEeklSMHo1dDJaVDduSzZCVmNaUkhQOU8xTVU4ZXZqMzFwaXhfaDJZa3E3OVhmeDJkVDllZkFEZUg0QmVnYlp3RE9NQmVHMW54ZmF1NjRRMjl4clZZLUdBb0hSWV9iZXpQeGJTckZtTHZid3FhN2Jsek92NGM0R0M0R3hCak1Za2c3VXFReDhrVHlsYzBsWF9YalZNcHR1LTdCSWxjY0lsejJoSjR5S050NXNEcWxNYUNzSDhYSXlJRkxGUC1oWmNBV1JNNA?oc=5",
-          "published": "Sat, 25 Jul 2026 14:44:00 GMT"
-        },
-        {
-          "title": "Entscheidung da: Drei Plätze Strafe für Lewis Hamilton für den Ungarn-GP! - SPEEDWEEK.com",
-          "publisher": "SPEEDWEEK.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2pyYUI5WmdPWW80OFdsRGNneXVoWjIxcmVSbGtMS0JDVWFJeHAtblo5WnZaYk85aEtveHZ2bXhPUkd1RjBCaC1zTTdXR1NtU3JYM0FEeHhSZFhRbHBiREZ1cXpRN0x3cC1CRlo3VXRkZ0ItWkViRG5FS3hIYS1JR180WlVIRk0w?oc=5",
-          "published": "Sat, 25 Jul 2026 16:55:41 GMT"
-        },
-        {
-          "title": "Durschnittsalter 17,6 Jahre: Sehr junge Bayern-Elf verliert Test in Wiesbaden - sportschau.de",
+          "title": "Pogacar schreibt Tour-Geschichte - Van der Poel siegt dramatisch in Paris - sportschau.de",
           "publisher": "sportschau.de",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXpINFNoMmhUbTl6NDBIemV4cWVKX2VrMHVmTWJ0Vzl0NldXMjE1NUVIUkwteFNMOWZSbjVveFlHY2NQTWF2cFdaS2F1RHg4aThRMUhfTzMxb01WaDZfVXBjZVhkTmVsUDFnVm13NUJCc2lSMzVDY3Rab3hnc09CaUdMcUxDQm8xNmp4M3VhUkZKRUxSV25qemlfamVhRndyenQ0U093ZWUtTGdmYWMyWHd3?oc=5",
-          "published": "Sat, 25 Jul 2026 16:18:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZDF6UDdTVkUyRlJkY09TcV96Qjg3eUtZeE9Zei05RlNucmU3c1lmWS1HemVqZWFDc1NiVFN2amhLTll6aGppYlZlM2Q4RHBUS3ZiY1dHTW84TnY3YUl4alVVSHFJcGg2Q3VSOGRteUZfSVNLWS10SEFnRngzQTlSU2ZQZXljOV9NaUd6dEJoNVNmc3pFTjJjYzc4NUo0TndRWEk1Z3hwYTZLVWhmR0t3YzdTazlONWRjZGExLTU0N2lBZ0lvUzBsYkVPR3czZ3FW?oc=5",
+          "published": "Sun, 26 Jul 2026 19:09:00 GMT"
         },
         {
-          "title": "Leichtathletik-DM: Ansah sprintet cool zu Gold - Zecke bremst Lückenkemper - sportschau.de",
-          "publisher": "sportschau.de",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYl9lOF9hazN4YnNzXzRsQVk4RDZKX0sxZW1tQ1hfZkY5UnA4Z0VHb3JPNWRoOG53NHVzZGN5OFRoZllzRVpUSUpBT21YYXIxRTh0UGlITjhFRkZodTh4WGZzVmljc3U1MmU4akFjTHZPSktZenVHaHBTUXgwbEZqNk5JZms3a1lORjlKNWUtOWZlUnZsSWFjeUNOZkJycDQyVFVYVnFzTDV5bnlTN0xjTGJPemZpNzdIaHhPQjZJQkVvLTBC?oc=5",
-          "published": "Sat, 25 Jul 2026 19:42:40 GMT"
+          "title": "Nationalmannschaft: Was ändert Klopp? Schon beim BVB und in Liverpool war seine Spielidee größer als Namen - WELT",
+          "publisher": "WELT",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPckk3eXZEdWkwdFdCRGFBM1VxNlh6TUpWYlhjaklvUDBDYTVPMEg4U1FnckJoOVBDS0xhY2pfNk1qNENKVkJMSW5NTlFsRUtxM1VaVWFOSFJaOU9nU245SFNUVU8wNmVuNERWU19MNkZJSjZWb2QyOU1LQTRJVXlxNERzaUtHVU1Ka1RsV1pBTkQ4ZWRJd090Mnh1LXpFaEFRUi02YVNqZGZZcGduUUlKbm9GSGVQVFozYWhsaHZtMjg3RWkybHNEMTJJUEEtZDJMNWpDWVp5c1RRZDBmQnFDUGtwcWVGQzJHczUzcjd1WUs1RGdwNVhEdTVBTFpxbFczWk9hbFNzVkFSODA?oc=5",
+          "published": "Sun, 26 Jul 2026 12:54:33 GMT"
+        },
+        {
+          "title": "Formel 1: Lando Norris' Warten endet beim Großen Preis von Ungarn - FAZ",
+          "publisher": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa21nTFg1WFhvVG55NWh2MHR3T3VmQlBrOHY3WlFOSDdGcEVXT0VEczdOMEVNYmNKSVBrRVBhbkFmaXdHWjVMTzczX29nMVpiRmZlejRWLXhUZVR1RUtXU3pyX3RaRE9nMVVuVlJnVGdONW9FUEctNVgyOHBfZUxORkg2QWZxN2J0bWxMa01YZTRJYjhoSzhUeHlLOUVyTkNqVzhWWHZiSUs5MWwxRDZ0Z0prbHVXVS0xcG8zWG5uaUFKUXVXdnc?oc=5",
+          "published": "Sun, 26 Jul 2026 15:01:14 GMT"
+        },
+        {
+          "title": "Hier läuft Luke Littler vs. Gerwyn Price JETZT live - sport.de",
+          "publisher": "sport.de",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOVptSmlDeDFTSWZtNFFYeXA1QXFsUTQyUmVrZ2ljbE9aQnZ4TG5YUlVmV1lnXzRVcjdlTWdyZWo3TEpDbGNsQVJDQTdnMGpxaXRfV2NRM0p6TndpOThaaUljdHhMUkNySFdTREh4amtFVzI1Vk1HMy0xMHVVLW1tTWJ1bl90UEt3TFBYZGthdkw4akk?oc=5",
+          "published": "Sun, 26 Jul 2026 19:10:00 GMT"
+        },
+        {
+          "title": "Inter Mailands Diouf verhindert KSC-Sieg in der Nachspielzeit - Badische Neueste Nachrichten",
+          "publisher": "Badische Neueste Nachrichten",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb0llZTdaNmw0dGNnWHdiX2dyODZoTE9lWHJnQjA0aGxiZ1FYaWVMdW9pQkNYVGlvaml4MC1xZUVzSG11dVFUaXdubXhfZnRBWmRZSzhkREdlQXFFVmhVWDVNNkJzMmo3WmdSdUNnZzRBby1VdU5CajFXbkFJNkk2UGNJU05fTExSblVyTTVUdw?oc=5",
+          "published": "Sun, 26 Jul 2026 16:30:03 GMT"
         }
       ]
     },
@@ -153,34 +135,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "\"Das schiere Ausmaß war schockierend\" - T-Online",
+          "title": "Elon Musk mit Prognose zu KI: In zehn Jahren kann sich jeder alles leisten - BILD",
+          "publisher": "BILD",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORWtoVFVGZkZyMUNzNEM5c2dQUlRUbjJyaHR1WVJqR09OVWlRTHpXczF4WE5wZjVWVXBid0d2RnJNMVBBaVZvaFNidVcwTV95SWl6T0J4Z2ttY2IwUlB0bzVNb1FpdVVoVUhIaEo1bS01dUVKcEo2emh0cHBOYkJrWlpXcG55elA1T1FoNks4SWIzbmRKbzZSUVJmM1RHRlN4UmpWWUpzVVp1akRycjE3b1hXWTBSMWVwZnFDMkNJRnl5RTJ5cDBoZktYMnB2UmxVMzNSd3VsbjRheHBBcTNIUjNSQlg0cGJOY1E?oc=5",
+          "published": "Sun, 26 Jul 2026 10:40:13 GMT"
+        },
+        {
+          "title": "Rumänischer Kampfjet schießt erneut Drohne ab | Ukraine-Krieg aktuell - T-Online",
           "publisher": "T-Online",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLWJaNXZjUzhJT2F3TEZYMDN1dXFMRnNkQ2hnOHhNbVlzTEY1MHpVWUhudWw0UUxMejhRRGFsNTcxNUhIbGFud1RFVnMyZVFEa1BMcXdMTG1XRi1iUVJPRlFKSnh1cXNWa05YU2M0TGxtWlBxQXBBamk1RU9Gd3JoMkpiWEZXUGc3N2dLZTA4ODZ6Vlh1ei1fVXJjb3V5Rmk4RHd0ZWo2bEdmcG9oaGRTbzdKQlE3Tl9BVGRsSHJpX0JWRkZxMk8zMg?oc=5",
-          "published": "Sat, 25 Jul 2026 14:59:20 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLXdSRUVrYndXUmRBdUZ2SzN4a3BoZVdvSFVSZG43c0dWb21WSFNhZzY5YU1pZzdPTmJXVlJxc3FFamw1ZUFjbXo5dkQ0c01HTDdkSEJpT0NDNi1TSzNFUDdqUm8xRE9sWW5vSElEOXNzMEpKTmdYQWZ4TnNua0g4VFd4d2hMaXFkOFhyUW1rV2RQZDQ3UE9MLW1aZk5TSmRnRFo2TmdjUm1Bd2ZoRFk3dFJrMUtFeVpybDVHRGdRemlyRV9UV3I2UndJNA?oc=5",
+          "published": "Sun, 26 Jul 2026 09:00:26 GMT"
         },
         {
-          "title": "\"In zwei Jahren ist Strom günstiger als im alten fossilen System\" - n-tv.de",
+          "title": "+++ 22:15 Ukrainische Spezialeinheit fängt fast 700 russische Drohnen ab - ohne einzigen Schuss +++ - n-tv.de",
           "publisher": "n-tv.de",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWpkUEZTSVEzcnJwMm1zZmlCRy1DZ1pmNWNJLXBsR3l0WnIwcDMwWFdIdFBrV2kyc29MMkc3THRBa2Z5c1NyQV9tenowQV93RDhaNi1yQ1YyNE4zbVVUTXFEWG9Sd0NxYXpIWTBZUTExSm1hd1VfYXZyTWhaOEZLeUtWNER4M1ZpVzFIcHdMUEFfRGF3RkR3UG1hM3hvTEFZaHVpN3Z0R3VjcWU1WkhDUw?oc=5",
-          "published": "Sat, 25 Jul 2026 06:28:51 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbC13YS1FejNxVTk3N1p2ZkczME44bk5fNlpvS0RCSTVOc1ZQU3lSc19NS3BROHJNZEloYVplUTJ6OEZxTnBhUERrWE5wMFQtNGs4bTJDY2hkWmJnZXVFS05nbjdpbVluVm11TDQ2U3RCTXNMLWJPMnhBdGx1MFE1X0tEVno3ZW1Cb3RyZFJ4TWpCOGJRZW9WSnNRZUpoc2dweHV3WHZVUV9YczFLSHpQQnVDa0lYUzlVMEFPX3QwX3Jsd3RKelY2ZTE2N2JSaXM?oc=5",
+          "published": "Sat, 25 Jul 2026 20:16:50 GMT"
         },
         {
-          "title": "Test mit ukrainischem Militär: Eric Trumps humanoide Kampfroboter kommen näher - n-tv.de",
-          "publisher": "n-tv.de",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRXRZWG1zMnUxQ2h0R1g0ektfRnFsY1EyOW10Z2hveHROTWczWWxkTG9nam05R0RzTFJYTkNJTXd5anRWMFpJT2xmbk5UR0dscDdBanZzeFNEMmpnMmhaZDFGX0lUc0JGbDFyRFA3OUJFeV9vbnAtaDRBLVlGbzc4OWR5SlJiVFVZVThwMkFZSVhsZUtoZVZz?oc=5",
-          "published": "Sat, 25 Jul 2026 11:16:43 GMT"
+          "title": "CSD-Anschlag in Berlin: Das Handy des Attentäters lag noch im Wagen - BZ Berlin",
+          "publisher": "BZ Berlin",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1BVZzhEenZDay0tWVNBdmYtaFpKVFk0SVFqeUtvb25kSTN0eTFGNEpTMEN3dXNrRVNQbVd5NFZCSXdpYjdta1F5STY1bDlqaHFEaUlqN2Y2TmlpbnRhOVp3MGVKX0NBbmRyQ2NJR1Y4UHF5T2NMUDl6YXZYVGNBWWFrWE5qX2xpOUluNUJZbnNOVlVSUENOb2xzV1Q5X1RYNmF4UEtwM2szalhWd0l4eHV5RmZIenF0dVNwamxCamdxMms?oc=5",
+          "published": "Sun, 26 Jul 2026 09:57:00 GMT"
         },
         {
-          "title": "ChatGPT down: Millionen Nutzer weltweit klicken ins Leere - T-Online",
-          "publisher": "T-Online",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ2VHV3RzLWdpc1lucFhid2dJRUxrRUtUaVRfOFMxLU15cThpWldxc3JWUEo5RDhWVXVZcmoybHVaWFd0Vk15YVJ1NXdpeWNGbkFzUDRvUm5kN3NrMDRtZFF4R2tsSWlUNUMwU3R0ZkRuVG8xeUxxOHhwdGFMU1Z4a3AtenJIWnJkZTZnTDJOOXBSbWVBQ0FwYVhmS3FwMGZ1cG0zMTNScTQyWTQyX184bGxFek0zd1JoRVBJcmxyUQ?oc=5",
-          "published": "Sat, 25 Jul 2026 09:42:56 GMT"
-        },
-        {
-          "title": "OpenAI: Ausgebrochenes KI-Modell ging tagelang unbemerkt auf Hacker-Tour - Spiegel",
+          "title": "Meinung: »Neuromancer«: Wer verstehen will, was Elon Musk nicht versteht, muss dieses Buch lesen – Kolumne - Spiegel",
           "publisher": "Spiegel",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYmpSS2htUVRSMmpJWWh0dU9ONUZHTkxnSGlMeDBySUJQZXRJOXZ4VVRqcmFHZjFuUjZIblFxdUZVTkRlcTBlVHhCWmlBYnJENFZVckhLZjhVdE9GWkFvRV9vVjk4MnJnYTd6eTZCSkFsejVrZUY0RXVERjFhcnhCM1RCc0U1UHJ1VVQwWDJ0Wmh0ZVc0am1LYlZHLW9PcmhuS1JIV29BOWVzdGkyYjdGdnVSejVWUUlzVTZlX1pRNlZ3ZXhjVEF3YTR0cF9tU3FDb1h3SzF0bTJEQVM3clpn?oc=5",
-          "published": "Sat, 25 Jul 2026 13:33:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPYU9SMVFRTnNYb0FPMWtLMmFJZzROcmhSbEZTNWNUak1odi11Mk9JZmoyVkZmVmJpN3RNejh0ejZhUElTSE15MkVuYXhTUk53R1k0akYyc0VBVC1fZDFZQVZCU2FOZ09OUGVXanhxYW1NRXdEUEhDR09LLVljTlBzWFhfdi1SUlJGN0x0Rjl1cEU1WEVWNkdldTNMeDBlN095eXVtd25yVlVGcXhVWFM2UGZITTduLV8yQXRHbXAtaVh4VzBKM3hXdF9fYXpBZnVMUkdnLWtTZ0pLWFY0dFBXcUZEMVgxNTdRTXRaNndfSlRQS1ZoRDZHMlhLenh3bV9zNVE?oc=5",
+          "published": "Sun, 26 Jul 2026 12:12:00 GMT"
         }
       ]
     },
@@ -189,34 +171,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "The Soccer Show | Baker on his cross-country move, plus World Cup final reaction - revolutionsoccer.net",
-          "publisher": "revolutionsoccer.net",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON2ltYS1vNHcxNXRuUWxTblZRZFhKaGRhaTVMZ0xQOFRtemdjdm9Rck82YlhMaDBKbXFvemVDdWc0WWkzd3hYUHpLaHV5YUo5NTZ4VjlkVHVpSS1EMzhrVVlVRnhUQ3NVc0Y2anRoNGpqV0U1Q19TVmliWFdCUWFkZ2NkZUlMMUpnb2lWR2Y1UFg?oc=5",
-          "published": "Sat, 25 Jul 2026 12:59:38 GMT"
-        },
-        {
-          "title": "What Cabo Verde’s World Cup debut means for African football - Africa Is a Country",
-          "publisher": "Africa Is a Country",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUWc4Z2draEpiM2VQTERWSFhhaGQ2bDVMd2w3MnpJUWt3aklPX0QycDhILWZTWGhuWHQxMnZGMEdDSXExVWZXajdZZFpNVVlrbmtRX3Q0dDZaLUdpWlVSMVg4OHVhX1M3MklDVE9nb1ZheU9uMkZPQ2FsSDZjNTkwOFRSeVBmTnpyQlMzd3dRZmsxa0ktVXlBSXRkaw?oc=5",
-          "published": "Sat, 25 Jul 2026 18:49:19 GMT"
-        },
-        {
-          "title": "Can MLS capitalize on World Cup fervor in the U.S.? - ESPN",
+          "title": "Ranking every FIFA World Cup from 1930 to 2026 - ESPN",
           "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmxFQTdaUHA4ZGlZRmVaV1JYajUxaGhieWp0YjBNRWlBVERJMk5CV25lUkhja3NLVFdtanp2QnFXbGN0UURlSjhOR3dBSGowRVpORGNRaEdtajdyRk5zZVdVbHkyOTFRQ2ZBdDk0Ri13cVZ2S0lCc2lwUmdqV2JDc0Nrc0J2LWRzaXdFME1kUGZ3UnNROHdBREZBb0M?oc=5",
-          "published": "Sat, 25 Jul 2026 11:28:00 GMT"
-        },
-        {
-          "title": "World Cup fuels excitement for soccer, high school coaches say - Yahoo Sports",
-          "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaGpiaFkwWjRyS1BWSXFRR3owMExHYXRXLV92RzBTYlhfS3BMeEk1QnFmcDdQYW9DTTJUMnlWNXcza19yOTk3dlJIaTJuLV9mRFNnRENuaHdiTU12Wk9Fc1ZXQ01xMXE0elZqZFU1TVpWX2VtbkF2OXdaSy1TWXdhckxITmNLSXJNRVE?oc=5",
-          "published": "Sat, 25 Jul 2026 12:00:30 GMT"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOem5nQXpkQjA1Z0pjWVlVX0tWTTkzWFNFbDVtRExLYmp4VEwzaWN0MjkyYmI5QkwzT0lfbkdOTDdLS1E2NWxpcXhLdGtacEk5ZFBDaXFud2huNWpXLWFmOWlRYjVQQzVSVVB4VVh0MUtrb2kwU0xWb1RXNVlIc0IxVnRzZlBsc1dkN19FYVNIdVZSSGNhT053NVJNTTFzUmpGcmVVUHNYdlpJYzJ0YnlteGtCQU5FaDU5a0lFbGU5bVNtbTAz?oc=5",
+          "published": "Sun, 26 Jul 2026 10:31:00 GMT"
         },
         {
           "title": "Adding a soccer memory to my list after a great World Cup | Opinion - Kitsap Sun",
           "publisher": "Kitsap Sun",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUlzSFJrTGhTbGVpd2UxOEpBVUlGZ0pwNXY4S1E1SmlzdEVISWhkdGdJelVxLTg5UnA0Y3ZEYWJnYmRRbmNBZGlkS0JySFpoRHB1al8zRWVrMWgxM2dVYXlGcFRQUnZSc29GMFg2Rkd0ajJPV3A0QnJKWF8xSDVuSGhtZGctenRULUg2TTNXWGcwQ2Z0eXpsNG1MVHBBbDNXMUl5RngtY21rZGdGN2ZwS1lXSWRrMEF1eFljSTJHUDJoMGc?oc=5",
           "published": "Fri, 24 Jul 2026 16:48:00 GMT"
+        },
+        {
+          "title": "The Soccer Show | Baker on his cross-country move, plus World Cup final reaction - revolutionsoccer.net",
+          "publisher": "revolutionsoccer.net",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON2ltYS1vNHcxNXRuUWxTblZRZFhKaGRhaTVMZ0xQOFRtemdjdm9Rck82YlhMaDBKbXFvemVDdWc0WWkzd3hYUHpLaHV5YUo5NTZ4VjlkVHVpSS1EMzhrVVlVRnhUQ3NVc0Y2anRoNGpqV0U1Q19TVmliWFdCUWFkZ2NkZUlMMUpnb2lWR2Y1UFg?oc=5",
+          "published": "Sat, 25 Jul 2026 12:59:38 GMT"
+        },
+        {
+          "title": "FIFA President Attracts Further Scrutiny Over Leaked Argentina Letter Following World Cup Final - Sports Illustrated",
+          "publisher": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3E0bXd6dmJoZ25BUFJBYlozSkl5anVmWnVsNVl3VEFNbHZfYWpRdGpJNlM4T21hSW05Y3h5bW9Kc29hOVhhN1AzT3JrVEROVXhtckYtOHozaUxGN3RZaTJxZUVHZTlQZjYwQUpNTTdTdWhQMzZZQWVNVmI4aUlHWTk5a3h0dlVtQ1F6bkdvVVRGRG1DU0hXUVNFRXd6Zw?oc=5",
+          "published": "Sun, 26 Jul 2026 14:00:03 GMT"
+        },
+        {
+          "title": "California Clásico at Stanford draws soccer fans riding World Cup wave - KTVU",
+          "publisher": "KTVU",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wSkdSZ3hBTTd4Qkh0UWdjUlpobVBLbWpmaTFjVkdlZkptNEdaOVBYMUo4SWx4cmNQbnNPMXNDd3U5elRzLVByRzNuRHBBNklob25TRWh0TU5mQ2_SAWBBVV95cUxPWnltZklxNkg0alIyNmhzbzU1RTlBT0Q0U1g4Q2Qzd3ltMVBxWE1Falo5emwwb1VZcGtOakdWZjVUOVlOUVRkVlloMVE0bFg1RGZIWG1pU0J5Q2I5S3JlYkU?oc=5",
+          "published": "Sun, 26 Jul 2026 05:34:24 GMT"
         }
       ]
     },
@@ -225,34 +207,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Katy Perry ‘appalled’ that White House used ‘Firework’ song in Iran war video - The Washington Post",
-          "publisher": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQkpwWXRYd2M2el92ZjN5WHNTbXIwcmR2RUN2OGJwbmVPLU1yMTlOdFlJTjFvUEQtRWVOWXU3cGJBdnFVc0NTUmN0MWRqcW1sanJHRmNKa3hWZXJPbFdYSkhKelV4amZJeFdwQUNfcDZCd092c3J1eF9wMHhpQ2hFbnhfOHRxbFV1aEI4d01YZDdvYXJBanRCS1dTRXhaVVdRQzA1dF9XVHV2ZUNPVENLUmJoU0tPZlBJSTh0TlZWUWhlQS1JZmc?oc=5",
-          "published": "Sat, 25 Jul 2026 21:55:45 GMT"
+          "title": "‘The Odyssey’ earns $87M in its second weekend, Christopher Nolan’s best second weekend yet - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaVNULUFnSTR1NkEtZXBPZHZTRlpZYXVVUWEtMU5jMjY0cXZlUGN5RUZjTHZuaEpRSXRSMnhCYm9RbXNaZXBGa3hYanNGWVo0ZDhvaDF4N0w3d1l6SkJua2tHVDlUSXNkbDBJU01CUnd0RHk3SUVqb2RHVHk4UGkzMm9KUHE?oc=5",
+          "published": "Sun, 26 Jul 2026 16:43:00 GMT"
         },
         {
-          "title": "‘The Odyssey’s $84M+ Second Weekend Will Be A Record For Christopher Nolan, Besting ‘Dark Knight’ – Saturday Box Office Update - Deadline",
+          "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more - The Verge",
+          "publisher": "The Verge",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXJuR2JJUWhpMVQtdkJ0RkFnQnJaUU1yVUNiLUZpc3pnT1FDbXpBRy1BVUlBVnFlYzNFeWpBOVRGRUxQSzh6QlFPQlI2LXVMSUVVeDRsVi1Cc0hZT1B0ZkoxcHlQakJZWWRRX0k0dXlhQUxoM3pxUnduajBrcFJvMlVqOHdtMlFRVnRUUnppSlNwOV9tZTNaYlFwTkFhd3JnQ0x3?oc=5",
+          "published": "Sun, 26 Jul 2026 14:51:33 GMT"
+        },
+        {
+          "title": "Industry star David Jonsson to play Black Panther in Marvel sequel - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEtrUkFsZWpJSTc4Z05xRUVTakhZOTZBRi03b2o5d0dMaEl4QXRDVHFYMTRoZlAtZ2h3YkJLMHhYdVk0VV83cG82WjBsc2VUNGpIUWh3QjZUa3Y4N2FJOHlMRk90RWNiMDdUZjBCZjVlSnNqTnZMSWk0ZGxxb2o4RnYxNVlKT1JlaTF4dndLS3JDeHg2NW1acjJrQkoyT2RlQWdrZ3NtSDhQeHdFSkw2Vw?oc=5",
+          "published": "Sun, 26 Jul 2026 20:16:00 GMT"
+        },
+        {
+          "title": "Charli XCX Releases Music, Fashion, Film B-Sides - Pitchfork",
+          "publisher": "Pitchfork",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTjFiTFJNdlpKVm9kTEJuWWtaVHdDUXNhdXZCOWd4a29jSFljWUduUmZnMEp4Q2luWjdnMDB2amFkX2NuM2VTNWJOUjVOYlEwZ0VZWm9xQlpvYXoyT09NV1hsQnppcE5HcUhQaElKM1VsSU1SZnZ3aWY5NnNud1JkWg?oc=5",
+          "published": "Sun, 26 Jul 2026 21:12:49 GMT"
+        },
+        {
+          "title": "Universal Responds To Online Leak Of ‘The Odyssey’ With Takedown Protocols - Deadline",
           "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMElSbFZTQkRKa0xIQ3lSeVBsc3UxV2QtS0ZEZEgyU1BzbXV5TTlzQUtDenk5Vm5FZ1F0am4xVV9faUFUb2tTTmV4TWdQSXluYi03Z1Z4Z20zZVN6ODV0b0VSdFJaYXF2LUxXenRWSWhxb19OeU9PTGQ0NjV3Mjl3U0FldkhXQW1GYnJDY3hoS0NlZWlTQ2NTc3I5Q2JpNjdUUEVn?oc=5",
-          "published": "Sat, 25 Jul 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Teen who singer D4vd is accused of killing was pregnant, had abortion year before death - WKBN.com",
-          "publisher": "WKBN.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSEFWeng4VjZGcEtaaEptNFBYLW5FRW5mLU5mX3ZsVjNOLVI5UzRNcWdOd3FieHFMTEk0dzJkdVBwdGFXRVdpRTl5a3F0RFo0U3UtQnc1Smo5Z0EwbjBsaGF5TmptYnRJRXItODNqSVVrRkU1Ty1PNEpyY3VmWFdvNVlMX2lnZTdzd0NVbzBObk9JWmU5TndyT2VpTzFuNlA3VUhTS2x0RmZEZUxWWTFrbHlHR2JhdjRfcTNHOHpFendyVEpkdldR0gHMAUFVX3lxTE5Ra3JJOV9YMVkyLU00VVdDNHJGbkVkWjdXMFBnemdzdEZ0bngteURTSWNDUWFmcklIZ2ZRRl90dVp1NmlZcUFXTkVTamZNQzI1SnpMUVhMTjhRQ3J2b2JzTURBMldnTV9zTHViY0pyejFQc1lQN0VwYkxNN09KRjl2ZHpGQUF4QXRUWWVQSWFZX3ExZEtvaDRySnVwdkNheXExSG15dmN5NWp3VzJHUzdoa19EMXVrNnM0YkE2aU5PdDJuTHdiN1hmOHZaWg?oc=5",
-          "published": "Sat, 25 Jul 2026 08:40:54 GMT"
-        },
-        {
-          "title": "San Diego Comic-Con 2026: The cosplay, in photos - Yahoo",
-          "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0ZqT3M4TW1FdEVMSUM2bFIxTndZeWR6WjNFdHZTSmFqT0VidUNMMFZOVGN3YTdmX3FhOW9yanRRUEtJODJOM3RwSWVaU0pLR3RfaXhxRFpQSGNCVlF1WWEtWFV2X1ZUTVB3UEk0MXFGM0tZSlBFdXVTTldXRHBEdjJSdWg1Z28wSFlOVVhwU2pRVjhObVhBdWpCOU5Fa1lwdEViYmZ3SndCaXNleWFWWEtZYw?oc=5",
-          "published": "Sat, 25 Jul 2026 15:42:45 GMT"
-        },
-        {
-          "title": "Courtney Shah Dies: ‘Jeopardy!’ Fans Mourn 7-Time Winner & Tournament of Champions Contestant - TV Insider",
-          "publisher": "TV Insider",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02Z1FPYTYwUkktcjVDVF9MUkotaTdmZzVYOWxVOXZHbHloVTdpT2FycUg0UlM5NHpJTjRmX2YxLWhVNDdnYVdoVkdMTjlqNnVKNzZ6anhsTllHZXlZenZSQ2hOVjRTendlVnY0dXAza05icUtyYnh5NXhnOA?oc=5",
-          "published": "Sat, 25 Jul 2026 15:57:07 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOWJjdlpSQ1VuTDhpNTdaT28wQ1NQNW9xOC1tN0dlTjlHWTFPT0JRVjNid1FxQUpBVXZxZFV1c0RmcDhGWE9KaU1CTndoVjZTbHNMS1Z2LS1RYndlSjFybTQxU00yY2J0LVdMTjg5cTBBampFM3gtbjdWUmptSXNkTklB?oc=5",
+          "published": "Sun, 26 Jul 2026 18:08:00 GMT"
         }
       ]
     }
