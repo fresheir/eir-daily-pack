@@ -1,7 +1,7 @@
 {
   "market": "AT",
-  "generatedAt": "2026-07-31T22:58:46.347890Z",
-  "validForDate": "2026-07-31",
+  "generatedAt": "2026-08-01T22:54:00.475545Z",
+  "validForDate": "2026-08-01",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,10 +9,16 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Juli-Temperaturrekord für Österreich gebrochen - VOL.AT",
-          "publisher": "VOL.AT",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdVJ0Rm9ieTBMTFpkazd5OW9GVVJrWHV4bUV2cFBLYVBiMXJrYXRPSTUtUXVGWXhtaFpvZ0NvNHBxc2R1WmRFX3dZZ1N5OE1YNmU4SlFRQWw5eUtDYjFQR2UxQTBEZElOMllvTmRfdG1QaXc1ckFFWFIzbER5NlM3WjdR?oc=5",
-          "published": "Fri, 31 Jul 2026 21:02:02 GMT"
+          "title": "Tirol: Protestmarsch gegen Fernpass-Paket - news.ORF.at - ORF",
+          "publisher": "ORF",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJTUtXd3ZvVVJvZmtMMzdoaUZyMGQzQjRVRjNtRWczTmlQWlo4QmNvemNtMHhUeXNydE1fVmloREhnS1gwYUJfTzRmSXkzSlM1c0JXSWVFaEhFQQ?oc=5",
+          "published": "Sat, 01 Aug 2026 16:24:49 GMT"
+        },
+        {
+          "title": "Trachtenfestzug bei bestem Kirchtagswetter: Großes Finale des 81. Villacher Kirchtages - MeinBezirk.at",
+          "publisher": "MeinBezirk.at",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc0tpc1ZtckozRnIzMlBwclZXSlByeTcyaVEwMUpPa1dzbWlUVmdlOTlXQ3EtS3ktQjBVenNMUmxEamNjYVdYWW8tM2ptdUU0UVh5SkJxdGtDejJQZ25za0JROEpQOTQxV3JlVHUwY2xTOGdPUTAwREJFVkU1VHhaX3M1YVJfcTIxdDByRW50eWthN1FRMTlreQ?oc=5",
+          "published": "Sat, 01 Aug 2026 21:14:49 GMT"
         },
         {
           "title": "Trinkwasser - Dürre: Nur 14 Prozent der Grundwassermessstellen noch im Normalbereich - NÖN.at - Niederösterreichische Nachrichten",
@@ -21,22 +27,16 @@
           "published": "Fri, 31 Jul 2026 13:00:00 GMT"
         },
         {
-          "title": "Parlament gedachte in NS-Zeit ermordeter Roma und Sinti - ORF",
-          "publisher": "ORF",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PMEhuRVo0V0Q1bkFnLW16Yi1LbmtEcU5xRm93T1lxNFpXa3RrMGJaRHVvdVdJMk1lc3dmMGY5NkdCSDVDaVE?oc=5",
-          "published": "Fri, 31 Jul 2026 13:39:32 GMT"
+          "title": "Tiroler Fernpass-Vollsperre nach zwei Stunden wieder beendet - Salzburger Nachrichten",
+          "publisher": "Salzburger Nachrichten",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2hOQ2hvcExmZEV1ZHNlNXZfVHZOc2dHSjd5eUhmcVNsRFZBWmkxNi1paGR3YVNCelNROU9NU3FBcm5zRlpYbE5IVVhSeXdJQTZodnRaWWhrQnNUaFhWNlVoQkFqa0RGUnR3dTE1MEhjYkJHZ0ludnE0UVc4QnEtVUpXdzVTWFNsYkI2ZnBTc1pPekFvQkpkeU8wX1NkUUYxQl81djR0ZXFvWFotUXdN?oc=5",
+          "published": "Sat, 01 Aug 2026 10:17:00 GMT"
         },
         {
-          "title": "Nach Muren in Sölden: Kläranlage außer Betrieb - tirol.gv.at",
-          "publisher": "tirol.gv.at",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONm1QYVVWWmZQSURaa0hWa2t2djNNTmt1WkxzcGk3Tzl2M3ZaUlBCYnptVHdCUzczZDlxZ21HNFl5X0I4OXdUTlRfMml3V3AxWUhsSFBPRDZ4a3lyTDBIbXBlZW5EN1lNbGNfOUNURExFdEx0ZklsYTZsckZvV1BrdHVRNVh3dTlrZFdUaFpNYWNTUkwxSXNyc0lXM3VYODA?oc=5",
-          "published": "Fri, 31 Jul 2026 15:59:36 GMT"
-        },
-        {
-          "title": "„Stille Helden“: So bleibt die Stadt beim Villacher Kirchtag sauber - 5 Minuten",
-          "publisher": "5 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdV9LRlZjcG5LTmJhRkZPdUlXcEdRYVBHSFM5VXdyLWJ2aVJKV19LWUItMGNtZk04T2hnWWNiSGEwaGRScU95aXNOVUVWQS1wTEE2cW1rODh0TFR3bXdEYkVfNWVYMFZDQ0pxOXJIMEFxOXotN2J5aU1fNjlHUmdOVmJjYlNmYmF4RWJUcmd3TWlzV0E3dWxWQkNvaHlfMXFnUGYwU01kZjBLM1U?oc=5",
-          "published": "Fri, 31 Jul 2026 12:32:39 GMT"
+          "title": "Inflation sinkt im Juli auf 2,7 Prozent – Lebensmittelpreise bremsen Teuerung - DiePresse.com",
+          "publisher": "DiePresse.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjRreFR3OXFQaXJ4aUtvNVFlVFdiZ0RlTzZXaDFSd0p4cEdJWWVLX1R1dlg2em51XzlscUROZUNfcUc5LTNPN0tuTmZDeGE5MC03bGwzSVV1dWFmV3Vib1BESUx5N1EtX2p2MDQxck9OUDU3RWc2d2RZZUpEZ2hjS3hpV1c1MHhnejJLWVRwSEtvYUhydGxZRkxjbTF3N2I2Yjhv?oc=5",
+          "published": "Fri, 31 Jul 2026 07:13:51 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Zehntausende kehren aus Ceuta zurück, Fragen rund um Marokkos Rolle bleiben - Der Standard",
-          "publisher": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObjV6NE16b29IeUExREF3Z3llNlhGNm5fNE9ZNFNGcEN1REk2SUVHQ0FnTjQ0NmRfMkdUdHBqNzYwREx3TWZIV0VZSldDRGdSaHZ4cVpUYWhobzBRbVVBaWJPRVpHZDlZWFI1cUtsbndlamJPa3FPTzFVbGpOSGVXZ1FOU0RNZDYtOU9rSGxjX0hWLXo0Y1MtTngzdGZaN2ZTMEc1cHhHN012Xy1WSU0zb3c1Y3dXb1AtbFFOdmFn?oc=5",
-          "published": "Fri, 31 Jul 2026 16:13:00 GMT"
+          "title": "„Es war alles gelogen“ - Weg waren sie! Darum drehten Migranten schnell um - krone.at",
+          "publisher": "krone.at",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9TV0hJWkJzRkhkNjhPdmljUll5d05YSGVtNG5hQVl0UWdLVkFSOVVBZ3VwX3VpUzhQVk92Y3AzX2M5QQ?oc=5",
+          "published": "Sat, 01 Aug 2026 12:14:00 GMT"
         },
         {
-          "title": "Spiekermann: KI-Kennzeichnungspflicht \"ist absolut erforderlich\" - news.ORF.at - ORF",
-          "publisher": "ORF",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TVmNtbk8zTFpEMDdURDZna19WTUdlcWNZb2hSOWtoVXFxYXVyMVJYakYyaFA1NFh3T0Vrd1l0T01QdndRbDkzX1FNNFBwbjhZRzB4NW1yT2Nsdw?oc=5",
-          "published": "Fri, 31 Jul 2026 20:49:44 GMT"
-        },
-        {
-          "title": "Waldbrände in Europa zerstörten täglich 225 Quadratkilometer - sn.at",
-          "publisher": "sn.at",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFZvc2ZOdlp4QlYwc3d1TFpvUnZDckVSdlhCeE5uM1c5N0dZa1JvRS1UUXhyYUNFdFoteEdZZHk3MTBId1JRRVlnMEdxYURjRkJ0OXVsejZaOXRIVFQ5b3cwYjlCRnFSdG9jdVRLcG9xa0k2eXNJWUVJZWQ1d0RuSk1scUJ4ci1Xem9udVJaZ0ZDMkR2NVdjSlhrYVA1UDhoWjRWbFRpMktWeEtLdkFPTEhNUzhodw?oc=5",
-          "published": "Fri, 31 Jul 2026 11:06:00 GMT"
-        },
-        {
-          "title": "Mangel an Kühlwasser: Ungarn nimmt AKW Paks vom Netz - DiePresse.com",
+          "title": "Heftige russische Angriffe auf Kiew, Ukraine versenkt russisches Containerschiff - DiePresse.com",
           "publisher": "DiePresse.com",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORzdQSl9vM0hldkNtei16eWtXQ01vYW5sejhPVEpERFpFb3Vxb0NBREswZnotTkcxNHFBa0ZlVjByLTNqcDdfcjZscnVZeGZyS1A4UkQxZHhGc3QxMWcxYzl2MlAyT195d0FmOUhlSGc2WTVwM2FqWlJhbldlY1lFX0lIVUZONFZ3MHBMN2o5U20?oc=5",
-          "published": "Fri, 31 Jul 2026 03:31:28 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbWs5NTVBT21ZUzJlZHVNVnpRV2V4TURCVWxTLUtHV0t1UjlnN1RPNlUtMHlqZTF2RXQyMmtEaXBGUTFXOWdWSzhDcUppY0ZRbXk5UVlsaDRKbVRPQWNOMmFpMjdxWjg1cFAzOXRxbkZfWko4NXV3YjdGcUtrc1M5RXc3R2IzM05WbERKUWZNV0o3Ql84NjVYdGs2LWwyN1k?oc=5",
+          "published": "Sat, 01 Aug 2026 12:25:23 GMT"
         },
         {
-          "title": "Trump spricht von \"vollständiger Entwaffnung\" der Hamas – Israels Zustimmung steht noch aus - Der Standard",
-          "publisher": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYXlYSGhYUWw1NGlZQ3VqdXoxYWlELTZQeEhEd0E1SmdUU3oya0c5X3NpdjFmcm9jQ19lYy1aYklBTTZzQ3ZLNnlCenpWUHpXYlR3cjRVSmc4MzVsckxpdTlfa0l6VnJVY09fVWlmRUpLWjhFNnBjNl8xd090S1NyTk5naDVYZF9RWm12WXV1aFd0RW1raVFQMkJzRXN6Y2R1blBkYks2X1lKa2k1RFlPSFBKMWt1Smx5MXlzYzlxM1dHTV9XZ05OaDh4YkNjZkxf?oc=5",
-          "published": "Fri, 31 Jul 2026 14:05:00 GMT"
+          "title": "\"Reflecting Pool\": Trump-Kritik an Einstellung von Verfahren - Salzburger Nachrichten",
+          "publisher": "Salzburger Nachrichten",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONko3QlJpQkc0MHlIR0lMbFR1MzdaS2F5VC1UX1ozTHpXUXhpZnVlaF9WRHBiMk5ZMUZ5eDRoQTVkSXd0VEMxTTRZaWx1T2NRUi16eWQtRkZocjNVSTBraHpiVDRxZ2RRTGwycnQzMDF1bXFEeUd1c3V2ckpNZE9iWWxJd1N4WWV0ODNGdG40RkRQa0pSeHhXRTl0dUJ0ZG16UFBDZ2dKU05HUQ?oc=5",
+          "published": "Sat, 01 Aug 2026 20:00:00 GMT"
+        },
+        {
+          "title": "Lawinenunglück: Rekord-Alpinist Purja gestorben - news.ORF.at - ORF",
+          "publisher": "ORF",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJRC1zcEwtSmY3Y0tyQ2dMYUs3b2Z4NzQ2T2Myclc5TDVPWXdPYWMzOE1PNGl2UERjbnIzUXQzTlo4OFROTmhUcjg4cFpJX2pWYVZUY2l3R0VFQQ?oc=5",
+          "published": "Sat, 01 Aug 2026 15:49:46 GMT"
+        },
+        {
+          "title": "Brände in Griechenland intensivieren sich - news.ORF.at - ORF",
+          "publisher": "ORF",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96Y292YnRCUkxWeG9DMEl1Y3ZBY0tzVU9kcm1pOXZHc09INVZ1VGg3SjNldHlzeHJaSmJ2TFBNSl9PcG9qczNaWDBvZ21NbzAzT3RQVkxtVklOdw?oc=5",
+          "published": "Sat, 01 Aug 2026 17:59:42 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Wiener Börse höher, Tech-Vorgaben und Zahlen treiben an - trend.at",
+          "title": "Wiener Börse schließt gut behauptet, verhaltene Juli-Bilanz - trend.at",
           "publisher": "trend.at",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3FYb3BYQ2dUejdrUVNFWmtJd2FxemNpdHJOVVg0UFBLYlZaQ2t4MHVUb2tOM0hmVU5NelpPYUNKclZUSzktSEJDOTdoWWZOSkVydF9OUmxuVEtVXzZBQzkwbFlSUTFnZ3lhSjdyb3VqTDVEZlk1LUpVN3VHZkMzcFZEbjBXems?oc=5",
-          "published": "Fri, 31 Jul 2026 21:07:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT0ZOR3hGLTl6cmxZNk9LdGJMRF9RVjhoclAxYVJ3ejBuS2VmRjVJejdyR1NDVFA5dUFreU94SXVzRUk3d19idlRvY2JlSDNFanZ0T0RJSXE3SkxMdjJUT1M4N0d3c0FIZ2wyVTBQRktOWHV0bUJJeGsxWUlmVXVUaHZhUEZpcXBJUXEyUVNn?oc=5",
+          "published": "Sat, 01 Aug 2026 01:08:00 GMT"
         },
         {
-          "title": "Leopold Aschenbrenner und der tiefe Fall eines KI-„Wunderkinds“ - DiePresse.com",
-          "publisher": "DiePresse.com",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLTRYMlJUekUzTk9GMHNCamJzdHFneVEtZlNJZ3IzZXFMeXJvLTZSOEd2Q3dQTmRJamxmQkJ2enNIa3kzOS1ISUlTQlVZM0xIcjZuU2dXUXQ0QzB2N25fdTc1SmJwZFZ6YnFvNnNBejE1SlFuenBYZnNJTDNvM2pDRUVsbkhmQ240SldKM0NDQmllVzBHUFJ6ZGR3Ujk?oc=5",
-          "published": "Fri, 31 Jul 2026 18:10:11 GMT"
+          "title": "Warum Leopold Aschenbrenner seinen Hedgefonds „Situational Awareness“ teilweise liquidieren musste - FAZ",
+          "publisher": "FAZ",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZmFUakNmWFpldUhNZmtlNlFCT0kxV1RTbG00YkFBemczQXB3Tzh2OVhLajhBal9OR0F3MGJ6Q3pnWk5VTFVIcTFZM3FObGtzaFlFRnIySkFtYWZicGZxS1BWeTVSRVV6ZWE5YWhEdFd6bnQ5N0NWZW85a1g5Y3lVM0tIVjdXMjNsS2RuYzVYcGhtZlh6Yl9JbmRfV0sxajQzendUNklFbEdSMThkdTRWTXBPeWxYSkJ2bFhvdmxQc01pNGFsS09sYTRXMy0wNjZtRnNJdGxtLXA1ZmZhZzhvSUtkeGNyeFRfLUlwbF81a3NEM0I5cGgzQg?oc=5",
+          "published": "Sat, 01 Aug 2026 06:22:03 GMT"
         },
         {
-          "title": "Trockenheit setzt Wasserkraftwerken zu - Dolomitenstadt",
-          "publisher": "Dolomitenstadt",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0VYWW40dm40Ry1mSW8tU0tibUxvVkt0X1BRTDNRTHdaTlBsSGJuV1NFbWlwTVVqOTh2SkkxcmVLTF96Y04yN0c3WXM5N09ZcHRtTFJrRE82YU8tZ2dYdjd3TzNfOUtSc2tTQjliYVQ4N3hZeUNfMk9CTE01MnAwWmFadHM5Yjg?oc=5",
-          "published": "Fri, 31 Jul 2026 08:48:00 GMT"
-        },
-        {
-          "title": "Nach OpenAI: Auch Anthropic-KI verursachte Hackerangriffe - Oberösterreichische Nachrichten",
-          "publisher": "Oberösterreichische Nachrichten",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjNzaUhKemdqRmFvajJfM0Z5MEQ3T2YybzlMdXM5eUhtU0ctb3hrYTA4ZFNvaWdBVm9GM0FmSG1Gai1BeDRYR3BKeXpILW5VWVpBTWxqcU5QbWNydHVia2ZfZkhDY0k3b0RrZmNJRXFUMm1wY0xHNmdiaDJDZDFFemZLOGU5ZU40cTM4MzRzS0RiNkVReHlTZVR1YlpmamlJX3Rz?oc=5",
-          "published": "Fri, 31 Jul 2026 14:27:00 GMT"
-        },
-        {
-          "title": "Wiener Börse: ATX am Freitag kaum verändert - Börse Social",
+          "title": "Wie Manz, WCM Beteiligungs- und Grundbesitz-AG, HelloFresh, Aixtron, Verbund und Infineon für Gesprächsstoff sorgten - Börse Social",
           "publisher": "Börse Social",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUi1Gc2VENUNuRmlXanZ6SmNYdTRtTFBJMHBOejRrMUZIVzRvbmZaTk9aanp1RnhEamJLcGdHNFluVVdwdDhrZG5Od3ZNTTJfY0hleXhESjE3U3ozeW1PZ1RfNUpqeU9FNkd4b3Z3WDdWZUU5WU1YczQzRkFVSHl2dUI2SkNoWmhBVmdadA?oc=5",
-          "published": "Fri, 31 Jul 2026 21:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRzU2TkdPV2NNdG16NFZlY3lmSFFJek5nRnVKS0wyS3YyRV9BUEg0Mml1YmhFd2lMZ3huQUNfcGpMbHV4SEVDNUZvQWdTTXd2eXgtQmhwb3N2VGZOZ1BBc0xfZTgzZTFiZm5XVGVRUkF5UUpwVFkzYnV0N3dKZk5vS1NvbGdrcEloblVnSlZGTWVjU3UwNjJVaklGakNpZUo3X0lpaDJyOWREZld1UWJaUkMtbFJkVjUyN3BrSGpiTzdFcFh3LWZmVmlYNExJSkhnRUpaQnFCT0RscXViTnJQSkZLYkh3OU9N?oc=5",
+          "published": "Sat, 01 Aug 2026 04:15:00 GMT"
+        },
+        {
+          "title": "Strategie des Landes - Wie aktive Standortpolitik die Wirtschaft schützt - krone.at",
+          "publisher": "krone.at",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1oa3I1LUtTQzYwaENRMDJnSmZ1R0RmS055d0I0cWplaWR0bnVEX2hYbFpIUUxSSGxjUjBQVTBJYXNaZw?oc=5",
+          "published": "Sat, 01 Aug 2026 17:00:00 GMT"
+        },
+        {
+          "title": "Ab jetzt möglich! - Neuer Strom-Bonus bringt 600 Euro für private Haushalte - finanz.at",
+          "publisher": "finanz.at",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xamQ1UDA0ZHZDWVFWekN5T3R5NkJwbHdJVk40dWl2dThETHBPVmdzajd2QXpoWUN2WWRRREVqcURERzJxbTA1MHdDNjF1cndDdVNPS000WkpqVmIwdDRQUEFnMDhqN3NEUVUw?oc=5",
+          "published": "Sat, 01 Aug 2026 08:00:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "LASK-Coach Kühbauer mit Leistung seines Teams \"absolut zufrieden\" - Sky Sport Austria",
-          "publisher": "Sky Sport Austria",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU0VuQXhyT2lFSk5pbWF6eFlDWlpNejJubVN3YzNMSU8wQWxXNFBvdlBycFRILU5Cdnk4cTRLYjdZNDBpRVZPei1JNFdmZk9YaE5uVi1mSGpDS3RUS3VmRlNEakxHUGxycEhFblJ6SjBsbzdmdGhoaFNaSlRSY1luVENDTzlzX0JLYUMteWUwanF6TkpkR0Z4QkZJaGhMcWdxNWJ1Mm84MFR3UQ?oc=5",
-          "published": "Fri, 31 Jul 2026 20:12:37 GMT"
-        },
-        {
-          "title": "Dank Doppelpack vom Ex-Austrianer: FC Blau-Weiß Linz siegt bei Young Violets - Ligaportal",
-          "publisher": "Ligaportal",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTXZsN0lvMDRTWGx1QWpfUlZiT080MmFoTHVhbjBVZEVOcG1wVlV0VkxhQm1BeXduaGZfenBVcW9oeFBNYk8yanRJVUE1MGU4aFpLT0tFYVNxczlBbHhBQ1U0bTIwOS0wdVExOURfT3lZQmxUZTd5a2h1M0lWV3o2ZVZ2VE9OVDVBQXFqYTg0YlZsR2pObXBRLWlRRkdObjJHQ1pzaGhjaHJBUW1rQmZmYmJyNE8zXzBWd2g1RkNvVUt0emFNQ0VN0gHMAUFVX3lxTE9HVHllSHphR2JtYjdZbXFEZWF4eGFCa1N6RGt4cUlHcktoUXZ0WHFNY0lYOTRVTk1QQmVBWFg4dDFvNTc2UlR2MEhPakRGY1NNX2ZRZ0llRnVwbDlNOU1CZlkzTlRUMnBhQWJGRW00bFhCMEhBRTFTckxxbTYxc2ZobENwZkNnVUMtX3RmMzZIaERLbC0zV1YzOHMtaTVJbXdsRWdubnJjWVNiS2FxQ3pwRElBMjJjLTg4T2hXZXEwa3lsa05xR3R5TWU1MA?oc=5",
-          "published": "Fri, 31 Jul 2026 20:40:37 GMT"
-        },
-        {
-          "title": "Gegen Privatisierung: Mehrheit des Weltfußballs gegen FIFA-Boss Infantino - Kurier",
+          "title": "Nur Remis: Sturm Graz strauchelte beim Angstgegner WSG Tirol - Kurier",
           "publisher": "Kurier",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPczQtelNTeXpwYmRtYWg1ODIxUW9LWXNvZFNsbUJxX01CSkRoUVpVbVNVMkNUMDFPdjhYU0tlNGU4SHNiX041ZDg4Mk5UUnlTa0IwV1ZEZ2U3RWtjYjAySGM5N3ZtVzNWSzlmYXdFY2psYldhTHZEUDlDMmN6aWFVRlFXNU9uU0wzNWcyYkdpVVZONVBESmpPLUZkclprQQ?oc=5",
-          "published": "Fri, 31 Jul 2026 08:56:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZkwtY05JcGc4WldnMlNOZkJMMTQzOEtkY2hVajR2MFVjUGZSZDdIVjNHaFBHTDAtQUFBQWlEcnlVbjl5MzB2UjZBRVFmeGhTd2x6SkdYWkYwWThWWHgzLWV6bS1CQzR4Ty1kamJCV0dOa2ZrT0IxRlNyNnFnQkdEWlVkcEUtY0xVaklF?oc=5",
+          "published": "Sat, 01 Aug 2026 16:55:00 GMT"
         },
         {
-          "title": "Austria und St. Pölten eröffnen Frauen-Bundesliga - sport.ORF.at",
-          "publisher": "sport.ORF.at",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LNHQwZmkyQS1VeXJaclZiSW1jVVltaGpwOUtrZzF4Wng5b053ZzdRdWd2TnZYWDgxbnBLbmRIeUI2MTlLZzQzR1JraEtwNnliemNVekhSaUcwRDNVV0pqbVozdw?oc=5",
-          "published": "Fri, 31 Jul 2026 18:15:08 GMT"
+          "title": "Auftaktsieg! SKN St. Pölten stoppt Fabelserie von Doublegewinner FK Austria Wien - Ligaportal",
+          "publisher": "Ligaportal",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbVVXblA5WHpKeE1abWw0a2NNVWMxT3lybVdCdW9MSkFSNEpBNlRSakF0ckFqSjB0M0FOY0psMkFyMFhTTmlXU2Nreld6bG40RndFZ3VYOFR3V1d2UktBTUltM2QtcnNKZTZvN21ncDVMcEdmbE5Zam9pQnFBcklVdklFQmw1YnVTZXBSaHVuMzgyNGNNM2VCYk9FbWhEQ2dkekJIdjRqNjhJcmFZdUk2MVVaQnZEX2Qtc1hiZ2RBY2hTamk3ZWo4QUxxRGdaTGFfZHpCQnhaNNIB3AFBVV95cUxNRlQwdUxyR21LX2NFUkdXTGtwZmRRZUVpOEpPQ0gyQ3drRncydFM1UXJpdFJvcW4wVW84R0VMUXJsZnFLamJuYi16VFlncFgtdm9OaDFuSnNIby15RXVwWGFrbFlWRFlEYS0zSXNoVHpKbWpTNWpZRTFlSDVZbmMzUG5UYi1WczcyRHg0bzlSc3FENFEwQXhzaHg4X0tPWFNTYXAzMk1KSXR6azNlSWlHZkEwUVhrSEpKdUo2WHBkRVU5ck9LLTdJUWE1RUVlN2h0aHh2TWgwRlBnem16?oc=5",
+          "published": "Sat, 01 Aug 2026 17:22:48 GMT"
         },
         {
-          "title": "Kantersieg! Wacker setzt Ausrufezeichen bei LigaZwa-Rückkehr - LAOLA1",
+          "title": "Bundesliga LIVE: Red Bull Salzburg - TSV Hartberg - LAOLA1",
           "publisher": "LAOLA1",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjEzR3E5REt6U29oeFZKNjl0cnFZMVVwT0t2OG81N1JNSlJ4eUc1eVBQajVtX250SGxmMDRqX04wX18tQjNyNGk1cDZfUFFTSF9NOTVsdExLY19uYml3N2xlVHF6ellQb0FuakVodmZ3MnBVZWwxRS12Z0JDYlc4cXkzUXRyRVBEWElVaWZicGRmYWhxRmVFYzRjcWxTajBzYVBCUnh6Z0FRVkp5VTJGY0F2WFlYOWRLVnZVVHowQURESG9jaEhR?oc=5",
-          "published": "Fri, 31 Jul 2026 20:07:51 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZEp3bUxLTm82TmZiS3U0ZFZfMm4xOF94RzVzOHBKVEhrRWxCSW9kOG9oaHBCVHpKWDU5N2hobmVnNWJkSDRJcGVtdHZMX0pidHgyODZDMlBmeEhTbllRVXY2Zy1ZVXJJelB5eEhFSHZtczYzdVJlZG5ISVY2MzRKSXRianF6NlNJZzk3TXkweVlRNjlncXRIM204X0NYMFU1Qk1xUGlZNFNuQQ?oc=5",
+          "published": "Sat, 01 Aug 2026 19:19:49 GMT"
+        },
+        {
+          "title": "Titelverteidiger LASK startet souverän - sport.orf.at",
+          "publisher": "sport.orf.at",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Zc1JwZDdoMmNydlJBVk8xN0diaFRkQ05mOHlaZFhBanR1NTFKLW82TlVzMkc0cEhsNEFZVTA2djExTGxIODRyUWpmTjRZcTVlNzIwRUsxTHQ5akZSUm4xc0h6VQ?oc=5",
+          "published": "Sat, 01 Aug 2026 18:32:56 GMT"
+        },
+        {
+          "title": "Real Madrid und Fiorentina am Klagenfurt Airport gelandet - Mein Klagenfurt",
+          "publisher": "Mein Klagenfurt",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaXMtdnVRSGxQMWl1OTNCUmNocGdiclVZbWlJekRHemNJeEZlZW9uc2ZTQ3YwSW5aUWUxSjZpQTFrdksydUtEWGx1c2piSlMtdG8yTDlzY0IyTG03LWVjamRTN2V3YlFtdFUycjhhVUVFVnVDckxEZ19zTFB2WWdNSzRTbHFhQWZrZnlSUjNoWFZWU2RmdTlNQjFKYkU5UzBTMjd5TkdvOUhNT0QzWmtIV2RORmdEam16dHh5aHA3Z3F3Z3BnVmZRalZxN29HN3ZVblhKUmtOb3Y?oc=5",
+          "published": "Sat, 01 Aug 2026 17:39:18 GMT"
         }
       ]
     },
@@ -159,10 +159,16 @@
           "published": "Fri, 31 Jul 2026 20:04:30 GMT"
         },
         {
-          "title": "Offenbar Rechenzentrum in Nickelsdorf geplant - burgenland.ORF.at",
-          "publisher": "burgenland.ORF.at",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tS0d4Y0JzSER6SFJKT0U5dURfYkgxQ05XZkZOOHFLRzY3Q0l0bjNIWmtLSUZUaGwwbV9fUDdXbW5oV0VmbXR2eExDMk5jVkFoa2lvbg?oc=5",
-          "published": "Fri, 31 Jul 2026 12:47:46 GMT"
+          "title": "„Ergibt keinen Sinn“ - Freche Diebe stibitzen Solarpaneele von PV-Anlage - krone.at",
+          "publisher": "krone.at",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE92TXhNU0MxMUZYcXMtdjZpN3I1VUZWcWxVSWVIMFJZdktON1BLVTFvZWJDanM5QUd0WXhXMHp3cU1JQQ?oc=5",
+          "published": "Sat, 01 Aug 2026 06:00:00 GMT"
+        },
+        {
+          "title": "Tesla Model 3 RWD: Sausen ohne Brausen - derStandard.de",
+          "publisher": "derStandard.de",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVFJxNnhEVU9XOV9uZnpGWDltTHQ4ei1SN2xtZ1BNbmRnMDdCRWIybWdGbWQwTHZUdWVxVlVMMENNVFhVNWEwQzBtYW4yWmwxaVlYTjg2NWZGMUJSVjlGVmI4N0tHSko4R2tqQ3E2RUtCNjhBNGdXWU9YR2hkVXEtZHZRLTNweXg5OTgyUg?oc=5",
+          "published": "Sat, 01 Aug 2026 08:00:00 GMT"
         },
         {
           "title": "Wie die größte Sandbatterie der Welt in Finnland bei der Energiewende hilft - Der Standard",
@@ -171,16 +177,10 @@
           "published": "Fri, 31 Jul 2026 03:00:00 GMT"
         },
         {
-          "title": "Bei jungen Menschen - Wie hat das Handy die Sexualität verändert? - Kronen Zeitung",
-          "publisher": "Kronen Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OaTZhVUQweEV6ZGZKUHBUUFR0a2JpZkxmX2t5aFlUaUo0dFdsUC1qLUstOTJlcDdKWTJWdkVfMHYtQQ?oc=5",
-          "published": "Fri, 31 Jul 2026 09:20:00 GMT"
-        },
-        {
-          "title": "Elon Musks xAI klagt Nutzer, um Verbot von Auszieh-KI-Apps zu stoppen - Der Standard",
-          "publisher": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdE1OUXpTd0VueVlrV1BLcmw2RWh3MHVCMnpqbUNKYnVGSlNocHIzNVhrZUdxWnR5SVRTbWQxVTQ3Z1lzOU9JRmw4RkMzcnJuLWp2TmtUM2NYUjZnUTlhSG5wVnRNV2NGemdFMkpSSExwQ09ObjNQUThJYXhKa28wX1VtTTFzRGRfb1BuOFgwZE5Xck03NHRETWpESGtic2t4X21TY01fZGhLWEpjWFdfN0lLbmJEUQ?oc=5",
-          "published": "Fri, 31 Jul 2026 10:59:00 GMT"
+          "title": "Wirbel um Gerüchte - Riesige Serverfarm auch in Nickelsdorf geplant? - krone.at",
+          "publisher": "krone.at",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBBQVFEVEFnc250QmRZMzlNbnNfN1Zmek43LS10RTFqS1dDR3RCNnJDY0VVUEFJQVpTUUpWYVFTSHZLdw?oc=5",
+          "published": "Fri, 31 Jul 2026 16:58:00 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Statement on behalf of UEFA and its 55 national associations - UEFA.com",
-          "publisher": "UEFA.com",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLVdUcDVVbjc2WkM3U3dzZnBXVUxTQWVIUmVveG9DaklGRHVKeWlRcTkxWFB5NmZhck81aWtuemFtVTRrQV9CSkNnNEs3Wk1ZVkhyalNOTUstV25YQkdpMExXOGppZ0c2RkQxM0lqZVZ1Rkx0NXNsVVZHOU5Xb3pxVmpFY1pFSzRBX3VMeVBFQVNNdkxEeWpmRWk1OTJUUV96QlpBbkRZN1pPeV9aelBoUmxCMHZhUC1DTTVKM2lDQWhhYWF4NTdxNmZVVEFnSHBy?oc=5",
-          "published": "Thu, 30 Jul 2026 15:23:28 GMT"
+          "title": "Infantino is teetering at FIFA. Is football finally poised for a great reset? - The Athletic - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWC1Kejl5Yzk4aC1hLUtDWURVOWxLRVhpNG1Vd0hfYmFrc2FLR0ZEMFRVYnRfZXdlZW1qVDhGTG1KNGxSUTEtUWxGczBVeUlfQ3U4alpoQzB0SmdaazN6Sl9MdFdWSlhITzRkN3JPbUg1ZU9TQnRDYWhxc1JXZzhOZG05b05xTm5vcXk1a2NwcEdLbTdZMHc0OTVXSHliZW9HaWkyVGRB?oc=5",
+          "published": "Sat, 01 Aug 2026 15:59:28 GMT"
         },
         {
-          "title": "Infantino's World Cup battle risks undermining years of progress in women's soccer - ESPN",
+          "title": "Infantino's World Cup plans never considered impact on women's soccer - ESPN",
           "publisher": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeTNUb1ZjRVpHZkRrTXc1QV9jcURheWV1SW14RU5HejJBYjU5cjlnNHAxeVlsMVdZZWp4YmNQTlZ1ekh6THRhYTh0UlR6VlV3emNZdEdpdnFIN1VKS0FQaWRfdlJsbC0xSWtmTzU3ZTBNbllhN1Q5UmNvc2MxbFZaMkdIMU9HLW5VWkc0Z3E2cWtudmhMX0FoTmRfUXBIMEF1OEQ1V2d3MTBvdU10MGhrN19PTXNlTW1YTXg4LXh0R1lVRlRrZ2Y0?oc=5",
-          "published": "Fri, 31 Jul 2026 20:51:00 GMT"
+          "published": "Sat, 01 Aug 2026 07:10:00 GMT"
         },
         {
-          "title": "FIFA insists ‘nobody is selling football’, pushes ahead with consultation plan despite backlash - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODc2MzJnaW1SbWZvTm5yWXZKSDNodThWVHhXbEt1ZUE2b1BKcHBMMVotczI4ajNyMEtlWDMxMnZjZ1A2WC0yMTRHMU5ZTVFmMjBZTU56UVloZ2l2cGJPNXUtRl83ODI5Yks1SUNmd3lkSnU1X2p3SmpCeEk2bzBpNjRFbktDSDY3T2V6SUw2aUVBUmNoamxMSA?oc=5",
-          "published": "Fri, 31 Jul 2026 21:53:16 GMT"
+          "title": "Reaction to FIFA scrapping World Cup sell-off plans - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTl91LWZoS1RZU2NBUk5VVXp5NHpuZHYxdGFyU1VKS0xJMkprQkgtZkk2RFc5WXdDc092N1lReWJpNnZrYXdHaEdGOEZZUlBadWdSaEtybjVOWnpISnp2d0RPVDlndlVFSmlLUmFCc3hSLXhoVnpLOWdFWUJPSEtqRXpYMmxJdVkyNnQzQU1jZWdRcFM4SXhjM3JGU2M0bU1RQTFj?oc=5",
+          "published": "Sat, 01 Aug 2026 20:01:22 GMT"
         },
         {
-          "title": "‘Nobody Is Selling Football’: FIFA Defends World Cup Privatization Plan - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT1hISDA1Y0txQXJDUlJ3R05sWE1mUXBLeHFNb000UUlRSGtFUHpaSE00YUdPQkhmYXdJNFdKX091SDdHaGV5emdlUGlMdUhpMGdKZTZmSG1UMXVIUkFabkVsNnNOV2pEZ1VWeXJCb0dJS1ZkOVFhY3VzLTRtM1prTnJ6UUwyeHoxd0p6VXNDYm9nMzRSajNBSVNWYXVEb0I2Ylg4djZUNWVRb19Kb1lYUi1ScFYzeGQ1NUJ3VndCeUphME1xRkY3WTRpdTJUUEdoNXc2dUJxTGQ3V3hrWE9MVWYxYw?oc=5",
-          "published": "Fri, 31 Jul 2026 09:57:58 GMT"
+          "title": "How a plan to sell off the soccer World Cup incited a revolt within the ‘beautiful game’ - NBC News",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcW5kMUoyQkNhUkNuYkQtdlEwOXpPZ2tEZG5ra0ZTeTlUVDZ3TFViZUZab2NycjRzX2xLLWs5U25JNFBtWk9mOFpqSVJsQS1aaWZGd1hidDJqNFk0WloyVUYxN28tODNVLWl0alZTdmZmOURGN2t3QUhLd2s3UjRvNk9tZGhRc2RlcHpDMHlZbFZrTmh5ZTQ0WkYtTElPOVpUR1l5N0RmbWFpYXp0YzRz?oc=5",
+          "published": "Sat, 01 Aug 2026 10:05:59 GMT"
         },
         {
-          "title": "FIFA Stares Down European Soccer in Commercialization Bid - Bloomberg",
-          "publisher": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDVSZXpaYkpLak8yM0JlQzU5QW5nSktYV3BrZDdaSEJzdjdFTlpuaXRWaGxIVGtjV0ZndU15cmZxbVJTYzVlSnlBYl94NjVidXBGeTNSdDVYdVE0dC14UXJEUF9XcUpLc0ltd2VSaDl3X0FZV0xiYUVySldTc0lvNk1Kd05KY3p4STBwN0pLcUdOV2FPdExWa1kwSnlmMkFDLWllRXdSemVUNkVKLWRLRQ?oc=5",
-          "published": "Fri, 31 Jul 2026 22:03:03 GMT"
+          "title": "News Analysis: Why Gianni Infantino's secret attempt to sell World Cup stake backfired so spectacularly - Los Angeles Times",
+          "publisher": "Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmplRzlaYlNGTnk1VUsxcm96VmxTMmlUZHVnWXVHQS1PR3Fjb2ZWazJGZ3FCMUNEbDNhQU9NMWVFN0FCNl9JdjNxYnU1QnFoblJSWEtUYnBRYXBSZHozSE9WVmZsQlk1RHlmaEdzZTk3M0lUTy1UR3NkemkxR3hVOHEyd3BFX0R2OGFiZ1AwMHBvdzZZWnpfVzZtdmx4d0ZDZlcxY3FseldSX0VzenpfS1R1UXVneGpWV3c?oc=5",
+          "published": "Sat, 01 Aug 2026 19:51:00 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Box Office: 'Spider-Man: Brand New Day' $167M+ U.S. Record Opening Day - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajhZX1U4OHVTa3IteHhuRUFEa0pQOVpEbFVQRG5vOFFXY3VoSi0wN3AtTmo0emJsdjFPYXRKV3hiMFhUQmRkMVVUT3NGVDR2X2lyVGllZ1hpNFE2SGNrZGc1OVZ1RnRVX1p4SnRsY0pTNGxZVjI3WXNraWI3d3R2R1l3?oc=5",
-          "published": "Fri, 31 Jul 2026 19:58:00 GMT"
+          "title": "Vincent Pastore, mob enforcer on ‘The Sopranos,’ dies at 80 - NBC News",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSy1WWUZtM1UwUG5oVmh2a21oYVUtVlI0Z3dDMUQ5OWR2ZGlfYjBpWjhzRXpIQWdKd05nRmtxUnZsanhGUlNMLW5oZVZidHJKbENpaDRQTEZUU0RCLTBudkFpOHBJMWRoMmlBZWFfbU9HR3NaOUdid0FVREgyWFR1eEJKUEVROVdWbEtr?oc=5",
+          "published": "Sat, 01 Aug 2026 21:42:03 GMT"
         },
         {
-          "title": "Cape Fear Goes Fully Off The Rails With A Bizarre, Bloody Finale — Grade The Series! - TVLine",
-          "publisher": "TVLine",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONDNEQmI5WURrZWpKejFQQjNuT3ZfM1BaZE9VRF9zM2JYNzFjU0FxSWFZenlGWUVocHpZYkkxaFBIUkxYLUJSQkdfWkZ0MGRmdDdHTnVqdXpDdEhGZVZLZGRVaXJtS05RU3EydVpGV25EMEc1dTZPVUM3Yml5OWRxTk1DaS1OcHM0U3diMVBwVWhfa183Ymc?oc=5",
-          "published": "Fri, 31 Jul 2026 19:00:00 GMT"
+          "title": "Box Office: ‘Spider-Man: Brand New Day’ Breaks Opening Day Record With $168 Million - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0JvX2pqbzl4cWhjdjhqOGUzRkdUMVFIZ3NGQ3B3LTlaSENJVUhJd19ZbUxXMHJ3clRJdmVMeGt4bFJmMUFTaHZQRzk4RXFtWU5nMmFxTEJUS2F3N3pqUlBTZjZ1V2pDUzh6MWpHZ0x4aFlSYXB3ZXUwVDU4QXJDZC16d0R1N2xaLXhEdm44OVNORW0zcTNEUlFUNW04X0VyRzBB?oc=5",
+          "published": "Sat, 01 Aug 2026 15:55:00 GMT"
         },
         {
-          "title": "Taylor Sheridan's 'Lioness' season 3 is an action-packed saga loaded with violence and carnage - Fox News",
-          "publisher": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0o5WkdNT094NmFnT1huVk9BckdXaU15NTVHMDh1WHVrdUFKNDIwdjNOSGEyenpnekhFaFc2SWR2cDdybXkzZHdBRk5XWVQ5Uy1TSHY5c0s2Q2p3UlhnU1o4OHBfUUN3S0Rlbk54Sk80Y2cxQ0R2MU5CVWFHaExWTWJSY0tkcUNRVFV1SV9fQXVDVzN0UkduRmlxVU1XRWRaSWlSNi1WRlJLZVBxMGpHVEZLV1Y5Zw?oc=5",
-          "published": "Fri, 31 Jul 2026 15:11:27 GMT"
+          "title": "Legendary horror film icon speaks out after home raided by police - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZEVEM0RkVS1aeDlNLTZJMHJ6dUwtWTZ3eFhVMkxhaWFsOGhWUHZVNkFLc21WamtiSlVXUF9iaVN2dWU2QjdkSEZ4dEdRSFNhZ3BBci1vVUdyVGhNVWtjYkt4N3JpNWVNWWQzY25hY2hzWWJ2RjhRLTI0UU9PQm1Qbk5iVmxOQWNuNXhQbHI3QkQ4X0tEemtPZkZfZWJFbXI4S3V4UUYzLXBoMDgtRWtiOdIBxAFBVV95cUxOWDVjelpBczVmTDNTV1hsXzR1RF8ycjYzMlR0MnZ2eDh1WGV6ZC1YSWt6bnNrdEJSdUN5OXZISFRSMGZDZDJMM2k3V2pMSmVJYWpYS2NHcGRWLTRTdDJNNm1Icms4UDBpS25rNW52N1dndmk5MEhlYW11Y25YT2hJbzF0aDQyZVBNd2p2YVBhTWN3Z0F3M1NnQUJpbnNHNUE3elN2aFNHWDB5dnVyaFVHNGxmdnlvTlFuUG1VRHRqdk9wenVa?oc=5",
+          "published": "Sat, 01 Aug 2026 15:35:00 GMT"
         },
         {
-          "title": "BTS Boycott the Grammys, But Will Other Artists Follow? - Rolling Stone",
+          "title": "Lollapalooza 2026 Day Two: Smashing Pumpkins, Charli XCX Deliver Rock Music to Massive Crowds - Rolling Stone",
           "publisher": "Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTNnR1lwYzI4UFhKdGQxcmVwV1g3T0lCNnl5cTU2Z0tMbURMOGxQbkZqTmcyaUdXOHF5WkdOR2pzb0pTMmJOZ3hObk85VVhLM2pjZHFma1NHZGJVNHFfMVVUMEhZWF9DMExQb04yUklERkgzNWlmV1ZCQmMyb3RGa05vbDZQQVA4RHRpbmlEUVh5NnVrMDE2bA?oc=5",
-          "published": "Fri, 31 Jul 2026 17:42:15 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ0F3RlRneUtIQWNuUjhjNVNna0JoblhrX3F4NGIzRDNXSnhJM3g3b2pMNmxaS0xnaU5aN2dRTkdTTm5lZ185VkM0SnJkQmZGcjBxNFRqbVVSNjIxemRiR1RqSTVUUzBQZGVLLVVPaVMyb2MxXzdINUVBWlhvb29TaUF6NE9aUGNZWTJ3b05sUEZUN1lHNnRiZG1mZDduY3RDZDM0ZG1UQzhLRnh2TV9tek1vS3lWNmV1Vzh4N0lnNkRldw?oc=5",
+          "published": "Sat, 01 Aug 2026 14:02:35 GMT"
         },
         {
-          "title": "Dermot Mulroney To Leave ‘Chicago Fire’ Early In Season 15 - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXQweXFEX1dZSjI0c2dRUkFYbjBuTzMxelFRUG1zQ3MxYTI0eTdDRzF6UFl3N2x2eHRSaVZLUEQ0RkJZbnF5c3BZbkE2RW5mMXpHQjNYS3BQNzdSeUY2NmNUcVFMSjgwTkEyaHZiNENBcFlSZ21PckdrQ2RuZDdZaVNQTk5nMjhaSC1iWg?oc=5",
-          "published": "Fri, 31 Jul 2026 18:32:00 GMT"
+          "title": "‘Barbie’ Sequel Stalled as Warner Bros. Tries to Reach Deals With Greta Gerwig, Margot Robbie, Ryan Gosling - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWJFRkllWWU2VlRDZjRDRndOZjJZeW83U2l2ZDZ2UGJUUm1ka2x3aTBZYUdPQ1A5d243a0dlc1FSSWtxVDA3WUh0Z2EyNmZsekpRNFoxVU8xLWYxbk5zaHhSdDJoTmRvdWtyeC1sQzNsdFI0dWVCNkMxMUd5SGpGb2JZa2ZwZlVWY0d1ZDVnalZXenQtVXBpTXhnWlo5OGQya2dhcWgtaElIRzZmRWdoNWlIX0JRVU1FeWZjUEFZMDQ?oc=5",
+          "published": "Sat, 01 Aug 2026 03:03:19 GMT"
         }
       ]
     }
