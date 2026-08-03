@@ -1,7 +1,7 @@
 {
   "market": "CH",
-  "generatedAt": "2026-08-02T22:55:21.085206Z",
-  "validForDate": "2026-08-02",
+  "generatedAt": "2026-08-03T22:58:29.448017Z",
+  "validForDate": "2026-08-03",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Die Schweiz feierte ruhig – wie hast du den 1. August erlebt? - bluewin.ch",
+          "title": "Neues Virus bei Schweizer Rindern nachgewiesen - SWI swissinfo.ch",
+          "publisher": "SWI swissinfo.ch",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUG9mR0lPYWFBVkROUkgzOGM1d3UzYzdBN1RKM2t0Ry02MDRtS2dHMUpLall1UHV0VkpPRXdNYmRxa0dVOTJ0LU5QWVg2bHdmVGprc0Iwc01IdVltcWh2SmdNZG1hSTJYY3pZRGtWZURFRmhvU2NleWFORGJGbGxZX0RWT3NlOWR5YnJvUg?oc=5",
+          "published": "Mon, 03 Aug 2026 14:59:26 GMT"
+        },
+        {
+          "title": "Wurde das Feuer- und Feuerwerksverbot am 1. August eingehalten? - bluewin.ch",
           "publisher": "bluewin.ch",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlFOMTZncVhudjAxOW11RDdPakFmcWZBN2l5dFdzWExGYjh0UEdUbGJ6LURScFltaHJjYjFMUXBJbzgxZ0pxZHF2cklrYmxFYThFbWxMV0hZbEpsWlZRQTJRdHViWk04d0FlVjV6RUppMHlmSEQzU1VoTi1RZjNCLXhjRng?oc=5",
-          "published": "Sat, 01 Aug 2026 04:56:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0luSzBlVmNJZ3M4cTM5SmZTcHgydDhlVVNvbURmazM2MmhBVnhUZUNmSERoNkVVWWhPWnNrX3NOd3B1aC1PSnNFUmdRdG9uSzE2M2VKbjhzUERMeDB4YUdqYUtUaHVia3ZxVnI4Qlh1bjA3VFlpQldpclhSdXYyZGk1LVY3QVlyZG5yOC1kMmhIaElvbm9ETzNvcFJSdWp4SkphdjZ4aW1UT3hVbzdJ?oc=5",
+          "published": "Mon, 03 Aug 2026 15:12:46 GMT"
         },
         {
-          "title": "Tödlicher Unfall in Pfyn TG geschah nach der «Crazy Night» - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQQVV6RDFiOVdJZ0lmM1dKU0JKMFpvakxhc2ZEdWt4a3pZbE1nSzV6WDNZdmhJWHlzWW9xUVA2NmllMUtlcWQtLXJPeDk4Rk5ob0ZsY1Q1aXBqbU43bzlXT0xJVGtFWHUzaDN5NU9TS3ZTR01Cem9JNlVpbFNvaTZVX3lQTk9udUZIR2szNE5iaEJyVHgtY180QXRxV0ZHcjY4emFwSG0tM3QxSlp3Q0lsR3dDWW8yck9CaFU2NmhKbmUzSDZKbmlLUk4tT3BlVmtMZ0tFNmhuaUkyZUNNcXVzYllsRG1tMy1yQVFoQUJDck05NTBfVmVUXzllWmtmdFFlc2xWUTRYQkdHclh6R1JKMVZCc1hEa2lMN0xrb04zWWRxM2ZQYnc?oc=5",
-          "published": "Sun, 02 Aug 2026 17:50:29 GMT"
+          "title": "25 Erkrankte: Legionellen-Ausbruch in Basel – 25 Menschen im Spital, eine Person verstorben - Basler Zeitung",
+          "publisher": "Basler Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa0F4TE9RUXlKbkFRWWhodi15U1BnZXVqUWVUV2tHaFZwcHpYZmR2Z0pycDR2ZENnLUM5WFAxTXBkdnpBMlRKanRteUNUczVVUDNwakpTR0JJWlFBYldHc3BLd21RclFxNzRvM1N1VUVGNGVvWFhZOThtcjV3Wl82elZrcWMwMTl3dlFZdUN5bTl0dFpsNWc0SFBsVUg1SlJaV0g0Y0pWckRJY2NwNVE?oc=5",
+          "published": "Mon, 03 Aug 2026 11:24:21 GMT"
         },
         {
-          "title": "Warum der Bund jetzt beim Wald spart - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZGRsVUZ4aGc3RXdwTmpsMFlQOS1uYnpITjY3X0JCYjQ3WGlwRndCbW5vdUlyS1VrRWZkbklqRDJXSTBGTC0zTlFGTlhOZHdpMTlvZFNXekxpVmd2c24yeTE0dlhoelBaZElNa0NwZGtpaC0tWGF0YURmdDNzSk5Gc28xSkdMdTNiVXRGT2xQOUQybzRPenNiOE1tNlB2Ni16X25VdHBn?oc=5",
-          "published": "Sun, 02 Aug 2026 10:45:33 GMT"
+          "title": "Schweizer Hersteller erleben Boom mit UV-Schutzschirmen - srf.ch",
+          "publisher": "srf.ch",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTnF2bEVvY2xONnluQk1aR1NmdHhaYTdtUGdxdGhub2xxZUxlVmdwVF80OEZBUG9xYlMwZkpzMk9Kek9WWVB6TlBWZVZ5NGtJeTJxaEpXaTMtb2F6allDYUJTdnV6WHZXS19rSzJtVjNkZk9nLWpiMGhRMFUtZVRSUHd3Qlh2TVdUd0pNVVV6ZXhja1FqX2VKNnhEM0dycWo2ZGNfOTJxWFVHYkZSWVVpQTRuemxydDhSOG9xOGowVQ?oc=5",
+          "published": "Mon, 03 Aug 2026 14:26:33 GMT"
         },
         {
-          "title": "Mann (34) stirbt in Bewachungsstation des Inselspitals Bern – Ermittlungen laufen - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcXJYVmVrWExOYmR4XzFWUUkwdFJCVUNIaFR5cTNnV2lzUlc5emozT0ZDN2FKRWFPYmxxSWxhYjRGRDlmVXFqWXkycmRKakJ4UHNwYmx4bk8ydmg2WjhnWUZPc2ExcUFhbVhYUzZqYW9MUGNxSzFTd3B0ZXo4SU9KQTZR?oc=5",
-          "published": "Sun, 02 Aug 2026 14:50:49 GMT"
-        },
-        {
-          "title": "Dreijähriges Mädchen nach Badeunfall in Kreuzlingen TG wiederbelebt - Watson",
-          "publisher": "Watson",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3VkVzFqeF9FcExBTGRlaEVBeEQ5bFN2MFVMTHZBLUE4aTBxUGFIX00xNG54Nm9uVEdWWnd0bW0wRUpWblQzTHdWcE9aRTVoWFlQa1pWOEg1OEFCaFo0R2N0Z0pQU1hTYnl1OWNVcV9XVUVJeDNLbTBLSmFSc3RmS2VqZk9teG1xeVJSeFJmd09INVJpOUZrVnhoeXZKRXlKOGNKSlJlWmhveVpXNjhmMFZ3MXh5WFhyVE5FT3BMbUN0QQ?oc=5",
-          "published": "Sun, 02 Aug 2026 16:00:55 GMT"
+          "title": "Private Fotofalle zeigt: In Schwyz gibt's fünf Wolfswelpen - srf.ch",
+          "publisher": "srf.ch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWjNwbHNxazFCQmRDOVl0Q0hzNjc2bnpUNEI4LXNlay1UbnJNREN4TW1OS00wMTJ5LXFEaDVjT0RVV3A0ZGVybkFUVXVfc3NZYUFjOUpDOTBLMjR2LWhtSGRTVkNSeWZRc2dkZ2p4MlZCOFhwa3d4bEkwa0RFaXlMd3k5bDlBMzZ6UkhZQVQ1Vy1EeXZwaDl2ZTI0Mjd0UkN1TlE?oc=5",
+          "published": "Mon, 03 Aug 2026 14:20:08 GMT"
         }
       ]
     },
@@ -45,22 +45,22 @@
       "label": "World News",
       "items": [
         {
-          "title": "«Es gibt mehr Tote im Meer»: Behörden richten Aufbahrungsort für bis zu 200 Leichen ein - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMjVTVzhiWmRuVnhZRVJKTXVDXzhYeTlpSXpQSEQzeGhqM096LW1pWTg3Mms0Y19meUo1T2puZHRzaFRNalZKb1oyOWowT19DUWlaNm1WemN1c1oxY0tPS0RybXhiM2hnclJNdk5lS1d2ZjJFVUxRNDZtck1CTkdCbklTd2s4WGVBSVhSWmtldkZJMnQ3QXZ4cC1QX2w0T28?oc=5",
-          "published": "Sun, 02 Aug 2026 10:02:03 GMT"
+          "title": "Spanien: Tausende Migranten verharren am Montag in Ceuta - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2tUQWNMZ1lwZlZHTm1vS2hZaG1rUzhrVEZJM1BOWXVGN0kyLXBLTWthSTU3SFV6aC1OUHpBandHdjZGcHVpNUNmLW1XNkMwV1FNbGwxbGotV2hIcUhSNUp5b2ZTRmI1UUhkT3I2ZEpfY2gyeFY1VEt2MFRFbktVMjlXYTVubTVkc2VQLV9kOUlaSEUxU3BkU1BzSlZURVVjZV9OcEtHc2xzc25NOTNVREFjbUdqUQ?oc=5",
+          "published": "Mon, 03 Aug 2026 09:32:32 GMT"
         },
         {
-          "title": "Waldbrand bei Athen: Zwei Löschhelikopter kollidieren – Video zeigt Moment des Unglücks - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXMwaTBBdzE5bkZuZl8xMHpVLWNSZTZKY1dSdzBFeFRZNmo5cFYwZG90Ynh5YUpSdW1RRlNMVEpBR283aHh3dkF3UUhEYlpMS3lmaHZVU0tSdzVWSDNFMkpSNER4U2RDQ0twM2ZibWpleEp5T1hQYk0xdUh1R3h2dE0zWTVSeDZFcndreVJRZUxtR29ya1JfcQ?oc=5",
-          "published": "Sun, 02 Aug 2026 14:25:52 GMT"
+          "title": "Feuerwehr kämpft in Griechenland gegen Megafeuer – 5 Tote - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2RvWjFxbkRjRFdwYXdNclc1SzNlVDZ1cU5DWmsySnVGWkNRRnFtR25NNGpoelI5UlI3bkQ4dG9aZTRBUXRlMGhNMmZubUhHVmdXUmtnSEtHZ3RFakhvYXVOT2pDTW5UU0k2TTRpcEtkX2NteUtPSmVOWS1ZQTJyU1d1bXZzOC1BTHJBZVVrZFhtcWNiNGEwR0stLVlsc1dsd0UxMUsxSGZuQW5pRXkw?oc=5",
+          "published": "Mon, 03 Aug 2026 09:27:32 GMT"
         },
         {
-          "title": "Hackerangriff - Cyberangriff auf Wirtschaftsdaten im Fürstentum Liechtenstein - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcllKZ2IwdXpXMHVza3hwVzJqSFpQb2NLMG5tWnRNcUl1VGdEQ2lWSWlFbS1RdThkWkwxT2diYmh4Z0hsZ09OTmExSC1OUGZFUVNkMWtWZ1pOY1BzZDJTemVYM25FZFdKOWdiTmFOYmk4TlB6ZGhVdjh0OFZqcDM5V1lBMmo1dGFmWnNrQ0VqUDBqNGh5MmFoQmZoN3dVdkxEN19ILXFCd0t1MFhOcHpBNFp5dm0?oc=5",
-          "published": "Sun, 02 Aug 2026 16:41:54 GMT"
+          "title": "Cyberangriff auf Liechtenstein: 31'000 Datensätze abgegriffen - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNajdzOU9kSkxhSE1wSVlSQWlLNmJtamt5U1NsTVFoakJVUjlQMzhfdjVhVEdoODVQNkFXa3F5SjJLSWk3cGx6WjlWc2NQa1pvXzAxVldhaFRLbUlJa3hxNVM2Q2hVeHhYYlVPRGFtQ2Q0UFFzS0J4YmU1a0lqM3pHMWdKT1M3RHpEUElKRlVpS2N3MkdXdEtWa0tiYUFmU3kyaW94RXo1YzdoVzJldWtlaHpJb1hSSWZJaUE?oc=5",
+          "published": "Sun, 02 Aug 2026 23:21:16 GMT"
         },
         {
           "title": "Donald Trump sagt massive Angriffe auf Iran vorerst ab: Was steckt dahinter? - NZZ – Neue Zürcher Zeitung",
@@ -69,10 +69,10 @@
           "published": "Sun, 02 Aug 2026 14:11:28 GMT"
         },
         {
-          "title": "«Zeitweise waren wir komplett von Flammen umzingelt» - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3Vtczl2NGVDeHVqc2d5bHZsWVljTE5FbTNXVHJxTFdJYjVneTZLQ1hybExFSVJ1LWk1YWMweGV2dEI0dnJubGdvX2xKSFlveFdURlFEcllOZFlyWFRQWHplMXhiR2dxTEpqQ2NxRWVsTTEzbXA2Yk83aF9ObmJJLUVSWkFpN0x3QTRYTHJScVZXdHBCMU03ZTlmaFRqd3JrLVBF?oc=5",
-          "published": "Sat, 01 Aug 2026 16:49:52 GMT"
+          "title": "Federico Venco (36) half einer Fremden – und wurde von ihrem Ex getötet - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdE5EdkQzQzFrS3FEYko4cVVGVTVNa0daMm9lTFMzLXVwQXUyU3FYVmI3SWZEZ0I2OU5mWmlzdVZLLU8tVUJ1Q2ZFcUNCaDdLOTJRVDc1dE1PVzUtdm92LTlvdmpmX2ZrUzl6VlhQTHplT05zc09DQkc3eUNBemJJZTIyS0JtczRERDJFRzBwLU5vQWpXQ21iS1J4bHdCVWk5?oc=5",
+          "published": "Mon, 03 Aug 2026 16:52:18 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Schweizer Familie testet Nomadenleben aus - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmhQQmlOd0JVSXJ6ZlI1NFY2V2RGYmtOcnF4SW9scTUxUm1Nby1KOFpvVG16ZmFyTFRndkFRUV93dldlZG04dVFmd0hzYmQycFNGWXVsQld4MDVLR29UWlNjNzdXVlplMVZSbW1JazZJSDktMTNDMGJqejVpbTZxZi1Pc1BvQjAxYkxEZ3RyQlBqZEtacnFGaEZNWEhLTXV0cm5JUHdrSkM2RU1qSklleWkyYklMMDVmSmI2R1NoS0c?oc=5",
-          "published": "Sun, 02 Aug 2026 18:01:27 GMT"
+          "title": "Yen auf Rekordtief: USA und Japan greifen gemeinsam ein - srf.ch",
+          "publisher": "srf.ch",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYk9uTkJfOWVzZTlqRUN0X01Zc2VmUGhtV3Vuc1hDMUZ5ZDU0OHZtNmhoeEhpWWFLdmsxZ0c0ZWhlYU9nVk5iTjk0ZGJyX0NzNDFkSGJpRGpreDVMQ1hLMzlId1NidERfdFVncUJMa0lfblppZU1JR0luSkdZbXRqcTV2YkpodVlfbkh1eE9TMHhkcEJ3M1l4amFn?oc=5",
+          "published": "Mon, 03 Aug 2026 07:30:00 GMT"
         },
         {
-          "title": "Spionagedrohnen: Wie Rolex seine Geheimnisse verteidigt (B+) - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUmZEd29Eek81ek9xNlBlcHlJVkxzOEZoNTNydTN5YUxUbC1KZ2I0VVF6RURNLWNZSW9aN0xmcEE0NnZqbXN1LUFUVEh1TTlXeVdNQXBIeHNGMmowS0tQVGQzZGUzbU1mQ3ByMEZiLXctMk1yZU1GUFM4bkxXRV9UUFdIcXNqOVBZUU13eG5vN1VvRnN2WV9kRFltdnBYLVM3YzRaaFA1b0VIQ2NBWVVNZ2p5U29qTkNfWmVScG5KbVRiLTJKSHZ2Vlk1T0taWUhzenc?oc=5",
-          "published": "Sun, 02 Aug 2026 14:57:52 GMT"
-        },
-        {
-          "title": "Micasa-Angestellte müssen Stunden für den 1. August nachholen – Experte kritisiert Praxis - 20 Minuten",
+          "title": "UBS zahlt Rekordstrafe in den USA: 125 Millionen US-Dollar - 20 Minuten",
           "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUpQUnZ6YzdUeURiVzlPYlB1dkIxNXFrZWF2eFkwYnRLOVhXWFlTb2pab25LLVpnZW5BaXdCZ2I1TmRNYWdMNVZXMkVvdnF6bG5QSU9DZkNEU0pJZlVCNlQxRGNrT0NmbmJCVlJndXFQV3JnRV92dHFfZ050UWhhOHdjU3drMHEtVFMyU0FHSEVXb3dJNnd6dEx3eDBUYlk?oc=5",
-          "published": "Sat, 01 Aug 2026 02:59:51 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc01HdlVvbkdmWVR3cDVkbTFUdm1CWEY1eGJ5dXBFTllxRlhVdEszTERiTmkwN0FES3AwVkpwUDhwX200TUpjQ04xZ3JvOXhRNDhCT0lGSnItV3dzd3R5bVEtNnpMMS0zVm9meDV4NTdmdzhOTHlXV080NHNDRzJPa1VCTlI1aFk0UEZCSDk5dEpia0doeHdzYUxtNjFQSWdmcnlLUDAtS04xLXVsdUpySFpxbzdScWYy?oc=5",
+          "published": "Mon, 03 Aug 2026 14:05:14 GMT"
         },
         {
-          "title": "Mammut sieht im China-Deal grosse Wachstumschancen - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWdOektvU0tZVXZEZlhqTnVTREktTm9CVTJlUmdDSTNRMWM2enpZeG84YWRwZUFkazJQMkk3QnotdzJ1el9pMkx6anhHbGxUYnF4ck1FY0loM21RN3A0Rl9weXhXclVCU3RZeGRqNXg4Qk9HQWZoWEMzeGpHTjNYaE9kS1JkdmdocnNCWEtacjBnY0lJZWNGSC1B?oc=5",
-          "published": "Sun, 02 Aug 2026 10:29:42 GMT"
+          "title": "Publibike-Verkauf: Londoner Investoren übernehmen Schweizer Veloverleih - Berner Zeitung",
+          "publisher": "Berner Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdGJ1bVg0QkwzcUZ1cEh6T2hJZmFxQXFuMEYxZVhiZnVjd0NUdUpxemZuV0NmajMwbGQxQ3Bsa1R1NWs2X2R5OHFhc0s4OVpyZGk5TnNxODFSRFp3SkdjM3B6M0pwbno3OFBKczhIa0E2NmpfLXRyWTRMUkJ3dmVWdFdrVWlCYnc4emhXTFQtTkVFYlpxQk5MQ2dHQkJEZnBXQ0MxNg?oc=5",
+          "published": "Mon, 03 Aug 2026 11:48:45 GMT"
         },
         {
-          "title": "Radio in der Schweiz: SRG will ab Herbst wieder auf UKW senden - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWEJkQlhlRDRiUXgtSmpVOWM2TjZvUTFRMk5Mcm5NRjI2VS1zX1BKOWEycG01MVJobGhzTXN6eFI5M3dhc1BqVGdLcGdsYmc5dkVHRGZkTWlJUl9JQVpneWhyU1c2aTktZ0FCb0VjcVRxYXpsVXA2Q2VqZmtzLWF3Z3QtZjRMaU44V2w4?oc=5",
-          "published": "Sun, 02 Aug 2026 10:51:50 GMT"
+          "title": "«KI verzeiht keine Sicherheitslücken» - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnFBaUZnektvMmIwSzM2VW9KSHpCWDlucjh0LVR0aXRPTHZCNzhQZHpDX0ZuQmJfRVdaNVJsLXZ3MEgtMFZxZ1lXTHJFMW5ab1R1dU42MGxQZGt6dUF0SE44cENMWElNdFI2OThaSUpYOHNRNHJSSWJqMEl3cVN4N1hWcGlFZjF6YUtESEJOdzVmVzdLM0FpaHpSdENDRzBaQlNOQWZJc240SGIx?oc=5",
+          "published": "Sun, 02 Aug 2026 17:03:39 GMT"
+        },
+        {
+          "title": "Sandoz zahlt 450 Mio. Dollar nach Vergleich mit 43 US-Staaten - srf.ch",
+          "publisher": "srf.ch",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQnUtYVVhSEExbjczaUZ1RTM5em9tNGloanBDYWItbGNTS1NCZGRWMG1OWmVpVGdEcnN0UGVkMlp3NTJ1MzMzeUV2em9NT21YbC1RNUFLcEVPSUxFTFNmZ3Zyd1A3UDlqT2w2RGtPQW1qSWlwa1htOTAybHhYd21CYUJNYmxmMHVHaVRnb0tHY3cxTG1FcTF3V2VZU0RZVzVOaXVjb01B?oc=5",
+          "published": "Mon, 03 Aug 2026 10:42:04 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Tour de France Femmes - Super-Sprinterin Wiebes auch in Genf nicht zu schlagen - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeV84bnJ1VEc2VDlINmdhcUozRDBwQ3VILTlpMzJ2dG8tendYa2ViTnBFb2VKTldGMjJlQkladERXQ0lHZDBBNXhjczk3eTNCaHVOd1FCVVkxNFFpQTNlODNXbFRPS0g0c2UtRlJRREU0eTFOakRqVFVsX3VoNlA4QkF5RlliaEtfUDRNOV9qck9RaG9sWmJZY2ljZkFVUHFadU90cERKbDFjRlE4VFJiQzkxbWE1Y2M?oc=5",
-          "published": "Sun, 02 Aug 2026 16:48:05 GMT"
+          "title": "Am Tag nach EM-Silbercoup - Wasserspringerin Heimberg spricht über schweren Schicksalsschlag - srf.ch",
+          "publisher": "srf.ch",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdVpVdXVMYmlqWktlMDhUaDdRb1ExekF0aU5MSkRPV1JlcDFLdTFoUzhIa1dKSE5DNWlwN3I2UzdTeWVQbVpxa2szN09HQlJqMmlmLTQ2dFo2aW1kUXdFR0xRZ0FUdVd2MU5HeXZpdXZpMVlZY1hrOWZzUVBEYWIydVhkT21LTDV4ZUpoNWsxYWxfTlBJR21DOGdfQkZHaVBCU3FBbDNKVzU4RWVST1ZuUlZ6ZlRWSXNoYVY4M1FheDBDTjVYbkxFdm95bk0tdzJmYVdJ?oc=5",
+          "published": "Mon, 03 Aug 2026 18:03:13 GMT"
         },
         {
-          "title": "Super League: 2. Spieltag - Vom 0:1 zum 4:1 – Lugano siegt bei GC nach verbesserter 2. Hälfte - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVnlwN0ZicHBIQnR3RFBwUXlkUjZvWm9sX3ZUY1E4ZG5ESUNJaVoxLUlnbWUwQnk1UFo1NmViR21FYm85T3lMNUtsR3FEYWgwRHlkUFYxZ01MNDQ5a0JkUTdIQnlVdzZpUElMYnVZSWZhM0NKSXlhdnBsSHJ1RjFiYTBOUFJ1SlU5aGR6UzFjUjNJeVZEbV9zS1JxN2w1ZVJvN2UtNkJrck84S3RyY2RCandRbENHd3NJTHN6RGlSS3YxUnR3LWhKbGhLUFIwd0E?oc=5",
-          "published": "Sun, 02 Aug 2026 16:44:10 GMT"
+          "title": "Gianni Infantino wankt – doch Europa allein kann den Fifa-Chef nicht stürzen - NZZ – Neue Zürcher Zeitung",
+          "publisher": "NZZ – Neue Zürcher Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY0p2TEVaVWVzZkx4dkRvRU1vS0RSV2FUSkJjdVF1NzZVTmtYN2h6OFN6MHQ3bHVRUTA4azNaalVxY2QyS0pZUm9PTXhxNnpYeW1EeFVvNmh0RVZoWnNxcHVQcjlISnBwdE54dVMwVjI4N1RLZXZwSUVLbENKT2JjSVdUektrWHE3YTBsSHkxa25RWHMzWnA0MmZFVjNqX2pqSFhiYTF3al9KbmVMTnFMWjg3NllSTEtRYXc3VzdB?oc=5",
+          "published": "Mon, 03 Aug 2026 14:52:27 GMT"
         },
         {
-          "title": "Nach Auszug: Frei erlebt ihr goldenes EM-Märchen - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRGxCWjF0X0diNEcyUlR3WlV6aDE3MFdtVXo4VzZaS3pLMDY4RkZZX3RNUGhpeEdOVzR5dlRsc0VUdTlWZ3FDckZJSnBXTnFDS0ZYRGVXLWxXcVVCSG1SdlNNNFp1Wk1CRnZiM1FFZERHV3FlT3dwMFlNWUplZ2Z3T2lfdXZfUTFUazRlUXltRzAxRk1jTURfdlVwSWRmam52RDA5OEVoUWFxT0VNWENYWURudlRVNDBQM1FmdXlfNmhIWWM?oc=5",
-          "published": "Sun, 02 Aug 2026 17:42:55 GMT"
-        },
-        {
-          "title": "Schwimm-EM in Paris - Wasserspringerin Heimberg sichert sich Silber vom 1-m-Brett - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3hpcHprbHZmYUYycGd5aG9uZE9Jenl0a083c3Q5eVNPMFNaLVd6RUFhYldWV2Vzb1B3NzRyM1NsM0FrY2lQc0hlWGpEdDFxdFh1X0RNbHd0Sk4xb1otMUlfcVUxNVh4N2ZLYlFQNnpHYXlRUE5iQ3lZY1dLaTVLcWJoWEVXX1MyU2t3c1FVdlhTZ2RXS3BlU1lpcE9rNkh1WkFXR2RXdUpBTUxEM0d2bUFSNmczcGdJUk1pNEk1VmxYVzQ?oc=5",
-          "published": "Sun, 02 Aug 2026 20:05:10 GMT"
-        },
-        {
-          "title": "«Kein Interesse am Medienrummel»: PSG-Boss wird nicht als FIFA-Präsident kandidieren - Watson",
+          "title": "Wiebes setzt sich erneut im Sprint durch und gewinnt auch die zweite Etappe - Watson",
           "publisher": "Watson",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkoxYlEzRWxZNEhHQlZScjZUTVpPaG15Q3ZuYm1YY0RVbUd5bG8xY3VZOG9yVWZxeGg1R21qVU5Ndy1EQ1pFSDlZb1NVTkpocFg5aFc1c2xUV3MxVUZYeUVRWnNLVGFTZzQ0T3NrX2NlUUxhenhmZVNaQXlPcmNIUDZ5Q0pUZWkwMTFMLTgtSHBtTm9QTWt5enRR?oc=5",
-          "published": "Sat, 01 Aug 2026 18:21:59 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLWVJVUJlWThhQ29QRFBhTzFLRGl1RkNOS0dKVGg0OElYVFh3YkJXaGI5Q3R2Q3pXNlpuejVuUm9JZWdFSXJmUDc0SGgyVmZlV3B4TE5iZ0dUYTlYaTBQZGZ3WUtCR3RtcmZ5LVJxazVnWXZHa1Z1TnUxNXVoRzNxZzRybTVDWnEtdXRteVZ1NHVvRmY5dDV5cEIyc1RlcG5QMko3a1M5b2s?oc=5",
+          "published": "Sun, 02 Aug 2026 16:21:33 GMT"
+        },
+        {
+          "title": "Samuel Giger: Schwingen wird zum Vollzeitjob – eine Premiere im Sagmehl - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3pBTl9hak9TUnNNOEpIQ1hSYUhUTHhBLUhzYTJZYkZZamVpOGhkdmtWcVl1N182TGRqc3dkTVN1UGZQalhCcU1fekNlUWpyelRvUFU1NVU5dEV5LU5Lbk9xUDlvellEMk9PQkd2RGpHeGNxQ3h0dUlOWkwwcnFOeVBUd0R1TGFCZEhUYlBhT1dRRWJVblhjX1NIbVU5Z2NtZW9sMWJwZk8xYkJBQlhVdDNkVW1rOHFBNnc?oc=5",
+          "published": "Mon, 03 Aug 2026 15:35:01 GMT"
+        },
+        {
+          "title": "Europacup-Auslosung der Play-offs live im Ticker - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdlJiMkppS200RWtnVG1JLUx5VG93RzVoZ2c2MnpqQkpnVzVDakFrNnRKSlplTWY4NFdFZFprRG5DbE4xT3UtZXVNSzZRUFNvWVNybUhRaTNXR1RZcDk4OXBJdUFfME1yN0dQY1EyaEItUkE2eG1lRjB4MTNTVE8wVlpYODVaV2JpQ0NTSlA0VXQwaFZ3bEIxWktOaGhMOURqWVl3RHNxMjZTTTlzNVE3aS1JQ25PMnhlYzFTMVNqcHFVM3c?oc=5",
+          "published": "Mon, 03 Aug 2026 11:00:06 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "«KI verzeiht keine Sicherheitslücken» - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnFBaUZnektvMmIwSzM2VW9KSHpCWDlucjh0LVR0aXRPTHZCNzhQZHpDX0ZuQmJfRVdaNVJsLXZ3MEgtMFZxZ1lXTHJFMW5ab1R1dU42MGxQZGt6dUF0SE44cENMWElNdFI2OThaSUpYOHNRNHJSSWJqMEl3cVN4N1hWcGlFZjF6YUtESEJOdzVmVzdLM0FpaHpSdENDRzBaQlNOQWZJc240SGIx?oc=5",
-          "published": "Sun, 02 Aug 2026 17:03:39 GMT"
-        },
-        {
-          "title": "AKW Beznau: Axpo fährt beide Blöcke wegen zu warmer Aare herunter - 20 Minuten",
+          "title": "Cyberangriff in Liechtenstein: 31'000 Datensätze gestohlen – «Super-GAU» für das Fürstentum - 20 Minuten",
           "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS2h5NU9tYlBZT0NkczQzX1RzWXZqRWxHMTUtSno1OFhYazNCakdncjNCUFVibGdXc3FnOWYxaWdsVDRCeEIwelUxZW1xZnFrQkZqbFJ6SzA5U1ctcFlPZnI1V3cyemRRSmcyZEIxdm13UEl5UzlKSVZKTmFKdDl0X245dGI2R2NlY3BNWlVRRlk3cjZ0bHNucmJYcnNJT1R3TEw3Mg?oc=5",
-          "published": "Sat, 01 Aug 2026 07:55:21 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV00wZjBvaEptc1h1OVl2amdOZDg3V2h0YVd3dzR6ZnJ1VmFRYzhLQXpvR1loSUVwMGRHaEdwcmd5T0phaGtFaVpucG9WNGZIRmZPYlVOUGd2NGlTTERzRW92My1yX09veXNNcWFFN2g2bjY5ZGVqRXViUzhwZFRrZ3p5QWVwWnRuUTlVYU0tR0RBemxMSlNKRWxxQ3p1WV9ESmp4TVBUMU9aYlBQMkhn?oc=5",
+          "published": "Mon, 03 Aug 2026 12:26:52 GMT"
         },
         {
-          "title": "Ein selbstironisches Experiment von Franz Hohler: Wer kommt besser an, die KI oder ich? - NZZ – Neue Zürcher Zeitung",
-          "publisher": "NZZ – Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeFFfWHdHZjJYQklSREV0Y2lKNGlaTkg1WWxyTFg3Q3NWY1FrdWxHWF9RZ2FWMzdERG9NeTRCNDdDZ3l4YlF3T0EteHBxU2x3ZExDdWl6QjM0NEFCTU5jTnB2NDk4cnhnckU0SjUtSnE1NndCN1gwd0lJcFQ0LVJmak5RU1BXZw?oc=5",
-          "published": "Sun, 02 Aug 2026 03:30:00 GMT"
+          "title": "Bei der Swisscom-Marke Wingo steigen die Preise schon wieder - srf.ch",
+          "publisher": "srf.ch",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZVFsRnlRck5zb1Nkd19TWllsQmJuNzdyU1dSZUEweDF6UkdRaXIxWGtPeWxuWkk2Q1pkX3NxN0E0VGItZWlzWGVocFZzNlp6OGRpWE5fLVFNU0ZsdUxtaFk2SE5oQ3B6LUJvY1BUZVVRY3FHVnc0TmIybndsdEoyRWhfaE94NEpkdkJKRnNndklmU25OYzlQNE80dWIzTk51ZC1heUNMS21KbTQ0ZVZZTHhTczNSV3QwRTZqZTV6TDNBSzE1TmtJWnpTM2IwTFJ0UG0wZXJua0hvc0JMZXc?oc=5",
+          "published": "Mon, 03 Aug 2026 06:10:00 GMT"
         },
         {
-          "title": "SRF prüft Podcast-Auftritt seiner Sport-Moderatorin - 20 Minuten",
+          "title": "Mysteriöser Einsatz in Solingen: KI vermutet CO-Vergiftung – Ursache bleibt unklar - 20 Minuten",
           "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2tXYWt3emlFT3ZEUWFaanp5bExsVXd5MFQxcTZja2JJX2tyaUZWWUdfZEJraVdndl9GVkV0VXR4ZzVrbXRaR2RhODhHM202dno5NThvY2JQUW1jcWRVTUxiWUVrNTN1Z3pnS0lTYnVyMTZ6VGlwMEVhWjJwb2dhNTl3ZHpIZk5CTzlSdW1WcUhPd1czQmhFcFFXWQ?oc=5",
-          "published": "Fri, 31 Jul 2026 13:26:35 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1RncmFGQXJ0eWdMQWFPdjNMdG9pbFhFWWJ6SXpTSHdVUkprRlJYTlB1WnB6cW9pV1NiWDluTXlFeklNNV9mdVNoWExCd3pKOUZ4VGpjTmdHTHIwVzB6TzR5bUxIdU1pbWZPQTNYVVhzSjdyZDVydlJSR0pmcUZnbEJLcXVjMGVxeF84dldMUGlSRTg?oc=5",
+          "published": "Mon, 03 Aug 2026 09:56:12 GMT"
         },
         {
-          "title": "Cyberangriff auf Liechtenstein – 31 000 Datensätze betroffen - NZZ – Neue Zürcher Zeitung",
-          "publisher": "NZZ – Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaGlOWGpYM1JuVzhKSUhzeDBrY042Y1lqTG04aWVXVjNQOWx1dmp3bzZmVDUzcEJEdXRkQlkzX2cyekh1WW5FNTQ3alpMQS1GX0ZhSXFsdkNyNm14TUlaamhQWGNUTzVpZE4tX2w4Zl85SzRPaXM0OVdZa0Z5RjNiMkEyVHZvQUgxZ1lKSUdIYzVtdWZqM3RrVXRCQnR5ZFk?oc=5",
-          "published": "Sun, 02 Aug 2026 18:41:53 GMT"
+          "title": "KI-Startup verspricht Bewerbungsgespräch gegen Firmen-Tattoo - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblJjcmpQWHZfZXBFY3VJcDN1RTI2NGlQbGE3WDhnLWxOOW1tZGdySlltLW0zQWFPakJKZFVfNm5yOTRaZzdGdnhhZmpRU1l3bUJ0VnhSaVJ6UXppTkhObTU5NlR3cmdHSkl3bWhhU09CeGJKQUFjVm40aFRVWWNyU0F5U1NEUG1ZVDRFQXhPWGp5QkdTWWVWODc1d3g4LWQ4Rmw2akJyYmNiVnVZSnQw?oc=5",
+          "published": "Mon, 03 Aug 2026 17:51:50 GMT"
+        },
+        {
+          "title": "«Was wäre ich gerne dabei gewesen damals» - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYk5NTkhzOHdWX2Q4ajdfMUtiSDFuM0tJZmVzdEVPUjN6azV3NXdidWVmLVNPSlQ5WTAwQ0UxY3ZfelJGNFpCalBOaUpJMG5GUVpFLUdFSzBBZDdhYzlsUTlxWDhQV3N2Z1lVeGtfX2N2Yl9IQ3AweEd3YmNLWW53MDJQRlJXTXFkV00ycHVERQ?oc=5",
+          "published": "Mon, 03 Aug 2026 03:18:17 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Real Madrid thank UEFA for 'protecting football' after FIFA abandon private equity proposal - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNGNBRmJ3VVdSMmRwelZTY1pkd0s2a1lDa2UzTV9ZWHh3TnRGa2ljdXg4TXl3M0U5S0ZwN0FJNzEzWmlUNjcyZzlUbVNTT3cwSUFqc2Z3aDVyNm5EOGMyal9MaVA0VTN4SGZpeEd3NWRVT1JGejY2eDhUNjItckUzbjVJQm5USUpydjFMb0RwNUJ3a05jdWlVbWxTeDZ6dzBBMHNNaXcwNkNPSDM2M1ZOa2t1ZkgyYjVpRzA1VHpSOTVOaG01SVE?oc=5",
-          "published": "Sun, 02 Aug 2026 15:51:00 GMT"
+          "title": "European soccer body UEFA warns FIFA of legal action over Infantino's failed World Cup sell-off plan - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1lMdTNycFBsQVJid1UxY0RFd0xEcVRKdW5MM2NSRGlLUTVraUVtU2xuMzk5MGFUVXhzd19XUXJwajdiNTIxX3lGSGF6UlhLODdwbjhzc1d6c09DbWZzMjJyYmo4ZXBSQ1lRWEtSeHFBRjF2UDM4NzY4OFhGX3ZXS1h4YnFXU29WdS1jTE12RW1YVmNtZUliT0E0WQ?oc=5",
+          "published": "Mon, 03 Aug 2026 15:53:00 GMT"
         },
         {
-          "title": "Inside the week that shook Gianni Infantino, FIFA and the football world - The New York Times",
+          "title": "U.S. men's national team coach Mauricio Pochettino will stay through 2030 World Cup - NPR",
+          "publisher": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTlmaHY0VTlLX3N2dlZxSVVCN0hWazE0QnVzekdlZXFqb2NBX1EwYV9aaVhIOFZmSFptVDBWM0pldHZma3JHaUtzN2xITFkwd3NQOF9IU0pLbldNQktJODdKeTlRaXc5cVFUMGViYTZiZDRkRnlab09Fc1FWaEZKSHcyY3dzTFlvTnRZb3p3?oc=5",
+          "published": "Mon, 03 Aug 2026 14:05:24 GMT"
+        },
+        {
+          "title": "What does UEFA's loss of confidence mean for Gianni Infantino and FIFA's pending elections? - CBS Sports",
+          "publisher": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZVMxY3RfUVFIOGxSVDRaSzlVSm5PRzlXVDBFdzlHdl9SR1VxZG9pREZYZXFmQmJqak1JcTZBNE9FdG1ybVRLZGFrQlB1Wm40clVlVHJiQ05KZkQ0QTdlWU1PSHF5UFpxSHVZMFllMGNrd2RfdXh2U3piSjQweXZqMWE4WXZ6RXkzSTFlcEFIYnAzLW91M3FtaTZR?oc=5",
+          "published": "Mon, 03 Aug 2026 18:16:38 GMT"
+        },
+        {
+          "title": "English FA to withdraw support for Gianni Infantino’s FIFA re-election - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjJ5RlB3SUJSWkhmQWVrZ3JLX0JhQ0FLbXd1RHM2Tmx3Ui1WYkxmbEFMVm5MMjhBZFBPVW5velhYN3NBYWdqTVNvb1dBZG9ycjR3UTFaeFQ4VWlEVEFsNm93eFN4SXZjN0xqRFE4TEpVY1UwMUN1b3NjTjdaQW1Hc19CTXlfVXlWWjJmQkxR?oc=5",
-          "published": "Sun, 02 Aug 2026 16:34:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2x0SDB6eUE0LXNfcDRSWFpWUWY4ZTJuMTlMMVNVSV82LVQ4dzFuakk2bmdXN29iUXIzWHg1OVdTZDZEN3IxTjV4bjA3cmdyeWVja0d1RkRGNDBhY2VMVEJiNFg0bkk4NDFYRmNHVDIzSGRqNXBoallUYWR5d1RUdDdwVHdLTm01WmdvcXdB?oc=5",
+          "published": "Mon, 03 Aug 2026 16:21:37 GMT"
         },
         {
-          "title": "Statement on behalf of UEFA and its 55 national associations - UEFA.com",
-          "publisher": "UEFA.com",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLVdUcDVVbjc2WkM3U3dzZnBXVUxTQWVIUmVveG9DaklGRHVKeWlRcTkxWFB5NmZhck81aWtuemFtVTRrQV9CSkNnNEs3Wk1ZVkhyalNOTUstV25YQkdpMExXOGppZ0c2RkQxM0lqZVZ1Rkx0NXNsVVZHOU5Xb3pxVmpFY1pFSzRBX3VMeVBFQVNNdkxEeWpmRWk1OTJUUV96QlpBbkRZN1pPeV9aelBoUmxCMHZhUC1DTTVKM2lDQWhhYWF4NTdxNmZVVEFnSHBy?oc=5",
-          "published": "Thu, 30 Jul 2026 15:23:28 GMT"
-        },
-        {
-          "title": "What I learned about soccer — and myself — watching the World Cup - Belleville News-Democrat",
-          "publisher": "Belleville News-Democrat",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yOW1ROGNhV2Z6V3ZjNThHb3liN1RoOXkydVVuZDBxa2pMZlptNW41MldxaFQ5bzhWcGlKU3BqS1JtaXplU0M2a3E5dld2MXRhSF91UDhvVUdUNk10Z1HSAV5BVV95cUxQNUhDMU01THpOT3FtaXZTNTR5aWFhZ2d3MWVseURvWEpVelFkZ1g3QjA2VDlRNUNtZldIdUpjejZONkxBNTg1RGJfQnZwc2RJcGV2eURmczJPbV9wQldR?oc=5",
-          "published": "Sun, 02 Aug 2026 11:00:00 GMT"
-        },
-        {
-          "title": "From Erling Haaland’s raccoon to dreaming of Vinicius Jr. at Arsenal: Five steps to becoming a soccer nerd after the 2026 World Cup - Goal.com",
-          "publisher": "Goal.com",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMjBHaExPSHktTTNBeWJ0ekxqcmsxS0F5VXh3V0NtTVhNbzMyTk1Qc3FqQ0FiOEFNdDFBTTBwZnRnS3p4VFozWlM3WUVheE0tNHphSHNhcmxUckd3Q2N4Y1JTdFFMN1dXYmllOUZ3TW90MVMwXzFtOXdUSGlDY3ZxZlVtbGxWeVg3dC1qQkJWeGpJeDJzR2hwYU85NDlUd205cVJnd0JJYkJLQlZyaVF0SDBDZVFfZ2ljV0g4S29tZWRmaTFoRHBpTWJBUF9MdTZDQzBWX0xDcUJXVmtFMHBCbkZKVDV6Zw?oc=5",
-          "published": "Sun, 02 Aug 2026 15:23:09 GMT"
+          "title": "Mauricio Pochettino to return as U.S. Soccer coach for 2030 World Cup - NBC News",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORWFiNzlzRW9mRGdpVXR0ZnNPT09XOW96Mm5QTGZaUmFPVy1Md19tQjlsOGxVUHBiRWpEc1BTM2Z2UzBiUEh5ZmNwV2VnMkx0a3RVa3VFdVQ4eEhhS3MtNE9xb2Vrdkt4ZHdqWVRXZS1JbDRNbGgxZWxkbUNyVXBOOXRVZ2xDS3ROcDZRTEotXy1WaFJVUGxFZWl4NU91NllHMGNuZ200X0hOUQ?oc=5",
+          "published": "Mon, 03 Aug 2026 13:56:14 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "‘Spider-Man: Brand New Day’ Scores Second-Biggest Box Office Opening Ever With $355 Million - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXNfYW8tZ1RaUV91eWVUaGF1NHJxNlBfemdicFJfMmhReEt6R3dURjZuOVJlQnJoLWY2ZE1scll0Ti0wMTZYazV5UkRjNW9mSk5RTjdDVnpGRnA2WGFKOHRhdUo2b0tKUUNGd3U0R3k2RkNDZXVhVjJ6b0k0OUVoTk9ELWk5TWxQbURxWTJQT1NJaDFXX3pDUmdSdGNFTjRRMC1idzk2MmFEWEtqU2w2aXB6M1FiMWN3ckhrSjRWRThfemI0OHVYQURRSngzVFFyUm51NHJKdw?oc=5",
-          "published": "Sun, 02 Aug 2026 17:17:15 GMT"
+          "title": "Kevin Feige on ‘Brand New Day’ Breaking Records, Sadie Sink’s Reveal and Tom Holland Getting a ‘Restful Victory Lap’ Before a Potential ‘Spider-Man 5’ - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRmNOWkpVUmp2dURzZjl4MXQ3MnJXU1RZNE93TERhVGduQ1lEc1pxc1VEZUlqQUFtbXNUZEYxRVB4QXZuc0pKSlZ2dEpxbmVpcmNXY3VFS3FLaDk4blVsR0dHTF9vX3FOdWk4dV9Db05BNWtHeVItV3RiYVdkQkkyeWt4bk81VVkxdENoQ3k5V0FnUnR6SnotU0xOc2ZjaGYxMW9IdQ?oc=5",
+          "published": "Mon, 03 Aug 2026 20:05:00 GMT"
         },
         {
-          "title": "Ariana Grande Exits West End’s ‘Sunday in the Park with George’ Revival Amid Tour - Deadline",
+          "title": "Ariana Grande London Musical To Continue Without 'Wicked' Star - Deadline",
           "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc3NBeTY0RUxuQzFobGFrY3hCakZMOHZSUXExUzhnMjFJQ3NiSkwySkNSanRLY0lwWDhabmtSbEh2SmlOQXhLNGNtb2hPT1l0Rk54RWk2YzdTWXYzS1VQeVJOa0ZFUDNvOEtzemVvaTJpMElITWJmSUtLbkUwREJnLUw1dXVYX2tKczZTbVF6dnBGVmdIMnJBUkVCMjd3TFlzdlE?oc=5",
-          "published": "Sun, 02 Aug 2026 19:51:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWjc3TTgxMTltaGVhQUJMZzE0WURCdnZaSDB2N3hJMmdBRjRSLV9taHdnOTR5dDRCR3VtTW9RVlJCcmQ4YWg5aXZscnIzQUVkWlZQT0R0LVo5VFAwZk1XeWJFM09iY3dwSFNPSThIVkp0ZTB1Z2ROQ1B3RlZuVzZUczloWlI2QmU2UFVldk1zZ0FMenkxdVZoRE1wT2k?oc=5",
+          "published": "Mon, 03 Aug 2026 13:04:00 GMT"
         },
         {
-          "title": "See the inappropriate messages Modest Mouse guitarist Simon O’Connor sent to underage fan - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQU04YXN5WXZiZlhXME9wMnBzVVJUeGs5dEI3b19rNDR1T2N0c2loV2I3NGhxajNHRk9SdDZWRFQ3VXJYTkFGTzA4dFZZbDNmWkJqeWJFeDJpLXAyTWlCMmk3cGxIb2hWYUJpcWhKd3hVLUFDWUMyLUw5ZElzcGNBcVVLZUsySmQ0eFlONVlPVUFUUmZ4Q3RqY0x1TXpuUHNGdThUc0xTeURUNUx0ZWZHVXJpeC1YSzZ6N0hrZDZpc0Y2ODc1ckpmQ3FpVDJ1eV9X?oc=5",
-          "published": "Sun, 02 Aug 2026 14:48:00 GMT"
+          "title": "Lollapalooza 2026: The 11 Best Moments - rollingstone.com",
+          "publisher": "rollingstone.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2RJakJrRjduXzdxUGlYMWMtdlBUWjVadTdHdzJMR2padWxHZi1BWUtzOTVWSmhQYmFKNzR3MVhsb1R4WF9QcXpzc2lZS0xSSHVCcGpuVUhzNlJzRWgtTkRfQ2ZzUnFFSUIwZ1FTSHhGcS1ucXdlRXdCVTJmbmVFMEpKYzQ2STdxQkY4YVhTRS02V2p1MjZtYzZhSERDTXp5RjVwa084T2VDVjVSdl9ia0o2cTRfSDVoLW5V?oc=5",
+          "published": "Mon, 03 Aug 2026 17:40:38 GMT"
         },
         {
-          "title": "D4vd: Resurfaced Video of Singer Wearing Fake Blood Stained Shirt Goes Viral - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR3pMYTJVWmt1WS04WS1SNzdhNjloWl9JMVlmcFJNWUF4YngxSzBWcmYzdVVuTS1VOUVYc3hKV3ludERVVVpOYTZCWmk1dTJMa0wtYl9tOU1oVU5HVkhudnBQUGEyNUhKZGMwNzkwemtETXJ1WDI1XzdRUXRRaVNJeVd3?oc=5",
-          "published": "Sun, 02 Aug 2026 21:17:49 GMT"
+          "title": "Sidney Starr arrested at Fulton County hotel - FOX 5 Atlanta",
+          "publisher": "FOX 5 Atlanta",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYjI3cU81T3VqQ1RhUXF0OF84RDg1LWVEdUdxMi0zRlNsdEhCdEJsdnBZaUloRlFmTGJrMHRub2xhWFdMMGV4MUVValhOOS1WbzBIamVpTExnaEVjbkRVVV9qVTBzenFwZlowTEtCNkNyS0QwR1hCMmtUMmphOHkzUjdnU0hHRnhaX0pDWjhwclfSAZYBQVVfeXFMUDJ0d1BhMUhRQUw0WS1qTVFab2ZHSzMyVU53a01DdVdOWXpMZWZXVHZndHc2VFhYVEJSYjFnZVZwR0d3Nm5GRXlndWRUOUlSbmtjN0xEbkFTNEVyME1rNV9QV2lFRHhOQWh6TlM2S2xGUlJRTXhWWHVYbWRkZ2s2cGxoQ05nZ2d0bmFhMVFBdk85M3I1cWZ3?oc=5",
+          "published": "Mon, 03 Aug 2026 15:42:11 GMT"
         },
         {
-          "title": "Sandra Bullock Shares Never-Before-Seen Photos With Lookalike Sister Gigi - instyle.com",
-          "publisher": "instyle.com",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1FPbExrMHpQMWROWEh2Q09WZWgzb1dqQjZVNGJwbFpUNGhjVmpKSUNpZS0xZmRoRHBlZnhacVYyUUptd1V0R1QxSTVidUZ3VE9kc1dhZUE5bTMyV1pZeWxNdVFSb1o1RU1Ua29pX0hGUkN0cnJ3QjQ3clAzV09RTDgtaWw?oc=5",
-          "published": "Sun, 02 Aug 2026 17:13:57 GMT"
+          "title": "Amazon’s ‘God Of War’ Show Will Apparently Recast Atreus After Recasting Kratos - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ2pqelFSSTdMalFYUlZ4amVqUE8zOGxBaldZTkpFRXF0ZlY5LXNCNXBCcGdDRXlsUVdPcFJaT1JqT3ptc1ZSRGh3a0RQN1psbXhoNk45MVFmTFNCWnBMY095bThMeE5KR092T2tRNjB2V3hSS2xqSXFYVzNQdVVKMnFaUkNvXy1TUFBWdXpqZGNjQXJQYzJ5TndyM3hiTlM5eWlCYXoyNkF0bXRQX1dhOV9PTUZxdG4tMGgxWUhJbXh2Y0hDTXc?oc=5",
+          "published": "Mon, 03 Aug 2026 15:24:48 GMT"
         }
       ]
     }
