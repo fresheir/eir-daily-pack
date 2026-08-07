@@ -1,7 +1,7 @@
 {
   "market": "CA",
-  "generatedAt": "2026-08-05T22:56:03.335984Z",
-  "validForDate": "2026-08-05",
+  "generatedAt": "2026-08-07T01:29:01.670984Z",
+  "validForDate": "2026-08-07",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "What you need to know about B.C. wildfires on Aug. 5 - CBC",
+          "title": "Evacuation order expanded, new alert issued for the Quilpituk Creek wildfire - Global News",
+          "publisher": "Global News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOHM1bnZXSEhsbkhxYkJaY1N1YW5OVEJ2TWxtSU1xTjVqQkF3OEpjZzhvSWg2czNtcUFwcm0yM2ZGNlJlZVItX05wOHRuemNTOS1BT2VJbDgxWk5ZelpuNTU5dHpCNlluaGc1TnNWOUtwb2xfT2t0WE8wd2tZRl9XSE9feFpBWDAzN1otcGI3WFdxaDE3OXIycEJFM1ZieDliZTFORWhzVDE?oc=5",
+          "published": "Thu, 06 Aug 2026 23:41:35 GMT"
+        },
+        {
+          "title": "72-year-old hiker attacked by grizzly bear in B.C. - CBC",
           "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnktU2JfMDVIdDFFZkc3ZVJva2hxd3U1NExSWkFmc2pZSmRxNS1LN2JrSlBxd2xnc2NjZWhucWZmeURsbXFOMm9QRlVyeWlnZU5jbXdtd2xnUnB5aW4xYkJYZE5JVXZaNnQ0N1RUUTlLSlBvN2pVRHFTbGpCVUhmZ3JpX1hreC00NFVvakF3N2wxbHY2WTFaUkQ1RUZCdC1yYWxnVXBULTBFVHRv?oc=5",
-          "published": "Wed, 05 Aug 2026 20:08:53 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUDhxOWpjR3k3ZkRBeGdVZHpHdHppeExTRTdWMEx4dTVrLXZXRG91N3Z1OVBwbF96VkhaVXhOZ19JTUdQbFlVdUlHQVM0c3VuR2V5bG9ncWZTbjBaVXJ2aU5MMWdVRFJtSlMzejdPTFp0MVFnendpQVZ6YnlCWEJYRVhyZzI4UjMyckRjTVJ0RU96Zw?oc=5",
+          "published": "Thu, 06 Aug 2026 20:16:05 GMT"
         },
         {
-          "title": "Hiker missing on B.C. mountain prompts large-scale search - CTV News",
-          "publisher": "CTV News",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObXUyNGNoNFZ6ZXA5clBrczYzRkdqcngxbDJCTDlHY0dKWGRpMnJiaVZrdVpNenFRR2J4NXZ1dzNoandfNG9zbnVZSUhLcWFucEw5Q1N2RGpQdFRKNmE5TjVwN2JUcjhQZmZHUE5UamdLdmpiZVE3Vk95RmdjM3NwNnNMQ01CY1BITldXbllzVzVXMURGTng5N21BNS1UVHBh?oc=5",
-          "published": "Wed, 05 Aug 2026 16:27:52 GMT"
+          "title": "Granby Zoo issues warning to visitors who may have had contact with Japanese macaques - CBC",
+          "publisher": "CBC",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSFM5NkNjeDJjSGR5RmZleUFxeGFJSWFVZWkwTTJzYXFFdWw0ZVFicU5sd0twR1NfaUpFSDNNRzRGRHp5c0M3dHlMVHpzM3h0cmM1RzczejFnamlKMlhWaElOMW1DT1lUcXotaE5DaXFPS2RyRnpZLWhUcVIxRGs5bnU5NEJtb3NsT2JyXw?oc=5",
+          "published": "Thu, 06 Aug 2026 21:16:57 GMT"
         },
         {
-          "title": "Carney promises $2.7 billion to build rental homes in Toronto - BNN Bloomberg",
-          "publisher": "BNN Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2RMTk1Iekl3Um80d1kxa05kX25sX0hYOWFyMG5VbVZBNzI0S25QZ2JMcFI0M1lUUGZfVHd2U29DdU5uYW5pckI5Qk1wOUgxcGdIWW1iWU8xMHc3cHBhcnRxRkRKb3Z4QlcyYy1yWVlGUkllaWQ5YjVPSmwwaHVvODU0Sk04YjBiRGhGRUlkYXBUSkNxSkdlMC1YRUVZT1RWMmpSSjhOcGN2TFhIRlZGMG8wWF9xM0NHT2c?oc=5",
-          "published": "Wed, 05 Aug 2026 20:18:01 GMT"
-        },
-        {
-          "title": "Canada ready to ‘get tougher’ if U.S. trade deal isn’t reached before deadline, Carney says - The Globe and Mail",
+          "title": "Carney ‘not interested’ in narrow U.S. trade deal - The Globe and Mail",
           "publisher": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZy1oc01vVkRaZl96VWdBdVpla1BZczh1eEZ1dnFuVm0xeUFVY0VyZHdOLTFCZ1Z0cnFtRHNLVm5meXlaQUZ5UDlhbjZ6dGRWWENkanFnVUdxcTVhaVh4c3JZSGNLcVZfLW9mQ2Z5TVJpMVN0SnRNRTNocmRad0F1dWliM2pQNjdJYksxcXhzek52X0Jxd2o4ZXpaaVlwc3VNWkw5LUh6SQ?oc=5",
-          "published": "Wed, 05 Aug 2026 20:51:43 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWRiNy1LYWVsZC1RWGl0VFZKY3RINU10dnNqX3AwOGRPQVQxLVFjWGpIWWFfaTk4S1ltSG96XzE2M2hNMGtvcE9PR2lKNTNRT1ZjWUNzeXV5S2hhc0JLY2c1Z3dva2JJNFZnWl8zNHpOVkxHZTlrekxfWTF6Z0Y4SVplWEFwaloza05RMlI5LTZXSUlJZXBGbDVn?oc=5",
+          "published": "Thu, 06 Aug 2026 18:10:45 GMT"
         },
         {
-          "title": "'Everyone's in a super great mood': Dozens line up to walk, cycle Gordie Howe bridge for 1st time - CBC",
-          "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2NzY3ozZGVIcF9EaW00MHVGODhaTGs2LXFaQklCQ1AxVHBPU2tfMkdkRlBxYklvZXZSZnJSMGg1NjBBMFBmZ2pZWmdoTHRaT1NyRTkzYTM4eXVUWkZpVDd6aWlHRUtZYUo4UjhhWW1oYjhpNGFFMEZxRG1LbkpxaGoyMDdFNkt0enlwdzYxaHU1alVkNGRlbGlQeEljQQ?oc=5",
-          "published": "Wed, 05 Aug 2026 14:29:02 GMT"
+          "title": "Toronto police charge two teens allegedly linked to gun-for-hire network in latest U.S. Consulate shooting - Toronto Star",
+          "publisher": "Toronto Star",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRUxsSEUzblVSNWp4ckZtNWdtSlFqUDkxTHZMRjZFMUJYeERsbzdHS3FnWXp0WmgtWGJMOE00QmUzSnhSWGpKMzlxakFqZmg3U041aFU1ZVdCRTRvZHp3SHdrNVhvZFZNclRMa0l0SVRCYnhsSWw3T2dzVGU3Qk9hUGMxSmgxeGJKNUhIWk1xZVBlM3VHdWNtcllsNUcyXy00ZklMTnF0eFJaTkNtb1hoWXpwbGMwcUxkLUhIV0dpNEZwUEpVS29ScHBYNVZyeHY0Z2JlajMzUG5sZ3cxVUZYMnNGNl92ZHR3NVE?oc=5",
+          "published": "Fri, 07 Aug 2026 01:01:15 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Abdul El-Sayed wins Michigan's Democratic Senate primary in major victory for party's progressive wing - CBC",
+          "title": "Trump targets birthright citizenship with newly signed executive orders - CBC",
           "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3FkdWlIVVZTTllrc3dEVDg3N2c3bVJWUlAtMnhjLUc2c3BhdXY3dmNXWGpCejRHaFlBUnR3TkkwNW9tRmFfV1BmVl8wbUpZWmtyTWR2cnA5cTFLVUVzdWRfbGRxbnNoeGVWYzBFS0dQRWc0S3dvZklsV1BlNUFmMmxTdGFXSlBJeDFnTEVyYWttbVBPUlBPNmtJS0E?oc=5",
-          "published": "Wed, 05 Aug 2026 17:46:32 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVzBmQXFuSnY1UUlIQm5ILXVzTDBtSDZGYjB4aWFWUTkzcHZpY3IxbjNRMWoyWWYyMnFVRzBvSEJyUWEzbVhfQ2NtempGWl92YjdyS3VZVUE4NHFmNEFSa0JLUTFKNjhWcjVkem1oOWxOYlozXzJlOFFNanlOajliMFQ5Mnd2OE1aNkxXcEVR?oc=5",
+          "published": "Thu, 06 Aug 2026 21:39:00 GMT"
         },
         {
-          "title": "Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’? - Al Jazeera",
+          "title": "US Senator McConnell says he’s been discharged from rehabilitation centre - Al Jazeera",
           "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTWVUeUlqal9FdUZQUkdlV2QxNG5pY25sYlVTUm1nazZpQVNlbXpFWFZJbDdKd2tiR3dVb1RPOExaeXJIWG9ZLXpFWWtXeG5PbkRmNWFCNEtrLWNyajJBdUxoRjZTZ19iSGljakNkWVhnVlY0UTNFVVBNRFM0aWJ6UWVGMVRObXVtQ3pTYjcxTC15SG5KRUhFbUUycUZmdG1LNzV3ZmVzc1A4cUU40gGyAUFVX3lxTE1NZzdZQUNRMmFIbDJfOGVUazE4YjF0TXRLTG5EM3dYSGFLWFdSemNOQmhVY0IwRjFqMjdGcjNQSTNDdXljNVdqS0FwX3l5elJvVkw3ejA0TllVNURvUXQwS3hQR01KZEFOVDVJaF82QTcybzJQNmpoN2JjOWhfa2tsVmk1aE11SFRRWldzUVRFWDRJWHZfOWVjUFpzZmt5d0w1cjBqZ3AyWlVoVlBYcUo4bUE?oc=5",
-          "published": "Tue, 04 Aug 2026 16:09:32 GMT"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVU1iWlhESE5vc0NIa1ZJMWpTNzFBR3VYX0FINHh1VVExc1lrOWZpOUNrcGJ6cTZONnJNMkxzQWFoZVVWTkhvbzFaTFZMQW85X2czcWFNUm41WDU2N1VheHZiazFSd24yT0d3cmxEaHRrdWpaNlVEM1p1Qk1XQXRKelA3UmhBT1ZLWTJfOG9iTWVvWjVYN1pfU2FHVWk0ZWRiekRUeFd5VzFMR0VQcnhLU1Vn0gG3AUFVX3lxTE4xaXRQcXJYdTRBM1VnRUNvdFlGcEVqeXZockVJWG9aV3lqTG0tNVNLd3VUWERZanRBZ1pKeWNCRmR6QTR2Q2RXM1JfeDJKXzRMZEY5WHFEN3B0am5BSmYyZ1Q5amdSdVFsN1FYOW5zRWlwajNMMDJXMnJRRjFSeGxELXlhSURHenlxbFI5aXFsaFBodUxUUzd3R2J4eUxhN1lXeVJ6Nl82RDYwV3V5aTVNbUotR0hCSQ?oc=5",
+          "published": "Thu, 06 Aug 2026 20:39:50 GMT"
         },
         {
-          "title": "4 men stabbed in central London and woman arrested in what police believe was mental health incident - Castanet",
+          "title": "Houthi rebel attacks kill at least 30 Yemeni government forces, officials say - Castanet",
           "publisher": "Castanet",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUGswT2NOMlZ3NkhEVm1JRGczT1ZuSEd6RVczY1c1THhtU2lYTWFvLXFEM01uVmJWZ01naG41b2dvaHRoNXhxdlhHS1BtZmI2ZEhEV3ZvejI3Slo1RkxSWTdYdGd3alRLYmo2RUhJLWYzcTZ4TndBaTNRdE1ETEpTX3VDTEFMc1pMN3Vra2QyX2lNOVBrVVNwMWhzc1EwX1p4U2QwNWk3OWdxa0pKdW1JVXpDX3Y4X1QtcDBlM2thaDlmVmxPcURvZGNYbExjQ3JGTmZ5MVB2VVIyQUU?oc=5",
-          "published": "Wed, 05 Aug 2026 14:52:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNnhna3hqLWZoYk56WkJnLVVrOUJHVDJQUllhT2xyTWY4Sko1NEhqLXdPakJ5N1dYT0RzR1JKZjZFYmViajFZNGEteVlvMHZmTmJqSXRkTHc2R3pFMjB1WW1vQ0ZaSkZBem5KbDFpYjV4TUVDX05JbDFCdFJBcU1iMjNHWnNCU3IwcXVzNzVHWndJLWptMnV1ZGxpSGZGOHBhWENBTmxWMkZCalJBOWcxUWUyZFJDbHJpV1k0?oc=5",
+          "published": "Thu, 06 Aug 2026 13:37:00 GMT"
         },
         {
-          "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday - CTV News",
-          "publisher": "CTV News",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUlk0aS16bXVmVFlTUVlxZ3o4eWdzR043anEtQnBzNy00ZGR2QjBDRnFzdE9pTTl2M0toZVp5Zl93Q2twNk5iNzRSQkEwRklDNkJVQVZWN3RWWTREVzA0U0o3U1o5c2JGUGpUT0tqLTFTN1pNTk5QaTZtU1h2NE1CUnI3cDNsQnRNc1hRbkdvRlNJX0g5Wm9yQ1ZkX0J2T3lxdjVQRWZ0aU90Uks0aE5IN21XRWhUdVVyV1NMMzlqYk5KVUdLTlF4OUVB?oc=5",
-          "published": "Wed, 05 Aug 2026 10:54:26 GMT"
+          "title": "UEFA maintains boycott threat of FIFA competitions after Infantino's crisis meeting - TSN",
+          "publisher": "TSN",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeE5fWmd4TkpuUnFTTDNCNjNfcFM5S042VnYwSjlxSHhGZ21nd2FtYS1RTk9sNTkzcURvUU1Zc3pzbWM1RDRRUTVJTGo4VXJ4cnJQZ3lHYVBtRFJWLXh2ZVlkcFQ1c091NVlveUFQZW4zNnpkclJJQWlveDNqWVBGVWdvYlYxVzN4SjdkQldyajBnRTB5eVNBWW4wa3BhcU9XSkZWT0R6dHZfWFZyRWt6UGtibHpnNTFHVEI2bjFxN3U0b3BtaXFManRJVVA?oc=5",
+          "published": "Thu, 06 Aug 2026 14:33:02 GMT"
         },
         {
-          "title": "Russia’s latest attack on Kyiv underscores Ukraine’s shortage of missile interceptors - The Globe and Mail",
+          "title": "Iran, Oman in final stage of drafting agreement to open Strait of Hormuz, Tehran says - The Globe and Mail",
           "publisher": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQemo3eU4tcUNYYko0VDNWblJpcDlGMTdvYTR5YkItMXpuMGxiSzc0NUxnU3pMOHVPRldXdlF3LXNhQXdUMGtuUnFDZnloeFdEanBQOVVmTjRwS1RKZWdtNWZHZjdYN0I2WGpaaVhKVmR2ME4yUGJBSUo1NnFXMGdLRzRqMA?oc=5",
-          "published": "Wed, 05 Aug 2026 09:43:40 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDJ4NnBHODl1MW42eWVYSTlERVE2b1hqNi0xbG14aFU3Tzcwd1FpRDdvTG1GaGJBUDUtMUpfUHJOeldTOTdsQ0pObjN2SkZkbkJEVk03WUlUQnA5bzdVVloyZkNscG9rVDdVLURPSnlTZnd0ZkhKVTE3NEJGeTZMOERnTTM2cGF0YVBhRw?oc=5",
+          "published": "Thu, 06 Aug 2026 15:09:34 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Montreal's Goodfood granted creditor protection from court, may sell business - CBC",
+          "title": "WestJet flight attendant deal includes 18% wage hike over 3 years - Global News",
+          "publisher": "Global News",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5LWhiOC1URHBHU1dZNTMwRlFFNF9oTnY4VkVIdDFOVmM1eUpORm1DYXg2V2wwWXFWVVZZYk1QSjZYYU0yZ2s5R0dRdWxHMTV2RmRvdk9YcGZRMHVfZDFIcWJSNzhTUkRuWTlXc2dQM2p3MkdyTHFrTERB?oc=5",
+          "published": "Thu, 06 Aug 2026 14:35:23 GMT"
+        },
+        {
+          "title": "Alberta separatist lawyer challenging order removing him as trustee for First Nation - CBC",
           "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3JJSUZTdVhORnNzWXRLbjJSSEQ1c0dLRkpMRTBUd1JEQmJac3dqdVZ3TTItQTZPYUtSYXNISk5yYzl4WVhSVUxfS01iem5mRV92bkl2RGZkYXZQbVZqN1paQm9UQzJ1RExER0FzQzdsZ2E1dk5PbVBSNWdIM19reGRfdzk?oc=5",
-          "published": "Wed, 05 Aug 2026 20:12:21 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd09VeHEzRGV1QVZJYVdMTnlOdUVNNTlDTnVBcVlaZF9ZVmx4Z2pOWWRiLXlrZ2VKYW5PSXBsR2xiMUJxZE9rMnp2bVBXNW1KOUlYaTlaRmJNZ0xyQ0pjMVN3dmhFUFJSMWJjVUE4a0p1RXVxRDBKc3BZUWV6dUdJSlRyaWJTc3pfRHRHS2FicndReWNHZXFEV1dBS1NWWEtvb3hySkl5TXR2MmtVLUtWQnF6WjhlUXFKNVM4dlhDRlpzS2c0ZnZBTGViajZzSDA?oc=5",
+          "published": "Thu, 06 Aug 2026 22:34:43 GMT"
         },
         {
-          "title": "WestJet says it's in 'recovery phase' after tentative deal reached in flight attendants strike - CBC",
+          "title": "Clinics, technicians question Alberta's new self-referral method for health tests - CBC",
           "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWJJdzdhWGotXzVSaEtFVDhEbTNVQzZSRUdfUHZfOFNZbWFfejIyMEdhUXFQZnlHTmw5ZlllMmtOQVAxbTluUDhoSTN1NUYwVFBFcnlEUnBONS1ZTGtMMmZkcG1lTWYtZWhQM1VZVlVMR1VlbVFBWWJ5VkhhS3NseUxQZkxpWUt2MVZKUHJfblo5cTd5ZXFaVDJzTzd0MGg4WERZ?oc=5",
-          "published": "Wed, 05 Aug 2026 16:03:43 GMT"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWE5NZm9LV1ZodkRrN3BtQmVKRDI4ak9SLUQ5Zmt3clJTbTR3ZVpDbENOVEZrVDZVRkM4MVN6eE4zVDQwWmpSUzl3R3lQMDVNNmZodnhpNm9CNHo3SFgzb3F2WEo2UFdaMFdQdzRsOWJwZWpUM3Q1TVpZeS1aVUlCYWJkTDVLQQ?oc=5",
+          "published": "Thu, 06 Aug 2026 19:53:20 GMT"
         },
         {
-          "title": "A $140-million hack has bitcoin users rethinking how they store their crypto - The Globe and Mail",
-          "publisher": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVDVqUEVpejk1Y0RiY0NoZ1B3MUhwWi1FVDBCbmJ5emxaRXo5UXFXTXg5anJFdVk1YzZqbktCWTgyNzZnOURpWUVJUVQ2cm1RS2pWVXNNUFN5UDZtZjNwYUI5OWwwRV9FUzdnUk1yZl9xUE5IUm9VX1ZsNjNnVUV3QjhRa3JuN3BhVlBMN3FWMnQ1dzhsaUlzdFh1TXJOQjFMSndoNVJqUnBhd3M4anZBbUdZNGNwNTg1ajFNRw?oc=5",
-          "published": "Wed, 05 Aug 2026 02:01:58 GMT"
+          "title": "B.C. bans door-to-door sales of certain products, strengthens consumer laws - Daily Hive",
+          "publisher": "Daily Hive",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mY1RfcUJrY0VaMHVpdF9RYUR5T2JjeXhfMzZPMzZNS0ZmRGxzSGRWbWtrUnNJM0RsUDhOUFVJZURmalZpME1XOS1hdHBjZGJsdl9fcExUNV8wM004anBwN0ZFSS16TTVwU1VHZkVrT1hMVHJIN1EzZm9xbw?oc=5",
+          "published": "Thu, 06 Aug 2026 17:13:00 GMT"
         },
         {
-          "title": "Most Canadians oppose Ottawa's planned September gas tax hike - National Post",
-          "publisher": "National Post",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdExCWnJOVkcwWk5HNndOLU9ST3pNQ05FRWplMkR6M1I0S3E5UTZYNGFXMkVBWWFRZnNRcktFU1U4WUNLU3N0RjJINzNDZXZGMXlWNjEzVjBZcjh3SWt0QVE3eFNJZHlLMFZOWVlqRzdDb1RWdVUxUm90REp3UFNzQkJKQmVhZTQySEFUQnhsNDZLaGx1NE5kOVZQVlEzdw?oc=5",
-          "published": "Wed, 05 Aug 2026 19:36:42 GMT"
-        },
-        {
-          "title": "Canada-U.S. trade down almost $2B in two years - CTV News",
-          "publisher": "CTV News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWhWR2s4NGdjOFhDVmV1T2c1WkNOVEhDaGZlRzhzb2NxcWdWemFEUFpPdUpBandLb0tJRDNhUDVtOUZwVTFXUkF1MzdBLTVSeXdfYWR6b2pnNGVENndCRXRzdHZSeENYSmNRREZZaGNWb2hoV1pLeVQ0TDRURDlXTmYxOU1RWm5GV0dkVEZpM2RyTW1JNEd1OQ?oc=5",
-          "published": "Wed, 05 Aug 2026 17:18:04 GMT"
+          "title": "How a Canadian company's cold wallets were compromised in a $140 million bitcoin hack - Financial Post",
+          "publisher": "Financial Post",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkFjbUdaSldLTGFUUVV2RkRLTzdiX2dkVTVJelV4a3RWaXd6RzkySWZuSDJJVkVVTjJXMkFKZ01oZGNEczBvUTNUVk53YnlhRUVFb3YwY19MQWYtS2xZQmFTWnNHVFNpRFRTekVFRzhvaEhUbjliUjdpcFFRUkdBcHM0NGFmOHB1MWZfUUYtN2UzQjNPNHpVcUNCUWFDc2w4c0tUMw?oc=5",
+          "published": "Wed, 05 Aug 2026 17:30:21 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "'I don't have confidence' in FIFA president Gianni Infantino, Carney says - CBC",
+          "title": "Kelly Hrudey says goodbye to Hockey Night in Canada as contract expires - CBC",
           "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ma0hkSTYtZDlRUGFGY1gyVWo1RjhPTFhZSkhZdEJ4Slc4cC0zRnJZNDVOWkpxV3h0b3BwS0t3b1ZpSzlIeThtSElRZHVBN0N3bHB6dXI4NW9ZWW9hVi1fT28xZXg2OHNqNXJMV1VhZlloUQ?oc=5",
-          "published": "Wed, 05 Aug 2026 21:15:56 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJVEV1LWdLb2cxNVpVa1R3WFI2SkVSM21ZUUVvZ05fV1Fqa2k3blFDY0VuU05WLWs0VHZITEFuMTZyeFJJVDB0UGhnSXI0eGM5dlQxSGYtei03WUlKNU1vVU95WWtQcUZk?oc=5",
+          "published": "Thu, 06 Aug 2026 19:16:58 GMT"
         },
         {
-          "title": "Canada's Felix Auger-Aliassime withdraws from National Bank Open with injury - sportsnet.ca",
-          "publisher": "sportsnet.ca",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMFlRcUpUWFp3NWcyNXN4RUZ5RWNSVTFva2h6T0F4NnJvMjBxaDB4bFV6dmNjSDZxS0JLU1FxVDN0cUl6MUVISlFpZmRiVlFKWUJqRldYTUVsTU9OUUlQNFlKVlUxODZYMnBJRVROSWwzdHlYaTlPTHB5VVNkSDl1djRUS1FwbkFUSmZaQjRMMkZMeTVIc2EtWTZ6YnVOSjc5MzVBTnpSN3dEUloxd1dSVDZ5aw?oc=5",
-          "published": "Wed, 05 Aug 2026 20:58:00 GMT"
+          "title": "Canada's Leylah Fernandez moves into 3rd round of National Bank Open - CBC",
+          "publisher": "CBC",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWx1MVZkTmxubjB1Yk1OLXhIdDB2SGFybXNLeGlpeWlxSWJRUHhBUUZHbzFFMjhtNUVDMU1nNFo5cEtxUVB4dy04M0FvLVVYdFJXWHVnbzRXSk9zNk51X0NqOFNrMF85RXdzUE4wY2hPMlBJbHFENTJOcXVPZDdtclNNS3BiV3B2QXNtdXRZOEVnX1ZtbzBvcG1YakdXam8?oc=5",
+          "published": "Thu, 06 Aug 2026 23:00:16 GMT"
         },
         {
-          "title": "Fernandez looks to catch fire as Eala mania hits Toronto - TSN",
+          "title": "Canada looking for semifinal revenge at Hlinka Gretzky Cup on TSN - TSN",
           "publisher": "TSN",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRk9uRDF5TVZyc2I4MXdqaExZNWc2Qm5tYXlKa2tmY3FDSTJjTGxhekxlX1lWWXVaVmtxeHRmSjZndmJ3cFRNcHY0V1pNV0ZueXhpRGpneGJsVGpnZ0NxSEp4UTQ1WjM4OGtsWEIzTjdyTjhwTjNxTmdRWVN5c3A0Q1J1Y0I1d3h2LWdaWTQydHBNOE9ROVE?oc=5",
-          "published": "Wed, 05 Aug 2026 17:24:10 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNWVXT1Ixb3FES3R2aEphdWdNUWVmemZBM1V1Zm5DZW9mZVJOQ0NPTmpHdWtwMUhfaGVfV1VhMWNxVUZqUkFRdXpuT05PcU1LaFByUVFXM2lpNFJDLWY3RFBuQUpnWG4tTWxWamZ4dy00UXhoZ1pRb2xVaGJ4RWtYNkxHZ1BRZ0ZWa3c0RVFjRU9WRU9LZXp0aE1uR0EwRFNfVU1TYlJuRm9ZcVk?oc=5",
+          "published": "Thu, 06 Aug 2026 17:53:24 GMT"
         },
         {
-          "title": "Prediction Time: CFL.ca writers’ Week 10 picks - CFL.ca",
-          "publisher": "CFL.ca",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWdtZlBRWFJYcGVPOFRFODBCUXQybGxZWDRqX2hNMW9MRmFoX2Vrc18yMWd6Nm1zVWhnc0wwS2dIWGRuRXMyTFBqanRHMG9nMWpJTlJGQVZxTXpXY0VFWHQtYkNaZmxVd2VnaGlQUUFjZlVObHduUUJlOVlfUFpTakRhZw?oc=5",
-          "published": "Tue, 04 Aug 2026 21:02:25 GMT"
+          "title": "Around the CFL: Argonauts finally return home after 'extreme challenge' - Sportsnet.ca",
+          "publisher": "Sportsnet.ca",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFg0QWJKTTZud2VvQTE5Mk41R18yWEJ6MnUtUFZaay1ub2RxYlBYbHd1cUYxS1BWc3FOREo2VTRNRXlPSnpJVVpoYzlwbFhSUDQyOEloN29tUWR5QXoyU3paSEE3eGgzZEd4dHR5djEwY3Z3YXZRdngxSDdyOUpDcnp4aFpqYlozMEtHMDFHa1d3VUNfM3hrUjc1eV9wNVQ3N2FkUmF6ZTJaQQ?oc=5",
+          "published": "Thu, 06 Aug 2026 17:20:00 GMT"
         },
         {
-          "title": "Toronto Blue Jays vs. Houston Astros Results, Stats, and Recap - August 4, 2026 Gametracker - CBS Sports",
-          "publisher": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HSExGVGtEZHlKR2FISVN2MkNWNVRZbGVLY0tLUy1rNHVSa0w3X0psVjhCOW5MV1V2WC1IZzVuM3pGek9JaFRoR2NXY0w2ekRHRjJzUlhrc21xLVo5T0x2SG1iQzhtTUk3WUtSOURpUFBTZ3lNdUhLSw?oc=5",
-          "published": "Wed, 05 Aug 2026 03:02:30 GMT"
+          "title": "Results Paddle to Shore After 208th Historic Royal St. John’s Regatta - VOCM",
+          "publisher": "VOCM",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CTVJ2RG05WC1XbFc2Nm85WC1ZZkJmQ0VmVC02LVYwT203azhRX2NCRS1SbWhzdVVFWGQ5T0pqUklpTWNUTkNodTE2UkhreGE5bjdfa2h3MWNnZWY5Wm4teldJYnctTXJCNTdsNEdSN001bE5m?oc=5",
+          "published": "Thu, 06 Aug 2026 00:12:00 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Out of stock: OnePlus is no longer selling smartphones in key markets - Mezha",
-          "publisher": "Mezha",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rd1ByeU5aVktselZYeGZkRTlITG40VkR5TWN4SXJtTk9YT2JwTEptMVVLQzZHMHFCNEdoa1ctRWdFREtVRS13anY1ejVZcDh5eXZlbEhmbnRnekJpZVl0am9yX2NqQ0l3TVdPdGthRjJhRGtQaXVNZkF5Q1A2azjSAYQBQVVfeXFMTW1hbVNhZks5b29yZUF1cHB2NGZfMzd1c1ViZDFiM1RNVGE5Q1BnZ01TbmNDOVF3NndvYi1kSVlDMEpNTjBkY0txWmcxcWtPUTFYblFvTWNnWWJoLVIzSFB6QXRHb21ZUDJLMEtYYnJsLXgycVBLNnVtclA0ZzJud3RDUmRB?oc=5",
-          "published": "Wed, 05 Aug 2026 15:13:00 GMT"
+          "title": "IMTS 2026 Preview: Slot broaching tools for small-diameter applications - Canadian Metalworking",
+          "publisher": "Canadian Metalworking",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeTVmZ1ZIN180ZlcxS2ZkMTVYaFpJM0ZuQWJNMjlkdWVzamt6TmNtWTlxUGt0VzR2M3F4YnZRTFBiRXNNYWNKS2tOaFd6aE1obnRUeVRHbUpYVUh0bjRXU1lJY3hJZnhrRmd1X0FxZE00aUdTc190M0lVTWYzMEQ4U3pJc1RWRDhPVTcxa3dTaFVRNWJyZWs0M0JNUUhLY2pWQWdkVUR4Q295SUdvQlU2LTFaRTRaRzRGZHQ5UnhmZXhyT2VaSWcyeEVsMGpXV2RobUlFa25MZXBXSVlhcVc2d1pjSQ?oc=5",
+          "published": "Thu, 06 Aug 2026 15:00:00 GMT"
         },
         {
-          "title": "Hackers Smuggle Post-Exploitation Toolkit Into Oracle Database Via Classic SQL Injection Flaw - IT Security Guru",
-          "publisher": "IT Security Guru",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdFlkU3dOV3k0OHFLV2NVNTllbVpHMElCWVh2TnRWQXY5LTJGc2R2QVNkRlpBUk44eG4wS1RteFQyQ25STGZvbzRVaC1fejZ4Qm11R0ZTb0NTdUd3dnJTNWVwMjFBcEFrRVVGelRsQ2JzTnUySjZiYTZQdmE2SlZTOWl2Z3ZPdVdpRnR6QzJJU0RBTnN1c0UwYkszLVp6eUl0cHhPaTh2dVZXbWlxWTh3dWdxUmVpS3VoVTZiMTE5c09jamN6U2o1TnBxYVBqdmR5V1E?oc=5",
-          "published": "Wed, 05 Aug 2026 13:14:19 GMT"
-        },
-        {
-          "title": "Camosun Innovates recognized for Totem 2.0 collaboration - Nexus newspaper",
-          "publisher": "Nexus newspaper",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1FRWEQ3alQ4ZW1PaFJlZzg2NUdzWWZWNDdFNkRYaXY4UEVyOG5tOHBoTnMxSHVENmNFTUZ5UjVyUU4ta0l5Wk9DM2lCdkxaTzdPa3pNUlc0VTBuQ2FPaHkweWxNdzhvREd0ODFPdWNXS0lOQ3ZiRWlTZHNWeXFncHF3ZnY5N044R3o0SUc4UlhmTzdnN1VyX014S1luQW5nQWQtTndCcWdOelU?oc=5",
-          "published": "Wed, 05 Aug 2026 16:00:14 GMT"
-        },
-        {
-          "title": "Marantz Unveils New Cinema Series 2 AV Receiver Range - Yahoo News Canada",
+          "title": "Samsung Galaxy Z Fold 8 Drives Record-Breaking Pre-Orders In Europe - Yahoo News Canada",
           "publisher": "Yahoo News Canada",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XZ21jMThITUZ3Yko0VS03cW5jU09qS3pyblY5dkJkSE5aV1RFdEx4RW5NekhYc2RrMVB6MXE1MHAtWm53MFgtMkpfNERFNzBiOUNqWGUtbmJUZXdvaEZ3djBNRlJVQ2RCQlVkUGJjVjhjZUtrTFNuZmFCUjE?oc=5",
-          "published": "Wed, 05 Aug 2026 14:38:21 GMT"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHa0ZDMmVrekFwanAybjNxWnZGbmo4X0dScVpxRFpSTVlpR3ZLYW42MzhQM1VCUE5zZk1EbTFBbHpjZ3ZXTkpWLVpvZ2ZGWjlKRnZHREttd2U4U0NILWJDTzVGa1VSaHpsTmgzV1B4dUxrQQ?oc=5",
+          "published": "Thu, 06 Aug 2026 10:06:29 GMT"
         },
         {
-          "title": "Huawei officially launches new flagship OLED tablet - Notebookcheck",
-          "publisher": "Notebookcheck",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQkxMWlZZdWluVDhSaFdMWWZ5cXNqSmlDNzYyVG5PbXIyZ1N4Rkw3azE2eWtZREpKaG5FWWd3UzA1b2ozQjdBblVMZGJFSFZiVXhOUlJBZXkyYVEyWlFNNlVzNnZuRmt0YkpfLVowRGw5R1FpYmZ1RFlKT3d2a1k5X3FDRDJoUS15NjVQZVJYSmZPcGlNX1Q2ZTUzUTI?oc=5",
-          "published": "Wed, 05 Aug 2026 19:47:00 GMT"
+          "title": "Steam :: Steam Hardware :: Getting the most out of your Steam Controller: Gyro - Steam Community",
+          "publisher": "Steam Community",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdlRlWEhOcHN6S1J1WHk2a3M4YmdzYUF5RUdyY24ySDZfRDNLY3lhaGlhM2w4SXRTR09OMGdsWkt2RDQzZVpnVDFEc3NYalhnTmdqSl8wVnp6WFNwYzV4aHZYakFsVEE4VXFLMFVQWEJpN2tVWlFTVXg1a0c3N09La1lMeDI1N01JYzAwbWlkT2ZHdw?oc=5",
+          "published": "Wed, 05 Aug 2026 18:36:51 GMT"
+        },
+        {
+          "title": "UBISOFT CELEBRATES THE 25TH ANNIVERSARY OF TOM CLANCY’S GHOST RECON® FRANCHISE - Games Press",
+          "publisher": "Games Press",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNVhpTExPRlhxekp4My04RXlyYnB1M0YweHJxYTFDdXJxZjZRYmNUaUtVaFdoM0hQMV90bE1OOThGVjJtMzhPeVhnbHNZZElaVWFEMlFGQ1I2S1ViR0s4aGhmcjY4cHBoVUNLVXktYVdWRFQyaHlwV2hxVmJwQXZDZ3N3UFlHYmpZSjhrd1lpaGN1Qjk4ZFpDVFVJSk1LV2pJay1wSXl3?oc=5",
+          "published": "Thu, 06 Aug 2026 16:40:30 GMT"
+        },
+        {
+          "title": "New ‘GTA VI’ Extended Look Will Be Exclusive To Netflix For Six Hours - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV1VncUU5NFpIUlJqbXltd205R1RtZkVIcklyMjdyX3dQNkJCQzJ5YWJ3X3B3ZlBwSnJmdTJ5YW01bGhTbjhBRXRMUEhpSVBubDBlaG41X1Z6bE1QZF9HTE10MmdVeExzLUFsd2hSRkZLMGZEVWhDbm9zbTNGX1ZjZGJIR1lnM1hJZEV5Y0s5MTg3TDhiaEZFd0dxeC03NjNTU3NwVnk5aGFTdlVfT0t4WUY1a3V1TTU4TWc?oc=5",
+          "published": "Thu, 06 Aug 2026 12:47:52 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "European leagues pile pressure on Infantino amid 'crisis' meeting - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajgyVkdiWlJkdS0zdVo2UUljVHZUWWh1dWNNS1VfWXptM2VQbmg4Z0hwX0oyR2RoVGowOHNwOWwtUXlBaFNUNHhacy01b0JDUzJvMmNmdzJvUEVBQ0lOOG5ZZmxPUTZabjl5RU5kMzBnM0l3VGR6LWhUdjVYckdSRWw2dEktRzNkRWZKb2kzLXhsZzJBd08xdWJn?oc=5",
-          "published": "Wed, 05 Aug 2026 20:41:00 GMT"
+          "title": "European nations say World Cup boycott is still on, keeping FIFA's Infantino in limbo - NPR",
+          "publisher": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0ZSc2x2UnJ3S0RCS21MQlg4Q2dXUlAxeDQzRi1RYkRPUkQ4TG41NzN5M0FoSHNZNXVZWUtiX3VySzdWREs1bW81bVRiT08xWFFnSXgwZVZUbzRaU2hyNkdKal9Nd2NyaUhxQTNGVGoxTGRoQVFkT0pHNlJTOGM0MExvb2dTQk5k?oc=5",
+          "published": "Thu, 06 Aug 2026 17:11:42 GMT"
         },
         {
-          "title": "JPMorgan Again Entangled in a Soccer Fiasco - The New York Times",
+          "title": "Arlington museum took a gamble on soccer for World Cup. It drew fewer visits than expected - Fort Worth Report",
+          "publisher": "Fort Worth Report",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeEhuT3BYQ3dSTE9SbUlLQ1p6OGZ2SkZLU09Va1M0SjV2VlQ2dlI1eGFTZFRmNndtb0NJNWhKaTlGaE5nZnhJZmE4NFBmNkdJTXo5MVFvbUs1YlZuZ1pieFlLUmtnMmN5SlBrakMtZFRzdzlabDl4STBELVdqOHl3NXozeGFFMHhIbXNiSHQ5VndjZDd4ZVhjeVBwVzhlNEREUzBPUW84UUs4YmY2a2s2UFZqNVdCTHZTZlZmS3l6Y1hyMTJTUklxdg?oc=5",
+          "published": "Thu, 06 Aug 2026 19:06:45 GMT"
+        },
+        {
+          "title": "President of Jordanian FA maintains ‘serious concerns’ with FIFA, Infantino despite payout - The Athletic - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4LThKSWx6Nno4YVR1R0ViZjR5dnFwQ1JBRFZTT21iMV83eHl2WTZtVk1UcEYtdDZvczc2TEUyUk9rQ1IzRVU4WDZMbEo3N2ZuNzFSRWpnaEswZGZSN0hQdEtGZUl2eVpnaXpDVTZXQldfd1ZE?oc=5",
-          "published": "Wed, 05 Aug 2026 13:12:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNamhNTVg0Z19CZVZScmlobGNMWFpVWWxFU2dab3JaRFF2SU13MXVwXzhvUzkzZTI4LWs2eXhRZzVPWXkyNFdFMHNwZkgtMTRvTHVKa3NmVGlsX1VVT19mUGFWUEkwUGNObVhCdm9RZVY3NFAxeTJ0RGg1aFpqbVljY2tZUHR6QkROR185bVNrOFFNRFJSa2hJLUEzalJiOHR4ODE3QUlTWF9WOGRtSDNTMFE4Yw?oc=5",
+          "published": "Thu, 06 Aug 2026 16:02:00 GMT"
         },
         {
-          "title": "Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmJPenJsYUFVUXJVNXRDN205US1NQnlqbFJ6aW1Pb3RNNlE0MHY0V2prVnZTVVlIQ2ExM3Q1WHp5bEpqa01UVHlHRDdZRXJlSTlTa3Z5R2hFdENLaUtRYnpMZEVhYWFfZE53X3V0eE9YMmM3QlBWamlvb0piMFU5U29Yb0ZVZ01acXhlZGE1Rzl4by15ZWdCUnUzTE0yc3lkWmdTZk9tUnJQUnRzUGdzVFJlT3lKQjlnZVd3Sm5vVQ?oc=5",
-          "published": "Wed, 05 Aug 2026 20:09:13 GMT"
+          "title": "Spain's sports minister says country 'deserves' to host 2030 World Cup final, not Morocco - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOU1MaWtzaUI1M25JdS1DcncxY0NiWWRkckd3ZlBWUFlMT0k3NklMTkxXYjg0T00xOFNoYU9LMUVJR0lzOVlCR0czOFE3RkdPMGYxN0F1RGVqMmJ6aEVncV9wMUkxbGNfWjR1NzNOMWtlNm9CSEh6QVVON1J5eXYxRkxuWHNwcVNfSlYzVnB3aFJSSFhVMmZRZmRFWlJsczRWR2VCNkZOS09lZUs4LVE1S2ZHODNkNjRSc2duakZWUTRHM2R3MWc4bg?oc=5",
+          "published": "Thu, 06 Aug 2026 08:54:00 GMT"
         },
         {
-          "title": "NWSL commissioner Jessica Berman highlights women's soccer amid uncertainty over FIFA presidency - CBS Sports",
-          "publisher": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFVZXzJLdUI0VWZwWkxwQXZxMUplTGswTmVTd2lLUHZ2aGFnYU9RUGpGbmctWmM1bGFWNW9UX0pkQ1ppVUlWUW0xX3UwZmRzQU1lM0l2T0wwamxtSWJNYWVHRVdmNFk1UUVPVVAwakZfWXREbkdsbU5KcWo1azJobDVUSUZoejhzNHdIOG9CZFBxV2pyRm8wQmhpS1cyLXBKYXNV?oc=5",
-          "published": "Wed, 05 Aug 2026 22:47:40 GMT"
-        },
-        {
-          "title": "Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmZDSzdiXzJwTXpEVDNFWGhpb0gxRFpva0w5TFJSVVAyZERoZXBrbld1bC1RREdFcWJabmQ5dWlpMG1mOXRzLUtzb2lKSm50aGNPN3BHb1lNd2x4eXNCaTFaSHpIeVl0eWNSN0U3U2pXVkQwX2cweUllckZqSWF2Mno4VThkeHdubUI0dENBZF9PMExsN2FCRWFhUQ?oc=5",
-          "published": "Wed, 05 Aug 2026 21:28:00 GMT"
+          "title": "How FIFA’s $20 Billion Private-Equity Plan Nearly Broke Soccer - WSJ",
+          "publisher": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeG1tOXduSUZkeDlCTDVHSVIyUi1zY3I3Q196bVRrSmI3VXhXbWVmUTZWVnBfWDFOT01HUHpiQnR5ajBEODdXcjcyS2owcWM1c0JzVVFidVloQUFBdTJDSS1jbFVUOTlXRERQNndpS09jdEU3M0VBQmtUR2tQaGpCSUZYNW5nRnR5cVNPUjZzX094V3NIOWRtMkIxUm9HRGx3OXJ2QXB3?oc=5",
+          "published": "Thu, 06 Aug 2026 16:06:00 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Perez Hilton Is Hospitalized After Appearing to Harm Himself on Livestream - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQTBldDZQV3VkN0d0M2dNWlBRblRnYWtBMkRTS0ZSVjRpcXhTTnhYdGZDSWZVOHVEc3JidDc1M05WOXJBeF8wd1ZkVlRnZ1B0YVVZT2M3SGFrTC1STnV0Nmd3QXpmUmJBV2lkTWpkd0d2MGJmVkNBbFVXZV8xeDFLakt3UW92alRGa2VIWQ?oc=5",
-          "published": "Wed, 05 Aug 2026 21:04:53 GMT"
+          "title": "Perez Hilton’s Children Were Inside Home Minutes Before Disturbing Livestream, Family Says - hollywoodreporter.com",
+          "publisher": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG84UTFheHZoZHVVT1RhcUZZdHFWUW95UTVmaVhYc1VmT3FpYWpCMElFSWlxQVcxOGxjcXE5Z3lPVXZMX2RwcWVPWFlTNllEM2tYT2FReXRSMmQyZDFFYkY0WXdEM19wTDNsck9BRDY3cHA5aHY2bFNlX0pNYWZhRktkbnJzOFh4MElPSEFXNlFQdUR6NjRkNGhYYjJXVmw1TlJVcmRXeG92bEp3aDNFWGJNREtXeTRzaUxF?oc=5",
+          "published": "Thu, 06 Aug 2026 20:02:14 GMT"
         },
         {
-          "title": "New 'Ted Lasso' season features NWSL's Kansas City Current as plot point - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT1Y1bFBCNGxJVmYwaXpkWXdZVVZ6Rnc2WWN1MkdEb2ExTHJib0Y3LUNpSS03Y2hiMWotRkNvLWpJUGxIWjVidEVYWmVJZnllOHM0Z3diRGRnWXphS2JKamFHcVJndWdjaXB6SFVZZDB0MmQ1R1pZSjl2b05RQzdOS1lRTVhJN2w2cWM3N1Fib2V2OG14Zjl4MzdOUXlTRkhURFM2UGhUUHUtTmd4TVVjOWtRaw?oc=5",
-          "published": "Wed, 05 Aug 2026 08:06:00 GMT"
+          "title": "The ‘Ted Lasso’ Season 4 Rotten Tomatoes Review Score Is In - forbes.com",
+          "publisher": "forbes.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0xrSmRKS0RPajNWcE5CN3g1WjhiUGxTMmpmMEp5MW5JTHNCZ0VzQThmMWF3RDJoU1ZyTEJrZXMzXzJaRkR4VV9NLTczLWZoQm9NMjA4UUotZ2M1WXBCTEpyczBsVjViZzZ5akM3c1BxSzc0Q0RiVzJJSHQ2eWJpR2RrSUZzVkZGTXA3ZS1oLVMtOWdyWXNtcUltdl9qTmlOOWxwSFJWbEZRdE5J?oc=5",
+          "published": "Thu, 06 Aug 2026 14:18:15 GMT"
         },
         {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Highest-Grossing Movie of 2026 in 7 Days With $1.15 Billion - variety.com",
-          "publisher": "variety.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnF2NVlRNmpxejczejdlbnZfSDdMdDVFRUV0T3UwSThlSmVXU0U5NUw3eUkxemJ3LXJ4WU9qMkJHSEdGbjlwRGdtZHM0RXBmS3pieGtaMEVtcHdfZjRQTkZTcVBsUlNPQUgybkZwM05pYXNLbEdxRUhwMmRVVVFqclZhRldtRk5USU5uQ1Rsa2hDZ2RYOHFyX1pGMk9KTUhKLVc5SlY1cHVLMTAzdlpDdg?oc=5",
-          "published": "Wed, 05 Aug 2026 15:36:00 GMT"
+          "title": "Britain clears Paramount's $110 billion takeover ​of Warner Bros. - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVF81ejV3OTNvNFdETEFTMlhYSE9NYS1SM05BYUZ3eGNtMXc4cmVCcm1oZ2lQUmpOU2VZeGFzeFRjUUwzemxIMjJRdnpWcUpwcm5qWl9rVjF6RDU2MWdNS0pEV2ZHWU9IbmNQTnRHQ25qeU5icXNLUDRnYS1lT3ZDdXkzRGVicFJnUE90eHZNdWhJRVROUGhXbDE3cFcxOWh1Q3NjTEZWZW1nZw?oc=5",
+          "published": "Thu, 06 Aug 2026 18:27:02 GMT"
         },
         {
-          "title": "'One Night Only' review: Sex is legal once a year in lame rom-com - New York Post",
-          "publisher": "New York Post",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY3NPalNJU1FYTS1IYWwxM0FCa3VWcVowZ0xILUd2S3ViNEtiWUZjMHB6enlOdmQ1ZFRJMmg1MXptRk5YYTNlWHdDQ1MyREQtTjlCaDBBaVlaSVd4aUlaTEFJa0pZTzRwcnBoOHF6eGUxT0tMVFE0ME8tTVBVWVlXcnZ0N054U0lBdUpXNjZ6TFB3enBITVRicTBYSF9nUVJGZ2s4YzhVX3djUkk?oc=5",
-          "published": "Wed, 05 Aug 2026 18:48:00 GMT"
+          "title": "Ryan Murphy Spills on 'AHS' Season 13, Ariana Grande Exit; More 'Glee' - hollywoodreporter.com",
+          "publisher": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdk80RXF0OEZBOURLdk8wR3dSMGhObUtIQURtR29HWVlUX2xEWkY5SWhJdFpPQl9Sc2cyNDMzdzFxTDJ5am82em94UjRhWWJhUG03MGotMmpZMjJ3T0VmcnAwbmNNMEdmNGhlSTYxR2RqQUVNcDZXZzJ6U2tvbldZb25ra0d1cFVQbGttX05HdWRjYmpuUG5VXzlmRXk2UHBjckE2dEE1UUk3b3UtWDNXVU5BWFBQUmRmdWc?oc=5",
+          "published": "Thu, 06 Aug 2026 21:59:08 GMT"
         },
         {
-          "title": "Ryan Murphy re-creates 1981 L.A. as the land of sun and serial killers in ‘The Shards’ - Los Angeles Times",
-          "publisher": "Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGJsaUh6U2hSY1d3cnp6MWc1WkFnNnZmMXh3NjJMdWxFeHN0S0kxLUVhZndGR2UxZWFiYmtwZFJPVWg5eWpWZk5hSHJ4TWZnVU9PeFRGSGdFWVI1dVN6aHpudVNHaXVwMFp2YUdCRDN5eEdjRms1bUY1N29FbW95bFZiWDdBOUtKb1N6OHlYNnZvV0FVTWlyYmN2dHp4ODZRX1Btd0Y5TGVvVzVEd3kyVmZTRnMyT0ZyN3c?oc=5",
-          "published": "Wed, 05 Aug 2026 15:00:00 GMT"
+          "title": "‘Primetime’ Trailer: Robert Pattinson Suits Up as ‘To Catch a Predator’ Host Chris Hansen in A24 Crime Thriller - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQTFHUXBOaWpDWWhyMEEteFdKVmdHWUhSbXVjNEZDTlJOT3U5dVNFYUlFdDNQWkZpTksxZC1rT0dKanpsVFlIN3Y0LXBwaDZ2QnRXeVFvTmo3SzN5OTR2SDY2TWgzQTViXzhBTE9GbjlOc1ZSSlY3YVlIOEJCNEk4dkpVM0N0dk9CRTlqSDhOdkM5dkkwdDZxY0xJMzR2ZkRH?oc=5",
+          "published": "Thu, 06 Aug 2026 13:03:00 GMT"
         }
       ]
     }
