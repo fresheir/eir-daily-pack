@@ -1,7 +1,7 @@
 {
   "market": "SG",
-  "generatedAt": "2026-08-07T22:33:42.976907Z",
-  "validForDate": "2026-08-07",
+  "generatedAt": "2026-08-08T22:28:00.204925Z",
+  "validForDate": "2026-08-08",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,10 +9,16 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Singapore opposition politician Lim Tean arrested in Johor Bahru after failing to surrender at State Courts - The Star",
+          "title": "Major review underway to support families across life's journey: PM Wong in National Day Message 2026 - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjhrbDlMVklPSHBQZDN5eVVkUlo0M1FnamZUYzBHdWR3NjBHbzZuVmsxNmRRQlpNM1JlQktNVmgxS0FLeHg4ZXN5dS1KbkJ4TXRycmE1ODV0MXNpdW90eXd6ZlhSX1pOSk42d2Vmel9JeG5KZVlXbVBQcjJ4amxYeXN3U3VfSVEtamNBd29zXzU4RDFneGZJeUptV1p4akxsN2l1bFVUOU1Ka0N0QjlsdEYzTjE?oc=5",
+          "published": "Sat, 08 Aug 2026 10:54:00 GMT"
+        },
+        {
+          "title": "Two men to be charged after allegedly conspiring to help Singapore opposition politician Lim Tean escape to Johor - The Star",
           "publisher": "The Star",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQXhvbTJraXdrWFFYaFA1VUZobC1UQVFBMWs3MzktbHNNX2FVUXV1SXZCY2xab2VOY3F3dF9mUGliN3lrekkxTHBhcFdwNHAyMlhYcWdzbkJfbkljNms3SmZHeFdndXc5ZDRqWjFOMy1oVEpfa0ZtdWY0cVlIakxYS2dpVHktTTZZQlJ0TGswLVk1bGxQRkhlMVdMekQ1R3FnTGM4SXdWUkxrck8zNk9nRTFOaFl4QmNBQUw5Z0dlYnc2VWs5SzN1MWJqcnA2VGtBUTBwTGNsb3hER0Nmel9DdkU2YkV3RmpaRUVIRXRrdE1rdVN4UEJqTjV6RDhCVDg?oc=5",
-          "published": "Fri, 07 Aug 2026 11:03:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMHBXVkhxTDFycUpaUVMyTnZFOXFtcVFTUEEtVTQ0SFZqMFFRVDNIYUhIaU9PQ1BQTGxtXzVzTEU3eTlubkRtbkJaRUtSbnlxLURpekJjb1c5NjZTSmN2bVZ3Tkw5bU1iM3dGOVJSeHpaR3UwUWRGMExDRDVZdGtrbDRvRWg0S1A3MnJIeVZpeXlPMnRkWFZSS0tIT2dmQXNjMVQwT2FudExkMkVtdnZmVFhibTVMc0d3WnJfZnN0YVprS1A2cVI4S2FEeFVpLWNGaW54S191MUo3T0FIazFWMHVaZGJER0QyTXJUQmZLdEp3U2gtQTMxWnJueHgwQ01GWEZpZTB2MA?oc=5",
+          "published": "Sat, 08 Aug 2026 01:40:00 GMT"
         },
         {
           "title": "NDP 2026: Six places to catch a view of the fireworks, and tips for taking better pictures - The Straits Times",
@@ -21,22 +27,16 @@
           "published": "Fri, 07 Aug 2026 10:30:00 GMT"
         },
         {
-          "title": "MSE does not have mandate on land use planning of Maju Forest, Gillman Barracks: Grace Fu - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM25ESUd1M2lhRzlCay1vdjk5RHRCX0dFY0RwbjdxSER4SmRZX1djZk9INFRvMWduMDltQmlfQkZDUVVIQTRDU2xvQ1Y4dkN2Q0hBWEk4YWxzNW55TDZtUEg4aEtqd3RZT3lGTnB0QXE1NHoyckgwY0ZtTnBVTkh0T0JFMmNYVGlBdk55d3hfcXlxNUlwQmZOcmhDbk1LS3ptbXZBWjVaVFVvTnppcmJfcVJETlB6amh0QXRpZHhMbUkyMVRRYTQyM2lJbFRIRGEw?oc=5",
-          "published": "Fri, 07 Aug 2026 12:20:00 GMT"
-        },
-        {
-          "title": "National Day 2026: President's Office, Mindef, SAF hold observance ceremonies, Singapore News - AsiaOne",
+          "title": "Singapore hangs 79-year-old stateless man convicted of heroin trafficking - AsiaOne",
           "publisher": "AsiaOne",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVFpSY1dQLU1TSUgycmVwMDQzVkw4VHpZY0RzTVdBRlRLLTZLTm1uNUNaSENUQ3F5Z0RDdUdqSVpING13YmNlaUMwaExsd2lKOWp2MklPOEk3RllkRlZPNkdVTE9fTmFQcGtuOC1ZRG1PTTZWbVE5cXkxRHpKTGwyUk15Z3A3NVJwYWt0YmJmYm9zLXNqUGFRckF0RmNIS1hxdVE?oc=5",
-          "published": "Fri, 07 Aug 2026 05:15:09 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmpFZkVZYmpRbFc1NDdrOFQ1bFlEbXBpWGdkalJkel9adXo2T3VQd19EQXVnZ01CUVJEQ042Z0JLajRFSlg5ZlUzamQ3MWNRNVVrd2RiVzRFUW9ZUlBPOG80d0tTamwyU01HQ0JtLXRzVmRnRWZBTkdzUG5sU1pqRHc0N0RsZ05zSUJVUnNVQUJ6SlpMRXpfNjh3?oc=5",
+          "published": "Fri, 07 Aug 2026 11:53:00 GMT"
         },
         {
-          "title": "Dry weather next week could raise haze risk here: Grace Fu - The Straits Times",
+          "title": "Driver charged with causing death of pump attendant was allegedly under influence of drugs - The Straits Times",
           "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQndJSHdRaTNBNnVINVlwalY0UmxpV1VmZG1sS0VhRjBOaHVoWmVRdGt2NXJ6amVHNnZEUmZGNHVtU1VYeVVWRnRUVm82QUltZzRaQ2tMMzZfa01jUFJCbVVxUFJkYmFEWmhESm9KZkpjbS10Qk5RRXhVajRja1BhVXFzVm9FTUtIeWZ1SXpuTU1MQVIxeUx1Q1JEUTNaMUUyS05vaE5tSjZHMmRCNFVwZ2RQUm40X1djS25uRWFpTTRGaFR0N2N2a0xfZkhqRUFZcEVCci1SY2V2NUNSZUxCYw?oc=5",
-          "published": "Thu, 06 Aug 2026 04:45:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdWJSdFp4RGZOWWFWMlpJUEpqczBhRjRKNTdMTEtyZ2tjUkdqc0lxM1oydjdWRl9BcGxiSEhnNGNvQ1ZrckdORVpRdkh5bFJ1Y3h0enVKc1lHZXVRb09ZWUZGMkVmckd4WE1mRDJjVXpPVkIzMUhZY0k5SFowUjZCQXVuVnZQNG1aZGxjaU1ndWxZU0xyUW5FNGtVNnV3OEQ4cHBpVU5QUEJkM2hSWHJFMEVoQ3NMNF8wR2pHZ1NqMzNvUzBZeVNQOUVSV2hUb0ZkVE1lM2VaMG50QQ?oc=5",
+          "published": "Sat, 08 Aug 2026 04:18:05 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Thai school shooting: Teen gunman raised by grandparents - The Straits Times",
+          "title": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdFF2d3dWQ1FWNjMzOHJENXBRRzVpdkdqVTlRNmpoODI1emdCbkE4dWdtOWhLLTdGbWJKMWRtMng0aGZlZ3BHdG03M0lBV2JCNXQ4SzAzUkwtZUNLRk44aHo2bHpFUTRWOXhuMWllOU1NVlBSZjJMWlFGdEJOb0VORVNzbzlzRGNWZWtLZmJ3?oc=5",
+          "published": "Sat, 08 Aug 2026 07:40:00 GMT"
+        },
+        {
+          "title": "King calls for tighter airport security, zero compromise on Tabung Haji, Felda wrongs - The Star",
+          "publisher": "The Star",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS2ZUZDZJYk5vc21hdURsOTd6eERZRENTOTQ5Q3RBbWZWTXRSZDlSMktFSm9jSUV0MWJkYkFFeEdkRXFDQUhNZzlNTklJV25qeDUyZ2JUN2RtSW1BbGIyLTFycm9kMFcwSjZtemNuNEdoRVBjZDEzaVpCTzluYUM1THZFczNzZGdBRlVSbmZEWWdZbXoxQTUzNkFoMWsxNVk3bmw1MUw0RTdQQU5PdllNeF9EOVphV2VYckJ2OWhLTlNkdEJjbFJucjdwZ2dWQQ?oc=5",
+          "published": "Sat, 08 Aug 2026 04:08:00 GMT"
+        },
+        {
+          "title": "‘Mum, don’t call me’: Inside Thailand’s deadly school shooting - The Straits Times",
           "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdS1NM25POEF6a3lNazc1Q0pfb05pNGJ6R1JHOWlEQjNBeWI3djZ0UGZfbFZLYUhIVjU3SnZQYmFsS2J3ZHRMNGZkdUFxWEVDbmpGUVdjcXpJTGRTMmxhV0FGcFl3d3pYa0pIUER0MWlFX2FNWVdfZUdJWkJROXBqNXducFFSQkRFVHpUcE1HNGZRSVhEcWREMzJ0bVBTZUFKVEpHYw?oc=5",
-          "published": "Fri, 07 Aug 2026 17:19:20 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR21sckZzSWVMVUNPVmpZZ3F0ZDhSbHRFdVEzVDFiV3ZLMGx2bnN3X2tIOTJHbDZMaHRVTXpqUTVZd2syR0puVnRSY1FjOEMxNDlDMTdERVdSMEtwNDMxX0ZHZW1QYjZsWlZUUHNlNGRZWWR1OE9fNFJNWUtJLTRsRk5NazNIeGoxUEtWN0VNbFJPd25nUFNXSnZpcC1PT3M?oc=5",
+          "published": "Sat, 08 Aug 2026 12:08:43 GMT"
         },
         {
-          "title": "1,230 times the size of Hong Kong: China deploys drones as Typhoon Dolphin nears - South China Morning Post",
-          "publisher": "South China Morning Post",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWlU5QmZSUXZheWl1cHFTS1RESG8zVE9aS0UxQldHN29JUFlpTTNuQ2luZG9Ta2FqY0F0aldjY2lZNE5Odld4T1ZBdG9qOWtzSm1EMm94WG53c2V1SHFXcEJ6c0xUamVHQWhxckpsZUFGYndpcVFVNXNURlBBdHNQcEdhTEZUNUtUV0NWeUtrZ0l5Y2NvbkdpakJUbTBhcGpUTkc0b2VMTmVsZklxUlNrODlRSlBpekQwanFJbUZpcEVLcndua2E3ai1kNNIBywFBVV95cUxQNlc4NFJ0ajc4blRPVDRzNWpIREI4Qm1ILVRycE16dGJGVU53UVRHcGZzNWp0LUQ1NWtZRWtISzBPT0h0RGVkNllKa1pxek9IOWFBZmZ5YkRoOTB4eWUyV0JwbmZJUnEwbjhsUkFmVXh2OTh1QkVDSmZoNzU4dEdaRUlFSXZNMVF3SlBEWmpZRXkyTmo0TDdNMVlKVFNlZFFIRHBWMFRqWFcxb1R4NUpKRlEwNG0yNUJXX1Rwb3hqb2lNbFg2MW9OeDJIVQ?oc=5",
-          "published": "Fri, 07 Aug 2026 05:53:42 GMT"
+          "title": "Myanmar Reaffirms Commitment to Protect Rights and Interests of Citizens in Thailand - Global New Light Of Myanmar",
+          "publisher": "Global New Light Of Myanmar",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdWhjOUFnTnNYNmExeVI3Y3VRTWJqMkxWYVMwTEhOZ3l0dUxNcjB6UUN4eG1qUlpNeWxuNUNmMUM5YU9FTkxxY0lHQW9lakZpRERPOWUwU21HZEx5MGF4b3VZQWNNdjlnTHNoQU9uWFZzRVJZQXN1bG5qZFFVS1o2UU05VFB5U0ZrN2pBTUJpVVVTQXd2bEloTklmXzNwMFotUUF5dTFDZW13N0pweXc?oc=5",
+          "published": "Sat, 08 Aug 2026 07:55:38 GMT"
         },
         {
-          "title": "Former Malaysia PM Ismail Sabri’s court date delayed after hospitalisation; trial timing questioned - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeEt0WHJtZ3RfMV9uc09FVWtPT1FCLW43QndzXzdkQlRWUnJKS2ZSZW1UaXI3WWk2ekpZd2Ixek5pYlFhazlZeUlsWXZHUnFMTnpnUVpQaU51Y1lveWtPUzE0S0ljYU1wWjFWWHJQQnVETnhTclJEOVZNSFhHdmxkTmRlLWp6blp0bWpJZFZQbXhvMzNTNmd3ZXB4TXptWTV6SjZTOU5qV0xEZElES0cybFVkYWVydV9aS0JWaWtjdXRLdVMtS2V4Tk1PYXk?oc=5",
-          "published": "Fri, 07 Aug 2026 07:30:00 GMT"
-        },
-        {
-          "title": "Pilot arrest puts KLIA, MAS security procedures under scrutiny [WATCH] - NST Online",
-          "publisher": "NST Online",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXpzNmlsaG9QdWdUSmN4VmJEbnlPSU56S25rWE9WUW9vRFVYcUxuWWUyVll3cTFlWUY5MVlPQldlTjl6bkFtTFdManhYVFB0Q3lHWGpIaFRmUDY3NHptMzQzWFlLaVNvc2h2T19YMGMtQmZFRXdIVTlLNWJNcG5rQTNhQlBiNlZRSEZZVFBodGlPWl9IR1B5X2JPd3pxWDVTS3EyNUxDa3AwOW5YWUFlRXJB0gG3AUFVX3lxTE8tUzBvMVBJRlBzbk1uNE94YThtVkRUM3I3M0hQU1BNbjBIWlZTQmV5Sjh1dWxnOEZpSTdWTkJRYzNsVngtZVdhZXloWkIzXzJnZTNoRFdTR1lXVDEzYXMzUW9DLVRCR2tfLVE0NmJNcXpFYUpjcXFPUGN6UkxuaFF1QnNsNTVOMFFzRUwwYVhLR1VVTVdhOVhJUkRJRmxBUUEwZk1zNW9PTEY2am9TV2lNOGxSWXBYOA?oc=5",
-          "published": "Wed, 05 Aug 2026 23:10:11 GMT"
-        },
-        {
-          "title": "Mother jailed for life for killing five-year-old son to claim insurance payouts in Vietnam - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVWdRQjFmUmxTMzRSc29ocmhYajVqVzNkVm93RlRZZmxqdFNTbnl0M1JVY2tHdWNMUDAyQ09LaHZVOWdFdm5WbmZhZUN5Y0hvYjdwOEZ5MVVuM1RyYklYQk1WZzZfWFV3RU84ZjhtcVFyUkY4a1ZKclhNNERYM0hCR3NRLU56eXU4M0dlbWx6dl9ObEFCZ0pvRVhyWXQ3TlpRSEg4NUdQbXBEYXhfSllUNHZaeEdRd0tUa3JLYVQ2VmlodHVxbXhIaTljaGo?oc=5",
-          "published": "Fri, 07 Aug 2026 00:26:00 GMT"
+          "title": "Seat swaps possible in Melaka, Zahid says negotiations must remain fair and principled - Malay Mail",
+          "publisher": "Malay Mail",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1pJNXViQ3pzQWtEUy1TRXBsOTJCMGRRdUdpYVVUOEFwR3hGd3VsSUFnYXE0T3ZBRWZ2QnFPRkg0MFVRaWhwTkU0dy1nRzVlR05LSmU3NlhrY0Y1aFM5cTVydXZhYXVpVDI3T0dYLWtfVmFSQ3JjQV9UUU9SN19obWlsV1lYM0doVTg3OGx5QkZSR18tR2xyRE9OekI3MUdNLThEc0ZSTGUycTBaRXNxaEF0Qk1VMWlpdWkxLUVDYzNZWkRLMkFJem80dDR6enp2eGl3d3NGWC1sUWvSAeABQVVfeXFMTkFmQVdLTHdzYmFyRjFMaThxWG5mUTY5RTJ0THJWZlJnWVQ1V2p6bnFWdWR6OExrWUJRRjBndnhjWTBBdFVZeFdVRjF6QXZjX2JqTjRBSmhFdjdzZ0UwQzYzYWNqdnJndW9DT0Z5aGFtMFVqejlvanZoRno3bUE3dGctS3JzRDRBUndocThiVGhOandtT2NLWFdkbHBmV0tRUGtfUTMtNk1lWC15THBrTUpJNTdhUEZfU0tqaF93SDVqTi1LWUlpdUhPOVQ1MWM4TkdRRWVWdVFnaUlQZUVoWTM?oc=5",
+          "published": "Sat, 08 Aug 2026 12:17:33 GMT"
         }
       ]
     },
@@ -81,10 +81,10 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "OCBC shares close 3.3% up after hitting all-time high on Q2 earnings; UOB down 2.7% - The Business Times",
+          "title": "5 takeaways from Singapore banks' Q2 results - diverging outlooks, China tax rules emerge as new watchpoint - The Business Times",
           "publisher": "The Business Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUnBsVFFfckMyeUVpSWtzUTEybVc3MFpZM3VldTJld1l3QWZhQk1LTm1tRm44WTY4Ty1nQm9XNzhnYnlCd0dqUGlkcEdxZkFlRkFRZy1LVndseGE2VVVhYzQ4d2J0SnE5Q2c5V2thYkh5VXlHaW9PTUhTMDU2VnQ4V0NrNVphV05tMVlGX0JzSWtoWmNzUVdUUlYxR1RjWE5jNG9fWTBSd3VxRG1hZmhweHllNjI4bFpkdWU3RjJQVjQwZXM?oc=5",
-          "published": "Fri, 07 Aug 2026 01:39:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdldnbEFMeWNOMlpHTndPSkUwSmM0N1ZkUWtwZEFmWHlRTFFUazVkeWluYkJiVDNuejQ2alJmd3Y4WEZzOW56X094ZHE0ajVibnFjbVo3bkhPQURSQVBIZjlmOFBTMFZzNnBpekdEc3V3R2ZPY1dHMHRmc3VZOTdBeWRFSGhVazNyS25JT24tdC1BQVdveWtRbW1LZmpnZk5BX1lRMFdEcE40TVJEMjBfMGMwNW93ajVmWE5MXzVRbEh4MElXWWlCakJNM2hic0MwWWhydkJSZl9QSU0zVlpR?oc=5",
+          "published": "Sat, 08 Aug 2026 00:00:00 GMT"
         },
         {
           "title": "Litter found in BCRS recycling machines - The Straits Times",
@@ -93,22 +93,22 @@
           "published": "Fri, 07 Aug 2026 07:21:50 GMT"
         },
         {
-          "title": "Trump unveils trade actions to compete with China on solar and chips - The Star",
-          "publisher": "The Star",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZGs4TUVYcmFQM1dna1AzVWEybHgtaTMzT3hscllKcnU2MWZ0ZWN3NHJldFpneU5NNk5vQWZ6WGlHV0hMcnNBTGVnYkM1Q2R4bF95Z282VjcwVEJORTN1c3FsTVFESmpDUGhnSk5majdxejk2NklfT050eWcyWmJ0WjdpenhzVWN1VVdtSnhwUmNBbFZyNWtDQ3NaZVh1ajg4ZnBjbTRGZE80OEVxZnVVeGFOcDgtUm82MHdOTUtORmRNSUVLYjljeA?oc=5",
-          "published": "Fri, 07 Aug 2026 02:17:00 GMT"
+          "title": "Woman arrested in Singapore as part of probe into Fun Coffee investment scheme - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU1lxckkzZkw5akdTTnpLT2lwTWRWYVZFak1OQ3laaUZwcF9JamdubjQ4ZzdnT3Y1TnhGZk1wdzFJa1BXbXJUMGFXUWdqVFE3OUpvWm1wUXl0bkpkTmFVSFBVUWR3UFp3MTRvcTJpVnYtYy01UWhEbENJaUhGM2N1Y2R3OVlpb0JkNGFZNVRVcC10bWNEVTF6VnlNN0J0ZV9sMVZWdlFGX0w1dEh2cjZpUkJZNTFOWFZF?oc=5",
+          "published": "Sat, 08 Aug 2026 07:35:13 GMT"
         },
         {
-          "title": "Singapore grants conditional approvals to import solar power from Malaysia - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWdFVTdTckF6U3FRQ3hjOXplVE9oSEV1T2djMm9NX2M0Qk5nRWhrYTVKV2YtNkJhalRiczZ0alFuTkxLdmcwSkZYOE83eGI1SVJjdGl3eUl3YkpoZ0pWZnZwa0FmZG9FbHh5ckoyRHpUMnluMFNkcFpfeUc4Qy1faTBOYjZ0WGI1U25QbTlqQk5TS1VCb19GVFlNeFl5eGRhQ1RDTlZnN2cwU183ZENz?oc=5",
-          "published": "Fri, 07 Aug 2026 12:09:00 GMT"
+          "title": "In Vietnam, apartment lifespan proposal sparks debate over long-term ownership - Tuoi Tre News | The News Gateway to Vietnam",
+          "publisher": "Tuoi Tre News | The News Gateway to Vietnam",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTWVPaEFLemZpdDdWQWVjVGJkUzQ2VGdQQll5djI3Ump3Y29udlhFUlNvX09ESmpySTM2amg5VTV2YzBlUmloNk9qY3NaMDJLY1JkalB4U1VsRlpiek9uSGFKeDJiRUx5NGdpS2ZHUUV6N05kR1hUNmJVVHgxQTc2SFNtWVBlSjBYbTdmVHVLaERmMmw3MS1xR1dZNWstUjRCdzI1R3NGZW43R3Q2eVU3UlYzLXVwSnlqR2N3akpnVVl3QQ?oc=5",
+          "published": "Fri, 07 Aug 2026 14:37:00 GMT"
         },
         {
-          "title": "Japan's April yen intervention set daily record as pressure persists - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDF4aHZKUmpSaWxaRVM1ZTN6YUoyX2oxZXNWa2EyOG9NdkhlaTQ2LUFVelQ4cUdiSC1RSzRTdy1saEV2NWJmUFlzdHdwTlNpX3FGaFVkY3BRN24ybDM5S0JGY1Q4V1gxRUJ5N3Vsd0xSaXJoRVNCNmt5YXJrc0xjNEZpaWFnLWw5bHVXbk9SSU1ScVJfTEtxOVpRN0dOS1FlaU9kWk84dEZhUU54em90UE0tMA?oc=5",
-          "published": "Fri, 07 Aug 2026 00:02:00 GMT"
+          "title": "China’s biggest travel site grapples with watchdog’s reservations - Financial Times",
+          "publisher": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlZ4TWYteVNOMjFnLTFkbXBoOUZPaXZZeXJHckJPeVhyR1FoTHFqd1R0bFNHSDBYdmUyTHd3bmhVRzFoOG9DRWI2V1BZcGFhajYyb3VqZE8wSjdvdEsyZ0lHbjJHQkVfQXNsV29oMnlDa0d1MEtMZlpYaEtsdjVfZWpSMjY?oc=5",
+          "published": "Sat, 08 Aug 2026 00:54:25 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "'Nobody gave us a chance in this group': Gavin Lee hails Lions after making ASEAN football championship semis - CNA",
+          "title": "Singapore Lions vs Thailand in ASEAN Championship semi-finals - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVnpmV0t0SkZjQ0hyeWJfTVNwUVZRWmlVV19mV3VaSnBITUdiTjZEZWtiZEhDeE95Uy1hN3FhS3RYUGUwZTI1RDVTbGN3QkxpTEdyRjZ0dVNZSHVUMDdBYi1CazF5NC1aWDljV3M4SkZsUE5EM0dIN19zcjhpbFhGcy1CTGtlM0lRdTRqTkppcVhJZEgtdzlCanRLRk1pUElZLVctMjByVDhwY2FIUnFNVDJyanJrLTFvS2dBOFFn?oc=5",
+          "published": "Sat, 08 Aug 2026 15:14:47 GMT"
+        },
+        {
+          "title": "The eight minutes that saw Singapore reach the ASEAN Championship semifinals at Indonesia's expense - ESPN Philippines",
+          "publisher": "ESPN Philippines",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSUtLcXh5eTFCZk9TbzFwdG5Yd013eF90M3N5cEFYT2k3ZGgzWFU0d01tWjZDRE9Hbmd1NTVuR1ZYYTJVX2ZYTUpZQlV6LWk2TWxISGwwZjZpd3Q5REY4b3JaaVlpbnNNTVIwVk96anFzNm5GcmZoTGRqZkRUWWdvVmE2SmxqYWFNelJXS0prdEctcnh5NFNkaDNnQ0xKbWFCbjBZekJLOElKemtZNk9NRHUwRk5wOHlIS1Y1VWRBN09jbVVHMmcydTNR?oc=5",
+          "published": "Sat, 08 Aug 2026 16:00:54 GMT"
+        },
+        {
+          "title": "Vietnam beat Cambodia 3-1 to top ASEAN Cup Group A - VnExpress International",
+          "publisher": "VnExpress International",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlNVMThpVnptbkYxSVF2YkF0VF9pbHl6NElIbDNyMmxrU3NTT0MtWnhuRy1kNFhpb1kwMHR2QThlXy1tWGI4RXMyb0NyMkluQklvVU1leFJ5NHppQXY1cjBFWWhfX01uSko3d3AtdE1DY2FXNUs1M1RhVG1kZWNCVUFYekotZjBCSDQwdXo3Wk1Da2lLNGFGNTBPT1pSN1BrcU9YYndR?oc=5",
+          "published": "Fri, 07 Aug 2026 12:57:11 GMT"
+        },
+        {
+          "title": "Coach Rennie praises All Blacks character in fighting win over Stormers - CNA",
           "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYmJpT0JqMVhNMkhZWXpTdy1IYU0wdVRyOWk5M0t6eDlJbDBXVUhic2VDM0QwTFB6LWVZaWRvRVBfa09uSk1QWXhfTDdTOU5zYzJtVEtEb2h3WXdIRklkcUlHNWZFSGRvdFVRYkFiLWtSUEdyWDVJQ1cwejBiazFjVjBoRzVBbXYwZHFUUFZCTGMyaEFzdHRBMWd4NF9KYkc0MFFSeG1ZNEd2NGRYQlF2ZDBlaDQ2V0VD?oc=5",
-          "published": "Fri, 07 Aug 2026 17:14:58 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1FvbzNMT0hYQjVENTdTbnNjZzJNcFdLeTFJX1ZhMFRjTDU3cXpERTMtX0RYYVhISllpRXN2V2lOSm5YSUVrSW01bjdEZndzTzdfR1J6ZnFTTEZpSTFwdXZ6MDFVY0hELTlBMUhzbGlnbi1NdGktVjIyVlpxb0FEb084R3pmZks0dkJTYnZpV1V1ZFBMbXpIT2c1R0FhdHNnWVpBT2pVUGRXcXpDTHBqVGpqRF9BX1JK?oc=5",
+          "published": "Fri, 07 Aug 2026 20:30:07 GMT"
         },
         {
-          "title": "What every team needs to qualify for the 2026 ASEAN Championship semifinals - ESPN Singapore",
+          "title": "Jorge Messi, the father of Lionel, dies at 68 - ESPN Singapore",
           "publisher": "ESPN Singapore",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPXzdLcy1QUGk1Q1B6VGdsN05YbTFBTmxLM2trSjNVd01nQ0RDTWVWVmdEaUNXVmk2ZjdpNmozUDFONHh5d1JNVDVLUHc3NkdCMXVkd0d3WHZLM0xwZG9YSFItblVvSGd6aEhncUZlUy1lQnpLWWp6VUdXN1BidGpPVlBUTzdsWTN5Q19kRFhzTXE1SFMwdGk0R3Z6RVMwMFJEN1pKQU5tNWpJT2NvWlRZ?oc=5",
-          "published": "Fri, 07 Aug 2026 19:10:23 GMT"
-        },
-        {
-          "title": "Man City reject Barcelona's opening €50m Rodri offer - sources - ESPN Singapore",
-          "publisher": "ESPN Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd1JFNjJ6bHB0dURMVXEwZmZZRFFzQUhzam9uZHRyUWI2dkYyRzhNQ0ZYMXlhVnVqM0hRenNSYXBZNllUUlNNbzI3ZHAxajJiSFpNejBNLU0wSVdGdE5sdUF0YW9VLVE2WUZ4NlFPYW1ZSHdoLXhkUm9VdkhlSVA4V0Y0czNaTDl2a2xMZ0FLOC1qR1RZd0ZJcWt4cUJNZ3pNT1MtQWczRm5VdzYwblhCU3lDZXUtUmhRRXNBYmRLb2l4UQ?oc=5",
-          "published": "Fri, 07 Aug 2026 16:08:39 GMT"
-        },
-        {
-          "title": "Vinícius Jr. agrees new 6-year deal to stay at Real Madrid - ESPN Singapore",
-          "publisher": "ESPN Singapore",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHlwbHNvTThOa2pyanZtR3BqUUczd1JXdDBUR1liSEUzcDl6T0pTVktHZU1jYzdvRjhpWm54LUxjZkRqQ19YcXJ1VUF0cjlKSEUteFctbFZWZzNjVVVGRWk4LTFOb3RFOWViRHhnNTlPdHN0Xzl3dUJKWDltNVpFMERlR3AtUDJWY2lTTHBCNHVYeWlBSnZjUWhKeHY1X0k2dVYxbA?oc=5",
-          "published": "Thu, 06 Aug 2026 21:09:43 GMT"
-        },
-        {
-          "title": "FIFPRO accuses Gianni Infantino of 'profound abuse of power' over World Cup plan - ESPN Singapore",
-          "publisher": "ESPN Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlNJT0ZUUUFSNG5nQW9tVm9wSEhNdUtISHBBaE5QSnl1UUdkT2JIYkxpd1BpNUhtZi1NZjE4Q0lrWDlLdVdrWklLbUpRX18wNzh4SmhIUnJfcF9oQVVMN085aGRzd0FkaXBGdkhpYkN3V1UzOUxCZWYxVzlZUXE1ZmtGTk5WeUFtVW1LVEdHMzZnWGpxVzYxMWJHZDhlYk9LZU40NUp1eFgyQkVjcDhGUUYwblh2Q0hnLVE?oc=5",
-          "published": "Thu, 06 Aug 2026 18:09:43 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkJxWUJoRlNwN3NCeGJIVnlXLUdXbC1aMFZDMmlQYlc5LXFuY19pTVlBYTI2Z1AzbGJndU5faDBVVU1YVVZob3daUmlIdkRRZW05Zmc2TTlCdzQ4N1Y4cmtjRWJQbzk0Ty1zVWdRT01jb3pvYWtqVHVWOXJzZHhQZGVpWjI5X3QxWGxGSC01ZVdxZkk?oc=5",
+          "published": "Sat, 08 Aug 2026 18:35:28 GMT"
         }
       ]
     },
@@ -159,10 +159,10 @@
           "published": "Fri, 07 Aug 2026 08:13:13 GMT"
         },
         {
-          "title": "Twelve on Time: Urwerk's Felix Baumgartner and his Personal Relationship with Time and Watches - Monochrome Watches",
-          "publisher": "Monochrome Watches",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmttUDhrNnhycEI5R0d2Wm82THpNUFVOVERiZHZ2Qi1WUXdNcHVvM25rRXhLRVRXZjNiQ3dvLThKNll6eHVGSXBFX1RPR1g5WGt6S0NuSEh2MmxuOXR4RHY5UHJDR1ZBZmhYMFpta1RIVWJLNm9ndk9tRGkxd2JvcGdESFhLWGR2bk1FWDlJWXdOR1FJLWtycDdhWUZlVUNlaUZsVExKbm4wYndibG5rZTRtN0wxTGtQMVUwNmFlM1g?oc=5",
-          "published": "Fri, 07 Aug 2026 12:00:31 GMT"
+          "title": "The Straits Times Weekly Bestsellers Aug 8 - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmZXeGRnZl9nalFLQkYxV21ZUm40aGpaM2xZVl9EeGZEX2UtZUlKSVkyNHlGQ1h5LWdzbS1sSU9RUWNxWEczdndmc0syYzM4WjRDT1g1cUwzU3RFRzFRcVVjQXVhZXRBTjVDR3hteFhYQVEySFdFdzdYTEl5eU50UWxTVElKQjFV?oc=5",
+          "published": "Sat, 08 Aug 2026 05:11:00 GMT"
         },
         {
           "title": "Grab Launches AI Powered Call Service to Help Seniors Book Rides with a Simple Phone Call - Alvinology",
@@ -177,10 +177,10 @@
           "published": "Fri, 07 Aug 2026 07:53:00 GMT"
         },
         {
-          "title": "Sungkyunkwan University researchers develop catalyst to turn CO2 into useful chemicals - The Korea Times",
-          "publisher": "The Korea Times",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMXRQVjR0YVRWcjA5b1RqeVhza1YtZHh6NlRFLXRfNEI1eFNGX051Ulpsak1UN09GS2dhTGppb05RNHgtdGdfamJPUFJJVmdsN19kRnoyeG81UE9KbzNuZ2N2NVlEeHBWOWJFVjNhUWJ1ako4alhkZEM3MXhEbk9hcWljU3BFTHZsX0FObGpsS3N3Qm1YNGN1Z0VranRYZ3pwVHNqc2pqZk1fS0ZnVnhMclgyWlk0UUpRa0RJajZQYzdqX05zeG1sOGtxSF9GcjVwbmhObnVRYjBwVi1IaXfSAeMBQVVfeXFMTkVDeHdQOXljckdkLVhSLXpRUnYyWVR1SWdWQmhIMl9GYWNSWmdYWFh3T042VVJJaTNobTdvR1Jvd25hOGo0OVJ2eEtDTi1iUVNSMmxvT0kzX0ExQ240VGlkeXh0X2tENzF4dTZNYVlrazRoZjdwNkRtb01rTDhmaXVNN2JDd09pZXU3VHZpU2oxYS03UGlUYXlDbldRanI5d0c5bWR5ZVZRN3pGUExWYi1sTjkwVk9yaTBBMWhzNlh0M1pLbnk3ZncyQ29NTVA2ZlBHVi15ejl5a1RGaWY1aldzZjg?oc=5",
-          "published": "Fri, 07 Aug 2026 02:13:03 GMT"
+          "title": "AI and the Blurring of Reality - WSJ",
+          "publisher": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sTHdYaklsZE1LbFQ2cG1mby0tQkxXZ1pOV1BXbW4zWUltZTg2RUUzVjNpZHdiZ2xubEVtRFdjejd2NzBfNzlFeDJVQkl3Tm5HdUZ2WjdCcWs0M0Y5SVo4QW5fUU1VY2tBUDBmaDc3RzJfcDQtQnc?oc=5",
+          "published": "Fri, 07 Aug 2026 21:44:48 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Norway calls on Infantino to quit amid backing from Mexico, Argentina - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUduTWFUNTEyQW9CQ3BVU002YzBBczBIMnk3VG1OdWlzejJOMDdlaVpGd3p6V1oxSEE2a0pPdjQ1RnR4LTdGOUFXR3lPWmc0bFZQT2dQNXFXV1dsU2RFeTVuc3JqcHVuTFRRNG1obThleldjLWpJYmE5RE9VYUJ3R2hmNzlpd243MkF3ZURETl9GakE2ZjdoeVJKTTF0UGFMYk82YzRrYmNrRzZR?oc=5",
-          "published": "Fri, 07 Aug 2026 16:43:00 GMT"
+          "title": "Exclusive: Gianni Infantino’s ‘lover’ was paid off by Uefa - The Telegraph",
+          "publisher": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDIzOHB4Y2xfS0lwV3hTSVM4OFltbGNubG1INUNTQTBvX3JibDlWT1hXalhEVlk1VW16eThMSzFZZ1dEVXJmaEwxZkNnXzkwWl9uQUNrVk8wRDhfTzBwemJkYzcwYXExcktOT2xVWjlDWVRhTmt2aURTQnRYVHN4NmFyVF85b0JNQ0I5YnNsWWRNaHlC?oc=5",
+          "published": "Fri, 07 Aug 2026 20:12:00 GMT"
         },
         {
-          "title": "Infantino allies rally as Norway FA demands FIFA president's resignation - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWTJWaTZJVmF2Zm1DNDdfSDY5RzZBcVpLRjhPWjZtSjFnZUhoU0Z0cTMza3J0MGxoNnZjVFMycjdLWUV0a1ZoQUFNTHNJd2k1RHZoUW81VTFWRlhwYUExSHlmX29ZQkxvdWlmcnhRT2E4cmlNcVFqYUtTLXJjbmZjMjJfcmk3U00tU2FENjcyXzFmbk4ydTVSS2t5ZGpNR0U?oc=5",
-          "published": "Fri, 07 Aug 2026 16:07:28 GMT"
+          "title": "Soccer-FIFA Warns of Effort to Undermine Infantino as Leadership Crisis Deepens - U.S. News & World Report",
+          "publisher": "U.S. News & World Report",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWlZKazdiaWJDUUZzMW1JaHNUM3ExVVE3TzFhbTFTbHVyRGViZHhCZ0NlWi1pdUJkS2tRNHFDVnJMblh3TzNWMTRHdXFyMjdUTkZTT3h1Z195YTlySVNMcFFqYXdkZ0xMYWhaZVU5VEFvUXI5aWIwcEVrbk9IX3FlRkhJa2wwQnc5MXNHSm5FWjRPTWRUR0lSb2FrbkNwQkJUTjFTWDJyaW5pVko5N21aWGRDZkFlRE91dks1ZVpud0o3YU9oV2F1VzBjOElVZw?oc=5",
+          "published": "Sat, 08 Aug 2026 22:07:30 GMT"
         },
         {
-          "title": "Russia retains FIFA presidential voting rights despite global soccer ban - The New York Times",
+          "title": "The ‘King of Soccer’ Went Rogue and Nearly Lost His FIFA Empire - WSJ",
+          "publisher": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1J4ZU5jZ3Vua21GNEswQi12MDEwaERUX25EN2JmMW84MnVwdmduQncyYkdFS1JzYmNtMHIwSHBaUGUtbHRLQnI3NEEtbktBMWtCWXNpYU8wbFM1WHQwOU1nbmNyUFFxXzltREpaeTMzUWpPVEIwc2VQSWJFdHh1TW45R0Jfb0lIajZBOUotclR6STExMHlPTnM3R3hBdzgxMjkteTlqRQ?oc=5",
+          "published": "Sat, 08 Aug 2026 11:55:00 GMT"
+        },
+        {
+          "title": "Football is too powerful to have one king. It’s time to abolish the FIFA presidency - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQnVZdkZmSzNNQXNoM2dlNHZrSllPZjlqUHNOcVZ0Z1g5a2l0eVZMLUlZUkljX013aEpVa0dPbzFPc2hqNzdSRlpfR0wzMURfQzJhREFPOERGT2pQdk85eGJPZVd3NnBtWFczTk54LXVRRTVSRUFtLTVYbEtuQ1I1SFhaN2RFUQ?oc=5",
-          "published": "Fri, 07 Aug 2026 11:45:02 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTW0yeGpMMmdLVXltSUpEYUZUcGRNa29jRFlTUHUxaGl4UVdZLXV5TkZRNk1QMmlGVlVjczgzWXN5dGR2R0RPYkxzcXlGU3o4TllXdWhncnpDb2tnUERSVF9BVmh1V0xyWnBLeFNVUV9IU1RETVZDazAwdWxBQkd0MXJGcEMwR2hGRTN3VVdaWDhGNHdaSXc?oc=5",
+          "published": "Sat, 08 Aug 2026 07:02:00 GMT"
         },
         {
-          "title": "Norway's soccer federation calls on Gianni Infantino to resign over failed World Cup plan - ABC News - Breaking News, Latest News and Videos",
-          "publisher": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbF9CQXA5LTlrZURzR05tZGxjNDZ5LXdqa3dwdWdXaEFXcEo4VjhHTV9oTnR3SVhaeXozQkM2bW1XNDBYMWNxU21DYl9qT1NHWjNpV2N1d0h1d3NMOUVueTJaeVgwV2VKUWNlR2JDakFGMVBTZ1dCUDE4clJkSXctVVRRb010VG12UzY0dkZ5bTJnbDc4LTRUOEtVV2Fsclc5UEpjalpXd2dkMGlEa0HSAbMBQVVfeXFMTXBHTlR1SkdLOWdKazRROXJ6emJ2V3B6TzRuV1NNNGxhQk44OF9TYmFpbXJncHp2cS1LbHdVSEdveEtPd0tibHBiYUhxT0NWTFBienBJUTNFRnFqZTNsT0JxOHRxN3JSNVlZdTN4Q3RNcTBmU2RwcDZ0Yk9vNXZ6QUgweEVYSmZ1UnA1OFVQTXpxSlFLSHJPRERmWmkxWXBDRUt5UEhGb2FadnBZc2lXNlVzaFU?oc=5",
-          "published": "Fri, 07 Aug 2026 14:28:56 GMT"
-        },
-        {
-          "title": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEg1amVTbVFqN3RMakl5aHlwVEZzZ3JfYlVGWHV4MFgyVldKZUhHeUZndGdyREVHZ200UndSMkZ2eWRSRmhrWUwyYjlmelU1RjcxZTBDb29jZmdHdUV2Ynp2NlRjb2NEOU9HaFZncjBveFQwNGxzZVBMRXdBcjUwd0hiVzhaTVVnUzVRdXc3cnBMb2MxXzg3MTJ0N3dUMGdIUTRkMWZ6WQ?oc=5",
-          "published": "Fri, 07 Aug 2026 20:15:00 GMT"
+          "title": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb2FWNnF3d0hMWklfcGpETERmV1ZFVmxzLUU4R05IRlhkRWFOUjlxMXcxeFplYnZQYl9lUF95MEg5RXBWYklSdlFRd3RhWThHN2VwbFJvby1HdVpqX3lyY05LM2otX1FKSFgzcERUOGVLV2xmbk5KODYyTDMxQV9aLTFpLVFvNjdNUTlzbElLSERxUmc2V0tlV2IzZzlqRk9Zb2NKUW42N0RRQmdONjM5YXd2bGRjd9IBuwFBVV95cUxPeDV3d0VSUkhTcFFGeUpjVThtenhYQ2FYMWVNNWNnS25ocDhteC1POVhjcGRKcnVOUUhOWFZGblVueVlLeXFGUGRndDgxT3FPcjMyM1NNanNhNUN6OG5jei1ZaHBON2YwNWpiTEUwalJMeHRRVDlJUHBMSUFLUGJzX3k4NXFNNEg1alFFR01nZUdTWmR6OF9YM0lXLXB5RVhLX1I5aTRRdXlmZlFYLWUxNUJ4ZV95ZEQ0a2RB?oc=5",
+          "published": "Sat, 08 Aug 2026 14:10:19 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Director Matt Johnson Didn’t Understand the Anthony Bourdain Hype When He Signed on for A24’s ‘Tony’ - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObVBYUmxnT3g0NkZ1Vk9LaXdUc3BSQjFGcjhmMXZMSVFrenkydkRZVEFvbDZ0ZEFENS1mVGRKTmxNTzNQM1ZEV0VYaXNXblJ0NWdlOFZubjExb00tem02bWgtN0hXM3Q2MlI2Y3YyQjk3YURDTUFsWHN5eHVSQjVIdEJZRm5QU3NDcFV1cFBtRElZSXVlbHNaT0RGNWRReVJ2N3c2QjJ6Q05zOFdBQnZuc3kwZWFhR28wU2hzNg?oc=5",
-          "published": "Fri, 07 Aug 2026 17:20:25 GMT"
-        },
-        {
-          "title": "Jean Grey Speaks: Sadie Sink on Making Her MCU Debut in ‘Spider-Man: Brand New Day’ and the Mutant’s Future With the New X-Men - Variety",
+          "title": "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVh6VVctVWdSbk84MWw4UThXNnFRd0RLdFg0U3pOWXVVQXRWMTBleW5oWTlJZ2ZLamRncTBaSmVnRkdxd3FJTlhnbGlvLWdVVlFVQWhKMnkwSWRhb1lubHBRZjdlVVNuNkd0eEVhYW5RMmM0UldkVF9uZi0zXzBmbmRycFMySXFTOXZpbTM4QlpPRTVtVXhEVDBHTzZ3a0xsbzEtWDhOcnhYYXJaS0IxbUtB?oc=5",
-          "published": "Fri, 07 Aug 2026 15:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnFHMV9KbDVSa0lVMlE3aGIzMGtfWlFsa3FocVlHWTRmQ0Mwb1hZM1dVem1jaEdsemZzVmFIX1k5Qy1HVF9mTk0zTVdOazl2dTBuOVU1aHZzdFFvcVNVUjdPcnkxbTh0b29hMnVzQ2pyZGZmOG9hRllPSE1ma0dFcFFsbFh3UlZjNFRfbDZrNE84dl9HS3ctZzVsSHpsbUpVLVJR?oc=5",
+          "published": "Sat, 08 Aug 2026 15:50:00 GMT"
         },
         {
-          "title": "Taylor Frankie Paul's Felony Conviction Knocked Down to Misdemeanor - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYURzOXNjdkZveEhJa0MyRVl0bUFKY0dWUjI0VlcwWEpYMzYwMUJPSFJxbmUxb0JsQmlMbjFuN1gtbEJlUGRDelpOQl9NWE1hMEtNbXlyLVpXdzFucmc2R0tHM2wybTluYmkzdnNDaVB1YlZPRXg3UTBKd1dVWTdkWFFCUTJ1RkxzZzBkWGQ5RUFzRVJuSjctUl9QeHh3UHBs?oc=5",
-          "published": "Fri, 07 Aug 2026 18:50:13 GMT"
+          "title": "Perez Hilton's mental health crisis tests the limits of empathy - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVWpWUnNxbWVsM000Ml9MazdRUERSMlRVdk5IY2k1M3A5alRMYllQMXBDMmdHcU5ZTDNfeHhzNlFhS1pJbUY5RzVJZHNHN1BoTUxlM3BCTUxnVjZ4UjhvVmp4TWg0eG8xdVZJZ0Z4Z0J5ampNR3YwUFpHS0hmWVpfNHIyT2lqUmNuNkRLWWotbTZDaVpFSkotS3U1Nkpudm40dm4xeFZEbE4yNktoVUYtLWQzWUVtbGZQSHhQTFFfMFhDQy1aUUpJOHBUSVpOS3Rx?oc=5",
+          "published": "Sat, 08 Aug 2026 12:45:00 GMT"
         },
         {
-          "title": "The 100 Best Grateful Dead Songs - Rolling Stone",
+          "title": "Taylor Swift Removes ‘August’ From Team Trump TikTok Video - Rolling Stone",
           "publisher": "Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbkx1Ri03NTk5R1BBbkQ3Vm9OWHJaRUo0UWp6a0pBSEUzTEpfNmFiQUpfQ1g4bi05empVUHJTem5tNjVlYkRrc2d1Mk41Wmo5N3RNbXFiYUw5elFxSU9qbGZlX1UzbUctWElNTlFSM0dyM1BmUDI2QU5ya1N3eEppbnJHbjlqNEZVVzlz?oc=5",
-          "published": "Fri, 07 Aug 2026 15:42:51 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGczMU9HRXhUUXA3QVFndzJXdFRQVFpoaExHSks4SERYcG9lSW9SMzhMYjd0UjJHSHBBLWJyMk5KLVRsYjR4WnpFWk1GMlRrMzFTUFZMbzR2bnh4RjJRbUlMRXZ1T3FsZWtvbVNFMXhNTVFsZzJfNzhua3RvZzZnUC1fbVdPOTFtTF9PX3p4czRiUGhwbktMa2lHbF9KOEFEVFJiQk5XQy1yamRWT1E?oc=5",
+          "published": "Sat, 08 Aug 2026 15:00:14 GMT"
         },
         {
-          "title": "Perez Hilton's family asks paparazzi to give children privacy as new details around crisis emerge - Los Angeles Times",
-          "publisher": "Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVFVfbm11UlB1UHdvUjBWaGJiOHg1TUVYbWpSdXdCNVQ4UHpubTBYbF9zdFlCUkl5LXUteGowU0NNNWF2cDExWWh1ZW5LSFZXNl9NRWprOUhBcVZzcWJwM3MzOWplbGZuaU55b3UyRDBWTEY0NkN2bEZSM05pQ3ZVME5adjRyMlQ0eEcwUThYbDYzeG0yZ2R4Q2VtQk5xZWtMS0c0b1VaMjZGbXFCa0dUeWd3TmpzNTJxTFRFVVdPUENKZw?oc=5",
-          "published": "Fri, 07 Aug 2026 00:18:00 GMT"
+          "title": "How ‘Spider-Man: Brand New Day’s’ Climactic Fight Scene Secretly Evokes Jean Grey’s Phoenix - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFJKZnNtb0hxRmVHWHBUTk9JaXR3dXFvZFhnQzV6bTN4Y3MwbldwSUh2ZXFDYkFMdkJEN1ZBSVVuWTJUdGlNaGlsQzJGakNKcTI2M0R5WWtsQzNzc2pzTnY3Tjk1Y25fX1Z4RG9ael9HRHgweFA0VERfazlQdkJPc3RXRkgwVE5SN3RTcFVBM2NtOG45d1RyVm45ZEJQdw?oc=5",
+          "published": "Sat, 08 Aug 2026 15:30:00 GMT"
+        },
+        {
+          "title": "John Goodman runs into famous fan ahead of big-screen comeback - Entertainment Weekly",
+          "publisher": "Entertainment Weekly",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY3ZjeVFkLUNJRVlrY2V6bEsyX2dPRC0yX2pBY19VWVR6ZDZDZEt3S2dPRWI4b2dFeHJLeF8xZ1p0VmFMb3VfbXlnanZ2QmpSekQ3S0dHbDhHTFdHMWlVRnhDbldnRmdmd0xDVHc0amNUQ3JXYUY4VE9CRE9hb01IeGlWV3hoaEdic0E?oc=5",
+          "published": "Sat, 08 Aug 2026 19:09:10 GMT"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "market": "FI",
-  "generatedAt": "2026-08-07T22:33:03.518213Z",
-  "validForDate": "2026-08-07",
+  "generatedAt": "2026-08-08T22:27:22.692730Z",
+  "validForDate": "2026-08-08",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Nämä taudit leviävät lähellä Suomen rajaa – afrikkalainen sikarutto ei ole ainoa - Ilta-Sanomat",
+          "title": "Päivitetty | Espoossa kadonnut mies on tavoitettu | Paikalliset - Länsiväylä",
+          "publisher": "Länsiväylä",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1R09XZmRUUldHZUI1VHEtdF9TaGUyS2RHT2tzS3JZSDUwRG1lUnU3amVyb0VLSjFLVllOOGRBYXJyM01OYm4tSnVMVHVaaGMtYTcwZ3dCNUM?oc=5",
+          "published": "Sat, 08 Aug 2026 16:03:54 GMT"
+        },
+        {
+          "title": "Mies ampui laukauksia ilmaan käsiaseella Käpylässä - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA3ZnMwZEFSUm9Sa001b1lGeURxS3dJOFF0Yl8xQzhyWUNOMGtvS0pQV21CSTdDRTBCY0lIRkttTHpBZw?oc=5",
+          "published": "Sat, 08 Aug 2026 11:21:55 GMT"
+        },
+        {
+          "title": "Tässä on Loton oikea rivi – kolmelle pelaajalle muhkea voitto - Ilta-Sanomat",
           "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93THVmVk5maGZVV3NSaEtCTFA3WlRCZUZNRDNRVVhZYVEtOGJZSk9rRTZ3QXZfYnVoOVUzRnBLeVVXMVhYSnhCRUY5czFEcHRQTUpVbjZlTmFId21M?oc=5",
-          "published": "Fri, 07 Aug 2026 16:19:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vNk9td0JhRV92SVhRVXRtOVhOODdiamRIMVNqZ0lzckRpWnZSSnJLWkFWUmo5MEJnMmFoZ1dXNnhWVHIyREIzdmJjTVN3Y1IzYmpkWEtRaVZ6YWoz?oc=5",
+          "published": "Sat, 08 Aug 2026 19:51:00 GMT"
         },
         {
-          "title": "Lahtelainen Reissu Ruoti lopetti kaiken liikenteensä, konkurssi häämöttää – syypäitä toimiala, Teheran ja Washington - Etelä-Suomen Sanomat",
-          "publisher": "Etelä-Suomen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9teXl3ckxHaUFDR21NSGl5RU5FV0pvdzE1QV9vcUpCc2h3ZWhKQUc2LTdBZWczQzBZaFN6V3M2TUxQOUhaYWZqYXd3aHdGV1k?oc=5",
-          "published": "Fri, 07 Aug 2026 14:10:32 GMT"
+          "title": "Ilmajoella vakava liikenneonnettomuus - iltalehti.fi",
+          "publisher": "iltalehti.fi",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ob3ZYakJtNnNPTnVQMm9waHUyRXE2QVp6c25zcVFmSHBJYUZaMUpVRmdsNzZvY2tqcFRnRHdPaVdjWDdmcmIwLW9rNV9CQ3hFOUFpaTJXcXN0a0ZtZXV6c3BUVmM4OEx3V2lDaWxqc0s4ZDZlQnpocjhJRQ?oc=5",
+          "published": "Sat, 08 Aug 2026 19:42:03 GMT"
         },
         {
-          "title": "Verkkouutiset: Kokoomuspomo selventää, mitä tarkoitti kommentillaan Rydmanin avaukseen - Keskisuomalainen",
-          "publisher": "Keskisuomalainen",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xMlphQlFFMVM3aXQ2dV9UclRGaklQalNtQ0hhYzducDBYMml3TGRJNzI0Y0VTM3dUVGVBemk3cWNPN29LbEdSZF83SVJPZ3Jtc19uQlRhdw?oc=5",
-          "published": "Fri, 07 Aug 2026 13:00:24 GMT"
-        },
-        {
-          "title": "Puuilossa erikoinen varkausaalto – Yle: Tähän tuotetta saatetaan käyttää - Iltalehti",
-          "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBakxtb0RqYUl5blVmR1hrSTRya1lDUXdUOVRUdWRVd0RvOUxfWm55QWJDQ1dITjl6UDdBbTVZM1hmcG5GY19LUnZHQzRlR0VTZWp6NkVXM0x0eWpPNUN1ZWN2YXN3TXlBUHM5ZG5rX203OWN6dnlTOGtROA?oc=5",
-          "published": "Fri, 07 Aug 2026 14:27:40 GMT"
-        },
-        {
-          "title": "Meteorologi huomasi säässä jotain ”jännää” – asutko tällä pienellä alueella? - Ilta-Sanomat",
-          "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hdHozWV8wSjd1dGpwc201YWJOdGJPZnJ4TDZQQUhxdk5ZakdyU0UtbmdFODZyLTVNNTc0NnMzMUNjZXZBRWlwVkFHTEhodFVzVVUtbjdGbHd1NUgx?oc=5",
-          "published": "Fri, 07 Aug 2026 18:36:00 GMT"
+          "title": "Metsästyskausi alkaa tavanomaisesti – yhtä huolestuttavaa poikkeusta lukuunottamatta - mtvuutiset.fi",
+          "publisher": "mtvuutiset.fi",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTlRSczVONzVraUQ3VjlYLXRfSFZudW1yd2huazE2SFpkR0ZDMXRQSlRKdklDMlBHcC1kUVhFaFM3eDBlNGNvU1NmbXBqeVBNTjdXQzN3dmFPSmRNaWVPeDY2cUVSSHBGU2MteEFnTlRWQ19XeUQ0eXdIdkx0VzQ4VUhuRkxYYTc4bEY0eVJ0RkNBV3BvRzFFYkJpeWkySXNwQmdPMlh1WlgyZUtNT1NhOGZndFhyV2Vu?oc=5",
+          "published": "Sat, 08 Aug 2026 14:39:19 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Espanja aloittaa vastatoimena rajatarkastukset Italialle - Yle",
+          "title": "Ceutan rajakriisi repii railoa Italian ja Espanjan välille – asiantuntija: EU antautui hybridioperaatiolle - Yle",
           "publisher": "Yle",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1UX0VtajJXRnNLUWUzX3hKb0ZRdWszb2RWX0NBb241UUxMUUhPZmJ4LWVxT3JuS0xrSHNnbzMwUWR4dw?oc=5",
-          "published": "Fri, 07 Aug 2026 19:49:59 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0zUDczZ3IwTFpZdEI4Z3l3cnc0RzZtQzJFNGIwMTZLZDZpQUpnTGVZaHhrcjZ2MEdtd3hNZjVJYTV0QQ?oc=5",
+          "published": "Sat, 08 Aug 2026 14:39:09 GMT"
         },
         {
-          "title": "Yhdysvallat | Oikeus määräsi Trumpin keskeyttämään Valkoisen talon juhlasaliurakan - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91c0FSYnBtYjB6QkloZjJXbVhHaFBVM1QwREdqaThHbDc2eElFUFk2WFZBelNCR1ljSUJucHpaejlmbU15d19sZk0xYzV3Q09oclNka3UtZ2JDbkJF?oc=5",
-          "published": "Fri, 07 Aug 2026 19:08:00 GMT"
+          "title": "Media: Venäläisten suhtautumisessa Ukrainan sotaan käänne – taustalla selkeä syy - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vVjJqV3ZlSFNXTjU1VjVCcGtKTkQ0blF1TmU1NDBTMmJJbVcxU0VWVzQ0WC1OYzJFblhQMmloTmNna2xzenIzZ2IwSlEwNzhpcXlDRDM1Vmp0b1lzN2c?oc=5",
+          "published": "Sat, 08 Aug 2026 18:30:00 GMT"
         },
         {
-          "title": "Venezuelassa alkoivat neuvottelut opposition ja väliaikaishallinnon välillä - Länsi-Savo",
-          "publisher": "Länsi-Savo",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuZU1KUVBCZl81YnZOR1VmSXdweXQzemd6dFhEamhqUHdlbTdaa2RyT054ODE0MTVZYWNoTWtfLU9HUHRud0ZDUWRUQ2Q0d0phOXZOMk9rZUhNRDJpNHR3?oc=5",
-          "published": "Fri, 07 Aug 2026 16:51:48 GMT"
+          "title": "Media: Venäjään kytkeytyvät tilit levittivät valheita Ceuta-kriisistä - iltalehti.fi",
+          "publisher": "iltalehti.fi",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6WXZRaXpTcHBCN1BodkFOMG9GZG1iNVpSMWI4eWJCMDhzSGxjZ05yVnBlcVF4SWpOMzNyZkF5dVFMR1BMM21pWlJ0UUdSVDRIb052NVRRb3BlRjk2QTNZNG5Za2JPQW9yd3FydjlHSUlfNFFob0NDemxyQk8?oc=5",
+          "published": "Sat, 08 Aug 2026 12:48:34 GMT"
         },
         {
-          "title": "Asiantuntija tyrmää uuden arvion Putinista – Tätä sotatoimet Natoa vastaan vaatisivat - Iltalehti",
-          "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJZThraUVod3RZZXpmekRURlN6aHJ5b0hQUzJXZG5wZFFuX2pJRFcxbVhRZi1PNlNpOGRncXhud1FTOEhuOHZLVEQxYXZRSG9wMHpLdm4xa3hXOHNJd0FVeHduMUdBcTRUaTNFb3ktSlZaU2Fob1JnNFhJUFo?oc=5",
-          "published": "Fri, 07 Aug 2026 20:24:31 GMT"
+          "title": "Bulgaria: Auringonkukkapellolla räjähtänyt drooni oli ukrainalaista mallia - Aamulehti",
+          "publisher": "Aamulehti",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zZFpocVdSXzVOX1JoZjZsZDNhLXpYLXZVS29VaVgtdGo4QjdiamFEQXkwZUdTaE9BUXVWM1ZzQk1VSk5WaG9hQXh2YldRRjFMM3lYUnNjTDd5SGcwVGl2Y2JJVVp6RDg?oc=5",
+          "published": "Sat, 08 Aug 2026 12:52:00 GMT"
         },
         {
-          "title": "Yhdys­val­loissa senaatti hyväksyi laajat Venäjä-​pakotteet - savonsanomat.fi",
-          "publisher": "savonsanomat.fi",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpcHlybngyY0JkbmJMaUVMSVEyYlhzdzZoYnVhOGRtVzhGZ0Fxa0V0QXNKVzJLUHdKQi1ZNldNdExYY1ZDd1l4Y1BnNGRCeHJvMGlVekl2YjZuWERZTWc2aENB?oc=5",
-          "published": "Fri, 07 Aug 2026 20:31:13 GMT"
+          "title": "Thaimaan kouluampumisen uhriluku nousi – 12-vuotias tyttö kuoli - Hämeen Sanomat",
+          "publisher": "Hämeen Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jbW5OSnB2Qkg5WTNXcnlFZzd0QzNDTElBaWFLeW5HMG5IcWhrdkZraFhER3VQeERTMlh5Vk5vY2l4Nm90cmw1ZTBmanY5a3VWTFlHREluTEtiMmlRNkdSQzA2SQ?oc=5",
+          "published": "Sat, 08 Aug 2026 18:12:18 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Bittiumin raketointi piristi Helsingin pörssin perjantaita - Arvopaperi",
-          "publisher": "Arvopaperi",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMbVMxc0QxME9mV2trdTVhaWJmb2RQMUNyX3Nfc3BhQ0dXOEV4U19yZTh3RFhiU2lIQ2k2c2ZBbVJUM2NwOUliRlpBbUw0ekJ3M1VQRWpMc0RsZTB1TTYxWXRvd1ExeFppeTdwamdkX1AzcFVVQ3VzWWR1N2c?oc=5",
-          "published": "Fri, 07 Aug 2026 15:40:03 GMT"
+          "title": "Dollarstore heikensi jälleen Tokmannin tulosta, liikevaihto kasvoi - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sbHdjeU1hcGNuaHQ1WXhQTkcyU0pXVDhRTmxqT0ZDMU1TazVzVWV2a0JLWFZqMUsxdi1nUGZIbUdnUQ?oc=5",
+          "published": "Fri, 07 Aug 2026 05:57:46 GMT"
         },
         {
-          "title": "Yhdysvaltojen työllisyysluvut alittivat odotukset, mikä sai pörssit nousuun - Forssan Lehti",
-          "publisher": "Forssan Lehti",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKeWlRaG9MUHhKWDNrMEU1XzBUWU9oWEpwZjNmX3lfT2lVVlVzdXlwM1NVY3lTZGxXTWswOElHOTNpWnlpQWc0YUZIQUlzU3lfVUtSeDd5S0xxRzZob0gyNkZn?oc=5",
-          "published": "Fri, 07 Aug 2026 20:34:15 GMT"
+          "title": "Liuta tunnettuja suomalaisyrityksiä konkurssiin – Katso murheellinen lista - iltalehti.fi",
+          "publisher": "iltalehti.fi",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfU0dIZ09fc1ZuXzVXdU9XVGdGSWtfM2Z0NTAzd1VuVm5QdDM1M3Etb0JBdFlMclY4bTBHRlkyLU9MOTY4bERpSUtxOFItU0JHdFdGY0dFLVI0cEh5LV9MTnlsRy1DSU5ONnJvazNyc3pwdmtPWlJxaWJB?oc=5",
+          "published": "Sat, 08 Aug 2026 12:09:01 GMT"
         },
         {
-          "title": "Tokmanni Group Oyj:n puolivuosikatsaus tammi–kesäkuu 2026: Tokmanni-segmentissä vakaata kehitystä ja Dollarstore-segmentissä edistymistä vuoden 2026 toisella neljänneksellä - Cision News",
-          "publisher": "Cision News",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSG93WkthTjdWUkIycnJqWUpHNkRKQ1FkdDUybUhVRkZvNkJZeEctdnF5OGc1blhBS1M3MnFFUHN1bnQxdGtVTWxmckd5aGZPd25JeHJFNG94NnpWOGV3NW54a2hwTzJOc2xBUzFsYjJaZTRvT1kwZ0JVdlhHT2ZhTk14Znk4YWEwZFBKdkt2Zkp2YW9QMEhCQnZKazk3WEN2dzVNMjM1ZXBoRlBEM0NjOW5lZ01tV3hYTXA5QlpMbUYzUGJCZENmMU9FYjEyeUptTndjTWx2dlVRZGh5b212ajQ4SkZKTVNocmIwNlJB?oc=5",
-          "published": "Fri, 07 Aug 2026 05:00:00 GMT"
+          "title": "PÖRSSI: Bittiumin raketointi piristi Helsingin pörssin perjantaita - Kauppalehti",
+          "publisher": "Kauppalehti",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFa2NmRTd0Tm5TR2htUGJmeV9iV3l6QlFmSEZjd2l6VHZGdWJ1LV9RTjNTbWVZTXlVUzFjd1QtSmJEeVdTSzd6QlgweG5qU28xTjBiUTlMbzlqU3RzTl9PcjBsV2tieXlwNk1tS2p2TzlTNlVzTm5UUnN4RmQtUQ?oc=5",
+          "published": "Fri, 07 Aug 2026 15:34:59 GMT"
         },
         {
-          "title": "Yhdysvallat | Meta määrättiin maksamaan satoja miljoonia nuorten mielenterveyden hyväksi - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zMGJGRlN1ZTVZVUFJRnhIRVR3QmpKUlNhelIxU2pUbmE3VVAwc21YN3EyenhuYV9fRVZWRllnejc0Zjk5WEtQeGUwb19aRnladDFCV09Hak5Nc2hr?oc=5",
-          "published": "Fri, 07 Aug 2026 04:32:00 GMT"
+          "title": "Suomalainen tomaattiyritys hakeutui konkurssiin - Aamulehti",
+          "publisher": "Aamulehti",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQV0hRZHNiVGk0UXBpUzI0dHhlT1VleEp5Njk3NHY3eUUyWkRGcmZqUEpIUVNNbVhHYTZTcVp3VjJ5ekd5dlhGeV93dkhWY0p5UmJYeXBXQmxQM25INzcxT013ZDc?oc=5",
+          "published": "Sat, 08 Aug 2026 18:32:00 GMT"
         },
         {
-          "title": "Suomalaisten sähkön hintaan tulossa iso muutos - Talouselämä",
-          "publisher": "Talouselämä",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GLTJ5eUtYbUtCbDItWmxiV05xWW52YWktU3Z4dUtCaURac0hQTXp1NUdMWGd4OVFpZmstYlBITW1pV1IyOEtaTGphRW41dnE1YmFHLUd2eF9jbzkyNTFtdmpsbkZMbDVNRm14dXN6N2Z2Z3R4UG53eU92VkdXUQ?oc=5",
-          "published": "Fri, 07 Aug 2026 11:46:36 GMT"
+          "title": "Betolar Oyj:n ylimääräisen yhtiökokouksen päätökset sekä hallituksen järjestäytyminen - news.cision.com",
+          "publisher": "news.cision.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVHN6QzJUbGROSFZsZlZNdHdlbEVUVkhMR1RVMHo5cm03aFBIVG5LOWlBLWdYRFlPNHVKc01pcGFVVF81LXhaeUs0enJ0RkZDbXJrTmZfWEJ6QjhxZlBnWjNjQ05iajE3MUdjLVBSZEJ4aklzSnFaMjBHS1FidTB0NGhYdDZwS3RyTGtoUTZJeExvZUJpb2E1YU9kMGRnWU15TzNxM1M1ZmNpZEFHYjlXQ2JVTVN5U0tueXVUWGtqY0xTTllHZVNHNTBXeWJwelNh?oc=5",
+          "published": "Fri, 07 Aug 2026 09:15:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Kova käänne Infantino-kohussa – Argentiina täräytti jättiuutisen - Ilta-Sanomat",
+          "title": "Tappara hukkasi voiton avaimet – SM-liigan maalitykki loisti Tampereella - iltalehti.fi",
+          "publisher": "iltalehti.fi",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqdE0wUmJBa3RZd0JnWUVOTGFJSFpxdjljS1I2Q3ZrbDNzTDJkWGM0ZnFTdkVEYlRFZDBDU0hsaDNCTms3S2RpT1dpaGl0bEpfYzFjMmIxeVNOQjFSdXcwZ0pnSzJzZlRKb2ZDdDduWE9tTk5ReXNFU3Ffbw?oc=5",
+          "published": "Sat, 08 Aug 2026 15:31:47 GMT"
+        },
+        {
+          "title": "Mestarien liigasta tyly suomalaisuutinen – kaikki ulkona - Ilta-Sanomat",
           "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SQzJiTTcwZTJ6N3k4azhBZGppbVFhb21HMDR2UmdjSHN4aE80ZGFzVk93UXFNcGlDWVR6MjM3OFZkaVZ6Q1A0QWFNNVVRd0lQYnNjM0xJV3UxeEREQzdoVg?oc=5",
-          "published": "Fri, 07 Aug 2026 17:06:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0VUZ4N0dQZFNqZzJQbGFXMUxTVkVvQXliLUVPQjFFd1d6aDdSVXl0ZEM3RkcwZjB0RURiY3o4UlRGN2ZmMDlxZlVwRVRLRGlWZTUyUy1FMm0xbkZBdFJ2b2l3NDJ4dw?oc=5",
+          "published": "Sat, 08 Aug 2026 19:47:00 GMT"
         },
         {
-          "title": "Yleisurheilu | Asiantuntija vertaa Enni Virjosen ja Saga Vannisen tuloksia: ”Samanikäistä Vannista edellä” - HS.fi",
+          "title": "Selkävaivat yllättivät Krista Tervon – näin Suomen mitalitoivon lähteminen EM-kisoihin ratkesi - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4OHk5R2tIM0R1aFFza2VGT2txQ3VHOGJYU2ItUF9qOFB0VU1KMFZVYllwWkFpWFhQNXR5dllHa2tGQQ?oc=5",
+          "published": "Sat, 08 Aug 2026 17:44:33 GMT"
+        },
+        {
+          "title": "Lionel Messin isä on kuollut - Aamulehti",
+          "publisher": "Aamulehti",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KT3RQdk9hSVJJc0JxNDJiMjZ3dlp2STctN2haY3lmNElnRE1RUEV1SWQyV3ZBR2JWTUVTTElZVm1kWjAyT3J6alhhaWVUUXkzY0pkOWNQMmhiUFp4MWdCcjRyWHczdw?oc=5",
+          "published": "Sat, 08 Aug 2026 15:37:00 GMT"
+        },
+        {
+          "title": "Jääkiekko | Ville Koivusen poikkeuksellisesta NHL-sopimuksesta nousi kohu: ”Osasin ennakoida” - HS.fi",
           "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIekV4TURKRW1ObFZ1Z19UQzhUY2szLUtlUk55WDgxRm1yV1lOTVNibHpOLWZKb0lCRmJ5bTQ5VmtqSG52OVh5WU1NNWIzY0xNX25GSXFjNjlhX3Fa?oc=5",
-          "published": "Fri, 07 Aug 2026 16:13:00 GMT"
-        },
-        {
-          "title": "HPK jyräsi Pitsiturnauksen mestariksi – ei päästänyt maaliakaan - mtvuutiset.fi",
-          "publisher": "mtvuutiset.fi",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTNocV9GU0Vudk5iazZ3SldRUEJ4UWVFMmJPT0dZVVItR2Z5TkJkcnRxd0ZQcnBDMzZ2cWJsX1o5Y3c2ck5FMzNVVl9kQlg0anlTVGJ3Y05zLWl2a0lJSE52MjhnWkp4TFowODdoZnJOa3ZjLXVYc3BqemFoUlNmRHZxLVdkekEwRUE5QXhxUk5rWVlHcE1CNUVBSFc3YmQ0YUxVLW5KRDk?oc=5",
-          "published": "Fri, 07 Aug 2026 18:41:00 GMT"
-        },
-        {
-          "title": "SM-liigaan palannut tähti kuritti HIFK:ta – Olli Jokisen miehistössä suuri muutos - Ilta-Sanomat",
-          "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IU3kyWWlYUmNHUVZGekpIYVlobm9icTY2M0hnZlpGcWZBTTVud2kzRDFDeFRMWWFzUGdnSzZFUUxaZXE3WU1xMzM2LWl1RHdpOFZ1UmItd09hSnIwR3c?oc=5",
-          "published": "Fri, 07 Aug 2026 15:34:00 GMT"
-        },
-        {
-          "title": "Jalkapallo | Roman Eremenko laukoi huikean maalin, Gnistan ohitti HJK:n Veikkausliigassa - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4RjRPTU8wdzQyUFZndm9UdktNWkpRNVJHb2VEVFByT2FrMEZFM1NMRTJVanVJbkNLeGM1d0tkZnRWQm5uRmdKWXEwUV9VVnN3aWZEaU9OZlFXcXpk?oc=5",
-          "published": "Fri, 07 Aug 2026 18:06:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtT05sOGg0M3lFQXB3akRnSmltSFhGbjVuQnRoUkhidnRsd2dOT2lKOFdtMFA2T1ZBRWJ1aWoyUzBVSFBRNkdvQlByR1JFOE5rek5ER0tFNjhCR2J4?oc=5",
+          "published": "Sat, 08 Aug 2026 14:34:00 GMT"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Norway calls on Infantino to quit amid backing from Mexico, Argentina - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUduTWFUNTEyQW9CQ3BVU002YzBBczBIMnk3VG1OdWlzejJOMDdlaVpGd3p6V1oxSEE2a0pPdjQ1RnR4LTdGOUFXR3lPWmc0bFZQT2dQNXFXV1dsU2RFeTVuc3JqcHVuTFRRNG1obThleldjLWpJYmE5RE9VYUJ3R2hmNzlpd243MkF3ZURETl9GakE2ZjdoeVJKTTF0UGFMYk82YzRrYmNrRzZR?oc=5",
-          "published": "Fri, 07 Aug 2026 16:43:00 GMT"
+          "title": "Exclusive: Gianni Infantino’s ‘lover’ was paid off by Uefa - The Telegraph",
+          "publisher": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDIzOHB4Y2xfS0lwV3hTSVM4OFltbGNubG1INUNTQTBvX3JibDlWT1hXalhEVlk1VW16eThMSzFZZ1dEVXJmaEwxZkNnXzkwWl9uQUNrVk8wRDhfTzBwemJkYzcwYXExcktOT2xVWjlDWVRhTmt2aURTQnRYVHN4NmFyVF85b0JNQ0I5YnNsWWRNaHlC?oc=5",
+          "published": "Fri, 07 Aug 2026 20:12:00 GMT"
         },
         {
-          "title": "Infantino allies rally as Norway FA demands FIFA president's resignation - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWTJWaTZJVmF2Zm1DNDdfSDY5RzZBcVpLRjhPWjZtSjFnZUhoU0Z0cTMza3J0MGxoNnZjVFMycjdLWUV0a1ZoQUFNTHNJd2k1RHZoUW81VTFWRlhwYUExSHlmX29ZQkxvdWlmcnhRT2E4cmlNcVFqYUtTLXJjbmZjMjJfcmk3U00tU2FENjcyXzFmbk4ydTVSS2t5ZGpNR0U?oc=5",
-          "published": "Fri, 07 Aug 2026 16:07:28 GMT"
+          "title": "Soccer-FIFA Warns of Effort to Undermine Infantino as Leadership Crisis Deepens - U.S. News & World Report",
+          "publisher": "U.S. News & World Report",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWlZKazdiaWJDUUZzMW1JaHNUM3ExVVE3TzFhbTFTbHVyRGViZHhCZ0NlWi1pdUJkS2tRNHFDVnJMblh3TzNWMTRHdXFyMjdUTkZTT3h1Z195YTlySVNMcFFqYXdkZ0xMYWhaZVU5VEFvUXI5aWIwcEVrbk9IX3FlRkhJa2wwQnc5MXNHSm5FWjRPTWRUR0lSb2FrbkNwQkJUTjFTWDJyaW5pVko5N21aWGRDZkFlRE91dks1ZVpud0o3YU9oV2F1VzBjOElVZw?oc=5",
+          "published": "Sat, 08 Aug 2026 22:07:30 GMT"
         },
         {
-          "title": "Russia retains FIFA presidential voting rights despite global soccer ban - The New York Times",
+          "title": "The ‘King of Soccer’ Went Rogue and Nearly Lost His FIFA Empire - WSJ",
+          "publisher": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1J4ZU5jZ3Vua21GNEswQi12MDEwaERUX25EN2JmMW84MnVwdmduQncyYkdFS1JzYmNtMHIwSHBaUGUtbHRLQnI3NEEtbktBMWtCWXNpYU8wbFM1WHQwOU1nbmNyUFFxXzltREpaeTMzUWpPVEIwc2VQSWJFdHh1TW45R0Jfb0lIajZBOUotclR6STExMHlPTnM3R3hBdzgxMjkteTlqRQ?oc=5",
+          "published": "Sat, 08 Aug 2026 11:55:00 GMT"
+        },
+        {
+          "title": "Football is too powerful to have one king. It’s time to abolish the FIFA presidency - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQnVZdkZmSzNNQXNoM2dlNHZrSllPZjlqUHNOcVZ0Z1g5a2l0eVZMLUlZUkljX013aEpVa0dPbzFPc2hqNzdSRlpfR0wzMURfQzJhREFPOERGT2pQdk85eGJPZVd3NnBtWFczTk54LXVRRTVSRUFtLTVYbEtuQ1I1SFhaN2RFUQ?oc=5",
-          "published": "Fri, 07 Aug 2026 11:45:02 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTW0yeGpMMmdLVXltSUpEYUZUcGRNa29jRFlTUHUxaGl4UVdZLXV5TkZRNk1QMmlGVlVjczgzWXN5dGR2R0RPYkxzcXlGU3o4TllXdWhncnpDb2tnUERSVF9BVmh1V0xyWnBLeFNVUV9IU1RETVZDazAwdWxBQkd0MXJGcEMwR2hGRTN3VVdaWDhGNHdaSXc?oc=5",
+          "published": "Sat, 08 Aug 2026 07:02:00 GMT"
         },
         {
-          "title": "Norway's soccer federation calls on Gianni Infantino to resign over failed World Cup plan - ABC News - Breaking News, Latest News and Videos",
-          "publisher": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbF9CQXA5LTlrZURzR05tZGxjNDZ5LXdqa3dwdWdXaEFXcEo4VjhHTV9oTnR3SVhaeXozQkM2bW1XNDBYMWNxU21DYl9qT1NHWjNpV2N1d0h1d3NMOUVueTJaeVgwV2VKUWNlR2JDakFGMVBTZ1dCUDE4clJkSXctVVRRb010VG12UzY0dkZ5bTJnbDc4LTRUOEtVV2Fsclc5UEpjalpXd2dkMGlEa0HSAbMBQVVfeXFMTXBHTlR1SkdLOWdKazRROXJ6emJ2V3B6TzRuV1NNNGxhQk44OF9TYmFpbXJncHp2cS1LbHdVSEdveEtPd0tibHBiYUhxT0NWTFBienBJUTNFRnFqZTNsT0JxOHRxN3JSNVlZdTN4Q3RNcTBmU2RwcDZ0Yk9vNXZ6QUgweEVYSmZ1UnA1OFVQTXpxSlFLSHJPRERmWmkxWXBDRUt5UEhGb2FadnBZc2lXNlVzaFU?oc=5",
-          "published": "Fri, 07 Aug 2026 14:28:56 GMT"
-        },
-        {
-          "title": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEg1amVTbVFqN3RMakl5aHlwVEZzZ3JfYlVGWHV4MFgyVldKZUhHeUZndGdyREVHZ200UndSMkZ2eWRSRmhrWUwyYjlmelU1RjcxZTBDb29jZmdHdUV2Ynp2NlRjb2NEOU9HaFZncjBveFQwNGxzZVBMRXdBcjUwd0hiVzhaTVVnUzVRdXc3cnBMb2MxXzg3MTJ0N3dUMGdIUTRkMWZ6WQ?oc=5",
-          "published": "Fri, 07 Aug 2026 20:15:00 GMT"
+          "title": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb2FWNnF3d0hMWklfcGpETERmV1ZFVmxzLUU4R05IRlhkRWFOUjlxMXcxeFplYnZQYl9lUF95MEg5RXBWYklSdlFRd3RhWThHN2VwbFJvby1HdVpqX3lyY05LM2otX1FKSFgzcERUOGVLV2xmbk5KODYyTDMxQV9aLTFpLVFvNjdNUTlzbElLSERxUmc2V0tlV2IzZzlqRk9Zb2NKUW42N0RRQmdONjM5YXd2bGRjd9IBuwFBVV95cUxPeDV3d0VSUkhTcFFGeUpjVThtenhYQ2FYMWVNNWNnS25ocDhteC1POVhjcGRKcnVOUUhOWFZGblVueVlLeXFGUGRndDgxT3FPcjMyM1NNanNhNUN6OG5jei1ZaHBON2YwNWpiTEUwalJMeHRRVDlJUHBMSUFLUGJzX3k4NXFNNEg1alFFR01nZUdTWmR6OF9YM0lXLXB5RVhLX1I5aTRRdXlmZlFYLWUxNUJ4ZV95ZEQ0a2RB?oc=5",
+          "published": "Sat, 08 Aug 2026 14:10:19 GMT"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Director Matt Johnson Didn’t Understand the Anthony Bourdain Hype When He Signed on for A24’s ‘Tony’ - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObVBYUmxnT3g0NkZ1Vk9LaXdUc3BSQjFGcjhmMXZMSVFrenkydkRZVEFvbDZ0ZEFENS1mVGRKTmxNTzNQM1ZEV0VYaXNXblJ0NWdlOFZubjExb00tem02bWgtN0hXM3Q2MlI2Y3YyQjk3YURDTUFsWHN5eHVSQjVIdEJZRm5QU3NDcFV1cFBtRElZSXVlbHNaT0RGNWRReVJ2N3c2QjJ6Q05zOFdBQnZuc3kwZWFhR28wU2hzNg?oc=5",
-          "published": "Fri, 07 Aug 2026 17:20:25 GMT"
-        },
-        {
-          "title": "Jean Grey Speaks: Sadie Sink on Making Her MCU Debut in ‘Spider-Man: Brand New Day’ and the Mutant’s Future With the New X-Men - Variety",
+          "title": "Box Office: ‘Spider-Man: Brand New Day’ Swings into Second Weekend With $43 Million on Friday - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVh6VVctVWdSbk84MWw4UThXNnFRd0RLdFg0U3pOWXVVQXRWMTBleW5oWTlJZ2ZLamRncTBaSmVnRkdxd3FJTlhnbGlvLWdVVlFVQWhKMnkwSWRhb1lubHBRZjdlVVNuNkd0eEVhYW5RMmM0UldkVF9uZi0zXzBmbmRycFMySXFTOXZpbTM4QlpPRTVtVXhEVDBHTzZ3a0xsbzEtWDhOcnhYYXJaS0IxbUtB?oc=5",
-          "published": "Fri, 07 Aug 2026 15:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnFHMV9KbDVSa0lVMlE3aGIzMGtfWlFsa3FocVlHWTRmQ0Mwb1hZM1dVem1jaEdsemZzVmFIX1k5Qy1HVF9mTk0zTVdOazl2dTBuOVU1aHZzdFFvcVNVUjdPcnkxbTh0b29hMnVzQ2pyZGZmOG9hRllPSE1ma0dFcFFsbFh3UlZjNFRfbDZrNE84dl9HS3ctZzVsSHpsbUpVLVJR?oc=5",
+          "published": "Sat, 08 Aug 2026 15:50:00 GMT"
         },
         {
-          "title": "Taylor Frankie Paul's Felony Conviction Knocked Down to Misdemeanor - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYURzOXNjdkZveEhJa0MyRVl0bUFKY0dWUjI0VlcwWEpYMzYwMUJPSFJxbmUxb0JsQmlMbjFuN1gtbEJlUGRDelpOQl9NWE1hMEtNbXlyLVpXdzFucmc2R0tHM2wybTluYmkzdnNDaVB1YlZPRXg3UTBKd1dVWTdkWFFCUTJ1RkxzZzBkWGQ5RUFzRVJuSjctUl9QeHh3UHBs?oc=5",
-          "published": "Fri, 07 Aug 2026 18:50:13 GMT"
+          "title": "Perez Hilton's mental health crisis tests the limits of empathy - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVWpWUnNxbWVsM000Ml9MazdRUERSMlRVdk5IY2k1M3A5alRMYllQMXBDMmdHcU5ZTDNfeHhzNlFhS1pJbUY5RzVJZHNHN1BoTUxlM3BCTUxnVjZ4UjhvVmp4TWg0eG8xdVZJZ0Z4Z0J5ampNR3YwUFpHS0hmWVpfNHIyT2lqUmNuNkRLWWotbTZDaVpFSkotS3U1Nkpudm40dm4xeFZEbE4yNktoVUYtLWQzWUVtbGZQSHhQTFFfMFhDQy1aUUpJOHBUSVpOS3Rx?oc=5",
+          "published": "Sat, 08 Aug 2026 12:45:00 GMT"
         },
         {
-          "title": "The 100 Best Grateful Dead Songs - Rolling Stone",
+          "title": "Taylor Swift Removes ‘August’ From Team Trump TikTok Video - Rolling Stone",
           "publisher": "Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbkx1Ri03NTk5R1BBbkQ3Vm9OWHJaRUo0UWp6a0pBSEUzTEpfNmFiQUpfQ1g4bi05empVUHJTem5tNjVlYkRrc2d1Mk41Wmo5N3RNbXFiYUw5elFxSU9qbGZlX1UzbUctWElNTlFSM0dyM1BmUDI2QU5ya1N3eEppbnJHbjlqNEZVVzlz?oc=5",
-          "published": "Fri, 07 Aug 2026 15:42:51 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGczMU9HRXhUUXA3QVFndzJXdFRQVFpoaExHSks4SERYcG9lSW9SMzhMYjd0UjJHSHBBLWJyMk5KLVRsYjR4WnpFWk1GMlRrMzFTUFZMbzR2bnh4RjJRbUlMRXZ1T3FsZWtvbVNFMXhNTVFsZzJfNzhua3RvZzZnUC1fbVdPOTFtTF9PX3p4czRiUGhwbktMa2lHbF9KOEFEVFJiQk5XQy1yamRWT1E?oc=5",
+          "published": "Sat, 08 Aug 2026 15:00:14 GMT"
         },
         {
-          "title": "The Last House review: Don't stop at this dull Netflix residence - Roger Ebert",
-          "publisher": "Roger Ebert",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdWhoTC1tcWxUUDhMZk1EQ2NnTjRINGhjeWVfSlNDaVlxbld1UUhuaWRueDN1X0JqRWM1OVpPaXA1TGxsdTQxNlZORWVrRklSLVc1eExmTzNFUndGZHZUZWh2RnpKd19XY09mY0F4MUZSOHVhbEZ6MEdzX2ctTTBWSw?oc=5",
-          "published": "Fri, 07 Aug 2026 12:03:01 GMT"
+          "title": "How ‘Spider-Man: Brand New Day’s’ Climactic Fight Scene Secretly Evokes Jean Grey’s Phoenix - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFJKZnNtb0hxRmVHWHBUTk9JaXR3dXFvZFhnQzV6bTN4Y3MwbldwSUh2ZXFDYkFMdkJEN1ZBSVVuWTJUdGlNaGlsQzJGakNKcTI2M0R5WWtsQzNzc2pzTnY3Tjk1Y25fX1Z4RG9ael9HRHgweFA0VERfazlQdkJPc3RXRkgwVE5SN3RTcFVBM2NtOG45d1RyVm45ZEJQdw?oc=5",
+          "published": "Sat, 08 Aug 2026 15:30:00 GMT"
+        },
+        {
+          "title": "John Goodman runs into famous fan ahead of big-screen comeback - Entertainment Weekly",
+          "publisher": "Entertainment Weekly",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY3ZjeVFkLUNJRVlrY2V6bEsyX2dPRC0yX2pBY19VWVR6ZDZDZEt3S2dPRWI4b2dFeHJLeF8xZ1p0VmFMb3VfbXlnanZ2QmpSekQ3S0dHbDhHTFdHMWlVRnhDbldnRmdmd0xDVHc0amNUQ3JXYUY4VE9CRE9hb01IeGlWV3hoaEdic0E?oc=5",
+          "published": "Sat, 08 Aug 2026 19:09:10 GMT"
         }
       ]
     }
