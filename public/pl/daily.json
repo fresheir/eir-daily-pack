@@ -1,7 +1,7 @@
 {
   "market": "PL",
-  "generatedAt": "2026-08-15T22:19:07.972718Z",
-  "validForDate": "2026-08-15",
+  "generatedAt": "2026-08-16T22:19:17.879062Z",
+  "validForDate": "2026-08-16",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Prezydent popełnił błąd. Edyta Żemła: Kosiniak-Kamysz sprytnie to wykorzystał - Wiadomości Onet",
+          "title": "Wypadek polskiego autokaru na Węgrzech. Polacy dzielą się trudnym przeżyciem - WP Wiadomości",
+          "publisher": "WP Wiadomości",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVpvbk5OOGRxTGxGYm9YSjNaU2JZR1lsVWY1bURPckpjSXpNMTNHQkNfU3ZTNU9aalBxcWIwMGUxY2VTNGJvVU9MREpORE1tckR3S0ExWEE5ekIwQ01xSmUtRXV0Um9fTWZNWExsQW8yUmh4TGFtNVBYWVR5c2V4ZTFXN08td3FVSS1vdjJpQldoRGlkTFp0aHV5N1JmeFZPeGVQN1c1aFF4b3JGU0g3X2VYbGxCaV9QYUE?oc=5",
+          "published": "Sun, 16 Aug 2026 20:00:19 GMT"
+        },
+        {
+          "title": "Kobieta postrzelona przez byłego partnera. Zatrzymała go policja - Wiadomości Onet",
           "publisher": "Wiadomości Onet",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbGlubzJvY1kxRzRNbTF0a3VWZUVKQ0EyUFJ3bkNZTk10SkFZMGhLTTBsQ3pOYkNVVndZQzZtNUhHYl83MXBpYnY3aGJpd3JoazA0WTBOai1hWG1TSmtMUVRDZlpNUnlXQWV6Wmk1Z0JjQ2lleWNNNDg5OGVTMEdLMmlURjZ2WnlpQ0VpbG00dk5XZjB0RXhwVlVZMkExQjJyZmhMOWdqMDA?oc=5",
-          "published": "Sat, 15 Aug 2026 14:22:33 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVC1zX0tISTh2Yzg1RW9IcTJFQzZ3UzR5eTEzaE5rcU5tOU1wZjJzMnZHTEllV1oxVTZOY3hzQnVhNWdaUzNJdnlRQnNQMFJxUG1rN2dRQ1JQLUJFaWJkTEhtR1FwZ2NJN2ZKU2xfTzFZM1Rzd3IwTDhvWUVoOHJaM2RGeHQ3cUJ5NURWc2NhNm4wWmNlQVVPdE5sOXpROEU?oc=5",
+          "published": "Sun, 16 Aug 2026 19:59:24 GMT"
         },
         {
-          "title": "Za pomnikiem Maryi stoi miliarder. Oto kim są Karkosikowie - Money.pl",
-          "publisher": "Money.pl",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVI1eThvR3hWZVJRcmZCTU1KeDdlU2s1VXo3azdkZkZWNEZReFZabXAxdEc4YlUySmpCMlRvQjFtLUJIQjhBLWV3X2lRZ1hsRnoxcWNQaGFGemxkUjBTODVnY0pyMFNDMkZJdmYwcFlZWHFfdWctTEl2M09DaUFJbzhvRzBsUl9UcGtpQXV0anpmVHRUQnlPWDFvNFlxelZwRU8weUxwX01mQnBMX04yWDVR?oc=5",
-          "published": "Sat, 15 Aug 2026 17:26:31 GMT"
+          "title": "Stosunek do Ukraińców to obraz polskiej ksenofobii? Może to proxy rozmowa o ekonomii - Rzeczpospolita",
+          "publisher": "Rzeczpospolita",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSVh0dmd1NXpoR3pMaHJkLTFBeldsSzNXb0FFQ0R1TDBIRjFPLVRWNGE0TlFKOTMzSjRtZWlqYng2YXRKUERubWZnV21nb2FVeHNGYjIyQ1g4MTNOU0ZxbEYwZTFVOTY3MlgteUVYNVpBVzdObzRmcGo1NWM0YkpNVk1LanNZcVQxdFJIa0VaX0lGNWpMNW82c2lXTHFBRFVxZktwVk1zZXE3Rk5KVGZCMFUxak5JaFNCNDBBSG1jbjhoX1RIckh5OFN5aw?oc=5",
+          "published": "Sun, 16 Aug 2026 15:08:33 GMT"
         },
         {
-          "title": "Zełenski pogratulował Polsce. \"Ukraińscy żołnierze pomogli w obronie Warszawy\" - PolsatNews.pl",
-          "publisher": "PolsatNews.pl",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSk5JbUZvbnhjTWgyT2ZNQmJwcHZaZmVJdjM3eVpXMUNrOGZUdWkxZENnRmVYWVhiTVhOSmRjN2p0dkxDZ25iMG0tb2FzLXRKUHdPRkxsaVppd29FcWo3bXBpMW5MdzhscjhiS3BFU3h3VG1GNlNvbUhQQm1LQXpmTjV1RU92VEZ1d1NUdEs1cHZxYVNYcF9ta2VpSENoc0wyQndpQ0kxOUVldXBtUGotemRCZ3IzRnoxUkh4RUpUM2Q?oc=5",
-          "published": "Sat, 15 Aug 2026 17:56:00 GMT"
+          "title": "Policjanci zatrzymali nożownika, który w Kętach zranił cztery osoby. Ukrywał się na terenie gminy Osiek - Gazeta Krakowska",
+          "publisher": "Gazeta Krakowska",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNjVtclAxUENkZWhtQTNUb1JSNFY4azhvaXVNZlh1aHNXNWEwZnBTSEY1OGFUd09udk1qanBjNm15aUNBYXNrTk1NOEx6UVFkTjFKSlk5RF9HYXNuaFRfTEF3Q3lxMWRvSFZUNkh3ZWNPRUttcDZ5OEd0aXdqSG1JSFdWeXRuT0VENnlmUDI2SzhldzY5QXFiWTY0R3ljbm9lWmJER2xjdkNqUkpnX1NKTmROSkJJeFVVVkFHZHdBa0VqcGlXZHA2RkxoWEJsU2g5UElCbEpzbW5JQzFxSUE?oc=5",
+          "published": "Sun, 16 Aug 2026 12:07:40 GMT"
         },
         {
-          "title": "Kobiety zaatakowały Ukraińców w centrum Poznania. Jest ruch prokuratury - RMF24",
-          "publisher": "RMF24",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzlQTUhOakNPS1ZGRkhuU1FtRllPY3d6TlR5Y2loQmt0RHQxeFgzckgzMW5leUNhRTlvcGhfUkw1V3lFMjR6bHZDZkRhYnBaTmVCRmhuaC1heDhqTDh1VmR1TXM2U0U5VC1zWUJKUkxFWWdpMmpIUDdqZ1VNYzZZUjBkNTktN3F4QXpfV1JKZWtoSVRtLUJrNjZIY25RNlBLcncxdnVlZ3V2YnNzdmw3aXFtc08?oc=5",
-          "published": "Sat, 15 Aug 2026 15:51:00 GMT"
-        },
-        {
-          "title": "Dym widziany z kilku kilometrów i groźny pożar. 100 strażaków walczy z ogniem na Pomorzu - Interia Wydarzenia",
-          "publisher": "Interia Wydarzenia",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOFlEQ3Z3bjhMVUQ3UFYyLUxRZkdueGdldE5iWDdUZmhoV3JMLXBfd0wwckR2UG5ZcnFpNmlNMW1admNKUmVBUGZINHZrUXNkOHJWb0lzcFBPUnY5d0VFbFo3N0dqQUVmNExiVUFkT1pTYV9Pa2hQVFhBaFBRMzlsYm4ydmg5Vmh3dTlPeE5sU1VYRUlxazZLdnVIdzBNS3pacGJ6MjZZcGFtRUctZEI0ZVg5cGtQM1NiUGc?oc=5",
-          "published": "Sat, 15 Aug 2026 14:14:05 GMT"
+          "title": "Szczepkowska atakuje prezydenta. Chodzi o przemówienie Nawrockiego - Do Rzeczy",
+          "publisher": "Do Rzeczy",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2IyVUlncnlKOFJER201dzZTcGNvWUduNndaaTN2dmljT2VOQm8yalRJemlhTDZFSlNDZ3hVWnFwTE8zNzViOWhiYTFjTXFRSjZFcC1HOE1WalFxUHhOZHd4bFlFS1k2SVZqNnFQcGNfZWdlTXUtSnBWbWRPeXhDTTNmTFdIRG40MXNWdzR5WFRaMzVVTkY3TlQ2cGJyY25ZY2ZiUU9SVdIBowFBVV95cUxOdlVkMXA4aUxydk9pMnlJZGVaM2ZVcV9Rc1NQeGwyNXJobXRJZXpmaldjbDU3MTh4RHlSaXlEeENXYS1RM0tTSDVRckZjeTJwRUd5NHNWMlVmVXJ3VEViMndzTlZKdExTb0xWeURMX2tab1lWbkdWaU9nNXZkYWNMbXBrbHpzQmpNVnpWQmljSzVtSlppaHNCRENJNGg5T3lyNjJr?oc=5",
+          "published": "Sun, 16 Aug 2026 15:34:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Problemy przy Ceucie. Setki migrantów chciały się dostać do enklawy - wiadomosci.wp.pl",
-          "publisher": "wiadomosci.wp.pl",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaXRpWlBEMlFxbmJCUFo2QXp3SGVwSW1TbGVCTUtRU2VDenl6dWo0MWhvMDZDS3hicHBNSEVkWkZRN1FKalBya200MEhNcHVzcG9TTG1ybHAyY0JaVkQzcnBjN0xfTnJMamx4MWRuSTJFOENDQk1DdnAtUWRrUWEtYk1KcHhvWGl4UlFxZHRFVVdzYmNvNV9mRmhpZ3h5eEVBVk02OERBdDlrS3FHMGc?oc=5",
-          "published": "Sat, 15 Aug 2026 18:13:22 GMT"
+          "title": "Płoną magazyny, są ofiary. Zmasowany atak Ukrainy - PolsatNews.pl",
+          "publisher": "PolsatNews.pl",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNckdsVHlTandFWkZXZWxTMFVwRFRqNHdtampVSFFWZ0RvclpDQ0NCR3VaU25Dc1F6bG1wdzcyd3NIT2NVd1FwdElNOUQ1YWZwaGVoQjI2V1h4b09Zei1LTTg4dWkzbHM5eWhHR042c0Jja2gwbTdzclVLV0txOEF0NVRwb3FYNndET1hzZlJmRUFudUQyQUM3ODZ5Vjg5S0lMbm9WTllFUVhwRHZEUWFhSTlMbXc5UQ?oc=5",
+          "published": "Sun, 16 Aug 2026 19:51:00 GMT"
         },
         {
-          "title": "Trump chce cieśniny Ormuz dla USA. Iran: „To urojenia - Rzeczpospolita",
-          "publisher": "Rzeczpospolita",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWUh4M0Z0N3NNSld6Q1Nla3k0QVNqalU2MjIxNWFPajdpOFRLeC1HaXJkOVhiSzUzY2lTVE9OQ0J5MzlOZld1S2xGazBnY3NLRXgwYjhqeVVzLXBWekx0MHhEeldVYzN6czJZWFJYYXFLekV1VlY5ZnRvNFdoalFDXzZ2cUxqWmZCU2ZRVTdHTGNWWjh3cTdNWEtQcDBSYnV1T3FNTFpjdFhGUXRRcHZDSy1rY2FzaVdlQjFTeG5mY1lyYmtyczBicg?oc=5",
-          "published": "Sat, 15 Aug 2026 16:13:00 GMT"
-        },
-        {
-          "title": "Talibowie świętują wypędzenie Amerykanów. Tańce na ulicach - Wiadomości Onet",
+          "title": "Nielegalni migranci protestują w Ceucie. \"Jesteśmy zmęczeni\" - Wiadomości Onet",
           "publisher": "Wiadomości Onet",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORk40YzluSXFvUFRlNktTR3dOdXlQYXJoQWhyczNQTUczb3JkRklNR3pNUXRyNklRcWQ1RnprRHZiSVM2ZGtDS1V3SXhQVXN4d2IyVERvbDlncWgwenlkLTlQRktBMnJjVXFiNHlubUIwT2UteVVIUlNqM2tWc0Q1QklaSEEwNm94eXY2ZEJtdUNVejBNeFVrM0RQSG1JSEdXOTYxZUgtNVB6ejM4?oc=5",
-          "published": "Sat, 15 Aug 2026 19:29:12 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmNnTU8zdXRBSFlyMUVoTXg1Y1NxbUhYUFh5WDhRYVpNODFld0w1bUlaY21lenJKVmIzR200MXFaZnZlU2RLalVsMHA2YXBfVjhMM0RBTzFqaEp0UlhGd0JJZ21ySUYtLTA5MjRhWmM2VkliMEZSTl9FRjNyV2dIMk5xc2FpR3ZOWE0xM0Vyam5CWF9vS2d0TzZ0aTRwNm10SnlRRUNYN2JuMlZid1ZBZGxxYXFMUQ?oc=5",
+          "published": "Sun, 16 Aug 2026 19:51:20 GMT"
         },
         {
-          "title": "Hefner donosił FBI na Epsteina. FBI nie reagowało - wiadomosci.wp.pl",
-          "publisher": "wiadomosci.wp.pl",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmZkMmpfQllvaE9xUmhacUR5ekFfVmRHVXFtTldoa2Z5SzlLWkxlYXhPUlc3RnRpUVRCelBKMHY5WVkxMkRVY3RVanF4elhkZjVZdkVKR0dnU3FmbGoxYkRyOUh2d1d0NXhJLWFvSVdNUUNadVFqSjJnOFZ3UkVtQTBTR3BVWGw2SWU1Y05YRXFERzhkLXc?oc=5",
-          "published": "Sat, 15 Aug 2026 18:58:25 GMT"
+          "title": "Kradzież w muzeum w Mesynie. Zniknęły cenne obrazy - o2",
+          "publisher": "o2",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdHhBcWhfR0YwTUxNd2FwUVZCN2l2SlA1aHVXOEtjQzB4MTIwVUVEdWJKMWhOZGp0MDh2YUxubnBiWEtLVmJJcDZIaUw5VGxxN0s5clJrTXp4NkFlbTFoRTVQTnJjYjBsVXpvNzNrZHhNWmFyS0hFSU4xLXZhVVpLVk9jQVYzX0FLR3gzLThzSnA5bWZZYVg5cTBTSkI?oc=5",
+          "published": "Sun, 16 Aug 2026 17:04:12 GMT"
         },
         {
-          "title": "Dramat w USA. Strzelanina w pobliżu akademików. Kilkugodzinna blokada kampusu - Gazeta",
+          "title": "Rośnie liczba ofiar trzęsienia ziemi w Indonezji. Władze chcą wprowadzić stan wyjątkowy - Gazeta",
           "publisher": "Gazeta",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjNFLU5aTHFUS0FPMGhNaUVlZGg0aGVNQ1lBQ1NucEZLX3l6SHk3X2czRWJVZThyazIwUl96cElxRS0tbFJCcnE5Nk4yZ2d4X1dwaVFHUjFlX3YtOV9RNl9QUlc3cDBpWnNQVFpaTV9aekJ1OUdRX0Mxc054WFJMODA3S05kSjIxbVN5dWh4MUJzd3R4RFdwT3YtYnQ4aE1OWXpqODk5a21xdVdNeG9RUWVwZEZJcTZQ?oc=5",
-          "published": "Sat, 15 Aug 2026 15:54:30 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeTN5MDZrQnNLNlBBS1U5NFVNNUJoQUpITGV6QTRFYWJhMW5FZlJsUm5SZUhWTzFlQ0oxaUxpRWZYUTZ0ZnRQT2VYallwX20ydmd2UW9CMG1NNEx5SHdvc1JYV3lfdjhrOGt0dEdObWJEeUw4RHo3bF9NS2dpZC1BVDZSU3RHS0cwZmhnZkU0bFZYVDluTjBFUXZPWVRWZ2xaVW5hQ2Z2Z0QzTGRwWUlTbEk4X01DTnVDOHc?oc=5",
+          "published": "Sun, 16 Aug 2026 07:44:45 GMT"
+        },
+        {
+          "title": "Dron zestrzelony w Rumunii. Rzecznik NATO: Prawdopodobnie rosyjski - Interia Wydarzenia",
+          "publisher": "Interia Wydarzenia",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSm16SGZvVlk5Z1k5M1d6TEdFaVNxQWFiRGRzakVOME04b1UyN09mSkh3bmJOWGUwV0NhdGM2cWduQXhQNGJoeTFTRE1GS1Q1c1NtSk1oQ2Y3Q1o2cjhFVUxla2FfYnlpTlN3SF83X1BmTWl5eGpYX1VPak43enRKUXkyM1g3WllvdXZIZnZueTVpTzMtVjhod1E4OFBjTlFVbThCdWFrN1NJUERXNFE1SGgtY0lMNTVMT2c?oc=5",
+          "published": "Sun, 16 Aug 2026 16:44:29 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Prezes Orlenu tłumaczy, dlaczego paliwo nie może być dużo tańsze. Na klockach LEGO - Bankier.pl",
+          "title": "Od jutra nowe ceny paliw. Wszyscy odetchniemy. A co z LPG? Sprawdziłem - Auto Świat",
+          "publisher": "Auto Świat",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYnhVdnFYaFp6TDAydElSWHpVaEVjTW5TYVRNeHk3SVpZSVp6NHFEMmJqWnI1SE1SQjI4bUluNU42VnpDMWVQdXlMYVBtT2pkWkUyRThHU3YycFJkdWZYSF92RjZ5bDV5YUgyRHlPWF8wSEhOc2VlUlcwLUFXb1Vsd1VPTlpOcUNTOUZxcElKNEJEMmhlMlpTTzg5Z216cFZPeXBWbE9qaUZwYWZpZ2JiX0MzMkVVdldMUndHb2x1eGVYd3NtcDh1UDRIY3U?oc=5",
+          "published": "Sun, 16 Aug 2026 10:49:43 GMT"
+        },
+        {
+          "title": "Zamyka się słynny sklep z gadżetami MAGA. Miał jeden \"wielki moment\" - Wiadomości Onet",
+          "publisher": "Wiadomości Onet",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVktFU0dTRDdycW9GQzFPVHpnRThraEtiUWlxNjdCYWZyNzg0cXVLTGR4cVF1MW40Vk9pTUowOUc5MHBIMl9wUXM3b2N4NVNqUHZzZ2Q0V1hpVXlab0pOdGFBYkdCaXZhQmhyc0k3Mk8tZ2lLdzN4Ujd5a0JseXlEcGxETFFxYl80UTFFdURRTEduck9oSTZGUUo0SGljT1B1dV9Fb3lSYw?oc=5",
+          "published": "Sun, 16 Aug 2026 13:43:47 GMT"
+        },
+        {
+          "title": "Rusza wypłata czternastek. Sprawdź, ile dostaniesz i kiedy - Bankier.pl",
           "publisher": "Bankier.pl",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHNxWG1DWE9EQTFqUjhXMDZydkFSc2tONWdxYUxOdEVJUl9kdGRaTjBjQlFlUW1CcDNyODRTbU5TUjVuSmIwa1ZvQl9ISy1nSXk4Uk40VVJHYmh0Xy1ZZUlYNjVMbGlpMk8xR25BMlNEYnhNa1A3WkluejRCazQ2Q0F2UXgyMGFLNVlicUtwWHV6ODVCb0lCaXUwTWdQVXlkV0JsSFJHUkJFVE1pZHl3QThCZ0N4TG5oOWt0S0czU0hIVjFS?oc=5",
-          "published": "Sat, 15 Aug 2026 07:27:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2dPX180SFZOZ0JsRTNZWnNid2llS3J2RGdidnNhSjNnZ0NHUzBoQmdpS2ZTYXQxR2tyVVQ3VUlEbEFwLWtWMlJWc3VCWE85WDB6dDJKRklqODhwbmFRRnR4b2VOcUtxYkVzV1BCXy16TlFBMkt3TmxSSXJCRWdXYmE2Z0NIc3BvSExNSGJhOEpRaXg0TXl4VnVoaFZVSFlVbmppRQ?oc=5",
+          "published": "Sun, 16 Aug 2026 06:49:00 GMT"
         },
         {
-          "title": "Koniec dominacji lokat bankowych? Prezes Quercus stawia na OKI - Business Insider Polska",
-          "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTR5NGxvcngxU2sySHNLeXFsYmVWSjBnOEtWREotcWwxRFpzTlJxa01tcTB0SUl1Z2RMMUtNdGV4RkcyQlZsa0M2VmpHbUdWdFZhNXg2cmJUWGhQMlJaNmdEc1hBV3VWYy1hZU9kN25rZERmaDJyamZjeDNKSGZGcWlGQThXWW1QaXFVUmpwTVZxaHRmQjdWTy1pUWVNZW9IZjZKZDV3?oc=5",
-          "published": "Fri, 14 Aug 2026 15:36:46 GMT"
+          "title": "Bezlitosne prognozy ZUS. Przeciętna emerytura spadnie do 24 proc. pensji - Rzeczpospolita",
+          "publisher": "Rzeczpospolita",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHQ1a3FiODJ1R3pybjg0bUc1aHJOX3hYdFJDTDhrelk4U0RWQWkwZDF5MWoyTDA2YW0yNUJfUnZjS3JjR1IzdXE4anlUOURRbUtTV2pZbjZHOENFQ3JOUEhBa3BJZWNCM0M3SXVqZlJSU3ZCYTBJMVNqVy1LcVhlMXh6UTN4YUp5Vzd1VWs2aGlGaWQ5TWZKamFnNTJKdHdCelZTNXpkelQzaTFoSG5QZGtBOV83UQ?oc=5",
+          "published": "Sun, 16 Aug 2026 08:08:19 GMT"
         },
         {
-          "title": "Czy jutro w niedzielę 16.08.2026 można zrobić zakupy bo to niedziela handlowa? - Dziennik.pl",
-          "publisher": "Dziennik.pl",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ1MtLVljNVlxLVJ1clVadUFqTTVrb1pWYUJMNXVLc01tdXNRRkczVllUUHlLa3Z6bFhWNmN3SU80dDNVUUpsb2E0V1dZcXpONEV1QWtpdFUyRjFERHNiWmU1QndVS014cUFfN183c0htVFp0d0I3UTNsdm1HZnZqaDIwTjhENndBTUExb01MeFZ2NzRMN21lT29HOUZFWTVaWG5aaVA4cHRpdE1HRzV1dHpIc041M2VTQ0NFNDdB?oc=5",
-          "published": "Sat, 15 Aug 2026 22:09:29 GMT"
-        },
-        {
-          "title": "Kiedy wypłata 14. emerytury 2026? Rząd wreszcie ogłosił termin - Forsal.pl",
-          "publisher": "Forsal.pl",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObkY2eEV4UzhlMUFNY2NIcDc1b2dNdnFXMkoxTldNbXZUOGhmSDVhdkdzX3Rod0ROOXFYbXE0LTlmWmo5dGdJUTZKMlpjcWhEUy05bUlEcDhOS21NcXd1NGtEeVJNejRXV2ZmWkRIVW9BaFFzb2k3LWJ0bWl5RXU0QllfZERneS15aHNHaWt6bm44cnRYTzRZVUVJeTd1ZjBXa2gzbl9GU1g1NHN6ekZsakxoaVFDRmlpTENzaW9JNU9jRWNwRm1lYWVUaw?oc=5",
-          "published": "Sat, 15 Aug 2026 07:46:43 GMT"
-        },
-        {
-          "title": "Zieleń wróciła na GPW. mWIG40 z nowym rekordem - Bankier.pl",
+          "title": "Ponad 23 mld zł może trafić na giełdę dzięki OKI. Analitycy pokazali prognozy - Bankier.pl",
           "publisher": "Bankier.pl",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRnRJUmh4QTRwZUVFV1VxUXhjYjlSTGNubFI1YVVsbHZEcHRxNS11UU04M3FURVk0MkdpbXRaRWVxTS1nbDlKS1p4emdvanBlY1d4WUpJTzZmY3FUbnc2UGtBZGNnZFIxV3BKdlF1bjdVREtPTjE5TGdZNmg3WUhaUGtsbllrZ0phLWVrNzZaeUgzQWhCbGc?oc=5",
-          "published": "Fri, 14 Aug 2026 15:15:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNXzMzajFzTEp5SDZzdGRfTjR6ZlY2SzJ1OHBPMmNXeWRtNHRvZmE2TVJwYVNlYUxRWDdjZk5UcmRPQzV4ZjBkdzMtRzg2ZUdpVVF4UlpZTFA1WHZ4dndZSWhBMjJSQmNXQ2xIY2FHMDF1Y3NWVW91WEM1d3ZGcmlRaTFsM19zREVfYXVMaU4yMTJ5aF9FMzVZVlJwT18xekE4MWNxQlpmOFo3em1BS1R0ZnZNNEp2SEtVZ1Q1ZlB1VQ?oc=5",
+          "published": "Sun, 16 Aug 2026 05:50:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Kolejny polski medal. Bukowiecka tym razem srebrna - Eurosport Polska",
-          "publisher": "Eurosport Polska",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOeUd6RFoyV3V6UjkybEtWbEtyWWl4VXY1aDVqYTVLdWZiaThfQ2w5SzFwdFgyTkRhZzNWeW1jOHhqbGJrSjVFek9EVkZuSkZ6ZDZnLUFWejJuQXNCR2NkRWxKLUtyQjZKNURrTlh6SG5va2tVc0JPZjIwUTctNnV2d2JMSG5nbDBWR3lRY3ZmcktIUFNBNUlPXzVIU3l4T3VVNEZJQi1tTlYzWlFoV214enBvNHdaY21LcHJ6R2lwWUxQQWdoZEZXOV9sX01oQnlzN0tBX2xYaVQ4MnFzMThlcWViSC1WX2FRZkl1dXhaLTd3empoQi1xUGRFNzFLVVRuaWliTUVPeUNuR0pOYklTdk45aUY3UQ?oc=5",
-          "published": "Sat, 15 Aug 2026 19:17:00 GMT"
+          "title": "Raków Częstochowa zamyka tabelę PKO BP Ekstraklasy. Cracovia z pierwszą wygraną w sezonie - sport.tvp.pl",
+          "publisher": "sport.tvp.pl",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRklJbm9GbjV1VnpSejZ2MlFMZllKb3Y5bkJiQU1fUHRSWEJUMW9aYUJpQzZkRnBNaTdyMUpaT0d2ZHVEYVpmMDRtTHBoMUJNR3ZZdzhFN2ZuLTNRMnR0SS1PSENCYnQ0VW1jZlU3blo3MmFZc0JranBFN21DZXVKdU1qalRtWHh2RnA0SmJMa3I2STdfa2ZIdDZGM0E2aGlIaExFdUpLWl9LTEw5QXI2Y2VWOFlrR0ZJVHfSAb8BQVVfeXFMTVZoc2NWTU0yYWYtMUk4Q2k4WmNJamZqNGdTcHk1N0FaNmRqdkNFeGxCaHlEU29Na1V2dUpBZGU3Ykx1RUxHU2tDbm9JRk9GdXp2b3M4aVJoam96MjRRcGo1T0lUVkZtMGdmc3RndkY5czBiY2NFUkFUSTV2WnRtbFRtazdEYUVWX2lkekUtbGdxWUFPYzlXaHQyNlVBWXZQYnh5MHdGZ3A2ZWV5ZnZkemw2dDhUS0lsbFRmNjZGYTQ?oc=5",
+          "published": "Sun, 16 Aug 2026 18:16:00 GMT"
         },
         {
-          "title": "Widzew Łódź – Korona Kielce 1:2. Dobrych 20 minut nie wystarczyło do zwycięstwa - weszlo.com",
-          "publisher": "weszlo.com",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KbmozV2xNcThHWm5hMXlZOTE2aHM5YUx6U2U2XzN3OXJrNU0xXzVjSjBSRlhjajlwSEVyaXR2U0hXSnlHaHFKUTBXNGJ2dVRVYjZpWnhQb09XREVlajhmTzUtRXNPNzIxLVNxb2Z6eG1XVnozQVcteA?oc=5",
-          "published": "Sat, 15 Aug 2026 20:47:00 GMT"
+          "title": "Nerwowy początek Igi Świątek. A potem dominacja w Cincinnati. Co za wynik - Przegląd Sportowy",
+          "publisher": "Przegląd Sportowy",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOUluZk5xSkdBUjBxREREUWFGanNBd3VrMEwtbm92S0dEN1ZJMkpyTEc2aTNELVd3ZEZIM3VEWlphcVJaR25OYlZldlhrcllON2ZUV1RFMUV2RU5xZ1dwVmotdjV0UmVreHpCX1dzVnBjNXR5MlRONHljQkVrZmlvRmo1anhLT1puM1dwaDdPVk1MTzdCWFJ1RFQtQVotY00xYWZwMXVDYmFpeWd6aDRkOVZxeWYxX3Z4X2c?oc=5",
+          "published": "Sun, 16 Aug 2026 18:04:33 GMT"
         },
         {
-          "title": "PKO Ekstraklasa: pierwszy triumf Wieczystej Kraków, zobacz tabelę - SportoweFakty",
-          "publisher": "SportoweFakty",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR1J5a3JYcVNfbEVPV3RCVm1xcXpadnRibVh2cEF2eVFOREpXNk5NdzljelhmZDNUdWo1WDVYLWZPWnVJdUZpTHI1X2NSbmI4dmx6cVI0SkNieW44d0dXSWQtRXFFaVExZDUybWYzYnNDRVlrMHd3Yzk3NTlQaTZwWHAyakllb0pNVHhGNGY2Rk52T0ZYZHJadmJGWTZ6WFUweG45Y3ctUDB2MG5xTVp4OQ?oc=5",
-          "published": "Sat, 15 Aug 2026 20:21:16 GMT"
-        },
-        {
-          "title": "Frederiksen zabrał głos ws. kontuzji Ishaka po meczu na Wyspach Owczych - Sport.pl",
+          "title": "Polacy ograli PSG. Czerwona kartka za atak na Skórasia - Sport.pl",
           "publisher": "Sport.pl",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQREx3TVpNN00yQlh0WGZFblc4emU3NUhpSGlvSWs3WVlrV1gzb0p4TGx3U3FTV3MzeG9uQ0w5a0ZTYVduajRTZW5BdXB3MzlTY3JPNHRvOURUMzlGMnFQaEZKdlFLdzJ0QkRZWnpSX0RxT1hWcDRNbkdfYUpqaGhrRWRiV3JSUW9HZDNIUEVvQXd3NDlNZGtOS3haSkotR1FWZFk4ZFF1Z3hiMmZuMzR0eg?oc=5",
-          "published": "Sat, 15 Aug 2026 06:48:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMS1TelRlcGQ3TWlfcDlYTkNoVjY1NG9IMlNlUFdXd2ZjaGUxdkFwdjV6X3dUdlh2LTZnN0lCNkJnZ3Y0dFhVbDZoQ0tmUmx0QkJrWDVnUEFOekVpTHN3aWM5ejVXbWE0d2dwVzNLWFFBZ2hOMXdENkxSSG5sT19qWHpUaGR6eDhZa192b2xjRk9TSzl5MTdPc21pdmN1UmRIZmdoXw?oc=5",
+          "published": "Sun, 16 Aug 2026 20:45:04 GMT"
         },
         {
-          "title": "Poprzeczka tańczyła na 1.95 m. Rozstrzygał się medal ME dla Marii Żodzik - Interia Sport",
+          "title": "Osiem medali Polaków na ME. Tak wygląda końcowa klasyfikacja - SportoweFakty",
+          "publisher": "SportoweFakty",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWEE5ejRGbnZLVEZIYUppS3pnOUhYd21Xdm5OQklSN2hudkxZTER5ZC1ScnA4TXlISUhURXBjbU40dmM2NkhMb2RlT2ZOTDdTdzZLbjYyb19wUlBfOUpfZHdZdXpxeWVQWmZSOWxLSV9YQnAxU3FuZkRWdmpWYVlEeW8tUTBqekt6Rnp2QjZKZ09ra3JoeXB1MlEzYkhZMlk?oc=5",
+          "published": "Sun, 16 Aug 2026 21:24:42 GMT"
+        },
+        {
+          "title": "Chicago Fire- Portland Timbers w MLS. Relacja na żywo - Interia Sport",
           "publisher": "Interia Sport",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdGpKc2hiczZ4NG54T2JjUXdTR2EwWjRyLTdGc2tzLXBRdUlZOHpxbkZWb1RmUHd4NXJlVVhVZVhRWVZjSGk1amxEdnZDNmRvU1UwdDczYTBrZ2U0RWJHel9aMVF6Y2U0VGVTVHN3UEZ5d3ZXUXVpbFd5RGt5YjVXM2VXbm5uQk0xbEFpYXRrTkxFMHd2OFd1YjlhWm0tcGhHS3pHVTJxUHktVXNWOFlvZlhWNVZ3eXE1ZmQyRjJuMkxDUXFhcE1Vcl85QzVCSEZxeWc?oc=5",
-          "published": "Sat, 15 Aug 2026 20:57:44 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTjNlcmFGOVcyaFN6NzUwWFRhZ0poM2VWNm1hT216aWhTSlNwUGE4cnpkM2xicmJVbndoQUJlUkR4VG0ySWlmOFgzSmtXcmdROGtBZGptSDhjOTU4QmVNenVheER0TkppSHJaNVFvVmVvYkxSOVpGclcwWHM1dGtqTElwSTdZWktvMkszTzR4aFV4ZWpNemZuZ0Z5UWxNR25EQ28teE01VWhiQQ?oc=5",
+          "published": "Sun, 16 Aug 2026 21:06:16 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Rosyjskie drony znów mają wsparcie z Białorusi. Przekaźniki działają - - Onet",
+          "title": "Ukraina znowu to zrobiła. Płonie największy magazyn Wildberries w Rosji - Onet",
           "publisher": "Onet",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZWd1aXEwMEtPZElPRDlHZVlDdkFGYjJzaDd5UUhhNUZFeGQ4ZGNxakYwMlp2dHVkM0RsWm84c0FfckVHa28zLTZoYXl6c1hBTjkta2xiUGNzSkRpa2R4aUxLMzBncnowWXhjMVdNQzYzNjJ2ZjZxTW9ZWGRNTFVjeTVrbkp6dUhwUnB5dHZYUV9iZkdobnFScmdjRVh2R3RNUGhjQlQyY3REX0JfTzdVdUt1Q1VaYzg1MlFkOFFYM2Zqb2JZZWpqRkVR?oc=5",
-          "published": "Sat, 15 Aug 2026 07:49:22 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3k1Y0hvamRkSjg3dXc0eUoyVUJPYm5BdE1YRmluSUQxMmQyaV8xSnRSamlQQTR3UHlfYURkZldhMGVmQzlRU3lSa2duWjRNemtLWlNIaEV1ZlFBdGVIVXBSUmM3NHpxdWthdXBkYlpweTlRMEhEa25ONFYteWV6WFBfNHNNVmc4dHNfeWRBOEUzdnhiY2Jzd3RkMFhIZ19yNHFlS2p2MGdBVEg4T0pZcEZHOVdWcFJ1TjdRQUpyZw?oc=5",
+          "published": "Sun, 16 Aug 2026 03:33:01 GMT"
         },
         {
-          "title": "Kluczowy tunel kolejowy CPK. Podano termin rozpoczęcia odwiertu - Geekweek Interia",
-          "publisher": "Geekweek Interia",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMTQtLTFNUkJqaWtqLTlRbl96dFlncFR4NFFTSTJJVWl0Z1o1VTAyN1pjWUFoeU80cWtYS1MtUlNTSWJGZFFjSURma1Zja1cwVDgzSlNlQlVGOTN4RnNoX0ltanZVZjJQSWd3dEJNamtnM3NTN0plUkhic3NDZ2hBTWZyMmRvbGZkeEhnYzRiSG43R001UFlGU2FIU0V1U2o1cTJMS1k1RzhCd1JXNnRhRU1NWVRabEFRV1E?oc=5",
-          "published": "Sat, 15 Aug 2026 08:40:03 GMT"
+          "title": "Dron Nyan atakuje Rosję. Ukraina używa go daleko od frontu - Onet",
+          "publisher": "Onet",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ2VjNks5OUVYcHh3YmdYRy1Sb2d0b0g2WlQzUURnUXA1b0VKcHZaT18yeENQYXZIcXRfb2xpU0dSMFgwZDFQakhqaHhpNWdhTkQtRjk2bTBlRE5yTnVkNloxZDFrTFZzRXRXclI2MXM2Y05MUmZEY21ISjlrOGRnQUhwcUljTlBzejhnZUphOUJfYWpRdGxLTGxnVDQ3NE1nX1dPSjlvZ2R4V3ZmNmZzNWdzR2xzdXB5VVQtQw?oc=5",
+          "published": "Sun, 16 Aug 2026 13:51:41 GMT"
         },
         {
-          "title": "Tesla kupuje spokój w Szwecji. Elon Musk rozprawił się z protestem - Business Insider Polska",
-          "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWx6a1hERlNoeVdEWWRyNzgzWWlVdHUzVkFVUk5UMWNUbjQ2b2JBQ2FESlE2VVdmNjRNeEw0WG05ZzZ5Y25mWkUya3NoZ25MVW4ySUx6MjhRYm0xQ0t2dVpTeFI1Mmp3elBQYWdxaDM0NDM3MWY0U0N1bWdhdmVuUDdCb2VQNGtDcmpCTmJ2U2tmeTl5OE5DYkI4aWhiemxYbDlLY1JJVTVYcnM?oc=5",
-          "published": "Fri, 14 Aug 2026 13:52:21 GMT"
+          "title": "Rządowy samolot leci na Węgry. Są nowe szczegóły - WP Wiadomości",
+          "publisher": "WP Wiadomości",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaHlnQjAxNDdRTE5qcWRKSUJBX0dMdzIyVlFMclF4Tm9qczdQc0c0ekQyTnVOdnR5WEJ1RjYzeXl2RDVsaTZSM1BWOU8tckdsdVE1YlZ4TDVqYVFSVkptZVJOVWlweGtyd3VDQWZkNC1OTmVmdXc2OVowSXZXeEg4VGhfbmtWZ0VhbjhubWdpdEJWeWlD?oc=5",
+          "published": "Sun, 16 Aug 2026 14:49:04 GMT"
         },
         {
-          "title": "26 lat temu powstało Gadu-Gadu. Niektórzy nadal pamiętają numer. Czemu przepadło? - kobieta.gazeta.pl",
-          "publisher": "kobieta.gazeta.pl",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTk43TWRkOTI2WDlMNjE1ZnhvWHN0aHI5LXVseXF4Q29PWkZWNDdYNFRRVHI4bWZoZkR6WFN5OUh1RGdWT09tS1l1YTlJb1JlVXo0eWVoREo3OWotbGFOREVQcVMxeExpc2NHbjV1VVYwUUlTYlhscVptVU5hMnhWd1phMUZqQXFIdjRlWmx0NXQ2RG9JYTlsQUt0UVNzemFXcjktQTF2X3h5UjJvbjdaVkFYMk4yZzJYRnZieQ?oc=5",
-          "published": "Sat, 15 Aug 2026 10:22:00 GMT"
+          "title": "Naruszenie przestrzeni powietrznej kraju NATO. Władze poinformowały o reakcji - PolsatNews.pl",
+          "publisher": "PolsatNews.pl",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWQyWkh0VnU0T1JpU2h5WXVlTVBNQW5Xem5CamxaTkNCM0xsaW1XNGFRNzJWMmJYa0Q1aW9KSEJ6RkxPR0ZoVGg0M0ZhNXFVUTFRR2o1eHE5dVJFbS1Ccy1VOUVNUk5MOUlkQndSMnhFNkVPQjY2MzZ3WHNOeTFTUk1NMl9wNHlLV2FDdmZadXZfcW5KOHU0dWwtNnZPOTFYYk1JbjFfcEhFUWtUcG5LTnFKOGhTZ2syMEFhVGpWcw?oc=5",
+          "published": "Sun, 16 Aug 2026 05:13:00 GMT"
         },
         {
-          "title": "Czy Polsce w ogóle potrzebne są wiatraki na morzu? - GlobEnergia",
-          "publisher": "GlobEnergia",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yQVBVVnlQM0JqWGtpaDRwSGFWU3ZnaHRDZHJZbVQzMVZzbkIxZWtyUC1YN3pPLTcxSEdxWnNPcHp5TXJfaUdyNWVsc20yTk1CekQxYTRmRnZKbmlXQmVxWFpTaVM1OUNXdVJFYmZJSWVYc1RGeHhscEc0bmYzQQ?oc=5",
-          "published": "Sat, 15 Aug 2026 05:12:00 GMT"
+          "title": "Rosja i Ukraina przeprowadziły ataki. Nie żyje siedem osób - Do Rzeczy",
+          "publisher": "Do Rzeczy",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcFh0Y2hjdWgwNUVSMnZSV2IyUWxkdXg1a0UyYXNYZElvcjJjWnNSNlpaWTFOY29TUEgwMjZFaFpfMy1JU2s0cUpxaVRqUGN6YkE2WXpSWVdIbEFuOW1tUk5OVGJieHR2alNaOE9oZDgxMVAxMUZUY0tlcjI5LXBRMW1zWXlkXzlKUkxvalFEQnA3cFVlT2l3U2lOQdIBmAFBVV95cUxQQ0Ixd2lMemlDZTN6ZHVrZXVlSUs5QjRMNTN3RTBXM01raEFQU3ZjT3RCUDBhUGtnZVRzRDVGT2lubV96aS1xM3BNYzFFZDBlQ2w0aU1QLVQxTnUxWFZuY2FhdTVISllWQkFUMDJvWmtYV3VzYnpUTy1XQUo0RlJwSkI5Y0I3RHZtbFNPWFJBRm40emdnTld0bg?oc=5",
+          "published": "Sun, 16 Aug 2026 12:01:00 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Ranking every 2026-27 Premier League home kit: Perfect pinstripes, a horror sponsor and one just like the sweater from Friends - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3JhMG5NdEhmaDFEWm8tT3FXNDlKcHNlb3VuMkE2cG9GeklsV2ZTdmRDcEliTC13ejFhWmdDWk5jRkdfUGJhNURUR1djMXV5ZFdDOHlmZEdQSUZlYjRqYk5la1Z1bTNFSHVoT3ktUm80SWd1RHNIU1hFYUgxUnI3d09uLXdLUERmWXJMZzM1cXRxZTFJU1Jv?oc=5",
-          "published": "Sat, 15 Aug 2026 04:13:00 GMT"
-        },
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - NBC News",
-          "publisher": "NBC News",
+          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
+          "publisher": "nbcnews.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
           "published": "Mon, 10 Aug 2026 10:21:35 GMT"
         },
         {
-          "title": "UEFA, Concacaf, AFC accuse FIFA of 'breach of trust,' 'deception' over World Cup plan - ESPN",
+          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
+          "publisher": "mepei.com",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
+          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
+        },
+        {
+          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
+          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
+        },
+        {
+          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
           "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMTRIWDJON0ZZVlgxMFNCX0xDM0N1OWRZY09BY1NHc1VYbDcxX0ZqZ29nUllzdzZyMjNRTHpaVHJFTXh3UHN2ckdXUVFRMzNJRkc0VDZTbmlHZ0RoOUpkRzRpbU5XWV9CWHI5Nl9UQ2x2TTVwdjdMNG9DVFdhcFlaUmFQUENaV1B0YTRrZGN4cnFiT0IzVmRSQjFmSk01T19rd003R2MyMV9qNjc4U3RrZ1BlZFY4dw?oc=5",
-          "published": "Mon, 10 Aug 2026 09:44:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
+          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
         },
         {
           "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
           "publisher": "WTVB",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
           "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        },
-        {
-          "title": "Qatar FA says Asian Football Confederation failed to consult members before statement about FIFA - Anadolu Ajansı",
-          "publisher": "Anadolu Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeF9GUkVMZER0cVhoRFk4Z25menNrNzdwb2NkNGZ1RGxhNlFra2NpSVVHaVRicmY0bmxSSlROM0JWbVk5dzZsQWFOUFJvU191eEZUR0M3WmxjN0FYbnBKQUdhZFc0VDI3OEI1QjZjZDZaZWVGampPNFY1X0dwOGxZN3FPMjAxQ3llYUhhbERfSVpXUXJVbkRxSjJaY3JrTHhLYlF6MmNQLWVTNFZDMEJDUFlRNXQzdktZcHAtb3MwUmNiLU1SNU5CT3Rlck5CcGVNV0E?oc=5",
-          "published": "Sat, 15 Aug 2026 17:30:58 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Box Office: 'End of Oak Street' Earns $8.1 Million, 'Spider-Man' No. 1 - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcllaWWNyZnMtY3pDMEVqeVVWd2lONktCTUZ3ZXdBNUdwMGpzelA4a2V1b09XRlh1SjVNRnE4WG5WbDNwT3lDdloyYmRsdUNkWl9HdkdhZWFiRWtyRnBQb3A2RkYxUWtuZ25ITGhud20yV1pSQndaZWJNdlNuemFtX0RnREp2MkRIYWNseVpXaHphWF9na3YyRzNOcW5uRmpJeHZCMkdWVkVHQQ?oc=5",
-          "published": "Sat, 15 Aug 2026 15:59:00 GMT"
+          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
+          "publisher": "harpersbazaar.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
+          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
         },
         {
-          "title": "Courtney Love Reveals Doctors Told Her She “Was Going to Die” in 2019: “My Body Just Exploded” - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOUhvUTVBc2lEcjVMUmtHdUFBaU1CLW9VZWx2TEdXa2gzN0U1bV9YVGE2dGVTVHozVTg5MzlVbmJQTkhRYlRsWDY1ZnFwemlrUEc4UFg2eXlwWTVpdEhYYmFYXzhnMmlTb3Q3NUFmNnpqNjRhUFpWZkZnSTVZTnloRnMybmh1blpwWkN3Q082MWd6TlFGS09ZS2Y3UWhsWUVPYUlzczhRY0txLTVrbVVZNnh2QVRrZw?oc=5",
-          "published": "Sat, 15 Aug 2026 17:46:00 GMT"
+          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
+          "publisher": "Page Six",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
+          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
         },
         {
-          "title": "Rob Gronkowski didn't give Taylor Swift, Travis Kelce 'anything' for wedding - USA Today",
-          "publisher": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTWUtaDdxaDNHNmpHNldwM3c2X2k0Vmh3b2pWcDFGemR0SXdfSUtnanlfQ2JNSF81d3Q5Nk9hVGhCTnVkNUpXaWZCTmVPcDl5ODVYbzRMNkYzOUVQQlVaZlhvd2psb0YyTjh3UlNrN1ZnT1M5UVh2Vk1DQlE0MGhYSzhvbW1ONl9neVlOOFd2YXRmYWVrWktDM1hVQWVCalpkYng0enIxV2JVSUlxb011a3JabFVUNjBrWWVxd3lyTUM2Tk81RXo5MXExUmRLUE0?oc=5",
-          "published": "Sat, 15 Aug 2026 02:53:00 GMT"
+          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
+          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
         },
         {
-          "title": "Is it ever appropriate to sunbathe topless with your father? - The Telegraph",
-          "publisher": "The Telegraph",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYkNuZFV3cE1taUZaQTlLTnlIVi1pTDhzU3NvbEpxWWl1eWZHQXFyR2tOUjVia1lKdHlibnNsZ2Q3Y0tZYTFZazBiUXZGQTl4alYwaU8wQ3c5cmxhNm5YT0g4eV9JWEJHWm95d2NkN01IaVdRdzZNN1BkNHVFVndWOUJQQmMweVpxbDlMMnZkS1JYZmhsaXMtaWpKRQ?oc=5",
-          "published": "Fri, 14 Aug 2026 12:00:00 GMT"
+          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
+          "publisher": "The Cut",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
+          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
         },
         {
-          "title": "'Bachelorette' Star Tyler Cameron Engaged to Model Tate Madden - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oVjQ0ZTAwXzV2MDBwS3kxOUhBNU91UWpNZ2JiNlliU3ZoS2hEWTBKSVhXaEZTV0R5UUxiNnlKelRGdmFZRk4tS2Nid09yNkV1U19ZM0V6dmZGOUVTVkk0TVB6aF9GN1FOR1lQbzJXTERzTEZrWE1V?oc=5",
-          "published": "Sat, 15 Aug 2026 17:37:53 GMT"
+          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
+          "publisher": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
+          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
         }
       ]
     }
