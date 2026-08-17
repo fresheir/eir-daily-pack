@@ -1,260 +1,43 @@
 {
   "market": "US",
-  "generatedAt": "2026-08-16T22:18:16.982114Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T22:21:28.149012Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0tOV2pQTFhJRmJNekpVdmxYOEdRYVd2bDBWM2dDVktacHNJQ2h6cENVWS1XNVZIaHRoeXZGc242cXQyNjZiNmFoNFBSX3dRZkZGMkF5TUhYNm5OS3Zyb042dWlsb2JOdnByb3lRQThCUkFoWjlyX0NxYXB3aEJwRkFR?oc=5",
-          "published": "Sun, 16 Aug 2026 20:38:42 GMT"
-        },
-        {
-          "title": "At least 6 people have died from days of storms and record-setting flooding in Indiana - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2kwWjVwQkgtUEowdElQck1LekNsOEhfWXVJWUo1Szg3UFVudkV6U1RWYlRZM1lXdzloWFFBdmFpUkJ2RlQ5NnAwUmJZbkNkYTFJUEVjWWNIWmwxdDZaOVFKOWxTZ0dYLVJ6QXNmbUNOMzR2R0ltX1JSOHdhSFVmcFlGYncyWDhCeFJ0Rk96d1V3dktZTHc?oc=5",
-          "published": "Sun, 16 Aug 2026 18:54:00 GMT"
-        },
-        {
-          "title": "Transcript: Rep. Don Bacon on \"Face the Nation with Margaret Brennan,\" Aug. 16, 2026 - CBS News",
-          "publisher": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2wySVRtVm8tZW9HTUZFV3hScmY1ZUJ1WktsRjB5aExZdFFNTk95Vjh2b1lmSmxCVVJoNkMwOERZQzc5UkdRTXg1U3pZTXptLXRrQ2dCQXU4SWRmSGR1bEhsRkM1SVpZb0pOQ19CNHpaWERXNmk5NXBzR0xiVE9uQ3o3bnZSMTBaUUNzdTRzTC1zUzFJdVV1Y3d4S3l5dw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:17:00 GMT"
-        },
-        {
-          "title": "Tommy John, Yankees great who had surgery named after him, dead at 83 - New York Post",
-          "publisher": "New York Post",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXdHWkxDZ0JCekdSNlhlMXZISGFvZ2diZFRmd2F4Rm9uOFVuYUNGelVOZmJaM29OaGdxOFAtYzZlZ3JIX2VnS2NYSXhoRm05OFl6Ul9IMjMzZGhGSjZMLTNMMXB0ZG1ycTQ1YkhnQTlGSTRnVEstYzBRWXFMeEo5M1RmSU9qX3pCUnM1OFd3RXlXaTgyR293Qk9Gck5SLVhVZ2FCS3pGYS0?oc=5",
-          "published": "Sun, 16 Aug 2026 17:22:00 GMT"
-        },
-        {
-          "title": "Cassidy on Trump’s vaccine order, ‘crazy, stupid’ claims: ‘This is why the president’s poll numbers are going down’ - The Hill",
-          "publisher": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT0x4T3E0RlcwNmdxUzZoUnhYRTE2OFhQcUpxN1k0emZjSVR6d21LRkpwOEdGcmh1OWZKMFlfRzkySVV6LWFvRXNFYzUxMmN5aC12SHFwZ0JTZ1EwR1lORWpscDQ4aWVsUjkwdjVNRG5oeHZ5TTBlcmoyRkZ4XzNnVzFCVWdGVk3SAYwBQVVfeXFMTlgwNmt5azVHdWJOdnpwNGFiSzFmNDNXSHBwOWR2Z3YwSzI1X3o3NkdLZWxQQURGd2NIcnVaNGZrTFpjUzBlUUdQTGVMMXJGY0JhRFRrbml2dk1lU3pYcTBlZW1qOVdGeFFIU0JWYVc1dVYxeHhnMEswVTFDbnJlejZxNFdUdWt0Z3FJd0g?oc=5",
-          "published": "Sun, 16 Aug 2026 20:13:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0Y1TS1qdDcwMzNLTFRNZDVmMF9uX1lHaVVLb1psczZULTFMUHRNaDBHR2lUcnpPVDBNRG9RdVc2TnluSTBGbnZ3QXFNOFlzS0N3MHNueEg1TVE0a1ktV3BMRFEtSE5URldfelNiUWpHS2FjcGpSUF9kRUxOalMtLW13?oc=5",
-          "published": "Sun, 16 Aug 2026 21:16:17 GMT"
-        },
-        {
-          "title": "Calls for public inquiry into Jason Arday 'witch hunt' - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44c2IwSWlKdmg1WThMemhvRmxqRDhzWnlnY0xvYWtnSTZtdGZvQURLcDZLMDFwaUVRWnBsQ2JxQzVscVE2c0swbFhhNmFGUll6cGE4Y21Bd1RKQQ?oc=5",
-          "published": "Sun, 16 Aug 2026 15:33:02 GMT"
-        },
-        {
-          "title": "Brazil's Lula and Flávio Bolsonaro return to their strongholds to kick off presidential campaigns - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlBoRmhQRUp0V2J5aFNhVEhOSW9FY3pKQkVKdko0UE5vRjN6WjE4VUU3MEdGSTU0UTZ1RVB6Uy02QjJ5eVN4bkx2bHo1UUZscGtWT21EQWhUb2lzWHlrTUctZU9OME5KMF9UMHh5cF9KaFYtZko2QV9GLVc1N0FaLUlsX1czTTNzbk5iOGxFaUpmTnByaEVlUy05UTlTbldORWIxVGhn?oc=5",
-          "published": "Sun, 16 Aug 2026 17:34:04 GMT"
-        },
-        {
-          "title": "Kyiv launches large attack on Russian military and energy facilities - Euronews.com",
-          "publisher": "Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ2hhaUsxR3BDcm92cTJiclVLLVNIQ1kxZktzajNHSkRNN0t5LTdKVGVDS05XaTZZTldZOUdZWDR1dHFiWGZrYjV6di1qMmZydW5tbGd5eEFQLTA5THRuV1k4MGN4cUxjY3BXTTkxOVFyaUNBNUNqQnFHZzBYOWdqQlRBZTA0UWh1NTNXcW5XaXliSXM0UlFMX3E1dkp1aGFkajdrb09DY2FJSHoydm1ESjRDdEJMSVh1YVBiM3FrTEc1LXhram56WmpkcmJxVlk?oc=5",
-          "published": "Sun, 16 Aug 2026 14:29:51 GMT"
-        },
-        {
-          "title": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53 - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
-          "published": "Sun, 16 Aug 2026 19:25:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl - Bloomberg.com",
-          "publisher": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOazgxdmRpSDgyZkxsR2s2UVVjWm5zMmhwVVRacE9LV19DMVdxdERRZU81dG0zdUx2VE5ZYkktdDgtN29RSmQ1dXFkNzNhelV4Y29IVnNJOG1IWlllWkt3R2VFcnYxQjZXUldQZXpfTUpMVVR4V25TeHA3YXhIR0JKdnIwTGVqVGhGUFN6eWRUUGd1ZVlKQm5URU90Zm1ySmJkQ0t3MmhlRnBidl9tUkhvemIxMGY?oc=5",
-          "published": "Sun, 16 Aug 2026 12:30:00 GMT"
-        },
-        {
-          "title": "There isn't just one AI bubble, strategist says — there's a 'rolling sequence of bubbles' instead - Fortune",
-          "publisher": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHE5enlCZU4wRTJnUk9ETFlzMTA4RWF5cnQ5ZlhjX3pNTUEzeVhHdEJJanp6SFU2MzdVNHdCc2xNMXcyTHQyWko2SzRxLThzQkJQRDhlREVFNS1sWERyckF4THBZVlJFUjBwZHJQcU1KM2hRNEJnTjlFSmUwcE54ZWtjeThaR0NVQmZXdllsRmpncHNIRm9oRG8xc0s?oc=5",
-          "published": "Sun, 16 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ - TechCrunch",
-          "publisher": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5",
-          "published": "Sun, 16 Aug 2026 16:53:51 GMT"
-        },
-        {
-          "title": "Maker of ice cream sold at grocery stores nationwide files for bankruptcy as it appeals $23.8M judgment - Fox Business",
-          "publisher": "Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVl3VmJaLXY1OERkNDBiRjZ0MlFtblRhMnhnc01oQ2lOM25mZVlzd2RVU0Vlc2VaalZESjBFT214QWFyZUVHUEhMUDBqbWZVQngtRXpKMWpVd0NkT1J3d3R5eGQ3Zk9WWFdXNl9uVmtaVHZYbFk1bTl1Um1wMUhqbWFWTVhoX2hIbi11SHdRZlpQUU5TVXpRc2xua1pqWlFjMmJoR1gxMGV2ZUdRYXczU0FBZ05OeFnSAbwBQVVfeXFMTWpEbmI4dnRFdTdFWV8zRWVCNXRaWUNKVTU4RTAyVFRUVjFyNmcwcFJPV01xaVdEQ25EU01pSUlCM0xfMDBBVVcyMS1HYXhYbXIxaU5SalZGaHd4enJjamRRSW0weFNrVW9fcDZYUmUtRkdkSFFyZ2tfMjd3eE1wbC0zUmxWaE5qSHdzRUY0ZFJfM0NLY05sNDFDLUxMMU5YZVg3SXZEclNnNllqcWprLUx0cmtwY2psZHBqU2o?oc=5",
-          "published": "Sun, 16 Aug 2026 13:51:00 GMT"
-        },
-        {
-          "title": "No Powerball winner. Jackpot climbs to $35 million - USA Today",
-          "publisher": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTjBFdXFyQ285eTRESGdvdUtYYkpjaXJxZ3RoRmFLcVdUczhGd2pOUEYyUnpQZGp5ZFJMcmZpN25lTzhUZTZtY19iUjliQmcwNDIwSmlwY1B2NUdCem80LUNWd2t5TUxxVjVjT29TTC1jdFRRZHNDTmJIMzJYUkU3bFY3SWVwdGpkSTRSeldybzMwaHlmMTNyVGJYWW9UUWdkZkk3U2tQb0VaSnlUeFE?oc=5",
-          "published": "Sun, 16 Aug 2026 12:04:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "UFC 330 takeaways: Makhachev vulnerable for 1st time in a while - theScore",
-          "publisher": "theScore",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdkRNT3FCRE1aNkE2aVVWTFozNXFpZVRkR1lQWlZHQkVTQWhIU2c3dE5ITDJ4VGh2V0stX2xoMU1lLTdVWVRRNjNGSElnWnBDbzAyNnExSG04QzFZRkhSTURFMnA1R0pILXhLd01aZ0h2LURoUlYxUTRXTlkweWpsblpDcUR1VzM1NVY2UnloRk9Dc3dFcVQwMXZ4NXlZcy1JMzZDSGVoWEU?oc=5",
-          "published": "Sun, 16 Aug 2026 19:48:05 GMT"
-        },
-        {
-          "title": "Tommy John, whose elbow surgery transformed baseball, dies at 83 - washingtonpost.com",
-          "publisher": "washingtonpost.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWROUVpER01icVpRNkFQbm5fRzlzVUEtVWdzU2lybTFHR1lRSnpTUGZfM3d3ejBkbWVPc2p3SHI2djBlM29PMmp5ZnQ3bE5FQngwUWVoWDcySUJvblN6MWFQanQyNllQMVRlLXJ0ckNpX1B3OHJLcldRcm5pMGVyTkVZSkJJVk5iRWhVT1FJZl9hcmdId191c2ppcWZDa2Y1VjROck1ZajJjcVJ6b1E?oc=5",
-          "published": "Sun, 16 Aug 2026 21:40:54 GMT"
-        },
-        {
-          "title": "Lani Pallister on 800 Free WR: “Definitely a world record I think I’m capable of” - SwimSwam",
-          "publisher": "SwimSwam",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNTFiU1dwQmhiUTh2cFEwbDBpS0w4bEsyOXFGM29SdXVFRTJac1JaQlhzUDZ6dG9PT2M2b1g3dkRUalVTOVhBaHdoWEswTzhpNDhlUTlNOTlLeDdVanpUbHMza1I0dGltejU5SW9pSkJnSml6Ym53T3M5M2djX0NYY0RDZGNuaU12OF96UnhmdUNtd3BGQ2h1V3JTR2pta3ZD?oc=5",
-          "published": "Sun, 16 Aug 2026 16:04:17 GMT"
-        },
-        {
-          "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead? - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80MnVTYkQ0em1tVjNzeXFfMl9aX0hVT2l2Wll5b1lnUHM2dlhWLXhnVDZSQU9oUnlEUlYzeGkwTG9FcWdKWUxUeHM4ZVFOcEc0Rk94M1lNd3BHOGYwRllMcnBZUnJtYVU?oc=5",
-          "published": "Sun, 16 Aug 2026 19:37:55 GMT"
-        },
-        {
-          "title": "How do Bears fans feel about the team moving? Depends on who you ask - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXZqSFR1SzRhVWY5ZzVVdVZwUkRVTDN3Q1c0SzF5UlJMNVZZR040ZWRSQmUyb21iZEZ4azl0dnZUUUFtQkpQUktHcGYxT0xiSWhrVXNOMjZ1VlZ1R1FfT2FfZEVNdW9tTjlRWWpmd2dlSDFtbHAzai1tbnliQjY3V2pWeklOakFObm9SQXVtTFBpUQ?oc=5",
-          "published": "Sun, 16 Aug 2026 11:00:12 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Deals: the Google Pixel 11 series is now on pre-order with gift cards and trade-in bonuses - GSMArena.com news - gsmarena.com",
-          "publisher": "gsmarena.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMVlWZ3d6T1NUazJtZG9Xc3did2JQaGtfRGN1M2RsN3o5RTBlelc1dzhQSVlTY2NUUk5iU1dMYU5hTVczTWY1UGF3ejJDbTNOOFIwZUJlS1RrYmJqTWhmMkh3M3JvQ0dXRlprWXJBSDJQQjB4TVJNYWN3TnFDbFBXd1pRX0dLV2JNNlpPVUdGU1I1ZmZmTkFuQzI0TlVrbTYxNVB6ODl1eHB5WGRzeDFJTHo0Mmo2NXpoU25ZMmw4d19Gc3VDUVHSAcIBQVVfeXFMTTNQWFV3S01oNUZaOUN3WG5GMThFSk1yb1BRLVU1YnpuRzdMZEhoSGlIYTIxRjZ3c1ZOT25mYWcxLTNjMFB2RXdXUGNzUlQxNmZNSW11X3dXNzV2SU9DRDlwOFozbVlrcmNDY2pKbV9Ob2JEX3d0Z2ZZcjQ3NGlJME1Qby1UNnpsWkZaaDVMUFRQcnZBU3JQYW9SWXBMZWgtZXZob0Y5SmpONk1RSjBvUkVLWHBTcUpYQWZJYm1OR1NyUHc?oc=5",
-          "published": "Sun, 16 Aug 2026 09:51:02 GMT"
-        },
-        {
-          "title": "Former Square Enix Exec Says Disc-Free Games Will Lower Prices - Kotaku",
-          "publisher": "Kotaku",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRHZ4ZlBqdC1wMFNSSnQySG1yTjF0TGlVWDdyU1NQZXZmZ3VhdFFnS2p6SGNLZkY5X3RtWV9takx6WTFGbERPRy1Jcl9veFQtdUpfLTFVdjFtR0xUcUtCRzRWS2VUN1dVSWd1Tm01aGhQY0I2ZzJXYzhJc25EVF9pMGd0STFydHpEOUVMRmc2d1l2VWVwZVpDaTNPX3BIRDlSRmgwOHZkR25XcmZqVERLQlBR?oc=5",
-          "published": "Sat, 15 Aug 2026 17:00:20 GMT"
-        },
-        {
-          "title": "Is The MacBook Pro M5 Still Worth Buying After The Price Hike? - Engadget",
-          "publisher": "Engadget",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTW5zWFFxTlNGMTVuNjQyVDR2Qzh1ZnBqazlqNmRaOUpGZXprMFE1RHNycXVzX0pzUnZIamJaVVJhbE1pbnYtZkhhWFNENkoxNTlIQlZGQ203Y0ZoX1NOeUdQRGtwVENQNG8xUGRWa0hZX2hjU0lxMXJHYmp0VmstajJRVmd0LVU?oc=5",
-          "published": "Sun, 16 Aug 2026 14:30:00 GMT"
-        },
-        {
-          "title": "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule - forbes.com",
-          "publisher": "forbes.com",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORXdzUXlQMzZsdWFPUklhRzI4RnNIQzBQMk9TSExwMDNIRU9DbXJpZUt1N3dTMUtGQWYyVmFMOXNYaVhrY0JEbElhekxOTlVKdjY3b1BvMDVqSU9wRHhUR1ZUaFNPUnFGMHZhSlJJeG5aWUNRRVdMcGN6NS1PaU0xcnBzTU5PWnF4aTQ1Y2p6SjJmOVlSWUJpczhKRTQ1UGJJOWJKV3JPZzl4VkJVek55OERnUWItaUhobU5fNU9tUjR1VnpkLWpwYzJ6bUk4Zw?oc=5",
-          "published": "Sat, 15 Aug 2026 19:00:00 GMT"
-        },
-        {
-          "title": "Amazon is selling a $39 multi-tool for $24 that’s easy to carry - thestreet.com",
-          "publisher": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GQ0V5enVWc2dGYWxhdnVUVzdCWlNrazBpUFNjMS05T2pfM0wxRXhRbzZxMU80alhEVEVSUkhTS0djejRYbjdCUUhCNW53TXFUN3d3N1ctNFNBbVZTcC16bFVIS2d1aFZXenNJbUtLN2tVR184UVVVOQ?oc=5",
-          "published": "Sun, 16 Aug 2026 12:30:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

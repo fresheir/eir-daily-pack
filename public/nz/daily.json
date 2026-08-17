@@ -1,260 +1,43 @@
 {
   "market": "NZ",
-  "generatedAt": "2026-08-16T22:18:31.206421Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T22:35:17.594481Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Desert Rd closed as temps tumble to single digits, -7C in south - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOWdsSmtjcW1SN2RsNEhKaGE4R1JfR2lDcHlxQ2NGQmlYMXhMdUc0THdqOXltLUVhellMVGliNTRNWW9vZFR2V2xmWUIxWWppZHRPdXl0MmVJLUlZaHpEaXRYTjktSVR6WWd0NnZWeENCY2EwTGNFcmwyX1Ewanp5RG5yXy1EUFNnMkpQYnNJazhJQkZWazlVSk9USzlrdlViR29DMFBXSG5GOF9ndzZfbC0tbTBLNjFUUmRzV3diaWF1LUxEdXo1SHRWNUc?oc=5",
-          "published": "Sun, 16 Aug 2026 21:22:53 GMT"
-        },
-        {
-          "title": "'Something massive going down': Hours-long west Auckland operation with armed police, helicopter - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOEo2NEdhT3hLaTVQYjlfYzhxNkJFRkJpSWh6UkdMcTBMejZxcjBPTzREdUR0Nm5CcWZkbFJ1dzFQbDNXSHE2THJmZlRsMkdOcFk2LTVqZ1NjVVgzME9tdjhvQmJ5SFZXUUcxY2kwZjd3Y0l0N255aWJqV0Q2MlZ6VUJvQlZOZmxwaklGQnQwMGJaOHBsRHowSGp4d1gwblp1bnBMMDY0ZjlBT0N6TU1xLU9KS1puVy1BeGRYY3lKdnBUQTZGQTNXbGlGTEZBVm01aUdFX052NTBQYXEyc1pGa0V2cHEyd3hJ?oc=5",
-          "published": "Sun, 16 Aug 2026 19:42:15 GMT"
-        },
-        {
-          "title": "'Fly high sunshine': Parents mourn baby boy killed in dog attack - 1news.co.nz",
-          "publisher": "1news.co.nz",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcDlUbm5rRGJadUJ4ajhUSUFzUjJVZ3A5RGRIa01fZTV5SGUxeFJxeTdIOUlISDJ2dDJsWVctNVFKZHpUbUNuWHA1elgyNEZJU1ZFeGgya1hhWUhaYW40ZFdkeExMTzdNOWhFR3V3YVBTbTg5ZGJUZG9uS3VHX3hIdElMSXM0ZV9ZVm5ybEFyOWZDUnF1TjVnQjExS1ladw?oc=5",
-          "published": "Sun, 16 Aug 2026 19:35:15 GMT"
-        },
-        {
-          "title": "She thought no news was good news. Two years later, a letter arrived - Stuff",
-          "publisher": "Stuff",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSll3eFdobjZIdjRMcGNNajZ5bEpEYXpMbUJmUmtINURnbTRYQXlxQXNNVTFuak5wRXZaelBVUjhSZGZRd0dyUS1kblVTWHpmNFJTV0xHZUFFdDhZLXNNRHBHSkFyNXo4QU9zRjFpa1VsYmNfRURsZENmaWdNTzItWTlZVGlLejV2NDRlZ0RCMWtPd1dpWE9fVVJ3d3lkS3BWY1BPbUQwV1Q3QQ?oc=5",
-          "published": "Sun, 16 Aug 2026 16:00:00 GMT"
-        },
-        {
-          "title": "'I know I have her full support': Christopher Luxon says Erica Stanford backs his leadership - RNZ",
-          "publisher": "RNZ",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVEpUS241ZGZ3RG5COFEtODZZSkMzQWJRQzZBUGEtUGw4bldtTVFuVTJfY21sWXY3N0k1RmlvOFVYWUN2Z19lM2VJT3dySHcxNElnU3RSZlU3cHRaY1RIY1dZSER1amtxRVdUU0RlZW9Wd3FsRVFCcGlhNG10SlpHWE44cS1zTmVPTTZ4bjU4OV95YTE4OVFBR2V3Qi0xdXRCMlNnenlFLV92ai1zRlBCMXdiaGdKWFZ4VmtCVTdVNXF2VWlocmNKMHROd0otZw?oc=5",
-          "published": "Sun, 16 Aug 2026 19:43:26 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Letters: Rod Liddell’s satire needed no label; dog owners and the law; and happy tax - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObVZNaS1TTk9vYmxmbEZfeGYxeS1ZdEhFMGwxb09SSlVobGhucXY3X0I1Zm1CbDhNaEpPSmVUTUw0bVpxS3JkTjVDUnNxVUdGd1ktUVlpd3hIeEJhZjYwYlA4UjRSR25EWmN5N1NVX2N1SW42dDRKZzRTZDVma0xZM1A2X1lQTUVaeklodHpFdy1BMnFFMk81NHlFMjlrNnZ6UjBoa2gwQ25zTURzZjUwZDlkZ21OOExGRGFtM3NRa01adk9qb24zb0dmN3VvaWQyWnhsYXpaek9hU2J6RHJN?oc=5",
-          "published": "Sun, 16 Aug 2026 19:50:19 GMT"
-        },
-        {
-          "title": "'Another chance to live': Flores residents recall quake panic - RNZ",
-          "publisher": "RNZ",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPanFDMmFNRGhpT3BPWnNicmI5dXJFM0VGaUxyRzNqemVPYkxxMW4xZ1Z1YmExbEw3NFZDMno4bjVJV3hocVVGczBreEtuMnVXWUJkTFJSX0pGNzJQZEpTUlc4WU14QVNwakxvbmZQajJkMnVzcUxuclYwZ1lEcW5vUWlBR0ZNNE0zWjNjR2dUR0plc2tTbFo2ZUxfaHVSS3Vm?oc=5",
-          "published": "Sun, 16 Aug 2026 02:53:00 GMT"
-        },
-        {
-          "title": "'Absolutely disgusting': How NZ police are tackling secret filming cases and Meta glasses - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZG5tX0NQcU9Qek1Gdk84OGE5RFozWXdxRVMwMzdtanltdENpU3h6WDZVNm9hVUIybGR5ZlhzZjRqeXN1MDJiOHFtZnY3UXl0R3ZtNnZBLW9EdGVQZ0xRMEJvejJINFV4YmdGMDI4TVNXYTh2Nm9qcm0tUXN0R05iOUo2d0FPLXpnel9ieXlYdGlCang3QkpCeFNqcTE4ZnZYa1RreG5RR25fYk1VRk8wTnVOMkp5ODhROFNvUHFudjROT0NLQTMtWl9hYzBXeHJmRWZ0aQ?oc=5",
-          "published": "Sat, 15 Aug 2026 02:55:11 GMT"
-        },
-        {
-          "title": "Tasmanian woman allegedly sends poisoned coffees to ex-partner in 'targeted attack' - RNZ",
-          "publisher": "RNZ",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN2o0UzJUNlVmblBiTmNmS3lvSEVsdlFjemVGa2J6bUVOVmJBU2tyVENNa0RabHJSSjZuUXliS2pfRURsQjhNWi02LVdreGRaSGJJRENETEZrcXhFaTY5ZHBvb3ZOVU13NWdTVDNTWmpSNk9WQWw0eGlSN0dSYWxGamZJVW4zaWlUMFpBb3lIMUxZeThlVTVJVG93UDJMRU9SZng1TlE3SmNuaGNZRlY3YlZha3ZydDdLZDd2UGJkbw?oc=5",
-          "published": "Sat, 15 Aug 2026 04:28:28 GMT"
-        },
-        {
-          "title": "Judge rules COI report is unlawful and null and void, and President PM and COI breached principles of natural justice - Fijivillage",
-          "publisher": "Fijivillage",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWXQzM0RPU0Fab0FhaEE4LU50Uko0aWs3VHMzdGpERGVxbFRGRjJRd2VRY0ZQVGNza0dpNnZheDZzQS1DT25aRzZIOHRVTmYyWElaWVZUOGxwTkRwN1NOQ1BhY2Zfb0dRNlQ1VmJWNGdFeVRZczZGQUVfN091eW91R1pNbExvU3VxNGpSQ3BlTDlsalQxN2xiU0VHOFd1LVZiQTNHcEtScExFSk05eXVsdzJXRHFIeFBxM2N5MEVIcjdQN3JSZ1k0QmlDYnJEQkxGem5vUFh5eE93NUhpenRFZnBReXh0dw?oc=5",
-          "published": "Fri, 14 Aug 2026 22:14:22 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Golden visa holders help new start-up fund to $56.7m first close - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOWlyUWZ4a1JZYXo3SkZGeEh2di1hdDNxSV8wU0luUnNTUXU5eEtiLV9JNEo0TlBrZWVnQjdTWHR4YTgtNFNKSHpsUTBBemp6cUtSaVJuWnkxc3k3NGpaUVgtM1I5bjVYOUc0cXFGOWE5R0RwU0cwU3lQT0h0OE9qbjczeUR5SUwySFRlb3RnUFFjaGhpN3RibXlpS1pKUjFlbUdlRlNMR01iYU5ieFNaVkZxTGlRWDBHcVRYWXo1LUpoTHJVNUxuMExJUzREQlJaZGp4cUxGaFB2XzhJYkdtRg?oc=5",
-          "published": "Sun, 16 Aug 2026 21:11:38 GMT"
-        },
-        {
-          "title": "Rising unemployment is a lagging sign, not an economic forecast - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRkhnenk0WHVjenNZV2ZnZGxObzY3RFYzeHNVdEtmM3BqZTFEbDh0RmNaYm5yOUdxdDJrdmZNV0JITmZPQU9FT2tjQ01iSlpab0pGbHE4OXE3R0gyUXJYZUpsTTJvaGFQZmNaY3JDZUl3MFp2azgwVmpVbGJqWkUwQ1FiM0dIUnRtRzBubXM0YkdLVTZtUl9SZFBkN2VkdHNGWS1DR0hBWng2VEc4b2pwYTdfVENVc0huNjlLaHUtcEhvNFR6eXhYUE43ckdCNWxyUWV0aEFkMldBTlJVVWpVdlViZFgyMDRxcmNXR1RDSmMxWlZY?oc=5",
-          "published": "Sun, 16 Aug 2026 16:01:36 GMT"
-        },
-        {
-          "title": "People are going to 'lose hundreds of dollars a week' taking leave, union warns - RNZ",
-          "publisher": "RNZ",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMXB3aXdnNUNiUlRSU0VoVmNHR0NjSldSQlV0Njdia2llM29yNFBOUTVYMFZfVWl4RlRObmc3ZUx3UXBKbWUwYmI0UVFOWTFUQW1iNDZleDdYdmNLN3k1T2ZyLUhwY3NPZlJlRUZlRjNiSVB5UlNDMDVDRG5vWVI3ZnJFd1B4REZWOGxKOTlfRDluUWo3eDV0am1WTERpLThfOGg1X2Y2Q2s3Qm1USms1M1h3Q19PdUU2OU56c19qTmsxMHJCTlZj?oc=5",
-          "published": "Sun, 16 Aug 2026 19:18:14 GMT"
-        },
-        {
-          "title": "'A lot of them aren't landing': Work perks miss the mark for many Kiwis - 1news.co.nz",
-          "publisher": "1news.co.nz",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUkzeWRaODltOW5rN1BBWWdvZHpyM01aa3hnbTVxT2IzX21HNWJwbktVdEdrbXByTFZSTWNKMlVJNTdMQjNQTTFSOVZMOGxvS1I3V242Ykw3dWR0bmNMZEl3VVUwamx4MjgyaGlMclpfSTRNTEtCMXMzNVU4Si1uZk9MdzRMNTc4QnU2dEx1YUlFTlF1Z3RxcXNFODBCMmE0UmI3Wl93?oc=5",
-          "published": "Sun, 16 Aug 2026 21:28:52 GMT"
-        },
-        {
-          "title": "The sneaky debt that can lead to a spiral - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVjdJY1NpWVExUGlvMHNuaThIM3QzOFI1SV9zOF9BUGROQlhNTWhZX2hoRlF1UkJ4cy1zOEdiVE1UcUNpM0FYX3RmM0RZU2FwNXNFQ3UxejZsM1Z1WEhBVzJfT0tLbUNmV21tZXpDcG9OQ1Q3bHJoazdzWFBHZUFmY2NUSzE2OHNTWmFoVDRhMGthZks2bnU0RTJfOHlvU1o5ZWJQWDZ5Sm9DUElNdWNPVzFDNE9TU0dueU5RUEZpWmFsU1pIcE9KNGJxd2VJRUwzazJWZ3NWWGY5eTlNSUNuQk54aldOUFAtZ3N5OTkzMldDSzVRNHBaakZZNGFHc2c?oc=5",
-          "published": "Sun, 16 Aug 2026 16:55:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Netball NZ faces player exodus amid domestic league uncertainty - RNZ",
-          "publisher": "RNZ",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaml3aXBTWUxRRllQQnNkcHJGdUNiYmdKakx0N25aZFpUSmFWQjFjbldCTUlPdlQtWGJFNjUxVG9mNXptR0YycU9wcHlGMjlaWmtDbHhuRVIwV0c4TEZ0cW52MGxpY0dJUXhVS21nNm9SaHVnUUY4QTRabHAxSDdYdTE4b1BuMkU2X196a2l2dzc1WUpFNGZERmJ6ZElCcUpBc1RjQnZyWQ?oc=5",
-          "published": "Sun, 16 Aug 2026 19:05:57 GMT"
-        },
-        {
-          "title": "All Blacks prop to return home with injury; halfback called into squad - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYU5sZzBpWm1vQ2lweVJHR1RLZGU4eFhnb3pZMGppZHZIR3pxTTAtc0JnVkdwR05QMUptUHFYZjVGZmw5a0NGWHZrZXR2bG9DM0tUckprNDEteFpvVFZ5UlFGanRFcktaNGhyYU9aUFY4S1pfUDM5NlhXV2dvT05xQ0dQMktROFVYNi1vSWVhZksxa2dzdXZLLS1qd29OX1BZNG9tcURrYjREbG83UzBzSmtlSk5SaFh1UDAtMi1iRWJzWndRT2RWVGRfRFA0QnlJR2dYd241cHBzUV9HRWgybzl0RktZcHRTR2VzWWYwMW9KSGh5S0E0cHhR?oc=5",
-          "published": "Sun, 16 Aug 2026 20:56:29 GMT"
-        },
-        {
-          "title": "'Tucker for our dogs': Video shows farmers hunting and killing bull on quad bikes - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLU9WNFNmTFJZYnZvY09Mc1I0NFl4U0hNbFJROGRzVV9HaFdKZW55RDV3Qk82WmxkOUREN0hUQ2V0ZUY5Y2dBbXNhYmNUNkxoNm8zUTlkUlJSQ0Frdy1FZHlkY1lRbUo1Mm1mbnM0ODBVTG5NNFVEdC1ESmdaQVJLWGxncFJPT3RXX3BSUUdJRDFCSDd0czYxOVBYVVJtVFc1aFJ2MWVTTmljSE04SUxhWU1zWmp1NHE3UGNMWGhuT1RyNG5jNmpzVUlBdGtHaG1NMFZYVDRsUy15YkU?oc=5",
-          "published": "Sun, 16 Aug 2026 17:03:14 GMT"
-        },
-        {
-          "title": "Warriors key takeaways: Another halfback dilemma awaits in finals push - NZ Herald",
-          "publisher": "NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTzNFYWstR0l4cV9yRU45MjdoMlVBb0dCb20tMUpEQS1UU05vMnlRNS1ucHRBSGFETlVOYUdrZ2tLdjktbGhHRmdzcjJqYzFaVkRUeG81Z0V2U1JENDNKR2pnVW55aENJVkYxOFBWeTZHNm1TTXR0cV9IZG51N3dDYzZSLWk4M2ZscW0zVWxtSUd0OVdTQ0xQQU1ldWNuTTVrU0ZqekVDTHl1ck9GcTczUUttVzFVbGxGU1VHMGwtMDR3WHRRV0dENWtYTFMzM3FVZWJXZDdVckcyeHpDcHFOaEwwYTYwOGJJOEdtQXRMN0U1cFdWYjdJZHJ1aFRnOGZhbEhybVNzYw?oc=5",
-          "published": "Sun, 16 Aug 2026 19:03:44 GMT"
-        },
-        {
-          "title": "Elite surfers heading to Dunedin for major world tournament - Stuff",
-          "publisher": "Stuff",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjd2YUpqZC1tUEIyaXJtbDliWjEzRU5iZ3pSeXprbWlfOWpRTTlfeW4yS0lpREdqTW00aUJHZjVNZDJOOGpNcld5YkJJSWRxSDZPRWRrUDM2dFVfcFZabzBuS1hFNnJvaktaRkQ5SXRJbDVNNkd0blBlNTVnTXV1Q1p0ajRlcUVXX2VBZW16RW5RdE5MUWNoVGZ3?oc=5",
-          "published": "Sun, 16 Aug 2026 17:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Tauranga food forest where rare fruits thrive beside backyard crops - thepost.co.nz",
-          "publisher": "thepost.co.nz",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGkwQWRTa21TSWR1T09wSUZDSlY2MGtDYm1BRjJRb3BmR3JpOHpub20xZ095VTV1UDVJdVFQRE5JNHB5WTU0bkdYLVZSTC1lNTRqa0JZWk9CTG1MaW5hN09lTl9TX3FJLXpMZmo5RGxkSC1TZWVMYzFOeDdZQnRvWkY5MjdZMzZKY1RCTWM1Z0xaLV9ZVnVCNm04djdBc0FYcU9RLUlubUxTOXQxQUpRNlBnOEpRVnlf?oc=5",
-          "published": "Sat, 15 Aug 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Group Exhibition, 'Zilberman Unfold'26: Sites of Relation' at Zilberman, Berlin, Germany on 22 Jul–22 Aug 2026 - ocula.com",
-          "publisher": "ocula.com",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFVVZVNCN2Uta3ZhVGF2Qkk1UzR1MlVsODV2T3RQa3VJd3FmNG9BMWVnOVJLcFhkc29MRndZSkVwcTE3RGJtREtJbFZGSHQxQXFEYzUtTy1ZeWU3NE5KbFM5cU53OVNzVEF3b2VWRk0wMnp1d01aWWY0VGlVS1lCLW5TTGI2eG83Sk40elhkR28tWnJ1Nm1WWWpTSXUzMzloS0E?oc=5",
-          "published": "Sun, 16 Aug 2026 07:06:20 GMT"
-        },
-        {
-          "title": "Neighbours at odds over rubber smell, noise - thepost.co.nz",
-          "publisher": "thepost.co.nz",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSy0wcXRYcDZQNmxGa0x1dml4WVpTcUZ6OFJrVU5iZ2I1M3pjU3J5NTJURzk0QkJPX0ZuYWZRZFctaENlckJMeXdGS1JZM3BGQlhLR09zM3hXSjZkVEI2Q0RFckVzOHZ4cUxuTVgwVlNSOVdTYlAzLUgtSXlCbWtoclpJdGprYzNtR0xr?oc=5",
-          "published": "Sun, 16 Aug 2026 16:00:00 GMT"
-        },
-        {
-          "title": "Switch 2 eShop Charts: Oblivion Remastered Ends Splatoon Raiders’ Run at No. 1 - Shane the Gamer",
-          "publisher": "Shane the Gamer",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTNzeEJnSHJtY3c3TFlNVlQwMXIweXFHUzg5QTNaazBSeU1GNUJMUzE2TjZvdHc3WVhRWlpDUHVQbEdxaE45dUs4R1pUQmIxMVhSdXlFcmtPd19PY2UzRUI2cXFuX3dtejZtN09HUmFPV3E0SEd3VnFkY3B2LW1CR1dvUEVpeFo0QlJFTWNOSW54ekt3ZUxyZ1dDVTBSRkhFQUtKdTg2eUZYdGtjdVNPTngyWWFGQQ?oc=5",
-          "published": "Sun, 16 Aug 2026 06:11:40 GMT"
-        },
-        {
-          "title": "Lego Super Mario Minifigures Confirmed for 2027, Ending Six-Year Wait - Shane the Gamer",
-          "publisher": "Shane the Gamer",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEU3bVNNTWhLNklIWnhjM2xqbThDNmJCcFViVy1aLUhmcWpaQ1J6c0EybHhWNVFITGwtS0RqNGpqZ3NfQUJmdWY4U0s0X1hoSEM0clYxVFV2cnV5Yktma0pBdHZBaGRoTGo0Z0dOQ3BDc3VVQU9OMXNZMzZkcVMwandvSWxyT3hJT29kUGNaMTJuRHhISEVEOUZ6V3FoUGc1elhha1ptMXpzVFVs?oc=5",
-          "published": "Sun, 16 Aug 2026 02:11:56 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

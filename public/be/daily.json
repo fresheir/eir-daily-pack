@@ -1,260 +1,43 @@
 {
   "market": "BE",
-  "generatedAt": "2026-08-16T22:18:55.794634Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T22:55:11.279820Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "‘Alles wat overblijft, is een maanlandschap’: zo beleven de Hoge Venen de natuurbrand - De Morgen",
-          "publisher": "De Morgen",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHpaTEw3TGtSTnBMcUdXdG9PSHRFZDNMcWd2ZFhIZ1hzNVBweTlMMmRRUUNJbXRRVEU4VFRKcGd3SHl0akh2QVJrQWFmdTlSekRtVzJNdkxzcWo1RVRnMEFsMHdJcTl5bFRVRUJVSjFhNEwyMFVEbnNqUnJQeXZuZmRvc1gwbV9DOFkzc1ZGYXMxU0xTUmxfMjdjZHMxWXdONUd3cWNyMk81OW1MMGxIZ1d6aWhVbFY4cXFBenJ0Zw?oc=5",
-          "published": "Sun, 16 Aug 2026 17:17:00 GMT"
-        },
-        {
-          "title": "Buurtprotest in Deurne tegen omstreden bomenkap die morgen hervat wordt: “Wij wachten op overleg” - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRE5oclRaWmxaakw4MkVtbWluVTZpSmRBM2stdUJWQ1ZmWXd3S01qVDUxVHpkVG1xR2huQ0czSnEybGQ0Wm4yQnFZbV9WR3RoY05ITVpfTUVpY182Z1BmWFFxcnJ5T3BuRmF6YTk1OUJOZkduRXBTRzduRUxrc0EtOFlCWU9NY2xseWxuUGFLOHlqaEN4NW55OV9PeF8wSE1BSkxtcWJITzhxaFUwZFpsTVQ3dE04TmZ4cGltYl8xTm9KUy1BN2llUTZR?oc=5",
-          "published": "Sun, 16 Aug 2026 19:26:00 GMT"
-        },
-        {
-          "title": "Eerste deelnemers van de Dodentocht aangekomen, honderden halen het niet - standaard.be",
-          "publisher": "standaard.be",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMDZNcFg2YW9XcUctbmhHN2dOUGxwRzUyU0pwc0doU3FoZUt6aF9ya3pmdy1GamVGU1BpTkh5QUdtYnc1OUlnTWdyNGhwcHBWWjZrLVM2dUhHWkkyNEdRcE8wcW51RVh0TmZhOTdiMDR6dW11OFJaRXZpNnJhN1JhZU9Za1ZVakZQdEViZkg2c0lJV0E2WkxUWnNnWmJMLWFYcEE2cTNSUVJldE1tNER1MGEzSnF2c3I1MUZzY25lZw?oc=5",
-          "published": "Sat, 15 Aug 2026 10:30:00 GMT"
-        },
-        {
-          "title": "Aarschot verlicht met duizenden kaarsjes tijdens Sint-Rochusverlichting: \"Alles veilig verlopen, ondanks droogte\" - VRT",
-          "publisher": "VRT",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2JnSVRrYVJLNmxNNnh2YmUyM3dsMVlYVVBVQXNRTWExWmw1LU1OZ210ZUtMSFpKNTlGNl9nVDFNNC10MHEzRjZQOThMdUNKWFhEbkEwVVplbEM5UFJaWVMyelVWNGRMNmZxR3haa2o1aURDNm5nNG1Fanpxdm5fN1hVSGF3cVJmRUg2Zi1lNnBYZEdyOVliZHdBYncxd0hQYUdQTEo3X3o?oc=5",
-          "published": "Sun, 16 Aug 2026 10:10:34 GMT"
-        },
-        {
-          "title": "Brengt de voorspelde neerslag eindelijk verlossing voor de droogte? ‘Binnen twee weken zullen strengere maatregelen nodig zijn’ - De Morgen",
-          "publisher": "De Morgen",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNmpGRmhjZnJCZzVXMVF2d0lpNnFJX1F0ZUhhdlB3eml0bHJQcW45N3VUU0FLZDNnYkU4NDZxZE5hT1pSNFR5MDA5QnJ4c3NWNmxBb3ZTbElqVDRkMTFkNWZQOEItZFJLMnJnNDNVUnpvdlBJZFRSX3NfNHM4YXR2THZlV1ZwaEJETlozYjRtQ1A2YTV6alRadWJvWFE3b0x3ZHpkcVF1VDF4Mll5OGdyUTVEZ3FNbVNoMGUwMnI0YWFRRG10MjNUME55bU0zeVFKWi1YNEU3Nnh1LVN5Z3EtX0gwMjBLTlF1NG1WUjlLV1dKY29JNTBmOHJB?oc=5",
-          "published": "Sat, 15 Aug 2026 04:00:32 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Honderden migranten demonstreren op het strand van Ceuta en dringen aan op asiel - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMTF3Wk9XYU4ySUNKT1djNGJaa0NqTkVNb2pBMklUOWIwbldMbUN5X3RlWUdUSDJxMWw0VzhGcjdENjFFc1pZZ2dpZXpoc0pBeUpIeXpIRUxrZFFnV0pXRkZqTERUQlBJOHN6RFhjS2xyRVd3NGtnS3dJbGZTUWhQMFFSU2hoRmpaOVBBdi1ObFhKYnV3Mkp2a2hVWU0tYmttUmFlRnhGX19NbUhMZ2toX0VCNFJRSE4ycC1TVA?oc=5",
-          "published": "Sun, 16 Aug 2026 17:53:50 GMT"
-        },
-        {
-          "title": "Poetin voert drone-incidenten op om EU en Navo te intimideren - standaard.be",
-          "publisher": "standaard.be",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON0FvRnpJdnFnZnlCbkdaTVZtdXV0OFd4ZFNUUi1vMl9iVlpVYWctam01bnJacUtWdkRja3pROWlmMEZtZWNab2RCaG02bDZDS2Yzd3Z6SEdfbE90aXRWWnlqdmdDNUQ1ZVBfSW4tb2t4UnVXT3Jja3Vzd0Jmdjd5bXZRUHNGc1pBZDdrM0YyQkRIVERnT3F3bXZDV0xHcXpyRVlUNE1ETkdXbm5JWk92bmFn?oc=5",
-          "published": "Sun, 16 Aug 2026 18:00:00 GMT"
-        },
-        {
-          "title": "Tragedie in Cambridge: hoe Jason Arday verstrikt raakte in een web van leugens - De Morgen",
-          "publisher": "De Morgen",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdV9hSGZCR0Z1ZmROMGhFYWxTRmtXdGJfNlk4Ql9heGYyRGtqdkt5bnN2aVV6UEN3V2k5UGJLNGJFSXJkSVI2NGk2SmEtU2phRXRkeTMyX3BmYmZWSUZwUGxqeGZkN0V6d1dkcTU2bFdqMGxGMGJUcENnRHdkVjFhclFYSWdtMXlpWHN4Q0dCU29heWJKTUZ4OXQtMEIzamhHU2hUWVlZMnEyZlJicm56Q1Q0NERucXZRY2c?oc=5",
-          "published": "Sun, 16 Aug 2026 16:00:37 GMT"
-        },
-        {
-          "title": "Ierse tiener geëlektrocuteerd onder douche in Grieks vakantiehuis - HBVL",
-          "publisher": "HBVL",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXdrcVJWYjdlN0diSlRVR0h4cl9yc2hVRXZ6RkluSG5jWkM4MXNjUXBrS2lhcklpT2xudXhfeE9DUVJOdGNmZkpybUdnaV9KTzY3dU0wLWh0M1pSaV9OdGpoMzF3ZHVPU1dDRHk5NldRMHAwZWJCUklsbXhnTzZZSHl4NUUyTm1FcW1CUlYtNnZSZUNTT09wZHNRWEdMUE5LdndpbHlyVWF4aWZ0ZVA0MA?oc=5",
-          "published": "Sun, 16 Aug 2026 14:41:23 GMT"
-        },
-        {
-          "title": "Orkaan Lala treft Hawaï: 1 dode en 130.000 gezinnen zonder stroom - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWJvYzJNNkQ2eWVoZlFFWHlwd1NVaU1wa1I1M0VjN3Vrb1ozOVlsYjhzMjNWcjVlSDBjMjlfYndfQXpoR1AtbDRkT0FNbThKTXp6aDBTNjFVRmJXT0YxbU1IeE1TVER6LXBCOTFjSFlkczhyLWtONHlMZDNQcXNtZUpGTDVEM3ZLYnhwRVh0WHlvZTE4SVFyY1J5aGNqcDFoMDNIdEMxdw?oc=5",
-          "published": "Sun, 16 Aug 2026 15:11:38 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Waarom Oekraïne Poetins ‘favoriete’ miljardair viseert: dit is de duistere wereld achter Tatjana Kim (50), de rijkste vrouw van Rusland - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRkhxT3FaNi1TR1J0MnZOZFRNOXcxNHFsYmYwSFVjQS13NHNGWS1QUU11OV9xS0k1aW00clZPWkliTlBfYlY1cXB4N0VjdG4tajdhUlNYUEQxd05LUS1Pb25qd3kxcDVMdDJiMTlOOVJFOFpVcGxIUU9zNktvR0tTVnFtX243eWFCdTdxWHJQM2J3S1ZzSW9PT1N4NFhGaTZzeDVNN09VZURSNzJXZm5jTnNnMXR4X012ak4wTnkwRlloUHlwc2hFNGk4Z3VtVGVMOURyUHJGdl9vSHkzbG4tc00zSzl6aXpDdkhfZGFCOFZuTW9yYUNPZE1ZN21Gdw?oc=5",
-          "published": "Sun, 16 Aug 2026 08:37:39 GMT"
-        },
-        {
-          "title": "Buurtbewoners zagen hoe goudschat in hun straat werd gevonden: “Ik dacht dat de politie aan het lachen was” - Nieuwsblad",
-          "publisher": "Nieuwsblad",
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOaUdIRVZSQ3MxdjZOTmVjdnVyWVpLcHJrMFNnRnh1UG9jbUdPZU55Wnd0Uk5JT2xTZXNBVjhyXy1teDZVZ2w0dFdiY3VaYWF0MF9xTGt3WFFHRk1VSms2Wms3YjByV1R0OTgtd25IZ1dKU05TZ3E4QXRFQVpIMlVscG9EbWJGQVVoQXdaQVlpSEFuSFlHVTlBekU4dUZhUXJldjdUQjI0bFdiUjVEQ0lYT3U1elFSeVM4VFBBVm1xeWh6MDJaWS0tbHQzdmgzM3BxVXhIdWs5bU9md01qT1ZqX0dNQ0YteUNIZGE5c0RyRlgxM19JTWJ0dENXcndSQnFBVy1FbENOekFnNGxoRUFrV2tmMFFxald4VEJ3?oc=5",
-          "published": "Sun, 16 Aug 2026 11:55:16 GMT"
-        },
-        {
-          "title": "KIJK. Dreamliner maakt ‘tailstrike’ bij opstijgen vanaf luchthaven München en keert met flinke schade terug - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZzR5S1ltenlFdE9hdnFWUzlEUWtoY0V6d1VyaE9UWjgtQ29jT3ZPdWxYWnlLS3hpcW9qQ1VGT2hoblg0cWNJeHAxX2VXeWVfZldYcnhCSmtvTWlYZ0lERmNaMEV5cGRjLW1wVHVKQ3hheFpyQTl4dE5jSzFiNTNxbEdZYWY0T01UczY4VzQ3N2VPLW9oTTV4MEJZRGdySUk0ZER0bjk4RzJHTWU4QkZySHEtajRNZHFMRDVFbXZHUFNqTU0ydklqV3ZfYll0WkxxdGlYWVlXV3RzdWhi?oc=5",
-          "published": "Sun, 16 Aug 2026 16:46:00 GMT"
-        },
-        {
-          "title": "Fruitboer in Bekkevoort laat klanten zelf appels plukken na hagelschade: \"Supermarkt wil dit fruit niet\" - VRT",
-          "publisher": "VRT",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ3pvVExZY0FHZzFKSVZ1RkozclpEQ240R2t5Z3kyaUVkRVRFU2NBZ2RqNGZFMEQ1WXhYbjg5VGZySWpPd20xNkhQQ1NCV2pmakl0cDU4TkpKcWU4ZHdMdnYxYzh2eG1XY0dCU0hWRHpkbFpOWHQ0YzVlTS1vMjB4TXpIODA2RVNSTldqQnB1a08zLTkyRUdUV1RlVXlkQ0FGZVpWYmI2X1k?oc=5",
-          "published": "Sun, 16 Aug 2026 12:48:25 GMT"
-        },
-        {
-          "title": "Eerste volledig elektrische Ferrari geveild voor recordbedrag van 40 miljoen dollar - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0RIekFBSGhrWDFQZDhJUVhwd2dTSENmR2hLY3BnZ29HTnh6YU93d2V3TnRhSFNtRVZwMHJDSTU1R2poSW83VUlQY0lLWnJqV2FUNng2eXdnMC1EclR1QnJOSi1fMkhTbWhGellFeHlITlVSelN3Nk15WXVGdjM5VEZzYURVV1hueHFSaEZScU5pZnJ4RVJCU0pfTUcwdnJmX0haOW9EYmVvMjhseExZT1gteXk2RnVTLUx4dzhWSmk?oc=5",
-          "published": "Sun, 16 Aug 2026 14:04:13 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Slotdag EK atletiek levert geen medaille meer op: Belgian Tornados vallen net naast het podium, Cheetahs worden zesde - Sporza",
-          "publisher": "Sporza",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeldQdF83eEtjS0ktME4xVVlkN0htTkNFRlczeXRwX0U0VUt0RmRvd052S19pZlBFR0NNWUkzUkFQOHdsd3VOd2o4OE1nZ1p5VXhjUnFKUXFXbVB2NnNpa2JoNnh0NDA2a3lReUh6Z1lWMXpySTBpQVJSelV6NFlOOXNjRXJFNHdSX3JrcDVoT0ZZMmFYWlF6eXZsWmZ3VW5XSVUwSGtBX1V1ci15UWxPcnhJdFN6MGpyc3RiZkZ6ZnJYMGZtSXJNTTNrMl9FeDBSYm5wZjkyanhZS3phRk5xSjE0SFR0VkR4MlVTUVR3V3c5cm9S?oc=5",
-          "published": "Sun, 16 Aug 2026 21:17:24 GMT"
-        },
-        {
-          "title": "Roos Vanotterdijk maakt balans op van knap EK met drie medailles: “Daar begint het nu om te gaan, om altijd tussen die wereldsterren te staan” - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQR01kVjJjSFQ4VklBYUp5UmxXRFRHOC10VVh4WWhWMjhuYU9FZ2xZOEZJRHVwcjNyV3BqU09JcXlYR0JaNDhocWxoaTB0SFpCYkVqTmswejFBNEtwQzNmbFlwVU1yNERkZFpweURyM0FqQmlhZGJONHJuM0lsVkNUeTY3UndQa3ZKRmwydFpjVUVYcUM0eEc1bFdXRDI5OVY0bTdIZ0ZQeXhaNUZQMkE4MFNkMDhMNDFCZ1MwWFZ2bUd2Rmt0aW5GWlFpZkZFaklZMHNHQ1liLXV2WlMza3hKdEY0d0ljS1B4eUVjMXZFSDA0TGpvSjc4YmpOdXlFSjNXWGhWLXZEa3BRZw?oc=5",
-          "published": "Sun, 16 Aug 2026 12:07:03 GMT"
-        },
-        {
-          "title": "Weg roze wolk: Anderlecht bijt zijn tanden stuk op SK Beveren en slikt eerste nederlaag onder Vitor Bruno - Sporza",
-          "publisher": "Sporza",
-          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOak5KOEN2TmxaeThXMzd0dWY2cGhQTmRXQUZsUzlLMFBjZGx1NDVwSm1DcWFQWHpXZHdrdXNsSHR5cXU2QUZya3piT2FqS25UUTVZVTBUVEVYMWJvdXkwWmlVNXNfMHZxYjIwRVVtYmt6cjBIYWZ4eXEwVUlJMmk4UHlLYkwtNFctWmROTXU4VFBIakswRFQxT3lWbVB0UnF3aEtBUmJRcFNBSG56STdyamRIU053WTU1SF9acGVXVmZJRWJtcjJYYThUTGlza291dWpvcTBJTENNQTFua0RJMUdIQ0dvMm1uMGJ0dGhBNUlTTU4zYnV5QlFGaHp5NDlaSWdIaW9YaER1V3FZcVlyUzZaMzRWUEZHc3czVnR6b0dIcWJjNGhyaFg3dnhKSkJFM2c4U3lVVjB0MzBsQ2IyYQ?oc=5",
-          "published": "Sun, 16 Aug 2026 20:30:55 GMT"
-        },
-        {
-          "title": "Valse start snel rechtgezet: Red Panthers openen WK hockey met ruime zege tegen Nieuw-Zeeland - Nieuwsblad",
-          "publisher": "Nieuwsblad",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWVRIUEdrYmxXZGN0SV9JX3VjbHhYckJ6elU4bW9OeFJkTlBlN1hXNXk0TXJRd1U5QnpqWXVmeXRyaUN2VXJ6NXdrbC1UWnVLakhzR0tRSTdQbGZXY1V3M2RJWFkycVZOamdJYjU5RVNPcFBodGtldjg1ejA2aHdWcHdQaWZKLUxjcjFlNlNRNjBSdHBxQ0dBNVA0Y1R2Q2tNNVNHYlRYSjMyLXdlaEFzelAxUk5ta1U5c2dJZFRvelhSajVKUE92dGhfTDd3SUJSSTBRcWtpLXJiWjZjbDg4?oc=5",
-          "published": "Sun, 16 Aug 2026 19:13:18 GMT"
-        },
-        {
-          "title": "Wout van Aert grijpt net naast titel op zijn 1e BK Gravel in Grobbendonk: \"Altijd blij om hem te zien, of hij wint of niet\" - VRT",
-          "publisher": "VRT",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWQ1WjluX29mUnB1eWVlVkpOdWNLVDRFQUsxUHltaFduaVcxUjdfT2hRcmh0dGNJUHAtbjhiaTdYSm94dFQ4LWtlRklJUTFWb2RKcllrNFVHeHFVckV5cXdCTW45RWZWdlFvdE84NDdDZzkyb0pnX290N0Zld1dVSGFrTDZiRDl1cXJqemk0Z3c?oc=5",
-          "published": "Sun, 16 Aug 2026 17:49:12 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "KIJK. Groot magazijn van webwinkel Wildberries in de as gelegd vlak bij Moskou: beelden tonen gigantisch inferno - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQTZBUDVwbUtSYzZmaUxpNXpSa0VjMWF2WGpBbkNLQWlrOUVIVFhLZ0NEVng2eGp5czhDLWZDa2NiOWJPUWRWcml0LUF5T1hwNUVKSmlYLXpvTXZ1QVdnUmh6a1FSNVNSdFFjZ1MzN0ZqTnRJaWJ4NUlDcnQ4WVhMRTZIVGhaLTk5LUMwXzh3REJzWW5oU01laVJINHJSY25JV2hhN3A5WUxYd3J4dXloYThMR0QtWExSaFpaVS1JcV9udWhQV1pSWWtzQVExbG1fQ1FjaGVyb29YQ1ByS2VOYXNrUGQ?oc=5",
-          "published": "Sun, 16 Aug 2026 07:11:46 GMT"
-        },
-        {
-          "title": "Amerikaanse tanks kansloos tegen Oekraïense drones tijdens militaire oefening: “Ze werden opnieuw tot leven gewekt en mochten nog eens proberen” - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPM28yS2wyN3lFeDNURE4ydjVHR3loRW5FckdWc2RMdFRjVjRCZXZSNkVPUnZtbV9RVnQyVUZnbHMwU2lMUDRWQ0tGRjJSYW42aXA4c3UyZ2hXX2lnMnFVZ0c2MzhvWUh3S3pfQ1lFWnY5cDAtcUtLenY0Z3Q5bXkxOFp3YVdvLUhhQmlzbUF3NlFSb3N3SU9VaXVtMUx6eW93S2dqZzh6cTBObEdVSUsxancwYmQzSDNrS0RmekZ6R0xIbVFGY0tWRFhheTJsN2F1TjRsT0hSS2U3elRQMGJiYVBXUDRtbHpHeDRBX2FkdVhiNmVURk9ISk52QlM2MmIxVkRIQTRYX3o?oc=5",
-          "published": "Fri, 14 Aug 2026 09:19:00 GMT"
-        },
-        {
-          "title": "LIVE Kiev en Moskou bestoken elkaar met raketten en drones, Spaanse F-18 haalt drone neer boven Roemenië - VRT",
-          "publisher": "VRT",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaU04TF9wMDFlZldCZzJsQkdTSkFlSXVvRUxRcDN3YnV4R0dVZ0dva3dnTU1BRFRLNDZ0ek1yTzhGYnc1ZkRQVTJ1ekNXV2ZyZFpxSUNxeWpXWkpPbDJYS2tVSHdMMnR4bGJVQTc2ckV2dFJTMUdIekdoYmpLeFZ3ckVJNV90M0xlNmJQVkM3VFFROWhjQ2MxVVNFaUw2THVuV2FBSWFHMHRyR0s0bVh0NUFWcVQzMFk?oc=5",
-          "published": "Sun, 16 Aug 2026 08:58:08 GMT"
-        },
-        {
-          "title": "NAVO-gevechtsvliegtuigen halen drone neer boven Letland - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFNVc2dGaG9fV29Rd3NqcDlLWWNHTGc4SXAxYWFYUFV1dFpScm9UeDZqclhOVEhHcWVmM3BIRExvc3h5OUhhWTBOWTFHOWkzdmtjbjZKcnE3SUE5UUJObnpWb1k2SDdFOEloNjBRY0VZbXFFbTJLWDhZRV9LS0p5Q2MzbFpvZlpXczRJOXVoSlJacmZZc0xyTG40VQ?oc=5",
-          "published": "Fri, 14 Aug 2026 10:30:00 GMT"
-        },
-        {
-          "title": "Marokkaanse politie arresteert 294 mensen bij nieuwe poging om Ceuta binnen te komen - Nieuwsblad",
-          "publisher": "Nieuwsblad",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZndsZWlJWHhjd0RJQWtZS1pocUJqSElkaDBpajFkRm9KVXJ5eHhySWFfVXdpMkFBNUhRNnpyaUhnNmdoTDUyUmprY3NISGhYNXk3WmVFR296ZkxRSmJYUlpXNlVnU2VkbGpxejRudXh0ejVpV05oSXFBNHV6YVNtbXZaUW9wX3hlbDY1UXFKU3BWY0JzXzN4QU1WUUtZZm5LZm9YOFNINFlva3NCWlRQYlJCUWtPeHFtTUFJYUNwZUdjbmlyNzlvNThfQ3NtcTJVVnc?oc=5",
-          "published": "Sun, 16 Aug 2026 15:38:19 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

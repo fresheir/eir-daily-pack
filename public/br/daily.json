@@ -1,260 +1,43 @@
 {
   "market": "BR",
-  "generatedAt": "2026-08-16T22:19:51.913423Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T23:42:25.112463Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Ato de Lula mira Congresso e afaga mulheres e evangélicos - Poder360",
-          "publisher": "Poder360",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmN4NmZSYng4NmR1Qi0xUFA4RFNkcTNiVEpnOUFCQVMyWEpVVGhaNnY5ckxmM084MnNUYU5Md2tQVFc2V1BLbWdqNUpYNkF2RWJGa2R3TEY4ZEh1WW1CalZHMW5zeXNsLWJiZkpuYllOMVdzZ2xfYXlXZm9Wb0pJd29kYl9hTXZRd1l0cXlFd0d5am5SOWg3anVEWnYwWE45UTcwUHFzclNZdw?oc=5",
-          "published": "Sun, 16 Aug 2026 21:11:15 GMT"
-        },
-        {
-          "title": "Ônibus que tombou e deixou 10 mortos no RJ era clandestino, diz ANTT - CNN Brasil",
-          "publisher": "CNN Brasil",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVTBKYVN6YWUxdWF4U1F0bkVUSnIzcnZkeFNRYmFqWDJsdzNtcTNiSWxYWENzX0hrWXVaaUFmOUFzSGNQcWdxNEd5ZlNXa3ZYSnVlSnc3N2ZKdnNhRUxWZE1vOFZUOFJaNFREcUdrZUtSallETEc1bVMtQ0ZtUTVKMy0tLUtDRDduTUlfOXhUQUJUTkZpSzVVT3B2LWNMaTlZMmNiLVQzcHNZcjctdlFVbHk2cWZtNHdn?oc=5",
-          "published": "Sun, 16 Aug 2026 19:07:42 GMT"
-        },
-        {
-          "title": "Cleitinho registra candidatura ao governo de Minas após semanas de indefinição - Terra",
-          "publisher": "Terra",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMDBhbzBWV2JRQU1qcE1XZ1phWUduVDY2dTB1dEV6c0NQMmlkbXdpNkhZQXRlc1RpNWdzTmZldlNNd0hjRW5NZ2xUaDYtalZmS3g4Q1ZtbW5EZlpTbmpUaFFQWE5ydk5FNGFPeURjRF9iazVZX1JlN2txMjc5cWF3QzRSbGk1UmJ6a0JwNW91bmJrUmJ6c19meGd6UjNLcjB4VFZLUHRrLS1TSnpUNE1Za2lMSlAxX0R1Mk9sN0lpRzA2ZWRHanc5N0xBcV9iRzFZd1BXZnJlMGpWQXlIM0Jsc2VxS2JqdFhfazNzY0x6c0JGZng4bWR4MTViRQ?oc=5",
-          "published": "Sat, 15 Aug 2026 19:51:00 GMT"
-        },
-        {
-          "title": "Em 1º discurso de campanha, Flávio Bolsonaro promete ‘tesouraço’, homenageia Jair e critica Lula: ‘Caloteiro da esperança’ - G1",
-          "publisher": "G1",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMkFRbDZncmVRM21lcUdSVFNnVzQzdGtCOUg2TktVX0s2VTFVYUlraFRjMU13U1Z6c0JqQWk2NGtIQXVDQjZmeVhfd0JaQTdkOGZBeTVHQXRpempnaWNwQ2NSOG9CQ0lBbHZwOFRHbUNOSThQWGMzQUQwUVlpNFdTZ1ZLZVppOHlvVS1qUUJLYjlkRDhqTmtVV2lyNFM2YUNwTVNSTHVWcUhJeTlxV3pSaVJhUTNYTlF5U21QNGtKRGU2Z9IB0AFBVV95cUxQQTMtbnIxM1pZWGlBRUh6WklGQ3JkeF8wck9aTWhLc0EwSm52UFhFZDdkcFk5TmtpczVna1dESDFEMUM4NkVHVGprV1FYZ1JuT1VCTERXQ2l2MTZfbnJrRDZYOGJvVGZLTXRNUERZUzZPaURHRTVRX0pRZGtmeXJDdktYaExiRFJURHRGdUlJUjRYclF2WUhXRUpjd3R1cV8tTE1XMVRlLXg3elJ6Z0dkYS1WNGhVeWZBY3Vfb2Q1WnNFNVBtZ1VHcldnWTNsLWpq?oc=5",
-          "published": "Sun, 16 Aug 2026 18:27:27 GMT"
-        },
-        {
-          "title": "Em ato inaugural da campanha, Kalil anuncia pausa para transplante de córnea - O TEMPO",
-          "publisher": "O TEMPO",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdW54VEVFRXFnTHQ2SWo0ZW5nQjhuRFRaaWlKSXRfTHdIWXFPYWpjaXNTTnFDbi1KbnI4SWFOMVY0MGhTeHlUem5uSmU1NkJxV3RLalBSX3ZQS2JadDdCVEw3di1yVF9OSi1lRXFFTUVuTXpvMnlGNWM0bVRDdW9UVjJPLVRFR2NOczk3aVdBZG5Rck81NkZjTnIybkxTYUFLSU9hTFVrU0tCbFlSX2E3SXg4bllpZHRlU01GWEhDTGxrYmc?oc=5",
-          "published": "Sun, 16 Aug 2026 15:25:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Presidente da Colômbia pede que Trump suspenda tarifas após terremoto - G1",
-          "publisher": "G1",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbE4wV0RvdF9OaDBwQWhNMHZZVUoxcDNNZXdGVzJ6ZFZ0VzJkOVEwS0RGcERVdUVnQ3o1N21OZUJkZG9PM3F5Ql9pWXNBUkMwM1V0RHRxZEhkOV9UZ1l2SmFObkFrQUE2Z1V3U19nTWk0aE9GcW43T3otNDNLNkRESW1lYkdUQU9pUDVQTE5QaE53bXJCTnJQREVOSWtIWVhiLUpoNW01T3hoRjlFWWZSOEZObTNCWEVWSGJvZk5n0gHMAUFVX3lxTE4tdHpnazQ2RGxNZmQ4T3BEQWJjdUJjOHl1WkhGSzB5N2pGYjk0WFpfSW5aYTRVbHJqai11WGxQVW5Na090UERGQ0NoODM1X0NfOFNiRllEN3Bidm80ZVBEclFvM2xscjZTaEdIMXVDQjhjaFZlOGtqT0s0SVZZRzRCSE1nMktaOUZMb0N1eHo1amphOEFfT19HaVA1UFRIT0FyeUdpTVotUm9wa1pUaTd4a3FvcUptczh1WXd1eWFFajRpMlNaZHdRT3NPSw?oc=5",
-          "published": "Sun, 16 Aug 2026 19:47:02 GMT"
-        },
-        {
-          "title": "Genro de Trump se reúne com líder do Hamas para tentar salvar acordo de paz em Gaza, diz agência - G1",
-          "publisher": "G1",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLWRBamF5LTV2bWwtSjVOUmx1c3BLWWU0eXl3cWdVT3FraFJoWWJITHBLSk9nSl9qVlNseXNiVm1MZWhWejEzZ3NPbnQxV2lmQ1pYZUMzeWV3STMyVTVQbVJmcTZpYnBMYk5ESF9vWkM4TXM3UmNnYi15WHpKdDRySEhUb0FxcENvWDg4RGVPQk4wcGhfWW16eEg0bXRrX3NYVE5tcGFfN0U0b3BjLU1wb1RHMWNUM05zVk1rX29DZzhmbHR4bUh2Wnl2LWo4REpnelRSeS1Xa2laeVhJYWtmZdIB7wFBVV95cUxPd3doVXRWM0o2QTBNUkZIemFlX0RkdmhJeDBHLUdpbWdJbDdvSFFzYzZrWVhaZmNRdVVpY0tyUFkzeUFMRk5tU2J4X1pRWWFGVUhoa2JnWE51OUt1WlBNRy00NV83U1Q0U2xIeFp1TzVOcWJxbFotR010QWluWnNqVHY2OUxpbnFfUDFGbFhQS1hhTmZySTVBb01UWVljVnJCTXhoLXItb2xMWVR2M2hQUlB5S0haa0l6bm0wWFJHeUVMV3hqVEtFNXZjekFnTFFDZjIxOU95SFYyaGZ2TzVHTnIxSHQwWTc5b2s1MHhpNA?oc=5",
-          "published": "Sun, 16 Aug 2026 18:55:05 GMT"
-        },
-        {
-          "title": "Centenas de imigrantes protestam em Ceuta e pedem asilo - G1",
-          "publisher": "G1",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbUNLTDB3WXZ5U01MZjNsVllNQzY0MF82SHhhUmVROU5aZElhQ183QjlSYktKaHptenNmVDA1VDJEaTZVZjB6LTRLWlI3aFBLcWRPcHZQTlZqNEppUGlKb3lhS3BUM19qTzZZRTYtY0Z5REs0cjhpQWVZYWZKcTBMY19hdm1qZnc3VnFHUVpzRVVHdzBjUmFIdjF6eEd4YVgzZEFGSGZRS24xOEXSAboBQVVfeXFMUEdkSFMwM09TY19lNGhEOWtTZUJEZTBnZjN5ZV84VG93Z096X08xVl9CVUxCY0QzNk9hdlAzRGw0VER4LTlqTWxkM2VoUzJud2s0LVRZRC1RY3BQc3lCWlFNRWxtaG1yUk5QQ1hHQnBNSHlXclZJYTNpTHFDeWJlbzFuY2dnVFFycDlRVVg0NmxoN2lZa0tTek1NNFdXUTF2QmFrN3JfZTU3MUJ2U0pLMFZDeDRvTVJxNmlB?oc=5",
-          "published": "Sun, 16 Aug 2026 18:33:11 GMT"
-        },
-        {
-          "title": "Ucrânia lança quase 900 drones contra a Rússia; ataque deixou 6 mortos - G1",
-          "publisher": "G1",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcjJUZmRfaWp1b3JnU1BQSFA2a0xhcW5wZlVTWFlIdGNvblMtX2Y2eURyZjRid0hKUlVBR0ZLaEEzY2JZV2FGVUpwX2ptOEdKeFVJWExEczAwMU1lY3BZakZkMnVpRncwVWVJNXpxaWRZR2tuXzM5QVV4V1V6bGpFQVRib3lybEFXTUgyS3hqelVHejk4M0c1WERGSGk3Rkpxb01pclUzUzVta3JmRDFWU0NUS0w0eGpOSVVHQkRXbllreUJGUjJBX0JB0gHYAUFVX3lxTE5DWUpkV3d1Qno4a21sV0ZnUmRXRm5iQTlueUhyb0tyejNSeEYzVVNBYnRVb0Z6MGxiMXRITFhjdXBYOXBicGY5cXhqb3RJLW9CeV9XeGhRY2dfbHZfWHFWWUhvR2hVd3BQLU1KYUxESUZBWDVKc21NNzZaLUZjX2JqT003ZWlvR3FYaWlNRzBxU3RiY1pEYm11eVdRNklNWWQ2Sy11TGlCZTBJMGg1dU1Ba0pFOEVLY3NaM2w1OW8tTlhKUGdvRExvMl9JdW5fQm5Takt0cnBPZw?oc=5",
-          "published": "Sun, 16 Aug 2026 09:28:24 GMT"
-        },
-        {
-          "title": "Lala se transforma em furacão e avança em direção ao Havaí - UOL Notícias",
-          "publisher": "UOL Notícias",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWC1wOEJoQ3J3aEZWNVZWRG9nY1BRazlWeW9XbjlkV0pZS3EtWnRRVl9BbmhUTXJndkQ4eXhlbFI2VVFobmdZWnBDcWZYQWN1OWlGSmVsOVMyU0h2ZGFxTlFLeTBIRW1pWXZsNk1kNjJSZnpHRmwtUmJhcGhhdUZ2SjRtNlZCelB0SzhJSXBQWE5uN3FpY1RDa2ZYRWZSTVF4OWoyTTVyektodmRzRFZ3eHVHaFFfVkM0RjdCM2Zfb1RQQQ?oc=5",
-          "published": "Sat, 15 Aug 2026 17:14:27 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Casa Bahia tem prejuízo de R$ 10,1 bilhões e avalia pedir recuperação judicial - Estadão",
-          "publisher": "Estadão",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZzVaNkxhUDNHMzh3dnlhYldWOGYzc1ZCaDlXM0xlS0VhREk5LXg4WHhuN2F0SWJEaV84cXBMU0p0M3dZNWt2OEhxT3RDc19hMVZRemV4YlFyNTBXblRQTU9hdk1lZGRCOVViX2hSV1h3aW1kc0dkMHE2YlFnaUxyY3BZZzg3V2JieU01eVMzenlmdDdBSHZDQS10WlUzb05Eam5fYnN3bTQtMXZzTnBMMkZlSmRKbUxRbEZQOGhwTTVJMEJnaVdJRWZ6SHY0T1c2UnhiSWpGODR6dw?oc=5",
-          "published": "Sun, 16 Aug 2026 20:28:37 GMT"
-        },
-        {
-          "title": "Magda Chambriard confirma que descoberta na Foz do Amazonas é de petróleo - CNN Brasil",
-          "publisher": "CNN Brasil",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmloS3JFc1ZtSHplVHBBaktHejVMc21vdUlZNWgwYWU2Z2JwMkh1ZkxiYzAyOHNCZ3ZfdElPVHJ2OUU4djIyd2lhSEJCRGpQYmtScGxNWWcwS3I4Z3AxdEdTUm1IM2ljamtfUm9GZ01rd2poUWFKb0JkOEc2QXB1NndRWXU3M05lTEN1T05nUkhhSFZWWmtxVHhyZkxNcmcyc2tQa3RjVVR1VlpkdXc?oc=5",
-          "published": "Sun, 16 Aug 2026 16:17:58 GMT"
-        },
-        {
-          "title": "Mega-Sena: ninguém acerta as dezenas neste domingo, e prêmio acumula em R$ 45 milhões; veja números - O GLOBO",
-          "publisher": "O GLOBO",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQTJSZlFoZkJKMnBKU1F0TW9PbFp3dUJvZG8wcDhHVmdsUGNja3BqYlE1SXFKVDcyVVlJSk5fNVh4bjdqU3lKTzQwbGpGdmdqbnJ4bzMxWmNNTW41Rkt1R1lpRWJhY0l0akZTQ042Y09tS2dhV1p2S3hjUjk0ZEMwVFJJa25Ua0hxNVlldW44Q0tYdURQczhjTlcteXU2NHZkMk14dWtpb2hhZmxiSVRXQ2laTkt0TG40Yk1NZ0ZKbnhZN2000gHTAUFVX3lxTE1nYU9iMlE0MlJqVC1ySzJYRnk4UHJSVWRZbnZ6ZDlXTzJ5NGJrbFpQY1BtVTc2RmotWUxuSDQ1UVJtZmNmUV9CUFQtTzUyTmdrbzV3Q3o0WXEybVUxSDhRRllvQ0puZVdBcVFMVE1qdU5iaTlXdnhmLTBKN0ItWnZsclZtbmlzZ3pCMlZEZlJDMjFjaVEzbm1GZ0E4cUx0T1RVQmJ1VjJaNzItb291WkRCd05UcjRRUVF3TjR4VzlPRDBrOU5PNk14NUM5N3NaaVVUVmc?oc=5",
-          "published": "Sun, 16 Aug 2026 14:02:10 GMT"
-        },
-        {
-          "title": "Lotofácil: aposta simples de São Paulo fatura prêmio de R$ 1,7 milhão sozinho - InfoMoney",
-          "publisher": "InfoMoney",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWpuZTBRMUNJTW9panlzT3A1ZTFVZ1daa0ZFRkpFU2NwczJkWGZQVEROX0FtNnp6aHR3T3F4SGJPamhXR0VQUHpjaGpiYzNuaDByMUxYbnZJUktIWmtVaHRGRmZGd2w5Y1QyM192ZEY5MzhYaG5HTUgwYjBMemlrLTU3alh2cmE2U2sxT21NZ3BKZFlxOEdOZlhIclU4LUFWZ0UwNWJXcEY1dHp2Qjk0el9R0gG3AUFVX3lxTFBpZS1rNU9PUzlLeXBEb0dxUmlBNTVJU1JCR0ZjQmE1RTJrUHRDb1lSMFhlc2pQb09aN3NRYkMwWGlDOHlsMHdMTUpxQUJ5QTBtaVowVTE0Zi04ZDZENm0ySDk3V0RrRzBxUDNKT25ybWc5aGRXR3RxRzVMQll6SDM3RURRNURCeks5NDRKN1dSeDF4clI2bUpUU05iTlNpUmMtVm1NRHphRVJpX0JtbkZmLWxQeWZlQQ?oc=5",
-          "published": "Sun, 16 Aug 2026 15:18:35 GMT"
-        },
-        {
-          "title": "Resultado da Loteria Federal 6092 (16/08/2026) - Brasil 61",
-          "publisher": "Brasil 61",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOURMOFNTeUpqT0pvOWpsMlZfTnJkNktHODlxWnFuQWsxY2JpNEpNVlFNNjl3R3ZVUDZJQWI5cFFxWnR3bEVtODNPb3pFdmVyQTRVUDM3WjV1VUMzVFBDZDZkb0VvcnM0Y2RGZVdoUFhYNldNV2dlelU0V1o1S05KYWhoWGlpUQ?oc=5",
-          "published": "Sat, 15 Aug 2026 21:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Por que Neymar e Thiago Mendes não se cumprimentaram em Vasco x Santos - CNN Brasil",
-          "publisher": "CNN Brasil",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRlZENmpiRjhqa1JMcG5nWHNDX1hiUnVyQ1BuU0p4MVhFNWFDWERtMnFYMFdGVU45SHg1ZEs3cGNoTVN2bG5IQTRQV2JaRGxaRHd3ZmxkS25GOF9IejM2MkQ1cklVYllhY3JyeGNuM3RsTkdpbURBMFFpdUcwMF9kcHI2NzcyS1h3Yy1EdW84Zjd6TmZKcW9tUjBIVWJ3ZF9WbWNyLXNsRmZkaGlxb2l2aEdWSEpKeDJDcTBpZDd3?oc=5",
-          "published": "Sun, 16 Aug 2026 19:30:44 GMT"
-        },
-        {
-          "title": "Transmissão ao vivo de Corinthians x Cruzeiro pelo Brasileirão: veja onde assistir - UOL",
-          "publisher": "UOL",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeHRQOUxhXzVrTkRsbml0bjBNN0JrOWJEQkRPb3V1TTNfS1RIOG5uSFQwWkRNRlRGWW9CU1M4TjRsbExIR0FNNTdEMXpZM0J0ejVzTWdBRE9kQ2xVWXJiSDhKRWdlQkRELWZpVXFnVWhzcGNUUkJhUnBBSnJWZzBzSC04WTB3TTlfcXJoVHVGLW9LLUJueVFTVlFFN3lwTXlLWmZKV3ZLSXdpS3FJb1ZscXMyRlNmWG1zZlZ6WnRBNV94WGYwd1hacXZzYjlGc3o5TFVraWt4R3BsZ3JMWkE?oc=5",
-          "published": "Sun, 16 Aug 2026 21:00:00 GMT"
-        },
-        {
-          "title": "Mirassol x Flamengo: onde assistir ao vivo e escalações do jogo do Brasileirão - ESPN Brasil",
-          "publisher": "ESPN Brasil",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWW8wM2k2aUFTd1REUDhESlRCTUpJNy1Sd2I4NkJuT2x0bWwxZGpvMzFDTy14Y2MwU0JoRExuNkRERU1xS3h0M3V0SzdoLV9RT3M5cE9xQmVQenRrZGdLUWh0QUFuNWhtTXRfMThaRS1hTlQ4T1FRYjdDRk9JLWhJbWZGZExnRVZFSzlXR2RqeDRhbWpIc3hBeFM4ODdKOEpTTUpFMDNRZVdaZlE2eU1TTWdEUHRCUi1wQndLeXIxLWE5VXZrWEw2VENLTVZ0ZGs?oc=5",
-          "published": "Sun, 16 Aug 2026 20:43:00 GMT"
-        },
-        {
-          "title": "Brasil fecha Mundial de ginástica rítmica na vice-liderança do quadro de medalhas; veja ranking - GE",
-          "publisher": "GE",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWkowcDZzM0pwUllxYVgwSy1uNUlDd1A5enpEd1plUnF6Z205R2o0WDJkWkV1azJ5VFJxbm8yNlEyRmV0V0M3MjNXenVQcGh1c2FMUm8tMUpwUW00N01ONnlIWlZoRkdCa0k4alkwQl9oTG5RbUFndkRTQjB1aU9zbDdLTE8xaWVtXzVsdDdBVEdaTGgzd3lZRktGMmxwS2pmVXpUaHoza0VVN09nVjJSWVlBdF8ydmdhZkRZWGJvU2pkQUo0QlJrQnN4ZU9qamtMVWpBV2JyTXdpT0xRMjRGRzFER2hlMGNLQkdoZjVuY9IB_gFBVV95cUxQRHp1VXZmTGU5dC1kUzVhcVRQcWk0UnFtbG9TZzVQSjBOQzJQN2xXQjMtd1VsY3JiRGdJOXZzQW1Ial9YUkFndDJEQzkxUVpBRkhEaEZJcGg0WDRHR3VkaVVWZmQzbFpERDN1SkpLVldTdWU5TXdWSkhFcHhhQXpxRm1LRXo0bE5wZXl2SFhlMnN2VHROWWkxa09uM0VfaXhVQlZOeU1LQVFTX29GOVU3cnp6dGt1RjFqMWN6VDV2XzgzVENKdXY4Mk5WV3ZEeldSUGJTaFM1eGd4T012eEkxcWVsN3RmU2RyZXRHbG9vaE4zS3hjOEk2bnVwemszQQ?oc=5",
-          "published": "Sun, 16 Aug 2026 15:01:48 GMT"
-        },
-        {
-          "title": "Memphis acena por contraproposta e renovação com o Corinthians ganha força - UOL",
-          "publisher": "UOL",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUW5Za0Z4NXFTN094ZUVDcjhJZG13T2Uyc1ZEbmI1c3Rya2VrMHdtUTZNMF9ZcG0tTjdvTVdyTVU1MEdONFZSUVdPNl93YUdwdDdpb2JncGs0WWpkcGxScFdnQ1IzY0d0YmdfMzE0YnljSWw4VmwyRENyY0hpWnBmZDEtdkRoR2pQTFJmWjkyNXc1THlTclFXX0JCaVZZd002SERWZ05iMkctckdjSHBKV3o1V09oNjVHSjJLSEpKeU4wSXdZWGhxSFFuSWRJYkpuaXlabU1XTmVIMmxMSnA0?oc=5",
-          "published": "Sun, 16 Aug 2026 19:27:28 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Superman, Hulk, Homem-Aranha... IA associa times a super-heróis; veja o resultado - GE",
-          "publisher": "GE",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdjY1MHhXajU1ZjFXX1N1Q2EtcDFiTVV2MWJqTFdacl91ZkQwNnhWTU9vZy1QYmQ5SHg0VGRETGkwcUFCa0FvYzR6Tmd6cnlIcEdzNlE5clR3UnB3eU1FSXRmSzdxUzRDS01pbWhHSjNZUEFsNXBmMnprUE5vTk16Wmd6cUhCdDVCb2xwMUZ3TFdwU3U4eXpmUEVfal9wT1Y2VUpjUDZrZld1WGtnZm1SSGhfYTRfTXhoOWh4RWNpVlVGWWhmaTB4SWgteC3SAdsBQVVfeXFMTzF4Unk5QVV4dUxsazdxNHZJOW1iX296OVVyRF9KQ1A1Q1JvaGNlQ3NBMDhZOE9Ucm9jNlZGaGJOTHRrNEtiUEI4cTBOQ2JrNjZVLXRwdlhNbjNmZVRLNEJmZDRaOFAzRW9CSXdaUGtLcXJ1R0xKdjlhZGVQd2VLYTl4N0tXNFRvRG53SW5RNWhlQW9GOS10NDMySDUxU0VNRTFqUW9kdDFSMXN4d1BOWG9KYndMS3dEWkRVRHZJSmJ2V0ZIVUhROTdKcWxQVVZuVDdEUXE1c2FqaWI4?oc=5",
-          "published": "Sun, 16 Aug 2026 07:00:12 GMT"
-        },
-        {
-          "title": "Os livros que passaram décadas encalhados e agora têm um misterioso comprador — a inteligência artificial - G1",
-          "publisher": "G1",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaUx5UWJLd29VWXR4MDY2YVhHVnhLQlpqejNVSE5aODBDcTNSeDlEWGJhWENZTUh5MUhZU3FnRFRXSjFhUFZqZ3FFTUE5RmZBZ0V4VENNZFhqalRKc1FQM2czX1JJS216OVRQLV9FdVl1emJYTHBaWEpqTEtnU1FLZUQxYk5TSjRhY0dXWVQwMm1WVzc3SFdzZ09nOERveDdXem9PdnMyd1luVnZmYWFRang5RUNkTlgtbGdSUUJqOWRsZWgyX2VmeUdTSDJSVmRVQ1BPZ0dRejhYOFdlNnFxUDBmR3hBeG9LS1ZHWm9rNndKZ9IBgAJBVV95cUxOT3JuNGdmVnVaamhuT0JrTTdvdkF0bUM3ZVRXejlWWHJZMWJIWlhaV2lNbkhVNlpBSXlva1JiYWh3LTN3cUpacTZfeUtTZk42cWRoTU5KNDdiS1hycGo0WmhvRE9ndHNrT3RPa2tydXVKMDQyWjRfNXNGQWloN2FOYUlRTEM0d2duTm5qOVJaUWN0bU1sZjdzOFJ4a0ZUSFc0dmZvbWhiNTNUcXNqV19UNU4yRlFCQW5FSm90UFJCX2wyblJfaTh6eXNKRXZiTVdjZUMxRV9zNU1zQ1c5OVBFLU45LUZCRXFiRGZFUGNwcmFTVXdycTJmQkNDTEowUTFa?oc=5",
-          "published": "Sat, 15 Aug 2026 17:38:44 GMT"
-        },
-        {
-          "title": "Caça abate drone militar que invadiu espaço aéreo da Romênia durante missão da Otan - G1",
-          "publisher": "G1",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZm1vMVl2LVliLVA3cTRBWWt2dmhYbEFjNnAwVkRhcnZGd0RkaFkzeUZIdmExVXd3QmdncGZOR29wZnNRdTNiMmJXbjBUU1d2WERtVTE1RkY2QzdvaDgtaENncjlvM0tyVGF3dDdHYnZFbUNzUzJPR3E4ME4xZG0zeFJVMjRfOGE5c28zYjdqcXVhMFlIaGpLZlNGMGxSd2NvZ0NxYTdRYmlxdGJhMzE2bkVGSTZaOWtzSGJBNWhmNzBlVUR0YjhqVURuUzh0UWIt0gHfAUFVX3lxTE1SbnQ4amtmT3F6NDUtY2hMbW51RHBTQ3MxSG9faEM4R3BPcU93blhkelJPZ0ppZTlWRGIwSGdJeXNtcVNJeDVUN3hRX2lBbnZuMHZhcVNQMkJ5WE5kcFVoZ3JEWVZpR3BHT2k1TFJvUnkxWVZLU0hNX25mcDNMei1ub25rVjZjQ1h0N3NVdU9hSkJvM042LVZCWmsyN3I5RDBTWWRxM0ZLWlZFYkdTOW1RUTFLT2NsQ19aNWlzVnpyUlEwTTNobFdLajdRTVBfYko5Z1E3Mm9fdnI4Y011SVU?oc=5",
-          "published": "Sun, 16 Aug 2026 03:41:08 GMT"
-        },
-        {
-          "title": "Discord diz que não consegue cumprir prazo da ANPD e pede revogação da suspensão de lives - ICL Notícias",
-          "publisher": "ICL Notícias",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYeXg4QjhtNFJBMVpDemluT2kycV9ZZ2pwVndrMmtQX2tkbmZzMHljUWUtSnYzVGpmVkg0eS1ZVkl1bmhkRUZFek1nQlBieE1OS0dzVElnaDVIazlGaFp3eGI2aThuSlNqM3F4Y0U3am9qYmxvRjNRcl9iOTRNdw?oc=5",
-          "published": "Sat, 15 Aug 2026 19:12:54 GMT"
-        },
-        {
-          "title": "Câmeras digitais e fones com fio estão de volta. Mas por quê? - bbc.com",
-          "publisher": "bbc.com",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xOUhGWFdoZ0R3dFhPT2Z6V3o5b2tTVzBHQ3R4T3BURFZqRWFDcDhRSmxXTW5lVFNvMHlsWElMUzN5NXQ4QUlHVUo0NFotNDFmWmRaZE51clpJQ1lsTkhBaGZn0gFnQVVfeXFMUGtvRUl1U182aUhNNXhQWFRkdmYyVXJzX2Z1aFRhWHhFQm9ZVkMwWHY0bEZGUTNkbXg5UWRZT05UTmpEYjlzOWVwbTJ6X0FuaXZmbWVqQUJGaHFGS0NmLTYzbFZFOUZsdw?oc=5",
-          "published": "Sat, 15 Aug 2026 21:19:53 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

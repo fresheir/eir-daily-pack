@@ -1,260 +1,43 @@
 {
   "market": "AT",
-  "generatedAt": "2026-08-16T22:19:02.155815Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T23:00:32.582650Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Rauch von Waldbränden zieht nach Kärnten - ORF",
-          "publisher": "ORF",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mOGhiS0xFLXJCejJjZjdNeWhSa3FXS1k0RW52YmVYU016eWdqNEF1cHlKYkRHQ2N2NDlTTGthM1dCbUxpWDdncm9uNU9ueHZTc2VDellMM3RWdw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:02:56 GMT"
-        },
-        {
-          "title": "OÖ-Grünen-Chef und Landesrat Kaineder zu Dürrehilfen - ORF",
-          "publisher": "ORF",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1WN1JLd3YtUDczOUJkU1RlQzlNQ05sZGhGbkFET2l5U0RHSVMtaE9LcFhWemhsVmlSek1QWE1UX1RXc1NvaFE?oc=5",
-          "published": "Sun, 16 Aug 2026 16:37:14 GMT"
-        },
-        {
-          "title": "In Tirol heuer schon doppelt so viele Waldbrände wie in den Vorjahren - DiePresse.com",
-          "publisher": "DiePresse.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOckxrRlR0bFZvVkxkd3FXVU5Tem96RWMzUEVBTVBDRXBpdm9VY1QxbU8tTmRoZXVvTzZqSmw0dlhSdmpWRzA4amlYb3NRV0dkaVNiTjVfSWpRRzJrblBxYU9taEtQbWR5TGNCNUtSOXpFX2NhTWM2ZHdkZEJjUnRaajhsbEJrcy1zYU9PWEo4LUU2UzlIRDRSZnF4Vmk5bjlDZURHeUhnVWM?oc=5",
-          "published": "Sun, 16 Aug 2026 10:44:44 GMT"
-        },
-        {
-          "title": "Hitzewelle vorbei: Wetter wird unbeständig und nicht mehr so heiß - Der Standard",
-          "publisher": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmxIXzEyeEdlOEpSQkthNHozbTY1aVZuTm03NGlsMmhQZHRwaDR3UDl0U0l0MERlSG1HYUM0MXFaMTdwQTVTYUNKMXROdXV3bUd4bHEwRFh2ZEd5TktmMGp3SlRTcHhfSmFPN0hqS1pVNHFUZkJvckRCaXNYWG9Wam1JU294UDlRbXF1Um1SR1VYc2JuRDh0QW54ek5IS2wyclFtZzJnaHhrdS1waGJiODQxTQ?oc=5",
-          "published": "Sun, 16 Aug 2026 12:07:00 GMT"
-        },
-        {
-          "title": "Großeinsatz in Wien - Waldbrand in Schönbrunn: Kriminalisten ermitteln - krone.at",
-          "publisher": "krone.at",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5uVW9DYTdNbEpPcG5OdzJRSzlMSWZZVTZTUnE1V0VBXzFyUW1BaHh2UVA2S196dm4yVzNsZG5HNDFMZw?oc=5",
-          "published": "Sun, 16 Aug 2026 17:32:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "19 Tote bei Angriffen in Russland und der Ukraine - Salzburger Nachrichten",
-          "publisher": "Salzburger Nachrichten",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZjlPUDBmamFjb2ZQOExmelMyZ25QSW5Ld1pWSkNFNjY0dVNESEppdkxTYXVJejZPbDlOYnBXOC0ySUhpWkU0TG5FeGxaYVFMUlU4akZMQU9iZ1VWSFR3czMwVWJmSHU5WnA1SkJ6N3BnY2FSdEl3UF9mRkt4cWV1STY1aVFURlozOEdQTklyMURSc1poZE9HbUFBY3NodlU?oc=5",
-          "published": "Sun, 16 Aug 2026 20:35:00 GMT"
-        },
-        {
-          "title": "Wieder Massenansturm auf Ceuta: Marokko nimmt 294 Migranten fest - Euronews.com",
-          "publisher": "Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWxEMTdHZkdhN0dGOUZ3X3J1VlY1cjRHc3lZSm1YajFETHFZVVd0LVNZQUpPTFdxVVp5T0lIRWk5Yy03WDJXNWNnMXNlZW96T09KUGRlQm1UclVxbF9xc0VDajBnT1VmbVRsMHR6NVhkZ2hOdnRNU2VNNVVYSDROTXNkTERPbl9yNWZYVTdsaFRnZDZxQjZwM3dUallCZDkxRUFHM3lpaW9DU0FvYThpUW9ybFJhOUJBWXNSQjNVWnprcHBa?oc=5",
-          "published": "Sun, 16 Aug 2026 10:29:02 GMT"
-        },
-        {
-          "title": "Zwölf Tote bei Busunglück in Ungarn - ORF",
-          "publisher": "ORF",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GN3Rjd05ESEF6d1c0T0xrTUJjdTdRcmp3Wm9jeEpMZHBFNEhadHI1S01WQ000anVUSUNwdTYxclRFa0s0T3FGNVhKWHd4dzRzTUV0VkY3VDU3UQ?oc=5",
-          "published": "Sun, 16 Aug 2026 15:32:38 GMT"
-        },
-        {
-          "title": "„Keine Rechnung wird offen bleiben“: Israel droht Libanon mit weiteren Angriffen - DiePresse.com",
-          "publisher": "DiePresse.com",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORFUxM1FsN0xlR2pGZlV5WmhyX3NaZDhocjY1blZQdmlhZ0FYWThBdjdHejZnLW5YZmx0TEhSZWNUdnJtUW9udmxsbTRhMFNLazgxdjNsNGN4WTNyRmlvNGZXSHFWRGNjNTUxa0ctLVVLMmttYmo3T25FVFAtWVBHT2hzLUFlbVEwbGItNnZVdEk2cjlTd2lfVnROdmFpQ2lUQURHSA?oc=5",
-          "published": "Sun, 16 Aug 2026 15:13:08 GMT"
-        },
-        {
-          "title": "Drei Tote bei Bränden in Griechenland und Spanien, größter Waldbrand in der Geschichte Belgiens - Der Standard",
-          "publisher": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNanpCdkxsSE1BT2FXNjIyRHV0TTh6R3QzdWVhSGNoNldsdWZTeVZVWjhqQ1pTVElkenNQVEhEWFk5RWVlUmExUEw0bEtPLVFJZTZBRVlfaDRyVEI1bHBlam5wS003Tk5XM1AzcjUtZ3pYMWNIaDZGNWNnaWxLeTdMUWxadmJJaF9lMVVJRk85cVJlQzNnTDBjMDQxa2tETi1NMHZ5aVJ3TUVNOXB3?oc=5",
-          "published": "Sun, 16 Aug 2026 19:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Wiener Börse schließt behauptet, ATX 0,1 Prozent im Plus - trend.at",
-          "publisher": "trend.at",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONl8tWDRBQlNyVF8zRF9sTmh0cVc0NldocWsxTFZLd2dKZmhTZHNDRTl4d3k5ZjljblhkakFiSGJ3dDVtUE9pN0U4S21GS1JzeHItOFAxYk5hZ05JbmFFMlBTbWpqWF9hOGUzWGxjSW82b3B2N2ttWmhZWjEyZ09FTE5uekMzMlRV?oc=5",
-          "published": "Fri, 14 Aug 2026 23:08:00 GMT"
-        },
-        {
-          "title": "Waymo darf Robotaxis in weiten Teilen von Kalifornien betreiben - Der Standard",
-          "publisher": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEhkM3I4cVhoTFp4dm02bGRVSVI3Sm5LdTEzbkw5RVg4WDNTYmpueFRoQ2NpT0ZrYTdsNzBiM1dJSzZpb19IUnNGTHJDNUtJU09BTS04WTh3Z3RDMC05NjVOX2pjaFlaYmRMdmNvNDdRRzRldjhWbmVRalpwQzdfZERZeWpUcnpvRHdYemxmeUZTY3BQVG50WVRvVHg2Sk9uYlpDSkdvbkFBc2VvUl9ZYkVHRkYybUFzSUE?oc=5",
-          "published": "Sun, 16 Aug 2026 19:00:00 GMT"
-        },
-        {
-          "title": "Breit gemacht - Yachtrevue",
-          "publisher": "Yachtrevue",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJczZGZUs4ZWJwZVhPa2N1Z1d3eG1UdnFoRDdtTHM2UkVDcHdpdzNvZGt6X1FaMi04cWRoX29XQmJvNUY0UkpxRnFuX0ppdWpYZ1NtX0JmZlBpeFlQWWc?oc=5",
-          "published": "Sun, 16 Aug 2026 09:08:00 GMT"
-        },
-        {
-          "title": "Top 10 Elektroroller 2026 - 1000PS Empfehlung - 1000PS",
-          "publisher": "1000PS",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQnNBb2NuQlo3MDU4Vm5KMEZpUkpuR1dsZklUVUZTdlF4bXZNNExnNzdzSFVrLXhzeWFLd2RkUVV5d1JDdnZ3MUJQNHVGb2FCdVUyeFVFcTFmbEpqWmI0QnZvelBSSDg0bk4wVFZkY2J6dkQxTkxvU2dpR2RPSmthSURBTnZkNUdYMHdZYTlNVzRhTlHSAZsBQVVfeXFMUHl2cEF1b2xlU1pHLVRRYTRVbERNYW11MW90Q1FPRF82WVpVaUJWakhBcDRYLWdjRl9ib0FTWFBfNklERWdQVFBqdnhrUjQ2bFZBODJsSXVTaTFKNkVnRVprbFJhS2lpV1ZhX2p6b2V6RXNFazJKU1lBZkFnSUg5U3lXbEZHZVRkdVFhejg1WWVLcTF6NFFjZWc4R1k?oc=5",
-          "published": "Sun, 16 Aug 2026 12:03:11 GMT"
-        },
-        {
-          "title": "Selbstbedienungs-Kassen im Geschäft: Diese Österreicher sind skeptischer - 5 Minuten",
-          "publisher": "5 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVndQTHFUR3FxcjhjVC0zQ2xkY0tpeDl0LThpNEtPZXp4bmQ5b2wyVV9jQmtHV2UtbE90SGJCM1JWVVVmVkh2WnJlbG4ybDZlQVBPOWNEZmtYODJKYU5UX0JySC1hdG9pRWRqQl9wbHRSOWJQQ1pZLXo0VENkNWM1ZVU0LWI1MTRsazBqd3BQeTdZMm1PV3Z2cnRfaEZWeXhsU19tOTFqQXJmV0JSakszQzhvRExXYW82WGo4dw?oc=5",
-          "published": "Sun, 16 Aug 2026 17:58:44 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Massombo-Causa! SCR Altach reagiert auf Äußerungen von SK Sturm Graz-Trainer - Ligaportal",
-          "publisher": "Ligaportal",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUJlYUVaS0NzNWVTZVFfclZMRFo4VXVWdG1Oa1hzSEhyMHY2Q1VXSzBrUkIzUzNpY0lhZS12N0tPWlZMY1NKNjVvUG1ORWg5NWY3NTA3VXJ4bElYT25wQjhoMFMzN1otcW1Xd0dnaUU3RF94VVNpWjU1VFowbFl1cjcyUi16ZlNhNExfeEZpRE5IbWVOVDgybWJhc1Y1OGs2SGhNdDh4d0dzOW8yb0Uycm1pN2EtcDJZMGVoeENlblFjdVp0MkoxOVR30gHPAUFVX3lxTFBqOXBOcldiM1J0cU55QTBzQVNvWEU5MWRKRjlmWU43cW1FT19neTZzdVpaUDRLcXVyeXZBSHllTXcxS3N1ZmxCQUFfQW4zYXAwN25hcUp0VDRQUm5jclphN3V1alNwaThKVFNXNUp5RWN3UFJZeE0xSFg5THg3UG9OQ1N0VG81UFhuWVFxRDJCMnFsZC1rVVdDRXZsczVzaTJqVmV2R1gzZEZMb2JOZG5mWmY0MW9sSHZ3MlcybE9SUGZHQmFiRk81SEhjek45bw?oc=5",
-          "published": "Sun, 16 Aug 2026 13:04:27 GMT"
-        },
-        {
-          "title": "Ergebnis - TSV Egger Glas Hartberg - FK Austria Wien 0:2 (0:1) - NÖN.at - Niederösterreichische Nachrichten",
-          "publisher": "NÖN.at - Niederösterreichische Nachrichten",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3k1SkRsUDkwdVI2V3l1UmEydlcwUGxfcXBpMDM4ZHpEQklIWG1rU0plTEJ2c3VFSXA5Zmg4dXdjLXhGZElxUFlMRVFOeDA4dUt1ZXByNDVhdTNzN1U1bTlyX3E0T1k5VkZlU3NKR3M4bklpTndPRV9wSFVpdXp5ek5EdWlfNjF6Y1dZWnhNOHBCbEJ5RWNiTF9tX1Uxem90bmtFUXNPbUN1NU0?oc=5",
-          "published": "Sun, 16 Aug 2026 17:00:00 GMT"
-        },
-        {
-          "title": "HIGHLIGHTS | WSG Tirol – Red Bull Salzburg | 3. Runde - skysportaustria.at",
-          "publisher": "skysportaustria.at",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM0JvOGxFdnhiQlZ4TlRDT1o5VmdnWUlNWkRvSzdySVFYVHN1bHR6bDhOQXBUNHdvNld6d29rX3EzM3RwZ0tNd09WbkpycHdHUUk4cE1zZ1FiNkVfSFNlZXhfUUtTMTJSNzAwWHN3VUVyMTZyMkoxT29SYlgwNW50Z3NxNjBOTG5nam5udWtrcGxpUQ?oc=5",
-          "published": "Sun, 16 Aug 2026 19:05:43 GMT"
-        },
-        {
-          "title": "Bundesliga: 8:0 gegen GAK: Rapid stürmt an die Spitze - sport.ORF.at",
-          "publisher": "sport.ORF.at",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40aURFNXdSbFNsMlFQS1A5WnMwaDJDa2hSaWNJRHRydzNFRmlNRzFDMnlkRTJPWXZ2LUtnLVBkT0t2XzlZQ2FlTVBTUlk?oc=5",
-          "published": "Sun, 16 Aug 2026 21:22:25 GMT"
-        },
-        {
-          "title": "2. Liga im LIVE-Stream: First Vienna FC - FC Liefering - LAOLA1",
-          "publisher": "LAOLA1",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0R2TUJDY0Fxbld0azM3aGd5cmJVTEh3Y1dBdWJhTGwzSkRVNmFJZGYxQjRTb3F6YzA1ekpKZmdUbDNEaFBrdFJ1S2YyRmpnWTBPYXJYV3hZeWE3MTlPZjB3dVMyY19TZEN5YWE1OS1XamxOX3prTnF5SGd3WUZzNFJuVWg3X1NzUUNXZkNPNmxURnpHcEtYNTRyMHBNT0dtckt0Ym13NEFYUVJVUlU4MUFCSGl1Qjh1RzJySDhjanZwRnc?oc=5",
-          "published": "Sun, 16 Aug 2026 08:10:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Die Zahl der Satelliten im All überschreitet eine kritische Schwelle - Der Standard",
-          "publisher": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzRyb1F5TXdmWmNZaGtDTkZ0a1I2RUtrVGJpOHFHaVFzX0FnNGZrYlVrbURDN0JyUkkxSlVwc283VTNQWVRQOU5kbDR6SUlfZ0dyTnhUWDVGejl1RGhKUlByN3pYSW45Y1UwdEFBeldqeVpyOFRIV2ZSQy01SHBOV3hIUk00cE5abjZ2VWJPZFFfbTlZbzlZZlpKaDVRQ3dpb2cyRklSM1hfaXJMMkVCTlBlQWItZWc?oc=5",
-          "published": "Sun, 16 Aug 2026 16:08:00 GMT"
-        },
-        {
-          "title": "Google dreht 2027 Mail-Service ab - oe24",
-          "publisher": "oe24",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NTWlfSE5vMnJsaU5EMUpScjdjSGtkakpObXBmdFRDS3BUN2JQaGlBUHlxcnFIMDA5RnhSbUpKTkViLWtfTHljWmwyUGtRSW1LandoX19zYUs3M2hLTlRiS2FJQlFZaWdVZi02TWVSQTBsYkHSAXhBVV95cUxNZVBXYWs4bmxtVURTUV9mTjdySUFvTnhDOEJIRDhSU3F4VVBPTEJ0Rk9tZzU5ZF9mcVdIcUwtZlJ3dXhOaE1BSWRIZzZTeDJva2RUXzFlVmxzc29NYlNaWHMzb2wwTzFvQldBUWJWbWRSSFBGVmp6WnE?oc=5",
-          "published": "Sun, 16 Aug 2026 16:16:32 GMT"
-        },
-        {
-          "title": "Flog über Rumänien - NATO-Kampfjet schoss erneut Drohne über EU-Land ab - krone.at",
-          "publisher": "krone.at",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rc0pNY0ZmWEswaVB6XzJGQ25VSXdIMUtTdG9zVFlQaDhGMlZ2aXpXUVBEbjU5VTBRM1FOdE9Ca2N1Zw?oc=5",
-          "published": "Sun, 16 Aug 2026 05:35:00 GMT"
-        },
-        {
-          "title": "Windkraft-Betreiber: \"Personen, die auf Coronademos waren, sind heute unter Windkraftgegnern\" - Der Standard",
-          "publisher": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQak1IajVfM1p0Rlo4cVdMSXQ1WWpFcW9sc2JLZ20yc1lBWHMzRFVncjgxc3l4OWYzYm1PaGVQOWYwYjJhdnJhREk2Z2VSUThTa3hvcU9wNlBfSUk0cVhhYzFIM1F0TjAyVkxqNkdMWVc4VF9XQ3NnTThUQm14TFBYZTBMU1Jucm1rN25KWkwzSXpFb3hlWG9XeVFpczV1T3dGMTFjaVgyRDc5SEp4UmlpT0lxRjhMSDVDNURxSV80R2x2YjF1YVRnM1BKWGRpdG9L?oc=5",
-          "published": "Sat, 15 Aug 2026 15:00:00 GMT"
-        },
-        {
-          "title": "\"Omea\" angespielt: Wie KI narrative Videospiele revolutionieren könnte - Der Standard",
-          "publisher": "Der Standard",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZGh1cGRRQWZaMkQ3TnhRRmRzR1kxZkszcFVrWkdHaEQ1YUpUSW01bEZ1MDhERmV3MnVyeUlmUVNIZFNZUzhZaUZDLVBncTZIcHdKRFRLNVI5UVJ1bnI4Tzlpd1pVZEtUcFFILUVrTE55alZoSlZaaGFMNzh6S05IRkh1Y2JvNTNCejlXVzNKbk9xWG5sTW9PZ2hlYmNneF9PZDlpdnJ0Y3J3TmJyczFGTC05UHVpZw?oc=5",
-          "published": "Sun, 16 Aug 2026 15:59:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

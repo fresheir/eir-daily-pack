@@ -1,260 +1,43 @@
 {
   "market": "LV",
-  "generatedAt": "2026-08-16T22:19:44.393410Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T23:36:47.670762Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Ūdens trūkums, pabarota dvēsele un mūziķa labā gaume! Dona koncerts sajūsminājis apmeklētājus - tv3.lv",
-          "publisher": "tv3.lv",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZFpxY19jTHR6Vkd1bFQwaWlBRVNWOEE5cnNjRl9FVTF2V1FRVndXT1BVbkJQOEFkaElhREh0cnAtNmNuZG1DZTFUVmgzYkxkbnRoZjJWWEZ3Nk51bVFWTlVlX0RWZldlVzczaERzX0NPVVpVems3OENCVTVkMnpYUHh1SDV2bHRJd015TC1Gb2lJX3IwM2xURkFnSzhvclZzbHozNGRRQ0hnVDdycFNKcHBoZzhEVV8tS3FYQ2hheVJ2dV9Xa2g4R3J3Y0twTmt1WVBOWGN2ZTE0amVlMU9z?oc=5",
-          "published": "Sun, 16 Aug 2026 09:59:20 GMT"
-        },
-        {
-          "title": "Premjerministrs «airBaltic» maksātnespēju uzskata par sliktāko no variantiem / Raksts - LSM",
-          "publisher": "LSM",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa0Q1THk0MWhzcHlvTWx1ZENGQ1dXNTFVcjE2aXp4ZENVLTVNVERNOHNwbU9hNDg0TDR4MTIyY3ExWUwtVjJiUTVydWNER2U5X0pSQWpCdUEzWmI1NGwyczZ6M0ZYVVpqNGtrTG81YkRrM2dldmxnY252dC10azh6Zl9KZWlmRDd3VGxkeHBzLWRiRlNrQVJzbzY0WURPVHhxWmd5ZlZ6b1NySjB2OGZLa2lYUjFBcDVQWm5UOFkxRFZfT2YxV3JJWXoxdS1uaWk0T0E?oc=5",
-          "published": "Sun, 16 Aug 2026 17:43:09 GMT"
-        },
-        {
-          "title": "FOTOSTĀTS: Jēkabpils svētku gājiens 2026 - Radio1.lv",
-          "publisher": "Radio1.lv",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGJXZVVZcHd5a1p4RFNUcGFiTUpXSmJ5Vm1jUkl4eUx0b1czQUxfRjZaTWNub0htNEw4MTlIS05uMGM0bzRBS3FFN3haSHZfT2Mzb3ZtN0JhTXdGNGNhR1NWRmkwVHc5a0JWWWV2M0ItT1RKellSQi0tcWtCQkFVR19McVREVUZR?oc=5",
-          "published": "Sun, 16 Aug 2026 21:11:25 GMT"
-        },
-        {
-          "title": "Dronu incidenti izgaismo Latvijas vājo vietu: krīzes gadījumā var nepietikt cilvēku un transporta evakuācijai - Jauns.lv",
-          "publisher": "Jauns.lv",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdno5WW04cFVoMUJtTTZqSExfUk5uM0Ixc1ZuWnQ5WFBhcUlhQWU2MVlPVk9KMGNORXJTOVFEaFdtQ0JqSHRnUi1UeWl5WW1QYVVBY19JRTEySlVOWmdOdEZMLVFaWkRTTmJGUk04TG5tN3N4Tm82YVdBRWNjLVVoTVlNNm12SnBiQm9GTzdFcjlTb0w2Z19tU2l1RjVUWU9xQjNOSWZ5MTBMUmJHQmZiSUswUXlmNHN5SFJIbGcyaXZQUTJqWU1Zd2RPUVdnYlh1b1lMYjYyTlQtRVQtM0E?oc=5",
-          "published": "Sun, 16 Aug 2026 19:04:35 GMT"
-        },
-        {
-          "title": "Laika prognoze svētdienai: mainīgi mākoņi un silts gaiss - NRA",
-          "publisher": "NRA",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWpHREdEbjV2UmxFcHRjVG1iVF9BNWVsUmZtb2VQZFVrRzlwVFdWSk1xSFNLam16RzNSSGNBMlh6QVc0ZDVYMTVnWExLeHpCR1llSlpVUkZMWTgtQlFIcjFYMzBiSWJ2dDd0SmZ4RWs1cGRwS2FIbW84YWtSNi1mNmNVVk0?oc=5",
-          "published": "Sat, 15 Aug 2026 16:15:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Ukrainas droni aizdedzina \"Wildberries\" noliktavu aptuveni 70 kilometrus no Maskavas - tv3.lv",
-          "publisher": "tv3.lv",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM28tN0o0akpzTEJYVGFBY281d1RTOF9LRTAzd2VPNTM0NWpzVE55YllwdzAzZXhxanNqVGRWcFZtVktyaEwtSDc5S3lvVTRZS0s2N2twYVNFQkZuZTh5SDJyWDYyTVBpZFl4aDg3Y0JkZjlXUXhtRWRrTmVDR0ZhLUhUM1d4cmh0SGV5UkRFNm9CMXJrbVFCaFFaVnV0NmU2akk4NVg0RTFBLWI4andNTmdXZmY?oc=5",
-          "published": "Sun, 16 Aug 2026 07:07:39 GMT"
-        },
-        {
-          "title": "Savvaļas ugunsgrēkā Grieķijā divi bojāgājušie - liepajniekiem.lv",
-          "publisher": "liepajniekiem.lv",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXBSRm5PLU96elhCWjAzMVVBcWhHQjVmTnVXdkNQZHRaNi04dDI3bTgtS09kUWxyR1J2MmJfc0NxVWkzeEpHeWFSeEFfanZYZ1NuaDZkeWdIa1VGWl9mYi1VSnFsOVMxQzJVekRWYnZlakZ6NXNLS1dUcGpFU2xHUUJLUzNCTEl0dGhKRmtndEpYblhmM3JMVHN2cGp4eVZIX2c?oc=5",
-          "published": "Sun, 16 Aug 2026 16:50:20 GMT"
-        },
-        {
-          "title": "Kremlis baidās no tautas sacelšanās: pirms vēlēšanām Putins sper izmisīgu soli - LA.LV",
-          "publisher": "LA.LV",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjMyUEs2YU1zMmUxTnhzZkttMDZ1aXVqc2pEd2gzS3NhVnJVWXhEcmVVcFc4WmZMV1pLS2doRHpQd1ZUOVJNVllPQ19MZlZFaTdaZVhkR1ZrbzlkU18tdkY3dXpDOUxKMHBHMnFZX3hDLWZjLTYxSmltcW5qZWp4TjFyRG5mSVdRb0wxMG1SQ1dfLVBYdEcxSlowOA?oc=5",
-          "published": "Sat, 15 Aug 2026 05:43:50 GMT"
-        },
-        {
-          "title": "No muzeja Sicīlijā nozagti četri renesanses mākslinieka Antonello da Mesīnas darbi - liepajniekiem.lv",
-          "publisher": "liepajniekiem.lv",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQkF4V0hoZHoycFU4R1FSVTMtMDlNWS1DRXQ0ajY3YnduVGM1ZDZNZ2ZEd3p1dmZoYTNMUGF2dkpxeUh5MXUtMml6RFBYRmJRcFhueHZPaFFRMUI1MWVqZWVUOVIwdHlaRmcwd1pmMWd1TnBlSG80YVVLY2pTTFBVTTNSMWM3c283YWRmU3NoamxDcEwxbmU2UTljQjhJVEZfTllDLUJ0MkFHekxEdzdpazVzamdRejlXX3Zvd3JXMWRFRGczNGpkVG5DM0dHMEQxZnVr?oc=5",
-          "published": "Sun, 16 Aug 2026 17:16:58 GMT"
-        },
-        {
-          "title": "Putina asiņainā vasara: Krievijas zaudējumi un Ukrainas uzvaras - NRA",
-          "publisher": "NRA",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ1pHU3B0ZXFDNFpiRHBUbS1nS0wzemx5ZkU5WmVOWjdzQ1Jndml3cnowT3o5MklvU080b09qWWRPYWdRdnVHM3hzQ1ZVdkIyRW1SeVZET2xLTmFFdDd3ZFVKakdqeVNZQXRGN1p0a0xrNGtzUExJQmg0djJPRzkwR01iRG1FU0lIb09ELXZndUlqcURSRlY2UWNxcGhza0xrOGE4SlpSQlczNkYtOG1URTI4MHRoXzNDeTBvR2dPbENIYXRSd0ZfRmxZREQ4ZEsxeGVYT1dNMnpyajVsaFE?oc=5",
-          "published": "Sun, 16 Aug 2026 07:45:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "ASV izšauj raķetes, investori meklē iespējas - Investoru Klubs",
-          "publisher": "Investoru Klubs",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVZwSnBnQTN0TkF2M0dvN2ZjX0FrbkNsZUp2SU54WXdQVWRJbEFPd0gzQ3RyTzhCRWJLcXFIM1ZPM292S2QycmlQMGZOOU5ia1pJUVVPMm9MTUp4dGZjSU5Gb0NRR3Faa2xlMzM5OFZsakUxMGtBVGlaZllhejQxa3VMRFQ1dXNQMU1ab2pURWc1ZXlkcUk2VA?oc=5",
-          "published": "Sun, 16 Aug 2026 22:03:59 GMT"
-        },
-        {
-          "title": "10 gadi ar elektroauto: No 100 kilometriem līdz kosmosa kuģim - Uzlādēts",
-          "publisher": "Uzlādēts",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWG8zWHpCM0lXMEh3TTVMc3hYd3dKZnZMUE10NlZwQ3NXU2V6cWVBWGRZTzFzTTV5ZTJ0LTY0MldFRW1MV2tRY3VETUkzUVhtbkhRTVVBTG9oQTdrTmtfUVdfLW9aTG03RnEzQVRrZzRqWVNEbEd0Rld4aGZ1MG5EVVFzUnczYUdm?oc=5",
-          "published": "Sat, 15 Aug 2026 08:22:00 GMT"
-        },
-        {
-          "title": "Auditors atklāj patieso iemeslu “airBaltic” darījumam ar “Lufthansa” - NRA",
-          "publisher": "NRA",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSkNYeDVLSEZCcGtFdVpSOE1SWXNhNFJiTlBZemhYaGtacmFiajFFcld1UHBkUHY0ZWZuYTFDbGVtYWl5QkY4Vzl1cFpTMXFRY2lFaVV5QWUxR2RLVnFudmhCTk9La0V5V1g2NDBxUEtXc2M3aWI0VGJ5bXJlekFhR3F2Y3dJX0tSSjQ4dENfWUxPNHgyQXRUOEE5WUtfZw?oc=5",
-          "published": "Sun, 16 Aug 2026 19:56:28 GMT"
-        },
-        {
-          "title": "Krievijas jaunajā spārnotajā raķetē atrod “Nvidia Jetson Orin” moduli, kas var liecināt par MI izmantošanu - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVFVwc3dkWk52V3BZOHFJbmxDU29GTmt6Vkp3SWdCekJmTFN2Um9iX3U3RmNsRFc0c25TMm1XZXpWZkplY1l3TTZ3amZGWUhmR0taZUNnTlF4ZXc1XzVhSnhadFBJV1FzM0Rycm1RMnFNNERvcXJ1bTBzbGdReGF3WUFQemVVTE9sbzQzYVRnZmV4MTVDUTJ5U0lieEQ5cHRhNnVVOGJ3WUlaeERlWUh4SVAwS09PUVlKb2JVNmoxSHlzWTYxUGtpdXpsbWlCNzA?oc=5",
-          "published": "Sat, 15 Aug 2026 09:30:00 GMT"
-        },
-        {
-          "title": "Galvenās atziņas, ko guvu trīs gadus braucot ar lietotu elektroauto - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWk91d1ZMN09Ja0prS0ZSbW1TTlZ6Z2dhM2wtdVFmNHlVWFcweUVKd0FDeGRrVlNzRk5ZQjRtLXB5bGRmN2ZkLXhneV82R0RGMUtET3RHNGVMWS1pWl9BOC1USnQ2SFU3ekZIV21sX2JoQlZQTzJ3UEgwNDJtZVV5elJ4RTUzOGVyQUFQUDVjdlY4Vnl6UEhWaGdlNDNBdw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Latvijas pārim Graudiņa/Samoilova bronzas medaļas Eiropas čempionātā pludmales volejbolā - Diena",
-          "publisher": "Diena",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaFFtMmpCdkhOVWxYVVdxZC1zdzVKTUhNcDh5ZG1xODJzR2pjUzdRWVlqWEExdFUxc01ZbTd6MTh6MjRaMjM5NWlxdGVSdXNRQ241UXh1MUtUdFhMbEtsRWtYRkhkS1k2WmZlUG9kamR1N19ORHBRVDRNcW9yVkQ4SWEzRW93b2doTmNkOHV3a1VqN2pFNDgxV2Qyc081MzJSaW1seENIWGdhNEdjaTV5YUZyeTliSzd5a0FZbnZ6ZXU2aXE3QV9j?oc=5",
-          "published": "Sun, 16 Aug 2026 14:06:37 GMT"
-        },
-        {
-          "title": "EČ pēdējās dienas stafetēs zelta medaļas izcīna Lielbritānija, Nīderlande un Itālija – Vieglatlētika - Sportacentrs.com",
-          "publisher": "Sportacentrs.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNm9Cd2plWFNNRGF3MGhlcGFpd1NDc2I2d1pPb2ZIUWVIYnlHM056OVotSTV1V29xUkZGazJpcVRuNkY4QmpVOGZSNlVuUEJVbFFYeTc5WHAzMGRycVRxcHN6N3NjRHIzVHhyNnpwOFkzTWdMSUJ5a3lKNzdHUDRUd29YVjNiSGQzN2ZCYVBQX1JxcUU?oc=5",
-          "published": "Sun, 16 Aug 2026 21:01:10 GMT"
-        },
-        {
-          "title": "VIDEO: Šķēpmetējs Gailums saņem Eiropas čempionāta bronzas godalgu / Raksts - LSM",
-          "publisher": "LSM",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR0lFVFdjcUsxdnB3N25pYzFUNFI0aDFaMENRQmJqSVN5YkNFUkxVVklOeHp5dGdxT0NxdXdMQVpzWU9nRFhtYWREUVFEdFM1RW13WlozZXRvbG8tQ3FwS3pER0lYMVFhNkZsaTdib0E1bXZKUWlYQUFJQzZhVmJoUGkwWDFRRjJiQ2xBSmRXTGdVMXRfM2diRGg2dTlzNk1PLXN1MVFJNTEwVlBrc2xTLU83eVVQUjZyZFUzS0czbGpQdG9iWnB2aTI1TE8?oc=5",
-          "published": "Sun, 16 Aug 2026 17:36:18 GMT"
-        },
-        {
-          "title": "Krastu mačs 2026. 2. diena. 1. daļa - REplay.lv",
-          "publisher": "REplay.lv",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTUtkZ2F0cHlvN21TQnZJc1pwSWdTQlBzdTVJUV9zOUtTZGp2bWMtMm5WMTNKM0txbXN4Qkx0S2lzRXV2SzN6UkNkY2R0YjNtQkwwejBGcHoxWmZVUEI5c01BaC00YWw2MEg2M2lSWFhpTGtkcjczeURVTktfR0FmejhQbTdia2JkRlZ5Mg?oc=5",
-          "published": "Sun, 16 Aug 2026 17:29:09 GMT"
-        },
-        {
-          "title": "Latvijas U-20 izlases kandidātu “bordo” komandas hokejisti LHF prezidenta kausa izcīna piekto vietu - liepajniekiem.lv",
-          "publisher": "liepajniekiem.lv",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWgweHZtMEYybTU0TXctYTM3bVR5N0RpRU1jRnlRdW1aUGltaG1IMnhfUDlNbmxpMU0xOWM5RXZrTjZiU01xMGNGRjNQdTZnZzRmaE82WVZCVWE1aXdmWnNTOTV1Ny1GVUVNU0tORDVycHBVN3VCWjB5ZW8zUVFrM1ZjSkkweXhEa190bURGazJ1Y3NtTk9BM2haRUFXd1B5UDJMYWdwal9RZnFZdUo0RU5pZG0zX1JpVU1QOFpNb0UwdkQ1T2t6VWhxbkhudF9tY1pPVXhXRk0?oc=5",
-          "published": "Sun, 16 Aug 2026 11:18:18 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "12 gadus vēlāk redzam “Microsoft Surface” viedtālruni, kam bija jākonkurē ar “iPhone” un “Galaxy” flagmaņiem - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR3dnWGZ3R1dTTXFMSHVhclN5Z1oyMmNkVnhIdnJXUUQwU1plbUdIZExlNVZ6OHBIVzNUcTBUM3pXbkltVkdKcU82Tm9YXzRpT1B0Z2ozYmxWQ2R0eTh5eGk2NVN3dDFBWFFsTEpZbjc4STU2bU9pVl85V2x2TkxpZk5fXzJ4ZVRtNElNRlpUWW4wZUN2MjgzVnlGUjFPb1g3NUFMMkdFTVFlclpCOGJrby1OS1NIRWh1TUVLUGU0cS1RVUh5QmxIZ2lMUFo?oc=5",
-          "published": "Sun, 16 Aug 2026 09:00:00 GMT"
-        },
-        {
-          "title": "“Samsung Galaxy S25+” lādējot aizdegas, vai vēsture atkārtojas? - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYUh3MWZkcm9URUc5ZW4zaExjY1BKaTRqV1ZHY2YtTVVhazUyaTJGWGFyQmpBSXdMSmNSaHFoRFhSWF9YcEp6OHdicHdjVkNpR24ySjZ6RWlOVzhJSHhMcUVTZVZ5Q3NxTU8tV0hzTjVoSmVoMnloYmgySVAtUk9LRTlvdWdHWDJNbzBqRTQySzBqY1U?oc=5",
-          "published": "Sun, 16 Aug 2026 08:00:00 GMT"
-        },
-        {
-          "title": "“Xiaomi” sāk testēt jauno, daļēji caurspīdīgo “HyperOS 4” saskarni - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVA2OEFfM2RaeFllenNYZ0JzR1J0bE13TDBPZTY2YjZZTmN1R2J0aHd1dXQ1RXpNbXJLaEZPWl8yQURFZFozdERycmQ4dVNtbEVoVS1QMFVnLVJ6bWZ0dTVTV1M3UUpNWXRTbmJ5MTdtVmxmNTR5bG9pS041eFZYLW5jN2VNUHQxUGVqaWpwQ2lxWWtKWmk4?oc=5",
-          "published": "Sun, 16 Aug 2026 06:00:00 GMT"
-        },
-        {
-          "title": "“Tap to Share” funkcija nonāk jaunākajos “Pixel” un “Samsung” viedtālruņos - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXdhVzhiTWtQVDc2ZXliVzhVQkdvNjB3R3R4NjVzbmQtdGI0WGlXS0Q1TFJIa0kySUg0MkNneGdqdlI1Y0R5Uy1udjVXSE5mZWlIX2RaVmRyaTFaYVFScFQwTF9ZMm9tYkkyRUplTzNpZ19GX3VTQ1c5WVVfaW9naGJrNlk4NzQ2RVNDYlVhNGJWZzVnMF9QNHNXRWpSWFJB?oc=5",
-          "published": "Sat, 15 Aug 2026 10:00:00 GMT"
-        },
-        {
-          "title": "“Apple” sadarbībā ar “Alibaba” izstrādājis MI modeli Ķīnas tirgum - Kursors.lv",
-          "publisher": "Kursors.lv",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOclpVWFU4UndrNk0xVW5LdDJRSjJyZlhLeWRPczg3R25NN3REam1kdnBHcUxSRzRaWTVOVVNqTFJCMFpfc0RTNWdQaHFvU3djaHZfY0Q1eEVRWmxZMjRORHZ4Y1FKZDViM2tfSGNJR2Fla1VuaHBlME5UVjUtdU9DUlltSjBCRUxESEpBRmtzZUZINDlualNJ?oc=5",
-          "published": "Sat, 15 Aug 2026 08:30:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

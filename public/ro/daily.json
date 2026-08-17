@@ -1,260 +1,43 @@
 {
   "market": "RO",
-  "generatedAt": "2026-08-16T22:19:27.930916Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T23:22:39.805961Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Nicușor Dan, invitat la dialog de 20 de organizații din mediul de afaceri, patronate și sindicate... - Digi24",
-          "publisher": "Digi24",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRm56aHUxZ2dqaGxBWFdCME11dWh1cnJ2ZXNlc1BmcHBOTXItblQ1WW9VNnZTVGZNUmloY2RiVWpucGhPTnBSdmlMN0hnNzU5YXNiaE1vZmp1eGZ6bHBCTmV2MDRWOGFWNzY4WU5TOGJKUGo1TjNCMEtOajUwUnZBMU53MGVuaTJaVjFFd3I5Zk1kZ1JDaUxiMlZrTUZ1ck1nNnZ3dlZON0ZDRkVpYzlmeVhhTmtCOW9ERzhoN1lUYUYzWGlQc00zekpDUzVHcV9rVGEyUk82T21nUTN4dGlFaWVyaHJaTUxadG1VcGplZ2VmNl8tbTFhWnZPMU83eUg4UC1mMS1YRHpTU1Z1OFkwZU5OR2XSAZ8CQVVfeXFMTjFac0p4eVNWcTRkNDZ6YXpXTVRKZllwM1djcDJ6eE9hV0xTaFBIdEQzRGNQaExSVTNoOHlfYnMxV2pkbkhnQVZTRDQxTjE2RDhMa0NsUVVlaGl5R2plZUduRnhpVDhSeC10ZThaZTR4NzZ3MXI1MUxndlc1RU5ydUJMbFQxbzlSZ2hYdTc2a1E5YkJ6Vm5NS1F0MHItMFgtbXI1VndsMEVQV1dnWVo4RjU1NGY0T3RIQnIwekFtLU5ZeG9tMEx4SW84Sk1NaUxIYjRGZnExTnJSUFNmYTRuVzg4TDVFVnRncV9UanhXcnBfNjc3bHNWX0JUUW9WUVk2b1o0TnFNV3FEVW9QSzV2TzFVQUFreGd6QW9vcm9Td0U?oc=5",
-          "published": "Sun, 16 Aug 2026 09:17:23 GMT"
-        },
-        {
-          "title": "Precizările CCR în urma întâlnirii dintre președinta Simina Tănăsescu și premierul Ilie Bolojan - Digi24",
-          "publisher": "Digi24",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWTJObjBPX1BuSURqUXhKeW55cTdmMlRuZFZPVUR4OHYyb3h2WFhYbVpLVWZ0Rk9vZk5TWWdLblJJY3h6a1lxNXplZks4UlpyWmJGdzB3eHRYa19CQ1Z6OG5wcUtnUEQyM0dEMnJXVWZ4VTBKaHYyQ0xKLURFcWQ4SmN4VGg1anZZR1ZJNElhdlRNc05wdmk4S1EyQV9PQldDNzZ4elU1eEJOX0dXUjBJZVpZUmtVbl9jZVVaX3FFd1dkalhBeDAtRm9ZN28yOXQtZk9VREI2WFhzeEhrRFhBX1F3YkJNMEHSAfIBQVVfeXFMTUZKYlU5enFTTm0xTVh4NGQzZUEzSWVLRkNpRVRqZm94c0M1TEVkVHlfbzM0Zzc0bHBtZW1hYXpvVTdkbjR5WEFDQ1pwbUtERks0akJKUGk2WHBDb29neHEtWHBrZVFzbVhZNVl4Z2tnYjFQYzdFaTdsTnVnQnZnTDMtamY5MDFLRGlTM3VXVE8xT3dQenNEUndjN2hWb1RrcU1LRkRaanc5MU9PVXl3MTcxQVVXdUxyYlc3d1ZMOFVhbDdBMGVLdTFxYmJuM0ZTRnNVUUxIb3U3eUpSZ1E1Vy1QN3B5cElqTW9fc1c3ZU9waWc?oc=5",
-          "published": "Sun, 16 Aug 2026 17:51:09 GMT"
-        },
-        {
-          "title": "Nepotul lui Mircea Redinic a murit cu o zi înainte de nuntă. Doliu la Voința Sibiu - Adevărul",
-          "publisher": "Adevărul",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHprTnN5OVZpekJRNEI3MnlmRUNRLWhyMkthZXBUZnktaUZldklIYXU3d2J2eWlYZTdlTkpHcXItVTNPR3ZySnhMdlhtMFhVdU16Zk9Lblc1LVVHYVI3LUVkbGxkQTVoSGlsWHE1Zms0WDJhV3k4Y3I2QkpKUjJRdTUwWkhOTkYzaG5aN2QtRFkyTW1GVGdfV2VIQ09NMzlJUHdoWg?oc=5",
-          "published": "Sun, 16 Aug 2026 18:46:40 GMT"
-        },
-        {
-          "title": "Prima reacție a NATO după drona doborâtă în județul Galați de avioane F-18 spaniole - HotNews.ro",
-          "publisher": "HotNews.ro",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXltd25La2RoOEh4OVpwTkhhX1A2ck9WTG55OF83bW9Ua193TWhId3A0d1lwOExTRGpKbkZXdHlBNGUzVlI1aWl5aE9PX3RaT3lfcXhnal8xM3lVZEtINzRRTWxnM1p2X1JSYmUybkZYSWZUVFMzLTVucUtBUnh6ZlUtd05HVjBXWDlwc09B?oc=5",
-          "published": "Sun, 16 Aug 2026 09:51:43 GMT"
-        },
-        {
-          "title": "Doi tineri au murit înecați în mare, în zona stațiunii Olimp - Digi24",
-          "publisher": "Digi24",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ28zNWJHWkdNRzFCWW5KZEdLZGZIMzFkb254RGxPRXh6TnoxdEFacUVMaWpaY3Y2clVpWThaVUlMY2tydFFlOXFmNzJMeExvb2pjUHlZWm50NkZnWkp0eWVSNUVnVTBkVGRqT3FDX004d25vZkVCZElGQTNkM0ktWjZrNEFMTGh1Nzk4M2pHOC1wb2xONUlCMUhpc1NVNm5qdmVCTkFueWk3dllWN2VDT0pJWjliMlk2V3dXeGNtYkY2Y3YwT3NEWlJLb2Q2ZllJRExrc3VpYU9zTV9MOC1WU9IB6wFBVV95cUxQVXpBZm45NkdFaHdmemdQNElXeTNwNUFNS3A0SXRQZUVXa0FuSUFDYV84a2NwZm10dGZqbUNXUHJDQWVjXy1RTG5IMGF2cC0td29ZWDllWmN0MTdET2c1cVU4bDB6WmNkZUpFSFVsdVpna1E2czdOSUhfQlMwUC1jbUhzbnhjdDFaTnpENjJzTWRZeUtjZkxiZ0pyOVZFVk02WU1oQjZNT3dCbGdlZW1RSS1SY2NlbS1GUTlzc0VWU1dlTU00Njh1c2RtNlNpck5IM0NCeXdBWTZyMUZ2QnkyUXNEcFFoTU0xSVFv?oc=5",
-          "published": "Sun, 16 Aug 2026 15:41:26 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Cea mai înaltă statuie a Fecioarei Maria din Europa a fost inaugurată într-un sat polonez cu mai puțin de... - Digi24",
-          "publisher": "Digi24",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeW03T1dsU2pSaFc3aHpuM0lKdnF0S29NTmhLeE8zalFxR01NSHJoVVRzNy1KQ3h0X25sNzNPUURJZi1YYTJWVjE5Qkc1d1BqOWNQYUNCOWQ0aXJTYjdBcmxEY0pLMlhuTGx1OE8xMHB2VDhtTHQ2c0JldG5WeTJwYjFHWUtlV3R2OTVKUGhsQVVxeVJfUC00eVU5dlo2T29ITnEyYVE3WDZZcHlhTktFb2RpbE95QVVGRmNnU0FTMW1rVHRQbG9aVjQxcnk5QUpkM1FIdzUtQklOSzBLVkhHTGJuN3MyWUo4b1pQTGI0ZU51YTV3ZUJJUXlBOWxld9IBiAJBVV95cUxNNTlHYzlZRlVRV0lwNWZQZHI5U1Q5Tmd4Zml4RTRfVFlTek01WXNwbFR0cjlQWTV5YlRlUjhIUF85dEZaR3lFYnpPVHh0eDBQWlgxbVk3d2YzalFmQ0lVMFdfaGFHUjZISHIyajA2SEFiS0JrWjZ3VzlramlzV1FEa3pvUUh0YXNPa19vWUF0QkN0X3ZhUWZjbndHbk1OT0R6N21lYUlDSTE1UG9TR0NPSHV5V3dxU2wxTlNrc2FEV08zc1dGbUJNcVhpTVFPcTJEMVlZb25pVjNGakZiMjB5bmJ3VHlyTjN5MXkxb25Uem9ncDZ4U3hULVZWUGhHRGtOSmszMGNiUWY?oc=5",
-          "published": "Sun, 16 Aug 2026 16:30:30 GMT"
-        },
-        {
-          "title": "Cea mai mare paradă militară din istoria Poloniei: ”Doar cei puternici evită războiul”. ”Trădătorii spun că Europa e dușman” - Stirile ProTV",
-          "publisher": "Stirile ProTV",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMllNSTJ0REhrOUZZck9fQ2lkRHFXSzBoUkFlNTNtV2VXekw2ckVJRGpfNWJtb1k2eFJNbHNodXVaOHM4M1d4bjR6aXBCTzBtVXlPM0g1N25oa3ZSQk9vaU1fcERKanQ5cjZuVDFGMlF2UEQyVFdUUC12S2t1VXVyV05ibl9YNkk0LUJIVUphR1FzUkF0MTRTYjlHR2Q4NVZMcFdYTzFudlgtZWF1TDJvenVEUnRhdl9XaDJsVThLX1lQbjNWTkpjUnV1ZWljZU81bm1NRjYxTHVuWTZTbjVxRHZHM1VaSEpEX01hX1Q1Z3h4WVZJTW9GeGlvYw?oc=5",
-          "published": "Sun, 16 Aug 2026 09:51:10 GMT"
-        },
-        {
-          "title": "Cel mai mare depozit Wildberries din Rusia, spulberat de forțele ucrainene. Atac de amploare în regiunea Moscova - HotNews.ro",
-          "publisher": "HotNews.ro",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb0pxX19kSWRlUTdBdnZCX0NzSlQ5V1RJSmdXWUxxcXZaalB1djl3RXRXejlYVFBZNmNWbjJkd05OcE5aRUYteGR1TE41bXZya0VIcGVTMkdSaS1uTUZJbjd1c2FSaXh2Q1lfRjhITFFHYjVuZWRiVTBaMTd3VGpKMmNuRXdlUFlIVDdDb2daUzNlUXpGTVVqc0dEdUpaU2lvWVNZZ1NYMENHVERqSWZlcnFfTVpWYUV4TDkxb1lYaG1KdnZGNlJ6czFSemZRUkhDVnc?oc=5",
-          "published": "Sun, 16 Aug 2026 05:00:21 GMT"
-        },
-        {
-          "title": "Doi părinți români au circulat 100 km cu fiul mort pe bancheta din spate, în Italia, crezând că doarme - Adevărul",
-          "publisher": "Adevărul",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWNrYUJEelJnaFg5eGxSSXZpcUw1Q19vbTd6WE8wZ21BVF91NGVfVzVCck8yOVdNcXZPTkNCTG01dlQ3MEVIN0RKRjE4R1ZXQUZpLTAtTGp3SjlnVjBNMGhjcFNVY242NFlQdlljUFhaVjZzUlVaM2xIempSTFpQX1ZJZzVnS1JzbjhfNFBuYnQwbjdVQ3BDSEotOUhRNHZuM3czSHdWcGNGbFVX?oc=5",
-          "published": "Sun, 16 Aug 2026 19:08:46 GMT"
-        },
-        {
-          "title": "Una dintre cele mai sângeroase luni ale războiului din Ucraina: Care sunt pierderile Rusiei din iulie 2026 - Digi24",
-          "publisher": "Digi24",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV3c0RjRGb1gxM0tjNW0xSWtkVWxsM2ZrZEk3ajY1elZXNUQxX0xncW5rTWpYZV9HMGFtQUJ4YVJReDUzNEhrZV91M2E1TlgweFBZM0Z5bUtzUlFMNzUzaEUtbno3U0RHWHFUOUxySTRBNk5KRDJCU2VwX1dIbjdaU3llZDBnXzVqSW1LS0EtazNNRjlGcEdrRDd6ai1pa1FNcVhxRERmN3Jsazc2NkZmOWlxemdGemdYbFloWHoxb3ZQVTZpeVM1cGpNOTlfQQ?oc=5",
-          "published": "Sun, 16 Aug 2026 13:57:05 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Momente de coşmar pe Aeroportul din München. Piloţii unui Boeing 787 au depăşit pista, iar coada avionului a fost avariată la decolare - Antena 3",
-          "publisher": "Antena 3",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbHRPU1VoemcwemRQMWhYMHg5X1pJaHRldzBtN1c2T0NudUNha244TFFNUlJmMUdEQ01JdDJKZDIzTmExRk1LbUJ3OThKNjVteUh6NmlHak15cndsN2FnMkM3VDA3ZzNHU2xGZkh6YVNuNkduV0lYOWtmcDkwQm1wemY5aE11YlNXcHg0ZGNVUDY5eTVaclRkdkVteEs3T1Zaa2dFcmFVeE9HTDNNSG5Sa3M4VkxHWXlYb05TMjBBaEpsa1RXc3BEdG0weUJBdGlZNVBaSlFtSC1wUnZXd0ZZYzAtSVhRc0Zpb2NKdGJWV0VsV3RlYjc5eUItMExhRmxlNTNfS19R0gGAAkFVX3lxTE5vMnNSdFl4c0NFVkx4dEZjaVpfeXh2VF9Kd3djZ2xkeVJsRGlta29BRlA2RVhWWjdUMVJBMFdySmgxeFFhdTNYeG9DdnMxVVFNQVNtVExIVDlHZzYxdXZGcHh1TUt4NFUtbkNlUlFXRHJ2UlF1WFJEQkZTamE4eUt5ajdsM3FHOWRPSkNYdmtGZjhSb2k1R0FtalhRQkxLSk9nVlAyd1FGcm93TFBjUDMtMk55OVM0MlVtODVVVXhfMmU1dnAyQjVmVzVNRHA2Z1lkLW5LcmpObjJpT2pRUTdRX0g4cVZidENmdDVwRnhSRzJDMXlGZURobmVrTWJjbDQ?oc=5",
-          "published": "Sun, 16 Aug 2026 11:37:00 GMT"
-        },
-        {
-          "title": "5 gadgets de la LIDL (17.08 – 23.08.26) - Gadget.ro",
-          "publisher": "Gadget.ro",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuVGhqWmdCb2ZFOTE4RXcxYnBDX3phZGpxckdIQ0NnYUtRbmRtdXVEYVdUSmJFenZERGJRQy1vUkNLN2J3aGRkRnd6WDJ6R3FCd2ZhN1JCeGRhSzJzM1JjeWlwUDE?oc=5",
-          "published": "Sun, 16 Aug 2026 06:15:42 GMT"
-        },
-        {
-          "title": "Primul exemplar fabricat al lui Ferrari Luce a fost vândut cu 40.000.000 dolari la licitaţie, în pofida criticilor vehemente aduse modelului electric - PiataAuto.md",
-          "publisher": "PiataAuto.md",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUzZnWDhTbUlDV3JyVnhlS0o2eWlBV0dMMDlZZDNlV3B6Vm5vSWQ1VU43cFVoN0NyVE1fUGF0SjdSWnR0bzR2d2h6eTNlY3VNQWVwOHA5a2JTS3F4eVdqZXJPcFc2cFFPQ3pMbjBBQUlnT2NUZENRZEtwcUk4bHQxMDZ4N282ejd3aUd2am5hSUl1bUJETzV2clJlN3BEc0luYTBqbW40QTAyZExlcm1reGFPeVUwb0cxQi16dnFFVkNZZ2pacUpYWHJEampuRzcxRXh5c1pNYUVyUk44SWI3NHJUa0dweURtaTRTRVB5Z1JOU1M5bHh3R29OSUp1U1QtSTRsV3lRTHd4ak5BdUxz?oc=5",
-          "published": "Sun, 16 Aug 2026 08:10:14 GMT"
-        },
-        {
-          "title": "(VIDEO) Un youtuber a cumpărat un Audi RS5 nou pentru a-l testa, dar din cauza greutăţii mari, anvelopele n-au rezistat mult în drift şi sistemul de sunet artificial a căzut - PiataAuto.md",
-          "publisher": "PiataAuto.md",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQekVtWFluRnR6LUprLWx6V3M2VHcwTmswbnpRRkw1T3YxMVd4Nkh6aUZHODl0Z0VEVFdDem44UXl2dFRoOWpzYVpOSkVfaEl5LXVYQnhDOHVjVWp3R1dpREtiQTcxaFN6TWJ5X2d4c25vVlFQUVYybUtGbV9NelVROExLWWtDejBYd0xjX0JoV1dPbXVHN0h1cnhnbmdrZ0dXNHdLbDFPMDFXZ0hoT1ljZllKZ1BkNVdqa2dqbDhnaDYwS0RqX1V6M0JlN0ZvUmlaRVN0RDRKNl9oejNQN3hmN3B2bDNxdEtHbGpKeGFCQjhQSjRoSVV3VUYySlBTWF9qaTlwNWo2MFBKZDNV?oc=5",
-          "published": "Sun, 16 Aug 2026 05:24:41 GMT"
-        },
-        {
-          "title": "Bugatti Destrier ar putea fi una dintre cele mai extreme mașini de stradă: 1.600 CP și peste 10 milioane euro - Libertatea",
-          "publisher": "Libertatea",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORkhVYW1ZSVZyc0tLRnJDZXRYMzljTzVEakZWb2FLdmFoTzhScW1obm1RSkpsTkJHVnBuZFUwamZzNTZoSEpzVXAzUlJsOXJNLWtDNC0wcU5KZW9EMG1VdzVORkViS1JoYlIxV3JTY1JtTTFydnd1ZktpYzRGRnI5dXpzZmpBTjlOTnI5RndralgyemdNUnNIenVjazVud1ZWVG1nOXMtSXRKSDNORDZ6ZF9FZ2l5RUVfQUc2Zm1Sc09sbWo5U1NSb0JWN2E2ZTJ0bGNDT1cxVzU?oc=5",
-          "published": "Sat, 15 Aug 2026 17:32:19 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Marius Șumudică a făcut ”prăpăd”, după Corvinul - CFR 3-0: ”N-am cum să accept așa ceva!”. Decizia luată de antrenor - Digi Sport",
-          "publisher": "Digi Sport",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcl9iV054T0syZjRVa1ByNURxd0o1X09ZOTBINUhadnZGb200dENVb1NCbzdyaDg4YmlZeHhmaEVWSWJxbE5vemhnbFNEaXZQQnlzTzQ4eU9iQ2xWSV9kMURINW5YUXN0SzFyNHZ1RV82SU8tX3ZkTXBabEJ6WmludEJzZkVBUkM4eUVWcmI4SHAzdEtYdl9KSTlZenRHN2NtWm9yclRjOEpaLTZqdHpEWUlfVnNhQXNDWHJaUFNtN1B4Y25KV3ZDXzlKT2NkcjNwTWZIQWNmTUV5LUpIalVtX0FvSU1MNEk5?oc=5",
-          "published": "Sun, 16 Aug 2026 21:07:00 GMT"
-        },
-        {
-          "title": "Alexandru Crețu a spus totul, după eliminarea din Oțelul - Craiova: ”Am avut o discuție cu Marcel Bîrsan” - Digi Sport",
-          "publisher": "Digi Sport",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb0pyTERRTm5QQWZtd29Vc1cyOTFmU0tTWW5WWnJfXzZtb0Npc2dkTHc4NU81LUwyamZTWndMazJRRlY3YldqdV8tSnVaeFBzelowR3E2UWwyRVlaZ0xxTzU5aDdkUEhmRnl5SGJHZzlRZlJSMGliN2tsZnRES2NfaDJUNnB5MnRZb20wQkhZcjNmd0ExRmJKaWNGLUFvdFJLVEVrLVBvbUNJRjdLTGhSczZMZHVoN2dMMGZjLXhMdS00Z012WGVLalR3dDlNUl9UaThQaGtUZVpxaG1kRDE0?oc=5",
-          "published": "Sun, 16 Aug 2026 17:55:00 GMT"
-        },
-        {
-          "title": "Marius Baciu anunță schimbarea la FCSB! Ce se va încerca la meciul cu FC Botoșani: „Un sistem nu este ușor de modificat” - Sport.ro",
-          "publisher": "Sport.ro",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQblZYYnVweEJkMUhrRjM3Z09aaWZVbGdMUExwd0l6M2VKQWpXemJnbGx0QmJVamsxdWdBWkNSdjFGRGpvMnRfRmE0VEZoYUt4TnA0RGpBaVAxelRSeV9fWUgyVFlwTElZSWFIWVpOZy0tN3d4T3ZoSi1uSWhYdWlVWWtPOXFEbHZ0OXc4bWZLN29yLUVIU0owc2w1dm4wX040QUxCNVZHV0w5b2YwT2JnbVctSi1vX1Jhd3pRejA5bUFVRndHT0dfSWJ6UWwyQ3FreUx1YXBPc2dxVXVFaG9VQVlSVFp3V1ZsR3ZGVQ?oc=5",
-          "published": "Sun, 16 Aug 2026 16:31:04 GMT"
-        },
-        {
-          "title": "Viitorul lui Rodri a fost decis! Hotărârea luată de Manchester City și Barcelona - Sport.ro",
-          "publisher": "Sport.ro",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUGxTRkRGVk9URGNkenhZbUhVTnE4T2FGdU95TXRfU25TNngyNG5ZSkNxM2FBUFJqUXk1SlBMU3U5MGRlaXZBbXY2WFJ4Y0QtSjU2VUxvajd6T2Z1QXlCVnpDVVlHcmJ2amkweDdNczdBY1BPWkx4eDBSd1lYUzUyamFpZk5kaFNncEk5elhHZ2ZXYWdZZVFOM3FUQU9nU1V3ZDl6ekN5YlpjZUhmOU9ydXhB?oc=5",
-          "published": "Sun, 16 Aug 2026 18:52:02 GMT"
-        },
-        {
-          "title": "Tragedie pentru Mircea Rednic: nepotul antrenorului, implicat la un club din România, a murit la doar 37 de ani, în noaptea dinaintea nunții - GSP",
-          "publisher": "GSP",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmZRUkRQMi1HcmZ4cjgteEtZWnRwSUlOT3hqVnpZSDFyTE55YjRKa1NTU3I1OWZnNldkemNEOWhxZVJaOXliX2VlX25mLVFZTmJWenY0UzZhQklidWRrM0ZuQ2lSdWhVYXY4NlA4b3dKeUY0MDZMbTI2Znp4Q0hrYlkyem1ySDVuT3NnbGk0OWdBMWxiVmlES9IBSEFVX3lxTE03Wkp6bV81cTZtMVVJRm5XZDc3anFMemgxdTBVdTVwVzRjOGJRSU9WWjB3dHpmWlVlcUhBQ2luQ2swc29sZUlLNw?oc=5",
-          "published": "Sun, 16 Aug 2026 20:03:03 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Huawei rămâne lider pe tablete în China, însă Lenovo vine tare din urmă în Q2 2026 - Mobilissimo.",
-          "publisher": "Mobilissimo.",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb3YxOW12VXNGdUZwQzF0Q0x2d3lQQXZaZ1QtNGlwam5YR08tZlRNRlZRV2c2MGdSN3BxZG9SbmpKT0YwbnNuMzZ6XzV3dW5KSFN6cTBrd0sybFY5NnhsLXNGdlJmVjNXM296bklYM1ItYTRaNzJWZ2plWmQtWThsMVdCWHBYN254ZkJKWExDQkNhZnJQWlFYZDM5RGplaVJmYUtHa2FldTFvS2lqcHdfejZkN0ZGYnhTYUZWVUJwMA?oc=5",
-          "published": "Sun, 16 Aug 2026 20:56:36 GMT"
-        },
-        {
-          "title": "În urmă cu fix 15 ani se lansa Xiaomi Mi 1, primul smartphone Xiaomi din istorie (află toate detaliile despre telefonul deschizător de drumuri) - Gadget.ro",
-          "publisher": "Gadget.ro",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPd19pU0pDSXRyeFpPN0ZqZGxrRndDODBaQzJIYzNNY2ZHUENVSmVpLUViWWZYN1ZPTzNLVU1NQW1vRkRQMjJqMERxT2ZnMUV2UkJ4RTk2TmNhWVlFbG14UWNvVzRESHpETy1uMkxBYUpid2lONmkycGhwQzJrTC1oYnNKd2dMVkwxZ2w3bVo3VjhOU2MyUkVSMzBlenNQSll5dk5COXp3b0Zialk2VWxRbU94WFdaUDdWV0NnN2VmQU5qZFJ6a0JuMThibndZWXVvTGZfOG01WVV1U1NxMmY4RVR3czJPSTUydWktM0hPbWc?oc=5",
-          "published": "Sun, 16 Aug 2026 15:46:20 GMT"
-        },
-        {
-          "title": "Lenovo Legion Y700 Infinite aduce OLED și 5G într-o tabletă de gaming de numai 298 de grame - Mobilissimo.",
-          "publisher": "Mobilissimo.",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObU13WjNDWF9HVUd6THpKd0JNWkdxZEZ5RXl6eDZ3TU5FMjg3R3N5SERkYm9GZ0wtRjg2Zm9qUmF0SUh2QWh2SXJWT3c4STJKVm9QN0EzeUtXWXY5QWF6TGJna0pha1ltblpuREhpUFRKQ1NHX1RpU0h2WDBqR1JxOWZDMnFpMmprS2ZqbE1BUFFsbGdLVzBPQzhfNnZPR2MtTDN2X0k1TTJ2TE05c1JVZEg4ZmhNbXJORVFWVFBaNUh5dmh6MnBVeDNfSmlzWDg?oc=5",
-          "published": "Sat, 15 Aug 2026 14:07:12 GMT"
-        },
-        {
-          "title": "Resigilate eMAG la Numai 3 LEI cu Preturi Reduse la Televizoare, Telefoane, Electrocasnice, Haine - iDevice.ro",
-          "publisher": "iDevice.ro",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0tOYmNLQkNaNDlXdUZ4NjFLQjVVNEhPQlU3Nk1Eb2otd0hfM0RMSEZ1cHFrekxLRlVjNVl5RFg5T2JxTlpUUmM3Wkk5M3BkU2JOWU9xWG1HU1F4M1NjNU95SlZscjVLRTVLOUFjN1VMNVkxNEhXNExnbUtPMy1sQjg1NTR5YjhiUUc0R0o4N1lDV0VrTjd1ZlVFMGlMdG81UGZDZkZ2ekNDZmpCZHJHWVkxXzBCVWRHbUdnX3d2UDJqamlTdHc?oc=5",
-          "published": "Sat, 15 Aug 2026 16:16:10 GMT"
-        },
-        {
-          "title": "Smartphone-urile evoluează spre un format lat - profit.ro",
-          "publisher": "profit.ro",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHpHdHd0Y1VESDNKU3NSOG9vQTlVWFlNS3gybl9vOFFmQlN0YlRHX2FmZDlmUlJKb0ZoZTR5aXJHTm16ZHZmdXZOQWJaaTRHaWRRTWhhYzREM3k5V3FFWm9WNDM5ZjVWYWx6NzZHZTdzV3FPa1BqVnZJZC1HWklnd1JMejRrZHpoVmo4cl9JTjh2ZHJhYzgwNkhn?oc=5",
-          "published": "Sun, 16 Aug 2026 07:47:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

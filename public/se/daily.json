@@ -1,260 +1,43 @@
 {
   "market": "SE",
-  "generatedAt": "2026-08-16T22:19:06.204566Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T23:03:24.895095Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "DN Direkt – Djurgårdsfärja körde in i kaj – tre skadade - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFVhZ3lSZ2ZsLWxhRUt1U1ltWFRWN2JhQWY5ZHRxVS1PUS05UVRCaVVwdVJ5X2I5QTdXSVVpdzZBYVZRSnhJQ0RfQ3RmXzJ4T21PLWxBR0gyT0JKZHJVZk5pR2doTEN5NXhCeTRkRzdKU21kT1BoRlNmUTFON2VnR20tWVM?oc=5",
-          "published": "Sun, 16 Aug 2026 20:48:15 GMT"
-        },
-        {
-          "title": "Tre svårt skadade i trafikolycka på E20 - Göteborgs-Posten",
-          "publisher": "Göteborgs-Posten",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWdsTUdKT2RkSVVLSkhkcVI5TWVhQWpMZG4yTFRZUU1aMkRfNjZ4SjZVLWxjY2pBaTNrSUs0U1JyWXE3Y0xNdlZaSlhldG1XM192UWdTcTY2UGlYWnBTVmpWMnRZb2xQTWtJSldwa25Qa1R5LTRDRjV5Y2lndlBsUUp1M0h6RjhtR3J6WmZ2TjFPY2RUVVBqYWNHckhldGgtSFpLMS1WRXJXVUZnWk0wQ3VuQmI?oc=5",
-          "published": "Sun, 16 Aug 2026 19:28:40 GMT"
-        },
-        {
-          "title": "Falska valaffischer sattes upp – utreds enligt uppgift – Senaste nytt om valet 2026 - SVT Nyheter",
-          "publisher": "SVT Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTRtc0c5QTZiMXRnQjVySTIxZ2E5czVGc0lDQkN5SFNyRU1oNTZFM2RoRk1MZHpDQVF3X0NfMkRSbG5EdnFsTGN2ZzZWS1FmMmFPNWo0UW5nQmtzOVN3R05nUkQxU09UX3hjbHVxSHptUEdHcVR2QjJvZmlHNWwzaHRnWkVZY0tzZnNaSUphVkNiT3ZxSTM4ckR0OWVldmhR?oc=5",
-          "published": "Sun, 16 Aug 2026 19:58:42 GMT"
-        },
-        {
-          "title": "Kristersson om opinionen: ”Då är man ju en loser” - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wdElSekFqc2k3dFdHVU0ydGdFaGFFTGJJbHU0YUt4U2ktYU1hNEFyeTFBMG5pNmZUNlJ3QnFmbFNyN2tOdS1fS2RlMDNHYlVOTy13SVpHcE8yeEVMbFBPWHZxeVdPazR2b3Z4dXNCWmc4X0lwTFhKaV9IZl9Ldw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:36:36 GMT"
-        },
-        {
-          "title": "SD-ledamot: \"Sluta vara muslimer\" - Västerbottens-Kuriren",
-          "publisher": "Västerbottens-Kuriren",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1NFZ0UDBVMTVMYjhkWlRvNUh4N25hLWFKaXNRaFZSWU5hVllVbUU0clBBOTRjdDhNa3RaMnJBR0IyZWpNLUNSbE5WNTZlb0lzc1M0ODlGcjhrQ3dVR1BteXpNRWxKNUdZd2lKSWR1YXR6akU?oc=5",
-          "published": "Sun, 16 Aug 2026 17:42:47 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "DN Direkt – Tonåringar döda i bilolycka i Irland - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tRWJybDJ1dEhldnAxZnJhM0RQTmlxYTVQRHlCMzNHVU5kY25YUEY5ajFpbHBGZ0xwTTA5SHRUYzZTWGd1ZEgxTjRvdFpzczVjZHJuYWx2UWVfTlVhTjVzU01EcC1mUERyWWczWENGUklwdHFBZHMzWGtrNkN4QQ?oc=5",
-          "published": "Sun, 16 Aug 2026 20:51:41 GMT"
-        },
-        {
-          "title": "Efter Bondi-dådet: Kvarts miljon vapen ska lösas in - Västerbottens-Kuriren",
-          "publisher": "Västerbottens-Kuriren",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMzIycjA0Z0ZVbGRKdjBUYTg3RnFPRWs1MjZLS0JoNGgzZ2lTWmFlNTI0aEh2ZDh3VEFKMDhYNXRnbm4ycFZEVDUxMXZZbXRhR2hEZGU1emNjVS1sRkdKbVdqVkNRX0laZm05R1VOb2J3MmlWTmpFM1JkS3hRb1JJZGFxcGQ3ZzRBVzh4UVpR?oc=5",
-          "published": "Sun, 16 Aug 2026 20:01:47 GMT"
-        },
-        {
-          "title": "Ukraina och Ryssland utbyter attacker – tolv döda - Göteborgs-Posten",
-          "publisher": "Göteborgs-Posten",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQm1qMnRJcEg2cFRPVkVpcDREVG1MUkhoMFh0MmVvcW5vMkRUWjVQcjRpUzQyaFVqcW1uTGlMMFQ1N053Y3lSYWNQUjc1NXFkZXJsdWI2TGx6Zm90ZzNtaWxUdDdkWUo2RWY2LVZLZ1Y4cEwtNHU5S09xc0w3ZWNNMjZNbVNPRWVMZ1R5Q0hKeUxSaWYxWk8yOGtQMzlvNzl6UzFfS05mZXpJcExhU01NeDNCTFdzR2pibWc?oc=5",
-          "published": "Sun, 16 Aug 2026 11:04:38 GMT"
-        },
-        {
-          "title": "Bränderna i Europa: Två döda i Grekland - Corren",
-          "publisher": "Corren",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX05JME92TVFPLVJtSjFtVWNUejZkZFR5bnlIUnhab3BsaWQ2SU1MaEs1dVgtLVYzY2xmVTM4VklBZ0dXUkFqaWh3NVVSQ3NsMVVSa0gyM0ZiUFhJVWpkNEp1XzJOZWdvNkpaZVhyWnJ2Qm00MEk3c1NoNzhtOEd3cXZlVGd4VlFnRkRyY1B1QjVNc01SenNwWnNXSndYS3kxbXc?oc=5",
-          "published": "Sun, 16 Aug 2026 14:46:00 GMT"
-        },
-        {
-          "title": "Kushner mötte Hamasledare i Kairo – Senaste nytt om kriget i Gaza - SVT Nyheter",
-          "publisher": "SVT Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnhPa2MtXzQzMnNPTkloaVpCRUJlTDBpTExlTXVZZml4YTRHN3dRWU9ZLW1XTllkZ3ZVYlpFQm10bDRrd1FmZERiNXktcS1ydGdiYzZuWGlWbmR2UG53NnlHcU5KMjFQdXpnbEhjMmxyakxyNmdiRjNHXzBqVl8tLXdNeEYyblhKaHpYZjlubDlQbDlRd3hEOGttSFVoekVyWFhDZGtvM25tbGpfZUhIanln?oc=5",
-          "published": "Sun, 16 Aug 2026 19:54:12 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "LEDARE: Elon Musk har inte krossat den svenska modellen - Borås Tidning",
-          "publisher": "Borås Tidning",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83VW9xMzBSbWM3ZUVEcGk2bjhYX1hCX0pQZ1hHQi1ZVG5IQXp3ZC0zdGNfUzRMN2lNM09tYm40ZjFHM2pnRXRabGliYVZXeENCN01TWlNqcnprVmhaN09tS2pfMnhvcmg1SXRJLV9jMHl0NDJrTWxkZnVCUmxvUQ?oc=5",
-          "published": "Sun, 16 Aug 2026 13:00:00 GMT"
-        },
-        {
-          "title": "Lätt nedgång på Stockholmsbörsen - Affärsvärlden",
-          "publisher": "Affärsvärlden",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91ZzNKbC1YTnBibTVmcjRWUVdMMDlhNVF6dTl1bFhiVS1yNDUtTHJiOE1KWDh0eW1TYzZrZFdlVGNlWFhvUC1EUWZ2U2xpU3RyR1p5NXlEdVgwdXFEeVVCWVhmUUJhaGt0cm1xMUd2NmVpTzRGMTJlUjNyTQ?oc=5",
-          "published": "Sun, 16 Aug 2026 14:01:56 GMT"
-        },
-        {
-          "title": "Storbankerna ser fyndläge i Europa - EFN",
-          "publisher": "EFN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4XzBYWndPT1F2U2V6Mm5YMFJpSVp5TzgxZmVhQXA5VlQwWlUwb05sVTNrVkV4QXJTUkNUS2t6VnRpNWhNUC05R0lmb0duNHZXOTR4Skw3TUNVRTNaQWc?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:59 GMT"
-        },
-        {
-          "title": "DEBATT: Vem har räknat på priset för att lova bort framtidens el? - Sundsvalls Tidning",
-          "publisher": "Sundsvalls Tidning",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ2ItWDFYblJIUUdYeVp5YW9pN3c5b0I1NW1DYmZGQ05oN0dzRlVQeXBJVllnVDJENFl4bmh5UnZsdnFQa0tTWDQ4VU96bGpvdlhuRTRVejlXQUVFNXdYd3hZUjQwNTVyS2VwdGk0UWNNSExybG1Pa2dNT0VoOGpQSU9ZVHhjRllUVUxz?oc=5",
-          "published": "Sat, 15 Aug 2026 12:49:20 GMT"
-        },
-        {
-          "title": "Bilist kraschade in i McDonalds – förlorade kontrollen i rondell - Norran",
-          "publisher": "Norran",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajJNdjRRTDFTd0hwaERoU1djZDQ3ckhiMFE0d0NpSzQ1SUk4ZmtGUTJsdXBUdlRNMUIydmxzb090ZTZCb0F4T3RBNnZQSE5DQ2dvVTJIVjVMV0ZzZ01FU2hncjE0TG9CSS14YXFJWGYzMWpQWUI0cHI2ZHhCcVJ6ZldNYzJKYld5VDhkRFVQVDl5QWxPb0I5UlZB?oc=5",
-          "published": "Sun, 16 Aug 2026 13:53:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Guld till ”Mondo” – pressades av Karalis i EM-finalen - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByam84aW5jUVIxX0p2NFdzTVVHZ1phUUpmalpjRW1DNkZCWFZBcnc1V2ZCdUZjNVFQaFFGOVJrams0eGZaTDJQb3ZSOFc2bUI3cnBLY1l5WlRCWG9HeTJrM0pXRXFZS0pzWFAtR0xmcXJidjE0YkNJMWR1SE9LZE0?oc=5",
-          "published": "Sun, 16 Aug 2026 22:12:10 GMT"
-        },
-        {
-          "title": "Malmö FF vann – efter självmål från Gais - Aftonbladet",
-          "publisher": "Aftonbladet",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1BTbE05UUR5a2hKUnhPU1dnZkdQUWhrd1B1b0VYZHZ5Q0pDVUo5dVAtXzRlMFBfWVpLM2dGTVNIaW4xYUJfSG80aEFmenNYVEpoYlJiaUZFVlZIUjJGbXZLWVFJN2duM2F0VTY2UnNhQzluLVdMVk5ZQTVQNXFUWWQxRzRJUVh1Zk4xMXZWdmRLV0o3U3dTZkF3?oc=5",
-          "published": "Sun, 16 Aug 2026 16:23:25 GMT"
-        },
-        {
-          "title": "Ilskan i Blåvitt: \"Kunde bytt ut alla elva\" - Göteborgs-Posten",
-          "publisher": "Göteborgs-Posten",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYllPN2JpeGZZdEl5bkFMNURCbWdBMlp0bU0wTTRvcG04bTJ0cXBtQ0FPVGR0X2xZT0piZzJ3TndPdnhtWUFTLUU1eU9kWUFTc2RJck5xb3YxaTB3enN2bUk0UklLX3Bpa3VxT2pzMEhfdU8ydlloYjVReGVvU1VnSjloR3pibG1ndGxDT3kzSDBtV2RjYkswU0g2U1Fpb0x2QmtYREpnM3l3dnZzY1VfRjVvVlFIeU8wVkZfb3p0U28yNnplb2ZVbEJGamhFOVc5cUY4?oc=5",
-          "published": "Sun, 16 Aug 2026 21:21:15 GMT"
-        },
-        {
-          "title": "Andreas Almgren stoppades från att fira EM-guldet - Expressen",
-          "publisher": "Expressen",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGc2MHBmTjlscUJ6X25pNDRPRGNlN1NHcTFUUlpiSUhhSWxYWTJ3anI4czB2blpkUlA0cWlKczg2RWExYTBObGpkZ1NZWXduYjZlN2RtZmF1b2J3SmdmMmRhQUE2MFdHbnhRSmt1Sy1NY1B6QnItOUdxSnZwQTJ6Y09PYmNMVUpMdFJSNFVmNXExLVpPWUE?oc=5",
-          "published": "Sun, 16 Aug 2026 19:15:58 GMT"
-        },
-        {
-          "title": "Svenska herrarna tar guld i beachvolleyboll-EM - Omni – Alla nyheter. Alla perspektiv.",
-          "publisher": "Omni – Alla nyheter. Alla perspektiv.",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fU2dVVVI5OEdybUg0ODdFY0tnOEdJTmI1TW1wWkJ3UWNyYXdpSHNYdTBqaXpMRVZ1LXNFeklqMDJSYVd1TzVScy1PQWY4UnJpRVpZb1Y2MmwwellVSDBlOGo0VHNjTWxqbGc?oc=5",
-          "published": "Sun, 16 Aug 2026 16:31:51 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Chat GPT till svenska användare: Nu börjar vi med reklam - Göteborgs-Posten",
-          "publisher": "Göteborgs-Posten",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOemViZU9VOFhmOG52QVlaTkdwdTUyNFBFenNhSmxnUnNQODJmT1ZQR2hQNk5uMERRR0JPVGY4MnVvUldja0NkaFpXX3hBV1lXeXRZWnBYNm83bGNQUkpxazFpb0FaUmFGTG1hYWFCMzE0Sy04TzNwX2dSbUxqZWNIaHhvRlVjRnFrQ1ZJNjVJNk1kWFBIS0ZERkwzMkdhN2UzbFA2VTZWeEhxbl96bG5CNExCVktTYXFkWV9QVA?oc=5",
-          "published": "Sun, 16 Aug 2026 17:12:56 GMT"
-        },
-        {
-          "title": "Varför bygger Musk en anläggning på över nio miljoner kvadratmeter? - Ny Teknik",
-          "publisher": "Ny Teknik",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmpwbkFiYWdJVTljX1pnS0dVczExTE9TUGF6NFZ1WEljazZLTjdTWDdEUjFVcGhSQWJ1V2d5X0I1bnZyc1lHVU9Sb2MtUU4xeGxvc2NhdmI3YjR5d21kTXJkaFl4eUVFeFdfOGt0LVlLeVo2dEtpRmdheW1OUlE1U21kTEZTenl3X2lvSmhZRzI1akV5OWluWmVVMUZuZTFVenBlUXJKVFAyQQ?oc=5",
-          "published": "Sun, 16 Aug 2026 04:00:00 GMT"
-        },
-        {
-          "title": "Elias Rosell: Europa ska inte behöva tigga för att få tillgång till senaste AI:n - Dagens Nyheter",
-          "publisher": "Dagens Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc2NXYVpfVDg0Sng3QmNCZHhCUl8tWE1aeU9vRWU2TXdyeEFsY2RiR2Z2ZEZUaUF2OGJYdE9Qd2tEZlhIMGtNXzF2b0JyV2k3dHlNaGFLZEJDMWJfTUtvbmRkQ0Fkck8xVnBNZVdHZ1pWekg2UklZMXFTVDhjdng3RWkzVTExRVpPRFpZSGdLZG5Zbzh3REtORDJHOW8weGtxRkh5OHlQNA?oc=5",
-          "published": "Sat, 15 Aug 2026 16:49:11 GMT"
-        },
-        {
-          "title": "Tyko, 11, välkomnar fartkamerorna: ”Blev nästan överkörd en gång” - Helagotland",
-          "publisher": "Helagotland",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1oySDNaT25KWXdCS3R1YmZ6RjAzNGFkNnhIZjlrRFR1bTFQV2VsZDJIN1F3OFRuRU1Ub0xPOTBKT0hSWjlUZ3FsaExDd1BIelljTGdqM0hnbmhnSE5SZHFuZ3ZQNGpaNGVtcXJ3Q1ZmTmd2NGpGQy1yaHpwaEotN254YU82R0xON202bEpPd0lSWk5taEhZc0NkM3BHQTJjcVVVcGY2MHk0aFk?oc=5",
-          "published": "Sun, 16 Aug 2026 04:00:00 GMT"
-        },
-        {
-          "title": "Fyra risker med smarta glasögon som du borde känna till - Yle",
-          "publisher": "Yle",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9VdlFxV1JNLUNRS0hWNS1CamszNE55cU9hbUduUHFkVnRQTFp4SkNkWjRNU1hHT0JNbnpNcWkzSGM?oc=5",
-          "published": "Sun, 16 Aug 2026 13:02:34 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

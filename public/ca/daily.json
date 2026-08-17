@@ -1,260 +1,43 @@
 {
   "market": "CA",
-  "generatedAt": "2026-08-16T22:18:28.307299Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T22:32:30.831474Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Researcher studying Acadian wills says they were 'an act of resistance' - CBC",
-          "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUmFBSENXMVZSQTc0QjFkN3drYlRnY2Y0SndCSHJQYUlwaDF5NHBFNWtrZWQzRHdFNXZLOFlWRnpaMmFjcWh2aWFpT21NYU1OQy1uMGZWY2hnRjUxcl83aUoyQUMzY0l6STY1YXRKb2c4Vk9NbzBZclRPeDJHOVZiRDNGS0VRTVU0TFow?oc=5",
-          "published": "Sun, 16 Aug 2026 15:50:43 GMT"
-        },
-        {
-          "title": "Canada, U.S. officials to meet again as 50% tariffs to take effect in 3 days - Global News",
-          "publisher": "Global News",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ2VHUnF0VzY2eFdUZWhJLXljTi1ENzA0WjhVSFlUenFVOTljZWNEbmx1Wm82VEg2OEo2VWp3ckdlN2dWRndsWm9KekpPOEFrRHdtQnN0dzFZa0lWU0RKRFFwVEdiSUs2MTNSaEFPZGZYSGc5Y2pDVWI3UTFxcEh2WEgydDFJZUhTYS10Mg?oc=5",
-          "published": "Sun, 16 Aug 2026 18:57:30 GMT"
-        },
-        {
-          "title": "Highway 97 fully reopened through Summerland, time restraints lifted - Castanet",
-          "publisher": "Castanet",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYXRiOXBXSW9DZWV4WGIxdU5iQnZXc1IzMEE0eDdldS1Ob0JIWl9FcUFJcTVnS2hoWS1aMXNBTDZpVjFoSFFfZ1JvWkNzN1J2MEVLMUZURk9RR3hzN2pqQWxJaVJsejFobVIxOFJtT0VGaXVWS2stSlNZUG56azJVZm02Q2UwZ25BY1pmMTBzUW5ESGNZaHNOSlJCeUlNT19DS3JoQ1RpTXpuOWhkUXhiUFROMEt3UQ?oc=5",
-          "published": "Sun, 16 Aug 2026 20:10:00 GMT"
-        },
-        {
-          "title": "Heavily tattooed man sought in 'unprovoked' daylight stabbing of stranger at Yonge and Bloor - National Post",
-          "publisher": "National Post",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDlMbDkwQ19JTnNSNTJ3UmZlWnpBMlpJdERwdVRPd09QTmh4Sk9nR2FLRDNsdWk3OURhVDZKQ21uZG9jdkViV21OM2V0XzczX2tESE9DZkk5amxUZ2poZUp4UTBNZGVYdW1nUjQ1MG9LNHNsVV90R01XbWlNay1mamFaeVp3MVlOUlVCWVNoVmlZMko5Q09iR3M3Mmt0TExGaUg3emhXczJQUDNEQXhnVUQyQUktOVZuUlRFcEt1MVNTTFc2Unc?oc=5",
-          "published": "Sun, 16 Aug 2026 13:35:44 GMT"
-        },
-        {
-          "title": "Owner hopes ‘for the best’ after three-alarm fire at Zanzibar Tavern in downtown Toronto - cp24.com",
-          "publisher": "cp24.com",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ2RhZnlYSWpBMHRLeWZmTUlhRlpvTWViYk1XaF91Tjd2T2pUMlBtN2tvOXllSUdEbFNWUmVCUzFzczcxYjNCX3J5T1Exd0JqWkdXeWNWa1VmbFU5ZnJwSjBZZ255dm5jeG9rSWdGbnBFVU1vWkFJWlFLQzdOMXVEYVhhMU9HTTR2N3NnM2dOUmdWOEdfbkpXN1VveWN0OEFTUzdsNW9lbHY1RXdZRmlmZy1HU1RZbUgtcF9RSkM1LUMwd3JnUnc3VWw4ZFZmdw?oc=5",
-          "published": "Sun, 16 Aug 2026 17:02:04 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Morocco prevents hundreds of migrants from crossing into Spain's Ceuta - Euronews.com",
-          "publisher": "Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUVrbGpuRkJoS1dpbjYzTVZTWFZseklPSG9oMUQ5RlpWUTVBRVg3cWJDUGhfMVU4bWUwLWh3bUVJMXFjZWsycUtleEFQbHRmcTNlM1AwSXBYNDU3ZWx0R1BpNlJsTFhWTjhSWmJuMXQ2dkc1OG9xclV4cjl3RnlrRkxHU2Rnb0ZKN0tLWkczVVJ6X3FCcExnUjB0ODZKSW9PaUJ1YTJNZ0s?oc=5",
-          "published": "Sun, 16 Aug 2026 07:24:46 GMT"
-        },
-        {
-          "title": "U.K.’s leader calls for reflection after the death of former Cambridge professor accused of plagiarism - ctvnews.ca",
-          "publisher": "ctvnews.ca",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQXN2d1BKSGVVZ3NFeDNIUl9HQjdVbGNvSnJobWVCQTkxMjU2bFE0SGxvVjdJMmxjOFRzUkVwdVZ2VXBNYnRfOWFKbVZaSlFlaV9DTXpoMjY2SHRFMmFLekRYdl83X0NrbzlsTmotODI2cTEtMjJsa196eU0tcENvbWNHRzJwT1pubEgxSXNOMllMODBZV21ZMHRQUENhZVhILTdBd0NVNS1CclhZQjVqM3NXZTRZMnQ5X2RaRzA0aFluaERjMWRmcEtoSVRtUnRVLUdB?oc=5",
-          "published": "Sat, 15 Aug 2026 15:27:57 GMT"
-        },
-        {
-          "title": "Hawaii faces heavy rain, strong winds as Lala weakens to tropical storm - CBC",
-          "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40TDZKVVpocllWaUdLaUxnVjNTQ0Q2VEZDTHhBU2UzMzF6SVRacjB2UTlCY1otRXJhcHZNaV92el9VUlNhdVdTMXYtRXA5SURwYmhYZEZTMW9qSWpBLWpMUmdVVnk3bzlfN29Ea3Nn?oc=5",
-          "published": "Sun, 16 Aug 2026 15:43:39 GMT"
-        },
-        {
-          "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xS2MyTGNrdmZ5UFNxNmlzVUdNemZuLTJKMl9Xc1JBWmdseGF6WGU0RUhLX214NUoyOVc5amhTcGprVEI1R0lhb0MtUFB4QXFCOV9JblZjUHZaakR3eFNxMFlSbkU2TEt3R2JNbXIwaFdKWHRocnlwMlhGRQ?oc=5",
-          "published": "Sun, 16 Aug 2026 03:19:00 GMT"
-        },
-        {
-          "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan - Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmpRRVBLRXhGNDJhZkRHSlhWbWcyemJTNXp4akxyVUpSV0xwTEx5UG9ZdUY3V3U5TkdHd3VuSXhHd0NZVzV2eVM3d3g0ajNZR0tyZzRoZ1cwVjlrTVFVZGNJM2JuWjdOYlBLbVBLWnQwV0dpRFZaT2VNVjFTR3NrTE96M3V4ZGlfbEJtcHZabjlpMHY0TnJFNGVn0gGfAUFVX3lxTE9Cek5VQUEwRmxxbGdtX1RLYlNiZUZqRFlqbkdSQ2RSelVoTi1kdDdwYXV5bl9tTEY5MWdnT2tLMXlHWXJXNTF0SFZRUnVUZEFVMm9wYVEwT3UteWUtdUp6SkVVa1hraXJpVXVmdXVDWlp5SXdrTXg2OTU3bnZ2emhxYUIzcHEwQmh3OWdybFZ5ZUhiNnVlVDY4bGxmV2VxQQ?oc=5",
-          "published": "Sun, 16 Aug 2026 19:26:31 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "EXCLUSIVE: Premier to Introduce 15 Per Cent Churchill River Electricity Rebate - vocm.com",
-          "publisher": "vocm.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOUxBMktGVXNOMnpYQ1EzcXBXeDFVM2xuUUpxRmsyT1M1aldaQy1tVVJJa0N6UHdrbGJGdTgyVS1LUi1iZUJxSWRaU0R4VTVnek9zeGZUUU5fa0kwaW53LTBnWm9haEVqNjVPUTdMZXd6N1V4V1dSQUlXNS1mWXplQThLYnZ1V2tqWm5KU2VWN3gzSkphV0ZKbUU1YUhqdnVXQUxkYjk4WGpEWExs?oc=5",
-          "published": "Sun, 16 Aug 2026 20:49:00 GMT"
-        },
-        {
-          "title": "‘I’m confused’: The ripple effect a permanent Stellantis plant closure would have on its surrounding community - ctvnews.ca",
-          "publisher": "ctvnews.ca",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYmM5REJZb2g2ZjZ5Zk1QT25kT1N1OUwzd296OHlLUHVDZXEySlBtMF9FaWZzalJqa09DSXBZbzd4Z0FCc0p5Mk5wWWVQdzZLMlJsVXRCQ0tNS0hFM2liTnVHLWFoZkJPaTM3V3F2ZGhzZ21lZFozS1FvM29BNGdPSnFhTWJsY1doOThVQVpRYkFWUU1nYlNHZ3pLaFFLdVBXdWljdkJCbEJIWjB2YmQ1X0lyYm9qQUY4aTVaVWtGbklUeVBKLUZJUHliRGlWd1c1dUgwT19WdGlzM3FJVmc?oc=5",
-          "published": "Sat, 15 Aug 2026 23:08:12 GMT"
-        },
-        {
-          "title": "Poilievre urges Carney to keep fuel excise tax suspended until Canada Day - Global News",
-          "publisher": "Global News",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnpmNGJ1SUlmQW9fMkcwb2NGZUpxb01xRlBRRE5TaklvYm9IQ2RiXzBoZjhlUzZBOUFHZ2lqY2VMLVd6b2lMQ0lJc1pFcXY0S0VBZzRnZnhScVFaZlcyYV9KbGQwbDB2eUlLZnNkYnpUaEtNN3p1Z2tyeDZPd2VBVQ?oc=5",
-          "published": "Sun, 16 Aug 2026 14:49:52 GMT"
-        },
-        {
-          "title": "Ontario nursing regulator targets questionable practices by med spas offering Botox and other injections - Toronto Star",
-          "publisher": "Toronto Star",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPaEhiME9NTkM3enZQamF3Z2t4OVV3eFdoWEVuNDdEalpNeXI0RzdKakVLV195dVBqZm1mNElIdFFfRF92dVRFZjVOM3UyZjQ3WHdIU2xhLVQ0cnlZRmlLTEdjLTVEWXdncHNmdmtuVHREX0NFVE0tMDFVVS1FZkNRMldLME40X3I5TDNXZGttdHJrZXUzSjhDRWxvcnBnZmM1eENCSXFyOEpVb00xd1pJR1VUVEtuMUdnck5RV204U0JMU0l4WGZ3dG4xbTdxWmJ0b1RmalluMGZYcERiY2NubFEweFl0a0lsX2NGby1fUTVVUWc3VmYxbjdFdWdPY0kzY1dHdjRsRk5XVXU2cTAxUXFzb2kyS3ZtamVWTThpVi0xV1BoSVBfMzBaY1EtZUFLTGlFNUx1bGp3MmFk?oc=5",
-          "published": "Sun, 16 Aug 2026 11:00:00 GMT"
-        },
-        {
-          "title": "Canadian trade officials in Washington, Moneris sale to U.S. private equity and Air Canada sells 25% of Aeroplan stake: Must-read business and investing stories - The Globe and Mail",
-          "publisher": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXAyMUxLR0JBdEZTYWhwbTZNUmFCSnNJelVSYXpWOFNUbTFjT3FEOWtnb1JEYWM2UkcyYUhUbzBRRWx1cDF2UHgwVm1wWXJxRjZHekthdlQwbU9SMUFEMkVyTURpUHNfcVJwbklpQXMyVDhZX0lLWG5lNlh4bzRNYkVyMk1vcDItYjhtTHFSZGlMOWlBd1JWZ2Y4TU9kUzNNckZ4NWJMQlo4UkNt?oc=5",
-          "published": "Sat, 15 Aug 2026 13:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Canadian men to join world-champion women when flag football makes Olympic debut - CBC",
-          "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbllWLVRINERGamRtMzlyOW1TWTRyMVE5azl1NG5DdUJNb0xNMVZJREFLVlNRTVY4TXZQT192WVdRRUN0M096LWlKZVAwdmJSSllpREFOY1NfUklDZlpjOUM0OXlaUGpBYS1KcHg3TFRvVDJ6WGhkQnNkNGxDWk9WcXZmbmRTcmZzVHpGTm90aG9MUFluWlYwQTJR?oc=5",
-          "published": "Sun, 16 Aug 2026 19:24:22 GMT"
-        },
-        {
-          "title": "Marcus Ericsson wins inaugural Ontario Honda Dealers at Markham - cp24.com",
-          "publisher": "cp24.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlE1UGpRMDYtMEg5eFlqM0UtZ3BiSFlWOUdFZkZpdW1UamVHMXUwREc5UHRTWGFpUDluc2tKaTItVHJYQzBaNkViU0xVbzQ5bUhSYUVKTkN4MlpUUk1wd05GU29idFl3aWhUdkVOMndVcWdYN3FLdHZyMjRobHNMR3VTSUJTSHBrck5mTDV6aVRkanU3LUJnRjNPOTFNWDNjNWh0enl4SjVkYm94?oc=5",
-          "published": "Sun, 16 Aug 2026 19:12:17 GMT"
-        },
-        {
-          "title": "Blue Jays finish strong homestand with extra-inning loss to Yankees - Sportsnet.ca",
-          "publisher": "Sportsnet.ca",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdDlJS2d4ZWtUWU5CUF9FQjZfcXBfN1VQa1JiM3E1c1Y3Q3pqaEY0TDhlajNNTGxULTVTd2c2SmpnVVhSZVVPeHVpa2NPYVBBdkZHRTdoUkdhVEU1aEhDU0VaUkpJQTE3Q3c5UzBDN3JNTlZhTW5CLTJmMExuRTg3dlBfeEhNU2xCTU9XNkV0TDEtVkczZ2VONHJvX19zeWhzdUZYOGo2eVQ?oc=5",
-          "published": "Sun, 16 Aug 2026 20:55:00 GMT"
-        },
-        {
-          "title": "Winnipeg Sea Bears win 2026 CEBL championship - Winnipeg Free Press",
-          "publisher": "Winnipeg Free Press",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjN6eUFNZTZrRTQxblA2c2puREU4R0lGX1QtVjdqSDZSamNoX0FrY2I1Yy1KTW9YQUdyV1RSam5jZHBHYmxmZjNDY1JXQkQxTF9NWmNTM0k2S3lMMEtWdjlnb2ZrSk1KVU5aZUIyNjVtS3Zzc3lDV1M0RmotQTJVejM2RlBMM0lB?oc=5",
-          "published": "Sun, 16 Aug 2026 01:27:31 GMT"
-        },
-        {
-          "title": "Ford comes off the bench to help Tiger-Cats rally past Roughriders - TSN",
-          "publisher": "TSN",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPajZpWktSYzRqMVVPMHVxQ3kwQTRjb3lhbHQzamwtR3VrRWR2WVBQNXA5cEkyQlllcllaVEpKOWN4NWQ2RndfaTk3NDZueEVnU2JMeU5fUFQ2NDhQTmdMamtsSmp0T3pyem5wYzhyTWRSY05XOE1YdUVRN0hGTi1XY3pVU3Roc2JjVjlILTNYOHpLRG5uQ2FKS1c4Y1RHRWc?oc=5",
-          "published": "Sun, 16 Aug 2026 02:04:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Letting go of prized possessions can be tough. Let the professionals help, experts say - CBC",
-          "publisher": "CBC",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNkJWN3BDM0VCVVdBYm5iSUF3d1dOSk1faHV6NWhyamJ5QU1BYUF5M0VEY1lGTWJpTk43cGVNQWlxR0ZnZk9qOHVib2xtUm54NW1qcEtDNzl5a3Y0RWxHN1FMQ2hXamhheXMtYVVVc1BYWU9LZmwwcEF5Y1lTSGR5TWM1VmFWMHhS?oc=5",
-          "published": "Sun, 16 Aug 2026 08:00:00 GMT"
-        },
-        {
-          "title": "Indie Watch: Must-See Indie Games — June & July 2026 - CGMagazine",
-          "publisher": "CGMagazine",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DQ3BvazdKM2x1NU9PNTVmQ1RBdnYtX190NnpSSDhhM2x3OWkxSkpyX2xFRlFod3RJYy02X2hVSHJTUW8yal9mc3RscExtYVRnZWFhZTBEcFg2QUdEY3p3Q3JleUpIZUI5aS05aE9uODI4NVJfLVpNVUppZ20yQQ?oc=5",
-          "published": "Sun, 16 Aug 2026 18:00:00 GMT"
-        },
-        {
-          "title": "\"We are willing to do it, and so many people aren't\": Meet the Ex-BioWare devs who went indie - GamesRadar+",
-          "publisher": "GamesRadar+",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUmFOTW93eFhmS19ZTFRxX2J6NUJaR0hWSWVhY3R3NDBkMHZlZWJIUUdLRWMzb3UyQmJUNkVHWjJhUUVRQW1Nd09Hd3A0aktnQlg5aGM1Q1VSSENGMjFxbXFpYVFSNHhNVmlHd29TaEpOc085ZjNqb2NYem1XU2hGQThOZEVwbFowNDNNcG1lbGx2aFdsYVY4T0VRQzV3YjBuZzg2bERUTFd5SHhNX0gyVXRwMmJhVkF1eUZWNzJGeE5OQWJydWFiVWc2WXZLZTJGUXBFZHpVWk44YUZUMnBTQ2hTWTRFQllabHVHRlJpNmpubzBiS2c?oc=5",
-          "published": "Sat, 15 Aug 2026 13:00:00 GMT"
-        },
-        {
-          "title": "I've used Feedly for a decade, but these 2 minimal Android apps finally replaced it - Android Authority",
-          "publisher": "Android Authority",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdFlzYm40NjVZdnZ1LWk1YUJiNUZRODFXTVhzVlhTdko0VXNsVUZHZlV1U2VhRW96TmR3TE40VE5odGcxSVlWYjBJNTNkY3V4V3RjWkRqandmcmUwa0RIbDQyeXNoQ2ZGUWRMaEFZam9Dc3U2RkUxRldjSnUtZnB3TlNxMF9lVzUzeW5KaThsOA?oc=5",
-          "published": "Sun, 16 Aug 2026 12:00:00 GMT"
-        },
-        {
-          "title": "5 lost smartphone features that need to make a comeback in 2026 - Android Authority",
-          "publisher": "Android Authority",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjVBNDFjREZRbzlMYzhyZElOd2FtT1dzOWNITWZSa3hKb1I2VFdGc0RWOHowRzNMdlJoMkpsTjV3Z0FkMlZ0bFNQR1JWT3ktREVpZ2JmblRNMmNmLXlqUXpZcTY2dkhGNmktZUljaW5hSE1faUVQOW1tZVpuRTl2Ui1Ra014WFRGX3ZxY0lVODE?oc=5",
-          "published": "Sun, 16 Aug 2026 11:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

@@ -1,260 +1,43 @@
 {
   "market": "AR",
-  "generatedAt": "2026-08-16T22:19:54.571640Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T23:45:17.105500Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Javier Milei reposteó un irónico mensaje contra Facundo Moyano tras el escándalo con su novia en Belgrano - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZHlrVzVkcVJWZmc1TjFlTUdrV0h3RGdQVnd2NUxqbXpQT1lDNTVMakVHWGg3S0pIa1czSHlYb212XzdkTjlMLTM3TWozM3FwN3VqUlpVRkhCeUx3UVdVVzBDMDlkbVZjLWNPWHNMcE1YYlNxekVfdGRCcFE2Uk16SGk0UzdTNjlxblZVUEo1WWFibUpoLWFKdWxSRm5JQlBlZk9zYU5iRllMU2NtbF9XaGtKUG45QzdIZ0I5M3hoWF95blhpUGdzanRrdjRRTExucUpMRlpzR0FJU0FuX25z?oc=5",
-          "published": "Sun, 16 Aug 2026 18:59:00 GMT"
-        },
-        {
-          "title": "Primeros roces entre el Gobierno y el PRO: Mauricio Macri no cede con las PASO y Karina Milei se le mete en la Ciudad - Clarin.com",
-          "publisher": "Clarin.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTZaeU1ncDc2Wm0wbVhLc1hRa2JYR254UkFkTXR1ak5IRG16X3J4N3JFU293V1hHYWE4Xy0xNzZNRGxHLWZ1V0w0aVhNMlpOaDQyRjlUT0ZJXzZpaDR6Z2FqSTBjUXc0ZktYUm52UzdPYnE3TjhmaHZvZHZ0SWRHMzRWdTFlSkVCZk9tMFBUYi11Tzh4WmRTMDNBRVNnckpXRjZ1NmFGUVlpUGlzbWdJT0IyVEloQ3dQLWtnVjktcGcwdFZRWXc?oc=5",
-          "published": "Sat, 15 Aug 2026 21:00:53 GMT"
-        },
-        {
-          "title": "Semana de la dulzura: reencuentros espejados del peronismo y de Karina Milei con Mauricio Macri - Letra P",
-          "publisher": "Letra P",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQlBsSmFBbURZTmlrdkk2TGJtTXZmeUtUNnB4V1hlYmdTd3F5dVFVRTYwMjloX2RxTVN1akRkNWpOb3RNSERyVUxVZzZwejBsaWVtOTBtQUZwWDZQM09CZVptbnB1OHRlb1Q2UEhYUHZHejZ4MHFMOXREZjZDc1Z5RFplcGthX1ZpMzQ5WlhEUDM1anJ0YlBIZW15X2liYjNaY1dfLTBuQVVPTnU5aDM4aFRDMVprUlkxN1BlNVpIQUsxOHlPN1E00gHMAUFVX3lxTE1VZlBoZmJiWHByR2xwbjZtS1Z5ajNiOGNhTENZd1NweXF1a0ROQjRDWXZyMmdPUE5aUngzTmhpbndnOGpxN3p3NlpwbmhsdFpyaU5HUzVoeEpsYzAwYml1WkJ2Uzk2UnJNU2FBVHZrZjQ1Qng2VWdweTh0TWVRQ2hRSE42Yld4a3RkY29mM3F1cWZTQVdacmMwNlhCNjdaeHJJTDJaTWtCZkhiQzMxTnNQb3Q1R1J6SkVOaldnSTFEVXI1MVBFaV9Rc0RRYQ?oc=5",
-          "published": "Sun, 16 Aug 2026 10:00:00 GMT"
-        },
-        {
-          "title": "Nadia Márquez, la senadora favorita de Karina Milei y pastora: “La doctrina kirchnerista va en contra de la Biblia” - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYm1BSUlidnZxOXZCMDY3YTZkVmtLSTJ0N0VJRkliZmlUN1RWSlVoU3VrOV9RS3RpZXlBWXY3WU93QXhWbWRPaC0tYmg1MmthSWZsbmY3XzVZdElXdTEzZlloNEd4NlpwOHhrLXkzbkJDREV2eHlGc1JoeHZqUmh0UldjVjU4bF9aLXhVUkN6T2xNU2dmRnRFeGNWWm9jQy1Lc29UUmtPLURGNU1JVTJQSGl0SFU1Z3pjcjVZbzc1dGxvX3VBX1NNXzA4eGh5OEpBWFByQ2RMU2g5S0k1c2xhVzZB?oc=5",
-          "published": "Sun, 16 Aug 2026 19:32:00 GMT"
-        },
-        {
-          "title": "Menos Javier Milei, más Karina Milei - Letra P",
-          "publisher": "Letra P",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTC1lanlhaVh2VHFDRjFGNTVlX1Mtd2NzNmU5ODZKcUtIWXp6dTg2blppN1J5ZmdIUG1kRTdsYlNRdThwbGtTX3g2NUUxMm1Qb19LTjVKbTctMG5pcW9aOVJWZHpMRmR5T0V0bV8yaURkaFBicndYd0h5c3hZOWpsX3pPNExEUdIBiwFBVV95cUxQb0JLTFR1NkhoV3g0dndCV08yeEd1QWI2dWpPT2VTSFRrWTNnWlh0Sl9qbW1GRHBqMmIza0NJdDVHTktvYkxFQnVRSVpoSVdHc1oyU3lCQmIwOVpEVG5JYU1iZkQxUmxfUWNnSjREQk1RX3VpSUUyeTVBQ0lwWHhhaHZ3M0s4VDh2a29J?oc=5",
-          "published": "Sat, 15 Aug 2026 15:39:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Terremoto de 7.4 en Colombia hoy, EN VIVO: todas las noticias del sismo este domingo 16 de agosto - Clarin.com",
-          "publisher": "Clarin.com",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0taSVVkNEZkdkpNWWJDdFp1dktkNERMTk1Vdm1XQVlrNUdvY0N0TUtUeUZDQ2dJNTQ3UFdiQlBOSmpoRlFMZEZRTzFITnNBQ1lxXzJieHVtWVoxdV9LSHRSZFNJQldKVmU0dnEtR3F1eWhla0poWmpxZXYySmU2SHlwSlFFRXBrel9iZENJTDRBT05VdHNRcXVGR2ZWQ2FNbnFRZ05JN0E0X2tqaXZuTFozV3dndDQ?oc=5",
-          "published": "Sun, 16 Aug 2026 21:36:09 GMT"
-        },
-        {
-          "title": "Ucrania lanzó uno de sus mayores ataques aéreos sobre Rusia: al menos 13 muertos en una lluvia de drones - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWk9KTFdPbTFhZndZenVsZVJjdllMNy1YbVBuZHZPXzNXX01pUWxzYU1ONk1Td0dUeHR5NVVSQ2o0UVdiM0dxcmRWaXdmNVFvc0JkT2gwRmZ4WWdObUFXbXhwUVEyN2F6OTRqMVF6bmtrUExJMWRmOXlvRlFUMjVTdGNFWjJqTWhKWWd2TUNGNnN2cFA4bE4xSzhtSUUyRzgxN0JHanE5Sm8zODJ6dnBPb3IxZ2ZKQnFFanJnTmttR2UwVUx3cE1yRm96RFFKNS01S2NFWkh5aEctdVBLSTR3?oc=5",
-          "published": "Sun, 16 Aug 2026 18:40:00 GMT"
-        },
-        {
-          "title": "China cambia el mapa del comercio mundial: un buque viaja a Europa por el Ártico y evita el mar Rojo - Ambito",
-          "publisher": "Ambito",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRmduV0dEZDVWaGZmeHd0SjJzcUo2a1k3T0xoU0QtU3ZqV3JOQ2lnQXBpVGV4TVdzQlNsWmVVVjdZRGJBcHRfNExyenEtT24ycF9FVklCU0R4TjNvcVhwY1kxdGE0NUY0QUM2dFl1N1U3UkVwdy0yOTFDV2g5bEtMZHU4YURCMmVrQm04YkZvd2JvMFZSX21iblE4SlFmcXFoQUJEbmRtcHFJeEMzOE9yZEpqeF8weV9DNU5QZ2NBUG4?oc=5",
-          "published": "Sun, 16 Aug 2026 13:55:00 GMT"
-        },
-        {
-          "title": "La guerra con Irán deja a EE.UU. sin un portaaviones clave en el Pacífico - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX01LeUlrYl85LVI4SS1kdmMxeUtNUTUwdEZQNXd0Y3o3RHVLT0xhQkFNY2xYOFRWWkQ1WUlwNE5DWW9HbDVMa2d2SUNyZkNhTnpVc0ZFZkJHR3NVNzRuOEVKQllnY3RhdjFBR1drcnhwUFpqcVp6M0RRdTBZblhhRU9oU0YwcXBMWkVVRThCQlBsaHpnSXZjdGNxTndTeklGdDBlNDZVMVhkcF9wM00xdUM5ckNiQ2l3WUhHSzRR?oc=5",
-          "published": "Sat, 15 Aug 2026 23:12:00 GMT"
-        },
-        {
-          "title": "Irán le respondió a Trump: “Ormuz no se puede conquistar con un tuit ni con portaaviones” - Página|12",
-          "publisher": "Página|12",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmdLYml0R0NRbmxobHdPY2ZVWWFSb0R1U1pMVE9ZMmtXUHRmR1F6TlFTdDd3cWQ4TTJhWTlMb2haMFd6TjVncVNWdHVVNTd0WkdXYlJMeEJQRDlEUFJ4RWxqd2M1dE1oeXZPeDZsOXg0cXVzUDR2eDFhT01iVUtsVUo2RGx6YzRaVTZOek93NXhUeU0wQm1sMnhCM2k2cE9id3lTMnJzd251UHJ3Sm90cGVGdThyNkFHSkhLU3h2Z3otUGlT?oc=5",
-          "published": "Sat, 15 Aug 2026 23:01:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Día de las Infancias: las ventas cayeron 2,5% con respecto al 2025 - Página|12",
-          "publisher": "Página|12",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa25wc3hORjc2bTk1WFZYNFp3SlltWllyanhROFJHbUhDSXhPaEVFeXRiWnl3Ml9kc0FIbWFZdnF3Sjc0aFRpNTlHUGNRZjh5RVZDVDFNTjNHenVmVElIZjNtV1Rkd0JzOWQwRDZvM1ZrbGxkYzBDZ3BKMU83em1QQ19MaEx1VXZrcF9CRnZIdXQ2U1hWOHdzRWF3WQ?oc=5",
-          "published": "Sun, 16 Aug 2026 17:22:37 GMT"
-        },
-        {
-          "title": "Buenos Aires, entre las ciudades más baratas del mundo pero con salarios bajos: cuánto cuesta vivir, según Deutsche Bank - Ambito",
-          "publisher": "Ambito",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ0ZnYi13bWk1OC1FQ1BkNXBjU2Mxdi1KaTRmNzM1TndMV2dmQmlDamRyN2RhMHlDSWRaTXVLQXlVdmxXNHF5UVYxQkMzZlJCemhHYUhMWUJlTTRPQVhvT05KYklWcFJZMkdLWDZiNGNhT19sa014Ylh5V3VpcjB3emR2YW5ES1lwS0NONGt5TXliYzF2UmR6MUg5UzlQaHN3U2hMM2IycFNRa1FvOHRvSG9GRWFPUHRyams4cm1zQTVqREFrYnpWTkNaLTA2S3hKVlJ2czVlTmtRNFlXcjVOZFlB0gHnAUFVX3lxTE5DUW55NG9ZY1AtdjMxeVRIaHJ5Z2c4QlQzdnJscWJkMmlMck5lZi0wWmZPdnh3NUlIT1o4SDdsMGVZYUpmVDhKeUhIenVWYklJQjRnNEdCQjVfM2JscUdrLTlKN1hNZE1jT2JYWHdoQ2NHSjAycEV3bElOMWx1clJ2cW1DYXZOVUo3R1N6MTY1V3FNb3hqRWNsWVZxXzZUS2ZjZi1UM3dyaXN0Vng1cjM5ZkYwejNhNXdsNGZJQkZqa29PNy1mQ05jTmVob3k1MzROYUxncm9kUUZTMTBOT3VsYktHNFRWZw?oc=5",
-          "published": "Sun, 16 Aug 2026 18:27:00 GMT"
-        },
-        {
-          "title": "Peter Thiel compró acciones de Vista y desembarca en Vaca Muerta: cuáles son sus inversiones en la industria energética - econojournal.com.ar",
-          "publisher": "econojournal.com.ar",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90QkFRVUVtYnZudUptMHByeUFuT242cXVuRDN0X0ljWDVMSi1adE1ZblRrV2hlVjVVUTRCQXU4SzRlQWptVWU1Wm9OcFBTNXdXMldna0E4Qzg4VlFUQ0JKS0FYbEp4eHBnZWdKX3JSWkhyc0NKWFRCdy1xVXA?oc=5",
-          "published": "Sun, 16 Aug 2026 18:57:33 GMT"
-        },
-        {
-          "title": "Run Run: detectan un grupo de mutuales y bancos regionales enredados en maniobras opacas - Rosario3",
-          "publisher": "Rosario3",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON2R3ZGpIWmdILWt4VlJ3UTFpSjRqVTZ0ZXN4NkFMeFROMTNOai0xRUtnX1JiQmtJV0h6NkhrS0pOSlRUdlk2ZC1SZEctc2NwU0ZIT29oeXd3dDRpbzNjdzZaSzI0LWt6a0tPcXU4SXRhNUZZVmkyREt6NWNiZ1gyQUMtLV9TUzNzRl95MGpPcUk1Mm9ZZGl3WWJTTUdtZnZpVnVROEVVTWhIaGM1S2x4VlNuZHZYcjcxdDNnU3YtcEhnaEVjNFhuOFFKaUZrUkZDSWFtOWpkVWlwY3liTC1YUm5KcnI4c1ZlQzVqQkhR0gHuAUFVX3lxTE43ZHdkakhaZ0gta3hWUndRMWlKNGpVNnRlc3g2QUx4VE4xM05qLTFFS2dfUmJCa0lXSHo2SGtLSk5KVFR2WTZkLVJkRy1zY3BTRkhPb2h5d3d0NGlvM2N3NlpLMjQta3prS09xdThJdGE1RllWaTJES3o1Y2JnWDJBQy0tX1NTM3NGX3kwak9xSTUyb1lkaXdZYlNNR21mdmlWdVE4RVVNaEhoYzVLbHhWU25kdlhyNzF0M2dTdi1wSGdoRWM0WG44UUppRmtSRkNJYW05amRVaXBjeWJMLVhSbkpycjhzVmVDNWpCSFE?oc=5",
-          "published": "Sun, 16 Aug 2026 18:00:00 GMT"
-        },
-        {
-          "title": "Wall Street confía menos y reduce su exposición en la Argentina: hay alerta por la baja del apoyo al Gobierno - Infobae",
-          "publisher": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNUwxa09mNWRnZEt6b1pXemFHdXdZRXRNdUZoOTBUQTRsajBPck16c2xEODl4SjVCTE0wVG85ZXBjTGthS210M3Z2Y0FOTENiU0ZnVERvMFFRT25LczVyQUppeHhCcU9wSjdOMld0OUFTSkdLWTFLLUtzZ0E4bmhjU0s4Mmw1eHh5TUhGTnFkaWJkOENzR3VSQUpuUUdCblkzTW8zZklNNDQwY210blFnYjBVbnExeWtIODZvNzVwWHpfZG1OMDRTMi1RbEZBS0Vv0gHrAUFVX3lxTE5MWFZSQVdMaGxFMktXQkoySjVLSzJwdjNGaFdVZnRZdWkxdVJNRVBuamxDeVp6R2NycWdEY184U2psUW5zVU91eFdaTnhvWTlhbG9NdUx0cUdaZTZQakdOcERZWWYxclg1R2RvZ19SNzVGLXVYeXhLdVhLT2Qyb3Rsd2NOdFdxWmtXZnc4T1BRWFpybmZtWWFfUFNWWnl4V0d5ZjBLLUl1alNEZEZCRkJPT19MX1hQSXRLV211aEtoa0R4OHJRbTR5cDNzUjBET3NMMV9ubVZOYzFXS2RFWGtTMHFkNWFERDBzU00?oc=5",
-          "published": "Sun, 16 Aug 2026 15:48:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "River vs. Argentinos Juniors, en vivo, por el Torneo Clausura: el minuto a minuto del partido - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMXU5WkNCUTRCNzRHbzJUWFpmakRVeEhOYnNvYnJHaTZ6ejBYNFFRUm5ZWGYwWlJFemxIUkVTTm5ESXMwYmhTbWpGNUlDLTRZOXdyUVFHYnBiR3gtc3FpVWw3WUlzLVBySUozMkluSjJjRDZCUUhjWHZGUDRROWtrYmZCYlpNOV9FUVZFNXNWLWlJaEtmUUtSNjNOYzl0cG5RV1I2WDNKeFBsbE4wa1hOcUl2NE8tdw?oc=5",
-          "published": "Sun, 16 Aug 2026 20:05:00 GMT"
-        },
-        {
-          "title": "Thiago Tirante, después de hacer historia ante Djokovic: “Me ayudó mucho mi equipo” - La Nueva Provincia",
-          "publisher": "La Nueva Provincia",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObXF6d09tbGlLTjJWOWxCaFJfa1dkZmVUZmdwa1poRVpyRnZwSHBVakRVdVhOb015ZHlUWDFJY2hwQktjRDBudGp6Wk9fdzlOQ21PSWZIUlBvWXlIU3NndzRlWkNLaGdNQ21rY1hDTlJBN2NlTTB1TzFYejFtdFd5bWlTQnRWdlhVSDNmRl9RTnZETGFONkRvT2kxVHcxRGJTdjg2d2UtUmNIQW1XYWlwSXA5ckV2cy1nTzN4N3lpcENUVW8?oc=5",
-          "published": "Sun, 16 Aug 2026 12:55:26 GMT"
-        },
-        {
-          "title": "Los Leones debutaron en el Mundial de Hockey con un contundente triunfo ante Japón: cuáles son sus próximos... - Rosario3",
-          "publisher": "Rosario3",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPREFDbEw3dlNBc3RlZWNOZGRCckl1R3hrLTB6UWUwaTAxMFkyMkxLZHhGb2pwX3ZoelBLeHR4QVhGd2VxdTZDR0NVNm9aTEQyTjBOcll6dmEzeE9aTkg1Ykh1TTMzSnVpaDM0YTZldkNaUDhwNG5EUXNfMUhDNHBhTnlVNHlhWnR0dUpZMVB3YVJGUDBqa055eU0ySi1lbGR0eWlIWnlyRUJrWUszalh1cXk2VlRXX0VRSkZweTR1dTZuYjlpRlVCRzU4RnFhMzUzd3JkajAzeDMzbTZlYUI3RlBaaW_SAeQBQVVfeXFMT0RBQ2xMN3ZTQXN0ZWVjTmRkQnJJdUd4ay0welFlMGkwMTBZMjJMS2R4Rm9qcF92aHpQS3h0eEFYRndlcXU2Q0dDVTZvWkxEMk4wTnJZenZhM3hPWk5INWJIdU0zM0p1aWgzNGE2ZXZDWlA4cDRuRFFzXzFIQzRwYU55VTR5YVp0dHVKWTFQd2FSRlAwamtOeXlNMkotZWxkdHlpSFp5ckVCa1lLM2pYdXF5NlZUV19FUUpGcHk0dXU2bmI5aUZVQkc1OEZxYTM1M3dyZGowM3gzM202ZWFCN0ZQWmlv?oc=5",
-          "published": "Sun, 16 Aug 2026 19:16:12 GMT"
-        },
-        {
-          "title": "Cristiano Ronaldo le puso fecha a su retiro como jugador profesional - TyC Sports",
-          "publisher": "TyC Sports",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdVZjY2tvV2dGenEzWnNQMGdpbDMwTDUxVXBIQTZBWWc2TGdRZWVYNnhWWURsOTVUMVZ3M1pvUmJMUzZUSTRxRnd6RTExNW85bnhVeDZ4ZnZxRS1IRVFzVURrbkl5VkwybURONGVFTERuQWR3YkJfQ2ZIOE1kYXhTM3dfU0k1c3dNQjNHYWxWaUdFUVZseHFtNVlsV2R4WktLV2pXNkt3VXJxM1RtT0J0SzlnSWlNcXJEX0wxSEhwYTJCSmxMLXBKQQ?oc=5",
-          "published": "Sun, 16 Aug 2026 16:35:57 GMT"
-        },
-        {
-          "title": "El tremendo nocaut técnico de Esteban Ribovics sobre la leyenda Edson Barboza y el pedido por una pelea con un Top 15 - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWUplZUxRYzc3c3ZEWWc4bUxsQVJFTjNsUzlNeUV1RWdobXRhaXQyN3hTRkNPalZZd2hhWXBHeDZrV2JnR3JSTV9yczh6bzN1MXpCX21YeGJRWWlnS2FhaFJZMnlyU3BlaDlwQW9KMk1zMVBaRnJNVU5uYk0xT0otVFl2V0cxMFdBcXJjd2drWUpJcWZvOFFuM2VybGtNYzZiLXVkblgtZHBhNEdwLUJBbWpQOTlHQ2phclhFU0dYYlREdU1OQmgtLXp0UUNMODBidWU4OW5DemQ2R0hiM05Uc1d0RHFadw?oc=5",
-          "published": "Sun, 16 Aug 2026 13:57:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Peter Thiel pone un pie en Vaca Muerta con una apuesta por una petrolera argentina - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVjlMQ1pPY0liS0Q1MlhhY3FSZ0d3MjV2aDliZkhfT3hQOElINmVsT2VHVjZkWnZ6N21GV1BxbktQc3hta1NSdG1rWTZ6U3NuOXByREg3cU5LLXUzeWpzRER1ajAzYnFLRXh4Um5MQ01ya0ozMGFTRm1vQWRzU2tOb1JyOG51cm9zT1hrQm5OWm9rUmRyS3VoUFJMZVdYRDlSVjV1TFlja1hENG9LZlY4cFdZM3d0T1BZalY5cFpDMW44bG0xVFpwZEk5R1g?oc=5",
-          "published": "Sat, 15 Aug 2026 23:42:00 GMT"
-        },
-        {
-          "title": "Ucrania lanzó uno de sus mayores ataques aéreos con drones contra Rusia desde el inicio de la guerra: hay al menos 6 muertos - Clarin.com",
-          "publisher": "Clarin.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnNsUjlOLTVZc3Z5ZTI2ODlrNVI1Q0FZSUN3QURybTQ0Yk1YNXU2c0ZCb2pFVFNiOEw3T0NoenRGQXBtdHF5MjdfNW1CbzgteEZnemFsSTFiNW5td1pNb2xRRVFiend0NEp0a3JUdHhFUHJwUllrWkdiMHhVZHZ5OTI4Uk83RFNCbGl2U3dHTzBrdG5TUEtUYjRYX1JjbG44b0pSN3BDS2FvcHQwcDlvZGhSSmRuTHFlOUFmVw?oc=5",
-          "published": "Sun, 16 Aug 2026 12:45:23 GMT"
-        },
-        {
-          "title": "Ucrania aseguró que sus ataques dejaron fuera de servicio a siete de los diez mayores centros de Wildberries en Rusia - Infobae",
-          "publisher": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMm1jZDI2NkdSQk5CTjlpS0k4OXVYVzVnNE5SWnFMS0Z3TlpRbkp2YzkzU1Vfc0dBSDZvS3NFX0dMM3hESm5HRmJTaXZYTDBNZEZsWEFZb3ViTW9LVjNIUUVtc250aXJacWRGSXJQMHVXYkhYdC1WcUZJWWJVY251NzZEQTZjbkVpdE90djJfZjk2V3IzSWktLUVOSG16elpzS1g4eFdwdUFzWmxSbEh5NlY0M2JvbnpOd09xQ0p6R0twdk5adTU2NWJyakpwUk5pWmF0eFhRbWhkckpwVzhNSU1Na08zbUpFS2ExdkxEM2hOdkEzRjFBNmMtVdIBlgJBVV95cUxNNHFxRVhnQkxpQzg1N3Z5SG50TEVtQzZHX2dXemtFcnk1dmZ3enUxajJnQ2l5RE9WRlhaa0hVQktpR1hxcjBISjZuNWZrSHd1Y2dHRXd5Z0prVFBReGMycUdvdlhadUtuLUYtNW40d0RUTTRCdjB6cEJPQmFHd3FsSExzOWM4Ri1qZlB5QzM1Wm4tRmhFVXVpX1JvNDNtbWZPNGdySFFUVldSWUNqYU5sQlNLMVN5OE1WSG93OUlRVmNoM243T1VxeUQ5X21OcGpGYkFKd2VhNTZLQTdnOFlSVm9NdkxlV3R5OC1HaTM1cXo2VWxOMkR3UEdKeTFwbGRHRXFya1pVbEFRNDdNc2Y5cVhUUS1oUQ?oc=5",
-          "published": "Sun, 16 Aug 2026 14:21:00 GMT"
-        },
-        {
-          "title": "Estafas: una nueva forma de hackear WhatsApp hace pie en Rosario - La Capital",
-          "publisher": "La Capital",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeE1TZ3dud21ES2JfczhRNDdlYXdhOVpUZ3ZaWF9oYm16bmJkYzRwV29kRk0tR3N4YTVkaEpBbllIMEh0SG83Vkd5TjZZRksyQkY1MDFaRzd6b3VrTDVpUUxPczlUdy1UamJGTUxQbGRyeldJd2VFWVF1anROSkxkUHBBdFlyQmR6eHdRZ3h3ZS04akVLajdQX3dwTWlNNE12UnRweE5FeVBEMXRhLWZTbA?oc=5",
-          "published": "Sun, 16 Aug 2026 09:30:00 GMT"
-        },
-        {
-          "title": "Crujidos en la sala de máquinas del imperio - Página|12",
-          "publisher": "Página|12",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXJCQUs0cTZ6REpMd2RXNm1GQzRETTR3YnFZZU80UnpMRGlETnhXQmp3cFdQeVNYVjdsTzYtdDl5SEVWYWZhX0FYWGhGWld4VFNORWpkSV92b2V5VWxIdk04WnBrRVZKc1Z2TV9zQkJzRWtFS0RWVWMwNjk3Sm4yMS1JSGYtT01DX25Z?oc=5",
-          "published": "Sat, 15 Aug 2026 21:39:06 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

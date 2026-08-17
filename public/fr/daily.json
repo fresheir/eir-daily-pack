@@ -1,260 +1,43 @@
 {
   "market": "FR",
-  "generatedAt": "2026-08-16T22:18:33.878358Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T22:38:05.706452Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "EN DIRECT, incendies et canicule : la canicule se maintient dans le sud-est ; dans les Landes, une partie des personnes évacuées sont autorisées à rentrer chez elles - Le Monde.fr",
-          "publisher": "Le Monde.fr",
-          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNajJqQ2RxYUNUYkViTVg1VWVRbDRndVBSQktnLW9ueEx3Ylg3cXNRanVGeWVLZ3FTcHFvM1hjYTluN0xVX3R2NWRFZV9MZF9fOVZobmlqVExmY1FrWDVWb0xlZlhwYnpMUUpDbHI4UkUwSW55RXBmc2dBMlljNW5GMlN1ZGhWei1RQ2l0VVY5RXY5LTFDMnRUcHRoRTNKN2lFWnExMGpHa25tc0NFRHlwZlpUN251ZlVpS3FZS0tKeXNmVzlJSklVV2FMOURaSzZuSFFVN2NIaUtFSXVLSV85YmtTakw2MFBLa3NhTHU4ajcyQkYwV1VwOS1USVVjTFRIRmhpSkN0YmNtbmhCLUpNM2FkcU1Kd2w2aTRXS1NONl9NemlRdlJNQ281c1ptNDc3ckVfYm9fci1SVE1FUEcyazZacW9iN1A3WVE?oc=5",
-          "published": "Sun, 16 Aug 2026 21:23:56 GMT"
-        },
-        {
-          "title": "\"Il avait vraiment maigri\" : l'incroyable sauvetage d'un enfant de 8 ans enfermé par son beau-père et sa mère à Nîmes, une voisine témoigne sur RTL - RTL",
-          "publisher": "RTL",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNdnNsdjFlQVFlWUhJWE1jN1lTX0JOdkNKS2x1RHRzNF9aMFJkeTVDQlhmMzRCYnNoQXJHXzdMWHh0N01mTDdBdy1GR2FtRUIwSWdoOFNFVC1pQlVFd01tSmptS3hEZFVja1lGbVNUbm5JYWFCYnphR2ppNFJocHkyOW1CQzlLSHBsMVdBZFNHa0tsSzdNRWhfMEg5Z0tSX2VWRk4zcnk4azljTDRyV1ZPQnFLRDZnSTBTVS1xUUMxVlBBaFA2dC12UmhqUzliOVJsYlg4MDQyX0dZbjVZbG50em0tT1ZjczdocGN3YmliR3dHdVpLU2Q4cmlHcVFycm14TUxuT1UwTWQ5V1dUV2hwZll5Ul9nbVo4LU9NVnE4eFJ0VXJj?oc=5",
-          "published": "Sun, 16 Aug 2026 15:27:38 GMT"
-        },
-        {
-          "title": "Canicule : six départements en vigilance orange demain dès 6 h, le risque orage diminue drastiquement à part dans l’Est - Ouest-France",
-          "publisher": "Ouest-France",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOajMtUXBvSmdEN1RJakp2YmFxNUxrRjZyM2hOUmRJSjY5MkVKaDV2YnhPajQzMXNHcEFkTmRRTmdPcUp0VHh2Rmw4dkJWMC00NEhLb0FwRTlpRnVzaURVRUVmelFtVHZmWjNmMmxJX29LSTRTUVJudG5HQjNRRHoxYkhmQTdmUGJydUFWMHJUNm9pQnR6S0gyRXVPaWlMNjhtQ0NLMHJMWU80ZXlWNnNHVTdENlc2QUM1NmtKNlNHc0xpN0p5cldoZ3BWUXdzVUp1TUI5NXU0OHVGdkNuWFd1XzB4WXM0cHF5RFQxMXNNT1FUYzhkLUd3clpHbXg4UWxDbW1DQ1FSOVFwVWxDVU1vN2FXcm84ZE5NYUs0RWVsM2k?oc=5",
-          "published": "Sun, 16 Aug 2026 15:22:47 GMT"
-        },
-        {
-          "title": "Piratage du fisc : Lecornu présidera lundi une cellule interministérielle de crise - Le Figaro",
-          "publisher": "Le Figaro",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZVRNcWZ3LVZOY0cxS0pOb3R6Z2FzcThfbTVzeE8wZzVqZFZ4R05UT2U2R0FjUHh2VWZmaFpubWxzaWhCbjJRN1ZEdDE4WVl4Y0Z5b2NGZXBvSl9WemVWYjJvMS1TVzNRUmV1aS1hOEtsa1Bpd3Jrd0RSWjdXOGZwam5kdzFUSVR2dGFzX1pURm9WQmtVclVfVndLbjZEMDFXWGJRVWJVaW5pNE9Udmo1YnNaTi15Q1VGNWVFM1lhcw?oc=5",
-          "published": "Sun, 16 Aug 2026 14:04:07 GMT"
-        },
-        {
-          "title": "Important incendie de garrigue et de forêt à l'ouest de Montpellier, 200 pompiers engagés, un mas menacé - Actu.fr",
-          "publisher": "Actu.fr",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR0FMaUg1Um1xeGVvZ0tHWDdLZURtbEt0NkxLelZCZjZfN1NBN1ZsVVd5NFgtTmlMTXE5RVpTVzVpeE5FZFdaWWxpSWlIbDViSEFhaDVFRzR4QjBJQzVsSmU0VWkyd1JKbmFsZWQxMmZCa3dUOXlKbkFFZHA4OEgzc1dQQjdrMG1Hd2NHU245LS1faUx5RFd6MVp5OU1UOU9kcWlGOVM5TlRRamItOWd2bkhSSVV1czY3dGtrbldhbFRHX1h4Q0U0U1YtdHdFTEg4VzMtamMyTXNCdmk4STRmRDQzMzFZMXFzWVBR?oc=5",
-          "published": "Sun, 16 Aug 2026 18:55:03 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "EN DIRECT, guerre en Ukraine : dix-neuf personnes tuées après des frappes de drones et de missiles en Ukraine et en Russie - Le Monde.fr",
-          "publisher": "Le Monde.fr",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeFd4dWhHbnVpVmVINEVzQ2k2ZU5WOF9Za3ptM1N0ZGlaYXJaTWhpa1JfUFhNYzdqamplb2N4X3hiRnZWN1VsTlpGWnktcDJZa1pyRDljb0VzNHdFM1VSeW1qeUVHTzFxdHZSeDRDSEZENkZ4Y0tVNjdsUng4WDZ0UXRuajFxdVRwT01nbmxWWmg1V2x5d2ZEZGdkeF9YaTBHVzdacXNPekRGVEtpWnYyS1h2bjN3dnV1QVpoV2ctME9MQUtzTHhyMy1EUUYtRmRuRWxIRlJlTEY4MWM3ZG9rQm9EWGg0RlpHcGJBVFJCUW1FUlc3bGlVTWZtLWZhQnRtSTF4d3JnWlNubkktY1o3Z1VrU2dzb2RHNGc?oc=5",
-          "published": "Sun, 16 Aug 2026 19:00:08 GMT"
-        },
-        {
-          "title": "Le gros incendie en Belgique a des conséquences jusqu’en France et en Allemagne - Le HuffPost",
-          "publisher": "Le HuffPost",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTXFGX0ZvZjI1aGlvUDN5YTNxUE15cy1iamFLbGRmazhDbDNHaFVVOEFqS2RVYUFsLWRMeDF6bm13OTUwbVkzbElOclRybUJ2U0w1S1dfSHV4aVFoRDRpTW54MzU3OHZrRHFLOWlyZjNCYlUtY0JJYTlNMVdwUndNV0VNbEVXYV90dlA1OXhlV2FrRVB3VVpwbmU3VXJDU2pGZUZzVVdJeG1WVDhjemNSNWVTXzN6VVd1WGNiWU44NUl3UlBNN3dva0luWmZjVlJrVjktOVg4ZzdDVHM?oc=5",
-          "published": "Sun, 16 Aug 2026 16:36:03 GMT"
-        },
-        {
-          "title": "Crise migratoire à Ceuta : «le Maroc montre à l'Espagne qu'il a une arme démographique», estime Véronique Jacquier - CNews",
-          "publisher": "CNews",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSE1Yc3FWdTZqMGlzSkk1T3Zvd2pPZTZzblotREJCcFY4M05WWm9PSHFGZXFYZDRwOXJ4MVR1UHlwYkd1aHhjS0l2Y1pNVldBMTlEaUZLTUNjUDlmeG5yZGdKM2w4SkhvQlhtR1RWVTZnTFNtX1lYOFV0Yjl6YVFvakdLM2FDQURBd1kzeGhvRnhyUXlIbDd2c0d5c25RanJ3cDNXTi12OW5aQV9Ka0xLbmdfWXQwalpaUlh6etIBwgFBVV95cUxPc1l2MEJrZ2FUTVpSaWhycGFLeFp6dXowNlFHT3J1eTJCUldkT0ItcnIybGc0MHB5VTBuMWc5aU1XMWJnVzNGLTRpLTB3SHBZckFtR1NtWWVEbGdKOXZZMkktdVIwYmxUTk90XzctWDBBTXhWMnNjcFVmU1JfSW1DZTVJR3JETG11cm12cDBtaXNwZFdGbXlUTndYbHZfa0RJQlBfOWk3VzluWS0ybUZaMERjUExqcnY2REs4OUc1Qy1adw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:18:49 GMT"
-        },
-        {
-          "title": "L’incendie monstre en Aragon aux portes de Jaca, mais la pluie est arrivée et les renforts français aussi - La République des Pyrénées",
-          "publisher": "La République des Pyrénées",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbnJmTDk1dWF2S01HYU1KMWRGdnRuSktIMzlqWlAwNV80WDJjMHJTY0xIcUtoSDdKYkxXMEwyaUk4MXhfSUtwV1FCMHlnZWN2Z3ZWSi1GS3ZkS3ZoMEFNSV9rRF8xVWRqNGJ4Wkhqb05GZE9IMnc4cHJheWkwdXU5VkluUnc3UURDeGFEeUZlMGFoUS1iRXNNZTlPWDQ1UVB3WGk2TXlOQ1hEVUpuTTBVVUtrSGlNM1FrcDVoT0RiTi1UQmpjdkNQWDRveE91dlVZVEpDMnRWX0U2TU9LcEhzOFhzN3FBaDc0Zmo4OTY1QzEzcnpxQ0l5NVc5RzFxcWxGaWs4NFpMZklVdw?oc=5",
-          "published": "Sun, 16 Aug 2026 17:02:43 GMT"
-        },
-        {
-          "title": "Danse traditionnelle et marée de drapeaux pour fêter cinq ans de pouvoir taliban en Afghanistan - Boursorama",
-          "publisher": "Boursorama",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOVUd0aEZQd0I2bHBGcXA1OTJoQU5ZZTc4bWw1OUtJT3I1c3AwNURfUktRQ0JvM3VTbDhUWnZ4MDlkeURUZkd6QlZrTXVBVDhfLXNJT1NEbzQ2NWtsdmlubVNTd2M1NnB2Slg3Sjg1ZzlvWXoxeWJiV1BEWkFPZ204UERqZ19aTUh0d3JHa3pEVnVOVmtjSlhCS2tFWm5DMWRHZFJ1c0NhTjVUTGVsMTNXdUg0UUtqNkZBRHJFN0U0b3BzTDFVSjNST2lZbkw4MjBDZklTdzRaWGpjOWt6Q3poUWdmaWFGUXV3ZEtSaDlyRXZwU0hxdzh1MThWN29ZYzFlampZVjV0RzZwUi1xWHpPeXdsdk85Z9IBmwJBVV95cUxOVDVtd0xId1R5LWxvTVI1RHNiTGd4aGYyaDB2b0RQYWtyZV9zZ1g2MUFWQzRDakxzVzJZLS1Da1BmdDB6XzVjcXJjMFlEVEdINTFGeUtlUkZRdHBON1lmVGtxQnkySnZXLVUycmRvTklVc1dTaUpSQlBYTk54ZWtSeWZhUHZGbjlsdll1ZTY3U0tMT1JpbEhHR0V6RC1fT2lRcU9nZW5tdE1yWmtYTTBoNVA1YjdwbzF5QnE3NHVtVENPbWgxRGxDZW9la3liaWxyY3FDdnV0N0o5M0tKdG1zQkRqb1ZHMkN0WTduTUhYRXVpZzh1Znh5Z09uajdHT3UwN3p5OTFYakJoWGdNd2traGd5WGxGaTkzSlU4?oc=5",
-          "published": "Sat, 15 Aug 2026 13:27:42 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Piratage du fisc : Sébastien Lecornu présidera lundi une cellule interministérielle de crise - Le Monde.fr",
-          "publisher": "Le Monde.fr",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNUNzQ1k0RWU4SDZWVm5mM3pMQlFhSDdncmVRQlNuY08wR2RBeWF6RGJWTlNwaUZkRkZZNkcyNFFwV29jNlJydVdDMkdnQzNRZFRFdHVSWDhmRmI3UFp4M2lncXB3VEFtRE0zMFVaNHZxZmgyclV6WXJCa2RRckxiY0YxWnI0X3NoNXI1dkdPVjNxUl9GTURvdEVRSDhGa2hPcDJ3RWhhRmxSd1VSVGhRUU0zUFZBN0FfNE9QYUtXRVJFdjYxMi1DUUREeFVUWGZFWmltZDVZcGxkeGxNUi1ZWmNvZFlINTUwNzF5TXlsSGpRdw?oc=5",
-          "published": "Sun, 16 Aug 2026 15:11:49 GMT"
-        },
-        {
-          "title": "Grève chez EasyJet : plusieurs voyageurs bloqués à l’étranger après des centaines d’annulations de vols - Orange Actualités",
-          "publisher": "Orange Actualités",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSVV4WlUtWVRtel9KNmZmQmtkVmFydTNoMkRWMjBiZkFWLVBlUGN2WTFBZWRFUW9HNGdxUE9CZEtVakRlSXRoaFk0UFI5VHBTZkVCRDZ6RFJuUU9UZFRpYWdRaGQ5bGV5N3h0LS14dFJER1NMSF93UzlHaWhtYWlxNXpSZHdzLVBiSExHM1pWa2huWFZEVUtSRDE5OTNrNjlPR2pXY19rc1BPOUVkanROR18yUXg2WnlIMVhETlB2NFRQdTlBY2Y2RXlTOWFyYnJlVjBZYVBOQlRYV25iU2RFdVBYbUR2bGFRd2NPaExB?oc=5",
-          "published": "Sun, 16 Aug 2026 13:52:00 GMT"
-        },
-        {
-          "title": "Voiture électrique d'occasion : ce test très simple peut vous éviter une facture à 5 chiffres - Les Numériques",
-          "publisher": "Les Numériques",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRTBwY281Rzc4M1BJZ0J5MUJyTnlLcnVLaDdURkhkNVNQWU5LZDB0ZjdxTkgwWWpwLVFnc2VmSzlmTlJiUXdJa1NnODRWb3BFWTFCZk41Q2lVaU5NWkNPNk9HdExtMUpMUlVLWXdpTzRtcnZkSXdBbHlKNXdRSDNIcE9WSTZubFhBMEg5czFDRjR0WEtFX2k2M3hlR0VkNm93eDA2Q1VGUlBXOE40bmZ5YVY2ekxxdFM5QnFuNzFvQUlxd1BKQWpHSjlCSUtCX0ZCMFNaMTZ0N0VxblRGM29ZVTRYMkVjdUo0?oc=5",
-          "published": "Sun, 16 Aug 2026 14:47:00 GMT"
-        },
-        {
-          "title": "VIDÉO. Grosse frayeur à l'aéroport de Munich : un Boeing 787 de Vietnam Airlines finit dans l'herbe et décolle in extremis, l'appareil obligé de se poser en urgence - ladepeche.fr",
-          "publisher": "ladepeche.fr",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNX1I0UXNpOEhBaGdEcFRNWk93LW92UWlEU2l0SUo2NGxiS3VlMy15bEZIdzRnWmRXa29yTkF3ZUh6MUtiMFZ6eU1ZOWlXenBIY0VaZ1FiZzBGajY1WlFhbGdHNzR4WGV1a0dfYjVuMWMxWkN4RFdlbExVeURxNnVFZ0tNSzB5WFRnQ2tKTFhFXzBXaUMwdFNDZVFZVHptOWwtT2NxS20teG15dm1JU3VYSGRXOHQweTBnaTRHZjdIQU9GUU16b0NtaUlNeGNENGVtSXVXdjhJcDlYZld0X0hRYVBZZml0QXlSRWN1aGg0REJ6R2M1SnNFYXFScG1HaXQ4MGNGcURacEI3M3VSNVJLYllvWWxqLWFrMWlfWVF5OXJQRTNl?oc=5",
-          "published": "Sun, 16 Aug 2026 16:49:00 GMT"
-        },
-        {
-          "title": "\"La crise la plus grave depuis l'invasion du pays par l'Irak en 1990\": le blocage du détroit d'Ormuz paralyse le Koweït dont le pétrole fournit plus de 90% des recettes publiques - bfmtv.com",
-          "publisher": "bfmtv.com",
-          "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPVFVRZ3VkZ2ZMNDFmdkUtZjZQY1BiTkFMSFpyQ3JmNzR5c0YzcENZeS1Pd0tSWmdyMnRmdkMySmJFUGdFMVBWOEE5TnZ2a0NUSXdYalF0VU02SzlXaGZYcUV4Yy05anpqSzFGeERMbGJQRDQ4MmtiNkFTdEFkUWNVbGlSdks3MDV5U2dfOWNqYjM2VGlwaDhvbzlLVHBlM3pBXzNmazdZcVFNTXFJZFR5UG1pMDZUTFE0Nk1CYTh5OWhRRTFBXzJKWXRLalVNdWxWV3luSWN3UUc1NV9XY1lGU0tueDI5aUQwZW5wSVJ1TE1FN1RqdDRWWDZ5OEc3cUJzNUZkak5wMENoRV83UGlucC1DSWRRZmdaY29XbkZTSUk5c2RCM3JFd3piSnhWejExSURXVGU3OGU1NTk4QmtPekNDd1RuenlRTzZNR2QzdjRWODI4clRBand0SXJjRUctdU1BUg?oc=5",
-          "published": "Sun, 16 Aug 2026 10:29:19 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "EN DIRECT, Lens-PSG : les Sang et Or remportent leur premier Trophée des Champions, malgré une mi-temps à dix contre onze - Le Monde.fr",
-          "publisher": "Le Monde.fr",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1BJVl8xVWVBalRZdnJ6OW1jSmJ3bEF1OGlKSUlpcXZLcXgxYkVCeWxxRTRMNmJBT2JCU3lDb3FKQk1lbTFqdmFPa2d1OTYxQjRkbmNSZWI1MjAzazU0a2hYWk9fcFVLTEIzZWJnQ2ZLdzhsRy05VzA4T0hQNUNlM2JoR1Q4Z3d5MS1VQk9yQkhNUWlQVnE3ZU15V3RXb0c3a0dEX2dfRDVxM196aXR6MXZBZUU2c3dXcXR5eUhDOA?oc=5",
-          "published": "Sun, 16 Aug 2026 21:20:15 GMT"
-        },
-        {
-          "title": "Exploit retentissant de Léon Marchand, sacré sur le 400 mètres nage libre des championnats d'Europe pour sa première finale internationale sur la distance - franceinfo",
-          "publisher": "franceinfo",
-          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQSWx1cDE5Z1hmV290NlFvMjJvZHZCd0ZaSjlRUEVyUk1jbHdmVVQ1aWF3U0loUmN5M1U0am9wWGtOQmRVdndjck1NLUg1dVBDSGIyLTJkNVdEaDM0WWdfSUFpdjcybUFJV1hCZGVFLXVLY0xvVWxkUkhaWWFNdXBmVGNDbE1sMWJQSzhVVWhLYTFTNHpINXd1dHNHZ3dMVmNkaXZ3c0I1SjVvZjRHMlRXSG81aGFOeTdXNlB2d0ZfbU5MV0tuX1I0azUwUHV0NklLcC1QOGpvQXhaSUVuUmR5aUJLaEFDaFNxVlJYVGlDWmJjOEQ2TWFuaHBQa3hvNlB0aDZzUFJhbjZsQjN2R1VwcVo1LXFUbTR5VTcxZnNVQkc4bWhUMURTTjRyeHQ0VGhLMmwxbjhKd3RoZjhDbWU4VDY0SWF4cDdFc3ZMb1k1TQ?oc=5",
-          "published": "Sun, 16 Aug 2026 17:30:12 GMT"
-        },
-        {
-          "title": "Félix Lebrun titré pour la première fois en Grand Smash après sa victoire sur le Japonais Tomokazu Harimoto à Malmö, en Suède - L'Équipe",
-          "publisher": "L'Équipe",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNM1FjaUhjVlpmSVFxcGg0REIzemNzdXEtYXhyN1Y2SWJmZEpPbk5fZU8tOEdfb0J6b0VqN19rbnV2VGJMdlFHdERuZ1F5X20zUFFlNUgwZE5pWkVpQ1FBdFBFeUNib0ZodXQyUU9PU2JWYXZ6eUFJQ0lsQXFiTXdReUlTbnpmVEhTdGMwMXhhbmFDbHJIb1hlRnFLZ0Y0VUx5ZkhkdE1XWUdsTHg1VDVRbXlIX2dSa2t1V0tud0RnNFdWaDNOam1jWXd0WVlIZ2hEeDRFMURxdFJnbFB2ZTFuMm9vbnVZWGVEZmdlX0pWaEhaenlYbWptWUE3WTJPQzJQaHo0TFh1azhUeGt6Zzcw?oc=5",
-          "published": "Sun, 16 Aug 2026 18:07:28 GMT"
-        },
-        {
-          "title": "Amical : le Real Madrid surclasse Schalke 04 avec un Kylian Mbappé déjà en jambes ! - Foot Mercato",
-          "publisher": "Foot Mercato",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHU4THloRTVMWUlvdWU0SGFjV1FDNmpVRW1WTHVCTWZ0OVNoWmFWVml3U2NvWmNxNDBwOWhZNURyMTBhalNuX3A5XzVjNDlONFQ2Z3Z3aGphMnVURkJXTmJIVE0zTmpQenB0LU52dHozaUxRZGlNT2F5N0tZN3Bqd2NtVWhFMWdFZkE3YlRod0U3TWczRFIzR0FDWkVrdDVlMThxdGQwVEhELXR1bnpLejAteW9vZHRzUi1WMlgtSGJLcTBMd2tv?oc=5",
-          "published": "Sun, 16 Aug 2026 16:48:39 GMT"
-        },
-        {
-          "title": "Biathlon | Cyclisme – « J’ai pris beaucoup de plaisir » : après la Polynormande, Emilien Jacquelin revient sur sa première course professionnelle - Nordic Mag",
-          "publisher": "Nordic Mag",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaWpTbFoxRjVhc3hGVFl4bFZ0YTBLTWRVaU9DR0drZGFaWnNXcnA4eWVtRGZnek0zT3hTTEd4dm4wQ0RxdnZieTRRejNMaUczOWpmTjBsekVoOGQ1TjY0bXgxNEN4NXEyVlBNWGtRUnZJUzhuSjdPQ2pTZ3pRazIxU2RFN3haeEEyX3JiSFR1UkNhdFZ0eGpia1pQdVBJczl1a1RFX2Z5cUliekNSSWxIOU5vb0RSRlI3YTdLR0ZFa2diV2llMjBweDhHUWNZUjVIejJTVHZYZGFfYUpXM0V3ekRxd2pVUllWTnVvNnVvQ3ppdFdxR1VXMWRn?oc=5",
-          "published": "Sun, 16 Aug 2026 16:28:47 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Trois semaines avec l'Apple Watch Ultra 3 et la Galaxy Watch Ultra 2 : mon verdict - ZDNET",
-          "publisher": "ZDNET",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb3V4VUpvRE1WWmRBb1dvN05mREpQcVdzYWFQXzBXdEROQkFBOE44Z1FsQTdva0dRQ1RaQmppRmJ3Vk5mNFBjUUVNVkY5R3U1LVc1Z21sN2RSN25vRTVQVmc5aG5SV0ZMMFVldnNxQ000NWlLZGd3b2g0QndDQmJWUkFnc1JSdGY2OFFBZG55ckctZjdkZjhjbEU5TUhUZ2s0eWd3b1hOeFAwcXdnSWxUdkR0Y2RaTVJEQTJ0cXF5MXU?oc=5",
-          "published": "Sun, 16 Aug 2026 07:05:08 GMT"
-        },
-        {
-          "title": "Piratage des données du fisc : ces menaces qui pèsent désormais sur les particuliers et les entreprises - Le Figaro",
-          "publisher": "Le Figaro",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWVB1T09xTWo5RHduMmhxRUpmUzRQUUZNeUtFMUFyYkVPU092UWlyUXBOekhlVldUMTBFOWRVN3JBWVlPZGFFd1p3NnE3WmxqMGx2UVpDY01leGZlX1hDSmZjbHpvVGZFNW0tS0V3RllkTGxJaHlnQ0t0U2ZjOGxnejFPeE1PYVk1cUJvSVFnYnlQNUszSnExTy12dlNTSmdvQlRvT2M3VXhoWkR3MWpaaDdrWHdmbzFFR09CSXNLVWlDXzM2UHlrX2N3RzcwM3RDUXJOMDNkdDFBVXdBVmgwSTQxbFNnelE?oc=5",
-          "published": "Sat, 15 Aug 2026 17:00:36 GMT"
-        },
-        {
-          "title": "iPhone 18 Pro vs iPhone 17 Pro : les 10 nouveautés majeures prévues par Apple - Les Numériques",
-          "publisher": "Les Numériques",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMmRVaXFaU0syRmszeG5FMEJYR0I5ak9fd0FDLTFkRTNNMUJNZjVRY2hoRXRoN2JQZjMyNkJHakFxeXkyMVhINjNybExodks2ejM1TXp0SGtiUkdfLTdRN0k0WG5yaWVwVlZLY2I4VGQySDVtTGNlSHB1czR6R3p0a1phRENlNGY2VENzZnVrbkZ5VXlpbGVRSjRxRkNldng5dm85TWNOdGFZWW5TWDN2Y0VvakFFaXhlQ3QzajBoUjVDSDNJZzYwWDRDNllHMlBJTXl3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:00:00 GMT"
-        },
-        {
-          "title": "Pas moins de 600 drones en une nuit: Moscou visée par une attaque aérienne, au moins trois blessés - bfmtv.com",
-          "publisher": "bfmtv.com",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcWhSTzhqQTNuS3V0U1ZXZmVJS1BzRmdKc081a0Q2akpwNkpacmE3LVh1SFJBQkR1RnBXQ0FjNWh5a3AxVXJraU14SzUxX19NaGxEM01TbWRmWU5yaThxSklMTDhDUm8zT3VsblNoQjRfS29sNlhsQ0ozckdDUG1VSG55X2tSa1l4TDVqZko4dU9CN2RQUmJsSkpkVS1xNTUwaGl6NVctaDFfTVlBLVN5SGlGVzhMbGVQN1NpVldDWXZQUHBmZUFPcnMtLUtWRkpnNmQ3QWd1VGdSZXJCUjhZNTFheEFJZE9MdnMzcU41V2QtRU0zTmVTRg?oc=5",
-          "published": "Sun, 16 Aug 2026 05:58:30 GMT"
-        },
-        {
-          "title": "Votre téléphone charge lentement ? C'est souvent la faute du câble USB-C - Selectra",
-          "publisher": "Selectra",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHlEQWdGenpXTXRJdFY3c2tmMzJIRU9VeUlza1BKanNvcml0QVRPTmpBd1JfUGFvc0ZZb3VaWnlGbUpXVEN4bUZxeW9VYVFVbHEyN0llNjBXM3IyZXpmLVRMcFVWTUNrRWxYaU1DWEtSc3FUSk52NURWT0R5TXFZOXBXODN1aVhvX21xeHNhSHhDdjVDdHh3eks0VTM?oc=5",
-          "published": "Sun, 16 Aug 2026 12:45:12 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

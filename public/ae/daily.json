@@ -1,260 +1,43 @@
 {
   "market": "AE",
-  "generatedAt": "2026-08-16T22:20:03.098687Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T23:52:05.835298Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "أمين عام مجلس \"التعاون\" يدين بشدة الهجمات الإيرانية العدوانية المتكررة على الناقلات التابعة لـ\"أدنوك\" - البيان",
-          "publisher": "البيان",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01LTB6bGhVMXE3Qm9CSVNuWV90cUFqbHJTdlpVSzRBbzByYUpaeEtKM2hieVF5RjhmcmtVZVVIQ0N2Nm5oVjNWSDBlbDBXelZ10gFWQVVfeXFMT05kcHVNMWQ3VlJqdXpwVHc1UFNWbzNiS2NKQXBCMWNROVpvSkZMZnBvaG53eU1PbWFQQUZOTC00UWhaM3pEYXFuRUFMLUtGeXROR2t0R3c?oc=5",
-          "published": "Sun, 16 Aug 2026 04:16:00 GMT"
-        },
-        {
-          "title": "أدنوك تعلن تعرض سفينة تابعة لها لهجوم في مضيق هرمز - سودان اندبندنت",
-          "publisher": "سودان اندبندنت",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPV1QxWjMtOUo3SGY0ZXMzOC1UREs1b2dOcEVfZGRVeUNuVWwxNER6Mm5Ed2ItWHd5MklYRFVsaGcwX19yamlaa3dYMDJxenRZWE1vNEZ0cjdCUXhiSHNCeHVtbFBNeGhsLVo0SXlOY3dKS3gzZTlKTjZnM2MzNTN3T1NIYUJFT2s1dWg5ZEJ0QkVIWkYtVGZOd1pzX3JHbEtqQzNOYmg0WF8xWXI1WXR1eXVHSU93OVdUYktXTkFNS0RIUDhYSUcyYUJDVWp0TmZCMDhscTVoamdtdEhSVXFfMVgwXy1hRGJOTjNJZ0hfOFdhT0pkV2o0LWp2YmxTZjhoaU1NZzBFeTZoUWlKc2xTU2V4RnVKMHVianBXeU8yclJXTnc?oc=5",
-          "published": "Sat, 15 Aug 2026 02:02:05 GMT"
-        },
-        {
-          "title": "تحالف «بريدج» يعتمد رؤية موسعة للقمة ويعلن دورتها الثانية في نهاية 2027 - صحيفة الخليج",
-          "publisher": "صحيفة الخليج",
-          "url": "https://news.google.com/rss/articles/CBMipAVBVV95cUxNelIydlcyN0xLUVBWZmZlN0pBQVhmb25fc1IxZF90cll0T0tjazhCeUtjV3BBSXJjT0MtRWViZzZoNlpuVE9LVUwzMlc3MUNYdTdWNWh1YXduVVZfbFM0bTFndktYNjQ5aERWUTdVMHRqUlNFY1RobmdtcVlaYndpcUhOdDBJLVA0d3piRnBOTzV1T1Y3aEtMaFBKZDlLbWM5blVpVWp2U3ZoNVRNYm4tTGp2QjNLOGZTamlSSkdLWTNfckExWWROZGZjWGd2Wmdxb2d0amdKOFpoRGVMVXZNNEhMSWJVVmZvVUYyTzZpVjctWE1YTm90QkFJNTBnT1F6dE9UbzRZQjZUcExlV053RjMyakN2WjRMX3E1VWw0QjByelJKZVRkQWw5M000aUt0ekgteDlGN0FTMF9hTDY5ZnFpY0hjc2l3V1pXeGJfSzhxaDVPS3NaRmFDNkNtUkRaYjhNOVc1XzdlX05fdkRCUUNBUXNDbDVOTzFfMUEySFBwcXhIdHlfNzZET2FROTJuM1VzQmtsWWh4b1l3Q2FmYTFmSTBIZ0E2OHFZSGVkOW0tbUYzNmxzS3JLSkk3cHV0TEZ6MThtZmNMcTAtbzVDSTdsVjM2X2Raemd4aHI0Y3RIdnhWWENMb3FhcFRqOHg5eFlaVC1CNFFyR05hUmVJNnV5Z3RhcTFHN1JCZTJLcVQ5VW1teHppZWtmVHN0TnlDRXpnNjV6aWNUQmNJRWp1RFRuRFRzaWpENTRUUXQ0NWVQLVBNeFJSMTR3Ym12SEVwSTl1SDRnT3AyZWdZWnp2NVRTVW5vb0RxLUlNYlZFZkpaenZLTmIxOGdNUmR1SW43OGNjaTNvaWlta0thMDljVEoxRnVjcW00QkxFUjV1em02YUNx?oc=5",
-          "published": "Sun, 16 Aug 2026 12:38:39 GMT"
-        },
-        {
-          "title": "جلطة دماغية تُفقد فلسطينياً القدرة على النطق والحركة - صحيفة الخليج",
-          "publisher": "صحيفة الخليج",
-          "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxOakd6ZmFyS1dnS29oWm1vYjBYNmprWE1fUWJtNnd1VldtaUdhVXZTWjlDRFlQVWZKTmEzRUMtTVRPeGw1ZUR1STJfUjQ5WW5KMzVFcUJYRDhSLUMwdW5NaW0teXdoVDNsM05tTl9LTTJ1SGJ2bEhKc1RNckUybk94aHFmQmRiejRPZWgwa0o4QlVSR1dSdU8xRjhsd1F6UnRncENfVmtQSmUwQ1F3N2FjRjByNjYtNGhXUjBDNm80ajljTHpYT3R1ME5iX3NaMFZkbnBXQWl6QXZGSFp5VVJaQ0tSM1VGTURaRzF2djBQQmVGMTN3NTVfV1prNlJqS0hPRVVlNG1fZmNKREE0TnFFMTU1R0gyekhXSVFkV1dPSmo0UW5JUTYwZHVoRmVnTTBGNWpDVHV1NkJoXzZvNllfV0lnQUo2RWJCa05LdXdDSHVfWFdBT0NHUGNkbVF3Z1Y5T2VNaG80M2I1SVRpYjRpVG5Ya3hBR1o0Z0NWRXBKYzVvX3FZYlBNSVlSbEtMaHpGdnFrVW1fRDE3Ti1FVGdNOGdsQUlfbG5DR3F2YkVLNVpLSEtVTXp3MHJlX1JFWkRldTFmSTl5UlN0TVdzQ3ZvQ0xtWmh1VkF5VGhWVXl1T2dSR2U1VWNSUk9lSW1WeXRYWExTcjRjRFhmTlhqWnp4S1hUUFBjZ2c5cWVzRFZhLW1NQjl0RFNiUW1HLU9CcUFSS3lCaXpSNTlhUjgzZG02UFV2Y21RdWlCNHlhSFpJTWxlQQ?oc=5",
-          "published": "Sun, 16 Aug 2026 20:56:38 GMT"
-        },
-        {
-          "title": "ضبط ومصادرة 21 قرقوراً مخالفاً في بحر دبا الفجيرة - البيان",
-          "publisher": "البيان",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRUtkaVBPbXZpZ0JFWWF3RXBOSHc4WXRCR2lMajV3TC1Qc1JVVUxLVGxxVEVfVkRwTDFMUlpZVVFWVFF5aTdrMW80QkFGR2RsTEUtM0MweXZDZDjSAWBBVV95cUxQR0l3bHNzSmNDdzJaZ3FsNXFOUENXTzdTbUFsaWRNTjE1aDhMTFA5VGZ4Rm1DcU9Pb3NWV0NDYnExN0dxa3NxZTRFRXB6UjNTQ05NVVJOblpLNktKR3RyQ2w?oc=5",
-          "published": "Sun, 16 Aug 2026 20:21:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "لا بوادر انفراج.. ورهان أمريكي على خنق اقتصاد إيران - البيان",
-          "publisher": "البيان",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82R3puNXZUNEZ0MXFTb0M0Wm5Pb2tqV2xuT3EwelNCMjFRS0J4N0R0VFVVdFBPSGQ5S21uSE5xMUJTejl5WDc4STlfSUhlQ0ZhdEhTUWxCMXNMaXhlLWZfc1JR0gFnQVVfeXFMT2YxZTFLU1JPVWZYa0RYSWlUTnVjTkt1MGdzXzYzSHJibDJxVTItVEpnLWlpYXgwUVVpY0stZ0VoS2Jfc3cyNXVLUVpvd2RZR0o3S1gwZUNiYjNiTU80VlRvYkpVV1ZPOA?oc=5",
-          "published": "Sun, 16 Aug 2026 20:38:00 GMT"
-        },
-        {
-          "title": "إيران: مضيق هرمز ورقة ضغط لإنهاء الحرب مع أميركا - العربية",
-          "publisher": "العربية",
-          "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQSDZIVHlDdmRTMDFtQmtBVE9TSGV5dlRLWldNd1JYSTB0cUFJekoxZFBqMVkzaWFCa2pDTTNXRlpOamNDT0ZZejNKZ3RXUm5RcG5nWTBlTThaNkJvQXZqY3d3dGc3TERFb1FFVlZzaXh4OWlLOVdJMFk1MUVXek5WUkViMlJlMkg5ZFBBb21QSkpoaGxaT0hGYThQU1pxVEhjZ1dOSHZ3amtEajBST0FHXzJYd1FmZnVKcWRzWVVfMWdneUI5UnhMYnRoT29yWVROREdRS0Z2cS1zMDhPTFBESU9peXBBWnRIdEx6SEFmTndWMXJ5WkhlYk1scVltNEx0SjY4b25za0JwZlY3QWFQdkw0S29nUVVxZTItSUJDbW03X2hNZHNMc0JOTGtUWWN0bEhQWUlWWHZlcVFWbTZHNEZaZEpBcWlhWDBBSGN4N09XUmRuTHViMW91OEVZd2lQZ3N2SzFtQlAzOS16THZXVHRDVGRENlVIdXlDdHBWcDRZVUVPRW92NTZybDlWU0dVXzQtMlF3QdIBnANBVV95cUxQMnVZcG0teEZNZTk5aFctNkpIN0VsZHZlZU5od3g1NzlBM0piMUlCNC0wNHVqWDFzamFrd1hCYVJJZWZBdVVaVG1jaUsxOXdkU0pPeXJjUmJTbzVDdUxDVUVaaTU2d1kxd2NPam1pazBRMncxVHdRU0JKbkN4M0VaQU5BT1pNU20xM245SFVGUjJuU09QNUZYaHg1Y3ozd0tCN1A5dEFsQ3hPYi1ISHhGTHVqLXhVcEk1SHlCZ1N1LVU1aWN3WkNlWmhpc29vRUhMN2xyVDhSdFBoZ2JQalpzaDYxQUYxQ09nX2VBX09PMmV2Z0hwV0NQTWN5U2VtVm5uM293Z29HRXhfOUtua1BCMXhtNDZQSW1OcXRQSUFTeEVjYWFDRFloMFJHajVCTVNGSEJESkVOc3VDbVpXYVVHQjA1UEdPYUtRMWJZQ2NJWEN4eGxNTk85clRmcHptWmM5VTg4Y0JFZ2tMdF9mOHNGOUVuQnNOdmJINGV3UGMxdm9mM3FqMEo0ZG5DS3BPMG1vNUdoNV9HWnhLeGhO?oc=5",
-          "published": "Sun, 16 Aug 2026 17:31:00 GMT"
-        },
-        {
-          "title": "سماع دوي انفجارات في كييف عقب تحذير من هجوم باليستي - اندبندنت عربية",
-          "publisher": "اندبندنت عربية",
-          "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQNWNtY21VWm1kWkVPd3J6c09BcHBpWktFVEppZkFyTkN3bF9QMWFleWJ6M0tsdlllam9rMFo3RFJKcEh2R1U1c2t6N1VXSXlPYmVqWUdtTWVoTU8wVlF4NVpTd2o1WnRuajVOaV9ONGRYWE13Um56NlRyXzhoZExOa2s0YkhMeUlzd1BzbzJwX2IyZmpoVzVOSnpjb2hTdXdRV3o3NlZYUmxwVDgtUE9jdkVEMWlvZFhiTVlEeDNoenFoN0lLaWVSRVBIZkY0eWlRSHYxLUlVNE1SelNFVFBSRU5sdFRFdEZhaHBtLWljWjdFNDY1LWM5YUcyR1RBVTlhMmQ0WkN1WHd6VzNkeWp4Q1VyNkQ5enVlbVBBMzJMaTAtWWlLdEFWYlVRbnJmMFJCbmtwcFM1QWJ5UHlnU1JEN0R4eGlQZFdvVWVEXzI5S0hnY3BnNS1CT19oUklzbi1sOVZWOEw5dURwWFQwdjYyVVBDbnRobEM2ZnhNYkVPM0ZEcnN2cW94ajV1dDlFV3ExcmJXZXdoV0FPeERIZDlFRkVBeE5qa3VmS0hkVWNUa2dyc09rZ2Z4Tl9EOGVmYkoydkhueVBtamZJNFlYOF9lcDB1UEREMXBWQmRNTnNuYU5yRnJSdXJWaDFrcTlVQ1k?oc=5",
-          "published": "Sun, 16 Aug 2026 01:25:16 GMT"
-        },
-        {
-          "title": "صراع أوكرانيا وروسيا يشتد.. وابل مسيّرات وصواريخ - البيان",
-          "publisher": "البيان",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55TkFEV2tONXNfZXJaNkhBOWlSN2UzVHZpR3BXSVlBdWhORkRkck9fdU1oVmpmOWZndW80cklBQmczYjQxYzFBc2Q4UdIBUEFVX3lxTE1KUUtwVmRwVEhWMFN2SGd6M0pzSE95THF6bHMxZF9raGszZzNuWEQ2U29aelEyVEQ0Qk4tdUhLOGg0WGI4NktIUG1UNG1CdWhB?oc=5",
-          "published": "Sun, 16 Aug 2026 18:14:00 GMT"
-        },
-        {
-          "title": "قائد \"سنتكوم\": حاملة الطائرات لينكولن تسجل أدنى حالات الصحة النفسية بالبحرية - الإمارات اليوم",
-          "publisher": "الإمارات اليوم",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wWFUtOXMxX0RWbVBXWi0wRFN2di1JLU8yRl9uRmpibWZWTHVUWE45akRGVGRYZUxOajAwTEYwVzV4eVRrTjFzV3lsXy1hU3NoSUR6a3QyM3dlRGQzNktRcFBGUDlfYmttbVUtM3E2YlLSAYsBQVVfeXFMTXpmSWFKdHQ0X2QxS19jemRoanZ1c0wzczNMVWpGaktHRGxObWN0bUtRcXhSR0xGdWVDRDBCQjhiTW10SEZXVk5OQThhYkpmelJtcHpHNmpFeDVmeHNMSWVaeGJIUEZseFFYSEk0THltMjQ0VS1rNGVuSU9kNVpuS0l4SV9Vbl92MEptSQ?oc=5",
-          "published": "Sun, 16 Aug 2026 19:15:07 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "الهند تستعد لزيادة كبيرة في إنتاج غاز البترول المسال - البيان",
-          "publisher": "البيان",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83NjU2VHNwNzU5MDdCVjBVMDhVVHFhVHZHOFh5dnBEZkpOU1ZXdVlCRHc3RDEzNWloVzhhcTBLV2NEazA4am9MSG0yNnpmTVE2dWhZR3llVlZFdkozVzdjYXVsUHplbkdJV0xhTVBB0gFzQVVfeXFMTlE1SXRCaExXcXFIamhkTkp0Q2hMbTVQSkJZdDk2OTFWcmN2QlBJWmRQTkVpQXRnQ2FDb0xudlJuN2owNnRDWmQxQXF4cWhZUXNzcFlhdFFzZ1NLQm8zSktWT3g3Z3ZUZWhsMXZtTEZpNU1SVQ?oc=5",
-          "published": "Sun, 16 Aug 2026 10:29:00 GMT"
-        },
-        {
-          "title": "تراجع أرباح قطاع البنوك والخدمات المالية القطري إلى 15.1 مليار ريال بالنصف الأول - معلومات مباشر",
-          "publisher": "معلومات مباشر",
-          "url": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxOOXJYbmRjVUJPOFoydVRiSEtHaUdaQkpib1FseHFPam1NYTFDSlVSUHdkTUhTcTRNSXFHQnVNdDNWUmRkcnhsWFlFWHUzeGNTSW4wMENUTFlZa2NLMTFuQTJLVUFZLVA2NF9rUjNCbmJBTHEwbEJ6RGhPNVA0MW5jY3FiNlpOQmg3VF8yVVlnN3c5OU1hdEYtWGFsZ3dkcGZYS0g0THZkRnVZdTFjb2NNajhYSlBfT0hOa1dLVkVWMmhmZElscTdZZHA3UmN6VWhfLVNlT3NfRnVMdnRZZGd6aURxWjFrZkd5eWtlc3k2YUxjMHZ2Y0xyWjg1bEVON2VFWGt6Q3c4dlQyTkJ3cEtrSzNwUTFSTkNXYjg4SUJGcDNqS1A3N0pkWXQ3VWRXT2E0SmhIaWgwR3RIbloyd2xhblMtdmpnVE9YVVRnY3pqME9lSzdmczdydGd2QVI4aEUtb0tnNU9WNldJZkdMRF8xWGR3T0lUZEl4MUJGaDNnNGctRU9RNHlHUXBXQ0FIZENTMFUzNTNaOW5HS0VmaHpfWEd2M19VMDdqZUl3cEV2ajUwWmcxVGVaTjRXenhUVURkX01Sa2ZuVldTc1NfdUNseGdZUEM2WWowLWdCTFhuSkNhSldad2JjNEtSc2dCTnpFemV1dTRKaVQzN0ZSQmlFMEJBSjVIWEdia2RpRG1ISmQ2a2I5MEx1Ulg5UTNGRVBTbG8yUk5rU3FjLUFlMi16R1NLd0tGc05oRmM0NHJSNERBWW95UUdzdXlrQUxNR05kYW9pMTRVbGFVYVB0ck1mbXJmMHp6MHc?oc=5",
-          "published": "Sun, 16 Aug 2026 14:01:38 GMT"
-        },
-        {
-          "title": "ردود فعل أسعار الأسهم تنفصل عن نتائج موسم أرباح الربع الثاني التاريخي - Investing.com",
-          "publisher": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RcU5seFdCTnlEUVhPYk1OVWJGRTkzYmNNWVhHTmdHY0JKcS1hbGZYS2RvVV9xbWtBOFdkQUtIYW9pVWJmNEJ0czRtYlM4WTR5eklZNkFMWHBtb2V4NGwwMVdSTVVxTUNSUEo3VGZCLTE?oc=5",
-          "published": "Sun, 16 Aug 2026 15:28:00 GMT"
-        },
-        {
-          "title": "الإمارات تستعد لثورة الذكاء الاصطناعي.. هندسة جديدة للكهرباء تسبق تحديات مراكز البيانات - البيان",
-          "publisher": "البيان",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5waGdMeEh5WFBQS1FtSHdSYkFLOUlnQjhzUEJXOHdqUVUzNHVPbmdNVHhKZmVyb2RNMnluc0xuM2YxWnhPTTlNcjJEd3pyUFBCSXVRMnRjZHJPQ2fSAWBBVV95cUxOWHBlY1pxT1JEQ05mZ2xIVXljbk1ESElZODBxX3ZzX0VjdTJENnRJWG5kNE82T1Y3RmxrbnIwLTN4MTIzQlRJZXV0SXUtM1NCdG80RHRlOHpnOGVhUFlkWDk?oc=5",
-          "published": "Sun, 16 Aug 2026 13:54:00 GMT"
-        },
-        {
-          "title": "وول ستريت أمام اختبار الذكاء الاصطناعي: هل يدفع المستثمرون أكثر مما ينبغي؟ - Investing.com",
-          "publisher": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBScDZiT3FJc1p0RXFzb1dpZm9kYjNSdjFuZEJhVEhNWGE4RkFrRlpFZERSS05hY1pxc1l4TFZ1aFpvX1JfQkFkZHB2NXBJR0NzYldHbFFFR1g1SWNwS25GUA?oc=5",
-          "published": "Sun, 16 Aug 2026 21:12:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "أرسنال بطلاً لـ «الدرع الخيرية» بالفوز على السيتي 3-0 - الاتحاد للأخبار",
-          "publisher": "الاتحاد للأخبار",
-          "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQVnZfaExjMHN2aGF0ZHk5LVJRbVE3MmxDSTk1RWtqcjVSQVFNLTdJNTd6Z2RBam5jMGpMd0l0NU1HSjhUeElOeWl0bGd0aDFNaVZkcm9IOGdYYWUwWTBtRE9HWUVGejFrYkk2ZlI1UTZueEViWVlMZVZmemtrUkdRd2dabS1ZbTNsV2cyODNuSkpXQUo2ck45cXdzZ1E0dktFNUF4cEw1Ql8xTngyY3F0SFFXaXJ6STlqdGNHVlZEQVJSclA5cFJQVk5jMXFDenFWUzdkNF9wYmdNX1BWamtURVhoNXlDNFF5cnYzQXhnOXVWOUtUekJpTkNDZEFuQ21uTEtidUpYQWsyVmpKLXFMVk81VTFGVlVZdFFrdk1kT2FCUFFJZUN2eFJwY0l1Ty1lelZ6eGtuYU05aUVOc1R3Qlk2ZHYxazNXUlVad2lKUkVlcGdrNVdqRWY0SnFpOVpKNlZSSFZEbnkwRmZka2dVSU9NZVVMRWxlRVY4a1ZrcEw5WWhHUjd0QWk4ZW9waXc0TGVkU3o0cXd4MmQtX0I0QXItcVlWSlc0QVhacWlHR2EyWXZ1OHVXUFJvQzBDcWwyLTE2bkVfWEk1aV9ncEp6cA?oc=5",
-          "published": "Sun, 16 Aug 2026 16:10:17 GMT"
-        },
-        {
-          "title": "من دون رونالدو.. النصر يستهل الدوري السعودي بفوز كبير على الفتح - alghad.tv",
-          "publisher": "alghad.tv",
-          "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxQX0pka09CMy10MlRZeURvcm5vU0ZaSEVtajdEUnRQVUVqVGYtN29rVEVYRWxQdGhlYVdheDlkbTZVbnoyY0QyLXB2c3ZiRFVZNVFnZ0MwWG1NZXQ3eWxDVEExWEFxQU1XU3RYNzcxcVUzRF93ODE5R3RWZnh0VkFicHdxNFFjZVFRTHlVQjE5bDVRRHY5RDhVRVluVExOQ3VFYTZ1NVd2R2NvY3I2TmdSWmdDQVpzcnhuS2FJS0hIaEFXZnF5WmRuTk54bEVjZkgwN0FqaU14Mi1EYXJ1Vl9Tbm5fWm5WYW1SVUo0bU1zcnZBb3RhWEF2VmMxeWFUajJzSHlJUlcyTVVPNVJqX0JfQ2lKbFZZakJyeFJzOU9nZkU3SHh3ak5zb1UzY1ZlZlR5a3dTemNvLWN6NVBPVDFMcmNlV2QxWkpQSVBTQkNMZ2tXSWJhOTlqM3YwZFlLUUs0b0NGczZUUEdneTNlRDlaZWM4dTAyOFpUbHdYcHpIN3p6aXF0NDloXzdXWFotN3FXVk9EUVFfXzRMZTBQckhDZnpOWTllU0xoaldZRk1VeFBlMXlTa1ZxcHdoWll5bjdjQnBYdzd6OFplSllCS2VvSDRnSjROMUtjRnpfR25namRHbW14TVVpU1psUll6Rmo5YWJHbVBaQmZ0Tno2Yzk0dVdQRE10ZE5ydVZJZXdxNlUxU0tkU2ZPZmVYbkphbTRqdmJTVXh4Y0JNSDA3RW93aw?oc=5",
-          "published": "Sun, 16 Aug 2026 12:11:51 GMT"
-        },
-        {
-          "title": "احتفال جنوني.. جماهير الإفريقي تقتحم الملعب بعد هدف تادوس نكانغ (فيديو) - إرم نيوز",
-          "publisher": "إرم نيوز",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BbzRHX2xGQ1hCdVFFX2RoT2dUZFNkaEJBSkJvcTd4S1JzbVFPaU5hQi1PZkx0NFZkak8zU09BcVlDWXEtakZNaWxqZTZLQjVL?oc=5",
-          "published": "Sun, 16 Aug 2026 21:24:06 GMT"
-        },
-        {
-          "title": "ريال مدريد يهزم شالكه بثلاثية استعداداً للدوري الإسباني - العربية",
-          "publisher": "العربية",
-          "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNdUFtOXJZOVFESWdKeTdWZVVUVFpWTnJfX2JkdFYwRW16YTM4OFZWMVVRWlBOVHY0b29lTlpjTnc4dVVqYWNtcW40aVpCOFhoN2NabE5xUW1lLUI2X3RYX1lrUHhWczg1NUpGZkJQWlN1bmx3N0VJWG1lRllCRDJsZ3EwMnRaUkEzYW5QXzdIZDFfQ1lDeklaY2xnWmg3Ymx6S2xqaXQtLXc2cDZ5NW5sQXhCdkRwVVpsTUpKN20teU0xbE5jR3pqX2wyUkpEQzhPdzRfZ092UXg2MHN6bFNwc184VlkwR2ZJZFVhRkRKbWZfTTNuUkVNSXBVQ01sU3Y0Vm1NUkhDa0VhRk5zalg1QmFVX041VW1hYV80VDFSalJXV2l5S1d6bkNhUnNmcGJIa05pYjdPQWRFWDM2aDgydTdwVkhNXzBrdDhIUDFlLXhSX0E0YTFDODZVTDFydFF6VkRTSHhmSkUzd2NjWXZHNzJNdmJqZXh5ZjVQWDhheUVobHJONFpjeVJGWGplcjVFekNNU2t4Y2l1MGNUQXY2cExnVHdPU0F2NV9jZnoybUxzZkY2THFkMEZ5bXlOQVowYmIybkZKcGF6Y05TeEJiZmgxUHBnMk3SAdwDQVVfeXFMUGZrZTBwcjB1V3J5dHFxNzdTcEltbmJtOG9GWU5zWFZOTTNJTDY5cFJybjJkUXh2dzlPVWFYOGZVUjZNUTZyS0xyWHFRQTU5cWJaQU1hN1NhV3J6QzFKUFRiTENpQUVoWmk3dEhDN1RkOGZCRkwydmhYeURRMWxJd2lveGd6UEdnNWJ5dHBXM25tdlItdzV5TVpsNG5Xck9raTNybUZkY2JlM09tVUFmRFh2U25ZREFRR2dvaUc5ajlHaDNsTGJ0eG5xY3dpMXI3QzI0Z1VwemlBV2E3d29xTEJrSnU1M3dJeGkwSmUzYS1Nc212X0FDLUZBd1VjV0tsNElGMGFxeDZCS21RdHRRdmpQYjRScFJ2ZVFieWpoNk1raU9RSWN0Z1BhV2M2Slg4UlRwb2tCTlFvRzBpRTBJZ1ktdVlqbmJHZHNDMEdWSFJWTmJkam1aU1h3NW5rS2lEZG5qZzNrWURBNGVKMExScUwzd3RyTHZjMlg3YkhqdE04M08wR2N1Yjk4VDkyUW1CaTZyVHRQbERrOTF1ZDkxaUozQ2FuaG5HdDlyd29ZRWtaeXZTQ09SUjQ5N2ZuWXZadmJSdFl0b2tfcTlUNE9PM3cyYk44aUxQMnFOajk?oc=5",
-          "published": "Sun, 16 Aug 2026 19:07:00 GMT"
-        },
-        {
-          "title": "ابنة رونالدو ترفع وشاحاً في المدرجات يحمل هذه الكلمات - CNN Arabic",
-          "publisher": "CNN Arabic",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUTZjSHV3SmhUcHZ5MWU4M0EzU0s3ckRSYVR0V3NCR1E4OGl1el9zUEtLVENUM0RCcUJpOXpJMjNDWGtRSUVoZHF4dExSa1dKRUFScEZTQW1ZM3hZeXZsbHptTjFweDR3MEtzclNyRzU2c09BSzVEQ2VNRWo4OEVSd2RhSdIBjgFBVV95cUxNWF9LTlJXWHZnU0UzcDlaRnRNUWhOeE0tcFVnZ3JaOExzc0NObVlVSWEzemdRMThQOEo1ek9ueFk5NE9sTTRQOVFJaW1vcGlkWDkwc3VjSVZ3dzZNVXpsdloxUVg4S2FJRTZEZWZ6Mk5samJNOXJ0NjA0eVVjaUJkdGxCZDNqNXE3LXdpLXFB?oc=5",
-          "published": "Sun, 16 Aug 2026 10:06:08 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "سوق الشعبية الوهمية.. 58 ألف عملية شراء لمتابعين مزيفين - البيان",
-          "publisher": "البيان",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43VzU0dGVfQXZrZ3VTWC1GdmFDUzB3Mmw1T1BRVEtOX1NPa1hvVmtVS0w3M2RyeDU5cVg4NHlMQ3NqNWdneVRNTmhVT0U2b010bGtyR1FvVjh1SFJnb0IzTVRsQklNWjAzTTZra9IBckFVX3lxTE1pSU1wMHFyeVltb0FFYXFYRVFlUDZvMWhDZm1ZSjZkYzV5WXBOSFEwT0ZQSkFsZ0dHNU1oTmlEYnMxMG9qRTN2ZFFhTEJTRVhPTHRaVWc0MEdEYmVhWGkzbllDbzN2emdzbklTZTRKeV80Zw?oc=5",
-          "published": "Sun, 16 Aug 2026 07:02:00 GMT"
-        },
-        {
-          "title": "400 مليون كمبيوتر في خطر.. ماذا سيحدث لهذه الأجهزة؟ - البيان",
-          "publisher": "البيان",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NUFRfb3FKT2NBYkNYMkg1UmZEY3JQVWZJanU5OE43X2IwRW1qei0wVEU0YkxwVjhnT3NzMG1fS3ZfUzRNUFdOdmpWd21UdHZzbW5xRnRBX3JtV3NIanByV3RfU2NKNy1aQ0NJSNIBckFVX3lxTE85dDhaUHFyQ193Yl9RSXljd2lzalNFeE14WG1JTUg1d0FQaHBEdWJCd0ZNWUx3RlVzNmotMWJjTXNNdnJ1S0NjaWhWZEpXcUtpMVdQN0ZpTXJzT2VkRl9GWkVtTUU2Y1pkU1h6YTFyN1ZaUQ?oc=5",
-          "published": "Sun, 16 Aug 2026 06:46:00 GMT"
-        },
-        {
-          "title": "قناة أمريكية تبث محتوى الذكاء الاصطناعي 24 ساعة - البيان",
-          "publisher": "البيان",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZl9fekRIQTBOdlpsdl9tT1hPWGV5ZmtKRVJNazlVT0MtdzhibFdWLVZEclhiNEd1T2tIWUFHQXVOZnAzX0N6ZlpwdFJ5LVp4THpvMDIzUWc0d3NybTU3ZVZCcGlEeFlnNzdOSU1ocDk3S1RtRERYSmtlYVBmSWJJdDg3WnZYMjd3ODUweNIBkgFBVV95cUxQMnVQZXZYNFVGMGlKWWlzcFljZkdFV0FmZUlKZWE2Q3B4T1E0OGxPZmFENFRYWEUwZXkxTENRbDJSMDAyLWQ3a3R6OHQtNWY1S1owNG1jVG4xd09wcTk1V05EUUtVMV9Nd0JJeElLNHltMVpsX2lhRWR3QjhqMmVUeGVCTVBOcmFZbDc2S2FCRWhtZw?oc=5",
-          "published": "Sun, 16 Aug 2026 10:17:00 GMT"
-        },
-        {
-          "title": "صدفة غيّرت عالم الصور.. الحكاية المذهلة لبداية «فوتوشوب» - البيان",
-          "publisher": "البيان",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIYVloeGhhSmNYWWlLaW9vQjk3YzJNVjhxWVBYLWNWeDRxaXpUal8xM2N3eHo1dFJDNnlGVV9Oem5tY2dzZlIyemNSbGlDVjlJT1Q0dWdnWVNteG1URjl1TGwydmZNemlkSnNhMdIBckFVX3lxTFAwZFdFN0hUMm5fNm5obFVFb1FYRUMtakpLUndZeFc5T3dzeHFyNjZ0OU9KXy1nQUJaRTQ3T0lGV1hjU1ppeHc2Qm1sdnUwWWNkanllNFQ5QjJEYml4cnlJemF4NGM4WUVyM1FyN3FxamJWdw?oc=5",
-          "published": "Sun, 16 Aug 2026 05:27:00 GMT"
-        },
-        {
-          "title": "تسريب يكشف واجهة المستخدم \"One UI 9.5\" الجديدة من سامسونج - الإمارات اليوم",
-          "publisher": "الإمارات اليوم",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fOXJDN0NhMllZVXc4NDBwZktKSzBtNDVkZ25ndng3dUNtMW8zeGpwT0Y2cl90VFpjbnRLNURyMEo5RGVDZGFwWE5ncmh3cVhkZ2U0ZDZTUTh0cFFtd0FBWEdkRHhpWkJpRGtMUNIBhwFBVV95cUxNMEJ0WWJKTVdjTUlQa010a3pCbkxVMTlXZGlIOEsxcVppUEJiU0RneW1DSFFPeEp0cXRaVXNtT04tNjI0ejNJRVBBOFk3eXpCc28xa0xpYVhFZU9rT3pJcVBBUVhDU0hxSXo4dTB0bVVuMldIeXc5djJFaUhvb21DT2FpZ1BwYms?oc=5",
-          "published": "Sun, 16 Aug 2026 10:05:08 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

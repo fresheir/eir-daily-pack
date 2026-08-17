@@ -1,248 +1,43 @@
 {
   "market": "BG",
-  "generatedAt": "2026-08-16T22:19:31.125132Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T23:25:30.521757Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "БНТ с ексклузивни кадри от акцията в Пловдив: Групата се е събирала, за да споделя забранена идеология - БНТ Новини",
-          "publisher": "БНТ Новини",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOODFCOXF1bWlib3ZtMHdrYVJZOFh1RVg2anVpdm9rRHRoUk1uX0RpMHN3UTJVakpDdkxSaXQ2elZBV1ZxQzc1endkT2FSam5NWXd5Wjg0bEJieWZYV0QzR2lpcmxSLVJzeXdjZDQ5YktGY0REYXVHSzdnRG93UW1GOGdUOHFPa3hGRVlIY0lrbklrVnpTendTb0tGT3Bzc3F3LVQ0eXhscEpCYi02a2d5WmdTcVYzT1FKNGxGNUprMmREODYxaEtsc0U3YWZSbkpBN3lJQ3YxX2JaVWRx?oc=5",
-          "published": "Sun, 16 Aug 2026 09:00:00 GMT"
-        },
-        {
-          "title": "Натоварен трафик по АМ \"Тракия\", шофьори се оплакват, че пътуването е изморително - Dnes.bg",
-          "publisher": "Dnes.bg",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNkY0QWx2eHdyQ3IyNDlzRkE2Z29IdXBwQU5OMXV6ZXN2TGRMbVNyYW5aSzgza0xXaVJGSWlBcWgzWEVMVkVOZms3VXl6ZERuRVVsUllTdTFqMHMxbHgtNkFOQ1JabV9rd25CUE85M1I5TkpoUjYxRlNyWkR0dERhQTZkSk1TSV9BblFHRl8tYk1OUS15ODZXckE0WlVBck9aSHpRQXpobmZQUE1XRmpVcDNlUmJxcF81cjE1ZQ?oc=5",
-          "published": "Sun, 16 Aug 2026 18:15:00 GMT"
-        },
-        {
-          "title": "Румен Драганов: 400 000 души пристигат за \"Евровизия\". Предложихме Бургас, София нямаше да може да ги побере - bTV Новините",
-          "publisher": "bTV Новините",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQWdoX0JncnkyZFlyN09hdm9Na04zaWltQV9zc0wxaXhZRTl4REdkQkNTS282T1dxQ2VJMjlZMWp2TVZhMFJtWVkyVWl2Z0w5dUV2aHBxMG5FUmZ3bkJLWVNLMjAzRF9lMEFEcFV5RUFvdWI2Zlk1b2RJNWw0RDZYYmh6b3EwWV9vc015SWFnMkY1eWE2eU5FWXZHYktPNERrV1NGOGdFLTQzVDEwbnNaYUx2a3JJTTQyaEk1LWwwb0NpR0RfZG5FR1ZtSEtjN0FvOEFmcURsV25jX0ZSVVR6UDQzZ1ktVUJJVVFlc05MQjVzenFVeHJTODhvaXNzdTY2?oc=5",
-          "published": "Sun, 16 Aug 2026 09:34:00 GMT"
-        },
-        {
-          "title": "Оценката на ГЕРБ за 100-те дни управление: \"Радев вече няма алиби\" - Dnevnik.bg",
-          "publisher": "Dnevnik.bg",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRk5IZGJJdTZhWEo4bG1pNXJxMlpfTkNQejJhR2RsNVlqZ2gwZEp6M2QzSmJSV1VZcFRTNUNLZklaVkNXMEZFenNRcWgxY0stT2FxV0ZWOHdqdFpHS2JEamVsdklmTnU0ZXhYaGZXcDVWUV9nYW05cXRTamIzUzRlSV9hVmpXbGg5QmxSeDB2ZFZTOVZQRUZCczV5bm1sVlUyYnVkamdOQkY?oc=5",
-          "published": "Sun, 16 Aug 2026 10:27:00 GMT"
-        },
-        {
-          "title": "Заради ниското ниво на Дунав: АЕЦ „Козлодуй“ предприема допълнителни мерки - DarikNews.bg",
-          "publisher": "DarikNews.bg",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmUyRV9RdWI4bG41eUF6OTJEX1ljMW14WGpNYjJQUkpjV1I1d21PVHh6eDJJS0FleGNoU0NiTjRTVWo0bkpFVHdSbWotVFhSMU1FVGlrd0NTOVVzTVkzcm02TjB4bmQyMWJSU3VXY2J5VXQ0aWNtMmo1RjRVTF9NS2ZZT2NsWjlDUnd3aFZ5ejRJWGpjdHM0TmJBbjVHOEVaX0JEQlRtaWxMNUFmVllSdHFWMHA?oc=5",
-          "published": "Sun, 16 Aug 2026 15:48:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "\"По-скоро бих умрял\": останалите в Сеута мигранти излязоха на протест - Dnevnik.bg",
-          "publisher": "Dnevnik.bg",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWdPUHRVaGg0bVF6d3JIME5pVFBpakZwek1uYXZKZGNibmVpc0k1eWZLYndlcTFKMmNTY3NGdmZzOWxWT09FWG9zSmtCaVlfSGt0dDJWTG9NUVJCOGVwVHhrb242ekdmRlNQZVFKdi1YWVBFcmNEOXBaMTJha3FmZW5FYUZTamtHZ0c0ZTlHZXY2dldvTXdDRXYxTXZIc2VWNWNOQnNB?oc=5",
-          "published": "Sun, 16 Aug 2026 17:08:00 GMT"
-        },
-        {
-          "title": "Провежда се евакуация по море: Два големи пожара бушуват на остров Саламина в Гърция, има загинали - ФОКУС",
-          "publisher": "ФОКУС",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa2lTQ2U1RzRWUG1Cckg5SnRaMzl4TWUxTzh2U21sVUpVVnJic3RyVUppYm1xSC1zMGU0bXpQSF9BQTBpdkVJM01NVGllMUpva1FiaGxWd19tNF9CTzIydUpNbm9JZHN4MVVzNDVGdXZiR2dUR3ZfQnlqSy1laEhkZlo0Vjl3RnRJMTV5OXJsUzZHOURmOThUS01sQ2UxOVlyYzJxRXdJbWZzSWx6Z01fMndiWlROOEYxdGp1Nk9sMHV1c2lOU0FlUnBfZFhVWlQ0aGZybGNVdUg3TUd0NWMzVXVzNnZ3ckRlS2VETQ?oc=5",
-          "published": "Sun, 16 Aug 2026 14:29:38 GMT"
-        },
-        {
-          "title": "Испански изтребител свали дрон, навлязъл във въздушното пространство на Румъния - nova.bg",
-          "publisher": "nova.bg",
-          "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxPQWhwYnhZYjdrbHI3Nmo3NXdKTUtiNktoOWNoUmcwQVZFZEZheVdpNGdfamFDbWk4Q3k3dThxX3dxQ0JEUzZLQk9sWnFTQU1vZ1FOYUgyd2tSUTRHZ1BxNG05Y2U3aWhEV29EY3lFd1dSRjRnSHJBN3F4NE5VRWQtZ3ZDZnEydDhjMEtDRllZNkZmOVhMQXdxSTI2Ui1xWV9sMEV0XzFTUEQxeVlfMXdNamR5dGZuLW9kb2ZKZXkycHB4MVc1UTBHMTN0Um41akd5cm5SSmhUQXQ5NVpQLVNRT25hOUZ6TlBzUkZ0TUVjSlVKNEYxXzNSR3hZdl9DU1lkN1l0NzRpX1dnSkhuV0VsU1hrdVc4dExCTTdWeUNUalUwenBacTF4YU4xc0I1cWRaNkFYcHM5bFE1N2FuTWc2RVJSemxHeWxzNS1tbFE5MGc1cGV2T0FnU25USHhSSlUwUHBuLUhOX2MzYXlUSlMxV1hkQ1dFekh2VFM4azBIU0pERzRDbVRQajJqVFVJdzBhTGlBQi1OSWQ3Z1Q5czhTYm5vak1wdjlHQW95SFp0eThIbTB4V3NTZHdXcU92V0lHNS1SUEtjWjBuX0swQlI0YWdsRTEtUzY3Zjh4emJXbGViLWNTYlVCR0JpSENZa1Bqb1FEcVB6b2s5dW1oOEg0akJ3RUZydGFnZkd2X0x6WDEwRnJGYTZTQUkwU1NOVzhOR0JldzRaTnZaS21RQnFqdVRydHpHMmVYQkVLZEtITUdVZUtXdXRZdEFNQXMxWk54TkwtcjFuWUljUlVsdFI4SjRZOUtka0xnZkR0bndCMTVhcHhUTzhoODJlYkdlTnpLSkt5TG0yOEo5Y09R?oc=5",
-          "published": "Sun, 16 Aug 2026 04:32:24 GMT"
-        },
-        {
-          "title": "\"Ормузкият проток не може да се превземе с туитове\": Иран отговори на заплахите на Тръмп - ФОКУС",
-          "publisher": "ФОКУС",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSE1vcXZtdlZtaXdnZXZnT1I4WlVVTXJBYnY5Qm5tME04aWtKTGljQkVwUUlRODZjMFBKSTNWcEhCZENJME53TjZYRHdOdm9BaVdBVlVfUG5GbzBlY0dtMDlXM1o0ZHBPYk5ibHBMcURCYlhLakVhMEVTejhpSkZjVmhjcXI5VTIwOXdYWDhVUU1hNURvRFVBNjl1amRhQWk3SDM3d3R4YksxQzI4d0FKMGdRWThFTEVfU2p2WnhySGpWWFE5M3hIUlJLbkdFR1RDenFWVmFvdU5KZw?oc=5",
-          "published": "Sat, 15 Aug 2026 13:45:57 GMT"
-        },
-        {
-          "title": "Киев под обстрел: \"Зимата вероятно ще е още по-страшна\" - DW.com",
-          "publisher": "DW.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUZqTHVSd05QU2tTdjgwRnpzeEc3ZUFpUEFjWVZPb1cyaVZCN1JkelpvTllkR0FWY3V5VUU4My1PWV9nbjl4VmJ2b04xeGIxa2thWXBRZmlFaXBCQ1N1UC16U1dqYU5vaWMtaFBWenNXdW1KU3BDM1hSMFA2blhhSmtSTDdxb1BxbkRmWNIBjAFBVV95cUxPaG93U2U0VzFkdGVXckhWN2hVeFlPOWhjV1hoNWV5NndXQWNsQkl5Y25MN0hlVEtjQWVfXzlaSXNCUFdaLVNidzFfTUo0UFFmdll1RmkzMGQ3RXA1dlJXV0FTQjJ0MXlVeWJRc21oQm1xUVB4bVN5dU44RDc0aHIwMTlJaHlIMzNvS2pDNw?oc=5",
-          "published": "Sun, 16 Aug 2026 08:23:42 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Винс Гайдарджиев от Alcatraz привлече 10 млн. долара за нова компания - Капитал",
-          "publisher": "Капитал",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPem90WHl6UGtYdGR0elpaVUNpLWdlRnY0ejhMbWJ0VHNrTEJEaHpibkJ6Y3VYNjJadjVkWldrS2VOblBIR3Y0NXhYek9pdWFMSGhQTmZVNmwwcHMyZ2xYRHVZdGtWRG5GXzg5N1huMS1weEJ4UUdLSU14NlZTNlo5UTEzMGJMcUZyclg4a1d5YmtOTkdQVXNZSFJVWXVSUE0weHFqRkhwOFctbWVTei13?oc=5",
-          "published": "Sun, 16 Aug 2026 07:30:00 GMT"
-        },
-        {
-          "title": "\"Проклятието на август\". Ще се повтори ли кошмарът за европейските борси, или този път е различно? - Money.bg",
-          "publisher": "Money.bg",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObkVPRUxnOHRYc3d5OXlJczhBSzN2VWNjdlVfVnFpZjJ4N1hVRUpqWE14X3RFclFlN0d5YmxySE5TTjlRcE93aHQyY0dORW5CT0tfNHZsOFZxMU53a1N4TkhIdERjd0V4Y1BZcFhnMnV0bkE2QmJTYVhram8yby1DSHBlRnI4bkpVb09ZY0RKN1Q1bUpkNlpxX2xpNUE4Z1BMZWNQaFFDNHhuUV9nX215QWVQZlNsQldQWUJxVUxTeXJwdmg2OVlr?oc=5",
-          "published": "Sun, 16 Aug 2026 08:25:43 GMT"
-        },
-        {
-          "title": "Евтините електрически коли са по-здрави - 24chasa.bg",
-          "publisher": "24chasa.bg",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqeWFucXBrR2Z2c1RFVVRsMFZ2d044UE5GNnRDTlJBd0FfYTZiRVVnbmZvbXpGc0VpUDh3b1hpNDRIRGFLbmtYVnR6My1uR2JjVnMtVTRCdWVTdw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:37:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Дунав с обрат в Пловдив за първа победа в Първа лига - Dsport.bg",
-          "publisher": "Dsport.bg",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2VXV2V2VwOUo2N2ZhU3RQNmFiQkFxYVJXTW95MHg0ZG84SnFDWk43cnpfQkJtTks5UXdUTmh1Q255MllRdE9TbG9DeWdmZzRMRjNRZGotcXNaa3A5SmprVHhmR3JLTW9WR3ZxT3pjX0o1YVVUZEY5OA?oc=5",
-          "published": "Sun, 16 Aug 2026 20:59:37 GMT"
-        },
-        {
-          "title": "ЦСКА приема Ботев Враца с мисъл за ОФИ - Gong.bg",
-          "publisher": "Gong.bg",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM2RNaTRacW1hRXdTSFBTZ1BzaU1ZNGRwWjNEMktIQzM2LWpyVTA0UVBycjVmX1dPT1NQS0dHVkFvZkdaUHRYNVFHR3NGX2d6cTlSalJROEt2clI0SnNqaVZqdExyYXE0b3dYczZOSnZRazlZMzVJQUZZa0poYXd2enVZZldqcFBrZFRQUg?oc=5",
-          "published": "Sun, 16 Aug 2026 04:19:55 GMT"
-        },
-        {
-          "title": "Официално: АЕК осъществи изходящ трансфер преди гостуването на Левски - Gong.bg",
-          "publisher": "Gong.bg",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNby1OZkhfdkliWXI5STdGTUlUSW5iakdFMzVXelBmZG9uVTJjMTJxU1ZQa2hkR2psSERDb2NBdk5NSl82UnU0QUpBVnp4THlDLURTNG5MNEEzNEl5RGs4VlB5QTNOZnQzczNxQkNaaTdxZVNFXzNkVUlrd0xVeHFFNjZISnJoOFBGSE0tQTN2NFhNWnFCbWtlcGxjS0lNYnpLQ0FxYXVUSEpCeVVoS2hWNnZHaUhWZ3BO?oc=5",
-          "published": "Sun, 16 Aug 2026 04:03:00 GMT"
-        },
-        {
-          "title": "Трансферният удар на Барселона е факт: Манчестър Сити прие офертата за Родри! - Gong.bg",
-          "publisher": "Gong.bg",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjdmSU5OR3BEM0JnT1pEM3dQeGhmMWhIM20yd0VydmE1aUN6N01la0dVOExpRVpkczJ6dW1fZk93VHNmRHB4UXc1N0Mzc3lBbUdRZG5sSi10bFhPanZDNDZHM0FObWFNSzVqOGtielpZUkRsWGpBeXFUdEZxRi04NmVwNmNhQXdKZFBtaWFCd1d6M1JNb1FsSWxuYjAyQzV1R1BEX3ZvQkJfQU1ZTndpWHV0cWZQSDdyQ192OTV6Nkc?oc=5",
-          "published": "Sun, 16 Aug 2026 19:14:01 GMT"
-        },
-        {
-          "title": "Златна Стилияна Николова на световното във Франкфурт - БНТ Новини",
-          "publisher": "БНТ Новини",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWNiTks5dFRYYTdPbGhPWlFXSlhtWVhIVjJKUTNHLWVIWW9fU29yTFJXRE9seFhnc2trbktZbmNyYjl6Qm4tTVhMUzBEQ3ljU0RaYTYzb2puMGtGRFlPRXZYRkRLaDZRZzViaS1neFBLVEZEX25uQkxiTjZhcVQxUVpQSE9MbUtzb3BFMWFuYzlhQ2l2QnlzWVRB?oc=5",
-          "published": "Sun, 16 Aug 2026 13:52:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Times: Киев използва британски дронове за удари в дълбочина на руската територия - ФОКУС",
-          "publisher": "ФОКУС",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObVFabDNCQUlfLXBwdTFKXy01MGpsZXFEc2RmSmY1Ml9WcndZaGg4NkVKZWRLTjhUdjN2TFczSjBOaXBCRXBUa1hiekthMERTUHo0czhyR1FhaXBqNk5POUhiUHJqQ2d1b2dZaU9mUVBLUGtxaXRvd1YtOXNEcUp1NTM5dXp1clB5ZmtEZjZ1bmFKeWNoQXBJVWdZc1ljWTV3Snl1QkduS2Z6VkgzQS1tSmUxajFTSmdyRDAxbW94VDRzNm4tWkVXSzdRZzlDR3NPNnc?oc=5",
-          "published": "Sun, 16 Aug 2026 07:32:02 GMT"
-        },
-        {
-          "title": "20 г. затвор грозят дъщерята на Бил Гейтс - мамила онлайн търговци през модния си стартъп - 24chasa.bg",
-          "publisher": "24chasa.bg",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jSVh1amNQV0ZYR1VsMmFGTVhkSEJkVDNCV2dJZE5CS0d6RDBwVXN2cnZ5akhZVU8yanU5WU1fNDhCallIY1BSUGVPRmdXMWFnZkJXdEpsUndqem5xdWFmWV9MRQ?oc=5",
-          "published": "Sat, 15 Aug 2026 20:00:00 GMT"
-        },
-        {
-          "title": "След атака с БпЛА: Гори химически завод в Ростовска област - ФОКУС",
-          "publisher": "ФОКУС",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjR4OXFyNGVrYm5pNFVqRVVDQWN6VTRTcF9YX1RkUXF2SlhwTGNudXJsMlZraEJxdVA3dUllbjlMM1R3bm9vbUU0ako4VFRrcnYzY0hraDZ4VWt2RFJvRFJvYmVPalZ5UF9zNDh5bU9KUHhpWUZBdUdCOTRZbDRxcHFWT05fU1kzazFUSGhFWm1RTHpRaFdqdUU4dkM5Sl8zNFB2RmVUdUJfY0FVTjBldkZkOA?oc=5",
-          "published": "Sun, 16 Aug 2026 14:57:07 GMT"
-        },
-        {
-          "title": "Парче от военен дрон изплува на плажа в Лозенец (Снимки) - 24chasa.bg",
-          "publisher": "24chasa.bg",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ua3g5UWRVaFFJalp3MWFteXVQLXUtZ3lReW5pZEdYaEM0Ti1jN1l4X285SnJrZWxTVVZ0N1BBaVptUW9fTGdPR2RJWE9QRGJ0SW1pQVJ4VmFsU1pO?oc=5",
-          "published": "Sun, 16 Aug 2026 16:14:54 GMT"
-        },
-        {
-          "title": "Google пусна новия си AI модел – Gemini 3.7 Flash - Forbes Bulgaria",
-          "publisher": "Forbes Bulgaria",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOFA2RkI3UEMtSUU3YjBIZmdTbFVUdTlyX0xjZWdGMlpYeXBLTGZ0SjFyVDdRNUdxSW10MTFzdm5CbVhyY2pIWEQ0OEtPVlRRUFY4dVNGUlgtckVLVHBhSjBrUDJESzQ2QTNDMlV1dmpLUFRZLW9PR09NaFdyMExsUl9LY0pJQWNnbDdjZzhMYkU?oc=5",
-          "published": "Fri, 14 Aug 2026 09:35:11 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

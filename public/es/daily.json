@@ -1,260 +1,43 @@
 {
   "market": "ES",
-  "generatedAt": "2026-08-16T22:18:41.362637Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T22:43:56.991680Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Mónica García condena la expulsión de periodistas de EFE y RTVE de Castillejos (Marruecos) - ABC",
-          "publisher": "ABC",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNllJeG9ITXBtdHFJZUptdGJNU1gySVJrOERuT1ZaQVlKeExYYkpMZnNReVRUcG8zZjQyRmNpZGIwdVhwYzBKMkViVlpTQk9NbVFFa0J2dWJSRXJJVVBfVkpmWDBnTklpUHYwYUt5Vk9PT3cyQ29vUkFVMEhkVmh6NEZ1bXh5ZHE0b1dKakROWnRrTnNyaUdBMEtHU2tSM2FRUF9adU5acUtSVUNn?oc=5",
-          "published": "Sun, 16 Aug 2026 15:01:00 GMT"
-        },
-        {
-          "title": "Muere un militar de la UME en un accidente durante la extinción del incendio de Las Peñas de Riglos (Huesca) - EL PAÍS",
-          "publisher": "EL PAÍS",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQenF3bW1CX2dhbldGTVdIcWJRNDBsZ0VvaDU0VlExMHFRZ29ka2RKa2gzSkJyWGttRmZRc0JRTE9JWXplN3UzNHViUUp6ZlNYcEdtUDNNRzVlSXJDdk1qMWYxODVJVzhmZ3NGOTdWdzh2RVIzUTFsZHlMZG5LbW5MYncwTWlSVnVIc2h5VzgwN01TVmU4ZzBKM20xNW5kNGNCbkV2Xy15Z3JuSVVqSzJPdU1Vc3BhaXpqVm0zYWZiYm94NGc1cnJyZ0tXbTVHNnEwSWtPc18xNjlKTHVUUnNfdUdR0gH2AUFVX3lxTFBHcDR5QlJYNkF4QXl6akRkYlMxbDd6aG5nbDJpZVItUlY4RG8yNUgtZXBQTmxaaHd5cjhqTXMzRDhGb3ZLX2tCZkRnQlRETHVoejBST2cwUVZHVlpNd2NXV2pnMHZEQm5fUzZtMXFHQk5TSEw2Rk9yWjlQaUpGZTA4QmY1cGF1a2kycFdDMXdXSFNwdl9MaGU3SGZqU1dmemtJbnkxMjF3X1B6N3Ezd29Lc1VuV2Q0OHlsS253SlN6Q1R6dU9zRkFDOTFaTzZ4ZmN1dU1ZOUIwTF9pbnItNUE0VlVqSDdMZWNVMGkyVzU1ejFmbVVoQQ?oc=5",
-          "published": "Sun, 16 Aug 2026 18:05:35 GMT"
-        },
-        {
-          "title": "El PP pide la dimisión de Mónica García por el \"colapso sanitario\" en Ceuta: \"Se digna a visitar la ciudad 17 días después de la invasión\" - LaSexta",
-          "publisher": "LaSexta",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdDhZS1NkMGFsWjkyM0pTejJPT1ZNQzlOT3FfRDl1MXhsYVU0dlh0eklKQ3VoUVJvajRxbFpkQVVyVEt4cUdmUUN4dE96aE1nZ3lfN3N6b0p1eTlYVjdkcW12aGFTejJHUW9Gc3NuamU5RkFMNi0tR1FLaS1uTDZ1M1VndExoVWRudFV6UlRMbXpIdEUwWWtJTkJ4TXNhMzZETUs1N09PLUNGcER4YmJCUlM0Mm80dTdYYm1BOWJMRS04ZWdUSjNONUt4cGVjSFNMekNhZEQ0VXF1VmNIeVJDOHpTdEJPVktIVUxHSU9WTkdzejJSWFJFdTBBT1BYdV9sQURzbGxmV0HSAYgCQVVfeXFMTnFjeGZJTFBvcGtwRGZYbmg3ZThnaHJuVDdWRHowekI5VnBlOHdLdEYxRUZJSzNSR2xZOVBEZ0RVQ0t4RWhNb1FReTZSdUxacHpBOUlibTRYMmdBQkh3NjF1MkRzQWZhaGlFZXkxdUF2WVhQa1F3YjhUSF84VlppVWJJdm5nTHR6aHZseFIyeFAxRkdiUlRnMEZtaVd3aTd0LUNqV1hJVWRlUXowdXplRGRPblNDV3RER1BoUnprb040ekVQdmt2blctUXZvWlJsMXNVdGtKb3d6allrbFQyYjdtb3FxQ2lDV3ZvSFZ5ajU0dUVJNGlGWHVNd3M5dVRtV0dwWlpZWFZE?oc=5",
-          "published": "Sun, 16 Aug 2026 15:33:26 GMT"
-        },
-        {
-          "title": "Municipios afectados por el incendio de Riglos piden investigar al Gobierno de Aragón por las obras de la A-132 - elDiario.es",
-          "publisher": "elDiario.es",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYTRUaWd4ODUyblNCMm9qU1JzbGJOOTh4emZ4QnZvUFB0LTJVNFQtanlmVHQ4Z3BCMW44b1BtdlBwUDJkOUxkRmsycFNFMGhQcEZQN292M05RNXpoVFVmOVpreVlfYkhfV3ZZckNaT2Z0VVBtdF93OXpkblpEcmpFcno0cDBYYlhlNC1PME9jOGRqdVpIT3FucmdSU1lGcU1PM0lWaXpMUFVyQkpyUHJwWWJzTDBGb0tHNmptTDdLT0NjTWUzSEozX2NGYjE?oc=5",
-          "published": "Sun, 16 Aug 2026 11:39:21 GMT"
-        },
-        {
-          "title": "Ceuta y Melilla, hoy en directo | Últimas noticias de la crisis migratoria, desaparecidos, situación de los menores y reacciones políticas - elperiodico.com",
-          "publisher": "elperiodico.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYjZLVUVvVWIybVExcmpNMEZ3QzQ3Z0ZTbk1JRkNURVdNbzFBRUYzZmpsQTlsaFU5NDU4UEVXZDdJNGFjSWdCM3VWbGJfODJjU3Z2UVJkVmV5TlZUSkJrN1JMdkVZeGR4NllteU82Ym41TTdwWmtkOUdxeEJodWZGZDlEQ1ZsUVVaU3J5S1ZDNE5zaGxjeER1SVVVOVlfY1VSa2ZpSWRmTG1uS03SAasBQVVfeXFMUGlyMjNNQUI5dmFtOTZQdHE0RW8xSldDY0VNY21yOUJfSnZXQXkyTkhJeVFvYzBWdDNtWGNvN0VNdGpGOWFxV09IRnhoZHdWeG1oWVJpMi1ZZXJsZ3RTV0djT2dXU2htU2Jsd1F5VVFRVjFyUVhaX09HOU1qMG9kYzJoNktaYkFCZU0xZDJXWG1UUElRSjVfYjJyVmt3ZWJGZndCclF1aUhscEcw?oc=5",
-          "published": "Sun, 16 Aug 2026 13:37:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Irán ofrece recompensa por soldados de EE.UU. capturados - DW.com",
-          "publisher": "DW.com",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTNBbmxiVzhuMWthU09VTkoybjZ5cXA5ckREc3NCbGFNUi1QaTJvd1Zvekg2YjQzbS11VlA3UURiTjgtSE9qNUR4Tm5YcEUxZS0yOXVLVGVybjdzNW5jR0JLeFBDSGRXcjhEQ3E4QjI3bUdEcFpQOXJtZ3BlaHJpNEZmdWVtOFZqYmsxVHd5bUk0TlRHUDhpdkJENmQ2dDUybXfSAaIBQVVfeXFMTlhLTWZiaTdYSU1IMEdqNElSdTktNWFUZzZGRFlxOUc3T3FaMl9wcTRicUpubmFpMG1PZEtUVWJpNTB5V0x6UDFTRlZIVlZhNlZYeG9ScUZoa2tnOU1ObTRmMDVPYUwwcVZxTnJycWlIZHFpbHJ3ZW9rVnRreWtlOUIwYndrckxId2FYMkR6bnJ4by1TS2p3d0p4OU9zYWZZWExn?oc=5",
-          "published": "Sun, 16 Aug 2026 16:49:34 GMT"
-        },
-        {
-          "title": "Lula y Flávio Bolsonaro arrancan la campaña para las presidenciales del 4 de octubre centrados en la seguridad - RTVE.es",
-          "publisher": "RTVE.es",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNi13djAyYTlaRnF1cW8tbUJqRWN6c1NPYlpDajZXUm1jRXdOTVRCOU53ekw2Y09lSWdGZTg5RTRmYXR0dTR3azFlT3Zqak9iXzRwV3Myc0ViQjlVY0pqLTktaThDM1JOLW94dG40RUxzU1RyODlMUVJmQ1VIRjRxd3drTlFvb0twa01hR0ZnT09rQWhoTFFMRk9VVmRRd1hvbVR0aFItblhlOHBPZFYyRVJ6X2dBa0E1bkYzYzRHMXFYc0praGY0VmxpankyTUswcXc4VnhKa3RoZm1FZlE?oc=5",
-          "published": "Sun, 16 Aug 2026 17:36:59 GMT"
-        },
-        {
-          "title": "El ministro israelí Ben Gvir llama a matar \"entre 30 y 40 personas cada noche\" en Gaza - Cadena SER",
-          "publisher": "Cadena SER",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ2dpMm9KNmRISEFSa3ZyVmhKTWlTUHVlSmJwZkNtbmRqRTIzUFpvMDlLQnNSaHM3WWd5V0daQXNBckNBWTRFUWVYZEVMVm9ac3dlSFNVUDZWOWRQMTE1RVlEbVJCcUJJUVdFMllQTUtfbkp0S0c1ZXAwSjZldkNBeXRvVjR6QnRJU3BjUlR3VTdKblA4UzRjSGU3S0xqRndUTWZ0cV91STRkd2VkaHVPWktlUEtCdDYzUHNMbkRCMjBTRlZoNzM2NERDLUNxV2ltTHFNcNIB6AFBVV95cUxOR3RxTllITk1HVEVyZlFEZFo4VERHc2RhSTV6c3Y0UkZVS2NQWE9LRi1Ub1R5YVZkTzZRWnY0ck54VW9qYWtLdlJIMDdfbnAyd3NMT2lKb1IwamZxQjJMWFRoSWdvQ0FIWlNNN2hUYW8tZlN3MWZNLWQ4SWY5RWZBeEVmUkM1YXZVcjRCS2tQeUNvXzh0bG1GR2tTRWM2WWdSTzE1bEg5MHp2YnJOOXJuV1lJcy15Rl93amdNREduLWJxaFIta0s0dUl2bHVreWdCa0NjWTZzREw5clZZWjB6Vm1fY0JQUFU1?oc=5",
-          "published": "Sun, 16 Aug 2026 19:00:07 GMT"
-        },
-        {
-          "title": "España reitera su compromiso con la libertad y los derechos humanos en Afganistán - SWI swissinfo.ch",
-          "publisher": "SWI swissinfo.ch",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc2xSOW05N2s4MkF6TVd5TU9McTNMUU9mc2ZMZm8zSzROY0FNYWNBMFMyTkZ5dEdDdFRsRVZLdGVEWXJPQWVkYnVMMUZuQlFFN0pIdGJGcGxTNDd1aHl2QjVrcWRLQTRKS1VIb1E1aEZmeExGd3M4YWMySTRFTzJUQ3VHcEV1N1VGd1MtSDhBZTVldVM1d2tKUE1GS2ZkXzJoVkl4dmZsd24yeF90MkFtakV1N0lmbFZ3TmkzNW9KUjRNRm5SQ3B1eA?oc=5",
-          "published": "Sun, 16 Aug 2026 13:41:06 GMT"
-        },
-        {
-          "title": "Un F-18 español de la OTAN derriba un dron en el espacio aéreo de Rumania - EL PAÍS",
-          "publisher": "EL PAÍS",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZkp0ckpjZkpOMFRVeGFlS011Q0xnSHd6aWVBWEM4dUk1TEZQd3FORXBneEw5QnNvOWxPSWU4c21INWFFOVItVzU5Y0ZaRDhIbnlGQWZtMFZjYU44MDZhNGV2WGtCcUViRXNKRFJUUUpKcGtIa1VKSGtVeGxoLVF5YnBUU3ZZUWV3NEhiRndtaWJFT3ZzREhGeXlUaDE2aVZGVnUwWlRRVEY0eUZSRndqeW1BcHFiSnU2Yjl6LUJQSdIB0wFBVV95cUxQUEpBclR6ckk4MmJFTzhDS2ZHNXpKQWlITERwS3dybmdNcVZnUFBqdGllT29QWV9MOU1JVDhTOFdMYXgtbVlSaGtaeWtEX3pmU3AySWFaNkhhYmdEWWg2UF82TzA3Y0lYMDFjb2dKRTltd0tpMXJXVG9WNW9sME5Wa2JzSTNjck9GQ1dFUUd1QnRyMGZkOUlWWDhMbmI3Smx6OFdhaEZJTk1BR0pGTFBLUzdlMFhXN2Y2M0V4aGtQSEpOS1Z6NnBqSWpxWVhhc211bG9v?oc=5",
-          "published": "Sun, 16 Aug 2026 09:16:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Comprobar Bonoloto hoy, domingo 16 de agosto de 2026 - El Mundo",
-          "publisher": "El Mundo",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DZzl0ZVEwWDJWNU9FNlZtaEtGQm1aNGpjUGdVN2ZjWUk5U3I2d2wzTFVjRUhTZnNxdDdQTkwzLTBlcjVPUjlTZ0dUQnJPRVFfaXJ3MEVWb0g4Rkt4MEFMeTBZRWctS19sRVpsNDRDSWFqd190cThlNGhocknSAXxBVV95cUxQNXNrQlZhanQwakh5ZHcydVJaai05WHRMdjI0TThmZjBYZEh6eHBVZjE1QnZPZHFZYkJ1RXJhSmZQQ1NaOUpMV2xNOUNjT1FhcjlhX3U3Q25ydHBtWFBhS0ZkVjd0c21aZWM2X0NPb1RnRDNLVlRoa1o5Q0ht?oc=5",
-          "published": "Sun, 16 Aug 2026 19:45:18 GMT"
-        },
-        {
-          "title": "Comprobar el Sueldazo de la ONCE: resultados del domingo 16 de agosto - El Correo",
-          "publisher": "El Correo",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNakczcDFUQ1I4V0hOUldFeFhQYzBCWnJfeXlCb2pRVzVZVEwwT1V1QnZhZG9OaG1ZWE1MYnFNUDJmUzFZYUwxZGFoWGZEWEtJY0pkU0FlNDVtaFQ0R1BKbm9HSjFQenFCeHBnUW5vNC00MEtCcnpaaFd2T2FpZU1XNkNjT0h4WFcwczJVWnV5aHlUNlYzRDZBMEdWQ1hsbGRoT2g2Ti1lT2VKendsWk5wTEFNTU5KdG_SAbwBQVVfeXFMUFh5VjRyYjUtZGRwNGZJajBLOE1tWm5GRFB6YWNTYXlmX0N1ZGhYbFN6alFEVl9VOHlMZVRHeXB3cm0zckx6a1U2QW1JN0RBbkxfYllBODZqOFAzZDZmRzRrWnd6VXB3TWYzbmVITkk5LU9JVGpsVHZnMEg0aGdYa05BMjY0cXIwUWQ5cDlObnBzMm82Nllqdl9BOFp3YzRZVU9jRFJtenJ2Y3h6TnYyRF9DV2ZRNVZsdzRPOW8?oc=5",
-          "published": "Sun, 16 Aug 2026 19:00:05 GMT"
-        },
-        {
-          "title": "La 'teleco' saudí STC repartirá esta semana un dividendo de 635 millones de euros entre sus accionistas - El Economista",
-          "publisher": "El Economista",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQy1XM3JZa2Q2enFFdXhGMzNIVG1VbG81cHhsYlVPMGh2MUp5V2s4VHRCZ2pfRnJLa1A2UmhFbGU4VDNPM1VHSnlKOEEtdUpUMUx6Vmc1NlNYa2hGNFREbFhHYTFfRXFzN0p4U0hJSFdnVE1YS2FOLVJfSnF6YThSby0tRE4zVmxjZVNtcjdUWTNWVVQxT3lXeE9Xb0g3TWxSYUdCQ2dUU0hKeXJodFhnSmhVVHhrZkh1VWJ0Y1czVGk0bm9fVFpsUktuLW93aHhBS1Nyalh0Und4eXFMdG1NeXY4QjlRbFZnbnVqeU1CZTFfbEtwVXNIazVQcGNnY2FhOTkyM2ZranB6MGxM0gH3AUFVX3lxTE96NnRIWW1lWUxMaTJIa21ZeHpKTzExTlQ4cXVtN2h5OENmNGNLaDlQRWVfbDd4WEVpQzQtMC0tTVVwcnlXRkF1WmU3YXZLRE9ONHE1cjNYQmNkelNXb2pVSTNmR2c3OHhrYWxmazRkREJOSFZ2U2lSWmItTERMRGFCbXNPZmw3c0JqanJjbGc0TnZMZTlVLVBQZUdGdDBZVF94M0NSbDVvRjJQeTVmbnVEWWxMY0RRbUt1NmxLRkJIRXNSc25wa1hZbmt5OUN4RzZQQjNnME5FRlZoTGQwc1g3NUIwdDk5RE5QRVBNNm1oU3BjTTQ2dkE?oc=5",
-          "published": "Sun, 16 Aug 2026 09:07:22 GMT"
-        },
-        {
-          "title": "El Extra de Verano de la ONCE vuelca toda su fortuna en el polígono de Cartuja de Granada - El Independiente de Granada",
-          "publisher": "El Independiente de Granada",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTY3X0NtWmM1dTRBUGgtUFFaQmhtVkYzZU5VZWVZQzhOd3p4R2dRek9xX0JDX1JmeGpEWFRMUS1ubmNfLTdfSm8yUmdrV21nMUFIVHQzQTNmeGVDUkNqWFlxNENqekhtQlRsWG44N0RldUtrRDZ0RUZYVm1nQVNOTGptX0I3RmZoVHNFNDBaYnF1MnAxT1RzNWxxSndISklZZXFCR1ZkcTNtU1VJSXM0dzlR?oc=5",
-          "published": "Sun, 16 Aug 2026 06:52:40 GMT"
-        },
-        {
-          "title": "La Primitiva, comprobar resultados y premios del sorteo de ayer sábado 15 de agosto de 2026 - La Vanguardia",
-          "publisher": "La Vanguardia",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnlyc3VVTDV3aFJiT2t0cW55NzM1VlhuSE9RLWt3T2Q3YTFGcXBDLW56YlVENWkzUzl2T05NQXRvaHlFVVY0c1JIOGRJN1JqZ1RxSVJtUDlPM2ttQVdqLWZFYmtlLWRKTGxEV1ZCVThvazhLbWtZZ1B0TkNTdTN0NUdHdGUwb2tpNW14SnhrVkgtWTdJMmFIVDY0aTNLbFF0RnBhX3lCWU5UWUpMNlJPN9IBtgFBVV95cUxOTUY2MDRhZU1KQzFzOWZsTjhMb2RZSWljZU1kU0pWTEdtNzBXZG5KbklMUm1LWjdRU3BEU295MWhCMnYyRWtkb1poZ01QNGpycTBvOVAtdko1RXlpdl9ZQm1WR05ZNzZQdHZPeWFUYTh5NVJsR1FMTkRBVnRyZjdQdHNDaTA1cTBzLVBpNklfTUdRSS1ZTk44Q2pEVnphWVBtWlc2UzQyZ1d5dC1BckZWRGIyaGVUUQ?oc=5",
-          "published": "Sat, 15 Aug 2026 18:00:36 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Mbappé vuelve y enciende al Madrid en el triunfo ante el Schalke - EL PAÍS",
-          "publisher": "EL PAÍS",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU0NHQ0VJdzFTb2lqZnIyWm92VTBqY0JVdU5rdGVzRWdXQWVhclVZNkN1QVBlVWFEZ09zc1FDWngybWoxZl9KRmlOeGtha0FVSG1OZTVYRTBqdmtfdlBDNF9qSnZneWRuajF5NWJsb0tqWTVrWEV2MVBveWozMVAtTnd4NjdTWWhzNVp5bUYwVDc0TldPMFBrWG44STlyVFFGVWFoUE9XSjN5Rkhia0tKekdtdHhLUdIBygFBVV95cUxPRE9CTTVPYmdGM3cwWjZJdUVXcDFDaW12czExbklycjdvN29TRS0wS2VZM283ZWMzZDhqVHVudTh0dkRBSk95dlJCTEdGbW5UOHpKbGVOV3I0N3cyUVVqd0hDd1Iwa1J4T2I2aVN0bjhaN0RIZk9pMkN3a1g2UlpqVTloeDgwUjhteHJNeXo1NDg1cWRwQTVaSEdSUFVjeGNoV3I2dDVBa0dWXzhrUFZBb2tkOTJyNEE0ZHllcndaSHlRU2Q1QW5tbUhR?oc=5",
-          "published": "Sun, 16 Aug 2026 17:27:45 GMT"
-        },
-        {
-          "title": "FC Barcelona y Manchester City alcanzan un principio de acuerdo para el traspaso de Rodrigo Hernández por cuatro temporadas - Cadena SER",
-          "publisher": "Cadena SER",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOd0N3UWpDbUM1SGNncWJ0NFJaZzFNaXdTdjczVzVFU2JZVUd4Uk1EbEtrVVh6c2tsTndaT0V6SEpoM2JQem9fXzdWVnZXSG5sQ25JQzVkcTBUeTZNN0xuWVFhT2JKSG40OHVDX1A0OGZNSWFPcXgtWXpubGNTX3VNanh4dmJoSm1UX251b2I1RXQ1dG4tY1NZdVc0c2dKSS1XbkFTRV93RUhweTNPX1YzLThZX3JYRDhaTnVQcGtUcHFKWVRTcEhLUFY2ZTFxUEYxc29lNVBJTk1LU1A4S3ZVUXI3N2VEQkZXWkHSAf4BQVVfeXFMTXBaTC1KcG9zNEFicG84MkFSZ0twRlJ3VjE5eDVkc1ZicG9oWlFvUGZxUkp0VEozNXhqT3g0WDlpTWtFN0p4ZTRJUWVYZXZmRXJncjNGYzkxb3p3cnF5SmZwLTdfNDREN2hMeXYwS1JTNVVoQnNPbDdJUjB5cU5qb05PS0NaUGYwTjJVN3l3UWNpX0ZkYzJPN3lYQlNwRkRxczJKSEc0a0gxLVVJMXM1cGpNVXFoUm9ZS1I3OVQ3MjhwUjhvcTNnZ2RkUkhveU1FekxLYnlRVkNSRlg4Nzhfa3JwaVMwOWVXaDFOckRUdkhXdDl5ZDVwbmxGNTZTV1E?oc=5",
-          "published": "Sun, 16 Aug 2026 20:01:02 GMT"
-        },
-        {
-          "title": "Un punto y buenas sensaciones en el regreso del Racing a LaLiga EA Sports (2-2) - Real Racing Club",
-          "publisher": "Real Racing Club",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVEpRVHNmdW1IUGowa1VvTE4xWmI3NmN4NjhCYXNwd21RdmY1X1gwUVh6RXVMLTdyWWMzUFpQM19nbkpocXRsbnBCYW95NzVpM0FpMzQzQWdjeXY2M3REZW54RXBzTEdFTFk4MnNPLVoxSTVzRFFWX185SXVlSGNNNlZtVkFqd05xVDU0RHVMc3lwbUdmZ0ZVNVFpczl0U1JveXljNDlkM0NmT2RLRUpQWEpNcmJrUWM?oc=5",
-          "published": "Sun, 16 Aug 2026 18:45:32 GMT"
-        },
-        {
-          "title": "Mikel Rodríguez, el «ratón» de Getaria pega su primer mordisco - El Correo",
-          "publisher": "El Correo",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdWg4X2hPYnZPU2hVNnppa3c4aFBJRXk5cGMwaDBqNF9LOXhRbkFhV29vNlVLM1h2alNCRUVtcFVtTnVxYjJocjNmZC1YaHczQ2NwdERFMWdHYThNZlp6b2FwMW5USC1ETDVycmxuNlZIbWhTWnM0cTBMeV9RZG9aaGNvdzZ4eEtkUEg0bjRKNHVqRm94amM0U09tVGZ5UzQxT045OFJwUXJuRFh2cG5ud21R0gG3AUFVX3lxTE82eERLbTlvVDUxeUJUNjNPNlBpUHFsQlVVTEMtc0diUGo5bTJXMExoWXBVdUppdFdfbHdLWG1kTDJQbEZKODBDeS1PRHlaY05STjRYdVE0TVhUVFRqeXlJbVd0VmctVFJfUEY0aWhNM3FscElHamFRQURNemo2UE1jclJTXzZtTFRDT25VeVd1UU5VYnh3TFd4MkIzSmhiQlo3Szhrd1ZVZi1VWnIwWWNwZWRoOXBINA?oc=5",
-          "published": "Sun, 16 Aug 2026 17:43:52 GMT"
-        },
-        {
-          "title": "Con Mondo Duplantis todo es ‘show’ - EL PAÍS",
-          "publisher": "EL PAÍS",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc2YxQjdrbG5pYnNXY1lFZDNtZ2lRU2NzLTJsYktKdEpMVjFXb2xlX2pTQVF6TWNVdi1vdk56QS1uUmdRMTNVdUJpZndIdlJiRTVvQTdxdVlmYXhKQWlFbEs0RVdZbU1JREo5RGRkVTlKaG1kbk81UXlmbUpORGdVbXl30gGWAUFVX3lxTE9icDF5QmRLODh0cnVVRTVOdHJfa2xscWc3amRBeFZESFV4S0hpWVlWeFRpSzM4RjE0NDN3RllLdk5PWTR5cW5IcnVjbnJBd3J0dzhfa1VZZlFGYUc0QlJrOWYzSXNWaDF0ZjBueTcwQ0ZkV3Q3TVJtOWJ4MnVaRXBVb2dRYTB4NW1iRXdOb2tBc053SEZGUQ?oc=5",
-          "published": "Sun, 16 Aug 2026 21:39:10 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Dos cazas F-18 españoles de la OTAN derriban un dron sobre el espacio aéreo de Rumanía - El Mundo",
-          "publisher": "El Mundo",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUgtcHk0WTM0TlFhRkFDQXBwQzAyUHFKNU9kWGNPU2x6VEoxOFpXR01lTkY5bkRLTjZaQkgzNDE1emRkeWlfQWlKU2stbExqUGdxcWJCbzJZVUx1ME1HWlhHX0VMeldKd01MdzhTOVdKSm1oZklkanRYZzFYeHI1ZFdNMNIBgwFBVV95cUxOcHo2eWFPaTIwM3dSRTBFdXJVT3loV2syWDQwcTZ4MFFJZEQxNV84eXN3UlI3TXVNSkdzWkJZY3ktZTJsdE5lSnZ2cE51Z1MyQU8ybTV1TnpMc0pJZ0hHZkZtZjBKYTc5YngxdmJXeERLOG82VFFiSk5PZzR6RUVPUHg3Yw?oc=5",
-          "published": "Sun, 16 Aug 2026 18:20:23 GMT"
-        },
-        {
-          "title": "Etiqueta del móvil en el retrete: una adicción “a escondidas” que perjudica la salud intestinal - EL PAÍS",
-          "publisher": "EL PAÍS",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRmhzNmlNSTk4b0g4cndFd1NJZ1BFVk9lRWdPRHh5cDNtaVB3VWJNSU9MaWxqUFo5R2RrMXFvZE9Pd19vSGZUUzNRU0xTR2YxeFFjVDZtQmdaMWJJNmpYQmFyRklpVGZNV3NVZnlJSW1ieHloOU5nYUIxSWtqRUl2NklTZXJCTVh3Zi1mRm9sVFJJSWJwejlxQ1N1alFOWGpxYUpwSEs4RkxiMUlJd3g2N3pEZUM1cmhFUHVaV2E4cTVwN2k3TDhzTTBFWFTSAeABQVVfeXFMTV9LWVhLZkozUzZoQlFBTWZuOGo5N3FlUWdrNEpERVVUbGtST1hhRDdaYUl0TmgxM3VmU0hxM3UwRkdPZ0FSTTNmcW5Pa2x2d0QwUXVNWnp4aEpHTTM2cHN0a0FPWUdWU0swVkpMLUU5S2F0cDFrSGlBM2FfMm1lUXVPWDFITHZWREJ1cksyQ21nSGhMb3dhSDBNUk9TX0VBSGgySkpVSDRDbTZHU2I2aFdnaUtORFItX3RoWHNERWZIZ1N6YnZVSWUwbklaWS14OHAtbEpNdF9ITUl0Z2tSeVM?oc=5",
-          "published": "Sun, 16 Aug 2026 03:30:00 GMT"
-        },
-        {
-          "title": "Ucrania lanza uno de sus mayores ataques con drones contra Moscú en dos años - ABC",
-          "publisher": "ABC",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlhhUmZQMUZEc3VxOEdUTFVaM2htS0xvSVhTdUFlel9pMDV4X05iVW5fQkI4QUttVlhsbVNSZGZmUXQ2dDZSSVFUX1U1UDZSY3YyNHYtRVZPSldpdndaUjBxNm5KZ1Zka0M2WnlqbHZIU0JPZE9fbTJvUEtBVUVQUVNGY0RiTjR5TlBmRjgxWW14dzFIWVFhSmFLZmswUXl4ZTVxatIBqgFBVV95cUxPZTI5X25aODh3TWVMYWh0S0N4ZGFPYVlCWWs4T3VoSG83RmVpUkV3Vjl6ejJ5bkNGTThCclBMMkttUGI0Y051MzBtY09qTm1qYUIyWFBZVWtiVm9SZkR1bDFkSzkySjRMakdCb2FsWEdZVFJoMmZCZ1pJZlNEM01sZnRpRHVNSnBmVzNBMGVJbHpfdFV1d3Z6ZHR1ZnUtZXJZU0JPUlg1QUFmQQ?oc=5",
-          "published": "Sun, 16 Aug 2026 14:40:16 GMT"
-        },
-        {
-          "title": "Brecha de seguridad: hackers rusos exponen datos de cientos de policías y militares - La Razón",
-          "publisher": "La Razón",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ0NzQTJVSUpaTnlnSkoxYVR4Qndncll6V1F3czRoc1BlekNiaFJ2Y3BzVV80VG1HOHZTQmNsdk9TbVpIeXN3NnFzX254dG8wWE8teV9EX2hVVjZqZmZHeWllQ3p5Ml9FQ0M3WFAtVS1JX3ZxOTVCMWhlWTZOS0FOVmdNUXhON0ZWVDdDUlRaYzdEa2JrdjYwa2Nld3J3NGRLcENwd2I3YVdvcnhRRjRQZXpocldIZ2xnMnFxOE1XeXo1a1NVWkEtY3ZfT3N1Zkh6aVBCSjV30gHqAUFVX3lxTE5oZzlVUDljVnZ2ZlA3Y1ZEX3RoYUZLZU1HOXVOUEd4V2pFT0hnel9QVDl6d3JtUE1wSTNPaERCNmdjb05pQnlvcURtajF4LWZwUTN6Z0l1THVTVDNKVHNfWV8xMDF1RkhzRUdkenY1RXpZT1VVVng2bE5BcTVzYW8tN0MyNC16cVVnNnFrZE9WcTc3UVg1VG5UVFJrSU5CQkNHdDFQNXVZZFg0dWVIMENoTDVhazhERDNZbXdjbTlZQk84VFVwZE5sOGV3MmhZZmpGVUlYNW5UZDJ2ckNiWUt4TFhOVGJScU9qZw?oc=5",
-          "published": "Sun, 16 Aug 2026 00:20:35 GMT"
-        },
-        {
-          "title": "«Mandos de la Guardia Civil y de la Policía buscan alterar el sistema vasco de seguridad» - El Correo",
-          "publisher": "El Correo",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYTRUTlFPNEJzMnZKQnZIY19tMnJNczl2RHV3ZjU3bGdZeE9UX3EycDRzalB1VjNNc1V5bjU1NzVBamZVTU5DR0hjYVRBODRscXBQNV9HaXE4V29oeEJfbmdQb1Nwd0VhXzJub3Y0RXVuNEtUbDgzMUlIaGRSdEcyLVN2NkluUWx2Q0FHOWNrRnZ6eUZGaVd4dkowMFNXU3dWc0UweWJSa1JUcmRk0gGyAUFVX3lxTE1DYnR5WkFJNU9OU3RlUW44QTNHRHFDcTV3bVZ0SWdpd2JnSnhvNk9PQjNrMktIeExRejBDcFZrWUJFTUhrSlg3Sk8wZzk2WnVmS1puRTVwZkRMTFA3UnhvYkFLTTBUbTN4c1NaZ20tNGY3YndXYWhqb19xcXl2ZW41NFpfRk50QjhIaVZsckFKZkFoYUJrMUlsako5MmNfQ3FNU2l3cUN2UjNWYjBjQmJCVVE?oc=5",
-          "published": "Sat, 15 Aug 2026 22:24:49 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

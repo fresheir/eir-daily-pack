@@ -1,260 +1,43 @@
 {
   "market": "UA",
-  "generatedAt": "2026-08-16T22:19:38.576187Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T23:31:06.592054Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "РФ атакувала Епіцентр й житлові будинки біля Одеси, відомо про дев’ятьох постраждалих - nv.ua",
-          "publisher": "nv.ua",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWjRGanB4YllPRS1aVkdLRjgxZzdpSGtmZ2xWdThRVnNGOFVScUU2VkVQZzRoNUUxWXBmR3QwUzhDMzNPYVVhN0t0X3gzcFNjWW0wNG1YazBLaERyclBXTjlrZTZ5ZkJVc3FfREVZY1QwOGcwZktSWXhJQWpKOGhjVUJEa1BxOS1vQWJTaUZfWEdlSEUxNjFJalA3RkJXOHlNZW5DdWRadmlBQTZDeHFsREJEbWxvcndWbkN5OWs3NmtwdzZ0b0Y40gG4AUFVX3lxTE80ZThfRVZ4VGl3bGE0TnliTHhXVHRhX1BFRC1oR3JvNXh2Q0FzTDVKS094OHFtZ2lqUU1XRHhuOUphOUU5aUxJS3FhZ2lIa3lnMERKT2dpR2FlM2lJTFRHcHl0QjRxNGpPUGJ4eV9leEQ1ZjB3ckhORDdJZ3p1QklvU0R0NGZnN1RSODBBUl9QUndUR2JMZHFDQXhhSS1RVk1ZcjVxNW9qaDNhWWpUek5PMHdKdDQ4U3M?oc=5",
-          "published": "Sun, 16 Aug 2026 15:14:00 GMT"
-        },
-        {
-          "title": "У людей забрали надію, – Федоров про протести у містах України - 24 Канал",
-          "publisher": "24 Канал",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUm5zNnRpRVloNWRpRGRSd20wV2s1SEwzMG03cC1MTDhJN3ZPX2RYczBoWGxXU0k2anRGOEhMb1M5ZXRDUWxpLVlNWi1jV0RFRElHV3NPdkhvOHdLLV9vMFlLdUdZQ0kzbXkxSFhMTnVkSDFEQWlKVlhNN3cyNjQ1ZEJUR2s2T2c2LUhEeGlNNHQtZ9IBlwFBVV95cUxNY0xBN2JZVlF1RzN4WUtob1gxS1ktNVBSdTlCSThaOHhnX1pBWWExUnZSUlpqMVRiakFlcHVCaW9fQU5TQWp3T0JTNTZRREpBZGtNVHRHc1ZmdEJwbU1taDlLckRVOFdMOW1uUWlpalBBTU9hcGo0WVpvY1BEaGdoWUJ5VnpDaFA3Y1ZVOG80QWZ4X1F4clRF?oc=5",
-          "published": "Sun, 16 Aug 2026 17:03:00 GMT"
-        },
-        {
-          "title": "Втрати РФ злетіли до рекорду на тлі чуток про масову мобілізацію, - Forbes - УНІАН",
-          "publisher": "УНІАН",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSW16U01WdENfLUN5YkFMLWprSjRubEZrRFpGVDhhZmdXNzFwSDl3Mm9RNHBvMWh1bzk2VmVOSXJreEJZUmVVV2dVQWdWNlBJcXpWeU1MdlY1aFVkYkV1U0pBdGJwZTNLOXJYcU96ZDFHaFNXeGR4SkpuVUNmT0JRWXJkWGNmMkwtQW85NXlUZHNJakI0eWJJcEFBcGNqcVNCTW5Jdzd6RjFzOENBTEZ2Ykh30gHoAUFVX3lxTE1QVHA0MzJwVDZaUkRnMjVuRzF5c3ExemdFamQzaTEwdTBjWU9EN2R5VXkwRWw2QThIM3c3SHlrMjVodzJ5UFd0OU51VEVibmRrYkRZN3RRUzhfZjdRU2EyaDdORUR6bTVWRVhzTHhOeFNNQy1SdHhUUzVDNU5xcVZtWFVfbDd0VF9Fd2JoZEd3cHdaQTJFRHZhcXVFVzBFRzh0RmpOT2pZYlBxcTBrVXg0QzhodlY1WU50UEswbWRTZ0lQUWpQMUpQQi1RblEyUTZqQnZWMXoyMFBGS1dXUkEwb0Ruc29aMko?oc=5",
-          "published": "Sun, 16 Aug 2026 12:35:00 GMT"
-        },
-        {
-          "title": "Швейцарія надасть близько 730 тисяч доларів на збереження Лаври - Європейська правда",
-          "publisher": "Європейська правда",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40Uy0xbXB2cHY0RmpLMG1vM1EyUFRxNHBTeTdubjM1dllnTTJ6dlJIRU45MU8zMkdBd05oMGNQcjRJUVFlU3BHazYtWmVsRE5ta3h1ZXc2MEJMRFRRSHd0bzlVcHRSeWJNZDl3?oc=5",
-          "published": "Sun, 16 Aug 2026 13:04:33 GMT"
-        },
-        {
-          "title": "У Херсоні дрон атакував продуктовий магазин: є постраждала - Інтент",
-          "publisher": "Інтент",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmx1TkY2N2djNExIdGtvazctODh2YzZtZE5rTkJhMDhvTVVJLW1tYV9DQTNOS0tNWFdDZlREVFlWY1pnSEhOSDM4RHZ3clI4VktBWnpMSnJ1a3ZHY0lGektXb1BnTlFpS2JycUZQcEFlN2ZmQTlDWV9yX09HSDROZzVrMC05WnNZTnhXYlBubVFUWXV2OW1FRUtYLXNwams2U1JZcFNMdDhDeU52dFJF?oc=5",
-          "published": "Sun, 16 Aug 2026 16:37:31 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "В іспанській Сеуті сотні мігрантів з Марокко влаштували протест і вимагають дозволити їм залишитися - babel.ua",
-          "publisher": "babel.ua",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3hkb1B5S0dqM09NZ1JLMEJNMURiRV9kWWpXajNkME9qckg2cjA2VG41dmpZU3VRYW1lQ2t3VmhIZWtJR0RKRDFNNU41SkkwMThaQi1nMVpfSUxNZDFfRU5UNzBpbzN0dnd6aW5PQ3d1WVdkSWZQM282dWs0Umk0V3cxU2ZzeXZCZjNUOWlZemVMY3FjQW9OQU9VazdxcUtXZ2QyeWk4MnRXbjN0ODBvaTRoUkdKOXZBcVBieVVFSE9ZSk5jMDZsUTdQQdIB0AFBVV95cUxQY0Q1cXczUmU2Ulo0LWpzYlVfRnlucU5TZHJuVzF5QzJBVVh6aEUzR00wRDlSRnJtZWtlWE1OQ2RLdHZ4MDVTNEZubklEaDg0Ty0tXzU5OEt1b0RIYXhCRjRYM2tCRVA1c1JqQmNnWjhBRVhnb0RjRWxrd09RT1JiRVJQdENlMWRxMjE2SFk5Q1BKYW5ycnRKd2VacmU4VmhGcXZHT0wyOFNJMUk2SW1NUW1scUpMM1llWDI1SzVQUUVCbmZEQ3Fsc3p4bWlDNkZi?oc=5",
-          "published": "Sun, 16 Aug 2026 17:26:10 GMT"
-        },
-        {
-          "title": "У Німеччині \"дали відбій\" евакуації з прикордонного міста через лісову пожежу у Бельгії - Європейська правда",
-          "publisher": "Європейська правда",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EQktQR0NxY2xXYzJyeW0xWmxqNExUcDlweWZaQ0k5eUllX1FvV1JKSUgydFQ3emhRV0o0NW1VNjRrOXZhMkZ0cG83UE9qZnRPdG84aWR3SUJXU191aWtuYlh1YnF2OEwydGRJ?oc=5",
-          "published": "Sun, 16 Aug 2026 14:19:30 GMT"
-        },
-        {
-          "title": "В Угорщині розбився автобус із туристами: 12 загиблих і десятки травмованих - Слово і Діло",
-          "publisher": "Слово і Діло",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcTZUaVhKQ21JNnNrVGM1eXZrX0FZU3FVZ3E5NmtpOHQ0Q3RJX0pXaUFVTnh1MnB2QjZqZWVqcXJUUnRwWjFfMFRyZEgzVlNLRThBWjRUOEVjWVU0MzQzMjdEVElYNjlVTnRuT010STIwSmprNnBUSkxKSmd1dHM5UTRlY3NxdHVuMi13cnFobExZaTNqSUpDVjNBWWpuYWpFMk1fdm9fRHpxN0RKTWNVN2IzeFhGb2lSMlZVeWh4RzQteUxY0gHKAUFVX3lxTFBZV0ZaVEhPLUtvMjhDbzlPOEl3bUM2Z1VvYTIzY1Eya1htUW1taXdWdXZLWEhTT3ExeER5TEYtU1FWb3hHamJEMlNBTUh6Q1NBT0pZVjVEU1dqTDBLaU5hRFlTVFBBcmVGQXRaMkNZU2lZekwyRTVBWFdLeGNVMkFiTlhjSGN6WHJ3WlV6VlM2NVpJRWdtdFhTZWlWbm95RHFFdXFpUGM1NE0zZS1xYV82d21XVXFKbmtRTWswcGl4VUZaQ1ZmNlZNMVE?oc=5",
-          "published": "Sun, 16 Aug 2026 09:02:09 GMT"
-        },
-        {
-          "title": "Кушнер зустрінеться з лідером ХАМАС у Єгипті - Korrespondent.net",
-          "publisher": "Korrespondent.net",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbzVpN2Z1aFRjSEJhbWgtYUxrMGRVa3gyS3h6UUZzeGJ2cWxWRThYWUNZZjAxNVE4b3IwaWotRWZmaXd2NWZaQWsyMHcwd0JBRS1qTzA3T1VDUXZTV3RNanY3R29Cd0xSbk5laUJSeUVOcnVfbDdxLWZ0elRLQmhJenVqb2kxZTBtOFFtamEwclJMSVBp0gGSAUFVX3lxTFB5LUxZdEt4dWVJQzFFQ1VBUEUzS3FhQ3lZTlk5czFuYmw3YktFT3oybHRDejlkczBiMzZ4MGZ0WXBtZnVXT3JDV09teFV3WGRabkFjcVZsbE16amRZR0pxWXZtRk1EejREczBHNnVBeVBHOFhubnFNVmsyQy1NSUFweEdrUnVvWjZMYWdrQ19WVEN3?oc=5",
-          "published": "Sun, 16 Aug 2026 18:30:00 GMT"
-        },
-        {
-          "title": "В Ірані стратили учасника протестів, звинуваченого у \"шпигунстві\" - Korrespondent.net",
-          "publisher": "Korrespondent.net",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOakJXQUxFc2dublJmcW5PcHZWcWJ6cC0xTEFWdmdsbVhNRTlSQkFMMVBZemxOaXBxZ00zdmsxODRrcVIzcDVJMTE3YVhoRjFhdTk0YnAzZTJIb3pFVl9RRTZTNkk3UDZZNmRRc1FrNlZ5SlYzWk42YmVjbWR1V2lYand6RlZKTlVHdTdXUE9jMVc5VHpiUHJiYm50X05xUzFqcEw4SXR6NGZMTnV00gGqAUFVX3lxTE5DbTZhSXlTTWhDUUtESDZkWlZGTXVNYURPdm9YN2M5VHl0a2otUFE5RkI5U3BPOWJnRkNlS0JnNXNiV0ROV3RERVRBRUtJSDJic1VLS2dkLW1SUzlpMjFIbWxfbVk1YlpfWXNlX2Z1eDQ2a3hGQlhWREhYREJldnQ5anRfTEU1bm5VVlYxX3lSVk1qWmN5MXdNSzNoVTNKUTdTb0JERXNfX193?oc=5",
-          "published": "Sun, 16 Aug 2026 10:59:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Daewoo Sens 2007 року майже без пробігу: скільки просять за авто у Харкові (фото) - MMR.net.ua",
-          "publisher": "MMR.net.ua",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NUmsxLWtsTHhGdkhvVG1tLVl1SjVEWHZzYnJuR0p5a2k0OXBiMzN6OFMwd0dZZUxWUkVabFZzOHA3cG1zdXhhTUJn?oc=5",
-          "published": "Sun, 16 Aug 2026 09:29:14 GMT"
-        },
-        {
-          "title": "Dacia презентувала кросоверний універсал Striker - motorcar.com.ua",
-          "publisher": "motorcar.com.ua",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGpiOUppTG5tSTRtRHJrUXpDdEVqRUlvcWVpQV9xS2lFVWdQeExnaE1fTGJlSE5EanE4SkVoQ1JqSHplRWNxc3lhUV9FNkNhdzRMSXg5X2hzOVJJUElrQWZVaUZUV1BEU0NOczY3SFNqSDhnejJzOXU5eTZMOTZCOW9LZVQ1SmxT?oc=5",
-          "published": "Sun, 16 Aug 2026 18:12:08 GMT"
-        },
-        {
-          "title": "Найпопулярніші кросовери в Україні: добірка моделей нового та вторинного ринку - 24 Канал",
-          "publisher": "24 Канал",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkFrU1kyXzlSbVJOYXJIUDY5NkxVZTBHV0xHS0dGRGFRTVBsMXRpQ0Zjbzc2U05waDNPc2N2cE9RVE50T2c1SE1sODdFUC1hTmJwM2I2alVERXlNNHk3WVBNYkxTUGxlME8wWVNLXzlUeUFrbFBrcF85cTN6eWk0djFHSkZTSkV1dmlDVFV0cEt4MTZrcHRsdTNuLW84MmxraTZsWVMyakF1WDjSAbABQVVfeXFMTzB2QTJaUGhiNUxUbWRVYV96YmM2MGppbS1ld1BES2RtWld1bmw3Q0p5TjFOc3c1OWkyaUZYX0RSdVBUbnVGN1BrWXBlamd1SGs1TFFoOFdET09uNXVfTW9BclFMVTJ6dkNuTEFPZ3lBMjdhZVBvZlQxRGd4aS1qY1RJc2dMTG9xUjZPQmFIR3RPRkFxX0szTEJ3cXE1QkV6RnpfTXBiOG9nWm1IVXJnNlE?oc=5",
-          "published": "Sun, 16 Aug 2026 10:13:00 GMT"
-        },
-        {
-          "title": "Гордон Мюррей представив суперкар GMSV S1 з механічною КПП — сучасний McLaren F1 - MMR.net.ua",
-          "publisher": "MMR.net.ua",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vNXFmTDR5OUhHTk1yVTdVb0wtOU44LUh0YW53bk94ZTZ0Nk5obWxWUHVFdjl3cXh4Q09yRU1fZHp2LUFLOGFrVThn?oc=5",
-          "published": "Sun, 16 Aug 2026 12:30:38 GMT"
-        },
-        {
-          "title": "Що купити замість Skoda Octavia A7: топ-5 практичних авто з пробігом - MMR.net.ua",
-          "publisher": "MMR.net.ua",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vZmhFbXhFZ21pRlBtSWFhUjBBTzhEQk5EaUlKWU1ZQ0t1S0k1RlJqenJMZUlZRjEzZDhNODN3czVBZkJWRFNGcXh3?oc=5",
-          "published": "Sun, 16 Aug 2026 08:33:30 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Динамо у меншості вирвало перемогу в Колоса у 3 турі УПЛ - Champion.com.ua",
-          "publisher": "Champion.com.ua",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNF9WaG53WkRqUl9SNWdQalRVYmJaTVBnejgtR0VYeEpQUG5zeG05NU8tMjBDWGdkRkdCYmh2MmpiRmNPYzU4SE5TeGxOdVc4U2ZyY1I4a0dxdHZQS2NxcF9PLU9ieUhLU2JwVVJOdTRDZlZnZThTcXVZQkl3bTdlN3FKQlR4RkE2WGRmNWlNSXV5RFpDSEhXc3FPUmV6a00tV0w4bUE2M3gwUmFZWnY4OUtwZEkxcjJqS2lv?oc=5",
-          "published": "Sun, 16 Aug 2026 18:14:45 GMT"
-        },
-        {
-          "title": "Таїсія Онофрійчук виграла «срібло» у фіналі з булавами ЧС-2026 з художньої гімнастики - Суспільне | Новини",
-          "publisher": "Суспільне | Новини",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWQ1QWhVZ2JoZDQ0NWFrUnVhUWs0Y29RZ3ZlTkI4VFg5Y3ljY3dTb0FwYmRfekh5ZHNsMjdnUU9tRGdCRFptR1NlajBXOUxvMmQzdEZPRUprSnF3SWdMWWV5V3M2b280QUtPOXR6X0F3LWdFbXVuZEpmUjNiUUtYQWZCX3NrdUxhSkl4aW9iNW93R3VCS3NVbWJfcG5VNW5pem1rV0twbVdhcTJBYk5jMGlXTGVURUJBMWdDN9IBwgFBVV95cUxQLXEzMWdYYTliWGY1RE84Z3FlRzRwN0p2RS1qZk5hMDVNWG5nTnQtVUE0cEJHOEFtRlFrZnZCeHgxS3oyVTRSRzdwLWVIcm1pNTZMbHlZbHhVM3VmamZibHFkRFFSU2JVT3phOWl0cjZVMFlseXR2RmtPVFJXZjd5d01LWVl3RUlNZ1FVOXRzRkUwWkNKLVE3UlVPYWdXX041NmJCT25vRUtXOHpzX05UM19pMVkxS0JkQkdmS0xpOGsxQQ?oc=5",
-          "published": "Sun, 16 Aug 2026 13:53:55 GMT"
-        },
-        {
-          "title": "Український плавець став чемпіоном Європи та побив національний рекорд - РБК-Україна",
-          "publisher": "РБК-Україна",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm5Hazh1cEVhbzA4dFppUlVSVlhQa1BONzFxdjBtZ24zZEZfbTFJbzZ1RnpuQnZ4RlZhUzZSd2NTa2s1aHdwWE9OZnlOTzBOM1RtSE1tNUJiMmFXclVNZG5SaGY1cHJOdWk5MkJBWENhbGtZRlhOeHVaSlB0ZDJVenVVZEZEUDBldnQyWFFGREltSnUxNmxiSHZB0gGfAUFVX3lxTE1yQkpSeDFjYU1LbzlvVXhlMFBPSUdzaVdWV2FkLVN5MV9oa3ZDdXRkSjczeEhSXy05bHJYcWxmemM2ZkQ2SWR5VDM2TTdMNk9Ia3pyZk9TNTVhQkxKTmJCSVF1bHdqNU5iZ3czTW5WYzhVT0tPRTlUVTliRHVlZC1mY181NVk4c0RjaXI1WmsxQWJueEhxM3lIcnJTdjNxUQ?oc=5",
-          "published": "Sun, 16 Aug 2026 18:10:28 GMT"
-        },
-        {
-          "title": "Марта Костюк – Софія Кенін. Дивитись онлайн. LIVE трансляція - Sport.ua",
-          "publisher": "Sport.ua",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPek1HQ04tckxjdk1pa28xNU1jOG1pWjluV3dmcjZhY1ZZVTF5NU51TzRCOWVONUk1UVdTaTJfRms3Sk83ZFVNM2JLb0NzV0VpMDlKdWh2dnE0VjIxYjFxQUxRQUV4NDl5SlVkcXU1aTh2YWVjam9zUmhYbzhncE5FNkxVdFJGT2QxR0RfY0FPRmlYNHd4a3pF0gGcAUFVX3lxTE0xOE5tdWtQNUxxUjhsUXRya1FYUW1UV1RJVnJVckttSWlWSlhscEJGUHZyNDBnNVRwV2YtV2lCM0RGVUhTamFTQjJhWVlYamppMUd5Y1diRnFfMUFNTVAyZE9EQ1BjS01VX2pjcEZYUEx3QlVPdUJ4UGQwYVYwVzVyRV9tb3p3YUYtbWdNQW1JMlZ4TW0taXFoUzk3Yg?oc=5",
-          "published": "Sun, 16 Aug 2026 19:05:00 GMT"
-        },
-        {
-          "title": "\"Вона ж присіла\". Тренерка Магучіх розповіла про \"прикольчик\", який трапився з Ярославою на фіналі ЧЄ з легкої атлетики - Obozrevatel",
-          "publisher": "Obozrevatel",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPTGNLV3J4Tnl2ekJudHJPVlRCY2o1NHAxMHVJOFMzTEFVUzBVNndEVEQzTFowcnJNVzVyRVdIZWU4eFdmU1FQVWNLaGhkQnZhM2JiSlhTNEFnT3YtRGt6NHZPdHdCR2VSdmk1dDNZVXJVTjlHbzBDYmJUR3ZsUF9tWFdFVjV1aEMwMElUMElwLVplUEdNMkpseTc2SThHb3hteU5ZMUc0WU9iMFRWbE0xSlBsZkRaTTVmMVlaM0dONUNKTC1jTmxPTTdxbGx2ejRFSF83Zklicl9Qb1hsdXZMVmhuNWViYWNjeHc2UUg0R05sSDhpTFpvczBPMnZpZjlnNnJJeml0OWoteUFyaWtaNm5iYmfSAZoCQVVfeXFMT2lCQS1XT21hdVJzSGZhRDh5UWl6ZXZzY2F3M05Lamx0WFBvUXByNkVZNlZZbF9MWUxlOC1tOUszaWZ2MW5QZzgzYkIySUZDbWl1c3pDWWsxLUNpUlpfR2xxRDEzVGZ4WGVkU2VuUGRGVEo0ZXU2cE5GS3FKY0U2NWxHdXdyNVdESEpjZ3RfQm04MklUSmJ2ZnlmZkxwRVh0WVV6ZDRudmRzZzNtSlVlRGRsTnFJanV2blEtbzBrbHJoWEVxYS1KaGVvdHNYRTJiUXFqdTJWalFfRGtnN2NOcHdzY2MteHBfTXpLN0RxNEF4WEhoN1JSeVAxNzBMQUdUT2FqcVItaGhRUzFDbHRCVUoxdXJZXzNEa0RB?oc=5",
-          "published": "Sun, 16 Aug 2026 14:24:35 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "У Підмосков'ї після атаки дронів горить найбільший склад Wildberries - Українська правда",
-          "publisher": "Українська правда",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qZlpITDc0NTFaeTU3RGpTbXhydlBGdVNHVVVub3oweFpwbFVnUEN4NVU0c21CZERKWG9KSGQ5RzZQeE1oR2ZFWk5SMU5PbUR0LXlnQmhfaFhQeFhHVUI40gFrQVVfeXFMUHNEUEZYajNVR3NoWE1xMThqSFJBa1JRVTBYTm50TVQ2UkhpbGhkdHB2N3RhRXl1SUtkbGpnUTNxNlRVLUFTaF9WTjU1NE9wTVUtdjRNR19GSjlSUVBVRXNSQUJWMXVDSjFkaHM?oc=5",
-          "published": "Sun, 16 Aug 2026 03:21:00 GMT"
-        },
-        {
-          "title": "У Донецьку після удару БпЛА згорів ТЦ \"Галактика\" – росЗМІ - Українська правда",
-          "publisher": "Українська правда",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93ZEFISWlvakNUOGJyOU45UjJMeTM2RWVTY21hdjZOeE90dlRtX24zU1h5Y2dOU3RfeDBJSVl5SlZ2YXF5VEYwNmNNZ1MzQ1YzeFE2aDJlZVpqWUhpQkNB0gFrQVVfeXFMT1U2VGNxcUVfM0ZlMXJxaVhWbXdjQm1KWWNaTVZYVWotd2ljWHB0TkxJTG95TmhXVXdRNlg3YzZkZzFLYldiVW0xa1h5T3g1VHlDUGtiMi1QNzRfbEJGVEktMzFtUWlJTGN6ZW8?oc=5",
-          "published": "Sun, 16 Aug 2026 15:32:00 GMT"
-        },
-        {
-          "title": "Винищувач НАТО збив дрон над Румунією - Українська правда",
-          "publisher": "Українська правда",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTajZKcENPOHdHZW5DYmstR2RGTHN2eEdWQXpYQURmSG8yeVo1R3EwUm1HcDZBclgwRU03WGtvaHA4OEQ1Nkxnbm9mT2JaWWlDTnE1QWRtVGVNTkwtWjJN0gFrQVVfeXFMT2h6Y1N5eENtMGx3UFdYWm5LSG53SWlJTjVkVjUxOFdLWEhZQWo5RWJ2czVXbG9VclpCdTJHQURLQVdPeGlKS0hkdUxMOUdzVTY5aE5BZ3Y3YkMtbXQzRlltdnR6clVMZmR3T1k?oc=5",
-          "published": "Sun, 16 Aug 2026 07:13:00 GMT"
-        },
-        {
-          "title": "РФ нарощує удари, а Україна готує відповідь: \"Мадяр\" назвав головні виклики у війні - РБК-Україна",
-          "publisher": "РБК-Україна",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWFMV09DYVk0Z3NTaGFORzJaTUxfOGR1ekdkWS03WFJxbklneDlQQ1F4OVY1Tk5Sdl9EdGYyN1dxeU1QeHBNbTdIX0hiVzMwX1FqRnVSeXhSU25lUXl1Q21RMFhzcEVRX0h2T290eDFsTndleEdQNFFiRUgwWm85aEFBRTktV2ZBSmhIZVYxTHjSAZYBQVVfeXFMT21mN0JFNjduRUpIMnpKNlFJVXVjb1FQQzBaajIwbng2MzM4MEZVZU44MTNtdm5TNG5PQUhNMV93OVhWdTFhbHhqN3U0Mm1MNGF0Qm52V2NodHY2elNQWHFFRHYxTng2UmJTSkFZWE93SGJXTHBhUl85V1V6S0ViQW9iak9vYnJqN1pjUklGamhqVHQ4YlZ3?oc=5",
-          "published": "Sun, 16 Aug 2026 11:17:52 GMT"
-        },
-        {
-          "title": "Україна б’є по РФ британськими дронами - ЗМІ - Korrespondent.net",
-          "publisher": "Korrespondent.net",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTZGd0g3S3NHRkwwZFBXTjdzQldxUlk0bWFUa3FGLXpBNkZqRmFWekVNWTFPendVdU1fRWNlcTQ0WVowaDROdkw5Y01reFk2aUROaHFlNnZRei1uS2xOYkppVVhKRFpkTXZKcFNCT1Q2ZDU4bl95Z3gzSDFhSlM1S0Z5alQyYmlWb0t3RmVEd9IBigFBVV95cUxQRzd6MUxraC1zWGV2WXhtZ2RuYlFsWmZyektOQWYzSTR3VmJob2tmRW1OR010YUdJNmVZcC1iSHUtMERtT3kwaEYxVFNDMTl1dnk4clZ5NXBtZU9wcmVuNmlvTld2UW5qTWh2X1lfMUlDbGI2d21wc21aTVdidUhXSm41ZGhibng1eUE?oc=5",
-          "published": "Sun, 16 Aug 2026 18:09:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

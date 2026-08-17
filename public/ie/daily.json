@@ -1,260 +1,43 @@
 {
   "market": "IE",
-  "generatedAt": "2026-08-16T22:18:25.246657Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T22:29:54.683391Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Five teenagers dead in car crash after vehicle driven wrong way on motorway - Sky News",
-          "publisher": "Sky News",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPODE3X1ctT0NrcmtmdzdwcERtbDlxcENvQzZ2VjhLUmVVMmVLUkRRSXpuQ0U5Z0FIbUFkUW00U0lSSlJSa2R1Y3JuSVg3QXA1aHk2SC1RODFRaWY4a291eGJGM1Mzc3luT1dBWjN4MzhjdDlxRU5jUVhoQXlYdUVhRUFlLWlmM3lJQy1pTV9DU0FaWVVFOFBmODVkTHR3T2ktX1dOVG9NbFBXSHFMbV9ZSnNjeE01U1d0UTNjQWxqOUFvRGtRcWhQcHV3?oc=5",
-          "published": "Sun, 16 Aug 2026 20:12:56 GMT"
-        },
-        {
-          "title": "Teenager who drowned at family festival in Co Leitrim named locally - The Journal",
-          "publisher": "The Journal",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMlpvM2hVeUFkcEJGSXBTSjBUbFJHWXB3MU9fMVQzZS1aOVlFeGxXN3d2RjE1ejJvbDczZF8tTjVhVkxTeGxRRmpUM2x5MHRBMFEycnp0TTItNjd1bHVVOVRpeFFkdklfdzZSZWo2c2VSa2FRMHNab0VpS21HRDhOXzZFSnVzc2k1QmFyMDBB?oc=5",
-          "published": "Sun, 16 Aug 2026 16:40:00 GMT"
-        },
-        {
-          "title": "Danny Healy-Rae's actions a 'scud missile', says brother - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjUDk3NFluSVplczRFSjF4ZTJoa0JFanhtMk5MWWpNSHliWjRGSHNNeFpzazYxbkxuOEpObmJpQjZWZHBUYWNtdzhHSUwwQ200SWoyQ2hDTThfOXp1UXo1azJXcTM5Um9VQndka3h1d0xVdw?oc=5",
-          "published": "Sun, 16 Aug 2026 13:55:24 GMT"
-        },
-        {
-          "title": "Garda car rammed by stolen vehicle in south Dublin - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGODhmTmhSeEtGSW5xMllBaDhxdjFqT2VTRUx6M3JiR1hCSTNwYU4wX3ZnMHl1TjdJdmVwVW8zN1RJSXlVNnFpcVlvT1V3S1UxYzhjcTZZenVrT3BuOG9vOUhVcUpGODNVY01Z?oc=5",
-          "published": "Sun, 16 Aug 2026 17:12:42 GMT"
-        },
-        {
-          "title": "Person caught in downpour while cutting the grass among complaints to Met Éireann - The Irish Times",
-          "publisher": "The Irish Times",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmlpclNIZkxkbFJUQmFHMVBYdV9JcTNkNmh1dllfSEtkZUl2Q3gtMTNROFJaaUF6ZkpLOEJ1Y2RjTW9MR3B0S2l3eWdSVjFNbGxTblkyNUNycUtRUmxZV3R6WldYTDJqZ3JKd3VBNHNSX1JvUFlGZXlkZ0FkY0d2WXkwQjVLNVhMTEtsRWxRNHJIYXg0bEJuLUFLaHEtNURaVHY3U2NfbHBPRFNxcll5a2pfeU42WkI4QnRzQzgyTjBJZXNiVDVJ?oc=5",
-          "published": "Sun, 16 Aug 2026 15:27:50 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Cambridge University defends its mental health support for Jason Arday - The Irish Times",
-          "publisher": "The Irish Times",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRDJVbnpHbUJSN01KRGVsQm9JbjVnaXNBU1ZnTG5nMURIR2JQRlpSc2paTTRldXcwUHk3OFNIbjJ2REJ2ZzRqcjVYbTZwVXR5NDhpWjlkS2pMWHlDR0NBcFlVQ3JOdDc1ZDFfcVh2YnotQWpMRTRCS2JySDVyRV8zUEhoVEtXcXFsTGdqVzc4NnlncXVUTHRhblhJc0ZhalpSZ2s2dFlPYm9va21XejVIVkxDUGJhYWdKcFE?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:11 GMT"
-        },
-        {
-          "title": "Derry bonfire incidents treated as sectarian hate crimes - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pT2RTNGpvZ18tTXlIVlk4RVFTbDBxMGF3NlB4b1pMNHRHMjlCMXV1MS1sblRCaWtySzl3aW5QTkgxRlFwY0FsSkw2WHVyUEFRVjFRenc2ZjMzanoyMUZleHJzd3hfQ1pXMENSS25MbFZReDRhaHBQWUpYRWF1d3M?oc=5",
-          "published": "Sun, 16 Aug 2026 15:57:27 GMT"
-        },
-        {
-          "title": "Sexual Violence Centre calls for new spiking legislation - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VRG5fMEdPUmE5dm1aamNIeTI1a0llMG5welJUaTRZcWFuVF9XU1J0T2N1cm1LX0s5M3pSSTR4YVl4bmhWS1pRb283aU5sbm4wLURxQzN4T0tHVVRoTGU5Sk13bmt2WHRJN3dST3g4Zw?oc=5",
-          "published": "Sun, 16 Aug 2026 01:15:21 GMT"
-        },
-        {
-          "title": "Iran urges US to accept defeat, Trump says Tehran 'evil' - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xVTVKSjgzOG82dWgxZ2lkRjRucnVzS0d0d25RMXozS2dZRXRZRkNxYnJ0TU1mcmhqelB2cXBkZUZJNHpITWdYOFJLem51OVRDYjNtU2Z2aDZUaGJpNi1ObUQxdGt5dl9rMXRzbVlGUzRWZmNf?oc=5",
-          "published": "Sat, 15 Aug 2026 07:46:40 GMT"
-        },
-        {
-          "title": "Indonesia quake kills 53, shocks hamper rescue efforts - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SRi03VENOQXBfV2dtZURHMlFNTV9EblRta3A5enFBUzNNZWQyYXN4cHJ4cFptMnNwWHhCa1hQQUtMX0cySzU5VDFEVlhkdHphRjQtcHRTaUl4UU9GZkh4WU1mMm9ld1BMczNuanJ4TFE?oc=5",
-          "published": "Sun, 16 Aug 2026 03:23:30 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Money Diaries: A marketing manager on €90k currently on unpaid leave after having a baby - The Journal",
-          "publisher": "The Journal",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObUdNcjhwcFBMWE1sYnFoaEp3aTIxYW95dzZHTFMtQmcwNUtDMlBxRXhYb2J2cW1pQlJzcXBTVXRnQWxEejZudnl4eWpkdURYOVpidXJuQmNkS0JZYjlaanh0MHlqQmRVNUlEaWZZRVp0LU81c21QLWYwU0xoNURZSnluVmNIV1BCN3c?oc=5",
-          "published": "Sun, 16 Aug 2026 19:01:00 GMT"
-        },
-        {
-          "title": "It’s raining men: Why exclude this Irish meteorologist from her own story? - The Journal",
-          "publisher": "The Journal",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTURfeXFKX1NMNmJYdDlCRHl2eVhzZ2NmZVJRSkNTMFRwWDg0cnIzZWxRSWxNREkwOE44czhoS1VLNFFQaEZoOFprUDVmY3NoaHZwMG5TbmNWeHJWWFlZMmthdHloZ1dwb1JrRmVHVjF2YzJaQmY2ZV93V0k0bDEwbU1uTVdTMzE3dWlxM1RkSzZkeXJBZTA1MFZ2Rl9SdldHWWc?oc=5",
-          "published": "Sun, 16 Aug 2026 09:01:00 GMT"
-        },
-        {
-          "title": "MYERS: we face food shortages, ruinous inflation, and even war - Gript",
-          "publisher": "Gript",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVy1wRmI5Zk50WDk0VzNrbHFmV3dqZWJKSVIxcVFNbG05ZFRpdlEtLTNhTXB2QmwtaVhuTFRWaDY3aUIyQWlLRFdJMGJtVnR4bV9JRUJoa0ZpQVEyUkJJTE9oMjVuYkpaYzVtTFB6VlViaEFIYXVDamEzVUVmN21iR2FjUQ?oc=5",
-          "published": "Sun, 16 Aug 2026 16:45:48 GMT"
-        },
-        {
-          "title": "Tired brand: Raleigh the latest big name to hit the skids - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aak52U0lwSVMxQ2o5SkN5S0JuT0ZZSGd2UENmV3hSY1hZb0VOZkhEZ3FqZEpZWEpoX29GbVdHNWpJY2xPQy03Q3BuOTRzT2F4NDdCYnk4RnIwY3kyRHNNM1RCVDNnMFlqYjZ1VUFQeUpmZHAyU200ZXB3?oc=5",
-          "published": "Sun, 16 Aug 2026 06:00:00 GMT"
-        },
-        {
-          "title": "What the papers say: Sunday's front pages - BreakingNews.ie",
-          "publisher": "BreakingNews.ie",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY1BIT3g5a1BvN2RKOWNaalVVZC14aTVvRDdjeWdpb0tnVWVYUXZGd1JJamhYbjV3VnY5WWtTckU1T2ZLcWVOdDZCOWtJdkJOeXlMQ01VYUxWb0lBanBCMUo0STJWeU90bzY4TlZ0UkJLQ1RtZi1XcnlIdF9wYV80dGFQV0VYMTJhQ214aDZvMFJxbm0yWWc?oc=5",
-          "published": "Sun, 16 Aug 2026 08:01:20 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Mona McSharry caps off memorable week with bronze medal - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUkRTWFF4bjJGS2swLTBxS2JmQTJJU2oyTTI1ZHhXYkRDNDZGQkw4NUNNVWdSLXhoX2c5dG5WQ2F2c1NUZUJDeUxhR3hQZ1VBcFdMenhNMVJPbUFvZXQwbnBqUE5Ici1XbzBhZFpSYXlBZEZtc2xnNVdIOHJwa1ZKS2hqNm9mNXNCUmkxY2s5MV9hUXFJUkw5RjRtY0lXWDNwNjhKLUFR?oc=5",
-          "published": "Sun, 16 Aug 2026 16:39:06 GMT"
-        },
-        {
-          "title": "Ireland come up short in World Cup opener against Spain - RTE.ie",
-          "publisher": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQczVJR0VnSDNWZGpSSEp5eHdHd2FFbHo1elBSb1Y2RzNJUmJhTjYzanloeDVQb0Mzc0ZtQkVza1lYQkxiazdmNXE4am5YcVN0WHI1ZGpoaWtIZW0zWXJTU09MZ1N3aDV4NUc3dDg4OTdVLTNTRlJGUEgyMXNkVW1qLVNLTXQtYzk1MGZWdGVJckJZZ3RQa3dn?oc=5",
-          "published": "Sun, 16 Aug 2026 21:17:51 GMT"
-        },
-        {
-          "title": "European Championships Day Seven: Sarah Healy and Sophie O’Sullivan prepare for 1500m final - Irish Independent",
-          "publisher": "Irish Independent",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTm1wckxfdlpHUFhKbFpxNkVTTGUxTFh2LXpORzNvNlI0WFg2aE1naV96aWplcVJBc2owczMtRFRVYzZpbDN4QlJUWklESWp0MWFTaHRETXpYSkU0QUpaT1ZPcmpwU1JVNWNHcUEwdjBRWGxxQVhPQlY2NmNxczdCRm4yX1Faa0NHRGQydWh0eVc3YmsxSUVGaEV5Qmc2UTVKQ2VNY2NiYzE5R0RhVGpPYUMxQzQ3RjExem93RnRieWZTLURmMlo0VXJ2cEJlZW5YSmJBbzRhbFhYWjlTOVozUkpTeEVUeDQwMGJjcE1NVkZhX1dk?oc=5",
-          "published": "Sun, 16 Aug 2026 18:29:46 GMT"
-        },
-        {
-          "title": "St Pat's stun Shamrock Rovers with dramatic cup comeback - The Journal",
-          "publisher": "The Journal",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fSHZkS1NDckF2UTRVQzVFb0JQNmtObUpEQ2VCcnBzZzZGNEdISUJ2aWpYLVpETGoxaEU4R25QTE1QZ3RVTTNIVnMtNTNaVUlwanRwQzFoQ19VX3RWSjdCVm1RbDdiUW9uVXJKZDlpTmlHVF8wOHp3MlBn?oc=5",
-          "published": "Sun, 16 Aug 2026 15:56:00 GMT"
-        },
-        {
-          "title": "‘It’s way more prevalent than maybe we’re even seeing in the media’ — The GAA’s ongoing battle against the cruciate curse - Irish Independent",
-          "publisher": "Irish Independent",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTmxPZU9jLTdleEkwZDR3U3djRVVRQnQwdkxDSE5kU3BYb181VU1DenRVZlVWbWl1ZU1McHdxdTU4RUZGWGR3ejMxZ0pxcFNIdWRZVjhYT25Hd3FidUJjazV3b3hCSFM0dW00OWp1U3o4VFAzVmw0NVI2SXpvdno3S2hVUXpKaFQ3NlUzOHk5ekRDOFlGSldOdDFybXJra0lNN0x5SGN4MEZmWElnWFZVOGRaQkpISWUyVnFWV040cTRHUTdPWDZTWnZsSzVJRnVvY2h5WHg3SlVjNDJMcVdXd0F1bXhoeWFzR29IZVhJcjF6RUNSUG9xbDRCNEw?oc=5",
-          "published": "Sun, 16 Aug 2026 20:00:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Glorious sunshine brought a record crowd to the Tinahely Show - carlow-nationalist.ie",
-          "publisher": "carlow-nationalist.ie",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWFJJM2JYRGFRWnYteUljOEZDbG93c0V0Mms2MUNGU2FJNm94djdUUnVzdDA0WGJKZmdnZEg0VVhWWjN1OHIyclVmaThOWU1lZEJnTDhGTWlmV05oMV9zM0NNR09DRDJYQk41WndFUmtVRHBnTXdfUnF3RXhOR3gtUmRVTWp0Y19DeEYyZ1pGUFc4WEJidmRyMUxCLTRzdXRJV3VhOGdoY1JCaE0wWnFaUVpRVy01T1J3T2VMT3JnVlJBcGp4OUE?oc=5",
-          "published": "Sun, 16 Aug 2026 09:00:00 GMT"
-        },
-        {
-          "title": "Tullow park run marks its 400th event - carlow-nationalist.ie",
-          "publisher": "carlow-nationalist.ie",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ01Xb0ZYNGVGVy0tb0RoRkNwd2djR1MwY2tqQ1k0R09GZXdSTWh5SDkzSzBYQUNKckhYSlQ1ejZuRm9JTk53cHQxZlYzcDdpYmpmUGhzSjlPQk5FSzVhUnBwWXB1aXFVTXR5TnFoeHNUSkU1UlJkMzVIQjJvYVRSb09DcjJ6QjM0WWZpZmV6MHBFVEd1UVp3Y3M1NU5qQU1xakxPX0d3?oc=5",
-          "published": "Sun, 16 Aug 2026 09:00:00 GMT"
-        },
-        {
-          "title": "How brutal honesty in Ballymaloe helped put a therapy trailblazer on the path to profitability - The Currency",
-          "publisher": "The Currency",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVFJQWWtIMGxOX3dZZFFzd25pQTBLd2dIdnNQQVpOVlFEWW5qenY5TURVU3pjS1RpSWRYWG1pV2llZ0NJNjJ6WFk4OXVyUmt5YUk1bGRkcExUcWpFeElmNW9vQUJzT21WQ1NXZDFQRDBXOFJ2Rkg4UlVNT21FMWt2SGtueVVZZExXVDRhajM3SldrakIwVE5hekY2V1BQZ2RmQS1vQ2NFS2t4TGRRd05HS1M0T1A0T083RkRnRS14am1yNDVpSldCaGF4QlpGS2RDN2c?oc=5",
-          "published": "Sun, 16 Aug 2026 03:18:37 GMT"
-        },
-        {
-          "title": "Villa Crowned Presidents Cup Champions After 5–0 Win Over Tramore - wlrfm.com",
-          "publisher": "wlrfm.com",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblVxd0FYVWlJWEFqUlhibFNWbzdCWHBrMWo5MERSVnhqa0s0ekNYbzZEME5ZWmJJV1JYMmVsVzk2Z2gyeFhHS2tQQ3A1Nkx0NWU4dEh0RUJNeE5ITXRrRmVQQlRVNmNJSGcwMlBaQThMc3FjOHVTa0ZJRkp4QWZNTnJKWGNGQWFXazVYNXo0elZiUlQ5SmViazVRMUoyS0U?oc=5",
-          "published": "Sat, 15 Aug 2026 17:14:32 GMT"
-        },
-        {
-          "title": "Tallow retain Premier Intermediate status as Ballysaggart are relegated - wlrfm.com",
-          "publisher": "wlrfm.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRmhCVXpyYmF5TF9xYWtjQWlva2VsVU5vMzBxWFZvWmpWQzhPVXFsVUtVQndXUUs1cmxCRTc1OGtibkdmeVZwSU93bERvMC16VmJoOUduZ0I5VDRIMnBUcFRnRU5tUTFvTXRFYm4zRHZXdzV0OTgyYUlCempySldGMktFZVJNV0d4MGJ2S2Zkem9QZi1xdjJkS3NHYVZwS1RhUTZLN1UxQQ?oc=5",
-          "published": "Sat, 15 Aug 2026 14:45:59 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

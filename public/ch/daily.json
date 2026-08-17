@@ -1,260 +1,43 @@
 {
   "market": "CH",
-  "generatedAt": "2026-08-16T22:18:58.784698Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T22:57:44.152249Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Fabian Staudenmann triumphiert erneut auf der Schwägalp - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM19TVmNid1hLaDBjNUR6eDJkVkdZNHFwb2JHblJGMm41QUc1WFZRQ25FcVFhNWVRS0xLVndxczVUbXpwQllESlpRYW84SnM2bDF6ZWg5M0VubHJ3MTNHTmZteFlXNkF1S3NtRVpBZE9CMmw2OEFzU3BHWnNBZHRzZklldjdYN2tFOXlqS2tCbVQ1dWVMM0NOT1R6UkdMeWJWOFFrc2I2QTZ2WWlMcmQ5dHpuZw?oc=5",
-          "published": "Sun, 16 Aug 2026 15:22:00 GMT"
-        },
-        {
-          "title": "Valérie Dittli kandidiert 2027 – Mitte-Partei reagiert mit Kritik - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHJUYzBtWTdqOWh2Rkw0VXNVSHBNVUJVbDI4N25aR1pmd3FhUWJINzNWVkU3cWh3MmFld3VyaFAzbTJXSkZvN3UyZGFUQ3NSQVl6MEl0X2pDR3c2VGY1c0lsejJaSjk0QjlVR0RuS2RMaFRXZlFsNHYtLW1ROVloajlrTkRKTlRYbHpISTJmMEtEcVZhMXV1cnVsU2NTZTRMVU12UVpUcG8?oc=5",
-          "published": "Sun, 16 Aug 2026 18:32:41 GMT"
-        },
-        {
-          "title": "Töff-Unfall in Amlikon-Bissegg: 18-Jährige stirbt nach Kollision mit Lieferwagen - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdThOemRoY0RaSWpURHFOaHM0RE94WmdWSW5kRnpkWlBuRmNIYU1tbjNiTUdrVUVsWk5NREY0ZWlaU2tpZnNkY3J5Qlc1allFZFc0YzB6SUxFeThDQWw1aF9YcFY3Y0ZsNVBfaFhLUlRGUFpyeEJ5NDVqRkRmT0w3TGtHZkVyMVp2X21OZjdTS21jVnBQR3dZQ3NpOVc3ZHNZMnBmYmZhazZfcTM4VU5EWnUyWFZlUnBZM19kTg?oc=5",
-          "published": "Sun, 16 Aug 2026 18:01:33 GMT"
-        },
-        {
-          "title": "Nach fast 20 Jahren: SVP-Nationalrat Lukas Reimann kehrt dem Bundeshaus den Rücken - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORFlyWk5FTFR6M2tkUHg1c1R3T0xNcHJ3MWh0b0Z3RDdZbDNQOE11ZHFaOE1yMkVjdzRPTW82a1I5djFMODhGZGp1d3piTDVWZXB6NG5vTkRUdVlGdTN1eGgzdTFlR3pjQndaTkZTTnNWRDZObFU4U29XNWsweDM0TC1wZ3RHWWlQOTJ5WWI4T2ZzdmlPZV9QQlN0a0tpSW9DVXc?oc=5",
-          "published": "Sun, 16 Aug 2026 17:41:20 GMT"
-        },
-        {
-          "title": "Waldbrand am Monte Gambarogno im Tessin ausgebrochen - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnQ4aGl0ZGFfXzF0dlBTSktvc2pfaWpEV2c2NnBfSFdGVDg2N0kxWm5nMmdIa1FOY2M5ZTRnRUZIQjZNME95UDJJYzRWaC04Nmh0WVJUWkY4X3cwRVFqUkVKejBSVmtmMEZ1Y00wbDk0OFRxWlJMd2pTLVU1R1BwNzg3czc0OE9QajM5dmh2SWtJRUMtVGVKdGZFN042NjJQWmxnWjRmWTB1U1o5cGxvdFplWHltRkY4bUlOeUVn?oc=5",
-          "published": "Sun, 16 Aug 2026 19:37:07 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Ceuta: Keine neue Krise, aber die Spannung bleibt hoch - NZZ – Neue Zürcher Zeitung",
-          "publisher": "NZZ – Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOGYwT09sOFpmMXZmeUFzZTFYT25SS2prNWI4ZExfSVBiMi1ORW9pc0tEaFA0Nl8xbkptMnVRaFk4bGxFendDMkVfd09KRUQxMV94Nk95R2c5M1FISUFZVHNRdHJNUTRsdmN6RDRVNHo4cnR3YjUxeFJjUWo3OGRxLTBwU1RMbFNwYWVDU2FqcDJ2WWFsdGlTdnNwdw?oc=5",
-          "published": "Sun, 16 Aug 2026 06:05:17 GMT"
-        },
-        {
-          "title": "Newsquiz der Woche - Wann ist in der Schweiz wieder eine Sonnenfinsternis zu sehen? - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0ZzenJCaEI2ZFUxc0ozSEVmdmwxWnF5MGV2SHh1dXFodzI2eUxJdmNnb19sNWxFUkFhd0dMS3ZBbzY5eWlPd1F0ZTJMZWFPRlZ0SmptTDJWd1ZfcUJRNGVhVWFtd3N0UTl2SGo4amo1Slp5RUVwNG9OR2lmUFlyVXlLOFNvZ3BJSEM0ZVM3NnV1dzQxb1pxR21FRmp4eGptNWNSME1TWWJDSEZVVmhQeGFNTFdZWjBp?oc=5",
-          "published": "Sun, 16 Aug 2026 07:29:23 GMT"
-        },
-        {
-          "title": "Der Schwarzwald brennt bei Schramberg DE - Watson",
-          "publisher": "Watson",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV3NiUzFna1EtY3hCVTJ3NVdCbnZLM1VkSm9hcVczcnh3dzNvN2JUMGMyUE1HQWhZUUNidkYtbUpsckFqNnNRSks3MWxTS0pFMlVoNzdDajUxOEEwaDFGVzZBajZXQk5oWXg4c2VqZkoxTXlZWjJhY0NfUjNvN3JrcF9lQmwyN2d5bW1EU1BKWUFlZFFaSkgtZWdB?oc=5",
-          "published": "Sun, 16 Aug 2026 17:29:15 GMT"
-        },
-        {
-          "title": "Laut Moskauer Bürgermeister: Ukraine greift russische Hauptstadt mit 600 Drohnen an - GMX",
-          "publisher": "GMX",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajZjQkRWSm5nX2ltSC1nZHBab3FQdnNzSXBycktJMEQxbFowcDdjSXQ2MHZDYV9RVE9qWkJCYUNsYXo1TlU4OG1JSWp6dDROV3ZtMWJKMHRGVDYwSzU5X3lMVFJIczNtZHNRczRsRXNPZ2RkVF84V2dnMkMwZV85Y3R2TDR0WG1JUm1CSHU2VlJTdXhRTHhoUTlDQ04zaWxHNE1NUUxaQ1ZHQkg3dmtsSkViMnJ4UQ?oc=5",
-          "published": "Sun, 16 Aug 2026 04:45:06 GMT"
-        },
-        {
-          "title": "Wie das Oderdelta zum Paradies für Wisent, Luchs und Elch wurde - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0M2aW8xNjVfbXQ4d2RUTW1BWDFJLUoteWg3eGlpQmV6SVRTWTlxeXFIZ2x0a0x0bnowTGk1RHAxbTE1SHdKeFdSTzRWWjFESFNLRERjQTdtUUg3SUJEQ0dDZ2ZVLWlKT3NWNWZkU1Z5M0pUelVISXQ2TVZZT2Vxb3N3NTdNeU1kX19JUXk4ZFFOXzJnaHNFRUlIcmQxVXB4YktzLXdfd19EM3cwODllbmdjWEs4SmZT?oc=5",
-          "published": "Sun, 16 Aug 2026 17:53:02 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Kundenerfahrungen im Detailhandel: «Uns vergeht die Lust am Arbeiten» - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVmQ2NEtoTnhNTlA2SEszRlYzSjh0TGlqcXA4OVUwTEg3M1YwN3pNYTNUeHFIaFhhTEplWXhMSVI4X3RscWxUeTh1UVVYZjJwcVRJUk1ablBMclNOajM1bmoydkJyTjNXaEx6RVNHMURPMUFOQTVnR29TVEw4cENMMk1zMjhEMGhYYjA3OU5HXzRpeDlFZ3g1MEpKNElCNnZxbUVmRUhUejRvNFAwMG9iZ0hmN0Qxci1HMUYw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:49:49 GMT"
-        },
-        {
-          "title": "Bankkarte in Gefahr: Partei «Digitale Integrität Schweiz» warnt vor Handy-Zwang - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMExCWnRaNGw2S3RpTTM1ZnlUbjRheDBfQ282Mm9XaUcwQ3dadGVzWFZ2Y0wxSGVRSzRpZUlZcDl2Z1pfY0k3TVYzSEZCRFpUbGNtbHBaRzhBZFlhYVpKTEdRSVFFeHJSRGYyVXRYM3h5NGhENFo1MlBhS3RhNllqTmlGdTg1TGFQTmU1bHRkTHJLS2lzZno1Q1pLZ0VUNmxfbkk3VW9rX0lhOVk3M1ZqTVY5cmRZWFhmVmpyN3VR?oc=5",
-          "published": "Sun, 16 Aug 2026 16:50:29 GMT"
-        },
-        {
-          "title": "Roger Federer verliert Millionen: Was bedeutet das für den Tennis-Maestro? - NZZ – Neue Zürcher Zeitung",
-          "publisher": "NZZ – Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORGNlN0xzNnRHd3Z2dVFseDQ5QjZWdW5DNnNSMXBodERMNVo2VVRZcWtlWFVFMUpqZjkxLXhMRTN3VFNLVS1wVTQ5SDZ3QU0xYWF5RlctZ2dpeEJ2ajVyc1BXRkc2SVA5SmN3RkpjTkhJWk1jakZTaE5sUnV0MjFJVjZUa01IZm9aZVdJWHB6cHpaelpHNDVFWk15OUZQZw?oc=5",
-          "published": "Sun, 16 Aug 2026 03:30:00 GMT"
-        },
-        {
-          "title": "Private Credit: Das Billionengeschäft im Schatten der Banken erklärt - Watson",
-          "publisher": "Watson",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcFJLX1l4ekZPekVoSjN1ZUZBR3JnRnNteEJ3M0dOYlhNTF9NaDdoRmtXQWhYTDFzLTlreko5UFZ0UjBtVWxfMWR0YmtxVnJ5Rk5GRzhFekRqOVd6XzdUdHlnQWhfVTBFM043ZWlFLUpfUU41TjBWeHg2TGx0aXpYSEN6cnVFSXl4bEJ2RExVSFpoRjBHbkMyQ3dfQUxPd21VeUlKU1hVbFJJWHJuSDRV?oc=5",
-          "published": "Sun, 16 Aug 2026 11:52:22 GMT"
-        },
-        {
-          "title": "50 Jahre Crémant aus dem Elsass – eine Erfolgsstory - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYklEbXR3cHJLenN4SGFQbFBTRjlYUUJoRW5jQnh4ekVjWGZCbjV4aXNJMkc2Q0kwbUN6N2hFZ1g5aC0yNkpIWnA0Wld5a3dJSEZVNmZCZHI3b2dMbldVbFdSSFh0ZDN2eFkyQ3BzRXVLeDVtdGNIX20xdDBrekJ1OFl6dlBHSzNPUTJYeHFleFZsRV9BdGJFS0JiOTBqZG9kUC0xT19GczNMa1JnUEZjWlhNbFpROUtKR3VJaHBUTDFDd2lNaFdN?oc=5",
-          "published": "Sun, 16 Aug 2026 12:14:50 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Der Liveticker zum Testspiel FC Basel gegen FC Barcelona - bz Basel",
-          "publisher": "bz Basel",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnNtWEFKcG5FcXlvUDcxbjh6MnZsRlVCRVJSdVZuQTh4UERFcG9faENnVlRMY0twcHZDeGtDSmVkUUdIbHRUR3V6YXdkbkNmNFRkdEhEb2dJV2VGVHZZZTZwU2xabUxJN25abk5wMEJLRkZaN09JS05RZ19kTmxJa2lwU2c3LTFKV2JEZENsU3AxNmpiVlpna0dUVFJTNDJPQlAzOVlNbEE?oc=5",
-          "published": "Sun, 16 Aug 2026 17:49:08 GMT"
-        },
-        {
-          "title": "1. Runde Schweizer Cup - St. Gallen in Thalwil und Luzern vor Odermatts Augen abgeklärt - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYmFheHNxT2ViNW1Ja1hmWGZIQ2k4T1ZEazhoVDlGUW91b1hZdVVfMGpMY0hQVjRqZ1hqRmd1bzlpeDJsOUNXZkRxYUlSOTBUWFRPWWxBN0NOc1gza2hwSFdabXJwWkZUZnFHWFdHTWFaU0JMV0p2aFV3dUt4YjVaOC05aGhFMUloOUxOSFJfNTZ3ZmJkcmEta1l2a3dZY05DRUxUQVQtcUdhU0xkbFo5RUhwTlpvTkxGaXJCTnpzY3hfZVc3MkJvdGRGaDg?oc=5",
-          "published": "Sun, 16 Aug 2026 14:56:51 GMT"
-        },
-        {
-          "title": "Die Schweizer Staffel verpasst zum EM-Abschluss eine Medaille - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmpXbU5rVG1TRVhrTk9uX1pneC1sUTF3OVhucHZVa0RMYkwycTRuSm5hQnJzdjNyb3FweElCLTZqWVRIUHJWMS1aQjhiSlpCVHJGbmNjWDJoV2tvVERTdUJDX1dpdlJPWWcxa0h1NkVHQ0F4NmEyQWZnOF90OHMtMUVxVHBVY0djajgxVkMzZ3l1QzJpcVYw?oc=5",
-          "published": "Sun, 16 Aug 2026 20:57:08 GMT"
-        },
-        {
-          "title": "Schwing-Ticker: Im Schlussgang kommt es mit Staudenmann gegen Zaugg zum gleichen Duell wie auf der Rigi – Schlegel musste fest abbrechen - sport.ch",
-          "publisher": "sport.ch",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43aWVlWVZ5enJmMVNDQ3dLQ3luVEJBcWNSblFUV2FuUHVRYldXV2k1ckx3QW9GZTVLSVZtS3VDSlZORjlIU0pDLQ?oc=5",
-          "published": "Sun, 16 Aug 2026 12:06:01 GMT"
-        },
-        {
-          "title": "FCL gewinnt Cup-Derby in Buochs 3:0 - Luzerner Zeitung",
-          "publisher": "Luzerner Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNelFjYl9KV0tJT0NZbTJCbnAtZVZtSjh4TXN2aWZCc1YwRG9UV0tld0xBMm1CWlR4NmpuUVRlUERjQ0lzczlkMTJfYklEX1p2TE1oczQwLVVNOVJkdlJFY2ZmOEtXRkNib2tndG90Vkl2RGVDTHFMTGpWNThlSUVjU2hQa0JFa0MzSHBEcGRfV2RIMk9WY1E?oc=5",
-          "published": "Sun, 16 Aug 2026 13:37:13 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "ETH-Professor: Ohne AKW droht Scheitern der Energiewende - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd0F3dHBVbGRtdVRLNUtLbnJkdGxZWUVNbDZFNlJHallyTFhOWTNzVGpEVjBYU2x2NWVHZUV5eHJGdTlLUzFEaU5zWkdaa0huX3lHMVNGRGI0cGVzNTE5ZGp6OURwTU9KNUpvWlRpN1FHOFRsV19RM3NfRktqbW5sTzBZMVRuSjVSRW1JUk9JRkZXUlBZUW5SSk5CQkNyLXhMbUJCUlFQMGZXMFU?oc=5",
-          "published": "Sun, 16 Aug 2026 12:39:16 GMT"
-        },
-        {
-          "title": "Nokia 9000 Communicator: Das Ur-Smartphone aus Finnland wird 30 - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGdNVmp0R2xLeFpVT2JrUjY5dlZhTzZiRkU5QXFyelV2OVpQV0NVVFFCNUx1ZHBjZ2pYUHJzMC1Ga3lleG5JU1kweDVvdldFcG9QYlROTkJCQTRuY2NOS3VNWGdMbFVLNVZxNmsxTDV2eGV1aVVfUEMyVWU4Y29QSG00emJLYXJvckNzQQ?oc=5",
-          "published": "Sat, 15 Aug 2026 16:29:31 GMT"
-        },
-        {
-          "title": "Personalvermittler zum Fachkräftemangel: «Das Motivatios­schreiben ist im Grunde tot» - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXJUV1V2enFGUll1Y3pqNWh3OGROMDJzZFZqZFoydVRvOV9iNjRmZGdpZ0ZJQXBnQjkxX0tjR0dVY2I5NTJMekIwNjFfV0FoR3BST3JvNEc1MlNZRnd5WnF2elNjS0l5dEhmQnRET25jQVFNQm9WbDFKd1d1Q0MxOGtHRXBLVC16ME9YUGU4MWgwWUZIMHJPVUVpdzJqRlRkcHc?oc=5",
-          "published": "Sat, 15 Aug 2026 20:51:46 GMT"
-        },
-        {
-          "title": "Instagrams Rebranding-Unfall - Digitec",
-          "publisher": "Digitec",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6QlJBaXdOV1gtamlOVUJmc3czRjhNdDZyVThWb0hWTTlYNEtHZERZa2tFaVJQNThGb0xjN0hLQVdDSjJXVnN6cjJDLTNYb21UNjVFd2tvY3IzcExJQlRIUy1XNkdnak9HUERVWl81LTNmYzg?oc=5",
-          "published": "Fri, 14 Aug 2026 11:41:17 GMT"
-        },
-        {
-          "title": "Ukraine: Putin setzt auf Kamikaze-Drohnen mit Jet-Antrieb - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmEtLTRobTBlRjhoT2ptYnpXVVpqYW9vbldVLXVvU0l4QVg0ampEdV9QOUQtZWlpWlQ1TGt3YlRVNUQ0VmlQdi0tcHdKei1uVGlGRERyQWVpNFljbjkwRmttVzBFVjh3S05hX3FNV0UwRXVSOVA2dWR4R2M5aHBSc3F4WXNGdGI5eklOd1A4OHdaQmQxdlYzRUltNGVKVGE1WnUzTC1GZ3F1OEFOMjBUdmpvX185aS1x?oc=5",
-          "published": "Sat, 15 Aug 2026 14:50:50 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

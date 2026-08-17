@@ -1,260 +1,43 @@
 {
   "market": "LT",
-  "generatedAt": "2026-08-16T22:19:47.251945Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T23:39:35.161864Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Tai, ką išvydo po 17-mečio žūties Palangoje – Daivą Žeimytę palietė iki sielos gelmių: parodė nuotrauką visiems - 15min.lt",
-          "publisher": "15min.lt",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaW1ZZDBsclFqNTcwZmh1QUR4LUt3M2FzREFYbWt0b0F3bDF5aG5pdTByYThwVUtjbll2Ujl2T0IxSVpsUlZMWm94TEx5c2h5clQ4VEUwekYtUHhyRE91S2VaNnJKZXI2NFJkYkQ5TUo0UTVuSWlBbTQxakE2aGFaVXFJUUpOLU1yWGxvOHA1cjh3Y1dHWGpvdmV3dkVLaHRTTnpldUFZM2o4THUwRUp2QW9nU0FiUTJYVHp4MzlBMGg1MHV5ZldOazdidUNqTW9QTW13azhYQ2JVVGVRRHBpZmpVMUc2RlROTlMyYXlrbl96SzM0MTU5Yg?oc=5",
-          "published": "Sun, 16 Aug 2026 19:05:20 GMT"
-        },
-        {
-          "title": "A. Toliatas viešai prabilo apie Lietuvą purtantį kunigų pedofilijos skandalą - Lrytas",
-          "publisher": "Lrytas",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQlctdG9FWk02bm10VWVIY2lIUlZnVmoyNXAxbWFPcFQwUmJCQ3JhaDJrZW8yVkNLczRtOTJnLVB5Rk0zOVp2VG04SVRDUHQ2bnNpaGk2MEdLazFaTUNwRVdPWXF1cDc4bkpNUXpaang4NXhOZjJabkUzakV1T1FVN3c2T0VBMXZ0WGliT19NZ2MyT1JaaGJyT1pPLVcxRjYwTVlqYndtQ29UbUlwMGdaS1c5MFNVUi0xOWhpYkJodGxUUmVTeExtRXJTMm9RSVZkRzdpU2lWNS1fdWhjZzUzOA?oc=5",
-          "published": "Sun, 16 Aug 2026 08:46:00 GMT"
-        },
-        {
-          "title": "Greičiausiai rasti Kirgizijos kalnuose dingusių alpinistų kūnai - LRT",
-          "publisher": "LRT",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObDNDbFZYOE1Uem5FUm9FRVlxRDVnQmowUS1vYmwzbl9laXdCemVLRUo4eWlpaUtsZmFXSlhQNUVfWVpCaVVrZFNjNVllZnNvRWo4N0xUWTNFdi10Z2oxclNPQzFRU29TZHR1MnI1U296aEFZM1NDWTJRcHhEUWd0aVR6eEdZS1VBYnJIZnliaks1MlB2QmV4ZjEyWHFqNzRvdXRLZnRNN2lpMGp3cnZVdHhR?oc=5",
-          "published": "Sun, 16 Aug 2026 17:52:00 GMT"
-        },
-        {
-          "title": "Kalėjimų vadovas: atleista Vilniaus kalėjimo darbuotoja buvo atėjusi į pasimatymą su nuteistuoju - tv3.lt",
-          "publisher": "tv3.lt",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeTJJdHV4OVhLaVF4RXA3eHpNR2FyNlRUMlRMaE9ZQWVLVjNDWEJZamVUQWZlMEljWTYzQ0dHM1MtVFoyZUszOHVKSXVkcmRmM3RVT3hjdDNacEJlSmFvemZjbVhwT1dlMkVoRVBHQzNVaE1vRTE5WEN3Sm0zejZmSXBkN3ZTZmZvZWROTWVYY1R2ZWxVTUNNQVEwNm5aY1lROFBjNTFPNkkwVUlZVzhCOUY0enR4c0J1YVJpbHZDaXQ5T3ByeG9iV3Y3blNjeHJpd2JLTk91WQ?oc=5",
-          "published": "Sun, 16 Aug 2026 06:17:39 GMT"
-        },
-        {
-          "title": "Donatas Dubauskas amžinojo poilsio atgulė Sudervės kapinėse - Delfi",
-          "publisher": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMkprV2I0c0FFOTlTMEpUdFpuTVl1UU9Ia3VPNG1Oc3VmQkJ4YXU1anN0bklyN1pldFlRbDVvRVJBZFNwVlVpenJBdERpWGRUVGREbGpoVzEzNmVZcUFGZkx3eGVkNWUzOFp6SGs3MGJrZ3ZMRUlzNVZmVDc0bDZ6U0JRbUZvNGlIcnEtMUwwcElnb3lsdXYxYUZOcFNyT0paamd6OVEzVEt1OWpubHlPQ0FCaGtvcmRLTWotWFZyR2x2dw?oc=5",
-          "published": "Sun, 16 Aug 2026 10:56:12 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Ukraina: paralyžiuoti 7 iš 10 didžiausių „Wildberries“ logistikos centrų - 15min.lt",
-          "publisher": "15min.lt",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVy1rQi1xd01RMmFueVJxQ05YRmV4Y1FYY1JDUlNZNWZBSlA3UDFHZTFVTV8xZjZ6MUl6dUQ3MmFBUzQxclRobjJvSU5EbHFmSUFwRDFxTlR4T1hiOVR4MEp1cTRsUWZEUHR3Nl9QQnhiNzB6WDg4MDZnLTFpYWVyM1Zyc3h0UzhQdTR2RExPdDQ0MGFkbDFfQmtaX3poREpmVkNadW1IWlpvRjZDcFdNV3FKRFJXV1J0NEU4SjJfV2x6cHFzY2c?oc=5",
-          "published": "Sun, 16 Aug 2026 17:07:05 GMT"
-        },
-        {
-          "title": "Karas Ukrainoje. Rumunija skelbia numušusi oro erdvę pažeidusį droną - LRT",
-          "publisher": "LRT",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNREF1ZVNmQkVlQTQxUlZPdkFUeS03a0MwQWM2UlpXemYwVTUtcjVIX3MyQlQzbHZSNFBCNGVCOFY5b1ZMZU9UYlhpS2RxdEhZNUpMREV1bzc1MVJ2TTN0VjRiUkxabXJMVjVITTBrNDFNdkxaS1VULTdKV1d2YzdudXVHYzJKdlotdkNfX1JER0RZQkRad2h4Rzdfd1ZEZXpiVVFDMWhxbFFRSXA2N0VQZkVPUE5TTkk?oc=5",
-          "published": "Sun, 16 Aug 2026 04:55:00 GMT"
-        },
-        {
-          "title": "Varšuvoje prasidėjo Lenkijos ginkluotųjų pajėgų dienos minėjimas - Delfi",
-          "publisher": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeGxKM1VqWTVqeFBJaHhRRFV1dnNXR2VwUEk1VjFkMkpMcXFKX3hfXy1mZGV3SDAyczIxTktiVUczLXQydDE1bWdfVnJyaURYby1zeGlKNEl5YnlOOXo2Ny1sZjJsNUNxNG84UEF2WTIyMWd4ekhFa1RGLWNMcUJscnR1ZTdMeG1yNzlYUWpjYjJjVWZ1X1RaeEIwMUNrankwTEFVWDJRckVQekF1eEwwd3ZEb1Z2Zw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:38:21 GMT"
-        },
-        {
-          "title": "Korgių šventė Vingio parke: azartas, kostiumai ir nauji išbandymai - Lrytas",
-          "publisher": "Lrytas",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSTlZU0l0SEpJakQ2M0t2UjV2UXk1VDJPSEFNUGZXcEhZVm9UYmU2WGdZeDZjSzhlRkdpdi0zUlFQYVJ4V3ZrbFN4SWlNeHR2MjY2UTgzamJISXotTXpzUFFXb3lMSEJxaU1WX2ZBcWlMNGpYekJUbER3cW9jWWdWdU1hUFYtWjN4SmNKd2dQWVdaQXhxZnljVGZEZ29WTm9uYlZjRUkxR25XQVlBUFJpVVdGOEtNS3o1N3Q4WDctekpkMEkzQ2Q0eEZR?oc=5",
-          "published": "Sat, 15 Aug 2026 14:53:00 GMT"
-        },
-        {
-          "title": "Susitaikykite su realybe: Iranas išjuokė Trumpo ketinimus - Delfi",
-          "publisher": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObUJhd2ZFTFBFNjBYRERPZWpUT2UxZ1d0V3dReXU5YVp6RlY5WHpPNXFoVTN1ZE1QS0JnaDh4YTZwQllpWXkyZkQtcmgwTklmU3BDUkFIeTRUekVuekNTZUJtNHVJS1J1WC02MFJGVmtjN0h4cjhRTkZkZlhwTzktZkVGN2dFVWxPTTNQbXRVUUljb050Y3dpNTkxOVZodTlqM3o0d0JtZlRnbFE?oc=5",
-          "published": "Sat, 15 Aug 2026 13:19:25 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "Europos alternatyva „Patriot“: Ukrainos „Freyja“ sėkmė priklauso nuo vieno klausimo - 15min.lt",
-          "publisher": "15min.lt",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUmRpZjlNMzJYNFhBU3RYN3d1UWhkOW5pWUQtTWp3cElSZHZDYzA5Q0pibjVKczk3SFo5TXpoRnhRa2FYN1dIdjk5d1R6OF9jNE9IWGF0Yzd4a09rcXl0UVNfYThpNDdhM3BIZUhhZWdDVzdHT3ZjZi1jdXpfdnNJSjJVb29vLXBKS0lsRXl2NEJNZ3phRm1jVjE0elU5ZmZzeENwRFo1VVRwbDVBRGMzUFdkblpXR3hQSHJ4Y0JRWnVRcDZMRW05c3NVdGRxT0tOelZ3NGZLbw?oc=5",
-          "published": "Sun, 16 Aug 2026 18:09:31 GMT"
-        },
-        {
-          "title": "P. Vaitiekūnas neslepia jaudulio dėl naujo iššūkio - LNK.LT",
-          "publisher": "LNK.LT",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWERDYlhMczJPbUNuemM1QThtUC1ybjljdW5sellmQlVrQS03SFJfT25TTUdJLVNGNnpERGR1STY0YjQyU2FNV3JXMWJRTnREX0JDZVBZU1FBUkVLMEFpVVNmU0prTjU4aTVVS25wTGRVc1ZfNHI5ZXRTOXMxVE5yTVBxR3lTdS1VZDBVeU4zbU4wd1g4?oc=5",
-          "published": "Sun, 16 Aug 2026 14:35:59 GMT"
-        },
-        {
-          "title": "Užupyje būstų kainos šovė į viršų - MadeinVilnius.lt",
-          "publisher": "MadeinVilnius.lt",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV1E2MEZkMUlVeHhuQzVQVVF6S09TRjRJQ0ZaWGhVbGNiWTl6R2hUZFluMzlIUmc1M3piYzFDTFdKRnlKMkZCT1hUeUdvc0tKanRtNTEyWEt6ZFNPQjhldDc2NnY4bmxmS05LOXFwZFh4SGl5cWlJSklSdm1IOFdhVnl2RnlMWEhzaTNqZ1JOSmI?oc=5",
-          "published": "Sun, 16 Aug 2026 03:30:00 GMT"
-        },
-        {
-          "title": "Z. Milin. Pasaulinė mokesčių reforma – raktas į teisingą DI ekonomiką - vz.lt",
-          "publisher": "vz.lt",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmRtc2FnRVE2SXh2b1ZtSndndHZFOXdwR2U4TmJhSzl1WXRnMWNRTTNsSXpDbEF1ZHpieVAzNXM3N2VvOU1FYUdPSnhDczloU293eTU2d0RrZWVrTU82aVBGc1ZiZWtGQWtwSUR4dE9oc2w2dEpRQ1lOZktDZjRDa0NLZDNQSkxxby01NGxIOG5oaUNvWmhMekxTRWNhUHBZYmoyT3ZiUHM0ejAwSHM4?oc=5",
-          "published": "Sun, 16 Aug 2026 12:34:00 GMT"
-        },
-        {
-          "title": "Buvęs „Electrolux“ padalinio valdybos narys pripažintas kaltu dėl beveik 600.000 Eur vagystės - vz.lt",
-          "publisher": "vz.lt",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaHFGdURXNWFLTElpVXhDVGNkVVVSalQ3VnpLYTV3azUzVzY5STN2YjJGUzQ3RmxwUllJZDMwWVhRZDhKQmlFZ3M3WVlIbVUzM0tEc0VGeFJJOGpIT0k4eTRCWmYxbFQ1OWxrRHVvQkU3cDdReWFQNWtTdXd0NGg2Y3JDaC1CVnhFZ2ZDdkN0dE9KaUVVMlNKVnNGVTA3enI1NlVMVm5mUTRzb0VjTnJOX2I0U0JjalVzc3FBU2hqMmV6WDVNd2xLOHZ4ZVhFVUlu?oc=5",
-          "published": "Sun, 16 Aug 2026 11:05:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Auksinis Rūtos Meilutytės plaukimas Paryžiuje – tapo Europos čempione - Lrytas",
-          "publisher": "Lrytas",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZy1GQllEUnRCNFZPcTNYcThtdW9oSjVhdHJBMnF0VWR4cGstSlNBa0J4WW5VLWxuR3NvdG13eXk3VERWd1JoV3ZEM3RSOGlCTklKYlhGdjFQelY5NHl3T2lPNjEyeTFZZmxvbnB2S2lPRTU0VExXeFNSVzRTcFFuQzFwUTA3azQwemsxYjRIdmpOQ3BFam5jTXhEcUtPOUtYMXlOWTlyVjRNbWR2UEV2QnJFdnY4Mi11anFWblJXbWtJMU9LV3RWNmNB?oc=5",
-          "published": "Sun, 16 Aug 2026 16:38:00 GMT"
-        },
-        {
-          "title": "Kauną pasiekę žalgiriečiai – apie ryšį su Gossu ir organizuotą stovyklą / Naujienos - basketnews.lt",
-          "publisher": "basketnews.lt",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVWJMVk1xUkVNbExfcHVNYXp3c1lkcGN3MDNyTTk3cEItV2ktRVJIVVBNQjVkalZzVERCb2RRZ2pCWjdwRlk2VjNHclJxVGdfbVJHSXVaeE5pSTB6X0o0bWUxaERnbFpvVjJVa1czOGN0Rlc5dWNpMDBGd1E4b1ZqN1V6ZUdlUG9CMkJpRVgwRThaa0RSZWFtRGpHS3pPQ05KY1dnOXJRM0hvWTczX21TaDR3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:16:00 GMT"
-        },
-        {
-          "title": "Lietuvos estafetės komanda Europos čempionate užėmė ketvirtą vietą, Meilutytė – finale - LRT",
-          "publisher": "LRT",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZTQxU05ZTFhzR2syVU9LNHIwY29Sb003M0ZTQ3ZwX3EtbUUwc25NXzNidXYzSXI0UXFTZUczbVhqTHlscGFJczFvMnhTaTJpT2ZpbE1NbWMxNnFTVjJEY2d0Mjh4YnBxdENzd3VYOFZUdjRNWl94RmQxQnFKbUhBR0NyMXlNdFhxWWg1OEg2bjVaM0d5RjRQRDYzeWJBQ1FsN3hvWm9tWjg1ZTdFQUxQY1pNQnk0OGxSVjhaTXNaTE1OWVFhQjNMdUwtdw?oc=5",
-          "published": "Sat, 15 Aug 2026 16:20:00 GMT"
-        },
-        {
-          "title": "„Auksinę karūną“ laimėjęs Čehas išgyveno dramą: „Varžovai dėl to nebuvo labai patenkinti, tačiau aš nieko negalėjau padaryti“ - Sportas.lt",
-          "publisher": "Sportas.lt",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM2lhM1FDcERfTjhDU3p3REFPUUI3aU1MWXI5WnFMbWNXNXpzWURwRHNxTzM5dGdWU0g1MGt1ZXNsZ0FmTEFFNWw1UFlvRVVnMzFZdS10QWVpekdqMHVvVHJRelJJdEhHVHNqNm14N3puUms5TmFBMnBhZzJraWFubENlUFQ4cHdFamtidld6VUtHMTRGNzFfM3BSdDhJLXhjUThYLWh0QVVyc1VYOHBqUE1wd0k1dkE1RTJ6TG83Vjl4bWcxdGtzeGxlZGNSQnlz?oc=5",
-          "published": "Sun, 16 Aug 2026 09:31:46 GMT"
-        },
-        {
-          "title": "Jasikevičiaus tritaškių prie stebuklo priartinti 16-mečiai liko be Europos čempionato medalių - 15min.lt",
-          "publisher": "15min.lt",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaF8weFQ1RGZ0MzFDSkpxNkhpRnFrcWxXTG9WV0JyYTNoeXdyajVDWndEdGZuanZyWWlVbjNfMmVTNC1pLXZVQjZISHdXNUR5dWYyU0hTUU9BajhJUWdMbUxGS2N1X045d2VCV1hSTDNfcHNiY0NTd09tUlpoWFplTjhsT0VOSzJEYk1pSWg3NVF0Nm0teU5HRlpGUkF1RGlWN2x3X0NibXpvVmxHUF9EakFVRFExVk9rN0xwVFFnaXVtWnlQWEFTUDBlNXp5VEN2R3Nrck01VmxVVnR5bHRhSW9n?oc=5",
-          "published": "Sat, 15 Aug 2026 16:50:51 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "GeForce Now Linux sistemoje: vietinė žaidimų transliacija - digin.lt",
-          "publisher": "digin.lt",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2dExMS3hqZ0doREd4NWlkQlg0SDJGWHdVUk9zUG9YdHBZb0ZlZHBZcEpRV1VBalY5MElBczZYZGx2RG5WbkFYY1NBclRqcF9lTDVBZnVGMHBjZjBfbWFlanc3NA?oc=5",
-          "published": "Sun, 16 Aug 2026 18:30:00 GMT"
-        },
-        {
-          "title": "Galaxy S25 Plus užsidegė kraunant: ką nustatė Samsung - digin.lt",
-          "publisher": "digin.lt",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QRGFiU0ZwYUZYQ3Jwa3B3NkZ1YWxVc29LUUJ0V1I4Z2hTX19NQzZUdzU0ZENKbEQtcXJOQTNVaDZHaTlLRUR5Tm13RWNNQ3VnXzIwVmZxUkItQmhBNnkzVC1jc21VVl9F?oc=5",
-          "published": "Sun, 16 Aug 2026 16:30:00 GMT"
-        },
-        {
-          "title": "Galaxy Z Fold 8 vaizdo apžvalga: kas pasikeitė ir ar verta pirkti? - digin.lt",
-          "publisher": "digin.lt",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWEVTeHlrTG5qUVFqa3NpRkRCU2pjSlFPaGU5WXR6QXBtRUFNcWo3cUVwN2xKUXdZd0dORHE3UkxaaWQ4clZEcUloWUhMb2J1S01DUHFUNGhPaWhENXE5cXdDcDVoMnBRQ0s0VjlsQUFnWURJVjY2QXZlblE5RzktQ2VYY1pycUhUTWJmVGRESV9WNFZyblZtWFhkZUQ?oc=5",
-          "published": "Sun, 16 Aug 2026 10:21:20 GMT"
-        },
-        {
-          "title": "Poco M8x 5G anonsas: naujas biudžetinis 5G telefonas - digin.lt",
-          "publisher": "digin.lt",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GWDdGSzNROXFPcE1ySGhsY0o5M05Vam1vVUhmR1lsYXhmcVE5ckxCZW5rQl93UVl0RnFjOXhFRE9LNllBVjFlVC1VOVd1aHp4cmRLYjRtandKUkF0b1Y1TG4wcUQ?oc=5",
-          "published": "Sun, 16 Aug 2026 13:30:00 GMT"
-        },
-        {
-          "title": "Sulankstomas iPhone Ultra gali vėluoti į pasaulio rinkas - digin.lt",
-          "publisher": "digin.lt",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1STXdSSEU1SV94ZU5pemtyY0lhdjhwSElGalBnZjJzSjh2MWlkVWMyMUxOTnNvTzEwUmNSY015dHM0OGg1SFAwbGk5eHQ5TGxTZlM5M3ZGdGFOeVBtZTF6LXMtMUhTZXM?oc=5",
-          "published": "Sun, 16 Aug 2026 06:38:46 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }

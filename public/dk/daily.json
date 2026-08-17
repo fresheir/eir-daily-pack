@@ -1,7 +1,7 @@
 {
   "market": "DK",
-  "generatedAt": "2026-08-16T22:19:15.603980Z",
-  "validForDate": "2026-08-16",
+  "generatedAt": "2026-08-17T23:11:47.902826Z",
+  "validForDate": "2026-08-17",
   "source": "Google News RSS",
   "topics": [
     {
@@ -12,218 +12,32 @@
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Trump roser Kim Jong-un: Kutter i militært samarbeid med Sør-Korea - nrk.no",
-          "publisher": "nrk.no",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSVVzVUVOZFk4SDhEVk9WNHB0UmE3Nk85NzBkcGpZV2Nkd0lrSjBJVHhPLWJBZjRRT1RRcFhPR3d0OU9rdW80UEtHdEEtZnJuUlhQMjdibi1KS0pjNmJjZFNtR0w1MG1TY2tTam9WeUxXRmt2cXVjTnJyMWZDM01BYzdWZmxIdXhoblR5OEhLQQ?oc=5",
-          "published": "Sun, 16 Aug 2026 21:30:15 GMT"
-        },
-        {
-          "title": "Fem tenåringer døde i trafikkulykke Irland - VG",
-          "publisher": "VG",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd3pPSUFqNnRVQ04tTWwxVEhteEFsQUJVN2hVUVhHOXRTWVZXNHJ4eHZ3MDdLbGRGc01GVl9XdkRLcEV2RVZRejhwMkFZXzNXVHljVlpJUTlRRms2N3Y0OG51cXExT3Z2cHFWOVlCWHhudy15YVZ5YTJWNnNSVGZmYmRMa1Rwdw?oc=5",
-          "published": "Sun, 16 Aug 2026 21:54:38 GMT"
-        },
-        {
-          "title": "USA-velgerne: Verre under Trump - Nettavisen",
-          "publisher": "Nettavisen",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZVVQRzV2c2E2VnpBd0RzTFhYVzMxckpJZ2ZvTG9VRW5GaHBfMlJWUXNVRTR1cGwzRDIyMVhyUHF3VFNVZHRVZUpSd1NsRkktN0NnR2VhMktNTVhKSjlQZVBwUTNoZHFuaVZqZjJ6ZlZpckpUMnV3THJQaGptYWVSdEZhb2pjWU84U2hpTThqbllxNkZ5WXliOWdWRnMyWUxLcU9SM2dPYzQ4cG8?oc=5",
-          "published": "Sun, 16 Aug 2026 08:40:58 GMT"
-        },
-        {
-          "title": "Kilder: Britiske droner angriper russiske mål - ABC Nyheter",
-          "publisher": "ABC Nyheter",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ19fNGstWVlSLVJQdHdQMHNZa3k3SzJUSk5JZXQ0eDFwamNhbldTdmp6Z1dXWHZwVnlROEMyMnlRdkRDc0ZMc0o0enI1OHNLZ3Y4NVRfYjA0U0Y4cklHazR2WUVPRjdlUDBSZlBUb1dsTF92Y3BPNUFQRTM2UnV3eDhiRkQwZkxIdzNxWGNJUXlqWmF0MGxaSUJ1TWJ1T1oxM2VrN182VllDUQ?oc=5",
-          "published": "Sun, 16 Aug 2026 17:50:50 GMT"
-        },
-        {
-          "title": "Orkanen Lala herjer på Hawaii - titusener uten strøm - Nettavisen",
-          "publisher": "Nettavisen",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmhfSVowdlhhRm93Z005YU1VUFdQeVFwa1NqeUdGa0Q3aXFEYWR0cW9tSUVIVVdNanl5ajdBNzVXZm5fNWhhTkw1Rk5wbHI5S2pFV2tic0xCLUM5N2F5LUx5VGd4UVpXb3drX3F1RGt0aUM5LTRaT1JIa0lGaXRKY0dzWDZPa2FEd2ZteVhJQWYzdHpVeG10eGRQUm1vTmlU?oc=5",
-          "published": "Sun, 16 Aug 2026 17:14:26 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": [
-        {
-          "title": "–⁠ Kan kaste lys over hvor dyp splittelsen er - E24",
-          "publisher": "E24",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWW1Xc3ZTYWdCbXlLWWtGQXhXenZSWUtUS0FpRDVjTzFBcG1sY3lhTHNqeDJwcTVMTkVfRUM3TEVIRWdTTl81a3VMUFdfaUNWQTFIX0pvUlhqVG1rak4tRnFQQmxMN19IbWNLeVhiV0hIdTE1ZGdhM0dIdDRjYXNvcEtyVl9hQVJ2?oc=5",
-          "published": "Sun, 16 Aug 2026 19:56:54 GMT"
-        },
-        {
-          "title": "Rema-sjefen med prisløfte: –⁠ Vi skal tilbake til røttene - E24",
-          "publisher": "E24",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHBMUFNlV1UzbVZ4dTd0ZmEzWWMwaFZsdWFtQ19YOXQ0MExMdDhZcHJjanBqQ1h5NWEzWVVmSlRBeHM2dGxKbjhaTVV6X1g5bFByYXF0WUthektPWEhvQW53dWxxS2stTy1PZ0pPWnVsTXg0ZEFpR1NOaVg5QVhlSV90MWxUcHdMdlU1QVNkTDctbFJQa2c?oc=5",
-          "published": "Sun, 16 Aug 2026 17:21:07 GMT"
-        },
-        {
-          "title": "Lønnsfest i Clarksons – knuser konkurrentene - Finansavisen",
-          "publisher": "Finansavisen",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSS1vRVFBNmJOdTZZLTI1MUpySnN5SzctYUNvS2pDc180R2NlVHo1aEpQYTBnODJfNkpUdThFS0lQbXBhaE5YRnp1VUV6aDFUeEVCdENqV2F3OWYxcXpQdUdCNkYzTWxCejNscWlTZTB5ZkxiS3g3djNaTk5uOVBvZHVjclJNS1RaY3pxS1gtVlZCRGZTRnhqd0lXR2U?oc=5",
-          "published": "Sun, 16 Aug 2026 19:00:00 GMT"
-        },
-        {
-          "title": "Krevde halve selskapet – da kollapset milliardbudet - Finansavisen",
-          "publisher": "Finansavisen",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDNVaEJSZVE4ZDhBSUN0OUQ5ckk0dnRwSTBVT2E2NUJrZHFJTnVZLVFaN1lyQ3FpZUhiaTBxazVHb1JUeDJWYTZ5Y3pzMy1nVmJqdlRZQTVZY3hWWDByT0VyODRhZlhld3dWY1hZQVJHbmFCU1p5cjdlRnB4WVVNLU92c1JCNWlpeFVYSGNvb2tRQkhjamRfSzV2ZTl1Z1hVVjhaUjEyQnc?oc=5",
-          "published": "Sun, 16 Aug 2026 17:35:45 GMT"
-        },
-        {
-          "title": "Søndagens aksjetips: Wallenius Wilhelsen og Høegh Autoliner steg til all-time high. Hva nå? - Finansavisen",
-          "publisher": "Finansavisen",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcFJuRFdZZVB2VENERFZBQTFUM3IyOERwWHRvV3UzWjRsYUNiQVduM1NjV0t2eG5ad29hZGZIUHc3NE15RU1JZ3lUU3pQVk0yRnJYb3RqZ2VvWGlwTFNNUUUwZThvRDVRTGVBV0FPRERxUm85VklLSi1KZWFvSnZvakx2ckhGN253WjlRMHdDZ3BFM2JPSnhzYlBvREI5X19UcFBDazFNcFYxb3VGNjJfejItU0o0d3RHYlNCcHloaVdWNHZUOWFNYnJPaWEzbzNvQ0tTc3phY1R4MTA?oc=5",
-          "published": "Sun, 16 Aug 2026 12:58:19 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": [
-        {
-          "title": "Gjert-eleven Patrícia Silva spurtet inn til EM-bronse - VG",
-          "publisher": "VG",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMVUzUVdLNmc4SmZJNEpCSXVjUWowd1JEMl91ZVdIY0d5ck0xOEhSaHVwN1BzaE00NEI2bzBRNnY5b2pBaHBKMUZBcVpkeXB2VXE5REV5UHQyRWJFY3JyOUtKQnhsZFE2ODgzZHZlNE9aR0NqS1JlLVlWUnQwMk1fUE1keHYwdVEybnNWRmRuMA?oc=5",
-          "published": "Sun, 16 Aug 2026 21:43:03 GMT"
-        },
-        {
-          "title": "Ødegaard og Arsenal rysta Manchester City: – Klasseforskjell - nrk.no",
-          "publisher": "nrk.no",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3F2QUJIWnV5RkE4RWlFT0Vfc2RCZkhxMDcwM19aN1B5T0tqMjIwcl83eHN2TXB6a0FJNEVzSzFoS20zYU9LdFQxTDFqSWgycDRCc09XWGtQSWgzM01VTWVLb2ZvMWxaZmtSMzBHaXp0enVGRWMyUVBHbFg5OE1ZVUlpb214eTZZWnF5NzRuQ29fZWpCRjg5S1d4b2NOQ3U1bjRONA?oc=5",
-          "published": "Sun, 16 Aug 2026 15:56:01 GMT"
-        },
-        {
-          "title": "Cristiano Ronaldo avslører: – Mitt siste år med fotball - TV 2",
-          "publisher": "TV 2",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1lZc1l6cXRCQ0JzZjNlQll4NWIzTEE1M0FpUWlRMnY1OUtzeFpEcDRLUkpoZlhmVnRWSGl5Z2w3WlFpWnQ5bEhRazJyMGlBZ2pHbzJDa29oeml4TElza0VvZmQwdm5OeW11bG05UzBUc0g2d1l4dzRUMEQ2eWJfZGF2eHZXV3M2M1VZMEwwWjQ?oc=5",
-          "published": "Sun, 16 Aug 2026 17:15:49 GMT"
-        },
-        {
-          "title": "Romano: Rodri klar for Barcelona - Nettavisen",
-          "publisher": "Nettavisen",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHhNSmk1blRUSExxMWlXOEl4NmFsQ3ZYbkFMb0txWnBEWEtqUjFVc05GMk4xaUc2Z2RQZUVEcWtKZWExLVQ5X3lKdi1YSkRaaGlNdm9pWEVkdG9xcTRZTFZCSHBKc3hiNFc0MFN3QkxkMUR6c2pvYndWbzVROGJaRVgwaE13ckxnLUlLNjk4a3dVX1ZNV0dxdk1R?oc=5",
-          "published": "Sun, 16 Aug 2026 18:41:28 GMT"
-        },
-        {
-          "title": "EM i friidrett, 2026: Guttormsen utenfor medaljekampen etter riv - nrk.no",
-          "publisher": "nrk.no",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmwxVEVjNDBFZE9sWVVzZEtYNk5MNTRFdDVPYUhfY3d2dDZhMm5iQktyRkRIUzlZV3RYRFh2ZVJqYmNKUm1CTUY5bjhiX2lYZFhHcVVRUFpPZ1N2VEdReWctbmJBN0hKZ2RLOVdvYzg2NUxyX1BZbjFBZXdYQ1VIWlN0b2wzR0pxUDdZaHhCdXloMTNVdFVRWnoxd29jUTBydVc1OXJtYzRZSTQ?oc=5",
-          "published": "Sun, 16 Aug 2026 21:37:05 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": [
-        {
-          "title": "Verdens internett-trafikk domineres nå av KI-bot'er - nrk.no",
-          "publisher": "nrk.no",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlFJQU5CVkxpY0hWR2VKTkRVMVA2anFESktZM3pFVEluWVVLMUp0dDVZOXhJdXdrcldmUXJETGU0R2d5d01ZaWxsLVgxTkQzcFp6MEZac0NCUE9WWkhFTDEzelB4d3BTdmhmR3RMN01Xd3k4aGF6bEhybEtlR19xbVcxVGI4SndRTTlkMThxdw?oc=5",
-          "published": "Sun, 16 Aug 2026 21:19:21 GMT"
-        },
-        {
-          "title": "Slik blir iPhone 18 - Dinside",
-          "publisher": "Dinside",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SejJlejM4SHYwTUpIVjN4ajRhVWNhVUQ3VGhyTDAzOVFXXzZBbldqeDFVMS0yUzZkRWFyQjJlRDBvTDhVbmRyeWRUOVNuSUhUUFpnZG9temtleU9iMmlrbjN4Q2RpWjZfZ2hvMUVOOVY?oc=5",
-          "published": "Sun, 16 Aug 2026 07:48:54 GMT"
-        },
-        {
-          "title": "Nyheter, Mobil | Advarer: Foreldrene er verstinger - Gudbrandsdølen Dagningen",
-          "publisher": "Gudbrandsdølen Dagningen",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SYUlCX3h0V2dwQmFBS3pwSWNXY0tDeFJQVjNVREVUSC0xT0JIVncyV3YweG9LQWphcW1mV2FGcHo0cmpaNFlHazBZUEpoempMOFYydWlKUllGRkVZS2RIMHpKb2RId2k0TUd3aDloS2pOS0k?oc=5",
-          "published": "Sun, 16 Aug 2026 19:33:36 GMT"
-        },
-        {
-          "title": "Dømt for AI-genererte overgrepsbilder - Nettavisen",
-          "publisher": "Nettavisen",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMDN0TVdkU3VBNEI0YV9HeVh4aVJQZmdzR24tRmVWeUVCZzdBZ3UwLV9WU1RmZUFFRGhUcjRTdWVCcktia2xzc2F0UHI3SlY5OHJiVHIwSnNfRG9yeDVsdnZIN2xOSFV0ZXBCUS1jcWNYa1NZN09NemNjbVVtVTh0V0ZUMk1UcmNaUXZ2Tg?oc=5",
-          "published": "Sat, 15 Aug 2026 21:49:14 GMT"
-        },
-        {
-          "title": "Strømdebatten har fortellinger som ikke stemmer overens - Stavanger Aftenblad",
-          "publisher": "Stavanger Aftenblad",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNS02LXZ6N0lTS0lDUDJMdlpJa1BocWdwWVdRLWhESDNCcDZOeWNMMmpuRTA3UFJlcXg1RVFyZ0I4VTByT0VoNi1ZcG5aejREOGl2RmNVTzhVR1owU0pINTRrZ1NSemRlX3Z4cXRCZTNqcEdLQ0RTWlUyOHNlMm9zSWxzbXVpdWhwajA5dlp5T08?oc=5",
-          "published": "Sat, 15 Aug 2026 20:00:47 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": [
-        {
-          "title": "Soccer leaders in Europe, North America, Asia accuse FIFA of ‘deception’ over World Cup plans - nbcnews.com",
-          "publisher": "nbcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnA4VC1xUUpIZ0hKa1l0ZG9kbm43ZTJRZk5rcTZWWV9heU03R1d3RmJ1eXVGREJoRm1zX3JKbV84NXNzSmc2R3AwMGhVZWVhZzFMMV9OczBkdFVEXy1wZFB6WDc5RzdwOG9QVlU3UWt4TUlfcER2c3B6ZVdNblNRTy12S0ttSENzNzNDUWwxUXp4VVZTVHc4UkM2T1ExaUxScXBfWHdXSTdjV19M?oc=5",
-          "published": "Mon, 10 Aug 2026 10:21:35 GMT"
-        },
-        {
-          "title": "The August 2026 FIFA crisis and the rise of institutional influence in global football governance – MEPEI - mepei.com",
-          "publisher": "mepei.com",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY1pJNHpYSUVDaEl2ZUxfdnpDbFZiYmx3cVZ5dmc0NUszYVRjanRVVlRfUERCdnFjMmlVa3BlZ0YyZGtJUWpCMUFjd3VLMVpDWFFobW5KdHBURTE3ME1raWRvWERrU1NjZUZFY3pZYi1uN3hFTkxWVjE2REg3WWlnUWdzRy02VXhZdVlGQy03aUxPSjFCdF83MDBvYl80MlNDem5JU2dEdlB5Q0tZdHMtRTdFZ0ttaW5JaFFBZUo5aS1YVEJKXzlYb0ZDeGo2V3EwdzJRNFZKTWR1ajVFbnpiMmV4SG01eVY2TWV0WGlGcjE4aWdoeWlaWURub0EwOE9tWHM1UHpLVXgteHU3N3Zvbg?oc=5",
-          "published": "Sun, 16 Aug 2026 07:52:13 GMT"
-        },
-        {
-          "title": "Qatar challenges AFC over open letter attacking FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmZCX3lTS0xVdUxuVllPVHRIUkpLYzBnSE15NVY4cEg0UGlwalZhaVlqa2ZXY3NnTmJMNmFsdnlyMlRYMjZzdEhaejd4aDRnYU9MRVd2aUtiOFpIR2J1Tm85bDhFZDlzSHgzQmFjYUc5Y016SWRvWDNQeDNIZllwOVVLaEVFdWJzWnltZE45VWNEV2hfTDVqV0pja1lzYjVoRVlkN0w5bmhOOVo3dUI1Wmg3ZlNaa1R1RGdEUmN4Yw?oc=5",
-          "published": "Sat, 15 Aug 2026 14:16:21 GMT"
-        },
-        {
-          "title": "New Zealand withdraws support for FIFA president Gianni Infantino in break with Oceania - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnV3VmZwM0V6RkRyVGV6VGpsOHJhWlIxRkhJUnFWY2VJam9xYnY1ZjRhdFFMWFBZV3ItQ0h3ZXJOcUFvWWtsTTl5dzBJWDB5LTNfSlFkVnVNTEp5YVRxTm9uUXp2SnlFNHAyTlRfeExuVjVnbkhTUXRMeXN2b2dMdkVHQnVnZFlCRTFzbUdicW5ORDRnN19sWWxvNDVIOGRHZVZkZHlZYzJhV3E0RU5kczV0aFcwNkt3NENZUEpDM1Q?oc=5",
-          "published": "Fri, 14 Aug 2026 08:30:00 GMT"
-        },
-        {
-          "title": "Soccer-FIFA crisis timeline: From World Cup final to global standoff - WTVB",
-          "publisher": "WTVB",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFRhdEs2SDJZdENKYWtMdXZaS0xpYllrOXV0dUtkNXpxN2pfZXptc2ZxbG83VzEybWZQUnp4UnJPYXB0NExHbk82ZTJoSjh1RXJ4NTNTWE5iQzRVVjVhVFFKTTZJeHVhdm9meWVseWhjM2dxcWQxSXJvSURQMTNYcVNrMlp3M3lXWGpQQXB5ZUEwMVFROE9GZVNZaTZHaHM?oc=5",
-          "published": "Fri, 14 Aug 2026 05:53:52 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Taylor Swift’s Chops Her Hair... for the First Time in a Decade! - harpersbazaar.com",
-          "publisher": "harpersbazaar.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWlka0Rya09CeGV3aXBqVnJxSXhwZl9rMmsxVDI5Y0k0cFhlbm13dVBzLWhrMGxtWDJ0TkRaZVQ1LUlxd0ljaEdLMnUyU1cxdkNVVF85WFhfMFhVUF9oTkJSc3h1M2xLU29OakNFdVRxX1REU3oxNjBLUDBpUDVLTFMxc05oWjRpbnFST2JyRW5wU0RJTEdNaGZpTTY2YlhGQmNjYUlYU2pWUUpZX1VIZlNuc0ZRVTFBblZN?oc=5",
-          "published": "Sun, 16 Aug 2026 18:21:00 GMT"
-        },
-        {
-          "title": "Jordyn Woods, Karl-Anthony Towns' celeb-packed wedding guest list: Photos - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNX0JqZW83UGJMLW8zVXUyWHFXNDVfYzRidjJkTDdmZkNEM0pWdTJQaFZBZnBfVFNsODYybXdCRUtzR2h0T00xVzY4QUtPQjhYaGhlazRlOG9halFGVVBPWkMtenM2N2JRTnFOZXNHVHpEYUYtYk1nOHpJVzFvWjFyUlNmWnpkZUswUDNKbnhDQVZ6MU9Da2ZtYzRGczdBenl0akpfV2FZM08xaG84eFA4VEJTcVlCMzJDWlB1X19LMjR1U3EyWFl6WG5hQXlBRXhNenU0RnF4a3ZEMWRfbGQwVGJPb21WVFY2R1QzTnZ6dl9oWm9zUVZ3OU96NW16WF95amNSeHBVaGk2QXV1Q2c?oc=5",
-          "published": "Sun, 16 Aug 2026 20:02:00 GMT"
-        },
-        {
-          "title": "‘Spider-Man: Brand New Day’ Becomes Second-Fastest To Cross $2B At Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTh5cnpmWU5sWTFXTFBRMVh2Ml95eFlOcTd4YXc5RkNtYm9ZVzlfckZNZlE4ZUV4a1E0Yk80QmlLUXpFckhVT3M1bVlnSnktOXZ6WmlKT1VFOV9MbkgyOWxXSWFrWjA1b2JqTWJhRmd3djdwVFdtLXZXczZRVDF5cEN4T0E3dTJUZ013blB3?oc=5",
-          "published": "Sun, 16 Aug 2026 15:15:00 GMT"
-        },
-        {
-          "title": "Looks Like Elizabeth Olsen Had Her Baby - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nVDdRRVBCaUJVRXh2czBUbmY2ck82NGpTS1V1aXlJcU44U3ZBWlIxRTZfbUNLRUpteldVZ2c1alpMTmtIQU9JTmhwYXdlNFdyRXlXcko4eE9xRjFPajVBMzlzY1VodThmeHA2akNRcw?oc=5",
-          "published": "Sun, 16 Aug 2026 16:03:00 GMT"
-        },
-        {
-          "title": "Selena Gomez’s Attorney Fires Back at Wondermind Lawsuit: “Completely Meritless” - hollywoodreporter.com",
-          "publisher": "hollywoodreporter.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGkyLWRyWmQ1ZXFxdDNXVm94Q3NqOVRyWG1PSE5rUy1OeVE3Q0lXZlN6ZVdONno2cTJXRi00ancxRmZ6c2tobDRjbG9LbERJdm1yTG9ONUdsblpybUZRbHF4SkEyZ3hqajctal9lNGtTdzVOZ0pUSUFBLXBWRnkzYThSSkpqNmRaSGZSaGdFQmNBUTg4S25MUnJLcGlfZTc1SXc0Z2lmWkV6ajl6WkF6aE9IWFN4ZWNpSHNTWUpiWWQxeEU?oc=5",
-          "published": "Sat, 15 Aug 2026 22:50:27 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }
