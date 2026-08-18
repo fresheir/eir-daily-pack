@@ -1,43 +1,260 @@
 {
   "market": "FR",
-  "generatedAt": "2026-08-17T22:38:05.706452Z",
-  "validForDate": "2026-08-17",
+  "generatedAt": "2026-08-18T22:20:25.555090Z",
+  "validForDate": "2026-08-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Yvette Roudy, ancienne ministre des droits de la femme à l’origine du remboursement de l’IVG, est morte - Le Monde.fr",
+          "publisher": "Le Monde.fr",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQX1dpc0pnUWJlNXhOb2pRTF9jTGUtck9tTFN0QVhlczhtcFdha3pucHQ4WGtNU3E0UzFzWDFCQTNjUHl0c053SjZiOFo2TVJubWJoRkpEMXdhSFlqX2gwWHJDbWpRUk82OGpNbG1CalFMWENZenhvNktqOXRrRDBYcWx4OFgyLWJFVnRHdUI1Z2VvV3p4V2drZ3pQQlQtU0RkbWNfX014ejdYYm4tTXhla2pjdmM0YldBYjdJcXpFTWxNXzc2QU5yNzRkaUUzZm9RTDJ0cERvdlkyVVN5eW1ydmhqVFZmelVsVXBJVjZZRWxwbXI2SzJmSnJGb3pyeTRIRldXaQ?oc=5",
+          "published": "Tue, 18 Aug 2026 13:34:41 GMT"
+        },
+        {
+          "title": "Le fisc indique que deux autres cyberattaques ont ciblé les fichiers cadastraux et les successions vacantes - BFM",
+          "publisher": "BFM",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQa1RMREswMFVUNktDR2xTbXdvMXhQeFdyazgyUFluNXBtV0NiWjZxSllTTDBzR2tQYjhuTU5ZVk83eTRyRm42MmRISEt0OFZ5VnlZTVVtcURHS1h5Y2RwZXFVMGN3a1FPbXg2TlU0bmh1SUhxbzNzNjhma0RPaDBsUjhJenNSQlBmdmNRUjJZUUFVS1JmRHl1X1hrZjhSckVQeWdKcjBqdmNxRVVORkQ5X2loUGFCbFBwNjBfcDdnOWphckJzaDV6Qmc2S1B0Y25wTC1GMzNhMzBiSUhMN3F3SlcyTlNHNGxqeHNLMzNocGRWTEk3TnRSeG1MWVp1QQ?oc=5",
+          "published": "Tue, 18 Aug 2026 14:46:58 GMT"
+        },
+        {
+          "title": "En soutenant Philippe pour 2027, Darmanin met surtout l’accent sur ses faiblesses - Le HuffPost",
+          "publisher": "Le HuffPost",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeXZJcVRrSGNMbjVwNWVjNjlrZUluNG4tMGdNcmhXWENTbDBtMUNXZmZza0NjZ3F4bElWMmxlZWlIbHEtbGZzQXhXZ0paZG1GRkpVSFNtX1A2LUVJYmo2UGUwc3JQRW1aNWRJMGxXeXhMaTU3NlVXdk9uWkFUXzBMZ3U1eUJGQ0Q1dmFlX2c0TkEtLXFwVTdJWVRuU1ZVVzFqMlRDTmRFYXdfcTVEVjlJdldfdWI2ajBDTmxwczVXem45QWRQd3ZaaENXcG5CZ1pfWWd5TFVFYw?oc=5",
+          "published": "Tue, 18 Aug 2026 12:15:08 GMT"
+        },
+        {
+          "title": "« C’est problématique » : après ses propos sur Jean-Luc Mélenchon, Monique Barbut irrite au gouvernement - Le Parisien",
+          "publisher": "Le Parisien",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOXFfNTd1dWZmRllKd21uOEFDSzBadzRieDgyNjhVUE9XdC1YY3diSUYyVU9hQ2tFeUlqeFBsOFF1LUJ1MF9SdG1zM2lqLVEyTDBFYnc5SWFuNmNkbFFmb1RkVWNKSTZ2T2QzeERXc09SdUpJRHVXMFdYSG0zMEV0V0k0dDFEZGxGdzJCTy0wR3dOellSN1dSZExrcVd4MWFXOFlKNWxxbThzYktMekJVbUg3MlZvelhwZDMxZjFZWS1vQkVoSlhsS3hFZDFZUV9LbklVeGRzU1VUY1hXLXFlMHFVazFfYnlscE0yN1VIVHo2S1ZHcl8yY3NsQXZUT3UyTHJrag?oc=5",
+          "published": "Tue, 18 Aug 2026 17:38:42 GMT"
+        },
+        {
+          "title": "\"On a toujours un risque\" : à Correns, dans le Var, les vendanges débutent avec amertume après les incendies - franceinfo",
+          "publisher": "franceinfo",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaGgzNFNUZzBtWXlyby1MdmxPdHBfT0hHTnlnVVpwTGFKcXFTSWNOdDBidm5qdklfZ2p1Z0N5aHl3c3kya3NSV0xHU29HOEY4azZvdXBlcE5SXzdTR0c2X3JRZ3ZvMkgxTERSR2tBMWZuQ2FTaWdtQ044cmdTbWVPMUtvcVBGTUl6NGh0amo3WDYzdy1Tek9nWXRNWWF0encxdnlKLU0tdFVudmJoalRRa3JuUm1LcWNlTUxMVjI2WmYyaWdqV2l1S1BaeDFBbWl4S3BFSWdCbWxMb0tvR01SbjkwbjNPNEhqb0REV1JFZTdzaEJhNV9jbXZMdVhadVd0bW1YZVMzbk8?oc=5",
+          "published": "Tue, 18 Aug 2026 13:19:13 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Guerre au Moyen-Orient : Trump suspend le dialogue avec Téhéran, les Emirats arabes unis ciblés - 20 Minutes",
+          "publisher": "20 Minutes",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORGxvUHdSS2kxZl9PbzNyYUx1M25WdjRKaWo3VkJIa1dfSkpxdjEyaXotMlZVYUZGaUVTR05Nb3Bqb2hqZXNMUHhFdnRwYndQanhsdXhQYTdobTE0UlAtUVBHaUpyXzVYTnhiX2RocWdaUEs5SGh4S2Nld1ZnbEFUYjJPRDI4MVg0X05hS21iRTZBcXNoRXE0S2lKWDJmTGpGb0ZIRDNqT2FrcEpNODhaTU82NmtRTDNrcUNscjl3N2dmNmd4Y3lmaVdYZkJzcUNaSHc?oc=5",
+          "published": "Tue, 18 Aug 2026 17:22:00 GMT"
+        },
+        {
+          "title": "Le repositionnement géostratégique de la Corée du Nord modifie les rapports de force en Asie du Nord-Est - Le Monde.fr",
+          "publisher": "Le Monde.fr",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNYjdhOFcxa0EtSXZEVXozYmxhbUg5dVExU1NrVDYyMnlwaERKM3hTZTY1OUhJWDdaV2ViSGNTTWNqVzJva3JyVENRR3JraDI1QTh4U2xlbWRhOF8yYkc0RzlBZGQwMTYtaW9qM3BPRWtNbXh0SmdLU3M0YlU5U3MwSXpIR0pKc1RLYk45aUJBQWZHVWwxZUZkQ0owTmpyUUxzU2RKNzhnQkF3NjdldERady1sdk4zSkNnVGtZU0ZKVC1IbUx6OGEybFh4a2JteXZLcjdtMDM1UXd1ckFKWWtEZ3pTQmpkemJjRWdqQ3paOFEtZE9PZWpodGdhVEZrVFRvVzh6YU9DclQ2Zw?oc=5",
+          "published": "Tue, 18 Aug 2026 16:18:51 GMT"
+        },
+        {
+          "title": "Ukraine : l'ex-ministre de la Défense demande d'ouvrir la voie à des élections pour «restaurer un processus démocratique complet» - Le Figaro",
+          "publisher": "Le Figaro",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObXpYZ3RuNVh5TUFwcEtrbVBYZFpFMXpxY0VRR1pnX3dZVWNSakpnOUxuX0VVd3BTc1lBUmw1MV9HczN5cVdNTFFqeUpPOHBwXzQ1aTRLOVM5WEhKQlpZYnV2REN4OHFhZFZlUk9rYTdGVkJVbW1FRWZ0bG5YYjJtRmZ1XzBQWmJNUUlHZUs3U3gzUXJKeHR4OXRScF9JQkJQUEF5NDFYdlI4QzNqX1VxVmQ0RWt3VjVEUWtTdTlTMDZNVUNqSWUwQ2VoZnNzV09mNUkxc3NGTXZVM3ZnS2NHVXh0VWJEdHYzVHN3U3JGckJrVTRpbktyMlg4NlhGSmNmVnc?oc=5",
+          "published": "Tue, 18 Aug 2026 21:05:06 GMT"
+        },
+        {
+          "title": "La Syrie affirme que l'AIEA a prélevé des échantillons sur un site contenant des matières nucléaires \"susceptibles d'être utilisées à mauvais escient\" - ladepeche.fr",
+          "publisher": "ladepeche.fr",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQWZLT0hKa3FKWWEwc3BvaVdXQllPeDA0QzFzVDgtNHZQNjNZZFcwbTMyekdqOV9STGMwaExYQUhYLUY4RkhZNVhobnFydDNrVG1MZ2xOcDJubzgwYXItOWItY2xORUJHRGxpSC05Zld6c1FSUndJcWtXemZsT2x1dXlpWm5yNVcyMXNvMlEtYnI0NF9iU1NtVXB3aU9ZOUlLMnBZVWdpMVRUeTViM1kzLUlER1dJaHMteFVZMTJ6TGtiVF9qcWIyZm9YbkNwSU5zWGVqS1VzUEZTU1M3c2hEYWpOeFNIbEY1SzVVLWprUWR1RmZKbmpvdTNxYVFLbkE3Slc3cl9reWhTNnRGdVpkY19CNDFNaUdRSnZPY3BhRjg?oc=5",
+          "published": "Tue, 18 Aug 2026 15:17:00 GMT"
+        },
+        {
+          "title": "La population est exhortée à rester chez elle : un deuxième tremblement de terre secoue la région de Grenade, des répliques attendues dans le sud de l’Espagne - L'Indépendant",
+          "publisher": "L'Indépendant",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMEJQaDhabHFmMmI1d3RMakQ4eVI2WG1FTnNDd0xqdU1ndDJOaGZEWjg1MUZVUHNZTkpBMTdKUUp5dmEwRlBiVzhZdkh0V21OWDZjcE5YQTJ1d1AtMm9WLXV3YjI1UFQ2ZmtxQkFHQ1dWQ0V3SmdtSUF0LXlCM0RDTUJ6TC1Bc3l6QXhSZFpBV19hd1F6Q2RBd3pKNFphdWswTTNJeDBZcXhUQmFSeHBaTkdjZVdNWTM5Zl9fMnVmS2VsaUNnbGpxMG1PZl8tbk1ESy1BYzFJOU5CX1BqeENaaTRwZ1cxaGJwSWY1OU5UQ0lwNUk2SG43Tzh4Wi1tcWtUeWNNQUhOc1hEa2pHS0phS2dzZDBWeVVFa3d0dlJzYWJiRU0?oc=5",
+          "published": "Tue, 18 Aug 2026 13:41:00 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "Sans accord avec les États-Unis, le Canada visé dès ce mercredi par de nouveaux droits de douane - Le Figaro",
+          "publisher": "Le Figaro",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1dVaHNXcEdvTnkwS19OUDFma3V3R1pnd3I2OEFfRkd3OHlsZGtJNVlTTTc4R2xqZW1mNUlTNktJS0lMV3VoUkRKM1dacFVTQzVIYldSeHhIbWE5NmxiRWhxV3hsUEh6Sy15UmtVdkZmNHVRRERlWkhMN0pIaUdzSnpUbXFWWVlwZDBuYnRiSW4xeTF4OERRRG5rRWsyS1lwMzZsRnp4WUhCWkdSbU1uNk5yTDd4NTlJY0dSOVpzWTU1Y2N2dlp0OWF5Qi1jYTdMYnNJ?oc=5",
+          "published": "Tue, 18 Aug 2026 15:07:21 GMT"
+        },
+        {
+          "title": "STMicroelectronics et Schneider Electric, plus fortes baisses d'un Cac 40 qui aligne une sixième séance dans le rouge - Les Echos",
+          "publisher": "Les Echos",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSmFHdFYxMG1vUVhvdUpzLWU2ZzJ2dlI0bG1SeVRWUUI1V2NVSjJqX1hzNDQxTi1CeW1ZRWtTdW53bGs3NU5TVmJxVUVfanFTd2pHeDVjUnI1OWZnNXF2QVZ0VHVQbkJYeEQ3NnBqalRRaGw4ekVBWDJJVkVxakV5aEFodTYtOXg3QjhNVEVfLVMtRkpYZlltRnhiamk4bUJaSmNZc19zSmh0R29wQnB0ZWdQSUJpRWZxZjhMVmpic0dFSV9ZYzFqeEtuelU3emhWZzZVRGMxa0J0MTBnUlVwVE45TEZQbENpZWM1NXBJcl9DOHlWQklRenBBUTFNUVlXNUhCOHgzbV9BWDlFbG03UjA3cUE?oc=5",
+          "published": "Tue, 18 Aug 2026 15:48:14 GMT"
+        },
+        {
+          "title": "La Bourse de Paris de nouveau en baisse avec le pétrole et les taux - Boursorama",
+          "publisher": "Boursorama",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzh6OE1BZmlJMkRXcjdIeUFndGVHWUFZX1JkejZmT0xlUnpYZDFGdGJ6czl2NGEwMW5PYllEVVRsb19iZUtiSGtqTEZITVREV2M3TVNWMmxlZ0hid1ZqV2RVYm9IczAwNDc5QmN3SHhNWDBuVUROcTVNMFJDcVdDNWU0aVF5dk5TXy0wM0NmV3NyeGdRN1FfVXdOQmx2U3NfOExLX0lvYkVxM0JlaTlOVlp3TVVwUFExY2VuT2gzOHByeTh6dDRjN2F4eTh6cGNFQjFkZTRkbUh1WVlQMlHSAeMBQVVfeXFMT19hQVdvWThLcFgxVEFXU3VlWkRyOGRNbnVqbERuT1ItQy15ZDFEV2l0OEVqSXVXbk1sbmY5blM0dkQtNF8tcGpNT2dGbHYzb2pfd05kYzc4WlhzMmRhQVdQQU9uTC1LMmViSUZ5T2F6ZlQtY2szVC1HVFk4X2Mwci1Ubzl2UlUwOHVKcUdZWV9lZkdMdVdISzBLc1loYUtIWFByNDZZMVFKdkVic3RIQTFDd1BfejQ5aDZ0a2lMeFZBQ2llRFRIWkZzTkdGVFU3QkhuRU9JTElNS0JfdENvSWRTZ2s?oc=5",
+          "published": "Tue, 18 Aug 2026 17:29:48 GMT"
+        },
+        {
+          "title": "Béarn : « Les fêtes de Nay sont annulées », annonce la maire après une journée de conflit avec les forains qui ont bloqué le village - Sud Ouest",
+          "publisher": "Sud Ouest",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNS0VaZHZpSk9sb01yelhYdzhfMlgyRVVLd3psRWFaQ0FZS1Y4a2NDRkxFNnd4TGpIWWJmTXZfTjM1UlR6WTJNako5cFVpLWszd1YzdHVMelRxWWFOaUxHVDFUb09ES3g0ZWp5eFptd3JPMGFhTGtGcE5Pa1hldlFKN1JXbFFnY1h0WXRaRlI5VDJxUFZ1OTdLekttYjM3cGl2WjgwbUpEa1pMZlYyNXQ5SnpKSW51N0ZyUENpWW5uaVJKeFdWc3JfMzFyaXBJUm9HWUQ0VjZnSkIzYTFLUGYwUmNlWlVzdGlVUEFLOVhpUWRXYUc2aW0wOEJHYzRLTTRWbG5Ib3U2SHh0czkxaXV5TDZzLUVfSUJl?oc=5",
+          "published": "Tue, 18 Aug 2026 19:53:54 GMT"
+        },
+        {
+          "title": "Un procès qui s’annonce historique : accusé d’avoir créé des fonctions addictives, Meta (Facebook, Instagram) face à la justice - Midi Libre",
+          "publisher": "Midi Libre",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUU5TX3B2bEJJV25kX2JjaVpmRTNZYjdBMGxRUDctazk2am9vblZVMEJoZnpRX1BTTm9ic0FzbnFPOEp6RGF6TTM3QWlWMFZYNUt5SXJ5d043UHNpdWRtU1hwWHhrY1o5elNkNWhwVWFnZUxnSTRpOFZCMDduOHYxRnJLV0JwMHZCNnJhSWREYldJMktZcTFmQUJJRVYtamcyX3hoSFQtZU9XTFVlcHZtb2liUlpGUGk5d1JDQmsxSHdiYmRVSWo3Zi1NcXN5Y0NseFNPQV94TWUxdmtIdVV3eFp0MWxtUF92MklaYlVVWFNZcTB1b2t2U0FMOUI?oc=5",
+          "published": "Tue, 18 Aug 2026 04:02:00 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "Barrages Ligue des Champions : Mattéo Guendouzi lance déjà un avertissement à l’OL pour le retour - Foot Mercato",
+          "publisher": "Foot Mercato",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVZwU2lIRFhpQTNJSG9oQ1V0NzVYVm14ZjNCdUM4N1RLaUhvMG5UVTBjbkhQOEVfVUZGcE1JLUlXZ19PbUtQbmdsMzkyajFBTlFXM2RlZnJTUEh0cU9DVDBCUThJdDlXZm1aUGMyX1NiTm0xa0tkYzRqbUFKbHpJQ3J5OVdDdEZKcXVMUi1NVlV5b3pLc3JWV3B3OTRhTFc0cjZ5ajRVZnNTWW5rSy1BT2FQWlZkS3ItenRuRDU4Y20tV1hGSVNGSTZ3Um5ybjR2a2IteHRYNE00aGc?oc=5",
+          "published": "Tue, 18 Aug 2026 21:37:25 GMT"
+        },
+        {
+          "title": "La fin du feuilleton du mercato estival: Rodri signe officiellement au Barça et met un petit tacle au Real - RMC Sport",
+          "publisher": "RMC Sport",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOckloelhvVUpmMzlFdF9kelBGU3JhclRJa3FfVEloZG1kaXJnUXI1bFJHa3lWd05yNlJnSjE0U2w1NzZOMFN3WWVMYmZGRjNheFdTdExqdFduTk83Qm5qVGlaVFFLeHVzUHZmcXpkMHo2YU5pUjBRUklsNHhVSlFqcHY4R050bVlxMEpBTWF3TVpzcXRqVjRwZ1dZam5LUWxqbHhpTGpzRG4xVmlZNFNpc3ZwZmpTUDlSdWVWanF3YmFIT0oxLWtVQ3pxUVZkT0VqNElGQWsyWGM4bVBXQWdtdk9xaEppc1lrOFl6T3JmMlhGVTdoTkVhNjdyQWlkN0JoeFVr?oc=5",
+          "published": "Tue, 18 Aug 2026 18:06:29 GMT"
+        },
+        {
+          "title": "Fifa : Gianni Infantino a appuyé sur le \"bouton d'autodestruction\", selon le patron de la Premier League Richard Masters - Eurosport",
+          "publisher": "Eurosport",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOR19TZVVzbE1kT1hMdXBVNWVvVG12bjlMYVUzdEluOUY1OGFKdGdLQ1Z4QmNiV2xtRGt5a1o3emY5T0ptbXNfTC1mckp5MWdpVk1obFJ1dk9WV1FMcTE3cHB1REdTSjZrVXhCc3l2dFdLcGxFVC1uUG45WE5LcTBmRUd0WHlZanpqV1ZUTGdxWHZPdDl6U0lya1Q5MDV2d3hrWjI3NXp0OE01TzRHbkVEbTBlcVFVTGlNM2IxdUF5bVBVbHZhcTFZeHZ6LTBoN1MyYUY2T1FUWWh5cGtuc2Z3V01UalFRZE5jMUpyaVpjTDJVcWs4VFZ4WXZTZVBQYV9KZnc?oc=5",
+          "published": "Tue, 18 Aug 2026 19:27:00 GMT"
+        },
+        {
+          "title": "Victime d'un deuxième malaise en trois jours, Jamal Musiala souffre d'un « dysfonctionnement neurologique » - L'Équipe",
+          "publisher": "L'Équipe",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRFlRLUZSaFBVWC1yeEp3czRTU1JiY3c3TzRVQ3lRRlljYWI4S2x6enhvSkdyQzJqaWMxdW83Qm5qdlcyY0dwemdMM2FtclAwU2YxV2ZFckhYUmgteXRCUDJOY3pQa0NJcFhIVG9aWEU3cE5OY2xmWDlRSk13WjNHb2pHQjZRNEktNUpUdVo3UWI1Wnh1VTlHcHRrWmVtQUFYbms1NW9fVXhSR293UWh3ZVlyd0d5OUZxdVotS19NcWVDV1hfRGdLczd0MTczU3QzdjZEZldZdFNDYnB3NXppOUxQNkFyMUxT?oc=5",
+          "published": "Tue, 18 Aug 2026 19:41:57 GMT"
+        },
+        {
+          "title": "ENTRETIEN. Girondins de Bordeaux. Recours, budget en cas de liquidation, reconstruction… Jean-Louis Triaud, président de l’association, sort du silence - Sud Ouest",
+          "publisher": "Sud Ouest",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQcHFhb0R5LVQwbEhIbER5clNZYW5fWXhkSm9MdXRWZHdRb0ZXTXZuS01tZ1EtT0k1cEpBMUVfbWdKSDlLM0d3UExYUjcySzlqWGZyUVRDSkg3UXh6aU1YSmFuLTN2eTJuc0I1RnM0RzZnekZadmhENko3ZHlqYnVzc2ZoVWF0RVd1eG90a0VBUzdFN094ZkRDSUc5eXdRdlhaQzZ3SDNzV2N4NS1RVkRQYVNCTmlRRHVnN21wVWRtenBXaUo2bnNoSjgtNS1TbWZTbWhfdFdGMUZmeFN0VWVXejF3eVNXQ1VUUXpSOE1MMkw1QnFoUzZhN3FKUnFSZnNVR1B1MFh6V1ZLZXVPeTRoakNaREsydlM2MzVVS3hOdGhYWjdaTnhabWZnTFlLcm82c2NPVkxaVDJTc1E2RGEw?oc=5",
+          "published": "Tue, 18 Aug 2026 15:38:38 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "Piratage du site des impôts : le gouvernement détaille les trois fuites de données qui concernent aussi les données cadastrales et les successions - Le Monde.fr",
+          "publisher": "Le Monde.fr",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPaDhXRTNrdTFEd0hrNWFvZWxEZGhrcm1tdXVXWndveEVEWmEtdjN3MGFUeWg3WVk0WEw4R0ZPX1p6VXpMOExaa3RadmxPbk1hY0M2Q3lkZlJwdXc4ZXlUOENhbXhvSU9YaDVVUmlncGhMdkxvYnZ2MEFCQ1RCNTdyczN5aXhoVl9JcHVzaGtDSW92LVBOWGlobzB3eDFCZHVyazB6M2FOUGtYSl9pemRrSldzU3JIX2M3cXhJZTB4VHY3QXRIX2liWTBMdy04Y2otVTN0blpKOV83Q3VlS0ZsdXNiTHh2MFl0eUZCTXlZTVZQMll6b2pLSHJWWGZFZGdPeWZLZ3Z2VF9SanNnd3NqZnpVLW5NWmRHT0xfUEwyUFNKdndZSEd4WXRkM2c2RTlsanVaYkVLU01ZVC1lYVpIb08xYw?oc=5",
+          "published": "Tue, 18 Aug 2026 17:58:19 GMT"
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir détruit 1 671 drones ukrainiens en vingt-quatre heures, « un record absolu » selon un média russe - Le Monde.fr",
+          "publisher": "Le Monde.fr",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPWG15eWZuaUhocDRueDRVdXNOeFZZbWJiSDFRTmhvVE9PYVU0eTN1MVJ5SkFDcVUtX2NjOEMwRDhvUzJSU0xIeXFsdExiVkFyeWdyYy1zeVBoT0hNckJyaU5JM0Z6bllwTVN3bF9nZTVHT2V2eGtyVTNLWWpWc3BSdmNPNXY0WXYycVVrMExSb0E0bnpFMUJLdks3MWVVdXBHdXlHVGtzOUNPSFpLZUtZTzRKMUpFNzM3bXJqalNFWk1oR0QtNjMyLTdyT21WU2pPMHctMGZ6a2s4S2d0bDVXV1FmRzNLbnFUaWItdlVwUUpnanlETkVWc25hd1Z2Z2dQcHlzX3pRVjQtVmVXX21KblQ5NGVDU0pkdGo5WVVMV2ZFNFo3RkhYTGYxR193X19uejdlVC1MVQ?oc=5",
+          "published": "Tue, 18 Aug 2026 12:05:09 GMT"
+        },
+        {
+          "title": "\"Les limites humaines dépassées\" : le premier robot humanoïde vient de surpasser la vitesse de pointe d’Usain Bolt - Les Numériques",
+          "publisher": "Les Numériques",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYW5mZ1NLZHZqSzZlQlo0eS1LTVNwZktrWmpfai1iQy1VZzJseEJMUldfTGdKSkZvS2NORDVpajg5ODJodFJlcXctdld1X2VQSVV0ZXNValBla3VBMk1fekNpQ1NkUlhvLVBTcUUyYTNkZ1l0eUxPWFRfTGRYRE9lSUgybTVsWkEtc1ZiMlE5SmU5NEtBcFBORTlwSFVpaUpyNWJoSWdOUEc5UnFHVW9zTE16MUZlLTRGNzhHNGZoblhmQ1VZeTdfekFVQTVFR0dzUEJWaFpQRjJOOWlGYVUyYUJzaEp6Nm9uRFAzLVB3SDZDWVJRR2ZSSmdpWE1jNk9rQ0ZnaFRWYVNaXzA?oc=5",
+          "published": "Tue, 18 Aug 2026 10:51:00 GMT"
+        },
+        {
+          "title": "Strasbourg : les hélicoptères ne peuvent plus accéder à l’hôpital, à cause des livraisons illégales en drone à la prison - Orange Actualités",
+          "publisher": "Orange Actualités",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOQVI0MjRKb2pfWkVXRkdKSkVlbTJPeVN0UTUxUzhFV1NTTHBNbVZ6RFV3SHlRRlFhQTQ1bV83eU9zSTlQV2hFTm5mTV9sV0Y3OTBlYVBCQnNyNnM3VjZud2RBdzluSk9EMVJZTERRQVpKczdxbkNwR2NTLTBTZVRCblp6VmdZWlBCNjh3M21haF9jVjFUT1lRVUdlOUxLM2tFTW1CcWJSU2RCR2pnTHI4akhETlJHSTVnZjd2N1g0cVZyYmg4dlphLW1feG40cFd5Q3Fibi1Jd2JWRkNDUWJXNkYwcDBLZE9LbnJzOXRqai1LaEVYZDBCemgwTEF1a0hRcE9aenV3Z09iTmc4ZjVLeGQ2aWw?oc=5",
+          "published": "Tue, 18 Aug 2026 10:15:00 GMT"
+        },
+        {
+          "title": "\"Merci, quelle journée\" : l'astronaute française Sophie Adenot est rentrée dans la Station spatiale internationale après six heures dans l'espace, sans avoir pu achever sa mission - franceinfo",
+          "publisher": "franceinfo",
+          "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOemhQU3plU3lQbDMwVE85Yll5M3RkLXFFSlFzTGZyS0ZqbjhGM2dIRDB6VEZ2SkVFc2NHN0tqdUktMUQzSlZuMnpLYm84b1ZVNk5oYTJTRThLX2hhcXJsWkIyY1pWZVJEQ1N1YWx4X3JNbW1Ob1l4MnBmWmN4OWFhUEhGNkgtWlMtSnVwWW5jVVBBbGFxWFA1SzN3T2h0bmlTRUxSRldWUU9rODNBRzlNTmhWYmE1ckluV19zWTRleWF2NUppMkMyemNFdmVIZ2NmazhGSDhUX3R1ZWVrLTljVzZ6VGY5WEJEeXhFY0Fjek1ZMVQ2MHI2Q1BBY0FoQW9KSnRtcTVXTXNKMjM0cDRoT0dhRVhNZW01NVNjUVVaTEwxaXowdmxBNUIyTlNiaVpLYkZ2YXhBWDdIeWZjcEJMR0haQWhWdVk1Nkl6cEtzdkxyN2VIbUNJS1RqWURrVVFqYjJ1NUlZSXRQdEZBVGJSZEs4WEFPUEI4alh3bWxRQktia215?oc=5",
+          "published": "Tue, 18 Aug 2026 20:07:14 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "How investors profit from soccer even as Premier League club losses skyrocket - CNBC",
+          "publisher": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMktUc0w3Y2sycU9oWXg2VW02UWFYMWlzaGMyWDV1NjlkWV9ZaVRGVUVjZVYydWFVTjlMZ1AyWVpnazVXZ3p2T214QW82WmpMYnFPZ29xNkNUdDJqSXRMOVh5XzlzS3g0bVAzTmNZUWFJTFl3bzRucklRUkpXN3h2V09Kb0Jnck3SAYwBQVVfeXFMTzZyTGVmQU9rc2Q1R0N4Zm9WeEtsUXVQUGxZeWltcHJORUxnQ1FyYmdkN1FJSVVRdTJTNGdoVEVSTWdybHlOVkk1RTBKeDc0ZXFZQ2xDS2JhRTBKb1pWWVkyV0xUd1VYVmxLQk9tdjNadEp5TGlzbmcyNjN0eGpOUUlBaTY3d2ZqZDl0TmU?oc=5",
+          "published": "Tue, 18 Aug 2026 09:09:19 GMT"
+        },
+        {
+          "title": "Soccer-Rights groups accuse FIFA of silencing dissent after COO Lamour’s exit - KWSN",
+          "publisher": "KWSN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEU0eV91eXRaTTRQendMbF9VQzJRR0ZWOFpjYS16UVlTaENZcVdkVUpTV0s3aGVfS1FvSlJtbVNSVnRzaDFkbFNXNlQ0SVc4Y01UcEFUN2NXWjFzS3E3UWtwM1ktZDdBM1hlX29CTjVPS3pQQUUwZUZkM21yWVFRTFlWa2llRTB6Q2txSk9lNGViSm5BSlpTQlFNQm40SnRSR0pBd0UyWGg?oc=5",
+          "published": "Tue, 18 Aug 2026 17:42:53 GMT"
+        },
+        {
+          "title": "AP Interview: Klaveness slams Infantino's FIFA for firing top executive in 'management by fear' - The Washington Post",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUF8zQnlOb283SThmWUo1ZUdUOXZHOG5UZW9BZHp3RFBiWjZRX181d1RGcWl5VjRiaV9VZG4yQW11QTljMlJ4dHI1Mkltdk5oTjJESlpiTHVuLVpzbnJjeEQyYWZiQm01SUY2bXREODdzYllGZXZlZWVOTGRsT3ZJaGxTTEMzLU82VWpZV1MwTVJVQzJnNmZjR1ZvZEZrY2xZOVM3cFZaek10N3FHMzB4Mm44bTExeVRLaW9FdE9xdDJFcjhPRFpmQnRTR25fcXVKRzBfVFZSclM2UQ?oc=5",
+          "published": "Tue, 18 Aug 2026 22:17:48 GMT"
+        },
+        {
+          "title": "Infantino ally insists Fifa president still has backing of most football associations - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0R1dUxUNkFXX1Y2RVhqZUFXdkJTTHZvTnZ5bkRFY0J5MTdDZE9qZnpVclpEQlhDZEhTcGhJRzNCTl9NNmxKZlBKdXNJZU52UjQ5UGNmdm9JVHlMTEFRMTlZWHgzd3Nra3B3dVRJWkZ0WkhZMlh3YmpYeVFoVW5aM3dnWjhpVU5GMTBPUFEzQVNMb2wtUHlOYzZaS2V4YnphTFhBSDFoeWIwNEVTbDlwTjdqQ1hhTzBXMV9iU1NTSHZZek9QMHJZQkNtQndrUQ?oc=5",
+          "published": "Tue, 18 Aug 2026 20:59:00 GMT"
+        },
+        {
+          "title": "Rodri’s journey from a Connecticut camp to World Cup win and Barcelona transfer: ‘Football was his religion’ - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFNXMi1yNkEzYkhlR0Qwd0Rmc25aN1VKb1dHWWxMQ2UtREtoM1ZWb1FicEZNYUJqTDJmbDBRTVowRzM5cmpKb3Z2VF9iREpKeHdPdHVFZzN2WmEwN2V4aFR6Z0tiX2twT3JIbmJMRC1WX1ZYZk1OUTEyMVhMUjhUWTczaGpLaTAtOWs1cWtqUEdiS0RKdUpCbEFOZEhqUWRfY3c?oc=5",
+          "published": "Tue, 18 Aug 2026 04:05:32 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "Hayden Panettiere's Mom Speaks Out After Death: She 'Lost Her Way' - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHNPZWhNMjZNcFp1WERYSnYtd0pncEZwMHBPWlpOYV92aDNzcDEybzY3cjZlR296RXhKTkNCc0VPSEVHMEp6NWVfUVRRakxKQ2toQ29hcWNzdmtmazlfcE1XWlpMdGtneVgtZkJzVmlhVG9iRmpDOVo2U0dZel8wTGMzNW9oby1FcWhXMQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:30:00 GMT"
+        },
+        {
+          "title": "ZZ Top drummer Frank Beard dies at 77 - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ25uMnFSUVB4bTZ1RU43ZlFIRWJjaWsyMkUzRmIzdE9DVE02Q2ZKbEQzX0ZaelpMZTNaRU5VLTVTcFQwcG44eVc3eW03a2hxc3A5dWFUUXRTdVYyTnBpQTc1U3dKNnBMQnhqNnRRVmt0Wk9EWnY3UkRrRHpNMjRuMWdjdk1oVDR6UVVwZHBHRjRmZmtvSXBjUU1UcG0wVUk?oc=5",
+          "published": "Tue, 18 Aug 2026 21:53:00 GMT"
+        },
+        {
+          "title": "Rosie O’Donnell Crushed Her ‘Kimmel’ Monologue by Doing What Jimmy Kimmel Doesn’t - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbl9ieWRKc3BucE84OXYzQV9ZYl9RdTlKejhmcno4SUZsUzJlNlBVU1RGX2M0V2lKX1JSTGZxZ1pmenJmRUpJbGpBUUtISXFNNXBvZ3BNRC1QSll4TEMyM2tvazRpSVIzLUczbFlaRV82a0hRSlpZeGhISk9MWlBYYlphczFVYnBCNFhIUUpXUXJjRlFuTXZxWUprcm1kazJs?oc=5",
+          "published": "Tue, 18 Aug 2026 16:39:10 GMT"
+        },
+        {
+          "title": "Taylor Swift Returns to Social Media With Update Very Few Saw Coming - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzRRbkUtNzMyVTJSMjVxMjJvbHNyVXFHNlMyN0VoWG5tUlFFZmkzdTU0a2xuQ3F2dnJjeXVscER4OThBYS0tQkcxY2dyc2UySktNR19aVFF0MXhERzlaV0V3VEx0ZU0yNTZ3MjNFb3dmOFo1VzMzOTJ2a3ctTVBLaDdzbTJ5S2cwZkJ5Uk1GOXNaUE9aRTh3R3JGSG5iVldD?oc=5",
+          "published": "Tue, 18 Aug 2026 09:07:58 GMT"
+        },
+        {
+          "title": "Some Tupac Shakur family members step out of courtroom while others stay to face autopsy photos - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVm5jaWZuQ1A3V1BBMU1HM1Bia29QNG9NcTBwMnFzb1F2eDlLTkw2aHdwQnRaR042TW5jRVNHZWoyMm1xZXlpenBNdkNkNVVyR2l1NF93ZXZRLTBGY1RBZ2NVUU5jZVdCalk3MWt4Q2pyeExmM28xYnVGZzZmRHB4ZjBPU2oxc1l2RnpzeXR3MEtuUHk3WWxJYy1OdzFlTjJDWWNKRkJsMjI?oc=5",
+          "published": "Tue, 18 Aug 2026 20:22:00 GMT"
+        }
+      ]
     }
   ]
 }

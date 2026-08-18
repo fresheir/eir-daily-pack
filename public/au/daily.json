@@ -1,43 +1,260 @@
 {
   "market": "AU",
-  "generatedAt": "2026-08-17T22:24:21.013513Z",
-  "validForDate": "2026-08-17",
+  "generatedAt": "2026-08-18T22:20:18.288796Z",
+  "validForDate": "2026-08-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "A handful of Swans players wanted to keep partying. The fallout has rocked the AFL - The Age",
+          "publisher": "The Age",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTllKWnBJLW5yU2lPMWJ0RFgzTVdsN2syVW1EQU5WR09lRF9oYWlZdEZmelpiNDRlSHRLeDB4aTFzRzk1YW5Ib3c3Y3o0MnlNay1KT2J5RXZXVDlaZDN5V3lJNHFtRnVfSmZMeHVuVmdXRFNOSk5UYXhGdEg1anJGLXM1TnRrYlkzWUp4YVBXM2pZa3dxamtfSlkwS1c1ZTF3MzhIWVowQTJ0dTd2ZUR2dmhGbDNmZVJFSmpRVGIwRE9IalJyMDlPWmhzNWE5bXhLT0pLNg?oc=5",
+          "published": "Tue, 18 Aug 2026 10:02:09 GMT"
+        },
+        {
+          "title": "Labor floats ‘Thriving Teens’ scheme as laws pass to remove 240,000 from NDIS - SMH.com.au",
+          "publisher": "SMH.com.au",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY2M0SV9xdXNTa1IzNE9Jd0pIV2RPZ2RkRTdTQ1MxVlMxa2lRNGNVQTgxTUlPNVA5Sl9DSnpwVE4tMEZYbzI1MkJlbV84Y09PZzQ4MjY3ekdjUU9WNjVBa1M1aGt2TG82bHA0Ykowb3JwOGlvQUlKNkF6Y2NVclp1Y2czNTZoT0VzaENQZjlLVXg1d2w1bV9hT0JxYlM1VmEtNXp3S3QyRlVUbzUwSDNldC1vZFowZ3Y2RXlZTHlYcW4xRFpnRUlIR0JIMjNuUDA5Wnc?oc=5",
+          "published": "Tue, 18 Aug 2026 19:00:00 GMT"
+        },
+        {
+          "title": "Gambling red flag system under fire as 'Dracula in charge' - ABC News & Headlines – Australian Broadcasting Corporation",
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQjlBY0FLbk5wN0xpQ19DQklEeERsbXh3V0p4NjB1U3p5SXcwU3NYXzN0YkxwelVqcmFqaF9RTTEwdDU1U0N0TXlFdHh2T0x5WUlRU0VISWtjVWRqUWdBOC1fRzRlZ1pIeFRScElOY1N5QkZBYk9zdjJfTUhhZWRYYWhxQzlRZ18yYXlJUmw1UkVybmEwMHJfblE4UDNjWEFmSndEWHNsaHc2N3dIREpn?oc=5",
+          "published": "Tue, 18 Aug 2026 18:52:04 GMT"
+        },
+        {
+          "title": "Tenancy dispute allegedly behind fatal stabbing of man, 66 - The Courier Mail",
+          "publisher": "The Courier Mail",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMW5yS0lMX19VY1RQTnh5RW5ZMUFnMnZieHdSZ2NRVlZZcUJ3dkdrYTBqNk1Ob1NHZjFfQjRYczJIVkdvaGVLSHlldjdEaU4wR3FGVDdUZ2pHdUZpQlhDbmdRakRCMFRrVk14MUZfZ1pnMzl3ZkJUSjRvc0piazFWOWkzV0NEcjZVXzluYUxfWkI4YnVtNTdjT09Uc05VbmQ1bUFiTkVacnd6X3FzcFZGajJ5SnRycl9EVUMxaFpOWDRubTdVLXpDWHg3djd4UklEQXY2S2MtbUEzME8xczU4cldiLVlsa3NPYUttVFRITEF4cmZHTGFWU0dhRWFHcU0?oc=5",
+          "published": "Tue, 18 Aug 2026 08:35:07 GMT"
+        },
+        {
+          "title": "Revealed: How leadership coup has changed Labor’s electoral fortunes - The Age",
+          "publisher": "The Age",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNC01VEV5ZWNwbG1KcFN3azZ4OEFZYk5ZOHNTQ3pwdXRTcU10ZFo5SEwxSVJoVnpSOUNUWmFKTENuTTByVTExcktmRUVJVm5UYzJ3cUgzaGZTQW82dXJYV19QdEtyS2xfT0pEcnR5VS1QNWstdVNFTXpOZHRGa2FvVkFvNmo1dHl1RmNteGdFbkptTXF2VnRmR2hBakpibldUNjZ1T1pOZGFwX3RGNDA4X3AydENTVmpKUTdxaXF2UUV4cERYZEFTQnlWTVM?oc=5",
+          "published": "Tue, 18 Aug 2026 19:00:00 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Lone doctor's plea for help in quake-struck Indonesia as 40,000 displaced - ABC News & Headlines – Australian Broadcasting Corporation",
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWZJakpHb19OX0tLYmp0dGZwbG4zUDIwamkzMlVPVWhNX20zNU83LU5uYU04Ml80bzRDdEdNYmJHLUx2MldvZ09zMUpXdjZNVDU4TWxEM2xoWmprU0RqS3FNMC1Ra1V1dk9zaDRMZHlMV0pON0piMmVEdnV3ZklzOWphSHdoMXREVnlnbDVZN19OaVRtNnQxZA?oc=5",
+          "published": "Tue, 18 Aug 2026 19:48:07 GMT"
+        },
+        {
+          "title": "Aus breaks with Trump on North Korea - News.com.au",
+          "publisher": "News.com.au",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVDE3aDNxUmRjbkdGNnpnaGxMb3J1MEp2YjJMOHpVZTIxWWVxYklLczRDNjJsNHFaWVMxLXQwM09ubHBJZlQySVU2NElFUjdMYy1qTlFpLU92cFNwRVZzeHBxUXRiMk0zd0tzUFJFY2dUcWpsaF84eFc3MFdxa0dzN3VsM0Y4aTVRU1BOb0tyRFpvTVR0OWViazBwU1puN1d3TjEtNnVwUjNPUFhaR29TTXpHV3h1RlJUc3NtWWRqdmFkcEtEVmlSa3liRXpxTDJlZXFsd09FS2F2bEk?oc=5",
+          "published": "Tue, 18 Aug 2026 07:59:23 GMT"
+        },
+        {
+          "title": "US Politics Live Updates: US ally says it will engage after Iran launches missiles - Nine.com.au",
+          "publisher": "Nine.com.au",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2RFbF9IckNsVERDOE1ONGFWWlZoTXVaeVluclJhNGxodjRiMi1MczdTckFjY3lyMS1veTQwNzFGRHdGMGpDbjlRem90cVVBUlUyT1NuV2hWdXROWjNqYnpEMXZ3eUVuaWJyMUJTdF9KbXE2WFVYRGtZODBwSVZnVEtYLVNqYWRZVlBRUDNHcjNKOEVXU1dFVExkZ3l3NDB2ZE9PdmhCRVpBeXRoQVFn?oc=5",
+          "published": "Tue, 18 Aug 2026 20:48:36 GMT"
+        },
+        {
+          "title": "US’ new fury with Israel after major move - News.com.au",
+          "publisher": "News.com.au",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYTI2dmZGSmxDcHlDaFdlMjBuQ2RzX3lkSEl0MHU3Z004VVV6aTMyTnlsQkp5eW41TTlPdzJKWU02UFVZSS1OZkVuNXEzMjdLdldxNHQtTHRzS2V4aWdMSUtPQkNKcVBKdHpJZzhhN24tRkdqM2RqZldSNm52dDBsQXlibEpEdGJoWGV2MkZHQlFyWGNtREt0ZTUwZkdZLVBoamhpRFpWVzQteEZiRHRvaDl2dmhvWlZBRjNQc1J6bUxVeExUX256WmxwVUdidjd2U3c?oc=5",
+          "published": "Tue, 18 Aug 2026 15:30:43 GMT"
+        },
+        {
+          "title": "The PM’s transactional strategy trumps the president - The Age",
+          "publisher": "The Age",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2t4RUtTSVBCMEU0ZXNHSHdzMmdOR2ljZDFFbEU2STFVZ09MZVNOOWMyanNXZ2M5bmJnbXgzMHY5MlNDX3BVUDRROTVibzNLajloTDIweE4wUkpwLTZOX1VfZUFXU3l5VkE2SlRsc2xpdGVFQnh5WXV3bjFiVWd3OVRzLVJZdmE0dDctTWdZaUItYlF3Xy0yV0lRcm5uTDNzdmZjQ21sY0Zfb2xMTDRHUG1nb0FRQmxWMW1R?oc=5",
+          "published": "Tue, 18 Aug 2026 19:00:00 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "Government to crack down on super switching schemes - ABC News & Headlines – Australian Broadcasting Corporation",
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTRjbFZWOFpaMU9ldWxqMUVWUC1oRFh3ek9xVmdBRkNLeEdtMkwwaVQwV2lrMDg4NDl4ZEpWdGJBY1pPdEFRdEJHS3VFQXB2T3p6OW0wR0FBdHBjcGR5bEY5Zk54UzlIblZrY3VPYmJsa1pKSURXWkEwVnpCY3V1VEl3NDdXSXY3U0tNWF9aT3VrLUlVZDFycUFMTHk5Q2t6UUtCSjRPbXlDdF9oWWJCUlNyOA?oc=5",
+          "published": "Tue, 18 Aug 2026 14:18:41 GMT"
+        },
+        {
+          "title": "Insurers are using your race and religion to set prices. Is it discriminatory? - The Age",
+          "publisher": "The Age",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTWlIZlJpVzNqbWFxTWRmWWs3WVdyRTd5aDY4UmlnTzg2SFZZM0ltaTAzdmNEaXpTUGl2VWJIZnBZQUxlNkxKZ1JUNlpSM0d3UExMMHBOWmcyTXpsYkZhcXJnQWZpaTJDSEwxa0JBN09VREdfREUySFhYRDU1ZXNjdlNwbnNDWEdxeW8zbjI5MlVpM1gwNWZCSE9rWVlzZUdlaXZsalUtZWFObjgza3M4X1VrUDJ6SUo2d3VBdkZQQ0g1QjB4QTNoS0VpekNDMk9RT2xnSDhFZ0VCdw?oc=5",
+          "published": "Tue, 18 Aug 2026 19:00:00 GMT"
+        },
+        {
+          "title": "5 things to watch on the ASX 200 on Wednesday 19 August 2026 - The Motley Fool Australia",
+          "publisher": "The Motley Fool Australia",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVDM1QVUxWWdZbHY2cWZITzd0ZldheXNkLTVWdnBEYWFtb1lrSmRRRV9iUjZSTEhOWkdicmVBM3VZaWVhcUhfMjVrNGNNdmgtWnQzd2wwWjRiLW45VnVRVGFqZHozYS10U29ub0drTlMtV0NwWjBRZnh1NGFSNXltQjhpWEg1Q1JBU2dfalo1eUYwWTkxa0tzcV8yREc?oc=5",
+          "published": "Tue, 18 Aug 2026 20:56:20 GMT"
+        },
+        {
+          "title": "Australia politics live: NDIS reforms to pass parliament today after 63 amendments get Coalition on side - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNZUhGV3U2bk13VVd2OTRkcXZtd2k2ZnlYWVRva1l0X05ZWWt2OElEUE5iM3dBNEhtS01zSEloTnlVTVRMOTJ3T0V4QW4wQVppSFFPZnJXWnZzX2Rhby1QbTRKQThGUG5VWTFaNlJBMG16eWh2TkVBZm1KdHNLYkJISlVfZUVuR05EOEc0ekFJM3VEQlUwUFJHaWNYZURBSV9pa1otLUJTbGNNSVYxOHVDUUFLY1lodVlRNm0zLTJvaWNUZXFWRXE5V1Qwd25qRmYySnFPWUtoU2E3NFVpT1NfaHFpQVpiaVVCdEZGVkhNNnctMWwxUHFSemQ5ME5sZGRsOHAwNlFRMnYyWDItZzlDYjNFczU2UC1Pc2tiTkQzbmFQY19xeEZkN0RhZERVZw?oc=5",
+          "published": "Tue, 18 Aug 2026 20:33:00 GMT"
+        },
+        {
+          "title": "‘Definite blow’: How Virgin just outplayed Qantas - The Australian",
+          "publisher": "The Australian",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSnRrUXVmQ0pDXzNWSElGNzNZcGlUcVRRYmJObFFXeG9sdUxEU2QzUU5VTkRfaURxdThLam4wdmtSMVNsNVNMMkx4ZERzMklfSkc4SHdYcXRGS3dKNmxURGNiR2prbjNqem0yRGpxalJFdjB6OHZCQmJRNWZ5MlFrcEt6dWxGZTN6Q0M5MGdVR2pJRWVqc2xtS3g1VnVMc1FhOHNPYnhuU1pPM1B6NktEUHotVDNkdlhoaWhSejlKY196N0lHODFFWkF5QmlQckhYNFZoWVZjZnowWHNEOU5VaU8tUWQyRThMOVhJeVR3OUR6ekprRzNrS0dIMldMazZXanh4Q0c3dWw?oc=5",
+          "published": "Tue, 18 Aug 2026 19:07:30 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "Swans captain issues apology to AFLW amid assault allegations - SEN",
+          "publisher": "SEN",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2tUcEJtLXVjcVd4RXJQcFRkQlhRWVZsX2Q5cG81OUxLM3RDQVFYUjd1ek54NFQ1Yk5mNDhVaTgtZWUxTlRzZzVDUVFQN1pSbzZNd0NoT21ubDFab0R4UElpTFhlUHJscUZGZzhPdkxhSUZqVnUwUDNuTFBrR05OaFFucmxKV0szenJUZVdHRFFKRllrNHlQR1l3TWtoRHdudFJ1ZzBHT0tpUXMtWU5aUWt3M2lZYTlKSjZTYw?oc=5",
+          "published": "Tue, 18 Aug 2026 21:41:53 GMT"
+        },
+        {
+          "title": "Bombers fans threaten to spill the board if Hird isn’t named coach - Herald Sun",
+          "publisher": "Herald Sun",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOM0ZUZjlxQjVscmZaWUFwMXVWbHlteFJ2d19zUVlvV0RZMFM5TTBKdWpPQWdUeGh3YkZzQWQ0Tk4yZGxYTTFLUVRudEJaQzdRV0JPVFU2QlBRVlVXMjFEcFlqQ0tyNm56WkRhUzRPMElVYVNJclFNZVpQNVRZVlgwU2d6bVpFY29tQnpGSWVWcDJCZTFUQTRDdVkwQXBsclVFaHVtMmxDNmlNVF83UWtCOEZXU05kdnBYOHhORFgxa2lmLXhqTkxNTU9NX0ptbmFNUVNrOHRyc1hKODE4aW9mMVZOUGdxMjFhMWVRdHFqcTRyemlDNi1aV04wT2pWTXp2cF94TmRNUQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:08:43 GMT"
+        },
+        {
+          "title": "New mum returns to international 'murderball' with blunt new perspective - ABC News & Headlines – Australian Broadcasting Corporation",
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRGVVNDZnb0VpQmRYX0tyQ1JVemM1bXh2NWtydVpPcjZRaDVSbUJTc0lHeWF1TmpBOEhTMkJBeC0zeF9JTWhtLWlILXZpcEdVUmdMYjJLOGsxZGRLRExsRWk4ZjZ4Z1FyOXNqNEVJQ0xtaWhYNDhJQ0hOQUdJeGNKbFVIdEVCZ0tVVFNWa0JYMG4zRzZQNHlLSTN2TWtxQVdINE8tdVd0NVV0cTExSFE?oc=5",
+          "published": "Tue, 18 Aug 2026 19:29:15 GMT"
+        },
+        {
+          "title": "From No.1 draft pick to Blues coach: The timeline of Fraser's time in the AFL - afl.com.au",
+          "publisher": "afl.com.au",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVi1RdkE3MFNRS2o5eFZHTm13cEZEbE5SbHpubUFJUU1pdERVcUlwSVBZU2ZhWW5zSUpMTHRsMG9wNjFMaU1WaU9mbGdhS2pOdTNqWHFEb3F4SzJpRkZJQnNOcmxxblRoamhQMDQyakhleWVpRFEwaXZxREJrdGUxa2Q1Smt0eDUzT3dqV0xRNDNoSURkU3dFT0JCRWhjS3pJaC1NbDkyRUtBNDJZV01rUXpVSlJEMXd0LUZBd290RDk?oc=5",
+          "published": "Mon, 17 Aug 2026 23:52:00 GMT"
+        },
+        {
+          "title": "Melbourne dealt massive finals blow as star forward’s ban upheld - The Age",
+          "publisher": "The Age",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOUl3LWU1ZzBQaTI1RU91ZmRwaFZ5enJJZGxJWXAyb0J1ekNHdW1vYTBabmk0M1REUVU2OEhWZ09KajVHQUh0LXZVdGdPZU9uR0F1M0czOF8yc3lzaEZyUmo4MGZtazNxUkR1Z0hSblpjZXFvR2dZVTVLTmJTSjRmbmdmM2F2dlF3VTRFaS1ibmtoZ0w2aVl1R25mcXdYRi1UYWJFOVFPaWx5cEVFVUhzQUlKYl9qSENHSDV6R0txVEhFaXNhckV6d05mWm5GWXh5RXNmcQ?oc=5",
+          "published": "Tue, 18 Aug 2026 01:36:36 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "Army unit offers soldiers time off to play new ‘Grand Theft Auto’ if they reenlist - Task & Purpose",
+          "publisher": "Task & Purpose",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05OTNKVHVnalNBLTVtakljb0xkdGxtNWdWc1EyZWRHWThFTDZKUTBqeF9qTkZPMUhNd2EzVjRlc0tKS2lvS2hpUzdCRmhVLXowMjV1SkhCaS1lRTg0cDZ2NDFnWnY?oc=5",
+          "published": "Tue, 18 Aug 2026 14:55:46 GMT"
+        },
+        {
+          "title": "Noctua has no plans for RGB, screens or white coolers, engineering resources go elsewhere - VideoCardz.com",
+          "publisher": "VideoCardz.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZGtjSmlSdzRIdHJzVWdSR25Xa2p2cEx0dE5RZ2tvaThYYTF5VjZyTjdRS2VUOTQxcDA4NGF4VHFYeTJCeDVQS3QxY2cyeEJxRFFublZ3TER4YW1MMWFzcXh2c0p0Z2NEc2V4azNXQUYzZ2hPYzVvUDV4ZF8wN1A5QjVNaFk3X0NPZXhwWU94TWQxeDJvb3hkZ1dRaTdLdGJpWkJraFktLVU5dkhFMHZ6RklwNjFLUQ?oc=5",
+          "published": "Tue, 18 Aug 2026 10:28:28 GMT"
+        },
+        {
+          "title": "Scientists Think We’re Overestimating a Promising Fusion Reactor Ingredient - Gizmodo",
+          "publisher": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEJTZmVkWjY0NzRDZWMtX3JlVlRoRGVpVmRCc1NtUk1iYXF4TTlyZjJiMC1KN2VMd2xvY2pjRzY5ZUNCR2NGdGpsZHJzaDBPMHU1VThCSmEyVTNQUU5PblpnR2JuMl9ZRy1PbXY0d2tNX25mQ013dkJpcGlBdTZUN1hLSzIxaW5VWllZdkx2RnJNeW5SN1RCd3hrYWE5UDZ2M01STHFveGQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:15:26 GMT"
+        },
+        {
+          "title": "‘Grand Theft Auto 6’ preorders are skewing overwhelmingly to more expensive 'Ultimate Edition' - NME",
+          "publisher": "NME",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa3FkZXZIWlBEOVBrVHl5S0Z3VUw4VXFMTTZ6eVdJU0VsdVdFVHZJakRvRVJNaC10U2J1cFFORDM4aEtJRTdsMmpXa0plQ29SdHNxa2ZTZVdPdXhrZExjZGlxV3hzUHdRdWVLcHF5VGtjZXdQNEJwaEZWOTZxUmNpNnJPMmJteWh5ODljUU5tMUhUY3NkdlhpUnlGTEFZNzdyV3d0Rkdfam9Edw?oc=5",
+          "published": "Mon, 17 Aug 2026 10:12:53 GMT"
+        },
+        {
+          "title": "Jetstar drops $34 flights in massive sale - News.com.au",
+          "publisher": "News.com.au",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNRFltR3lnSTlsRUJ0OTN3T1dSNHBDdEw1Mk5hQnFUM0RjcXhObGRyQzh1d0dMRXZ4dkxaaHJ1NkxSQ0RDRXE2M09WMlc5TUdMenoxZjJPRWxTN3B6ZjZONEgtSWU4UEZvSms0M05KSWczM3A1ZXFJdFJDRUVoV3pCYUpKTnd0Q01SOEVZeGZBdVV3MWR1Z21BQXZHSV8xOGl6eFRZTVRaQW5oOFJJcHZCUVhZRFNEeFBfUkR6d0pWTFV2NFFmYm1LTXNIOHlvd0FORmplSnlmREdGLVVuVnhDUkU1TjNrWHVxc2QtOXF3Rjg3ZTJhNlhxYVVCZExiM2gza0hfb1JNR25zZms1NWdQMmxxVzhDeFpjcTB6MnVFZTNJUDZEbmc?oc=5",
+          "published": "Tue, 18 Aug 2026 14:08:12 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "How investors profit from soccer even as Premier League club losses skyrocket - CNBC",
+          "publisher": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMktUc0w3Y2sycU9oWXg2VW02UWFYMWlzaGMyWDV1NjlkWV9ZaVRGVUVjZVYydWFVTjlMZ1AyWVpnazVXZ3p2T214QW82WmpMYnFPZ29xNkNUdDJqSXRMOVh5XzlzS3g0bVAzTmNZUWFJTFl3bzRucklRUkpXN3h2V09Kb0Jnck3SAYwBQVVfeXFMTzZyTGVmQU9rc2Q1R0N4Zm9WeEtsUXVQUGxZeWltcHJORUxnQ1FyYmdkN1FJSVVRdTJTNGdoVEVSTWdybHlOVkk1RTBKeDc0ZXFZQ2xDS2JhRTBKb1pWWVkyV0xUd1VYVmxLQk9tdjNadEp5TGlzbmcyNjN0eGpOUUlBaTY3d2ZqZDl0TmU?oc=5",
+          "published": "Tue, 18 Aug 2026 09:09:19 GMT"
+        },
+        {
+          "title": "Soccer-Rights groups accuse FIFA of silencing dissent after COO Lamour’s exit - KWSN",
+          "publisher": "KWSN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEU0eV91eXRaTTRQendMbF9VQzJRR0ZWOFpjYS16UVlTaENZcVdkVUpTV0s3aGVfS1FvSlJtbVNSVnRzaDFkbFNXNlQ0SVc4Y01UcEFUN2NXWjFzS3E3UWtwM1ktZDdBM1hlX29CTjVPS3pQQUUwZUZkM21yWVFRTFlWa2llRTB6Q2txSk9lNGViSm5BSlpTQlFNQm40SnRSR0pBd0UyWGg?oc=5",
+          "published": "Tue, 18 Aug 2026 17:42:53 GMT"
+        },
+        {
+          "title": "AP Interview: Klaveness slams Infantino's FIFA for firing top executive in 'management by fear' - The Washington Post",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUF8zQnlOb283SThmWUo1ZUdUOXZHOG5UZW9BZHp3RFBiWjZRX181d1RGcWl5VjRiaV9VZG4yQW11QTljMlJ4dHI1Mkltdk5oTjJESlpiTHVuLVpzbnJjeEQyYWZiQm01SUY2bXREODdzYllGZXZlZWVOTGRsT3ZJaGxTTEMzLU82VWpZV1MwTVJVQzJnNmZjR1ZvZEZrY2xZOVM3cFZaek10N3FHMzB4Mm44bTExeVRLaW9FdE9xdDJFcjhPRFpmQnRTR25fcXVKRzBfVFZSclM2UQ?oc=5",
+          "published": "Tue, 18 Aug 2026 22:17:48 GMT"
+        },
+        {
+          "title": "Infantino ally insists Fifa president still has backing of most football associations - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0R1dUxUNkFXX1Y2RVhqZUFXdkJTTHZvTnZ5bkRFY0J5MTdDZE9qZnpVclpEQlhDZEhTcGhJRzNCTl9NNmxKZlBKdXNJZU52UjQ5UGNmdm9JVHlMTEFRMTlZWHgzd3Nra3B3dVRJWkZ0WkhZMlh3YmpYeVFoVW5aM3dnWjhpVU5GMTBPUFEzQVNMb2wtUHlOYzZaS2V4YnphTFhBSDFoeWIwNEVTbDlwTjdqQ1hhTzBXMV9iU1NTSHZZek9QMHJZQkNtQndrUQ?oc=5",
+          "published": "Tue, 18 Aug 2026 20:59:00 GMT"
+        },
+        {
+          "title": "Rodri’s journey from a Connecticut camp to World Cup win and Barcelona transfer: ‘Football was his religion’ - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFNXMi1yNkEzYkhlR0Qwd0Rmc25aN1VKb1dHWWxMQ2UtREtoM1ZWb1FicEZNYUJqTDJmbDBRTVowRzM5cmpKb3Z2VF9iREpKeHdPdHVFZzN2WmEwN2V4aFR6Z0tiX2twT3JIbmJMRC1WX1ZYZk1OUTEyMVhMUjhUWTczaGpLaTAtOWs1cWtqUEdiS0RKdUpCbEFOZEhqUWRfY3c?oc=5",
+          "published": "Tue, 18 Aug 2026 04:05:32 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "Hayden Panettiere's Mom Speaks Out After Death: She 'Lost Her Way' - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHNPZWhNMjZNcFp1WERYSnYtd0pncEZwMHBPWlpOYV92aDNzcDEybzY3cjZlR296RXhKTkNCc0VPSEVHMEp6NWVfUVRRakxKQ2toQ29hcWNzdmtmazlfcE1XWlpMdGtneVgtZkJzVmlhVG9iRmpDOVo2U0dZel8wTGMzNW9oby1FcWhXMQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:30:00 GMT"
+        },
+        {
+          "title": "ZZ Top drummer Frank Beard dies at 77 - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ25uMnFSUVB4bTZ1RU43ZlFIRWJjaWsyMkUzRmIzdE9DVE02Q2ZKbEQzX0ZaelpMZTNaRU5VLTVTcFQwcG44eVc3eW03a2hxc3A5dWFUUXRTdVYyTnBpQTc1U3dKNnBMQnhqNnRRVmt0Wk9EWnY3UkRrRHpNMjRuMWdjdk1oVDR6UVVwZHBHRjRmZmtvSXBjUU1UcG0wVUk?oc=5",
+          "published": "Tue, 18 Aug 2026 21:53:00 GMT"
+        },
+        {
+          "title": "Rosie O’Donnell Crushed Her ‘Kimmel’ Monologue by Doing What Jimmy Kimmel Doesn’t - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbl9ieWRKc3BucE84OXYzQV9ZYl9RdTlKejhmcno4SUZsUzJlNlBVU1RGX2M0V2lKX1JSTGZxZ1pmenJmRUpJbGpBUUtISXFNNXBvZ3BNRC1QSll4TEMyM2tvazRpSVIzLUczbFlaRV82a0hRSlpZeGhISk9MWlBYYlphczFVYnBCNFhIUUpXUXJjRlFuTXZxWUprcm1kazJs?oc=5",
+          "published": "Tue, 18 Aug 2026 16:39:10 GMT"
+        },
+        {
+          "title": "Taylor Swift Returns to Social Media With Update Very Few Saw Coming - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzRRbkUtNzMyVTJSMjVxMjJvbHNyVXFHNlMyN0VoWG5tUlFFZmkzdTU0a2xuQ3F2dnJjeXVscER4OThBYS0tQkcxY2dyc2UySktNR19aVFF0MXhERzlaV0V3VEx0ZU0yNTZ3MjNFb3dmOFo1VzMzOTJ2a3ctTVBLaDdzbTJ5S2cwZkJ5Uk1GOXNaUE9aRTh3R3JGSG5iVldD?oc=5",
+          "published": "Tue, 18 Aug 2026 09:07:58 GMT"
+        },
+        {
+          "title": "Some Tupac Shakur family members step out of courtroom while others stay to face autopsy photos - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVm5jaWZuQ1A3V1BBMU1HM1Bia29QNG9NcTBwMnFzb1F2eDlLTkw2aHdwQnRaR042TW5jRVNHZWoyMm1xZXlpenBNdkNkNVVyR2l1NF93ZXZRLTBGY1RBZ2NVUU5jZVdCalk3MWt4Q2pyeExmM28xYnVGZzZmRHB4ZjBPU2oxc1l2RnpzeXR3MEtuUHk3WWxJYy1OdzFlTjJDWWNKRkJsMjI?oc=5",
+          "published": "Tue, 18 Aug 2026 20:22:00 GMT"
+        }
+      ]
     }
   ]
 }

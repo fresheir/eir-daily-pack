@@ -1,28 +1,152 @@
 {
   "market": "FI",
-  "generatedAt": "2026-08-17T23:09:10.289071Z",
-  "validForDate": "2026-08-17",
+  "generatedAt": "2026-08-18T22:20:58.729603Z",
+  "validForDate": "2026-08-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Poliisiylijohtaja Ylellä: ”Poliisin toiminta ei ole ollut onnistunutta” - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCWlIwcFR6SFd3UkZuUVpwbFpQN0U1b05qMGZxMmlvcWNNZWhmd1NEQlJndWRlNEJZSlUzNmxGUGU4WElIY3VMUUIzYm9fNmNYQ2hHN0dDOTNTeGdP?oc=5",
+          "published": "Tue, 18 Aug 2026 18:52:00 GMT"
+        },
+        {
+          "title": "Yle: Poliisin etälamauttimen tappama mies oli kehitysvammainen - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzTHNhQ2c0MGRkeE00SVQtOXBBTGNjN3h0OUNhM09DTEc4czlIREFVZThzUWZzcTAxckdnZk12X3pJb2hhNHhHTnVOQnQ3LWlOaFhxVGV0QzViVFN0U2tFdWU3VmNDRDRaXzVhaTNhSlVVaTE4NDJGTXhjOA?oc=5",
+          "published": "Tue, 18 Aug 2026 18:33:03 GMT"
+        },
+        {
+          "title": "Keskusta | Kaikkonen: ”Kokoomus ei näytä työttömistä kovin paljon välittävän” - HS.fi",
+          "publisher": "HS.fi",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kNWZKWkdTaXIxMmoxbXhpVGgyakg4aFIxSHBTMkZmN2xKU3Q4TF9ha2tQUVI3WFdlYUpnTnp1aUdnaFdTb3p0cjRSRVdGSDJBbFc5UjF4dlVvMzRobUFGNg?oc=5",
+          "published": "Tue, 18 Aug 2026 14:43:00 GMT"
+        },
+        {
+          "title": "Syyttäjä aloittaa esitutkinnan tilanteesta, jossa poliisi osoitti aseella autoon kurkannutta miestä - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5iUkdVV0dYWGVKYUl5ajBBbWo2UkJtbnM4OEl3c1haWERzR1dzNk9ISnV4VHgxMzhydkk0cUxSdkdZZw?oc=5",
+          "published": "Tue, 18 Aug 2026 06:03:01 GMT"
+        },
+        {
+          "title": "Savo | Kansallispuistossa torjutaan öljyvahinkoa: Vedessä jopa satoja litroja moottoriöljyä - HS.fi",
+          "publisher": "HS.fi",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQQzQ4WWhwVDhTSTl0VVJpb3hoc1VibHJJLXFJTnJ2YjIyQzg1d19PbnBJT3RIQmNqckJHVERQcVpDdm9UU1B1eTZBTnNOdmpTUkhHS3doU21qQQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:22:00 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Arabiemiraatit: Iranista ammuttiin kaksi ohjusta - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjTk5KTE9WRVJWYmNhVTh2cFMtZzZYZnpiTUJwT3JxdXFWYnJwZnJjdUpuNHJBSEYzXzRHZlBPc0RGLUlOY3haMEt1MkJCMGpyREE?oc=5",
+          "published": "Tue, 18 Aug 2026 20:36:39 GMT"
+        },
+        {
+          "title": "Suosittu entinen puolustusministeri Fedorov vaatii vaaleja Ukrainaan - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5JREdxWVlYOFhkZ0Y0UVBqcEE1YnJTS1hDX3I5VFZ0eDBnY0EtNXBKMFJCWm1EajF6QXJSclB4Ym13QQ?oc=5",
+          "published": "Tue, 18 Aug 2026 20:03:02 GMT"
+        },
+        {
+          "title": "Kruununprinsessa Mette-Marit nähtiin ensimmäistä kertaa ulkona - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTG4zOWxCeUtqVlpYeVhpUlRJWkRFMFpPUEFGOHBWVl9WR1VlSndGOERxOURMeUI1SUlaMUJKTHhCUXlBeFotNEZwQXMwWlVfbkNZTUJSNEk3ZWkxSVZZOHlqcnBYelVBMTVDMU5ZZXltaHFWV2VyZXVTZW5nWkNmcFJKWEY?oc=5",
+          "published": "Tue, 18 Aug 2026 16:27:33 GMT"
+        },
+        {
+          "title": "Ceutassa kriisi jatkuu – naapuruston asukkaat ottivat ohjat omiin käsiinsä - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UdUZFNmdIX3loN1FYbkdmbkxkV0hLWnBFT0xoSnpUQ0ptMldlRVJEdXlZeE1GM2N6bGpaMVNCVEx2SUJYcG0tQUc2Sm9YMXlRN0RFMzBuSENPZU45d3c?oc=5",
+          "published": "Tue, 18 Aug 2026 17:45:00 GMT"
+        },
+        {
+          "title": "Tutkimus | Kova helle on yli 60-vuotiaille vaarallisempaa kuin on ajateltu - HS.fi",
+          "publisher": "HS.fi",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93VU5fbjF4YmxuU0twLUJPbHI1c2NwVlZMQmRHVGtlV3gzaXVqV0dfNDVlcnFBUWY2TXhOUU51YzBZMmo1enlqQU92Y09sX3htUFNhdkdVWnVwWHZs?oc=5",
+          "published": "Tue, 18 Aug 2026 21:04:00 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "Pörssisähkö on keskiviikkona kallista - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pOW5pWEozRWN3UEZhRm9ZTVNZdXpBY3FIWE80RHRCRVotdFAyenZXLV8weGF6WTRXQzFCV21IbFBJQQ?oc=5",
+          "published": "Tue, 18 Aug 2026 18:51:35 GMT"
+        },
+        {
+          "title": "Yhdysvalloissa alkaa valtava oikeudenkäynti, joka voi johtaa suuriin muutoksiin Facebookissa ja Instagramissa - Aamulehti",
+          "publisher": "Aamulehti",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DanJaNWhYbGNsenh3ejFGSTJrNm9nQk43eWFyM18zMjZZY1ZQdWFWWkFfdnZkR09tSmNTNTQ1cFA3b1ZVVHRJMFhRWjVKYUpPZzhWTXhnd0U5d28xTE1xOUV2Tm4?oc=5",
+          "published": "Tue, 18 Aug 2026 17:41:00 GMT"
+        },
+        {
+          "title": "Näitä työtehtäviä SOK:n laajat muutosneuvottelut koskevat - Kauppalehti",
+          "publisher": "Kauppalehti",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QUWRta2VlTzR4MnI4alhwdTFJUlRtUDBoU05UczcyMWxNalNQMnM4dXRQM1BPd2pmb3lyTTdoS1E2bzBRUlN4TkhOMWxBdm1xa2VkUVBLOWswNGxJQjRBVWpRcVdlSzVpd2xYdG9EY2ZXOUpwSkk2WDN1OGtKQQ?oc=5",
+          "published": "Tue, 18 Aug 2026 13:42:57 GMT"
+        },
+        {
+          "title": "Wall Streetilla laskuavaus – Klarnalta raju kurssilasku - arvopaperi.fi",
+          "publisher": "arvopaperi.fi",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XS3FhSUJqcmtqLTN6NDV3azMtYmRyWUxIQW93ZW9yVFNDQVV6Ti01c0o0ckhCTWx1OWNzTjRJV3BpWWFJdXBsbHZjU25kWE9xZTc5QWRGbmwyMFdTdGRuQTBCZ21QM2hocGswb3A4dFFpNjVreUt4Vkc0UUk?oc=5",
+          "published": "Tue, 18 Aug 2026 13:59:08 GMT"
+        },
+        {
+          "title": "Haluaako Trump Nokian? ”Jotain on nyt vireillä” - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IcHdmQ1FvbXIxdWxmNWZZUnNNVmVrVmlzQ2hVNlExNXU2YzBqaFMwWXZ5Q3AxQTBFcDJYT2dLRDU0d3Q4dDhONHc0SGtZcVp6U0o2YjVqOUtsd3FqQ3k2X1FRbkIwUmhzWGVCZWQ3TnJvSnBWNTM2TnJ0SkY?oc=5",
+          "published": "Tue, 18 Aug 2026 16:08:43 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "Jokerien pelipaidan väri vaihtuu - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpdzdsSWhNYnB1MkMxYy1lVnpzY20wNEJlV3A0Z3U4UnJsdDg0bkFtdnZvUS1DUFlXcFNuNXA0ajg0WldlTEFXYTBFYVJ4S0lKeFFwbmhhdzZUdVpoU0E?oc=5",
+          "published": "Tue, 18 Aug 2026 18:09:00 GMT"
+        },
+        {
+          "title": "Bayern Münchenin tähtipelaaja lyyhistyi jälleen kentälle - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qbWR1V2dCZVFfbFFzbF9GRUQ3NVpMSnk0S1lwNUVNOU5FRlNzV0M3a1Vhb0VtYXMydlVubzRqSk9jQThzUVNJNThXek1JQ3BHeTNJbnlnRUtJNlFRS05GVTV1N2xoUVlrSGt1NWNwRWtRUG0yaTlUd3d0OHM1T0U?oc=5",
+          "published": "Tue, 18 Aug 2026 18:25:19 GMT"
+        },
+        {
+          "title": "Ravit | Suomalaisen Jori Turjan valmentama ravilegenda Varenne on kuollut - HS.fi",
+          "publisher": "HS.fi",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSVDBlcEN0d213bzZ0ckFoeFd5MGU3c0p4VzU4U3NlR09TS2lJNkxZbExQOE9EOXBkc0xGS3RSWGFnOEs1WUgxaDZmcVVSc3BndXF3VVJtSnhvNWxV?oc=5",
+          "published": "Tue, 18 Aug 2026 16:11:00 GMT"
+        },
+        {
+          "title": "Mölkyn MM-kulta Japaniin, lahtelaisjoukkue jäi niukasti mitalitta | Urheilu - Etelä-Suomen Sanomat",
+          "publisher": "Etelä-Suomen Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sNXZvbFoyWmlXZkxPdFU2NDUxY0hZbmZQMkQ1ZG5oblJPQkJRUmdJUmxDZDR1Vk9INlA5NjdNcmVmazNEZWpIWmdB?oc=5",
+          "published": "Tue, 18 Aug 2026 15:02:00 GMT"
+        },
+        {
+          "title": "Jääkiekko | Suomalaiskiekkoilijoiden nimet päätyivät KHL-seuran juhlapaitaan - Satakunnan Kansa",
+          "publisher": "Satakunnan Kansa",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uMVREc1N0M2ljRmJxZ1FDWjJERE1LNWV2TmVGeGZhdVR4MG1pR0J2S3dBbHZGYVg2dGpEeEl2WUVjVkcyODBIV050YmNLZnZTMmtRa3VQSG1IaTRTQnBlM2tSTkJPWHZUcXhCNlc2OFQ?oc=5",
+          "published": "Tue, 18 Aug 2026 16:00:00 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
@@ -32,12 +156,74 @@
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "How investors profit from soccer even as Premier League club losses skyrocket - CNBC",
+          "publisher": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMktUc0w3Y2sycU9oWXg2VW02UWFYMWlzaGMyWDV1NjlkWV9ZaVRGVUVjZVYydWFVTjlMZ1AyWVpnazVXZ3p2T214QW82WmpMYnFPZ29xNkNUdDJqSXRMOVh5XzlzS3g0bVAzTmNZUWFJTFl3bzRucklRUkpXN3h2V09Kb0Jnck3SAYwBQVVfeXFMTzZyTGVmQU9rc2Q1R0N4Zm9WeEtsUXVQUGxZeWltcHJORUxnQ1FyYmdkN1FJSVVRdTJTNGdoVEVSTWdybHlOVkk1RTBKeDc0ZXFZQ2xDS2JhRTBKb1pWWVkyV0xUd1VYVmxLQk9tdjNadEp5TGlzbmcyNjN0eGpOUUlBaTY3d2ZqZDl0TmU?oc=5",
+          "published": "Tue, 18 Aug 2026 09:09:19 GMT"
+        },
+        {
+          "title": "Soccer-Rights groups accuse FIFA of silencing dissent after COO Lamour’s exit - KWSN",
+          "publisher": "KWSN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEU0eV91eXRaTTRQendMbF9VQzJRR0ZWOFpjYS16UVlTaENZcVdkVUpTV0s3aGVfS1FvSlJtbVNSVnRzaDFkbFNXNlQ0SVc4Y01UcEFUN2NXWjFzS3E3UWtwM1ktZDdBM1hlX29CTjVPS3pQQUUwZUZkM21yWVFRTFlWa2llRTB6Q2txSk9lNGViSm5BSlpTQlFNQm40SnRSR0pBd0UyWGg?oc=5",
+          "published": "Tue, 18 Aug 2026 17:42:53 GMT"
+        },
+        {
+          "title": "AP Interview: Klaveness slams Infantino's FIFA for firing top executive in 'management by fear' - The Washington Post",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUF8zQnlOb283SThmWUo1ZUdUOXZHOG5UZW9BZHp3RFBiWjZRX181d1RGcWl5VjRiaV9VZG4yQW11QTljMlJ4dHI1Mkltdk5oTjJESlpiTHVuLVpzbnJjeEQyYWZiQm01SUY2bXREODdzYllGZXZlZWVOTGRsT3ZJaGxTTEMzLU82VWpZV1MwTVJVQzJnNmZjR1ZvZEZrY2xZOVM3cFZaek10N3FHMzB4Mm44bTExeVRLaW9FdE9xdDJFcjhPRFpmQnRTR25fcXVKRzBfVFZSclM2UQ?oc=5",
+          "published": "Tue, 18 Aug 2026 22:17:48 GMT"
+        },
+        {
+          "title": "Infantino ally insists Fifa president still has backing of most football associations - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0R1dUxUNkFXX1Y2RVhqZUFXdkJTTHZvTnZ5bkRFY0J5MTdDZE9qZnpVclpEQlhDZEhTcGhJRzNCTl9NNmxKZlBKdXNJZU52UjQ5UGNmdm9JVHlMTEFRMTlZWHgzd3Nra3B3dVRJWkZ0WkhZMlh3YmpYeVFoVW5aM3dnWjhpVU5GMTBPUFEzQVNMb2wtUHlOYzZaS2V4YnphTFhBSDFoeWIwNEVTbDlwTjdqQ1hhTzBXMV9iU1NTSHZZek9QMHJZQkNtQndrUQ?oc=5",
+          "published": "Tue, 18 Aug 2026 20:59:00 GMT"
+        },
+        {
+          "title": "Rodri’s journey from a Connecticut camp to World Cup win and Barcelona transfer: ‘Football was his religion’ - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFNXMi1yNkEzYkhlR0Qwd0Rmc25aN1VKb1dHWWxMQ2UtREtoM1ZWb1FicEZNYUJqTDJmbDBRTVowRzM5cmpKb3Z2VF9iREpKeHdPdHVFZzN2WmEwN2V4aFR6Z0tiX2twT3JIbmJMRC1WX1ZYZk1OUTEyMVhMUjhUWTczaGpLaTAtOWs1cWtqUEdiS0RKdUpCbEFOZEhqUWRfY3c?oc=5",
+          "published": "Tue, 18 Aug 2026 04:05:32 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "Hayden Panettiere's Mom Speaks Out After Death: She 'Lost Her Way' - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHNPZWhNMjZNcFp1WERYSnYtd0pncEZwMHBPWlpOYV92aDNzcDEybzY3cjZlR296RXhKTkNCc0VPSEVHMEp6NWVfUVRRakxKQ2toQ29hcWNzdmtmazlfcE1XWlpMdGtneVgtZkJzVmlhVG9iRmpDOVo2U0dZel8wTGMzNW9oby1FcWhXMQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:30:00 GMT"
+        },
+        {
+          "title": "ZZ Top drummer Frank Beard dies at 77 - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ25uMnFSUVB4bTZ1RU43ZlFIRWJjaWsyMkUzRmIzdE9DVE02Q2ZKbEQzX0ZaelpMZTNaRU5VLTVTcFQwcG44eVc3eW03a2hxc3A5dWFUUXRTdVYyTnBpQTc1U3dKNnBMQnhqNnRRVmt0Wk9EWnY3UkRrRHpNMjRuMWdjdk1oVDR6UVVwZHBHRjRmZmtvSXBjUU1UcG0wVUk?oc=5",
+          "published": "Tue, 18 Aug 2026 21:53:00 GMT"
+        },
+        {
+          "title": "Rosie O’Donnell Crushed Her ‘Kimmel’ Monologue by Doing What Jimmy Kimmel Doesn’t - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbl9ieWRKc3BucE84OXYzQV9ZYl9RdTlKejhmcno4SUZsUzJlNlBVU1RGX2M0V2lKX1JSTGZxZ1pmenJmRUpJbGpBUUtISXFNNXBvZ3BNRC1QSll4TEMyM2tvazRpSVIzLUczbFlaRV82a0hRSlpZeGhISk9MWlBYYlphczFVYnBCNFhIUUpXUXJjRlFuTXZxWUprcm1kazJs?oc=5",
+          "published": "Tue, 18 Aug 2026 16:39:10 GMT"
+        },
+        {
+          "title": "Taylor Swift Returns to Social Media With Update Very Few Saw Coming - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzRRbkUtNzMyVTJSMjVxMjJvbHNyVXFHNlMyN0VoWG5tUlFFZmkzdTU0a2xuQ3F2dnJjeXVscER4OThBYS0tQkcxY2dyc2UySktNR19aVFF0MXhERzlaV0V3VEx0ZU0yNTZ3MjNFb3dmOFo1VzMzOTJ2a3ctTVBLaDdzbTJ5S2cwZkJ5Uk1GOXNaUE9aRTh3R3JGSG5iVldD?oc=5",
+          "published": "Tue, 18 Aug 2026 09:07:58 GMT"
+        },
+        {
+          "title": "Some Tupac Shakur family members step out of courtroom while others stay to face autopsy photos - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVm5jaWZuQ1A3V1BBMU1HM1Bia29QNG9NcTBwMnFzb1F2eDlLTkw2aHdwQnRaR042TW5jRVNHZWoyMm1xZXlpenBNdkNkNVVyR2l1NF93ZXZRLTBGY1RBZ2NVUU5jZVdCalk3MWt4Q2pyeExmM28xYnVGZzZmRHB4ZjBPU2oxc1l2RnpzeXR3MEtuUHk3WWxJYy1OdzFlTjJDWWNKRkJsMjI?oc=5",
+          "published": "Tue, 18 Aug 2026 20:22:00 GMT"
+        }
+      ]
     }
   ]
 }

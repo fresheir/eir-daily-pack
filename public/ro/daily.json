@@ -1,43 +1,260 @@
 {
   "market": "RO",
-  "generatedAt": "2026-08-17T23:22:39.805961Z",
-  "validForDate": "2026-08-17",
+  "generatedAt": "2026-08-18T22:21:13.020109Z",
+  "validForDate": "2026-08-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Ce argumente are Cristian Tudor Popescu pentru a spune că ar trebui să asistăm la „excluderea de facto a României din UE” - HotNews.ro",
+          "publisher": "HotNews.ro",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzRscXF0ZmxkM0hDRjB0dzNDY3RIYUl2aXVmYS1VcjFWSUtySmhzbENVSHFvcTlPVVM5c1M5RWJ1VEhsMkYtNG5XZEtyV3EtanhIdFFmaFhGVTQxR19aa2lGU2ZZVHBwRGJPX0hXdmh3SHNjejZMbmhzUEppYS1UcGY5UWdqZXJUOFVaYXlhRlU4dk01emowdVpYdURCX0p3R0dDeVgwYU1WU09rUjNWVDJDdFBudmtCUVB2bjZCMHE5Z1VuN20xQlZSMWxCX0VsUWgxSHd0eElYNjF5TXBPTWdn?oc=5",
+          "published": "Tue, 18 Aug 2026 17:44:21 GMT"
+        },
+        {
+          "title": "Cum au pierdut doi români veniți din Marea Britanie o mică avere pe aeroportul Otopeni. De ce le-au fost... - Digi24",
+          "publisher": "Digi24",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNWIyY1RCU08tTndfOEFpV1JBeHQ4d0xQb1lCazlJaVZYckx3Z1FIRFpqUTRmQ3k5Nmp0eW5Md2NMZFNCQ3U4ODltWUpkeVB5d2VTS0o5UzB3VFBoV19jazVIaFZ5V29JekRRZDRqSmtsaGhhdWxWRmo0QllZMEhKV2VZUjQwc3FIbHFFSlU1LVJzTWdYMGt4YndOLXQ2WjctUEs5eFFDSnNUdEd0OTZCb2F3T3BRUkVQZ3V0RUNCbUp1UDd4SzFQaFF1SkZ6T0U4MURRbGp6ZV85S25VWVZhV1pXbldFQ0IyU0dvejdyZ05lbmIyWi03bzc1WC3SAYcCQVVfeXFMT1RqLXUtTERmcjR5bEZxd1NxYWN1ZlpEcURzQVAydzB2N1RuYXF0TERIQ1B0blpTS01kZVhLYU9pbENUMDR5aW1ncjhjNkZhZURQUVZtWW4xQ3Yzd2h4a1hhRmZfQ3U2LTNkalgyRUtvQWZ0NWhPTkVUNmd2a0RETFlqTEs2VUNpWFVWbUtZX2xEbDJ2emtzcHVfcGFKbFhIVC1NYW5CZ241X1pWbG1zZ2NxeDZEcjRYTWNEcU1uR1dNVmFxRkFSa2tSXzlHTDZycGhkRkxRdFRwM2lDZUl3aVpYQ1N1X0xvalozUWNxQmc2RW93N2k1bE1rSng4bTN2LWR0VUxadWs?oc=5",
+          "published": "Tue, 18 Aug 2026 13:52:12 GMT"
+        },
+        {
+          "title": "Rezultatele la bacalaureat 2026, sesiunea de toamnă, au fost publicate. Lista completă a notelor din... - Digi24",
+          "publisher": "Digi24",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORTRJWGFvMXpEUGE3YU1zOXlZWHZnRFhSRkJYMG1QZVFFN1VRODRIS3IzaC1LcGxoTEdKQzlnaHZTV1VsdDNzU0l3MldINzRHWldZSkNmWXFxTS13R01sMk1GM0t0b2p1RDBORHNQdVRJTmVDWEJfSzVHbTlpemZJcXRwLXRpX25naXRTSklHMV9ZQjJ1b0tsRm94ZmJHVk5DcGJfU9IBrwFBVV95cUxObHhrbGh0bU5EZ21SWWhPcDlDcXFtQUNrQzlMb01waUhNRU9TMlFLajd2XzFZOTdMSGc0b2pVQktDQ0Y3Z2FiSF9tSFZrT1JZN3RFUURIR1lIVE0yTk5KZDk4SkZXUXlrd21vaFhJVzR3R3FGY0V3eldPN3NjMEFqcHhfN3NWTDFTYlhuUnRhOUNKdmtuNG4xOF85Q2VhODFwLVg5RnpUTk4yVXRmNUNZ?oc=5",
+          "published": "Tue, 18 Aug 2026 05:13:02 GMT"
+        },
+        {
+          "title": "Ilie Bolojan anunță fonduri masive pentru baterii autonome: de ce mizează România pe stocarea energiei și... - Digi24",
+          "publisher": "Digi24",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQjYtQS1YQU9NTkFKUWRLUlpiQ1NBeHhLWUlpNDZXQVhBV3c2amQ0U3FsRllHdjM3d0tlVzhEQmV5ektMbEpxQXhPUnZXa19qWHZBMmpEYVE1SEdtcXpZNllwRDFtUF9TTGp6TFdGd1VLYmtUanVyQ19URDNJTHJkUTgwc21TUVRjQUhURS1wZHJyaDNVUmtmVnVTMDlUYU1mWkQ3QmtocV8yQ2VzQmdJOEY4ZEJGTkJGRFpIRHVUaGY1ZFFNVEE4RWw5RGxvNXFnRURvS2pacDF5ZlhLbUFLendMYUc4S3hFRGlSV0otZmZfVkk5ZHNwWXNqNlh1V2vSAYoCQVVfeXFMTVo1M2ZvV0Q3LXlBcEZiODhWNE00cHNoOUd0Z2o0bjdUNlZqQnNMcXc1QmRaVENqUjl2YUpYc3c2Nmw1am1ad1JqdnV0NlRlMENKZFVEZ3Fzc3NJTVNrVGlzSk5DVTRWNTRSZzRDNTJPblZzNTJ3emFXZlRkYjRjbElqZWdQcWdpRVZIQUNScV8yVVpnN19TRDhINy1vVFN5LUJ3dl94VnZ5Q0t5NmxzdjRpdEhqRVZEeGVyb0JQWnhubDEydWNENVVPcGxaX0phR256LTl2N3hVV3VEc3BvS3pTVldoSUlkamhRUWhQSFMyUDFkcWhhX09NM1U1NUhZTmZadjg0T3JWZFE?oc=5",
+          "published": "Tue, 18 Aug 2026 16:39:36 GMT"
+        },
+        {
+          "title": "Șeful ANPC, după noile scumpiri la carburanți: „Am început monitorizarea adaosului comercial”. Ce amenzi... - Digi24",
+          "publisher": "Digi24",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOUVlMU45RDJWdnNrcTc2WmctYVpIMmdJcDZrRHgwc09CSEZPMHE0SENCMDVJUUhyY1k0eVB6NFRBbWo3OHVvVm9NRFA0TWFtZFY3RVdQU2tNNmVYc285eHV2dVlkZk90UWZLalVSbE90clZHYmNabUtPX0h4NnVyejdJZHczTHhHcXZaNjJ1TjVjZ29kdnVxNzlfY3Z0d3NQRDlGdjNOZGx1SW1yNjNSUVVyRTllSGNVbjFOTXpyb0xEZm1rQkZTN0JkaFJLS0dNTmdMTE5CSHdMcW9kQWlBVmplMmlqQ0FpS2tDUXNzSlc2SmF6WHfSAYACQVVfeXFMTkJzZDdJX1VxTUlLa3ZvdkJqcUxvZFZNOVJLT3FyZHRRRHRhNXBZWTFpUjdlTXIyYkJDOHhFR1JNUEItMGxjOWZMUzlVc1d1ZERRTDdSS0ZjQmVTTGhXbm9CSUFESy0tSVRaZE1DQi1uSHZqMDg1YlBFU1ZSY0FtVUNzcnFsWHBRX2ZKaTh3eG5NWWxibDdqbmEzMURScmdkdXdqc3hFSnlhNXJtcUR5MVl4TU5zbUFGQ0RfRGVMZFZDVXRzMWhva3NXWEZjU1ROSGNfMFZpQ1pwTW5BSmhkakVleWRmT0tsS2xHa3NZVUFIWklJTHVFS2hmSVZkV2NwQQ?oc=5",
+          "published": "Tue, 18 Aug 2026 11:37:17 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Donald Trump spune că nu există și nici nu sunt programate discuții cu Iranul, dar Strâmtoarea Ormuz este... - Digi24",
+          "publisher": "Digi24",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVllMSTBvU0JhNkUwVGNaYllWQTBYTGNUMkZ5dl9USWw1QUs3VDAzVUZLZUJBRzAtYkpQMmZ0d1VIUGpOVUxpTDRUVm9lRFdvOHRtcGE0U3VvenFqbmUyWWI2WVA4TjducXdtYnJrbUF1eWFmSnlraF9GbjdVYTh4SzhYUjhlSkNVSGhaMzZuWVZzRHZ5aTU5am1SN1A4Tzg4bTVSZ214VFAtc0NJVzNNbml5RHp2WVJtdHRSRVdGZkdOeGJJSnZ4YldyVkRZZGdLSkFuSGQ0dHphSkRYWDMxNTZud29fWW9DVUM4aFNoWTNxNzJTUlNMODc5dER4QTA1YzFTOHdrTFPSAZMCQVVfeXFMUHkxUE5EV0hXMlNCT3ZSSlR4S2tWbEtfbG41WjJ5MElKclNYWFhRODVhVDBXTUtzN3JXS21TaWhsZlM2THJwT0U0alFsV1pfR0pHcDFNTDVOZFZILU9wNlczR0dsbE9rVk9TWnQyLVlTa1U5Y3pHNmU0cGFoMlhPb1Q5akMtLXhYNkpxc0pQcVRCMEgxYWlCVVppZi1felE4MW9QOWFFOUpRVGdYQUcyd2xaeFJjTDlDYkJWemtHVmRoUlV0Q1pOTy1QUWJpZlFoc2xuXzhBNHpEQlVwVDRyaFFXYlo4WnQ3VldSWmpuTUdRMUlkNENJWHFaVzJJMVFQdjVSTVdYYmstSmZEN0VzaFhRem8?oc=5",
+          "published": "Tue, 18 Aug 2026 15:50:24 GMT"
+        },
+        {
+          "title": "Maia Sandu: Rusia trimite intenționat drone în regiune. De ce spune că expulzarea ambasadorului rus nu ajută - HotNews.ro",
+          "publisher": "HotNews.ro",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaXAyOU5ISkQ2R0tLMDNiZUlLS1lBSThBSnZBbXZPWnJ1d3p0VUNzUmdPNlN4dEZYU2lLVjM2Z2R0dkEtcGFCQWJ4WFExRDVvWHF6eFJlNUtUREJ5TkItOVJFU0lIU2YyNW4yS2hqTnRHMEZtamdjYnk2aTloYmpCbUEtLXF5eWFIdDhhQ3R2Ums1SnBHV2F3QTAtVG9KcVhvR3VBT3l3bGtnTWFOQ2NhblhTMDF6Y1d2S3ozODJyM1o3SzIzNTlxUnk3UmNNdHNLcVpJZGZaaHBhdmtORllucFdESEhjT0k?oc=5",
+          "published": "Tue, 18 Aug 2026 05:01:29 GMT"
+        },
+        {
+          "title": "Doi neozeelandezi au pedalat pe lângă Dunăre „de la izvor până la mare” și au documentat cea mai mare... - Digi24",
+          "publisher": "Digi24",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVzlSdUlFMm9Dem1xY004UjhCel9kUDUtM3hBdzNVRGM2YklCYkhXb1VWcXkySTZyTWw2bm1aQldBc09md0N6UzZ2T3JCODZDRjRkMGZ5Qk12dUdXdjI1NndTaEtTbW42bjFwOU9oZG4yV3k1U016Mkk2N2xJVVBSY0N1dzhJTUlCRnRlWk1TRFBMUGpLd2JqbGZTa2toRXo5V1RJSm5LNF9oZVJyWG84RmtzY2pKVy1uNHJTX3ZtMXpsMXNsUFdCRFl1U1RabXdmSHR1cEpRS3hJUWxrTlE4WTlCLWZTY3ExblpSanNja0NsQWk5Z0lvd1l6WlNNeGRRMkVDM1FFZWszTndK?oc=5",
+          "published": "Tue, 18 Aug 2026 17:26:25 GMT"
+        },
+        {
+          "title": "Atac masiv cu drone ucrainene asupra Rusiei. Peste 600 de aparate au fost lansate spre Moscova - Adevarul.ro",
+          "publisher": "Adevarul.ro",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdXhyUHh2MUNYbm12a2F0aXNFQU8xRHQ5VEp1eURUaHhjT254bzk3d1lWV1d1bjRIdVpqVlRNbUhNaVNXOUw1MjU2MTZSMU1WcV9kTlZnNWJyZHlXNS0ydFdlcmFaNlA5elVhMzVIaVhvQVQxS01pT2F3d2dBeFRPeWJHSkxNYUpvaG1BbjhlWlYwZkhacmhkb2RuWEFFTDEwVUljTg?oc=5",
+          "published": "Tue, 18 Aug 2026 05:10:22 GMT"
+        },
+        {
+          "title": "Tensiuni fără precedent între Rusia și cea mai mare țară din Caucaz: ambasador convocat și propagandiști... - Digi24",
+          "publisher": "Digi24",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNUZib3p0bWQ1ZmJNcE5XTEd1dzlhb3ZER3JCb3l1eHRjSGpYSGN6S0NDQXJwVWlYSjU4NVpFOW1Fcnk5b2hlS3lwMkREWUF5cUttSmdkOTF0Q0FpLUl0OXphMTEtd3l6a3pYZExxTTVBeWl1VXdVN21FQWhlVmhDNU4tYXpwZHlPOGwxRHhoWFJ3LXlCVm15R3Z6UnlRUE1WTk54SktTajAtUEN3bWR5dEJjUTlNVGdvNzVLczVwM2hjNjZkWVprLUFHNDVsTzlvN2g1SG9HZlFqc1NOVk03Sl85T0JuUnpZMjFrcG4yMzVJUk1aSEJiOW5xSlRnY0XSAYoCQVVfeXFMTXVqRThiNWJGb3JVdkItS3hVaVhGZHEwN1N0SHJWMTVwbzNkUUlyNXFhekY2Y2JQV3VXV05WVEx3U2VlT21xLVJwejNCSW05OHloTklMV3dJYWp4blJ5NjdkRk5aNXRRNjJDQU94c3BvNUloVWxtUjNNUXZ0U3g4WjgzUzNjdXR4NUZ1LTVCSkJRWEdXa09oYkdTVHFiRVNGQ0pkbF9JTmdVUVg4eUw5bVVnUVFib3R6TW5mU2pkd1ZuRGVrS0ZDU210UW1fV3JQLXBjdFB1NktxT1NwZWRNcUd1V1pIMzVnejEyNGtwUFpmYzExQlNWVVppTHlHN0pSYUdtLXZyTnJPMnc?oc=5",
+          "published": "Tue, 18 Aug 2026 12:49:12 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "„O inginerie adecvată”. Cum a ajuns China să domine piața câinilor-robot cu ajutorul tehnologiei finanțate... - Digi24",
+          "publisher": "Digi24",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcGo4ZUxjMWFJa25FYlprc0RpTVQ1cEVvRVlkOW4yNUYxYTlVTmdUbm9SeDhJUWYtczBORHE5SXlwZWpVN0p2bEF2ZlFCN1NBMVdyaEVKV21KbFVUTTFFYURQN2pKWTZuS1JQZFJ6TDNuWXlzV3c2dFB6a2JSZ0czNGdKSDhDWVk3WjFRSUJYNHBJMTlqUVBwY2p5bUxkdENweGl3YkRlMnJZMmFjdVlrdDNrVDFFV1QzaEZVaGdfd1hTaWt6TUo1bXRKRjF3QU1HLUxvRHlYRnRqMEpPNGgxVUFmcVoyd0w1b0dWZ3NmSdIB-gFBVV95cUxOUWJNVGRvWFp1RWNicWhrN3I3NkMwckMtVGJ1VFF6NVRqUGtCd1pta0s4TklFUk85YmFXLW9feGV3MFJuX1ZWeXhrTWFDVy0wamhTZ01wZExtSkxlM21xZEgzdnFqU3lvNUZrcmVXOWZTcmtxSHhRNlBqanlLLTQtQmlVNFNWU2dTRFVYOXZJNm50Q2RYTFdKUHVHa0hrUTRrcDJQREZzZGtSbTF3SGpNclNxcVkzcF9PRUMtbEhfenVGOG4zRjZwZm9YcFBIVHVPRkJUXzczc2tQRVlsZGdDMmk4bXk3a2I1bXdhblp0eGh3eHVvMjViSkxR?oc=5",
+          "published": "Tue, 18 Aug 2026 15:11:51 GMT"
+        },
+        {
+          "title": "Americanii de la Madison Air cumpără EBM Papst, la două luni după inaugurarea noii fabrici din Oradea - Bihoreanul",
+          "publisher": "Bihoreanul",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcnRkMTRHOE5KNkYydVRaVWRYVDNpWUdrbW1DclhUclhtU3hwVXBiWXBONkcwOEdKcl81aTRIQ1BZVGl6Y0l3R1oxXy10dVJ1eE1IeEkwZXBCcXdrZG9JRmdBY1pkRGh3dTRNR2J0N3BKekktNHFxODBtcGZiWXF2V3FrWTQ5SmhvQWZNaTl3U0lQWE9EaFRqNVJwTmhSSmpGY004OWxMdnFkeTRlRGFFYXA0dW9zQjVJYkxlcEZYN0lrLVRNd1lkdXk2TEJBaGhjYmZWQ1FjUXJPNGs0WGc?oc=5",
+          "published": "Tue, 18 Aug 2026 16:23:00 GMT"
+        },
+        {
+          "title": "Franța se împrumută la dobânzi care se apropie de nivelurile din 2008, în plină criză financiară - G4Media",
+          "publisher": "G4Media",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT1picjlINEhZbDd1R21OeFRvZkJrT2hFOWlQcTV2aU5GZUhPQk4yb180ZjZaMUlRQXgyU3MzZHdPSTFaaWF2MVFad2kxcHhrbTNGRzVkbU41TXE1NWZYRml0eFlKUnQ4Sjg2Z1F3N0JkaXFxaXZlRktkUUVfbmRKRzMyZDBZQ3VNTTE5Z05UTXRIRDJfbjBqVTBRQUdqVU9tR0I0dEU2cEYzbFUwU0RsVjJ6c1dPNjdnS2VnQ19WUko?oc=5",
+          "published": "Tue, 18 Aug 2026 15:06:00 GMT"
+        },
+        {
+          "title": "China nu a putut folosi o cantitate de energie solară care ar fi putut alimenta Mexicul timp de un an. Rețelele au ajuns la limită - Adevarul.ro",
+          "publisher": "Adevarul.ro",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOelBoRmZVSVVhOExNd3NZOTJVaG1Na3c1Wnd2RVlkUzZOUHZPTk5ycEFaV194UW5mYURCOVVPdU5iQXp3WVRIR2l3NW1NczJMYjYzTFM5SDhxSzVadHNFZHBNU0hTemJ5VU1NMUhFa3FXdGlkbWZwaWFzNzAtTmtKVGRUNkxWUjgwMmRHb2xXVlR0MUFHSnRsWFNuRFM0QTByZk9z?oc=5",
+          "published": "Tue, 18 Aug 2026 18:15:58 GMT"
+        },
+        {
+          "title": "8 dintre cele mai fiabile mașini germane construite vreodată - Ziare.com",
+          "publisher": "Ziare.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdnBETW5OUXBKMWRSTlIyOUJVNzJGalFBeTZWSXhCVVRZM1AzMzZ3bVJKTU51YkFyNHZtRFNLbmpQeHRCSGUyU2duNWFWNlo1SlZsb1VRWXRENWMzdlNqakpXRV9wak40YkZxMnBsXzFJaWdOUGpMRndzZTBzUTlEblNkU1lQMTBWcExIOG5HWVNXcEZMbUdhWVZwaELSAaQBQVVfeXFMT3N6ZzNvcmdUVjZjdTE4LVFYVzQ4WlY3b21tTUl0WGMyNmhyeFNCQ1QtamxxMllXdjhMSDBPNmpYWVYxb25Qc2tOamNfVkFpeFRWbzF2OUZDQnhlZ25LTzFzc29fLVI5SWVCNG1nODB5bXJqbTJva3g4YlBVQTBlbkdRQ1FOcjFZMHVVZ0JLbnZRaHRFcTQtV3IzTThVeEtHZ1I0NzQ?oc=5",
+          "published": "Tue, 18 Aug 2026 17:18:01 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "Play-off-ul Cupei României: CSM Reșița - Petrolul Ploiești 2-2, ACUM, pe DGS 1. GOOOL! Chira a restabilit egalitatea - Digi Sport",
+          "publisher": "Digi Sport",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYlVZbkxfQklpQnRlWnA5WmphOUtNV0oxeGItZmVveUNCNjdjUF80QlAzcnRpZFBEbUg0R3JKMjVMRU1DUlBGRFNGaUdmczZwd2ZZWG1UNFp1MjhnWlc5aUVmN002LUdSZzRnT1NkdlMxVV8yS0RHeE8xUnhrQUF5V0pYTzZ2RDJJcks0MXNSYm41RDFkYW5KcG44YUhBNzNMTjB0bC1PUGlrMjdJeXVvc2xYeFd1OVJvR0hKTHJ6TUtZUzUybzlJRkdJbkIyNU1KaGZLOGhtMUdma0VoYXfSAegBQVVfeXFMUGYwb3ZMU0IzNXNRRjd0UDg2cXR2dG5LOVdMbDltUF93NV9jX0tnRllMN1BuaXlwN2thNGEtYzB4VkR1NWl5cGc4cE9wUjZZRmtWT2Rza3ZJOW9PcE5ad25RVlJZS2hkckZyVXVLSTdLRVZYVndGR0t3R21wbG9nbFlPLVEzS3h1ZXpVT09XSXA3a2FOU1dFSFdncWFSNW5HUGtMc2JDV2c4UEVDR2pOWGNIYVRCNjNaTUlNc0tjaXVvdUxxMDhZTTBzMkgzLTlmcFJrNGNTdF8wdzktaW00Smczb3ZyWTZyUQ?oc=5",
+          "published": "Tue, 18 Aug 2026 16:17:00 GMT"
+        },
+        {
+          "title": "Jamal Musiala s-a prăbușit din nou în timpul meciului - GSP",
+          "publisher": "GSP",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS2M2RFdCemhrdHEtRG9kcUxWWUNCTEJrVklxdmwzZmUwckt1OEgxRE85eGxHaDFGUGJuYjJDZHFTRmVkTGxrRG9RZVBSUEgwM2F5TTJWZDVtZTZCZU55LXNZVUlsMDJHcHhPWXkzcFVqTEE4RG9oOGR0aFUzaXIwSG52YXlkdXJENVNsdDI0d09nbE1Da3hNMmN2SXVHTnV3NXNRTEpiSXJSU29hMnfSAUhBVV95cUxQNnNxYU9SUWVqQ2V0dDVFZkdhODJxVEJqS2tCQ1BTUXdtSE85MnBIWHBXaGk3NFlMUGRfVWRSWm9OcHBIYm5SUzU?oc=5",
+          "published": "Tue, 18 Aug 2026 18:13:25 GMT"
+        },
+        {
+          "title": "Gigi Becali, discurs ieșit din tipare după un FCSB-Botoșani thriller: „Este echipa mea, familia mea!” - Adevarul.ro",
+          "publisher": "Adevarul.ro",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQci1TRXZDWG03eHNKMFVZTzNsa0ZyeGZ6U2E1V0dZM2JYa1NYN1Y0QlZDZ2JJSmw5a0xmTGxsYWY2VkpLYjUwTlltVWFFZTdTQ2lDY2JRbnl5N1NhWnhxMS1PQjlNYkRlbjlzbzBqZHh2MzhCV29WX1pCcVo0QzFINVhtb0tJT3Ywc0hB?oc=5",
+          "published": "Tue, 18 Aug 2026 06:53:39 GMT"
+        },
+        {
+          "title": "Radu Naum și-a pus mâinile în cap: Adrian Mutu a râs de Octavian Popescu, apoi l-a ”desființat” în direct - Digi Sport",
+          "publisher": "Digi Sport",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRnhHSUlhUHhjM3VyTmF3Y0pEbmhxQmJyRUdySlQzVGx4ZVotZ3BpLWtnOE1fc0NDVGt5ckljSUt5cTNNMlhFd0dPb2JTeDU3eE1GU3R0NHhHakFCWmNiMGw0VkJGS3FWSDBJZ3JreEhic1phM2N5Q2JXS3FLWFVaSnRzaTdfaVctQUM1WDRTLXNHQ0FHZ0JzUWs1VU9nbzJqajBNWEE2VjVyeFNCaVlyeVVEV2haeTlkZ2syYkIwRHF5SGw3dU5SQk1zREhiRkotbFJ2VzkwYmRRRmtoSkdRbXR3?oc=5",
+          "published": "Tue, 18 Aug 2026 20:18:00 GMT"
+        },
+        {
+          "title": "CFR Cluj, amanetat la propriu » Cine sunt antreprenorii cărora Ioan Varga le predă clubul: acuzații de manipulare a pieței, afaceri cu aur și un puci eșuat - GSP",
+          "publisher": "GSP",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOekxJZHduWmotSkdlTUNENUZfOHZVVU1pY0JZSTBNZDUtQm0tZWNCQUJ4Zk9ZVjZfTkNQMDAtcmpXZ3JFR0I3bE9Wb2N5dDN4S1dnbHB5NWhhUVZranh1R2ltakpZNERUNG1lQ3NTeHFteC1JczhFUkxCWG54Qkp2N2xwQVY0TXpaMmVKS3dfaWNCTTlHUGZjb085SW5YQU44YXA0Sld3ekpQak9sZVpPRzItOXpERkoxMzJUaWxpRXIyMENuV3fSAUhBVV95cUxNM1JBT0Z2ODJpTmgtV1ZzT1R6MEVZY284VGhBejVYRWxxdFVyZU9pTHIzbUpWRUtrZlNPR0F0d0txT1NTRzJ5UW4?oc=5",
+          "published": "Tue, 18 Aug 2026 20:54:51 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "soundcore AeroFit 2 Pro: o pereche de căști pentru sport, muzică și birou - Revista Biz",
+          "publisher": "Revista Biz",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaGotNWg0R3dXYWdtZVl4cWZxWmpNdm05dl9BczVZSmJpSDBvYjB4NmdEUDhoZS1NaHVEcXFfU2stcERobnM4WnliSVJ2ZExOdnAzU1BiUE9MY0s5VmZxeWNsN2E3Mm1ZX0tYanZJYTB6Nm9NanRvU0tXejdHMmM1UVdPREFGaDNlR0I4cFVWUWJ3eUdFbF9jczNNTDNaS0U?oc=5",
+          "published": "Tue, 18 Aug 2026 13:48:24 GMT"
+        },
+        {
+          "title": "Leaker-ul GTA VI are un manifest. Care sunt cerințele pentru a opri lansarea clipurilor - connect România",
+          "publisher": "connect România",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcU1PR0Z6OE4zZi1vMjcyUlI3XzhLT0NSV0x4aXU1bnFvYm9fUmxqTW1LQ1dtbmZJazU5UER4Tzhxb25jTTJ0cEI4REZmVUJlOGhlZlJxcnozTXEyY1BSOWswY1FfYmZuZHBKejRadVNoQXJRSVFWeVBnUGhEUjBQM1pkLTYzUVJMMVdTaXJoMFYwcTdfWXIwTm1EZnJMb3FOMzY2dVRhaHJrbkVXSEZnSUxBV093cFJyZ0ZtZXFR0gHDAUFVX3lxTFBjdWJOVUpXNXgxLU1KN09DWDI1SlFZOHhuTmlYOVUzaVJZcUpaMXRFTG5URVduWFNSUTMtOHNNTmtlWkpyZW5aN284cFlwWXlkdlBPVTBKRFJXTGRVMl8zMGNBejRQY1R0YllLMHBqWUVtSkhWMURLdlUySUdpbGFSRjVtTHRqVk1wRUpfek1Xdy1lNnlQVTlTLW5EQnJTVktYckh0Wk1laGQtcUNJbXFiaENLRG1oT3diWkZlLXJMMTdFVQ?oc=5",
+          "published": "Tue, 18 Aug 2026 20:08:13 GMT"
+        },
+        {
+          "title": "Galaxy Z Fold 8 are în continuare probleme cu praful: particulele fine pot afecta balamaua terminalului - Arena IT",
+          "publisher": "Arena IT",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONndsd1NyN1BpQnM3b0Y2akpQRnFFVEpIUkViUl9rMVI3MUhLTU1WY1ZUejFqSVBLdEE0bFJqZ0Q1UkpKOTNFeHRTRy1vWTNONXR5UDRUUlZEdFBhRHhYODBmYkJqM0p2bGVfV1ptVGxBcFNwWVRUZzV3Nmh6ZG9ta3FGc0FvYlpRLWlrb3A5VkR6NlEza2xzUzJPV0lNWEc0MkFvaGd0bjF5U296c3hJRUtoT0o?oc=5",
+          "published": "Tue, 18 Aug 2026 11:20:17 GMT"
+        },
+        {
+          "title": "Un browser popular schimbă navigarea pe iPhone. Noul ad-blocker vine direct în browser - Ziare.com",
+          "publisher": "Ziare.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNRzdGb21waUNvcXFLbkJNQmFXVG9EWGxXNjN6OWpaLTFGTnByTTloeHIxbkx3dHluR2hFVk5KOEFBOEtxU2taeno0X0dqRnhidzMxZWZyQmsyQUkwaXQyZ2V5azQ5LWUtRzBKc9IBdEFVX3lxTE9WWXE5SnRjVGtrc0toNU5xUUVNdHhMQWxYWTJXSXJpdHRBV2R0M1R0QlBDb01FZHh0ak5ubE9JZjBSQUpIeG1HREdkMVN4elpacGliVXR2Z2syVmN0OVpDLTNWNlpkNEVKNUJNd2VTMVVhNzNJ?oc=5",
+          "published": "Tue, 18 Aug 2026 16:49:19 GMT"
+        },
+        {
+          "title": "Apple schimbă regulile pentru dezvoltatorii din UE – comision de 5% în afara App Store și de până la 26% pentru aplicațiile din magazinul propriu - Mobilissimo",
+          "publisher": "Mobilissimo",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPM2Y3dFNJX1FYSG5EaFBDWXNDNDg4UXdsM29HUlZnYjFMTEg4SGxlVHdzamo1Q2k0eDlfTGtnSmV5QzJBaklreWpNbTNJaXlxc2J6S1U3NHN6SHRuRnpYNkNPY2xnY2lzRGJJMmxQX01QT3FWNFRSOFdhNFlsU0V5U2hYX253bXFiLWwtYXNoQWxVOUwydHdUVkFoSjRpR1hWdkpWMlZVRWZ2RE9OV0FSVDNmTi16czJoNFJYbE1iZ3ZYWXdmNnRDbkREV05LN1hydzBubndvT0VIc1JHcnp5R3EwZmxiR3liT1FWVDctZVdFQkx4QmNnZkNlRE5CS3Z1V21OOHNva3F1U2JiMFNqZjlR?oc=5",
+          "published": "Tue, 18 Aug 2026 16:14:37 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "How investors profit from soccer even as Premier League club losses skyrocket - CNBC",
+          "publisher": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMktUc0w3Y2sycU9oWXg2VW02UWFYMWlzaGMyWDV1NjlkWV9ZaVRGVUVjZVYydWFVTjlMZ1AyWVpnazVXZ3p2T214QW82WmpMYnFPZ29xNkNUdDJqSXRMOVh5XzlzS3g0bVAzTmNZUWFJTFl3bzRucklRUkpXN3h2V09Kb0Jnck3SAYwBQVVfeXFMTzZyTGVmQU9rc2Q1R0N4Zm9WeEtsUXVQUGxZeWltcHJORUxnQ1FyYmdkN1FJSVVRdTJTNGdoVEVSTWdybHlOVkk1RTBKeDc0ZXFZQ2xDS2JhRTBKb1pWWVkyV0xUd1VYVmxLQk9tdjNadEp5TGlzbmcyNjN0eGpOUUlBaTY3d2ZqZDl0TmU?oc=5",
+          "published": "Tue, 18 Aug 2026 09:09:19 GMT"
+        },
+        {
+          "title": "Soccer-Rights groups accuse FIFA of silencing dissent after COO Lamour’s exit - KWSN",
+          "publisher": "KWSN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEU0eV91eXRaTTRQendMbF9VQzJRR0ZWOFpjYS16UVlTaENZcVdkVUpTV0s3aGVfS1FvSlJtbVNSVnRzaDFkbFNXNlQ0SVc4Y01UcEFUN2NXWjFzS3E3UWtwM1ktZDdBM1hlX29CTjVPS3pQQUUwZUZkM21yWVFRTFlWa2llRTB6Q2txSk9lNGViSm5BSlpTQlFNQm40SnRSR0pBd0UyWGg?oc=5",
+          "published": "Tue, 18 Aug 2026 17:42:53 GMT"
+        },
+        {
+          "title": "AP Interview: Klaveness slams Infantino's FIFA for firing top executive in 'management by fear' - The Washington Post",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUF8zQnlOb283SThmWUo1ZUdUOXZHOG5UZW9BZHp3RFBiWjZRX181d1RGcWl5VjRiaV9VZG4yQW11QTljMlJ4dHI1Mkltdk5oTjJESlpiTHVuLVpzbnJjeEQyYWZiQm01SUY2bXREODdzYllGZXZlZWVOTGRsT3ZJaGxTTEMzLU82VWpZV1MwTVJVQzJnNmZjR1ZvZEZrY2xZOVM3cFZaek10N3FHMzB4Mm44bTExeVRLaW9FdE9xdDJFcjhPRFpmQnRTR25fcXVKRzBfVFZSclM2UQ?oc=5",
+          "published": "Tue, 18 Aug 2026 22:17:48 GMT"
+        },
+        {
+          "title": "Infantino ally insists Fifa president still has backing of most football associations - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0R1dUxUNkFXX1Y2RVhqZUFXdkJTTHZvTnZ5bkRFY0J5MTdDZE9qZnpVclpEQlhDZEhTcGhJRzNCTl9NNmxKZlBKdXNJZU52UjQ5UGNmdm9JVHlMTEFRMTlZWHgzd3Nra3B3dVRJWkZ0WkhZMlh3YmpYeVFoVW5aM3dnWjhpVU5GMTBPUFEzQVNMb2wtUHlOYzZaS2V4YnphTFhBSDFoeWIwNEVTbDlwTjdqQ1hhTzBXMV9iU1NTSHZZek9QMHJZQkNtQndrUQ?oc=5",
+          "published": "Tue, 18 Aug 2026 20:59:00 GMT"
+        },
+        {
+          "title": "Rodri’s journey from a Connecticut camp to World Cup win and Barcelona transfer: ‘Football was his religion’ - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFNXMi1yNkEzYkhlR0Qwd0Rmc25aN1VKb1dHWWxMQ2UtREtoM1ZWb1FicEZNYUJqTDJmbDBRTVowRzM5cmpKb3Z2VF9iREpKeHdPdHVFZzN2WmEwN2V4aFR6Z0tiX2twT3JIbmJMRC1WX1ZYZk1OUTEyMVhMUjhUWTczaGpLaTAtOWs1cWtqUEdiS0RKdUpCbEFOZEhqUWRfY3c?oc=5",
+          "published": "Tue, 18 Aug 2026 04:05:32 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "Hayden Panettiere's Mom Speaks Out After Death: She 'Lost Her Way' - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHNPZWhNMjZNcFp1WERYSnYtd0pncEZwMHBPWlpOYV92aDNzcDEybzY3cjZlR296RXhKTkNCc0VPSEVHMEp6NWVfUVRRakxKQ2toQ29hcWNzdmtmazlfcE1XWlpMdGtneVgtZkJzVmlhVG9iRmpDOVo2U0dZel8wTGMzNW9oby1FcWhXMQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:30:00 GMT"
+        },
+        {
+          "title": "ZZ Top drummer Frank Beard dies at 77 - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ25uMnFSUVB4bTZ1RU43ZlFIRWJjaWsyMkUzRmIzdE9DVE02Q2ZKbEQzX0ZaelpMZTNaRU5VLTVTcFQwcG44eVc3eW03a2hxc3A5dWFUUXRTdVYyTnBpQTc1U3dKNnBMQnhqNnRRVmt0Wk9EWnY3UkRrRHpNMjRuMWdjdk1oVDR6UVVwZHBHRjRmZmtvSXBjUU1UcG0wVUk?oc=5",
+          "published": "Tue, 18 Aug 2026 21:53:00 GMT"
+        },
+        {
+          "title": "Rosie O’Donnell Crushed Her ‘Kimmel’ Monologue by Doing What Jimmy Kimmel Doesn’t - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbl9ieWRKc3BucE84OXYzQV9ZYl9RdTlKejhmcno4SUZsUzJlNlBVU1RGX2M0V2lKX1JSTGZxZ1pmenJmRUpJbGpBUUtISXFNNXBvZ3BNRC1QSll4TEMyM2tvazRpSVIzLUczbFlaRV82a0hRSlpZeGhISk9MWlBYYlphczFVYnBCNFhIUUpXUXJjRlFuTXZxWUprcm1kazJs?oc=5",
+          "published": "Tue, 18 Aug 2026 16:39:10 GMT"
+        },
+        {
+          "title": "Taylor Swift Returns to Social Media With Update Very Few Saw Coming - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzRRbkUtNzMyVTJSMjVxMjJvbHNyVXFHNlMyN0VoWG5tUlFFZmkzdTU0a2xuQ3F2dnJjeXVscER4OThBYS0tQkcxY2dyc2UySktNR19aVFF0MXhERzlaV0V3VEx0ZU0yNTZ3MjNFb3dmOFo1VzMzOTJ2a3ctTVBLaDdzbTJ5S2cwZkJ5Uk1GOXNaUE9aRTh3R3JGSG5iVldD?oc=5",
+          "published": "Tue, 18 Aug 2026 09:07:58 GMT"
+        },
+        {
+          "title": "Some Tupac Shakur family members step out of courtroom while others stay to face autopsy photos - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVm5jaWZuQ1A3V1BBMU1HM1Bia29QNG9NcTBwMnFzb1F2eDlLTkw2aHdwQnRaR042TW5jRVNHZWoyMm1xZXlpenBNdkNkNVVyR2l1NF93ZXZRLTBGY1RBZ2NVUU5jZVdCalk3MWt4Q2pyeExmM28xYnVGZzZmRHB4ZjBPU2oxc1l2RnpzeXR3MEtuUHk3WWxJYy1OdzFlTjJDWWNKRkJsMjI?oc=5",
+          "published": "Tue, 18 Aug 2026 20:22:00 GMT"
+        }
+      ]
     }
   ]
 }

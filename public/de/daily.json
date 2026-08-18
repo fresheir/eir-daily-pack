@@ -1,43 +1,260 @@
 {
   "market": "DE",
-  "generatedAt": "2026-08-17T22:41:01.898083Z",
-  "validForDate": "2026-08-17",
+  "generatedAt": "2026-08-18T22:20:28.436286Z",
+  "validForDate": "2026-08-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Forschungszentrum soll Drohnenabwehr verbessern - tagesschau.de",
+          "publisher": "tagesschau.de",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQmVTNXRoX1NKbUt5ZFhoM2c0aXNBVGpLWXp4UDhCMHBoRlRjVFkzNkMzcjc4OUpVeTFhR3JTZGVnaHNwRWFsNnozeDRQNEtfbXliN1I0OGtqaU1mbFdRanhNMVU2VVhJUEJpQU84NURsdGNQRy1vLUVkZ1BoaTRqZllhcXQ5M3c?oc=5",
+          "published": "Tue, 18 Aug 2026 10:59:00 GMT"
+        },
+        {
+          "title": "Warnstreik in Seehäfen: Containerbrücken hoch, Schiffe meiden Hafen, Demo in Hamburg - NDR.de",
+          "publisher": "NDR.de",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV05RczRJSWZuc0xHTC1oQk1hdWs0R0JIRkdiTVc4SEJGX180YkhtdzNUOXctUmpwUFRSVG44Y2tUcFFsWUNmZi1IVDJ1LW8tVWFoRXh6R2NESk5JamNVV1J1NjY3TUlaNHpMZ05VSXp1UGZLQmZlWTV3VGxLMVZLVTdFaEVjejV6SVhqaHNhRGhmdjhuTTY2eXNMV3FpekRIZE5N?oc=5",
+          "published": "Tue, 18 Aug 2026 20:48:00 GMT"
+        },
+        {
+          "title": "Deutsche Grenzen: Alexander Dobrindt verlängert Grenzkontrollen bis März 2027 - DIE ZEIT",
+          "publisher": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0l0SjVnODdrd2Z4U2tYdV9zRkl2M0ZEUE9iUHI4YlRlaU5sU0JDeUwxQnhjNlo3WDJmOWxqRnZ2aEtwVGhoYUlESUl3UmdnM3djNnJfekZrbnJyZkVUVlpGZmNyZG9zZmgyaEtja0lVeVRRRVJDalEteUtLU01JVjBaZ21rbVRQbE9yVTJXdmRNOWhDT05XSksxNXN2U3hRRDF3RFdzMDIzdw?oc=5",
+          "published": "Tue, 18 Aug 2026 18:42:10 GMT"
+        },
+        {
+          "title": "Großbrand im Hohen Venn: Eingrenzung der Flammen „kurz vor dem Abschluss“, starke Rauchentwicklung erschwert Einsatz - Aachener Zeitung",
+          "publisher": "Aachener Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPem44UnN5WnphUnRFaGNwc205bnF1WkRHVEY0akhWWnBWWmxrX3FwUnptVUxSM2ROWnVyX1RQbF94ckJsQm9SSlgtWlJqWktDX1dUeE5KX09OWjAySzJuN2RoYVluQ2ZxSTNNVDhwbWVuTFp0Y3VJLUlqRmhNaEI0OGFqMTdCWXNscjQtUXdwOExTTEFza0M0YkxIVEdmRmVnQW9KME15Q0tGTUtOV2h5ZnVrMkZXRndwN2M2bUV6ZEVKeDhTSl82MzVLZXBycUNOREdiZkhGeE9WcmI4bms0V1ZhMHB3cXQ5bW81aktiOTJBRUhqQXFfWWtYMlY3MTQ5YkdSQV9LTU9rXzA?oc=5",
+          "published": "Tue, 18 Aug 2026 20:55:17 GMT"
+        },
+        {
+          "title": "„Wahre Heimatliebe ist“ Prominente unterstützen Kampagne gegen AfD-Alleinregierung in Sachsen-Anhalt - Tagesspiegel",
+          "publisher": "Tagesspiegel",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTzU0TVAxOFZnbUY5cG1YSGYwNGJEWXdDY05fYWgzZVRyV1lMZVh2SmZMUHJickFwUnZxTURsRkRCMF9lSi05LUVQdkg3LS1TRnJvVG8yektkQkJSeEYxTnJIWW83VVQyZ1VpUnY2b183RzVLbF9mNUJYZE5vNXkxX3RBeDhZdmU2bTRFcm5aS0xNc3VXZzQ1Q253SUhVVmhfVVhGS0N5Mi1DOFdDVDEzcVpCMXlaODY2cFRNWURJR3lRT2ZEOERFRmFLbmc1SE5WMXRJeFFQaEZwUUtlYXl6dHlKajdFZFZB?oc=5",
+          "published": "Tue, 18 Aug 2026 07:29:00 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Krieg in Nahost: Trump postet Karte mit Straße von Hormus als US‑Gebiet – Iran feuert Raketen in Richtung Emirate - WELT",
+          "publisher": "WELT",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUTh3cW9uQ1RXR1NGVmNsNjZNeEVGd3I3U0l3eHl3dmtVN2FVclJMdTZnSHE5UFVtYXloQnJ2bUlvNXRJUnkwQnlrdzRxYkRfZk9IcWxNS1hqZTc0MWlMZFpjbXdqZ1Znby1qc2dsblA5TzdwdDBYaGhmLUdQSjZ1M0Yyc1luWU5QX1kxaHNFcjZPTDljWmdlODRORlVuNWZMcmR3QV8zUnYwNm8yV2ljbWZhelNPUXR1Q0ZDYlEyQ0tzWE1iWXk5eFlMX0RxcTZ2VFRhSmNxdHNkSDVlcXM1OHRMc2FnYW1uRVppcDU5VDU4VkpZRnd6SXNucDlzM3V2VkJvMllR?oc=5",
+          "published": "Tue, 18 Aug 2026 18:30:07 GMT"
+        },
+        {
+          "title": "Marokkos Jugend sieht zu Hause keine Perspektive - tagesschau.de",
+          "publisher": "tagesschau.de",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81Si0zMTh6TWE5YnY2anl3LUJ0RWZYTmV6dWo0MGVwelNTTXRDZkxPWUJRa3lVemJPR3pKYk9yOWxTNmxFY3Y0Rm5scU5RdHRBaG54T3lhY0g5ZzBUMXdlMTl6Vm5HdzAyV0pXZUxmN2NHdw?oc=5",
+          "published": "Tue, 18 Aug 2026 17:13:00 GMT"
+        },
+        {
+          "title": "Israel - Itamar Ben-Gvir: Welche Bedeutung der radikale Minister für Netanjahu hat - Deutschlandfunk",
+          "publisher": "Deutschlandfunk",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2Y4UTNTc19JZ2h5aTZ0OHU4bWRKUGZNOS1LeEpKSk9QeGpQNkRRMkRwd29MZXhsVDhMcXR6MnBQNTJIdjg3ZGNXaDQtS1NncGwyaGRsTmhSekpJVEQ0OWRoSEkwejhyRy1ycDg3clJKekdNako4b1EwZElkUGdTN01WeVNiTFJ1M1JxeHF5Ml9oazJmVm5jWno0MmhKemo4cDBFcktxal9UUmxnZ1lBcjlUcw?oc=5",
+          "published": "Tue, 18 Aug 2026 21:37:34 GMT"
+        },
+        {
+          "title": "IAEA in Syrien: IAEA meldet Fund von mehreren Tonnen Nuklearmaterial in Syrien - DIE ZEIT",
+          "publisher": "DIE ZEIT",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN3BXZENrZkRXTHd0ZmxTZDN1LWI5WTE3TmVOR1QxWGhLa3JYMjJOMzloeE9wZ01KMkJvR1d2VUFWRGVlNjhZLWVTLWJRLWxFSFJfRWxuSnlyOEtYVXBjeG9jalNNcHZfYlNvdDdaSHUxUEFTQklFSFhoNVFwZERHM004YnhuQS11dERoV2F6M3BJbGlRVTJpRWtIaWg4dw?oc=5",
+          "published": "Tue, 18 Aug 2026 20:10:31 GMT"
+        },
+        {
+          "title": "Ukraine-Ticker: Ukrainischer Großangriff auf Moskau - BR",
+          "publisher": "BR",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeE5BZnR5S1ZvaUdFR0ZJd1pNQkNqNkhRcDR4eEpvaW9TYmtnam1fc1d1WE05SXd1XzlEUjF3UGpKM1J3Zi1yZTRFMWUzZ09MTzlWVnZqcExZMWdZVURReDhkbkN2TGlLNmJCMzhZb05DaGU1TG9Gdllncm04ZFBqV3VkRXl5ZVgwbE1hV0lnMHVOV1ZxaEloSEgtNk91Wl8tdWpSZWlMV3AxY1hrRXYxZGxaUQ?oc=5",
+          "published": "Tue, 18 Aug 2026 18:50:36 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "EBM-Papst an Madison Air: Was der Verkauf jetzt bedeutet - WiWo",
+          "publisher": "WiWo",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeXFfcGE1aEh1alRVX3FEZkNlczVwR19XbjdDTkdZU0pRT1d2NFh6R2pobTJUYnRtLVk1d01YWDZUTlJiNERqWWZxakZxd29VeVJLUFluaGpDRXcxbXVjSUJRbUlVakExRUE2YjVPY2JITl8wN1FodFJXUUJWVHRVbWNkZ3Q1bndiOWVyX1J5YVRiM212YXBjcVBqVVd4RzZVbFZjSGlYX3dhM3J0V3BlTnZB?oc=5",
+          "published": "Tue, 18 Aug 2026 16:54:50 GMT"
+        },
+        {
+          "title": "Schwerer Vorwurf von Staatsanwältin: Hat Meta Kindergehirne „ausgenutzt“? - BILD",
+          "publisher": "BILD",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd3diX1hiSlN5aWxXa1VTaDVPNWVoSUk4R1VobDduUkFUcUhpQWtrdlI3R2diWmRMSkxkQWpmYVlGNmtiUERNTlZqblBuQWVPbVAtaFJRNXJCb1F5czNWLWlYc3ZBcXppTjQwcDc5N0lmd2RnZkczcE5VQk5nX29LRkJldVMya2N3SGhva3R3b3MtME94OVRPbjdsU0xvdUlGTmFvcXBacU9NSHc2S1JvblMwdjZOOHFvWWZobnhhTWVDZUo5UmtzSmNSMmtuQXExNDdvejJlM0dzMVktcHVlaDZteWFOZw?oc=5",
+          "published": "Tue, 18 Aug 2026 21:01:20 GMT"
+        },
+        {
+          "title": "Gasspeicher auf Rekordtief: Warum Heizen diesen Winter teuer werden könnte - Telepolis",
+          "publisher": "Telepolis",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWHNlSWpqbDBFdzNfdGFObmtVQlFCdTR0WHpYUWczSGZ4dnp4RDgwVzgzaG9iUXBZdk9iVThlUFpNREs5MzFDMjZNVU1ZcjI3QWlRX09CZjJiSFozMUNObmZQbzFhSTdBa3ZleU1HdURSbUFTYlFhbGF4Q1gzeE5CMEczcHpYcUlFRzR1LVlhblduSE42dlBRd1hCN0NEdmVnZUlObEN2NmkxSmFLM21iaVZiX1UxNUhpb2Z6S1Fn?oc=5",
+          "published": "Tue, 18 Aug 2026 10:45:00 GMT"
+        },
+        {
+          "title": "Heizölpreise springen auf 4-Monatshoch - HeizOel24",
+          "publisher": "HeizOel24",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaE05WU9mbVdBYWlKVkZIbXdlZzJfSDhNRkhOZWxaQ3dKUnBWZUJxSVJFeEZMTkpIYXc2RTFaYW5MRVQ2N2xoMTc5NFpnYldicGdsQndmeTkxVGtMT0FraC1JMU5nRnptYW80Nkx1a1FVQjBwVVlfMV9qUDJJVk5POE9KTHJmLTZJYXpmTmM5bEpmSFpwUGVZUnZqSQ?oc=5",
+          "published": "Tue, 18 Aug 2026 08:37:00 GMT"
+        },
+        {
+          "title": "Streik: Ver.di droht mit Arbeitskampf im Supermarkt - Spiegel",
+          "publisher": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSTlkblE5cTFBcTZRSXhETXc0QnNmQUNTdXZ6LTlZLXVacHlUc3hSQWRCb21sYjgyMmZtUDZZNGNoMUIzOXJfcGxLa0RHcEEzeVA0T3BKV2JuNjdRU2RhSVV2YTAyTWw4LXlGNEZRaHBhMzNJcWVxcUpXZWdubDRUaDNvdVpXRE42bVB2RmQwcHI1UHlCVFpmdDZ0QXliaWJaVm1rMDFRWjh6cUpwWGVpdzZkQUE2ellRTmZmdHd0eDFUalhuV1Q5WU5MVFl5bEpK?oc=5",
+          "published": "Tue, 18 Aug 2026 14:16:00 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "Musiala bei Bayern-Testspiel erneut zusammengebrochen - Sky.de",
+          "publisher": "Sky.de",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYm4xa2kyOGtLWlFlWmY5d2xtMEF1V2ZLVjVZcS02TEZOSm1ldVhxYTlLQmVXbXBiUmozSHRiT28xYi1YZEhoY2RxNzJrYzBPSGtaMDQ5enA1ZWQzZTJIaGxkOU9oRy03emM3VGFYakxrSlZPR3VyVnR6TXItM0FYYzYtSVcyLWxCM2hRc3J1Q1YwazUzQVJSWkVOMk02X19zcWtRQldrbzF3OVphLVYxRFNyYw?oc=5",
+          "published": "Tue, 18 Aug 2026 18:02:00 GMT"
+        },
+        {
+          "title": "Fifa-Boss unter Druck: Nächster Verband stellt sich gegen Infantino! - BILD",
+          "publisher": "BILD",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjBYdzlURXJxaVI4dnFwaGZsa0dZSDMtQVNPWkYyOVFsTXlzSkJ3RjNBQ3pfOFdMdWt1Q1JHMWo4N1VYdnJub3ZxTGFQb2dOdEpobE1PZzNWekgzLUg3dGJQU3FLcFhoVHZVQUs2RXRpQTJKcWVXUG8zWG40VDNUTFd4TTRuaDVCTlEzNVZZSXZwR3dMTGlWbFItbFBkV1VSejMxX0xyUTJxdXppODYzNFlHRTEwRlljMDhDS1pyU2wySHR1UGc?oc=5",
+          "published": "Tue, 18 Aug 2026 11:55:09 GMT"
+        },
+        {
+          "title": "Heidenheim vs. FC Bayern jetzt live im Ticker: Erneuter Musiala-Schock für Rekordmeister - Joyn",
+          "publisher": "Joyn",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTXNTY2RPV0tGbFlIOHI5ZlBsckwwOGRVVFlneWtyWUlBLXdkYnhWV0NiMldheVBRWHlmaU5ZbEhlTTZkS2w4RUYtN3Q0MEhBa0p5dDZGa1MxLXFJazE2Sk9yWW1lT1NiUE1ISDZPYzd2LUgwVnVnNnNYQ1lzcGJuM0p1WmJfS0hzYnFBWHY4dHZxLVJ0cDlfR1ZXQ1pQd1pvOTJULTNBczZjUlB3ZzRnZDlZMUNFYVg1bHg3TVk5RGRIajZadDNrTmVR?oc=5",
+          "published": "Tue, 18 Aug 2026 17:36:41 GMT"
+        },
+        {
+          "title": "Barça holt Weltmeister Rodri von Man City – Kann teuerster Zugang seit Griezmann werden - Transfermarkt",
+          "publisher": "Transfermarkt",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTUR3amFqbG1wZGtQVmZhSW1JbHdWTlQ3OU4ybTJpUGl1OV9WYy1odnlxMW1RWHkyZmxybEo5clhERzVPM2JfczV1OFFsZmdCa3V6YVBDZTV0c2t3WU8yaDVuanVKT2s2Wl9TZGpUMEhIM2pybUlsS095bjhxOEx4elNXNUxnc05wMHIwZ2x3cFRtelpZM0c1S0FoZWIyY0R1bjVFWUpWdzdubFJNYy1NVFdESHRtNnRLRG9OSDZnOUlIWG1uSTBNUFdRVQ?oc=5",
+          "published": "Tue, 18 Aug 2026 16:46:00 GMT"
+        },
+        {
+          "title": "Medienberichte: Füllkrug in Bremen: Stürmer kurz vor der Rückkehr zu Werder - sportschau.de",
+          "publisher": "sportschau.de",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV0NWZko3MGpNOEN0dXRyU0dSUms0aGpjd2I5ZFhvYkEyV193dHB4WWFBRHRRVmh0akRVM1Y4NzhVTW02eHI0QUdvS2hPZDNYMzJwc21oZUZ1SmtMWmFGUGtXelEzRVZ0WlVnSHBuUG1PUGE5Vmo3MlJ3ekoyY2ZaTmRPbnpWR2oxUzQxS0JSTThrNE5pWkdDdDY1YVBpMVhaeFBqVzluNUJRb1VHaGhtRw?oc=5",
+          "published": "Tue, 18 Aug 2026 10:53:51 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "Facebook und Instagram: Zuckerberg drohen 1,4 Billionen Dollar Strafe - BILD",
+          "publisher": "BILD",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQUd1ai1hdFVBcjNtZ2V1Z2JXcGJHYTY1LXhmMzNneEFNZERPcVBFbEFzYTc3X0phSVZ2UW1sREtVZW8zUkNJOG5UR215QzhLU2xlOVBTN3lzN0c2cU9lVHNKVXpsdmVXTlJJOEdSVjR3emZTcW5KQWhaR0NoUHVQOERBSjlFSkRfUmJ2STR0cWJQTTkydktiMlZsbU9XZjdQMlFaVVROdFpvOVJqS3lpV0tTNjRrYk11UWtaTDJfWGZfN2x3Y21BeTFzbVNKdFhCcjI3MWU5eFR6VlBydVFyM3VWYw?oc=5",
+          "published": "Tue, 18 Aug 2026 10:32:05 GMT"
+        },
+        {
+          "title": "Er liefert Drohnen an die Ukraine: Nowitschok sollte deutschen Waffenboss töten - BILD",
+          "publisher": "BILD",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdU01R2xkLW13X04zbkJjZElXN09xcGlLWG1VYnpZWFlnMEtSUTZWekxjeEFCbmRrQ2toMmhzNk9QZ0duQ2F0djRFd3dnb3ZSVThxTUxmSHpOYXpOMXA4a2tGNmZXNE9WVDBRbFRlUW5BSzNTSksyZ3pfelhKektxY2ZsbHNDdUR2OEF6WXB0b0dLYzJUclo4UFBvUjhTaC1IazJ6RkRTckJ4eFktQVEyaktSOUNsMXNzYUNqdmFmYWtCZHZQcklkQUNHZ2hzbkd6OVRORTBn?oc=5",
+          "published": "Tue, 18 Aug 2026 16:18:31 GMT"
+        },
+        {
+          "title": "Ukraine soll britische Drohnen eingesetzt haben – Russland reagiert empört - Spiegel",
+          "publisher": "Spiegel",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTTJiTEFiYkpuQnN1U2FtMTh6ZDhPNmh5LXpGNUhtNzN6Y2M3bElubms0YnpOWmJaek5QQnIwQ3Q3Z3Q4NDUyaERWTGNoYnk4b21RUWNVYWZWREIzdGxvWjFMaG1GTG5ubUluem1SNDRPYWZVaHRaXzl5Zm9mMWgzTjVRZDY3TXdwOGV3aTFOTW9uQmF5bS1WVk9WakNpSXJac2haR3dvQjhDZml1QTZaeUZ4MlJoc0N5aEozWDRBVS1Rb0o2eUo1TUk5cHpoUUE?oc=5",
+          "published": "Tue, 18 Aug 2026 03:16:00 GMT"
+        },
+        {
+          "title": "Ukraine greift Moskau mit 620 Drohnen an - BILD",
+          "publisher": "BILD",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkp3UmhqeDRYZzQyOHdkVDZIUjhHVG5wbVlxZFdxUXoybV9lcTJhMzZXd0YzdV9EMG1Sbnd1TWhXdl9oVWFkTWxMSk54Z3BiQzRKZ09raFg4MkZYSGR6ZHNQRE1LaHl6T1JWams5cnU4UXZBRTU0dG93M2lhclZLN2RURTlOV1RwSUJoc1BSWjBiS2pWTERCbnhZOFhYc3RXMW1fWlc4N0djYW9hVlAzV04wUHdxRU11OG5xUmFn?oc=5",
+          "published": "Tue, 18 Aug 2026 08:11:51 GMT"
+        },
+        {
+          "title": "Ukraine-Krieg im Liveticker: +++ 15:37 Bericht: Russland baut Drohnen-Basen näher an Nato-Grenze +++ - n-tv.de",
+          "publisher": "n-tv.de",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdW9mWHo1RmlJYmRHdlZuU3BrcXhhTlNUQU9jdlZtc0xSNEMwLWpZS3ViUm83NFF5U0x2aXJWb1htT3pHcHF3X1VsNUxMZUdUamIyc014cEViNGFqazhFei1vMEJxZEdLbWFndHVOQ1RlQmFMU0FmbzR5dzBTSWRYLUswLTVNdmdId0tac2FBajhfbDMwOURDdk9va01TTHFRMG9PVk9JSlUycTg?oc=5",
+          "published": "Tue, 18 Aug 2026 13:37:34 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "How investors profit from soccer even as Premier League club losses skyrocket - CNBC",
+          "publisher": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMktUc0w3Y2sycU9oWXg2VW02UWFYMWlzaGMyWDV1NjlkWV9ZaVRGVUVjZVYydWFVTjlMZ1AyWVpnazVXZ3p2T214QW82WmpMYnFPZ29xNkNUdDJqSXRMOVh5XzlzS3g0bVAzTmNZUWFJTFl3bzRucklRUkpXN3h2V09Kb0Jnck3SAYwBQVVfeXFMTzZyTGVmQU9rc2Q1R0N4Zm9WeEtsUXVQUGxZeWltcHJORUxnQ1FyYmdkN1FJSVVRdTJTNGdoVEVSTWdybHlOVkk1RTBKeDc0ZXFZQ2xDS2JhRTBKb1pWWVkyV0xUd1VYVmxLQk9tdjNadEp5TGlzbmcyNjN0eGpOUUlBaTY3d2ZqZDl0TmU?oc=5",
+          "published": "Tue, 18 Aug 2026 09:09:19 GMT"
+        },
+        {
+          "title": "Soccer-Rights groups accuse FIFA of silencing dissent after COO Lamour’s exit - KWSN",
+          "publisher": "KWSN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEU0eV91eXRaTTRQendMbF9VQzJRR0ZWOFpjYS16UVlTaENZcVdkVUpTV0s3aGVfS1FvSlJtbVNSVnRzaDFkbFNXNlQ0SVc4Y01UcEFUN2NXWjFzS3E3UWtwM1ktZDdBM1hlX29CTjVPS3pQQUUwZUZkM21yWVFRTFlWa2llRTB6Q2txSk9lNGViSm5BSlpTQlFNQm40SnRSR0pBd0UyWGg?oc=5",
+          "published": "Tue, 18 Aug 2026 17:42:53 GMT"
+        },
+        {
+          "title": "AP Interview: Klaveness slams Infantino's FIFA for firing top executive in 'management by fear' - The Washington Post",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUF8zQnlOb283SThmWUo1ZUdUOXZHOG5UZW9BZHp3RFBiWjZRX181d1RGcWl5VjRiaV9VZG4yQW11QTljMlJ4dHI1Mkltdk5oTjJESlpiTHVuLVpzbnJjeEQyYWZiQm01SUY2bXREODdzYllGZXZlZWVOTGRsT3ZJaGxTTEMzLU82VWpZV1MwTVJVQzJnNmZjR1ZvZEZrY2xZOVM3cFZaek10N3FHMzB4Mm44bTExeVRLaW9FdE9xdDJFcjhPRFpmQnRTR25fcXVKRzBfVFZSclM2UQ?oc=5",
+          "published": "Tue, 18 Aug 2026 22:17:48 GMT"
+        },
+        {
+          "title": "Infantino ally insists Fifa president still has backing of most football associations - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0R1dUxUNkFXX1Y2RVhqZUFXdkJTTHZvTnZ5bkRFY0J5MTdDZE9qZnpVclpEQlhDZEhTcGhJRzNCTl9NNmxKZlBKdXNJZU52UjQ5UGNmdm9JVHlMTEFRMTlZWHgzd3Nra3B3dVRJWkZ0WkhZMlh3YmpYeVFoVW5aM3dnWjhpVU5GMTBPUFEzQVNMb2wtUHlOYzZaS2V4YnphTFhBSDFoeWIwNEVTbDlwTjdqQ1hhTzBXMV9iU1NTSHZZek9QMHJZQkNtQndrUQ?oc=5",
+          "published": "Tue, 18 Aug 2026 20:59:00 GMT"
+        },
+        {
+          "title": "Rodri’s journey from a Connecticut camp to World Cup win and Barcelona transfer: ‘Football was his religion’ - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFNXMi1yNkEzYkhlR0Qwd0Rmc25aN1VKb1dHWWxMQ2UtREtoM1ZWb1FicEZNYUJqTDJmbDBRTVowRzM5cmpKb3Z2VF9iREpKeHdPdHVFZzN2WmEwN2V4aFR6Z0tiX2twT3JIbmJMRC1WX1ZYZk1OUTEyMVhMUjhUWTczaGpLaTAtOWs1cWtqUEdiS0RKdUpCbEFOZEhqUWRfY3c?oc=5",
+          "published": "Tue, 18 Aug 2026 04:05:32 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "Hayden Panettiere's Mom Speaks Out After Death: She 'Lost Her Way' - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHNPZWhNMjZNcFp1WERYSnYtd0pncEZwMHBPWlpOYV92aDNzcDEybzY3cjZlR296RXhKTkNCc0VPSEVHMEp6NWVfUVRRakxKQ2toQ29hcWNzdmtmazlfcE1XWlpMdGtneVgtZkJzVmlhVG9iRmpDOVo2U0dZel8wTGMzNW9oby1FcWhXMQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:30:00 GMT"
+        },
+        {
+          "title": "ZZ Top drummer Frank Beard dies at 77 - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ25uMnFSUVB4bTZ1RU43ZlFIRWJjaWsyMkUzRmIzdE9DVE02Q2ZKbEQzX0ZaelpMZTNaRU5VLTVTcFQwcG44eVc3eW03a2hxc3A5dWFUUXRTdVYyTnBpQTc1U3dKNnBMQnhqNnRRVmt0Wk9EWnY3UkRrRHpNMjRuMWdjdk1oVDR6UVVwZHBHRjRmZmtvSXBjUU1UcG0wVUk?oc=5",
+          "published": "Tue, 18 Aug 2026 21:53:00 GMT"
+        },
+        {
+          "title": "Rosie O’Donnell Crushed Her ‘Kimmel’ Monologue by Doing What Jimmy Kimmel Doesn’t - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbl9ieWRKc3BucE84OXYzQV9ZYl9RdTlKejhmcno4SUZsUzJlNlBVU1RGX2M0V2lKX1JSTGZxZ1pmenJmRUpJbGpBUUtISXFNNXBvZ3BNRC1QSll4TEMyM2tvazRpSVIzLUczbFlaRV82a0hRSlpZeGhISk9MWlBYYlphczFVYnBCNFhIUUpXUXJjRlFuTXZxWUprcm1kazJs?oc=5",
+          "published": "Tue, 18 Aug 2026 16:39:10 GMT"
+        },
+        {
+          "title": "Taylor Swift Returns to Social Media With Update Very Few Saw Coming - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzRRbkUtNzMyVTJSMjVxMjJvbHNyVXFHNlMyN0VoWG5tUlFFZmkzdTU0a2xuQ3F2dnJjeXVscER4OThBYS0tQkcxY2dyc2UySktNR19aVFF0MXhERzlaV0V3VEx0ZU0yNTZ3MjNFb3dmOFo1VzMzOTJ2a3ctTVBLaDdzbTJ5S2cwZkJ5Uk1GOXNaUE9aRTh3R3JGSG5iVldD?oc=5",
+          "published": "Tue, 18 Aug 2026 09:07:58 GMT"
+        },
+        {
+          "title": "Some Tupac Shakur family members step out of courtroom while others stay to face autopsy photos - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVm5jaWZuQ1A3V1BBMU1HM1Bia29QNG9NcTBwMnFzb1F2eDlLTkw2aHdwQnRaR042TW5jRVNHZWoyMm1xZXlpenBNdkNkNVVyR2l1NF93ZXZRLTBGY1RBZ2NVUU5jZVdCalk3MWt4Q2pyeExmM28xYnVGZzZmRHB4ZjBPU2oxc1l2RnpzeXR3MEtuUHk3WWxJYy1OdzFlTjJDWWNKRkJsMjI?oc=5",
+          "published": "Tue, 18 Aug 2026 20:22:00 GMT"
+        }
+      ]
     }
   ]
 }

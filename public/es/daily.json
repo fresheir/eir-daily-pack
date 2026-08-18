@@ -1,43 +1,260 @@
 {
   "market": "ES",
-  "generatedAt": "2026-08-17T22:43:56.991680Z",
-  "validForDate": "2026-08-17",
+  "generatedAt": "2026-08-18T22:20:31.652980Z",
+  "validForDate": "2026-08-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Directo | Cuatro grandes terremotos consecutivos en Granada - Ideal",
+          "publisher": "Ideal",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRGFPSC1zbTlVRExzTWRNUUhnTjB0dk1GVGVzM05pUkdWVXhPdFlqLWFjekJtWmY3dHpjaExyb1BaajdpbFRCazFFeW1IT0VRY2F1RDhiTlRCUDRaUjdaTC1Ib3NscXJLcUdDTXlXTmZQUzJwV01yMXBiTzQwemR0M3hTOWNqelFvMjJSSDluTmFIakpTTTJWQ0RaanpXUdIBowFBVV95cUxQVlhFX3Ftbl8wZzIxVmR0STVyQW91X1NIaTBHQ0pSb2N3czgtNmxhZjYtZ3FjUTVZck92bVd1bmlGQUwzVVgtNHZpcEhRMHl0cnQ0NWd5YjJTbXJHWWlwQzRQcTBqQWhoMlo0ejRoa2FjTXNianVXV1dHeE8wWDFYS3dmdWhNSmhUX2w2OW90N0R6Vk9XU016SjNSVjNiODhwRzJB?oc=5",
+          "published": "Tue, 18 Aug 2026 18:04:45 GMT"
+        },
+        {
+          "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Vivas denuncia que Ceuta se “siente impotente” y asegura que “el Gobierno tiene medios” para expulsar a los migrantes - elpais.com",
+          "publisher": "elpais.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUXZmMkxZeXJnRDBTbm8yTEpxVHdCYTN6NUc4bVBOUFFNRXZ4Tlk5azRzZ05HRGtkR1lGZ2hKVS1KQ3AtQU9mdy15YkJGT3dfX0lBUzU2c29tbjZOZmgzbGExcC1TRkl1UEx5LS0wUFlfYzFvalN2WF9EVEpyVUtPYlF2NFUtMjlDQmg3R2lfLUhxRDQ0b3ZoVEI4eHM4bEl5YzBj0gG3AUFVX3lxTE03SEZkNHlaTEFxcWtMQ3FzLXhvTzZ4MTdOMXJodm5xTWdjVjE5SVZtdHI0NU8xU24za2l3Tmlwa1R4amdCcGJFcFZjdlFERWVveDRObXlaRnhZdU5QSGhYbGVwMmwwTXYwX0U2RHd5amhzbkZYZkZ2N185Y2JVN1k0cTlkVXNXam82YlNDUGR6MnNSY0djYkZJSHFSQi1Oc0FJOVFheGhCV0NjSERMYzlZME9BQTJzVQ?oc=5",
+          "published": "Tue, 18 Aug 2026 20:17:55 GMT"
+        },
+        {
+          "title": "La bronca política es lo único que evoluciona en Ceuta: el PP exige la devolución de todos los migrantes y Moncloa pide menos presiones de Génova - lasexta.com",
+          "publisher": "lasexta.com",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPV3ZhcDVpT1JIRjJaWlp5cUF5ZjQ1aEFnYUxQVXZEaUc4b0VmeDZzVmthTHhyNjlWdU93SzR3RWFDNDB1eGtqaW1PVkVTR0JyUGtsSllyMG9NUXJlQ1dBU0FXei12QUhIb0JDOU9PSXpQckxQU2NNV1dBQU1GUEhadEFObUYtWlp3ajc5cGlrLTZMc0FUYnRuR1ZPNFJvT00xT3BRWGpDV0hxbTRkOHVyU05MRTctbGM1TDg2ajFjRTdUdFJUa2Fzdk9KNTNTQ2lqcUlwUm9DTk1tMi1PVjNvcWxySVBUaXdjMGVaZG5IY0x1UTV4TzZWeDNPX3BMWU5yNWVjNm1VR2VTUDVneFhnMF9UQmc3SGJhSk1B0gGbAkFVX3lxTFBQNVFyejFOY3JMVVdmYThXNV9aOHZ4N3ltaS1mcnZkQWdtQ0tNY3BVdnJPVy1oaDREVFRDUG1fenVoOUpFTjNDaEZFVGJOM3EwaE5VSVN4MTZNbVl6eXJvVVJySmdmeXJLeEZKa21wVlp1MkVyMmJwTzhJMnBQOFZBMlRpcnp6dWFoVjFUai0xTmJxU0k2RzlFNkJmRlpiZWxvOTA3eTVkQXRNRG1yVERKQXJZakZrNk5NNmxKS1dkd0JON2l3UXBzVl9Fd2wwYjVqSWlvcTExTGxCWkJhZ2wxYWF5bE9JZUZXaXMwanFvczNHVHp5djJBbFgzX3Z3YlluWUpJUWczbUxNZkRMQThhQWQ4QXdfaE5GYk0?oc=5",
+          "published": "Tue, 18 Aug 2026 19:22:23 GMT"
+        },
+        {
+          "title": "El incendio en Peñas de Riglos entra en fase de estabilización y 7 localidades serán realojadas en las próximas horas - Cadena SER",
+          "publisher": "Cadena SER",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQWk1a3RJb0dKS2s3QkdtUkcwQnZEUWlmNmFvX0toQXl2R1RmNDVKaEkyYXhZNkIzUmJkblZ5cnlNZ0Y0WERkeGp3d2l4bzJ4SUZHTHh2T3pXZmRpdWQzWXQ4Y1Y3VVpvUGl0V0pWTFl4NGs2U0twX0VlMmNqbVVMaWxEdmxNRS02cnBHWGM5djBIZmozODBtYThCcGNfSmtKTlFZNWJrSFVTWWttVlg4dkU3WkJnMEtBSWVid29GaEY2ZjFqaWRlMENyRkJYQUU0NXJZZ3AybEJjOFdrWld5MkR2eGNlR3VoR1ZTYXZuU2xFWWNKSlRtSW9MS2U0NTJCT3dr0gGXAkFVX3lxTFA0R1o4aVVqY1FFdXJUYlJLMHJYak1UYVJRbXJ1X2EwYWFXNmoxVVJHMjVrYTFyT1VrdFZXdTNLUnVIa0J5WnZVLV8xQ3hSWUZfd3ZqOUUyQmx0M0FUV1p6bk9DdjE3VS1ycEJ2VkxfVkZKckNrTG80cHp0YVRtLUtHWkQwX2lIYmQyS1RjaGx4c0NlWEJZbkE0ZHdPb2pKMEpiY2VzYVNtQVpDREtkakJFU3oycFd2Z0lkZXNlLVgzN21TOXJFQWZVY09MaE5zQXNEUjlOMkNydklkU0x5alBuSDZJSkxjXzJSOFhTdTBERHVJTFFlRkxKQl83UVloYzF1UFZuMmRpMDJUUkFxRWhFSGtZYXc3RQ?oc=5",
+          "published": "Tue, 18 Aug 2026 20:01:41 GMT"
+        },
+        {
+          "title": "Feijóo alerta de que España vive un momento “destituyente” con un Gobierno que actúa “contra la nación y contra el Estado” - Partido Popular",
+          "publisher": "Partido Popular",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd0hpbFhhVnZLanZ2SEVvOWFiV3dPbmdEeDZSRUp4cDZSMGxCN1hWcDZVeW9HMlZOS2dzcW1oN3o4RE9oODktWEpHbHFjZ1ZpQ1ZhR3JaaWpuQU8zZVVYdVU3aGlDbWpyZU1JQVBPQmNwSmxwTDJjOWM2Rm90LVRGMS1JbzJMdTN0ODZrLUpsNV9tZE1aZnJ3R25naE4zd1czNURKNW9pWnBfR0tjWlVjZVQ5cHV4ZndZMkR4Vlc1T3k5YTY1U2tHSTRwQ2Y5cnNlMUxtdzI0bFVTeURrbXQtUkctVEZJVWF2NVpmeHcwSQ?oc=5",
+          "published": "Tue, 18 Aug 2026 15:27:25 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Trump declara el estrecho de Ormuz “nuevo territorio de Estados Unidos” - elpais.com",
+          "publisher": "elpais.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUENmYW11QlVfQlptVTYxRUFqaV9ONHkxSzlxNXJzVzRkN29yNnU2ZnhuMHRlTjF4dVlXY2J5cHlkeWJfOHlNcmc4WHRKcTdyZDV4Tm81WXh1TGlLc05YbnZoRkIwalE0RnI1ZFpPNzMyV1hUdWJTWHVENkdlRVJzQURaYTdUZWV4RlRIb2o2UVl1b2ZpRDlhQ3YyVWlqYVNzaTlwMENSSjZwZDQ1YThqTHl0T3JYLXh6Vnc?oc=5",
+          "published": "Tue, 18 Aug 2026 12:56:26 GMT"
+        },
+        {
+          "title": "Trump da un paso más en su lucha contra la Corte Penal Internacional: sanciona a su presidenta Tomoko Akane - lasexta.com",
+          "publisher": "lasexta.com",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOc1doUng2UFRSazdvWmVXbUhwMkVhZG5vUFdMNGZRR2lCMVlrMHRZMG00R0FYMTlpeDZUbUkxU2UxNTdUVXVHdHhhWkZFWkFYMjBKM29vSFRiWUd0RXBTSVZHdjEycWJQNVU5OUdWMHhUcUhHOVc0aHNkRGZraUd0Y2RwTlJEaGI2T1c5TUF3dmRINGxZN1pEQ1RkajlDd0tMNVpVSi1mTnFKVFFTb20zaGhnQlpZNlFpUm5HWGhfMVRhVE4tbmRzLUppZENTMk4yNUhuRDdTMnZmMkhEcVpnbGtEZGozb0tKdnd2enE5T0g2OG5YOXNB0gH3AUFVX3lxTE1aX2xUUFYxbVpoaTUxVngtWGc2alRfWXNyNWJtaXdIbF92bmpQaVNEWFBSY2lIX0haZ0pCb2tUT0ZyT0pBTFdZclNhZW0wcHpkRlpWM3JGS0VvWmFkZFBLLThTT3pOTzNRY195RVRaNXAwbTE5VFQzelZheldyU21zNWVBbVZSc003ZzVlcThTaWVvRmV4S3FsMlB1SjNyVFMwUjRGM3ozUGlYT2NSc3M5RmRqNlJrbUk1bUtQX25xdGxZT0NyanhXVDZ3VTRxU2pqZ3RsS050bFlZWEFKa3RaWVdWek8tWGNkTk4wSXRGQkQxRFoxWDA?oc=5",
+          "published": "Tue, 18 Aug 2026 21:47:37 GMT"
+        },
+        {
+          "title": "Luz verde a la ley que prohíbe en Portugal taparse el rostro en lugares públicos - lavozdegalicia.es",
+          "publisher": "lavozdegalicia.es",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUmZqT3A5SVM0NkJoSk5oR0tpRHA0bThiYUVpM3lZdHM0a3kyOG92SnlZZFI0MG1Sck5YRlg2MkNuRHJjOFJwOHpCLVJUYVVxMVlIbkNfenFwWmdadktHWk02U1FvS3FNazBzdk9uZXpRTW4zSjI1S1FYZDNOTHVpRzNxbDJPLWhXTW9lZVVybThoQ0pNcFdCN1VWUXJRTjdjUEFPYWN5TVFTeEx1WGlNMjlmM3FqUWZHWXBtX3E0YlJYc0E5Tm9NT254SFhKRldLSmhWYm1GUlcwWUVpdEUzb21R0gH-AUFVX3lxTFBSdnF4bWhESWtfLV9RTlNMcTNFaW91ZWNjdFJMZFBjcVFUWkhfdmc1d2FJM05qdGtTZ0lsbjA5ajBlODdGNWVaaER3SEM5enJQLVRvcTdsT2YybWh6T2hqTzN1bUNGT1NsREdHVm5pTjZ0VXpreDNTNGtuRktLc29MRmVQZUYtTm0yZTFvSmRaNl8ydnV0MW1OdVd3VzFjN3doTnEtM0VpU3RuWTBMeTlpNmVJaU1sR09WNzhOcWEwSFF3NFRPM1ZqdTBJUGNEeVdKc2FwRFFPNXNIWFJvY2tXSk0yNGgwZS1VSnhGZXhVWjZ4cnJUSmFuak1QMzZR?oc=5",
+          "published": "Tue, 18 Aug 2026 20:14:45 GMT"
+        },
+        {
+          "title": "Terremoto de 7.4 en Colombia hoy, EN VIVO: todas las noticias del sismo este martes 18 de agosto - Clarin.com",
+          "publisher": "Clarin.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdXBEVzdoMGh2QVpzWjhjVkswUGpqSE84VlREWlliXzBodlNlbEdGbEZqVzREQjJzd1habUZ6SzNIOHgyaWE1Vng0VEgxZ3NIVXJpUXRLVVNvS3Y3cVVxWkJ5S1MtRjFsanVCa2hiZkdta2Y1TDZVN3ZxVTk4ZGloaDhxcW1aYUx1b2E5TC04NFdleTA4SnNBYzFMV1ZhRmhMSzZYbjZhaVhheWRiaDM3NjNIR01EQQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:40:13 GMT"
+        },
+        {
+          "title": "Ucrania lanza 791 drones en uno de los mayores ataques a Rusia, el segundo masivo en tres días - RTVE.es",
+          "publisher": "RTVE.es",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON0wyd2N0QnU0Zi05MFZoendEa0ZLaS1pMmxPTk5Say1GYjFfY1kyU0NiTXdFbFM4N3RPNFhLdlNFTTZGOVk2TzRIcElsSlhwY3RvSzBqeG5ZdmswWDU0T3RHT0psMy00MXM0TzJpWGxJRzRGRUJMMHBwMExOX3F0U2FGenJhMUlLUUk5c3ViZkRPWDZEQThvQ3BsVllUUnBlQkxrQ3pSN0hYSUtoZjZQX0tiVFBHOWF2ZEpoYVd5VXhTUjBSX2k2SUVn?oc=5",
+          "published": "Tue, 18 Aug 2026 09:50:43 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "El Ibex se aleja de los 20.000 puntos en su quinta sesión a la baja - Expansión",
+          "publisher": "Expansión",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd0RlYllkdkxCNFpoUkIzd182cU94NXhvYjZweTFWSnRwOG1qdlBhV3RycWJOWlRrQWRKOUZpaFN2cW5peG05a3RRdEFMYjU0MTlJNkxHYXhjZnBka0QxSG9RT1QxR3Bhdi1KUU1HaHk0UVJucFpYQXllTmo4cm8yemd3cExkSlNWUy10MDdXbml5cUU?oc=5",
+          "published": "Tue, 18 Aug 2026 15:40:26 GMT"
+        },
+        {
+          "title": "Cupón diario de la ONCE: comprobar sorteo del martes 18 de agosto - elpais.com",
+          "publisher": "elpais.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQck1FYlc4NDRCSGpoMGRqeElQMlBFekRkRXhSOEF3RHhybzlTTDlSNHFXS3pfZll2ZlFMbFZxVDhneFFiZzlSOU90RHdwWlpMWktjZkZEWGI3WTFoMndiUDAxXzUzbnZiZjFpX3NITDd4TkFjVDNhODgxcWRadGlld1hHSmxEcHdTWFBEM0kwVmJDeEtGQTFZOThEZVN5d0g2TVl5QnRLUkc4R3fSAb8BQVVfeXFMTzA0dHRIaThya3NnckNKbWJFbDhJVXlPay03RmNQd0NGTjVVdFlmMjFvcmM3ZWl4UkhlQWxKSFo5dEFKb1RuM19BTkloeU5uc1h6TmVaOUd5Z3JVVmxXczlZSWlsZDNmYWxGNUVfYlQ1U1Q4dTJDa21uaW9UQmRneHNETGVTaFJUd1FNTEFaTW5QVkhxLTlGdWp0d3lZZncyX1RYNTZfcXpEalNVOHNMelFKdkFRZl8yR2U4Q1dIeVk?oc=5",
+          "published": "Tue, 18 Aug 2026 19:00:00 GMT"
+        },
+        {
+          "title": "Cierre de Mercado: Nasdaq cae a mínimos de una semana, oro y plata borran sus alzas (18.08.2026) - XTB.com",
+          "publisher": "XTB.com",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdTRFMVlaOWZKUF84VHVqWXUwSm53OXJPb0NYODFzUi1xbnoxVlkwVWc5SGtvNlZzTGdENDdPcWN6Y0c2VWJ0RVA3b3V2T01wVnpJRGUxOFFRc2N6a0hFQk1CWHhyMWhrc0RHamVpbi1ISDZNZnpMTW53aEVoM2ZFZkhJVW1yRDBFNGdYMUdTZlZGUkM2bFpfQ3hwZDkwZ18xaWxLd0Z4eHhEeERsbGxqa3RtYjFQMmk2VEtsODJxQTdLdXFaNGZpTmhRcUl3a0t0VWx6X0dDeFpKcjAyam1halZZcTUyd002a3hVUw?oc=5",
+          "published": "Tue, 18 Aug 2026 19:48:53 GMT"
+        },
+        {
+          "title": "Comprobar la Bonoloto del martes 18 de agosto de 2026 - El Mundo",
+          "publisher": "El Mundo",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKQWNaN2Vjek5Ha2dzTVBJVFRRWE1WVXZuWGNkdm1fZmtDZk5hdkFsU2h3ZGxkRU5kUTVhNWtVbjRVektORUN3OVNmWW5vMU5zNXhCUlFFRC1zM2xlTEJQQnNPLWw0bTNIR0plbDB1Tkl1aW5WRGY3blNGRUfSAXxBVV95cUxNTUtNc1MzaE5IV2cxMG40LXJlVzNrXzZFNENfNnVzdHVOdC16MG9kanBIaW1vNEI1NDN6NGtzNEYyUTFVQ3piU2Z2X29vZTJBV21Iekd2WFVUdHdmakhjT1lwQ1N4Mk9EQm5xZ216X0JacS1GTzcyanF3ay1O?oc=5",
+          "published": "Tue, 18 Aug 2026 19:50:17 GMT"
+        },
+        {
+          "title": "Comprobar resultado del sorteo de Euromillones del martes 18 de agosto de 2026 - lasexta.com",
+          "publisher": "lasexta.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVWtJMVRKbW9Gczd5MEQyM2c2U0ZIc2hKTUFqZ2E5TGp0VUpQZXJEWmQzZkgwazY1ejFCQWRaM1NPOUNFMElkSnZMZWFwY3F5WDVZOW9kOVpaZ1Z4N0lhWkx1bzZVU2dvRlFWUnlLRklDbGlCdkpSVEE4V29qYnQtUUJKbWktd2gtdU1lTEZ1cVJpdWZMcUZZZC13VmdnVHpUNHJaZ2lSLUk0LUx1S0hoamdmb2EzcnhZZENxWFc4ZXEzQVJPUkRYTFVLOTNZUUF3cWpWYXJiVDFjYVBh0gHcAUFVX3lxTFBPZlpCWDZOb2JwcGFmdkxJbUdvV1hBWEdkY2dISmZDeDJwNFQwcHVVZ2Z1R3RWVVZaM2pPZWpQenFKclg5MU90XzdBZG9xdGFqd3NLTnZweE5ONHZNRVRKTmU1U3pSVjk5ZEJXSDhuaWI5a1RpbThOUDZ3Z2NiaXRRNmhtckF2ZDNoRWkxbVZfUXhUdGxfWjh6MjAwWmtMSW1pX2ZHdjFNOC13Uld1alhVaFZxSFcwWDlfTmRuM0t6akxXanpyYVBSOWc1REZUck4yRktRbDVBaVB6cGQ?oc=5",
+          "published": "Tue, 18 Aug 2026 17:20:13 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "El Barça anuncia el fichaje de Rodri Hernández - COPE",
+          "publisher": "COPE",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMTB0Z0dkaFpNY0ZXQWJTLUY3dks0RTdTbTR6NlZfZUkzMFFaZEVpX1FjQXhYdWV5ZzhWWGdRR2hISUdrTDVRT2JFbjNRN3Yxa1pXYmJMX3BqV0hDNlRBOFBLY1NNOTg0X0dsU3YyX2lockY2Y0IxVllham5jQ3NJTW1lMWY1SUp0N25JSGZPY3N6UDZRUjcxQWJ5NndXaHc5N0RzWU9SSHNHdWZnUGJhM203MFLSAboBQVVfeXFMTTRmUTFZdkVsWklFQ2ptUFNoMW1xY2RQdG5tZFBIZmhuZklHVE5rWVoyeC0xZVE0SUltV2NvZHN3RTRFeGFmdUhmaHlqeVlxci01UHYzWVFobXdaUmRVclRuamN6Z1NCazlabl9EV2Mzb2lSUXg3aTJaVDBlSkJDNkRWSFU3cjBJeHJPT2NLSndTbjE1Z1piamtUWFpuUl9QeW9NdnlQZHRQMDcwRGNSOE1PT0JTWGliVFln?oc=5",
+          "published": "Tue, 18 Aug 2026 16:42:01 GMT"
+        },
+        {
+          "title": "Jamal Musiala vuelve a desmayarse en un amistoso del Bayern - dw.com",
+          "publisher": "dw.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ0J4Tk5qMFhpR2RVYkU2MDc0SXQyeG5YZ2JGUDl3Qi1PNjVkWkVNX0hsMmo1aFRvMTROeGtiYkRLMkVsUVQ1MzZwSlRjYVNJVTFEYkl1d041TVc3ZDJUU2VtNFRmRWRLa19rNnh5N2FjOW1Ienl6dlpqZGl0dy1Gbm81ZWJHWEFLbm04NTFfRlJXcjhwVWI00gGXAUFVX3lxTE9DVFltTEJibElUYTB1b05uOS1ZdGg2RUtOdk1wa0RnSldic1R4RnQ1eXIxamJsXy1yMXVESFEtNlR1ckV1ZXUwRXFmWndaUjE4dGR1ZUo2alJwSC1SWUVBQWp5Qlh2ZHFmNkdGWWp5MHhkSnRkdTY0ZFhFZDNaMVdIVWVaeHFwWEVYcE5jQmlmT1VWbzNNMkE?oc=5",
+          "published": "Tue, 18 Aug 2026 21:47:34 GMT"
+        },
+        {
+          "title": "Greenwood ‘salva’ al Fenerbahçe - as.com",
+          "publisher": "as.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NcTMzbms1anpndzRrSHJpVlZTRTJSWFFlQURFR3JQQk9ZQmVkY2o2V0lzRkR5MnFjOS1hU3FHeDR1MzNIUjZIZlVXSG5YUG5EYlBZVnJhVmh1RExIcG11NUdNTHgwYVpQSXJOSzJodGxaY1M4cGdZbVN3eG7SAZABQVVfeXFMUEhIdzRlVTFzNnRuTGFfRWpMRUpVQ3lWT0o3WkplUUk2ZUtRaV9vd1VjRGp2WGhCR0M4YzZ4NU83Zk9BRk9tcjYya3JRUnZwZEFCTmdKVWM1RjBQU1NtMVd5RVZjSzRkbXRMTERYQk5HN3dBRmJSY1hPSE1LMjFta2pPYnZLVF9WLUxybllHQlQz?oc=5",
+          "published": "Tue, 18 Aug 2026 20:58:17 GMT"
+        },
+        {
+          "title": "¿Qué busca Mourinho en su segundo ciclo en Real Madrid? - ESPN Deportes",
+          "publisher": "ESPN Deportes",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNFpENGF4UGNCVHg5d25ETEZSM2RBLU1tUzJmdjNDSjFVX09aWVhGSXdUOUZ4eGlKSXcyRDJIVGczRkhzSUtCc3V1NFBQLTY1VUoyYlQ4X0g5Yk1aWkNCd3RVcDhIM0paMENkUFNjaHZXM01Dd2VyYzJTci1mTU1CdnlFbWVhNXN2ZXZpckpPS2dyTEtaUHl4UE9vbWJJLWNFOWNTWURhYVFhQThZdHVPaUNDbEx0SlE?oc=5",
+          "published": "Tue, 18 Aug 2026 18:48:00 GMT"
+        },
+        {
+          "title": "Las notas del Deportivo-Elche: Gonzalo Villar dirige la reacción y Aguado rescata un punto - Todo Alicante",
+          "publisher": "Todo Alicante",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPXzZFNHFBT3ZhWk5aMXdGb2NqTDNkdGNGZ25pOVF5UmYzLWJXdnkyTmpJWFY3WHJrVDdrdllQYmY1UHY5WnZLWm5xal9mNVE5ZE5IaC1YaUFSbl9hOGFXNVhlR0ZENXJ4cjRJUVB6RUNGWFZ0WGVSam55Z3dGa2FjQVMxTmk0RGZJcUl2aXlKTmRHOWFNWHY1ZEU1c0V4bkNGdzJ3TkE5WlVqNEhqajVnbTliOE9jdXMyc3fSAb8BQVVfeXFMTm5PUVlZU1JkQ2Y5QndqLWVhUHFoUHJqeGlRNlYzNk56ZkRQY1RZSDhRSVZDYlcxRmxBQUNrWkxLUTFrU3AyeWR6Zy0tNFZPMWRWMFU2dURXeWtJSGZSODdhU1doWTB6VmFOb2V0OTAzZjRVSzMzZlhBLUZobmFzRkQxQ25qM0RyNmgzcU5RZTdPcGt0eGo4Mm41REJWVC02QUlEcHNoUkNyTVNla0Q1NmUwRGMzNFktX2RyWHlDWGM?oc=5",
+          "published": "Tue, 18 Aug 2026 07:03:45 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "Llega tormentón de verano a España por una dana: granizo y lluvias intensas en varias comunidades, según Meteored - heraldo.es",
+          "publisher": "heraldo.es",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU2FmVjFmazA5TndOeGlQWmpQdk9ZOU42ZEdWd0FjSDJEWWZiSE5jRkR3M0NWVk9yMjZFV2w2ZDNNaVg0Y1gtSnJmT0Mta29acS1GM1R5Ymo1WUc2Z1E0clN6a0x6MjV2NWxCdmlJcWFuQnNjWUd3Z213WEh4S0xuaXA2SVZQYXFqS2tPQzVXSWFZektfSlR5bkR3OTF2OUVGRFgzVmJmWmk2NzNUcUNhYlB0QlNVeHJzZ1kxTW9ISVg2OHhLLTd3NEJQTEJCREd0WU9UYTVLZmlkWVJK?oc=5",
+          "published": "Tue, 18 Aug 2026 08:43:38 GMT"
+        },
+        {
+          "title": "Este abogado ya revolucionó el mundo de los 'grandes bufetes' una vez. Ahora tiene un plan para volver a hacerlo - El Confidencial",
+          "publisher": "El Confidencial",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdmc3ZWF0TFp3OU9LaVBwRlZMaEtuM0ZHZlBfZnhnb091U1BEU1JaNEx6VGNkQkwzd0NNaG43em1MQ3RmWGVHWGlGa1N5SEdOT1ZZblhXN293T3M2d0xnWlpEdVVmOVhiaFFZM0ZpNjU3by02UTliODhBNjZ4MDRCNHBzLXVOS0tOZzdMVkpyZ253SUNkOC1qanluQjk5S0ZYbU91WERyT1ZlN3A0dEdPSERrbnhnVFFFQnVn?oc=5",
+          "published": "Tue, 18 Aug 2026 03:00:00 GMT"
+        },
+        {
+          "title": "Un vigilante de seguridad, denunciado por la violenta paliza a dos jóvenes “utilizando técnicas de MMA” - Telecinco",
+          "publisher": "Telecinco",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWnZjMmpCbk9ZZ2JrUGdqQ0sxLUxJc2NkTVpKS1diTkZTLWlINW5jRnM3Sm9LMlFZd0JxdTV1S2pyMENoRE9XcHFhZnRhU2dBRjBFQk5iY2Myc2M0cDdHOUhYNkJIMEpNWmVsSzRXdEJTeDFSbnB0QjNObHJrd2stQ3ZwWjA5TmZXYjBKTXAwYXQzTUdIeGlYYlEzbWVnYU9LWEZkTV9La0NQOTlyWVFZSFlVVEhxcENFd0ZQRm03bXZiVmMyYlhHc1U1T3M3OWdmeXA5UHExc1p3bVk?oc=5",
+          "published": "Tue, 18 Aug 2026 06:31:25 GMT"
+        },
+        {
+          "title": "Moscú acerca sus lanzaderas de drones a la frontera europea - El Mundo",
+          "publisher": "El Mundo",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSjNRS09mc2ZLRXRaMkhrODhtUjl1NEtvemVhbEJIYWR4M2phTExHVzFLUmxWeHJzV20xSXNTcUMyZE52SEdCZjVUVk9iR0FSa2dQNVlWaVpmMmRZS2RHNXNPTjN6V242dnpiVjZQNXdoSmZtelgxMlJ1blQ2bnJ6em1hMNIBgwFBVV95cUxPWERRVDFFXzBhZ3ZscGdybjdnRVZPQnFQemlkWjB5OHRhTC1CY3lUZmtfZFUzNmZsemRIZVRVNVg4WDFPUEFscXQtZW11SWdzcXV3WHhlOXB0VWxIUmdXeVBYYnZFa3puNUxMZTM2b2pBcnRrSGM5VklCT1BxLUdfNk5PNA?oc=5",
+          "published": "Tue, 18 Aug 2026 15:25:47 GMT"
+        },
+        {
+          "title": "La batería de estado sólido y la autonomía extendida, la nueva batalla del coche eléctrico entre China y Europa - El Economista",
+          "publisher": "El Economista",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRlRKRWZFU1gyVGNmSWltaVh5TzhYTW1VZHFwT3pDa3hqWllvOWp4U1d5YVZQdFdQcVMySVlQdmhkb1pwN1BmZXY1bUNJUmR1ZnFNU1NmNGFwLV9OT2owN3RUUnNNeVJnUHFVdWpkR3FlcjZzSzU3dzQyQ3g3QVplNjl3VU40NTRuOEJkYUZXQmc5QXEwTkhjQk41Q0tFREtJRV9MYzFqZzZsbkgwZ200Nk5LLTE2a2dPRWxUVkpnY1VxMXBoZ2RBODg5cmdJRTNKLU8xYkJnS0RBWGRsVjZiUEhraFdDR1NLNE15V0hQRTJ0d0tmc2xrMjJBd1lUaVRaMFUw0gHuAUFVX3lxTFBjdS1RbVhZRnNjNGRYcFBKTUdkMU4xLThrc0ZRUDBqYVJjVFExcDN0VTF3TDNCZnE0enFCV25MOENyN0Y3cUhPU2Q5a3h2dVFUdjlzMTVDNG1uOWszakRRZ3NhSE1GZXg4eGxSakJDeHVlbnBSNG5iNW1PdXpYYUVnbnJQUWZyNDVENVNVYWdlbE5xZkUxMkZKMlA3Y2JDMFVoOHMwbHYzdGVBeWt6UGpkay1FRHk2RTl6ZFZDQmtHUGFNcHRzeWRxSEE3dG1pLVZKSGQxZExHYzc0SFFmcTgtTVZrUkRXQjV1R2dhUnc?oc=5",
+          "published": "Tue, 18 Aug 2026 04:10:41 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "How investors profit from soccer even as Premier League club losses skyrocket - CNBC",
+          "publisher": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMktUc0w3Y2sycU9oWXg2VW02UWFYMWlzaGMyWDV1NjlkWV9ZaVRGVUVjZVYydWFVTjlMZ1AyWVpnazVXZ3p2T214QW82WmpMYnFPZ29xNkNUdDJqSXRMOVh5XzlzS3g0bVAzTmNZUWFJTFl3bzRucklRUkpXN3h2V09Kb0Jnck3SAYwBQVVfeXFMTzZyTGVmQU9rc2Q1R0N4Zm9WeEtsUXVQUGxZeWltcHJORUxnQ1FyYmdkN1FJSVVRdTJTNGdoVEVSTWdybHlOVkk1RTBKeDc0ZXFZQ2xDS2JhRTBKb1pWWVkyV0xUd1VYVmxLQk9tdjNadEp5TGlzbmcyNjN0eGpOUUlBaTY3d2ZqZDl0TmU?oc=5",
+          "published": "Tue, 18 Aug 2026 09:09:19 GMT"
+        },
+        {
+          "title": "Soccer-Rights groups accuse FIFA of silencing dissent after COO Lamour’s exit - KWSN",
+          "publisher": "KWSN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEU0eV91eXRaTTRQendMbF9VQzJRR0ZWOFpjYS16UVlTaENZcVdkVUpTV0s3aGVfS1FvSlJtbVNSVnRzaDFkbFNXNlQ0SVc4Y01UcEFUN2NXWjFzS3E3UWtwM1ktZDdBM1hlX29CTjVPS3pQQUUwZUZkM21yWVFRTFlWa2llRTB6Q2txSk9lNGViSm5BSlpTQlFNQm40SnRSR0pBd0UyWGg?oc=5",
+          "published": "Tue, 18 Aug 2026 17:42:53 GMT"
+        },
+        {
+          "title": "AP Interview: Klaveness slams Infantino's FIFA for firing top executive in 'management by fear' - The Washington Post",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUF8zQnlOb283SThmWUo1ZUdUOXZHOG5UZW9BZHp3RFBiWjZRX181d1RGcWl5VjRiaV9VZG4yQW11QTljMlJ4dHI1Mkltdk5oTjJESlpiTHVuLVpzbnJjeEQyYWZiQm01SUY2bXREODdzYllGZXZlZWVOTGRsT3ZJaGxTTEMzLU82VWpZV1MwTVJVQzJnNmZjR1ZvZEZrY2xZOVM3cFZaek10N3FHMzB4Mm44bTExeVRLaW9FdE9xdDJFcjhPRFpmQnRTR25fcXVKRzBfVFZSclM2UQ?oc=5",
+          "published": "Tue, 18 Aug 2026 22:17:48 GMT"
+        },
+        {
+          "title": "Infantino ally insists Fifa president still has backing of most football associations - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0R1dUxUNkFXX1Y2RVhqZUFXdkJTTHZvTnZ5bkRFY0J5MTdDZE9qZnpVclpEQlhDZEhTcGhJRzNCTl9NNmxKZlBKdXNJZU52UjQ5UGNmdm9JVHlMTEFRMTlZWHgzd3Nra3B3dVRJWkZ0WkhZMlh3YmpYeVFoVW5aM3dnWjhpVU5GMTBPUFEzQVNMb2wtUHlOYzZaS2V4YnphTFhBSDFoeWIwNEVTbDlwTjdqQ1hhTzBXMV9iU1NTSHZZek9QMHJZQkNtQndrUQ?oc=5",
+          "published": "Tue, 18 Aug 2026 20:59:00 GMT"
+        },
+        {
+          "title": "Rodri’s journey from a Connecticut camp to World Cup win and Barcelona transfer: ‘Football was his religion’ - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFNXMi1yNkEzYkhlR0Qwd0Rmc25aN1VKb1dHWWxMQ2UtREtoM1ZWb1FicEZNYUJqTDJmbDBRTVowRzM5cmpKb3Z2VF9iREpKeHdPdHVFZzN2WmEwN2V4aFR6Z0tiX2twT3JIbmJMRC1WX1ZYZk1OUTEyMVhMUjhUWTczaGpLaTAtOWs1cWtqUEdiS0RKdUpCbEFOZEhqUWRfY3c?oc=5",
+          "published": "Tue, 18 Aug 2026 04:05:32 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "Hayden Panettiere's Mom Speaks Out After Death: She 'Lost Her Way' - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHNPZWhNMjZNcFp1WERYSnYtd0pncEZwMHBPWlpOYV92aDNzcDEybzY3cjZlR296RXhKTkNCc0VPSEVHMEp6NWVfUVRRakxKQ2toQ29hcWNzdmtmazlfcE1XWlpMdGtneVgtZkJzVmlhVG9iRmpDOVo2U0dZel8wTGMzNW9oby1FcWhXMQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:30:00 GMT"
+        },
+        {
+          "title": "ZZ Top drummer Frank Beard dies at 77 - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ25uMnFSUVB4bTZ1RU43ZlFIRWJjaWsyMkUzRmIzdE9DVE02Q2ZKbEQzX0ZaelpMZTNaRU5VLTVTcFQwcG44eVc3eW03a2hxc3A5dWFUUXRTdVYyTnBpQTc1U3dKNnBMQnhqNnRRVmt0Wk9EWnY3UkRrRHpNMjRuMWdjdk1oVDR6UVVwZHBHRjRmZmtvSXBjUU1UcG0wVUk?oc=5",
+          "published": "Tue, 18 Aug 2026 21:53:00 GMT"
+        },
+        {
+          "title": "Rosie O’Donnell Crushed Her ‘Kimmel’ Monologue by Doing What Jimmy Kimmel Doesn’t - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbl9ieWRKc3BucE84OXYzQV9ZYl9RdTlKejhmcno4SUZsUzJlNlBVU1RGX2M0V2lKX1JSTGZxZ1pmenJmRUpJbGpBUUtISXFNNXBvZ3BNRC1QSll4TEMyM2tvazRpSVIzLUczbFlaRV82a0hRSlpZeGhISk9MWlBYYlphczFVYnBCNFhIUUpXUXJjRlFuTXZxWUprcm1kazJs?oc=5",
+          "published": "Tue, 18 Aug 2026 16:39:10 GMT"
+        },
+        {
+          "title": "Taylor Swift Returns to Social Media With Update Very Few Saw Coming - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzRRbkUtNzMyVTJSMjVxMjJvbHNyVXFHNlMyN0VoWG5tUlFFZmkzdTU0a2xuQ3F2dnJjeXVscER4OThBYS0tQkcxY2dyc2UySktNR19aVFF0MXhERzlaV0V3VEx0ZU0yNTZ3MjNFb3dmOFo1VzMzOTJ2a3ctTVBLaDdzbTJ5S2cwZkJ5Uk1GOXNaUE9aRTh3R3JGSG5iVldD?oc=5",
+          "published": "Tue, 18 Aug 2026 09:07:58 GMT"
+        },
+        {
+          "title": "Some Tupac Shakur family members step out of courtroom while others stay to face autopsy photos - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVm5jaWZuQ1A3V1BBMU1HM1Bia29QNG9NcTBwMnFzb1F2eDlLTkw2aHdwQnRaR042TW5jRVNHZWoyMm1xZXlpenBNdkNkNVVyR2l1NF93ZXZRLTBGY1RBZ2NVUU5jZVdCalk3MWt4Q2pyeExmM28xYnVGZzZmRHB4ZjBPU2oxc1l2RnpzeXR3MEtuUHk3WWxJYy1OdzFlTjJDWWNKRkJsMjI?oc=5",
+          "published": "Tue, 18 Aug 2026 20:22:00 GMT"
+        }
+      ]
     }
   ]
 }

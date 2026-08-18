@@ -1,43 +1,260 @@
 {
   "market": "BE",
-  "generatedAt": "2026-08-17T22:55:11.279820Z",
-  "validForDate": "2026-08-17",
+  "generatedAt": "2026-08-18T22:20:41.429691Z",
+  "validForDate": "2026-08-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "“Even op adem komen zoals bij een woningbrand, dat gaat gewoon niet”: zo zwaar is het bestrijden van bosbranden - Nieuwsblad",
+          "publisher": "Nieuwsblad",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTVhHRDJMQUxwaXRKWjBqU1pRTF82TVlRY3h2TFppaWMtbmdjOVJZOFpHMGZvYVdWNHpxcFZueWQ2Ung2azIyR2lVYU5HWGZuZFRmWjItOVZzUU1RVEl4Tm9MWkNyVS05Nk9aWnNOSkduZy05ZU9UZEtPb0lwU19sY2ktWTd0cXZjRHhac3FldnFuZmdicnl5WFlnZjBLYXdQdC1iUFBBQTJJcDYtdmlRVlBQb1pscTlqQWVpVWxsVDNIb1lMMXhSQXBHaXZuLXFGdlUwMkMxSk5XM2tvcEhweDhVUWhhX2tQZ3ZfYVNSQ1M?oc=5",
+          "published": "Tue, 18 Aug 2026 18:07:15 GMT"
+        },
+        {
+          "title": "Denkt Georges-Louis Bouchez echt dat onze klimaatuitdagingen opgelost zijn als we brandstichters opsporen? - De Morgen",
+          "publisher": "De Morgen",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNN0VzRUhjQ0dkc3c1RmlxWFNPVUt6bGlNWGl4U2k1V0hBZkV5c3pWdmhMaVY0ZDI5ZG1pYmxRVTAwQkszaGs3TlZZZWJNNFJXX1ByYzd5YkxHNnRYbUFiTS1ac0dyN2xtbVpSQUs2NmlSeWVUYzJzb0RWYWdUc1o0MlY4TWM1SUZFLVlJQlVDLXFYZzU4QUY3NG80NWtNMkwyMUdoWjJJcjdUT2ZYREU2SjBDUXc1dGZScUxueDR1NFB3THFaTnRUbmFOb3MtaVFYcDJ5N2wyQmp4RzZ4U09YQkpB?oc=5",
+          "published": "Tue, 18 Aug 2026 14:52:00 GMT"
+        },
+        {
+          "title": "Les Engagés-dissidente redt Lotfi Mostefa (PS) als voorzitter van Anderlechtse Haard, tot ontzetting van haar partij - De Standaard",
+          "publisher": "De Standaard",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOX2xfSDRpQW1zVjZrT0syZVR3aE1BRTJ2M3dScGZzRGhWaHN4ZnZLN202UzQ2YXhTRkxXQnV4RUU5WjQxVHQ1WFJpRHFIWGJnQ05BbTJYTGpQcC1WV0ZuSjhKcTdDbkY5NDEwQm1FTlQtREVfN3dXVHNyS2xQSDlXdUhVUDduWXEzMmtxR0g1OVpKcnR2OHFORnIwSmhIMGI0WDllU3VvcWw1Vl8zV1F0bW9HX0JjOHhhNTdpQVJyZGFySHF0SkY3TDlTcFhfczNhSEV4VGZJOE11T3ZyZ2FPSWlnN1dfSHlqeGJNS1A3U3NRcTda?oc=5",
+          "published": "Tue, 18 Aug 2026 16:15:27 GMT"
+        },
+        {
+          "title": "Bedrijf van blusvliegtuigen reageert na ophef: “Opslag verhuist van Genk naar Wenen, dat is dichter bij Turkije” - hbvl.be",
+          "publisher": "hbvl.be",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWUh0M1RJU3Y4YXlfWG55Vjk5RE9qYkNnNVNkVldLNEw4THNDYVhjUG1Ybl9GaVAyb19BWGp1dFp2czc4MV9YS0d0REFlRGoxVFFHVTc1SEE2ZHhheFhPOTZEcjlKaEZVb19SaHpudENicjNEeld5NGhPMnFOWUlYV2taMU1wYmxPMU1hNmZBZHBvWUR5WlVHdkJHLWZ6UFppRUtCYUlnM3FRMDl5aHRPWjJhYi15OXJJaHc4b3hQMU5KbUJDenJESjlFbEpidTBRekZZZV9XSDVXZW9wbUZvQ1pHbDJ1TGxmOXdQdUpfZDJEaVR6?oc=5",
+          "published": "Tue, 18 Aug 2026 12:47:00 GMT"
+        },
+        {
+          "title": "DNA-onderzoek linkt verdachte van verkrachting in Bazel aan poging doodslag in Temse - VRT",
+          "publisher": "VRT",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMkpHSVE4ekdSVkhINFNhMDNhU1l4WGwwVEVtVHdzTlFXLXk2c2dIdFV5S1pzWkhjLWwyTGFiQXlaVHZ0VFlrTFVrZERRN0h1XzhkdjdFTzBPQ0MwNy1jMUctSC1fY0x3Rjg4a3BrUUVEbFkxUmliSG1WaTd6aWxqbFlJQVZLcEE3azZmRDU3VmlIX3RFT0NoUzhSd1VGY2RCVlp3MDJ2OWs?oc=5",
+          "published": "Tue, 18 Aug 2026 17:04:00 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "VS plaatst voorzitter Internationaal Strafhof Tomoko Akane op sanctielijst - VRT",
+          "publisher": "VRT",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2RPNEFWeFpMdkt4RFBxcnJaS1hpWW1oMlBDQ0x2OWdnMFprU3pwMU9vZWFkUERYRTNmbGlFQUswM2o5QWVJUUVId2ZPX3ZPei1mSk1kNzdhOUU3cmMwRkZ4WnVEUnZQVDdseDBLc2VrOEdtaHllQWJlclY5UVA1U1l6ODMxcl85OGFNcU5jR3dHNU5CTFlueDg4STFsRGxkQTlfdGI1eGs?oc=5",
+          "published": "Tue, 18 Aug 2026 19:45:03 GMT"
+        },
+        {
+          "title": "Hoe radicaler de Israëlische minister Ben-Gvir klinkt, hoe populairder hij wordt - Nieuwsblad",
+          "publisher": "Nieuwsblad",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGJwSWZ4NVdyZldGT2I3NzdVWUIwbTFIYVJYWG5BOHpxUE1fTmM0b0Q3RTFCVVlYcXRyR3pfZUpHY1FXSGNnSjQ4NmtMd2ZuVGxNNlJwVXZFNzBra0xqUU5TSTFJbkgyRzdLdHRjaXJHVUJPaGtWbU5iZ1F4Q19Lb0dlQ0Nab1M0MUF6VXRqODRscEY4MTJJYWFSdlpsUFBPTk50U1ZLVDZfR2xaV2tTZV81M2tsSTdZbzg5Y0JTZTJWNVRFaEtZYTg5UQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:30:00 GMT"
+        },
+        {
+          "title": "Trump viseert bondgenoot Oman en eist controle over Straat van Hormuz - De Tijd",
+          "publisher": "De Tijd",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUkFjaTVzc24tYV9TSl9GNGhaQkk2VHBzWjBLUTQ5T3JDUjhpcGcwVjJGMXFjOGZCcTliX3YxSC1sWnlqQllvRW54THNxSkNzSkdSaDUyeUdtWlJOb1NBR3RKaERpdWtKaGR6ajhYbUJWc2dfOGFnMzVzZ2Y5aDRzUWlnUFp2TEVXSXZfQzh3by1kNHBLNkY5bW1IaXFZSi1sNE1aX05HNGhnZGExOGRYVGd0aUFLSXhGVU1oSGVfc3YyVHFZY2JGZ1ZEaktCZzBr?oc=5",
+          "published": "Tue, 18 Aug 2026 15:04:00 GMT"
+        },
+        {
+          "title": "Moskou dreigt met gevolgen voor VK na mogelijke Oekraïense inzet van Britse drones om Russische doelen te raken - HLN",
+          "publisher": "HLN",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbU5HUTFUUU5MYmtaRm5HNVFqV2pBNUR6MDhYNkx4UWpYZV96Nm5SWV8tU1Rfb0U1cGstRnpLRGdzVGE1cU5IZlpkQndLZExKZWJyUXhZbFB5aUU4OHVNb0FPN2w1ZVNiTldMOW43U1Z5XzZKQmliVWctVmFfYjJvVU9TMUpXWEVydVBMZ1NzSUw4LWxva2J4alY5OHpjanRzTE5QY1ZOMXVzMFV2MzBTa0xMV0kydnB2T1BQeFBHTEtEQl9LVk1fOTFIVENlNzI2Rmg1MmJxR0tYUGtoUG1jVlVQRkNCdw?oc=5",
+          "published": "Tue, 18 Aug 2026 13:37:05 GMT"
+        },
+        {
+          "title": "Lucky kan niet meer praten na een beroerte en de politie weet na drie jaar nog steeds niet wie hij is - De Standaard",
+          "publisher": "De Standaard",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMFlNcDVRaVFGc1YxeDFHMnMyQnB0WEFTMXhwMTI1Z3FiX0Y1dGduMnh1THJva25hVXNuaXhwbml3cTZ1YUlYODM1S2MyY0Y1Ti1nRmU2RDVsZ3lNRTVTWF9zSkthNmxiSk1IbGFFM20ydUhZREpEd1dYcjVkQlh4bGFmOWotVnlfSzZNSmVQd0s3TGNZeVdrUXc3ZnNLNFJVUEtfQmRaQ2VQNU8yajYwSTZ2XzktWkdjWUtDQXNRa2RZMjVEZVl0NWVpS2JoYjdCMHlHNUhCUDEycVYyT3laTWs4OF80dE0?oc=5",
+          "published": "Tue, 18 Aug 2026 16:50:26 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "Isolde Van den Eynde: “Met de fors hogere rente is het geld straks echt op” - HLN",
+          "publisher": "HLN",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2N1SXBQcFlGS295cXIzTlNMZjN0QXR4MnA0a0xDc0VFRW1SeFpvLXFwenRHM1pLWkN4NlhrRWlHQVhJYjJJQ2k2b1RCLWR5a3FvM3F4WmNvalo5eDljSmJvZTVXYlJYaDVDakdlaVlreHA3V2JlMzF2WU9RaTFvMFZzTUVJYjdDZHQ5dnV1Snc0LWlDeUxyaEZkQjRCd1ZWWFdCTmhPanZKTWEx?oc=5",
+          "published": "Tue, 18 Aug 2026 16:33:00 GMT"
+        },
+        {
+          "title": "Als chipbedrijven verliezen op Wall Street, winnen softwareaandelen (en omgekeerd) - De Standaard",
+          "publisher": "De Standaard",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMFFBX3Q1akdBNXpmSjRKa0x3T3gyS1NHQ1ZoNm1FbFl3S2dVb2V3X01WUGFVU0FjbHRlaXhleXpud3ZnOXRwS2pISzR1cDJudnp5VWJHOC1DSXc1bE90YU45Z0x1Zk92WVJ2SEVraG1MX1dmdkp6cFN0UlJjNUVBeV9sS3dKdzBTZ2NDbDRFa19nRk5IQUVWNDVYdTNkU0ZRWTN4YnE4RWVKQ0wyN09lVHJ2MGFvSmRxX3RhaDUwbTU5OUNXSm5Tb1Z2RXV4TUk?oc=5",
+          "published": "Tue, 18 Aug 2026 19:02:09 GMT"
+        },
+        {
+          "title": "81 klokken, 6,5 octaven en 60 ton zwaar: Katoen Natie bouwt grootste beiaard ter wereld in haven van Antwerpen - VRT",
+          "publisher": "VRT",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lZ0tyd19fOEw5bm9zcjBGWG1NT1JicDdGM3BodV9TNklocVBYSUtBcjRUcVRaZG5OdUdTcGhWT2E4SWZuTjV3QWZRc194QW5KaW5WYjJGSm40OGYxQ1F3aTY5WVlsaExoSndHWWh0ZE02OWJCWVRfTmR3?oc=5",
+          "published": "Tue, 18 Aug 2026 15:33:27 GMT"
+        },
+        {
+          "title": "Onterecht afgetrokken btw en “fictieve factuur”: fiscus eist ruim 19 miljoen terug van Marc Coucke - HLN",
+          "publisher": "HLN",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZV9IUVFZOXFWSzZQQ3lrZ2xlWk94UXJKdFNCWUtwcW5YSUsycnVGdzVGRHpBajNXWlZQVE5EZXVPdnBUREgtdUhfcnpJNjlhSjRvcTAyeUlGZ2I1ZjZtOE9xeU1ZZmQ0UDR5enQxckhBTnZHOTVmbVk1R21RaEhYLUJfZDBtc1VPUm9EdXg5a0tpdk9qWXF4X2xjYVVlZExrajBlWTlPN3FpSVlFNllZeGs5dkppWHI0Yy1SdGdRTzZrRXdNcW9GOQ?oc=5",
+          "published": "Tue, 18 Aug 2026 13:41:00 GMT"
+        },
+        {
+          "title": "Nu er met Plug Power weer een bedrijf afhaakt: waarom het bij ons (nog) niet bolt met groene waterstof - GVA",
+          "publisher": "GVA",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQzFZaXhISDNXcGgwSDlZZklHeVkyOU9qZWg0WjE2UmRlMlFabkJWMFIxWTBPWWFWQWV2a3hfX2FZRnBHdVRWdkp2UE5URk9zbDhCTUk3WDJoeEMyb01tLXE0STBYcW5wZm5fM1JHLUptWWNGeW1kZHdwNnlWRGYtTWJPcUdBR0NyRTFGYkZyakVzejFrcmFkQkhlWUk3eWxzZm9tRjRWWkJmRWRuWUhSOFhYcDdLdEMyaWF4aXVqcnRfbVhXLTdYWGVhZEEzamUtT2otdmRfLWlIYUtUU1F3MVJ6M1FyaGQ2ZU9IZXdSc1ZrNUFGOFE4WDJyRTU4Wi1LcXVfSlpR?oc=5",
+          "published": "Tue, 18 Aug 2026 15:12:33 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "LIVESTREAM: Red Panthers verzilveren dominantie en gaan rusten met voorsprong op WK hockey tegen Spanje - Sporza",
+          "publisher": "Sporza",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYnJSbklRZWxJbHlYS182UWk5OTVTOFRaYS1OZlFpbnV4Zy1IekwtOWpZVHY5bFlaTWlqeGhNYmVqLXhXOHR1eHJvWWM2c3ROQTJCYnJWWWFDeHZKWGVHRjVIYmxtSk1lU1lFNEZrVGh2eVpFQnJ6OUtjaDUzN2RnRk5kUWp6Y0xmUkE2aUJ6bWVES0dhalM1OFAxR3Z4bHR5ZmFZdGZnNzhPTDdkVWlZNDJRZEhQcHpzZWJJelhtbm1oSzYwTnNUeUd2STFUMkp3RG1KLUxlbWhtWHMwNzZTeTl4ZE0zVklNWUI5TUtuZHZna2M?oc=5",
+          "published": "Tue, 18 Aug 2026 19:23:23 GMT"
+        },
+        {
+          "title": "Bondscoach Mark van Bommel woont debuut van Romelu Lukaku bij Fenerbahçe bij en zal ook gesprek met hem hebben in Istanboel - HLN",
+          "publisher": "HLN",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMkxMcTJCbk9HTkotaHIycEJrajFYTG15VzFDR3FETjZmZFppZ1pBektoRHZSbGZpWjFTclhMTE45eThjY1pWTnpfVjNaMnI3SndSbWlISTh6TzdUTUFYOVJ1Q3RiMS1teW8yVDc5dFJvZ01kcUlyNW5EMGZFZzl2T3REeTBWeGY3Ry1rQXRVV2tFVjNhVUVXYXFKSTVLVXBITllLbkdLVTRKdGRNb0FQUl9wZWNqMjBOTDB2Y0FmWEJvN1AxLXdwTGQ4bzhjWVB5V2lnR3dmQXhOQ3RZRHNGbWVpUTByX3E4dnJsdkRGeEZEUWs2RHpVWlZSNHJTZW5hSVE?oc=5",
+          "published": "Tue, 18 Aug 2026 19:21:00 GMT"
+        },
+        {
+          "title": "“Een stap uit zijn comfortzone”: Fabian Cancellara over de overstap van Arnaud De Lie naar Tudor Pro Cycling - Nieuwsblad",
+          "publisher": "Nieuwsblad",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRUllUHhDcTBRTUlQdmhCeHFEcDhsZEY4Sm1ydVZMUmVXZjE4TTBvdWJnZ09zVGNzRkFqMG5LZzZBVWJPQk9pMmJjU25YYTh4X0FnZVB6M3ZOa2R2U1JaVVFmNEJoZnFpU3MtLWx0S0ZyNnhnd0l1cWtDYnJRZWNhV1NyT2puWS13UzdlRnpBSE9pX1ZxSWl4SThBZGl3dHg5X2I1d2lndFpYSEROTUVtQ1pwclhnblZiVkVRbUdVX1J4NklVMjJDYzN3ZzU4dTBVM1M0dDdNM29DMHJfMlNtenV1cHVtVVZEWGNHNTQ2QkZmcjdkbU1oSVNjUFI1RFM0eEV1T3ZIaFo?oc=5",
+          "published": "Tue, 18 Aug 2026 10:00:00 GMT"
+        },
+        {
+          "title": "Alleen maar lachende gezichten op de luchthaven: Belgian Cats vertrekken met 14 op WK-stage naar Tenerife - Sporza",
+          "publisher": "Sporza",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbE5jOXkwOEs1MGtUTWZWdTFSMlFhOUJrNXFUbldIaXVMSENMamluR2JidWl2dWNhNUZYRUE3S3VtM0RJWnBqYUZVVjFCQW92cDVfeE10aV9keDAwalJOYTlOY2gzWnU0WmgtQVhMZm4wR0J6a3RqODlZMXliNVZzNFMtQTFQWEFJRkYxN3FDcWJ1c1diMWZQenF4Nk1zQ2NxVzhsZzgwbG5TdGtIWmstMTBua0ZObzRRZE40NC1UbnVxR3VBN2dYTUVfMHotaHhjUm84cDJXZWpSdk1uRVBYYXJJaF9aZw?oc=5",
+          "published": "Tue, 18 Aug 2026 15:14:05 GMT"
+        },
+        {
+          "title": "Sprinten met Merlier, Philipsen, Kooij én Milan, De Lie verdedigt zijn titel: volg de Renewi Tour 5 dagen LIVE bij Sporza - Sporza",
+          "publisher": "Sporza",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQd1RraVZ0am0tRFhlVnBEWEhZZU1zcHJtOGRqdnJZWlVYOENIVC0tY3Rja3N3TTR1dlRhUGw1akJIcFRoTWJoU3ZiWTNWbFVMN2h3ZzZqRDJPWEhnYVdjbTJjRy1LclFwcDhwbTFaaFBJakV6VG1mZzNtWkl0MmVPVnI5RElrNlVNZUl5b2RQWGJmZkw2TE85VDQ1Zks2QkdROFhWalBkZlY3X2VhUk1qOEdVQ3VnSHlTVzB1bG1uc20yRXNmYkY4czhnUThfcHdUcTBuWmM2SDBMdW5ZblhmUzRBdWliNjYzdmxnTXNPUDFZdHFZbXpJ?oc=5",
+          "published": "Tue, 18 Aug 2026 13:23:51 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "LIVE Oekraïne bestookt Moskou met ruim 600 drones in een van zwaarste aanvallen in jaren - VRT",
+          "publisher": "VRT",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenpZY2ZXVWpzOG5vZmRxWXBvR2RNaFNYVldQSUZoRXJSTUE0dENOZDNIV0xJSi1oU0FFUVRYX0k5c21KX2tvcEVfdkNJa0VwekpDRE51UktBUk1RWXRGLUx4RjB3ZjE0c1ZBbURiYi1ueHNSYV9WR3BSc2FPUWVTNEphejZMZmZmcEpIMEhjVVpjNkdUWS02R3pNYmVsM3ktcVJVWE1YWVVvRHlSNGp6eUlHSllxTWFi?oc=5",
+          "published": "Tue, 18 Aug 2026 12:11:31 GMT"
+        },
+        {
+          "title": "Vermoedelijke Russische drone neergestort in Moldavië - Rusland valt twee vrachtschepen met wapens aan in Oekraïne - HLN",
+          "publisher": "HLN",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdEhuOXNMTzZCSFNvTk5yeHI0LWgySWZrTUxqamdfU0JsNDFCbUNCQWswN0pnVFlQSFpnYnBSbTUtY1FUSHpsdHh6aDlrdmRrWXZDbFRqRTc0eU40RjZ1VmcwSHlMajd1RUxhbWFwNUs5OTE3bVo3X1VsNHVVYU5aMU9fdmZGN3RPNmNENW41b0RPaG1TSnVTSFIxTVpkOXMyc2hGT3kzTHIyZ0FDU0JaMTZLV3ByZnJhckJncHZTNHNrd3BQTHBtSzhrXy1EVlRJUWpXd1NKUGQ1VG5SMjBhRG9EbWpwLXM?oc=5",
+          "published": "Mon, 17 Aug 2026 20:40:02 GMT"
+        },
+        {
+          "title": "Rus steunde Oekraïne met crypto: Binance gaf zijn gegevens aan Moskou - BLOX | Nieuws",
+          "publisher": "BLOX | Nieuws",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWJXS0stM0VibVdBUUhXYU9oS18ya0lHNUg1c0l3QTlWWTFrQ3V2LThiUFYwTnNxS2xTZ2FSODN5NVBDa0dPRVpGblJQMlVTLXU1TFlsOHhwNk12TDZSQjFialptOHpnSmllZ2RDVnYwQU5EUkVUR3FnQnBwdmNtTGl5anRRZG1kUWV2S1preVJFV2p3ZHljQkxkeWhndw?oc=5",
+          "published": "Mon, 17 Aug 2026 12:49:10 GMT"
+        },
+        {
+          "title": "Google koopt data van failliete luchtvaartmaatschappij Spirit Airlines om AI te trainen - HLN",
+          "publisher": "HLN",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXhTSlVYVlNZaS1kbW1NenQxZzVhY0JtdjBaY3lqUmhaN2Rwd3JIQ2diMk9kTlBQYmNiT21YUHlRcXRtZlJ5a29pQ2FVcElDSzM3UjFXNUZCNDhYa1QteHJDdjJMdDN4RDIxUW1iaXdUZ3kxRnQ5dmJJNnNOdzdDbDJtbFNqY0ZIMW5MZjd1b3E0M3JsREsyUlNCNUVSVkhYNWpWaXVpNmUxRFhRUGI1WGFWMzB1YzBOV1F4RFFR?oc=5",
+          "published": "Tue, 18 Aug 2026 07:02:25 GMT"
+        },
+        {
+          "title": "BlackBerry maakte smartphones die niemand meer wou. Vandaag is het bedrijf terug, op ‘een markt die gaat exploderen’ - De Morgen",
+          "publisher": "De Morgen",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMVZ4OFJWeXV4X0pKa25fcUttQUkwQllnb0dkRHdnOHpmdDVFa0d2ODR3Si1CV05ldzlfeDJUQU5qd1pyekQwOW9lU2d1cmg1REJBSk9lcVQ5dzRiNUNZVHM5NmdaaFduWnRvV2tuQnFmbjFjbUNGUDNvX1FaSS1WYm9lYnMtQVZuQUNHbURQQlBlREVlZ0lkOTA1QkR5RHpMcWxKcXI1dVdncl90TUZLakFtYUlSQ1hpS0g5ak5VcjVJaVljc1ZHQm9FS1l3MXF4VnVyVUphV00xWTFiTHVSc2V1ZXNoRWpr?oc=5",
+          "published": "Tue, 18 Aug 2026 01:00:07 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "How investors profit from soccer even as Premier League club losses skyrocket - CNBC",
+          "publisher": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMktUc0w3Y2sycU9oWXg2VW02UWFYMWlzaGMyWDV1NjlkWV9ZaVRGVUVjZVYydWFVTjlMZ1AyWVpnazVXZ3p2T214QW82WmpMYnFPZ29xNkNUdDJqSXRMOVh5XzlzS3g0bVAzTmNZUWFJTFl3bzRucklRUkpXN3h2V09Kb0Jnck3SAYwBQVVfeXFMTzZyTGVmQU9rc2Q1R0N4Zm9WeEtsUXVQUGxZeWltcHJORUxnQ1FyYmdkN1FJSVVRdTJTNGdoVEVSTWdybHlOVkk1RTBKeDc0ZXFZQ2xDS2JhRTBKb1pWWVkyV0xUd1VYVmxLQk9tdjNadEp5TGlzbmcyNjN0eGpOUUlBaTY3d2ZqZDl0TmU?oc=5",
+          "published": "Tue, 18 Aug 2026 09:09:19 GMT"
+        },
+        {
+          "title": "Soccer-Rights groups accuse FIFA of silencing dissent after COO Lamour’s exit - KWSN",
+          "publisher": "KWSN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEU0eV91eXRaTTRQendMbF9VQzJRR0ZWOFpjYS16UVlTaENZcVdkVUpTV0s3aGVfS1FvSlJtbVNSVnRzaDFkbFNXNlQ0SVc4Y01UcEFUN2NXWjFzS3E3UWtwM1ktZDdBM1hlX29CTjVPS3pQQUUwZUZkM21yWVFRTFlWa2llRTB6Q2txSk9lNGViSm5BSlpTQlFNQm40SnRSR0pBd0UyWGg?oc=5",
+          "published": "Tue, 18 Aug 2026 17:42:53 GMT"
+        },
+        {
+          "title": "AP Interview: Klaveness slams Infantino's FIFA for firing top executive in 'management by fear' - The Washington Post",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUF8zQnlOb283SThmWUo1ZUdUOXZHOG5UZW9BZHp3RFBiWjZRX181d1RGcWl5VjRiaV9VZG4yQW11QTljMlJ4dHI1Mkltdk5oTjJESlpiTHVuLVpzbnJjeEQyYWZiQm01SUY2bXREODdzYllGZXZlZWVOTGRsT3ZJaGxTTEMzLU82VWpZV1MwTVJVQzJnNmZjR1ZvZEZrY2xZOVM3cFZaek10N3FHMzB4Mm44bTExeVRLaW9FdE9xdDJFcjhPRFpmQnRTR25fcXVKRzBfVFZSclM2UQ?oc=5",
+          "published": "Tue, 18 Aug 2026 22:17:48 GMT"
+        },
+        {
+          "title": "Infantino ally insists Fifa president still has backing of most football associations - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0R1dUxUNkFXX1Y2RVhqZUFXdkJTTHZvTnZ5bkRFY0J5MTdDZE9qZnpVclpEQlhDZEhTcGhJRzNCTl9NNmxKZlBKdXNJZU52UjQ5UGNmdm9JVHlMTEFRMTlZWHgzd3Nra3B3dVRJWkZ0WkhZMlh3YmpYeVFoVW5aM3dnWjhpVU5GMTBPUFEzQVNMb2wtUHlOYzZaS2V4YnphTFhBSDFoeWIwNEVTbDlwTjdqQ1hhTzBXMV9iU1NTSHZZek9QMHJZQkNtQndrUQ?oc=5",
+          "published": "Tue, 18 Aug 2026 20:59:00 GMT"
+        },
+        {
+          "title": "Rodri’s journey from a Connecticut camp to World Cup win and Barcelona transfer: ‘Football was his religion’ - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFNXMi1yNkEzYkhlR0Qwd0Rmc25aN1VKb1dHWWxMQ2UtREtoM1ZWb1FicEZNYUJqTDJmbDBRTVowRzM5cmpKb3Z2VF9iREpKeHdPdHVFZzN2WmEwN2V4aFR6Z0tiX2twT3JIbmJMRC1WX1ZYZk1OUTEyMVhMUjhUWTczaGpLaTAtOWs1cWtqUEdiS0RKdUpCbEFOZEhqUWRfY3c?oc=5",
+          "published": "Tue, 18 Aug 2026 04:05:32 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "Hayden Panettiere's Mom Speaks Out After Death: She 'Lost Her Way' - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHNPZWhNMjZNcFp1WERYSnYtd0pncEZwMHBPWlpOYV92aDNzcDEybzY3cjZlR296RXhKTkNCc0VPSEVHMEp6NWVfUVRRakxKQ2toQ29hcWNzdmtmazlfcE1XWlpMdGtneVgtZkJzVmlhVG9iRmpDOVo2U0dZel8wTGMzNW9oby1FcWhXMQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:30:00 GMT"
+        },
+        {
+          "title": "ZZ Top drummer Frank Beard dies at 77 - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ25uMnFSUVB4bTZ1RU43ZlFIRWJjaWsyMkUzRmIzdE9DVE02Q2ZKbEQzX0ZaelpMZTNaRU5VLTVTcFQwcG44eVc3eW03a2hxc3A5dWFUUXRTdVYyTnBpQTc1U3dKNnBMQnhqNnRRVmt0Wk9EWnY3UkRrRHpNMjRuMWdjdk1oVDR6UVVwZHBHRjRmZmtvSXBjUU1UcG0wVUk?oc=5",
+          "published": "Tue, 18 Aug 2026 21:53:00 GMT"
+        },
+        {
+          "title": "Rosie O’Donnell Crushed Her ‘Kimmel’ Monologue by Doing What Jimmy Kimmel Doesn’t - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbl9ieWRKc3BucE84OXYzQV9ZYl9RdTlKejhmcno4SUZsUzJlNlBVU1RGX2M0V2lKX1JSTGZxZ1pmenJmRUpJbGpBUUtISXFNNXBvZ3BNRC1QSll4TEMyM2tvazRpSVIzLUczbFlaRV82a0hRSlpZeGhISk9MWlBYYlphczFVYnBCNFhIUUpXUXJjRlFuTXZxWUprcm1kazJs?oc=5",
+          "published": "Tue, 18 Aug 2026 16:39:10 GMT"
+        },
+        {
+          "title": "Taylor Swift Returns to Social Media With Update Very Few Saw Coming - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzRRbkUtNzMyVTJSMjVxMjJvbHNyVXFHNlMyN0VoWG5tUlFFZmkzdTU0a2xuQ3F2dnJjeXVscER4OThBYS0tQkcxY2dyc2UySktNR19aVFF0MXhERzlaV0V3VEx0ZU0yNTZ3MjNFb3dmOFo1VzMzOTJ2a3ctTVBLaDdzbTJ5S2cwZkJ5Uk1GOXNaUE9aRTh3R3JGSG5iVldD?oc=5",
+          "published": "Tue, 18 Aug 2026 09:07:58 GMT"
+        },
+        {
+          "title": "Some Tupac Shakur family members step out of courtroom while others stay to face autopsy photos - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVm5jaWZuQ1A3V1BBMU1HM1Bia29QNG9NcTBwMnFzb1F2eDlLTkw2aHdwQnRaR042TW5jRVNHZWoyMm1xZXlpenBNdkNkNVVyR2l1NF93ZXZRLTBGY1RBZ2NVUU5jZVdCalk3MWt4Q2pyeExmM28xYnVGZzZmRHB4ZjBPU2oxc1l2RnpzeXR3MEtuUHk3WWxJYy1OdzFlTjJDWWNKRkJsMjI?oc=5",
+          "published": "Tue, 18 Aug 2026 20:22:00 GMT"
+        }
+      ]
     }
   ]
 }

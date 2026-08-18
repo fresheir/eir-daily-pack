@@ -1,43 +1,260 @@
 {
   "market": "CZ",
-  "generatedAt": "2026-08-17T23:17:11.654319Z",
-  "validForDate": "2026-08-17",
+  "generatedAt": "2026-08-18T22:21:06.258937Z",
+  "validForDate": "2026-08-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Česko trápí rekordní sucho. Půdní vláha chybí téměř na třetině území - iDNES.cz",
+          "publisher": "iDNES.cz",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYVFabDh4LVBweEhzMEtFbnUwanV1UVNKWU0ySkt1Nl9MemZZdVBlbDNkSFdoLVgwcjdSTzlzV1VRX3dGOHZDWDVldS1xWnlPcGdkVTlZcGVVRkxYM04tbnN1bHNPdzI2eGtLb3J6eHIwbXhxMzJrd0FWSGtCVGE0aV94WVBQZzFQZmFpMTN3M3pEbGFYc3B2cTE1VC1CRDFIa0JmX2kxb3phQ0hKVFZBLWstRE5QQQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:28:00 GMT"
+        },
+        {
+          "title": "Zemědělství dostane o stovky milionů víc, řekl Šebestyán po schůzce se Schillerovou - ČT24",
+          "publisher": "ČT24",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU1VrcU5JVVhlV3JGX0VZQlluQWRkMm9ORmh4NTNaa1d4bFVEME8ydGhvanc2OXBPVXk3OXhKa25aaGk4aWRFVWZTdUVJY0ZoUUJJM2JvbVRMSnRWb2p4S3ZjZHZVMS12bEV6MzhNenVNTl9rWUp1ckw0WFk2UVVDZjlLa05oSlpLVEtBM0VZbWRSSmt6MTM2cTlqRGhpZV9tbEFXV1Z0dU54aGFoOWtMdm1ucmw3RVNCU0c5Wm9DaXVwTnBtY003OGcweWtXV1o4R3c?oc=5",
+          "published": "Tue, 18 Aug 2026 11:57:55 GMT"
+        },
+        {
+          "title": "Jak se kozel Babiš stal zahradníkem a bojoval proti suchu - denikn.cz",
+          "publisher": "denikn.cz",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWl95SEZjRFg5d2sxZS1NQW9qdTQ0NWxZTWVaYUNscWs1UDBRZnB1N3EwZ3hySGt6Z0ptNXRWeWk2eDlNei1mN1dXR2hKSENmQVhZX19oRG1xaDlyRWtxNmEtVWU1dEJ3OUFwOUtCbmxOc2xtbkNmajNQVUMyUlFKaG4zem54M1FlUVdTMQ?oc=5",
+          "published": "Tue, 18 Aug 2026 11:25:21 GMT"
+        },
+        {
+          "title": "Resort opět jedná s Tykačovou Sev.en. Obce o peníze z rekultivací nepřijdou - iDNES.cz",
+          "publisher": "iDNES.cz",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ3BVQ25JcFVGV000ZFVPc0FLcURpd0tmTHVzeEVVZzBDY1FNcno0dWNDSG1GTkZWUDk1eEZKbDBNTG5qNllicURQdE5CWmxvLTNLSkdWQjlGam5vejlJdWV0cDZTMTR6dkJyTTVSbE9TakFvMU1KckVRT2FNZlRCSGE4SXc3STgwNjFZZnNjRnY5TVJ5Ui1oTWktNTFuUUVEaVFQM18zTmYxNGtBWDVLVC1VdzkzREJ4R0FFSnVhazhnSjA1cmsybTZnX01XdXpSZ0xOVHhYNlE?oc=5",
+          "published": "Tue, 18 Aug 2026 16:10:00 GMT"
+        },
+        {
+          "title": "Vedra v Česku v grafech: Už teď je jasné, že se léto zapíše do historie - Novinky",
+          "publisher": "Novinky",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0tQWGVubHY3WDgtbF81ekZDOHV4b3hzenAyUGFnYl9XbU9CMTcwTVh2dFVYeXYtbVJOMk9VcmhVSlBjVHQzNjF5dHR4Y2YxWFN6TXN3OXkwcXlxa0hFWWVxNEZZRDdzcmQzeVJ4WU43dnJZbktZNjFNOGVyazBvNWVIaFFFTmYwbkdtNDQ4UjVzczllbmZ5NFctQVNlMGREVUFEYUxYeWxWYkw4WmptTnJOWFY5dw?oc=5",
+          "published": "Tue, 18 Aug 2026 19:13:00 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Trump označil Hormuzský průliv za americké území, podle Íránu žije v bludu - Seznam Zprávy",
+          "publisher": "Seznam Zprávy",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUG1mOFM0aEUzT3Y0ekp1ZnpTRWl3TmZXX29fcUd3TV83cmIxNGhpeUZtbGtjbEJraUJpVk4tcm1EeFZNS3RpT0VWdFVGQTByamd1X0IxMWoyMkhTVl9IVmZ1WURwT1dyeE82TGRwODRTSXd1UUNjbWVOWUZGdm5PLU1BQ0w5aXlnVWVNUjMyRlY4UFBmRENrSVA0bnFaN3JLQXVfNXpUNmExYXR2MTFwTkFPTlRRRG9aYVhQNDVCVHdIcUho?oc=5",
+          "published": "Tue, 18 Aug 2026 19:28:49 GMT"
+        },
+        {
+          "title": "Fedorov vyzval k uspořádání voleb na Ukrajině - Novinky",
+          "publisher": "Novinky",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQzBCaXR1VEIwTDlyczBIc0w4anVBY25OQzhieXFyZVZHeHVOdzRCMzZod19YclFjSFFmcFZBV2t2eDBScjJSR0Y1M1dna3JYeGhDaFJVU0tqWTFiN1FyeWV0cmUzTzR1ei0td3Q5RHY5UVpJT0p2WDVnd3kzZTl2b25JOE1DTlFrZjd0akhWeTIxUjB3RTAxUl9Hd29lZUVnU0Zv?oc=5",
+          "published": "Tue, 18 Aug 2026 19:28:07 GMT"
+        },
+        {
+          "title": "Ve Středoafrické republice se zřítil zlatý důl. Nejméně 30 horníků nepřežilo - iDNES.cz",
+          "publisher": "iDNES.cz",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQk5nSWhtWmcyUjNkdWc1X0tNRkRTWFhHRXdEcHhEWmRVRHp2Q1NzajBUYzBJaEs5UU9tcEhjMVFwRldocnpTM0g0eDdLaXM4MjBsZFdDQnp5ZDRsS2lWNTNTdHBjT3ZmcmpGbHgyRmF3NVRlamFSbGF2RnVVWFFuZTZMQ2lZUDFuYUJjWTdiUXJ0SWtVdWVPZVFYTk55Sk0yZ2NnSlRwYkVlMzNOVWFnS3pvN3hrY28wc1N5R1NPUXB1RUd0bDFBNklR?oc=5",
+          "published": "Tue, 18 Aug 2026 20:53:00 GMT"
+        },
+        {
+          "title": "Muž na Slovensku čelí obvinění ze sexuálního násilí v sanitce. Dostal elektronický náramek - Novinky",
+          "publisher": "Novinky",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT095eGRSblR6dVY4Tk1BbjFqb05wbTZEM1hkM0NZbXcwbDBHOE1NdEptbnV3YnlLRDgtcjN6Zy1zTTZ4NE90NnY2M2dTaTJqZ2FvT1ZESkhMdUp2UGRHa2lld09sa3NMU0YtTDRwX0tPRWlndlZXNmZLM3ZISWtvTi1hTkFQNkFqQmF5RXY4WlNxMXpnd3l1MWQtNkl3bTJ6RVZfMHRmQ2Z4eUhiWnc3Y2VVQ1dxQXJvWFRwLXJCdTBPek0ta3N2VkdqUUpRMmNSenZVUW10RnZIN282RDVz?oc=5",
+          "published": "Tue, 18 Aug 2026 20:07:02 GMT"
+        },
+        {
+          "title": "Rusové zabili deset lidí u Charkova, Ukrajinci poslali stovky dronů na Moskvu - ČT24",
+          "publisher": "ČT24",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSlZqSl96ZVlyVWhSS2psVmZTd1hMcWItSElkcXlVYm1HZXZ4cEhtbGRUcXpTNVUzd3V4R0xwZi0xRkhfSDVfV2ZwQmg2X3NZWV8xSHotZkVmaktWZ3Y2NFZHd05vcC1hdEFnTElHLTg1RkpiWnRfT2dqZGk5LThMSDBER0pCWmdnWDl2MHd3bDZDUk9LNXZ6S29iZHNhX2NvQ1NjbV9fclo1QQ?oc=5",
+          "published": "Tue, 18 Aug 2026 06:06:26 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "Apple mění systém poplatků pro alternativní obchody s aplikacemi v EU - Seznam Zprávy",
+          "publisher": "Seznam Zprávy",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM2VDZjR5VlA3d0xTSS1lN3VIdTIzM0xBd2xTZE4yc3ExZ0xHaFpmSGs2dVJUSGNmS3V3c1RCeXBxRFJfUHZsQzd3bjFTeXNyNHFPaTlERFFxd0NqbzNwdnJkU1hDdXFkZGdmbnMxaW0tc21DM2xXMmJXX20ydjhsQ2V1Y19vc2x2VTd4TE14R3J4b2ticUdzcWI2b0Y3VzJLZDJ4aXlILUIyOENtTzJHSTNOZDFMaGM0Rmx1Qk44bw?oc=5",
+          "published": "Tue, 18 Aug 2026 18:05:55 GMT"
+        },
+        {
+          "title": "Největší tuzemské bateriové úložiště je v provozu, primát si ale udrží jen chvíli - iDNES.cz",
+          "publisher": "iDNES.cz",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmg3SWFjeGRSOUhhQ2tXWXJ6Z1VwZ2UzR1lWR0dsLTlRVkNVX2I2YWEtb0hRSWd6Zzc1RlJmRWZzN0N1YjFLTm9GTDJQenJSWXFzcFVvQ0FJalBUbmg0TEw2Rk9aQVVBd19rb3hLZDJmclRVUEFJdzBIT3hqcEoxREtEX3FnWWljRHJ3M3dGZ2hMdkIwY1VvR3BlY1ZlXzJCNHRjc2xXOWxTcXNKVU85WEkwb0ZpUzFSSXRYcWNXVmExa1E?oc=5",
+          "published": "Tue, 18 Aug 2026 12:08:00 GMT"
+        },
+        {
+          "title": "Lidl navazuje spolupráci s Airbank. Zavádí novou platební metodu - E15.cz",
+          "publisher": "E15.cz",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObzg1MUxraV9oaUVjLTRrakl4cnRXSHNVTkdSeWpySW12c045SGRISFROczhNSEVZRVpuemZCeHhiRi03VGJhcmJCbm5GdlgySnVWSzZxRDZab3dLeXB6VTl1T3RfWjVDMWlTVmpHWmI1WGVUTlRFYnA3TEs3ZmxKd2QxU3RUY0lIMktUVGtUSFplTzhXR05fcVY4Y3gydGg1c1FIT0dVWDV1aHJ4Ri1ZVm45VjI?oc=5",
+          "published": "Tue, 18 Aug 2026 08:50:00 GMT"
+        },
+        {
+          "title": "Čína vyváží tolik aut, že jí docházejí lodě - Novinky",
+          "publisher": "Novinky",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVlM2N3liQlNhVmpjT1ZiaWptX0x4NmRJZjFVR210eHhHQm54YWo3VDMyeWZXWWltd01zaTQ1TlNEMWZPYmFjS09ZeHhDMUFVSXNVLXllT01NbVRDdTBCd1I2eWpCM05xY3RLcndtQWtRWTM5ZXNUd2pnaGhHTGNqV2l2WDBCNlpMcXdaa0I0MFR0S0JUc0E?oc=5",
+          "published": "Tue, 18 Aug 2026 09:39:05 GMT"
+        },
+        {
+          "title": "Majitele Facebooku žaluje třicítka států. Pokuta ho může zruinovat - Novinky",
+          "publisher": "Novinky",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWlhZQl80Q2NvUzN1N1Bldk5vYzNyQmtlY0Rld1llUGtZc0J0QzRWQUhZS0RuZ3pBNFNralJ3VWl5M1N5aE9makJwWC0yUXEyTDljLVY0YmJsQjB2YTBlb2d3TWNXYklFbk83ZEw5Z2M2Ym93WUZEY0g4bTZzaGU4VmRpQnl5SnhWVVhRby1jMW4zSlBRbnVzbzhFaXN4Sk9vTU5FRTlDbzgtSVkweHFKZGE2V0s?oc=5",
+          "published": "Mon, 17 Aug 2026 16:18:22 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "Valentová může litovat ještě víc. Brutální kolaps v Cincinnati má hořkou dohru - Sport.cz",
+          "publisher": "Sport.cz",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2RyYVVVZXdUVW9Jd1RySzN4LUljT1NfMnRuTWdHRjlJZDVMOXlEVjlQd2wyU08teTJQLXl6di14OTJBbVUteDVjUnU4WFlUZFZIZFlaNzdIWmNXazZzNW04UHB1WTQyckVKZzVlZ2FWUzNIay1jNkdVT1NvX1p3VDZDaXNBUEZRb0ZiUUlvUWtyV2RlYzAyT3FxX2hKZzRoR080c0tCNEgyUnVRcVp4NDVsYWxvM0xTSWhJ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:13:28 GMT"
+        },
+        {
+          "title": "Co se děje s Musialou? Opora Bayernu zkolabovala ve druhém utkání po sobě - iDNES.cz",
+          "publisher": "iDNES.cz",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONVdiOTYtX0ZoOUNsMjdYcVI4ZFMzWkZjbGlyLVk4LW9iaGpETldKSlhEN1VCZFZXMy0zMFBCZ2t0bk9KQzJUcnd6Nk9NQjdFWFZGLWh1UTdiNW9OOHhPakhtZDQ1cXRWQ1BISFdKLWZDTWdYeHBZclVEYy1CT21CbEdhTnRjT3M1YTROSkY1My1UNWh2RG9yRmp2djhHU2E3NWtHby1rZU8ySVhoSXJ0dlBldUVJTGdkNkxkZUZ2eW1oUzg0QkpLT1VSekpNbEJTOTNZcW9EVzNWeHc?oc=5",
+          "published": "Tue, 18 Aug 2026 19:09:00 GMT"
+        },
+        {
+          "title": "Strčili mě do prasečáku, stěžovala si zlatá atletka po návratu z ME - Sport.cz",
+          "publisher": "Sport.cz",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1FIejl2ZUlrX0E4WTVGUmh4Q3M2QWJmLU5YUndsWmF3QzRvalQwZjcybnFpLWNGVHdwWFk2cE82T0xzZm1oWmwzNzlmc21fX3doUzBfekVYb3RpWFRTZVcwS3Frd3A0eDVkcDdkcWQxWFV2cmozY0Y2Y2FqT2FfZUJOUXV3UEdxSnVBcnVSUXpIanJXdnUtN3d5di02T2tESFZ4enN0M0xBRXJ3SXRtZg?oc=5",
+          "published": "Tue, 18 Aug 2026 18:00:38 GMT"
+        },
+        {
+          "title": "Velká posila potvrzena: Rodri opouští Manchester City a přebírá otěže v Barceloně - Eurofotbal",
+          "publisher": "Eurofotbal",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjVqR3ZIWXhDVVNXczB0NktldjFjWlVDMnM4blExZERINlBBY0NDN2xhS00wV3dvZTJiQkpBV1Nla1ZrVHl2M2x2ZnNNOWl4RU1RS2I1MHZ3SXdmYlVBUXV6N0NqcTJRYS1tUFBsdW9ydzJidldiZG1oZm1UbEVhSklKVDUyaVdaVl90czBYa01wZS16bGFUUW5BOW5fZWo0MWZ6VTVmbEo3SGhFQUw0UnM1SzFiTEM2d2FPUXJR?oc=5",
+          "published": "Tue, 18 Aug 2026 20:25:39 GMT"
+        },
+        {
+          "title": "Boleslav padla v Jihlavě, s prvoligistou se dlouho trápily i Vary. Suverénní Třinec - Hokej.cz",
+          "publisher": "Hokej.cz",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMFB1dDdCaUFtSGlnelQ4bUZLT3Z4OE5kQWNycjYzbDRmVUtPNF8xUE8zeHUtcDFUZ2xjTkowNVdTbk4wU0NRMENWZkpfT1lkRnFyNWhpdUlPczRFMmgxNWlnSG81RVVSUVlJWjE4OHAxSHNueTZ3Vm9XWDJwbkdkTi11M3cxYzlUWEFXVmNlNXVndFBIZklTa2hPZVhrYmZPYkYyQW44T3VuX0lzdnhr?oc=5",
+          "published": "Tue, 18 Aug 2026 17:05:00 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "Drony z Británie decimují ruské cíle. Zaplatíte, hrozí Moskva Londýnu - Seznam Zprávy",
+          "publisher": "Seznam Zprávy",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHJZVkNfVUNNYXU1WXcta0lSYkJOcmRydFJNM3NOeHZ1ODBQWW5CWlJ0dzBRYjJzVmRJLXhpai1NMGpnd2xIUlBvM0JYR2dBMlU1N3ZFSDNtLXdGS3cwdndBNElURkFIdllPY3RmbGFBOVVRTGVFNTliQzBqMWdWTUZ4YlJCLTItSGk2TzBVeGlVZnRoTUsyakNxRkI1YnB5QmNuWkJPOVVWRVJvOFhwTVNLamNIQ1FZdlE?oc=5",
+          "published": "Tue, 18 Aug 2026 06:35:59 GMT"
+        },
+        {
+          "title": "Vytvořte okamžitě zónu smrti. Pět rad šéfa ukrajinských dronových jednotek pro Pobaltí - Novinky",
+          "publisher": "Novinky",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZGlQLTN6d0pkMERuUS1zazZURXI2QVE1dnZwUk1wR2FhNW5iX3JkVUdPZENPTzYyNndvSHJFVUVDcGR0WnVZWlhfVXJILVYtZDY5WFJ4aDdEVlRVTWdzaGc4M3FITXhDSG9jVHQ4VF8weDE5ZXlqSVR1V0RDUmtOS2N3cXBsc05JSENhMkRPaS1uQlFBTG14OHZMSVNYb05pMnZKY0dHNE5fcWpvOFMzSjFEOTdnaW1IRHBYRjk2OExvWmtieFd3TXZmWmlwdThR?oc=5",
+          "published": "Tue, 18 Aug 2026 08:54:45 GMT"
+        },
+        {
+          "title": "Dron v zakázané zóně u letiště? Policie ho nesmí jen tak sestřelit - Novinky",
+          "publisher": "Novinky",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ2RjM1FCY0pia2Z0T3pVTE5LamhWdTlrRG5DMlhhSlBLUlZBUUxqZ2dTaDlZbmFKLW1FYlBYUm1QQllGYmpWX2hVSE5SYjJiamxZSE5HQ3pFTGJ3dVVDVk9NT2tMbWY0U1FucDhOb2x3b3I2QzJtY1hTLXVsUjRXTWtqTFRWRmFGMGw3WGFFMUtzYXpBNDAtOFFxNGJYZXZOSl9OWmxXN2hwZHRNYUdpUA?oc=5",
+          "published": "Tue, 18 Aug 2026 03:20:00 GMT"
+        },
+        {
+          "title": "Snímek osmnáctiletého Čecha zaujal NASA. Perseidy skládal pět nocí z tisíců fotografií - iDNES.cz",
+          "publisher": "iDNES.cz",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZUVzTDFmYmZCcmEtV184b3NtMGgxcnE1dDFZUkZhc1VGSnVNcF9pd3RCSF9ISkd1MzlxU2xjYkduRjVwTlAzSG5tTUxZMlp5UGxtNS1EU0pGWlZpZ2pSNGZZQ3hpS1JmRFdlSlV2dWJKUGV6V2dWM2FQYzlNZV9ubW8wMUZIOWcydUV4VHFycVFtdTRVWE9MaGNoM3MtTjBDVERfbk5aenpCRERBRFE4enhUYW1jN1pNaThUaFNVczR0Zw?oc=5",
+          "published": "Tue, 18 Aug 2026 09:59:00 GMT"
+        },
+        {
+          "title": "„Válka bývala hlasitější.“ Fronta je všude, kam doletí dron - Seznam Zprávy",
+          "publisher": "Seznam Zprávy",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQclV1OXZJTzJjZ0RrSDgzQTVJUEVCdWttRGRndHU5UFloaXV5YmNvYXp3Y3E4bHFNWEhKMlhMUy0zcjNPOFQzUDBHU2x6OTRsM28yTzY2SVdmaDRuM0c5S0dobnhDU0s4MXJNQ0FlZzE1emZPTnlPSi1ocEZEZURBT0c0SVZxNHJ4TmVETGlseU1IeUYzR1ByVGhxcnAyMkUtR2R3aHNfZ19CdjBSUDVxWmJB?oc=5",
+          "published": "Tue, 18 Aug 2026 05:25:00 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "How investors profit from soccer even as Premier League club losses skyrocket - CNBC",
+          "publisher": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMktUc0w3Y2sycU9oWXg2VW02UWFYMWlzaGMyWDV1NjlkWV9ZaVRGVUVjZVYydWFVTjlMZ1AyWVpnazVXZ3p2T214QW82WmpMYnFPZ29xNkNUdDJqSXRMOVh5XzlzS3g0bVAzTmNZUWFJTFl3bzRucklRUkpXN3h2V09Kb0Jnck3SAYwBQVVfeXFMTzZyTGVmQU9rc2Q1R0N4Zm9WeEtsUXVQUGxZeWltcHJORUxnQ1FyYmdkN1FJSVVRdTJTNGdoVEVSTWdybHlOVkk1RTBKeDc0ZXFZQ2xDS2JhRTBKb1pWWVkyV0xUd1VYVmxLQk9tdjNadEp5TGlzbmcyNjN0eGpOUUlBaTY3d2ZqZDl0TmU?oc=5",
+          "published": "Tue, 18 Aug 2026 09:09:19 GMT"
+        },
+        {
+          "title": "Soccer-Rights groups accuse FIFA of silencing dissent after COO Lamour’s exit - KWSN",
+          "publisher": "KWSN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEU0eV91eXRaTTRQendMbF9VQzJRR0ZWOFpjYS16UVlTaENZcVdkVUpTV0s3aGVfS1FvSlJtbVNSVnRzaDFkbFNXNlQ0SVc4Y01UcEFUN2NXWjFzS3E3UWtwM1ktZDdBM1hlX29CTjVPS3pQQUUwZUZkM21yWVFRTFlWa2llRTB6Q2txSk9lNGViSm5BSlpTQlFNQm40SnRSR0pBd0UyWGg?oc=5",
+          "published": "Tue, 18 Aug 2026 17:42:53 GMT"
+        },
+        {
+          "title": "AP Interview: Klaveness slams Infantino's FIFA for firing top executive in 'management by fear' - The Washington Post",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUF8zQnlOb283SThmWUo1ZUdUOXZHOG5UZW9BZHp3RFBiWjZRX181d1RGcWl5VjRiaV9VZG4yQW11QTljMlJ4dHI1Mkltdk5oTjJESlpiTHVuLVpzbnJjeEQyYWZiQm01SUY2bXREODdzYllGZXZlZWVOTGRsT3ZJaGxTTEMzLU82VWpZV1MwTVJVQzJnNmZjR1ZvZEZrY2xZOVM3cFZaek10N3FHMzB4Mm44bTExeVRLaW9FdE9xdDJFcjhPRFpmQnRTR25fcXVKRzBfVFZSclM2UQ?oc=5",
+          "published": "Tue, 18 Aug 2026 22:17:48 GMT"
+        },
+        {
+          "title": "Infantino ally insists Fifa president still has backing of most football associations - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0R1dUxUNkFXX1Y2RVhqZUFXdkJTTHZvTnZ5bkRFY0J5MTdDZE9qZnpVclpEQlhDZEhTcGhJRzNCTl9NNmxKZlBKdXNJZU52UjQ5UGNmdm9JVHlMTEFRMTlZWHgzd3Nra3B3dVRJWkZ0WkhZMlh3YmpYeVFoVW5aM3dnWjhpVU5GMTBPUFEzQVNMb2wtUHlOYzZaS2V4YnphTFhBSDFoeWIwNEVTbDlwTjdqQ1hhTzBXMV9iU1NTSHZZek9QMHJZQkNtQndrUQ?oc=5",
+          "published": "Tue, 18 Aug 2026 20:59:00 GMT"
+        },
+        {
+          "title": "Rodri’s journey from a Connecticut camp to World Cup win and Barcelona transfer: ‘Football was his religion’ - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFNXMi1yNkEzYkhlR0Qwd0Rmc25aN1VKb1dHWWxMQ2UtREtoM1ZWb1FicEZNYUJqTDJmbDBRTVowRzM5cmpKb3Z2VF9iREpKeHdPdHVFZzN2WmEwN2V4aFR6Z0tiX2twT3JIbmJMRC1WX1ZYZk1OUTEyMVhMUjhUWTczaGpLaTAtOWs1cWtqUEdiS0RKdUpCbEFOZEhqUWRfY3c?oc=5",
+          "published": "Tue, 18 Aug 2026 04:05:32 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "Hayden Panettiere's Mom Speaks Out After Death: She 'Lost Her Way' - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHNPZWhNMjZNcFp1WERYSnYtd0pncEZwMHBPWlpOYV92aDNzcDEybzY3cjZlR296RXhKTkNCc0VPSEVHMEp6NWVfUVRRakxKQ2toQ29hcWNzdmtmazlfcE1XWlpMdGtneVgtZkJzVmlhVG9iRmpDOVo2U0dZel8wTGMzNW9oby1FcWhXMQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:30:00 GMT"
+        },
+        {
+          "title": "ZZ Top drummer Frank Beard dies at 77 - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ25uMnFSUVB4bTZ1RU43ZlFIRWJjaWsyMkUzRmIzdE9DVE02Q2ZKbEQzX0ZaelpMZTNaRU5VLTVTcFQwcG44eVc3eW03a2hxc3A5dWFUUXRTdVYyTnBpQTc1U3dKNnBMQnhqNnRRVmt0Wk9EWnY3UkRrRHpNMjRuMWdjdk1oVDR6UVVwZHBHRjRmZmtvSXBjUU1UcG0wVUk?oc=5",
+          "published": "Tue, 18 Aug 2026 21:53:00 GMT"
+        },
+        {
+          "title": "Rosie O’Donnell Crushed Her ‘Kimmel’ Monologue by Doing What Jimmy Kimmel Doesn’t - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbl9ieWRKc3BucE84OXYzQV9ZYl9RdTlKejhmcno4SUZsUzJlNlBVU1RGX2M0V2lKX1JSTGZxZ1pmenJmRUpJbGpBUUtISXFNNXBvZ3BNRC1QSll4TEMyM2tvazRpSVIzLUczbFlaRV82a0hRSlpZeGhISk9MWlBYYlphczFVYnBCNFhIUUpXUXJjRlFuTXZxWUprcm1kazJs?oc=5",
+          "published": "Tue, 18 Aug 2026 16:39:10 GMT"
+        },
+        {
+          "title": "Taylor Swift Returns to Social Media With Update Very Few Saw Coming - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzRRbkUtNzMyVTJSMjVxMjJvbHNyVXFHNlMyN0VoWG5tUlFFZmkzdTU0a2xuQ3F2dnJjeXVscER4OThBYS0tQkcxY2dyc2UySktNR19aVFF0MXhERzlaV0V3VEx0ZU0yNTZ3MjNFb3dmOFo1VzMzOTJ2a3ctTVBLaDdzbTJ5S2cwZkJ5Uk1GOXNaUE9aRTh3R3JGSG5iVldD?oc=5",
+          "published": "Tue, 18 Aug 2026 09:07:58 GMT"
+        },
+        {
+          "title": "Some Tupac Shakur family members step out of courtroom while others stay to face autopsy photos - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVm5jaWZuQ1A3V1BBMU1HM1Bia29QNG9NcTBwMnFzb1F2eDlLTkw2aHdwQnRaR042TW5jRVNHZWoyMm1xZXlpenBNdkNkNVVyR2l1NF93ZXZRLTBGY1RBZ2NVUU5jZVdCalk3MWt4Q2pyeExmM28xYnVGZzZmRHB4ZjBPU2oxc1l2RnpzeXR3MEtuUHk3WWxJYy1OdzFlTjJDWWNKRkJsMjI?oc=5",
+          "published": "Tue, 18 Aug 2026 20:22:00 GMT"
+        }
+      ]
     }
   ]
 }

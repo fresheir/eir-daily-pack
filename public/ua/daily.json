@@ -1,43 +1,260 @@
 {
   "market": "UA",
-  "generatedAt": "2026-08-17T23:31:06.592054Z",
-  "validForDate": "2026-08-17",
+  "generatedAt": "2026-08-18T22:21:21.878007Z",
+  "validForDate": "2026-08-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Реактивний \"Шахед\" летів на Київ: у столиці пролунали вибухи - 24 Канал",
+          "publisher": "24 Канал",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa0dFVVV4M1k4ZGFUdzRtTGVOU01wZ1Z2cmFBbWxtOTF0dW1mUlhCU0dkMlB2TFRXOXZuSzViUTRNRlkyZER0UXhJWnBZZEdjYjhWZHRZZUp0TmF4VzlOLXJBWmVxVmFiMTdfUXZTZDJULTJBVHloVkd5dks1RENKVGdMQmxucGfSAYwBQVVfeXFMUDQ2MmFlZUoyMGRBNk5TOXRmT2dKN1NscWk5b3BHMFF5WkR6OEF0ZEJVWUR5ZF9pQy1qcE0tQkpObXJscXhEc3YyM0VoZkpGWE9OR0dZUE5JakdvWGUyN0ZIM183RUhLcXhhUHBuVTBNOUJwOFpPbWpBS0dwNWxicEpvU3NCZEpDWG9INWU?oc=5",
+          "published": "Tue, 18 Aug 2026 16:36:00 GMT"
+        },
+        {
+          "title": "Росіяни завдали ракетного удару по Печенігах: загинули 10 людей, постраждалих уже 18 - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GZzNkbEhoUEEyTXRIenA3aEkwMUYzOHd2cVBHTzU4NmpHM1Y2VTFzb0dWYW1VdkxjMWtvdlBfaTlta1VmNVoxM2V2TV9VbzV4bENPYjRDZmNoTkdBWWpj0gFrQVVfeXFMT2NEd1hEQW1tRUdQdG1yYWtHcnNVWTRCYXgzWW82WXJYQ3BsdzE3Rjc5SF9fSnk1OWl1MlRBTnlUcmFJWTViblNYcF81SmYtdzVfWnEtaC1MZC1PU2xZenhsb2VURkpUZENCZzA?oc=5",
+          "published": "Tue, 18 Aug 2026 06:56:00 GMT"
+        },
+        {
+          "title": "Зеленський вніс до ВР кандидатуру Сибіги на призначення главою МЗС - Європейська правда",
+          "publisher": "Європейська правда",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SUUFYM3h4SDJ1VUpKSl9MRUh5X19TV2NVT04yMXFycDJ4emRTcWxMbEliR3dvQW0zakFJaXJsZENJQXE2NzNPcjdLa01YOGtCeERJeWpOZXh2M1BfVlJYR3FfaUktLWo3dGVR?oc=5",
+          "published": "Tue, 18 Aug 2026 13:26:26 GMT"
+        },
+        {
+          "title": "Прем’єр Британії відреагував на погрози Росії через допомогу Україні - Радіо Свобода",
+          "publisher": "Радіо Свобода",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ3pNdmE0THVpMEVCTzlwWW9zV29LMUcyVjVidFh4bzJ0TzJORGJ1b1VzNjZ3eU1Gbmp1NzByQXNSLV9wWVI2bGNtUGtWUnR3b1ZHUk1reW51ZUhndnY4d1Rta2o4RUNpeWtjMDBlSFVuVUI5Wm9UZ2JtQkdOVWpRWkR0MTN0Rl9ud0VmWXBZQWF3Y01tRHFV0gGaAUFVX3lxTE1xMllnYy1Yc3VWVnB2R2tGSFJrX2w4TFRsVVNQNUZTUk9XMGFhd0gyLWRza3Q4ZFEwa2VzOFpiaWdWRWFMVTVaSlBRNHoydk0yWVNDX3ViVlptbXdfZjJFYy1zUXAxTko1b29pQXFfM2NtTm5rdjV3OFlWYk42WDM3S0dTOWdteURhWXlkQy1uUllqWklhOGE0M3c?oc=5",
+          "published": "Tue, 18 Aug 2026 18:26:53 GMT"
+        },
+        {
+          "title": "Росія вдарила по одній із ТЕС ДТЕК: станція повністю припинила роботу - ТСН",
+          "publisher": "ТСН",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd01KX2VrOGNYem14UmJCQk9PdkQtOTk0c25hYTFNRlR1S3B4dWNxWnhKUTBnbVpRdUZMRTA1WVQ3eFA4S1FqbENvbXNlM2JoZU52WVpCMnpNY0dYS2pONmx4WHNUUkpBbldmVEpqbHJROV9Sckw5NTROZHhoZUxBTC1Rb2hIZVpEeFVjbk1tTXhWWC1pNDlmVlpNdlN0QkRrUTdWYklQbk0ySUVS0gGyAUFVX3lxTE1Hd1UzNm02eWVDVzhnM1RqRlg0TkE1Y2lmRFNLRDJwN0hJd20wTEdEQk0xX0EtbTZZWDJYdTI0WWI1SFBUOU1uN2o4b1VteTlhX1BKV0xEMFJ6TDduSkxhT2F4dmhzR3NPdzhDRUFTVXRWb0dvZklXU0oyb3hsQUY2WW01RW0wZjNZVWgtMjVPUVhQRVBiYTNjVW10UkhsQ2R6dFlVYWhsODRKRjR6Qm84Nnc?oc=5",
+          "published": "Tue, 18 Aug 2026 20:37:50 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Трамп опублікував карту, де Ормузька протока – \"нова територія\" США - Європейська правда",
+          "publisher": "Європейська правда",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MTJFMWpJUWVLMW1MaW5FeWFqcFJvVVp3NnJWLW5xZVJDTFlJbnVFdGFRbGRtVFNXNlJSM1ZzdFoxdjNiQk44UlMxbU1fWWliLUJJU19oa2xab3AtdkRpRkhXcmw4amszaGtR?oc=5",
+          "published": "Tue, 18 Aug 2026 16:55:32 GMT"
+        },
+        {
+          "title": "«Це порохова діжка». Чому Трамп заговорив про дружбу з КНДР і як Путін «грає в мутній воді» — розмова з кореєзнавцем - nv.ua",
+          "publisher": "nv.ua",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSDlpUE5zMjk1Z0huVlBTc0pfcDFTdUFscFBWSXFrMUgzRnQ1STBpbzhPQUtOS2J3dm1sNGY0dmludThBd0hQY1ozV3ptTm5Cd05jOGM3Yk5uLXBZTkJoblRWbkpsUGtKTHo1WERURDBTRm5TSXF1UjFsbkt0WllzbUdtWldDbE5LaEJ0V1dGQlRvalRoTmVYSGQ5YWhuMHlzUHl1UnBDcjcwbE56NGpLazdERGtObGxfNjc5YnA1bEdBWm13alhGMWRqVmg3UFpzZmpMaF8xdVBTakFDQlVoR1Z5dHFobzTSAdQBQVVfeXFMUFJnTkkyRktWMG0yNW1IaENHa1ZGR0c5bHhkZFBEMzByVUJLU3hvaHhVNm03SU9nVDRQZnJvdG11NmZlcGQzczVvZWFEUkRIYjNQUGp2ZHAwcDFXM3MyLWNKX0l5YVVjN05PeXdCajNCa2tERFR4OVNFYXVJODdvSWFIbmFPb0lVX0xXT0JTcmtvRmtYNnY5YVB6Z2tuakVoSFhtQUdtYXVSb2VkNkFuREs2UXRUNlZqeEZZeFNTTkI5UmU4dmw4WWdSNmZLeXBPR29QdXE?oc=5",
+          "published": "Tue, 18 Aug 2026 16:27:00 GMT"
+        },
+        {
+          "title": "США ввели санкції проти голови Міжнародного кримінального суду - Європейська правда",
+          "publisher": "Європейська правда",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtXzMwY29zQU91blVmMDN1LS1zWTFrdm1zbTI1QzVjWUlkbVJwaG9fWG9Mb2cwX2ZTNlhDMEhnSEttdm1GNjBVSkJ3UmdCMjZzT2phQk9rYzRGZi1YRzZnWEp6WWF5M1JBaWlz?oc=5",
+          "published": "Tue, 18 Aug 2026 18:36:37 GMT"
+        },
+        {
+          "title": "Азербайджан оголосив у міжнародний розшук трьох росіян через заклики до насильства і тероризму - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XRWJzMGsxUnpuR1pDS3pCUWY0TXllVkMzbEhXZmxVUXpvS0dCb3d1TnFRdFg1YWVMUUF6eXNQRU00Z0UtU1hzZUViNEZwNVpPSFc1cUpLM1pPUllndi1z0gFrQVVfeXFMTV9zeGdITTlpc2lMLTNfdGp5MHI4bjZqS3BCa0ZMRF9meVBldnZxN0N2SnJtVWVRWHYtM1NGQlJqZTVmUzl1bGlUekFFREdXU1RJb29LTlpXTW9WNFhPcnhKaTFkQkRjT2RxdmM?oc=5",
+          "published": "Tue, 18 Aug 2026 16:28:00 GMT"
+        },
+        {
+          "title": "У президента Литви підтримали ідею обмежити транзит росіян шістьма годинами - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQNnh4clE3bE1YSGFSR19BdEFFZ0NueW9xNG1JN3g4VzRWaU1Gcm5PRTNWTUhFbFNBQ2ViSmdoZjlPM0pVczhJQWRuclU0SXZ5eFJvR290UEt3bE9mOC1R0gFrQVVfeXFMTVQzSE8xc0Y1ZzdzR1Z2UHRma0tBd1ZCVTFtTVY3NHBtLWMwMTZRa1RMcUdRSThwRUZiaXg0MXVBWnVsdXRuRDRBejc2Zjh2MVJvRUxEbGdqYVB2RDc3RktyZkhpYXJXRENleWc?oc=5",
+          "published": "Tue, 18 Aug 2026 17:17:00 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
-      "items": []
+      "items": [
+        {
+          "title": "Китайський Freelander 8 помітили на дорожніх випробування в ОАЕ - Korrespondent.net",
+          "publisher": "Korrespondent.net",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGkxWjZXY19Oa2pidWpHUHgzRmVEbFNiS3NGYW80Tnk2REdsLVNjbTQzMDZLVDkzN2VFUEY0NWVpN0hiOUVZYkNwQm5Gbno5Q2t3SDFyYkhsMHdoLWoyRHZRWkJub1UwSC0yaWxWSnBMYlh4LVBpTk1oZzhHQjAtaWlScHAyUmdrVUVzWmVEcUhocWxJUVdEVEZjVlBPSE0tUGJpQ1czMGxkbTh1eXlNOFBXUzl4dERuQklN0gGqAUFVX3lxTE55X3FqSVE4bk5OTG5vV3lPRGZ4TVlZa1JIT1M2d29zQnBHQU9LckotN0tGWGZEcEkxOVBqQ1ZCYThEcEVOOHNkTXZYblR6V2gxM2xUUlVXdXRvZUJVemxlSkUtU0d4d0E4ZXJkanBCYmpVLTRycUJ1MTdYeS1ydTEtMVZROUROalVQak9BUXg3UzR6UTEyX2JrM2piaUlzaE1HVnltQ3VINExB?oc=5",
+          "published": "Tue, 18 Aug 2026 18:18:00 GMT"
+        },
+        {
+          "title": "Geely почне виробляти преміальні авто в Європі на заводах Volvo - Mezha",
+          "publisher": "Mezha",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ0RzMHNrN3otYURTa21KRENWbHRqQ3plRmpBZE8wcXU4eTd3VXo5WFBvWXdaTXl2d0FKd3BQa190MjVJRno0enh6R25DNEI4OTQxR1R1aXJ6WU5HWXM0cmhBaGotUkVlVjFjYkx0Ykx5SnBQckRzVGxTYjg2bnhFc2V0eVfSAYoBQVVfeXFMTjR6c21YMTdyczhYeV9jNExTQmZydVRsZTBpTVd2UktyWHh0ejZmVUdybzVSaWhqb0JpZnNVaTJpN1N0Nk5iTWdLTkw5clhkenIwc2dEVEhOX2lfdXdxWnF4U3FWNTFLeU5jdDVPNjNjQVFZbnVVelZXUWlINFJRWkJVelN2LWtYeEt3?oc=5",
+          "published": "Tue, 18 Aug 2026 13:10:00 GMT"
+        },
+        {
+          "title": "Stellantis відкликає майже мільйон автомобілів - Korrespondent.net",
+          "publisher": "Korrespondent.net",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQmt3Nm9mVDlSUk85dVBBQjFNWVhVWEJGbnNyN2NfZ0gyVmJUa29xWl92OUl1akxDc3J4ZVh1QVlFTUZENnhiRm0teVE5TE9jTlUzbDVPRzhiaHFSV2VYWDV0MXh3OUM1WGxxNXdvY1VaZENCbHJCbGZ3Nll1VnFqUUNxQ3FBRi1jaUFTMDF2NW1WQ255bDJBQVhNX09JbVXSAZIBQVVfeXFMTU9kWlVNbTJQUVJyRHQyZ3h4bF8yQXZacEtUM1FuWmZhZ3YzU0M2UDVJd1RNb0IzQmJiN0hTamtVWEJKbFY4MnVlLWMxSlBjemxtdndYd2M0RHU0dzdRbzRWV2Y3WmNuTDVnREs4M0M4SnNNRi01RkRKeDFjRzdaVUxBVFdmeDc4dkJheUMtbWJ5cWc?oc=5",
+          "published": "Tue, 18 Aug 2026 19:23:00 GMT"
+        },
+        {
+          "title": "Дешевий седан Skoda Slavia отримав рестайлінг - motorcar.com.ua",
+          "publisher": "motorcar.com.ua",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51cnJnR0VMdVZuQk5NclBNWVFwWGRQZDdHSnpBeElJa0plaEJRUHNiRzBWWGYzaWNwNzNJREVNbUZWblF1clhBd1VUeTE3TkV1Z0hKNkNKZEZaZXVtWnRKZ2VGMElDV0JyY0F4N2Jpa3NYdw?oc=5",
+          "published": "Tue, 18 Aug 2026 18:19:52 GMT"
+        },
+        {
+          "title": "Мільярдер у кросівках купив перший Ferrari Luce за рекордні $40 мільйонів - 24 Канал",
+          "publisher": "24 Канал",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0kxd2JIb2ZBZV9EMkE0ZGdKTXYzazVacEJHNzA3ZGFOd3FyR0JtNVVpeW52S1MxLW1ValdnWWlGNFhVam90NFlveFdSbndCUnM1SGZBRVpPTW5kT0EwNGFjYkF2QlVEUUR0bFk5SGZOd0Q3b0JYRlh3SmtEXzM5RFdGZThGaUJfeWJnQ0p2NFVxdlU0WC1ZMk5selJIOFNraGNV0gGoAUFVX3lxTE44RGFYa2RBbjcxREdJS0NHZElzbnNlVTAzNnVkcWZYZHV5T3M1cm45SzBNNnhYSzIyUEREd3dGVWpTczU3VlllUkV4T2tOY1FQeWJfaFZvcWZWbWJrS3RhWFppTlBjTG15Z0hTOHBPVTllU2g0WWE3WFMxa2ZINTZoQUtNSGNUaVRBZVBSbjU2NXlrSlhfNnQ0MlhzS0NrUmNQQWVURXFidQ?oc=5",
+          "published": "Mon, 17 Aug 2026 10:20:00 GMT"
+        }
+      ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "Світоліна знялася з турніру в Цинциннаті перед матчем третього кола: спортсменка пояснила причину - Champion.com.ua",
+          "publisher": "Champion.com.ua",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWdCOHNldWdFNGwzQlZhX2VYb2hhNkRnNWhPWE1DUldONURlY0FuQmdqMHowSkJuaE1FNGNIVmdjbjhrRnRtM1hWc2w1OXU0YVprMVRlcUdBblY3bjRwZkVJZGZheEhvb1M2Um1fQ1p1OTJra25EY01JWHpHTGhmUnZrdFpPZzUtUjE1SHM4NFdQTXUtZ3BFQkl1cGFXcEdOSDZUUm02VlRhRDhYWFhtZERURXR3eV9W?oc=5",
+          "published": "Tue, 18 Aug 2026 17:23:00 GMT"
+        },
+        {
+          "title": "\"Жирона\" відкрила справу проти Циганкова: яке покарання загрожує українцю - РБК-Україна",
+          "publisher": "РБК-Україна",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWElObzFNODV4dUhUeC0xOHV1dlo5d003NzZEM2FmeHRRMmRrYUphN2sySTNxbU9JRm44MWpiUkdJcF84c0FZM3ZLYU83VGREbC0xZnhRR2pHaTlQV0xoQnRKd3VsV185dUJiVE5NR0h0a0FoSW1wenV5YmY5bS1kQjRKbk13YUFoQm1mQ2lhb3VlcjB60gGaAUFVX3lxTE16UWt6ZnBpZ3MxTU93VW10VjF5MlJ4Wkc0Z0FieDFRcmJJdERHSHJqVGtpa25PXzB0M05SeUR6S2NuWXlIRjFuZEpmWXVubF9ibjl6b3FxLURxS3l4MWx4M05NaExlSkI1RFhsV1EyZFM1YnBtUlVCa0VhVldhdjhrYmFFOElpTUZ5UFgzSi1EZDRYUGRaQXU2dWc?oc=5",
+          "published": "Tue, 18 Aug 2026 11:27:46 GMT"
+        },
+        {
+          "title": "Джамал Мусіала: «У мене виявили тимчасові абсанси, які спричинені неврологічною дисфункцією» - Tribuna.com",
+          "publisher": "Tribuna.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWlIRzZnRTl3SG16aHpGVW1wMHRMMHhWcFdhR2tsQ21LVGRSQm94MFFJSmJpU3l3ZEZZQlNSQmZUU1Y1VTl1b3VzS0lDZHdCV3B2ZU1ESWNEX2NDSjllYlJKa3o1M1lzQWJSVWRXR0lLRU9CVmFxUHpfQlR2N3JxNjZsUWdFeEtIakpyU0RFOGl5YVZ0dVZPbV9fSDAyVDlsQTIzQ3pZeUbSAa4BQVVfeXFMTWVwM3JCUjhVS1dJSmc2SFdjcmZjemV5eGVqalpEdENOTVZTNE0yVUhaMWdPQXJDOWY0NGtxTElneGJxeXlnYkdySGgtaGtVRm91aWtWckM5bjhwSllaeVhzLVFmY1RtcjZXR1hpM2MtZ2ZsOThFVzNuWndpODVWbVJUd2RIeXlqdHdIVXBtWEN5bnVvMjZoZ21BTDVxWENFUm1CSW5uTVF4SlUweTVR?oc=5",
+          "published": "Tue, 18 Aug 2026 19:09:00 GMT"
+        },
+        {
+          "title": "Барселона підписала Родрі - Korrespondent.net",
+          "publisher": "Korrespondent.net",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeVpjUGhMNHl5eVo4OW51TEd1T2FWMW96SGdnN25UUFJ0clRpMTdmR1pTbzNvUTJXRko2cEN5enBTZ051MldxbE9vMU1OTXFqNDA3QnFSOWpsdldvMU43cHV3a0pFMF9sNnlJbE5sS2p5OFEzUUVVSll6cXBmUEd4OGNhRdIBdEFVX3lxTE1GQ09zcHgyQnVBVVBsT09uaUNDSmZtSVFvRGZGaGxOTEQ4dS1JSUZ6OUR2V1hsYkRKYU5RVUl3b2V2OXczYlN1R21hLVdkb0g4UExjVVFMdU1WOHVTYXdMOU5fQmh2eWQ3STI0bzJFT0MzSFJu?oc=5",
+          "published": "Tue, 18 Aug 2026 19:06:00 GMT"
+        },
+        {
+          "title": "Збірна України розгубила волейболістів перед ЧЄ-2026: що сталось - 24 Канал",
+          "publisher": "24 Канал",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmt5N2dHUHBORmlOdXV2TnJ6N3RWS2d3U2lZV19xejFGTzNwQ1JKNFp5eHl2ZGRqSmFlMzBmSGphVExodG9VYThJLUNRSGhrVTlIektYWWhkQjRhOU13V2h2NGU3X1c0VjdzOW5RbW93VjJIdUt0dy1uWjdsR3ZDTnhBUVJJUGpLeGxOZGpVcDRBVi1mdFZfZFVtYnN0MUN10gGmAUFVX3lxTE1FcFE5TjI1WlN4SWYtQi1rOWtqUHNwTDBfa2E2OFBaM0JSREVTck9QM1pwejZBU1pRVTFRUWthb1RNZExUZFBXOEhuMV9YTl9aOFhrRTZGeVRjc3NPS3pyNy1HaXJ1TFpQbGxTYkNEblhaUWZIR0NEVElHb0xsUHJTbWZYR0YzMGdmRXRtcndVUFBXVkM3MGZtSjVUTTVrVzdXTm1RRkE?oc=5",
+          "published": "Tue, 18 Aug 2026 17:14:00 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
-      "items": []
+      "items": [
+        {
+          "title": "У Москві заявили про атаку понад 600 безпілотників - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPTnFMSmRpeldMQm92RTdWa3hKdmNoeXRJa2pQcGR6aWpqbWkwak93akQ4SlZqNVFleEFKQnMyYXZJRmgxOGNzZW1yVGlScjJHWGRWTXBkOXAySE9XMExv0gFrQVVfeXFMTkZ0dVhrOHJCaTRubXVaSDRDbkJRVnM3dnY2TzhVeUVhVTgzY3VpQU9MSS0yZ19LNzdTNmZrYkdDN0VkdWlvcW50Y0k3enNrZ2Vfem1ib2h2bjJqcExWM3B5bEpDZm5WZjI1QTA?oc=5",
+          "published": "Tue, 18 Aug 2026 00:10:00 GMT"
+        },
+        {
+          "title": "РФ вдень випустила по Україні понад 70 реактивних дронів: скільки збила ППО - РБК-Україна",
+          "publisher": "РБК-Україна",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNTVKSF9sdklKUVo2MUFJWVZ6MTRmVVJJZGt3MkNHSnpSNXVrMGlzR2FRdjFqTEZFVTJQa0lXLVRXWXBZNDNMdUNxMzhUa1NNc3E2UldTempwc2VLcHhvaDRjOFktUDN1TUY5Qm9XOU1kWHo3WEJ5YmtzRXlIRlpWZTJPRjlXMm9XN3owTVYtbGU4VnZx0gGaAUFVX3lxTE9CN0h0WFZnN1otOGNmZzZMVTF4dUVGOUNHY2ZDUWc2SWRVN3VKbWg4NE5GR18zby1PZ01SLW5DV2NIUGVYaHJNdjVsOEJnR0g5Q2pXVmVOTDhJTmdJS1M0dnVrQWdfcGoxNTE1ZVY0eW0tTXBWdEllbUpXRzNSemVkLXd2eXRlWnkyQ0RRT3prbUJQdkJxaUdvSkE?oc=5",
+          "published": "Tue, 18 Aug 2026 18:05:00 GMT"
+        },
+        {
+          "title": "Реактивні \"Шахеди\" РФ уперше долетіли до заходу України - РБК-Україна",
+          "publisher": "РБК-Україна",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXUtSUZUZ19WMUlrMFUyTG55S2pia1FiS0FlU1FndFFKR0h5V0NVR2VLcVBkNGNWY0pPNkpCM2gxQ2hOMkpFWEFYYi14TjR6dUFLOEE5ZFNGUUdZX3ZiWlFPUGM1ajBpN3NWczBHXzluMUJZcUFsUlhFQ0xJNkFPOU9JVVN6emJOLUhueE1ibDZSUdIBlwFBVV95cUxPd2NnUGozR3VVVV85MngyRUx0MTZncFV0cll2RFlZakhvX3lUM1pnMDA2bklfaUdfeVhOWUF5QUNMc1hIZjZYb1Vqa2Z6anU5My11aGdYWTBTUzNHU0R6RE9fTXA1UERsTEFNX0ZqMHZmYWQwbDRnTzVOWnhPNFppSkJMbktNNDMxdHBhZUV2NU85VVppV3lR?oc=5",
+          "published": "Tue, 18 Aug 2026 17:08:18 GMT"
+        },
+        {
+          "title": "У Києві вдев'яте за добу лунала повітряна тривога: уламки БпЛА впали у дворі будинку - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NVkt5VzZnQWJBeVRiQzR2dXBtT0U1SVA3NmNNRnROWWE0SUZDcnNBY1JLQ3lwMVpNRHp5bjYwbC1oQ21sLXdpTkNhUVpieUNQeEhHZWpodUpSZ3dtbHo40gFrQVVfeXFMTm9RSWtHY0IwRHlHOHQwWmV0ZUNDRWJkM2dKME5qVjVnOUU2YzNkbmhGaHlway16bjd6NkwwSGdoeWx1VTRrdnJTSmNqWlBmWkUwNXN0X29OdlBhRm1zUFpGaDVUWEJ5bnJxTTQ?oc=5",
+          "published": "Tue, 18 Aug 2026 16:46:00 GMT"
+        },
+        {
+          "title": "Грецький балкер атакували дрони у Чорному морі: на борту спалахнула пожежа - 24 Канал",
+          "publisher": "24 Канал",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlRCbS1VSDNwOXFfTm9PUGtOTUdwd1pETllhM1Z6czF4SlMtZFc4bzI2T3FlTjlUUXQ4U2taeFlETWxPTnJqMkEtaWJwcGtMc3Q0VzBqaTlCM0pvajFjVUhCYi0xY0o4NTdLN3RLQXhzRHNNN3phQUdjeVZTTzhUUXFxdWN2RGVCUHB2Z3Q4d1RaTjRnUjNkSjNRd2dHZFlnaHfSAacBQVVfeXFMTW9YSXVoMjB3TGFvb1dqV0szQXBadm9oM1lxbk9Ja08zRUlvRUwzNkRGX3BQZ3hCbHloTzVoYXVtQmxOblE0MjFWTy1FZmdvWFJJWDUwMnRNMjlvM3B3bW9HSTRGUWFNUGFtUG1oMG50eXFoYU9NNXl5MXJoS0g0QUFaanM3d2U4TTVnT2htVmZtS1lCUVNfNWY4REhVOFlWMVp6TnFRMTA?oc=5",
+          "published": "Tue, 18 Aug 2026 14:11:00 GMT"
+        }
+      ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "How investors profit from soccer even as Premier League club losses skyrocket - CNBC",
+          "publisher": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMktUc0w3Y2sycU9oWXg2VW02UWFYMWlzaGMyWDV1NjlkWV9ZaVRGVUVjZVYydWFVTjlMZ1AyWVpnazVXZ3p2T214QW82WmpMYnFPZ29xNkNUdDJqSXRMOVh5XzlzS3g0bVAzTmNZUWFJTFl3bzRucklRUkpXN3h2V09Kb0Jnck3SAYwBQVVfeXFMTzZyTGVmQU9rc2Q1R0N4Zm9WeEtsUXVQUGxZeWltcHJORUxnQ1FyYmdkN1FJSVVRdTJTNGdoVEVSTWdybHlOVkk1RTBKeDc0ZXFZQ2xDS2JhRTBKb1pWWVkyV0xUd1VYVmxLQk9tdjNadEp5TGlzbmcyNjN0eGpOUUlBaTY3d2ZqZDl0TmU?oc=5",
+          "published": "Tue, 18 Aug 2026 09:09:19 GMT"
+        },
+        {
+          "title": "Soccer-Rights groups accuse FIFA of silencing dissent after COO Lamour’s exit - KWSN",
+          "publisher": "KWSN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEU0eV91eXRaTTRQendMbF9VQzJRR0ZWOFpjYS16UVlTaENZcVdkVUpTV0s3aGVfS1FvSlJtbVNSVnRzaDFkbFNXNlQ0SVc4Y01UcEFUN2NXWjFzS3E3UWtwM1ktZDdBM1hlX29CTjVPS3pQQUUwZUZkM21yWVFRTFlWa2llRTB6Q2txSk9lNGViSm5BSlpTQlFNQm40SnRSR0pBd0UyWGg?oc=5",
+          "published": "Tue, 18 Aug 2026 17:42:53 GMT"
+        },
+        {
+          "title": "AP Interview: Klaveness slams Infantino's FIFA for firing top executive in 'management by fear' - The Washington Post",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUF8zQnlOb283SThmWUo1ZUdUOXZHOG5UZW9BZHp3RFBiWjZRX181d1RGcWl5VjRiaV9VZG4yQW11QTljMlJ4dHI1Mkltdk5oTjJESlpiTHVuLVpzbnJjeEQyYWZiQm01SUY2bXREODdzYllGZXZlZWVOTGRsT3ZJaGxTTEMzLU82VWpZV1MwTVJVQzJnNmZjR1ZvZEZrY2xZOVM3cFZaek10N3FHMzB4Mm44bTExeVRLaW9FdE9xdDJFcjhPRFpmQnRTR25fcXVKRzBfVFZSclM2UQ?oc=5",
+          "published": "Tue, 18 Aug 2026 22:17:48 GMT"
+        },
+        {
+          "title": "Infantino ally insists Fifa president still has backing of most football associations - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0R1dUxUNkFXX1Y2RVhqZUFXdkJTTHZvTnZ5bkRFY0J5MTdDZE9qZnpVclpEQlhDZEhTcGhJRzNCTl9NNmxKZlBKdXNJZU52UjQ5UGNmdm9JVHlMTEFRMTlZWHgzd3Nra3B3dVRJWkZ0WkhZMlh3YmpYeVFoVW5aM3dnWjhpVU5GMTBPUFEzQVNMb2wtUHlOYzZaS2V4YnphTFhBSDFoeWIwNEVTbDlwTjdqQ1hhTzBXMV9iU1NTSHZZek9QMHJZQkNtQndrUQ?oc=5",
+          "published": "Tue, 18 Aug 2026 20:59:00 GMT"
+        },
+        {
+          "title": "Rodri’s journey from a Connecticut camp to World Cup win and Barcelona transfer: ‘Football was his religion’ - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFNXMi1yNkEzYkhlR0Qwd0Rmc25aN1VKb1dHWWxMQ2UtREtoM1ZWb1FicEZNYUJqTDJmbDBRTVowRzM5cmpKb3Z2VF9iREpKeHdPdHVFZzN2WmEwN2V4aFR6Z0tiX2twT3JIbmJMRC1WX1ZYZk1OUTEyMVhMUjhUWTczaGpLaTAtOWs1cWtqUEdiS0RKdUpCbEFOZEhqUWRfY3c?oc=5",
+          "published": "Tue, 18 Aug 2026 04:05:32 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "Hayden Panettiere's Mom Speaks Out After Death: She 'Lost Her Way' - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHNPZWhNMjZNcFp1WERYSnYtd0pncEZwMHBPWlpOYV92aDNzcDEybzY3cjZlR296RXhKTkNCc0VPSEVHMEp6NWVfUVRRakxKQ2toQ29hcWNzdmtmazlfcE1XWlpMdGtneVgtZkJzVmlhVG9iRmpDOVo2U0dZel8wTGMzNW9oby1FcWhXMQ?oc=5",
+          "published": "Tue, 18 Aug 2026 19:30:00 GMT"
+        },
+        {
+          "title": "ZZ Top drummer Frank Beard dies at 77 - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ25uMnFSUVB4bTZ1RU43ZlFIRWJjaWsyMkUzRmIzdE9DVE02Q2ZKbEQzX0ZaelpMZTNaRU5VLTVTcFQwcG44eVc3eW03a2hxc3A5dWFUUXRTdVYyTnBpQTc1U3dKNnBMQnhqNnRRVmt0Wk9EWnY3UkRrRHpNMjRuMWdjdk1oVDR6UVVwZHBHRjRmZmtvSXBjUU1UcG0wVUk?oc=5",
+          "published": "Tue, 18 Aug 2026 21:53:00 GMT"
+        },
+        {
+          "title": "Rosie O’Donnell Crushed Her ‘Kimmel’ Monologue by Doing What Jimmy Kimmel Doesn’t - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbl9ieWRKc3BucE84OXYzQV9ZYl9RdTlKejhmcno4SUZsUzJlNlBVU1RGX2M0V2lKX1JSTGZxZ1pmenJmRUpJbGpBUUtISXFNNXBvZ3BNRC1QSll4TEMyM2tvazRpSVIzLUczbFlaRV82a0hRSlpZeGhISk9MWlBYYlphczFVYnBCNFhIUUpXUXJjRlFuTXZxWUprcm1kazJs?oc=5",
+          "published": "Tue, 18 Aug 2026 16:39:10 GMT"
+        },
+        {
+          "title": "Taylor Swift Returns to Social Media With Update Very Few Saw Coming - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzRRbkUtNzMyVTJSMjVxMjJvbHNyVXFHNlMyN0VoWG5tUlFFZmkzdTU0a2xuQ3F2dnJjeXVscER4OThBYS0tQkcxY2dyc2UySktNR19aVFF0MXhERzlaV0V3VEx0ZU0yNTZ3MjNFb3dmOFo1VzMzOTJ2a3ctTVBLaDdzbTJ5S2cwZkJ5Uk1GOXNaUE9aRTh3R3JGSG5iVldD?oc=5",
+          "published": "Tue, 18 Aug 2026 09:07:58 GMT"
+        },
+        {
+          "title": "Some Tupac Shakur family members step out of courtroom while others stay to face autopsy photos - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVm5jaWZuQ1A3V1BBMU1HM1Bia29QNG9NcTBwMnFzb1F2eDlLTkw2aHdwQnRaR042TW5jRVNHZWoyMm1xZXlpenBNdkNkNVVyR2l1NF93ZXZRLTBGY1RBZ2NVUU5jZVdCalk3MWt4Q2pyeExmM28xYnVGZzZmRHB4ZjBPU2oxc1l2RnpzeXR3MEtuUHk3WWxJYy1OdzFlTjJDWWNKRkJsMjI?oc=5",
+          "published": "Tue, 18 Aug 2026 20:22:00 GMT"
+        }
+      ]
     }
   ]
 }
