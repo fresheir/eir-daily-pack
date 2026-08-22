@@ -1,7 +1,7 @@
 {
   "market": "CH",
-  "generatedAt": "2026-08-21T22:22:16.373805Z",
-  "validForDate": "2026-08-21",
+  "generatedAt": "2026-08-22T22:19:30.843491Z",
+  "validForDate": "2026-08-22",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
+          "title": "«Wir haben gelitten in diesem Hitzesommer» - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnlYU3hjaFRmRVpZUHNRZ1ZFcHcwSXoxS0JuRzlnR3pkTkIzQkhjQWM4cjlmbm95OTczYzFuTVdCQThDdFZSOV9QOWRjZmFuejlBamtCMEZNX3ZpYVVINE04a2xZRnI5SUJmNkxfWUVwUXhXMDRWTURtTTFDSzl6a2c3UWd4ck5PWV8ySFdpSHlkcXNGTno5alNCTWNZd2pKSVduYlBDeW13TjdnMEs1T2ZIQm9kbEFKZDQxTlpJUQ?oc=5",
+          "published": "Sat, 22 Aug 2026 08:57:13 GMT"
+        },
+        {
+          "title": "Tragödie in Thusis: Zwei Tote nach Brand im Restaurant Beverin - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUktwUXVaMDBjNVZtLVNkejNtYm1ZOGx1SndjNDVFWnpYVW1xZElVb0Z1TXlHdE5hU2tiLWFYT0dDUlItME9iWGNZWmhpU0VIeGtrOVRhZ3k0QnFUWnBIUkJEY3R3ZFZqZTdqRl91RVJIbS1GdEo2WHY4SEZXaDdpUnZjSndzQ1FiUm44eU1IeDdxSUZ2VHdQY2xwZGlDZw?oc=5",
+          "published": "Sat, 22 Aug 2026 11:16:16 GMT"
+        },
+        {
+          "title": "Das sind die beliebtesten Vornamen der Schweiz – wo liegt Ihrer in der Rangliste? - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0JaSDdHMFo1NzFqdU9PRUROeG9OU3A4Q0p1ZVhRSzdVajdQSGNkcnNmY0pTLUJsTF95QVVzcWlOZGluUnVhUFdFaDVEQWpGTVB3d3FaVjZwVDB6MEJjMVVMV0ZBeHA5Q3NzTk1aSFdnZ2g0eE9tV0RUa21FYzFUWE9IYXJiSno5TVpDNGRaakY1bG8?oc=5",
+          "published": "Fri, 21 Aug 2026 08:15:19 GMT"
+        },
+        {
+          "title": "Mit Digitalisierung: So kämpfen Kleinseilbahnen ums Überleben - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONk9zZERLd3I4UldTT2s3RHJNdGVxZnpxYV9YOGMwZk0zSm9ZOTgwTUVacURaLWxZeVVKSFRTODlaMU9SZFhEdXB6MUdQRk01RTR5cmVSTDlNYWdHRy1ELU40VTFaVUltZTdRZ3lmNnBiOVBzRzVneW1vMmhGU2Y4QVFBMHA5UmRZNmdFQjM3SjBrOEtEcFZJWGpQQjd4endNNDVEbWhR?oc=5",
+          "published": "Sat, 22 Aug 2026 15:29:34 GMT"
+        },
+        {
           "title": "Wetter in der Region Basel: So geht es am Wochenende nach dem ersehnten Regen weiter - Basler Zeitung",
           "publisher": "Basler Zeitung",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGpEeko3UE5fMGZtemkyeFZEcE9PcDlVb0JjMUFFTUpBRmVvVGdnMk5xanJJQVdNZHZ0NXZXUGx6MVdZYWJjdkdxTVBVX19HeDYwS0tpbXI4ZEsyV041czJNOEZmWTI2S2t5WkNmR0hiTGx0N211a3AwVlQwQkZZRkJXTnd6c281VVBDT1VTWTRkaTNlNlFj?oc=5",
           "published": "Fri, 21 Aug 2026 13:53:32 GMT"
-        },
-        {
-          "title": "Wenig Zustimmung für die Neutralitätsinitiative – bei der Ernährungsinitiative ist das Rennen hingegen offen - NZZ – Neue Zürcher Zeitung",
-          "publisher": "NZZ – Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUFMyd293M0ktLWQzYmptbl9PdkVUOERJNkp4X0Z5QXZCMjkyRGYxdnBJbWRZeEFld2FXNHdNbDQ0aV8xSjREUkE5NWZaYjZ4UmVxbkVRdHJBT1owSmJWU1lCM0t6b2dnS3E3dThPeDQzMVh3TFJlbEdHcnZVbVFITUhHR0o1bWQ5TnJIejN4dGU2XzhlOEc5ckhOMFlwVmJNXzcxc2RqYWtWcXJMUEhyY1dBQmpsZ2JfdjRmd3JCb2lyUms1Tk55MllIX2FnenpIRUVyZnJMamN5UlhL?oc=5",
-          "published": "Fri, 21 Aug 2026 04:00:00 GMT"
-        },
-        {
-          "title": "Vereinzelte Kantone lockern Feuerverbot – was in deinem Kanton gilt - Watson",
-          "publisher": "Watson",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0RZbU9HVllYWm1zWlRnY2I0VExiaU0xVFZNRUlqUmVTSlgya1J1Zm90MHhHTDUwd2FnWFVlTFJDaDQycHhGcFdqUzg4TTM3cjRWbkVlSUxRenlHOXlKTVpHUHV3eDY5bTkzSWJPWW9ObjU4RkYtVGEwUS01b1V0MXJkTzBWeHFIdVZpZEQwTHR0eE04RG0zeWFrQnl0bVc2Z21VTUFDQVZ3UWRreHhmY21nUQ?oc=5",
-          "published": "Fri, 21 Aug 2026 16:13:57 GMT"
-        },
-        {
-          "title": "Beliebteste Vornamen 2025: Sofia und Noah führen die Rangliste an - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmVKYVlYUUZ4OGY5c2VqZFhuY2pNMWUxVDY1TTZBY2k1V1AyM2gwaVFQLUd1RGZVOW9YMTBPaDdlSXNQRTVmN1RxeDZtLW5YSlBqZ2YybEh5VUY3TER5Z1NyU19vUDdLb2wtSTdSSlNsNGVNTWhYNHBwZWxJUUJwaUUzUlRISFZvYkF1Ti1NTGE2RkdfNmVjNTdzdVc?oc=5",
-          "published": "Fri, 21 Aug 2026 07:58:13 GMT"
-        },
-        {
-          "title": "Bundesverwaltungsgericht rügt Vorgehen der Schweiz - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS1hkaEUzMTBFVWtsLXZFS0xTUDZHSmtaR2hiVXVwcGoyd2tuNFNxYVBkbURZYzZMMzBGd0YwZk5Xem12OHNuU3BBVEJXakpXR1pUdmZWdWwwSFNTS2RhbUFrWER0T0Ftc3NhMmNXN2E2bTlFMkhhWlVZSVRQc0VoTXppY2RFWWNFdzk1Ml9mMkNUdmN2OG1TY1VfYnlkUnVxT25sY1RVZmk1TXMyc1Y3YXNSbjdZd1ZELWc?oc=5",
-          "published": "Fri, 21 Aug 2026 13:16:40 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Gotland kämpft um seine Existenz – Ferieninsel oder Nato-Basis? - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVhhX243cG9zYXJIUDRfa1hFbXhURmpPdjlKQ3gwYS1pR29SbUp0TjJKTHdyODBteTRld1V5ckNrQlc2WWdFY3JIVXFXVFNneGc0S3dDV2dIY3B3blVXeWdqcWlKSmJ4TzVGRnFURU01SnlBWUZTOUJYSDVpdWdVbUhQNXVXWTBheTRmdzQ1LUtiM2VvS0ZhTkRRWlpvdF9iNF9j?oc=5",
-          "published": "Fri, 21 Aug 2026 16:57:04 GMT"
-        },
-        {
-          "title": "Ukraine: Russischer Angriff auf Einkaufszentrum – 15 Tote - Blick",
+          "title": "Kein Deal – 50-Prozent-Zölle gegen Kanada in Kraft - Blick",
           "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWRUZk5hYks5UnFaa2I0c3RyczNwTV9tVmU5UV81bXFsVjVIc0l3WGVJQmdTMHdhemxEcHpfakRONXA0OGp2VXJUTmVhMGdMZV85VFh4SGNQRy13MHVTSGRuQTBxNFdjRXljU2lRRGl2RlRzTWh3XzJvdVBxZlFpQVFFSDc2Y2U1cjh0cXY0djhldURMMVV1RHFnS3pSSERvMWJiYXJ5cHJhUk9pMTBHSlZiOV9CY2tsMW40TkI4RlJMLVU?oc=5",
-          "published": "Fri, 21 Aug 2026 14:57:28 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSzdXMTFkczJOYnk5Wm1Eemxfb0RoN2lRLTRUN0ZwZkxoSXhiRnhQVnBFRWZaWmFUU3VnVnJ0RGJ5Z2VHTWhBNjY1b0RfeFNzR2doQXhpcFd6Mmc5WjViSE1mNVM1dmVHZU56RjQ5SnFhaFhsVXoxSU5NbWtYN1hENzFtRjV4ZXlaTUVqUDJzMkRMUmo1Sy1wUFpLZFFTd0JSWXhzQ0J6enZOZlVJTFpXZ3dKcGV6V3cxT1RMM21iSTl6TkpzOHlJREN5Yw?oc=5",
+          "published": "Sat, 22 Aug 2026 17:10:39 GMT"
         },
         {
-          "title": "Hamas im Gazastreifen: Wie Gewalt ihre Macht sichert - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUNUaGk4aUtxcFdmbWo5OVEwS2VkamllaDN1cVlWdEVNd1pSd1Q4YTJ2cDZRTTFncWVjN2p5MjZfVmNXWDN5T3BZTE5RVkotU0FJb1p6c0szb2lvVFIxNlJxbmhFdzRvN0RBV3duRGRrTUpjTVVmWEkyX1BEM0lVUjd6WmgxVHlCcnE0ODc0N1NfZWRFNnF3RWlwazRzYlRmdnBGMGFDbEs3OGRtVEpPcl9B?oc=5",
-          "published": "Fri, 21 Aug 2026 19:03:17 GMT"
+          "title": "Nach Angriffen: Putin kündigt Rache an der Ukraine an - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM3FLZkE2anJwbzFPYV9uN2ttaTZnU0t1MTl2eDh3bVUzTHY1TlhlQ1pzQVdOZHpZYllyYUZycnhObm1zQXNrclA1WkRoTlNkc3h5d1pIbXRNdXZReVlhRlFwNmY2Yi0wS0ZOWFNSaEdHODUtNjAwNlBXMy1uY0tSZFdoWGI4RS1nMEp3eUc5Wm5MMnFCNEJBNVlSNXBocElvZTZhNE9sX0ZiZHE5VVdYckJhZnVURmhTaDhrcUZPSTlEYVdwSWtETnRCZzhhbFZ2QkluekdEX0dBTXd3ckZOazF6NA?oc=5",
+          "published": "Sat, 22 Aug 2026 17:36:55 GMT"
         },
         {
-          "title": "Wie der Luftkrieg zwischen Kiew und Moskau immer massiver wird - bluewin.ch",
-          "publisher": "bluewin.ch",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX19kMU0xbzUyTUt0VldKZUtvUjVtc1BTUFM0WERYeTBfVVh3ckpnRFh0RGpURXVKSEVwNHc5UkVUV1FsQTRyRlcyYnNZaFNxZnlDNDU3cDRvb0MtQnZ6TkwydFZyZ3dzMGdLMTRWLURtWVJETjdkLVV6N0RwRDc4XzY3bnJibGlEdHpLblAtOVJhTmNJSllkUkdJQWtUMVhnNldhTE05eHRVcFBfS1ktV3hoMkpQRS1MZHc?oc=5",
-          "published": "Thu, 20 Aug 2026 02:30:00 GMT"
+          "title": "Ticker zum Ukrainekrieg: Russische Drohnen treffen Einkaufszentrum in Grossstadt - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjhlOFlJNXNMeW5UM3d1RUwtRFpTdE45VXl3TWR3V3F6OWFYNFRVQ1M3dVhPWXNHT2s5U2xIQ2k3ZE1OaEhsYTdGR0IyeWJ6Z2daMjdwSlg4ZWh3UkFKN19scE5INWpWNlRIQV9ucy04THVWeE5Sa0ZxVy1wU1dISU9ZemhVYWpYLVVrRno3RWs?oc=5",
+          "published": "Sat, 22 Aug 2026 16:50:55 GMT"
         },
         {
-          "title": "Schwert-Angriff in Fagersta: Polizei schiesst Angreifer ins Bein - 20 Minuten",
+          "title": "Schwert-Angriff in Fagersta: 17-Jährige stirbt - 20 Minuten",
           "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzFYaWJhbExBX3oza3JjamRaSkFDVlBFOHVfMDhjTkxkeFJHekxXQ1NkbFBRemlLQWFkYlFjcnhaSGxBQ2xQZktWYWhNUVNvTmk1QWk0SkNqN1QxVlVLR1RDUHdETjlmYXBLc1RDbUlNUjhfQWZfLTRKTF9Qdzh3dU9nZURhOVVpb0lFREVPUGlsajBhTzU0aUpzNkw0bERfN0JKTGN5YU5OT00?oc=5",
-          "published": "Fri, 21 Aug 2026 13:20:59 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXJNcHNQanVVQnlJWWZYVGR1S2R4cENjOWVab1M3aEx2NVdkX0pqS3RZZHltMVdtTlRnaWM5TDQwTW9xcUt0VjdCaVBiSnlfRUdWY2otUkFhNkNld0RNdm1Qb2h5Y1BjanRpaU10eVBvd2NVbmgzdDRlOE1CQnBxd3l3Vk82OXBxcFAzLVRfZXJmcVFuNGp4R0oxbXRPQWpNZENlZDB6OFpmQQ?oc=5",
+          "published": "Sat, 22 Aug 2026 13:50:08 GMT"
+        },
+        {
+          "title": "Ukraine: Russischer Angriff auf Einkaufszentrum – fünf Tote - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWVDTnAtal9BaS1ZNXJ1dW0wVDZrSzZpY3d4a2hzN1hrOUY4ZTMteHExSkNDSDBSQmFoUEIxR1dtbmhTYlp5Z042Z3cyNXFCMHJVYkVncmt6bVVxVXU0ZERTMjY0Nm9OU2d6Wm54Vk1meXNJSHdfNzFHcUo0NmJEcjFDdkF0QjJ1bFNpejdMeUpwdzZqV1EzNEJLbzdoNVVEVTNCWmM1U2NfWHR6SEc3bXBwSWQ0TnhNczhRTUluVDhVdmpZ?oc=5",
+          "published": "Fri, 21 Aug 2026 14:57:28 GMT"
         }
       ]
     },
@@ -81,22 +81,22 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Börsen-Ticker: SMI im Wochenplus wegen der Aufholjagd der Pharma-Giganten, Roche, Richemont und Georg Fischer gefragt, Swiss Life, UBS und Straumann verlieren - Finanz und Wirtschaft",
-          "publisher": "Finanz und Wirtschaft",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXQlZYUTRxM016eG1lVHdsY1B0V19YSklXVl9wa2lQX2JiZ2YySTRLOGdyQ3RncVluMnRDczdFX0VIM2ltdmFneThCOGlJcmhRTDNzWGdxNWxNRVJqeGxzSnlfSDlkU2RyNm5EQQ?oc=5",
-          "published": "Fri, 21 Aug 2026 05:25:10 GMT"
+          "title": "«Humanoid Robot Games» in Peking: Roboter brechen Rekorde - Watson",
+          "publisher": "Watson",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV01kSGYzYXU1WHJ2eGtZRXVKb2JGTzVPYmdpejc0ZmFHeFBxRXF3NTQyYlYzMnBvcWxQcF90Rm9oRWREZExIaFFaNERkWGdIVjlOOVVhYWc4dEUtZWJISlBIQ2NySVNQZzdwNVZfTTFKdGZqTTMxQzNaMnNMVEtTeC1EdlNMVWNaRXBzSmIxQ3Z2MGpOaVlLWkRQZjJaLWdp?oc=5",
+          "published": "Sat, 22 Aug 2026 14:23:00 GMT"
         },
         {
-          "title": "US-Schulden knacken 40-Billionen-Marke: «Trumps Plan wird das Defizit nicht kleiner, sondern grösser machen» - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGZZNG11N3BZdXNnMGtGc1hYLUFRVFZ2enVhcTdXdlVrbktKLUV5a2t5MXJvamc5czRTVjMxN1gxSGVONTNzeDdIUl96SU1YN2JpWUNQbEZSbHZLVmpvODJtQjR6b1dQaU5wbG5sQ2s0MUJQX0xvRlo2U01BeTBzRDBVOUhvSzcwV1l2T1N3RHMtbG0teXlZTjZBQQ?oc=5",
-          "published": "Fri, 21 Aug 2026 15:57:13 GMT"
+          "title": "Zinsanstieg: Die Nervosität an den Finanzmärkten nimmt zu - The Market – Analysen und Hintergründe aus der Wirtschaft",
+          "publisher": "The Market – Analysen und Hintergründe aus der Wirtschaft",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWVBSNXREZVdCRGZnT2NaZndzblJNdTlMcHlyeEhhRlJPVkJnMjdPcTVpSWt6VGNOQnlwTGx2RTByTmlDN0txV2Z1a1JxVHd2ZFU4cUpWRU5vRFBEdHo0RlZ5SmQ2aGw5bmhiT2hBaWVUN0d5WkwyZS1aS3JDNWstWmg1cEtWMUxZbUVldDBSLWZZU2pLUmhLRVBvWjYyTG5GRHlDMQ?oc=5",
+          "published": "Fri, 21 Aug 2026 15:28:17 GMT"
         },
         {
-          "title": "Achtung: Diese Nebenkosten musst du nicht selbst bezahlen (B+) - Blick",
+          "title": "Luxus-Champagner-Lounge in Zürcher Dolder-Badi verschwindet - Blick",
           "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTnRJYVJudHBtUjV5VUFHVmJIRmRoaFQ3Rl90emZNSlNzNHJtTlVLdDhJM0lhR3VuQzVQbWU3OU84Y3EwM2hGLWpycDVrYjdxQmhiY3Fnc1lFLTFvZFYxU19SVE9CQUh2TUM3MXMzUnNQNUdlZzFzaUMwRmVubmE1OGdMRzN0SzZnMnZub1dWT1NNZTZjM3Q4dzBMUWYyQ3c2MWNlUEhGWFlZcHVWV3FqLWIyb1d4M2VoSnFORW9OdmxCWVg3cnpRdmIxUEozcVFLM1E?oc=5",
-          "published": "Fri, 21 Aug 2026 13:26:57 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUJkZUhMd0thTXhfSHVlYWZlQVgwYW54d2RtdTJwNXJKUW9wOFQ5bjl0Nk5ZQnRicXp2MkVsRW83R2lZSnZuZ0l1LUQ4RzAwVFNZWkRmQlVUZkRhWjlUcVI2QkpoYmM5WUx1TW9kc2huUzR2RjRCZGZhRmx3dXBLbGhyNVRoQkw3eXFzVnh0d3JaanpISEVMT0RwYklrbmJnWUltZV85VXctWDROcG1DX3U3bnRpNy1ZVHZKOGtwLVEyUmQzSURSNGZVMWsxZw?oc=5",
+          "published": "Sat, 22 Aug 2026 13:46:57 GMT"
         },
         {
           "title": "Durchbruch bei Hautkrebs? - mRNA-Impfstoff gegen Hautkrebs: Das müssen Sie wissen - SRF",
@@ -105,10 +105,10 @@
           "published": "Fri, 21 Aug 2026 04:10:03 GMT"
         },
         {
-          "title": "IWC in Schaffhausen: 18 Mitarbeiter verlieren ihre Jobs - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWRUd1dMLUxIWjVpSFpwZVJMdkpPNXRURXhHUk1qMERneEJMYnA3ckJFOXVFWmRXWHFFWXJtQUszdElGRVl5bEJjV3hyMUlyQlkydE56WGJVbGdTMmVzZVpXV2kyOE1MVVE4bDhFZHRHald4VVp2NS1UM3JjWmNEUVNRMTVCanljMFRqcFV6YjFEbDVzUTJwOHpodGlfUEFscWltZThQOTRwMklX?oc=5",
-          "published": "Fri, 21 Aug 2026 11:40:32 GMT"
+          "title": "Deutsche neidisch auf Schweizer Billigautos - Inside Paradeplatz",
+          "publisher": "Inside Paradeplatz",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWRIdXhHbmhwYnBRU09CRXZIZE9jU094MmZ1RFBKekNOYWJjYVJRdTZuOEFSSEwwUGpneFdZSGpvQ2tQTmxkLXM3MUhxcnFVY3NJUUp2eTctcGFZWGJVWm85U0RCNDVQUWpuNVBhTEVvSUc1R1hyNkp6MGhUMVV2QTcwNzlrdVNCZno5ZA?oc=5",
+          "published": "Sat, 22 Aug 2026 05:42:42 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Werro auch in Lausanne nicht zu bezwingen – Moser und Ehammer 2. - SRF",
+          "title": "FCZ – FCB im Ticker: Celar trifft vom Punkt – der FCB führt erstmals - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ2phcnBlYzdsc1JqRUVwQkhuUnFmZkVHSm8tUVZSQWI1a3JHdDRobGhyczJWRG9qYnd6eE9LMURWeDNxZkRTdjhFS2dubzNzakNhSGhTdkdHYjcwZlJBYUEyMXNGdVZLeGxSbUtjeFZ2d1VRWlBNcjVrZXhVdjl6M082OVAzMnphYTFlQ0lEdmF2VXhC?oc=5",
+          "published": "Sat, 22 Aug 2026 21:57:24 GMT"
+        },
+        {
+          "title": "Euro Hockey Tour in Kloten - Schweiz verliert gegen Tschechien Spiel und Stalder - SRF",
           "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzdySVdlLTdWd09GMkdYdGFqZUF1NVljckozZmFZOVMtUTl6ek5ETW9tejFDNTE0LUtselZPTzU5QlJRWHlFbC1SemFUM2FVOFZBOTItMUVyQ1ZpeWFKa19zeGRVSVVqbVRxam93Xy16TWNFU2NrUUV1NDdwYi1DSXluaU1JZHltZzVBaTdBTVFkdWQ3blVyZzBZclN1X0hLazhidHVoWkoyTDM0eVkyYkR3ZU0zc3N2dU9TZlNpNmQ?oc=5",
-          "published": "Fri, 21 Aug 2026 20:01:58 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbnlUOWt2UzRVcGFfOG9fN0I2RThYYjRUTmFXSUQySnlORzhPWDk3RXEtSkt5U2luNU93TWtuN1NvblJrSWlieVMzbXZyWEtVd0l5Ul9HMFhBREVoSVpiYlZRWFYtTW1xQzNwZW9xd0lNV0JsYnlJQnZJRmtFeEdTZTZnX3IwNjFEOFZzWHkyb1E2VzlUMXl3cjZnQ3dsT1VTTTQ4amNsOHNNV3ZXSXpteEY3NUwtQVB6S21XaEdRMmwzRjB2UnRidE9PUElPUQ?oc=5",
+          "published": "Sat, 22 Aug 2026 15:28:21 GMT"
         },
         {
-          "title": "Sitzt Shaqiri auch gegen Lieblingsgegner FCZ auf der Bank? - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcnVrWDI1LVpJSlo2dFIyaGNuR2RfZWJ6Q2I0UFQ1VUtzdzBZSzBIZFlYR0JKTWZiN3FRR0s0dGlFekl2a25Id0VTcTktZUM3RWlPRks5NlFmODF3aGNWSFRhbUJQWE40T1dZRnJZQ1o2dHVtVFFIdm1uVHNqZjRobkhidDJrWXljRjFpQ0RZclAzM25Ba281NHVsTlg3NDdXUVBpSlBqRVdJMmJnXzhoTUxGSWRYdGxwdFJrQWdncTl3VEJFM2JFaFFYTzJseGRoNUwtSG5jMGVKejYwQWNhQXFB?oc=5",
-          "published": "Fri, 21 Aug 2026 16:58:17 GMT"
-        },
-        {
-          "title": "Women's Super League - Waeber trifft doppelt: YB besiegt Meister Servette - SRF",
+          "title": "Kunstturn-EM in Zagreb - Seifert geht am Reck leer aus - SRF",
           "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkY1T2o0Y0p0QTZWNGhldlFvckI2WnZpajUyM3BqVkREMERxUXhVUlZuekN4NlJ6Yi14V1F1T3F3MjAxWl85MTNUSmZ5Qk05SkhGQ0p1RlhNYUtuYTdDNzdhUi16c0ZjM2dNUmJydW1vUkJQckFNMmVuM1RxLUVjcXBZNUk3Q1JIWFdxOF91Ym84NTAxcEd6Qks0NUxNbFJ5LThTVEVJMzVZa1h4bzN3WTV2Z0lrNjItMmM2R0ZvRFNxUXc?oc=5",
-          "published": "Fri, 21 Aug 2026 19:04:39 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUVXZGI1a0tUV0x3RHAwZVBwdnZyNzU0eXhjZjRhbENkdEtCQUduMWdGYjZObXFjeldPbWhqb2ZQNjFoV3BzSUw2akx5NFREOFczSGVraGxfUlFyQTV3WTdGY3JJRndQQnBtZHN3UVFDZzV1LUxCWHN6QlhnYXk1UDVrWmdMbTJ6eG5VaG03SVdZbTNydTNpaENwVEZkV2Y2WGc?oc=5",
+          "published": "Sat, 22 Aug 2026 16:48:54 GMT"
         },
         {
-          "title": "Der FC Thun erhält eine bittere Abreibung in Posen - kicker.ch",
-          "publisher": "kicker.ch",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc2c3Tk5iakQwbEl2NE9CaUZjMTBhSE80Z1VyYTJ6MlRMcWJmT21BaFA2eU12OG44bjdXOUlsRURqaHNUcHZEVnR0MDRxRVFEc1U2ZWRLMlZ3VTJJRWV4eGRqSUNrbmJCU2NKakMtSmg2UFlGd0REVjFyYW03ejNZZWZfY19iYmJuM1pVaHFldkp0Q3Y1c2ZCN2ZQalM1Zw?oc=5",
-          "published": "Thu, 20 Aug 2026 19:19:35 GMT"
+          "title": "Der FC Luzern feiert nach einem Goaliewechsel den ersten Saisonsieg - Watson",
+          "publisher": "Watson",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZHdEYnpTd0NvVmg5X3JoUjExSUlUQWxZRy1scFNpZkQ2anRJWlJyak9WcXdBVGRseTdmalA0M3JCNjl0ZG9TMlVtZ1ljeXctX1N1UDhoUFllaU5zQ1pzMUg2ekNPU1NGNmN0cGI4N2s1TFAyT3hQSTE0WFMxS0V3NE50QmVIYnhEZkxQUUszQVBHVFZVb2VhT2xjdm8zS1FTcHl3eXdobkNfVU01N0lTaWtRS1JoQQ?oc=5",
+          "published": "Sat, 22 Aug 2026 17:54:00 GMT"
         },
         {
-          "title": "FCSG: Teufelskerl Zigi hält Espen-Traum am Leben - Blick",
+          "title": "Basel empfängt FCZ zum U21-Klassiker - Blick",
           "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTVRyRjVrZWZtdTZEdU82bnZsTDNCTXVENUFjX3VRUUxoUXZYUFh1UjI1WFBZMUdKWTFKWGt4NkNMV0dSa2FJU1NKQ2ZjdnlXWDFFdlFvM2w0TEd1OTFvTkEzUS0yYTdoV2V0ZDlxSnVhMjh3LUxLUEtVYmpHZUh4Q1NoNnFFbGNNVFVhMnhlbUhPek5KbHpyM1FiVmZpbjBYUkJLS3BNNy1sVm16VXVyN1JtLWV5UEpIMUpMNFl5OVZCN2RIS3k4NkxMNEdqWVBtcEtNM3UxRUo3bko5aHBDVEtyZHlxWFRmOTZhNlNCRnNubmlXWUE?oc=5",
-          "published": "Fri, 21 Aug 2026 07:23:04 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmFHRE1RUzNUMmpoZ24yZC1VOTVNWFBDOXZwRzRlQ3Zfa0xNbzNDWXhsbXhSTXZ6cURWQi05bHAxeW4za2swaHpNdGhmNW81aXdVTFFwVXNUdVZaeTdMWDBGYmhPY0JHeUtMemdaaXdKVFBpQ2lOUDJOMUx2Z1BFUzNvQWwxR0pzT1BaaHBEeUFIR1pHYWdjaXZ3Z2s4bU43Wlk0RDJhTTV5aGNtQnVCU2JRUTBRbTBGWWIzLThPTS0?oc=5",
+          "published": "Sat, 22 Aug 2026 13:11:49 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Was steckt hinter dem Fake-Wald auf russischen Plattformen? - 20 Minuten",
+          "title": "KI und Reisen: Können Chatbots Touristen vor dem Massentourismus retten? - 20 Minuten",
           "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQW40d1l4S0NDZ0p2RWg1WlhEeFVVbUJlbjMwNnhKX09DRGVIVG51czhDRlpTSWhISTRMd0VkSlNXR0UzUTlDV0JIZzQ1TXFMei04QUVscmRXYmxnUE1lbXpfWlh0UHd0OXVMM1kxbXFJNHZzR1lSc2NYaThkRExuRm1FcTF4QktuTFYzQXYtR1JTSGhKMDVSZkRXenZvQy03eFMyOXYwalRodXdhZXVXZDBRQQ?oc=5",
-          "published": "Fri, 21 Aug 2026 08:57:48 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXVtV1B5ZGNxamRObmpxWjZjbUVjOGc2Rm5pOWNNX1VTS1F0M05OMUdJWFhBbjc2Qy1WRmgxYkdzNHdXSVZsWURFZ1FzRms0dFEwZk1EeXRiNno3N3NUdEF5ZFhvOGI1MmVya2VLa1U1dGo2cTJFdFNUMTJDakx5VkV6eWFSZ3d4N3BZcG13NnR0MXZUUVE?oc=5",
+          "published": "Sat, 22 Aug 2026 12:38:38 GMT"
         },
         {
-          "title": "Schweizer Schüler nutzen KI «für alles» – nun fordert der Lehrerverband nationale Regeln - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUkx3OGxYVDBNX20ySTJCM1dXU043UEdMWWhmXzhJX1piMmZQckNRLU5ER281ZXE1S2xOdy0xNVlabG9Bb2t6ZE1nQ1BFS1NhYmJnbnc4Sko2NDlaZnpJUUM2SzhWMldoWXh1dGFxYVdoWEU3aHNWMzVhNUdLSzZXcWV0WTd5dUpFbTE2TUllVm0yQUlGa09jTVprRzF6UVA4WmdiRnNJbVk1SlFiUEpUR05ZaTlCYkRSNHc?oc=5",
-          "published": "Fri, 21 Aug 2026 02:57:19 GMT"
-        },
-        {
-          "title": "Drohneneskalation: Putin provoziert an der Nato-Grenze (B+) - Blick",
+          "title": "Apple bringt das neue iPhone 18 nicht im September - Blick",
           "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZWxVLWNwVG9HTklWT1FfNk5OcVVSNXp3MjZwMkZTVHY2c2FFTEJxYmRCUnY3ZzJReTItQXNabDVjMjNtYllQNGtRaWlEWWEwMzBIcjJtM0F2WERlWXNWX0VEZVBvOGh5NnB0OVdyXzRtc0dwWDRrTXhBN3VvbmprcGVpWklwMW55dExfOXV6UU0wNFlFdkQtNENMLTlLX3VDRlBKM1R0R2I1Y0l0QldWSGI1ZkpHUGJWbnQ3YjNpS3VtZHMyU0FhUUtlZERpejdjRVdGaGpVb2V4YjZsM2Z5MHpMUUFPRnFkVU9nSzQtZk9VZm9WZ1VJ?oc=5",
-          "published": "Fri, 21 Aug 2026 14:45:12 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzExSTJRV2ZhdHNUSGFCd0I4SmxJYU5rZlJCMEF5UmhkSGJiR2lYTmdBcm5FR0tra05ra3dJZXhyNjlUWFJ1Q0JFNkdEMWhCS3A1SUhEN2x3OGR3S1gwUkgyd01namRmVGNRS0RSakNEYWdPbXptaU9LWVBlTkRRdW10VE9pNksybmttTXlNWUNFWFlYQ3UzRVFzTllWelFXNW5vcllDX0RUNVJqVTUtUXZaWTRpZGM1dVB2SWp2RkNQc00?oc=5",
+          "published": "Sat, 22 Aug 2026 09:31:36 GMT"
         },
         {
-          "title": "Neue AKW kosten bis zu 43 Milliarden Franken! - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRjRsSGlmYmpYNHRQV3dMVnIzRjdacExLU1pfY1VEaGJsR0dwN1VlOXo0WE8takw5VEVnLWlCSE5YYksyaE1OeWtTUnJZdngzTjlCa2ZzQW12XzR2V3hJVXlOVXgxWFV5MTZFVEZGWXMzTjBHOFljQkViM0tSb2NmbDJyTkdwYV9fWndLWFJIdWptd29td2wtcDRHTXNCemU4TUxrSnZKNVFjRV9zaXk2bTk0WUstRFU?oc=5",
-          "published": "Fri, 21 Aug 2026 02:01:57 GMT"
+          "title": "Schweizer Tourist auf Bali wegen Video auf Social Media zu einem Jahr Haft verurteilt - NZZ – Neue Zürcher Zeitung",
+          "publisher": "NZZ – Neue Zürcher Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVklMa0dCc1RST3ZMOGlDUU1seGNIaDBwX0hyNFVLNEFDMEw4ekN1SmJleHAtT0Rtd0pOQlBiUlJNeTJicGk3d2p3UGlHVkJPZllfYk1xZDY2cmdDRk9lZk43TEJrQ1JreE1meWZiX002WXJTZ3F3VlY0LUw2cFh1dll4TXVaSGd0Q0twazllMjd1RXVwemFtcW8wcFh6QXpabUhtZS1mTVB2OTFqV1JPVUdXa1dEMGpmOVlIdkNWRWJhcnc?oc=5",
+          "published": "Fri, 21 Aug 2026 14:48:14 GMT"
         },
         {
-          "title": "Besser und lustiger als KI: Neues von Photoshop-Troll James Fridman - Watson",
-          "publisher": "Watson",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVkNxVmdua1Rxd2pFc0pIVEc4YXg2REg3bHV5X0o2SDZBLVVDT1RQQW5lT1o2REE5Y1o1aVJkS1ppYVRYTmpEU01kMlhkSkVrX1ZMN3VZdU9aSnNzcTExTUQtRTRUa0QtbHN6YWdFUTJnQnFVSkY4T0FSSzIzcVpUVHd6ajRlZW9hOHExRGFBUHFwNEI2VG8yYm9ZWi01aFYzRUR6akVhb1owTjVsTDVv?oc=5",
-          "published": "Thu, 20 Aug 2026 04:46:57 GMT"
+          "title": "Schneller als Usain Bolt: Chinesischer Roboter unterbietet 100-Meter-Weltrekord - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkNQdTlFTnJpMUJvWmRnNXRBN3loZlBCajBydFRCd2ZIeWh3T1FDcFpWTWJpWkhlNmthRlk2X2p6Wm9lZmd3Y2dXOWRwZ0w4a2NIbm9MaHBPNjJyYUlERHV5ZHBVOGljdlhLXzlnWkZIMmt3Q1JENUpRdjJXQS12a203ZjNHVkxwcnVXMS1WSEdRN2M3WjZJUjdNMFdxSU0?oc=5",
+          "published": "Sat, 22 Aug 2026 18:30:10 GMT"
+        },
+        {
+          "title": "Protestwelle gegen Datencenter: 130 Milliarden Dollar vernichtet – und Trump bangt um seine Mehrheit - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVlcybTVfT1kzWVZYbWFJaTRoWmNnS2UzVFJkTmZRR0p4WnRhcnB4UWtEbFloQ0ZIeDRxcFlsYWhnMWFYMnQ5V1dqTWM4RFZ1UWd6cWJrVmNIVEhXYzNIbWZBUjlyenBTelZHdVAtSlRYOUhUbjEzR2gzY1BOdnhHckR6QlJ6bDVnVWF2ZHc3MmFoOEpyQVVZcjliNk5PUQ?oc=5",
+          "published": "Sat, 22 Aug 2026 14:04:26 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Paredes banned for 10 games after World Cup final fracas, Argentina fined - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5",
-          "published": "Fri, 21 Aug 2026 18:56:43 GMT"
+          "title": "Gianni Infantino defies FIFA VP request to avoid youth event - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUJFd2ctVldWbGtUTFY1aFBvT09NOVlESjJCUU9TSjVaRGpVb0JsM0xiWjZPSVJXbzJTTDdwT0RhN2V1clhUdkZBWHR2UWpFd2ltc0I4cDBiQlVWa0ZUMFFzQjVSdjhhN3VZQnJQTEREOVRzbkdkQWQ0YXd1TTh0NlZoUHVJdjd1cVUzd1BaTFY1WXFCN2Y1aHQ0bmswRGNKLXJ2TzhfZWFBd2t1OElSdHQyYlhkQQ?oc=5",
+          "published": "Sat, 22 Aug 2026 14:25:00 GMT"
         },
         {
-          "title": "EPL Ratings Will Test Whether World Cup Made U.S. a Soccer Nation - Sportico.com",
-          "publisher": "Sportico.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZGpNM0xlbjlDZTNTS195Slc3RlgwT2tURDNpckN6dzhfVGJDWWI4ZVl1bzdIRTZvYnRHS1l6NVhYUThFelBKRl8xV0lhbU1jMDRzQXJjRS00SkFrcWtDcGZHSDJ3anpaVk03c0czWjRielM5ZVBXSGF0b1VrRzFKMTZoUUh3Nkk4MmVKeFBFY3lTTWdTWGdiNHBEWmFfb1hmZlQ1SXFKQUdTTmMwQmc?oc=5",
-          "published": "Fri, 21 Aug 2026 19:40:06 GMT"
+          "title": "US soccer wants excitement after the World Cup – the Open Cup provides it - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORU5aRkZqNElWY2RBZkp2Y3lOaFRfYjNxS2hVOF93al9DUF9HeU92VEM5TlNlQXNyZnE4eHNqLU8yOE1aQ3Joc2NHWFBndTZNcFh5OXJYN1hkdW5pVmVpX1M2eTQ1V3kyQm8zQVk4Wk94Y2NxWS1KM2s5WmxuZnJvNTFRQ243TXFNRmhvdTdVQVk1N1MwQTRpcFprS1ZhVFVFTndOQ3pLbUVRN09UNjd0VFZaT3o2eE02YnB6Rg?oc=5",
+          "published": "Sat, 22 Aug 2026 09:00:00 GMT"
         },
         {
-          "title": "Argentina players, staff banned for combined 21 games after World Cup final brawl - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVlodUgwWE1qbjFDcThCWXNyS1ktek5sMS1lQld0N1dUWVFBOTlJanc2LURqZWd5bkZKcEl1Y0JSZWZ0ZU5JcnNWbXRPcVJ0NzJHYTNlLUNSbzFfakdZVGZZTFlHOWxDSHVfWV9Fak5CYVNidjl0SlM1aXRVY0FEQWVOY215UFhRWlRick1GckZUY3RtZENBYg?oc=5",
-          "published": "Fri, 21 Aug 2026 16:13:34 GMT"
+          "title": "Britain Premier League Soccer - GazetteXtra",
+          "publisher": "GazetteXtra",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTS12TnFXaHZiS19ITF9mc1h5aDVGYlBSOHFHYTAzaGh4czV2RDJJVXMwZFFWM25TeVdFdlFJb3V1YU5xM0dhSDFrcWVnU2JHaVhBNjBPQlI5US1hZTY5YWtlbk93STBfX185X0pzaXNJRVVUcFI4X2poaGVkX3MxaWxucWliVUVKWEdnR3YtQmREXy1kdF9kTDdLWkVXUnU2bWdWRUxzNkRlbkFoTDhCNWVoNnk?oc=5",
+          "published": "Sat, 22 Aug 2026 15:34:40 GMT"
         },
         {
-          "title": "The Premier League returns today. Here's how you can keep watching the World Cup's biggest stars. - Yahoo",
-          "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWGhNLXhNV0hYdl9yaThsYk1IVWx2dEllMklEUkRQNVEtQUZEUGkwVFNpcDhuc1RMT0FYOC1jTWhXdk5kc1JDV0lxc2tNbUV0WEQteEJLQWdZelFsYl9YUnlDTW1xV0JCekdIVUxDTUlVbktRbUcxNVpiX20tU3lETk9kc3FYU1hPekJUX2U1OHpObGJRd3VoU0lmcHlvdW1tUDN3RDc5cmt2WVhCYlhXcHdHZGFSN0wyVGotdVgtekNFZ0ZqZHgxQmZmVDVBQl9FN1hZdjcxZGZSTTF2SXZHLU5PUQ?oc=5",
-          "published": "Fri, 21 Aug 2026 14:48:53 GMT"
+          "title": "Britain Premier League Soccer - Dayton Daily News",
+          "publisher": "Dayton Daily News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcjR3bWRRMkhqclprZHFRWTZTeFlwZmdVTWFUY1YzN3dLaTBaS052UVVPOG81aVloeGxhYXdMQng0VDQzNzhzanNrdFFSR0VPcnphdGJ5YXpILTlhOXFVUWVseTd2XzZPSjl5VXBUc0drX2hUdjJSUjFpeS1FSk9qSkdtMm5RVXYwREtCRDJfRjRCVXlRSHBCTThmclRFM1huakhMNDdEaWVfRFg3RDJ4YlA0bkg4WFBGY3BPZEtNMA?oc=5",
+          "published": "Sat, 22 Aug 2026 18:38:20 GMT"
         },
         {
-          "title": "How one Silicon Valley firm is seizing an opportunity from Premier League soccer's gambling ad clampdown - CNBC",
-          "publisher": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXB3M2g4b29ZYlFZTTg5cm1tXzlDdkNBT2ZnVTZfRTVTRlZJbTFQdFV4dXBSNUlRbG1mWVdVdC1laEMybDA3RFkzZGpkbkFnMFJjZ2JrUHRhVUxMNXdNZkVFM1NiS3k4Zi1wUU5xZWkwczE3R1lTcGpoLVdtT1RWUNIBhgFBVV95cUxQbkIyNWpOVVR4bEZmQkoteFowTHhqOThqMlVSdXFSOExFOXJBNURma0J5LU56d0F3OUx6TUV1WE5ONTQ2dHFiQVpCRV82VjgyYVRuejJweEJadWlBQThRZEtnWU9WVlRWZGs0Mk1KTkl2NFpHR2R0Q3VNUi0tSnc1VjJQNFBtQQ?oc=5",
-          "published": "Fri, 21 Aug 2026 14:00:02 GMT"
+          "title": "Soccer fans launch global petition urging FIFA boss Infantino to resign over World Cup 'betrayal' - ABC News - Breaking News, Latest News and Videos",
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTkpCdy1oR2JlZFpoWkh0MF8xQ2JyaWduZmdOcUFRY0w5SEZ0QjdXdzliVHRVeDF5WW53c0hVRzFJOFlMU1RrbjNlME5NTVNYN3hUbE0xa3pxZmR4bEhHWmgxWWpKc2RQZjlPeThaVEJ4QlZBN0lnaUpjUXFrTldTUEJpR1YtX19LNWVfRHFrdDJHa3ZDNTdVRkdSZXpzNDTSAaQBQVVfeXFMT2h2cVdUaUlUNDFYZkJ6Ukc1cUNIRDQ5SVRHTXVzTExpeW9FYThDd2ZnSWUtcE50REtKY0s0ZjRVSXpjR1JhYnRkYVg4RDhWUDFoaU9naG1EU3E5RXQ1dDFEWjE2WGVoTGxCRFNLbTh4cDlvUEZ6LUtWUXdFUGtSaXFOTzRrcjBLM093S1I4M0RpbVRRQXB1WHNYRjhRSnpxVTgzY2s?oc=5",
+          "published": "Thu, 20 Aug 2026 12:41:07 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Hayden Panettiere’s boyfriend’s brother reveals what happened inside Airbnb before actress's death - Fox News",
-          "publisher": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV1BRc2VtMHFUTXRPX2Zqbko0T3ZXS3dReVNTdDQwX0U5ZUl0UW9kaUZRWXREcjlZT0lxQUFEelIxSU5PRXdzTzc2WnprRzFBclN6Nm01Uzl6Q09wZE1pdEJzQXUzMTFma0h3bTh6VkVWbUZ1bWVVdHRoMVBFeHl5YXd4VWpFYkU0Wi1DR3lSYzF6eXFlMVVFS1dRVjZXVVU3akp0OEZiZUM1TXBqYnF6dkhvUnItLW1IbHNHUzQzRTBZajkyallNTGNVONIB0AFBVV95cUxNbWE0WjRxUU5NckRHRURTOEhSaFNrM0lIZjA4clEwNXF3X181QVhvRjNGWGVzUnIzd1dMVXRVbjdTWFBGMTFpTnVGWWZQMHFDSTNrMlAtMWFkQkh4ZW5CYmNwQWtHa1QzV3FvZ1U3TUl0ZkM2R3pKMUdJX1Q2TlBTeFdOc1lzVm5jbENJcFJRS0ZBZXMzWkNBUHc3ZWE3dW9IOFE2TjFYWkI2cGZkSHMzNkFndGVoNmVSQVkwajBaSTliMFJRN21OYzZUV3NSTngz?oc=5",
-          "published": "Fri, 21 Aug 2026 21:23:37 GMT"
+          "title": "Inside Hayden Panettiere’s troubling final months after a life in the spotlight - CNN",
+          "publisher": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHVYNHphQU12OWVDaEdlNUs3Wm5CNmc0eUhTWHg3dmpoTVhNLXpWZXJacWdjdEN5azNzMkJYOW5Ody1qdjNERnV1aFkzWVF4bUV5Mm5YTUFSQ3JLWEJEOGFrTWRDSVhxR2RlM3ExNjB4cUFHUzJFdElsMzVpVkFYMFpjb1FCLVNPQ3Rj?oc=5",
+          "published": "Sat, 22 Aug 2026 10:30:30 GMT"
         },
         {
-          "title": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmJjall4NGs4U2pNNlFCZ2g5ZklPWlFmWUsxSVYwUUE2M1JxcE5NU2gwS3Y0czF1cUZZdDRHLVpKVlZPYTBTMDZ0WVBkVFhtUjJBR1dKbFppLWpvWVBmNEt0MnBoa29nMjRzSW5KZDBrYXAza0ZfS0VYUmw1a1c0S3JNM1VOMEJqbnBfSmxOSUFiVUF5R0VLdA?oc=5",
-          "published": "Fri, 21 Aug 2026 15:23:39 GMT"
+          "title": "Meghan Markle Reportedly Dropped From Guy Ritchie’s ‘The Gentlemen’ - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWV80blh2QkVPZjhXZVN2aTVSbl9GMTlwZm5OSjNoMU53QVNubHJtNEY4VnZ1Tm42NndZc3IzekZ5bUY5bUMtYUhnQ2dHdmFDUXhMbkNLWW81SHZnMmdyMzFzTjJ3WG5GRkZHVVZWMkpUdmlhY3hzcE16eFR6RFBmY0F2RjZYb3pGSnQ4RXNKUmxNNmdHLUx5akRVM19tNFhkUFo2Qk4tbw?oc=5",
+          "published": "Sat, 22 Aug 2026 19:12:35 GMT"
         },
         {
-          "title": "Meghan Markle in Talks to Join ‘The Gentlemen’ Season 3 - Variety",
+          "title": "Box Office: 'Insidious: Out of the Further' Takes First Place on Friday - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcG9nVXBXS29CMG5ia0dCQzl5Q29jNDBQQ3piR1BkaHVCNGtaNDd3Y2NYOTNVN1FId1ZKVU1Iek5uVExmX1RoLVU5TWRkUjJKelRkbjdDeTM0MnR2Mjd6ekQxa09WU0xfTzBmWWJaR09rSHFESldyX3ZnV2ZNQVIwSl9MTVRrb1RGQndN?oc=5",
-          "published": "Fri, 21 Aug 2026 17:17:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTmtrMGRkRUFlUDU4eTJjb3BtRkJyOWU2NmZwRllybTgwaUdjMjJzNkl1QzQ0U3RWSGdmMWR5QUpfcmlIUkREZjBfZ3hJM2dBZ1FMYUpNQ1NhZ05RMEROcndESDI0MlNidjl1R2dQWnluTWF3Y2daTHZpSE0zTFc2V1d1SXRBaEFRQ1NBb0RLT3E1VEx2MkpuYk9EaDdKUjRXODMybXBR?oc=5",
+          "published": "Sat, 22 Aug 2026 16:06:00 GMT"
         },
         {
-          "title": "'RHOA' alum Kim Zolciak's 15-year-old son arrested for sodomy, sexual battery - USA Today",
-          "publisher": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT2VwMHpObWd0aUU0aEM1WS1yejdDZGRFd2VfOUhfNjgyZVdqcmU5MlEwMVgzT2JyWUI1SDUtb2F0OXVvWnRjZUJFUEl3LXY4RHBuU0lVR0RlbEkwRnFYaFVRblFadWlUY3llUkMzWXRmT1BKT0dwejdnSGVWMEJ0TDRBSmpOOXdIRFJmcXZWLXRNaWdHMm5aU2hsVGpWTExIWDZNQXVZVkY2bkxUdGpHTldrTXZpNXNOQzMxYTZQNFFVbVE0bEljVA?oc=5",
-          "published": "Fri, 21 Aug 2026 20:04:00 GMT"
+          "title": "Avengers star Mark Ruffalo attacks Ellison family, links Oracle to Israel - The Jerusalem Post",
+          "publisher": "The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oSUY2bzVFeWsyNlJ6SElvaVFKa0JGSDlSTldnVHNWU0s2Z1psVV9CeHRCanpvRDQ3VmxySTdKMHZDRUdZYzZpX0lnOHd4LU5fMDNPU0JQejJaZVRiVTNNZjdCT3FiZkFVc3c?oc=5",
+          "published": "Sat, 22 Aug 2026 19:34:39 GMT"
         },
         {
-          "title": "Bonnaroo Is Taking 2027 Off - Pitchfork",
-          "publisher": "Pitchfork",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Yc3JDTVRCVDJCaDdLRlNyeHpEeGMwZ05vYVlfUmJxZkREQ0wyY3hsQVpxTjhPVzkxOVk1bkxpXzBLZTdaT0NjTkpZektqMkR0dmZHTnB1UWFQRU9uMHBJZGg2NTB2eU0?oc=5",
-          "published": "Fri, 21 Aug 2026 17:25:49 GMT"
+          "title": "Early Motown songwriter Janie Bradford Hobbs dies in Los Angeles after illness at age 87 - ABC News - Breaking News, Latest News and Videos",
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbkhvVy1fcmZrS2k3elp1dDBldDNSTlBMeUtHWFhWUnZQeXZST3lOZ1FjVkE4ZENUYUpqZEVqaG1OLVVHS3VEZFJwb3J2QllmbHdNdlJ5QjF1RzFmTkFtRGU3QnY2c0tJNlg4bVZBQm44YlVWVWxHcUdDM0hNazFzZ1JTMlF0VlBobjBZeE9fbVNaVV82d1dQVjVhS0NYLVhGNWlJRjlCVG5jUWPSAbABQVVfeXFMUFVhcERoNXgxQ04yMzBoRUlYRm5TLUM2Qmt1RHdUYnl4V2owaE9YeENMeE1oOW5kU2xsRURveFpkWjBSSVZ5Y0FLVVZfcWJQVG15XzlLc2d4XzJZck5HSkZTcGpBNUtNVklzOTltQkVwLWpwNFAzZGxiSVFtbUZ3M3pVXzBtM3JuUW9JQ1NTdmR5dDNFWlM4S2p5M1pDRmNyQmZBdmpGVnhvR0VfS042Qk4?oc=5",
+          "published": "Sat, 22 Aug 2026 17:00:59 GMT"
         }
       ]
     }
