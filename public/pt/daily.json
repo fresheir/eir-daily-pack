@@ -1,6 +1,6 @@
 {
   "market": "PT",
-  "generatedAt": "2026-09-01T00:59:22.432804Z",
+  "generatedAt": "2026-09-01T23:48:18.317078Z",
   "validForDate": "2026-09-01",
   "source": "Google News RSS",
   "topics": [
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Presidente da República promulga Lei dos Estrangeiros - Correio da Manhã",
+          "title": "Ventura adia anúncio sobre moção de censura e acusa Luís Neves de \"arrogância\" - Expresso",
+          "publisher": "Expresso",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeDdydFAteTlnWHR5bnpKQmRrTy1DY1Z4TDFfaDN3Q19JNHRKZDdLNERuMXRPZUNrcEpNaWlNVEtFUjFlS3B2a3VPellmM1BlRVVWWG5Ja2N3YWFwMm94Z2R6U2VNT29Kcm11LTAyVEZBS3Z2VDl5dklBTkVqWnI5UHpNYjFMQVltaXZjYVJwa3RTUks3bTJqU1VDOXprYlZ1eldMQ0xWQjUzTXRETW9aRlZtUnpwX3JZNE1XMDloUnk0empmMm9OZ08wNm1pMEVC?oc=5",
+          "published": "Tue, 01 Sep 2026 19:03:48 GMT"
+        },
+        {
+          "title": "Fenprof: a dez dias do início das aulas o desafio é encontrar professores - publico.pt",
+          "publisher": "publico.pt",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYTUzdEVzU1dIUVBNSC1OWlN3TFdFTjRDNTFHTXBiZjRWdXFiR09oSmswWFdRaTdmRnFNaGhSWlpRZUZjSXdpSU03Y0RkOTVTbk1JQ0hZTmVWeU5DUzBMbGJIVW9sakRxZWxoZ00zWEhZV3FzTlp6LVJfVThlSmlRellEUnVRMDFERTFBZ29adHZTTDZhSHROdDlsaXhVNmZrT2x4dTMxdXQ2X1RBbjJIOVVaWEJRVXJoR2t3?oc=5",
+          "published": "Tue, 01 Sep 2026 14:33:43 GMT"
+        },
+        {
+          "title": "Função pública convoca greve das carreiras gerais para 2 de outubro - Jornal de Notícias",
+          "publisher": "Jornal de Notícias",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmlZN2YxTG9hcm0xbGZhd2lkTmpvcXhTV2o4WnNaTkMzcnFsQ2VQVUtRUFZpSDRrOXFEMk1uV0hVMHREWXBNaG5WOUx4ME1teEZfWDJTelNpRFVuTFAwOHpuTlQtMWtid2FtbTh1STMwempNQzJUUUotRTFxNHlEWHhIT2xhNlVmajk1c1JtSldYeHN1azBmQjBHUWVPNVprQ09DeEJKVlZXeVlFOXlV0gGfAUFVX3lxTFAtMnlKVWFoV3B1eXJRS2NSeXE4b0dKVTFMS0VxZ2xsLU5pTVVwSlpCYUE3N1FEMGk5ZUVNdXhoWVdOWUFCaDBhSzhyRm1USU5uOERvaEc5MDZrZDVCMUxNWHdxUVktMmt1TXhIRlYxekp4M050elJBMUc4b2xnN2w1SnZQU1p5N05BRzN4RXRrSzN4Y2pFbEZvLVRoNV9YOA?oc=5",
+          "published": "Tue, 01 Sep 2026 11:27:00 GMT"
+        },
+        {
+          "title": "Classificação Exames Nacionais. Ministério Público abre inquérito após queixa da FENPROF - RTP",
+          "publisher": "RTP",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeUZpY19wZGxXQWl5bC0ydU84RUVqMHhkR2FiSklCQXRqZ0xPaVNfREtwMWZweTdzeHluakNPY3M0V2lZZXpEOVJucVl1Y09sR0R2eWFMTU95QlpZdjRlSWJEQXpqcE1xR3Z1dGdScG1qaG01VzJOYmpwVnlNWEVDbF9oRTc4ZWQ0OVBGLWJzYlBlVEI0cVlZS0RBY29Dd0ZvMW5CejdzbDlQVVlucXNMT0s4ak04ZXJYUTJQQ0RRZXB5VDdWbVc5Tg?oc=5",
+          "published": "Tue, 01 Sep 2026 11:08:04 GMT"
+        },
+        {
+          "title": "Mulher morta à facada pelo companheiro em hotel de Albufeira - Correio da Manhã",
           "publisher": "Correio da Manhã",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMEpueDk2aXI5XzJ0YzRFbFJZTU8wS1paeGdBbnkxU2IwbUpQN2t3eEtpRk13bmgwaUtXdzhDb3NZWS1OTm9yaDQ4Qm1FeUp6VnVDQzRzbG9BSHFKd2I1dWJ3ZFlrbWRlRjgydTZWdGQ0TTdtYmZRMVZnS3BaRDEyME5qbDZXU2Eza0M5NXEwRnp1Q29nTzJLTHpZNk9rTDVWcW56LTNyeWN3YTVFb2R30gGqAUFVX3lxTE1TTHl1U09ab192ZlQtT2kwRkQwRGstdVAtNzdLY0Y5c19PVzRxZkdLQ3F6NDBfc3BRYXVkekVEb1lrM0gxNXVJQnVDNVdPd2s5a3ZSUk9ablVBZk91aUlLZUFDTUV4N1JBTTBRZVZDbzRITkRSRlhMWVczc1htVVRoYlZFdnJLV2dtSS03S2VsZHYxTkc0QzFhNjFEVWdhR0l0XzBiRFdOeG9n?oc=5",
-          "published": "Mon, 31 Aug 2026 18:39:00 GMT"
-        },
-        {
-          "title": "Elevador da Glória vai voltar aos carris em 2029 - Público",
-          "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORm9aSmROQ3NOdUtORVdBeUZNT3ozZTdpVmRnX0tDWkMwUngxQVFWeWlQbzJBY0h0bnpxSVVfYmhUOUMxQ1pCaTNwaHRlSGFHdkgtSTgtZ09HdlB5WnpTYUVua2JJTG9MakFyazBIQjdCY2FHenNqMnVIb2x2VVRETVBTU0xuUmVkN3pMTmIyVW1POFk1LXdsS3Vn?oc=5",
-          "published": "Mon, 31 Aug 2026 17:06:41 GMT"
-        },
-        {
-          "title": "Luís Neves diz-se \"absolutamente tranquilo\" e remete esclarecimentos sobre moção de censura para terça-feira - Diário de Notícias",
-          "publisher": "Diário de Notícias",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHNsSDVMbk5ZYjctbmR4THhXS2tFMTA3azRDQll5d2VJUlJ2bTZNR0dLYk1Ta1NaN1ZyS2I5TUFIRGF3bmh3SGpsYTdWa0oycEk5R3Fwb19rUVJ4OGlGdXd4ZHhieXlYRFhPdjRSdUQzUnF1eEtCeHktVU9tUnUtZ2pIZDZKTHNfbXFTV3NCVXpMb0hIRTFDLU5oSXRXU0Jzd0l4YlJCQ0pVWl9INWVwX0JZYTVrS1E0Z3hkUGNBTkotYTc2Z0x0MEg2dWJsUHc?oc=5",
-          "published": "Mon, 31 Aug 2026 14:29:50 GMT"
-        },
-        {
-          "title": "Obras incompletas do PRR podem rondar os 220 milhões de euros - RTP",
-          "publisher": "RTP",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1lxZlJwRklmdjFsNVdwTzFwTUNKdjM5UFRZeHdteU5NM0hodTZ2S1hmRi1Jbk9ILXdhSGFRNG5oRlIwN2c5bnYzR1BMUGFMRTZabVhPQjB2dmZ4a0Y4QmM5N1BBSzhidC1rbl9PbmZwMVlzVWhDeUUyZk9xeWxreERhaW9lV1Rhb2tnb3VBWGNSam16MGVreFlXcnRMS0ZlRjhleE9aamI0clk?oc=5",
-          "published": "Mon, 31 Aug 2026 10:49:51 GMT"
-        },
-        {
-          "title": "Taxa de inflação subiu em agosto para 3,3%. Crescimento da Economia acelerou 2,5% - RTP",
-          "publisher": "RTP",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHh2M2wtVE9fbDFRQ1dBUEl3VU5YQUF5Tlo2YmQxTExKQzlQdlhOdDRvcWV2bUVZOTVOMWY3VTUtLXJqbnRfNEZYMlV5dEZZa1dRemIwSm56Wld0ME9Xa180MXZ3TnF2N1lleU5BeGg1emRwc2lieFZaTE5SQUROODNPSmxZY1FEU2RxMlZELUc2OHJ4M3BvWnVsZTNvWXlhV181R0wtU2ZNMjl5c1BvVjVGTVJqaGJ1RXpLbGVkZw?oc=5",
-          "published": "Mon, 31 Aug 2026 19:35:06 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmJnSXZpWUxmdzQwanY4aDIzWGZmcG1DRFhYdXgwV1p3aHdNTlRveTBLaXZpVGd6ckxVZFoxdFlxR0pjdkdIbU5vTWlKb0dmWkVyYVdiNWNXd0Jpc3VKcFR5SXNQM0tMSm1vTW5iR2ZOX2FjVnNPc1RyQW5sc0dhS3QtN1plN1dieV9MNGhwb0V1Z1Q5dWpIUUp2R2U4YTBvR1FN0gGeAUFVX3lxTE5aM1k2cXBtLVJubFRIZWhCUHpuMHFabGM1djBQVlhBWTlVUlh0azJZeDkxN1FkZm4ycmJWa211Z3dBUl9pXzBEajJmdk9IV09rNUZpYkV1cG1QVktXaC1GTWFmZ0VSdWlzUDZXUzNobEp0YzRWTm1vbEF3amdxUHgwckhoakx0bllEYmI5akhlaVhHLWNqSDUtRkJYX2tB?oc=5",
+          "published": "Tue, 01 Sep 2026 22:52:06 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Diretor de escola salva 900 alunos das cheias no Nepal - Expresso",
-          "publisher": "Expresso",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ0Z6eENINy1tWjR0T196TmNyV3F0UXZZUjBLckkzNExwOVpWYm1mRVYtaUdNMl9uaGRjV2dKek41N0JJQVMzUnpsbUhUQWtPNDMxUDJ3OVh1NDRkVzllRjUzRzJWZ3o3eTQ1Q3U1b1NieUFVbUl6ajNNWHpVbjlLdFZtbkYwazh3MEJjczZmbFZkRENHa08xeXdVSkFPRGNp?oc=5",
-          "published": "Mon, 31 Aug 2026 12:03:05 GMT"
-        },
-        {
-          "title": "Teerão lança ataque com drones contra base nos Emirados Árabes Unidos - Jornal de Notícias",
-          "publisher": "Jornal de Notícias",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZURLU09SN255RE9HczVzdnEzYVZNcTFBV3RhNjBINVBjdXBNanBUQkxxdl8yb2lCcFlJMnF0cndWRmFQTXFMSWpjbjlhTElZQ19jR1l3bnRVQVZqY0FWRXFRb2xnRnMxSElYdVNhVEFYYjg1THNFVnBTeGlodmQxOC10MWRXem1PbHBPQm5VNmszenpQMDFqbTZ6ZEpSUlZIUDlDSUtmb3FvMnJGd0HSAaIBQVVfeXFMTjE1SlJiOVdNYldMWTlxTXByVDROd1E5azVTeTdnQzVqS250QjFQN2hzdTZCamFvQ0VvQnJ5SFRyRVBUS05iWXFkamlPOG55b052TEhnQ1FSRUVMT0c3Sy13SzNUalpVSFhva2Y1YV93LTB3UGp2Znpqd2xsdjdmbHptNEJYajFtRmROYjhJNm54cHpmNjRiZ3d2UVBBSk1oektB?oc=5",
-          "published": "Mon, 31 Aug 2026 11:04:00 GMT"
-        },
-        {
-          "title": "Putin e Xi Jinping discutem Ucrânia, enquanto China reforça presença na Ásia Central - RTP",
+          "title": "Irão reporta pelo menos quatro mortos nos novos ataques dos EUA e promete retaliar - RTP",
           "publisher": "RTP",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMlR3ckpaWjZRbHEtb0E2QVpsdEpKYmNyX3hfTjhKcmFXZzcyUXN2T0hmZG05ek51eExOMXJjQTdfTlRERUh6ZDhyMTI1cU8wSFRudGFvNUZrTHU5Wi11UzJjb1U4VEdkbG1KY1pZLUs5eEFhNWxJTmg3WDJrem81cm83QXVtUzZabFpRbWRBbGhpR0ZNUDRkMEhTUmtUZkxBVzdvVFdfdE5hWUdBRnE2V1NESXpobGF0T3lPOFRIdlNobmJP?oc=5",
-          "published": "Mon, 31 Aug 2026 20:00:18 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb0JrZDFXQV9jYUwyQkhUZTV4ZTZOcU1yNXJVcGtIYllCeUZ5c0hncW85djMtUmpnQ1dQOEFwOW9MS2lwcHhUdGFqcE01WUxEOVQ0QzMtY3g0REZxZTVSX2JOb2wzdDFUaGVqc0t5VmxzQ2lHVTdyS3l6bGgxRUt4TmZLVXNZSm51ejBzbXNVYnNWQWtQZnlSVm9uM21VWDdaQlZGOEdEeTlSMC1EWW5CRC0xVDFQUHJGQU5aZzB2dFJvTU0?oc=5",
+          "published": "Tue, 01 Sep 2026 21:42:24 GMT"
         },
         {
-          "title": "Crise migratória em Ceuta: Sánchez defende Marrocos e denuncia desinformação de Rússia e Israel - Diário de Notícias",
-          "publisher": "Diário de Notícias",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLTM0LWxCd3F5SEE0cjhEMllpV1NueUNhMTMxUDZMeWhKNTA1TG9JRlI5V0ZqXzBqOGRXMFZLMnB5VUhUUHp5LU5zd2VGQVhWdW13VEo2c3JvRloxVEctNlM1aG1PNFhNU042cUhiRlVha3pBZFpWaW1KSXo4cTh6NVBjeUtxWjdQV1FmOHYxOFVlYWhLSWxaZFhralVsX0NQU2VNQ2V0UHFrVFFFNEhmVHNTN2FyVjB2eGhpb2J3?oc=5",
-          "published": "Mon, 31 Aug 2026 12:05:25 GMT"
+          "title": "Nepal resgata um dos três portugueses desaparecidos nas cheias dos Himalaias - Expresso",
+          "publisher": "Expresso",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRXEyMTZyaTVjTVhMbHFxWU5xdlY2aDI0cHhvVS01ZXNjSVJXSEhQNS1mdXdrUlpxV1RQUkkwUUJraGl3TXo1ZzY1a19TeS1OX3MwbnJIQ1hQRFdiRGQ1dTAyd3hlSzdVckFvLS0yR3FLc1E5NUt6WVp1Z3RDTndtbFJmTGw2QUlJamZyNVFkaTZZenJuYnd6MFpzZWtMNEhRcDhIelRGbi1WcmFMSG9xZlRraEFWS0JqUGFxRDdB?oc=5",
+          "published": "Tue, 01 Sep 2026 10:43:34 GMT"
         },
         {
-          "title": "Lago Ontário passa a chamar-se lago da América no Google Maps dos EUA - Jornal de Notícias",
-          "publisher": "Jornal de Notícias",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOTRvTGgzMEZpYk42SW13UFBuaXVrM2pUMDl4bGQ0dU9qdnRueGRkaU5udEcwNjFVcGJFc1ZFSEhtaWRobWpPekFnUFd5SlNOM1lxVk16cmIwWVZvUjFoZGlUMFRDNGJuT0d0N1hLc1d3UDVjLWZWWURyTmxMY2tPc1NieUcweUpkbDFQMFFvNV85TTFoWU9kUHRLaGp2eWU4am5HM2dsQlhfeE9DR0HSAaIBQVVfeXFMTkgzQng3NjM3ZGJIdTUxVi02SjRHaUw3NlpUdGJZSjJ1VWtqTG9vZW92Q3YxZFBFOW1UajNOdk5JTGxQQzFKcHpueFFfNUswc3hDX0I4RlcwcHdYUDdzZUN2R2VhVjNRTXk1bzRFRzZEZ0g3cFNfTmpZMWVKaWVCeVJJVG5jOGFDdXhsRDJJcmNiT3BQUFpRNFJ2cTdlU203VGVB?oc=5",
-          "published": "Mon, 31 Aug 2026 10:30:00 GMT"
+          "title": "Alemanha culpa Rússia por tentativa de ataque com drone no Aeroporto de Leipzig - publico.pt",
+          "publisher": "publico.pt",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVW5zYUk5VUVLcHF0dVl0QmUtUHpBMFFvZm1RT1I5TE9pR2g4Z1I4RXBHc2R4ZlNCYmgwV0oxd0NmeV9WZ093dHlPT21DV0VwbEpIVFU5QnQ1SWdKYjNSYVM5SUlQTEt3V1pzVEJEaWUxbDFybVNOM2hZaS04ME16Y1RGT3V5X2JncFU5ckk4TnI2M25rdDMtWjU1ODFLQ25WRjZJNmhwMS1zN3c1Zm5GN2JHeHlHaWl4UlE?oc=5",
+          "published": "Tue, 01 Sep 2026 17:11:28 GMT"
+        },
+        {
+          "title": "Leão XIV renova convite a uma conversão ecológica: \"Ainda não é tarde demais\" - Vatican News",
+          "publisher": "Vatican News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNkxwR3lubWcwTE93dW9ESW5mTUc4TURZSGhvWG8ydzhCSGtNU1c5SXNucXU5NWJ1bjNXYWMtc0l3NVlXY1hlQ1JwQkdxQkxmOXBUZXdsSGdoQVc1SHV3UmwzdGJPQW9HZDdtQUR2Ui1HQ29iWXF5cU5sWUR2N1FHbGlrR3JwQTFvZWNHbGZ0ZEUwS0Z6cmVGVmVqNGJ4NUVJdG1Ub1JtWUVkQmM?oc=5",
+          "published": "Tue, 01 Sep 2026 16:55:10 GMT"
+        },
+        {
+          "title": "Oposição guineense considera referendo constitucional um “fracasso total” | Guiné-Bissau - publico.pt",
+          "publisher": "publico.pt",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0FBWVRMMDlQRFN3bEltVXByMGpIOFA1OHRJdy16aE5pb3h0R2ZOYUE4SkN1cE5RYWNfN2t3dG03NllTak5EdTVGT0VicFpzdzhaeFJjeGZrTHF6LTQtRkxYU3NEMFFzazl5dlJMQ0ZGdjd0NF9WNUtBZEdpeXZENTZGak85VFZDUGNMWlFya1FtRy0yZVNjOFFMWl9UUV9oT0hFQ3dMaTNQQUpscXpnTEhaTXROb1hPTzZyNmU5MFpUUQ?oc=5",
+          "published": "Mon, 31 Aug 2026 14:37:55 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Contas públicas voltam ao excedente em julho, com melhorias na receita fiscal - Jornal de Negócios",
+          "title": "Governo recebeu relatório da Parpública sobre propostas da Air France e Lufthansa - RTP",
+          "publisher": "RTP",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzg4QUlNd2daRndkdUhxSTh4NWFMOF9lY0ZYdEF6VUJhX0toQXFaVXQ3S3NyaXFRa0FwMnF5LU5lLTJMdV9YYVNUMURyYlY2ZTN3c3FYZU9LYmgxcEtzeElxc1VRQU1lenZVc1Zid0U0ZFB0RFM5NEVhVS1lNVdhcUFPc0NFRUxYdEZfeWlJWXY1aFJJbWNnbEVqdC1adk1JVHdQZ0hfaVpPX1k2czZwdVZmcnAtaW53N1prSzVMYXZVVm9pT1E?oc=5",
+          "published": "Tue, 01 Sep 2026 17:06:10 GMT"
+        },
+        {
+          "title": "Fatura do país com juros da dívida vai custar mais 776 milhões de euros em 2027 - Jornal de Negócios",
           "publisher": "Jornal de Negócios",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSEY5Wmk5OV9FTXVzNUNwY0RFNXlOTUNsSEhNdkloUGVRN2lHeE9JZFNnNXdzMHQ2S3FNZlROVkRlVHFSWFRrZHhscEFIei1mUGdRYnAzcTBONmpEMXdoX0JETXZOVlhnWnczNHEzT3A5cXJmbk5Qdm1GLTV3akRsMjQ0a2FkdmpOZGZodlBSMXFNSHFJQmJhS1B5ci1JUUNaWnJVY0QxaV9teE4wRUpFS2FOUmYxQmk0VGplWV8zNUZKUDTSAb4BQVVfeXFMUDRGSUVpNkJtR29QVndJYUtJNzZWQkIzS01kVUUwUi1uZlE3cTJrenE1ZFYyWWY3aGpGOWRFcDF0ZjZFRjh0UXRYeTFtRjZTVVQxSThvMG1NTG00Mm1ROGd1cm5jc1pKSXVqcVBGcG40bGNQX2dwWHdHbGMycmtXb3ZERzdxclFiZHpoaG5TdHFfSGs0SFlsVG5ralZjLVpqSUIwSG5yMlVLOVlXUGRCUlpQRzhMQlZWUnk0NEZwdw?oc=5",
-          "published": "Mon, 31 Aug 2026 14:39:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLWlmeTE4eThKMTlieTZrbVNCcHBJc05LN1NDNkhuN1dFdmc5YktmSXF3Q1FhLWtjaF9oaGp4UXowNzJQWENfb2gwQ3g4RHhySXA2empCVEhTT1FLOHJmQjJWUld4bk10cGVUQnVTaTF0T080LWtpR0c4QkRGQ2VTb0dSTDlreWtsQlZHd3M0WGgzc0t1d3NYbFlScFJjZkdfVjBkMXl1eFpIU1NVYUdlOEFwNnJFb1ozZXF5R2ZteUFsMlpKdjZlSFducU1HQnVaRTVrbE1n0gHQAUFVX3lxTE5HaUtIQTRPbE1MWVd4TlR0SnJiZl81ejRxSVRubE9sVU9uYldGdXFXakx3ZzhLc1JiS0dlc3ljc0ZxSVJLQ1ROX3Uxa0dZOXFHRS1oVGxsN3FsT2dmS3ozblJtMnlBNUxsRXlKUF9wQ3V5ZVJnN1hIcDBoTjdoa1FSYnFZUm15UjExbW9EdlZ2QXFDUFFwMVREekxJNDZXbGZ4a3RENW5uc3N1c0ZTRjY1YXpBNkYtVHRISVgyaGpTZ3NJR0tMaHNUeWd1U3VMMDk?oc=5",
+          "published": "Tue, 01 Sep 2026 14:04:00 GMT"
         },
         {
-          "title": "Certificados de Aforro voltam a bater oferta da banca em depósitos em todos os prazos - Jornal Económico",
-          "publisher": "Jornal Económico",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0RTRmlwV05Pa1pXRmUyaDk5SlRqTDQ0YkJrZGEwZkRtRVpRdkh6ZkU5OVpUTWhCMTZra2dMTTZvOHZFdHJKUzlyZ1EtbkQwb3luczNxVldwSHdpTHNSVnRoY2IzTl9ZVlBuVElHd05KT3k0UzBJWG9GdEc5SjlOSXBOQmRwYy1GdnhoeUpla3NBQ085WDVocmdfNGhaZlBMM1dkSW9JWklFMm1vVVpMTGluTzN0cHR0NXNxb1BLUVNZaXJJSkE?oc=5",
-          "published": "Mon, 31 Aug 2026 00:00:00 GMT"
+          "title": "Prestação da casa volta a aumentar em setembro até 70 euros - Contas Poupança",
+          "publisher": "Contas Poupança",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0JSVy1BVENsZFBCYk93YURTQlJSU2gyNHRMemJwMGRWNkZxb0JxSXZyM1o4Y3dzaUpWcTZlckZFOFhObUdhNFJBUUVUQ0szRzczbk5WazNqWWl4OXBrcWVLOFlJckZuaWpCVFN5UWl3dGJ5V0M4cE54OFV4ZkROM1V6dlpOUXhuZVZGZ0M5cDRLSTh4UjNURVFYd2pzaW1XVmtDSFBFY1NoRU1BeGVCemR3?oc=5",
+          "published": "Mon, 31 Aug 2026 15:22:04 GMT"
         },
         {
-          "title": "Rendas podem aumentar em 2,56% no próximo ano | Arrendamento - Público",
-          "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVRPYWZmR0lIcXFzWVpFanAwWnRPUFFDV1dhVi13VGRqNkVld001M0JCdmxrTXpFVzdCbEVKMVVhSGFOQnZoS1d0UmRTM0otdXJhdXFDdWVMVjlHcWZqV1pmOUxlYjE3UXFpcUdMbVNrSEUzQ1gyTzRMcVRxMVRSRWRnaGNKbTFwNWpic2FXWW5md2thNDNfT2wzbzBneUp6Y2c?oc=5",
-          "published": "Mon, 31 Aug 2026 10:33:16 GMT"
+          "title": "Juros da dívida portuguesa a 20 anos atingem máximos de quase uma década - ECO",
+          "publisher": "ECO",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMW0yOFl5cXZOZVhRekhtOWFINkNTR3lnZ0txeDByY2ZPWjB5SXNsUkZ2WGwwT3VQSHV5NE1Ydk1uNFVZUi1reHpXTmxyYkhDNTl2MXFlUVdqa21wblBvaUl3N0tOa3g1LUtYRHhYeVhFWkUzOUlvNlJvWVA1V1F6QnZEUUNqb210dVJsRVBJdGRYUjVHZlZRTXVHR2ZIaVpUSUg3cTBMSQ?oc=5",
+          "published": "Tue, 01 Sep 2026 08:43:49 GMT"
         },
         {
-          "title": "TAP. Prejuízos saltam para quase 100 milhões no primeiro semestre devido aos custos com combustível - Observador",
-          "publisher": "Observador",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOajduaWVhTzZFMml6ZGZHS3JXT3dzM1lLbzMyWVg0NWxKZVpOa090aVVTdlNtQ0pFQnVqOTFIWWoydkVoSklXSW9nY0ZEY3Y4NmV0U0x5TWRWVU5HYVdtdnltME1KNGVXcnVMNDJiUl9YeUxIRW5zVXNQamp5OEllV0NFNDg2UDMySHNuUFFjcFdGdUdIcU1Od1h3cFJqTnphV0xIbUk2VlZZdEp2YURmeWJ4bkpfV1AtcU9uZ2daX3R5TkdLZXFXNE5QaHE?oc=5",
-          "published": "Mon, 31 Aug 2026 06:22:38 GMT"
-        },
-        {
-          "title": "Wall Street fecha última sessão do mês no vermelho. Edison e PG&E tombam mais de 20% - Jornal de Negócios",
-          "publisher": "Jornal de Negócios",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZVVKUVlMeXZLV2RYLUVjQzFkMUYtZDZjOVpxOEdYUk1EWk1UUGRXbzFlcGNVXzhMWVhoWGdJR004MHFYbmVWU1hDQ2F3VHBxSUk2LXkzN1pPWlJncjE5a1FtX1d6YVJ3TzRVUEMxYkpUN1NkUU1qNnhYenJXR1Y2ZV9TOHJnVXR2UEFjQ0x0WGhwb1J6LXRBcjFmUi1RSGNNc1pLajlOVzNldUQ3VDZQQ0x1ZUlQd1o0b2d1RGdxNk4zbmpvWHZXUlZSbUFObnAxVHBz0gHOAUFVX3lxTE5OSWlaUFpyT0QyS2NNU3JneldNaFBBWDNWRW1BOWg3bHJORUZtTDVBT0QzdHNzTHBwNDE0UFB1NGxNUm5LZWpVT1FZSlVaUWlvM005V0xxVlVtaWhJQlYzY0xvVTlzTXVaWGVub2hhWGhIczAzalBiOTZUcU9UR3dkcTU2QkthZVZteTktVDBfSGtaNDFfVllPdlU4R0Jpdjh3Z1RjekJXWHRvanE1QXNoR1lMMkxBWGRJYXlSM0FQbVkwX1RWMzhTVUhuRXdB?oc=5",
-          "published": "Mon, 31 Aug 2026 20:16:00 GMT"
+          "title": "Rendas aumentam 2,56% em 2027 - Correio da Manhã",
+          "publisher": "Correio da Manhã",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWcEtGOVlmZUdjNGh4Q192eDQwWWhXVlZ3Y2NxX2FvTWktb2wtQnNBdnRSdUhydGNJTllWbFYtR0FPMVJfUGJCRWxRZVBzckhkeTZUU1I2Nk53QUhURjhlX0d6cFRrcGdBQXIzeXlzaU55eUhlRHVVRQ?oc=5",
+          "published": "Tue, 01 Sep 2026 00:30:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "I Liga. Benfica - Estoril - RTP",
-          "publisher": "RTP",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uakhNNk9uc0VxUldrUXFiVHltUEdPTDBhaW5YR2lVWVdCdk5TYm03aXN0ZWctR0hoRmFQOTd3bUkxVnk4NEFDa0tMNkRoNGlYZU1FNUJlS2FYRnF3V2paUVB3eFRRb3UwNVh4VThTSmhWMFk?oc=5",
-          "published": "Mon, 31 Aug 2026 18:06:32 GMT"
-        },
-        {
-          "title": "Dérbi minhoto não deu para rodriguinhos mas foi Rodrigues a decidir (crónica) - A Bola",
+          "title": "Daniel Bragança com sentida mensagem de despedida: «O menino sai homem» (vídeo) - A Bola",
           "publisher": "A Bola",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDZxTHc3bmRPUkpHUmtTZjdTaldiTzZDTzJJZllnZk5wM0dwV1FVbFFzbWVwQVFjWGZVeV9FQzYyUmo0cWh2UXh5aVE5THc3d0FHMzE3b21fOWpOUmFfX2lnVkhCcC1kS21Tc0dYWUxSMUtnMUVFS3B3NGFkSkhlVnpscldiYjJ0TnNNQnNoZXA2QWlZcUZVUHgwb0lPVXZjcDZLNW55X1ZEX3NaTjlsVG4tdXZ5NUNfWWRmQmlwcktyWHM?oc=5",
-          "published": "Mon, 31 Aug 2026 22:20:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2xwbDVqTm1ZR0RNMXNTQ0Z1VVJ1Z3VJQ0VuTW9CQWZuVUdsME11NTJaMktwTkZXNTQwUUFObDhvaTVCT3E0WUx6cmhHSEh3RXZSYWhtc3VHWFVPVzlNQk92TkhnMllYVWt0TDZmWTJOR1FYQUhXR0kzby1YWHBHS2k2UE9yajNPbVNLR0FFemJ0ZEZzN3JsVF9JYm9GNUJqR21ha3VCeXpMRC1UN3M1cEk1RllhWmpCc2tpdjdLYVNodw?oc=5",
+          "published": "Tue, 01 Sep 2026 21:01:00 GMT"
         },
         {
-          "title": "Basquetebol: Portugal perde com a Geórgia na qualificação para o Mundial - Público",
-          "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLXl0NDVNUnNlVVQwNWFrdTh6TGlvcXRGdUk2b2oxdzFEQXhkLU1nOGM5TWt0dDBFQlFZaVBuZVQtU1gwUWdpaHp2TmQzdzl3dGIxWUJQbHQ2M0w2SUFyXzZiZmtVckNDMW5nSFNNb0paVXRRN1JHRUJSSkdHUUhjeG1NeDVObWNyMFBUUVlOb3RINF9kUHVQTE9OcEdGeEhyaXZpUXlOVE9OTi14OVl3c2Fub3Q?oc=5",
-          "published": "Mon, 31 Aug 2026 21:10:36 GMT"
+          "title": "Homem do Jogo: João Palhinha na outra margem da Segunda Circular - publico.pt",
+          "publisher": "publico.pt",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGhDLXRaSWxIQXplRHVnMUdGUmZUUkhiSlQzTXRKLTVESFdjN01NbWlEc0RjdERUbjFPQW5uVlViNlVNbWJjNFRzdHVZcFNGalVzUzdGQ3E1T1RqdllaOVNhT1ZJckJDaXJMVHNWRVd0SF93SWtpRnJ6V0tCQmVIOXBvZ1dFQ21nQWZVdE5tTjVNaEJ6UHU0ZG5US2psRFdBWjluTHJYQ0l6OHc?oc=5",
+          "published": "Tue, 01 Sep 2026 14:41:11 GMT"
         },
         {
-          "title": "Fer Serrano: a atriz que conquistou o coração do novo reforço do F. C. Porto - Jornal de Notícias",
-          "publisher": "Jornal de Notícias",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXBpdUwwN1lwX05Jd1pyamhsSTdEc183c0huY3dmR1lVMUZWX1pCYlA3WmFVSm55TVhOclJlY0hvYk9TWHhMbnN2OVlTaDctWkRENWF2V3lzUXVhY2VmR0J0dWVheV9OdjN2UU92M3lhaVl3ZEpsWjdqdTJwZmZtcHJpc3lRUWk5TUwtczBlM1FQQ0RYa0c4QjNpVE8yVjhKQ2t5bXpwUEwxR3YwSVFZYXBseGlSUdIBpwFBVV95cUxNVnhYc3ZMUXdRb01uT3dhSnhESm1ZbWtSdDVCajg2NlA2TEVLNUZ6WjROdm1WSENvek03VDE1bGlPMVRJcTlmcU1ER2lpU0N1LVlpR2hoQ2tWOUNHS0tPZFhpb3dzWXJfRmJEdHdycEQ5U0RObi1kV3J3WVM1ajFOenZOT2pRUnVjOXIxcGM1UFJSYXBlRkRUYnRvcV9hanp4MVVjbXBxZw?oc=5",
-          "published": "Mon, 31 Aug 2026 17:06:00 GMT"
+          "title": "OFICIAL: FC Porto vende Deniz Gül ao Galatasaray por 10 milhões de euros - Maisfutebol",
+          "publisher": "Maisfutebol",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVVjdXdtWlRrRnhIalFkUVdncDEwazcwZENvb2RvNE9hbS02ZmstQ0VFWl9oejlfQUdmSmljUTRqYWN4Z3JxaGVSbGoydU1uY2ppMXA0Qm1OSzZ6QTIxSlhUTUJ0c2NNdEUxX3RQSjVYdGZSeWRkUS1Gb3NwSVFhcGZTemJEOEJmZ0hoNWdJRjd0TU1BdzVFdHVwUVlTRFQzQm1DRGJHUjA5M0txLU9uYXJSeGVHZw?oc=5",
+          "published": "Tue, 01 Sep 2026 20:10:08 GMT"
         },
         {
-          "title": "Portugal encerra história no EuroVolley feminino com derrota frente à Polónia - Público",
-          "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTy03RU82d3lzRlVZUS1td2xXaGRrUEZ5NFVPR21tQklVNjVVN25BWnNhNlRnOEw3T1drcmZMMS1pSUczb0YtRDM2V0JDRDd0d1d1WVpUMm5ITmxVYnpmTWgtSGFXaHhGZ3MxenMtd2dFZFFmcUJxaXROeW1ocW00MDB1ZmQxSFpXcHJXQzBralFteHJVNU1sZERPVDE3Rlg3QzRfaXNxUDFmYVBHR0w0WW5mSl8tQmw4SGVENzlUYkpqV2hMRVE?oc=5",
-          "published": "Mon, 31 Aug 2026 18:14:08 GMT"
+          "title": "Chicotada na Choupana: Daniel Sousa é hipótese após recusa de Custódio - A Bola",
+          "publisher": "A Bola",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR2o1UVM4WGdLWmRlUl9sSFQyaS13NXpSUHF0dWJsQTVtRk5NU2VpSlNzV0RTQUlEOGgxSnpabVBwUEdNSzZhMlhyck8wMW44SS1YLXVablg1bzBfSnRpVlFaOEp5SWF0Wnk4V3h0c1h0c1VfLWRlU21rZm9yZWQyVU93Q2pSdkZ1bUpUN1ZyR084enNqa2RFV1YxYXRyZWRSbWZLUEdtdWRJeWcxVlZTX1NtV0E2bkRzV25z?oc=5",
+          "published": "Tue, 01 Sep 2026 17:08:00 GMT"
+        },
+        {
+          "title": "Benfica lucra com venda histórica de Enzo Fernández ao Manchester City - Maisfutebol",
+          "publisher": "Maisfutebol",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ2Z4MVpSOHlSSmZteTVjRGl2cGM1eXVjNXdsSGJISTBRQURUaElGQUxoaUJBMWFJNHl3QTFwb2Jsd29hVzhwemY3VDNibkxnNEVzTmNCdlVRRU0tMktBQXRQaFZEX2p3V3NscVNOMnZBczg4cm9faUlIQUxLUTVNY0ZGajhsNnZyRWNFQXRDcENrZW1nSm12Z1hNb3k5eXdqLWdiUE0zZ2Y2Y0E5amgzaWVwRmN6RUFwREVz?oc=5",
+          "published": "Tue, 01 Sep 2026 17:28:25 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Rede de tráfico de Sintra ia buscar droga a Marrocos - Correio da Manhã",
-          "publisher": "Correio da Manhã",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ0tkLVlIS19wUURTbDljZ3VLbGZlVjBwelZEaHR1bklfbnZ1Nm1LdGw1MVc5YWRHNkJjU3dOVVAwVnJmbllKYmxnM3k1Q1lDa2RKSE1icnJWcWFTYloyX0VHcGpLQ19kSzdLaVdHRkhzU1Fua215aVdZU2FZUWpaQy1pQmpOSkFZRlE3U0RhdVRQaVctZlMtRdIBkwFBVV95cUxNMFBsQ2tONUVOYlozSzc5TTVqc3hxamhfQVpxZEpaa20zcEcxdnRXby1sTnZKUXdZVVhaRTJXcDZ5aGU3d3NEWlVYVUV5SUR0STZqZEpScDEyRHg0YjhFYVd5YjMwVVNaZ1VVMURWUHRGaTluNmdYbmhWWENISlNnbGpIaDZrVVliNWdDbUVEbEVlUG8?oc=5",
-          "published": "Mon, 31 Aug 2026 00:30:00 GMT"
+          "title": "Guarda Revolucionária Islâmica anuncia início da retaliação - Observador",
+          "publisher": "Observador",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVm9CbUI0My02WHQ5bWc0OFNIM056MHpzTUF6QU9tY0t1dGwydXFjWG1oamt0aU1NMDBRcEpzR3N5QW1uOFp6YXpVODk1eXkyTlQ0MkZkZmpocVNhT2M2VTk5dGRYYzM0Zmxoc1c2cm5XR1pYWURNeV9TZnBfdkYwcGt0dldGeWJjQldobnIxa0pjbEhQSl8wcmk5Rmc3ZVZscXJrcQ?oc=5",
+          "published": "Tue, 01 Sep 2026 21:31:30 GMT"
         },
         {
-          "title": "O smartphone não o está a escutar, mas a verdade sobre as apps é assustadora - Pplware",
-          "publisher": "Pplware",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVE5QQmtvVEtLQ3VhZGMxNnlyd0dGYWJJTVVhWENQUFo5ckFWbENFSFZ4bXlXSDBpR2pUZGNQVVV5SGdfU2VaRnJubW5aSEVxOWpzNHBzMzVIT3RWcFkyVm55NXdFZGYwR2tVVFozUXlJZlBPbkV0U1JjTVZ3ZnplekdQSnRYdHQxU0g1N0hyUE0zX1NxNF8zdjVMTnBKUVBKSGp6M0N5dTRwaHZsU3VUc1Boajc1Wm0wLUg3X054WlcyZ0Q2NGJ30gHMAUFVX3lxTE10LVM5QWVwQlpfYnJyNmpfSGlfV1NLblloZERaaU5vOHEyWVZQUGdEQlJFQTlsUHAxNER4WmsyWVpGeWk2a21YVVBUZDFrSDBUSFpqMHBhc012V2RuUXNjOE9FMGF1bGxRYjduN241M0VPQjVGcFdRbDZGaVNkRnJ6THJLX181X0loSHZFek8xcnBRUThoX0FNdlJJTDQyTWhZVTFmT0pJZEQ4a2YzdTBWZHctbUswaDdXN2xQZmJfd1NOTmxCaG9UNXhMcg?oc=5",
-          "published": "Mon, 31 Aug 2026 08:00:18 GMT"
+          "title": "John Ternus, o engenheiro que sucede a Tim Cook na liderança da Apple - publico.pt",
+          "publisher": "publico.pt",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLWJYRmNfZHVMaWw5UHV5TGJZSWlHYkJ2RlNQbkVBWm9ycjJ0SUkzSXBDR2NKU1RadHZBdlVJM1A2MzJkU2dTc3JPc1JmbldWWnJNSHlHTXNIYVY5ME5LWWNtRWpFa1hMTWJVeEtNNFJSZGhkMlhmZkN6YzhUb2hLTUhaT1RjUXMtUXZhVlJJSHlJd1k5bWh5Q1Y2dHlQcHkwU1o5d1FJTUdFbWt5N2pr?oc=5",
+          "published": "Mon, 31 Aug 2026 20:09:04 GMT"
         },
         {
-          "title": "Militares ucranianos testam em Troia a NATO numa 'guerra' de drones - Correio da Manhã",
-          "publisher": "Correio da Manhã",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1lsUUpwa0pta1FoOFNkcm54SHhLWjhYMkRScl9uVlMxZ3h2WE94UGRLV3UwS2tsWlNMZjk1ZkpIVnhwYmRROHNJQm5sMVJkM25VZnlUaDFLZUZScW8xQlRENHVTa1lCQjZlNnJXbTRuS1FUZFdJcUZod2VLN0w3R1hnSEtaU3hMZ3ZoeXFFRUxzUjdBb1VuZHZsTmJxQ0VsUWdtZnVZNkgwUQ?oc=5",
-          "published": "Mon, 31 Aug 2026 00:30:00 GMT"
+          "title": "Irão inicia retaliação a ataques dos EUA com mísseis e drones - Jornal de Negócios",
+          "publisher": "Jornal de Negócios",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM1JLeVliR0FpOExoczFBZmxKU3BOemdhVEdFQ3VkWmE5T2J4bjk5a3p1REJlZVBKTFJqcGo3bFN4aXVReUFpQU1TVTlHZU9UQVduSmNGV2g2aUpiNmQ2YU40bllXOUc4NzJfWjM1NWQ5cndKTkRDRDRTeDN1Q3NQaDZONUJRQW4wT3E4eDRCUUt6dHNRb1JWaDNLSHAzbTJDTmVwVWlOV1lvQ3RHa2NndElad1ByRml2SFAtSFJR0gG4AUFVX3lxTE1EcVByeGVNWWU2TmU3RHMzRXUyX28tNXpxQ29rRUhEOUFPNTFLVmt5OHJacWREdmpFSlNIblVvOW5Id1QxeE9FV195eEE4aHFZakphcXRtNk02UFZxOEF3Uk52Qmd5ZGNIbTVDYlNxc3RqZV9QSFRqR3owMU41cGZRc05CaDl1WkwxVklJVWtUaW51VXFnMnY0YUZUZUJtSHctZkJRTGc3LU01LVNfczJOSHh4X3dpbXc?oc=5",
+          "published": "Tue, 01 Sep 2026 19:37:00 GMT"
         },
         {
-          "title": "Primeira cirurgia robótica à coluna realizada em Macedo de Cavaleiros - Jornal de Notícias",
-          "publisher": "Jornal de Notícias",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajVGdS10X2EyYkF0V1VxYkpCVmNEUUFEbDRUU1pSVzZJNTFMODgxb1JockhsSEtlczVlOGZlRWFDM3o4S25PbmxtRHRzcU9jckRJU040TV95ZjNUUE96SFU4b0J5VkJKUTFUVENKRldJeU1ITnY3eU9VeDlxSURDeWFLcHhUei1CbzlBc2YwNE9Ca3E3aE5pcmVkVUdvWjY3bVRyeVY3ZFJ1c2V30gGiAUFVX3lxTE01M2hXRzNQQTNFNVNuT2lyWlBvdFdoRzZldlBLOXdOTDdNWVNvVjhhM1Y5TWxoNm1UczRKeVJPaXo3X0VGMXFhbkU0RF9uQ0pCbndmT2VnLTZHWmQxcEJ6OWs3SVNKa2k5eUNtVDRTWG1JMG9xd0RtZkZFbUQtLTJGbUh6YzJSU3ByNVFRQkc0RUl5dXcwRThXUklNZkxwVDI0QQ?oc=5",
-          "published": "Mon, 31 Aug 2026 17:19:00 GMT"
+          "title": "Espião expulso das secretas termina carreira como motorista da Uber - Observador",
+          "publisher": "Observador",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSk5FQ1ZmQmZ5TTBncUZmb3dPTHZGbVp2amlfNjFPWlNqYTFuU1JnU1Q1UWhEamM2MjNYNG84TVA5RlhKVzF0R3hqbjVRTDMtZXRsS1Q5Vlo3NTI4ZlU2ci1FZVowNk84cU5ldEZPdENGZ1RidDVlTmozTGx2OGhXby1YOGc2eVBPRkc0TGpfVVBCSkUzMlR0UHVxTm9EX093MEVZ?oc=5",
+          "published": "Tue, 01 Sep 2026 18:37:56 GMT"
         },
         {
-          "title": "A Sony Alpha ZV-E10 II está com a oportunidade perfeita para entrar no mundo da criação de conteúdo - Record",
-          "publisher": "Record",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTUF4NzVza0kxYlBUdEVmYlVrb2Zxa2pZa1kzOHJ3bDVUY2kwZUdVSlBYVTBCZTlZQVd1dElqV2VzMTJBczdKd3JxSGtLWVlueFdCOEF2LWY0M29lZHlKQlFkdXhLQmFjWUNMdkVsRDJzYlpBRDBoeEZDZG54RXRDSzQ5YTM4RXBadEtRcVlBSFlseTF5VmFxNHFWZjJJZFpNazZJUHl0cW5KZmFHZzVSVlZ6b3VvamlOSHZrNTRjam5RYnpNZVI0dmlYaWUzSXRjZTdGWHU5LXQzRmN1QnJURg?oc=5",
-          "published": "Mon, 31 Aug 2026 13:58:00 GMT"
+          "title": "DLSS 5 chega esta semana - Eurogamer.pt",
+          "publisher": "Eurogamer.pt",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NdDQyNnRMLUVmZjZjb29EY1FIOWl6Yl84bWVxcFBaRkZTVEU3eFpIX1dSemdILVNsQW9yal9TeGpEZnFFZlpSSWhmQU44dzY5THNNU0xJTUkyZDlaX0E?oc=5",
+          "published": "Tue, 01 Sep 2026 14:00:45 GMT"
         }
       ]
     },
@@ -189,22 +189,16 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Kushner blames soccer power struggle for World Cup plan collapse - RFI",
-          "publisher": "RFI",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3Z5NVg4QWx3VDMzWF9hbUJIMUpPMm1vUFdqNkcwd3o2a04yTHc2WnNTeXRVQUl5M0pBNHc5R1IxSmNzdk1LaHhVZFMyZEI4QTUyYnZHelJGNDN3Y2RJNUFMX3hCNVRtNnVGSnppaE5VSnZuajNBWVQ2X1NZV0x3UkNsalFScUZwZk9meWk3ZHhOU1laWFRicUdJNUVxWEhvUmZodA?oc=5",
-          "published": "Mon, 31 Aug 2026 22:48:00 GMT"
+          "title": "Transfer deadline day: When does the Premier League window shut? What about Europe? - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUE9IaHliRHFjbG95RlFqUThsNGlsVm9LTEdsT3U1Yy1ac21ER3FjUm4zNEVEbjZwUE1GLVZiRXF3Y0NHa2JJQ3JkXzVnekxOX3NXRVY1S3JsUThOTVVPZHhwU2tfS0h4M1ZybmthU1NFV3M1LWRNRFRrMGRHMzJ2aUQ0WE5ZWjNENS1sN0ljMTg4UDY0MndyemFac2ppVG9laVhF?oc=5",
+          "published": "Tue, 01 Sep 2026 08:47:09 GMT"
         },
         {
-          "title": "Lionel Messi says he's retiring from playing internationally for Argentina - NPR",
-          "publisher": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEw5Sk9uU1lfNk52dGFXTlp4dkF2MWo0LVozVXJyVk51OFNUaVVOUFZZYjJWSHE2WUw0Z0RCSVN0dFN0WlBjTXhhY1JrNHpoRnB3TE12U3EzSzNhOW5jcjZFWDdRWFRLZ3hMb0VyZldETExUZUt1T2xac2tqNURGeDN0SGxpTnNfNDhlSk9ETQ?oc=5",
-          "published": "Mon, 31 Aug 2026 16:37:05 GMT"
-        },
-        {
-          "title": "English Football League disappointed with UEFA over fixtures clash - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGVheHpmbUVKYUhpdGZfZHkwd19jM3BaZktVbFpRcG9RcUVuYzFoSTNiOFN2U0dwTkNER3FIVWZSWjgxYlFJaHd2TjdNOVROVFY0c1E4SkFNeG82MXZGTGtLOVMtOFc0ZU5PZ1ZWLTRIOFAtQzJ0SC1DSTdDazRoWnhHTDQ5SlI2RXlGVDhibmNobm9XVHdGelVTTUUwc3h3YUxweUpPM2hxN2FrUFdZbTFSOXA5WVU?oc=5",
-          "published": "Mon, 31 Aug 2026 13:52:10 GMT"
+          "title": "Key investor Kushner blames football power struggle for World Cup plan collapse - South China Morning Post",
+          "publisher": "South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkdfeTBYbFhyTEhZVmRydEhHd09xeWhVMTFnRHdlMksxMVVFdndhWnBTdVp5cG9TZkRyN0cwWUZ1RWpCOW9QZmdSSjVXTTN6QkNLSGpYY3RxM3pFN1FzYnpWN3Bmd1poVXhkTFFFU1pDdmlrdFNtdjFoeVhFcF9hLU9yLWctTkZQdUJjT1B3bkUzS0ZkcG1DWUtoWFV2VzRIOHp3MUcxbE9zWURPUlBZb3RTZzN0RDhRZldxZHRrVHh0S0JzVFHSAcYBQVVfeXFMT0dYN1R6TF8tWFJOX20wT0JNNnVlQ1VvNnlKQ29fdUFYRmFjengta1lvN3JSOWZ6bnBKMXlSMGxvaXNNN2tYUTdBNWJtRERpdDBZc3hHZWh3dnV6eDVfU3lYQkxhcG1XdnJ6akU1clkwRGtSbEtkQVdWcHZtWUlxUTZCUVppLTJIcFEtaktyemI1NVlQblZkY054blBjdDFpMWgwWFhIcW9PbmJNZ1I0czNoYUhSVnZzWllzTWJKMUhSSGNMX09B?oc=5",
+          "published": "Tue, 01 Sep 2026 14:30:07 GMT"
         },
         {
           "title": "Lionel Messi retires from international soccer after leading Argentina to 2026 FIFA World Cup final - Fox News",
@@ -213,10 +207,16 @@
           "published": "Mon, 31 Aug 2026 15:55:35 GMT"
         },
         {
-          "title": "EFL criticises UEFA after rescheduling three domestic fixtures - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWGVUalYzR3M5RzJnV1lZTzRpTGh4dUc2N215ZmYyMG9UeXhaeDFBbWVrdkE5ejdIcmtPU0twVzFkMXFuS0ZaVHFhNm9Vci1aTHM1eXVtYWdmXzgxUDRQLTZOemFVR1oxNTRwSF9jMG1hWEc1WU5aSzhSQzR0VU1JTUVpTnlOa2VuZmM5dE5vTFNmYlZweEExaTdncEFyMEdla3F6aHNDTQ?oc=5",
-          "published": "Mon, 31 Aug 2026 15:17:00 GMT"
+          "title": "Premier League clubs set new transfer spending record - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOeXBSYU1UY2VNMnlzS1FCaGQzaWh3dldTWFNjRWdkYThRNDkyUndVRWdwTm01Tm5aWXBBbF9RSjMwYko4ejJRWnpUT0FIZkxUX2FRUTJtUURqWnE3NnRhOWEtbzhqMXM?oc=5",
+          "published": "Tue, 01 Sep 2026 20:17:17 GMT"
+        },
+        {
+          "title": "Messi retires from international football: ‘Eternal’ star praised by peers - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRkRBNmh2T1k2LUNqandGdzBDZ1VLQ2pGMXNwMmtyS0p6UlVUM25KcEI5TGV2aVFsa3JYZFVrM09oWDN6RWpNY3NySDFZZjZOUFFSajFXcjJ6MzVud1dwQUpuNG1ydlZ1LWdVMmE0NkpjWW5HVjJZWm1iZV9wdV9YVllTOGc1MkpJTUpnd0owVWxvWWNsdkVv0gGcAUFVX3lxTE9TMWowZi1hLV8wdnZMOFVOemcwdVY0MVZrNzBnTzVOUFN2Zi1QczlfUmlrRDNpQVdqSXl5S3hqVVhMVGNrSVA5a3BBd0dLR1ZYcUdyTmVpMmtxcVFXRkRQSnpud3ByeDk4QnEyckxzWVVRR2RQeUozc1BRaUF5aktZLUZEY1hicG1rMFh3TnAwWnNtQW13S0hTTjdZMg?oc=5",
+          "published": "Tue, 01 Sep 2026 08:08:41 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Live updates: Duane Davis found guilty in murder of Tupac Shakur - CNN",
-          "publisher": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JenZSZy13MWVKUnZucWh5OS0yNDdhdU5NVGw1NzFsMkJWNnNuVUZSVVM2RGZaQmxMNndlVHlvUGdhVi1kT3N2RHFoTlk4STlUVnAtYlNPWHg1Q01Dbm1mSmVTTE1OTHBva2dmNU0xVEM2bGI1YlE?oc=5",
-          "published": "Tue, 01 Sep 2026 00:33:00 GMT"
+          "title": "‘Wheel of Fortune’ announcer suspended, pending investigation - AL.com",
+          "publisher": "AL.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUGgtbEJETXkxQXF2dThSRGJHTlB2eUdpQWZUMHpPbkJCQ0hHVi1mTlk0UjBqekhQR2cwRnN0ZW5saWtlNHhYWWxSQlZ1dWpvTzdvVk9fVWNpRkEzTHJLaFJnVFprR1NmR0tsWncxTHROeXJudjBGRXRHd1ZaNGszUldWbWFVZlBnbmhqVjhBQkRnRjRaNzJiZXM0WdIBrwFBVV95cUxQRTdabHNpQUdqSDVnUkF5RUExRnc4bXBrSTJNNVF4a1QxNi1KelRnMFE4aDllSWkxVGhqOTN6MTJ6M2hqT0NpWVM3d3JoY3NkM1ZNSTV2NHZaWHRFNHNrVkJIZHQ1dk1ObnpXM21nRWhRQkhiOXBGUTFUbHlwbE1QYVZKUVowNUFpdFIzaUZObFNZQWJVSkp4NG5tUWJDQTh3c1p6X0ZNM3JadmVGa2lF?oc=5",
+          "published": "Tue, 01 Sep 2026 22:21:00 GMT"
         },
         {
-          "title": "Singer Lionel Richie hospitalized after Muny concert: Reports - FOX 2",
-          "publisher": "FOX 2",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1BKbkw2YnkwNFY5azVmbHQ5eXdhUnN0ak1mNmlQNHAxZ3BHYmRQM09oVEdwN3ppNklva0x4R1dIRUNwSE45ekJ1Q215b0NjNElGSVhUVnZ5MFh0UUhSak0zWWV2TDFFc1o4V3FvMmg1d255alpaVkVRLWpVZ2NZSFNiVFVIM2phM052cWhuUzRULWdPckNZY19HQdIBoAFBVV95cUxQRlVZNktianJqOVVVNV9XNlVGLVY0RkNyWFNURWJKd3pybUY0VFBvbWo2ZlR1cWNTS3A1N2pFb1lRV20wWUplUFhyS1JnTVJHRVZXYWVSbGpySzlJdzdXQklBMzhaUXdmMkVXcEN2V0RQbEhoSmV5UkVrVzItS3BLMVE4RFUtUUdtcDUtb2g4aEV4bG5ObDNQV2FaWjVKcnZn?oc=5",
-          "published": "Mon, 31 Aug 2026 20:39:34 GMT"
+          "title": "Dolly Parton Set for First-Ever U.K. No. 1 Single Following Posthumous Streaming Spike - Billboard",
+          "publisher": "Billboard",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNanBiY2pDNWR1XzFOQ0V5OGQ3dHVfMmlpclBuWDVJbF93anJHZDNPWlFORkJRbTg1TjV6aDBlWExYTHdfMTFtVlk4bEFWcVVMMUJmTEFTYi0tdl9wRmlJeWZ0dnNHTXlta0VFSXJETHVJcHM1RFFWZkY1YTVHTUpFd3JSZXZCWnkzTkhaVnluTi1iSHQwM1FtTzdVM1gwQjVZa0dnVVdrTENJcm5MbHBGV3FDR0dQN3M?oc=5",
+          "published": "Tue, 01 Sep 2026 11:58:55 GMT"
         },
         {
-          "title": "Trump Calls for Federal Film and Television Tax Incentive - WSJ",
-          "publisher": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1lGVHFDY3RmMkUzMXpZOTdLTzI3YnI4cVJSU2tvdWhkRWpzQlloWDV4dDRRcUpwSTVIY2Q0NUg1bFNiQUYxWEZkTFpncU1xdVBOeTJQbW5sMjVPa0IwZl9rWHVaZ1NMWUdUcHdwVi1PVVpXUDViUmtvMFVTR3hqRkUyTzkzZHY3U1FxMWRoT09wbnp0b1JOdlZNdVhXNjZGS2Z2dA?oc=5",
-          "published": "Mon, 31 Aug 2026 23:56:00 GMT"
+          "title": "The Genius of Yayoi Kusama in Three Works - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkF3dEpYbDlxdmtUdXV0TEF6TWFkbzZVd29OaXlrejBzdVNUXzlyQlppcHQySklmTDJZYUpKUmxxQldrY20yTmN4aTdnZGcybnpCTC1vTVZWQVctNk5vVURhSWc0S0hRWVRtYkllbmV5Y1dXY1JCVGVGSWdCZENYWDBFbzFMdmc?oc=5",
+          "published": "Tue, 01 Sep 2026 16:31:52 GMT"
         },
         {
-          "title": "Howard Stern Cuts SiriusXM Show to Once a Week, Inks HBO Max Deal for Streaming - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlNPNXY4WXZ6T1lCOUg3UmNjS0ZocGQ3ZWFTSTlSZlhSUzl6UEhEWEduMzRJMkJNdGdmOVBlUkZsOS1NRnpnWWZzYzlxWUVScDQ5UWFzQlFJT1BZQzAwakF4MlowNEJCMjlOR0JVX3ZMRlk0SE9seUFpaWNPaUh3MDBCMEJYME43T0xreEpaZmpySHd3UnNHMDZ3bkRZX1BPeHNRMHpxS0Q3REZTRWtDc0M3cw?oc=5",
-          "published": "Mon, 31 Aug 2026 14:13:43 GMT"
+          "title": "Matthew Perry Docuseries Set at Netflix With October Release Date - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemFISHd2TzZuZUR6aEpadG5YNm8xX2J3ZlpaSEdQQ0h6NkhTeHJsSTVKaVhlWDAyMks0NElGTUJySWdDZnBPeHZqdmM2dkYxdTZKb09mYmNjZ3Zfc3BSOG1pVHlvRXF3SGpCVE44cmhQOGQ3My1hRDR5anJyOXg0WDNlTWlGSHVicUJIZDFFaHpsSjY5NUEtcnh4a042ekEw?oc=5",
+          "published": "Tue, 01 Sep 2026 16:00:00 GMT"
         },
         {
-          "title": "Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm9KMC1CRlVnRXVocFZDc2t4X3JBblRTTmRJWkhOdElDd3VmeWJQRzBpZFFTdUFBV2R6amVvSFFjT3MwMUdoZFNzaXJjTm4wN29XX3IzZDhnc2hHeHRrWFpzZzR4TEtpVk5CYzlDUGRldXVyZzNFeHM3U0xrcUxyQWhKRGtuS1J4MnVBOFBscmFzX3BW?oc=5",
-          "published": "Mon, 31 Aug 2026 17:52:00 GMT"
+          "title": "Lionel Richie hospitalized after St. Louis show in latest health concern - CBS News",
+          "publisher": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbzFMbVhhUUJ6YWxfOGl1ZjcwckhBSFlzd245dkZlb09udDhXTkxrelF0X2w1V18xM01uZEw1RGpaTnpVNG9LTGJibVpQLTRPOW9oRU1sVVpDdW1aMVFwZW9pTjlQbWplOTkzV1JFNWpiM0o2c1RBWFhGcXlxWFdFR3oyNU0?oc=5",
+          "published": "Tue, 01 Sep 2026 12:52:00 GMT"
         }
       ]
     }
