@@ -1,7 +1,7 @@
 {
   "market": "FI",
-  "generatedAt": "2026-09-05T23:34:12.081107Z",
-  "validForDate": "2026-09-05",
+  "generatedAt": "2026-09-06T23:29:36.659817Z",
+  "validForDate": "2026-09-06",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Seuranta: Näin mielenosoitukset etenivät Helsingissä – neljä otettiin kiinni | Paikalliset - Helsingin Uutiset",
-          "publisher": "Helsingin Uutiset",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5QnZGQ0VRdmlManhMUXZYZW94V0xpRGFYWlltVzNPSktMdElVQXl5b19pRVA1ZTU4UTdTWkZ1cjZQT2xLUklYQWd2S0NNVDhYdU9KZlZnb20tRnFQSGl1cw?oc=5",
-          "published": "Sat, 05 Sep 2026 13:30:59 GMT"
-        },
-        {
-          "title": "Alepa ryöstetty Espoossa – epäilty pakenee - Ilta-Sanomat",
-          "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UcmxFYnJTdFFTVDlHVnVaWXZiTGhxMGtnVHJyOE9hSUxGY1FmODgtNXh2NTBUZUVYYUpDSkgxVkJlTXM2dDZCZ1FXX0dzMXYyWVNmZmhvWVR1dGxT?oc=5",
-          "published": "Sat, 05 Sep 2026 19:35:00 GMT"
-        },
-        {
-          "title": "Pesäpallo | Vain 5 000 asukkaan Kannus juhli Meilahdessa, Puna-Mustat nyt selkä seinää vasten - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UZFRxQkg5OElkWmN6Rkt3U1VRWmpOLWxCQ2Q2bjBIUlcwYlFFVHF2MHVJTHZRVFk4RUdVWGZ2WlhMaFRtVWp2ZUY1cloxeTBYZVh3dTY4bzdiRGRE?oc=5",
-          "published": "Sat, 05 Sep 2026 16:45:00 GMT"
-        },
-        {
-          "title": "IS: Perussuomalaisten kansanedustaja myöntää virheen Stubb-kritiikissään - Kaleva",
-          "publisher": "Kaleva",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1IxaXdibmlYTm11NUJ5M3Vsb2xNY2owRXllSlluN3MwUV9hRmJJS1lKVmhKZFdBSWJjckZFNHNuUlZ1dUlWTUZpTDljUnhMWVpNNVNSSTNKWnVUYmppZnVjbGcwY3BKYk9uVlRYcjhwelg3OVZGaDh1V2ZPNlV5TGdyNnA1SnFi?oc=5",
-          "published": "Sat, 05 Sep 2026 10:17:49 GMT"
-        },
-        {
-          "title": "Lintuharrastajat ja -bongarit pääsevät tarkkailemaan lintuja erikoisella paikalla Lahdessa | Päijät-Häme - Etelä-Suomen Sanomat",
+          "title": "Manse PP eteni naisten Super­pesiksen finaaleihin - Etelä-Suomen Sanomat",
           "publisher": "Etelä-Suomen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsWkJkVTRQYWtGdm9KUWV6WW1sSjNaYXhSRUtsak5STVhWUFFoZGgwR19VWmV1MGNLWFZXb0t0cXpTRlQzbmdST2RwclVhYnM?oc=5",
-          "published": "Sat, 05 Sep 2026 14:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwcVBhRWpPcjVmak9Telg5MjlSbkFTQnlPc2lEX3pvQlhlZVpDTUhhNWgzQ0cxRTZIZXROQ0ozTkM2SXRHN1ZzVWJn?oc=5",
+          "published": "Sun, 06 Sep 2026 17:34:47 GMT"
+        },
+        {
+          "title": "Yöpakkaset iskevät Suomeen - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GYzBrMV9hN0VqeTFYN19jUmxSbHk4MGVOaWxwZVlEYWtiUGVhZkhjZUdoR3gzSm9tSDUtMlQ2c3JDdXB5b0oybU5ZY2FFbkNkR1hxOGRxZERnRUZp?oc=5",
+          "published": "Sun, 06 Sep 2026 20:07:00 GMT"
+        },
+        {
+          "title": "Suunnistus | Satakunnan konkari voitti pohjoisessa - Satakunnan Kansa",
+          "publisher": "Satakunnan Kansa",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XblI4c0FPc2JfZXgtUlIybXlHWGRNR2VZRDBZY1Rhck5qSDVQN3pTZlE1ZDN6VVNSZ0J2ekZfanB4ZVY1c2Z6d2JZU1RTYjNaZFRnNjIyMWhMZUxrQUtSY0ZpWmN2dkluUDBvdnNB?oc=5",
+          "published": "Sun, 06 Sep 2026 14:40:00 GMT"
+        },
+        {
+          "title": "Onnettomuus Kehä 1:llä – ajokaistoja suljettu - Helsingin Uutiset",
+          "publisher": "Helsingin Uutiset",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5naWp2OWwzNDQ3TkNVVldaMTdfdmRoekRqRmc4bXN6YnRRQkxKUGtCRm5HNGh2UkVfanZuZk0tbkEybUZLdmF0OHN0blFUVTRucE5fWkQ0bl9pTzdSQl9wUw?oc=5",
+          "published": "Sun, 06 Sep 2026 14:59:07 GMT"
+        },
+        {
+          "title": "IS: Pohjois-​Savon suosituin sukunimi on harvi­nainen Länsi-​Suomessa - Savon Sanomat",
+          "publisher": "Savon Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZTJrRnJ3NURuS09XWlFqTHpiU2RhV05JUDBEdWZndEt3YVNTTE1QTXZaWFRfc0NUaTYyS3pUVW1abks2Q2VFZ2RTNEVYMW5YazFaZnJpbXBEb0E?oc=5",
+          "published": "Sun, 06 Sep 2026 19:20:50 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Kommentti: Putinilta hävytön askel – Trump-valssi on alkanut - mtvuutiset.fi",
-          "publisher": "mtvuutiset.fi",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUXRkNU1sOXpQeVBMM3R4LTE5NjVTS2dOOEowMms0MUtiSzllREEweUNOTEl2SG5MNFZBOE5mWHF3ZEZlam1Nd1JFU2pRZ0ZTeFhRWnp4Yi1iUVh2ZUNkMGd4aGZBU1BZQTU0cmtLazZUZEc3clVsUGVUeWNPbUt0NlJkbi1UVnRnclgydWYyQnNSczRYWnlCMVdjc0xvckhXaVRr?oc=5",
-          "published": "Sat, 05 Sep 2026 16:40:44 GMT"
+          "title": "Yhdysvaltain erityislähettiläät neuvottelivat Zelenskyin kanssa Kiovassa – Witkoff: Molempien tehtävä kompromisseja - Kaleva",
+          "publisher": "Kaleva",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekpqWXI5aE5FY1o4ODFuaVJxTnV3UWx1R2tWYXRsZ19MUUJFajl3VEt4RUdKdlRiZWZzUFM4YXVlN0ZZMzJRRTNQQ184bzNSMHM5amlBdEZib280WFl6Ql96bFJIYlZQamlmU2VVY0wwd1ZlM1BZa2xZLTNYU1ZwMkFTQ3B6T09p?oc=5",
+          "published": "Sun, 06 Sep 2026 17:31:00 GMT"
         },
         {
-          "title": "Iranin vallankumouskaarti sanoo iskeneensä kohti useita aluksia - Savon Sanomat",
-          "publisher": "Savon Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyc2lnTE1PcnlXQ1VsNG1RdXRndUhoend3ZmtEc0VzSE1uWm1jNl9SUERYbnNOcGpTWXZOelI1UlZ6bjNJYnljeTNWRk90UkZTbWtYeXZ0bUduYmFsWFQyRi13?oc=5",
-          "published": "Sat, 05 Sep 2026 20:28:43 GMT"
-        },
-        {
-          "title": "Saksan laitaoikeisto odottaa murskavoittoa osavaltiovaalissa - Yle",
+          "title": "Analyysi: Äärioikeiston AfD ei vain voittanut vaan murskasi keskustaoikeiston CDU:n Saksi-Anhaltin vaaleissa - Yle",
           "publisher": "Yle",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55cTY5S25aUTY5S0Y2bF9VZGtUY1JIelFueEMtY0lsVGFuZmoyXzExX0RhdjhxWDhLX09kTWM2eTdmUQ?oc=5",
-          "published": "Sat, 05 Sep 2026 23:27:29 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Vb2xyVWI2b3dmX0xzelVaa1dlMy1xU3VuU0VKRHhJRWpIc0NuV1Q0dE1jUF9IT1RfOER3YWFFMUVPdw?oc=5",
+          "published": "Sun, 06 Sep 2026 20:08:54 GMT"
         },
         {
-          "title": "Onnettomuudet | Hävittäjä syöksyi maahan lentonäytöksessä Kreikassa - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RX0FBVDNPS0FwdkVxaWszN3paNnhCZFk1dXA4cm9ZVHNDbkt2M3cxMXpPb2JXRFhDMFJ5WVFfQ3lWdUJkUENmS2Jsb1B4Mm5CNDl5c2ctUEFrc01M?oc=5",
-          "published": "Sat, 05 Sep 2026 14:31:00 GMT"
+          "title": "Iran aikoo perustaa ”kielletyn vyöhykkeen” lähelle Hormuzinsalmea - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xaEdaMnlpdUd2bEJFSkg5dzZqTmVZNGRHbXc0UjVHV21wVElMeUxIMkk1dl9ac2d0VkQzaVotSEd3TUNhZ1RXNnNLOWFKQ0pnRU5mQmpGbE5XaVVjQ3c?oc=5",
+          "published": "Sun, 06 Sep 2026 21:52:00 GMT"
         },
         {
-          "title": "Ukrainassa useita kuolleita Venäjän iskuissa - hameensanomat.fi",
-          "publisher": "hameensanomat.fi",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LSWtTeVRGdVM4LWF5TVhQR1VJSlBZYkVxcVdIM1lNWnVMU1RxMEs5bUlCRkR3RWt3RnFRWVNoM0Q5Qng3SS01V3lQODY2aXdwXzVxYjc3SGZjZjh6bi1sS1RLUQ?oc=5",
-          "published": "Sat, 05 Sep 2026 05:20:14 GMT"
+          "title": "Presidentti Stubb vierailee tänään Tukholmassa - Savon Sanomat",
+          "publisher": "Savon Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ydkJyVDNTVFF0Vk5IOXliLThxelVrVjJqSHh4VEkyTnBBSmVsU3dRXzdoM1FmdGRuTUloVWN0OTRnTEdDQk1BUTFZa001bWowQzV4b1ZHTGd3MkFWQUo3eHRB?oc=5",
+          "published": "Sun, 06 Sep 2026 22:07:54 GMT"
+        },
+        {
+          "title": "Yhdysvallat | Rahtikone suistui kiitotieltä Miamin lentokentällä ja törmäsi ajoneuvoihin - hs.fi",
+          "publisher": "hs.fi",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MQmtGckJvZWtlSnJwRFFYNkM2UGFTVElmcVBPMU9sSTIxQXYxa3FzRWV5cDZtQ0M4eTZFcFg5OV9KOG8tNkhYd3k3U0F5Q25EcjRMOFRpR1lIRkVx?oc=5",
+          "published": "Sun, 06 Sep 2026 19:47:00 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Listautuva Oura teki jättisopimuksen – Nyt se on esillä Rolexin rinnalla - Kauppalehti",
-          "publisher": "Kauppalehti",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JRkExcWUyNzB4NC1STXJhcHhNQ2xjNGF6Q0tZR0xPSGgtZWwwVFJIZHpkSDFSTzYzVlptTlhkdVIwMktneGJTRUFjYUp5T2JzYlFsQi1HUDM0bjNNYWhpVVNoVFZZakVrRl9HVlY5YWtQX2pmanBoSWludUN1dw?oc=5",
-          "published": "Sat, 05 Sep 2026 10:45:00 GMT"
+          "title": "Pääkirjoitus | Maailma uppoaa yhä syvemmälle velkaan - hs.fi",
+          "publisher": "hs.fi",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lREZPeW5CdGwxZ3loOWVkMl9fd2R2ZEo1ZVhRUXVBSWxnbFE0S1RjQmlCQlhwT3Z5R2tuZjNRTjFIckRuTlZYaHNEaDIzbUdad1JWQl9vUHVrWERCdzd0cG9hOWpLc0E?oc=5",
+          "published": "Sun, 06 Sep 2026 15:00:00 GMT"
         },
         {
-          "title": "\"Nokia-gorilla\" on taas sijoittajien lemmikki - SalkunRakentaja",
-          "publisher": "SalkunRakentaja",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalRteFhHWFhYUXpBNTYwbVVtOHpNVjlyTm85VDktcjdjYVZWSTVhb2otaXRhc0dGM1U0NWxyeW41aG5tbDhXVTgyanVyLTRtMVBoeWZud19PTkU1UlZjemZneTc1c0MyY0NaUllIc1pyVU1DUjcydDFMbi1DbU1fS3RSSm5VYnNUY0VR?oc=5",
-          "published": "Sat, 05 Sep 2026 11:09:50 GMT"
+          "title": "Asiantuntija tyrmää Donut Labin uudet testit: ”Ei voi olla sama akku” - Iltalehti",
+          "publisher": "Iltalehti",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHdIS05WUS04bHR1Rzk5ZTNnZ2pCVUtxaUwydEs2ZzctWjdXdGNLLUE1a2tuVGVCUlhETl9IcVdIcmFwYjk0TURkcUdrYzRRdjdFY09VMDIzRTI0N3BSVWFuclJFZ0VkRE41NGctR0s2OHNOYnBOazg1SHRuR1NiUA?oc=5",
+          "published": "Sun, 06 Sep 2026 17:31:38 GMT"
         },
         {
-          "title": "Jipii, Suomen talous nousee kohisten, remuaa P. Orpo… Auts, taas tulikin karvas pettymys! - Uusi Suomi Puheenvuoro",
-          "publisher": "Uusi Suomi Puheenvuoro",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHVQdExBNUZEb3VYblIxUWVUS2hORjNRVW1GR0VwaXAwX0hVQU5YNWVTUFhjRDJsQTFnbk1yODFhelpkTjZtUm5YdEJnVTVQdHZnQjFYNHUwMzhWSU1YSWR1ejkxQkc2TTl5aWFLRzYwZjFpVmx1dFJLcGExSXRzeHNIWHlkemdwdFdzRFBsc2VJLXRNUE1kem1ZZFpEVS1mOEtaVHM4eEpsZnI1OUlwLWJ6X3FfZGxFb2NJczZXZ2toWFpZYTY2Vm1sTXI?oc=5",
-          "published": "Sat, 05 Sep 2026 11:30:12 GMT"
+          "title": "Kulta | Keskuspankit pohtivat nyt entistä tarkemmin, missä niiden kulta on turvassa - Satakunnan Kansa",
+          "publisher": "Satakunnan Kansa",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51UV82ZkNCUkV1MDk2RUw4TmJuSFJIWndQYlZlRGpoY2xIb18zOTJMRnE1dHo1VDRWR3BEN1BfM0Q3R2VvMXBLYktNREZvWkpIZkp0a0FEbVRIZTVocFpJX0J6ZGo3XzNIenQ0Qg?oc=5",
+          "published": "Sun, 06 Sep 2026 15:05:00 GMT"
         },
         {
-          "title": "Markkinointi | Helsingin keskustan ”karkkikortteli” on syntynyt vahingossa, sanoo Kouvolan lakritsin toimitusjohtaja - HS.fi",
-          "publisher": "HS.fi",
+          "title": "Markkinointi | Helsingin keskustan ”karkkikortteli” on syntynyt vahingossa, sanoo Kouvolan lakritsin toimitusjohtaja - hs.fi",
+          "publisher": "hs.fi",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3bzFzQS02OWZ2RG9WaTJBMkRReHdSbENjRk4tdGZQcW5jUm1fVUNxTHQxdzhUOWdPNVpwME1VSU9SWGpFOHZhb2lvdWktbTFrazhzTUx1QWd3Wl9yYnc?oc=5",
           "published": "Sat, 05 Sep 2026 12:41:00 GMT"
         },
         {
-          "title": "Asuntovelallisille tärkeä muistutus – Älä lankea tähän pankin kalliiseen ansaan - talouselama.fi",
-          "publisher": "talouselama.fi",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QLXQ1WGloUFJwdU0xVnFqUm1ZTDVCZWtKSElJTnVxbzVCTEE2UHhEM21ma0t2UXI3b3BuMTFPZThoRjFYVm9oYzdpV3VmR2JNYWxSOW5kOURaTy1Ca2RYRi1JbEFLRXk4U3pzcTlPS0o1a0VteUpzR2lkOEVxdw?oc=5",
-          "published": "Sat, 05 Sep 2026 05:00:00 GMT"
+          "title": "Mainos: Savonia | Mikä ratkaisee sähkölaskusi koon tänä talvena? Energiavallankumous on jo täällä! - Savon Sanomat",
+          "publisher": "Savon Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02OWc4Nm80VFZ4X2g5NXNfOVhTbGtNcmhnZTBsZEhKaGMtbHdCaVJpTEIxb3lHYUpEQnlmd09iU2NWV2NKSVBsbVRPbnZmd0s3T2dFNnlQaW5kRlk?oc=5",
+          "published": "Sun, 06 Sep 2026 21:33:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Jalkapallo | Vesa Vasara otti uransa ensimmäisen ison voiton päävalmentajana - HS.fi",
-          "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84SG13MXpuV09EVlRTeEpUTUVfb0lZVHF1SUFtUkJwOUpobDdtLWtNY3pOdFVwWUJhMXExa0t3NEliby1wNHdSRGUwZUdfNkQ0YUNubVlIT3JfZXN1?oc=5",
-          "published": "Sat, 05 Sep 2026 18:38:00 GMT"
-        },
-        {
-          "title": "Jokereille ruma selkäsauna – näin reagoi Tomek Valtonen - mtvuutiset.fi",
+          "title": "HIFK:n tähtihankinnalle pelikielto – toinen tappelupukari selvisi ilman - mtvuutiset.fi",
           "publisher": "mtvuutiset.fi",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeDZZQ191V0VOSDQzcVpSODFXS1lkMDU3cXFCV2dEY0lKY2FCdktfX0FOcEFTcHJoZ2JTNjJmVEo3M3ppWGFUTWl6X1NWWFlkQWZyWi1WTTJUaURFV1NqV0swZDhxNHRwZWI3cVZoNzhHWjZmNjVtXzR3ZVFoMFE1TzF6eXlDbVJKU3FjVlRmS1d6MkZ1dUZHMkNod2Vwdw?oc=5",
-          "published": "Sat, 05 Sep 2026 16:58:43 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOemh6THptdXctYmxfVTVqODY5enpNeE9CS3dRRjBKZUNuSWEtbGY2VVdXdHBSZ3l4bFNub3B4aUxqbkRGcld1ekZ3VHFmRFM2YVBTdFVqeEt1MTNmcWt6UUhxb1Y1SnBGOW0wR3Q4cnBjSWZYRFpsTHpVVHJ0a3hCV0FpbWZudXZ4WUlGXzZQcVdYS0V0NWVPd2ZRaHlUZGVzQ3pGM0tuYjRVU0pCT1R0bmowdw?oc=5",
+          "published": "Sun, 06 Sep 2026 20:04:20 GMT"
         },
         {
-          "title": "HIFK:n synkkä ilta sai kuuman päätöksen – SM-liiga reagoi heti - Iltalehti",
-          "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GUkEyOWF2Q2pnNWVHRDE3ek40V0JrNTRwZ0Nka2VTNGwyeHR0ME1SMG90eVpyc3huS0lCVVpTNTBYbjF5QjRlNDlnN0NqUGp4VEJYQWNKcjZKNFFKMDRRNkNsUFRpLXAtbFA3NXNHYUt1THhYTU82YjlvMA?oc=5",
-          "published": "Sat, 05 Sep 2026 18:37:40 GMT"
+          "title": "Jalkapallo | Gianni Infantino asettuu ehdolle Fifan puheenjohtajaksi - hs.fi",
+          "publisher": "hs.fi",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03TGZTM204dGlLUTI3UjJMSFBoeVBiM0hrNnlnU1BBOVZoWUZnNDE2WS1MSi15aWw5NzAzcWJ6YjFXRDhPblR0U1J4Tk03aW0zeThhMktKWXpGWWJ2?oc=5",
+          "published": "Sun, 06 Sep 2026 14:01:00 GMT"
         },
         {
-          "title": "Dramaattinen tilanne Timanttiliigan keihäskilpailussa – leikattiin tv-kuvista - Ilta-Sanomat",
-          "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aUW1VRURCUXhGRV9pSmRYYms0VkdSbzROd2pyU2Z4MFdLa1drQk53Tzg4YlVtRG0zaEtveERJWWdIU3dyOWxnZU9vX0JHLTdQcWJaMU1BZS1VRzZ1anJFWG45NA?oc=5",
-          "published": "Sat, 05 Sep 2026 19:30:00 GMT"
+          "title": "KooKoo ryösti pisteen Frölundalta – SaiPan Mikko Pertulle tuomittiin pelirangaistus kostosta - Jatkoaika",
+          "publisher": "Jatkoaika",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYndQX0ROQzN4SnpZYjdNalp3WTViemxOVEdGZ0tEV2NLSnZGZUNEbFdQVWc1WXdRYjFhcXJ1bUFTWGNoV2tyOTZzbG5QalhvV1FfMnhPTEtodXFCOElXdkpwb2ZSbklaQkZ3YmJMZEdkSkNXRnl1eWZrLUFvSGhucTVpU3Y3bmUxQnNIV2pQWUxlU1V6dmVuWVJrMzE4MGtNU29FUlc3eG81NXJUZFVsTHhZU3E4T2hINjlNWHE5eGJGb3Y4eWEtQ3VyY0Z0cnlYdkVpdV93ei1DZjFYRjZ2dkJidlNxZw?oc=5",
+          "published": "Sun, 06 Sep 2026 15:45:33 GMT"
         },
         {
-          "title": "Pierre Gasly yllätti Monzassa – uran ensimmäinen paalupaikka - Etelä-Suomen Sanomat",
-          "publisher": "Etelä-Suomen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8ycXBncnRZUmw3OHRnNVpQYjhya0x5bTBHTm9JSWh3YllBU29rbWxKVHVoT2MyNngzY1BxV1VNQU9nSmlmVlhkSkFn?oc=5",
-          "published": "Sat, 05 Sep 2026 14:37:49 GMT"
+          "title": "Jokerien tähtihankinnan kaudelle karmea alku: 0+0 ja -6 - Helsingin Uutiset",
+          "publisher": "Helsingin Uutiset",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxTzdsQ2pPbjBvT045NHNPMmhSbHExaVZxcDE4QS1McFBvbGJDQ0JUNC1lTGxNeFlWSnZqb2prOHlqUUJSZFNRVURRNkx2UWFhRUtWLTBLbjB1Zlk?oc=5",
+          "published": "Sun, 06 Sep 2026 13:07:59 GMT"
+        },
+        {
+          "title": "Formula 1 | Valtteri Bottas körötteli viimeiseksi: ”Oli vaikeaa” - Satakunnan Kansa",
+          "publisher": "Satakunnan Kansa",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5SU9BSmdEYVNhUlgwRnVIalk0eVlFWG1qckU4cHBmc0JsMkp2cm4tbmhTbTNDUWVQaktrUUY5QXRoWDZqWkY5eDAwYUpLTXZrU3ZFSERiYVpCMWhhV3k2YlU0TnJVdkdPTDcyT0pR?oc=5",
+          "published": "Sun, 06 Sep 2026 17:30:00 GMT"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "From Mbaye to Fofana: The new signings who could debut in the Premier League this weekend - nytimes.com",
-          "publisher": "nytimes.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSldTMUV3T1pEalJPVTgtd2gycC0zUG5xR2wwQ05GZjA4cHFMT0laOGJ3Tkl5YXVIRmFNY1llRmxDQUQzbl85LUJIRVdyZnFCSmwtR1Z4RWloQUhFOU9Sb21NbUYwU1k3ekIybkdISk9ERjVlNHpFTFBlYmItZktaalF3MVQ0bWlocVJ0WHRUR3c1UFhuTGx1XzZfbXp1b1c3aFg3cjM3Yk9udw?oc=5",
-          "published": "Sat, 05 Sep 2026 14:12:25 GMT"
+          "title": "FIFA confirms Gianni Infantino will stand for re-election in 2027, despite opposition - The Athletic - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT0JsLUZlcjR6MUhKZTMzWjhfeG9sd1YtV1JyS1BFM0NjeU5xdjhDdzc0eFptcE9jdmNuUWVsNU1SSXhZM09IZmRvVTJHWUxwOXEtakQzU0RncEpZSExTelBMNkd5ZVd5Tklwd0ZUTjhrd1dvYnR4NDN4VHo0ck45RnZYXzdValJXY19PS1ZlRnRfS0U2eFlMUUx1TllVMGhSRlhWN3A0ang?oc=5",
+          "published": "Sun, 06 Sep 2026 16:15:28 GMT"
         },
         {
-          "title": "TIGHT-LIPPED: Infantino refuses to talk about his future, at U-20 Women’s World Cup - Front Row Soccer",
-          "publisher": "Front Row Soccer",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdm5QYTFQUmNKZW91VnE1c0tEZURzRE9KWHhZd2J6YU5oamltSmVfcjh3TzdxRnphZnhqcjJzd0hBcFZ3VUtUMkIxZlE5SzBOcnJoYW9Qa25nRnZCcHFUUXk1MzhGODJvQU9sSlR1OElMaklGa3UyMnpyRlp2MFBtcWtweVlHZThNLVJKNXFLdnFiT29JbTUtSm90Rlk1Z0lSaDYzdGJyMXk5RU5u?oc=5",
-          "published": "Sat, 05 Sep 2026 20:17:19 GMT"
-        },
-        {
-          "title": "Fifa president Gianni Infantino makes an appearance at U20 Women’s World Cup - South China Morning Post",
-          "publisher": "South China Morning Post",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSHd3Sjl2c3QwQ2U0amtPbFM5dlBaM0lUODBVM3BtbW1SX25jdGJnLVpjNkRYRVQ5eDJDUVlIRW94R25wVUFtcHppY3lWUVBpSzhCc3JhNXJOcjFpeEZHdmNOaEN3MTNCSkUyRVJJeTJfMjNyTV90Z3pkemJMbnpBdnd4TUhSdENncDBfMElHT0ItNS1hMEQ2emNWRkMxV1JZR2txQ0hpTURFOHdlTjM0VnhiTnlFMzFZVFJRNGw2M2EzR3d40gHEAUFVX3lxTFBGbGQxUVBzc3RpaDNZSGhGc29iUk02ZXBQQmpfLUU3ck1JOVFSVEk1RGFvU19DRm8wNkhVLU5lWXdjUkRhVlNxZ1gzUGFQLVFhN0M2cEZCaUQ5X0JFT0dnNk0xTmtlcXpsMUstYWhibFF4S3FTQXVPQkFUVGtwTGJJeEVlb2ZKWEtzS0E0c2VjQzY4d1RJS1dTZHJMTUNQSklfWkF1X2hLQkliLURRNWN2VGh4QzhKOHNmaWZLRE5yNVFuemU?oc=5",
-          "published": "Sat, 05 Sep 2026 14:05:06 GMT"
-        },
-        {
-          "title": "Everton vs Manchester United: Premier League – prediction, teams, lineups - Al Jazeera",
+          "title": "Embattled FIFA President Gianni Infantino to stand for re-election - Al Jazeera",
           "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHJPYmJoaUFVb3RING02YnBsTHlCUFVoZXRsQ3VLdDIyVTF0anFseWwtNmhUNGJVQ3VKdlFQbUpCaU9QU05qXzA0Qkw5NFJLZzI0SmFIdVRneWtkS0ZTN2hTbmo0MTJMYkwwVmlqc25HR2k1QTFJN2tYU2F6VHZWNWktUFFoeHJraWduVUNHc20yakNXVzZWUDBYaGNndXBnMWZNX1NVeE1vdFM5UHJR0gG0AUFVX3lxTE5qck8tRlMxVjRySThBRUVkVWdQMkZPbnI2RTNYSkd4YVV6T1pYQjVJWHV2VkZ2ZkhsMDIwTUMwdk9JMUd1MGprWXdMY2VvcEJLSVFYcWxQTFpSakdyNGZ2T0RYTFZFVzd3bkpyWmJveHlGelAtQkZuMllSeVh3aVk2MjAzOHNBRWs2Vk1Od2hlZUlfeUszLU5rRU5UdDc0MDI1a0ZXVm95ZklpZ3M1RDhpVkNHTQ?oc=5",
-          "published": "Sat, 05 Sep 2026 20:20:08 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON1hJeDdZRmZscFZXUFZGcEtOOXZqa2YxVFI0NVlRQWVzQkdITGY5bFo4dk15TTFqYlZOam1UWnh4cVZDVW9MaW5KVFlrcF9hMVJOOVRQbnJ3bVdQM2J4UllsZGItcExnZWxhX1RnQV91X2hsaW1TbXN4aG50dHNHWmxnc0dydHFuVWFuS2FpaWtpN0FPb0J2cUNHa3R4QzdYb1A3R2FJZlN5ZWNh0gGyAUFVX3lxTE1tWFRERnhaMVlnVFkxYWx2OWZpQkNXV053Vy1xeWh5d05jU05KTXIxUy1UY25NcXZ4VFNac3JRdmtiVmhOLUtlcUV5OVhYNnNkbjlyTjF5NkR6UE1DNWJCVnpmUi1NY3lxR2tYTGF1dEZobHdRaDlmWWhkVVJaMEx2dkdEd3VqaDhlaEVqMVM4RC1QcGVDZGZuTDlER1NPdTFZTDdOU0NYYlVxVF9ZVHB6dWc?oc=5",
+          "published": "Sun, 06 Sep 2026 15:13:10 GMT"
         },
         {
-          "title": "Britain Premier League Soccer - Bluefield Daily Telegraph",
-          "publisher": "Bluefield Daily Telegraph",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVFVWWXE4QnoxbGRlcmhNYVFhZXJEcVF3MVVCMVFPM3ZodWJac09RMnA0Nk1na2hpeTc5ejBWQTJXa2d5X1VFY1M3QVRDaWZIbWlnQkhuSmpmVmQ3X0N3bzlsMGYzWml4SDRRN3d1MVZyODZoMTByazl1M2g4RlRVT2x1WVV1THl2d3JweXBfT2p2YS1KcjhoeVBTM1dQX0xSdHBfZW5FSHM2cGxRdkV6TWJoZXZlamp6QjFqRFBTa1RveWNV?oc=5",
-          "published": "Sat, 05 Sep 2026 15:59:46 GMT"
+          "title": "Late penalty sinks brave Junior Football Ferns in FIFA U-20 Women’s World Cup opener - oceaniafootball.com",
+          "publisher": "oceaniafootball.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnFyeE5QMmFqemZrdVB1cGZOdldyNFlYeXZaYm1qdW9vZGJxZEhoREVobXBHRnFodEZ3YV9kZWxLQTBuME5XMXljV1Fkbk5xVzBISFkwa21ERkJXSjBNNElkRmFsNklNS3IxTWxUaEkxbWR5Z2xRanM4Yk0tNlVVdVg3RFFVUThFOHVBcTJFbW0tRUUxay1tWC1BMGVtSU1FNGNiVU9Fek1TbThWb0haZ2xpSlhVa1k?oc=5",
+          "published": "Sun, 06 Sep 2026 19:43:40 GMT"
+        },
+        {
+          "title": "How to watch Arsenal vs. Chelsea Premier League soccer for free today - Syracuse.com",
+          "publisher": "Syracuse.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVlZ3eUoySTNiaXVBbG5IRGZ6VXpYVm1GaHZ6QXVNUzJpWmJ2YTB6MTY4R1JjdmZqS01kY0xrTkhwS2JNbGpRS0xJaGI4WWVLcUZfa1dqclhKcjdFZUw5T0lXczJrM0FYNTJzd0ZRS2taVU9CcWsyaVVjMzM1cDBzRzJ5QzFBOGlTZWJaQjZ1cnYzcVZXRHBmUnRwZk9UWWRqQU1SaVdzWllHZktSOHfSAcIBQVVfeXFMTnd3c0lxU2dZRHMydUs3eVExa042Q3R2RXlINkJZbmR5bC1jRTFEVVZ0OTZSaWJwalJpQzhLVEdjdUFqYlRnWUhuZmhrQkpBZElYSEoyZXVaYjEyczVqdnFENWRadUgtT1JLdnFuR081S3dwQTU3NTFPRUF1NFBCMDhEM19tTDAzTDE2Vk9yZkFZS1h0cjNpaUo0NkNOZUFwcEdqV3ZoaEFzOUZIdk9FS25Zakc0U0h3QTNjMXFmVzJVTWc?oc=5",
+          "published": "Sun, 06 Sep 2026 12:30:00 GMT"
+        },
+        {
+          "title": "Britain Premier League Soccer - Idaho State Journal",
+          "publisher": "Idaho State Journal",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV2d6V3NDbEl6YXE2UlpsSVVkMXZVSDJiSDllOHQ3dGhZOVk0VUtMdTFTUTlPQTFPdklFSEoxUEhZd1RRWXkyUEQ0NmNNM0FFa0UyNV9Dclk3bHp6R2ZlNnpkWTJoRUZOTzJVaDJQRW14LWV0TW43VjMyaTlBMWdfMDloei0zOHctSGN2eUc2eDhDcHpWNnRHcWpDNjBkbXhyNnZFejhERzZ4YTJFT01USkpPbU9Wal9va19TSS1MOTNLWVdFRmc?oc=5",
+          "published": "Sun, 06 Sep 2026 17:14:44 GMT"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Robert Pattinson Kisses Suki Waterhouse as ‘Primetime’ Rocks Venice With 7-Minute Standing Ovation - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUlGalN4ZEY4bE9zMk1Nbm1ucjIwekU2SEItRFpWWjh5bkpVd3ZneHgtUGxsLVJNMERMTUdMWmIxVlh1ZWNrV0haRU5aVVE2aFJyLWJCVE1faEs1TXp4T3YyVTVhNkEzVzNXUW1qeUwtZWY2QzdRbXU1Um9rc1NudEIxbERXemJuODhlaGRfV2h2bndiM0dtY3BB?oc=5",
-          "published": "Sat, 05 Sep 2026 17:17:00 GMT"
-        },
-        {
-          "title": "‘Evil Dead’ star Bruce Campbell says he has five years to live after cancer diagnosis - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM0Z6alZFeXYxWlRtWjJBTGJBZWFicGY1RUFuWkNFRkhCTkNHYjVpVTJNc3JNWXJNY0JZeHRRZ0pLYW1URmg1cUFvZ3Q3VWl2MGNxbWd4SWpHSS1ZaHdxdWd2RUQ5S2pMQ1pEV0tzSmdyZ3B5b3doQS0zdGVlX3F0TVZQOS1XMnZtQVJtb0J0OHN4dmhBQ19oYlJoaEd5bE5PUWdCNWl2eVphSzlKcm96ZUVwcFE0MGZNeDFpUWh1alFESHps?oc=5",
-          "published": "Sat, 05 Sep 2026 18:40:36 GMT"
-        },
-        {
-          "title": "Duane ‘Keffe D’ Davis Says ‘I’m Innocent’ in First Interview Since Tupac Murder Conviction - Rolling Stone",
+          "title": "14 People Hospitalized During the Chainsmokers’ Concert in San Jose - Rolling Stone",
           "publisher": "Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRHI0Tl9QdE9GalJ6Ml93Q1Z4ME5GNGstdFhSUG05N2xhZ3hTMlk4TnV5Q1RnNWRJdWNZLWNOaURJd01WWGQ4N2dGZ1FfeDZLUVNjdzlTek5Dd3BFZUR4WFl4VW1wV0NkRVB0SzR1SW16VHEzY25tVE1iZVUyUEFaU0lpZlh6RFhSdVlXeUFZV3RZZDFKRG1td2t6VXZybTFKckNIaDdyNlNqall0YTQxVDlYZllESTAt?oc=5",
-          "published": "Sat, 05 Sep 2026 13:14:51 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkZmYV9TRTl0dzZLZko1S3JTTDMxeG5UNEl3dV9oMU9jRGtXYlI3TFM3QnN3TVgybEVNZDk4VGpyaU1xcW5YN1BxUHZRbzA2Uk5ZdndxcElwWURMd3Q0MTV5bzcwMk85djZxN3VQQXdRcmgybVUzN3Vxb3dqQlg2VktNX2lyeW9IMklRb0I1VGF6ZEVFRmdDWUtyYkgtclpvcDd3cTd5MDBvZG45RkMzWTlVWkw?oc=5",
+          "published": "Sun, 06 Sep 2026 16:08:48 GMT"
         },
         {
-          "title": "Dolly Parton’s Sister Stella Slams “Endless Garbage”, AI & Social Media Misinformation After Icon’s Death - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ1lkemEzaVJibHoyWHpOQThSSklHc2VFalVxbDd4VjFWMmctQWltMTRFMUZFZ1JHQ2gyVkpFQXl5NUR5ZUdnZ2Jja2RwMlcyS2lMNFoxT0c4b0diMnJNallsY3BqSkI3QWQzQi1XQ1QzQW5ZLThNWWFMZnNwZEltbU53?oc=5",
-          "published": "Sat, 05 Sep 2026 16:45:00 GMT"
+          "title": "Box Office: ‘Spider-Man: Brand New Day’ Remains No. 1 in Sixth Weekend, Nears ‘Avengers: Endgame’ All-Time Domestic Record - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbV94QWFTbU4zME5YSG5HR1IwY3g4cnNmd2lQT3NQa1FaNXVEZkdEamlmNkI5cnVKUUxYMUxXZ2w3LVdLY1cyMFFaai1JdGMyb3ZXazMyUTVicjVpeXo3VHdoTnFzV3ljSGhJdXRGbHJ0YnZJREgxOVZ1bGludjRmd1R5OGZqaXh5a201QWNNWlc3S0JEOGYwdnpEZ1oyeUVwTVh3?oc=5",
+          "published": "Sun, 06 Sep 2026 17:31:00 GMT"
         },
         {
-          "title": "CD sales are booming as physical media continues its resurgence - The Verge",
-          "publisher": "The Verge",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0NDWWFoVDZYZXJ5cDA4MFQ1RmtXU3kyOUJYMG5WOE81MXdBVGF3Qi1XVzV5Ul82Z1R2b2ZhSXhmTDB0MUlUemFMNlp0VnJHcW9UdkRyY1RhTlFnRGFmNlowWUFBWEkwS3ZsQ3JFa0toRXdqREYzNGY3S0xyNklVTkYtNkFTZjVMUF9LRzZabkhjNU1yZzBuZWsybzhRbnB2Q0JrQjNXei0xcHlqQnc?oc=5",
-          "published": "Sat, 05 Sep 2026 16:49:33 GMT"
+          "title": "‘Traitors,’ Mariska Hargitay, and Jimmy Kimmel among winners at the 2026 Creative Arts Emmy Awards - Entertainment Weekly",
+          "publisher": "Entertainment Weekly",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hVlFUY0x1TFRYaUdNZnFuVi12akNIWTlXZUI4MnZaaldxYWVtaFNqQWdZYkpUbDFtTkZMbmJuQTY1ZHpNSXRoOE0zR3pkZzJlRVczRTlncS1Xbi1mbm0zaENzblhRcEstNXhhZWFB?oc=5",
+          "published": "Sun, 06 Sep 2026 15:19:28 GMT"
+        },
+        {
+          "title": "“Married at First Sight ”Star Reveals Her ‘Precious’ Twin Boys Died 9 Days After Birth, Says There Is ‘No Greater Pain’ - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSEdRSmdVd1hhenhUSHlCWFlsUi14SFlzZ1VhR2hkMlZzWkN3T2VLcDN4TTNLVFZHSUtsN003cWM5a2dTMFBicThReTBUbWxlRFFlNTE0RjQtU2wwQmJicEJrSkhFN09ncXN1NkIxeXNFYkxQU0lkSFVNdU1RYUFIQkg0eHNZanZvMnRjLVpJXzYwTFhKdDhBX2F3YVJSdzRScXNKVA?oc=5",
+          "published": "Sun, 06 Sep 2026 16:10:48 GMT"
+        },
+        {
+          "title": "Andrew Williams, Every Time I Die guitarist known to wrestling fans as ‘The Butcher,’ dies - nbcnews.com",
+          "publisher": "nbcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHVDak5RRG9oUi1WbHJiTzFldjVmQkw2NW9xQmc3LWlpdkFkQkk2eUtPczAySjk5NEMyeUZ5ZE1lbkExcUJ3b2tTZVIzSHhjRVZJa0g1enhYOWlhV3ZWMlEwc1hWTHk4NEZCLTdSc3JKNDh2SjZGUHByVGhMYW9DejRhY2NxRzdaNWtYeXBYY3E1dVh3?oc=5",
+          "published": "Sun, 06 Sep 2026 22:31:44 GMT"
         }
       ]
     }
