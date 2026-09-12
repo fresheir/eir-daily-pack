@@ -1,47 +1,78 @@
 {
   "market": "JP",
-  "generatedAt": "2026-09-11T23:54:20.431190Z",
-  "validForDate": "2026-09-11",
+  "generatedAt": "2026-09-12T23:46:43.900784Z",
+  "validForDate": "2026-09-12",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Toyohiro Akiyama, Japan’s Chain-Smoking ‘Space Antihero,’ Dies at 84 - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vQ0p0dXl6YUVweUttU0o3T0hyRHg4dzNNbWxXTWFQWUxpU0JCUEMzNWlVdWVNU1RkT2NjcHJ5clg0RTR5OEFmR2xMVzdoRE5VTmdZMnhva1NqZWJHcUdtWlZEQllWS2doSlljdkxGbjFhbUMwYVp0WVk0c2s?oc=5",
+          "published": "Sat, 12 Sep 2026 00:59:00 GMT"
+        },
+        {
+          "title": "Japan, India, Ukraine: Why some countries are uneasy about new UN map - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUFWXzMxVVF3YklSS0x0Tk1hazVZTFhkWUZDT0tvc1hMenlpeVp6d3NmZ1JTdkpjTURkUDZ6ZDlIc3IzdnlhczhoT2RNcHhDUHZxdWpJc3ktbDVCR2ZTTHNsZWVzN0VyZ2dVNVZ4V0JTRk1WSWNscXNaZDNPbnd1Vkd0OE1qRFdiRF96Y0VPYU1GUjliQmd4a213clNtLWNCMEVWY2JiMEV4bUXSAbABQVVfeXFMTmFyNVd3NkNod3BCM3ZsS0Jybmt3ajJ6M2RTNmREeUM2dHdMeExheEVNZ0xuenotdXd4QnhsV0xiVWRhUTg4eFNZUElCN2FrejBhWDBvdjV5UWFUNm5PMk1DTXAtejVkMWo4VzZzcjR4VGlvenBEV29qb2NkWGk3akhxcWdEdURuejVjSXdUZk5heFVqc3dXN0N4M2ZkTDYyZl9FTW41ZjZXTFdTVElBOE8?oc=5",
+          "published": "Fri, 11 Sep 2026 09:19:17 GMT"
+        },
+        {
+          "title": "U.S. women arrested for allegedly smuggling $1 million worth of drugs to Japan, one claims she was motivated by free trip - CBS News",
+          "publisher": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWDJJNEc3U0dhcG44d0t6eDBVdHY2X0FqdXg4WHVYR0ZUOGNPRFFrN1NlV3FFTkNxUGU1MXF0djJIbVRZT2lLbjItMHJ1VnRRU2xRNUVKdi05d19hWTdGX3E1LXZpXzlOVkZ1R2p6REtONEk2OTFRcnhDNi1VWkpMSDdrSWdhdw?oc=5",
+          "published": "Fri, 11 Sep 2026 14:12:06 GMT"
+        },
+        {
+          "title": "North Korea fires ballistic missiles after condemning military drill as threat - The Hill",
+          "publisher": "The Hill",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3MU93VG9CdE40VlZwWV9HX1U1UUM5QWFENHM2NGtaeTEwU1F2MEpySDkzTWNsbHdVOXdIVnNMU3R6WXh0NEpDY1VDQjNiczNQWmZodzFvQmlaMXJaRVBKbFFMV2NHNW95VGZqWjF1Mzl3al9rcU9HR3hlQm1CQdIBgwFBVV95cUxOaGZjM2VlVkFnZXRKZ2x2LTZVSVZiNEx4UE5MOVYyakRDNDZ1eEJrYk1ZaGJqckNRWUt3Q09lZVZnRmpnVmg2Umx5bDVaYmFaUHJtcV82REE3WllsaEtwNVRZTE9tdEpKUUJyaEx5NHZDQVV3YjMtNWRremFhVHpPLWxvTQ?oc=5",
+          "published": "Sat, 12 Sep 2026 02:40:00 GMT"
+        },
+        {
+          "title": "Real Rail Luxury: Private Cabins Return to Tōkaidō Shinkansen - nippon.com",
+          "publisher": "nippon.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vVXRUNkc3Wk9xTjBnLXBJd1puNFJwTmRRal9ITXlWX0FpdTBNeVNMMjJ3R1ViM2dKU0VKYkVZWkxXZTB3QndWWWRFdWRreG9Yd1g3U3EtNVhtZw?oc=5",
+          "published": "Sat, 12 Sep 2026 00:00:23 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
       "items": [
         {
-          "title": "Oil routes in peril as attacks shut Saudi pipeline and Houthis threaten key waterway - The Washington Post",
-          "publisher": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNVpxYjZ0d1VwNVJKVHFhUFVFRXJGNDRobUxmNjJOUFBWQ1R1THRRdlRFbE9oRVRxaHdRTkw4b3hxV2tIcTZSX1ZCUUZ2SGQtQWJ4akhpSGE5S3p6a1RxSXdwNjlVemJFRWlvMzVzZm10RGJWTVNVM2VhVVZkcU1kRDl2UjJBR191WlppV2p1LTlPdk1Ba2lHV0Y4Ykp6YzU1RmRHdEpOQmxIREU?oc=5",
-          "published": "Fri, 11 Sep 2026 23:28:49 GMT"
-        },
-        {
-          "title": "U.K. Parliament rejects bill to allow assisted dying for the terminally ill - The Washington Post",
-          "publisher": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXZzN05MaTRWOUk4TTBxcDQzZmFDb1lfX01WYm9qU3VOMXVmbkxaek9xWnBMMEFyb2xIRWFhSkRkakM4Zi1wN1VPZmwtVFRqM0htcEtpano2ckJFWVhCZF9KVEF3ejVmLUE1ajNTU0UyMjBQZ2diQ1N6VkhqWjdibENLR1diYTB0czJPMHY0WEpMRnZYTHRLUG5lWmdkS2s5U1RSVmVSbnJvcDBrWEN4Mw?oc=5",
-          "published": "Fri, 11 Sep 2026 22:24:18 GMT"
-        },
-        {
-          "title": "Death toll in Philippine ferry fire rises to 35 as more bodies are recovered - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUFA4WnduS2g3anpMT21ZQklRTGVYNXg2X0ppU3VNOHVHQ2ltT2FRMFBZaDdWOWptSkVickJ5cXljTUw5S3Z3MzY1LXV0VGlfUzdLMThEamVhM0RQU012WVl5M2xEMUlsVWQxZEFLa1dyS2VWWnpqSDV6ZFFMbC0xOUZqMEpENnQzb1E?oc=5",
-          "published": "Fri, 11 Sep 2026 14:20:00 GMT"
-        },
-        {
-          "title": "Iran used Claude to target US Navy in Middle East, Anthropic says - Navy Times",
-          "publisher": "Navy Times",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRzBaNFhKdzJCTms2U0RXWXZTRVN6TFFZS294ZjkwRkc1YmRlT19ZQ3Bsc1FXRktXVE93NnFqRlMwcDBWM2xjcW1wNnJrUEpTUVNsaWtDQXNwa1k5OVhUSUJNbFktYlItNFpCQlVORV84cjNpQ0hOVXFJQkhlNHZxTkw4NzQwRzg1eEVqMmtWVndtYzJCSmpHM1ZrUEdERlR2Uk1ySXZ3Z1JPMmpxWDJJU1hkbGdlN3po?oc=5",
-          "published": "Fri, 11 Sep 2026 17:15:25 GMT"
-        },
-        {
-          "title": "Gulf oil threatened anew as Houthis reach key island and pipeline is shut down - Reuters",
+          "title": "Houthi advance in Yemen puts U.S. in a new bind - Reuters",
           "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUk9oUjNYejhGeW1YblJUVWdfQ0JaZU52dHNPZUZVdnpMSkxYS3pKTWhLdjU0REdNUGdubUhnRl9KUXZabHRfbEQyOUJZeXUxQzZfcGFlbFV5V1BlSTVmRkhzdGJaNkpQa3p3OG9LZUt3Q3VXYkdrc2ZRWW9fcWQ4TkYxNFgxNFI0dlhIV0UyUU5Dbk44blJMempZVFVqVm5XbUlfV2dqSlN3YXBNUDlUQmVxS3JQMUxQ?oc=5",
-          "published": "Fri, 11 Sep 2026 21:28:55 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkd2T3JFYkQtX1BpRFMwdUY5V0tXY0xuX1JpY3cwa2hEZmxKRWVSdGtNQkR5dFBIT2JPanlxM0N3WjA5YVVpZExUOFJIWG1MZTNLUXNrTXZaZDRLRnFac2Vkclp3eWhkaTFUNEZrdGk4RzBYTmVVV1kwMHRJWHdXbGs3Z3U5VlZ1eldGOGJXLTU5d3B2NUE?oc=5",
+          "published": "Sat, 12 Sep 2026 15:22:51 GMT"
+        },
+        {
+          "title": "Second crypto billionaire donates record $49m to far-right Reform UK - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbWZuSW5oVXFxRFB0QzBuM0FGMFl5aV9VaXNhTGk4N3pQYnBrTFp6bV94RU1IaXVMa2xLdnV0S2FiNWRTeGRjcXk0YzFwWGtHcjFZQkRYdzQwMU9wVzNKNDlLcWN3LW9OMHZPNXFXLThaSUY4T3REejNnX0RpNWM1ZEZlcGVheWFJY1JtaUdFV1EwVDNfSkozZ0hMZHBFb2JfZVBTT3I2NDdidjQ30gGyAUFVX3lxTFB0aWh1UzdfWUtHSEdkamlzcklkMU83cmtTaXRKSmx6MEJ5c3VfLVl1bUZ4UllHanRXSFY0Szk0bWZ2LU5ZVDdDcWw4MHRjVjNPMlVIRWlQYmg2N25kNzRzX0lhREpLYkVhSDRFTDZUY3NTampIX1pEMEdvSTB4RjZLcGxyMVZxRzdURHNhcGhCWjZRbk9vdmNKNnFoSTZreHEyT29PVUtHTGlZODNlTlZKeEE?oc=5",
+          "published": "Sat, 12 Sep 2026 20:47:38 GMT"
+        },
+        {
+          "title": "Iraq says Saudi pipeline attack originated from its territory, and other Mideast news - apnews.com",
+          "publisher": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONEdJUjhTN0ZoaHN2R1U0eEZvV2pOb2tOTGVjX2NxbjF6RTg5SDFyLXRhVlF2enBCV2ctSXFjVEZaeXdqTjNSeXVjcEszem9kUTRxaFR1T0pUQ3M4aEVaT2NwMjl3WC1mbi01bTVIZmRMWXJSUml4X3QyM0tYamRXbDc2T3h3dG9JbGtZZHVyZVBRMTVvaHFSdGhCci1jLXBMTnRnYWlZNHRnTzRjTGMw?oc=5",
+          "published": "Sat, 12 Sep 2026 21:47:00 GMT"
+        },
+        {
+          "title": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDVOU3dNaTZnLXlUajl4VmFxRkpwRU1UYnJKT0tBSGR0djJjVl9VY2tCYzlmdlJrakFnWTVkOC1LNFA5N2c2aWZ0M2tFWnEtREtzQU1WTUo1OS13X0hLRXZGbUpKUHpRVDhwTHRhVDFaN2NPMm1wVWlWQXdTY1RwWElqSHJUZzFBX1hUQVNTSUQ?oc=5",
+          "published": "Sat, 12 Sep 2026 21:34:12 GMT"
+        },
+        {
+          "title": "Putin warns Europe against sending troops to Ukraine: \"That means a war with Russia\" - CBS News",
+          "publisher": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3NkN4dzR3OFV4VjhxckRrT2tudkF0V1JYNHdPUUw2OHlRWjAtVjB2LUItUUJzRjdWTnhwR0hCMTZFN1ZtcEp1ZG5pSkhIRjkycjBXaGJnVHpqd3Uwc2VBTlJ3WG5wMUxkS3VsM2sxMENZdG5SbUllc25XQQ?oc=5",
+          "published": "Sat, 12 Sep 2026 21:54:10 GMT"
         }
       ]
     },
@@ -50,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Feds declare record-setting cyclospora outbreak over - Politico",
-          "publisher": "Politico",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0dSTnpHVm9uNmJpZk94cGx0ellqcVc0UkdDSzFLcXM3SV94WDJZWXJiQzRUQml0Njc0WC1ocHBVbjVaNzNhdFNtSjFua1J0alVJeDhPVWdVOEtTdGdzQ2VQeUlMQjRNREpPc19UaEszaHBxeWh0MzBvZ1hWS2NYRTYyQjdTOHREWjAxZVZ3OGtjdk9GQ05KZDhfbldkZF9PNUFucw?oc=5",
-          "published": "Fri, 11 Sep 2026 20:54:00 GMT"
-        },
-        {
-          "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnU4cGVXdlJCSlQ1T0xGcnpIbVVMRVhFdVpzRVczZWJXWEpxOWJUaUZWOGp3NzdIMHlnemtfNkVVZks2eGpRdlZqMjdkZzBLSUxPLXRvTlNUTmNVTnNvRExOQUhxa3VzZlRDT2ZNLTlBUDFDSjZWTTRPYVFMdHctWTZnZTdGVjhaUm5uSy1CSDBmUFE?oc=5",
-          "published": "Fri, 11 Sep 2026 16:19:00 GMT"
-        },
-        {
-          "title": "Warsh Faces Intensifying Pressure to Raise Rates After Hot CPI - Bloomberg.com",
+          "title": "Anthropic CEO Says It’s Time to Slow AI Model Advances - Bloomberg.com",
           "publisher": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSlA0Sl9sSUFuNjJhanlXWXcxMlNNRENsaEtlRVZvMW5TX3VGb182NW50R2steXkwaDBINzhaWFdjYXI5M3drazl4UGJMOTlzQ0RXTnJXeG45eHROSjNwR1o5d0lmUVQtVnVaN3ZhdzBkd3JUTWFHODEtSEdzbEFlNmVOVy1QOHlLRk9uRmZRdUs0ekg4c3hocE5uNzdXSXc1NDduWmUyVGVPM2Z3SzAzY3lzQ1ZsMl9tQnR3QnJyRVZfN0NR?oc=5",
-          "published": "Fri, 11 Sep 2026 16:47:12 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlBPOGtIVFdERkFSODVUMU84NkRpM282MzgybkR1RXAxN1FMZXNON3lMZUpoMjFxU3ltWDVkT1RuNEJwcEhGR21qeVVuQjI2VkwtRG1KbE9nLVhEQjAyQjdpdjExYWRjSFRRLTJ6OHkxcmlkWkRYUS1sdV8wUGUyTEdNWWFzNGJjYWFYckxIRGZFWC1sTzJQSmtESWRCX1ZkekptTVlHWjQwakxYLUtVQ3J4SWc3UQ?oc=5",
+          "published": "Sat, 12 Sep 2026 21:20:02 GMT"
         },
         {
-          "title": "Hugging Face CEO on Anthropic researcher's AI warning: 'Like asking your AC guy about climate change' - Business Insider",
-          "publisher": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzFCUmNvWE5fZ21VMHNUOXY1NmVWUmlMMVV4eVI4Z0IxYmZ4RjdpSk1OMXlmWkduZnVUc0YwNFlUMWh6Vnc0SUh5RzBiRTFtUDlPcFBwQkJlc2dqNVh1WUREQVU2Y2pVTnBlWW95YVZZc1JyYzZlckF4R3ZkQmJmc183LU9WdGdOcUlfel80R04?oc=5",
-          "published": "Fri, 11 Sep 2026 18:25:39 GMT"
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026 - TechCrunch",
+          "publisher": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDYteTJ4VHRtbkNDNEhiVHFralh2cTZ2TUZIQ0E4aVNmcEctV1dxQjVuSmxLZGdrelcweXNvSEphQ1l0bmkzSjdzZC1NeGkwSE5JNmpRY21pVG5reDhwaklRVnFXY2VoYmJuRHBfc2lXVWIwTnVycTBVNFZzdnRjRFFnY2dMb1NSaktMNkdraEVlWlJKYmY3cms3VXVTSzJqa256Q0dn?oc=5",
+          "published": "Sat, 12 Sep 2026 20:19:16 GMT"
         },
         {
-          "title": "S&P 500 ends higher as strong inflation data cements rate-hike bets - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTZpMXRyVmxGMjJTRmVVOV91TnZIWlJsZS1BNlE3bENxRlRlVnh2RFZKQmdwUVNydUJQd1RvZlZLam1KbnR2ZS1Vd2VNaWhrN3lNZ3hETUtvcTVxYTFEOENQQ292eWk0YXJYYjBrekoycE5sU0FqdloxRXNZcTcyd1dnYkFEdGpmMV9Pd0lwemdYWmd0aHZaYmpkWmlLOFgxdnc?oc=5",
-          "published": "Fri, 11 Sep 2026 23:19:28 GMT"
+          "title": "Larry Ellison cancels $7.5bn Oracle share sale - ft.com",
+          "publisher": "ft.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVB6czJZaDhRSDRwejNONzNKLUljb1hVdHUtSXE5UW5fbHI5MjBZN1FsS21BQlJyUjJNQVZLYzlyWG5tMWRSWldRYWxaQ0tzbFVkdU10OVpqN3RjTWVuT252VTFFbFc3ZjJTSlkwWUhfZjlqZEJTSzJ4Vlp4M1JBMnEyXzY?oc=5",
+          "published": "Sat, 12 Sep 2026 17:18:43 GMT"
+        },
+        {
+          "title": "J&J Is in Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion - wsj.com",
+          "publisher": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWJrbUNab3p0MTZ3dldIMG84YkFjb0VKU0N6bHgtREEwQ08yVHlleExNRC1SdXdJQklLaWRwRWpSWkhxbXp0SkdYa2wzeThZT1JRcnVuWmlNRkQ0S3Nua0hTS25PM0R0MkFwZVBOTENKQkczYzk3TmhGX0ZOZUVST1B2bWQ2Zm9CTl9kT19zQU5mNVo1RFl5U3NCeEh3MFVXME0tMXVjeGlfZE5OZFNyV3lsX2pzNmROTVZVeQ?oc=5",
+          "published": "Sat, 12 Sep 2026 19:40:00 GMT"
+        },
+        {
+          "title": "Gas stations in America are starting to max out their displays with $9.999 prices - The Independent",
+          "publisher": "The Independent",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQjdzWWFRVGc4b1YwOVQyTC1zUl81cW0tamJDQUczMmRpeUhHQTZuVVNVVHhWbHN5djY5aUZDQ0pBRE1BNE5uaG83eEJyZGZrcERfZGhlTHQwMVIxSmlMTV83OFAzNERfMXdZa3E2bXlMX3dQVGtBWnN4VU5zaXlZM19mQ1Z4bm1Va2lhUkYyM3BpRFhzU3c?oc=5",
+          "published": "Sat, 12 Sep 2026 19:31:00 GMT"
         }
       ]
     },
@@ -86,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Tagovailoa out, Rush to start at QB for Falcons vs. Steelers - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUEFfWjNtazVhTkstTWxqVm1CU1NPbDJnLVprV0NtRDNrdDV4RVgzbk5HS0FkMGFiZVJjVVJWZHZnTUp6SEVBR0s4MmItTTJGYVZYUmdFbUY3Ym0zYjI5TmtjaHlleXFpWTVxVnN3ZHI3bmFGVnJEWTJPUXlQYko1bU5JemFDVDZMNFhPZ3RIVUsxRW8?oc=5",
-          "published": "Fri, 11 Sep 2026 17:57:00 GMT"
+          "title": "US Open 2026 results: Elena Rybakina beats Aryna Sabalenka to win New York title - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVzdoWkNUT1NaOHU5ZTVxSm5MRGluSWJVTkwtZVVKcGJLeENzdUpBNTd0RFdnSUZuT3ZNLTFfQnIwZmRzRlhVQlBvNVd2aTc4a09mWjdhT3RueVN0OXdVSVhob2c?oc=5",
+          "published": "Sat, 12 Sep 2026 22:49:14 GMT"
         },
         {
-          "title": "Winners and losers from F1 Madring practice - The Race",
-          "publisher": "The Race",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdDlMMkJxZ0sxeUV6R0hYYk1Ga0UtZDVBMlJ3QmMxRkNneG92VTJFc1ZKZkNMWW1NT0xvQkdaYjlaeTVvTEpHdTlTOWtmQVBDZWJQVTA0MjlzWFpVWWRyVWVzeXVXZElCckp3NnMzZjdoZTdfLXdYTWJRMDh3YzBnY1FBNGtjM3hJejRRSFVUTQ?oc=5",
-          "published": "Fri, 11 Sep 2026 18:26:15 GMT"
-        },
-        {
-          "title": "US Open tennis 2026 men’s semi-final: Frances Tiafoe v Ben Shelton – live buildup - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0RMZGdJZk92RHAzMUNyOEszQUh2Y21idVRGT2dOZVZWdUhoQ3QtWHdiV2lVTVBBWGdwa1JtMDRjS25CS1BsdHp0RWxqT3I0Tno4M09QaUdseWQtTHZUZzFSU2VJcTFNV0kzR2xjcmUwOEF5a0p2NG54a3hJYzJRckJTMS1iX3ZjdUdYYUZIVk1kVnZ6UHpKS29QMnJkNlNtWWd4NVE0Z21MaFlic2VEeDNUam0xU1NhcHgybzFFcEFBQms5RjhN?oc=5",
-          "published": "Fri, 11 Sep 2026 23:46:20 GMT"
-        },
-        {
-          "title": "College Football Predictions: McMurphy's best Week 2 trades - On3",
-          "publisher": "On3",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSHpGV3VtQ3NKamJtNVdjajRtcG9rWXFockNZTXJqQWp0c2lCWmFqRjNZV01QT3pwNEJZOUJxS2ZsYlhCSWw5Nl94UVUyVkZDSkVhQXNIMzhWcTQ2WEp3RllFbnVXQjAzTWp5cF85aDBVNVF4ZTlRSHh6bThlbnZrc2M1cGVKdmEyd3JkNFBSLXg?oc=5",
-          "published": "Fri, 11 Sep 2026 13:55:01 GMT"
-        },
-        {
-          "title": "Myles Garrett gets shut out vs. 49ers: What NFL's best defensive player said after listless Rams debut - CBS Sports",
+          "title": "Ohio State vs. Texas live updates: No. 1 Buckeyes battle No. 4 Longhorns in primetime showdown - CBS Sports",
           "publisher": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZzZPZFBiWWc0TU9YTWR1bnZ1dXRHR0RVeUs4RzFBcVE2ZEJIU3FhM0JfVFJoeGtJUTAtVlYxTll0eVpXYXlCY0pnSlJrM21oN3phRFpaMlQybEswV1Q3Rm5qcWdUTXg5REY1LWdDNEJUYWJJam11MlZlXzd0M2lkNWlYSm8wX202YUhUaDBxcjRPT1RVMlhSV3ZQdEZpVjdUZURUMi1VcTM2UQ?oc=5",
-          "published": "Fri, 11 Sep 2026 15:22:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1RLajg4ZWpwVWc1TGxpVXlhVWpZR2Z1YzhrWnlGQVdTX3FyNHdLV042aFhBT3k4X3VpNlFuSi1oNWtuZEZhU01KM1MtUHR0a1lsTklWV2l5NkNxRmp2QmYyZ0pubHp1b093NmJHZ2pyTWlsekxFNUJWRTNkb3RJemtlTGl2UzB6QUt1bURKbkc3Y25ueUtsS3M2WTdEQURwanpkWnpIS2dSNG4tVlFRbU1mRQ?oc=5",
+          "published": "Sat, 12 Sep 2026 23:15:35 GMT"
+        },
+        {
+          "title": "Oklahoma State football outlasts Oregon in massive NCAA upset | Replay, highlights - oklahoman.com",
+          "publisher": "oklahoman.com",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa3VSX1RuODFPNFc0bHJqLXg5Q2hJOERvWGd6ZXd1VEtFRVdlTW1PUDBncGdQS3Ztdkp3WGxrWDg1dzJfSmZCU2VsMlVlQVMyY1pibUpZaGFxRUtXRk0xSFZxSWVGemJJbGh0bDdPOFM5TmQzTVMzOU93d1hjdFVQV2Z5UjkwRFExOVFFbWo4dUZETXdELTZXV1g0WGd5SDVWQkVoREF0NXctWHk2aHFuNU1oQ0dMVnJZOTJoM04tYTV0WUxZM0NHamJpUkZBeTVscUZrZ2VIY2ozTjJaOXdDdlRTelRlRU8tTjdFTXdoaU0tU01UekFGcQ?oc=5",
+          "published": "Sat, 12 Sep 2026 22:52:00 GMT"
+        },
+        {
+          "title": "Winners and losers from Spanish GP F1 qualifying at the Madring - The Race",
+          "publisher": "The Race",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQktEX3pRdUpMWmc0ZjlFUHRTWnJueGJhRkVyWi1MNG05aWhQR1lPemtNN2Zta0R1d0twdjVEZ0hMcV95SUVPUnNLcEE4eDJGUGQ1QjZkRF9wYVE4V0ZaN3FOTDF3QVVuUUhhTTFDNy11MjZxTnhLNXBaUzY5MEVsU3dzSnViQjN3QjFQSnRGWkRRZw?oc=5",
+          "published": "Sat, 12 Sep 2026 17:22:31 GMT"
+        },
+        {
+          "title": "Noche UFC live updates: Jean Silva-Jose Delgado round-by-round results - MMA Junkie",
+          "publisher": "MMA Junkie",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNkxOdTlOUkhMVWcwRFB1S1ZUakJBd255aF9lanpmSjctNVlZN0F4eFlCeXdUQk5VYThBc0pqVjhFVTBEWExRdHl3MFlDTzRTeUhnTWJkR3pkV2VDNG9zTE1oN0xVN1NxaHlHd2RKdkdLQWxSMEpyenNqU3RfVlRjUm9TNU9fMHY4Q2IxVUVYMnRBZ1Y0c1daLUVTNjBvRFpoTHpXdnBCaU9ZVGNhUVJ5Rjh0M3R4bDdISjVLVUt2MlpLSndjdGdNN3EzUGJJRW93ako5SC0zd0NyNDhTRVlkc0xENHBTeGo4OFdjYQ?oc=5",
+          "published": "Sat, 12 Sep 2026 19:12:00 GMT"
         }
       ]
     },
@@ -122,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Apple on wide Android foldables beating iPhone Duo; ‘they got the aspect ratio’ - 9to5Google",
-          "publisher": "9to5Google",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOW15clRjRk1OVVd5NHl0ZDY4ajhHZDdpZDFQLS1OYXh1RFZlYURqbzN2dnMzR2lzdnV3SUtNMVMyRlV1OEd2ZE5pZDk1SXQ5YmJteDhNT1NCa2ctZWZfcVA2Y0Y4dmRZczhreUhyQlhFTlZ6dzhOM1ROR3dld2RhYzBjaGlrTkRkUVN2U2M0VXFyY29ERlJiZ1ZKdkhzNzhGQmkwQWJua2FfSFRESUhGaw?oc=5",
-          "published": "Fri, 11 Sep 2026 14:45:00 GMT"
+          "title": "BlizzCon 2026 Opening Ceremony: Starcraft Returns, Diablo V Announced, Warcraft news and more - XBOX Wire",
+          "publisher": "XBOX Wire",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MemNnRjQ4dHMzakZ3MWxxeXAwOTh2ekNOMHR5R3hDbFU3Qzd3R2FlUnNHQ1dUMlBqVU82aUFLclI1aUktR0kwUkIxUkNpdkl1dEk0VlVvdGZUQlhrYWRCLVBEZGFFU2U2enlfeHhQR0VScUZVcjRlVUR30gF_QVVfeXFMTW1INUJzTk1nRmhxSjJoV2tabWNJcktBUzEtZF84LVdpZVo1S0F3NmxYOWp5SlpPT1dMN2pkX1k0M2lHN3BZb2k1ZXNxU3lRLWEyS0c1TXpXTVdsdWFnQTlBTlVadDY3MlV2bnotVWxWZ3JmeE4yU1JrZ0hoUzRhaw?oc=5",
+          "published": "Sat, 12 Sep 2026 19:39:14 GMT"
         },
         {
-          "title": "Apple Watch Series 12 vs Series 11: Here’s everything new - 9to5Mac",
-          "publisher": "9to5Mac",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNFpTTHR6ZlNJYVVnUFN6SVF5dlVlUE16UnRzNC1BOGtQVEZ3ZlJleC1vdDZqVU9aYnFhMFZ3NzRkZC1XaTdYTlF0R2s2eWt0c3hFWUFiWm9rejBrUTdvYmNhNnRtRHRvWU1yM19mcUowVUxvLTBqR2ZKWW11WmFxQUs1TXZmY3AyaFFpQWFkSEY?oc=5",
-          "published": "Fri, 11 Sep 2026 19:35:00 GMT"
+          "title": "LG Denies Accusations Of Smart TVs Continuously Recording Its Users - Engadget",
+          "publisher": "Engadget",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkFOamFwSkNCMmJXMmNnbUJ6YmtZbnhHUXk4bDlXMFg1bG9tWHBEVzNJVzdfR2ozanlpZnFHd2FZZXVRb1k0U0pmRFBMZks0NlkxRER4TmJQWE5ZMVp0YUtDVkRXcDRKSXpqdkxlbGhhUEVfSVU5OUdhYWFCOWRpSDRWMTdOU3VSa2VQdEcyQkFqN2l2VG12Mlc4STBUVFNxYUtz?oc=5",
+          "published": "Sat, 12 Sep 2026 18:17:55 GMT"
         },
         {
-          "title": "Nintendo launches major sale with help from tariff refunds - USA Today",
-          "publisher": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNlRuSnNoUUo5N2lWbUZuSTBMWTlEbDVZd1EtRXo4MjItNmhWNllyOGZJeTVqazk3dUpWdGtSMTRJelRaQ0dtdGt0eUNudzI4UDJrMkhQRkxLTHlRQWNQZTNQSU1iMEx5VjNLSkppOUV3N0VqTWVIVG5PQUw1bkxiSWNrNUotbVpnNDlPOV9xTUN5YWUyS0RVTTNiYUVJM0RLajZTQjJXdExMWDR3b1VNTl9DbHVkYmNX?oc=5",
-          "published": "Fri, 11 Sep 2026 21:06:00 GMT"
+          "title": "Apple Watch Audio Intelligence: 4 New Features Available On The Series 12 And Ultra 4 - bgr.com",
+          "publisher": "bgr.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtR0czYTdQdFFBbzNBcDN0czAzMEgtdkgzb0loNVpZNzNoSlZSVXllRjB3VEZlQnAzeE5ZSnlZazlBdllTSGRmaXlvSEtaLUFFTV9PUTdsWHFYNFFva0NydDM1djJLTThOWkN6VjZsNFN2UEJVNkhFX1l3LXQ?oc=5",
+          "published": "Sat, 12 Sep 2026 09:17:00 GMT"
         },
         {
-          "title": "iPhone 18 Pro vs iPhone 15 Pro: Three-year upgrade - AppleInsider",
-          "publisher": "AppleInsider",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRG1FTS01a0wtVmd4RGpqaFB2WjNFR3k1Z2dZZUx4NFdHTjZ5Yl9SeFlWM1Jqb0JsOFh4Nk9JMnVIYmRSaV9PWjRUbDRHSTI5Y0N2aHROVEdpNWctQ1l1blVHc044eGoyX0hkV29la0J2b0I0SUI5cE5KMEZHY19SVm51RXJ0bVpndkxJd1BOcDVHdVJIdEJhYjZB?oc=5",
-          "published": "Fri, 11 Sep 2026 17:55:00 GMT"
+          "title": "Apple nailed iPhone Duo split screen, even as iPad multitasking feels convoluted - 9to5mac.com",
+          "publisher": "9to5mac.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0UzN1lFUmh0SWQxa3FpakVsSDZvM1JBaG1UdmVOOHZrdlU5cW1ySk1Vckp3amZjYWRIcEV6UDNlR2dJYk9WVUFWS0tmdFAzVmVaTng3MkhXMktobTFMU2c1SEtVSHhoOS11SFVhdHVqUTZfemg5VEhhYTFOZWdjSkk5OU1TT0dJcFV1eS0zTjVBbndKS3RicHB2MDZheFlWaERITUIwbG1oYkNFQzV5eA?oc=5",
+          "published": "Sat, 12 Sep 2026 16:47:00 GMT"
         },
         {
-          "title": "‘Lenovo Googlebook 15’ specs leak in full with ‘Google facial authentication’ - 9to5Google",
-          "publisher": "9to5Google",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UZlBmR0tNVWhGOFJTbEdacXhZdjVtT29SeXZnUXktaHRWZ2tsUnpvQW1zV1hud3NxeThSYTZXRW5zekJtTG9ldVZWaE93cDRtTUhxWlBUblM3azZLMVFkVEFYaUNKajhoOFpib0c5OE0zTGM4?oc=5",
-          "published": "Fri, 11 Sep 2026 15:10:00 GMT"
+          "title": "Apple Says iPhone 18 Pro Max Sold in U.S. Differs in One Way - MacRumors",
+          "publisher": "MacRumors",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGZOdDg4YWlkcVFoTUl6ekU1cVljNFVwVzMtRl9uQXdoWkFjcXVNcFZzSEV3Y2VRNHI0dkN2cGhmdzdtSE04bFBHaHFJOHdFWk9zWUx6SDBZelNwWVU2YU8xbDhsb3FSSk5UOVpzM1czRDV2ZE9mb00zX0U2X3VNUA?oc=5",
+          "published": "Sat, 12 Sep 2026 22:27:16 GMT"
         }
       ]
     },
@@ -158,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "FIFA rebukes Morocco’s claim it will host 2030 World Cup final - Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFFnQWkwUFBVQVZEbkFjZU1TdW9leHpJSzhaRG4xSnpJYU1PZEUzWl9QVmJjb0kwVXJiUTNWN0JsS0c0Ul9NbWxEZU9BLThpSmU3V2RxOF9zTFJ6OGthMW9vaFBHOXJlUWlPUXR4YXg5cGR1Q0NwVDNLdHpwQWpxMkdyS3FaZFpWNzZzNG00YjZvbHQ5LWItbGZ3YVR6cy01VEtsM1YxaEHSAa4BQVVfeXFMTXJ1RUJSaVByVlpCdExwNHJieURyVnRuZC1LeGp0Z1F6SEdpSmJ4RzJTWXBIT2dRMzNnMUo1bVdkV0JZZ1Nhd0NhYlN2ZEIzNFI4MDhGdEtMczNsVUZWclhCSVkyVm9ZcWRpRGtZUlFqeDN5UnJ2UHJ1UWxwNkV6dVY4Wml4Snk4WXBCWmNubHZkU29PZWNlMmJMTUFrbFJTcnpOazFtbDJTZEprbHJn?oc=5",
-          "published": "Fri, 11 Sep 2026 11:34:17 GMT"
+          "title": "Premier League Soccer: Watch Sunderland vs. Arsenal Live From Anywhere - CNET",
+          "publisher": "CNET",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeW1CY2lEU0YyWFI4NWhkZmdRVURQVHBfU0YtUEhDQzNBV3hMd0RzS200NVhjYnR3cUFxdnRwc0hseGczN1JoZ3FYNDQ0UVY4TW5MY0lkNFowdU05ZXpMUERqQS13dHNOTzAzc0wzS1RfMFV4YXFxRzBQdTNYUzI5V1BQX3ZSUU9UcHd3aS04d2hRQUJvSVRITmR4cXktajNPc29iOENlWjk?oc=5",
+          "published": "Sat, 12 Sep 2026 16:00:07 GMT"
         },
         {
-          "title": "FIFA vs. Argentina and FIFA vs. UEFA: What It Means For Soccer Going Forward - trillmag.com",
-          "publisher": "trillmag.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbXlyZDVSYUFRSGJ3QkRjZ2RXaEhpQzRrZDZGbXF6QzN5S3FzV0diTjJXamNTdEd4Q1V4cVZkS1ZVV1pnX0I5RUp2MmNUdDhKNEI2TDFJUmVRVzkyVjFudzl0Y3NFNmFyVmRORnpMbG02VTZZbm1hcGl3WGdIMjA2Zjhxc1pjVUtjY1VJM0J6eHByYkJaazhweUhRMDVYRF94cjFNMVRERmExa0dhQUlV?oc=5",
-          "published": "Fri, 11 Sep 2026 20:07:51 GMT"
+          "title": "Britain Premier League Soccer - The Herald Journal",
+          "publisher": "The Herald Journal",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUlueWVnNkJzNHRPdW9WU09GME53LXh5RC1XZlFqUDkxTmFlNzZLclhNWHZRU01VNktFTVhPdlI3R0h2UmxwT3kxem9sOW5tWEtfZExkWlFqd1NKRlFBdVpOTHkyVlVrRk5Eb196VlZDa3liTWRZeDctaW51U0gtdUhVZ3lKeExEaG1iZnB4bFdDOVNPM1JwemN1V0tJRkdMdTRXRTNwVXZheWJJdlRqYnZlT1c?oc=5",
+          "published": "Sat, 12 Sep 2026 20:47:11 GMT"
         },
         {
-          "title": "French Football Federation withdraws support for FIFA president Gianni Infantino - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObm5EQm9xTWhOTGMxeFYwb0NGdTBGQUhDNmdpZVVJTkVJamJFb3MxeWdCRkdwVE5DYzVUVlpFanhLdDQyT2RGdTdwUmozNU9aOWo3RC1rRm9IR0hXTTNnTGZCVGo3aXJhN25tM1VtSEI0X2N1UzNXYlhKbzhzS3oyR0NXd2FOamQwZUtEMk5PQTVUTTU2cmV0OTY0ZkRkTC1xZWNuSy1PTUU2ckVqNEcxNmdqZVNoVzZrTWJhVlh0dHN1UQ?oc=5",
-          "published": "Thu, 10 Sep 2026 12:34:00 GMT"
+          "title": "Britain Premier League Soccer - Dayton Daily News",
+          "publisher": "Dayton Daily News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHd5SnYzZHFSWDlpaGhIcE5rUVpJTm55a18yaklwNnRrQlhaZXJDYmxzWWVaRHQ0TjZuUHZlZGtPQTMxUnF6YmoyR0FMeGFkSEpBWHVTOHZwclVvemxIQkRGRmxZWWQxTGN6b0czRmdzOEl2Y3haM3VOaGhrQmZQbVFrQjhNOUdrZHJsR3pGZVMtVkZYOUxFbGdnclVoQ0k3VGk5MmNTakpaeU5oQndibnFHd1V0YjRKYU5sNDdibw?oc=5",
+          "published": "Sat, 12 Sep 2026 18:49:00 GMT"
         },
         {
-          "title": "FIFA bans for life 2 officials for financial wrongdoing when presidents of soccer federations - Arab News",
-          "publisher": "Arab News",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdXBpdGtKc0dBRXVBTEtObWtES3BLaDVtUG9pQU5oQnVsd2NVUlgwMV9kNUJsd0hlMnJZUHo0bUkyR1RnQzR2UGdRd3FHaUVhNXRWSzRDc3doQklmYWg2cjk1Y182UklKYXJJT0o0VDJVbW9FdXFmaDF5bjBkVkp4aGs1RnpXMjFkS0RIejA0a1d5cndLb0ZXRHpPMmYzMXk2SzdaV245ckFTRHZLN01GMmtlYngtOWI0Qy12a1RkaUVSaWx0Mk1ienh2Uld1eTNU?oc=5",
-          "published": "Fri, 11 Sep 2026 17:49:28 GMT"
+          "title": "What can halt Fifa’s authoritarian turn under Infantino? Change from the outside | Jules Boykoff - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV1J6SUlFdXNfc0JzaWZPQnprRXRWZVprN1dsNXc2MmhUOFdBYWVoOHVxbXRqXzNFblNqTlpHUDR5ZXJNN0Q5NGxqeHlUUHNvX1QxZ3dyOHVFRlZhem9QS0RSZ1N5UW5NNWYxTGp3OGJsT0Zlc1hTVUNxLVNTaUpwaHFCNElZYlJTckV6bXZEc2lSU1ZD?oc=5",
+          "published": "Sat, 12 Sep 2026 09:01:00 GMT"
         },
         {
-          "title": "French Football Federation withdraws support for FIFA president Infantino - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHJQcko0RkdvczNzUTFGSlEwb294MHhQRWQyOXdsUm5Yb1ZweEc2Y2ZHdkdSeEdJRFJyR1NXU2poZTlBLTFBcENTMkZnMXlsMXVBNE9DSVZuTzEwWjRHN2M3b2o0ejNlaXZ0X0tEUW5xUVBCTlUzT3Z2aHdJMXUtRlFHZERabGdlNFYxaEhHU0ZQbDZlM0ZNa2g1eTJqVnU1OWk2YmhHOGhhOHc3RFZCZ05CZjJlMTQ?oc=5",
-          "published": "Thu, 10 Sep 2026 15:49:01 GMT"
+          "title": "European soccer leagues body accuses FIFA of ‘abusive conduct’ over women’s calendar - Chicago Tribune",
+          "publisher": "Chicago Tribune",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWTc2WllSS0xHZENNWUZCeU03dWZHbFkzQXZlNE1fMnNkaVI2T0JhSkNUbXhMS1F3MEczWFJoeTNaUWpqT055RWxzbHhITzQ1ME1Dd25iOU1IeHpZdDFXRTQyQkVXSTRaUzJ5UzFhbm1LRk1Kd1BWMlQzZDc5MlQ5eHpDVWVrdw?oc=5",
+          "published": "Tue, 08 Sep 2026 15:45:53 GMT"
         }
       ]
     },
@@ -194,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Kim Zolciak & Brielle Biermann Mum After Leaving Kroy Jr.'s Shocking Hearing - Yahoo",
+          "title": "Venice Film Festival Reveals 2026 Award Winners: ‘Woman Unknown’ Takes the Golden Lion - IndieWire",
+          "publisher": "IndieWire",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0lNbVZBM1lJb09Ha0Q2czZCS3VwRXhja3N1TWZGb0M2YjIwWDdvQUdkQWtwTHI5dEpBWGtHSE03ZHFVanZ2b0xIZGFDUUl5YmJjdDA4UGZWQ2R3Q09KbHVtX2dPWFdqMDlrRVpwNFRqVEc2YlVCeElma1QxMWI5MVdLaDcyNmg5SUxBaDZxNGZ2Yy1pVXc0?oc=5",
+          "published": "Sat, 12 Sep 2026 18:58:00 GMT"
+        },
+        {
+          "title": "Celine Dion Delivers Tearful Speech on Opening Night of Paris Residency: ‘I Had Promised Myself Not to Cry’ - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObnM2Vzd5VjZfV1ZkdFZwQy02VzVMYm1HbjNHYW1pNmtMQkhsZUlLQjlCSEhseTdITXI1NDRGRFdPV0YxcFp2VC1zc1hTTlA5Y1I4elJWbS1zQVpySnZUdDQxTE5CUWdHQ0traXRKXzZwTTNIeVJ2dkJEdG1LQ05fT29wSUhWdzFYZFFHNWdKMGZpaW1lUm5TWFdBYjZBSXdSYlNETGItSy1pZw?oc=5",
+          "published": "Sat, 12 Sep 2026 19:11:00 GMT"
+        },
+        {
+          "title": "‘Reacher’ Star Alan Ritchson & Wife Cat Split - Yahoo",
           "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2tRMTNRZkN4QXZtVFdaUHpEM2dKcThjWjNremZ6ZzhmWWlvalVob21WSlZ0X2RhUjNnV3NqcFlocFpDc01ZZ29oNUZlU1RqZFdoVUxZZGttTkRZWE1mUnhOZTNnbVNtMzlGT0hpUzNiWUNUcWVpSzh6SF9KVGxoLXY5bHFPdV96NVZlbVFZdEEzYmpT?oc=5",
-          "published": "Fri, 11 Sep 2026 17:38:20 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR2dvVXU2S2pKZVIwY0U3cGk0YXhOcS15UEhoaXFLU3pMR1EzaGRmaWpfV1pyd2RBWkZUam0tRGtuMng4Tlo4YjJZeWZoTUttRzFiZm9iNFJYcUlDenllZDhBY3M3S0FjZ2dBamVfemwtcFJwTlVCOUNEM243VE9vNnF1X2pRaG9Bc09YX3p6My1fS2JmQnA4d0ZnSWtLRVR0cFp3?oc=5",
+          "published": "Sat, 12 Sep 2026 20:59:05 GMT"
         },
         {
-          "title": "Ocean Way, the Santa Monica beach festival, canceled due to impact of offshore hurricane - Los Angeles Times",
-          "publisher": "Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUXJEVE02VGVpMDllSE5Cb19SM0Z4UzdzZHJsYnBJcGswRldYY0ZtdzdoTjJWYTVJbjdJYXVVZmlicnFNRWFPcE9sOVN5RFNTbTM1VEk4QVg4bE5iWndsNWZYRjBCd21VdTF1VUFvb21YNGI2bHk3NXZZVTVJb08zZnVPMHg1OEtxVFJaa2NsTGw3cVg0RUNjR3FLeHhmMFduMlBPWGQ1VldVa3JQbzdCbWF3VDBXRG40M0s5dzZ6LW1BSkhH?oc=5",
-          "published": "Fri, 11 Sep 2026 21:32:31 GMT"
-        },
-        {
-          "title": "Lilly Wachowski Has Some Words for Harry Potter Fans - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObkRZRkdCOW16YlUtLWtMMlV6SXdKNTZxb0FZNWJxdm53alo2WEJGbDhuV0pWTzN4bi1LdTA3WVE5YVVwYkhGTExDVXN3cXQwanp1dHRhUDFHOVFTSkk4RGxDY29vYWk4MFhvNTFNdDVBRUJycHdmY1dsdG8zYWNXS3VlUWhIMHVxd2pOQ2hocFplUQ?oc=5",
-          "published": "Fri, 11 Sep 2026 18:19:41 GMT"
-        },
-        {
-          "title": "Pete Davidson says fatherhood shifted his perspective on losing dad in 9/11 - USA Today",
-          "publisher": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeG9CRElrWFNPeFFaZUJQWVhRbl9YNk9rdHlaZnZWdk1Ob0xaNUdTYzVGUHZET0ppY0YwbEZHM1Rqa2Fmd1Y4bERkT2ZmZ0xxRU52STJGeDZocGhBZ2ZmMHNWc3VCci1iaUNISEprcTJTd3M5NUN6RDB5cDVoZDhQN1g4UnBpOG13dVVleWVfa2dWTFZtX3l1SFJfbzZfbWdlQ2xHbjFmUE05b1UxeGdxNzVEanJETXRaV1B2b1liaEItYUxPNGhqMjh0dTU3X0xxM2Rz?oc=5",
-          "published": "Fri, 11 Sep 2026 18:37:00 GMT"
-        },
-        {
-          "title": "Six Movies Show How Hollywood Has Grappled With 9/11 - The Hollywood Reporter",
+          "title": "‘Practical Magic 2’ Leads Box Office as ‘Spider-Man’ Eyes All-Time Domestic Record - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2Z3OU5neHJ3bVdwN29OWUN2WHBwVkhTNEVVdXYzUHQ1V21RTldDSHNUZFEwVHdOSnpBNm1vYWNmVUpJbVZ6Wkg4bjZKZllMT1dCaGRlRmVMYlEzb0xaSEdTVllubEJ4Y3JWbnRLckNSOFpBMDhlYzVpN0RHUzFVS2Qya1ZTVS1EZUVWMGdPaTE?oc=5",
-          "published": "Thu, 10 Sep 2026 19:18:17 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGdOTE0zZWE5Z2o3eENfcWJiZllZMU5iTEgyalVNVlVXT0VzUkN3cVo4Y1VBWjBkdk9SRWkwY2JKcXNkZXZHZDdsZ3BtM0RGZXNqS3pSUUhwTnRhajlkdnRqUUpwMVAyZU9MZGkwS1I5NWM1QkhwTk5iV1g5eTl4Q1ExYlBFOGR5YXFNbi1CclpPRkdFWDRMekdiWGxWc09BOHFUM1lEVy0tQTJyYWpLV1pQNDh3dy0zN2Rr?oc=5",
+          "published": "Sat, 12 Sep 2026 17:51:27 GMT"
+        },
+        {
+          "title": "Lady Gaga Welcomes First Baby With Fiancé Michael Polansky: Reports - Rolling Stone",
+          "publisher": "Rolling Stone",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclBEYzMyOTB3dlo5LWZLdHFqQkpBenZ3am0wVGY5YmRrSVlwQXBSMERrekNzbXpCeXNaNWxxdlJucmJvY1NxUEM2a05LZXdKUi16eTlsZU1HY2l2UWNvcTRHWXR0TmpYcXVTR2IwZ2VkMkR2c3JnQ2RKWDhHVTBDTGJodnV6MGMtSGNHOTEta0U2U25rUTVLWW14LTdaQmh5SUp1cXg2U09rcHU4MzFIWkVn?oc=5",
+          "published": "Sat, 12 Sep 2026 14:28:54 GMT"
         }
       ]
     }
