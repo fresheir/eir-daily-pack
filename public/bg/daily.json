@@ -1,78 +1,47 @@
 {
   "market": "BG",
-  "generatedAt": "2026-09-28T00:19:10.428386Z",
-  "validForDate": "2026-09-28",
+  "generatedAt": "2026-09-29T01:30:36.998104Z",
+  "validForDate": "2026-09-29",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "ГДБОП: Българите търсят алтернативи след края на Zamunda, ArenaBG и Zelka - Dnes.bg",
-          "publisher": "Dnes.bg",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0t6WTdGWndIOXd2U2JSVU5vUEtfWGxENW9FOXJxTWkweFpPRnR3aUFrSmN5elF1X0hId2x0eC1JcjBwYVhSY0RhTFBQcUNHMnJmTDIzeHljc2Y2Q0duYWlJUU1UYnRGQU1XS3FJalhHR1RlMmlfczRYci1mVEF5MnV3VmMxR1BScEk4aUF0OU9tb1UwbHFlRFNkaWVWUjRLOUFWNExXUUJQblpVUWZN?oc=5",
-          "published": "Sun, 27 Sep 2026 19:45:00 GMT"
-        },
-        {
-          "title": "Гебрев: Разследването за отравянето ми е прекратено - Mediapool.bg",
-          "publisher": "Mediapool.bg",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZVIzR1Fwd29xd1J2dzlFbG5GYV8wV2YzNkE4NE5wWkoyVGhna3hQZVJaTF9yY0xPa3hQdERRdzZaTVJTcWdiaEF1ZTRham9iRHlJOUU0QnB0RFRudHZORld0cWZJSGRSX2xVUnNhV2RXT2xkZ2dhSFdERGhuTHp1YlFpUHRZR0p1WTUxYVJBWQ?oc=5",
-          "published": "Sun, 27 Sep 2026 18:07:28 GMT"
-        },
-        {
-          "title": "Македонската българка Ива Михайлова: Даже болкоуспокояващите вече не помагат - nova.bg",
-          "publisher": "nova.bg",
-          "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxNOXZKdEJQb2tiOFRLMmVsTzFUam5RbU9udEdnV1JSR1NYbkF5UkY5Wkh3a2dIR2ZyNmFYOF9OR2tOeElfOENuMFVCM1BhLVQtb3JpZEZneXRsTEsyb0tMaG5DRWpzQVVyWllmWWNBZk00c3hIU243dUp0TklDdVhTZTBUQzd4WlZ3SWVxaWtLNnJFcVVfTTJaVTZqTVFNMlFSSEdBQzhnSnFsNENzdWdIRlRwWW5RNnZzY08xaEtoN3VyMUc4TFl6V19TZHhKNGRDcnFWN1pYY3NiT1RtdEVXcjdjNFRuTHpWR2wyUHJsX0FVMW5ndWJKb1BDd09lMlZvUldFem1kRUhTaXh1STVKV0lEb0c5RERUempZbkhhTHdLZ0IxYUgxd0V3QlgzS2xLZnBZQ3pZYkpBQnFZRmpDSHhnVC1DWlFTRmtFbEROaktkUTF1ajNMQnpBNE9jYkxFVThmbERMVGRUU2Y0VzA4cWFMX3RmUFQ1eHZta0NhME1BeGFZNVpCcEZFbUtCLVR4QVFPX2M4cDV4VVVhSllCMmVEQ0FhaHR1THBBRS1LZjhtTlpwV1I1QUUtMHRBNFFGNGpIWVZXR1NkeWFZekZuZ1RHQ1pTdHQ0SWsySzVJMG14dmZzQWgzZFo5eElabVc5Yl9yLTN3dlZMLXNZQUNzUU16RzFZLWpyVFU0b3gtQXJ5Yk9XbEoxblYyZWxzTVQyS3IwdW1Hc2RnUWJtQ0xvdjdxbjBqbXREQzY5MkFTR204dU5uT2ZUZW5keVQ5TTBZODZFQzZpN2FqVFJEMnBMdVZOaHdsM29oM2t1ekpPaGl5d2NfcXRDNG9fZw?oc=5",
-          "published": "Sun, 27 Sep 2026 17:20:05 GMT"
-        },
-        {
-          "title": "За Йотова българската позиция за Украйна е ясна, получила поздравления за речта си в ООН - Dnevnik.bg",
-          "publisher": "Dnevnik.bg",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUJVZlc1VHNWS0ZYRGxSeXcwLS1NNEJ3dXlOUlpEeXl0SjdVUWh0eU9laGpNSFNBeTZYeENUVWgzNTFwbGg0UXY1ci1JajFDRnY0YUxLR2tDYjZLdHFYaWFYTHcta2tkTF9URXFQaDFJcWlEemhxSTUxTGJXY1Ywd24wMmo2LUM4ZjBfMi12aV9KaXRzMXFhYk1WNWdHVTJtLXYzTFhyVQ?oc=5",
-          "published": "Sun, 27 Sep 2026 11:09:00 GMT"
-        },
-        {
-          "title": "Бойко Борисов: Въвеждането на данък свръхпечалба ще бъде платен от гражданите - bTV Новините",
-          "publisher": "bTV Новините",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb1ZmOUJGS0xZUlVTYTF4Z1pKUi1td1RQQ1YyaUROcmVPQjdQWXc5ZHZwUjg0bWJTczVyM3ZFUXZ4ME90VkswTkhJV2hqYktDV2lobFlxTHNIdlA3TjF4Q1NfZldKclo5OVY5cXJicTFyUzZRYlZZQWV6SDdZS1Znc1l5ZXE1V3Nqbm1aVlVXSk5URVdRZUYxOTFPaGh3czFDRDlPTUxvSWVWU3dIQWQ4Y3VSTkRXV2RLMWc?oc=5",
-          "published": "Sun, 27 Sep 2026 08:48:00 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
       "items": [
         {
-          "title": "Русия атакува най-големия украински мобилен оператор и центрове за данни - Dnevnik.bg",
-          "publisher": "Dnevnik.bg",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUMxMGJ6NGt4ZFNJbkxuRHVlZVBzSEpUcm0xZVJDUTJ3MS1pTEJTSXozY09ESGxhNVVRRkhnX3BBb0hpRHpMMGhFS29LNWlpQXQtS1NUeE1INVFSWmNVX3FKOG80bU1CUHVsbjdaMzM2LU1PckRYNEpvSlZ1bnlxNEMwV2l2VXlDRzNPSjhrcklPQ3BTRDVsVXdpYkQzaEZzcTJkb3oxUTBCX2tzWGhJ?oc=5",
-          "published": "Sun, 27 Sep 2026 15:38:00 GMT"
-        },
-        {
-          "title": "Сръбският президент Александър Вучич подаде оставка - nova.bg",
-          "publisher": "nova.bg",
-          "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNZkhyd3FNRi1LNEp2YW1WZHl0TWU2Yk5NanhjWTRlbFFaX1BuVHYydHJOaWxMMl9NdUtmX3pWSVF4M2VHZkF2d0RrX29LLXVxQjZCekpDMHNOc2l2RDFrdk1DV3UyTks3dF9wTG51dFhocmJCSnV6dTR6dUt3Z2tFMVRpUW1UZWQ3VEpJQUF5dll0QXJvdDRTcU9KM1k2MEpjNFZzRmh6X3EtdTdWRU51QVUtTXlNZzRhNC1laHB2b2tFTG4zdnI5WTYtUnB6MHN2M2VYMlU2ZkdhWmxxcTlTaUwyRU5SWUk4R2FxdHkycFFyVzhDbHdkZ1VjNEhyYkppMVpBZVpCdXB4T3luRXV3aERMc1hWeVBJcnI5c01hZjlRX0ZRMmgyakc0bHpPZElMYTV6Ym9hdmV0eVBOdEhpTWpVWWlvR3ZmQlJ3ZnFJMS1BRXJFLVE5S0E5TVVabzB2cXRXNHBlbjlBd0xCaWZJOTFQMWdETWlIazY1MlJPMjZ5YXZpTG1GSmUzbnA1Zy0xSG4yM3oxR3JlOUN1R0JrNXVaN3VkaXNSQ0NGSjlNRE5RYk9Qc2NxYkg3TnJudFBUV1EtdW1MemdGSjBmblBn?oc=5",
-          "published": "Sun, 27 Sep 2026 18:28:51 GMT"
-        },
-        {
-          "title": "Референдум: Швейцарците отхвърлиха засилване на неутралитета си - Mediapool.bg",
+          "title": "SpaceX изстреля за първи път гигантската ракета \"Starship\" в орбита - Mediapool.bg",
           "publisher": "Mediapool.bg",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTnV3Z1owUmdXNWdZMGI0MjNMci14Z3ZBalZJLUdMM0tMbTRRb3lUMnAwTTZ0YzBLYk5zemdLSjRmenUwMW1fcU5Vck9pVUo1UnJ2eV9nWFJBZ3I4R252Mk9sdGlGOTI1aVh5RDhDUUFjcnpYT2VfU3NpVEpCTkNhU3IxMlNsTkV5QkRiUHFyMUxBbGVid256aUhxSGNDdw?oc=5",
-          "published": "Sun, 27 Sep 2026 12:08:21 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXR0ajNseTBxcHlYQ2o5MVBRcGdxOFd0alpzWTA5QngtZlNGZm84Sk5oZV9QS3BIUkJQbVpLUmNoTTN4U0dXWG9Yc1F1UFJQNWxFVTAtakR5YTZKOS1tajJ4YzFDZUhYUWNPWTd4YmxYSlNwRHFwSm5yUUV4RlAzeFBRd2JDajM1VGFOTU5CTE02bEdTRVlFN2RNRFFLblY2ejU4?oc=5",
+          "published": "Mon, 28 Sep 2026 14:39:35 GMT"
         },
         {
-          "title": "Как \"президентът, който обича папата\" отново бе пренебрегнат от Ватикана? - Dnes.bg",
-          "publisher": "Dnes.bg",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb19GbWVuN1o1TmpQRWNrcm9DaG9td19EbENlZG9aaV9sUHFnMUNUa24tWDQ4Q2hYeWxtdGpLdnZHdHdPN0daMTU1UWVMelZFTk8tZmRIYmoxSlc1TXdUdWV5aHNheGtsVGtielJSZWRCZHpxYTFFaGVKT3VwdE1ZbllWcS1McmhJYU80MDBnc0lWQW9KTzM5T3hVZDg3cS1teUtUMzNHR2dBZEk?oc=5",
-          "published": "Sun, 27 Sep 2026 07:15:00 GMT"
+          "title": "Тръмп: Войната с Иран скоро ще приключи, а цените на петрола ще паднат рязко - Dir.bg",
+          "publisher": "Dir.bg",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWXFMOTUtSWJDcWF2MVFGT3lnWkFHaTF5ZkJWMWZ2dW9IWHg5TWxkMkFEb1k0R05yNXJQRW5rQzFxQmtDd3VHUlc5VF83cTdPU18zeGtwOWNrVkZ6cmtJbGVWd1ZHTmR0aHlMZVN3dGdmTUl2WTBFMl9rdGNDUmpYbnBucnNTN3BzelF4dHlpWTlVMV9Wb3dHY3Bjb3ZRQnNfbE1sYjhLdlhfY2lG?oc=5",
+          "published": "Sun, 27 Sep 2026 13:40:38 GMT"
         },
         {
-          "title": "Тръмп отхвърли предложението на Иран за Ормузкия проток - offnews.bg",
-          "publisher": "offnews.bg",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMDJJQUZCNExWNDhvYWQyeU5KdDVkc3hpQll0YzVtZ0VucHFfYTVLRmloaVBUNllhWkNfa1pTOU9JY090eTUtckpERk44c1Bnajk3Zi0zdU01S29WbVhPWVAtUmxtWUVrdUFWNHVBalhGdWpHSFhtTFhHQUZyaDVIdE9MX294bTFSUUNGcWtGMDVhNnBUcFV1aA?oc=5",
-          "published": "Sat, 26 Sep 2026 16:13:46 GMT"
+          "title": "Русия атакува центъра на Киев, пожар е избухнал в Националната академия на науките - Dnevnik.bg",
+          "publisher": "Dnevnik.bg",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0M2NXd3T3lmNzd4aVNQSjhQQ3hEcURLRTVuMjl3MnY5a2MxUUZtd1pYV2RWakQ5NjRpS0pFalViTnR1bHYwNDdQZllPTE53TFIzVmE2c1d3UzIyLVlKaFJPRDNDSTVYMkVZWldySEx4a0JSN3VlNi1VemRiekd0NTEzUWpUWHVNODNDOW9XSFhnTFpVUWRzQkdTZDlxM2tjTGJycFJ6bXU?oc=5",
+          "published": "Mon, 28 Sep 2026 11:19:00 GMT"
+        },
+        {
+          "title": "Коментар на седмицата №2: За 5 години война Кремъл превзе 70 на сто от Русия - www.24chasa.bg",
+          "publisher": "www.24chasa.bg",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tUmpvQWlScGFaVWZndjJuaEhzM0M1Vk8wMDVnaUlrSWZZc01mVmd2eDA1dk5fT3ByRWRNS0F2ZUJPendaXzZxTnhJY2FHYUs4X2x5MHNnSUxDZVU?oc=5",
+          "published": "Sun, 27 Sep 2026 14:00:00 GMT"
+        },
+        {
+          "title": "Иранският план за отваряне на Ормузкия проток може да бъде изпълнен до 7 дни, ако САЩ се съгласят с него - bTV Новините",
+          "publisher": "bTV Новините",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRW1XVVIyRGFaVEhHcmtpY2dCV1p3VjZjbDNrcTg2LWJpYW8tYXBiUl84WWJUclpSS1UyS0VPck1PNjJLOFZQQ1NqYXlEaW5tTGNEejdGQ1NyZkExN180RG1uREI2WEZ3MXJIdnhGVXlranM3WnFybFQ0am5kSGVFd3VfUDYzVDhmUlhNZU0wNTgzVmQxRmxVdmhzd3lYLWFGXzVCb25nWk9HNHFMRHNPRHA4WmljaWd0Z0lnR0RpaEozMGhQczFGWVBRbVhhY3R3ZWhUYXJZdThzRFpjb1E?oc=5",
+          "published": "Sat, 26 Sep 2026 15:05:00 GMT"
         }
       ]
     },
@@ -81,22 +50,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Инвестициите в изкуствен интелект се превръщат в исторически залог за американската икономика - offnews.bg",
-          "publisher": "offnews.bg",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUTJRZ3RtbnNNNE1Yci1Yd0FaZUVrTkR6YnpqblFPN3pyZUZUX0RhMmItd2x2VjFudWVaMjNteGdXbDFqWGNrYlpVMlJ1eVc2RS1jb0EyQi1taHpmMjVDWVh4Nm1jU0xOMjZVZ0Z1RXRYWjFaNWtEb3NKOS10MUVCZjB4TjFiNnZyM3ZUc2VIMG5UQXFRaDh3Ukh3Vm54TXYtbW9mYjllVUlsTXNUcHdkSw?oc=5",
-          "published": "Sat, 26 Sep 2026 11:57:30 GMT"
+          "title": "Пробив: Факт е първият инструмент, който спира АI-агенти да излизат извън контрол - Mediapool.bg",
+          "publisher": "Mediapool.bg",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOXlNSUxTUXh6bGYtZE5SMGxoR3dWYUdtalNuQUJMWk15S09QR0lQSkhGcTR4emdBM3JQdHVKNFR1WkdVZVVfS0hDV0xWTXM3TGJqVGQwRjRDN2g0UGRWSWJxSjdtQ252Y2JKWDF4cHpzbDNwWEgtSUpUeno0OF9kVmVqQVVHbjYxSExhUmctaTl4NkFMbm4tdEVxN1RjQkJraGJpYUZ6eTE2SHZEck8xSm9mbkZMLVV4?oc=5",
+          "published": "Mon, 28 Sep 2026 13:29:22 GMT"
         },
         {
-          "title": "Анализатори: Сбогувайте се с бюджетните смартфони - Money.bg",
-          "publisher": "Money.bg",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc1R4R1pULW9oYnIyZXNTa0xUaGg3M2tNTXNCNkU5SlB2NzZDSGl1ZXpyNnFZbnlxZkwxRVFKczctb2hGSlYtYjB3UUhDbjExUDBQOTZ1bDh4amVjMEc0dVc1NHlsRV9UbzVkYTVuNWJUeElNVmZFNTFNOWFoQmNDb2VhWUExUk0?oc=5",
-          "published": "Fri, 25 Sep 2026 15:02:38 GMT"
+          "title": "Nvidia стартира рекордно обратно изкупуване на акции за 150 млрд. долара - Mediapool.bg",
+          "publisher": "Mediapool.bg",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdENsNncxUDJySVlCWDdPTW9LOXBzMkRndmp0QW5mYWNYYTMxYTdzdHJtcm10ZEdac1lkb01JMzVFRVBuZFNaWXJ0UjJwb1ppUWRqa1hIdlc5c2ZqcnQySUFXRlJoWEExS2NCMWdzU0ZuXzdTUUF1WmczMV9KQjByZS16dUw3WnJRVzV3azJtWUpra3huaTlEajVRMy15S29DUGJ5emc5dUI?oc=5",
+          "published": "Mon, 28 Sep 2026 11:56:19 GMT"
         },
         {
-          "title": "Тамагочито на Зукърбърг: Meta представи AI ключодържателя Muse Charm - Vesti.bg",
-          "publisher": "Vesti.bg",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMGhncDFKWktPclNxRXJsR3k4UTh4Vmtka1JpUUVkNXpBSlNGaGsxeGpWWldvWTlzaGF5S2VpU1JrNXlQSDhQUjE5Zi1BSTBibnFBV0dNeS1aNVYzb1RaRXpYQ28wS3o1UFJXSU9WU3AwTE85ZHItRHo3eVp6YzFtYU9nVGpVaXYwTWw3cTEyN2NxNVJmNG55RTB6RTFJQXIyNnk1SVZPTkpzODg?oc=5",
-          "published": "Sat, 26 Sep 2026 03:56:00 GMT"
+          "title": "Как да разберем кога AI бумът е напът да се превърне в крах? - Investor.bg",
+          "publisher": "Investor.bg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZDkzV2lpN2dYSlVsY3FRY1lMejd6QWZrTnMtdlNHbUhBNUt6dFplYnppVW13ZEVxTUpvTjdsV21pN3BXNnNCc1ZWS0REc3FwbTN3UmhIa0thYlhZVVhKU05XU2RaWEdKSjFWV1YwRFFpTi1TYnlmVkNCajdLSTBoQTI5X29yREtkQ0RCLXQ2MVIzZkdIZ01TQzVIMEhTNnB3VEU5dkxaUUdWUVFKT1dyQjhSZw?oc=5",
+          "published": "Sun, 27 Sep 2026 16:18:10 GMT"
+        },
+        {
+          "title": "Този уред във вашия дом използва повече електричество от хладилник и пералня - Бизнес новините",
+          "publisher": "Бизнес новините",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLWpuRUFGSTZtQXVWVDRDWFRkRnVvVTZWc2FMZHJ2Q1Npa0l4NDRzd1gwYUN5ZGhLenBmcVhsX1dqc2N0eWhzY0lOODJCakljSzQ1cnJscmZrNWRZX2k5Vy1NTllzUDZ5OTNXZHc0UFl0MnU4RUxMUjFfbnNseFBtdjZ2TzNXa2JLZFFsOUpzX3JZeEtnWnVUNFRLWWdrUTF2VXpXTGRxVDZWZ2Q5SzgydUcwQTNFc1k4UC1WLWJFQ2x2ZEE?oc=5",
+          "published": "Mon, 28 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "В Китай тече технологична надпревара за свръхбързо зареждане на електромобили - Investor.bg",
+          "publisher": "Investor.bg",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0RiOUx4UG1FSnhHSktGbmtFRHdqSzlXM2stWXN0dVFQblNMRGZVa3JmcFhJRjRkaXN0ZU5wTHdSY2RrQ1A3ZTl2QmIzS2ZWYlB4SzBNam50eXhhZ2tFbENDVzFMelByWWFVLW0yREVKcXNXN2hOS09GZ3JEaUd2TFpvaEhJYTUwcjZXcUVnX1hQeXZzV2tfU1JnaVBUUEFsLTZ2QzZ4QW02c1VDcV9Rc2J2TkVvSTV4a0FIQ2dKQ2JYMlU?oc=5",
+          "published": "Sun, 27 Sep 2026 15:24:01 GMT"
         }
       ]
     },
@@ -105,34 +86,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Гръцки кошмар за историята разтърси Германия във втория мач на Клоп - Dir.bg",
+          "title": "В Германия потвърдиха: Маркус Гиздол на крачка от ЦСКА - Gong.bg",
+          "publisher": "Gong.bg",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkpVeEVVVjVEXzRFVFFhOTNoc3I2OWVzX2lJLVpuYmZ2MEhZUFZ5b1Z2TkVBM1BUY19lMlI4dFMwLTJWSW5oM1BNQW5xTEdnMjFsU1F3Y0VUM3JvWlh3RTRIOUtGdTZXM21oTjFUZGt5NE9XTVJYendXQlhTdzl5ak9HTDBrX0lZQ1lwME9EdTBGZ2d5cUplM3NncGtrbm9iM3Jj?oc=5",
+          "published": "Mon, 28 Sep 2026 14:44:46 GMT"
+        },
+        {
+          "title": "Какъв футбол! \"Скуадрата\" показа облик, който бяхме забравили (резултати) - Dir.bg",
           "publisher": "Dir.bg",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGVDRUtQeXp4aHE4SE9NbjE0bzF4SDhKYzNYOXB5dklVbHVVbUgxTEtCakVfMzhlaG5WWFdRWkRTb1ZXdUY2YmVHUU5aZGc5d1hCcFRsOVBFNnBlVC1JTUZWY0pVYjVpb3lKVTA1WmZOT1ZlR2p6dVpMRmVOLW1uRHk2ODJDYzNSS2FJWXJGYWhlR29FWDJJOWhsUGM2by0ybmk4Uw?oc=5",
-          "published": "Sun, 27 Sep 2026 20:42:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXhYM0hmal9WWVBfSXdSN2lPN0xUX2JNZ0swdVhJejB5Z0dvTXJCZGd4X3lDcF9hUndZVnlTYUx5VV94aUdFVE1tUmFRQTJaVEM2WFNmMDVHUXp6VUpQOWxBa0t0d2VWOHBPU05xVFR4ZWxSM1VYbnBpd19LSl9rSnVIaGRlZngwaGtNdlFJQTJwU2sybUFaaDNtQ0lHZw?oc=5",
+          "published": "Mon, 28 Sep 2026 20:49:43 GMT"
         },
         {
-          "title": "Теодор Иванов след шока от Люксембург: Допуснахме лесни голове - Gong.bg",
-          "publisher": "Gong.bg",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdWxhUGRiME1ScUg1dVJQTFNoSE1uOHM4c2RnU0ZtUWtRaE83N3lqaVA1djN6MlNkSTFxSUZmVW11ekl3V01pbFYyTGNrb3JNa0g5RzBTUjFkaENrVUZOWUstejF3Z0JEaGczLVN6THZPRzhDVDVET1AwNFBEdXRqTHdVODdnTGdCU19qZDVLQW9DRG1xMXBscGR2ZHdNVEd5UWFuaExwTmF6MEFkRXVhSEppQQ?oc=5",
-          "published": "Sat, 26 Sep 2026 18:21:13 GMT"
-        },
-        {
-          "title": "Барселона готви раздяла с петима ключови играчи - Dsport.bg",
+          "title": "Веласкес с много по-голям избор след паузата - Dsport.bg",
           "publisher": "Dsport.bg",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRkNhT1ZrdV91ekloTmNpWHp6eWRPT3lNcHNvWUFkbXhYQ2EwVU5LbWZIYW1IeWFwMWdBYUkwcGMxOGdyZElwVDFiTWQzSTBYRlFoRDRvcFNNU0pSVDhFR1NSaEsyOGR1ZjlRVFJPMkhXeEMwbEZDZ0lYSk5WV2NlOE00aGtQUQ?oc=5",
-          "published": "Sun, 27 Sep 2026 11:49:12 GMT"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBybDRiODVaSkVxUE5lMmlaOEc5Z2liYmxLN2VBZ081OE5HS09LWHBpUWxoWDFnelpaY2gzb3R3b19NUHU1S05mWUpTYWFKdEcwakRBNnlTd0V4dDlHb0o2d3UtOWxCRk9keVVSYldXSFZHTl95cDJ6Mno1eGFhMG8?oc=5",
+          "published": "Mon, 28 Sep 2026 13:06:03 GMT"
         },
         {
-          "title": "Вторият престой на Игор Йовичевич в Лудогорец започна с класика над румънци - Gong.bg",
+          "title": "НА ЖИВО: Лига на нациите: България - Люксембург - 1:1, Леандро Барейро изравни - БНТ Новини",
+          "publisher": "БНТ Новини",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLXdwOHRkX2tSN0hkd1BZaFVYYUUyMXdvcmsyamJxUE1KOEVZdW9DMkpodHhXeHozakg4RC1COHN1YVRVVldYNklpNkhTelh4T0tMWE5UQWJiaFhwS0t0RUJqbVl3dGJLd1NucUZzbjlZNk1iVnQ5dUJ6V2xRQnFfRDJiYnIzOUl2TlBuUWlaRUU3eUJtQ0NPcHp6ZTBrZUdIVUdOQ1lnY0RhQUktcVZPeXBaWng?oc=5",
+          "published": "Sat, 26 Sep 2026 15:55:00 GMT"
+        },
+        {
+          "title": "Алекс Николов обеща: Ще се върнем МНОГО по-силни! - Gong.bg",
           "publisher": "Gong.bg",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1RmRGo2a1RmeXM3X0diaFYzUG9lVkttTVQ0bXBTTWhlYy1FUnZsS0RmS3Rja0dscVRmaVBmTlhFU3JXU2M0S0d4MW95QUpvcU1NdUJsTFhQNjNKbmhSNk93R0MxdTBRMU81TE9wYXRoN0VsMm85dGlzYUhpU3BHOE9KQUFmN2MtcnF2UTd4RkdzdE9RN0JidXRjWTU5RUZGZ01SVUtMdGFWa3lOdzRxQmp4QVA?oc=5",
-          "published": "Sun, 27 Sep 2026 15:11:34 GMT"
-        },
-        {
-          "title": "След подвига в Баку: Шумахер иска Никола Цолов във Формула 1! - bTV Спорт",
-          "publisher": "bTV Спорт",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSlVBR3dfR09SUWhlbV9KQ0NyV05QN1FWVjZtUzNaVWhTU3ktYnZYTFFscmVoMGVaZUpDNmExQ0FnNnc3UC1acmZ6eVl3bzMtMldra1pjUjI3R2M0M0wzck5XN0lZZlZjYlpGazcyLVEtS3dGcnZKV0hocERLY0pwN2p3bWFmRE0wa0JOemRNazByQ3AxckE?oc=5",
-          "published": "Sun, 27 Sep 2026 07:20:20 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmZ3ajJqSTdCY2x5TVJLRlRzUzhkSG5NV0RQY256bzl3WUV3aTh2S2pCY3lwOW1QNkR0Ykh4TUJGMzhhRFJ0WkZ1TV9FbXc1V0pORnkwUnY3VlE3bGhfWllaeU5HeE0wb0hIU2x4Y3VKNXI1TUtCUjNVa2FnRjNzTlB6R0hBM0EzYjBxOFZR?oc=5",
+          "published": "Sun, 27 Sep 2026 21:01:34 GMT"
         }
       ]
     },
@@ -141,34 +122,34 @@
       "label": "Science & Technology",
       "items": [
         {
+          "title": "Русия обяви $20 милиона за главата му: Легендарният майор „Маджар“ отвори вратите на тайния си бункер - Vesti.bg",
+          "publisher": "Vesti.bg",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ0Jrd3FfSkhmbXdFSVFpOWczR3pZYl9qcVZjN2xRejNkTVZGOERvZUFnNWxYRDVTQmNrbmFvdzV0dHBMdFRMaElqcVJvZm9rVS1HcksyYXBwZ0Zsdk9ZZFhvWkM2OFJ6OF84UFRNbHM0MHIzTVUyNmNaNUJkeHhBV1QtU0lndVhLU0w3a04yRkswcEZObGhheEhHMXZzWkg5X2NLWVNYY2Q5WEc1TUZqckpYNDczdHBOMlY5RnkxajVycHYzQzZhcDZqeklCZFBMbm9N?oc=5",
+          "published": "Mon, 28 Sep 2026 11:48:00 GMT"
+        },
+        {
+          "title": "Бивш МВР министър и шеф на ДАНС: България няма достатъчно способности за противодействие на хибридни заплахи - ФОКУС",
+          "publisher": "ФОКУС",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ295b2N2WF9mMnV2eGZWOERMZTJBczdVTkl6OGVlVE9jTE1tSWJkSHM3UTNKRmkyQVBXY0hVUFVtRk93cEhfcEdRdWtNVnJ1dl84WmNVS1JNbk9NSFE1MmFoNFk5Y1dkTGVwNnZnLUpQS1lBUlBBb2xvZUQ1VUlpSTduUUphSTFzclBNbnA0b1Z1aWx6Zzk3YTkwN0V1ZWdIckhTd2g3MTBQR2pTbDJGOVRTbXU2Mzg1WE5PdEN4cThKX0lFNXVFalB6YUxpb1kwQ1lRN2FyOE9KYmpGbFdhT0dtY25NTDZwZGdWaUNBSVFqcXhud2c?oc=5",
+          "published": "Mon, 28 Sep 2026 16:00:00 GMT"
+        },
+        {
+          "title": "Заместник-министърът на правосъдието: Мобилизираме целия ресурс за сигурността на изборите за ВСС - ФОКУС",
+          "publisher": "ФОКУС",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc25TOG5GdkZ6OFAyZEpXWG95czdVQUYtNUo0MXZSeTZMamhSMVVCdm9vOXlKT25OdVdaeWJ6VFdDbFdEaG5GRWN4UE1EM2ZqWGpZaGZFQUlYN2NsSGZ4UFhzUjZRb2xoVVc5VVRNLVZWY1ZrZ1RlaXRaQV81dEdEMFE4NkZteVZpeDVJQTRSSXU2RmtTTF9nWWRyS2ZHRUxwYmNQQlQ1blpnOElVQ01wNTJxV1lrQmNWWUNZOS1DVGtyMkxJczFadjJqZ0tFcl9PRHNSUzdtRzFVMlVLZjI5ZExn?oc=5",
+          "published": "Mon, 28 Sep 2026 14:12:52 GMT"
+        },
+        {
+          "title": "\"Късметът може да изчезне\": Защо атомната бомба не е пример за управление на ИИ? - Dnes.bg",
+          "publisher": "Dnes.bg",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLV8wZUdkRC1WTko1aXBVcklWeU1YOGUxaEJyaVJ0NnFkLUZpeEswVWs4VUpNWDE5QVdqZDBVQmQ5RnJtb0tUdmV0MWhWQ1Awb0w0bTRiT2xyWnR1cTVMN0Z5OHhUTldFR1E5eHBoTmZzVzRBdGdxUkV6T3JaQkZWNEgwS2lld29aUG95RndpQTRnNzBnMW5QVlZOSE5mWTJOQk1fc1hzUUVqWk5OYU9DS1JWWlp2RHF4bHByNXNRTQ?oc=5",
+          "published": "Sun, 27 Sep 2026 20:00:00 GMT"
+        },
+        {
           "title": "Бил Гейтс: ИИ може да погуби огромен брой хора - DW.com",
           "publisher": "DW.com",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbUxMc3VxQnFrbkZmbEk3Q3ZxUnRXTUNHVXFnN1ozT2FaVXUwcndndDRhRW05Y3Zsc2dLRGdQSUJPbFNKN2RubzZWYklmNENuUmUzOXhzc2dsTVMxWEJBclQ4Vlo4VlpraUU2TjZTTXAyUmg3NG1QZE1WMThYY281VHNjNGTSAYQBQVVfeXFMTWxQdHFJel9HZmk4VnR1YXdGVnhkV3J5RmtDdlNxRUY4YU53M216ZjJSazNIOXVuUGhjNXBENjdZVmJNZGFkb1FxUzk4NXlKWlNnZnVkLS1tajF1T3Q4MnRRdG9NTXUyRDVjRzBuLWF6UGtveVJ5NVpjT0ZzNmpxVG11NzBM?oc=5",
           "published": "Sat, 26 Sep 2026 09:18:39 GMT"
-        },
-        {
-          "title": "Европа срещу изкуствения интелект - News.bg",
-          "publisher": "News.bg",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JT0F1aElUdzl2TFkxZ29MSEhzbHc4LTM0R042Um9oZFcxWGFCbTA0LW5hWGtPWUJvZmhPUjU2cV9xR2hmVHRnS1l4b2lnaHNIdEdBMy10S19NaEs0bnUxblVhSmptc2RpTkdJaF9XRHJrNjNSU2xj?oc=5",
-          "published": "Sun, 27 Sep 2026 13:07:35 GMT"
-        },
-        {
-          "title": "72 км/ч под обстрел: украински робот се състезава с времето, за да спасява ранени - Dnes.bg",
-          "publisher": "Dnes.bg",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRGc5ME1jQWYxclgyWXozRzBRQjdocWVtOGMxdmpQclpudDZaMzBSMTJnU1VlMVdHMDZQTHZmaDBYa2xEcHBPTFZqZXBFbUg4eGtrVTZ3ejdJTnFtYl9qNTBYZEM4WWZaWWh4XzFvaHJrUFBvek5zOWR1SGZmclJaeFdFVGZ2Z2d0V0Z6dGpOYi1lbzRITW1sdkt1Z2NBWWtVLXJEQXZaY0RfbnNUdWVOT0VSY3g2X0lR?oc=5",
-          "published": "Sun, 27 Sep 2026 14:00:00 GMT"
-        },
-        {
-          "title": "Азов въведе режим на извънредно положение след нападение на украински дронове - News.bg",
-          "publisher": "News.bg",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRHduOU9CalZZNDJKcHNkX0NHdFEwN3VIOWsxaC1oUXMxQXg5RnY4eDAyYU1mcUVBME5JZGdONFJRUG5MZkVCckJKNHFWUDNPU0lMUEVXZ0gySXhEZklMWHFDTno2NVdtbWNmNXNTWTc5VTllb25zcEtLamJsTTVBc0NFdVpoTEdVUUN4SFVJUG9IRXB6QlViZWk4WW9JQXpkODJoNENZWmhxelhoRExv?oc=5",
-          "published": "Sat, 26 Sep 2026 13:25:48 GMT"
-        },
-        {
-          "title": "Сърбия отново не допусна в страната д-р Янев - представлявал заплаха за националната сигурност - www.24chasa.bg",
-          "publisher": "www.24chasa.bg",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sdnRpeTgwWkFaQzJ6Ri1MbWM3S0FBYWRBbm1MeldYTFQ5ZW5uLTFLcUdsZ3NfQzZ6YmU0VnJObG10eWxJMHhqc1RDb0NsSnUyN3N1ZEJEc0RHMUhLeHplNGdBVQ?oc=5",
-          "published": "Sun, 27 Sep 2026 18:20:00 GMT"
         }
       ]
     },
@@ -177,34 +158,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Manchester City versus the Premier League: After the day that shocked football, what next? - The New York Times",
+          "title": "Soccer-Infantino orders FIFA funding review after UEFA, CONCACAF seek $2.1 billion payout - whbl.com",
+          "publisher": "whbl.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTRGSmVNWGw0d0ZlYmRJaEptRlZyaGFvVERpMnNMQjRTZEdKcmNRRnRYbDZDb3NqQVJFRFZ4ZGhsekF6WXBodGlQX3haS3ZHU3JVZHhLU0hfQkJnRFU1NnZnMkxsNmI2MVIzMDdsUGhqS1ZjOHp3OTJQTzRNWXZVaHkzbFhwdzVPbzUyVWI5a0NSMGF5TXBDNXU5ZzJsb2x0ck4xX3oxZ1lVM2dNSXI5NlpKVzdITFU?oc=5",
+          "published": "Mon, 28 Sep 2026 21:44:40 GMT"
+        },
+        {
+          "title": "The story behind Israel vs Ireland: Bowed heads, black armbands and a one-man boycott - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOenUweFE1bXhjMU5XaHVURGZWdVlEdWFDV2tjMW1EZy12cS0zUjZKcWEyVWZ6UGhvT25oNm4zVE1YYVc1Y2FQMm1ZQ3FKZk9USnM3SDFIczVaX2tKQ1hvQWJkWDlRUVJKVzdFNk1paHFYRXFGVTJDWldqVV9iejlkT0hnOFpkZnczWlRVcUowNDdKemgwUHlTZVBqVjNUZw?oc=5",
-          "published": "Sun, 27 Sep 2026 18:48:06 GMT"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQempjYzYwWTZuTFZ2YmpSemMxQUFuRVMzRXhYam4xQ0FhcG9iVjJ4VTU4SVppRnlwRnU1eXJrc01KS1h4cFc3dVFJd0FmQ0FwcU9BTml1MFlhTUhpa0xuYXpmLWJ3QTBBV2dPYkRDSnI1WXBaZkdaV3FJN19FcGg5UGh0NA?oc=5",
+          "published": "Mon, 28 Sep 2026 10:48:51 GMT"
         },
         {
-          "title": "Ceferin: ‘Political interference’ in Italian football could ‘undermine UEFA trust’ ahead of Euro 2032 - Yahoo Sports",
-          "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUVMb0JBb1FCSFRJV29yNzN2ME96dlFwUFZvYW5POFJwaEIxc1hnNkxUWEFNMDY1ekdNbl9zeTFhOHd2N0ZFSHdwQ3RSeVJVZTU4ZmdDU0poVXk1ZzRrUkgzdmdNaDEzOUhVRS1uNm9XRktwblJKTDhwSnpjRm9OM0tVM0E1ZFVITVVrNlpYMnNIbkV1enhvcDB0UFk?oc=5",
-          "published": "Sun, 27 Sep 2026 08:45:00 GMT"
+          "title": "Women's Champions League Fantasy Football: Matchday 2 tips - UEFA.com",
+          "publisher": "UEFA.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcS1jN0lnanZFQjNxb1RrN3cwd3NReFNBczlJeGlhUjFKcGdmX1RSYzZCYUJ1VmdLbjZVOUNiOFA4T3Z1Ym9Mem5SbzV4VGNTc3F5Z0dBWm1PUVU0Y1Vsc2pCRTRTOWN5NFExMHZmcFVzb21LN3VMdk5xWVRPa2pMbjVBZXNqbTJ0NGZQSk5QdHhjTlNEZjUxQVBoQmE4bE1IMWNweHphUG5tSzFHSTRuQlhZdmZsLVhVY1dMRk1NRnpRd0luYktfZmpmRjhvWTVQQm5nQXV3alpta28?oc=5",
+          "published": "Mon, 28 Sep 2026 11:01:09 GMT"
         },
         {
-          "title": "Ireland defeats Israel in controversial UEFA Nations League match - Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVng1Qzd4Zm42QmRDX2E4OGpnczhGWnh4eWRCZjA3RGtaTTAtWUNpRmpES09tdllCUEdGdDRlY2xxV3FSbDNSNFFkN19mUDh2d09WRnlYVjNteHBkWjU3VEFNTGc0YnJYUG1nYS1KMk13Z281RWpvdUptN1hadHdzbnhreVFQN2JHbHZZSVlVMzExdDU5bXBWQl9JeUNlQlppX0kwTWx5UGlOWFFo0gGyAUFVX3lxTE5RU3A3alRYbG9BQlllWmlhbU5MREl1WkZ6bFJVeWJRMnlDaUZqS3VMSDF3RXNhOFdTUE9jSlo1M3duVi1XNlNoNlpxcXlHaGxSSGZZVENpNnlsRmoyN2RJTlVsc1B1YXBrU1lVWWI1WkZKdTZ3Wlp5bDRrNGF0SmFQb1VMNkxvYmUxbFRZbEFOZk5SQU0ySU9wOTRQYVFhLTNGbEhwOWRfa0VpMXkxREdJRUE?oc=5",
-          "published": "Sun, 27 Sep 2026 21:51:38 GMT"
+          "title": "If FIFA expands the World Cup again, how would a 64-team tournament work? - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTdxQUlFYVlMX3B2LVVfYnVkejdTTXhJVVpqZ0F3ZWM5d2ZrdEV6ZFZESDNmWDhfNGdjTk1hOHlMUFRwV19IdXBMSXllRExDcUVZWWp0TXRrcWRaOTJ0dDhIUGRHa1JfU1BDcE9CTWloYnJ4X0VsbUdyTHNxTlhNTUFSdDFLUjVubFNlbXdiZF9CMWNWWVplbVVQQzhWRDlWaENjd2VQNkVGOEk?oc=5",
+          "published": "Sun, 27 Sep 2026 11:24:00 GMT"
         },
         {
-          "title": "Watch UEFA Nations League Soccer: Livestream Norway vs. Portugal From Anywhere - CNET",
-          "publisher": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOem9CZVFKdWtyZElEMDBuc1h6cUQ4WFNFSi0tYUZRal9LUlhMdkVuSXJUZlM2MlB0SExxanFLQmduY1J0dC1JWGtWVnlzbGlMUnl5ZU9SWnBjMW82WFF6NjA5bGhzNUE4QmVoLU9Mc2VIeE5BNkZvNVVta0xBbWwwN3Via3lKSnNzc0J4dWNXcVc2WG1pNnNZb3cxSWstSkFOaUVSVFV5TkxjX3lIUkU0OGJkY042RTVOZlVBTnBDUk9ZMVk?oc=5",
-          "published": "Sun, 27 Sep 2026 15:45:02 GMT"
-        },
-        {
-          "title": "Manchester City charges: What punishment could club face after Premier League verdict and will they appeal? - bbc.com",
-          "publisher": "bbc.com",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2T2d5VVVPaVVsb0hjTjRMUVlvZGUzSVVjY3o5NWZuR2NYenUyOVY3aE1GWUM0Ykh4dkZuY1gzZ0h4emQ4QWVHWjlPU09hWDhmcmlSbnNXcm1KejJEVmp1V3pVcEpnRW5F?oc=5",
-          "published": "Sun, 27 Sep 2026 14:24:46 GMT"
+          "title": "Retired Soccer Stars Are Cashing In — Beckham’s $51M Payout Tops World Cup Prize - heavy.com",
+          "publisher": "heavy.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcGNBTzBFQnpGOWF4Q0NqNk1zMHhEUDl0Mi1PbkJOTkVTQ2EzbVhDQ2pELTJ3NHM2ZVVLTzRibV9GX0xGQmNxTk1zdFdnVTNlQlpoQmFVSmJXSEI0dU0zV2VtM2I1M2ZfYURBV1RFSEZiVmJDSmpfb1VLMzJKSEQxRUtYeHJHZw?oc=5",
+          "published": "Mon, 28 Sep 2026 15:44:07 GMT"
         }
       ]
     },
@@ -213,34 +194,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "The Best, Coolest, and Most Unexpected Looks From the 2026 VMAs Red Carpet - rollingstone.com",
-          "publisher": "rollingstone.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbjBZMEdVQWlvSkJjenRKOEZsS0NPczBDdGdYbXhaT3RLZ1FlZHkzVEpMTkZ1NE9PdE5iUHp5ZlF3eHE2X05TOWZrMVoydkQzbmt6bWtwZGx5dDdqMTZ6Zmo1cFFjakVhVWRmM2FjUThPeWpaaVhSNjNycHlnZ19OVFZUVDFSSng0RkZ5bURWNTVxS0REWGQzdg?oc=5",
-          "published": "Sun, 27 Sep 2026 22:22:48 GMT"
-        },
-        {
-          "title": "'Avengers: Endgame Encore' Scores Massive $86 Million Globally - Variety",
+          "title": "CBS, MTV 2026 VMAs Ratings: 8.4 Million Viewers, Up 51% From Last Year - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFVBME9uTm84RjY0d2ZwaHAwWFdPSC1kVVFwMVRFWVQ1cGdtanNyci1xeUR0VWZ5eEQ2ZzhUR25WTmZFLVpBRVhOb0ZHSkFIbUZybUIwV2xxRzFaWG1CVjRBVERyT0V5WjhwRWw1NEJ6OHRMUTh6OXhtVERrUW41cTMzUnZCU3FwQ0J6dlVZOXRSNFp3SnJoa3Q5OUJvS29vVHBLRzAyTG5uYWlTQmQ0eWpmTll3WkEyTXM4VVpfWQ?oc=5",
-          "published": "Sun, 27 Sep 2026 16:16:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUXZMeDNPOHQ0MjJWMVlueGstd0toUVpLdldUQzJHNXZUb01QT2pTRjdoTDV2RlE3MHg0WDV2Vl9MQXdBVk84YnpweHlWaVc5ZXlnb1Y1enpDY1VweUhXLXVaNWdXazRUWThwUjJPRGEwRGoxeVFvcWRYUGx0ZlB4akhmTmp3RXItSzBHWWYzWE4tWTVac2JPRHNEbjRrdURnTjFN?oc=5",
+          "published": "Mon, 28 Sep 2026 22:00:00 GMT"
         },
         {
-          "title": "'SNL' spoofs Trump and Mamdani bromance, skewers Natalie Harp - USA Today",
-          "publisher": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONVRrbE5CYzlRazczV1ExaF9ySHQwWDhIYk5wczhPbWxuaWJicWZwcXViVUZqU210c0YyOGlNcUVCRVFvc3BiOGk4SXNQWTBrdVFuWE5PWkZkMXZHNUxmbFdGS0x3RE9HV3Rfd3gyWEEwMEwydkFvd29BUjlHdk56OEdnTm9KeVhRYmFuR2NmVUpUclFVRXRocWpBdnpmS3pQdWFlMU5DY005RDBZMXZrOGQ2RUtmTF9ITTdCc0d0XzhHQWdSbVkxcVo0d3U?oc=5",
-          "published": "Sun, 27 Sep 2026 19:57:00 GMT"
+          "title": "Barbara Palvin gives birth, welcomes first baby with Dylan Sprouse - Page Six",
+          "publisher": "Page Six",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFNFMUJWM1dLVmIzSDI1UHRnLW5fX3FwN2VEWDBleWxaU0luYThlN21FbVJINUdpM2RLdU9ZQUpSNkk2OTlIR2NmSmFYV3VJbDgyTUhFTEEwWlBreW1rcEdmSzF6WjVrRHpUMnRmUEo2cGlMTFNSMGZndVZUdFZrZnlHa2dKX0ZUc3AzR0VJSGpGcjFYUTZrcC00M3I1bnVkUk9SUUQ3Zk8?oc=5",
+          "published": "Mon, 28 Sep 2026 21:24:00 GMT"
         },
         {
-          "title": "Taylor Swift is set to break Beyoncé's VMAs record tonight with the first Artist Director Honors - Yahoo",
+          "title": "RAYE Clarifies She and Michael B. Jordan Are ‘Just Friends Who Like Rollercoasters’ After Sparking Dating Rumors - Yahoo",
           "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObDUzYWtIMVNNR1llYUY0eG5icG1jRkJOZDNJdERTUUVpWnQ5MGk0ekcwMlMzdWprS0VWeTNmWFBhWW1tZjdwX0duc2Q3aFJoVHNtRG5oRlR2Ujl3VlZma3htalJHOWhzNDZFa09oLVpXeUVMbmw4UUZRejZTUkdZMGdSU0hJVTVMX2pRRzdXalE2UjhKbFA3dUpxcmlvWGxiV3RnOWxrVGZxVlhHdm0yYjN0M3RzWUkxUE1aTUd0Yi1SbGViWHVCS2dOYW5DMnZXVm1uZm1GS3lEU2VIMnFCNUJFU081bEdNNTA5VUlqSlVNZw?oc=5",
-          "published": "Sun, 27 Sep 2026 19:09:45 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmE5Vl9MQU9XeUhQaVk0NW9FYkN6Z1g2OTJBanFMa0kwOFpsSzVTRW40Xy12Z05zd0lKM2M1OFg1TFpNNjFFSWExYUtESVNLOFphLS1DbmVzeV9YU1E0T0RobjRUQ0NuZnFfa1VpXzRHWkN2cXRXeHNWNm1EV3BCMFRINVM2d1F5STNJbm1wcVZmVzhYODY1Y2ZJbFBzLW8?oc=5",
+          "published": "Mon, 28 Sep 2026 20:35:40 GMT"
         },
         {
-          "title": "Rihanna Celebrates Daughter Rocki's First Birthday With Never-Before-Seen Photos and Videos - E! News",
-          "publisher": "E! News",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQREZvOXh0ZWtudnd2d2JneG13TlNOVkhFYkx2NkFuMEoyYjI5ZWZvOGxuckF4b09Id1JLS09YRjVXOUdrUktFanptVU1jQk5wbXVyQl96UWEtX240U3I0MlpjVnZMaS1qNDhxS0J4SVJkM0tiOFRhNktHX0hOUmJyblJVWDAteDBpSFA5OVZ1TEpvNHExcm5kSkxxX1B1SnVfSzMxNzQ1NUU3aVZ2b0lLVw?oc=5",
-          "published": "Sun, 27 Sep 2026 18:14:00 GMT"
+          "title": "‘Reacher’ Gets Early Season 6 Renewal Shortly After Season 4 Wraps With 66M Viewers In 28 Days - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaTFtajdWR29JNS0wTWpKTmxSSTlPZjF1TzRiRGE5Rmd5ekN5MURjNTRxQ2x2djFYeWNjMWlzSmhmWDRRaTlGU3YxT2tteHVhaGxXT0s4RlpvUmpoZ0NvWlRhclh1NnRxZERGbEpCQlRFa3VfSi00Yi1OaFlKbjZnNks3V2EwUHAzVDlvVzZ2bmJDTXQwcTlnam9YZjE0azVT?oc=5",
+          "published": "Mon, 28 Sep 2026 19:15:00 GMT"
+        },
+        {
+          "title": "Benjamin Satterley, globetrotting wrestler known as Pac, dies at 40 - NBC News",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZkxlengzUl9mN0VuTUVhVjFub1dfaVhlT0p0S1RTVm8zTU5JUXhBM1hmdFR2TEJlMWpwRG9MOTM0bml2OF9LcXpJbVNJYktfS1lPczF3QmNpcWtrMkh3T2hCajRKdEFJNWNvenBocXh3R3cwZUxjUXk5bTV3WFVMa3VvdHZtcWdmd2YwVWtUaVJYS0FPa3A0V3ZoNkZzYWVWWHk0V0VZb3ZESDlt?oc=5",
+          "published": "Mon, 28 Sep 2026 20:37:00 GMT"
         }
       ]
     }

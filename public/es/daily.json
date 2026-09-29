@@ -1,7 +1,7 @@
 {
   "market": "ES",
-  "generatedAt": "2026-09-28T00:18:26.764916Z",
-  "validForDate": "2026-09-28",
+  "generatedAt": "2026-09-29T01:29:22.916277Z",
+  "validForDate": "2026-09-29",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Sánchez apremia a los socios a apoyar el decreto de vivienda “por Maricarmen y los millones de españoles que sufren la crisis” - EL PAÍS",
+          "title": "El PSOE asume la imposibilidad de encajar todas las demandas de los socios y prepara un decreto de vivienda con las medidas de mayor consenso - Cadena SER",
+          "publisher": "Cadena SER",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPbnF0emxRbE5CaDVielZmV3pZN2hUbUI0TVF6RzllN3hGaWNmd1hWQlpxTUt0RzNXeGFYUDZNNDlWenR4a3d5dWhKZXdXWkZEZWN4UkhoRkhxbEIyS0JpbGJxRU5FNjM0QjNWRU1Sa01zcE9nTHY3ZFVBUTBMdUVSVVpkdGNDZVZDYjBsdnl5THA1SldKVi1ocHN5R1F4ejFZbUxQTGxkVzl1MzVhM1FkVnFhaFlLZEl5akZxbXRjMWdsU0liZm9Lb19UckdSQzFPalE3YWZJc0lUY2ZNY2xDbGNUbVhKQWlpVnNlSktteldza1pBZ2xad2ZEcmlTVnRST3pIVlE5UFYwd1hDRzdxYTRHLV85dnRfYUN6eUlLcGXSAbQCQVVfeXFMTTJMdWRxLWRldXlQaHNtWWRBSjJaUDZrbnVDcEJwWnJBZE15VVpqb0N6RVdudjNMblp1LTVVMnJDajJmQnUwR0FQWjFTbVJra0VUak5rV1BmYjcxX2tHdFB3cy1nNlp3NTl4eVpVdzJWdTFiX29vM3l5RkJKbUNFUlp4ZW9DVXNNTVZ0UDloOXhlRWdWN1dTeWJJT19HczIyU1FRQ19ILWNXT0ZnSHZwcVBlSUpSQVhmdzNFTjBubDJZQzd5ZU5RZnMwTjRZMk0yUjFqb1hONzJQbW00bXV1UDZ4NWZaOUlvTlVWaFBNaHhFYWNsR0hzWHdJTE15alA0ZlF0U2ktTGIzSVo1aVliZ2V2VzZhUkFNWU9TLVpfS2YzaUgzQmJvTVdvXzhlWS1GUnA5RmM?oc=5",
+          "published": "Mon, 28 Sep 2026 20:12:51 GMT"
+        },
+        {
+          "title": "Carlos Bardem, Aitana Sánchez-Gijón y Juan Diego Botto: el mundo de la cultura se suma a la acampada de Sol contra la crisis de la vivienda - EL PAÍS",
           "publisher": "EL PAÍS",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZHJLNFhHYlhKNl80UzVnaDEyTUVNajFTclAxaG04Uko3aVVyb1hDSEN0QzFqZnBvUHhfQmVmTzhyNXpKNkNSSVZrSWs0VTRpb3NIQW1oTWFiQzZFM09ULVR3LUZTUy1mME9lUHB0NF9hRmMxSFAyRTVtU2ZibVM3c1p5dG5veXRlU2RoYXRFMlp1TTBsWU9Ucm1vTzh4dEl3VVJRRlBtcVVwTV9Odko0al9yQTc5VTQ2dk5COUk3TFVnWnFQaFFUN3hyaW10b2Z6X3J3dnZPTkRRcmVKN3V3cUo5cXR2MUVJUkw2SXlaa05aaHNJcEJhQWJB0gGOAkFVX3lxTE03MGxHMDNhMGhZLU94VzV2RHpMY282YVNaeWRjUThUUHdqNk9aT2N2SmN0TjhQbEJVd01LZUdFdnNCdktabnMySVY4ZnU5MjRDTFZkT3hiN2M1ZEtHMzV6T3loWGs4TndNclF6cGdLLV9vek5iMF8yNk9VaTRkYkt2ZFcweHRtVXFwX0pfZG9rSEgySW5BeTM2eGhpM3NYWFR3S1E3QVFtcURmOEczNElZN1Axem42ak9oSW5rOGZDc000bmRCWXRaVE9sSFBwQnN5OGxGRmJJU1dmMUhOaEtUaElmcXMzak1rcFVFSWlsTmhTZ1B2SUhVWU9jdXhXdWltd2FtblZfTzBRT2owUQ?oc=5",
-          "published": "Sun, 27 Sep 2026 13:24:26 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2FuN0pIS3YyY3dwbXl0SE9NYnAxZ0JlLWlzNG9Kc0RvTlRTQkFSTXA5S2xHdGdGMWctdTFwZkNENDc0c0dUaGx1WVRiMlJBOGJnRGNiR085TUlrc0JzLTNTQU9PeDBnelh1OVI3RzhvTEVhRFVlcFliZ3NfWk1jamk1YlJveEMxTWZuZnljSEZIVVFGcFh5M3RoWmJ2THhZUkN6UHNCUmNXWmt5UmZVeS1UNVjSAcgBQVVfeXFMTXlkdkpkTmg3c0h5d1VjZ05KdEpTM2hQOXFZOGdyQ3FaWHBlTVR0Y3J0eVpBQnV0NU0zSnJrTGtlZEQ2N0NKRExQa3lqeEgyaHFoLTB1QnNKcUJXcGNhRnJKQ2VMZHNVWVFfR2pELWc0d043Zm1SUW1taDlhbFJJWnFSWUkwLVl1TXJfa08yaVFlbEtiYkFJa0NpNTRLaGdEd0k1ZmVUY1NjMXFuVlFJcXRGQ2Q5bGdNRmZacUVlMWN5VnFMbTE2TWg?oc=5",
+          "published": "Mon, 28 Sep 2026 18:44:05 GMT"
         },
         {
-          "title": "La acampada en la Puerta del Sol para protestar por la crisis de vivienda, en imágenes - rtve.es",
-          "publisher": "rtve.es",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORDF0WUtIVko4cC1KUndQSmFuQTNrQmRjT29ZU3VkN1dQT3ZHemdNVllRQldZLXVITHU0RUw3SHNKQXVrZEN0aHRnRFRSRjFjSmllT3pmWTBxWk9PMThRTFRLME1VTFp1NlZIQnowTVRNUWV0NEFTZl9IN0N1WEJIbUEySk15dEdZMzhBeFEyRXltMkdWT1EwNHJiOWp0cTAy?oc=5",
-          "published": "Sun, 27 Sep 2026 22:50:47 GMT"
-        },
-        {
-          "title": "José Yélamo condena el acoso sufrido por una reportera de laSexta en la protesta por Ceuta: \"No sé si le dará vergüenza verse en TV\" - elDiario.es",
+          "title": "Colocan una placa para recordar el desahucio de Maricarmen en el portal de su casa en Retiro - elDiario.es",
           "publisher": "elDiario.es",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcTlqT0I3VUZKSGRQN0k2Y2JNZG1CLXJCdkZWdVZVNzd0WUtsSTFia2oyUnVJOHFPbnhkZjFLUGcwaWZTSDRJUEtvVDB4dGM2N1JyQzVLa3I3VUlwdVFXNnloLTItVmhaRlV2WHpHaVplOEs5Sk02LVo0LW1YY1J2M1VfeFVObVhCVnBNZnpTLWt1Nm5qMGhVaXNjWkhicm9KTDRoa1VlS054UllfWWp6QzZDdnhQbTFodjNNT0pzZWVLUkc5R1ZTeXhGdlZIelp5ZTlMZGRGVVhNTFBhV09XU0xobmxmWDJsbWFZU9IB8gFBVV95cUxQM3R4TC1mSzdzUVRCcHctQkk0QUdOM0tBN2tNSko2ZU9BZUpHQk5IeVNxYkZFRlR1RUlreElkVVQ2czd1V1pkQlllQ3ZQLTJSeEw2XzU2TFdjbGFxRTRRXzBLUGdzMlZhbG45a2w4OWZzaFpjNUFEVy02YzRNemtZdXBnSzhLSzJ0WkFrTTlZdzN6YXF3NUsyZWRjd1h3REEtVmxXZjB1THdTc2FQZ1ZhbVhXX1RkN2VhZUdwR2otVXZ3Y0RMTUVXX01IQUZCS3RrclpVSDFXeVplLW51M2h3S0dOZkdBaG1ZR3hJSU05Y0ttQQ?oc=5",
-          "published": "Sun, 27 Sep 2026 10:51:10 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQejJQeXpubzhELW1aazJ3YTFfNjJ0MUQ1cTRocmpfcjNNQXA0UG5senBTdk1OdHFyWTRET1MwNm95US1EUVpfNllyUV9ZSXVrOEhjcTBlRFM0TzlUckoxN2lrUU5jX2V1ekRvemQ4Y0xJNlN4MjIzaV8yT2tGa3lsSUh6OW4xbldUSTR0eUtrQXNneVBTZjNCemU4UlhjVlV1NnBEZGFtaEZxeTV6b2l4X2FhREhNd9IBuwFBVV95cUxOaG02MkMwZVE4VXlSb2FjdkdOc3BsblVSTFpSNWJpRXM2MkZyOER1YUFRRG5RcmF5NFVzS0lDMDBuWHBXd0Q3TzFieWI5UVI3ZXJWUG5Ra1R1Z2phTXg1UHdVSmpVNXBuQ2NlT0wtTElZN19LVVMteklZY0dVTmZ5RmVfWEV0SE1Xd2dZRkxuLVpEa1FoSUdWUnBqT0tXWVZ0dmo2ZDVDR29BanRHYzF4TU9Pc3NXSDhxVzdR?oc=5",
+          "published": "Mon, 28 Sep 2026 15:46:47 GMT"
         },
         {
-          "title": "El sudoku parlamentario que bloquea el decreto de vivienda: del control de los alquileres a desahucios - El Economista",
-          "publisher": "El Economista",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQkVFZUtXeGxpMlN0eGd1dUhWaHdZT1FDQ3NQMWRxTExoT0JNTWVTekxzRUItaHBuaVc0ZWpKV3Z1VDhtS3k2QjZkM2VlQXB0R2wzbjJXSXRFam9lMjROeHJCNU93WGIwQ1JWUmRGdjVjOGUyUTZWZUJfNzdPQTZJYVNWSnBwVFp6YjhMcjRNOVZMRmlfNVBSS09Ib1dPVk1MVGdaN3NCamtnOTFvRG8yTTBrX1AwbkdVNlNFTFRaZUE4b0xCNWNQbk04dU9ENUZFTlNoZ05QNFpETVI2eXM2VmpHUFR3VkRpYWNPbzNNd2o2MmZZLVQzV3dfV18xZ09TRFdxeUpxSzJDY3lM0gH3AUFVX3lxTE1ha1owZ2ctMk1PZHVZbWtJWGFuemppZ0RJTmtzaG9yQ3lxRnNxNGpzN1VfRmI0VEMta0hnRV9xbGNFRGZ4M1k3bVd5YUZJeXZIZlNYb19oc0xKUEFBT0NfM1dDV0xkejlreWt4bWRtTzdIZGxSckpDaDhjRzI4dGxuWlprQktEU185ZENTQURGdjhmMmlUSHN5UUJrY3VWTmJvQ1ZZVGljeWJjb3JLRmdfOHZDV0NkZTdYQTR5MTN2a0xvcUJxemhRazVvaUZxS0U0M3lpUU1hQldDbVJjZTk4QkRRcWtNYlNYcU5sZW95bkhPU01nV3M?oc=5",
-          "published": "Sun, 27 Sep 2026 15:16:12 GMT"
+          "title": "El Papa, sobre Maricarmen: “¿Cuál es el problema en el sistema que permite que una anciana sea echada de su casa?” - EL PAÍS",
+          "publisher": "EL PAÍS",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMURBYXJwU0ROUjNTRTRPUUlHTFpkOTIwOTF2Rkp4R1lNQXd2cUhtQ0NXSVBpMldCNXFhTUUtSlJSUk1HNVFrMS1ZTWdSVWV2Mkg5d2RhMnZCYlVUd1poUE51VTNuV2ZMS21PclFvSklub3lpb1BfOU5NZXVRZVpRYXF1Nm9lWERzdUQ3ZjhFVDNuS0ZyOE44YWV1TTM1dkdaMmFYSjhHR3JldFAzNTloZDlGalpsdmVyNEpFc0thVDd1RXFKYkdTaWpiN2VzbnkxQ2Z5WDNSQ0NpQzQ4eFB0a0hZbXHSAfgBQVVfeXFMUHUzUkk5SnVHVl9uQW5XOTBsTU9nV0lVOE40eDNQNURtZlV5T3FrWk1JSjRxemU1dmVnSVlhTWZxWVliU080Qlo3YnJDT2thY0NkczZzZzZ5LWJmZGhEMFVabDZhNTJUNVBKR3gyZ1VzczRmdGxfQmZ0ZDU5a0p3QjZKempxbVlLS1dTOVI2c0ZLaVRXTVVLS0RMNEJidjR1YzV6ZFFWeUR0UHdhRUhSdXF5Mi03NnFURXhZVmdDOFQ0NUVzeWFtOFVoR2ZwUEdpWnJFdnhhd09XRF8zZGtlXzE5WDZKWjZYcGxCTnNFQXlxaDhGSUdhTF8?oc=5",
+          "published": "Mon, 28 Sep 2026 20:07:27 GMT"
         },
         {
-          "title": "Granada recibe con júbilo a la Virgen de las Angustias, en su salida procesional desde la Catedral - archidiocesisgranada.es",
-          "publisher": "archidiocesisgranada.es",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHFYOUlVWmdlVGJ1ZFBlV3ZWRVpMV0ViYkkzeGZPLXR1UkhyRFhtZEdQSEdqQmhpRkFhbVpfY05kMmVNMndHcElhM3Y1YVM1QWJzVTh6VGlTTjIxTXAyZEFPR1A0czVJOFR3RmstNTlsRzVDaVVLOHpKZlBRbmE4dnFvckpqX2taRWowekhiWHlvMUlJdWRsdy10Q3NORlQ0YzRoaUZWamdHYUFPX19iVHNEM3hmRlZTSWJKS2Q1aXJnZW5OVTl2NFVhYjZJWGRVTUJKa1JR?oc=5",
-          "published": "Sun, 27 Sep 2026 17:13:23 GMT"
+          "title": "Pedro Sánchez avanza la aprobación de un Real Decreto-Ley con medidas urgentes para aliviar la emergencia habitacional y pide \"altura de miras, sentido de Estado y responsabilidad\" a los grupos - La Moncloa",
+          "publisher": "La Moncloa",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeDMxaTNFNVhfWkZSR0NaOHBkbzdkd3pVXzVJb1JreXZQX2JOYXkzc25wRW5uRkJjcTZhelUtOXpFVzROalR2RHh6OHY1b2EwSm5fbzJtMThpcHlIOEo5TmhzeVlhdnhMT0JlblBZLWUwVjR1VERrQjhnLWt4WEN5ZW4tRlBhOW5BVFhManFFUk01R053QlpwTmNmMktQRVlXOHJJV3NEQjJ3NVY1?oc=5",
+          "published": "Mon, 28 Sep 2026 23:04:05 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Trump insinúa que sustituirá la sala de prensa de la Casa Blanca por una piscina - EFE - Agencia de noticias",
+          "title": "Una investigación acusa al ultraderechista francés Jordan Bardella de escribir mensajes antisemitas entre los 17 y los 18 años - EL PAÍS",
+          "publisher": "EL PAÍS",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYnA0TERsbzFnWjE3WGRkend6akp1RzBoSXpMbnVjWFFWNFdHNk5qZEx4aXEtVzJrZl9aZDgyNTZoNTN0TzZ5ZWZtMGs0d0RLWmU2WkIxZFFneDl2Tm1fcDhSbTFrVnVfUXlTQkpfN0FpM3RCZER5d3ktRVJ0RzVmMG1rVXQ4TUJpMklHZ3RZZlVoNzhTTmJPVXBtb1l5aTh6Y3pIdVh0V1FkZGZCYThOMGk4NjRaQ2FNRUQ1QnE1VjlhZXo2b3FFYUtiZXhEc2tfUVRFUy1vcWVoakJybjgwRy1BYkE3V25JMHRHRDdpOXp6QdIBhgJBVV95cUxNbktlM2NxcS1nZ0pFR2s1VW0tVTVwTkJFYWJiTldDdHNhMTVtejVrTGNpSnZfVkVKbDRrQVNYWHowMG5EVVItNVowbzY3VnpQaW02QnowZTJGcEdKY3VtSGNlTXB0OERaQjVDMnBEYkZBVkRueXdZSS1ENmptN2ZuWnBLdktQY2VoWXB1VnRnaXVySzVfY19MUkVjLVdRVGxVVl9EclRpZUJnSnVkWW5veG9XcTFhVUtYZ002azdoMVowNHJwRFdxeXJmQWdCQzlMcEpUMEZvTDRjVEJCNFNYVGZ2c295U1F1LWRRakF5RXJWNVk2Y0pmd0tsZno2aUhNbHdmR1BR?oc=5",
+          "published": "Mon, 28 Sep 2026 17:09:36 GMT"
+        },
+        {
+          "title": "Macron despide al papa León XIV en Metz, Francia - ABC",
+          "publisher": "ABC",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQWhXZWlEdEdlTTNHUlE0bEhfQUpCMVhoTWN2eFlyWENLV3p0U3Q4SVlJMHFqUmNTNE9ScUY4Rkwwdi05UHhmSUNtNzFxaVNDV09ubjJyQTFlTzlTYlMxM0hlOENQQjkta0dEOEw3VC1COTFSNDJTUTl3ZGY1Q29Sb0JNbzAwOHU4WEFiQjJjUTVybjNaOUxz?oc=5",
+          "published": "Mon, 28 Sep 2026 22:20:33 GMT"
+        },
+        {
+          "title": "Bangkok se adapta a las inundaciones con mercados flotantes - SWI swissinfo.ch",
+          "publisher": "SWI swissinfo.ch",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3FIZ01IUm0wRXc3SGdEZUw2S19BMG5zdTh4cVE0MWstSFM5T3RXZUtPZWo1N1ZVR0VnODA0OHFZZnc5Nm9mYWtiWGJGeVV2N0hjVkV3d29Bcm9nTlZaNVM0aVRCYUdBVDBuazhYTnFXUkl3TUl4Uk1KUVNhcGxxQVZhNWFWeGduOGlldkI2S2szUkgyV0ZlMTYyOW16QQ?oc=5",
+          "published": "Mon, 28 Sep 2026 12:30:18 GMT"
+        },
+        {
+          "title": "Qué se sabe del operativo antiterrorista cerca de una base militar usada por EE.UU. en Reino Unido - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4way1pLVNmM2VrNndrM19yMUpIbjN3SUJRbmYtUk9zUVczSmNyZzJ5dVcxd0wwbnJMSWJSb1lLTHVOUHlPbWk3dmlRSEhwdVBpS3FueV9PQWtDeVZM?oc=5",
+          "published": "Mon, 28 Sep 2026 17:11:31 GMT"
+        },
+        {
+          "title": "El papa León XIV dice que la Iglesia tiene la responsabilidad de ayudar a las víctimas de abusos - EFE - Agencia de noticias",
           "publisher": "EFE - Agencia de noticias",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85dWstTG40MkVDdE5xa1hKR1RhLUxzVDNDekNxd1o5bXk0T0w0SnNHeEN2VXN2dHd1YTJyTGVBdmpVTGhhN29xazhsZ0pjNFVxTjlyMUVfRnI0VGdvSU9td0s1S3daQTI1VHRBWDQzNEFPY0RFOHNtYm5NOA?oc=5",
-          "published": "Sun, 27 Sep 2026 22:15:19 GMT"
-        },
-        {
-          "title": "El presidente serbio, Aleksandar Vucic, dimite y abre paso a unas elecciones presidenciales anticipadas - France 24",
-          "publisher": "France 24",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVEpmM1d3a1h0enhOaVBzaGRvNmYxVmNGYnJNWmIzdkJDeExZU2hBc3dNa2VrTFFvVHVfSkZjbTdkSGxGR0FITm13dmxZazRSdVBkTC1OUmdsRDBOOXZDWkpHX3dzaEluSDNYQk43NS03dGgzMWQxZnFLRk94dHdWRUM4ZzhtbnB4OXVWOGFjZDhEN0xQVkxDMHYtbkZMWlVtaU9xRlo3VFBGeFZqanNtYVl2UjFYUTJxYXdvRGJzdGxWQnU4NDM0Q2lhektfeWtzR19JNEplQjdKU1U1LUE?oc=5",
-          "published": "Sun, 27 Sep 2026 18:45:26 GMT"
-        },
-        {
-          "title": "León XIV se reúne con víctimas de abusos en la iglesia francesa - DW.com",
-          "publisher": "DW.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZnJ6VkJSbEJjWkZrQnE0bG01LVMyOW1JVU9kQklZaXN2MVBRSEtCekNtRURqSEtLMHBPQWNXdDVpSlJxSmJJY2R5SHZITUxNV1RZNXVZRGotWjFxekhJbFZURUNtTDhJUWJiWW55UmpEOW1iY0N4b2hzRUE1X0ZQM1g1RjMzMl9qNldUQXhCdmxnU2ZjNk52NDFoY0d0UjZjX05BdmhIVllpNW1SQV9UWNIBsAFBVV95cUxOZnJxNzBTMGRUbzRpRkdHd3hmaHhTN2U2NUtUcGRWZnI4Y25ULTFLa2dVQ3RvU1BGTjZSRzNCZjFyVlY1UDdUX1hhYmNOSnlVcm03akFQakdscWs1OTBvbEVVbncyY0dObTNiNVpSZjFKcjhqcV9ZbG5INDd5OW5CZHAzQmFBeDRrbVJ0R19tdnp3aVQ1Mm9HeE9Ga0hLZmxXTXhHMk4wai1aZnpfQ1JiVA?oc=5",
-          "published": "Sun, 27 Sep 2026 20:56:57 GMT"
-        },
-        {
-          "title": "Irán insiste en la negociación tras el no de Trump a su propuesta para Ormuz - lavozdegalicia.es",
-          "publisher": "lavozdegalicia.es",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2Y1aTl1V2tLWUVJNlNnSnpUYmhFMXRCZTVIM2lPTVhOeXRfdWdrUnlVNEdsOGh4bEw0UDlzcWtFb004THpaZWI0WjEwM2RwMy1ueTh4V200dk1rdjhCNHdfVk1EdlhrYnIxdWFaR2R2WHpzVnZMZTJoQUM4UzJIUWlXaExQd3lqa1pTZGV6VFBBM2RKTzI3T3ZtLVp1Y1V0WHB1X3pGOWhwc2tCbjFJbm5LYXhicUc2dkItak9tZ2hLWWsxZDZLeUVWWVI0YTVyb2dFX1NR0gHyAUFVX3lxTE5sS3hhMlR6QVN5NHQ3WERNc3BVLW14aWpQdmg0NWF3djNTRU1MUXpQNmlfay0tSmlaSXdWMGNxZzR4a0NXbnJPMFFwaHlZRFAtaWxrcnhLWnFXX1BlSWZqbzZwQTdBSVhxZGNSYkRDMFFyZXZ2SjVNX3kxRGZGWXFvRGs2cFh3ejlUbDlfbEdXMWtmSGsyZkJKVHZFSHZ6WVdIRjJIV3A3bnN5TS1XVGF1bTFVcVJBNllYOERwbFlKZnpFRTg1ZHZWYjk4MnlWY3o2R2Vkd21pUjVSNFpGMXBuSHVmMTQ0RlBFelpER0FvT0Jn?oc=5",
-          "published": "Sun, 27 Sep 2026 19:11:20 GMT"
-        },
-        {
-          "title": "La policía británica detiene a cinco personas cerca de una base militar bajo sospecha de preparar un acto terrorista - rtve.es",
-          "publisher": "rtve.es",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNam1LTzNaelFmZTgyMDYxejdUdDA2enYwN1ZQZzE3ZnRZU1pjWGRTYWxIUlJzM1RnYTYzLVFVR19CRUxQUmJXaXBRNTNncWxPUUY2dy05bUlRc1NvX2k3RGIyUGZIOWRvT25qbUlhLTVMamk2YnY1eGJna3RIUjBSUDN5QVEzamo5SWY5eDdFM1ZYeFhERUUyeS1qY3RwWGMyRWZId2hyem5LZ0JOOUw0cXBES2IyZFo4T1R6NWsydlBkZW13cTFYZVJnUERCd3FzYUxmMnpIQ1pPR0lGVVZEVTlFeVZyT0tZ?oc=5",
-          "published": "Sun, 27 Sep 2026 17:13:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVTRfQVhkM2g1WU1MbTQ2MG1NbWhRdFBtV2ptQk1xNlZjc0VqTGEyZ0pRWktyQXVuWWw3VGlJaDVwSXFIMlJkRFNQT2psc2ZmZXdXcHFzWnNmSzRsSzU5QzV3QXZiTWlUaXkxdGZvYUh3ck1UdWx2YTNjRER0eDhkQWNOeHN0bHAzQWxaeHItdm9NZVVGN2gtdA?oc=5",
+          "published": "Mon, 28 Sep 2026 21:56:15 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Telefónica se lanza a aprovechar la reconversión de Alemania para relanzar su negocio con menores costes gracias a la IA y las fusiones en el horizonte - El Mundo",
+          "title": "Comprobar Bonoloto: resultados de hoy, lunes 28 de septiembre de 2026 - El Mundo",
           "publisher": "El Mundo",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcWpTZ0hYLXdPeU1mVHMyend0UnQ0VUo0OE9VNk96Uk9kQ0pGNVVVZjNiOUZOdmt1c3E1b2pPWnhhN0Zpc0htakpKbzRhNW92alQyaUtuQ2Ywd0ZHUnBmaGltczE4RXc3cGUzUjhJQjhrY1djWHltejBDdGl4VjB2ajd5TGlZOUN10gGIAUFVX3lxTE1HNGt2NWw1V0htZUtWSDVVdGdCSmFQczVzdS1ZWFc5bHlCb18tcFhuaHhXYmd0OENMdVFSRVNQbFBWNjhNcG1kRW5fUkE3SGo5Z1pNWEJQNG15cDhLU2ZzUU4wTnZJdzluakdjSXJ5QU9oZFVNaTI3bDJyblhWeW5jb3BVMUxxTEU?oc=5",
-          "published": "Sun, 27 Sep 2026 22:01:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CeE44X0o2WEx3ekRkcWdiLVBXemQwYjhPV2t0Z1Vzbm93Uy1RVGlIdF9KUXhPY3YwdUxKN0ZYRE9OSFc0M0o0YVdKSkNBeFd5OVVvaHQ3YnItbkk0REtKYm9obXJXNnZoUFM4QWJua0J5R01hMmQ1YUxnb3PSAXxBVV95cUxNNEpYOXp3WkJPOWItN2VwSHF4OUxHS2d4NkpVTGtCZlZqUDRMUVlQczRObG1JN1pXbk1wTTV5VDJTSXJyRkhHbXhmLXFZQ1U3ekJaWDU3Q3NaaUdKcG9LUVY2WWttYnJnVGlWeXlKVTA0REpVaF8zLV9iN0ta?oc=5",
+          "published": "Mon, 28 Sep 2026 19:45:23 GMT"
         },
         {
-          "title": "Bonoloto hoy: comprobar resultados del sorteo del 27 de septiembre y números premiados, en directo - El Confidencial",
-          "publisher": "El Confidencial",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3hJMTRhNGRRd1J4aGhjXzNOQS00cXd2UHh2RTU2dVU4cHd4bURIRllhNEtKUGRDdUpMcWNXdWtISGtWcVhxWm5NSlBVeXJtV2czT2dqZHpUMjhyVWRPUkhIMmpIQ2c3OWlJbmNzamFnMnpFQzZCd0ROaFMtSnM1bGxlYkREVmFNLWRLbEZMcGJ4UElWdGVkM2pKUEFJeFFjNDNMVTZuTHNHZVc1LUpiSw?oc=5",
-          "published": "Sun, 27 Sep 2026 19:21:00 GMT"
+          "title": "Lagarde no ve en las subidas de tipos el \"factor principal\" de la crisis de la vivienda - ABC",
+          "publisher": "ABC",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLTVlN05rYk9icDg0TWwyS1RwOENiOXNEeU9BSUQ1NEhPZWFSWGRCSmpMOVItbjByYzBFM1Uzc3hpN3pxVnRuelZDR0I5V09Wc1dxZlhsc2oxLWJ0eFV4S1NBZ3l6dzM0SnlKbEhNZnhRR0tXcHExOXBRbV9wQXNmc3IzbW1ieTM0WVBYNGE4MUhha0NBcFo5WlVGYXNnSmZiWGtTVnJJeDQ?oc=5",
+          "published": "Mon, 28 Sep 2026 17:43:04 GMT"
         },
         {
-          "title": "La UE pide a los países reducir la demanda energética ante la presión invernal del gas - Euronews",
-          "publisher": "Euronews",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGgteEs5VW8wZUg4cjk5aXRXdk1JMlAtcDlvaVpQRm5jSnRZZXJ1blJWdXZWTE53UVNWOGc1VFIyYTZVUHV2ZEhIUUNOR1U4b2YweG5FbFNfd284SzIxRHRfdVJsdTIxOFRXd1lwTXhMSXN0dGF3WWhMU05XcWlaRGFmdkRxeWZtRExWaDRMeGNmY243NXo0c1hwTzV3My1wRWtIVVl2cmpRUFZyaXhXYXVCWTl1SC1HbHVpLXdB?oc=5",
-          "published": "Sun, 27 Sep 2026 11:37:36 GMT"
-        },
-        {
-          "title": "Cómo impacta el nuevo escenario de las divisas en la cartera - expansion.com",
-          "publisher": "expansion.com",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYTVvLTIyQ1dTb04xTnFIOHgzd2Zfa2NZZENlWE43aVdpOVhnU2xaM29BXy1oVHp1NXJTbGtmdTI2bGpSQVhBdlJsbzdoS0hOVmN2V2FtX2J1YXVtdm4tTV8xZkg2RVViazZIdndkdVR1TWduMTgxTW14VmxRdVJKbVF30gGCAUFVX3lxTFBEZzJmb0FTMUtoejRjMjNVa2lvdXhvSm93bEJETUNZaERYczBBWGV3X3BITGJrQ1FvZkRhQmxhcjF5V0FOMmRfSWlhYVZVUU9FR09MdEkzTjBMUDdlRmpvLTV4RXZwRkNLRVFabnNNV2dCbHV4N21kbU52QTE3SnRQZWc?oc=5",
-          "published": "Sat, 26 Sep 2026 16:02:40 GMT"
-        },
-        {
-          "title": "El Gordo de la Primitiva del domingo: comprobar resultados del 27 de septiembre - El Correo",
+          "title": "El Cupón de la ONCE del lunes: comprobar resultados del 28 de septiembre - El Correo",
           "publisher": "El Correo",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU092QUNCLUk0N0prcURZNFNlR3F5RFppcFpCOG10WXYwblp0MkV3Q01NVkpLd2hxWkp3THhZb05ldC03cGxqZzZ6Y296VVFvVmZIY2JZLWM3UGktNC02a3R5aTY1aHdRSHpCUGEteFlrVng3UWJCSDY5WmJuVWg2VWFlRDlXZWxnUEhOa3lxclBVb3FyUmVaQWlIS0lfQnpUbWdJQlM0a2sxTEdQME5oWHQxaUJOVnRUc05BejZpdmlOd9IBxwFBVV95cUxQWEsxZXZWLWxOTkFrclcxck1qd0dIdTF1Q1JaLVdpXzRZalc5SGwzSHBZSEpLMkRldWtrbDV1czhjQUhMeGJlT0Z2MmliTTZpUWxaZXp5X0huVHZNd2pYdkRIVnRDLTB0N2QzTkk0dmFkeXpZdjJQSzM2eXhiMFItdG9YakQ2c250bWtpZDh6b1AtNHlyTU82QlBkWGZqbWlKb3g2Mzc5NmdTS1lJbG1VVnJYMFJlWEl6RGdiNmpDVjJoeTFWYVJV?oc=5",
-          "published": "Sun, 27 Sep 2026 19:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0tBUHpQTHRCMS04NTQ2X2pEbTJlelhoYkF2ajB1R1FadnlwbmZPaUV0bC0ybnRCRFFqZzFTaTJKaVhQc3dWZUNkVkdwV202dENvM0xVVTFyMm44OWJOaFZuekdJdkF0XzB0eklTallnMVhjM0FoS20teXh2NkdMa3h4R05BUUpWY1ZWSlRacVB0aUszX1VyY1FyT0stSmk2bG80anRGSC1XOUJ1dlM4d3NNcjhVd9IBuwFBVV95cUxPcHBZRERnQ0V1YndSVkJhRHFjUW95NzhEc3dEWHZzeEdnWDgzc2xEZ3NpQXdYN1doX3FQUW9xUUxIYUlKMkxRam5XUDl0aEM2V3I0MjktWlNYRVpFTmlSc3JVSDR5dk5weHZoekUtUzhJVVdrUlV2V0hPN0ZyOVdySkNNaWpRVVZsZV9MTnlQUzlIX2RzdkFjYXVwOWtHd0hjRmpKeFJvZk91aFN5WHpubVFMbEVsZE1EdEYw?oc=5",
+          "published": "Mon, 28 Sep 2026 19:00:00 GMT"
+        },
+        {
+          "title": "El déficit de vivienda superará el millón de pisos en 2028 tras aumentar la población en más de 3 millones de personas - ABC",
+          "publisher": "ABC",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb1ZWbnU1aGlKa05GTjViRUx5WWkySXJWSEp4cmRrY0tVdFNaMTFLU1RmcnNjRjc3V0JfMG95QXVqU2l6MXhPa2RFQUJmWXZDVENvV0JJbTZKT3BmSUZTOGF3OEpMZEpqOUVXRWRvLUlVQzdxSmh4TDEwQU82REhLa3Y3WDFwLVBGUXd6aEhWR2ttT0I2WWk4SVRHNEwtcmltVE9QUNIBqgFBVV95cUxQRWZsUVdHci05Z0FsdG9QTEt0eFh2UUVvMlE5Uy1pRzk1ZV9HRmE4V2dneGVQUUdzVnlhNFdRUnV1LU5HdlZOeEEyRDlIZTIyU1Y3QVc5U2w2akt4NnQyNFlrYndxOEZwMmNHRkJVQkEzT2U0MXp3NzBSRV9FdGFWdVUtTlRyU0RYd1pRQm51N1ZGakI1a2FIWlZFOVphWjFGT2Q2Y0x3Mnk5Zw?oc=5",
+          "published": "Mon, 28 Sep 2026 23:22:15 GMT"
+        },
+        {
+          "title": "La firma de hipotecas sufre el mayor descenso en dos años - Expansión",
+          "publisher": "Expansión",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FLXBEUmdTeVFXdDRyV2pUbExlRDhRYTgtMExTT080YU43QmtDVDdsa3JVZEJJcG53aE5BaEVuaEtFdkl3bGt4TDZWQkUzaWw0SURmLW5SNS10Y1BSaHZtMzVqMGxWTnFUblpMZ1ZINlI1cWRhSmRYNzc4bm5pd9IBfkFVX3lxTE5SaEw2VE9TN1NzUFY0M19CSnB3M0lmUEx0MG8xQ0h5Qm02YXRVQU1OaGlfY3pJTkpOOFZwcHZRWmJObVZCaGNFNjVSWEY4Y09OMzllUk5DTUNMSEV3MGcwdndKWXZhbFR2UlVrM3AtX3BEUzBuZUV3TXloSEp4UQ?oc=5",
+          "published": "Mon, 28 Sep 2026 23:03:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "España-RPD Corea: hora y dónde ver hoy la final del Mundial sub-20 de fútbol femenino - rtve.es",
-          "publisher": "rtve.es",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmw3UklTQXdVT0RMaWtDRjBNWXkzbm5ocUNXdEw1M0VfNGFmampDcWNYTnN3a2M2bG8xdjg5ems3cmlFRDlaaHloaVVRYW1XaDlwSy11cnktWVpRU0xnWndzUWRkX2s4QXVJMlpRWWRGOHdGXzFfeHh6Z3JxM0hGTTNwRkN3SEVSZU9YWXRUN1F6RW1FZXZmblBJMXhKbk5vNl9hV0J3VU5GRFU3c1E?oc=5",
-          "published": "Sun, 27 Sep 2026 23:54:04 GMT"
+          "title": "Los nervios del padre de Daniela Agote durante la final del Mundial sub 20: \"Mira que yo he tirado penaltis, pero no me fui del estadio por poco\" - Cadena SER",
+          "publisher": "Cadena SER",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNRzByR0Y5aG5uRWQ4eFhTXzYtWU52YkROLWhxcmRkX0loWXdESngwd3FMTl8xLWpSaEI0bXRvOWRPc09oMEVSSDl2TTZhcnNmc0p2SldhNWFkSzU4QllhVS1HSGgzZjhyRVlIdC1mTFZfajJidklieTBsRnJjUUdVRlF6U3U5U08wcDFvMmZMMUdxaVRRYldiN3lQb2RqaHU5bjBQeGJ0c0tNS1BjeGFxemlBSHlJdG1GRE9mdnhOcGhuajlfdm5BRGk0aUQwQXItcmUxMWNnajhZMWtsd05qS2ZsMzRENnlzcDZ3NEdWeWZ1S3IxNC1LTXlpT00tZHJhM2VZc3lmbXBCY0QwX25nejlocEpzQ2xHeVRBUGRYMmNTUdIBtgJBVV95cUxQSGpxNi1fX1NWUkVzSzdwSmIzVmtidGhrNGNUYTRNMWprbXpqQTlVZWhpWkpXZHNlZDMyR3JvZGpINVRTTkg2NGdnMU1INWQ4NEhGN0VlcC1kUlE3V1FvbzRpUm0wRnRhQmlMS2g2T3NmVHVWdDFWYWdfN3ZuTlZMekQtRGhDOG5oTUQ5UEdjQjlwS1dodndlRTFUSF9OelZkX0xKT21vMWVlN3ViSmFZNjRoS3N1QTYxS3pBMFFlTXFtRTFuV2piVUpzd2ZpNU5SclBNUzdybUZxZzFKRklUV3Npc3ZaaXg4cC1lUHkzdDFMQURkbTRkZ2YwRmJRWEFfNm9TNWNtU0NzeFltam1SaU1hQUs2RGpET3YxbF95RG9ySzNPNFFlLTNaeWNaLVdTcjhRWURn?oc=5",
+          "published": "Mon, 28 Sep 2026 15:45:32 GMT"
         },
         {
-          "title": "El Oviedo cree más fuerte: victoria merecida en el derbi asturiano - Diario AS",
-          "publisher": "Diario AS",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN1FrN1dnc3ByWjYwWWVMSDVZXzRsd2tvWUE3b2RudjY5NTNjaENrckxzb0dsOXhvQ05jUTZjZWRJai16QWo0N3ZZcWNfTWdTSUVMRkd3V01sWFZ1LWJabldlUWlZejhMMTlaTVUwSVd0QnBNc20xeGVOcC1OaGdaYU4wZGx1S0dycEdTOGJlTXJPbkNRNUs1aklDXzk4YVNMb29OLXdOTTBDd9IBvgFBVV95cUxNVWR3ZHMwODBqM1huSGQ4djRUMjBraEhIbF9RcGU3MXJqWDNnTTB4M2trS3hGNnhxZ0ZSOFpJb21oMmRxcjFDM25yOUMydnF1TTNaS2twM2t2TnE2LXA2QUZkV3FSSFZlcjhhS1NmSjdRc0dKaG5TNXZxUUtUTU5iMjF5QTMwckdFdnptb3pnc3B1NktOZVlmYll0bTltbDNYYUNXNHpkR3hSMHdHMnNEaDZScTlRaFFNTFlCdGhR?oc=5",
-          "published": "Sun, 27 Sep 2026 21:29:07 GMT"
+          "title": "La Centuria Romana Macarena interpretará el himno de España en el Sánchez Pizjuán - ABC",
+          "publisher": "ABC",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWHYxbGlNSmwzZlNCa3Y4QzNTNl9qM2xkV1dUV1c4VmI1aFA2cTkteDhKcldVRHpEZWVCa2Z3OFNGb2hjc1lLTHRJWUwxN2YxbHA3Zjk3OU1PTjUtR1N4ZzhrODlaZEhUWUdrNWdGMFQ3QXJRM2Y5ZlVFX2d4ckt1VzgxYjZxZndiZ3V0WVJrNkFHTVR1NzBYbTVTSzFBSUlaNjZsNl9YSEM1OVFIZnNSV3l2YmhwNTlzYlBQY2VmVWQ4ZnNzemoyUXl4SDc0XzhvWUl6T0tYaTdRU1B0Ry00VVctWFFZbXJOTnFR0gHwAUFVX3lxTE53Z3lYMUhhajNfUElFZnJUVW9hMkY5dXpsOVdZVzZGMWZrdEc0aWRfQVlVN1ctSWhCdjZrVkE3a1ctd3hLTHBqUzd0clREdDlBZjZrSHZuNmZ3WDBrdXU0Vk9mdURJTTdHVkFnRnBLYzVtcElFZlBwSWMtMnRpODROZWNsUi1LNXlhQ1dDeHNmZ0VUM092V25MOXRXRzUxdDIyOWtlTXhjZlgySG9jR21GZ1ZJSVB5dlVnbXBUaklBMl9ZMFNfTDUyb1h2NWkyTGV5X2lIeURfMWJHSDJlSGxOYVpCd190REdQODFjdm5fSA?oc=5",
+          "published": "Mon, 28 Sep 2026 20:48:16 GMT"
         },
         {
-          "title": "El sueño americano del trabajador Brandon McNulty, que gana el Mundial en Montreal - EL PAÍS",
-          "publisher": "EL PAÍS",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN3Z4Uk5XbE9waGxEdG5sV1Rla1VkT1kwMTMzYlJ2VlE0VWp3SWk5Z1hGOUlxVThPdkxoZzY0UktMQXhCaXNoSVVpOHZva1ctdUo2alZHY0hBMHRXZTU0MFl0emEzRjZCT1laUEEySGoxNEE3R0hsd3NGelhTZjFmRlRTa0tpc1Z5VUJZRWJXd1Fkai1ncFYwOVhaSHpIdHdTSWd6bG5yMVJNQ010N1BXMTc5RHE2R3c1YW5nVVozWnlCWjBlQVJYZ3NMNnh5NlXSAeMBQVVfeXFMT2RnS2FnRU81UVpvTklLODk4YkNGNDZEVU1lU21MS1NxLXlMQ2xIc1JOM1dLNDlzeUZpS2VvYXBKYjNwVnAzbUp6d09hUmtiSF9tN3dUcjQ5UktiTDZsb3lVVnk1OXBvUUd4MDU5cmRKTEJsMzdSRkpMX0JRMENMa0lXRU9zWjBJYlBWb3FRY25tWlBYcnlrVjN0ZHFoUy1kTmg5TEZMSnMyOWlsRl9TUFVUTjlZZ0xPQktoVDNndzNYSkZwY3h3Sl9vZ2NpVVF6cHdTeWQ3a3JtVHRlQkJOamV6RE0?oc=5",
-          "published": "Sun, 27 Sep 2026 20:30:07 GMT"
-        },
-        {
-          "title": "La Europa de Alcaraz conquista su sexta Laver Cup - lavozdegalicia.es",
-          "publisher": "lavozdegalicia.es",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY1l2MUtYU1RBRmlORTg2OTFGeVI2T0hEaFgzeDVCejdRN0ZRNzJmWkFhMXY1UXBwWGk3SXFtVTJaaWJIelhQSmNQYUExbnFDOXhsa1pKdTlGMUxRSmxpenZsSExNSUFRbWtERjQ2Z3QwZFJ0TTY5azBLM01obmNqYUVQdm9rRFl5bmNkWGRjNTVROHZWY2V2WHc2cFB1VXB4Tk44X3F2U0Y2UkZEdXE3UUdkXzZsQlJHQzRfb3RVbWw5VGMz0gHgAUFVX3lxTE5KWnlTVEVuVFloQUlXcHdQUnJabGJMR2JuSkdHXzRwVThtV2RqNzhfNHVudzVGRVF3WTV4VEt6RDRubDROSGRJakJIYWNwbUxaZGZkdHhDUkFTak5DcFUxclc1S0o3TU9UV1NEV3FaMDhaU3BoNW1ISkhUdmtQamh5ejBSbEdyWXhFdk9NUTdnRVIwdlg4RjBuMUE5VGJFZUZkek5lb202WUdqUEVaWFplVHlVcTZKV3prQllacVhfcWVGWTJTS3NmVXZtWEMzRFA4VnhaUEVCVEx5a3QxVnV0?oc=5",
-          "published": "Sun, 27 Sep 2026 15:39:27 GMT"
-        },
-        {
-          "title": "Cómo ver Noruega vs Portugal en vivo: canales, streaming y horarios de la Nations League 2026/27 para España, México y Latinoamérica - DAZN",
+          "title": "Cómo ver Bélgica vs Francia en vivo: canales, streaming y horarios de la Nations League 2026/27 para España, México y Latinoamérica - DAZN",
           "publisher": "DAZN",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSGVqbGhaajZicUFzOXI3SkFyMEVOTjBSbzRUZkU5T2VBVDk3LVRnMV9XaXN1VGplYWNCalRzMGctYTAyM3VnOXRISUJvLTZUZzF0Um5LOHRjbXM2czZ0cHRqMmU4LW8zVnJ0ai1YalEwTU1ab01FQUZQRnhVcXlSakFadEY4Z1pTMHQzblJxMWFEV2dIRGhKSEhadE00NGhnUHpxZm1hbGlVdTlCY21ZdllkZGJVUDd4WHRKYU8yR3BlSVVqOHp6NlJIU2pIY01xRmR4RUhUTFJJM3JnN0hSb0ZlR3BxWHRZN2JiVl9Xc1hKaVlSaEJFTTBXRjY1RnRXLUE?oc=5",
-          "published": "Sun, 27 Sep 2026 14:00:28 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcUhxdU5SSXRjZGh6MkFIOU9Fa3RON0lGandGZUhDUVlmaEI1Z2tzQi1QbUpEamV3cUF0VHc4dFYxRTJfZnFpTFBaS2dhenVWSEZTalgyak1VbTJLUXlVN1djSG1JZ29TMEZ2VnZyM1o2SXk2SWUwNDIzQ0tYai1PR0U4S3I3RE9ieFU2NnJyNlBnUE81UW8tZ1h4MENUUHJnWU9FS1ltQ2I5bjQybXhRS3h5Y0NWMHB4R2hkOTJ6YzVpSjAxYTFJaFUzaVl1TkpnR0kzQmVQTENPLUsyeEE2Ti1PNkNMS3JwQVNCa2RpTWRUMjBFOUE?oc=5",
+          "published": "Mon, 28 Sep 2026 14:36:17 GMT"
+        },
+        {
+          "title": "La suerte está echada: Lamine Yamal estrecha el cerco del Balón de Oro al límite del cierre - SPORT",
+          "publisher": "SPORT",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXpadkpPbVg2bUFFUGpjU3JyTDhuZVNQVE0xMm4ycFR6MWVfSzRWRmh4RjhMY2Zpd0gyTWRjWnpMYXF6c3pZYXRCd1E1UEhzZHhrcmFZaThfMEJxMjRLNHpzWHBNeEc0ZHNHYThYczZ0eDVEWEV5ZUdyRFRqR3RabzNUemxlbF80NVdkMW5GSGFTQzFrbWc1VnNRVHViVmfSAZ8BQVVfeXFMT3F4aFF1a0pMNVNlUEJwYVdVdTR4blh5Qm14M3NQWXI5Um92Nldwb1Rra1dyQ0lXcGFwMTdWMUpERzkzdkJCVGdSYzNRVFJianBXbU9OSWNSSEpPRDFoenZUNExQWUpOMWt6ME5WdVBmM2ZEb3NxSDhyWkFYWTBHTmNZUmhkUW8zWkY0RzFEeHRyb0FWbzhkZy1VVlJtdzBJ?oc=5",
+          "published": "Mon, 28 Sep 2026 17:35:51 GMT"
+        },
+        {
+          "title": "El Eibar de Aranbarri hace historia - Diario AS",
+          "publisher": "Diario AS",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91RmNUNWlSUXRLRHJlck9QV2ttYUs5RFVDcWhEMUdEYU0wdEd5NE8zblp3Y21mMFlDTk1taG5GNmVKbW1OS0dkY00wc0xJc2xiUVdqMG90ZWRZZE5kUUswQW5UTVB3ZUk1b3hmWUhXc3ZoMlhDVndR0gGLAUFVX3lxTE1fcXV1YUkzZnU4RkFJM1BPZ2FtaGdSZmNkNGQ3M2VGWEt5bVBGaGVjM3pSM2trbmF5WlVkTDNwNUNnVklCU1BmbmtZOE9OZnNQSmJJazB5Z0V2NXlsckYtd2V3bGZRSHZUMjMwQTYyaTkteTB2TnBUZlljb2lmX2MyT1dYS2lEMDQ1MXM?oc=5",
+          "published": "Mon, 28 Sep 2026 22:40:57 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Interior delega el desalojo de Sol en la Policía Municipal salvo que se produzcan incidentes - El Confidencial",
-          "publisher": "El Confidencial",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaU82aFJjWVNLdWxXMzl2UDE2V2JBTjhmbTRuTXdXMHF0MEk4ZHQ0dElReVAxR2pVTm5pZUpFeHV2aVQwalU5REVESzVmRVd6alV2d2VYZ0R6Qkd1cXBwM205am1nMnNqVk1fbHhmV0JabkNEUlhaNjJITk44TW5LQ2pEb0FuT19pQnRyUXdHYUVGbmFVamc?oc=5",
-          "published": "Sun, 27 Sep 2026 11:15:00 GMT"
-        },
-        {
-          "title": "La Policía Nacional desmantela un asentamiento de inmigrantes junto a la desalinizadora de Ceuta - El Mundo",
+          "title": "Rusia bombardea la Academia Nacional de Ciencias y un gran hospital en Kiev con drones a reacción - El Mundo",
           "publisher": "El Mundo",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oUzQ5MVBaWnhYX0hSX0w1MG1uTU1xeWU5NGFIU1VHMVg0MEtXLW01MmpTcXh3d3lGVS1iUDFYR2JOSUhKUjRnaXRkT29FdEdORFpyYTVYWmtrNnE0UEE2eDdyOW5HWHBtUmNCSmg2bFZfbDkwcm5LTG1R0gF6QVVfeXFMTTdYUWVTc3VuUm5qUUNZclkyc05Xcmx0b19RY3FDaEY0LWlIU2pqWXBBNUJ6bGlDNlVFamRGOGdtckwtblZHdF96UlMzQ3VGc3djeDVlc3g2dWQ5a2haYkpzRUNoQXQ2RTdHaC04ZkpVc0N5dWVUYlVQWHc?oc=5",
-          "published": "Sun, 27 Sep 2026 09:43:17 GMT"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmlUOUkwaVY5Y1NnRFU1U1hUdThTeTlPV25LZ0s5VS01RjFfVWRFZzlINW9qSmZmTjlSQ3ZYemozZ2pjSTBqNHpDR0tMNjIxTUZCZmttak8zbXpHQWtFZjVicnB0OU5qN3BpbldncENFTElGVUtMRHo1N3o4Q3pJOWFIRdIBgwFBVV95cUxPYTdjRWRIMkJRT3ZXYjBzSk1HOEotU1ZpdFhIM2lncmw5Y21OWl8zaTJuOVdKd3k3cUY2TFhGNXllQjc5eXY0MndvNHBldE5TLU5namhIMkRrZmxPaU1GdFZoOURXNllXQkpfRkpoTko4QjhEdDNuN2ZoRjNxSW8xa2xsWQ?oc=5",
+          "published": "Mon, 28 Sep 2026 19:19:43 GMT"
         },
         {
-          "title": "Adiós a los cables en el coche gracias a esta solución para CarPlay y Android Auto: Amazon ya ha vendido más d - Diario AS",
-          "publisher": "Diario AS",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaVB2eW50bmgxUTNrU2pYaWN4Z2FRYVd3a2sxYmlCczc2Y2ttNlNXby1BMmdIeExxS1hkQTZHTlk3bE5oYU5mM05POGQ1OXRiLWx5Z1NJMGVrOHJ6enFmSHZkTFB1X1Y4bGVJMWdNYWVDOVFtblg1eml3UGlCZjBtblE5aTlXRWZlZG9XcGdTOThjemJiVGRMSWNEYW11QdIBsgFBVV95cUxNUTVRcFR1bmthMnh2cUxBZWdSU0pBeXlpZmRMRlc0OHdnaDV4OEtpbExEbUl2YzBrQUU1Nl9YdWxfOWRCeUQwVVV5VldGYkoxWm04OVo5YkVXeWN3QlQwdkY4R2w0OFZtcFdpazhiMTJXNEp6c1Z2SXNBR1VQc194eTlsOWpPREhoMGVpQlduZU1oU0M2ZzBlUUVNLU5yQnRuTWF1LW9GdjVtelJDLU8xeUJ3?oc=5",
-          "published": "Sat, 26 Sep 2026 06:00:00 GMT"
+          "title": "Ricardo Alonso (Urbagestión): \"Maricarmen jamás quiso negociar, quieren hundir mi empresa, soy una víctima política\" - El Economista",
+          "publisher": "El Economista",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRnBaa05TaktKVk4xMHY3SzZZSi1CZWFuUU9vWkVLci1tOE5fNTB2cDg0ZU5NQmhOOEJSNUVKbGUzanQzWkpjTmo2QmdZa2xDSXJ1T2dqV3NWY3NObm12TnJiSWhFTWtGN3REZ1dIVUZOd3RtMUdBVjVzSklocUlhZDhXS1JMZlNRNWM4Q25ld2NZeExuNVlYRl9COHE3bjhwWURPNUY0U2I2cHVOblMwdnUxWHR5M053OE9LMGVORmRJdU1Ldy1aS1Byd1hFV2pDdm5BR1RxT2ktWjVsNXBMdGlrd09xT3RQRjl1aUhhTUtMVHdNaUxKMHlCRUtTNFYxRWdHN2dQMUY?oc=5",
+          "published": "Mon, 28 Sep 2026 04:00:06 GMT"
         },
         {
-          "title": "Bill Gates, fundador de Microsoft: \"La IA sin control podría provocar mil millones de muertes\" - 20minutos.es",
-          "publisher": "20minutos.es",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZU90Q0xBaWdGM0F3M3RoZ0dPQW56RnVfU09lT3FRQlZxZHp6UXh3emNpV2pYdVVKZlVVRE5ZTVlUbDlsUkJNQ2pWQnptV0g5b3VpQ3FsWHp4VmZ4eE5Kal9tY0JDeUI3R0NhQlpmaXlwUXI5NmNoa0FGQ1NTTzZzLXdQMFYtaElQODlhMDdPSWpOTnNmeEVwV2pvM1BENUlDaFpiVTdXdWpVbGZBNHFSTE0zMGJnR182UjcyQUstMzNRMzJpN3Z6R0ZyanE1QQ?oc=5",
-          "published": "Sun, 27 Sep 2026 14:37:24 GMT"
-        },
-        {
-          "title": "De Pepi a Maricarmen siete años después: dos mujeres vulnerables y dos desahucios que movieron cambios legislativos - EL PAÍS",
+          "title": "Pradas ofrece al Congreso un nuevo audio enviado al equipo de Mazón el día de la dana: “Yo, transparencia total” - EL PAÍS",
           "publisher": "EL PAÍS",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQX19TMFdYMlR4SlJJR0JHUlIyb2dUZFF0UUphSVR5dDlmN0xOd0l3eklWcXVOa1dYamhjTFh2bVJDY196TkxJRktUbTZtYkxzaGJIczQ0WWh5cHotRmhoZ0JrNW1uYkxzRE5ZT1RtVkpuSDl6ZzFlemtKRmJRWUhobmdscWlhcmhCNlNkeHRiYnJPTXZUSlRmZnVraXc0bDc4ZzJNTUtZckp6bjRBeWJ5Q0cyMDNQWUhDZFlkRVJONDM5MFZPV01peGxwWHBsejA2MzJBcU1HOS11WTdobFdoWWJ3REVhLVRSWXdrTW1yZEFCV2d4WWfSAYoCQVVfeXFMTnhweVVSSmdZZUlvU1lxTkkzVmk4RnljM0dRRzZQM0Jpa1ZOSHB5M0NmU2VBcllLSng5UTBDTjY4Mi1VUEJRZ3JqZEFWY29DQWY2NE9pQWRoSmZpUTZ0VXVtNlVrTHlYaF9ZMDRfWF9DUVdGUXZXZ3l6VnpEeWpHdmhSVjM2Qm1DUlUxZHYtTjZsb1lVQW9SM0h3c0E0d2RhdmhUTVh3VXhMOEdESXpTNXFBTVJERGxYbW9ZYTMxU09qR296R0FEZ1VhMFh6TC1TZGFET3Fvc0VSaU1aVlhfM2Q3aC1zS2F1bjNRM0RsbzNtako0RUZFc05NU2hUcmJYd3pEZERFMkhYZEE?oc=5",
-          "published": "Sun, 27 Sep 2026 03:30:01 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGptUnN4TXFDNHZzUWthOWFZZFUxbHhCWjNzTk1LRGxuNGtqNkRCX3Y2X0M1V09fandFVUFsOC1sYTUzQ0FmcVBwQnc4TkJKMlpnWFptbDBYWmJwWUd2UHRWaVAybkFUaWxoMC1VVGR4dzVDcUtnMXprd3ZNMldEa1ZHUEZxR2NoV2xvel9xeUNKbnE0X3ZfUUgxR2dhRkUzcmN2dnRGajFDM3BrZk14TkFwS0JUa3pEeXJhSzh5d3YwTmRYSmtlSkxiWVR1UEnSAeMBQVVfeXFMTVk1dDc1WUVyMjJXdXNLYjZ2eGplcVZfVFlYSWtaTzMyeGk2c2VKc09HM0IwcUp0U1BiQ0ZWUVZTcXdvWU9zSkpPS0pWazV1QW8xZUZ2UUEtbTVHQlFRdkpuVUtWZnI1LXZGVk1DTkxxeEU0UGNtNlN5bE56T1dhQ1FqWUotUWU5dC1FU2hxMVZBUk1TYVdZS00tZE9DTnA4UHVaMms0TVdJQTktaG02X0lERUNyeTREUkhKSW5tdEdQZEh5VnV2OEgya3prY0JNLUNLUVNDN3o4SGZWWW5kWVlET2M?oc=5",
+          "published": "Mon, 28 Sep 2026 08:45:21 GMT"
+        },
+        {
+          "title": "La IA quiere jubilar al móvil: cinco acciones para invertir en la próxima gran batalla tecnológica - El Economista",
+          "publisher": "El Economista",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOaTJ1OGM2RTJmUzM5Ty12b2tiVnFwRmRraW5JLUMtTUFScXhrQUZnZi15Z2wtY3lpSTQzM3Fmd2ZpTG1mS1dBMy1PLXRyLTlTcVRrcTJhdE9NMjR1NE9jZkhXX19ZNGhuX05EcVc1U0RzQ0tmZi0tVE91dVc4bEZxU0NBU3hhWGVBUURFVUhHQ0p5NThGUWhjU2VnbS1yU3oydjJkLXpFVl9JbDc0eldvUlNpM3dId1d3OWJYS1BTaTFMUExtRFNPbzZqYjhHdWFodlp2d09qTENPTkdxaHF2TDFMV2d0WEZlOXFpXzJZTEZuMDhqNmkyeUVjMm92LVdEeWlYOTEzb9IB8gFBVV95cUxNTi1YckFiaUZhSXM0NklhYjh1Y2V6eWFwcXVYYUo4SWRSTlhmemJYcjg5bXplcm14R1NZTU9kN1VrT1Q3TndkMF85QV9la09ic2RET3FIZHQwRW1EVWJCZE9GWGEteEJpSlRudGJjT2FXWEFOYVY0S2hyc3hyUzhqYW96ejE2WVl4MG5iTmRJOFdTYmwtLUEwYmxvaGQwWHY1OGY5RW5VclV2QVpPNDBGRjNVaUo0cE1KS1NiMVl0SGdrU18zS1dSSDZkWFFuQlRMNzV4LV9FSi0wc2NpSVNISTA5MG1rdlJtZ0xlRzAzZzUwZw?oc=5",
+          "published": "Mon, 28 Sep 2026 09:25:08 GMT"
+        },
+        {
+          "title": "EEUU investiga si Moncloa utiliza a Indra para filtrar a China tecnología militar del Pentágono - Vozpopuli",
+          "publisher": "Vozpopuli",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTFp4M0ZrUkMtYWpzdkJ5UE5oMkQyTTdlTmtjQXFBeWNUYVpJWE05eURXRTdlVFJpcGhjRl9UNVpJMW9FekNINU1oRWl5eDE4NjIwVkw3V19vUEpDNEpfRXFHMjRMQ0pCTjYwV1RzS05Oc3NIT0JQMG5LRTlWcG5ER3VqcFZjMkZhdnN3Mm5xZlIzbDBXYmhFY2pBMTNfV3ZiXzNibzBGVWxSVmZsUHdRcEphUkNiZk8zZlFHMzNOZUkyanlLNXJyaklYcDBWMmRWN1h6SUI5R0F3dw?oc=5",
+          "published": "Mon, 28 Sep 2026 02:45:00 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Manchester City versus the Premier League: After the day that shocked football, what next? - The New York Times",
+          "title": "Soccer-Infantino orders FIFA funding review after UEFA, CONCACAF seek $2.1 billion payout - whbl.com",
+          "publisher": "whbl.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTRGSmVNWGw0d0ZlYmRJaEptRlZyaGFvVERpMnNMQjRTZEdKcmNRRnRYbDZDb3NqQVJFRFZ4ZGhsekF6WXBodGlQX3haS3ZHU3JVZHhLU0hfQkJnRFU1NnZnMkxsNmI2MVIzMDdsUGhqS1ZjOHp3OTJQTzRNWXZVaHkzbFhwdzVPbzUyVWI5a0NSMGF5TXBDNXU5ZzJsb2x0ck4xX3oxZ1lVM2dNSXI5NlpKVzdITFU?oc=5",
+          "published": "Mon, 28 Sep 2026 21:44:40 GMT"
+        },
+        {
+          "title": "The story behind Israel vs Ireland: Bowed heads, black armbands and a one-man boycott - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOenUweFE1bXhjMU5XaHVURGZWdVlEdWFDV2tjMW1EZy12cS0zUjZKcWEyVWZ6UGhvT25oNm4zVE1YYVc1Y2FQMm1ZQ3FKZk9USnM3SDFIczVaX2tKQ1hvQWJkWDlRUVJKVzdFNk1paHFYRXFGVTJDWldqVV9iejlkT0hnOFpkZnczWlRVcUowNDdKemgwUHlTZVBqVjNUZw?oc=5",
-          "published": "Sun, 27 Sep 2026 18:48:06 GMT"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQempjYzYwWTZuTFZ2YmpSemMxQUFuRVMzRXhYam4xQ0FhcG9iVjJ4VTU4SVppRnlwRnU1eXJrc01KS1h4cFc3dVFJd0FmQ0FwcU9BTml1MFlhTUhpa0xuYXpmLWJ3QTBBV2dPYkRDSnI1WXBaZkdaV3FJN19FcGg5UGh0NA?oc=5",
+          "published": "Mon, 28 Sep 2026 10:48:51 GMT"
         },
         {
-          "title": "Ceferin: ‘Political interference’ in Italian football could ‘undermine UEFA trust’ ahead of Euro 2032 - Yahoo Sports",
-          "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUVMb0JBb1FCSFRJV29yNzN2ME96dlFwUFZvYW5POFJwaEIxc1hnNkxUWEFNMDY1ekdNbl9zeTFhOHd2N0ZFSHdwQ3RSeVJVZTU4ZmdDU0poVXk1ZzRrUkgzdmdNaDEzOUhVRS1uNm9XRktwblJKTDhwSnpjRm9OM0tVM0E1ZFVITVVrNlpYMnNIbkV1enhvcDB0UFk?oc=5",
-          "published": "Sun, 27 Sep 2026 08:45:00 GMT"
+          "title": "Women's Champions League Fantasy Football: Matchday 2 tips - UEFA.com",
+          "publisher": "UEFA.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcS1jN0lnanZFQjNxb1RrN3cwd3NReFNBczlJeGlhUjFKcGdmX1RSYzZCYUJ1VmdLbjZVOUNiOFA4T3Z1Ym9Mem5SbzV4VGNTc3F5Z0dBWm1PUVU0Y1Vsc2pCRTRTOWN5NFExMHZmcFVzb21LN3VMdk5xWVRPa2pMbjVBZXNqbTJ0NGZQSk5QdHhjTlNEZjUxQVBoQmE4bE1IMWNweHphUG5tSzFHSTRuQlhZdmZsLVhVY1dMRk1NRnpRd0luYktfZmpmRjhvWTVQQm5nQXV3alpta28?oc=5",
+          "published": "Mon, 28 Sep 2026 11:01:09 GMT"
         },
         {
-          "title": "Ireland defeats Israel in controversial UEFA Nations League match - Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVng1Qzd4Zm42QmRDX2E4OGpnczhGWnh4eWRCZjA3RGtaTTAtWUNpRmpES09tdllCUEdGdDRlY2xxV3FSbDNSNFFkN19mUDh2d09WRnlYVjNteHBkWjU3VEFNTGc0YnJYUG1nYS1KMk13Z281RWpvdUptN1hadHdzbnhreVFQN2JHbHZZSVlVMzExdDU5bXBWQl9JeUNlQlppX0kwTWx5UGlOWFFo0gGyAUFVX3lxTE5RU3A3alRYbG9BQlllWmlhbU5MREl1WkZ6bFJVeWJRMnlDaUZqS3VMSDF3RXNhOFdTUE9jSlo1M3duVi1XNlNoNlpxcXlHaGxSSGZZVENpNnlsRmoyN2RJTlVsc1B1YXBrU1lVWWI1WkZKdTZ3Wlp5bDRrNGF0SmFQb1VMNkxvYmUxbFRZbEFOZk5SQU0ySU9wOTRQYVFhLTNGbEhwOWRfa0VpMXkxREdJRUE?oc=5",
-          "published": "Sun, 27 Sep 2026 21:51:38 GMT"
+          "title": "If FIFA expands the World Cup again, how would a 64-team tournament work? - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTdxQUlFYVlMX3B2LVVfYnVkejdTTXhJVVpqZ0F3ZWM5d2ZrdEV6ZFZESDNmWDhfNGdjTk1hOHlMUFRwV19IdXBMSXllRExDcUVZWWp0TXRrcWRaOTJ0dDhIUGRHa1JfU1BDcE9CTWloYnJ4X0VsbUdyTHNxTlhNTUFSdDFLUjVubFNlbXdiZF9CMWNWWVplbVVQQzhWRDlWaENjd2VQNkVGOEk?oc=5",
+          "published": "Sun, 27 Sep 2026 11:24:00 GMT"
         },
         {
-          "title": "Watch UEFA Nations League Soccer: Livestream Norway vs. Portugal From Anywhere - CNET",
-          "publisher": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOem9CZVFKdWtyZElEMDBuc1h6cUQ4WFNFSi0tYUZRal9LUlhMdkVuSXJUZlM2MlB0SExxanFLQmduY1J0dC1JWGtWVnlzbGlMUnl5ZU9SWnBjMW82WFF6NjA5bGhzNUE4QmVoLU9Mc2VIeE5BNkZvNVVta0xBbWwwN3Via3lKSnNzc0J4dWNXcVc2WG1pNnNZb3cxSWstSkFOaUVSVFV5TkxjX3lIUkU0OGJkY042RTVOZlVBTnBDUk9ZMVk?oc=5",
-          "published": "Sun, 27 Sep 2026 15:45:02 GMT"
-        },
-        {
-          "title": "Manchester City charges: What punishment could club face after Premier League verdict and will they appeal? - bbc.com",
-          "publisher": "bbc.com",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2T2d5VVVPaVVsb0hjTjRMUVlvZGUzSVVjY3o5NWZuR2NYenUyOVY3aE1GWUM0Ykh4dkZuY1gzZ0h4emQ4QWVHWjlPU09hWDhmcmlSbnNXcm1KejJEVmp1V3pVcEpnRW5F?oc=5",
-          "published": "Sun, 27 Sep 2026 14:24:46 GMT"
+          "title": "Retired Soccer Stars Are Cashing In — Beckham’s $51M Payout Tops World Cup Prize - heavy.com",
+          "publisher": "heavy.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcGNBTzBFQnpGOWF4Q0NqNk1zMHhEUDl0Mi1PbkJOTkVTQ2EzbVhDQ2pELTJ3NHM2ZVVLTzRibV9GX0xGQmNxTk1zdFdnVTNlQlpoQmFVSmJXSEI0dU0zV2VtM2I1M2ZfYURBV1RFSEZiVmJDSmpfb1VLMzJKSEQxRUtYeHJHZw?oc=5",
+          "published": "Mon, 28 Sep 2026 15:44:07 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "The Best, Coolest, and Most Unexpected Looks From the 2026 VMAs Red Carpet - rollingstone.com",
-          "publisher": "rollingstone.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbjBZMEdVQWlvSkJjenRKOEZsS0NPczBDdGdYbXhaT3RLZ1FlZHkzVEpMTkZ1NE9PdE5iUHp5ZlF3eHE2X05TOWZrMVoydkQzbmt6bWtwZGx5dDdqMTZ6Zmo1cFFjakVhVWRmM2FjUThPeWpaaVhSNjNycHlnZ19OVFZUVDFSSng0RkZ5bURWNTVxS0REWGQzdg?oc=5",
-          "published": "Sun, 27 Sep 2026 22:22:48 GMT"
-        },
-        {
-          "title": "'Avengers: Endgame Encore' Scores Massive $86 Million Globally - Variety",
+          "title": "CBS, MTV 2026 VMAs Ratings: 8.4 Million Viewers, Up 51% From Last Year - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFVBME9uTm84RjY0d2ZwaHAwWFdPSC1kVVFwMVRFWVQ1cGdtanNyci1xeUR0VWZ5eEQ2ZzhUR25WTmZFLVpBRVhOb0ZHSkFIbUZybUIwV2xxRzFaWG1CVjRBVERyT0V5WjhwRWw1NEJ6OHRMUTh6OXhtVERrUW41cTMzUnZCU3FwQ0J6dlVZOXRSNFp3SnJoa3Q5OUJvS29vVHBLRzAyTG5uYWlTQmQ0eWpmTll3WkEyTXM4VVpfWQ?oc=5",
-          "published": "Sun, 27 Sep 2026 16:16:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUXZMeDNPOHQ0MjJWMVlueGstd0toUVpLdldUQzJHNXZUb01QT2pTRjdoTDV2RlE3MHg0WDV2Vl9MQXdBVk84YnpweHlWaVc5ZXlnb1Y1enpDY1VweUhXLXVaNWdXazRUWThwUjJPRGEwRGoxeVFvcWRYUGx0ZlB4akhmTmp3RXItSzBHWWYzWE4tWTVac2JPRHNEbjRrdURnTjFN?oc=5",
+          "published": "Mon, 28 Sep 2026 22:00:00 GMT"
         },
         {
-          "title": "'SNL' spoofs Trump and Mamdani bromance, skewers Natalie Harp - USA Today",
-          "publisher": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONVRrbE5CYzlRazczV1ExaF9ySHQwWDhIYk5wczhPbWxuaWJicWZwcXViVUZqU210c0YyOGlNcUVCRVFvc3BiOGk4SXNQWTBrdVFuWE5PWkZkMXZHNUxmbFdGS0x3RE9HV3Rfd3gyWEEwMEwydkFvd29BUjlHdk56OEdnTm9KeVhRYmFuR2NmVUpUclFVRXRocWpBdnpmS3pQdWFlMU5DY005RDBZMXZrOGQ2RUtmTF9ITTdCc0d0XzhHQWdSbVkxcVo0d3U?oc=5",
-          "published": "Sun, 27 Sep 2026 19:57:00 GMT"
+          "title": "Beloved TV star welcomes first baby with Victoria’s Secret model - pennlive.com",
+          "publisher": "pennlive.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYUhuNV8xaHdlWmJrRk43S0lJSkZYMWludmkxbUw5dllHS3VXdjlqaEE3MXVqRFYtUnA2bm9zZW43RDR5VTdxYjB5cm9wYThLejliQ2JPSVRvZ09vaDE4TzBRdHdXdnMzclhJVllMcTB2TTFBT3VrRml4ZHhIajJPSW5iVl9EM3A5cy0tSEhqYTlURnJ4cFhRWmRfMkQ5WUVLR3RlT2IzT2h6U2R2eGNCZ3VuWW04aWNwazZJ0gHPAUFVX3lxTE0tM3c0SERzRUlMTmRTVzA2T3lzbXdrTlQ4ZW9iYk9MU2IxS2ZOSm9iSnVpdmpkR0lGVG1ZMkVWakVabDF3QTItaVZJV2xqbGJxbXVzZjByTkpWbTAwbGVrekt5bE1sVERWWWQ3bXRmMy1iSk1jNkdob2RqN1M2Q1UtX1Ficm9leHdlWE5tbDRnZnNCbFIzNm1hbVFZdUlxakhPdHJ5QTZYeUk0SWZIU1lfNWt1eTEwVTVZNm81bkxlOFdXNHJiWnN2MG51U0hrZw?oc=5",
+          "published": "Mon, 28 Sep 2026 22:01:00 GMT"
         },
         {
-          "title": "Taylor Swift is set to break Beyoncé's VMAs record tonight with the first Artist Director Honors - Yahoo",
+          "title": "RAYE Clarifies She and Michael B. Jordan Are ‘Just Friends Who Like Rollercoasters’ After Sparking Dating Rumors - Yahoo",
           "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObDUzYWtIMVNNR1llYUY0eG5icG1jRkJOZDNJdERTUUVpWnQ5MGk0ekcwMlMzdWprS0VWeTNmWFBhWW1tZjdwX0duc2Q3aFJoVHNtRG5oRlR2Ujl3VlZma3htalJHOWhzNDZFa09oLVpXeUVMbmw4UUZRejZTUkdZMGdSU0hJVTVMX2pRRzdXalE2UjhKbFA3dUpxcmlvWGxiV3RnOWxrVGZxVlhHdm0yYjN0M3RzWUkxUE1aTUd0Yi1SbGViWHVCS2dOYW5DMnZXVm1uZm1GS3lEU2VIMnFCNUJFU081bEdNNTA5VUlqSlVNZw?oc=5",
-          "published": "Sun, 27 Sep 2026 19:09:45 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmE5Vl9MQU9XeUhQaVk0NW9FYkN6Z1g2OTJBanFMa0kwOFpsSzVTRW40Xy12Z05zd0lKM2M1OFg1TFpNNjFFSWExYUtESVNLOFphLS1DbmVzeV9YU1E0T0RobjRUQ0NuZnFfa1VpXzRHWkN2cXRXeHNWNm1EV3BCMFRINVM2d1F5STNJbm1wcVZmVzhYODY1Y2ZJbFBzLW8?oc=5",
+          "published": "Mon, 28 Sep 2026 20:35:40 GMT"
         },
         {
-          "title": "Rihanna Celebrates Daughter Rocki's First Birthday With Never-Before-Seen Photos and Videos - E! News",
-          "publisher": "E! News",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQREZvOXh0ZWtudnd2d2JneG13TlNOVkhFYkx2NkFuMEoyYjI5ZWZvOGxuckF4b09Id1JLS09YRjVXOUdrUktFanptVU1jQk5wbXVyQl96UWEtX240U3I0MlpjVnZMaS1qNDhxS0J4SVJkM0tiOFRhNktHX0hOUmJyblJVWDAteDBpSFA5OVZ1TEpvNHExcm5kSkxxX1B1SnVfSzMxNzQ1NUU3aVZ2b0lLVw?oc=5",
-          "published": "Sun, 27 Sep 2026 18:14:00 GMT"
+          "title": "‘Reacher’ Gets Early Season 6 Renewal Shortly After Season 4 Wraps With 66M Viewers In 28 Days - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaTFtajdWR29JNS0wTWpKTmxSSTlPZjF1TzRiRGE5Rmd5ekN5MURjNTRxQ2x2djFYeWNjMWlzSmhmWDRRaTlGU3YxT2tteHVhaGxXT0s4RlpvUmpoZ0NvWlRhclh1NnRxZERGbEpCQlRFa3VfSi00Yi1OaFlKbjZnNks3V2EwUHAzVDlvVzZ2bmJDTXQwcTlnam9YZjE0azVT?oc=5",
+          "published": "Mon, 28 Sep 2026 19:15:00 GMT"
+        },
+        {
+          "title": "Benjamin Satterley, globetrotting wrestler known as Pac, dies at 40 - NBC News",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZkxlengzUl9mN0VuTUVhVjFub1dfaVhlT0p0S1RTVm8zTU5JUXhBM1hmdFR2TEJlMWpwRG9MOTM0bml2OF9LcXpJbVNJYktfS1lPczF3QmNpcWtrMkh3T2hCajRKdEFJNWNvenBocXh3R3cwZUxjUXk5bTV3WFVMa3VvdHZtcWdmd2YwVWtUaVJYS0FPa3A0V3ZoNkZzYWVWWHk0V0VZb3ZESDlt?oc=5",
+          "published": "Mon, 28 Sep 2026 20:37:00 GMT"
         }
       ]
     }
