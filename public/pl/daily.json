@@ -1,7 +1,7 @@
 {
   "market": "PL",
-  "generatedAt": "2026-10-03T00:57:12.847801Z",
-  "validForDate": "2026-10-03",
+  "generatedAt": "2026-10-04T00:22:43.690351Z",
+  "validForDate": "2026-10-04",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "CPN znowu działa. Tak w nocy zmieniły się ceny paliw na stacjach - Business Insider Polska",
+          "title": "Seria wypadków w Tatrach. Turysta zginął, spadając z kilkunastu metrów - PolsatNews.pl",
+          "publisher": "PolsatNews.pl",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLXFjeU1GY3NkY1VENmtoWmpiRDNhS3NfbWxYX25UMS1SaDFRajE4LU5xOXNvaHRRVk1NUnZpQWdNWTlMbGI2MHRDOGx2WDJGcEhkVXA4UUJNWGwzYjFhRmJhZ1JyWHE0aktvZzFZVmZEc1dGVUk1M2FaVFV1dGJVdFlrVDZnNXpLYXRNNGtOTmVQTm5LYk5IT0xzMXkwWDBobS13bTJPejAyd0FiMkdF?oc=5",
+          "published": "Sat, 03 Oct 2026 16:05:00 GMT"
+        },
+        {
+          "title": "Powrót starej składki zdrowotnej i karta podatkowa. PiS pokazuje pomysły na gospodarkę - Business Insider Polska",
           "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDduWEdMYkIzVHlndV9oODdnWmx4ZlI4T09XbUN1NVpNbk1UbEpzTE1LUzJGZkM1Y1A1TVBrYWxGLUIzY2YwbS1CSmFscVEtMEdiLUQ4RXI4a0JTNklaTkxTSEE2NXQxTDA4Z2JBZkl0N1A2MnNPbldnaGJVQlVNN081aGYzbUtySjNjRXlLQUNfMTZMblA5Z1VLdVYxYW80?oc=5",
-          "published": "Fri, 02 Oct 2026 22:42:13 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTjVVTm11aW96VHhuRW5iZTZhd01QZHVIREZVUUQ5TWFSZzJUcVZyT3NKQm5ZRDhYQ2F4dkdWRmJxRGVxM3N2ZFh2UlVQV1JfY2xwNWhOdXNTTXZCMDVNRU5CSzVFdlRzZnhwUUllN2dwWmdiSFFVZ0p1c3RMSXlyY21OTl9aMkc2YzRlTll5S3ZiYUZabmU5bVV0ZzhhbWR2WWVLakhHb0RrSHNJNm5uMlRnZ2taUQ?oc=5",
+          "published": "Sat, 03 Oct 2026 12:36:16 GMT"
         },
         {
-          "title": "Tragiczny wypadek w zakładzie pod Częstochową. 28-latka przygniotła prasa hydrauliczna - Wiadomości Onet",
+          "title": "FA-50GF weszły w dyżur bojowy. Polskie samoloty wzmocnią ochronę wschodniej granicy - Defence24",
+          "publisher": "Defence24",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd0hsZXFmaUZOYUV4RU5WSllBY0VlcWpQLU9yUmhOTEFremJCV0d4WWMxdGp0akEzM0RLaVVSaV9XenY5QjhDa2N2bkkyODN1X01NRnZlbUVjOW9PWmloUGpwaGp5cC01U2NVVXRPMWF1TWFPNURhQVl1UnBYYTExdnFnMUtESU95TFkyS1ZpUnlRODNpN3k3R25TWXhvMFJ4YUxqbG5ETzF5NHZ5X1lqOEhyVk5uV1U?oc=5",
+          "published": "Sat, 03 Oct 2026 10:07:25 GMT"
+        },
+        {
+          "title": "O krok od tragedii. Maszynista w ostatniej chwili zatrzymał pociąg przed drzewem leżącym na torze - Wiadomości Onet",
           "publisher": "Wiadomości Onet",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVFluRlNGUWtkQ0JXa3owcXpuSFFEMVRXemc1SzlRcGxVVkhwY2oxTG1qakQyNXhDTzF6eEEyTUxoa0VlR0VJTkVPSGZwOFAyOFJBcVM3bVFYcTI1WUJsdkNNR1F5d1ZraVcxMzdQOGxRYTU2cVd2cjRRTjlfZmZXdnRPZ2ZWV1JRdW9NZ0cwUFp5QlNrWjNDT2ZwZEhfSWttY2dDMTRURi1mMHpxREtGZjZR?oc=5",
-          "published": "Fri, 02 Oct 2026 19:47:29 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcDRTdXRGZHNOYU1NeW0zOEwwRXB5ZUtrRkl5LXhMb0xScGRXSFFfN2NmU0gtMkpZc3Q4SUFuRm9SNXZWSXBKeFhCNEpzVHRwZUJlSmxkU0JZZ0xHd0pMR2NFWFFvTVh2TnRZMklWbzdVVFgzbWZaTE1vSk9EbXk3blZxbXZHd2NmMkpoVG1EeThhVXJ4WFhpQlY1dmN0TTRjXzhBRVN5WHFWaUEtQ3g2THlwT3YtTWNOdjNTYjBfZTFGc1VJVnFfSjhhYw?oc=5",
+          "published": "Sat, 03 Oct 2026 16:56:55 GMT"
         },
         {
-          "title": "Wyciekły dane milionów osób. Eksperci wskazują, co robić i jak się chronić - WP Wiadomości",
-          "publisher": "WP Wiadomości",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWWdDb3U0SGdmUW5pRkZfSW1pRWtvV18yQm0wUlUxd0d5aThhR1VGNkl6eFN2X1h2dXQ1N0xIeE9GcXppanp6Y1JkNTFSUHg2TW1KQXM1UkNBallwaThTR2liTkRvSGR6MUZSdDdWNUN3OGlkOHhDUnJ0ZFNhdXdGVG1GYzJ0UkdiSERfYWRmUTdsMEZQLVJjenhLNjQ5bDRGOHJ6WTMyb01ZM2ltWWN6c1Z0c2Zfdw?oc=5",
-          "published": "Fri, 02 Oct 2026 15:06:01 GMT"
-        },
-        {
-          "title": "\"Weszły w dyżur bojowy\". Szef MON napisał o \"nowych obrońcach\" granicy - Interia Wydarzenia",
-          "publisher": "Interia Wydarzenia",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3J0RmZETmVOQnA1R0R3RHRQSHBhSjc3UElrbnM1UEZzZ2xOQzFPTXMyYURPVHdvMms5cEdOSi1PdUVhMlJDZjViQ0I5WHRkdkRhQWI2OE1ULXUxYTlfT1lqQW9Zek1PNHFSVDlkWXpKcFhZR0tlWjJZN01odktwUWFxWUlOUkFkY1M4WHB0d3dMbTlRR3lzcy1iUEZVZkRTcDdDMk9IMlJlcnF6dnA3VGRuTQ?oc=5",
-          "published": "Fri, 02 Oct 2026 21:42:43 GMT"
-        },
-        {
-          "title": "Przejmujące sceny na pogrzebie zabitego policjanta. Ukochana żegnała go ze łzami - Fakt",
-          "publisher": "Fakt",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjg1bXRkeXFVUHlaMU9jbE9hNWdBeDFHUDBhajNuaVd3ejhPVmhkTHdGR0pzYWo3aWw4eHNkZENRaUViSTRfYTlqb0Q2b1N0dS1mck96ZFgwa0hzVmJYUTE5X08tcHhCbGt6U29BRy1lLTlVa2tZZnR1OG9iVS1XVElzbnkzZ0lhSWdfM2F2eGJhSHE3R0toOFJvQmVUREZMaWtrbC1qc3RCeU8zOVY0UWh4OVQwSEhkNjFOaktWdEJCekREcEE?oc=5",
-          "published": "Fri, 02 Oct 2026 12:36:24 GMT"
+          "title": "Przy autostradzie \"tanio\" jak w mieście. Sprawdzamy ceny paliw - Money.pl",
+          "publisher": "Money.pl",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZlZ2SXRRVWVscFZla0k4bkdseGQ1bXNqbkNfdmlBdGNDTUUyT0U3QUI4ejk5Y0sxbmdvbWRwRHdMMm9jWmxrUFRBaFR4X2pCZ1lSSlBrNlhRMkUzOWVrcTFBVFhwVXBjQ3AyWGh0Z240X01EeS0zTXdlZ1AtSUVvYkFVMXVTY1ZNcW5YeVQ0S0pnUUkyRG53alVJX1hzLXpPeTRncHpUYmhLbkFvbmtEdw?oc=5",
+          "published": "Sat, 03 Oct 2026 14:03:54 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Christa Pike w stanie krytycznym po tym, jak przeżyła dwa śmiertelne zastrzyki - TVN24",
-          "publisher": "TVN24",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUFmQjJ3OGR2OHU0YVlXbVAzSjJlQVVjVjVhUHExX1BwSWFYTkFsVV95Y0tHbmREMmllOUJRRDM3Xy1lNFNKclNIMEMwLUZsYUVSZW1BdzlhRUJlczFka3ZuWl92VTJKTkJsU3dKREl0czQ2cVhVRWdMNzN2amluM0pvMEhJZTVLOHFRSGxQdmUzcnJTNzNRem9YRGxTLWhsTWEwb2RyRnA4Qnl3U1lEZEdfQXRQTk1vN0M4?oc=5",
-          "published": "Fri, 02 Oct 2026 06:07:07 GMT"
+          "title": "Śmiertelna dawka nie zadziałała. Dramatyczna egzekucja Christy Pike doprowadziła do dymisji - Rzeczpospolita",
+          "publisher": "Rzeczpospolita",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVVRSRzYyLTktQzBzMXhURnB0U1UxV3lpSDZvNlJ2VmZkRzRlZGRYTVJyZTJ0T3NZMFRfaWZFUUVXOHB1NzVxUmNjeWxkM0hkSUFpWnBVSzhGS0dwSFFrb0cza29WUEZjLXRGLVlNRFprdncxLXNzUjZIejdwMGN3WG82T1ZESmE1empkeXVLMWNOQThBLVN0UEZTdkd0bFRmR3pJVjVxOVJHNmRyVTNJYXpLUU4?oc=5",
+          "published": "Sat, 03 Oct 2026 15:55:00 GMT"
         },
         {
-          "title": "Rosja nasila ataki. Najważniejszy most w Kijowie zaatakowany - Wiadomości Onet",
+          "title": "Dyplomaci opuszczą Kijów? Z Rosji płynie ostrzeżenie - PolsatNews.pl",
+          "publisher": "PolsatNews.pl",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNelhmY2NZS2tZVDg0a1ZjN1NpNFU4RGV0aE15V1VUNDQ0N2FfcU1HSHE1NGJMNlRJOXJ2VEUwZk5xNUQxQ0hNemgyRE8zMHdVMzZOQTRFaGpEMWMtNTZ5NzhraDRSMEc0WG1naGZxbV94aWpMRmttbERUZElOb2doTlk2MHhBNUQyVTBkN3VuNEphbUZiSUJoV1lHQlBqcTVpTzhFSFh5NnMwdw?oc=5",
+          "published": "Sat, 03 Oct 2026 16:55:00 GMT"
+        },
+        {
+          "title": "Wojna w Etiopii. Siły rządowe przejęły od rebeliantów lotnisko w stolicy Tigraju - Wiadomości Onet",
           "publisher": "Wiadomości Onet",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3VYRnRTS05kR050R0dybURDTDBjVmdfcnNmYW05YTBtd1FTejBtSEoyZ1IzQVZobEFib0czc3ZRbnNJUF94ME9Vdy16cnYwcmp0QlJ0aHdDQnZRWFJuOVFteXdqdHJycUx5eVlQcTUwN0Fuck92bDV1ZnpBa1RVanM0U0xGaEZaSDY5cmlOa0hvX2V0RUhfQUJoalRIYWg1MDFIWWVTU0xMOTZWcFZYag?oc=5",
-          "published": "Fri, 02 Oct 2026 16:45:56 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjE1dExoREZVUkpwdGYtTnpMM19tQTdBYVlURUYzcTA2LVhMTVVBd0tuNERVMHpNLWo4WWlubll6TWt2OGdxdDVPNFRGOU9LNjVrRzhrZ3FFZ19jVzJYMlNzMnpOMXdXaWhOSklHU2J6LWdacVItQjdJNmFJZExvYUtGTm9xNzRqTS03YnhNejczR2VmMlItYXdSMmJjR3B2aGt5dVh6RzNVMjEwRXRpYWdYWVVtTjU0REt3dg?oc=5",
+          "published": "Sat, 03 Oct 2026 21:40:56 GMT"
         },
         {
-          "title": "Rosja szykuje rekordowy budżet wojenny. \"NYT\": Putin nie ma zamiaru zakończyć wojny z Ukrainą - Gazeta",
-          "publisher": "Gazeta",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYnlWT2lhU2pudmlWVGJSTEN5UGN5dFRJc0JVX0RLd1hpWWxOYjY0MXZDa3p2emU3QzU3STExcmpfOGtzdzBlMzZPZTZaZ2tUZm1EOFhTdXhsYlF3SVZEbXZ3bXUzLVVkdDVaV3JUODAwQTlJdWxDWlk4ZVl3WnhYSjZyM2p2OFNVM3kzT1dwN0gtT3ctOVkwaXdad3hUeURmY1dhMlRTcDEwd3lkRHNRdERJOVF5Snc?oc=5",
-          "published": "Fri, 02 Oct 2026 19:17:59 GMT"
+          "title": "Samolot medyczny zniknął z radarów nad Atlantykiem. Trwa akcja poszukiwawcza - fakt.pl",
+          "publisher": "fakt.pl",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnZHc0pObk1NbVhFLTNzdU9ZNHp3SDdMY21kQ3BJRzRQYjFNRHBqUWJNTXVfSVJNRHFvMV9Uc3cxcjVvakNqQ1Fyd3BDckFoWjlnVl83ZFRCY201dEpBRHpEZ0dKQkZzNTFGLXdCYWwyZVYyeGE2V3cyQXFFU2RvRGRFbU1fUDYzUkxzUUZFa2hXQk9UZmNDak5fVGF0Y2ZhMk1ITkxMemxHMHBUQkRMMHVMWnU?oc=5",
+          "published": "Sat, 03 Oct 2026 19:58:00 GMT"
         },
         {
-          "title": "W piątek zginęła turystka, w czwartek rolnik. Nawałnice w Grecji mogą być niebezpieczne - Interia Wydarzenia",
-          "publisher": "Interia Wydarzenia",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjc3YllmbVpONHNucEtxcGhzbGVKeUFKZmotS1lmMGpPODB3SmRRN0RlVUZna0lFdW0xLWFKVi1PT3AweVBhU3ZNeE45TEk1ZV85cWNlVk5fVHVDMXJpZVZ4VzAzS3NlbkxsQUJFLUtYNEJiUl96eDVJbjFKTkxxeVoyeFBLd2dUdXVzTTMzdUJMRUlWd3psT1RKYlI4Y29uMHRDelRKZmwzLWpVN2pyd3ktbw?oc=5",
-          "published": "Fri, 02 Oct 2026 13:48:15 GMT"
-        },
-        {
-          "title": "Zabił polityczkę. Usłyszał też zarzut planowania morderstwa Farage'a - WP Wiadomości",
-          "publisher": "WP Wiadomości",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYW1KSy1iZ2dFak1aT2c5WTVHSTQwXy1kVEt1OWExWS1Xa0xEV1hhNmFnZlZKZnZKaTItNXVOTDREaGhFck83YmZ4ZUZTbngyV1BSWTd0djc2M1hSOGxsRzFYbmxTOTNUWFQ3NHZHTGpuaXFVa2w0VXNQZHVVb2EtdDd4Z3lzWUtNc0djZGxzR2lLNlFvaVhkZWg0S1YtcjZSV0V3bWpYcF9xaVFqcTVN?oc=5",
-          "published": "Fri, 02 Oct 2026 19:34:18 GMT"
+          "title": "Wielkie włamanie do systemów FBI. Jeden z podejrzanych został zatrzymany - Wiadomości Onet",
+          "publisher": "Wiadomości Onet",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjJuMjdQOUZjR2JYVmJkR29IUGM0aS1JMVFGSDBncTFOcEZtWFRPdlRGcVpoMGZXazQ1Q0JIN2l1Z1cwSGZNZDh3X2pWdHhYMjVoaDFsbm1RLVlMUnl3aGNuVVVNSXNXUWY3QUM1MkI3cUltd05UampBM3FFd1l2OE42bXBYVnBiTG5tdkVkN1k3cExITUlGeUZXY2dyUW83aXJWSENhV0oyNThHQUVzWV93?oc=5",
+          "published": "Sat, 03 Oct 2026 19:49:44 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Rodzina Solorzów ściąga spółkę z giełdy. Zaproponowali cenę - Business Insider Polska",
+          "title": "\"Uśmiercili\" Omenę Mensah, a Brzoska nie wytrzymał. Tak zareagował rozjuszony miliarder - Plotek.pl",
+          "publisher": "Plotek.pl",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanFTTVNMTFUwdUJTZWFQT3FpaEs5MjdwbFF2a21TTndZNkg4Y0o2OW92cnF4WjZxanlhWEcxWlNPWk4tMzdJSUhpV3UtRFZubktXdEFLak44bUU1ZEhlYU9rQ0dnenF0UXZOZDVqclRfMXpfaDVqWlctNkJ3eURFWl9lMmVFWEtIV296d3B2d284VWZabG9qV2tNYnV2ZEpwTUxnb0hxNmtlNlgxMzJIc2JJZE9tUFRhQXdvTC1aNlQ0Zw?oc=5",
+          "published": "Sat, 03 Oct 2026 19:00:00 GMT"
+        },
+        {
+          "title": "Niedziela handlowa 04.10.2026 roku - handel bez zakazu, zakupy w Lidlu i Biedronce, w galeriach, wszystkie sklepy otwarte w niedzielę 4 października czy tylko Żabka? - Dziennik.pl",
+          "publisher": "Dziennik.pl",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOME9ZNlhmbjY4TTluYXg4V3h4MXo2dmFTblZZSE1qMU5icEJaOF9RNmVMQUhmN0QtNVllSHlUak9tUXM5ekc0cUllWGFLeF9qa2FlQmFaOXVPOHhJNjE5LVVzMy1yLU9JWEhOR25BU1pRQmw2U1RjRm5EUFlfbEk4SjZlU0dIUmgxVHVuUGJudmkydEpVZ0tmZ2ZXTUZNeF9mejZITU9kZFBIX0xXVXlZbzN5RHNtQk9DSllrWmp2bjhQY0Z2d0ZlNngyQTJWbk0xVFZyNzVQUGVzY2FMZElRRDZNaVRLLUZpS2VNT3dsbUd2aEJkZHdTMTdvc1FFRWhHWUhzN1BxYno0MnpKN09hak1ETGQtNFE1aUZaNTRPN2lkbHhrdFphbFhCZXcyZDVGOG1XaG83bjE?oc=5",
+          "published": "Sat, 03 Oct 2026 07:29:24 GMT"
+        },
+        {
+          "title": "Donald Trump: to, co zrobiła Europa, jest wspaniałe - Wiadomości Onet",
+          "publisher": "Wiadomości Onet",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHU4UG9IMGVsYmZfdTVvN01NaXBnY09BZXRQYzR0R0xrX2htamEwYUtXRDB2eFNOZUFxZ1g1UDNteG9qSlZibkhnQUx1elMyMVZpNW1JVjJQM1dtMnNoU3hHSzNGY1JEZExwLTdvVjRLbGxYM2ZDei16VHdWUW1jSzlLSDZLa284UHBuYkwxQTIyRFJWNUt3RF9BTk9fbUhvbnM2Xw?oc=5",
+          "published": "Fri, 02 Oct 2026 23:27:59 GMT"
+        },
+        {
+          "title": "Rynek przewiduje gwałtowne ruchy stóp procentowych. Tym razem może mieć rację - Business Insider Polska",
           "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON2dzTDRNamcxN2cyNDZnWTlJbjQxLWRJU3NqMk5TcnpJY0pFYndGaHduS2g1akFGZWZvZFhrbHFtY2tmLU1NdWdIRFptR0ZkQ29nbURRT3dFajdaQVByTzRsNmtkcm1zV2x1bFJacUcxRC1XU0kxMEFydWdnVGxZd1paU1ZRdWZzOXhzSEFDRGlIdndVSjhFVFJ3Vk1LRlFjWGNXWTFBVDdGU2xrYmxwdHFRYXRoMThsclNaVjZpbFM0a0Z2Y2FBVU41Y2EycmtMcFE?oc=5",
-          "published": "Fri, 02 Oct 2026 19:33:26 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0ZLSHJZMGFZeExvRkNSRUR5NXZkaHlmWU9pYXpkQVJKalpicC05dUhzcmcwamdjNFBVRk9qUjItNUY0Mi1fLWxUMHU1ZVN1dkVJZERzOWJVS0ZfVmtrZEZSMklGaVhuWlc3eGwyVlAxYXFtOGt5T2N2akxwTkpwTC1LbDRNYWR4WDNZSEl6eDBORk01aFQ3R0VKOS1IaHA0RzAwbmYwMTF2SzJ3QmVVTy1ZMF9nek9hdWJ4VkJDeTJ5UVU?oc=5",
+          "published": "Thu, 01 Oct 2026 04:09:00 GMT"
         },
         {
-          "title": "Skydance od wtorku właścicielem TVN. Pracownicy otrzymali e-maila - wirtualnemedia.pl",
-          "publisher": "wirtualnemedia.pl",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcmRwR1piVi14WU5DWVUzRzdOWGpxTDFMX0U2eTZRWXVaUW04WHFKazVqbXhIalltOVpYYkhhWk9LVFpDaDVBZzBwckg5djVJTFlMZS1DenppSW1CaXZwVlpSNFZMWUhNMWpnd1pOdVRmUmZKeWlZQWFEeG9ndFA4Q1h4Y1oyZTJVVl9fOTYwX0dZbUF3VURiTVZDdkE0TFdKaFZzVC1kTVVvMm5sWkl5dDRQRHNxOVR0R0lOQ2xKMnJvSm80bmtsN1NQRXR5NXRiWWg0MHZOb09lVDRxY0tr?oc=5",
-          "published": "Fri, 02 Oct 2026 14:39:33 GMT"
-        },
-        {
-          "title": "Pod naciskiem Trumpa G7 uwolni 100 mln baryłek z rezerw oleju napędowego. - OKO.press",
+          "title": "Eksport ropy z Zatoki Perskiej się stabilizuje – zwiastun porażki Iranu i końca wojny? Nie tak szybko - OKO.press",
           "publisher": "OKO.press",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmVYN2pmTEt2ampBNzhZVWZPUmVLX09kVXI2UWRha0sxa2F0OGZVMmRxWENwLXp5NS16MGhsS2lDNDg3MXpmc1ctN2xTUGh1cGhsR3hPYWxrdW9hWWFCa0JxTjA0LXM0TTVKS0x0OTV2TXduSXNPZkZfRnNFZzJGMDBiVFh6SjVscVcxMXNpelpBLWdLLU8xOFpGRGNkY1RYdzRNdnFRbTc2Ykd4Z0xyZ0dyZGM?oc=5",
-          "published": "Fri, 02 Oct 2026 15:54:04 GMT"
-        },
-        {
-          "title": "Słabe dane z USA mogą pomóc złotemu. Kurs dolara może spaść do 3,86 zł - pb.pl",
-          "publisher": "pb.pl",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPczFaOGkxS3ZDRnM3RWpPOFpCS1F2YUUyVjFoVmdrcDFjbW5wN3hkYWlFMEJkWUUwT3Q3ZUxsQkUxdlBQZ0N0Q2w0OHRjZ0JfZVdJRTN6dm8yeDVLZ0hQbFpRa3hHOTdEaG9kQ1lwMWJsY1k0bWRGcWpQUHBkVFpjdlV3dW5wMnN3cTFIN3JUdW1CeWtGRmZMbFhB?oc=5",
-          "published": "Fri, 02 Oct 2026 16:42:00 GMT"
-        },
-        {
-          "title": "414 zł od przyszłego roku. Nowa stawka już ustalona - salon24.pl",
-          "publisher": "salon24.pl",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGlhZWJfSWd4MmpBb0g4bFNIYTR2djRTZ3NXejVybkpwcV9kZ2hUdzdaYVN0N3JpNlJXMTRaQ3pISWRuR0FWbFdZb1llOW5RWkVNTHRBYWZ3T0UwU1V0LXU3T1gxZlVGWUcwYTNwdXVhN3VnVmluRG9lckhobVpPSXpkNkJ6SWZiSlJyd0pqNDY1LTlL?oc=5",
-          "published": "Fri, 02 Oct 2026 13:06:32 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNEcwdlhxUXNTdTlTTlVqVUQtNks3TVJUQXpwUjJiN0lsTWliNlE1dDFRcFpCY0NMYmtYVzA3N1BXSXN2aktsVnRNSWkxakZVRlBLSU9PbWZqeHBuRmpBZGRHeGVDbHA2MG9ramg5YkFIY2dnUEZOU0k3dE1ZTlFxN2JHaHYxYXdiOFJBbU9YTU14UTZXWmJxZTZQVVZyY1hQb1A2U1YwR2pVOUN3Z1dwclpoZ1U0NmM?oc=5",
+          "published": "Fri, 02 Oct 2026 18:02:02 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Jan Urban ocenił mecz z Rumunią. \"Czerwona kartka odwróciła losy\" - SportoweFakty",
+          "title": "Wichniarek wydał wyrok po meczu Polska - Rumunia. \"Nie zgodzę się\" - Sport.pl",
+          "publisher": "Sport.pl",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMldUODhNbVdNRk12eGNLc2R1a0FtUV9JNmhWSFV1MjNxek1DMFBndmVvdmFYNDQwZFVrOExPNThrazdrRU10QVpISkJyT1RIN0oxUThzX2l0MUN2c05wcUFCQzJJTnJ3Q211aU1rQk1zM0l6cDlFSnFQQlB2ZE8zdzNuSU5EWnhSdFlnS2p2Y3Q1ekR5Wlk1SmlNemtxVl9NVkplREZB?oc=5",
+          "published": "Sat, 03 Oct 2026 13:19:11 GMT"
+        },
+        {
+          "title": "Absolutna demolka w hicie Chorwacja - Anglia. Siedem goli, co za wynik - przegladsportowy.onet.pl",
+          "publisher": "przegladsportowy.onet.pl",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV3FqajBMUS1RWWM1bnNyQkctZXJRWXNBbTdoWjVBd1kyeEp6R2FsYXVldjhFdUpiUW9lRWtEcUNmWWhwUHEzdnduSFM3QkZUMi1JMUFjdk1zc29IMWRTTDMzXzdUMHpoUGFjX0doWVVuU0FRTXh2Z3FlR1FwRWd4UXYyUHdsOWVxZTF3Q2xNdjNOaHRMbm9KWmhWQTV2SkpXbTJxM1BNNXJrMzF6dmhDcW1nRVVPVnZ1Q3lJNzZGSHQ3YTh5WUhzZW9n?oc=5",
+          "published": "Sat, 03 Oct 2026 17:52:13 GMT"
+        },
+        {
+          "title": "Spotkał się z wyborcami, a później? Wiadomo, co Nawrocki robił w sobotni wieczór - SportoweFakty",
           "publisher": "SportoweFakty",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTjlwbTFSblRUYmMzMXpJMjlNT3NFMnk0R0JCenpLdS1RZ0owZHBhMkQtb0wwVTI4c0hLWmx6ZXdTTjk0NHBCZ0dvYUkzZ2JNQ0RCRjIxaWw1ZjFWbVM5aUpUemdkYldISDNDUGI5ZXBvRzFhRUV6Mm9JOXdCcXotZUR5TGxvV1ZCcUZ0Zk9zUWo3b2lfY3laWjZuNXV4azNZUHNDbS0zeGsyTzJ2TXYw?oc=5",
-          "published": "Fri, 02 Oct 2026 21:45:33 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb1kyVEZzTURXS1JlLUlfdkhTejFJdkx2YWVHcG1VaGtRTjE3a2ZRZU04cWVOcXU3X3FxaXd2VllCZ1RYNjE0NFVHaEFUNWUxeF9NeUpkR0pEZm14THhhRXJvbGN3cWRQWHc4Q3lPbFE4MGpfampwUFJYZ3NwU3o3cVIydGtNLXN1ZlF1ZA?oc=5",
+          "published": "Sat, 03 Oct 2026 20:39:37 GMT"
         },
         {
-          "title": "Ci zawodnicy mogą za chwilę opuścić zgrupowanie kadry Jana Urbana - Przegląd Sportowy",
-          "publisher": "Przegląd Sportowy",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORk5QZ1dFbUhGazBMTEJiNnlSSkljN1hrVHVuZUxNdFhQWGExdlNUcUMtX19PaWN0X0xkSVZVbjd6ck55ZUR5ZkxiTmlqUHh3OTJrcFplT0x1eXRHZVluUk0zbVBpa1YtXzBmbS00MDdFa0RienZHSVlNOTFES3ZNdnNBbzN3ZDE3ci1tREtFT0V5OS1hMF9iMHJKNENFQmZhVFZ2eVVGUVNXbkdOQkVubHBvcjBScHF1eVZfeDRlbjNBSlR1b05ldlJOLW00S2ttd0tIQjNR?oc=5",
-          "published": "Fri, 02 Oct 2026 11:02:15 GMT"
+          "title": "Gol Yamala rozpoczął show Hiszpanów. Potem nagły zwrot akcji. Pachniało sensacją - sport.interia.pl",
+          "publisher": "sport.interia.pl",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3RLdW4tQ24xTXRGclFSX3FiVGxsNGdtcFc0OE1vWDNTT0ppQUdHMzZQMmJTS2doeTUxVVJRc2VMQ0xzclVTcmFUQjBNVkN6U1Zhak9uUWN5V2E3akFKUks2SE1fYjZPa3d3Tk1YM1cza2k4aUlNWHhadHpoM2hGWTNod1JsZ3JxYmh4ekUzZWRkcS1hazE0dG5nZHV5WWV4RlNaaURTeDhwOWdxM2MzYlcxSzNHeFoxX1JFcENBMnN5anBoLXc?oc=5",
+          "published": "Sat, 03 Oct 2026 20:40:20 GMT"
         },
         {
-          "title": "Lewandowski zrobił to jak legenda. W międzyczasie nadeszła fatalna wiadomość - sport.pl",
-          "publisher": "sport.pl",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmxUc3F1dUhKTzAyb2VoelhfenVuMG8xckhhNjJjUGhyV2xYU1d6OHpJVEhORVljS3ZBQXF3VndkWWxnYTFZallkVFo0TVhob0gtY0V3WXM4bl9FUkRpYXRPTEVrUGFwZ0I2U21hR3hockJWSGNvVDRPNmxzWlFQUjVmNGt4RnNaRUJvYUNUTE9EMVN4T3RTeTBOTi1EaVFvVGFSaVlOWVZwLUtYRmw4QUtIQ2I?oc=5",
-          "published": "Fri, 02 Oct 2026 21:07:22 GMT"
-        },
-        {
-          "title": "SEC. Leon Madsen pogodził Polaków. Reprezentant Danii wywalczył trzeci tytuł mistrza Europy - sport.tvp.pl",
-          "publisher": "sport.tvp.pl",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTlJ6ajZ5aDd1MTZVRmJZeG8wRloyNHBBVUhKWlRZOUJnT1hSTUVpOHhnZUpSY1hiMm9pOGdaRkNLQ2VXRDFRRDR0ei0tXzZOQ1JiUkJ2NHlKWEZFaWY2SEd3Wi1aZnR0OHY1YnNaMVcxdE1kckpYc1BBc0E5WU9xenZ3Y19JbG9vZGlKS2dPNHczUENmTHhobzlpNXV4Y3pKcTZnYTM0VFVmcW1lemtFQWcyUE4wc3FBUU5j0gHAAUFVX3lxTE5vY05xUlo5M2VJRDhfNkJHMFZHeFBiZGM5ejA5OHlPV2djcHNVc1FWNGRrdVd3bEZDZl9RR0t2cmNHeFBEZUczRmRobTMyWXdnc25hQXV4Q05mTFM3OG56VUR2MkJjWG1oeG9LQUdvTUpIT0I1Mnd6eWFtb0VTMVNLZHdWanpJbWczSXZXU3VNTVlUV2FLSHlYalZwREs2T0ZRWlZvOXFWUXJkNnVLb0o4a1pCeGZDWmdpaDQwZDQxMA?oc=5",
-          "published": "Fri, 02 Oct 2026 17:29:00 GMT"
-        },
-        {
-          "title": "Wrze w Rumunii, Hagi już pytany o dymisję. \"Jesteśmy w kategorii śmieci\" - Meczyki.pl",
-          "publisher": "Meczyki.pl",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdTdTcXFtMVZzZFJMb1ZuOHhnVEJtcGt2RVZ6MWt3TWpjZ0NTYXRZNE9HbEh6cnNJVDZlRmdBSnBveUkzMmNkeEktNVhuR21LSk9CUXBGX0NkMjFFM1dGcGVwaXo5R1gxTnpfMVBxWTRmVW5ic3NzVkdBeUZoWHZjczFEUmJ5UXA5OTVPQV9mdlBiVld5RHAzdWp1QmFENnVwY2hZdmJUUldTa25TQ2d4czcxdEZqeVE?oc=5",
-          "published": "Fri, 02 Oct 2026 22:24:05 GMT"
+          "title": "Jelena Rybakina wyrzucona. I ten wynik Igi Świątek. Wstrząs w Pekinie - przegladsportowy.onet.pl",
+          "publisher": "przegladsportowy.onet.pl",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWNBU0dJNWxqZFM2RlZlaWJPa0FoVVh1MGlrM3pzN3ZRZW13UUZTblZqeFVBcHY2VE9kYm9wOEUzUE94SUVSY3BTbmtqRnRxNjY3dm41SVdDZXplaWprLXZRb29kOVoyY2UyckVHZ2xCZENoRG9IMjNteUVadmpYM3lwNHF2MHJTMW1XZGRmRFlQRVQwdUtBQ3QyaGZkZVA1N3lxUVFEVEUwcFdaRjlOTWRJLTk?oc=5",
+          "published": "Sat, 03 Oct 2026 15:10:44 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "217-letnia zaszyfrowana wiadomość Napoleona złamana przez sztuczną inteligencję - Onet",
-          "publisher": "Onet",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUnVJNlp5LTdncno0c2hNVWJXd3BSVWg5N1lUVkZ2ZnZKN1NkWlhNZnFGRjBZRzFpbXRCVGwxOTNQZ0dHZlhpeEFiel9wRUczWGR5ZVFQdjhieVNQRndHTTBRaWxFbmp1bEVCWC1QbklVNTBlWDBPODFxTlAwQkxVOWd1amNNd1FUaWRhMjVIeTAwR0YtQUhmQzAxTlU4V3BmakZ0RG5NQUFhckxYcjRFMTRPZTVwRkJBMkRuMTA1LVFubUxTRGtsZGJERFFFU3hJYXdJ?oc=5",
-          "published": "Fri, 02 Oct 2026 06:00:03 GMT"
+          "title": "Wypatrzył ją wśród staroci. Mało kto wie, co to za przedmiot - o2",
+          "publisher": "o2",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOXgtaTVENE5vS1hXZFVkc2p4c3J1NFZ6SkZ4RXAxLW9lcjFXM2tUQk1rLVpDeXhvWEZvTl9TRW5tUzZRVC1oVEgxdmlyRlNTQ05XdnpGNm1sXzF5TlpJY0p2SGNqYVR2U3p6UDR0QWtDUjJpMlBqRkEwRFVTU1RBcGhZN1AtV3FLLV9fMF94OUd6c1FMbUstbE1NN2hUNjFkdVJhSFNvVTU?oc=5",
+          "published": "Sat, 03 Oct 2026 07:56:23 GMT"
         },
         {
-          "title": "\"Financial Times\" ujawnia: Agenci AI zacierają ślady po swoich włamaniach - Interia Wydarzenia",
-          "publisher": "Interia Wydarzenia",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT0hRVVJ0MU53ajB0emQzekthSUFhV0JWQmF1LVBjdFRMT2h5ekVkTTBFX2lmUVVZZmhSbEpIQW9sLThfUUliRDBkcHpkZzBHQTRfZGh6dHJyYzBLODY2OFEwOVg2bmNRc2UwZUMtUlVhSVhtRzJyTmV6ZWVHNGtQeHJEaGsyUVoxT3dxQ3RaYUVLOXVQNzJ3enBlRnJDWHgzY0dwR3lZRDRPN1FhYl8xMjRad0c3VTY4R2ZuZUdmWEJJd3dmN0ZFamp3?oc=5",
-          "published": "Fri, 02 Oct 2026 06:00:05 GMT"
+          "title": "Elon Musk \"z dnia na dzień\" PORZUCIŁ partnerkę po 5 latach! Mają razem czwórkę dzieci... - Pudelek.pl",
+          "publisher": "Pudelek.pl",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOczlCZHdPY3hZTFJZSTV0TkZCS1I0UWNBdllVNXhYZl9Pd21GN1k1S2dwQ2pJR0hOVVNHeEI5WER5RlpFVjcxY2xzTHhuQUthLTlnT1ZleVpRaDdMbzN0ZUZNemYyM3pWRFdlQmZDNVhpbjJVYlVrbmhwSDdJQVJSREVaY2Z3MlBXajVfa2JJMHNRSkJjRHRqMVpzX0xRWlhtLWlrQV8wRXhibl9mamJVckU3a1RFWGZ5a0Vfdmk4cTFOX3RXaUdWOGRRZFd2Nk5QSVlQMw?oc=5",
+          "published": "Sat, 03 Oct 2026 08:39:26 GMT"
         },
         {
-          "title": "Nowa seria wycieków danych. Chodzi o informacje o milionach Polaków - Wiadomości Onet",
-          "publisher": "Wiadomości Onet",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFA1MTVXUDF4c0lZMjFtS3FLbnBOdllTMDZiSGd3TUNLUHFhaXhEUEtZNGE2dmZfR0pKYXhYRTNycFFLUkwzbHJjM0t3d05xMzF2MFJ6cHEwZnNDYmRPVTRyYmFKTm9wR0FKbXpvMVJNbWY0WThZWUwzZ1NVWklEdHR4UldZaDhKdFE2LUJtYVBqX3UwUmdINU9Wdnk5LVlYeDQ5VHk3MnlUQQ?oc=5",
-          "published": "Fri, 02 Oct 2026 10:22:06 GMT"
+          "title": "Mapy Google: w ustawieniach ukryto cenną funkcję - dobreprogramy.pl",
+          "publisher": "dobreprogramy.pl",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTNvM0lKWldHNlBBSWJ5Yk1TUm5HemJlZEQ0MEpncm43M2hEZU1aWjYwb3UzMkxmUmZMSGlRWVdMczZseGNWU21lMWZkWlJuX0FOMllVMnJLbHZXMVZWeWpGUzZBSUhpMkRzbDFCdXlqbXdOenpPd2lxbzJEdy03V0JfTkliNVhNSmxnMWtvdUFRWjR3cFlRT3FB?oc=5",
+          "published": "Sat, 03 Oct 2026 07:00:00 GMT"
         },
         {
-          "title": "Państwo dopłaci do magazynu energii. Można dostać nawet 19 tys. zł - biznes.interia.pl",
-          "publisher": "biznes.interia.pl",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTE4tdjF3MHpUbVd1QzViOVRBbTQzLWJCRloxNG01aEstSGpfTVBvQVkzSkFKRE5wRnFlS0tVQWFoVk1ZV2JteEVXbUZ5RzNzZ2pkNTR6NkhfQXBqS0hzSWE3NzJJWmRxdjhjQVA4dXFKcXdiMHJ3alZFUFhIcXVsTTRnanMwQ1JtVlRJekVsVVM3Yk5YcmhFZ284YzZFakw4UTZfNVdOQnFHczQxS1Vhb0l4Uk5MZw?oc=5",
-          "published": "Fri, 02 Oct 2026 08:22:22 GMT"
+          "title": "Wybory na Łotwie w cieniu ostrzeżeń. Są wyniki exit poll - TVN24",
+          "publisher": "TVN24",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHF0TmltY2wyazU0WktoTXVOTzBxNUsxT3V2OVpzR1lSRGZwMGdiYzdDRC1HTjQtVEJnVkFVaE02UUhfS3lCcHV2dzlfdlU2R2dwYkdZMGRKemUteTBPUFB3ejhnSXE1Q3JqOFZadXhnR2ZISHNCY1FQRlJHWllGMjBTSm9PWDVIRFZFV3ljZ1BDdw?oc=5",
+          "published": "Sat, 03 Oct 2026 18:05:54 GMT"
         },
         {
-          "title": "\"The New York Times\": To mój pożegnalny tekst. Niepokoi mnie kierunek, w którym zmierza świat - Interia Wydarzenia",
-          "publisher": "Interia Wydarzenia",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc1gyMnJIYTk1NHZGdEF4MkVYejdOSThLd1BvRUFRcFRWSmxrenZVY1REcGo5THJ0QUJaVGFRdkN4UjBmaTgxYXdCcGduMGpSVld1Z3RvMHc0OGJPVXVaYW40YXVtb2FjREMyUUFGYlFTbjBackt6RXl4N29tYmd0cDB2Ty1FNWVxeTl5a2VFc0IxWTctMDByRjdCWFhuaUE5SE9VTEFuUU9COU5FamVvUnQ2OWhOUUZuYTFzX3lIUW9Yc3l2YktxT1hn?oc=5",
-          "published": "Fri, 02 Oct 2026 06:00:05 GMT"
+          "title": "Wyciek danych z popularnego serwisu turystycznego. Dane klientów zagrożone - PolsatNews.pl",
+          "publisher": "PolsatNews.pl",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcEhnekZ4NFp3R3prVl82dlo3SjhRX2U2bmh3TnpOVl9wUEpkb2NUZ0U0ZmlISno4al9tUi1uOVliWUpCbHMyU0QwNm9fVW04QjNyeFN1VkRPclBDLThTYlJZWlZGVW8zcl96TUNUckhITEUyNG1LT24tV2dyQ190RjhaWlZfMTlob0xJUUI5b0hiVEloWHZfOGhRNlNCTGhTUS1RSkltaVUyODRZU2lxNjU2YWhveFFwUXpieHNB?oc=5",
+          "published": "Sat, 03 Oct 2026 13:49:00 GMT"
         }
       ]
     },
@@ -192,19 +192,13 @@
           "title": "2026/27 UEFA Nations League: All the league phase fixtures and results - UEFA.com",
           "publisher": "UEFA.com",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObklRenJfenBOYjN2VjJxRUFKZjhjdWw5YVB1TE5HZkxybk5hXzJGM1NKMVFoaXRDUDJwOGFVRnZoY0pqa1ltZHdHckNyVm9xU1JEYWd1eE9ZVnB2ZTBuSkFTQzJKUHB6UE05aDB2Z01FRUY4NlhVRlpfNDFEX25Qc0gyRFZlYmtpZ0UtdWlUT1pFYjVJWExQbDdVcTN3OE03cjFWY1ktQ21tOUdlRmd2cFM4MUtSb2lyYl9rSTgwVS1wYXkwNHBmM25Wb0s5ZXRmbUwwM1l5Z1I?oc=5",
-          "published": "Fri, 02 Oct 2026 22:28:55 GMT"
+          "published": "Sat, 03 Oct 2026 22:38:23 GMT"
         },
         {
-          "title": "How Man City plan to appeal the Premier League’s verdict — and could there be any issues? - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEsyQXM3THRoMDVYY0cxVEZaMnRCMHBBNElYNWdFMGNrZ21UeHVuRHVXd3ZmcEFBdEM2TnYzcE4wMGYybVJkRGxaWWV6WWFyV1M1emQxM3lKQnMwRGhDNlFHYkpGTGtQMUs1Vi1NU0lNTWdFMDJRTGYyWGY3RTFUYktLYUg1bFRXamc?oc=5",
-          "published": "Fri, 02 Oct 2026 18:52:29 GMT"
-        },
-        {
-          "title": "Man City appeal Premier League financial ruling - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQVBBSl9FYURTYXoyejU0YnBHZzlpRERCZjBpZDFHNnNqT2NNWXQySWlkSWJRNEJ0XzJhYVZxVGlMOWZfa1lFQU85NUl4WjRiZlFCS0pyZ21od3JYQlZmWFF6azNNSVNJTnVmak1lOUZMVWpFUEJqRWMwUGVPSlh6NW5oS0JTMHJVTzNjTlMxdVdTYzBqSkhnQXNIeU5Idw?oc=5",
-          "published": "Fri, 02 Oct 2026 12:20:57 GMT"
+          "title": "Portugal vs Norway: UEFA Nations League – Ronaldo latest, Haaland, teams - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT3BuTnNTWnN1UG1GQmZzNUt6V25yOU9VNXVNMDBWS0d3QVctcUNtUWV3RzdXUGNaWEYxSjJYZGxCaUZzVE45c2hnNHh1M2JnYjY4NWxxMHNGdldrSzNoU3c2QTYxcEJjV0JGNkFfanZ2X056TkszTnJwOW55MTFuRVNpR0F1Z3NUcS1VMmw3Tjg5UVI5U081ZnotVWF1TmRQamVVTlJXTzgwbkE3NTdJ0gG0AUFVX3lxTFBpUHp3ZjNlMkhlaWhyWENyby1XWHJNYTkySGxKbzMxejQxV0ZXcDhUVXFjQmNGaENOMXlRakswREJoQmlFZ1ZxcGpfbUZOOU5CaGNTbHd0TEtJcHEzaW9kV1JhdDRlQXZGWno4azJOZ1V5T19IS01DN1Z1b2FoRmFoMWZlc3BNVW00dmFYZkRfUzdFNkM1MlNJWHBYMmdZd3pLdS16dG1WdTV0ZG91cDFnVHluaQ?oc=5",
+          "published": "Sat, 03 Oct 2026 21:33:45 GMT"
         },
         {
           "title": "FIFA accuses soccer body UEFA of harassment against president Gianni Infantino - NBC 6 South Florida",
@@ -213,10 +207,16 @@
           "published": "Tue, 29 Sep 2026 17:52:04 GMT"
         },
         {
-          "title": "What to know about the Man City scandal and charges against the Premier League soccer team - PBS",
-          "publisher": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY29FV01LT202ZG1DWVJVMGk4XzVpVEo2WnVudVp0QUpuRlRNYW5ZV0hVUzE3dkV3bUp4WU1sdF9oZXFCZGFxb0prMjRoVlVYLUFjOU81dER2MVg3UFoweWhGZVd0cGpFc1RmRjlOVWI3eVI0TnN1NE8zMnVUTWJaV0VQWnlBMzJhNkhtb3RVdXA0akZKTm5vSXkyRWxjcXhyeUgzeF9EOHNNWU9FQWlNbDFFY1ZMUDVkekdsb3E2M1FldTDSAcgBQVVfeXFMUERNZkwyb19GRUY0N1NlVWpVemdmbVdqWGlQbDRZLUtTVGVlMmRhNmJENXhXa0l0Ylhxc2Rkb1ZTMlVZWEhRUG1ENGlqZGlTbG1IUjZfam50WVdDWllXVXpSOC0tcjB2WVg3ZzMxRWkwVjd2Q3Y3UmVlUzdXcnk0eTdtUUFRREJIREw1Z2Q1Sk12bWRnUmZGM0UtaEVWb0ZFUFlxMmFJbkdEWGFmbDE2ZFhWenJadkpxWDJMS2tORGZyVjFac2FkSGY?oc=5",
-          "published": "Thu, 01 Oct 2026 22:06:16 GMT"
+          "title": "FIFA accuses UEFA of 'misinformation campaign' in response to filing - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRXdGamFuUGQwSmxSZzdoeUQ2SFBkZ1FDelczY1J5bWhzZ1ZOWjMxUGlsSTVJU2xucWNhQVdNZklTUlY2QU9BT3R6SWpyTlNKSXo2Sk1nb1AwWEZKWjlMUG9yNE9JV2Z4RHdzanZYTThhcmNvOHVhbkFDTXBfc3h5WlpkZnJ0REI1dE5Qcm96Qk1VY2tTbExOS1hWTGduRFFkcGRtTTR4azZRSXM?oc=5",
+          "published": "Tue, 29 Sep 2026 06:48:14 GMT"
+        },
+        {
+          "title": "Watch UEFA Nations League Soccer: Livestream Croatia vs. England From Anywhere for Free - CNET",
+          "publisher": "CNET",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGhCSEhHTGh5UWg0TC1XX0N5RGhkNGFxbXNjQndmTEZTa0h4bm4teEhKamlRV0RpdXNLWHcyV3BzbG15TUJPQXVZSkJ6U2dtZHZPNDhSSXZwV0NPLV9SX3RzalBYczRKdEdPOWM4bU1xRVF5Tk1naU5lSlJCUFhIWUxNZkxNYmNfODFEY2VRTVUzcU5TaDFmSmF4OUctb0t0OWNlbV9XN05YdUZWM0pQZHZET3NYNGVzcF9WZU11SWRidlhNSHhfcE5BeHZ3Tkk?oc=5",
+          "published": "Sat, 03 Oct 2026 13:00:14 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Gypsy Rose Blanchard's partner found dead in apparent drug-related incident - ABC News - Breaking News, Latest News and Videos",
-          "publisher": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeEwzMGx5aFV6VlY0VFd3UkZDUXJ1X1I1cFVONDZiWlZ1NXhtNE0xOGRFQ0dFYnVodFhUZW8welhHdUFQSm9kM2ROelhnbl8wUkFTLWgxMl9jM2VNMU8yTU5GbV8yZHhmdkF4ejFtY3A3RkIxSmFxanVqc1JKQ3R1OUlRdGpnUmlZZFNuelFMUkg2akl3Y28xSlMwODTSAaIBQVVfeXFMTUhDczZiU201WjBwNGRHeTQ4YUtCTjJGNDVpWFlBcV9QNzlrX0ZQMkd1SFFpbnpGVDZEdUlVdlBWTWRkVGhGZ2ZVRkdTLVJoVmZ3bkpVdTBIYXRtOURBTWFkRW1kWkYxc1ZTTGM4Umk3WFl0ZDNyZXdQMzJRTkhzaUZSNnhxNlZWa3ZncHNsUmJzellHWEtqRGoxUkhGRThLeWRn?oc=5",
-          "published": "Fri, 02 Oct 2026 20:57:57 GMT"
-        },
-        {
-          "title": "Skydance Shuffle: David Ellison Addresses Troops About New Name, Says Adieu to Mike and Pam and Sets Table for ‘Barbie 2’ - Variety",
+          "title": "Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly? - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUNVSTgyd19COEJQTmFERDRVRXNwcFowTDRlQ1RuM0xmMUR4Mm5WTkc1NDZjNXJ4aFdMSUhzdjdEcGthdkxvVExTLV94S1N2OHRNemFFdkVNUi1IZ3M4ZmRSNkhIUklaUDBNbVQ5N1duZG1PX3hYSk9sOXRYMUc0UlFlR0FFZ1dHU0dqNUJlV2FjUnpudkVV?oc=5",
-          "published": "Fri, 02 Oct 2026 22:17:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzR6UUJPeU5wX2ZQYUlMWVZTb2ZCXzduZC1WTFRBZVlPOXU0MENIWUZjWVZIMHdIc0lvTUdYV1pMTURNTHZWcXZmT0hVb052SG1FTWV5dFN3UDFRQmxsYktrc2FzN0V0dFJNTzVKamxMeks3bDFNcGxuQlM5Y3FsVzlxUGNTOUZLbXR4RWV4My1CYWZzYUhlSnR2SWlvY2R2V0pTUVZn?oc=5",
+          "published": "Sat, 03 Oct 2026 13:00:00 GMT"
         },
         {
-          "title": "Missouri man adopted as baby learns biological father is rock star Michael McDonald - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZEQ4OUVLRkFZeVlScFRjelRSWTF1VUdvOFdyU2xIQ19pU3hPR0oyQVFZSlV0aENnWURucjlHUXhCa3pwaXRyZm9MMDVGZ2x3ZzZMNGtIbUtzT0xhUUJFZ3lkQ3QtU1NTQzJRYzMwRDJ5THYzZEZXbzZVbUxqUGFnSDk2OTRFd2dtSjJvQzBVdGpYM0N6c0d2MEhKMUxIY3ozSzRMRmJuRDEwYk4zdjR3ZFEzRGlDVjlwTUo5Z21qMWNMUV82RDhxenVPMFM5Nmc?oc=5",
-          "published": "Fri, 02 Oct 2026 17:59:36 GMT"
+          "title": "Tom Cruise’s ‘Digger’ Plunging at Box Office With Less Than $10M as ‘Verity’ Leads - hollywoodreporter.com",
+          "publisher": "hollywoodreporter.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzhQVmhsVGdudzA3cFktMzhtaHZQZjJuWXJzYzYzMlZRQ0JuMkEwWnhzbGVJNGtHU2pEMi1aYlFPR2N0dUxOZ3lkUmJGTlBUNk01WWIwV2xTSWFSRmFSTnByb3dSd2FCNGpHUjlqaEd0SEY0a3ZhOENaT3o2d0ZnSXowX1JqQjJ4clM5Y05vSzloa25QdGliZjJhbXp2aGJaWjBsallnOGN2b3ducWc?oc=5",
+          "published": "Sat, 03 Oct 2026 23:22:31 GMT"
         },
         {
-          "title": "‘Digger’ Unearths $1.2M in Box Office Previews Amid Warner Bros.’ Leadership Shake-Up - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdHNjbEMxQjZaRlFfUTRNU25sbmpNLU1NT2xVNzBEbG9hUjIxN2MydWxBbFU5Umptb3dHY1FQa1FLVVFvTEJZbzduNnFSb1pXb3g5dFYtX1FMWTRwb1BrY201T2xQWnVtZFExV29SdlAwRXdzeGlNR29aYl81RDdPMUxkanhheTB1VVlzSW9Ea1NIc21VVm1RM1laUUxvTGlVaFFoWWxha3k0QzBkUlFlRS1lMERzSDZ2cEQxeA?oc=5",
-          "published": "Fri, 02 Oct 2026 17:39:32 GMT"
+          "title": "Rihanna Has Blunt 1-Word Response After EJ Johnson's PFW Shade - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdU5yUEZMRThQejhpX3RETDZPY1VlWWZhN2NmcEV2R2Y4TVpMVnhuZl9laUpfNkJvRmxIeTBYVlgtcEZickVpcTBzbk9qQTZ0Wl91dFFwSmtSdm1LdXZkRHE0MWhtM1VGM2JiWWlJU0szMkVRaEdtTWtLNHQ5MlJObWxqS2x5dEE?oc=5",
+          "published": "Sat, 03 Oct 2026 21:24:37 GMT"
         },
         {
-          "title": "Michael De Luca & Pamela Abdy: When They Are Leaving Warner Bros & What’s Next For Them - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQajlnODc4SjBaM0dSZ0FfN0ZDUVplT3Z2TnZ6RjhMTW96cjFmSk1UbWU1SjhuUnIwUXNlalN6MWRsVkZiV1BfS0J6U01WdjhEWFdtejBKVDFZc0xtQ2l5eDdHRmV5dVFGZThUaEJMc1M1RXFWNF8xdmw1S2doY1ZSRUdyR2ZXRGZEUkVzWkl2cWVOZw?oc=5",
-          "published": "Fri, 02 Oct 2026 23:39:00 GMT"
+          "title": "Chad Lowe, Kim Painter's Eldest Daughter Mabel Speaks Out After Sister Fiona's Death - eonline.com",
+          "publisher": "eonline.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3p2U1diNndLYVRYblRkZE80X3didTJrejFSNjhYcGNKWXpTRjk5RWR6Y2JTOUI3eGRhN3FoT0RJeUZRSzdOc3dXSXNSR0F6elZDQ0JWakhDblloM2NiSFV3bnpUeHVOM05WNmNkbUNWX2RLVVExUDFMZU9BU3NQUDV3ZWQwUzhMV3JaWWlPa0ppUnh5U3pvelhkNFg1M3JiMjdxX1hUZ29Kek1a?oc=5",
+          "published": "Sat, 03 Oct 2026 19:46:00 GMT"
+        },
+        {
+          "title": "Netflix’s “East of Eden” asks if we’ve misread its monster - Salon.com",
+          "publisher": "Salon.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3c4NlJpUjNPdjIyMndVd2xKV2NSQVNZTW9iUmNITnZERWhDbGdxQTQ2VEtIUFliQkltclJPbGZWNmtEU2ZSVGtob3pLeWNVMEtObWdVUzhsYlh4Rl80V0pOX3Y5eGRfTXQ2UjJMQ1ptNUk1MlI5TXp6dlM2M0RkMGNtRlZmcEJyYV9uNUVEbVJoZw?oc=5",
+          "published": "Sat, 03 Oct 2026 13:00:05 GMT"
         }
       ]
     }
