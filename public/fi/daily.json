@@ -1,7 +1,7 @@
 {
   "market": "FI",
-  "generatedAt": "2026-10-12T01:00:08.650319Z",
-  "validForDate": "2026-10-12",
+  "generatedAt": "2026-10-13T02:50:58.034330Z",
+  "validForDate": "2026-10-13",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Stubb paljasti yksityiskohdan Suomen Ukraina-tuesta - Ilta-Sanomat",
+          "title": "Kuntalehti: Kalle Larsson valittiin Haapajärven kaupunginjohtajaksi yhden äänen enemmistöllä | Päijät-Häme - Etelä-Suomen Sanomat",
+          "publisher": "Etelä-Suomen Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tQ1FmMDZtY1JNVVZ4dnUtbEx3SDlPQjZwcXd3X0FIdmM0OGh5bThMY1JMcmppV3hlRTRHblEzZm8yNnlFZkxhb25kR1dlNXM?oc=5",
+          "published": "Mon, 12 Oct 2026 19:14:28 GMT"
+        },
+        {
+          "title": "Helsingissä osoitettiin mieltä Googlen datakeskuksia vastaan: ”Ei ole oikein, että Suomen luonto menee jenkkiyrityksille” - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4zZnJBRUhUYjRHdFY5Mi1zajZCY2RzYmZucmFDVERBV1VSX2drLWVTQjdrYlR5eHFLd19NcEd4N2NxZw?oc=5",
+          "published": "Mon, 12 Oct 2026 13:39:28 GMT"
+        },
+        {
+          "title": "IS: Puolustusvaliokunnan puheenjohtaja kommentoi Marinin puheita venäläishävittäjien alasampumisesta - Keskisuomalainen",
+          "publisher": "Keskisuomalainen",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40UFZlSmdKV0NhTjd6QW55SDJoUTF5ZklxZTdIVW96c3lYb0twemV0N1o1Tnp4d2plc19jeXQ1VkQ2T0U4cDNPWDluUl9tTzlMZklpdjViZw?oc=5",
+          "published": "Mon, 12 Oct 2026 17:48:14 GMT"
+        },
+        {
+          "title": "Yle: Heidin syöpähoito viivästyi – \"Aivan käsittämätön tilanne\" - Ilta-Sanomat",
           "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrVWlIQUp2Wl9ic1lOVmhMZzNiNXpnZVN6MmtkWWg5TG90TzZQWjZYMVNINEw5MEJwZUFzSjVSdDlVSHRndXlCUDlLUUNTeFZ2ZXZRVmxRMmlEbkd4eFdfXw?oc=5",
-          "published": "Sun, 11 Oct 2026 16:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRV2Y1LUdQSThsTmxPVmVFMXRyUHlLc0E3aFBLRE5FUVhDRkhMMXdQRnI1bEhpM3VWWEdvcHhGS2dSRlB1OEpNVkRnc1ctTU9jamw3dUFmOEFDYktT?oc=5",
+          "published": "Mon, 12 Oct 2026 14:31:00 GMT"
         },
         {
-          "title": "Miksi seurakuntavaaleista pitäisi innostua? Kirkko muuttuu hitaasti niin kauan kuin päätöksiä tehdään pienessä piirissä - Lapin Kansa",
-          "publisher": "Lapin Kansa",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVJzRUt5a0xPYUdoVzNIaVd5dGx1ZnpIRnl0ZC1JUkdWMmpFZV9fQnB4ZE9jZENLbTQ4MXZ5V3R6VEZFQndpYl92bDJEdV9RM1BJc0prYlA2QlR2UTVEWnF5UWNWWm5QTVIwTUlqM2dLSDA2aVVwUVpzSXlWVnZkOEtYd0VpMllpR0d6RA?oc=5",
-          "published": "Sun, 11 Oct 2026 13:00:00 GMT"
-        },
-        {
-          "title": "Koulujen syyslomat alkavat - Savon Sanomat",
-          "publisher": "Savon Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zXzh2TTROdV96aUZoMDAtUzhMdEw0aXFlcHQ1M2Jhb1VwYzRCSWcwcWRxZVhOdE9DRldnMVl4U2VsTThpaVlhdFM5U1ctTlhWZDRYMlRsc0NGLU8xZm1ZQ3Nn?oc=5",
-          "published": "Sun, 11 Oct 2026 22:15:16 GMT"
-        },
-        {
-          "title": "Timo Harakka: Pääministerin piipitys Googlelle ei nyt riitä - Ilta-Sanomat",
-          "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qNU1lQmk2LXdkTldudmRlYmRGVDI4dFFLeHdNbXRrSW5rWVRnQ2dSMW1kQTVFd1A0djV5SkZ2ZjFBOUQyQ3o2Vm9VWGJ4eTBZempKSFJHZnA5bllQYUY3Xw?oc=5",
-          "published": "Sun, 11 Oct 2026 09:05:00 GMT"
-        },
-        {
-          "title": "Auto ajautui ulos tieltä Itäväylällä – kaksi sairaalaan | Paikalliset - Helsingin Uutiset",
-          "publisher": "Helsingin Uutiset",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EUkZ5VWIxYXZOWk91NG92cUdET2p3dktReVNob296dElxYkRkYWc5bHh2SzRnNFJkX193dkJuZVdyYXNMUmpSOTVPaHRRWF8wbDlHQXd3dTJZVnhsNktKYg?oc=5",
-          "published": "Sun, 11 Oct 2026 16:29:08 GMT"
+          "title": "Tupakointi tappoi kaksi Rauman palossa - mtvuutiset.fi",
+          "publisher": "mtvuutiset.fi",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFJwc28zS1UxV1B4UWxxck1TbS1WWTB4SEFSdlJJRWpqdDN4ZkViRTRqekptcThYZDhNa294OUpfYjF1b0FPYy1ERUxOLS00X091MWR3M3dNZ3JRcUtaUmw3b1c3TEtYeU9mTm9PRkgya3BmcHNyc2pUWEY0bjVNQ3c0WGZIaDVXdmc?oc=5",
+          "published": "Mon, 12 Oct 2026 13:03:37 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Putositko kärryiltä? Näin Trumpin ja Zelenskyin kiista energiatulitauosta eteni - Yle",
+          "title": "Risto E. J. Penttilä: Trump ei suostu katsomaan peiliin ja hakee siksi nyt syntipukkia Zelenskyistä - Yle",
           "publisher": "Yle",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1IeGFBdERGelh5RFk2RFJVa0dZUEdVRDgyR1A1cDZaVGdpb2FFVU8xbDhORi1MZzRzTVhtc1Z6OW04Zw?oc=5",
-          "published": "Sun, 11 Oct 2026 17:12:28 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4teWRTMVhPamdPdklPU3YzakNwVzcwUGJSQ3l5MkJ4dmFTREFQYU55Z3JSZXk2UjhiWEMwV24xR28xUQ?oc=5",
+          "published": "Mon, 12 Oct 2026 19:36:57 GMT"
         },
         {
-          "title": "Lähi-itä | Riadin lentoasemalle Saudi-Arabiaan isketty jälleen, ainakin yksi kuollut ja 11 loukkantunut - HS.fi",
+          "title": "Huthit kertovat iskeneensä taas Riadin lentoasemalle, Suomi kiristi matkustussuositustaan - HS.fi",
           "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zOGRPTUJxY3BRWTA4TFV4TmVURy01SmM3MWFIQ28yMjZuemkyMkE3REktLU9KbjduSy1oM29TTlN1RVVxNjRITWd2SDNVRm00dnhyUHdFWF9pSWQ4?oc=5",
-          "published": "Sun, 11 Oct 2026 17:27:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JeFBnbVlUaDVhajBBckNTbVZZQmhrMTZiRHdwLTF5a0RTdXdGeDl4U21Qc3R3dG5hc2FvQ2FLOVItR2ZNVzhuM1JnVjJMSVA3aHd4MjBhM3h2Rkti?oc=5",
+          "published": "Mon, 12 Oct 2026 19:56:00 GMT"
         },
         {
-          "title": "FT: Venäjä aikeissa salamurhata aseteollisuuden pomoja - Ilta-Sanomat",
-          "publisher": "Ilta-Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82ekRDRHpaZGlERGo5aGdiTy1ESzZpcmxxMk1XbVZHakpPd2pGa0F5VkpiVnpxaUlPQk9xSnFiTzYyNlF2dTJDdFloTG1uZV9qaDQwUEZIbGlSREJ3MFE?oc=5",
-          "published": "Sun, 11 Oct 2026 17:24:00 GMT"
-        },
-        {
-          "title": "Sanna Marin sanoo italialaislehdessä palaavansa politiikkaan, jos Venäjä hyökkää Suomeen - mtvuutiset.fi",
-          "publisher": "mtvuutiset.fi",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPazRuYnpyMEp6NHMyUnpON29ncFRlczFOUlNOLTlUYkpacFRpWU1iN2dxVEdxYmY4TmY5b2RHb1JNMi1hNnhtVngzVjVlQTFmX3F0VV9HX0E2SGdxSFZ1T3lQNTN6Vk1qRXBPSU9rS3lMOW1hQmphNkJtVjdOTDBVSHV5SmhmSWpHRlZuc1RpYlhkQnlZdUhCVGF5NE0wZnk0cGFZcUh4MzZtS1hxQmwzMW9oVzVOQTdCanNEVHpYYXBkVnVXQmRUZnAzUQ?oc=5",
-          "published": "Sun, 11 Oct 2026 19:27:04 GMT"
-        },
-        {
-          "title": "Britannialta historiallinen syytös Venäjälle - Iltalehti",
+          "title": "Lähteet: Valkoinen talo uhkaa lopettaa Ukrainan tukemisen – ”He soittivat kaikille” - Iltalehti",
           "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42Y1JYczBWYkppNm85czZURkVoTThXMTdFaUZLV2pudC1aUFNzeDJiRkxjN3BuWWU2U2k1R3Z0YkpUamFGYkpqNXE3TWM1NDdmekhIVUF6VlFXcGxzRVZKUmlqVDhqRldmMnZMX2xMZ2Q4eUR6V2JVT1hJMEU?oc=5",
-          "published": "Sun, 11 Oct 2026 17:34:29 GMT"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6Q1hjOHg4Y2lOLVB2Wkhnai1pQi14ZXowajVFT1FsUmQxN2F0NG9tdF9HMDVCRzhTTGZTaHlNUkpVcEw0X1J2NlJ1Q3BuaGNmaXVHMFhlaHk4SUNwTDZEUjE5Q2R6STlJZTBKaDA5Z3ZRbGpJSWJjREJ4bVQ?oc=5",
+          "published": "Mon, 12 Oct 2026 18:05:30 GMT"
+        },
+        {
+          "title": "Ukrainan iskut hiljensivät Venäjän botit, väittävät Ville Niinistö ja Zelenskyi – asiantuntijat erimielisiä, onko tästä näyttöä - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Yemc3U3MzT2dPMXpmaU9fT1dHNldaWGdKS3BpZVhrak55NHFLeFFObG1lenJMQk1kNy0tdmMtWk5Fdw?oc=5",
+          "published": "Mon, 12 Oct 2026 17:10:29 GMT"
+        },
+        {
+          "title": "Viron uusi presidentti vierailee Helsingissä | Paikalliset - Helsingin Uutiset",
+          "publisher": "Helsingin Uutiset",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FalFES0RtM29WeGROYlVrbzVnVVh5alI0Y0g5eGwxQ0JKTlBGZm9fdC1xQ1FCQmpvQV9MSEVVc2ZmWFZmY2NEcUpaWWJSQWVzUGh5N2E3M2tIZERUSVFCUA?oc=5",
+          "published": "Mon, 12 Oct 2026 18:41:10 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Asuntokaupan syksy näyttää synkältä – uudiskohteissa poikkeuksellisia kampanjoita - mtvuutiset.fi",
-          "publisher": "mtvuutiset.fi",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnU0SmpfSm41VG9sSVZfWC1lak9LZGdNeGpsYVk0bUpKQnB4X3liQzFucl92VkYzV254dms1S1FtM0FZZWdFdlpDajZFZVd1SkMweW82c3FLWG10eHVXRVNYMkYzZGQ3anV3SkRZd0RoR0htNmVkem9GS051SzJBLTJFaTJCZU5HdjRuT0dmR204cUwzS0xvYzdlT2JidUNGU1VxaWxNUlNqRW5kRWpMUklnQ0RaUGU1NDBCdG5YXzI?oc=5",
-          "published": "Sun, 11 Oct 2026 19:15:26 GMT"
+          "title": "Viking Line vastaa eväskohuun – lapsiperheen eväät heitettiin roskiin - Ilta-Sanomat",
+          "publisher": "Ilta-Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93dVRaQnZ5Wi1vUS1yOGRsX3phV3RTRFZic2NqT0hYZlNmOHRWNFhMUTJqVFdpRm5udzBLRjdwRXRnTEdULS1BQjhLUm0ydEJfSW5KOUkzdXNQeEpZ?oc=5",
+          "published": "Mon, 12 Oct 2026 16:18:00 GMT"
         },
         {
-          "title": "Gallup | Uskotko tekoälyn olevan enemmän hyödyksi vai haitaksi ihmiskunnalle? - Muropaketti.com",
-          "publisher": "Muropaketti.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWVVMmF6aFNuMUVaTFo2N0xHdktLM2VHZk04OXFEZWJZMzk1emlnNXdNYUZkbVg4UVVyNjhlb3dIa1pYeVp3LURwUGNlSTU2R0FzTUdLV0prRVNVNFVrbEVudER3VmJGT0NBS3AtUXZmdlQwQWJjT3Nva0JWakZPM2s3NXFwTnhYNG9fSW43WDlSZUZrOWRXU3dJVkNPQ295WlhBM2ZWX2VPUDdUX1VBZDF0R2Q2WE1vTnBBRW9EdDRvX3VKbHVkbkNrWUJ2bkpUY2c?oc=5",
-          "published": "Sun, 11 Oct 2026 15:46:00 GMT"
+          "title": "Savonlinja lopettaa bussivuorot Kajaanista etelään – ”Toiseen suuntaan pitäisi hintoja veivata” - Kainuun Sanomat",
+          "publisher": "Kainuun Sanomat",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU0Q3Nm1tbjFwN0twZHdEYWJCejRTN2lLQjlESE1YZnRlWm5Ed0dFSWVqdE44UE1KLVJqaTF5UFNBbUZueDdPc05lNzhhOVVxanZEcWk4YXZGQ0dfUkoyWHducFl0SXE3dlVvZnRWUmw5X3Nfa1pvMlE1ZFdJYjFpdEw0LURVNHA3WjQ1LWM5b1J1M1kxdFZnYnE4U1Rzem42RVZvX0FhdWJKbWVSU3UxZFdHUHJxYmJsZTZVUHJTOFd0bjUxZXV1anl1Zw?oc=5",
+          "published": "Mon, 12 Oct 2026 14:00:00 GMT"
         },
         {
-          "title": "Ekonomisti laski: Näin paljon datakeskukset nostavat sähkön hintaa Suomessa – ”Kalliit tunnit yleistyvät voimakkaasti” - Uusi Suomi",
-          "publisher": "Uusi Suomi",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kWjNwNXRlYjlOTDFoUVJUNEpuMmtHZDUydkY1ckxYRklNczlGTGVFN19GbndhekN1MzQ0cVNLSGxzc2Q3dHlQcDdRMDFZd2lvQWlaVVM4Y1ZnV2JZbWxQZEZLOGpsU0tnVDEtMkNSa3NseG1Yd2pxQmY1VQ?oc=5",
-          "published": "Sun, 11 Oct 2026 11:31:41 GMT"
+          "title": "Tässä on uusi Hyundai Bayon – Art of Steel -muotoilu muutti auton ulkonäön täydellisesti - Kauppalehti",
+          "publisher": "Kauppalehti",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LcU5uM3pUeXVSYk1IVGRuRU95d1BsUnQxbWgzSnVxZWYybFcycXk0a1BHbm4zRnU5cXRVNGdRc1lUeDNFVUpqYU9MSmlXbVhnNTZ6ZHNEdHhFX1cxc0t0UXIzT2kxbEh0OHhESk05Ti15VTVaUDdYaTZ0d0RUZw?oc=5",
+          "published": "Tue, 13 Oct 2026 02:30:00 GMT"
         },
         {
-          "title": "Halvempi kuin Škoda: Uusi kiinalaismaasturi mykistää varusteillaan - Iltalehti",
-          "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ydzJkMnJ2NTZaTFI5U1JqMktXMGN6dUtXd0RiT0hFTlltYTRYY3ZzYkZvOEx6c2lsa05za1dNeGIxYlE1ZnlVc2lyd09ta2o0WGlkN25vMk0yeVZNQkFOX3FMSmNkWGxvMm5wRW5SY2xSdHc4M2lfQllIeDZiVG8?oc=5",
-          "published": "Sun, 11 Oct 2026 15:25:03 GMT"
+          "title": "Kiina ja EU kävivät tiiviitä neuvotteluja hybridi- ja sähköautokaupasta - Yle",
+          "publisher": "Yle",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1HT0xJZk5MNFdtbllSRDdIVmYxSXpId3FpNF92UUMtX2kxSE82YkFxdEZXUWp5WWJXUGtEa0FiTUd3QQ?oc=5",
+          "published": "Mon, 12 Oct 2026 07:08:58 GMT"
         },
         {
-          "title": "Viking Lineltä täysin uusi laivareitti Viroon - Länsiväylä",
-          "publisher": "Länsiväylä",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wNE4xQXhlQy1KazNmMnB0WWxJNmd2RmhwcEF6OVdUdXVZei1wcWpCaHpPWjRsN05VMTBDX3JERnZlS2lxVEtISTR5Uk9oYjJjR1E?oc=5",
-          "published": "Sun, 11 Oct 2026 15:50:00 GMT"
+          "title": "Pirkanmaalle suunnitellaan datakeskuksia yli 10 paikkaan – Tämä on niiden tilanne - Nokian Uutiset",
+          "publisher": "Nokian Uutiset",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rUnd6djB1Wk90Q21CRkJsS21lTExVcUdYNkwwZVpKSVVfblNUa2VIcnRzYjdZajM2NXIzZ3V0NmFvMWJKc1BrWmsxdmkyZFExWDEzSXU4Q1A0THMwRC1JX2pvdDlCdVU1cnVr?oc=5",
+          "published": "Mon, 12 Oct 2026 12:00:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Leijonien maailmanmestari nostettiin NHL:ään | Urheilu - Savon Sanomat",
-          "publisher": "Savon Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSFZ0TDNvQVl6aGxIX0RSNzdXWWJuR3hqQW5qUUJJMU54dC1TN2p0MWVuamswcnhhbXFlNUxkb0RnVHlwM2NtRko5LTRZd0F2c0FfOG5n?oc=5",
-          "published": "Sun, 11 Oct 2026 19:28:00 GMT"
+          "title": "HJK:n kiri jatkui maalirikkaassa pelissä – Nyt jo kakkospaikalle Veikkausliigassa - https://www.vuohi.fi/",
+          "publisher": "https://www.vuohi.fi/",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9wanNmZXF2WDZjSDctUGZmTXhVZXBRTlA0ZDRTb051Sk9LNGVsalA2WTF4ZGN5aThIM0Itb1hRSzBRRC1E?oc=5",
+          "published": "Mon, 12 Oct 2026 17:59:31 GMT"
         },
         {
-          "title": "Valioliiga | Manchester City löi Liverpoolin kymmenessä minuutissa - HS.fi",
+          "title": "NHL | Anton Lundell avasi kauden maalihanansa NHL:ssä - HS.fi",
           "publisher": "HS.fi",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Oa0FqZ3daMG10TVdBbGFjNzdVOVp6RFZmSE5LZU5lTkU1NHBNR29nY3pFU2w1OUNsd1l5VC1vUFBZUkpPZEJ5RjlNbWNPVTJzeE1iank4X1A1N01D?oc=5",
-          "published": "Sun, 11 Oct 2026 17:31:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zRmdYNlB0RzkxeGdVQlZQRHUzMU90LWhERVNNY2IzYWxUMV9aMmZ5dzZYZ0UzQzN2S3gzUTR0d2dRLVhNdUJkY0lNYlU4b2V6Q2RKWV9qY2k3elhP?oc=5",
+          "published": "Mon, 12 Oct 2026 20:02:00 GMT"
         },
         {
-          "title": "Max Verstappen valloitti vihdoin Singaporen gp:n - Etelä-Suomen Sanomat",
-          "publisher": "Etelä-Suomen Sanomat",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RYWkzQzM2YTdwS1JEUFp4MGRHNFlpc2ppOVlnSlZJTV9ubFZTVV9tZGVwYVZyWTd5UVJJTmlrUUVteHZ3XzViYkd3?oc=5",
-          "published": "Sun, 11 Oct 2026 11:51:46 GMT"
+          "title": "Pelicans irtisanoo kuusi – Kolmelta kaudelta hurja tappiosumma - Karjalainen",
+          "publisher": "Karjalainen",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3ZXBhazRMUmdwcWQ2OUx4ZTRkYzhXYzN0SFA5bUxUSGdROUtEUVJxTExKV1llbFBKSzFQR2lrb2pXVVhRa3dqcnQ5blJicFRtemdTRQ?oc=5",
+          "published": "Mon, 12 Oct 2026 18:49:18 GMT"
         },
         {
-          "title": "Tämän pelaajan kanssa HIFK neuvottelee - Iltalehti",
-          "publisher": "Iltalehti",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UOFJlNEZMUkVOa2ZvOTZTU1BWdXp2end1VVF1NkIwMXI3Tzd2a1JYbEcwZ0tqdkZ0RGt0MExzNDBTY1gyQkhaUU5iQU03eHg1eDZlN09hVXlxYWJrdHl4UnR6TTVzcTNBVUpDZ25lcDJFSUVaNDBjRnNKMA?oc=5",
-          "published": "Sun, 11 Oct 2026 17:51:22 GMT"
+          "title": "Atte Ohtamaa jatkaa uraansa − uusi koti löytyi JYPistä - LIIGA - Jatkoaika",
+          "publisher": "Jatkoaika",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeE1ZajNPcGxUM2ljLUdaRDNTbXZybXV3MnI0QmV1SDVwWEVna1AwbUNuV0hHZkYyLWdPOTMzTkUxbTFjdkFzQnpRbDlNMGJBWENzcjlrWERUdXZFdmpvaUpkc2tQSlhCVVU4M0N3NG1JSjBaZVFBNF9jbHF0X1U4QXFBUlpXTXJ5aTkwbmpJRnBORHFYWW9COUhxMTF5clJIQ3o1WXZaaGNlXy1TOE5ORGloYw?oc=5",
+          "published": "Mon, 12 Oct 2026 18:13:13 GMT"
         },
         {
-          "title": "Oliver Lindell kerää kärkisijoja hengästyttävään tahtiin, Sami Välimäki ilahdutti vahvoilla otteillaan - Golfpiste.com",
-          "publisher": "Golfpiste.com",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNczR3U1VsdEdiV1ZieHpZZTVoLWFUMHkzbTBBVjYyRW5qcXNSX1JXTGRFa25lZml4T1puamFHaU5VYS1vZ0xjQlo3bVZhLXN5VHlYM29tc1VDN2M2c3dvOFQ2dkdmMEl3SFJNalk5OHdFMW9hYVVPeHQ1cFRhMmdyZ0hNRXE0SFdnYUU1OHNfdGlxbXpZV2JfWVJtVjJMTG5LRWkwcFBrdGozOC1VMHRXbUhWRGpxejlqcUFDZUpha2lad3ZDRWVtRF94M1U?oc=5",
-          "published": "Sun, 11 Oct 2026 17:29:35 GMT"
+          "title": "Jokereiden dj sai Ilves-fanit suunniltaan – Helsinkiläisseura perustelee toimintatapaa asiattomalla huutelulla - Aamulehti",
+          "publisher": "Aamulehti",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNbnc0amI4VTJkZUI3Nzhad2FTb3haV2t3OHAtNnRZME1NTklGTjcweVJSMmFqcVI3dG5qc3IzMUtfUTgyTmFFcFRzeGRUX29qa0doV3E1NVFlQlJ0c3NRczF2UQ?oc=5",
+          "published": "Mon, 12 Oct 2026 14:45:00 GMT"
         }
       ]
     },
@@ -158,22 +158,16 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "History-making American World Cup referee Ismail Elfath announces retirement - USA Today",
-          "publisher": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc05UYUFSalE3S19SenB3cTA1WHc1VmgxMUp4QjVBZmRSdURpUWZ0Z05DRkJaSGJFbTZzSW5JZHpiaEZpak14RVNjb1VPbjViNEtvZDFYTk5NZ0VEVjlrQUk1S2JsVjJydXhhaXVhdllPdWxnSFZENG1xLWs1TjRONWEtd0I1TWoxaGRxdUd5NnR5czVPX3ZSYlFtTm9wV0M2TlFUTWVFUkNnRnJMOFhKUDY0UlQ5RTJSQzZaemxPeXZqTG13c2NQUzJtN3hhd1JtX1RHbzNR?oc=5",
-          "published": "Sun, 11 Oct 2026 19:21:00 GMT"
+          "title": "World Cup Soccer Ball Sculpture Gets Permanent Home In Metuchen - Patch",
+          "publisher": "Patch",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXV3S0Q0UDVKa1ZVekZOYzhFekxjT2lVSlZ4aVlnenZWZ2NtUnlIcHJiTXY2TExVaU1ZcHBDZk5sVktubzRaOEZSS2FZWk5yVFVrR0hPVXFDdGRESHllb2haRmVwbVBDLURqWnlBM2NjMG5kR3RfejNxZ1Z1cDZmUThZbzhwZnhFRGY3WFNlQ2ZfYUpibWtVZzVLU3dlR04yZWdIbkpBdW_SAb4BQVVfeXFMTnpJNndYY3FkUG9mQVJpZXlqaWhUZW5mWktuQUhCamRGU1IzRDJtTms0ZEt5TjhiSHJCU0RSR2EyNV9VSGE3TVgyWlZDTU10MzJuQ3JXZ0RIMjNLXzdiNTl3TU1zTXBSRzBWT2w1QXJsUEkzQTJ4NWNQVHk1V21TWDFCSThuVHVGdzltc1dHejNSYzVOUVRXZHEwc2prX1RiM2oxb3NZeXpWakhGZ1oxTHMxVjZGSUsySmxJS0t4UQ?oc=5",
+          "published": "Mon, 12 Oct 2026 19:24:21 GMT"
         },
         {
-          "title": "Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcDVYYjZqTWttTzNoSE1kd0VKcUlOU0tZVjFLOWRfUzN2bmI0c0ZkWHVKaENWVjAyTG9LSTRtWTBTZE1GeHlsWVRITlpqdXdNOEVOQjRXYjQ4cndIVGNuSXQ1X2M3V2J0ZHhRZF9SaldYSFNqcGV3WUZpdVUtUGxkbVlYeDhpbWZ0bHFOUF9yNGlLc0hZS24xQ2haUmI1a2J2aDB3dm5MSEtNbjdFM3Q2eER6MkU?oc=5",
-          "published": "Sun, 11 Oct 2026 19:00:00 GMT"
-        },
-        {
-          "title": "How the Premier League’s great sell-off changed the fabric of English football - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQak1vZjliOEZEVXpNNzZSZTVTa0dhLThhWFprR1JyOTVfYU0xcXpLUWNGTFUwbG1majY1cHhDVGszUE5EQWlyaU4xOXFMc1BQS1RWWFI4cjRHWjdYR09tdktsSGhvd01PMkNYemlaY24zTDJPeGlDRXpQWEtQeFduN3V1NUZxRjFoX1BkQ1VKRWU4M2lVeHlteDVvZVdjUjNRSmhMT3NaUDJRXzE4ajczQmlYT2V1VzNLNHY5SQ?oc=5",
-          "published": "Sat, 10 Oct 2026 07:53:52 GMT"
+          "title": "Israel Urges Netherlands to Reverse Ban Again Israeli Soccer Fans for Upcoming Europa League Match - Algemeiner.com",
+          "publisher": "Algemeiner.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdHJpNFA2ZlRnd2NCR1dCLUNXdHBUOGU3ZHQtcl9BckF5bHdpZVZRNFFKSHZKRFdQR3JqeUFZSFNOdHJVMW1uTTIxTEx2LUNGWEp4dlJYMmtLblRmOUxlVXhPazFSVFJaYWNMOTZmNFhQYVNqUFlkNGxZeDR5YXJLTlpoOWszUkwxMzc2MVdmVm51QnNyUXNkdDR6aWhIRi1tN05weGhNWHlvR3gyWVlBSl9oSWZ5Zm4wZ2REZWw3bjRWSkhQeXlvRVVtQ3BnYVU2Tnhn?oc=5",
+          "published": "Mon, 12 Oct 2026 15:53:00 GMT"
         },
         {
           "title": "European soccer leaders tell UEFA of unhappiness with longer 4-game schedule for national teams - Yahoo Sports",
@@ -186,6 +180,12 @@
           "publisher": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWTItWHItOG9nbTkyTm1rcUp0UEVuU1lKZDdreW00TmhLVlExMS01OGpjbFNLc2RKa28zU25IRVkyWjZIZzhGanBncG9FdS1nR08xXzhXb09DZER1VURaekNsN0ZvMDJYWUNKc0drTGt6bFhyeWd5MGJLRVJ5eXhZZEhnQWVjNlNuVl9hNzZ4ZjRnSGprNWFWOEtOWFRMTnJiMm1MSmV3ZVhMQQ?oc=5",
           "published": "Thu, 08 Oct 2026 16:30:33 GMT"
+        },
+        {
+          "title": "Premier League: 10 talking points from the weekend’s action - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNVBPMnY5MEtHeVUtcmhyYm44V0lLckxqS2FZeTAwcnVVTXZXOUNXTHZDeFdETzlPTExISXpMNEtuNVN2dXFfOVBrMUxkTldncWZpMGdaTHlEcmNfQUZ3YUpsYy1KV29GdV80dVFGU2hRYmw4TXdsTmkwWktfcTRGWlI5Z1NJZkU3bkVtLXlZdWhWU0JXSjh2eE9oME92RC1tSjJGNUVPLW8?oc=5",
+          "published": "Mon, 12 Oct 2026 15:37:00 GMT"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Kelly Clarkson says a Brooklyn store snubbed her. The shop says the item she wanted wasn’t for sale. - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWg5WXh0TzQ5US02UDB1aGsyX2NaQlRfblI4OXpTSW1URG5hZVNpV05mMXJYOExrRmJWNWgzRXpLV0RtUnBiZ2ZOc1cwaTB6dFp4aVo0TTI4LWY1Mm1JSU9jTTRyTFpBTnhXeEY5MWRFVlBwbzlYbHB2RzNfSkptb2xRWDdCMk1jMlFsN3NJZkZBQkNfaVVjVDZZSkN3aWFfalpkUVdzalVya2JFOUN6Ynh3RGNRQU9RdV93MUw5NzJOTXlFcUdrcjVOZS1VZkk?oc=5",
-          "published": "Sun, 11 Oct 2026 22:12:09 GMT"
+          "title": "RJ Mitte, Who Played Walter White’s Son on ‘Breaking Bad,’ Dies at 34 - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjVmdZdU5uUzdjZUk5TVFyWjMzZXlLaVpHMm85anBMcGhocEdnVVN5YXFDalIyMVllZHdNM2NIZl9PWEk3UWhvUm5EY2o4RDgxeDJPTWo1V3ZkYmhrRkJkbjV1UlFaQXBYbXVYTE1lQVllMGpyeDEwbg?oc=5",
+          "published": "Tue, 13 Oct 2026 00:09:42 GMT"
         },
         {
-          "title": "Box Office: ‘The Social Reckoning’ Flops With $5.5 Million Debut, ‘Other Mommy’ Tops Box Office With $27.5 Million - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWm5PMk55QUlFa2JtWFNMSEhWVFZ2NXg3ZHp5OWJ3bnZiTFFPTk9zdG9FT0laekJfdGFTT3RQWkFpWXhHYTR5ZjR6WXFkOGl4YzRRY1R1eTZkRnlLX3pYVDUteGR6QUlrVURlX3IxSzU5REFNZ1dkZmY2Z0NhSW43Slg0c1lNLVB3TmdDOVRvMnM4OXV3bTBDN1FKbnJXX3A3NV9OMHF0bw?oc=5",
-          "published": "Sun, 11 Oct 2026 15:14:00 GMT"
+          "title": "Selma Blair arrested after alleged assault on flight, charged with kicking officer and nurse after - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUc5WE03aG9UWEFvWUo3NHN6YlktMDBySDVUR2JGbkN1ZDA5Z2h2RTdlaUJpbF9qV2JxMHJPRlU1TGo5QzZTeFFjeFRzOWxGZ2FiR3ZEMGYxalJFZzNaMDBZbUcxNDRCOFRBUmY0ektWZlNZUDRJMnEzZUFKZ2hjVFZzMA?oc=5",
+          "published": "Tue, 13 Oct 2026 01:27:00 GMT"
         },
         {
-          "title": "Tobey Maguire officiates his ex-wife’s wedding just weeks after divorce finalized - Entertainment Weekly",
-          "publisher": "Entertainment Weekly",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVXRpVzlHbHhmeWhFZFVWbUxGdnZicVo2Q3BzSzJ2amdNLWNUR3VPUlo4WmdxRElHSGp6QVI0aHpvVGFUcmhUVHl0ZVNjRTVncDRGN0E5bTQtRV9mZUZYNzRBbjdSeWMtQUlQR1ZkbDlPX3ZERk9PR0tDM3NraTFLQUNfVlRGQUJRdHNTX1pRZWVfaW9Jd1VWUkdGREE?oc=5",
-          "published": "Sun, 11 Oct 2026 22:21:18 GMT"
+          "title": "Let’s Break Down Kelly Clarkson’s Brooklyn Toy Store Beef - The Cut",
+          "publisher": "The Cut",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXelVuSVQ4RnFNeUVPbzdtYS1UbnZkTkZLWFJ1dGo0RmQxZ0dVRExXaGtIaXFjbWp0cUQwS3V3QWZHZ0pIZkFGb0ZjUWNxY0VaU1UtYUVjOXhnUFBrbHlELU5RbVNoRy1aYlVOS2VsTDRVdkszRTgwb3RTNkxvaEE?oc=5",
+          "published": "Mon, 12 Oct 2026 16:49:10 GMT"
         },
         {
-          "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start - TechCrunch",
-          "publisher": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajJDaW1MekZSaXh1MVhSN2NudGd1NXlMUlBSa2xtcFRsNEN5ampBc1NQV0FZSm1LQU5WZ3pjVWQ4bDNDeGVCNUYtMFhoVnhjcXBBQk1VWURNLTRwbDZhMWxBa1BvV1VMSUFWbS1JTy0yZzFJdks1VmtnMDlHa2xnTG5zb3UybVBQMG9jVkdfNThvQQ?oc=5",
-          "published": "Sun, 11 Oct 2026 20:51:47 GMT"
+          "title": "‘VisionQuest’ Rotten Tomatoes Reviews Are Mostly In Tune With New Marvel Series - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ0lSaklkNS05WVB5Zjh3NnVFM2pHV3EweWpiZnNXUTFaOW1TWTJHcmotODJqakhzWkFGN2txams2cTU0MF9hZTFzVmRHeEJRY0R6ZHNUejJGb2NqLVcwbkdmRElSdm5NUVEwOHQxaWpJZHJqX2oydmI3YUYtMGs1VW1sdFJ6WFBwcklDcWl0Q244UTFYU0hJZ2xTZ2dXT2ZGUUFLZGdDSzY1eHA0V3YzQXhRMktsLWR1dUJKTEZDVQ?oc=5",
+          "published": "Mon, 12 Oct 2026 19:30:06 GMT"
         },
         {
-          "title": "‘Artemis Fowl’ Animated Series Greenlit At Disney Channel, Disney+ With Author Eoin Colfer As EP — NYCC - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUZUNUxkeTJmck1fMnV2YWE4eUZSNzNxamkyODJwVU1RRkxoekI0S3RFeHM3RTVaakJZV2xPRDloeF9wb3hfQkcxbmRYa2Q5b3hUcFI1QXpkUEFfOC10Wktmb0lYbUZPcXZ1UmkzVE93QzF0QTBkbzlRc0xYeUwzTGpHODFkekJyOTJlUFlNTmhNNnlQeVM3SldQZDEtWGV0X3JJcA?oc=5",
-          "published": "Sun, 11 Oct 2026 18:45:00 GMT"
+          "title": "Former ‘SNL’ Star Ego Nwodim Reacts to Shane Gillis’ Controversial Joke About Women - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVURuSGZxd0JfZS1FTGJ2M2JVank4OFdXUXdfYk4wRklLa3dOSUZ1ZDZYV0x2bmVWbllKdW1Oc2hnRmFBT2poSnJCa0IxVWRjbWJINFZYY1l1dVdmcUJQYmx5RWQ3NHY5RVM3LWZZQ1dKaHJTdEpBOF9yN2l0Y2loSTR1eFRsRTkwclBNQ05ZR3VkdkR3Vm5SQktBM3dQWlJlT0dManR0R05yOUNCZ1BF?oc=5",
+          "published": "Mon, 12 Oct 2026 23:37:37 GMT"
         }
       ]
     }
