@@ -1,7 +1,7 @@
 {
   "market": "SG",
-  "generatedAt": "2026-10-13T02:51:54.763764Z",
-  "validForDate": "2026-10-13",
+  "generatedAt": "2026-10-14T00:53:16.411842Z",
+  "validForDate": "2026-10-14",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,10 +9,16 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "CNA Explains: Why PSI and AQI readings differ - and which one should you follow during haze season? - CNA",
+          "title": "Smoke, swamps and snakes hamper Indonesia’s battle against forest fires, officials say - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnMzY2pTUHZmLVlvRTJPWHFzYVdvZHJ4R2N5RmttUlpQU3BMV0JCWDZHRUs0OURsb3lRb05nRk4xZ0hsS1VteFdOVUVWYjRXY1hxeGVDbm1WTUQxb3FuMmNwMUVIczdwR0lrWFBsZm5oeWpCamxxalVIbm9BZEZYQ3ZaaE8xSUc3T2lSMmtTTzFTb2xhRGZHZGF3NHhna29UdFA4Qm8yM0xxWjAzS2tCTS1MVGRydnJ6dEs4MG1qOHdBUEU?oc=5",
+          "published": "Tue, 13 Oct 2026 05:00:00 GMT"
+        },
+        {
+          "title": "NEA tracking haze hotspots and sources as earlier investigations under Transboundary Haze Pollution Act continue - CNA",
           "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ2RTWlk2U01Ma0lXa0ZSZG8wNm4wd0g0ZW95aEwyRGxGM0wtSEFMM2Y1SEo4M1JsN2tIdTdDSmhkZkpTRGJTQkE3cTR6Q2UzdXpld0E4c1ZpVXJlbU8tYzJoeVp5YVRPakNRejNySHEzNGhoQ0VYMFpPVWt0dlMwWE13cmtSZw?oc=5",
-          "published": "Tue, 13 Oct 2026 01:23:37 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOXlXajhSTHJzbXBBYmhQTkFxd1M2VzI2SVM5OElld3hOSjlyRDROckw4aFJQZlRoTllTcDVSWjJESTE0ektxQmt4Zi1mdVZmTVVtWmp6WW5sMktfTTZ2T0hZUlJ6Sm5SWDMxeXRhMk9DMmREY2NubXZMU3FjbVM4eDF6S3RJSTNQYXpCVHIzOEE5ancxckdubTZNcU12S3ZfNnZr?oc=5",
+          "published": "Mon, 12 Oct 2026 09:37:11 GMT"
         },
         {
           "title": "Govts must incentivise private sector to hire fresh grads amid declining entry-level roles: President - The Straits Times",
@@ -21,22 +27,16 @@
           "published": "Mon, 12 Oct 2026 11:54:00 GMT"
         },
         {
-          "title": "Singapore moves to accelerate healthcare innovations in push to be regional clinical research hub - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ2RJU2ZZcXNwM2tGS3htUm1VY3B4LTlXSnBrZzVNLVp3OXE0bzBRMWxxVnYxTGFhNmFQcEdWcWszS09wQkZFcDl2dmlqQ2hrSWpJWXBid25KV3prb0F1cF9kcWNkRVRpVjlMTTk3VUtOWGQ5STM5TXdNV1ljZ2RKa1FfRnJETXJVRjh1NkxzWmE5UTNHY1dQZjVNbVA2SUNnRUE?oc=5",
-          "published": "Mon, 12 Oct 2026 03:05:00 GMT"
-        },
-        {
-          "title": "Mainland on weekdays, Pulau Ubin on weekends: Poly student helps run grandparents' 100-year-old provision shop - AsiaOne",
-          "publisher": "AsiaOne",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXRBNnpKcmlWczJGVDlfZnVqcG9HZi1CamZEQWtXRHV3R1lLYzdUak4tQ1QxX1Z2b2dlNGg4R0lQOWV1dkMyckdTM3RaVVJfTnFud1Y4NVNlX3o2djBDQkR1OHpYaFp0UkNsenI4TlF6OC1mdmNKSF9vemUwM3FzS0o0eHRTbWpJTnBuV3R4T2poeGpmYUV2WlVid1BBdUpwWDIxXzN5TWdYOVk?oc=5",
-          "published": "Mon, 12 Oct 2026 23:30:00 GMT"
-        },
-        {
-          "title": "Man uses shell companies to rent landed homes, later defaulting on rent and refusing to move out - The Straits Times",
+          "title": "No evidence of cheating or fraud found in Sumo Salad work injury claim: Police and MOM - The Straits Times",
           "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb0luVEU2WFNXNWRlUnZ0YXg2clppdTFaR0FtU1BHUjMxcmJNT25ySWpMY3NWZjF2OUVOTi1USWJULVhybHo3dnhWcFoyLWE0Z3BnVHdfRnZ6Z0RxWHhyNk92UkNiNEdza3hHNnFzbU5wOF9wRFZOMUhTbllOdkxxZGV0U2hkSEVTRWN5RWZiLTNfQm1BRmJFY1JVVHhidkh2OG4zRzJ5SWFlZDNrZ3JudWpBT1pUSW1pWEZtdXJKTWJZOHBZWWRIZUF6aTh1Y0c3WmNRS0RWSDFYQQ?oc=5",
-          "published": "Mon, 12 Oct 2026 11:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMlh0VldHWmItTHcxZ0RLWHZVRGEyXy1iaFNmS0M5Ym50NEtvMjB5dEJmVVlKcFFrbldvaFY1R05fTlAzUG42eHotYS1GMjBqcUVSLU5uZzBZdjlpdlR0OUlLWThHMmlrc29JMWZ5b1Y3bkVianFVTUVvM05BbmNzRkxOYjVLN1kta05XM3pnbmlKT3JFUklqOFRzWkFTN3ZiS0xGejk5YzBUUlZfbGdVMzBib0tQdGNBNm5TOUIwRGVNQQ?oc=5",
+          "published": "Tue, 13 Oct 2026 01:45:00 GMT"
+        },
+        {
+          "title": "S’pore, Finland to deepen cooperation on accessibility of benefits of AI, emerging technologies - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS1VfeE9mRHNsdUVVV3BEVmhTRHZCcjV0UGNJWEhxLTBmTnh6bmtmNWhnc19oWngtZnlqNC1IaXljeW9sUTBGUXdBY0ZXakl4WjZkWWJaSlVCZjJGTE9EYmhuQnZNZGdCeEk5bWp2TVJxWEkzWVdhODlKNDNHekk3Wi01amxPLWxYMWRaTklmbVdiMDItaE4tUUdRQjZxRmZHekNaY2tGV2lIN1d1Z25WaU83UVp4R0h6SlA0eTlrXzhTVkVRR1pmM3liUQ?oc=5",
+          "published": "Tue, 13 Oct 2026 06:45:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "CNA Explains: How the new Huanggang Port will improve Hong Kong-mainland connectivity - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmxZSGlzLVRaNzBqOFZSUzRITFR1ZVRWa0lwMG9xaUczTEpqa1dpWWFoMHo4bWJ2VTVXY2lXdDJJYndXS3Z5R25MREpHekJPYTl6THZza005bG5CYkVqZ0JrR2JKWl9EWExZUFJIMU9JRzRubUZwaC03YkRfSUFycUl5LTJ1THZEdUdRVkVHNExPaDJyMmlpQUt3aDhYMjRScEJQLVh3X0dGeTVmeXpfMA?oc=5",
-          "published": "Mon, 12 Oct 2026 11:19:00 GMT"
+          "title": "Higher minimum wage not a silver bullet, but crucial for income growth, says Johan Merican - Malay Mail",
+          "publisher": "Malay Mail",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM0twbmZaMzNNeE9ydThXV2x0LWlXSjVTZG0tUGZtNGhiQWNob0NNdno3cmE2T2pwSzBYMlV6d3FkSHdKRV9iN1lYN1JLYm1QczdYN3hQX3Zsc3lReFNPQUVNRTZnSmJDNGplbVQ3ZEVFcEJNQXZiTXd4V19RdnJ5NzZPNEkwMXl5UzY5X3dQU2R3cUVKY2swcExlUGR4S3RESGNQeEY5anRpaHRfMTdScG9EQW9vU3l4NWhkeHNuR29OdlFRMmZpQi1vbHRRTTZFMW54LXplYmpHbVpDdXhV0gHkAUFVX3lxTFBiamZCWWZzUzdPLXVnVVNkWEpJQTZneVF4UkE4aWhpbThsczhOemFIcnJnNmNJTjh0NDhFWXdIcVZwalpFb1VMbFJySEpZSi1Qcmh2bzZLaFQ0S0ZxVnY1WXNVYnBNZmwtVkxRV3VlOFFCVGdMenlzbmhnSm11eENqVFVXYlRTQXVhaFhOLUt1Tnk5NmtuYUF2aGFhRldFWlhWcGptVHA1NUhDbXF5NzVQSHVqM1pNT25tamp0R0NhSTFSSzE1ZnRXSllnTG5KYXQ3TTNJWlRHQUNRMnh0emNTWkpGVg?oc=5",
+          "published": "Tue, 13 Oct 2026 00:47:39 GMT"
         },
         {
-          "title": "Football games, night markets carry on in Johor amid haze and school closures - The Straits Times",
+          "title": "Malaysia’s haze-related school closures leave parents scrambling to keep children on track for exams - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlFtSDhoQ3pDeVNrM3h1RUw4TDVPbFM5WmhPYnVLTEJ0Q1o0cDBTQWFzNW9xZ3hWSlotai0wQUNZV1FjZDBKaHlBQ2dLcmNVd0laUEJkcDhxRlh1RHNiU3ZCWXJBd3djcnMxQWpvcV9XamNaVWZBQmxLRFlxclpydVBHdzZ1N09NaE9ERHM3SmFoZw?oc=5",
+          "published": "Tue, 13 Oct 2026 23:33:32 GMT"
+        },
+        {
+          "title": "Singaporeans advised to defer travel to Saudi Arabia due to heightened security risks: MFA - The Straits Times",
           "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDQzV01qajFSOXBsbEVNUjBJQ0dSb1QyUjRWNEVRUmpyeFRxTXc0TUFvZmFKQ0hlalV3TDJraWZJeWN1ZGQ1UzQ5YVpkS1d1NjRVTW56bk1rMzZXWW1KdnJYQ0pyMXo5VG9Yak5MU3R2V0NKSUpIdElTNEhLQjFzSlNQNmtpS2hsaUUyT3VQNnFISi1KcWdyRzV2Qk14QVoyN0JRaDNsaGx2dnh1V1B3M1FGYm93V2U2Nnc?oc=5",
-          "published": "Sun, 11 Oct 2026 21:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPXzNIREZ1eG5wSWczYVNUWHAzQ0syU3dxb2ZXek0wTjNKLXVIMzhzOUUzUWEzUUllY2YtV1F4Q0dPM1piR05CSFhwa0J6X0xlQjc4RFozb2gzX2pnblh5bWRaV3A5Zmt6TGxuWVZhTUZHMmhncWI0VlhBYlc5aEhNd2diREF1X3FyR2czbllWNEs4cWd4eGl4ZDFQTDhtQTRpZ0FnTFJlanhNcDhLb2FwYnJ6UFM5VC1Jb2tZVGppVGFoZlpBMnY4?oc=5",
+          "published": "Tue, 13 Oct 2026 12:51:00 GMT"
         },
         {
-          "title": "Saudi Airport Carnage Pressures Trump to Boost US Role in Yemen - Bloomberg.com",
-          "publisher": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2hXZVp5UFh3blFZQ1lvNTZMTlFFVEtqUEhNT0NqMy1GSjJrdnFDcHFQdFRZR0d0cEYzRzI4aGZfaExaRmVXeGdDSE5WSkFYVWQ5UGpzczlHUXA1SmJQdURnN3B5by1BN1lvTUJScVE3amQ4N3dKY00tZEhRbzhhZHdOM3RhbVpMNHpGcTdocHIyYkc5WDR3UTVMQkEyeGNsX0ktcVpiTXBuTFBGTFlRSkZFZ0U?oc=5",
-          "published": "Mon, 12 Oct 2026 20:56:11 GMT"
+          "title": "Is Malaysia’s fiscal health on the mend? BMI says yes in post-Budget forecast - Malay Mail",
+          "publisher": "Malay Mail",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeGRPenNJcnMwM0VqOEE2YjNCZzdwUmhLNFRneW56NXU2Z1NtNU83UEZmV3BLTDJuMnczN0phd0dCSno4UXJzemppb3d1UGFkODk4cDYtNm1LWjcySVprTmpXOXRERzJGM2FVTFJsVWM3V21WaHQ5ZmZzaWlyRXN0NlJ5bzcxY05zWmFWRVJOdnQxTG5ocjgzd1JWM211S2ROWW9fdkJydmRSU1hIalp0UXRTSWc4NkIwNGhmN0l6aUJ3endUU2lFNHdkRHZtQdIB0wFBVV95cUxNSDllbWRreUtnVTVBdUpIdzdBeXREUm4yRmZBZmk2d3Zya1AtQ1NWdUlHUUlCYjN3dlZlaEZsTXBPU2I3TGUyVlAxMnVxRFE3Q1BIclJIa05JN21fcHhOUl9RLXcxcElRZC1UeFQzRmZkNDRSWjNRa2ZRZlBMSUJpLWlQY0JJaTliNUVwRm9ydmpCWXFIZ09VczJFdXF0QmpKX2podzlFcTA0RXd6VWFmbThCMWRLc1hqRkNpUWk5VHdtUzRyWHFEVGYtLUxaTGloRFc0?oc=5",
+          "published": "Tue, 13 Oct 2026 02:42:43 GMT"
         },
         {
-          "title": "EU to Cap Chinese Hybrid Car Imports at 350,000 Each Year - Bloomberg.com",
-          "publisher": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGZ0OFMzZ1pKdWtOVENVU1NaZWt5cFRlR2tKZnA3U3J5cHV1emNQbTN0c05wTFN5bkdxTUNuemtCai15LUR5cV9JbmlLMjRSSVdZUTE0MUNqLUw3cTFmMUdrQVpGZld3NjN1RzE0dmc4SV9SQW11OE5nSFpqNnZzYkMtVlBkNGhDdUUtUGlBekRNQnROTFpVNDNobGRXTm9YZnp3N0I3TGtkaV81NTFGbm9R?oc=5",
-          "published": "Sun, 11 Oct 2026 15:52:31 GMT"
-        },
-        {
-          "title": "Indonesia's new police chief moved fast to shake up the force. Can he change its culture? - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMDNERWhaanhMTGJwNThfakNpWWVxa2FsejY0aHJZTUpRSkhrNUQ1OEhqcU9EYXZaUGJpRDJVbnB3QXpkQkwxa0VGckkydVpUUTlsTnQ2Y1J2ZjBEQ1h2ZWVjdEpITExUV2h5bjZnMnVJU2xVWGpHN3FrbmRISnh0SzZKNnlCdkdD?oc=5",
-          "published": "Mon, 12 Oct 2026 22:00:00 GMT"
+          "title": "China sentences 3 more Myanmar crime bosses to death in scam centre crackdown - South China Morning Post",
+          "publisher": "South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLVZMcXluM0MwaUNKQjI5bzFtel9DSkJPNkE5TnJCR3pXcEIweDlRMi1TalpOMUdvY2tZaXBRTS1CVF9KSERBU3Z5cllZeTZ6MFZPdlpqOEIzVjhFY2RNMkIzMC00c0xnejNjTEIwUVBwOUNReTJuLVZTSU5selYtUHZ3T0VwRmFFU0pKRk5hekpEbUhnWDJ3VzV1dEtGQzZYZWlOQjEwNmo1ZnFQZ0hVbUNvU2Z5cFZ4RXQ5NHNJX2tUUkNxUWdN0gHHAUFVX3lxTE9BT2luZWlnaHJhTjlkNTF4ZnBWWUROaDlPaXBoSnRzSGR1UmZBN0NYY2lQd0RGQ0wtVFduUjJpTkpOYUZiVjNoVU9QZUNRLVdGSDBESzlvdmNBWDdtSE16YWRJYXhLQ3M1SFA3VXJrMGxtLU9TS1dGSXZBRGZUbFFtQ0RybE9ESXhwcTRyVWlYemUxWDZrTWFvWE4wdkx1RzRxZHhuZU1kNHVMUkFiRFpaczNROEhYUHpRTDFCcHhqRWhvMjkxOGc?oc=5",
+          "published": "Tue, 13 Oct 2026 13:26:07 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil - CNBC",
+          "title": "Singapore asks major tech firms for full transparency, quicker information-sharing amid AI risks: Shanmugam - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXphbDdxWXFvNllaaWhMdU8wOFAzZEpLb0VQcWpMVWo4aXN6aDR5YXNNbnp4aHNKd24yeUNBUFV5V3VGUFZmbVFSZllORnFhU24wV3hjaVdkZ3FBUkdDZEtuSnBQaXFXM1RudHhTeGJXRDV2VWs5clNXbGd1SWJLNkxfZzNPdXdvcVRQSDNvZ3ZSVkNmVjRVZ0hyNWlYVHM?oc=5",
+          "published": "Tue, 13 Oct 2026 08:03:00 GMT"
+        },
+        {
+          "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates - CNBC",
           "publisher": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTFg4cmxxc25YUDFTLTQ4clhQSVlSS0RHZ1Z1Z2psTWdzMG5ndFhQU01wc2RGWUhmYldWMWdGWm56eXZ4RnR3NXA3eDgzOWhwcGU2TklkNmVRYS03OGNtSE8zS2psek84WjIzQndDamR2bWdkZWhhbXo1R0FqNkMxYtIBhgFBVV95cUxQbDk1enUtSzBhajB6alhmMll0QXNoNFY5TC1XOEgxRUNSWEptVlJtWnpRWlBybTZxTE9MUF9ZVGkzbU5NN1RZTlRuVG1fU1pBS0t6aFBvV3c4MFNEVHZzQXFMTGZYVDcwR201MXBpVDFlbmZHNnVwVG82TTdGN19QVklKTXUxZw?oc=5",
-          "published": "Tue, 13 Oct 2026 01:26:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEaE05UWFsRE9ZTEVFTVhPaTZEMkdrOFJUbWQ0NElpSmtEVkVSOFhVcF9mc0VONFBXLWYzZ2pmNFNIYmduVjFJcU0zLTZTdEp5dnRuYUtQZFl0ZDJwWlVTdUs2QdIBaEFVX3lxTE9oVS1MZS1tSTQ5NFpwU1FCa2FIYUFEc2gtVWhnQTI0ekwyeHNGdUtvVHFwZmh5dTZYMEhhODdSZzVnajAtYmxtOU93blpKN2hJUURoNUszYWwxQmVkODdqNzJUTDMyVzdL?oc=5",
+          "published": "Wed, 14 Oct 2026 00:09:00 GMT"
         },
         {
-          "title": "MAS tightens financial roadshow guidelines, representatives must get consent before sales pitches - CNA",
+          "title": "Oil rises as Saudi Arabia vows response to attacks - CNA",
           "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3lZMUVFYXRIbzNRQk1GSkxlU25zMXdLMGpkN3NmZ19XTUpCSGpydnNMRnR6aFVjU2YtYlR2LUJ6M2NHeEJfVW9oQ0FCeHV6YzAwc0lmVl9vdEtmWFNKQ0xvMHVkR1ZYaWg5Mlc4bTc2ejY1X0FUUGdvcmoxX0xmd1ZZUFFLcnBTdHlfT09pNFVxT013OXJz?oc=5",
-          "published": "Mon, 12 Oct 2026 08:54:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOei1VNGFFdjdzTGhiVDQ1UUNYUE8yWWpyRDJkeV83MFBNS3dacGFxVFRGWldEZ29NTTJYRU1vc3pQdW9EejR1dzNoMnl3OTdhX2c5ZHZ3V3p6c0FfcG5MV0pVNVVfRDJfa0tveDN4OVlVM2owalA1ZDZBN01nRGZHd0lB?oc=5",
+          "published": "Mon, 12 Oct 2026 21:56:00 GMT"
         },
         {
-          "title": "Tech leaders, govt officials urged to be candid about cybersecurity issues, identify common ground - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT1I5YXBVZXpKZ09jdWRLUVFqRXZsWGxBcHNXcExVSVJQQjVXN3djWG5uQjdfMWNtNldXSWpwVFUwNHJMNXpBOUd2czgycGZGczlmV0wwdV82UXAtaHlla0NIWkNhdWtGaGZaSUZQM2ZKR3FYRGRhWER4Um56YmpyQzllX0UwYWdtc01ESUlxZTItemtQc01aSDBXTWdKaUNXOGhTSlFQMEdkeTlvMS1yV2pPRTZreTViM3h3YW1RdmhiaDVtU1dUY3h3?oc=5",
-          "published": "Mon, 12 Oct 2026 13:16:00 GMT"
-        },
-        {
-          "title": "Firmus IPO Debacle Raises the Bar for Asia AI Deals in Pipeline - Bloomberg.com",
-          "publisher": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQamFhdDVxNkwxT3ZxLTFITVhCVXZnLUFCRWJNcXNQcGo2RDVoUW82bTNMMkFyc3JONnp2OHFvTWlDNWt1azk2T3ZJWDVFbmltNFYtWmhyT25NSFBNNW9PaXB0WExrdWpJZjVmR3dQQW9HTkNtU2VYS0ZENnVHS0pIYVo0eWxQWm91bzAzUHBRLTNXUjJERHlQdlhEWDhZRDZ1cVpFb0xXYVlIcXRKUWRiRC1nX3U?oc=5",
-          "published": "Mon, 12 Oct 2026 07:39:11 GMT"
-        },
-        {
-          "title": "IMF says AI investment keeps global growth around 3%, with major Asia benefits - CNA",
+          "title": "AI investment props up global growth, but war and debt threaten outlook, IMF says - CNA",
           "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcnlyc3RLZl9uSTVsbVlGRjhLMDVZajVpeGFWTEFVQy1wZHBiWDIxR1MyUHBadVlmem1PWGJZYzJlM1lvRUYzclAyelNTUFdoOTJSdmxfYUxrMUV5SmFPZnlLbHZjblpWc0hwMmJwSmluMU0yZTBCWEdSU2tvbzN4MUZIQVR4LUFJMzhzLVJTVEUwRUI0Y0I1MllGM3VGOWNEM2lrUmhoMUJlVFlLRTMxcjZRV2Vhdkl1bzVuVQ?oc=5",
-          "published": "Mon, 12 Oct 2026 03:50:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkFkRTlNdDVCTHlnYVQtRXJYYWdrQkplVE1ldTI4bjlrNkdOVi01NFRndGZ2bUpCbVJnTWt0YThoZ3VoOE96QnZPOGZtRkJlQnJJUWJNNGxfOERnNll3SjRPYWhHdGtnTjlpa01oeDVFRTgxeGRERlo0eDd5RHBReTJCQjc5N3VtUWY4OVp0bFlJTmg1SDFWRHRR?oc=5",
+          "published": "Tue, 13 Oct 2026 03:39:00 GMT"
+        },
+        {
+          "title": "‘Modest take-up’: More than 90 families await childminders as pilot faces matching challenge - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdU5fdTlaTjc4dnZZQ1RFTVhGMWNBWlhVdl9kZU0wV29fVnpRVHRyTFZZRjV5aWNpLVBuT1VxNWRWYTBPeHpwSkxxUnBXOGJFMXBGUnc3VG1Ja2ZOU3NYbzdSZ0ZQY1Q3QUFabExSNF9tbUdTa2xoS1RRaGh4cFowVkZQQTh4VU9aREp4VXE4M0JvUS1UNy1qbjkxdkVKNWg4M0tVVw?oc=5",
+          "published": "Tue, 13 Oct 2026 22:00:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "'Singa-bore'? Max Verstappen leads every lap as Kimi Antonelli edges toward F1 title - Yahoo News Singapore",
-          "publisher": "Yahoo News Singapore",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcjdZaklWUEpwZWhBVllMZ0pxNzdfSGVjUXk3ejkyWlN1OVIwT3JpSktpZkd2MTZURXpmMndFaEg4UWJVN0ZVUlFIdi00T3E3cFctZExfc3pGZjhnc21aUUJXYjlCQV9FNXVSQlZlZWRzOUFVNVlWb1JvNTJ1MlZLVkdhSmVRRFE1TjJsdENfMkpidHBhZEtCQ3ZLRmdUbDR5S0ItQkk5M1I1ekliS1VhaktuUlBuMm5GVEt6dkVmbw?oc=5",
-          "published": "Mon, 12 Oct 2026 04:46:00 GMT"
-        },
-        {
-          "title": "Liverpool's Virgil van Dijk: Don't view Man City rivalry differently despite guilty verdict - ESPN Singapore",
+          "title": "Martínez exposes Man United's harsh reality: Blame lies with top brass, not Carrick - ESPN Singapore",
           "publisher": "ESPN Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVU96aTVFYnlZOXB3dWtRdUZXTmtVU3MwdHJOdTJtY3dqbkxPWjVLSGxITUM0RmxHVzk0THpCV092M19DRWpuQUJYS2YzSXV2ZTdwa0pQLW1KeVRWbkRNcDVnNXRURnU3QXJUQ0xnUFNpX2NOM205U3JmN2RBRGsxenRBTEpFOWlyTFJIMzZRYVI1em4tNGNuZUVQenY0c0JJMHdfZmtJc0xGQ2dEZmZNMDFnSlJ4YWFkXzFIWDlTQ01QcXhpdnBRVVNR?oc=5",
-          "published": "Mon, 12 Oct 2026 11:12:10 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOWN5NlRIOUdlTVp6bTJrdEF1Nnpkd3ZlQzdTVE5YRWhxUnplTUVMRzUxMEpEQXdfWW9GcjM2ckJjR2xhU2tHNTdabmpORDVpZVhmYk4yVjk5NlYyVkhZQXF6WWczaVZTbE9WYUtJanJKZG9VSnY3ZGFkaGdmZHc2SVZPOW9nTWJ6a2hGQzZlTXlxenZibVR5OTI0UzZ2aWt4WWJuNXdtMzA3VWlaSlp3VUlTLVg1TzhMdE82cXIwUEZGN3BHWXhnWGcyVG8wajZkb1pLdkgyNGV5RU0?oc=5",
+          "published": "Tue, 13 Oct 2026 23:32:08 GMT"
         },
         {
-          "title": "Lampard: Coventry 'feet on the ground' after Newcastle win - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkVJQjczUlVZSTVkRDlUSVAtVXJmYUprMGVGaWlVcm92ZFRiT3hpRENyMGNtc3ZZS3B6dGRBRnd6S1A3M3Q1QmdDYzlpVXNTZVpoamp6S2Q2UmRheGl4RFBUNE9ZRVlfYXZqMnN2bjJJQmlsY2JFcEpuNTVFdE9MR1VxUjZrdGxQb2hVMWhmZmc2N080?oc=5",
-          "published": "Mon, 12 Oct 2026 23:15:00 GMT"
-        },
-        {
-          "title": "In pictures: Full throttle at the F1 Singapore Grand Prix 2026 - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTU53Z2dMamNTSHdqOU9LZmpkaVA1elE0cU1qNllIMnl2WTRLZ0EzZU12TUJ5WllGekczamtJeWpnYnU5TTNVU2tCZWk2THVHend4VUwySHlGS2ZHQjVCaU1CTFVhZy1iU0hHalIwMVZkaDhRQm1WYTVwWkNpbEtQRG05ZDhxT2FjV0VPdkh3?oc=5",
-          "published": "Sun, 11 Oct 2026 14:59:00 GMT"
-        },
-        {
-          "title": "Ronaldo scores in Al Nassr win after security delay in Riyadh - ESPN Singapore",
+          "title": "Atlético 2-0 Man United (14 Oct, 2026) Game Analysis - ESPN Singapore",
           "publisher": "ESPN Singapore",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOW4zdGRiOWpnSFcyVWRXZVQwY0lBSTFUcGdLLUdWeWFMOHM0SkcwN0VuX0RMMjZCeTBFclZQQlBPV0w2Ni1CeDB0a011alJIQlV3ZVNkWktKUjFJdXFEZUh1aVgwd3U0SVRCLUFBWEZuaEVuYlRLTFhLd3ROLVFLOTdnaFV3RDF3VmI3ZjlIU0Rfd1FQMDNIaG41SkdPcmhMMnNYeERR?oc=5",
-          "published": "Mon, 12 Oct 2026 22:56:11 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4azkxZ3VPTHgwNmJGbmpJeUdGamV6VUU0WTNwOWQ2N0JjR3pQaDhuYVNuNF9WY0JfVHhycVpySlJmVGt0VjRocFBLLWRWbU8yMkpmTkJPTUJReGxwM01GZ0xrRnBRWmRuV1E?oc=5",
+          "published": "Tue, 13 Oct 2026 21:32:29 GMT"
+        },
+        {
+          "title": "F1 in Singapore: There’s a new fastest car now - Ars Technica",
+          "publisher": "Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU25fQnFtYXhTS1ZGMzkyUFJaRHl4bS1YZmdYa2lILW1OWDN5b2RuRkN4VDl1ZnJhbm9taEZyS3NRdXpsaUxFaU9zVGhsWFB6bXl1TnZKS2RLUS1kVVJNMm1PWUhIM2VaOXpoY0N3WGJ0dzVqNDItTEZvMnRrUWZkTTZ1MFA0UUpKYlE?oc=5",
+          "published": "Mon, 12 Oct 2026 14:43:14 GMT"
+        },
+        {
+          "title": "Arsenal XI vs Lille: Starting lineup and confirmed team news - London Evening Standard",
+          "publisher": "London Evening Standard",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQanA1anQ5Ymw1bU5OZGt4aXBHelcwZDYzSzRCcVp2TEdGRXdPeEhxemliTHBHMWFiYXZSb05EQjR0ZnlZUjZnM3ZJWkQyaERwRWx2b1ROcXJLZHJGQmlhTWFGUGRWOWRZNE42VjhmUzlYSjRtY1EwU1I3Y3pDV0EtNE5yelhoeV9rcFB3NlI0cUg2Ul9XbE5EUWR3MnpOMUJtdGlNVUhTSU14U1dIaHdEVUFWbUZSUm11eVpBQXpSM2d4akNGNFQzY3ExTW9aUkMwTGYxRHF4ZVJZSFVjTS11bUtEbzhWRGl0d09EQQ?oc=5",
+          "published": "Tue, 13 Oct 2026 17:58:46 GMT"
+        },
+        {
+          "title": "Red Bull’s Max Verstappen coasts to maiden F1 Singapore Grand Prix victory - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONjJyQTVJeHZVU3RXX1pIbFRRUVFBbmdvMUt3dFBxYUVNbHgzTUpkUFNRdVVzN3ZXSzhlWVBFWnRGVE11cnBzMXJpUEJENC1xZ3l6MTNuSmtoZGVWZ3cxdE1CcHQ1UE1uaVVmUWRsTXg4VVgwNHhKSW5qM2k5YUxrUjJ3LWZKaFBjb1Bhdnd2cFhXdFNoSlkxblhoTWc0eVJGWkN0dHNFSVBnR3Q3WnFFQnRjajlJbFNLenR4Mw?oc=5",
+          "published": "Sun, 11 Oct 2026 13:45:00 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "From Olaplex to Oribe, hair care brands are targeting ‘bond repair fatigue’ - Cosmetics Business",
-          "publisher": "Cosmetics Business",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aaTZSOWo0TzRDaG9EZHNmRWloZHpyTnZfdmQ4NkhsaGllUzkyN1FKVmFaMF83ejAyTEF6cUZ6UmFEUTY5RzU0VkRBVS04UEFuVmlOY2FFbFk1UDNiUVA4enZvTm84UXNpT1BQWmFLaWl2ZEZmaTlOd0FndG8?oc=5",
-          "published": "Tue, 13 Oct 2026 00:45:15 GMT"
+          "title": "5 On Your Side: Clothing steamers to replace your iron - WRAL",
+          "publisher": "WRAL",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFItNkRSY1E3dlZ3UmdTd3hnYWdEUm95QUhBelhEUjJ5S3JUOXBqVkt2dTh0SkNyT3ZQT2pPdVpSMThZNVhQQ2ZyVXcwRWVMOEoyQ1ZOX1MtRDVST3JJTE02VWRlMTdPamNhNzhiU2pUc2NKRmlRMFhRNFNQWWVtNnFhdWJlX0lPb3lJSVBOdTUwcUxUSXZWeU0xeUg?oc=5",
+          "published": "Tue, 13 Oct 2026 16:59:37 GMT"
         },
         {
-          "title": "Japan dyslipidemia cases to reach 15.3 million by 2035 - Healthcare Asia Magazine",
-          "publisher": "Healthcare Asia Magazine",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQi1uUnQ1Mm92c0pzdGs5QW5TVmFvVk9XOUppenJTQVJIYV9sS19jMUhxajRPRlYyOXQxTWZfbTg4a2h2OXU4aUUyekxkQklfc0l1NlZOR2NFZVhSMWpNdl91YUdxYWw3SUJPZ0ExdWxLZVlNVGxlUEdYYVpFNldndTVCdzlURnp4U0d3elJLZE9mZmN1alItanF5MGduSjg?oc=5",
-          "published": "Mon, 12 Oct 2026 03:45:27 GMT"
+          "title": "Apple's HomeView brings personalized Siri to smart home, takes on Amazon and Google - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOVNHYXRzTVc1bjFaVlJTOVdmNl9MRkowV3BjV05ISlIwTF9KdmtkQjlYWDJjM2liLXVRWlg2ZnljWWxaeE5KZkdaUjc2RG4tN3BjR3hwVEpUTkVEVHJfYU42Z3ZaeFBqYmhKRjBBalhaQ2FYYVo4a3RtdEFOS2hLbi1hei1wX0F4dmVHVlZJNXI0UWFPMXVJUDJhZkJpcHJ6NkQ3WktHWXM2QTd2WVctNmNNanR0TjZCSE1Kbi1Wc0d2Zw?oc=5",
+          "published": "Tue, 13 Oct 2026 22:47:10 GMT"
         },
         {
-          "title": "This ryokan‑style home looks straight out of Japan — but it’s an EC in Singapore - EdgeProp.sg",
-          "publisher": "EdgeProp.sg",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaldNa29oQ24tSnoxVnloMHhfb1hraWtiRW4tYklabXBpRHMzMGU1TGlLWk9jNXBfSXhfSGJqSFp6VEdkVl85U1lvNm9IVkt2d2w4Sjg0UTFRbWp1OEJxWVdXNFd3cE9JRXdOZlBtalE4UV80NHpaMmRLakhfZzZQbzBBdXhVMmF0WFZqVDcxUUYxZGg3b1dmaUJrcGQ?oc=5",
-          "published": "Mon, 12 Oct 2026 08:51:11 GMT"
+          "title": "SKKU Reveals How Eye-Catching Social Media Feeds Steer Attention Toward Misinformation - Asia Research News |",
+          "publisher": "Asia Research News |",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVXRjQmhjT1JaLVBfTWtXUUFHSXIxMGlJZUdwYTVtQ1l3Mkp1cUpBZUVsa3NRWW9vUGRwUU9uYW8tM2g2WW9uRTYyYjRlN3VlY0xZNmFjRk1obnlxRWt5SU53NmJ0ZG1QNTNWdXJqUTFlZk9rVElmeXZ1QW1URnBOaVNuYlUtUzg5TDkxc0RVYVIyaEk4VkdHel8yVTR4bXlINk5mZXpHN3JpQ2o4Z0w2QmMyemhfQlFvWW1xaDhUV05SblR4NVE?oc=5",
+          "published": "Tue, 13 Oct 2026 02:47:26 GMT"
         },
         {
-          "title": "Nikon revokes first prize in Small World in Motion video competition over AI use - Yahoo News Singapore",
-          "publisher": "Yahoo News Singapore",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qajdGbGo2Rnc4eWw3Y3h1X1gxTC0xbDFHcURqc1R4YmZiaXF2aENkajNRb3puNEx1QnlFVkJ2V2J3X1lpbm1zT2xPTlI1bnpYMEEyRXNYc1pSbHlibjJTLVktby0xTW93RkpTdWVpRkI0UGxkS0w3R2dqcVg?oc=5",
-          "published": "Mon, 12 Oct 2026 11:21:43 GMT"
+          "title": "Two coatings curb dendrites in anode-free batteries - Aju Press",
+          "publisher": "Aju Press",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yUmRYYjViWXZTMFU4Vi1FOFlicjNaLVVEZDBJbDBGZWowN1YxbkdaR1J4VkRpRVY2TG5tOHJoZWs3VUNUTlh4eWcySlVPM0FYbmpyS09aVkRtNFXSAVdBVV95cUxNNmxzNzJLTTdBQlFWT1EzeHVFRDJLWVFDOFF4NU13ZEQwemZIZlpMSXBRWTd5aTZoSDZpWHdIV1lJUENzaEc5YkdOdXgyVFQ0a25FaVdfVlE?oc=5",
+          "published": "Tue, 13 Oct 2026 10:19:21 GMT"
         },
         {
-          "title": "EXCLUSIVE: For the Stars Images Showcase the Upcoming Space Sandbox Survival Multiplayer Game | IGN Fall Fan Fest 2026 - IGN Southeast Asia",
-          "publisher": "IGN Southeast Asia",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR3BuSmlKcXJjTW1EeS1FLVc3ekw2Y1l3ZC13aDMtU21pc1VXOWZPLV82cU9YNEQ4aW9GMDR5S0I3UHkxVl9BZG8tUVd6bkFUSXdMRGdva3RkR3JsZ044ZElqdXk2M09Dd3FBeUQ3V3dzcVJ1OERYUzBkQVZJVi1nVHJFNzdUYllCVjY0Skxwbk1MMklzX3VUUDV1OTN5ZVhqc1F1clU2a3FHTi00Q18zZE11YUtXbWZ3MkNReEo4ZjFCcFh0RWFwSnl4Ry1hdE1lbFlnSGhmRFc?oc=5",
-          "published": "Mon, 12 Oct 2026 20:58:46 GMT"
+          "title": "Hands-On: The Updated Breguet Marine 5517, Navigating a More Classical Course - Monochrome Watches",
+          "publisher": "Monochrome Watches",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRXZTV2NnakhxaEZwSFdtMkVKX0tlbDl3RV9waldfUVhsbm1KSWJqT0NMN2h1T1pfUVUxMWs0d1gxM1RLa3hMZWFmY0FzY2FfaGVaY2RUR1lKWVd6V3ZPTEhGNUwyR05xUlFPSF83SWhtR2hJMDBSY0IwVE9FVU9iOU5Pa1ptb0RvY0JrVjc3aXFYaklPR1BoUWhiR0Y?oc=5",
+          "published": "Mon, 12 Oct 2026 17:30:31 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "World Cup Soccer Ball Sculpture Gets Permanent Home In Metuchen - Patch",
-          "publisher": "Patch",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXV3S0Q0UDVKa1ZVekZOYzhFekxjT2lVSlZ4aVlnenZWZ2NtUnlIcHJiTXY2TExVaU1ZcHBDZk5sVktubzRaOEZSS2FZWk5yVFVrR0hPVXFDdGRESHllb2haRmVwbVBDLURqWnlBM2NjMG5kR3RfejNxZ1Z1cDZmUThZbzhwZnhFRGY3WFNlQ2ZfYUpibWtVZzVLU3dlR04yZWdIbkpBdW_SAb4BQVVfeXFMTnpJNndYY3FkUG9mQVJpZXlqaWhUZW5mWktuQUhCamRGU1IzRDJtTms0ZEt5TjhiSHJCU0RSR2EyNV9VSGE3TVgyWlZDTU10MzJuQ3JXZ0RIMjNLXzdiNTl3TU1zTXBSRzBWT2w1QXJsUEkzQTJ4NWNQVHk1V21TWDFCSThuVHVGdzltc1dHejNSYzVOUVRXZHEwc2prX1RiM2oxb3NZeXpWakhGZ1oxTHMxVjZGSUsySmxJS0t4UQ?oc=5",
-          "published": "Mon, 12 Oct 2026 19:24:21 GMT"
+          "title": "Champions League briefing: Man Utd in crisis after Lisandro Martinez’s incendiary interview - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2hfcDU5cXdnZW9VbjdQNnFFVXNTaTFNa0lOVnhSU3R4SkIzZnVna2RWZ2NMa0VvcHBIbHc0ZDkyRkVnR2I3aklHZklYdk5KbnhWU0NGWW1kQ25lTjVOTUNXXzhwTENWbzYxdUE5aVdQR0FJekwxY3VoNnRncnlXd1JNd0wwNG1mMWxqSXkxOGJFbnA3SUs5Q3FhTFdJZUE?oc=5",
+          "published": "Tue, 13 Oct 2026 23:06:28 GMT"
         },
         {
-          "title": "Israel Urges Netherlands to Reverse Ban Again Israeli Soccer Fans for Upcoming Europa League Match - Algemeiner.com",
-          "publisher": "Algemeiner.com",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdHJpNFA2ZlRnd2NCR1dCLUNXdHBUOGU3ZHQtcl9BckF5bHdpZVZRNFFKSHZKRFdQR3JqeUFZSFNOdHJVMW1uTTIxTEx2LUNGWEp4dlJYMmtLblRmOUxlVXhPazFSVFJaYWNMOTZmNFhQYVNqUFlkNGxZeDR5YXJLTlpoOWszUkwxMzc2MVdmVm51QnNyUXNkdDR6aWhIRi1tN05weGhNWHlvR3gyWVlBSl9oSWZ5Zm4wZ2REZWw3bjRWSkhQeXlvRVVtQ3BnYVU2Tnhn?oc=5",
-          "published": "Mon, 12 Oct 2026 15:53:00 GMT"
+          "title": "Nielsen: Post–World Cup Soccer Audiences Surge Among Young Viewers - Front Office Sports",
+          "publisher": "Front Office Sports",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHotRjJ5QTJiUDN1Zm9yeENONjBaZkpsRk9QaDJsYTNtbENuT1A3cG80OGxsQWtUbmtiVkgwajNQQjE5cExodmZWT1NoU3JKMlN3czdNWGlOTTg0bzc4NXlmZE03M2YxeVB0RTRhMnRuMGdyeU1MUWdMYWtwcGVZN0N5bVVacXA0UHZ3UjdxMVE3QzY3anpScHIyUkZEZlJPVW4tRHFCcw?oc=5",
+          "published": "Tue, 13 Oct 2026 19:33:12 GMT"
         },
         {
-          "title": "European soccer leaders tell UEFA of unhappiness with longer 4-game schedule for national teams - Yahoo Sports",
-          "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQWRWX3RuU3R1YXBDaUd2a3Iwd09LLUwxVXRWWnFYSHUwUWRzUUp5cmRHLXBjYUhxU3NxNEZ3SDVRckNLRE5Dam5CU2hTQmZOSE8yLTNIUUtGQnhaeThodUpocm1CU19zNmJ6OXhhaTlnbWxMYUdXTzMtcDA0bzJhaVB0REJfX3VubEE?oc=5",
-          "published": "Fri, 09 Oct 2026 09:53:03 GMT"
-        },
-        {
-          "title": "African football leaders rally behind Infantino for FIFA reelection - Reuters",
+          "title": "Netflix secures rights to air 2030 World Cup in Spain, Andorra - Reuters",
           "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWTItWHItOG9nbTkyTm1rcUp0UEVuU1lKZDdreW00TmhLVlExMS01OGpjbFNLc2RKa28zU25IRVkyWjZIZzhGanBncG9FdS1nR08xXzhXb09DZER1VURaekNsN0ZvMDJYWUNKc0drTGt6bFhyeWd5MGJLRVJ5eXhZZEhnQWVjNlNuVl9hNzZ4ZjRnSGprNWFWOEtOWFRMTnJiMm1MSmV3ZVhMQQ?oc=5",
-          "published": "Thu, 08 Oct 2026 16:30:33 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2VBRnNlNWtlYXplQ1pST3JROGJ1cGN4ejdGV0g4WFVmS3lWSDhzVDk0U2Yya21FSnRGZGpCR1p1UDBlNmdWamJfTVZNS2p6bkdiSnJYNXRscXlpd3FqWFJMWEFUSUlXeExFcEQ5clY4YzNuSDJmVkxrSUY5NDEzTWI3TTltRVl3bk9fQmhob0RnWXVoLTRxRmk5ODZHQ1hNMVlVS3FZX3Q?oc=5",
+          "published": "Tue, 13 Oct 2026 13:14:00 GMT"
         },
         {
-          "title": "Premier League: 10 talking points from the weekend’s action - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNVBPMnY5MEtHeVUtcmhyYm44V0lLckxqS2FZeTAwcnVVTXZXOUNXTHZDeFdETzlPTExISXpMNEtuNVN2dXFfOVBrMUxkTldncWZpMGdaTHlEcmNfQUZ3YUpsYy1KV29GdV80dVFGU2hRYmw4TXdsTmkwWktfcTRGWlI5Z1NJZkU3bkVtLXlZdWhWU0JXSjh2eE9oME92RC1tSjJGNUVPLW8?oc=5",
-          "published": "Mon, 12 Oct 2026 15:37:00 GMT"
+          "title": "European soccer body UEFA ties financial future to US agency Relevent in 2nd rights sales deal - Arab News",
+          "publisher": "Arab News",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTF9JbjNrbTBNX1dpQjZGRGVNcmtoSjRKY3pmMGRTNE92azYwMDRURExJajBRSjdxVHBidlVXZkJOZUxoaDJTUFB1b3Qxd28tb2xkV0syZnh4V1FETmR1WWpOQ1Jyc0MwWXY0MXBfd2MxOWIwTnJWNU0wZGJacFhuZzd1UUdEX1VQd0tGQU44eWRoNWFiV2RFQkVhU09RWGxSQXdORHR4bENESEVoVVV2X1E0NkFVdzRvUGo2WW1RYVpTd28yYUlYSVBtbWh2Mkx2Ync?oc=5",
+          "published": "Tue, 13 Oct 2026 17:10:22 GMT"
+        },
+        {
+          "title": "Arsenal vs. Lille: Livestream 2026 Champions League Soccer From Anywhere - CNET",
+          "publisher": "CNET",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWk5naDRzdE00c0F6VVM0SUFJejUxcndxQy1PNmpiQUUwQnZieV9QZHZ0U3hudENCd2tPek85Q292OGZIeEZPOTYyYlhGM0pXQnVSTHA2bHlTMkIxc2FqR2R2Mm40ZnhIc2Q2ZXhqbUVBTVBoUmhCdm90V2lsLWZDN3Y2bFMxYUpXUlFITzJ1Y3V6Q3ZUZHJJdHoya3Azbl9mOTNuUVoxaUtFdnZMckNremFJLUpfTkJ5QWhz?oc=5",
+          "published": "Tue, 13 Oct 2026 17:17:11 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "RJ Mitte, Who Played Walter White’s Son on ‘Breaking Bad,’ Dies at 34 - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjVmdZdU5uUzdjZUk5TVFyWjMzZXlLaVpHMm85anBMcGhocEdnVVN5YXFDalIyMVllZHdNM2NIZl9PWEk3UWhvUm5EY2o4RDgxeDJPTWo1V3ZkYmhrRkJkbjV1UlFaQXBYbXVYTE1lQVllMGpyeDEwbg?oc=5",
-          "published": "Tue, 13 Oct 2026 00:09:42 GMT"
+          "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NWl9xY0lPUjd0aE85Y05Bd3FrMURQOXVpRmxyMnBBVzRpeUVxMnUyRGY5Z3ExMDE0STU5R1cyUGZYdzN4b1d2cF82T2F2Wlh3Yk1OYV9GcTFDbEE?oc=5",
+          "published": "Tue, 13 Oct 2026 22:59:37 GMT"
         },
         {
-          "title": "Selma Blair arrested after alleged assault on flight, charged with kicking officer and nurse after - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUc5WE03aG9UWEFvWUo3NHN6YlktMDBySDVUR2JGbkN1ZDA5Z2h2RTdlaUJpbF9qV2JxMHJPRlU1TGo5QzZTeFFjeFRzOWxGZ2FiR3ZEMGYxalJFZzNaMDBZbUcxNDRCOFRBUmY0ektWZlNZUDRJMnEzZUFKZ2hjVFZzMA?oc=5",
-          "published": "Tue, 13 Oct 2026 01:27:00 GMT"
+          "title": "Bob Odenkirk Mourns 'Breaking Bad' Co-Star RJ Mitte Following Death: \"This Is Simply, Deeply Sad\" - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWgxNFRjUEgwYWdmcWM4VEl3cmkwd1hkQzFxQ0NiN2piWWxyQVpyWW1ISXQyQ3VzYUgxVjF0STctN1lUSHpMb3AyRmxYa1BVVnVVTHM4RmNobUJlTTY2a1M1Qlhrdk01OV9ydXdFRlFSS1ZOc2JuMTBvcDFETmV0ZnJnWVdYU3A5ZGdrRzlzeE5KQQ?oc=5",
+          "published": "Tue, 13 Oct 2026 22:45:00 GMT"
         },
         {
-          "title": "Let’s Break Down Kelly Clarkson’s Brooklyn Toy Store Beef - The Cut",
-          "publisher": "The Cut",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXelVuSVQ4RnFNeUVPbzdtYS1UbnZkTkZLWFJ1dGo0RmQxZ0dVRExXaGtIaXFjbWp0cUQwS3V3QWZHZ0pIZkFGb0ZjUWNxY0VaU1UtYUVjOXhnUFBrbHlELU5RbVNoRy1aYlVOS2VsTDRVdkszRTgwb3RTNkxvaEE?oc=5",
-          "published": "Mon, 12 Oct 2026 16:49:10 GMT"
-        },
-        {
-          "title": "‘VisionQuest’ Rotten Tomatoes Reviews Are Mostly In Tune With New Marvel Series - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ0lSaklkNS05WVB5Zjh3NnVFM2pHV3EweWpiZnNXUTFaOW1TWTJHcmotODJqakhzWkFGN2txams2cTU0MF9hZTFzVmRHeEJRY0R6ZHNUejJGb2NqLVcwbkdmRElSdm5NUVEwOHQxaWpJZHJqX2oydmI3YUYtMGs1VW1sdFJ6WFBwcklDcWl0Q244UTFYU0hJZ2xTZ2dXT2ZGUUFLZGdDSzY1eHA0V3YzQXhRMktsLWR1dUJKTEZDVQ?oc=5",
-          "published": "Mon, 12 Oct 2026 19:30:06 GMT"
-        },
-        {
-          "title": "Former ‘SNL’ Star Ego Nwodim Reacts to Shane Gillis’ Controversial Joke About Women - The Hollywood Reporter",
+          "title": "Greta Gerwig Debuts ‘Narnia’ Trailer, Opens Up About Telling an Intimate Story on “the Biggest Screen You Can Imagine” - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVURuSGZxd0JfZS1FTGJ2M2JVank4OFdXUXdfYk4wRklLa3dOSUZ1ZDZYV0x2bmVWbllKdW1Oc2hnRmFBT2poSnJCa0IxVWRjbWJINFZYY1l1dVdmcUJQYmx5RWQ3NHY5RVM3LWZZQ1dKaHJTdEpBOF9yN2l0Y2loSTR1eFRsRTkwclBNQ05ZR3VkdkR3Vm5SQktBM3dQWlJlT0dManR0R05yOUNCZ1BF?oc=5",
-          "published": "Mon, 12 Oct 2026 23:37:37 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbURLcElYYUExcW44b2dRa0NfMEZWZUt5MXNZUDQzZHN3X2FWR1RJVG9vb2pTNjBxck1GLUlsXzk4Q2JTejQzQ28tc2U3akU2b1Z3M3RMYzFHQmdLb1dRQU9pVVVGbzMtSWI3cTl1ZnlYTl94SmhTa2QxWE03Umk1VEltSFd6TUNYZk5iZVFWdkVjT0QtMzY5X084cWZwYzBBSjFqR3h6UVpoUFJFdzZtUTIyNm4xcHhGR0RHWWJJQQ?oc=5",
+          "published": "Tue, 13 Oct 2026 20:24:28 GMT"
+        },
+        {
+          "title": "Man sentenced to 40 years to life in prison for Tupac Shakur’s murder - The Washington Post",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZERKUWt2MjQ3V2RtYXhVOU4yenhPRG4tTFVxZkcwVlBKcW1yVEtzT3UxXy1LY2VlbGEyMXFfN1F6RHA3RjdOblUwbTFXQlBud3diUTc3eTRlOWFGZXJBUXlKOERvRWNuQ0xzNU0wU1daSllnMDh0ZmVacXl1ODZXVlJFdDdwMld5QTJGenVRaUhTblR6MGNjSENleWtCMTdkaWtJcFVIc3c?oc=5",
+          "published": "Wed, 14 Oct 2026 00:22:49 GMT"
+        },
+        {
+          "title": "‘Girls’ Shocker: Lena Dunham Sets Revival at HBO With Allison Williams, Zosia Mamet, Jemima Kirke Returning - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUVqeEY0TThrLV82SS13RU9XUmdGeHN1b0VFUGNFaXcwT1Q4TmZXRnlwV0gtalI3eC1iNERDdmt4WkxySHZTbHUteHlWbGc5SnBJb29zZmVmOWFMb3N0NEFpdFRNOTB2QXJiY0NTYVcwcE1DNG9QSml5aVd0MWVpRjFNZ3FCUF95QjFvTEFFaUtWS0dnQVB6bHkwTTNmdDJTRWsycEV3?oc=5",
+          "published": "Tue, 13 Oct 2026 19:00:00 GMT"
         }
       ]
     }
