@@ -1,7 +1,7 @@
 {
   "market": "CH",
-  "generatedAt": "2026-10-15T00:17:54.930083Z",
-  "validForDate": "2026-10-15",
+  "generatedAt": "2026-10-16T00:05:04.604857Z",
+  "validForDate": "2026-10-16",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
+          "title": "Amaudruz könnte Bundesrätin werden. Aber erst muss sie den Röstigraben überwinden. - NZZ",
+          "publisher": "NZZ",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRko2WDdMYjRmTGZIZDVzUWtjYW1zSTFNZDBPSXYzUWx2SERRNDV3Y3hCck1PNmZyUkpNRTRZLTlrcDlxSlVwRFBVXzVibHVhZ2Q1R184TW44MkdnZXM4NF9fcXR4c0tqdUg1NzRocnJ1OExNTXdjR2JGWEIxekdxcklidDZxT3AyakhOMlRHUk4tbmRYVXY5TjZIajVvNENQbkk2dlZ6M2pjZmRYT2pFazVyR3BLWUtRWTJTV3A0UjJNblAySEptVElQMWM?oc=5",
+          "published": "Thu, 15 Oct 2026 08:03:57 GMT"
+        },
+        {
+          "title": "Fragen und Antworten zur Abstimmung über Kriegsmaterialgesetz - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNllIMFhWMUFNWlk0TXd0WEM3SjdGWldJbGRuLTdoQmxnS1NxRXdIU19Ka29udGMxZEJXNUNCNTVNUVJPTUNRb0dXX3lzY2g0YXQ0eXN5R3JpSm8yeDBZUm01Qk9HTi1tQVBkdGdReHUzY0w4VHk0WFR6a3QwRExxa2xyNDhjQTc2cnkzU0pPZnZRVmNWWTVYNlktRm1famRiWmx0OWNtN3k4QQ?oc=5",
+          "published": "Thu, 15 Oct 2026 12:44:18 GMT"
+        },
+        {
+          "title": "Finalisierung von F-35A bei der Ruag – ein Geschäft mit Fragezeichen - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX25uREtMb0VSa0xWVUNQNDZWaTIzNEdZaTBicVEtMkw2RWR5QmFsVzJmVmsyUnVwVFVyWUx2dk1EaEh4UlVyNXpjZ0N6eUlzUzJjcEt2cjhEUk4xbGJhRmFSRXNCRU9nbkgzTTYzQzg5Qzdsd0JqckZiUWdMa2lCZXI1ZFN6eEgxUWJRM1lRQTJ4UFNZSWczTUotOXhZa28yUURtaWQwZ2x5MUVKR3UtT29taTZsdjVM?oc=5",
+          "published": "Thu, 15 Oct 2026 14:58:06 GMT"
+        },
+        {
           "title": "Abstimmungskampf um AHV-Finanzierung läuft heiss - Blick",
           "publisher": "Blick",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRzdMTW9TdVJheEg2emZBQVk3Uzh3cjAxbFlXdlhxMzc1NDVaUGw4WVpWVVpqMzFoeDJCN0FXZ2xXdV9tUU53QnI3ZE16WnVXcjVrTzNTd0piTlhsYi05RjA2M2lOUnRyWlVtMTNUQlJybE53MzktSk5VZjc2N2h4dXBaM1k1clhjcTJ2Q3Zn?oc=5",
-          "published": "Wed, 14 Oct 2026 07:49:07 GMT"
+          "published": "Wed, 14 Oct 2026 07:47:00 GMT"
         },
         {
-          "title": "Neue Regeln für Tiktok, Google und Meta: Bundesrat will Jugendschutz in der Schweiz verschärfen - 20 Min",
-          "publisher": "20 Min",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU2M3NkM2dTRxbDBNRGd4MHdQQzViUkUzRHNLRlg4bHlBYm9JaGp0bzdKb25hMDdaek5JcFFDNXZSQXhIMFRFVUNPMVZaeU1saG9ONjhlZTRxS2Y4RHpnX3NfV1o5R3FyY2M4VWFrVGxiOHFKLUxqS2ZMS1Bma0JUU3FuSWhUYXRwOGRmcHkySUh0R0twRFJmanhZWWtYMmJHVTNlT0llSDNGZWxKZVdPbnZ6TQ?oc=5",
-          "published": "Wed, 14 Oct 2026 02:00:00 GMT"
-        },
-        {
-          "title": "Basler Herbstmesse 2026: 37 Neuheiten und ein 80-Meter-Freifallturm - 20 Min",
-          "publisher": "20 Min",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmxKWkpxRHR1YUJJVE9jWG9vZFNENVFKckFUY2gzcUpDa2Z1ZzB1UTlsQnRES2U4VTdFTTJMc08zZzZZOEhZcVFaWGQ3cHRSRjVReDJ0QTE2YTNDTmgtMVVyNXlGZDRfUDZ4M0Q0VjdfZm83ZDdrcDdDQVRYRWZxQjdlTlc3bVhRTUx6d2kyUEdDUlhyV05hTDRrYS1GYU96T0tMZzVrMTRMUQ?oc=5",
-          "published": "Wed, 14 Oct 2026 14:39:16 GMT"
-        },
-        {
-          "title": "«Bring Plastic Back» wird entsorgt – Entsorgung wird günstiger - Berner Zeitung",
-          "publisher": "Berner Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWl0Y3FyMFREMmN5Q0RfYTJIaVpoVFVBbk9RclZQTDNkdXdYbG50Y0RLQWpSeUdGYm82cXkxeWRJczJnQjk0UnNYUnozRjFfUklNZGFnNjNtd0x3OE5ad1VvbWJfUzJzRzhZRm5qUmpfMi1zaTB1cHRtNlRhMEFQS1o1d3BTdUZYTkZ4cjFsRVpZcktDaDQyWQ?oc=5",
-          "published": "Wed, 14 Oct 2026 16:50:28 GMT"
-        },
-        {
-          "title": "200 Millionen Franken in Teakholz: Schweizer Firma Life Forestry ist pleite - 20 Min",
-          "publisher": "20 Min",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTEZzSTExODZKeC1maG92cGtZamthSEVyMWVCQl95Mm5CWGxUWFB5TXRwYlc2ZWpVRjNTU1V0VFVtT29qeDU2SzREdU9aZEJoUGtVZXdHaHJ2a3h4N2xKY3dEdG5SUFYwSEFLSV9KXy0tMGZRU2tabmdqMEpiYTRFN3BLOXhrWHBWclRSelBoczFsbHBCZUtmMzBLbDFiZFg3eTE2ODlOQVl3STNNT2RnSDNWemVpUDV4SXppSXVkUVZhOXkz?oc=5",
-          "published": "Wed, 14 Oct 2026 14:37:26 GMT"
+          "title": "Sarganserland: Tausende Raupen sorgen für grosse Schäden - Nau",
+          "publisher": "Nau",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVJ4cGowY19mVHA0S2kxQVhqQndTNTVBVkFqRURxeGFCNXg2dkNaTWZOVkVnaGRzY1JvR0RHWnFpbU9PLVVPR1ZIUlA0aThwR2ZBX0l1TFJoZzNBRzFia0RaU051dG1TNVpuVlVMUnVFYlhTaGZMSTJYX1FmSXMwV3FVNjdINGN6eTB4X0tlekVwX2VOTWNfTnlPNFE?oc=5",
+          "published": "Thu, 15 Oct 2026 10:01:11 GMT"
         }
       ]
     },
@@ -45,16 +45,10 @@
       "label": "World News",
       "items": [
         {
-          "title": "Papst Leo XIV. hat Lungenkrebs: Ärzte entfernen ihm Lungenlappen - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXk1aFNGYTJ6OXhHZFVpVWZhY2ZQREtXS0wwVkVfYloyOWlIcmY2clJzWVdMTFJTNmxzMER5TVRYUlBBZFdQMXluYzMzQVV6WEU3SEJxZXNuNklxNXEtbzJOY2xNa1kyNE1sNHdUbDktYVV1VFFCQXhCc241OEVYeW5vNjJIOTdfQU1UNQ?oc=5",
-          "published": "Tue, 13 Oct 2026 21:02:57 GMT"
-        },
-        {
-          "title": "Nord-Stream-Prozess in Hamburg: Ukrainer soll Pipelines gesprengt haben – Held oder Kriegsverbrecher? - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeENwQkNiaWljdFlscjJSYzRzekxDRDZiaDhLdmliT1lXeUc1RW0xc0MxSzRPakstSm9udktZTUgwNE1fQ09adENZMXBwdkpxMHdxaHBMazZWR3l1SExuZjljR2dVamg0SUhZQWNRWUdWQnhLSGtVZzlZOThTcVl4VkFkSW9uNXlFMUwzMW4zVV95RUZuZWtFdkFQQl94MW9IbWc?oc=5",
-          "published": "Wed, 14 Oct 2026 17:14:55 GMT"
+          "title": "USA werden Hinrichtung nicht im Livestream übertragen - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2s1bjU3bUpubWVUZEZIRlVGQ1FWTFBISEh5X2FYb2VGbUxVUUtkbk53SW5NM0I4YzdxdnRua1lTTndvdk04MzlwTGE5SFV6a1FITmpmTUFfSG5zanNEVjhWcjZrcXk0QlcyY2FfRzRmdG5aS2tDaXdTcGhEcmRqSTB1d3ZtelZlTXJTTl9hUUNpeS1jSGc?oc=5",
+          "published": "Thu, 15 Oct 2026 23:00:15 GMT"
         },
         {
           "title": "Liefern die USA der Ukraine keine Geheimdienst-Infos mehr? - Blick",
@@ -63,16 +57,22 @@
           "published": "Tue, 13 Oct 2026 14:54:00 GMT"
         },
         {
-          "title": "Proteste in Albanien: Demonstrierende legen Brände bei Büro von Premier Rama - 20 Min",
-          "publisher": "20 Min",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWHgza2RzVU5LNHAxZ2VrTTBKcEw3U1JFVmNtSVZPSXRRZUQ2ZG9GX2R0OVQ1N2xrbW1LaEZacGo4eFcxMVVNbzFXM1p2NXk1RC12XzhrekY4R3hNRjlWaEdkc3AzZjJ1NDBYeFJRR2NkMUhvODNRNnM2MDU5cXZUWW00VVBNZl9lTUJPWGN1Vm41YTh0cFkxekRsY0N5Y2RYaWVBeXVnQ2MyRExtZFFqb0ZNMnFHamQ4WnJUUw?oc=5",
-          "published": "Wed, 14 Oct 2026 16:58:08 GMT"
+          "title": "Albanien: Gastronomen über die Studentenproteste in Tirana - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVQyV0tCazVLSWNVUndvb1pYeF8xdUZFVGJOUFJRMktvTnZ1NnJLUEVKbzE5SHJ1VW5CX0VyaTAwdktlcVV6T25OWjgyNHJxVHY4TTIzTEpOVV9Wd29MZFJMbENwbWIzYkZfZGZVMHM5ZXN5RWI4dk9zVm5NcGpMRUg2VWQwR2RYX2pacHFyZUxHOUlYOVpSbHRyU1JRamJOYXc?oc=5",
+          "published": "Thu, 15 Oct 2026 16:25:59 GMT"
         },
         {
-          "title": "Die Ukraine gerät unter Druck der USA: Neuerdings ist das Starlink-Internet beschränkt - NZZ",
-          "publisher": "NZZ",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPempuc3M2eXlnZERmSUZuU0ZCNWZMWW5UYktPR29Ock1qOWU4SVV0cmFQTW05UzRRdjFPeS0ybFdyTmxXSWFVVV9QSkNodEFYbkxsZzZ5YWZnRW9NcEtGM0NXMFRCS0dobU5lMmx4U2xXMW5jRHB5TC1NMWluVnozc2JjNHdfdlYzVEZPN1RvN0N1RC15djRDaDBONHU3QWc2eUVUUDRJdlZiMS1wVFdITk9ocDZZblhFTWQ3OG9CYkVLMnFUSHpuYU9WMVo?oc=5",
-          "published": "Wed, 14 Oct 2026 13:55:00 GMT"
+          "title": "Der Nord-Stream-Prozess zeigt die Tragödie der Ukraine - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1BNaVpsUW5NelpuUTR1RUozd0ZXN3dDYjk1XzB5bnlXRHZFZGNBTkwwdmdiSmxWSzlkVGhuNUwtRDVkRmpaMnlCc2hJam82eDEwMUZvSEZ3aXd0MmFvekVfTGFOTDdSNEF4blMxYlBScF9hUFBFZ0pzd0gwN3B5a0ZDa2ZEbWRkU2k5cUx6eVlPV3B6VU9EcXgzZUxhcVlfZFM5QkVTM2FRWDFIZ0o1NjNfb3lkZlVxanpsa1lrTThGUW5rQ0dsYg?oc=5",
+          "published": "Wed, 14 Oct 2026 15:51:11 GMT"
+        },
+        {
+          "title": "Warum halten die Evangelikalen zu Trump, Franklin Graham? - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbldkRkU5ckJwRGJGdkpkWS1SXzQzcGxFOU5GdlFuUzVJdUV6YVBpYUhoT3JQNm02N1l3TVljYk54YmloSUJ2cTR0bEJJN09zQV92RV80eGlTOVlSMXhUbmhkQWtpV2lLYW4wSm1pZkQ0dTFrZm1ZdkctSnBTbDlCcDNSbGFhTEJBTTlfamh2ZjUzamNkbGl3NjVISnVZSHMyZmhNSkg3UEpxYnR6UlZjWk41U01KOURHV2JB?oc=5",
+          "published": "Thu, 15 Oct 2026 17:50:59 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Inflation in den USA bleibt hartnäckig hoch und hat weiter zugelegt - Watson",
-          "publisher": "Watson",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjVwOEJSVEcwQ2VtTDBDd29zZElBQ3pSV0Z5cVhJend6aDQ4WEd0SFgtZG1HSUlYZWRXMDE0YWFfMUUyUjFLRlFfZzY1b0VZZ1R4VjBVdDkxY2NlR0M4TENXVG9JV1lyTzlXdm1Cd2REU0pMMkNndVNIN1lmaDl1RHp4VjNiQ1VtdXpaR0JPWm1vZGhzX3hfUmJ0cVRXSEdudzBHY3daSEQxZG9xRG5HTVAzNEZsMGc2SVE?oc=5",
-          "published": "Wed, 14 Oct 2026 12:52:23 GMT"
-        },
-        {
-          "title": "Die Postfinance muss beim Notfallplan noch einmal über die Bücher - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSExDa3htODQtWXZkR1ZOU0JETVdjYUNRQk1yOWk4MnVMZTBNRnhmaHNLTFV2Ml93UW80S1pPd0laVVFlQ2xGWk4ya1hxRklKZzVydUp3X3lyM2dwOUdJRm5QMU1KallKYW54RjQ3SDBwZjJxOFVzMXBqQmh2WlJIajhBbS1iU29DSVViY0RkenJzQk5EZTIzUjFfN3RKaXJrT3ZJY3FB?oc=5",
-          "published": "Wed, 14 Oct 2026 15:36:51 GMT"
-        },
-        {
-          "title": "Lufthansa kauft sich bei der portugiesischen Airline TAP ein: Das sind die Details - 20 Min",
+          "title": "UBS-Abschied aus der Schweiz? Diese Optionen werden geprüft - 20 Min",
           "publisher": "20 Min",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUi1IOG1CXzFneHhweUVaSXJVYlFYazZxZGRLbEdRZ2Q0Umo0M2p0YjM5ci1jR3U5QWlXU3NrREtScDZ5ZGZrRTFGYW01b0NnNkp1c1lLWTUySDNlN3NLbm41S2c4RFZlVnJCa0xzOVQ3M2l2YjRXeFVhSm5jck1rRlpVRUd3Z0dfYllhbm41bDZMTUtUZlE3aUlwNWNzcGc?oc=5",
-          "published": "Wed, 14 Oct 2026 12:31:37 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWN6ZHBVYlZOenphUDJxUno5MlJUanRucTJFUVFYRk5kUkhmWmtDb1A0bWNLcHNtM21HNzVoMV9lYjlxbXZZUVV0RmVGUTNHc0ZRZmUtQkhGWmRBMXljcEZaaW1Gd0ZUSmNQUnE1U3hoUThBcUo2Rm5FRk4yT1lIZjFMd2NCYUJQVUNubFhEMXdYdXFHUXNFTkZuQTd6NlZyMjNpQ3NiVzZWZlBKYk42M01tamMzOXhP?oc=5",
+          "published": "Thu, 15 Oct 2026 04:59:02 GMT"
         },
         {
-          "title": "Der FuW-Morgen-Report vom 14. Oktober 2026: Was Sie für den heutigen Börsentag wissen müssen - Finanz und Wirtschaft",
-          "publisher": "Finanz und Wirtschaft",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1Mxak5wcjlIUmVubEVHLU5NbTRjSzFXaWNOOHc4a2Jkb28xV0VQUUo4TkoxSklldEZldTBaRUZTdHBlS3FJX0xiQ3B5WVNsZ1Z1Yno2TnZDTlV3VmNBZ3FjVU9fTjhsUFZoS0hrT0dNMWVCT3d6R01jNWdrQTJ5YzduT19sYjRFU1dwNWRVSUw1OUlVTnY5a3NSNEpGNFowT1kycTd4VmpWN3hKMWxZU1N2M0ZVSFZCQmgxN1AwVjFVOW8?oc=5",
-          "published": "Wed, 14 Oct 2026 05:37:58 GMT"
+          "title": "Zweifel Aromat-Chips: Comeback ab 2. November 2026 - blue News",
+          "publisher": "blue News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUjVtV0N6bmE4Y2NVMzU2YndJT1BneUI0RVR1czcwRG1NcEdybnhnYTU4T2tqQ1ZiR1BPcDZyYmUwN2NQWjJOWG5RYWt2SFdoWlB1QjFwRzBwMFpWNGEyZDlRUTlsNTNsU0NqTFNGbjZTYU5xRE1wcjJqcHRVaDM5b0ZON1RPYmEtVUlYVzNFT0FMTjZiVFV2Z0JQM1A?oc=5",
+          "published": "Thu, 15 Oct 2026 05:43:38 GMT"
         },
         {
-          "title": "Warum Dieselfahrer am neuen IEA-Report keine Freude haben - Blick",
+          "title": "CS-Boni: Bundesgericht hält Kürzungen für rechtmässig - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2VqR3BiSDhJM1FkREZtRFg2dEYzbFZaZVI5ZjdzVThLQ1ZiTDJKbFIybUhXRXJ5TExtX3Vvck1kV1VNVHRCUUlRTm5Gc2dyM0M1M2VWSVlaa0xNZFBzUUpXYUxqd2NlS1ZVMXZSelFtRWx5TFBxWTFsbzY3VFd3N0sxaGNYUVBuMDM1dS11cUJzbkVVTDlDTQ?oc=5",
+          "published": "Thu, 15 Oct 2026 10:00:00 GMT"
+        },
+        {
+          "title": "Renault hat schon rund 1.000 Bestellungen für seinen 160.000-Euro-Mega-R5 - Motor1.com Deutschland",
+          "publisher": "Motor1.com Deutschland",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZUk01anBWZVZTc3JfdGVIVWZvSERjOERSUmhIWWpXV1lla1F6SjdxNlNURTVMamJENUExNWM1eG5oSmhLaHVMYkQxZVhuemFGdVJQbnhnakllTVEyV2x4cXZRLU5na2RQT0VMb0ttZzZTTGRibmlweFJ3?oc=5",
+          "published": "Thu, 15 Oct 2026 10:44:00 GMT"
+        },
+        {
+          "title": "Säule 3a: Hier gibt’s noch Zinsen – und hier 0 Prozent! - Blick",
           "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEhzbTFEaXEwc1RvNE9xMDJIa19KeENIN05HWnhZQkd2dHBNenBOUU1SNFpJS01pQm1rS1BmN01XMjlvQ1pXRTdwa1JGTEVMcVQwdlU5bFc3YWpxOXptSC1KRUNVdjMxT1FUWHpLSmhsT2MzWW54a2ZnbExFMlFEWlZqaHduYV9iS1ZUdmZoOXJaSW4xZUZ3S2F3?oc=5",
-          "published": "Wed, 14 Oct 2026 14:15:48 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYlMzdjdrUElpVHBmT2tTRjdzNDJMLVRseGlHWF9aQnJ6UXRSN2RmYnVBOU5ILVd5VGxMRkthekl1OEJSXy1PZW1LMDNhU0hkelR0SjY0UTVabTRRYV9ZSzFlM0RKY0IwQ2h5NGFXc1pQeENKS1ppcGxobXF4T2d4YW1wcWVaX0lrR0VISmtUZEZoNzB3TXg3OUp4UkpscTRsTjc0?oc=5",
+          "published": "Thu, 15 Oct 2026 17:49:06 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Rachel Rinasts Fazit zur Nati - Pflicht erfüllt, Beney gehört nach vorne, Österreich wird schwer - SRF",
+          "title": "Conference League: 1. Spieltag - Fragwürdiger Platzverweis mit Folgen: Thun verliert in Enschede - SRF",
           "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSE1TanFRekc0ZDBxRFV5RUtvckxMMWRYSHJDRnh3V2dTUHRldHpuSndPZlpTUGFrR0Y4bm1HOVdRN29NeEZ1cmhuVEFiWEEza1RUSGk1RzgwczlZeDRQTy1NOGJ5VnJUTDU3akxiMV94Y19wZVFmTDU2Yk80ZHNvQm1ZcHpsbWh6VVRKRWR5bjNBT0lXUHBaR3RkZTBHSF9odjNtRGJPX0h4aDg5OFlZdk13eFZPY1J6UHoxcU1sUU9ENmczY19UMFI3NFJkQUtLVlNSRFZwX0tnV0xXWWpNeWJtVQ?oc=5",
-          "published": "Wed, 14 Oct 2026 07:51:36 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeWZqbEh6bGwwRXVTLVVLSlJEVHVfaUZpQWdLdWNzSDZHUWd4VjVvSzItNjRHbGtOUGU2TEJRbGlHbWlnb1R5VThYbDZMMHFNUXlmWVdPVXk0bEczcU1TaThnNGs5eWxFdTYzZEtrWDBKMlRKbFM3VFdsZEw1X2VrNHBZaGU1cVNENm95dGg5TWowdks4TjRpakQyNXQ2RjBfcWFzWlVGekRzamxQRnpwWFBCNlV5T3A3d3pmUGVqY2UxclB0U0ZVSVQwNWpNQ09YWDg5b2hCNTdRemVj?oc=5",
+          "published": "Thu, 15 Oct 2026 20:55:22 GMT"
         },
         {
-          "title": "Geburtstagskind Manzambi beschenkt sich mit Debüt-Treffer - Blick",
+          "title": "Was für eine Wende! Lugano schlägt Roter Stern - Blick",
           "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmhWbzBZUllmM09FVDVLLTZWVWJxZkhGWU9jTndwNUFIYjl1TlNwZF9GbXJZMzB6WTlpSGt0WjdBY3RwdVN3T29MbEUxM1Vxa3l0aTkwWjNHRVQ3LVdVemFWWE9NcG9kQjUzRXFiajc3UFBldmxzVHloQU9tWWFmanNTbUprRWNweDNCV0FKS2xMZHl5SmZPdWl0WUZHdGpmSXNCU1VWR0xmQ1Jtc0pSUUQxOWlhNGpuOTRZTVFicw?oc=5",
-          "published": "Wed, 14 Oct 2026 21:21:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmU1Rzk1WjF3ZEJJME12WEZPMnc1OEFjamNyQ0JPZlpSdjFsVHpfNWdMMHhOSjdYS0xYRktKVnV0X3pRelpncnBLOFhGOVJyVWJ1QnVPZ0hJbnVLSXkxSFpaelRvMWI5a25IVTg0LVdIcTNpWmM5UnlLTHpCQkxsTUJidjZqcFlpWk5rX1RNQzZsQzkyUGFVc1VOWkl1R1hBTkt3ZzJpUF9vUHUxcHZ1VU01VVJ4bEU?oc=5",
+          "published": "Thu, 15 Oct 2026 18:54:00 GMT"
         },
         {
-          "title": "Champions League am Mittwoch - Vom 1:3 zum 4:3 in 7 Minuten: Real schafft irre Wende in Rom - SRF",
+          "title": "FCB-Trainer nimmt Führungsspieler in die Pflicht - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTF9Ja1VTRHVFNWo3S01NMkx5TDdjOWE0YkViQUJMeGROMFl1R0I3Q2lqRHpxMlJIdjdyRG5EeEZJY1JyMmJuVDJJdEZaallIM3hmbTZxRjBQalhxenhwZHJWVDdpdW0xaHVoQTAyOC1rV3ZXRzgwMno2QWk3aTVBWmhYenFWN041MGh2VXQtQkVHSl82Z0lTNGpTcGY3a2M?oc=5",
+          "published": "Thu, 15 Oct 2026 23:00:05 GMT"
+        },
+        {
+          "title": "Europa League: Round-up - Jashari und Xhaka punkten in der Fremde - SRF",
           "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNalFocXB3UmRxSDM3b1JLUnphcllBX2xnRS1QbGtCVzBwcDlUVlhRX3JGajF3OXdwTWlZUVFpTHhIR2NrZ2J1WnNwcUVOTjFEVEtsejAzRFJMWXFESFZnZUgxNzhxY25RMDVtVmV4bVRIOUJXVnhUT0ZDOWhXeVdIUWs3S3lWWjdDOE1PM1gtMzg0bC1MX2piRGZYb3RSWGRRN1hpWTJPRHF0Z1lIa3kydklzdlBFRFlBZVNQT1hwcU9wU0YwZTVSOG00UG50Sm5TMmthQy1B?oc=5",
-          "published": "Wed, 14 Oct 2026 21:07:35 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenJ5OFBfSnI4c01ZcjZhOXpFQnJfYUVyRWhBcFgxOXJVd2JWNUY3WlhJMi0tbjNwQU1XREsxM2cteHZSRkoydmlQMXFwdnpuZHJLT1cxcU5ac3p2Zmw3X1BMMzlKcGZ4SlZDYnpNcnRmUUU5SUJIaVZuS2FqNW9PdFN6d2hqZ2hFdnVJbnpEa01sY2JKY2RVc3g3eDB6VURqVnR3bzBFZ0wzeWtJcW9v?oc=5",
+          "published": "Thu, 15 Oct 2026 18:49:14 GMT"
         },
         {
-          "title": "Davos steht trotz Niederlage im Achtelfinal – dort gibt es auch ein Schweizer Duell - Watson",
-          "publisher": "Watson",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRHpJTy1MaHdPTUZEWHNlbnYzd0tkSFd3N0RmeTRIRzF4SXFTa3pMak4zUktXNldqOHlNYk1XUGYxUFBVTl8zczdoeFY5ZGlRS2Nyb2VIbHV6Wk11SENNQlFXOEE2LXlRa3Uta242LUdFc3lLZDMyR0llajNlYlppZk9aeUNfblpHZzM0OGlrNS1PcTFGMHdUSUVrbncxdHlWWkd0SWhqWVM1dTA?oc=5",
-          "published": "Wed, 14 Oct 2026 16:45:00 GMT"
-        },
-        {
-          "title": "Ski: Saisonauftakt rückt näher - Noch herrscht Lockerheit, doch schon bald kribbelts - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOV9XcFRQY1VkbS10emt2Ym1wLTFUcEhCQTQ5c0VIV3E2SzNvY1ZhY3R6dVV5Qm14TEFDU1JvZDVWVncxaHAxaVN0bVlJbnlEWmhieDdzb21XU0V2aE1NQmhkMnhra0I4TTJWdzJhbjdSSW5iRTRWNlI2Zm9pWDJJVkhBUUZpZFdLUmNMeVJDYXQtSlBlM1NDYmFuSjlsVml0a1RDRW52TF90SnB6U19HLWZ5VkZ1TWlJTDB4Y3lFWURMaEVTdlpqX0tHUENUdw?oc=5",
-          "published": "Wed, 14 Oct 2026 17:48:41 GMT"
+          "title": "WM-Playoffs in Sion: Darf die Frauen-Nati nach dem 7:3-Erfolg weiter hoffen? - 20 Min",
+          "publisher": "20 Min",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXB4UVgzLU8tLVN4aHBYS3R4WDJYMHZzS1h5VV9uVUdSY3lyRWY3eC1xT1JraEtKMEgzZHNCTmdhQThQVHE1dnNxczZSajJ1WHVmUXJkWWZUSXAyVzB6ZDFycUZoZEo3S3YwbzVHRC1XbzNzUGVBbUJiRGNuTkdiTHFfNlBNaS1razBNZW5IR2hHczFVOWVNdW1vTnZxT1d2WnhYNGpyUzVrN2RNVlE?oc=5",
+          "published": "Tue, 13 Oct 2026 19:15:00 GMT"
         }
       ]
     },
@@ -153,16 +153,16 @@
       "label": "Science & Technology",
       "items": [
         {
+          "title": "Onlinehändler Offerz gehackt: 115'000 Kunden betroffen - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEMyOEZoRHpGajlBU1k1OUFVbkVQWHEwU0IwcW1EdV9Lc0g4QzlBY0N0ZGV4OVFDbjkxWXhhQWQwaFhxaWZCTTU2LUt1NUhzcDUybjFjMktlcHV6Y0VQeWgwZHFIYWdPOFVFTWNHcFRjYjUyb3dxWUJnTjBXRlVSckVWZ3I5cUlORzluT2xMWHZ0VGx6OFJ4dmFRTy1QYnRvVmtHQnd3?oc=5",
+          "published": "Wed, 14 Oct 2026 15:11:00 GMT"
+        },
+        {
           "title": "Welche Jobs braucht es in Zukunft noch? Die Rolle der KI - Blick",
           "publisher": "Blick",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0gtY0JBRmxVRzZGV0tDTkZKc0dUeUh1YjVTRjBhRzhqMkRpTW0wNGhPTzcxdXBlUEo5QW9jSEtGcDViTXl0Qll3Wm5qRmVLTDllalNuWlcwajI1Z1lPVW9RV2lXVUNlWU9BZXBRNFlXN1VZYW5ZUGVWUmNKZHJzaTE2MjU5eS0yOEVTaFhSRFZRU1Njb2pHTw?oc=5",
-          "published": "Wed, 14 Oct 2026 22:46:45 GMT"
-        },
-        {
-          "title": "Schweizer (73) kehrt wegen Handy um – und verschwindet spurlos in Spanien - 20 Min",
-          "publisher": "20 Min",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRnMtbG90QkY4MmFveWNveEdxcVc3dWd0M2tpbGo1YXd5MTFVV25QcFc5cHZGRUpCSG4tTm9CZktvb01jMU8wUXFTQWNOZDR3SE5QbmhPallNNHlaY2xsN1c4b3p3UVRwSFViMTZZTUZKWkV2bGRZMmhhZmY5QUtNYW9RdTBEZGRWdk45RVRGc29SeUo4SnUtWjhvQW10RTE5UzFET25uNzFhZkd2SGc?oc=5",
-          "published": "Wed, 14 Oct 2026 06:50:08 GMT"
+          "published": "Wed, 14 Oct 2026 13:30:00 GMT"
         },
         {
           "title": "Photoshop und Co. mit KI geklont: Kann Adobe einpacken? - Watson",
@@ -171,16 +171,16 @@
           "published": "Wed, 14 Oct 2026 15:59:52 GMT"
         },
         {
-          "title": "Wanze in Toilettenpapier versteckt: Spionagefall bei OpenAI - 20 Min",
-          "publisher": "20 Min",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnVJQjJabTdjSTh5VHRTSjhFMjlLUnk1X1VMeExDOWVsSldFMVhlZ3NLYVRRMGo3bjdiQ3ByaWV6N1YtaTB0WUhjM3BPQ1pFT1B5b19fZHYtcDRXV3hJakRwNFZYVk8zdXI3dUQzTDhkVDB3Ymh5YzFGMDhDNUZOR2xHY0JQaThLTHBTQmpabVFfR2lGZndUTk9KNlo?oc=5",
-          "published": "Wed, 14 Oct 2026 01:20:26 GMT"
+          "title": "«Ein grosses Risiko – wenn sich Tausende KI-Agenten zusammentun» - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb0dYYlhhWXhJQ2llbVFQa0FwNnpMSmhWQ3RjZEpueFk1QmxjbWNSc3dNZWIxZ0pjaEJjbV9oX2pGdkJBbFBZNEZqbV96VHM0UjVHMnBDWUdTaGFENjRLdXlRdk9MRXVpYkx1Z1ZYd0ltWVBibF93Yzg2MmlKai1SaEtPUzNhd015OWEyNzRMZTE3SWZDNHlIZ05ObXpSSGltUDFwNWxHbWNQOHlhVnM0NEJLSklIalJkRFh6eDVn?oc=5",
+          "published": "Wed, 14 Oct 2026 17:07:03 GMT"
         },
         {
-          "title": "Trump teilt KI-Video von tödlichem Tigerangriff – Familie des Opfers entsetzt - 20 Min",
-          "publisher": "20 Min",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTRsbDF1a0QteXc1TGJhaU1vbjExa2xEOVFNWFFJVTZzOFk1WUxoaG5tREV1TDZVVWxPZlV5eFY3cjdCRnNyTzJCYXVpeG9mV0J0YlBfbFFSZFNEd0RmU0tIY3NZZmZzMEQzYW1kWTRaR3BQUV9aVEFZeHdTU2FCT05vU1lRWWpkbWYxUjQ5UlM1OHBjTUs1M1hqWFJwM0FfMjVydFllWVpIZjdsajlZSzlFcHJrLVE?oc=5",
-          "published": "Wed, 14 Oct 2026 12:27:42 GMT"
+          "title": "Bitcoin ein Jahr nach dem Crash: Noch immer 30 Prozent im Minus - Bilanz",
+          "publisher": "Bilanz",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1pWZldsSkExQjBfWDRpNkdIVkdzNHNKd1lLTzFVbjRuTjR1NVo2SlRCVnl0WEJLUlppakRmbkYzaHp3aDN3UktiSG5tT3FjYndpZ0JfTVpLd19sV0ozd1l5X0hLbWIwVDZvWmhhUTd4T3BlVDJqUWV0ajg5QjlsRFFGeV9NLVppVWtObVh4ZE1Mcm1SWEN2SlBmRlRFOTR1NlI1RXd0Szljb0d1?oc=5",
+          "published": "Thu, 15 Oct 2026 04:28:00 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Nielsen: American soccer fandom soars after 2026 FIFA World Cup - MLSsoccer.com",
-          "publisher": "MLSsoccer.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3lZWFprUS1OZTkwYTl4QmdTS0FjZWhUQWNXbkNlTHZrOGpNV0toTGkzWGM0V3VacmRZRDN2VlJlQV9FalpmUmpucWNsaTZMNzZUaTdZZ0tPMGdKOFJMRTdTRnpzX2VlWFgxODNGR21abTZlMzM0cmlVTS1NbDE5QnpCT0VUMll3aGlGaG1reU1faXlDY2V0UA?oc=5",
-          "published": "Wed, 14 Oct 2026 19:25:59 GMT"
+          "title": "U.S. soccer fandom grows by nearly 10 million following men’s World Cup, report says - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSTBKWG5DY2Y1UVhfZmt6Q1ZLNlRNYVJQeTctYlFUSHlZVmNpOTVnMUlqU2p5b2lvaEVuZXlJOUM5VXVnaFI0bXRkdTdYcm85c3lXSVZCQ2VkMEFTMDRTbWtyMkhGTHNrWVNrV0hvMlRLLU5ieGZyTWd1bEppTE81SkYxUVhVYlpiS3FLcGc1V2JrR2pD?oc=5",
+          "published": "Thu, 15 Oct 2026 13:00:58 GMT"
         },
         {
-          "title": "FIFA will propose $6.3 billion funding for soccer development, AP sources say - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQVMwRUp3M0U3Y0hjYVpMYVliZ09YamVZYjk2NWxjTldwNXEyb2RienlwaUt4U1pKS25pY2pPak9SNzdkTjFoSEZYRTJWZDdhZWlYN0pnT1RSR2dvSjN6eUVfeHVZTlZzX0hNZFVOTjlWNjdmMFZiNVpaaGk1Y0dyRnhTTDFGN3hrajMyanpFdHo3QS1N?oc=5",
-          "published": "Wed, 14 Oct 2026 07:54:00 GMT"
+          "title": "Football Italia Show: Champions League disaster, has Tresoldi already decided? - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlRaUzB1TDZERGxEMDZfNnFXMWM2TWZOTnEwajhoRFFWV28xZVFSOTZLQTRFeEVycjZnbzNaeGpUeXFwZHlxYUppYTMwZ25CQ21jeVNiYk9lNU41c1JJUGJvTjgyblZ6cVZ5Q0diTWgzVlVaLUlKYmN4V2hWelBieUgtYW5wb05ucHJEQ3VGcw?oc=5",
+          "published": "Thu, 15 Oct 2026 16:25:00 GMT"
         },
         {
-          "title": "Soccer viewership in US surging since World Cup - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWxLVkNJZTE3c1ZpVkRBem90SjJ4blV2bnJBTUlrNUZTNWlMVjdlTk5mcWFYOVJ2aW0tTUp6dl8xOU5fZjB4UDdxdnJKWFpFczFqaXZUd29EQUE2UVFySzhLY0Vrb3A5eHFUY3JvcGFtU2RZdjVhZDRsVnFxMzRCSjRRalpDUUdoVmdyaDJnV0VPc3U3Vm82b1NQRTdIa2ZW?oc=5",
-          "published": "Wed, 14 Oct 2026 02:46:00 GMT"
+          "title": "Fort Wayne athlete to represent Team USA at Powerchair Football World Cup - WANE 15",
+          "publisher": "WANE 15",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS0ZJLXBPaFc1OE51WFdacWhDdmtYeXRRLVVQRVNCa3NQMHRrY0V5WEhqVDlxcXZPVVVvTm1yZ29MbXNTTXotSEFXcFlMamxwWGZQZU8wUWtiYlZRTlRXbVVGNHFQTFFZOUkxUTE4M2dPVjNYQ2ZWbkR5cXlTcFlTYkNFMU52aGpUX01BWHh3RXVIZ2VOaEtTZHBEUnlyWEU2aHBOcUxBLXg3SzjSAbABQVVfeXFMUFVaVld4S0VXU05VcVFZYXRZN3Z6RWVNSnhYdkh4Umx1SjVwZzN3Q2RRY01FaUhURjA3ellnaUVxaVRGT2RZNGYwN2stZUNxaWhzMTJzWk5sRWhqSkh2bV8zUDJRVjUtYTY2Sl9JWkg1Q1FfUHp1TnRLME14dWVfVXNUQU9TX21JdjhxUEhwVkViVENldFVIdnd3WjB4eVUzSWthekliZFpQOUNCZldfcmY?oc=5",
+          "published": "Thu, 15 Oct 2026 12:50:04 GMT"
         },
         {
-          "title": "Fifa to offer extra £2.6bn for football development - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UNUxUWTNjOF90OFpXaU9wQU5WUGEwZU1CcklzZi11Y2lyeGRCU0hPTk5tSUJVSTg3SGJnczM4X1UxZWJObktiUktJS09TVm90dS1wak9kWFBBSHQtM2tFVFYxNVRIYmtJ?oc=5",
-          "published": "Wed, 14 Oct 2026 21:58:01 GMT"
+          "title": "Apologetic Infantino ‘not fit’ to lead Fifa, claim European FA heads after meeting - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTUZZY0p2b1dPRG5DYncxTDBSbGUtb2dmeEs1TzRpdDdhZk9GTVhReEFzZFdYU1M4LTBTcU9EcWpwd0VET040ZFlmVVJRZ3ZkNnJFUkV6RTI1elhwenhteWNnWnNieE0wOUtyVUlmSGJlNm0xdF9uRllkeGxOSFhWbC1TM3c?oc=5",
+          "published": "Thu, 15 Oct 2026 19:47:00 GMT"
         },
         {
-          "title": "FIFA Proposes $3.4bn Increase In Football Development Funding For 2027-2030 Cycle: 15 outlets compared - NewsCord",
-          "publisher": "NewsCord",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdHIwNGMxTERoOFQ4S1NhT3AtWE1YeldzMW5MZFdERGVoSG5FeDhpd18wblRZYmVTSVVOU2puNHpfSUNsbWRmVEJ2ZGU5UW9VNUFqX2p5ZHcwVHBIUDhVbTZJc19QZGVlR1FNektfak9TNEJPWEJMVlJ5NWktY2xUTnFHVzZjSkE3alpnX3JhOXpacjdqUjEybU1IZWVRY0xHajY5VTNtM3Nzb0IxWm1SNGhiUUZaWGhjbFJ5RTUtT1d2OENya084TjFESW1vMDJkWWJ6ZndrRnB1Z3ZsUHpNb3BqWXY5NG56?oc=5",
-          "published": "Wed, 14 Oct 2026 18:36:48 GMT"
+          "title": "Africa’s 54 football associations could share $1.35 billion as FIFA prepares new funding offer after World Cup windfall - Business Insider Africa",
+          "publisher": "Business Insider Africa",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaENRLUhHUG4tcGlmcmdsUFliUVFtTUxIZ2pwZFRxazA2bHBCU1lPTENKNG9BMjRVeGsxaTR2QWdrU0hlYkpkT05SR1NkM1VuWWxoUFJsWnQ4ejdMeVJvLXdpLWF0eTFrZTlaajBPOG1JQjVKbzU5TjdxcUVhMGpDeEFZdXlNQUl2X28wNk5pU1VIa2xfUkhPZGhZOTVfb0pGaThaN1lkWWc3bjVuSk5oT3JEbl9XNDFLS0hwVG9mVTh2VEtRMUhZMmZhWThHZ09Wb01uY2pQNA?oc=5",
+          "published": "Thu, 15 Oct 2026 09:00:00 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "‘Whalefall’ Review: Austin Abrams Struggles to Escape the Digestive Tract of a Whopper Mammal in a Dumb Thriller That Takes Itself Way Too Seriously - The Hollywood Reporter",
+          "title": "Netflix Shocker: Bela Bajaria Leaving After 10 Years Amid Layoffs, Peter Rice to Replace as Chief Content Officer - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUVuZlRxNHhSSGxpWUdLOVJIY3ZTV0pCWDY2TGlpU3cwQ0J5ekdlX0VzazhjM2x1eHozUVlDYkYwY3R4MnFMckU5LW5FMkVtZ0xCeWlGdGt5V0F4bUV1ZWo3WDNlNExKeThJaHBsUUV6RndFY1lvN3R5R1RZNm9BaV9ybG81aHpDLUJr?oc=5",
+          "published": "Thu, 15 Oct 2026 21:37:00 GMT"
+        },
+        {
+          "title": "‘Street Fighter’ Reboot Lands Mixed Reviews From Rotten Tomatoes’ Critics - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVJHR0YxUW5uOExsYmtUSXVKZnV6RUw0VlRIRzVvcEZhRFRYWHMyYk1vT2hDYjdwNlBET3lHWEdEelBfWGh1UGpSMk5OWW02dklEZGotZmJrODFkaUk3WHVjNmRCMEVpN09sNDN6TjdjQlZiRzRfZWl5TG9CQWtUTEVZS2dBVWI4NFJBTDc1MnB4eldLQmxid1RYNnBmajRlV2dWZ3o2ZGZHcF9kUWMxR1FWSGVnUFo1elZjSGFhU3c?oc=5",
+          "published": "Thu, 15 Oct 2026 16:39:37 GMT"
+        },
+        {
+          "title": "Steven Soderbergh To Help Finish 'The Batman Part II' Production - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeFJMS1BwMVNVN3JrXy1MN3ZLRzAwRWNPVHBONU5lVmlEQUJCd1hfSjc0M0psVjF4N2FqanQ0dUdORVE2ZU5OX1FqM29XN294THNwamtuamhNXzdXYXZSb1FURDhLTlVkYVhxWmdKcklqLUd1Z3puUnI3Qm1QZmpIOTFXRQ?oc=5",
+          "published": "Thu, 15 Oct 2026 22:16:00 GMT"
+        },
+        {
+          "title": "Billy Joel Offers Health Update in Rare Interview as He Prepares to Sell Prized Motorcycle Collection - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbmpWdGFVSEJsbjJxcUw5em9VQXpkdWNVTVlSV1B5SXQxWmNLdXF6S0YtSi12aTZFcWhZejRNOUdPUlNabFl6cjZ6Ulg1RmpNVjJKak9fQ21HdW1McmNGRVBSM3hlMjRzNWlWUDQ0cGYtSUFiQld4aTFMMF9kcmREajhLQTRBa1VpckxXcktGaVJIbW1RR0w3WXpHR0NGT1Z0TWs5WktkejR0aHVzd3ZqYXh6blRuUko1Qm5jLTRRR2daUQ?oc=5",
-          "published": "Wed, 14 Oct 2026 16:00:26 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHMyLUVNQTR0akV6TzJRZWZDWDhHTnJoVEM1VGQ2b1Z6czM4WFlqeFdXSUdNMG1iUy14NkRXOFRzUHRNQkp1VTdHUFRTTTZZYU52NHA3VGhHUUJUUFJaWlF0Qlpra01HaWdwX01BWlRiTUNKTHdvRGRjVG5jM3ZXbmhJWkFkRGw0TFZ3WVlWcTFLR2p2aGxUS3VuNkYyY0NsZnVBbVhvQVZjLWsyQzVnWC00cEE1NWJnNVFETWdOTGRFdw?oc=5",
+          "published": "Thu, 15 Oct 2026 14:33:33 GMT"
         },
         {
-          "title": "Diddy injured in prison fight with notorious drug kingpin: Reports - NewsNation",
-          "publisher": "NewsNation",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBczN5alBLNy0xWEF6bWhad3JUVFBDQlZSaC1hYi1GREVzTjVneDNwRWo5QWdRYkEtQXpGNmR6bzU1QzFabmF5eF9XeXQ0bm94SW5uXzBCYk5RSFdWN0tKN0pBbGc1Y0lZX3Q4UTF1TFBlWVgyMFRfeklPLWVUUdIBgwFBVV95cUxORXRvSjFCTWJjM2JCQ09fa0ljZ3l4WWJSUk5CM2lpekFoVkJXTXVKNkllUW85elN4dVJvREFERW9yR3Joa0FLd3owUl9HN3RBY0oyS1dYcDJMVGcwbTVFZzhmejR4WUVPNklLMUNaOTgyckd4SjE2MkNZMW1FV0hXSEVFWQ?oc=5",
-          "published": "Wed, 14 Oct 2026 19:05:49 GMT"
-        },
-        {
-          "title": "Brooklyn store in Kelly Clarkson feud says Molly the mechanical bird is now on sale for $15 million - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRnhETTQzRGtaQjRlUHQ3U0VZNFNhbUl4U1Y5Qjk1VU1xT19fQWx4YnNHNGExcWd6Q0x5eEpSRzVtem9EZ3RraEo1SV9VOEhHR1ViYUxVU3l6dU9LSTZrNC1kNGhyMUNBUXZDLWdxaXpEb21SZGxmVlZ2aHlEemtESXdQOHVzUjVMVmV3UHNYMGVXU0E0Q2ZFSzhWRGNkbVhuTUdtVVJwX3NZWjBkd0xsMzBVWFRaY214UFFKVWFuMVlTMXRWQlNSWGhUWVE3blU?oc=5",
-          "published": "Wed, 14 Oct 2026 20:33:51 GMT"
-        },
-        {
-          "title": "Social media star Bryce Hall faces felony domestic violence charge in Las Vegas - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcFhqaTdMVU9FcWNtU0M5czlTb05takZpVU9YSnVLdGVtelc1bkxvQzlYazV5dHlicU5JREtCQV9USHFUcHhocUdOZE53RkwtdlNzbGFEVDRKSFV4MjExR2h5UHlKVXhEd0VWMFFabUdIeExCZDI2ZEE0eVZFRzVUb3JmZy1mVWpxbVVaU3RjWktId1drdDBzSWpnam9fTWVUdnVsRWN2eUFwMjRvUnJLTFFVMEhobTVqOUFHT0djYWpPZVc1Y0kweGNlRXJzS0U?oc=5",
-          "published": "Wed, 14 Oct 2026 19:28:23 GMT"
-        },
-        {
-          "title": "Geordie Greep Responds to Accuser’s Sexual Misconduct Allegations - Pitchfork",
-          "publisher": "Pitchfork",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc1lSRkZ2ZnJRX2hMV1JOems4WWd0bjIwMmZpR25OSGR1dmdzYzFwdWZTVEQtdlc4aGJSbW9ZYXdVWU9hWVdoQ0Z2SUoycGpmbzB2UXVPQ2hxblJHbXBlY19SZFNQTG1rU3N6ZHpVUGhLSVRvZU9TTWRYcy12WFlnUWdSTVZlaGdmOFdRbllJbDBnOEtYYnoxZA?oc=5",
-          "published": "Wed, 14 Oct 2026 20:00:33 GMT"
+          "title": "Mike Flanagan Defends The Controversial Change Made to Carrie’s Prom Scene - Comic Book Resources",
+          "publisher": "Comic Book Resources",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xTWJEdXYzb2VucmkwR0ZRRjREY2dPYnNjS1VpMjJJeEs1QVdQcUtSVmVrQk5HSEV1eG9IWXlyNjhkOV9CTG11cDZmVDl1QWhRWHVKcldLaW5OZ1Yxc0QxVmE5akFfMUFmMHJQSVpOOUFBZw?oc=5",
+          "published": "Thu, 15 Oct 2026 19:42:25 GMT"
         }
       ]
     }
