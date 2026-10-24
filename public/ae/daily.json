@@ -1,7 +1,7 @@
 {
   "market": "AE",
-  "generatedAt": "2026-10-23T00:26:05.881384Z",
-  "validForDate": "2026-10-23",
+  "generatedAt": "2026-10-24T00:16:43.974852Z",
+  "validForDate": "2026-10-24",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
+          "title": "إغلاق شواطئ أم القيوين مؤقتاً بسبب تسرب نفطي.. والبلدية تكثف جهود احتواء التلوث - الإمارات اليوم",
+          "publisher": "الإمارات اليوم",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mU2htRUJYU2JwWVM0QXRENjdqOWZoYUFRZTg2bFE1UTg2dFBuN0JNRjU5blk5UGJMbmx1Z01pNnBKd3o3Yl8xT1RMM01XanI4YVJWcF9lQUJ1TnpvOFI1S2htLTJia3VHM20xMUlXV09Ha3hKQnZTcdIBkwFBVV95cUxPeGstWHFkOUVCNzhHZ2lrbEh5TFRwS3Z1aGJ4UmVjSnlJaVk1TjNYWF9XbUlOTWlCSktaQndIN0lKd2VLVmc5d2lwY2ZxWl9qSVZvcmd5RW81M2M4NHU5SGk1bkpRV2IzMWNmeGU4OWhyTmlXSnFTemRGVjFHdld4MHVxQVh5eXZWNjhyZGNHS1oxMXc?oc=5",
+          "published": "Fri, 23 Oct 2026 20:02:29 GMT"
+        },
+        {
+          "title": "سعود بن صقر: نفتح مسارات جديدة للاستثمار - صحيفة الخليج",
+          "publisher": "صحيفة الخليج",
+          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxQNUloREpZMnk2N2VmTE9pZUJhTXhSaS1UQ1dCc2xRdVMydl91aWVET3ZVTmloajFrVFdwbm1iOFB5ckNTQVBLLXhfVnRWX2lGbUUzU1Y4TzFzMVd1TjNfSFROckxVT05GeHZBZG0wYUpmWlpQTzNwRTNPdDRydFdLMEI0QzlXclQ4Vjc0WlBJajRuRE1zNW5LMU4zajJPVDVlams2MDlvOGYtOFFHS2g0c1Zfa2xZbVhRRXJKaW9JOWlhUEhBQTBvdXY4UjAyNjhDQW5HbzFoRUpfQXpvbTdpNUFoZ1R2RG05MGNRS2NyM1JwbGNFZEZTVEF1Rk9TWFBBX1lPMWk3akFrVTBZenprdFJaenBOMnJhSmVFY3ZsWDFYLVctRjVpM2IzalZhQ2FZOEMtSU91YnZjUDFzN05FY1Z4RkpaM1E2alNCcnVKa2stX2Y1SnpkMXNmM3M2R3YxQlk2NGlJTEtwUXlYcjZ1TW0yVzFNNHppU2EtMUVUUmtGcVAwN2xCUjFGMXVkRHVyUVEtRDV6cXN4MWVCb3o1UXdHUndodUFRTXZRemdudElFZkRyZTZ1Tm9sd1BLVUZwVk0weldzakplcGtEd1Jnd0dNN3NJT3FUVGV2T3A3N2tybUNGRm5ESXBjSjR0M0d4?oc=5",
+          "published": "Fri, 23 Oct 2026 23:57:34 GMT"
+        },
+        {
+          "title": "ولي عهد أبوظبي يختتم زيارة رسمية إلى اليونان - الإمارات اليوم",
+          "publisher": "الإمارات اليوم",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TTjZIZlc2SDRNTTliVy0wUTZZd3Rwd0U4cTJpbmo2WjBmRURzbS1wc0k1dk14bGQ3YkxWejBaM0loZEgtMVBPRU1Ca2lmN1RXSGR0XzZrMGR3LWtJNDJZX3RBRURSSzNLWWRhYmppTFhBLUhBaFRyRNIBkwFBVV95cUxNYWxwUUNFdjJYdEJXWE5uZWtQRFlMQVdCWDl5RXo3VEIzWDlpdHZ0WnBEUlNrNjl4bjkydmNrTWlVNXZzVDB6REJPa2F1dHk4SnNCekxnRXdmeWkwOW1rYTVaUkt5X1EyX0Nxb1lmVDg3b2JQdE42Q2NrWFMxUlZxN3lucXBkUFZQTW5qekRoeDJlbG8?oc=5",
+          "published": "Fri, 23 Oct 2026 16:05:40 GMT"
+        },
+        {
           "title": "\"مجلس التعاون\" يؤيد بالإجماع ترشيح لانا نسيبة لمنصب الأمين العام للأمم المتحدة - البيان",
           "publisher": "البيان",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMUXN5clAyU2xSaUU4cENMc3ZvNGtBNU9BZTk3aWlmR3laX0tXS2k1c0RTRWNRVnVhck1oRFpyU19CNG8tTGYycWN6VzdKeEltRllHZGhzVExQamPSAWBBVV95cUxObk1mVU9HN3ZObmFnZ1RCQjA2RnRuRjV6enlORk1ybVlHUUxHLWZJbGU3c1JIaFRUQ1hkTUt6RW0wdVVZckxGOTNKRVpXbUM3dFVTSEktYTg1X2psMXJXeV8?oc=5",
           "published": "Thu, 22 Oct 2026 19:16:00 GMT"
         },
         {
-          "title": "حكومة الإمارات تطلق مختبر تطبيق الذكاء الاصطناعي المساعد في الخدمات الحكومية - الإمارات اليوم",
+          "title": "ذياب بن محمد بن زايد يلتقي رئيس الوزراء الهندي على هامش قمة «NDTV» العالمية 2026 - الإمارات اليوم",
           "publisher": "الإمارات اليوم",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DRjBtemhQZTdfV0EwNGZZRVhrcFpPd1ozS3F3b3k5LWRCd0I2MDBRMWR2eEZzeWEwcWJ2WmN3Um9hLVg2X2tQdXJZbldPMVNNOU1nSmwxTEdmN2p3dmNsVFpJeWd6R3A0OGw3T0s3ZUNxdExFVlNvNdIBkwFBVV95cUxPUFd2SW84NjNfZXZfcGExOEtEV2tjRHNLOFdVOVlXa2kzandSU1EwSzN3UmZiZ0ltOXgtQ0xvWFRySF8zb1ptd05TWGoyWm1HMUVROS11czU3cnhOZFB2U2dDbUxVZG44X2QwbXRWZVpkR0l6NUtqU3FpSlZiem44X3pPdE52QWNsOUZmejNsRFgzMVU?oc=5",
-          "published": "Thu, 22 Oct 2026 10:47:27 GMT"
-        },
-        {
-          "title": "«النقد الدولي»: نمو اقتصاد الإمارات 7.7% في 2027 - الإمارات اليوم",
-          "publisher": "الإمارات اليوم",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15clIyeDU1SmE3bThWdS1TajJRd1dUOWJmbnpiYzd3N2VFRmcyb0NvMkVibVdMRVo5blJYMmo1NG01S2wzdXdqSURVSFRDSmw2VGdBRzViT2ZBaUdLTmUxSHRCMjhTVDE0OXctOERUMnYzZ9IBjAFBVV95cUxNVHBQcmZldUNyLTdrZUQxUWtnTEJvTkNqNEtia1RjR1c1cUFJa3B2b1NWV1pTYmpfQWR3NWVWWldqaFNSNk1jSzlMdDJKWFFOT0MxSEE3aWZtQXNsRDFRS2ZRX0x1bWZveENCSU55ZDVxZy1RdWJfX0M5cS1zMDdnUDBEdnIwM0x5dmdlSA?oc=5",
-          "published": "Thu, 22 Oct 2026 20:15:59 GMT"
-        },
-        {
-          "title": "الإمارات تعلن استثمارات إضافية بـ15 مليار يورو في اليونان - صحيفة الخليج",
-          "publisher": "صحيفة الخليج",
-          "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxQYTNaNENHcmlLVnFlNWVjVFJtWjlpQkc1RDdSRWQ5UEgwQnFvOGMyQ0pxZnJja1dMR1MyeVE5aXVMMUdKM0tmUmwxcW92VlRoS3MyaG5fMWNlYUl2aFF4NnBCcjJteHVPWVBGRTI5V2xWQWphaTdUbHlVZ0ZNUEl0YWVvX3dhamhZRFNfZ1JsMThmNzJidUdMQVB6b0VqVkdJckcwZkhrOEFZNTJ6MlFMN0U2TU9vY0xTbTFrN0czSi02NXY5YnFKNE5CMTBkYVdiQ05nZ2t0bGRWRU1zTWhULVJBcFRCVHRWOXlRZ0h5U2phZ21oQ3FLTU8yUDhsM1lsZ0hXSjVKdTBOdW52SzdQOFBBaUYwZjZ0MW05blc1bi1ZeXZyOU1MRnpYcUwzRTE0c0Q4d3A1bi0yZzZxajlxZElyRm1DUE0xMVAtcWJWdmRESUNMdEtVRHJWUm1LVjJkWGRpcHVaMzdTQW1BX2JjUTBqS196aEtXNGlGbHFnX3FyMzFQd3FZaW1VNFdwdnN6NjNZNkhKbzZuelk2QkllUnhYTUNzZWg3YjFuY3VBclFoMjU5c0IwVzJ4ZFVKN0NJbzQ3MVF2cnVxQXdQNWhVN0F0a2h3WTE5X1BBTUZDUlh0V0NOVlEzb1JyVWlRUEFuSG1XdlQ4NWNEQXdrVmNHOVI3WXJoTFUzYlFnSEh2LWFoZEY2Vmt3ZWR3M2M?oc=5",
-          "published": "Thu, 22 Oct 2026 21:40:20 GMT"
-        },
-        {
-          "title": "جائزة الإمارات للطاقة تنطلق بجوائز مليون دولار - صحيفة الخليج",
-          "publisher": "صحيفة الخليج",
-          "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxPREozaVNvWkRnenh1NGlsWUlyS20zN3JwOTFnd01Eem9NcGNuYkxQSDQwVFR3a3NLZ1ZJS21fTmhDcGNVQTFVbE1NYm9ObTNqZGd5NExCNVJiZ1BiSTl0TjFnOXFVb3NKUnBsRFlQVzAyWjZvbU0wMHFYNUNXNVpnN0E4ME42U1h3dnFkUXdTbG1uUV80VXBoeTQzRU9WWEFwZ2U5OW1YNW9NdVpkUnoyZjV4VVJwMVdWQkJEaTV3YzBxMHpzUUpJM3cwcDdRUnNyMnNUZWhTY2xtMUJrd0RfemZpektBWlBWcjJfdlA3LWJiRHlUUTN6VENZVFV4aGI1YmdqSm9rUzhhS2FUcUEwWjBHNk1iOVNTczlUY3VjeHdYZmJmck5hQWd0MjhURGVoQ3VQRF9wTERpU2x6YWJZX1AtZkNWTDdJTE50YUZ6SWtMejFLUndPRlN5TVc2am9YT3dpT0RaWXdSN0VpMzNYekZETEJfcnF2WFRXSGlRMXg4RGtRLU90Q0N4alZHRExrd2JuUjRLSUJsQ0tSeG1GdGxVaDJ6WmN2WXRfMFRZSUVxQ0lYekV1RFF4UlI3OWh1OWdNdWpaTGpVdGhyeE43VVVXOFdKLXhwRl96RE1FOUpYTEkzZGRWc1B3TWFwUGE1YlRRM3V2b3lrR2xxSzFsaDNZQzBMNjVHekRhZWVBY2Q3SVZSeUU2U1BNeEp0M0piVEpHSmZRYng?oc=5",
-          "published": "Thu, 22 Oct 2026 22:04:23 GMT"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nVXpDNjFDMXBRYXZ3MmFabTNmZm84WW5kcFZEMTI0VndiRDU4SEkxQ0VadUVqamdmNHNWRjdOTzJyNm94dWQ4ZFZPalV3Ujc5Q0pPTnpheEtnVWdwY2EtUlhuNTBPTC1TWEdzUzFfRWtMd2c2UXFUb9IBkwFBVV95cUxObTVpWjVGeWlPbjlZb2lyaFp2c0JCTG9keDRoTkFDc09nY0g0TFZSY1l2V2M0SF9jNDFpZklFMXE5eS1MajNxVk5OWHJqM3ZTYU9iTEpCOHA5Mll1QVQzOS1fMjhNNGpJTEp0NUdPNV8zc2Y3WktiOGkzTHBoWFBibWpWU2trNmdhbDhzNzk3TC0yLTA?oc=5",
+          "published": "Fri, 23 Oct 2026 10:52:25 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "ترامب يطلب من ماسك رفع القيود عن خدمة ستارلينك في أوكرانيا - البيان",
-          "publisher": "البيان",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZaG1tS1ZicjB0aGtJLWN2cTh2Wi1LNlR6QVlqMXFxaFZFRHBBeFI3cTdPNE1VNnFtLTN3UFo1eG9Ja1M1c3BxSlVSRzJ2RzFEVlZBOThaVdIBXEFVX3lxTE5aVEF6VDNXdmlMNTRmX0NqZWtTN2RzWHBQaDEtOGV1NmxWVmNka2trNm5La20xeTNPVmJvU2FkNlVYQW1IdV9kanpkR1JPeUtEU3FSUnVHSVlrV25u?oc=5",
-          "published": "Thu, 22 Oct 2026 19:26:00 GMT"
+          "title": "ترامب يعلق على تصريح سفيره في تركيا حول \"ضرب إيران في عطلة نهاية الأسبوع\" - CNN Arabic",
+          "publisher": "CNN Arabic",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTktfUl8zNFptd256TWY2TVFXYmJrU3NlSkNNQmpvMkJzZkFYZkdfZnhKYUJZQk9iakFySGR0YS1XTjZBQ2xEQWI4MDBaNHNzWU43RjJJRWlMWE5rbGk3RnhKY0FuUW9YcldXY2k2Mkk2cThNWHV1OEVNRFFpNjgybW5xd3RpRUZnTWlRcThJMldrZVRtUEFPLU01Mi1jSlhmRDlBQjNvY1dueEd0ZTBpbFJJZHN6WDJoaC1OOWhEVmg4NGxu?oc=5",
+          "published": "Fri, 23 Oct 2026 19:26:13 GMT"
         },
         {
-          "title": "زيلينسكي: بوتين لن يخاطر باستخدام الأسلحة النووية - سكاي نيوز عربية",
-          "publisher": "سكاي نيوز عربية",
-          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxPZmFJeF9DS0ZZZVluV2JUTzZobXNtOHJib3ZJXzU5ZG5mbEp4Q01WNndaeFpUeS1hcGpONC1GYWZzUnJYT2tzSm5TYWZoc1BaLXd2Mkl6NzVuMHBQeUpGOWQwZV9BU3VqbFk1dkxiUktqTDJoZi1wRDltLUJSai1XUWktMTZVYWxrdWRmMEY5amF4X0xBMV9IUWhXTk96V0h1aUc3cm41V3lheVEzTmRycUxTS09KdFdsVms4ZnV5dExBZUxjVVhiMTI0eG84V2JKbVpXaF91RVdmZHVVcUN4aGstTWhkMExvaFhPNUtUbEIycHJJcFdGSzJyWmNtbUNxYmxqck9vX3BlMjNuVy1KdV91dm00T0F0XzhBa3F2ZjQ4dlVnSnN0VU1YblhfYUlzSUF1TmxISUgyeGhFVzdlWVNFTHpLT2l3MHkzT213QkJGcUtvV2RCY1YyaHZ0TWYtNEt5bjJPczQ2OUMtS0JlQUV0UkRlUVpjSUNkMnE0QnFMTW5BRGVtM0xMR0ptUXc5TGJkUEsxZnkzWkNMNnfSAaMDQVVfeXFMUFY5NXdpZ29DaVk3MnhueWRTcGFoa2Rab0RFRHNKdER6Mms2RnFJNzE4d3FYSWVqcEFPaWs3bV9SZjRLMlNMUkFwc2hQdlJZbEt1MTlFd2JDVjVNUmVUYXZJRjUxd3VXUmg3Qml4dXhnenYyMnBYS1dHX3dXS25sWF9UYkhOTVB1dV9Fak1zdXIyYWdCUW5PS0xEOEM1UkduVEFjMGZBUmlrblFQQmlVb0ZTa2lMdmJJSWFaMVVCdWV6MXNMbFhiV3NyQ1luNWNHdEprM2ZTVzlTWFF1MlJJM2dTQkxJT2tDODJyTWYtVElYckV4TGZEd3lSYU04MHA4UDRLU0MwN1E1dnNrYWREc0Y2UlpTR1J2TVEzWWRMdTlJaFVIcFI4YkY0UVZCQXlWaUN0TXI0a1M2SUdzd0J1NnlxWWFZWW0zQmlIQnhOSEV2MnJsVDFEcFdyOXhzMHE4SzhRNVFoWTMyTmp4UnBZZ2VQTy1XN1dvdzZjdXcwLVBaZ0YwR1RmRmNyNTUtTXhDY3RXM0pCaWloU1h3NFRGOEowbFU?oc=5",
-          "published": "Thu, 22 Oct 2026 16:13:38 GMT"
-        },
-        {
-          "title": "حذر من مؤامرة يسارية لإسقاط فرنسا.. ماكرون يمنع الاحتجاجات غير النقابية - الجزيرة نت",
+          "title": "كيف يستخدم الجمهوريون \"ورقة الإخوان\" لهزيمة عبدول السيد؟ - الجزيرة نت",
           "publisher": "الجزيرة نت",
-          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNem56enR5cjZBS1JpaUJITWlMQUxQaThEVDlYNkJNMmZkdE40el9rQ2phZ1dWa2ZCM2I3OG8zYjlpWHRzNkRFdjg0THhub05jS3RTakVRSFp4cmw1b1pzU0JGcFlCWGQwNXNsbDFPS1NCdGdVR04xU1B2MzdqYVhHZWhfRko1MGY2d3pvZUhwV3dLeV9lY1pwelVTZlFRTG5hVnY0VlU3QlpmdDFlMkRsenBHNXE1c0V2ckJKYnJzVURrbFdFanhmVVBzRF9vTWVJTmdwTVE4b1FtMTkyN3prUzAtQmhFSDJqWU9ULXdkNWo5dE1kYWNfc3VfOWd2STIzc1BJSnVVQW1IZUQ0amF3d01OOU8wTHpxT2hVVFl4S0RWRzJZcWxaaXlPVU5NSHAyX21RaEQ1ZV9md09SRGdkcmVNMWxMWjdKUGfSAc8CQVVfeXFMTkswdmhkcUI4YlpmblNCSjlVTlJScm9JSWd6UlNEUFNCenNjakhKaEhhM2FNYTVoeVZucHVELVRZS2xPSFlQaHV6X0hVMXNYdUdUaWFtQ2prQ1QxZXNyZVAtQjlzVzd6RU4yNWJDb1ZLQ3JVeVREc0cyc2YwR3lpSzZYajE4REVQZ1dJQ25JMnhEc3huVUQzN3gyb2sybzJKNXV3UVJGanJzYVpLUHRUczBXLXdTNnQ4emNKRjJrQTdld21tZ3B4T2hLMzZfc2cyc2M1LUZQOUtLeEQxUzduY2JNZnRJNHU2Zi1LT3o3LXgtUnFaXy0yVkFFWTBGeEdadW9WXzdUX0NYRjZqVUtyT1d4QjV3SV9mMXNwUWxadmR5OHZtckpGeHc3NmRXcnUwWFByVUdIcF9VWmlCaG9LMlc5X3F5XzY4cDlhZTRVVlk?oc=5",
-          "published": "Thu, 22 Oct 2026 13:55:57 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOVjBMeXFGM1JWQzEtQkFpR19Lem8zN3FBWjZ0Q28tb200RFFmRDFFbDlCTURyb1JZMmJMXzdqdmJuSnBoT2lXd3ZGR3RuQ3ZBR1FvdDdWOGEtblEwQU9mUDhQOHhyV1g5Z0E0QWx2YWpMNGVjMlB2T0VzbW9xS1oxSHl5cGtyRjRhUmF2cFlvOTNFZHE4TTlfcDI3T1dSU2Nna3hZTXg4azdybTI0Z2M5ZHFyRGNJbmU4c0VsaW1hRml3aTB0WVZsMWxYZUVSVGhFVmtzS08yQjBfS010MTBRbzVwekl4bXFoNksxN2htWWp2YVc4ZXhsQXNscmJWUHRxV0s2RU9sR1c1djMzRy1NT1F2eVdLMGR6QmJiZ3Z2LXd1b1JKQTNlRUdwV05lMVRkSFBqWG5nb1ZmYzM4NFhmTENObEZYRVhBQnfSAc8CQVVfeXFMTVpuUkVVdlRXZDZlbHhydUk2XzFOM2RfdHh1T0w1R2szcEo4dEJCOHBGNEJmR3d1YWdEeUtzeHlGR2M4N3JrajhMeFI5TkhNYWF3Q014VnFjdXpLSDVQdThWaUFONTlfWHJVUjB6WWZ1WWVhQ2ZJVVpaU3hSWmloVTgwMGVwR1hXeE94azR0RVVIYkxSUkpBLUp0VnZhQ2xBZ0t6N0FxY2UxSWNYSHl2WXdLTVJfVmx0MUtmdnpIRGJHSTdTX1BpajhRWDc2NlhYcmkxZE83YjVwZ0J6Q2d2VFZOSllycWd5TTFsVFNsdXJucThpcTgtSXdyVVVpVk9BQjA0ZE0tdXlFQVBrbC1vVjVLTGl6dkJFMlVaZ2gzc0VVYWwyU0dRaWtWMjR3Z0pBdU1ld3l1ckVuT0xYUl9YSFFwNlVmc21lOUZKQjlSMzA?oc=5",
+          "published": "Fri, 23 Oct 2026 18:39:57 GMT"
         },
         {
-          "title": "نتنياهو: إسقاط النظام الإيراني هدفي.. ولن أطلب ضوءاً أخضر أمريكياً - صحيفة الخليج",
-          "publisher": "صحيفة الخليج",
-          "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxPWHpqbTJya3hQNkRudVhjWExNSVllejd4R2RyaU9mQnRPVHdSZlRYTEN5MVB5OXJTTXRxeXM4MkYyaGwwQ3h4QTdQczZuWWUtMFlxc2JvSmZWdWVoMUFINkgyVWE0X25HdXZacy1SWFhpbTIwY2dObjFiUmphSGJWMVpOU0l4b1o1azQzQklsLWJOLVZPNTlxMmkyRnZNYUMyS0pfQ1haNHM0NVVZbmxhWFBnbTBMejRqdEdwTTJ3cm12T1piVGNrZU9PNGV1WFhsSnRxdjJrQXZPS29PU19kaHUzZzJCMy1ZT2JoY0gxZUx0czk2bVl1dzRVNlNQS3FUd0xNeDlmME5sdU1BMFU5N1dZbkxObUtHU25kcTlYMDBhRWZwQ2ZBallTQWs3N2dMZkowY0F0NTBDQXkzZXA2UW5kN2VnYktSMF9WZ1lRN2l3czVBMGgzOWJVeDk4RHliY0lsZFVUbGkxUHhCRXdyTGVaRDJ3OGFyM2JUYThwNGJPWFYxSTdaN0ZDWEF0NzJ4TlFWUnp5Zk0wbkJfMWtUYzc5RWlHQXZSTlhMdXJ3WUVwbXJsRk5wd3I1NlRkcEpkakFPMUNDREhKTEJ5QTExTkwtdENKaE5fMUUteXNoS1dyMk5ucS0tYm1RRXZ1YlB6RFdsYk13akJoV0paS0FMYUtTUlJaaThjaGZXTE9FYUJJZnlCbTNJVjNERUVHNnFoQmtKY3l2YzdUcVpEa2E0bTdmQkd1ZDUyVjBMbktmczBZTlhhVlFPcWVSc29Yd0ttYlpWMGdrdDVyOTVMNVJZQlMzSml1T2E3d0JXNg?oc=5",
-          "published": "Thu, 22 Oct 2026 13:51:59 GMT"
+          "title": "حظر تجول وإغلاق متاحف.. فرنسا تستعد لاحتجاجات \"سبت الغضب\" - سكاي نيوز عربية",
+          "publisher": "سكاي نيوز عربية",
+          "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOSnptSnBtdDNrbFJsSUxmWkNkYlpNam5RbGRiR2pqcXdndUtfeVBMVlRjRWZGX3NVUGJ6d2Jyemhfa3MxLW4wNklrbGVjQWp2SlVuVkV4VlBuSzgzeGR1NmtUdy1WWVd2RmpZcXp6REQ1NDB3bGQ5SlNDUmhOR0JTYjBXNEtwdU5iaF93dFNmcVVWd2twWVg4aUFCUktBNkZWRkNhUzZUcjI2Z0R4cUprMGhaQ2ZWeXVESXhvemJCby1CazBkSWd0SUFxS0JqemoyWW1BeU5NT1ZUUzdaX2RJS2R2R3pQeDJpU3p0d09LYUxXZ29VVVFnMnNQWnlKWHQ1Sy1INHFlRnd0cEVtd2JsLXZ1YXBFdGZCOG1ZSmt0MWpYY0kwMzA4M25vVXNoX1FvSWVoUURmVm56eklsQ095eTlOY0hnTFU4Nm56dGZKTUR2bFd5Sl9rMVVTT3RYZ0E1LXIwaDZsUzFhSktBOGdtVVFWb3Bfb1dUNjNvbmpobGxkbnBRNHhoOUNKNHZKMG5ad2hURVRWOEFuamRuX09DaDdkeE50d3JKNmw0NXlVMlN2c21IVEF2VmVxUW5vaUJ0U2hMYzVkWjhjd9IBzwNBVV95cUxQekhGQmZleVgxYkZJanREY25NMnRzR0tYRkc2ZjZZY0N3M0xRcGYwNDlkQkxubEZBazBiQWtYWS1EYm55dktIYjN3THozMlY4VlBxWENIdmdybmNFTWotQWdZekhmSWdXWjBKbGVOZ3ZYYV8xSVR0dnk3MXJmYUxIZ3RaeVhKS0g3ZmtBVHd4TDV2N095VnRlaDZGNzhhTlRNY3FWVEVFWDByRTYwTEg5Wk1mdHo1Q1doODF6SVBjejJSTnl0eEJUWmp2VC1tSzRqaDRmVkRoV3dyQlRaSWwxb01SZ1V1Vk5Vd1JOSXpEcHNyZ1lweldxaDNyb3ZNeEM3US1JOE9rWVRObE9MaWVlUlFaZmJ4Y2laaGdKdjRqN1ZxeVpzSmVNaUpJUlhKS3ZacmdSTUxFaFZ4Tk9VUHZfaldlaDBkbDhrelZ5b0ltcU0wUVRhWW5QVDlPYTdtVjNudlpob1NJZ1MxNFFsRGtjNGhDNVJnMndfd1ZjU3pCZXVqdl8zTEdZSXJFSk1MLUxaSVVIM2Vzalk4R3RQTjhYTXhIZFlBX3ZXWC1pb09qeG1mYmtqNGcwcUpwbGEzYXJvVGpnZGNDUl9IV3BjYlN3?oc=5",
+          "published": "Fri, 23 Oct 2026 11:49:56 GMT"
         },
         {
-          "title": "السفير الفرنسي بالسعودية: ماكرون أكد تقديم كل الدعم للمملكة - العربية",
-          "publisher": "العربية",
-          "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxQaXM4eW9pQzBrdGJZZnExUTR0Q2JhT2had1RId3lpVDhxSVpLa3hWUFdhQk9vbExlYm5kcnNPZ3hRZEU3REo5WFNOX3l2Y2o4dUFCTUlsSllzaVZZVEJGLVZmTnVnS1FBREsxN0lqcS12RWNxQy1lWnZaOTFoZzNqeElUcmQ4alFkZVlIdnlMUE5PX3lhWHVHR1hzdW9kd1R5Nk50TkdNVXNUcXZZX3NnZG81cHNYMld5UlNwYk9UU3lydVpmbXhBaFJsSm1JUzY4eUZfSkxqVzR6UmZ6UjNsbHpzLTBORTU5TVdXZ3ROU2JJRWRfVlVkWWdUUXA0N2JaNFNWemtuckQ2cVp5QkNadGwtRXlDWk04Wk5SMGc5UVRGN05UeFBpYnZHenVSeHhIQXQ4VXhDZmhDcktoWThoMEZVbUdjaW9rR3FQT0RVWk11VTJteE9wbHF5d2VUaUxTUm81UERQSjE2SXhxdDJVTG5WUmY0SEpDbWtMX3NxREtxX25TQ0hqOWllZ283aXA2N3BndWVNYVFWVWUtVXpISGYwWnp1aE1IYmhOSWRwOENIRDhXX0xLLWRuVDdPNlVfOUxfYnJuNW8tUXNTQ28xX09mT1hzT0pYUmphTWFyb2dWSkhLTGlPQmFlZjhlQlV6NDByRTgwUlNPY25iV1U2ZC1ZVHRsaFZSTDNpTDV5RDFYS3lPMFZqYmVFQ0N0Sk5lOGVJYV9fNkFDaTNScm1ORUNLTHdvNFp6T3piZTJQY05Qc3dCeE5aZFRyeXBDTWEwLS1OYUE4ZmdGYkxDcXA4aktVNDhnWnFUQklrdGt1bzhFTThzanJFdmFhbkNCNWlyVEVpT9IBigVBVV95cUxPUXA3NXRuaER5cm0xcVZkSEdMUkF5QTEtVV9FZFZuc0NSa1hGTnROMGJEUEtXZmZLOXpxMzhZeEhCRkhfdlVHTkxFTFNFYWZ5ME0tZ0x1M01lU2VWRGNGZF9HSmlLbHNMWnNyT3VOVVpESmZNbHdGMThCNXJtX0tKQUVDQmhoSlpDS2pfNWRJWXBiY2VyQVUxTG16UTIxMFFHRVZzYndfaVpYb1RjVjVQY19fOEh3OGF6U2pCM0Yxa3Vwa2FGbEtiYjZuUlg4R2FlWDk0QW5hMXFWTWczVFZqY3NYb2p1N2RDcVpyZ3Z3UnJKOURtSE42RTEwTlE5c3pNYVRyNnNoN1RkblFhM01LVXBfemRKSTVIbDZhMFMyU2oxQW5WYnVKcDhmTG80blV1cVBpQmJTUkRFclJ0LXdwY3o0Z2h5STZxcDBZeE9yT1lLSHd5UEdjclVqcThZM0ZZLTRvSk9uSTRNaldodTZnWWtpMmllNzJxRTVoREtycmlzdVVlb0YwN3lldV9VRDJ6cEY1b0tBSlJlNmdBSUhTUFdIM0lhOFY4OE05Q0FLd1ZrNU1hX1d1WGFwSVVuMW9faVJYUHV4U2FfdEM1X1VtV25vMHVDd2ZEUUxsN19CbldJOVN6RUhmYjA5WWcxcjQ4OVlNaWMxRVliME9Za3o3R2ZBYlVYVExZM1ZKNFRvZ0VPWWxFVWpWUDFxODh2MTdYOWdOYll1bE1OVTVzYnd5bzRmcVluNlJaWUs5QTRONEI0bDJkZ3RXS21iZzMwMVVMekVhWVRHcmlpMU1sbEFoNlluYXRReExvcURrTWxreGkwd1hxSm1FVG9WcGVOU3pkcklfUENuUjZnZw?oc=5",
-          "published": "Thu, 22 Oct 2026 14:37:00 GMT"
+          "title": "روسيا توافق على \"هدنة ميلانيا ترامب\" - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yLTRKb3RiVjBKQWdaQnczV3JBOE51TnVJLUY3YkE2aVpNeHhnOE9XMUFLYWxBcS1Nb3RxYVM0QWQ5Qm1LemVwRXZSWUlGQUdvU1ZuV2dTdnAySzRU0gFiQVVfeXFMTm5OcE50N0ZvRWdSZ19Hc0lfek45MGZrX3NZU1lBYW43VXRJWldhY1NpNVBDd2ZKZENKWFBGU3gyZjhONFcwZ2VkbGE5Z3lteXdlYWxfMWN1dUJLakdBVnVlX1E?oc=5",
+          "published": "Fri, 23 Oct 2026 17:40:00 GMT"
+        },
+        {
+          "title": "رئيس الوزراء الأردني: الهجوم على كنيسة الكرك نتيجة الفكر التكفيري الإرهابي والتطرف الأعمى - الإمارات اليوم",
+          "publisher": "الإمارات اليوم",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1ZndHY0Y1YkpmV0tuVmRFeWlZN0R5VWRHQ1dxSGFGMFpsbmJQa045VVgyanRaX055WGpSMEtKX3RBd2pSYU12bEhDRWtTMHl0cmtlZGdyd3ZVcFprQWpLd1NCVjd0d2dxN3cxNFktYTLSAYsBQVVfeXFMT0FwQjFqWG9FRVgzNURpLV9SeXN0YzlfUm1jZnFsWU5qQmtxRm1lNVpaN0VyVlpIb2FaakRLMXpwdlkwaDQ2WWpHcFg4YkQ3aVlCWXZoNlc0RUp5aDVDQWFWMWVxdHpOSjZjeFU1MnVIV0NnMWJ3ZklKeF9lQUdOUXNZRlpaREthSW9OSQ?oc=5",
+          "published": "Fri, 23 Oct 2026 19:02:14 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "تراجع الأسهم الأمريكية مع مخاوف الذكاء الاصطناعي وقفزة أسعار النفط - معلومات مباشر",
-          "publisher": "معلومات مباشر",
-          "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQcS1qSG9LdGdYVUNHSlVwclhGdUlHVmVHNmp4QjIzMkZIYjZNMGF6d0UwZmdpSmN2M3U5TGlnbEJLTThrcDY5OWtoVl84WXRpTnVvQTJ6YzIyckdORmhXU3p1S3ljRWNkaDNNb25YYWF4UkRvYUZCQnVrYmVNczBTUnlrT21YbHdFb2dRTkpLRzZrUlRCdW0wbDJtekJKX1FLNW1yMEJsMGVsaTF0YnBwNTd3OW8wTGd6WmJQcU9QbENHSFF5TEhiS0NVb2tfaURya2tLd3JqaHJvSk0xZS1JWjQ3Vlk4QnREakNIeWNJVmpnYjRkR2xEd3pTY3pXVEZBbXkzWlpSbk1nMU14VTZpcE1oZVNyRUNENkhzWXV4clMxWC1xdkxTYnprbWhEaUJmU28yVnhkTjJLeWp4aklfRmEyR2ZzNHBnVDhDZ1hGU2xaWHRwMFJPeXVpbTJXVjNqNzU0eGJzcWw3ME5CeHhnaUczTGxkTzk5NUdxdmdnZTNwTFQwT2ZLd2xIbXZFZE9TNmp4cXVqOTZiVUVPZTNfaUpqZWpvRzB0MTNqZ0ZITktMQ29pQkVNNDRSNnVoeUNPaGF2Qjl1M2dWMHhuaXV6ejdMRlJTRndmMms0Zml0cWtrVm9CWUFNdGlmSHZLZVVneXZ1dUpRUl9jWlZQSUEyV01neFNsam1jbjdBdUtNMW8xVDA2cGdJNkxZNWZlUHJ1Tmw4U3ZR?oc=5",
-          "published": "Thu, 22 Oct 2026 20:22:53 GMT"
+          "title": "ارتفاع النفط يضغط على الأسهم والسندات قبل قرار الفيدرالي - الاقتصادية",
+          "publisher": "الاقتصادية",
+          "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNbUlnbWxzUDFjVWFTRkR2SXRKZ09BVUR2RUFJQmVuazlZVi1jdmlRS1lNbEVvZTBobkVwUlZOYlV0OWVuRm0wb2dydDVSeHFLdVY5bDhldVhwVF9DNDRkeG9lTWxWVDBOU3FjYlZUNU45ZXlIZmNYTlpvWnJsR0NPYm5jaWo3aEhSbnhpd0lPc2JwTHR1Y1BFUVdFck11cXdOWWR0cFEwcm9aNHcxQ3dBV0tWQTFOMzVsOEM2ejVjVUdCTnk2aGFvbklCNnRiNWItZEhiQnlIQ3g3eHYtcUFPTlJNSUhvZDVVTFdUSDRvclpFcER5UjBVbmJSRTFVYzViUXB6VlFJSVBtMWlmRHJIclJmVDZmc2RhUzNRRUZDTGNTbUdDNldFN2Fac0dXNVVjLVN6VTVqR2ZqWkFKS3FIbEpZS2IwU1pnQkN0T0xOSTJGbDVDUU9ISHpTZTlrQUkyeFEtQmxldUw1cFJ3MWVNaWZta3QxZDJMTDczODdxU3d2WUxSWGYwT09HN0s2WFIzTEZjZ3p1dDA1TVRiSEkwWGJqZXVQT1VUY1lzRnJUSENLV2tLbjQ5TEhTMHNTNW5zSmF0TU44RU84T0pRSmxrVEh5eEJBd2NrR0NPTGNHTlB5eUsxRThxYThWUkQ1RF9xRjlEX1hoVS1vWDhpSWRSRDJkbGhtQQ?oc=5",
+          "published": "Fri, 23 Oct 2026 21:37:54 GMT"
         },
         {
-          "title": "النفط يرتفع و”برنت” يتجاوز 110 دولارات للبرميل - alwatannewspaper.ae",
-          "publisher": "alwatannewspaper.ae",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9JaDdZMFNWM2RLZ0tjdy1yOExuakw4aHFZQzVvNmJ5SkkzTGhhX3h0X3J6TzNuenhiTGtxdVdDdDR2SlU1N0dB?oc=5",
-          "published": "Thu, 22 Oct 2026 20:00:53 GMT"
-        },
-        {
-          "title": "مليارا درهم تصرفات عقارات دبي الخميس - صحيفة الخليج",
+          "title": "أسبوع حذر يضغط على مؤشرات الأسهم - صحيفة الخليج",
           "publisher": "صحيفة الخليج",
-          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQNnAyZEh3UXFrdTMxRDl6VUs1VkNXdk0yekVuZTJrdkVaMHN3LXF3NTc4ZnRGZ3QyUkpHVklTZXpDYW1jcUlGUXBwckZCNE40Y1RDVlFtSUhsNWxOMGpaMEpJTDRTYjRTUHVRdFRxaFMtTVJ6U3AxTDZMSkdWeHZqcWRJLWp0a3RJMXlRMWdQZkFtLThPQ1FuWm5PY3pZN0RjazkwNHVVaTJ5LXROZlg5Z1Fpb2hySHJvV0gxQnZteU5yOVdSOU1Zc0lGZDdiSllISGlQRzFOR2I2UFNXU3VLeVFWa0JrYWl3aFNGTUlpVEt5Ymllb0REWTg5MlJhcDE5TFNJU3oyZUd5R2d5eHlfWEJVQk9xTFRPTlU2VDFLNmRDLTZScDNIWGFiMG9zVnBJVWV2WUxrenN1Q2Y5VEUwM3JjSjh0dmpjZlZLbkVqNDVJcjFCTUhaWkh5VHI4VU1sVW9fdTRTUmN1aXFiaFdJTVBHWTVhTWlzSG1pRU0wUDk1dVlhSW11Vi13d19vM3NwbS1BdThXZ2VOblRqVVRxeWYxTzhyRmlYM0ZqMm15TVV1UkN1NjJaVEFXNzZqUE1GdGh0bkI0Mnl2MkxOblhOZHdmYTlwSFBLbS1CUXhObWJrR3FlUUN3?oc=5",
-          "published": "Thu, 22 Oct 2026 13:56:37 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQcmVnc2k1cXhmdXBkVTc4eDBhN05SaS14aFlvSmVsUHN3YUlPMTRpZWJ6amdzTlQwdml3dmRqbEF3TDd6VEJJajdFT1pUVGRxbUc3NTBEMjVDZHBqRm9rc2ZweGRIVml4MGJSSTJkZFdtZHhDNFIxYnlBanhMNml0MVd5ZS1pYTVxY1ZWVGEtOUpKUGduTUNHV0Y5cHVyazI0SHJnRk5EY19tYlktZFRLdDFHR2tuWU14T1RlbVMzdGRVbUdPemJiclVtT3dQbDMwWlJDWWt2NWo3RzBWOWEwWjJwbGttR2RuSVplYmNySTMtWXBuSWt2ZVR0dEtpRXRISG5RVnQzdzNTU05ZTkNlOXE2RVlCSEQ0YUlhSjJFc203WEpqX0llRFFBbXhhU0hxZzVHeDR0M2o5QmpoTVpaUkpnUTJUakE3a0xjTDRMMWpQaUNqV0t3V0xBRmYyVFNSU29ScEV6WDl2ODUzWWRLRDAtcEZpZGJjN0Rnb0VUZ1J0ZFZzUzZvSDBtQkFqNTZtREN6TmFfUkUya1Jmc2V6c3RBam1WMTNXNFVma01kT0l1emRLWEhOcGZSRkROT0JQblBJMEZ2dnZ4cXFYSzNydlhlM3VHS1o5b1FMWVln?oc=5",
+          "published": "Fri, 23 Oct 2026 20:03:21 GMT"
         },
         {
-          "title": "أسواق الإمارات: سوق دبي المالي يقفل مرتفعا بـ 0.4%.. وأبوظبي ينخفض بـ0.6% - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-          "publisher": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rWnV4TTN1dV9ZSG5ibThVaHhKSGtGc2Y2bkNxUmlCajBVSGZpbzRXOVEtaUFaczQ5QlJKR1dESkNqdnlVdVM1MEhpbVFKSTk2N2wzZWM5OE1TZUp0aXBtbVJGT1pEbE5NYTUxV3J1MTNGUzZvQWwxdg?oc=5",
-          "published": "Wed, 21 Oct 2026 13:02:22 GMT"
+          "title": "ارتفاع أسعار النفط بعد هجمات الحوثيين وتسرب نفطي في الإمارات - annahar.com",
+          "publisher": "annahar.com",
+          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQcURQb19CUmhPUEZVbnFpdU5rV0thczkzRGhtQlJvdzU4X2ktZzEtUjBCbk5iemxyTFZneUtuWGpCNnByUi04SUVSam8zNl83dG9fUldxU0V4WUcteUZVb3ItS1Y1eUZmdVMwSFBscE5uOS1YenUtOFVtV3JOa2s2bTlINkU3QWZ3X3ZOTV81N25feG5vN2FYcjh1eE5lc3ZNOGZwLVNvdkRoX01UclVrd0kteWtHUmFKNEZGMk5HbzdkMkdxZHB0Q0tldjc5TjV3Ui13ZERCTHZ5S3gwVnJlM3czbXdDbE5nVERrREtZTl9BMk40SGpWSmpoRFA4RnBiQVJDZkFfekstTVVkalFFU1ZjQ29RR3RYcjZhY2JXTnEwbWpQU2h5ZzVBVGlYRW1CZUI0bEpyUlh1d2xLVmI0UlliNjFrYzlEMG1ETERZTHBya2s5WmgxWVpXamZIdmMxYnV1N1g0eFB5U2FQcXpHZ3lPNEt1ZUZKZDI3S3dfRjl4cGE0OURGZ0V6VDl1bFhI?oc=5",
+          "published": "Fri, 23 Oct 2026 20:50:00 GMT"
         },
         {
-          "title": "عوائد السندات الفرنسية تُسجّل أعلى مستوياتها منذ 2002 وسط مخاوف مالية وسياسية - الشرق الأوسط",
-          "publisher": "الشرق الأوسط",
-          "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxNNUtCNGY5UFFuQWl0NlNZZDZUT0pGd0lmZWMxM1NteFJYcW5JemRkMGZKeHF0Rm1WeURTckpoUlZIVUd5WGZrUUJyblNsY1RlS0JDYzFNYlBBbWM1VHlpYWxUbHprR3VrWUF1a0xKdDRaR05PeFV5OVplZ0hrR2RTenJ0RENVWkFVdzZVSjBHYUJXZEsxc29BMGROanRpSzVqWDV4WC1IMWFuMS1STjNaTno2dzFSRm1KU0UwdEQzdFlMSGlZYVRHUDZ1NExxcjg0eW55Z0E2YnBfVnA3dTh4UGw1ckxXQ1BKWERNb3lXdGlkcEdRSHVJVDZpemJLN19ZbjRDTUdyNk5xWUFhTEVHREVqWkVHVVVBVi1xclJGalBLUThGWHQtSWdQRWhIeDVXUlFtU0l4Smd4TFJSeXBQT3VXbUxmc3FtUHZqX3R4VmhyM3JralhZYlNtVGo5N2FCTTlpMV9uZER1Q2VwbWxCN3o4WUFZLW84aHlFSnF5UTI4dmh2eFRfT1NpWlFjcnlfNmh5Rm1ncFZlODF1a0pPWFpzeFA5RUNLYXF5NmZsTE9ENTdqT3pzT2FLcXM1aVBmVTdhekNpY0wxb0p6UEFXdF9Nc3dsaHpqaE91cko5NXhmakE2UTkzUnNFWnA2TTkxVnZMNDNGNWZtOXVNT2Y4bk9yWGd5S2ZBeW5yVzVmcnA2czUwY1EzeGItd3NmUUlkZTlKdm5sSHVsNkRNR25sRzNxd1h5djhMa3BZWjBrV0lCWUpzX2w1QTlGTmZaZERSMGlaSWhDTEtJeU5Bd2pEMkFjZ29Xb25lbHhwczJya3JxUk12SjB5U3RTVkJ6RDJBT3NKdFRB?oc=5",
-          "published": "Thu, 22 Oct 2026 11:45:35 GMT"
+          "title": "توقعات الذهب (XAUUSD): هل يصمد مستوى 4,000 أم يبدأ الهبوط؟ - Investing.com",
+          "publisher": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00RmpfYk1MUmJ6MDY0UF9Yb1N5dXhpOGg0Y1BLZXBWZEZUMTRudF92Q2dteGt3NGY5bnhsRFlQTUhYMFUzSWRwZ3hZUTFEXzM3UlR0T3Q4LW9DUkljczYxLQ?oc=5",
+          "published": "Fri, 23 Oct 2026 20:11:05 GMT"
+        },
+        {
+          "title": "\"آبل\" تخوض غمار الهواتف القابلة للطي..والأنظار تتجه صوب \"آيفون دو\" - Sharjah24",
+          "publisher": "Sharjah24",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zdmlMMnJQMEVHNko4YkJ2X1NfRF8tOXBwM1hUcDR5Q3BzLTJXR3BZTVlMMU92X3p6N3duSjh0M0tzVThTSVpwYVE3Y2ZLcFlvSWhtV1VIVnJ6ajRp?oc=5",
+          "published": "Fri, 23 Oct 2026 18:44:40 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "رئيس الدولة يستقبل لاعبي منتخب الإمارات للجوجيتسو - Sharjah24",
-          "publisher": "Sharjah24",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94cXVUZlMzeW9rTlpyQVRnaTNGZGt3TlZlMVVCQ3d6ZUVWQllEeW5UMk9xdUZmVi04VlNqTTQzVXBvRTBrR3R2ekVaYU1rOHNvOWZJVkJ4ZXhST2N2ckE?oc=5",
-          "published": "Thu, 22 Oct 2026 14:40:51 GMT"
+          "title": "9 ميداليات حصيلة «أبطال الهمم» في «بارالمبية آيتشي–ناغويا 2026» - الاتحاد للأخبار",
+          "publisher": "الاتحاد للأخبار",
+          "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxNY1VvSi1URlptWTROR2V4OXZXZUZLcTl4X203dC1ZMmNzTXQ5WWkzRHdqMkVkVTVraWpBRUhYSjdXeFBFU2h4dHRYMWNpOE1pR0x2dTZvTGxkWlEzODROMU9kSEpYTE8xaDVqSjZTWFY0TzNtTVlQWFNEaklyN1FnTjhlWkZQTXcxbFZNQWdOSVoxRzhVdnFsODJBQS1PMllXTnJ5OVVHRjQxVGpjUTZJNGRoZUo0NDdPV2o3bmFMMDA2UGNXQjhob3ZtOHFIbjRBWC00aVFHdDNyRDRJMGM5anplWXhDTzZjekE4cG1zOFdrRnk2Uml3b2MzLUUxRDhCM09pSUVnS25XaGVtMmNSN25CTGdGdlN0N1J0bW44SHZLc0tfaTg3T0pqdVFsZE5pOXdXbl9RUXhfQ2FHNWJ5c1JqWkp5MWxjU3NzMjAyN2pOck5lUkhxT2xyaVFlcXkxVkIyQkZnMWZxRGRZWmRJdEVYWUNHMkRBblJ2OGZDT25KM2NCeGR6aUI1RDNIanhPZV92Mkt4dTJjZk5yeWROZlJxOWRQZ2ZZV2YtR01mbnVqWk41LWxSQ2dzRGliOExuOGhoclQxX1VpamVQVG95OWlSOHdSRUwyRmJnQmE4WllPTnUxX2tBOVFzLXlIQnRheDJBZXgtS0hpSklvRkRET1Bjaw?oc=5",
+          "published": "Fri, 23 Oct 2026 16:14:28 GMT"
         },
         {
-          "title": "من سيشجع كلوب في مواجهة الكلاسيكو الإسباني؟ - العربي الجديد",
-          "publisher": "العربي الجديد",
-          "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOT2NzbE1NaGlNWDdweFE2aDVJRkE4ZHVGaFJUQVdDNzFPdnowVXZMTEdzdGlOd2pQdHNZekE4dHRkdjJtQ1hVaDl1U0lZS0dxYUJmMWl6RTV4WU9kdlNGMGJLLVdUT1E4X0dRaWpET0FjU25zVTFRNEhHUURYVTU4aXluVUZXakl0RXBiVWQzcTVBd3RjZmxnRjB4QTdSQzdtdWxCX2s5OW5GM2RTbnhUMjJsVkstclBLOGczbVJHMUJsMXBiRFM3VEJUTE1SQWpkZWFCd0k3ajBibVZTOTFWWEtYYXZYQUE2LTVSWFBCSWptLTRNcXNPbXFDbk9HNnhOOXlNaHoyZDNrZGI4ekcwaUlOR1N0alJlYmFxdVpHTVhBbkt0WjViRXFuSGVrOFdSaDBQTXFxcVJoOWpDcVRDR2piSVJSS1V2cVdhMDlrYzJyb1ZVN0FsTVN4Zkp4U0drYWVCS213T3cxaTdfdEtV0gH0AkFVX3lxTE9WQ1g4c25UX3h4M1lrWTkxU0pmOF9ISXI3OHZ4RUtuUDk5UE02OHhyMEhsQjZsTE5NR1A0RENjRldTUXFwWHBGTVhfQjhiVEVacE55UnU2bVpBUDRzSU9iTU45Xy1ZdmxjNGtIcUFvQ1MydWlvSTVGd2s0bUZPdEVRMVpCdXExOVdWREhzcXZKb2ZkNkp3Q3FTeW45X1BZM3J4cHhDQ2dNdEtsTzVFTWtIYnN0dHk5bzlSLWRxWFJGNHdxRHZnSEwzRndlX05EVVl0cVNOWUFobXJaemt2amVnSWk0WDFxamlYZlBFamhfWHMyZmFQc3ZOd1ducHd6VVduQVpBMkxWVkJ3QmxEMWtmTU1lRmhDdzRxb0doeWVSRlRKUHJMNERKa0hYdmlicXpKQlE0OW11Q09ZUy00eUloRHNVcnJ4Mk1falB3UVBZd0Z5bVlCRWNDbjZLeTBqSEhlamJ2eTI1dEJudEZKY1Z4N3NSbw?oc=5",
-          "published": "Thu, 22 Oct 2026 20:19:32 GMT"
+          "title": "نجل أسطورة ريال مدريد يقترب من الانضمام للفريق الأول في النادي - إرم نيوز",
+          "publisher": "إرم نيوز",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBieGFmZ0FtamtOeVJLLS1RNlV3cjR4ekQwSnBSTS1wSmg0Z0VKd3I0cjdhdG1reDh1SmZmc2dNMklkSXVqYXpVdmJoMUhDY201?oc=5",
+          "published": "Fri, 23 Oct 2026 18:21:31 GMT"
         },
         {
-          "title": "ميسي يفتح صندوق ذكرياته.. برشلونة ومونديال قطر ونصيحة أبيه الراحل - الجزيرة نت",
+          "title": "من هشام الكروج إلى ميسي.. ما قصة جائزة \"أميرة أستورياس\" للرياضة ومن أبرز الفائزين بها؟ - الجزيرة نت",
           "publisher": "الجزيرة نت",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOcUN3NFc0UTZYX1FzRTJpOGlrc2QtY0dVVmszTjMzR3QzeFN3SGUzekFhdFlGMnR0OVdMb3VkSW45S0lCWlFWZlZGTWFhcGZLQjlIMmVBZ3Y4UGhuQjdPX0kyVWhoOXVGSnZMTGYwMjJCWXByTjRVNl9hSjJhZVBkRUVPSUNYTlF3cklfZ0s3dHRjaTl2TmtIa19DZjZRX3hDZGRqdExFRHY2MHdZUnFsdzlaREl6N2RJaVprUTZMeWNDUzBvLUFtSnpDSTVuVXMzOUw5c2tyS3V3eTJIZDNQOFY1eVoyUWZpODVCT2pmdHpScHBCbzNrMnk0LXVUR1l0azBXUjNpUXF6TGpQSkdyVndySWxaeEwwVElSY1FLVUNHcjFzSWM4UUZIUdIBsAJBVV95cUxPQjVyZU04bHo5a1FNX2xxY1ZEWS03S0JJWGhYQmo3SFQxSmJJTVF5UXlVRHZZOVByeC1OMVBpVzN0MmZoY2Jza1hENnNDWFdPN1A4V3poTVM3SklJQy10djExcU9RNFp1VlNIenVIY2RUQ1Bjb1l3SGhFdl94dzJXN2JqRHg1X2hyTWJCdWFCZmRIeVE3OXRUYjZXWjZWakNram9NdE42LXRhZUk5empuLUlEbXA3a05LLTdDT0UtTks4N096bTF1ZWU4R1NpZUdrTlEzMWpxRHItTzgxVk1OTVVxempWTEJoS2ZFa2l3YzRXVlIxcUw4ZFZoYXlGUXlNblBfWFBNTHJtUGNTcFVDWG5wSndqR0czdGlKcWxwUG9pUnlYWFRmbDViWXJCMG1B?oc=5",
-          "published": "Thu, 22 Oct 2026 20:26:19 GMT"
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNY3dMSGxoejFjdE05U3BqRVRGdENfcm1IV0d3Mzc3cW5YY1RTRjh0YXczekZfUkpFQlFrSERIN01IbHhhNWF3M3pEMjlfbzZIZHgxdmtiQzVGaTFkeXFIYU8wZVB0cURBSml2d056MlNXcEQ3QWJsWnYxdVM4N1ozbTZwSmx5WGFoSHM1TnY2TGYyVFJ1d0FIc3AzY01ha1gtZkFxb1NoRHl0Q3NDY1kzVWZlc1ppQWx6N042Um5aN1hjOVFFMGxBWjJJcXdrUllDckFRRmF1N2t1TGp0N0lBSEhBVUJaVGg2TjZuR09wcGVDbklQUmxsdTZpVW1VTUJLRTJxaWJTaVpGU1drdGgwNVVscnBMNEZfcEc1OXJQeXJSUG9fdFdkc2swcTBpUGsxOE1mS005WVF4NzE4VHk2RzZwZ01uTWPSAcwCQVVfeXFMT2cyYkFIM2NzOUtrbTZ1UzBsMWV2Mml5MERtMk51NEFqbk9qUFJMNUs2SC1lVkc5WTBqWS1NY0lNak1WZk1pZEs5SGtabXZTeTBwaUlXMXRILUpTYnMtczJkV1VSZ1lSMlRKUVFsOExLandEU2Zfc3VHTUZmVDdSblB6ZHZRX1pwVTNyOE9QLWhGay1PbkdKMTY2RnZxZkJFM1p2SUNaM1c3ZDkyZzJ0MUpHUjZWMWF1OG9mSDhNMEd1bmNPUGdGZnNIZ2lLTllXOFdpbVYtQWh2TzFEUl9LUXBkSlM5SVdDdnVJV3JKT1lmZmFYRFF3TC1Oc3lqUThwSTY2VXFYN09MX0hSbXVfc2NPUW5yNkdpTzlKVTA4TlRwV1B4ai1kSnhPQmVlckFCSE5CMFhJWUZfNUE2Mk1mTXdxWGVta3VzdUp0R1k?oc=5",
+          "published": "Fri, 23 Oct 2026 19:50:17 GMT"
         },
         {
-          "title": "الجزيرة يتأهل إلى ربع نهائي كأس رئيس الدولة لكرة القدم - Sharjah24",
-          "publisher": "Sharjah24",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByY1FSb0NnU3Y2RkdqWW5fTVFRemRVUEdJOXA2d2dTQ2t4ZzZmLU5OSXBUMFhHZlRJWFNjUGVVVUFEbF9XUnY1M0VLRGlXS1UwV0l3eEVrOU5wQQ?oc=5",
-          "published": "Thu, 22 Oct 2026 21:26:01 GMT"
+          "title": "ويلييت الأنغولي يفجر المفاجأة ويقصي صن داونز من «أبطال أفريقيا» - الشرق الأوسط",
+          "publisher": "الشرق الأوسط",
+          "url": "https://news.google.com/rss/articles/CBMigAVBVV95cUxOWW55WHRKUGJfQ1djVkFjQnNaTHY0Zk1hVEFMcFo5RDBtU2pKcFZXdUxaTndFQjRITW1jRUJMcS1VbDFBdTI2UXdqSU9sV2toQWExRml6ajY0WHExQ09SY0J3QTE3NW9rQXdnRDloVE4tQjFmUzdwb242RUtMWWk5b19DazZHQmhZaTJjZm9rOEpCanBCTzQwU2VJOVg5NTRjWHFYWDA3VUw3aXl2ZXBUZXh6QmRPR3ZzNm9UMjBSM3JMeHhucnphTXN1aTV3VmtPa3lHbURuZEZoTGZCR3dTRGJ2OURrSGttZGV3U3lxZFRMMGJuamVYZ2pKVFNBeUNPcERFRzZEZHQ0dE9oTjZOTnBqQ09oMzRZelB6QWFtN19raGR3cExBTV9mY0k4c1NBclI4WkJLMzlQaGRqejA4UGpfMzliakR0aWpFZUdFclYtYUxna25xN2Z1NTd4TXpCa1VpcmpNVGNBSjJDZWpBM3hFWTZJTGFiODBRUzBESUZPd2FhWDkzWUY0bFZIbzR6dzNLaTk1XzkwOU51MENIdy14S1ZYUUdKVmJBdU1FT0xOWkJtTTlYUjZjb3hmSFctTW55dEdHZ1hJejVzN1dJRUFJU0g0dXZNRTZCcDRCY21rZEw2VTBOenVRcncxNHRlT0ZKWG9xN01hS1pPTFhQS2NKR3FHRm9EY2JQdnp6MXliYVN5UjhJOEdqWXlIaVZZQlc1SHJnbWNRbE1nb0g0V2RhOS1BcWpKR1Y5ckNGQy1WVU9qQXJqam1KVGN4SDRqU1pHNjBNcjBlUS1tOVNOVDFYaWtPbF9CWENYaEthQW5qRWdEdGgxbnVGQUxmUUFX?oc=5",
+          "published": "Fri, 23 Oct 2026 21:05:47 GMT"
         },
         {
-          "title": "\"مدرسية ألعاب القوى\" تفتح آفاقاً جديدة لاكتشاف القدرات الرياضية - Sharjah24",
-          "publisher": "Sharjah24",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81MWNNYkVpVWg1Z2JtbzkxTHNrWDlsVGtJWVRiWFJDY1FleXRGSDVTcGpNNXJ0cnRSMlZUSldmaGM1Qm5ENDR0U21Lc21icENWcUF2UFpHb3V1NVJDdHc?oc=5",
-          "published": "Thu, 22 Oct 2026 14:11:06 GMT"
+          "title": "بطولة إسبانيا: برشلونة يسعى إلى حسم الكلاسيكو وإبعاد ريال مدريد عن المنافسة - France 24",
+          "publisher": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMizgVBVV95cUxQUG5GR1ZvUHdqUWw0NG9hYUJ3cDlkaThodkRENFBWSHlGYk44OHR1ckloU3NRZGVKQTN6NVQ1ejN2MzdNdG9iSl95TnFHR2FxUVk2M28xYnFEWkdzMW9oR3E2VWJoMFhYREs5TnV1VTRheDZqSUI3U1QxMUN2VmpXYU1ycEF6ZG9uNzdiZlJlSlU2SG9La0MtSVBrbG03X1UtYzJaUWduczBJeU9yeFBnXzNtbTMtNUw4UWhSR2xLUkozNkhjOHI5a3hCWXdPaXpmOGc1bVZwSkVVbEl5RWdQMVIycS05b3Fld3BzaGoxZXlwOHFhR0Y3Y0JRQ2s2cF9YeU5mTUVlelRWRmtaUTJraDRCN3ZIY3ExQnFrUkNuSlRfbHpBX092ZWFjaTQ1NGw3MHNsSlNOYjhWdEIxcEsxeUd4TnRkZ1QxQ1luLTgyMnNXaHpFOGNwQUpQeUFUcmQ1TlRPbVhRQVc3clh0MUFYd2o5M0xUV0Y2N1Z4ZHZOaE1Zb2htdUROd01lVWpQUTYwSHU0bmhKWXVRV201d2FiX0J5U3Y2RUlzNEtqOXY2V2twdFFJQ2hUbFZIWE9sRk5ZdTBHN0Q1SFcwM0g4U2tURTBGUFAteTQ0XzVnY2lZbzZWY2NRZEJSTWg4bkhmYXIzcG10SGVrUjNzNHhHY3FnRWVoeHotRnNXOWxMZXJaVjU4Vm5HQWxWNm5MOXBsVWhPVS1YN3RHRzdwd3N3SEI5YndQZTNDMlJleHZ5aE1YOEZJWFBUZVgwRlh4Q0VIY29JdklqX2o3VDI1QlBSNzItajJURkFXeUUwbi1ycDQ1WlJ6TGsxNGlOMDQ0V0UyMjdrcUdzdTJWZjJnWnFxTUlwMUZaVlpyTmlNZW1HMEZRWUpFZWJob1hUNWUwZXZIS0FTd3JVUzh3YWtJVTN4eEoxSzd1b3I3cmZTUzFPRnZR?oc=5",
+          "published": "Fri, 23 Oct 2026 05:20:50 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "قتلى وجرحى إثر اشتباكات دامية بين الأمن السوري وخلية لداعش - سكاي نيوز عربية",
+          "title": "فيديو.. كاميرا مراقبة ترصد منفذي \"هجوم الكنيسة\" في الأردن - سكاي نيوز عربية",
           "publisher": "سكاي نيوز عربية",
-          "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQdXdYZjh5OGVUS2VnVDJtYklXYlRzZVJkS1dKUnNoZGgzZkRPcjhfN25hNnN0emYycFQyeGFvTFNzV3NoMXFMVEthQ2hxR0NaOVc0aFRzR0dqdUxkZWFES0tZLUxlNnRUWEhIVEwtWVVkR1N0SUVqZEpqWExIbi04UlRnb2k4TkQ0VG1IUkRBeWhRalhZVGRQOC12UE1JRmk0R3dyQmJuYjZEM2VkTEM2N0cxM1NIdFRLamxxVWpPSkE4Tm5xYTl4dGI2Q0dDSnpCVVdJVnlGMGlfckdnam5PVThHcmNZUVIwdGpYVThUZmt1RVUyd05SajVnVU1UekdCTnRNTTF0UGxGLUhqWWhMM0dSSXduZVpNZjVyWnY3dGJFbHl6T2k0dWtUWTVlcXk4dUpuZ1MyT3Q3bzBRRmpzM0psZmd4dWMwQnlqMTVvM2R6V2x3WmhVcUpXSGw5SEwxd3JQZDFoaVV4bnZzUjJndG9Za0JnbFpfVm1SbGFVRURrQXlnNk9YLWY1Mk5wTXI4bWJsU19Jc2M0VGpXaDN5bE1IM3pRYkpVcFM1dTRMd1pGOGxxMFdsYU5lbHd2aDR6Y3FZLS0xWDI5dkNEQ3VBYV8yLU1vWVRjbGfSAd8DQVVfeXFMTzNXUzdEWEFxVXdIczZ3SDdaV3hjeW10eFpzV0l5dWMzSkhvRWRHRDFXeGxyNE9Xa0ppb1R5WmlPRFQzUzliN3ByWWdoMVpQazd1MVBCeTBJNHVOU01CYlhFNXNvVERFZ0VhaU1uemZBNmlST1htNm1zQ0VjWFM3YmFrTTRRck9wUEpnQm95dlJpeWd4SVpHVW5uTl9ZRURIRkpDOFc5aXozelk4SExJMTZTdG5yNFJzUjQ5QVZxbTU3b1pnOUgtWXJWM3pJeVFGbWlvTlRPSGNPTzFUQnBmbTJ1S3RNRGNuZ0NLbmxlQ01mZkdieEtvaDNIdTdtWWFhamRyNFJ6U3NMRUhLQkJ3YURUcGROOGs1ZjQ0c1pxcmhMR0lrQ3NiLWNxc2tKNzZaZ01wSDA2U3RFOUpvaTBNNnZoVFpyMEFnYkRoUEpYSWFUejh6RmQxS2o0MWIyMFBPTGVreWZsWUpKbXNYWXRMZzJiekZ6enR0YTFFb3lxRHJRNlN0RXh4UXdHRzEwSWdpT2tnalVaVHZDMzVtWS1yOU5sMy1rTEFOWTZLUExyNXg3ZFNTTG00a0laZDVGa3ZYSTUtUlNpT09rV241M3dnMjd1eUcxN0Z0RklBSWRjX3M?oc=5",
-          "published": "Thu, 22 Oct 2026 10:19:36 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNSXZhRWtBNW55TDhzRUI2YlV4OEVvOUhzVklTWkpsME5OSjBja20xd2t5bmN5elhLck1BWGgtb01zQ2l5akxiYWR3b2tSa3dScHgweUxvN3NwMXotWkZfU3U0azZpRHU5RDN4bU5ad3lCY2xNd1dHcGk3cEhjb2E3d1hUYURyTkdPYmlBSzlEM2Z4Rzl4NkN1UDFFczlCS04zNzZFcm8tenNrTF9pZWJUSHFNMDBIeUhaMHVCWEw0NEFoZTlRMGhfdW9mNjF3VW53REg0QXdrekh4Nmh6SzBzMWpVdHFpWjRucnlyT3NmcHU3eHJsNFNIMnhXbVJoT3RHTEtUV3I4X3Z1d01uQmJmdmNrZ19TUTZGay1QUDFqM0NYaXJKUmowbkk2bUFBYlprUTBJeEFqQnctUktsS2ZobmtMdkxqaUoyd1ZVZUR1OExMRDhqVDQxOVpMUDZmVzY2ZTdZTnFGSTBvSm5EcnFEUmFsWFB6VzBUbUVxb3NxNXFDSDRsM0Jwdnd0Q3NLS2JzSG5YY3RpTkdDUlUtZ01pLUZ5NF9vN3c5SHl6eDNTc1QySmVScy1iOVNWX0Fld3dy0gHGA0FVX3lxTE15TVNzbm1hemdSczVEbHBZU0pmcUlHa0ttM2lSdzFwZ21XREoyU3ZWT2p2Si1zVXlhOVpRRWtXbzNRNjkyZHJGV296Vkx2M1cxWkVSLWw3NlNGd1Z4NUlLb3kyWGktSThBSC1ZNmVxSnl5MXFRUkpHR3l3bEptZlpuZFhqd0l2VXF0X20wZHlfODdQcmgtVUNibG13anI0MDFuNnBHT1U1LWE4UEt4T1l2WUc1MDZ6ajNxUUIyNUdoUU5QQ21hYVUxZ0o3QmR3RFBLeGRDYS1aejM4M1NoVWdXOWpJaXZ0WC1pNGx4RkRaUUt5Z0JtcjZPVWNlZnlxeFVhTWhlNVZCQmU5czYwR1EzRGY4MGVNNm1ZQkZYa2lrR3pUN0FSZDdaeUpXVWNrMEJQeWhPN01NZ1JMcHpUb3RnZE1Yemp4cHBVSFlXbmtOZGZ0eG0ydjAycThsNGtJRE5McEwxelVjTERlMDRaY1ZsTy1YSWZtYnpacE5Dc1BIak5iQ0F6TjJQTm1zaVRmZHh1ZE5OVnVLTGp0WkhDb1l2MXVNQVdUOVB4VVY1SEp6RWtmVFR2eThCV0ZjVlduSjY0NVRrbEE?oc=5",
+          "published": "Fri, 23 Oct 2026 13:48:03 GMT"
         },
         {
-          "title": "هجوم بمئات المسيّرات على موسكو.. وروسيا تعلن إسقاط معظمها - سكاي نيوز عربية",
-          "publisher": "سكاي نيوز عربية",
-          "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOT1R3OUx0ZVQtLTlLTktQcWNDR3pOM09mV2EyX3VfeXNUaHJnRWVpUDZQUWNGcUpMNENGajNVWmplR2F6NnFwZXprR2RQQ3R2LXhsQ3oxRU90REZrLXhhMS1xZkNjWjhDYmk5UWw1VU44dkZFUXRjaTdsWHZiejRZd2dSQ1R1dnVWOEVQM24xdFdZY0M4TkI4cUw1WnB3NXUwaGpzWUJtV24tWHpfOEJfUlZmRjI5ZVJFZFlLeEpuUHh1M3VKR1pyenMyeUQ2WGVHUnh2a1NJS2FrUWtTRGVLdUV4M0FNdC1fR0swZ0V4djJZVW5XQWJreGlFc3drWGZPQU15T21NUklkQ0J5MEtQdlRTVlVFbEZfNmIzbHZuOHNCbGw1TGZKNl9iRkJfN3NNc3ZYRTZkeGNNOHpjMU9YS2owbThnSzdWWGVDVnBfZldyWUNka1lhLVdaSmc2TTBCTEo4Q3ctOUp3U0VwUWtKSzhRR2hnX2ZZa2pPN1R2MUluSGF2emV3RnZFRG4zS2dsQjdCQjVxS1BXQU1YNTJfa29RTWRVX1I2LVNHdGc0MFU5M181Q21JatIBvgNBVV95cUxPSTZTUkR3M0xEMTRkVE03cnB6dnU3OHR5OGo1SmxyUUZ0NnBrdDROUkhXTnlZRG9KcUF0S0tZSk9BOXFiVnlmOVhHb09YaTFlNnZvWUlVTi14VVFleHZHNTA4eGNiUWhwSENjLUt2cnZ3Q3RUSjdhclJwMGNQZ1gtUU92blhNSEdXbWt6RUpmaGNJLUNpVmM1anplVHJSRWZDZ2gzLUlqVWJNU1lTRlhxbzBEU1g4cFRxX2VKcHItdzdqWllGZGdHdlVtZHhPQWVWRlE0ZzF0Qk1ENmRiSndhWElZTmRPVXo4MFpuQ2NoUWs2NENib0Fad1hnczhPQTBDcV9rT2w1Z3ZsYkI0c2dyTTFYNURWdVNxMjF4M2QxNFpDamZEUWRFbG91Q1VFUUZJMDNVMUxfd0dNWDBBMUJacUZYcU8xT3BTZEc2Y2lDcUFLbHR1a3JaLXhqWDI5X3RoZDhvRFFnWFJEQWZIMkRxZm5GY1pYQ1NsVUxta0IwTGtNRXdCckxNQkdtOGZKUUFUV1FhbVozZGFaSklweEUzaV96QV9QRDFuaGE2c3VfSEFFeUFUN2xRZlZzUU5PZw?oc=5",
-          "published": "Thu, 22 Oct 2026 01:51:20 GMT"
+          "title": "منذ الصباح الباكر.. طوابير أمام \"أبل\" في دبي مول لاقتناء \"آيفون دوو\".. صور - الإمارات اليوم",
+          "publisher": "الإمارات اليوم",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45ejFwN2lTNGtYc3Z4RTZNYkpZTUEzb1llQzBxTTdKMjh0ZHI5UlJGYTVZdWk5UVlOdkdRN0tKY0pmaW1PNHBmd2VBYVV2a1RmMmRDWnh2cFVkdGRYd3ZlR1RaSzVkT1V3UWtEcXFqUllyd9IBjAFBVV95cUxQY0EzRE1KdFFYcWo0ZTlnbDZfVEVKWXZ1TElxVlJzc2syUU1yT2FtVnJvUWdlN0J5dUpVMGJVZElWYnQwakVRY3VEVVNsb3JEZmp1eEZUQWxfT1FoM1B1V3FWUUJ1MTNtcnhxX2JCbEZSREFKZUJvenNyUXFvNjV4MWNNbnVhU0VFYjhwUg?oc=5",
+          "published": "Fri, 23 Oct 2026 04:16:08 GMT"
         },
         {
-          "title": "مستشار الأمن القومي الصومالي: لن نهدد جيراننا ومشاريع الانفصال ارتدت على أصحابها - الجزيرة نت",
+          "title": "كردستان العراق تكشف حقيقة \"المسيرات الأوكرانية\" - سكاي نيوز عربية",
+          "publisher": "سكاي نيوز عربية",
+          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNZHloMjB5UUpIYkpTQkdkT19NY3VmeTh3V0lKZ3FXZ3RXaE1EaFdNelJhcmZRVjAtR0JiUl9tb042cWthcUhFMjdrY2pHejcxdVlPNElOR29BZ2NxZnBYSGh4cVI3VGhaYXJsYmdJWWpyWENheUZBYTRQUlJCWmRoNWZoYWxuSzl5YndVZ2N6Z0pzcmlYN0VqbHFLUGhnZ2pldWNTQm00enJzZFBKZEx5Mk0wUll1UTdibFJmTFROUFRmVDdwRUQ0U1lmSXFtbDlkX3RMZGJ3ZGJoQzFvT2FITUVLTmJGSmxUc3YzQzE2d3d2QlZLR0RyLVJmX0hCR01TUjdxalBnZGVTYk5HYzBGZW5wT3Q4b3B0UU9ObFQ2WERCdE5SLXdQWERlSUpiXzZMZWRtUlZ4bzZORnNldHdRa1REOVpjc19vSmlCaFZ5WTFHdkZ2WHRaN2w0Z29TQ203ZkE0TmREYks5VDNZRW5KZnUwQWFXakx6b2R2enlzVXBNcEpXa3NPUEtuOHFnY3o3YW5YVEtkbFk4Vl9mZ0HSAaMDQVVfeXFMTmphX2VYVnpPRG9DQS1zZ1dCUU9JVjRaZVVKVFhaYWl0R0tuM21CdnQ1VFdSLWhfX3l1bDk4ZHBNeUZWQWlYWlJKclBleDRON1kwVzBUS0hPcGNqS2hGWDNUS04xeUZyYUZXT3BESGxxaVVZZG81OF9nVDl5Uk1XYTNRNkRBbGJhU01fSjc5aUs2UEQtdkVRR0liS0NwM1FIMU5mdHRGUVVVUWtqSGV5NEJyNmg1TlhFNF8yWjZUbTc4ZWsyUVpEbU5DZGZTY2hTQWpPZDIyNGpwUHRrclBZWjJtc2dKX2NmSjB5bUZMYy0xd0c1SlFYNE9qMlRIMFlDcGpsS0RQM1dJT3JWSVRmbjM3QjV0dnc3S2k0bHhzVlh2OTZuanZkcDdpcjFFVWVHNXRTeWVpai1jc0lUNWdveVN6S253OTg5RTBhQml3MXZYWnFDUlpPb1JKcXd1NU1mQTVZbHU0bWhLTWpfSVpMT2tUUXlVNWktQVFYZXpNODY4LTN2ajZrdW1GdE95QnhOU2oyaGtyeGpqTDhaRHVyamstU0E?oc=5",
+          "published": "Fri, 23 Oct 2026 10:25:00 GMT"
+        },
+        {
+          "title": "الذكاء الاصطناعي يتحدى الأطباء.. نتائج مذهلة لدراسة جديدة - سكاي نيوز عربية",
+          "publisher": "سكاي نيوز عربية",
+          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNN084NkRQNHY4c1FncFQxRHktZXNQc19ubExYSjAtb3dzbmFlVk5BcEZTZXhNdFp0SkFTalAyWTI0ZW1xVjZUcFlfdG03UmFvb1gyeUEtbm5vczNrVDdfLV9JYTI4d0NqeTd5NUVHRHBMakNJRmZSNnViTFdNZjNNbTRDZ1hhYmRZY3BvV3hlZVdmM1VJT3ZxaUMzOE1XVmJ6aExSbDRiM1BQTmNHbVd0Wlgtb3hjNGVTQzZ0OVhUajR6d2MxV2FMa3hTa0Z1dzUxMmZZOWlCWjBDMWRUV3RxTVlWd2JYRlRmTHl4NWhwYklmR1Y3cS14UzJzd2o3TDczempJVFhzRFg2UE1JWl8yc09XQXFqSDhNQlotOEdLTVNyZkRkeUNuTEFUYU5pbVliQzFham5QQlJxOWdSQ2N4UWRKVmY1bVJXdWQwX1hfblFGZ0hSN3dEM3kzazNYa2pwVnFBbkVIYWpOSnU2T2ZwcWttMnBLaklLek1TVTVCNGRTSnBKaHlxU25OR0k3Ry1ZMUJEbDFsU3ZiZ3dTZlhzQU1UVlZQaUEzLU1HR0cwaEJmSkxoQ1BkNWR4dE9lbEMzUFlzalBtblR0SDFpVWhHdHVrN1Q1YUJtSS1tS3lpUzBmNjMxNHE40gHsA0FVX3lxTFBmUHRiTzNzUDNONDZYdjBRMDB4NE5CenVKU3d6dzI1UmdIUDNzNjAwenZlLXhacVBVQmJyMWZQWmNJalZOSjhzYzZqNG9zcV81MmVDZXVsSjBmSU9ibTV4NjFfV0lrNzZoVHRNTDU1Z2lzMW1jcHFOekxNcE1PdlpZZ3FRMWZ1SmRpNGcxRktFd1piVWdVa0ZlOUhZTUZVRjdBVS13dUVwa25udlpMTHFNUGQtRndha2ZVcjh2RUQwNE1WTzlwNVNNVVFPbzZtMUM2VHdkcGp3VXpBaFd0TjNwR05URXB5TWhiMVVCSHY1OFVPNjFPQUk2WS1FMl9tbVdjbjBGVC1nWmtpc09YOHhCWDZUQjBYN1F4WVMwRDk3X1JhRzVlU002alBQaFcxVzBVTkZlY2FVM2lkWlZmZkJIM2xYMzdMMGctVUo0QWJqZ3M4aXhybWk2UjNWdGlpSUFvNFQxSnN5MmpRR3Q3di1lTV9abUFhY04wbkxtSnhZWFZLOHlJRFVoRUs1OERnXzdua2J1Y1dxbi0wV1RfZzdITmFQbnBPaUhDRmljM0JzZk9DZVhaLTRBazRfeHNsZ0FZSnd4RDQ2THRxM0lOdWRSVVNVdVdNZ1dtZzNnT3d5eDNBek1iOXRuS3pKTA?oc=5",
+          "published": "Fri, 23 Oct 2026 05:14:54 GMT"
+        },
+        {
+          "title": "ثغرة تهز الإنترنت.. سباق عالمي لإنقاذ المواقع من الاختراق - الجزيرة نت",
           "publisher": "الجزيرة نت",
-          "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPNlVTWXJ3M05yNkYtWm4zSi1mNVpBWnh0VjJDYll6RVVoSUJMdzMzb1BSbklxTElweGdmNlRtQnFaMUp2NXlNaGtSY0lmaW84Y1Z3LURwUVVLNFh6a2ZZUklhdW1lWnUxeGtUVllReVJJWVNoMTZ6ZnIyQVFaRVp0SmRJWDhtVThveXlMNG55QnRXcHhOT0pJdFNYZXpTSjlOSVRaWmctQTVDR0tENjR4NU96Z0pRcy1DR0VOQUZBMWFmOV9DRVdhRFlKbTFJaHZRNEUydHhiSTB5ZXp4UkV6NDBhS0c4MnVyc0VMR0RnY2swaFBQbGh5dDFlNzNrc21fYVNpU1Q2Z1A3TXVSaTIwZXdjY0QxN0F2TFRMdlhVQ2ZrTWJkekhnN0JrT0lFQ2M5TEFLSmNOVU5Ucl9LXzVYTGJTdURuRTFQV3BoUlZvaVZuQWxPb25jSNIB3gJBVV95cUxOT2s1cFRObXY3aWpHdFhKTm9XZ25MazRHWEdxLVJiclh5T0ZsYUp3YlRfRmZnUTlXcEd3Y3c3WnBlTjlTSFczYVRwZzZjMDY3X2wzUXJEMFBPcmc0VTV1bEVrVmRlZGROWmxiTEE4Q09LdE9RaE8tdjhXM2hPVFFLY25vSUhFdmlBYzVHZElXUTZsYVBnU1RyYmh0aUNRdndZUHhoSG5kMzhLbTE0cWZ3Z0VaWmdQMXhQMVhHLWY2Q2cxZTV1VVhXT3Q4Tl9KMWNYZFhXR0d5OFU0Tl9wVzBLRzRpRVBwNmxnUXBudlJZOU1KSjlUdkZOM0VSeERVcm1DTXNBM09SZ2RWSEQ1NFNfd3FhLTBnRmJwZ2U3X2N5ZUgxOXZUNEFSU0o0MGFsSHVHVU1uOWk5TTdCb1QweUt0SHJCb25hV1JOZVhjMkhyNVp5dHMzemp4MHBsUnItQQ?oc=5",
-          "published": "Thu, 22 Oct 2026 07:30:38 GMT"
-        },
-        {
-          "title": "الحمض النووي يكشف مفاجأة عن ملامح الأوروبيين القدماء - البيان",
-          "publisher": "البيان",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xZ01GOUt4RTZaU1hFb2lINjRiNFNyWVdXYjl4Wjl3LXJHcGQydnRVN0xwRDRiY3R3NWs0QmVoajl3bGlzUjhZVlR3ZmxHdVFvYjRRN1AzRzRhVWtheDBSZEhULXBpMFlDWjkteNIBckFVX3lxTFBMWHFnN0J0RXdrWklFUFZyVVpHT1lOTEJKQ1Jiei02Uzl0dmZLTEhaZUxRcUNXaF9wMUJtSV9wWVhuTU1sREUxZmcwcmk3VEZZcHFISlpOUEFyOFJUVjBOSUExZEs4YWZ2d3ljTXRXOTBNZw?oc=5",
-          "published": "Wed, 21 Oct 2026 18:58:00 GMT"
-        },
-        {
-          "title": "بي إتش بي: ثغرة تهدّد 30 مليون موقع إلكتروني وتستدعي استنفاراً عالمياً، فما هي وكيف تؤثر علينا؟ - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZQklNRUJuaWtMTjZ5U0dhVzNpcDd6THA5OVdSM25ROVVoa3JZWnZUZk03RVBkWERUTy1JQnpwVXZyZXZMUGV5MWpTWDhycDh5Yi1QWXdUMmwxbHBOcEHSAWNBVV95cUxQTDllelZLSW1wVVVrMDhQQWY1aGI1THY2OVVtcUNDblQ4UzYtUVpQNEZDeUhoR1FPT2d2SFpZSTJRWEpwaS1Ib3BseUlUZGZBeDVOdWlwNm4yMTRZdlVwWHVtXzA?oc=5",
-          "published": "Thu, 22 Oct 2026 10:31:37 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOM1BjQ09wWVc0Tm5FWW96aFotdWdIUlc2bnBkUmwxTFNVcUpTQXNPSng2THZla1lGcGNsXzBGNm1sUjV4LU9vcm5ndlI4TUVPVUM0R3J2SzJINnl6STZ2UU1SbVBYeFY2TlhRVjhkZkJTRlQ4Wkh1UjRvdlZGMDhRN0htUFltLWM2TFBmZXQtSGF4WTV1cjRsZmZneE81NTJGZG5tRjdNOEs0QkQwSmlkbVR0clZGMG13TXViNFllbDdLMFRCS2c2azE4QVpCUnR1Y2JtUTFKRGQ5Y2M0c3huUC1YRXFWbHVBSHh3ZTVyWndqSzRSLXU0a0VrTEgwSlBSVnVZYzh3cmktMjZRYXVlamtFRDh5dDFLQ0lzdk1fOERMb3hBVWszUV9sSlRNMlFkT3lFd1BZSWJXdWJEMXdTUmlBOTBBaHFTaTA4?oc=5",
+          "published": "Fri, 23 Oct 2026 16:32:41 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "USA to host women's football Club World Cup in 2028 - FIFA - France 24",
-          "publisher": "France 24",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUllM0twWjliQnZ5ai1NTzROb2dIY3hUOGZyZzJORjd5NjZkWmNfbmhKM3pMb3hIREVJQ2x4cjNOT1RqUG1YSXl2T3p1czdjX0dDSHp6RnF5VWotS08xdWNvcXhnZENGMEFGbWQxLW5nUTBjMjZySFg5eUYyc0VHS1Y2SnFxTWVwU1Yza2pfQmhfLUFuZUlIcUNYd3g0bm1SRzdNTi1n?oc=5",
-          "published": "Thu, 22 Oct 2026 16:37:20 GMT"
+          "title": "Advantage Infantino as AFC backing puts FIFA president on track for fourth term - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkVVU081ckNTRGhWcHRWWk1yMExzVnYwM3FwdzUxb3hnUUZHaWFmZXhSbkpTNXpUUDcyX0pXNDhzakpaOUdGOEVkWWs3YWl0R3hiWXR1SkJ6aVdnMmdjYXItcE1VRjFSaVZzRm8tNXgyTmJkUXUwUnk3WXI1bUpTeGFQU1FRaGhET0JqXzAxYjVZRWxWdV9ZOGNLZDR4S0RwNmItTlkxbFRvWC12MDFQMGxQMU5YRlVYcWFz?oc=5",
+          "published": "Fri, 23 Oct 2026 19:03:36 GMT"
         },
         {
-          "title": "Women's Club World Cup: United States to host inaugural edition in 2028 - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XWlQ2UFFNclVSS3dMUTBVVDVqQjVwd2J6b2k1eXpUczlyQW50alh5aU05a1habFpCSlhEc2FqcW5lTC1pcnNDcjJienlMaGRlME9PT1cycmFEYkV6dTdmUzdzOEpzQ1Va?oc=5",
-          "published": "Thu, 22 Oct 2026 17:49:08 GMT"
+          "title": "Lionel Messi: Argentina's 2026 World Cup final heartbreak \"part of my football journey\" - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmMyZG54MHlYX0NlLWlHVlVjcy1YUnRuRF9oM1FGR2sxUVhISDhwRGJOOGdNNFQtQlItakxNS203akJZbFQ4VE5GNDFCUHZ3WEttTlMwOWdBX0lHRm5uNmNfZXNzWEQtcDBUNnNXZkw1cmIzSHdCTFNGaTZmWWdSNUxRc3JkSEZFeTZXOGw5RExvVzhtOXVSZGNObHo3UQ?oc=5",
+          "published": "Fri, 23 Oct 2026 10:17:00 GMT"
         },
         {
-          "title": "Soccer-FIFA opens bidding for 2030 and 2034 World Cup media rights covering US and Puerto Rico - KWSN",
-          "publisher": "KWSN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSkIzbklSVWF0TS1fcUk2MEJGZW13d05qZll1R3RXN1BxeGxKbFBuTGJxYXE2VmJoMWhoUzRUX3duUUJwNzNXRDZyQUtxcy1IVVFXQU5YbXRpRWdZMVliaUlIZmtJWTU3Z2xmSUZfUUpId3RGaDNhLW0tTi0yVldQd09wVVpTZGhuUDR5ZWF3eWtZMmVFYlBPWld6YUNrakJSM2JyQkdfZ19mWXZ3TnNXaWpSbDBpd1lVanozTF9CM0I?oc=5",
-          "published": "Thu, 22 Oct 2026 16:47:27 GMT"
+          "title": "FIFA president Gianni Infantino wins Asian Football Confederation endorsement for reelection - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVktReFdBelZiclE0YjEwSm51Ulo3R1E5Y2ZlQ05iNDVTMUVVU25oVnpJTERYWVRxVTZka3RGYlRZWWp5UlVmdFpoM1N3ZG5HNlhldVRnODhEejN2dWNLRTE0NTY1eUp2QU5Nem5tWWVwRTd1ay12UFEzT0ZkTGRXM29B?oc=5",
+          "published": "Fri, 23 Oct 2026 13:26:00 GMT"
         },
         {
-          "title": "Turkey Europa League Soccer - The Herald Journal",
-          "publisher": "The Herald Journal",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb1dYMUJ5MzNySlNZc0ZvbWJoaDZEVDNsdFFQU1g1SEFYTndycWlJOEdiSGI3UXY0SkJXdTZXV3dDbkY1a08yNEpGTzd4aDd5cUN2MFE3XzFteFlXS3BsaEtYSVJOVThYTFN2dUoyd0VlSkNnYjg0QjlRNW83VUsyMnhkQ0V4cTRSRWlPNVVYTDk1cEI0ZUx1NndVbWJGaVh2NnU2aEpRNHRHT3JIZFQxdUln?oc=5",
-          "published": "Thu, 22 Oct 2026 20:58:32 GMT"
+          "title": "Asian Football Confederation backs FIFA president Gianni Infantino for re-election in U-turn - The Athletic - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ2lNX2VsREtPOUtaTW5MNEFzenlsOUN6WkU3bUNUSkFFQVBicC1qaFA0dWpxck1IZkVHSTZzNXBPSk1rLXdxVEdmR0N5cFRpdHc1UTdMQUJwUE5ZU3BsUVFzLVZ1U2V5Y3ZXOElIVGRHVmZlVTJWbWpyZllkUzlGYnRZekVhVG1ZbkljVE9OaHBsalFIbXc3UnEtN0N5VWFPSy1pUlRZaUdGdTRVNUxYRjd1bjhUUVI4bVJHbEJ4V01QT1U?oc=5",
+          "published": "Fri, 23 Oct 2026 08:10:28 GMT"
         },
         {
-          "title": "Trump’s Fifa peace prize was a sham. A reimagined award can still have meaning | Leander Schaerlaeckens - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQV9aOVZDWXlMWXZDTHdoYm14RjdFX0lZeFBFeURzeGNRU0l0RXVuWnY1Tzd0RVNOMTBQZU5Cc3VFTU5vMkpYX0RlM1hnWFZRU0hEbDB1RXVIWV8yaTN0UUZUTmE2cTl4US1Oa1pIaTVnNjh2a2RvWUpIcjRZR2NoSA?oc=5",
-          "published": "Thu, 22 Oct 2026 17:06:00 GMT"
+          "title": "Asian football endorses Infantino re-election in apparent U-turn - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSS1oSm9SSlhDdFRqSEZxQkQ3X3BJUUwxank4X3RmdFY5aGdOWXlKd2VQNHVzODBPSEdqRHU2eHJNSXNOWHp3ZTBwdmo5aHpyeEJ2alBhZEdxbUhCb250Nm1oNC15X3JpbVNkQkhjbkNROGZleW5lWHJVMENHbmVyVEdIaW5EOUg1dWRFMG9ORFlpUWpvQ3c?oc=5",
+          "published": "Fri, 23 Oct 2026 09:56:03 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "You Only Audition Twice: Watch Henry Cavill, James Brolin, Sam Neill and Others Screen-Test for James Bond - The Hollywood Reporter",
+          "title": "As Hollywood warms to AI, ‘Wildwood’ makes a case for the magic of handmade animation - NBC News",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2RLYklIRnRfSzFDSWZ6RzJNVWdMbEVnMkJIa3BLZll5Y2gxVmR4d25DRGNJeDJzazlnbTBwOUZqSXlEU0Roa2RBdEFldXdjVWF2dXJlRW1oOWlrcGdOYllPMEIxdVJraGJ3UU1rVjYtYXFLRTNRdlQ3Zm8weWo5czF1VTc3UW9GY2tFREJrbmdRUFNncHZZTjNsSmhvWUFvbWh3bQ?oc=5",
+          "published": "Fri, 23 Oct 2026 17:06:23 GMT"
+        },
+        {
+          "title": "Jack Lowden, Margaret Qualley Top Bookie Odds for Next James Bond and Bond Girl - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3BoWDNSbTZtemFtNWx4WVozSUE2QVFtcEVrQ1pQSkZ3andERDVuTUlfVzhzUkRVZXdZd0o4NG5iVWs3YmFoRUc0OF9qUjJQZEdxWlg0bXpTTFU5RkxVQ2tNTUJjd1hkSnNtaTh6djdXVXNYbEV4ZWE4TDUxcjJNdlB4dUlaWXVGbmJYYnViUGF6RFRqcHlWYjlBZDhPcU5Rd3Nwci1FRDRMY1E?oc=5",
-          "published": "Thu, 22 Oct 2026 20:57:48 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEhQM25NMm1MSHBrUnpSNV9BZV9OV3FkMjVfNFNqN3VPaGdkUndyT0lWdXdBdFJSaGREN3N5dHFpQzNRdWNJWU5DOTZQWHI5OXdMQnUyRHhYV091VTBpT20tYWM3emx1OWY0YW9QTWx3UkxaNkMtRWN4M1B0TGlOVE9wTmtlSURUaGdObFVsejlJTnhlRkk4OXJPQkFXYWs2Q3d2NnNkOGF6YXZF?oc=5",
+          "published": "Fri, 23 Oct 2026 16:16:55 GMT"
         },
         {
-          "title": "Tom Skerritt, known for roles in \"Alien,\" \"Top Gun\" and TV's \"Picket Fences,\" dies at age 93 - CBS News",
-          "publisher": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVW5ibkFidXdQMGtZeE9FUHczeE4yQzRzcm9LQnJSRjlrQVE1WGQ3bmppSWFuOFBFSjdycGwtekNHUjI2amhMaEZ4bVo0cVlGVjZwNHIzUzUxcjJLbGNDRU1pLXRSUFlsa19mZ09NVmx0Z3c0alhKazJmbnRqcFpZYW9jTHk1YTJmVWc?oc=5",
-          "published": "Thu, 22 Oct 2026 23:53:37 GMT"
+          "title": "Philippines investigates Thomas Markle, father of Meghan, after child sexual abuse images claims - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTRjZXZvemFKV2pJS3hnbDVBRDVCUkdrQ2dnZjRkd0o3dEpQT2NjcFlwS3FJaXlZbUQtOUo1UDNiYTQ1SGJiSWhMZTlXclNFcjJ4Q0toVTlsdnY1UFBURHNuRWVDQlBjcjBEc0YyeVNyRllMVE44bkpnY1NCbV9GeTRSSUJ2UWxIcF9DUWdybkRsdVhpWk9KSlZ6dDlBSHlucXg2QjdjQU8yblJaNW1malNWZXNDdV9HMmlB?oc=5",
+          "published": "Fri, 23 Oct 2026 18:12:32 GMT"
         },
         {
-          "title": "Elizabeth Holmes whistleblower and investigator react to 'You Can See Everything' - SFGATE",
-          "publisher": "SFGATE",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjlNVWU4dWNuUDlEdndIcUVVSGpRaC1jQVVVbnhmWEg1SWtQcGt6LW5OSlh3M2RSN3diSDhXYmgyNDVGbFRGeWdtVmVxZWpPRjRSSGdTT0pRTVNZRlM4T1I4cXpRcFMtbDJBZUp4RVFaVFFvZmZPU2VsNHh2Z0R2OXF0ODZpNDVnSDNTLURhdzJVSGZROXZuaQ?oc=5",
-          "published": "Thu, 22 Oct 2026 20:15:37 GMT"
+          "title": "Sandra Hüller Set for Cameo Role in ‘Avengers: Doomsday’ - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWjFjZnV5LU9mT2t6d24wUzR3djJfdV9maXNZWm15TkRNM1hwekc3ZkQzSmVadUJ3SzE0UktCR0xwNkExUGVvU3JNTWVUaXA4dE92bG9QY2NEWVY3WEYxYklzYVV2UGRvSW0tZXk1MmFMdUNBTTB1bGxhbmtjMUVSUVRCQ1h5TWFBUk1GWUdIWElsSHlPRDdhcDVSbURCVTZyYlRz?oc=5",
+          "published": "Fri, 23 Oct 2026 21:31:44 GMT"
         },
         {
-          "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’ - The Verge",
-          "publisher": "The Verge",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUJXcnZMZkd6Tmt1ZGFIcTNkU2x0ZjI2bGM3eE9EUHMwd19JYndlOWsza1RaQ1ZkNm4yZGp0RWhaUk1jcTlTQmNvWW1lZ3VHWUV3RzJMd1dEbkpkWTl6Wk5xN2JRdUVjZUIxQU5ndy1XQlpkMlNEMW9WWFRyS0hkQTQ2ZG1rYktkX2hCUk9oUFlXaVpOY1ZqbFpJYjRiR3RiMWc?oc=5",
-          "published": "Thu, 22 Oct 2026 16:16:15 GMT"
-        },
-        {
-          "title": "Becca Tobin On ‘Glee’ Reboot: “This Gives Me Diarrhea” - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02MXVQMExQV21oOVJQaXJnZi10UFNqaHdYYnNDT2Z5Zmd2NlBZaTRjWXQzRU1HQm42U3FHczd4X09KSlFtR1RyVHRFUzFqeVhuY1BkZUk2REJCRDJYTURyYWVWOThXQXQxWk9kZGpmdnVDUQ?oc=5",
-          "published": "Thu, 22 Oct 2026 20:11:00 GMT"
+          "title": "The vow Téa Leoni, Tim Daly made in case 'being married ruined our relationship' - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMGM4NHM2aF9lbmt0aTdrTWZ3WjlLSUVnWC1DT0FJVWt6T3VKc2JfQ0sxbGNSX3VtS0Rnbk03ZEljXzFPYzBzR05Mc2twa3Vmejh1elZoV2trcjZPa1lUcm1nNzFrdlY4WjY5ZG13TTBVM2gwSEhnaUoyc0hvQWIyMUR4OVBlS09BRW15WDh4cG9tbGpNNWUtVGxQZTdDTEI4WmMtMEI4NnZQSVZRYVNkSnlsSUpoZ193NUF1YXBOdlVyejh0T3o3T2Y2dVNfa1VqS0E?oc=5",
+          "published": "Fri, 23 Oct 2026 14:00:00 GMT"
         }
       ]
     }

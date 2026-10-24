@@ -1,7 +1,7 @@
 {
   "market": "EE",
-  "generatedAt": "2026-10-23T00:25:35.274936Z",
-  "validForDate": "2026-10-23",
+  "generatedAt": "2026-10-24T00:16:25.692052Z",
+  "validForDate": "2026-10-24",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,10 +9,22 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Sotsiaaldemokraadid esitavad Vseviovi peaministrikandidaadiks - TV3",
+          "title": "JÄRELEVAATAMINE ⟩ Saare maakonna aasta parimad ettevõtjad 2026 - Saarte Hääl",
+          "publisher": "Saarte Hääl",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTV2dG9walVjSGM4eVNkaElybldVZzJSdFJlaEE3bk8zWXMzT1EwNXNXOTBnNlZuZU1pMGV1UFAyQTlaYzFCYzI2cFQ0VHdZTzFGZHpTVG5wWWlOTTJfdjhGdXpFSGpnb1BsMHprV3BpNWRmQURxWTZIVEQzWWRZajlmWDdvVm5FWW1FTS1TZXRKcF8zb0Jyb1hRWWV6QS1fa0E?oc=5",
+          "published": "Fri, 23 Oct 2026 15:35:00 GMT"
+        },
+        {
+          "title": "Aktuaalne kaamera. Ilm: Ojakivi: sotsiaaldemokraadid tõmbasid pakist parima kaardi - Jupiter | ERR",
+          "publisher": "Jupiter | ERR",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0d0Nld3QWlWUWlNTEptVmI3c2F1d2dwRkJxdmMxZEhVWnRhVmVBbFg0cmlmNDRHdTRIOElhczZwUUNUUTVObXI2Q1pJc01yM1VjSVo2ZjVEMUIzQndLNDVnWkxkbUl5dzM2Y3RpaG9uSk52TDZ4RlI0Z21wNGhpUndrTHpNN2FaZmhuTURhU3dvWm42Vnc?oc=5",
+          "published": "Fri, 23 Oct 2026 07:05:56 GMT"
+        },
+        {
+          "title": "SDE tegi toetusreitingutes suure tõusu - TV3",
           "publisher": "TV3",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWVNSU5FYmJpQnVWN3pLdEk3VmRCN29fS1l0UkdELWVUWFVWd044R2M0Vk1JRmczYlJUNWpBQnREOHhjd1FaTnZfWGlrUkpkWlZpQl9aOHJVYUx0b2wyeDBZLXNIN0RodXlGT0V5d3p3dF9oVXlvNnZkZFdBMXpXUjFpUG4wYVhlSk9PUGd5bm1CWThXa2F0elF1S3dkUElYcXJoeXlMWEJ1Q3R0VWxtRlo2d1prcjNQdFE?oc=5",
-          "published": "Thu, 22 Oct 2026 16:18:23 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNREIyLWpOdHlvaXQ1cTlqRXEtcFJLREp3T2wzaUVacUxfZFRBdWxpZEFxQjljOXVqaWY2YUFQNkFxMFgwa3piNmtlTlBndVRiQkR4V21jSGd3djY2MkY3ckRXSm4yajNrZ01oNWRteXlFTFVQdG5GcE91Y2hmZGdFQzVnM0dJYjhwZXpna0hKY1JKUHFqalQwdmJTVQ?oc=5",
+          "published": "Fri, 23 Oct 2026 16:04:02 GMT"
         },
         {
           "title": "Priit Toobal kerkis Põhja-Sakala vallavanemaks napimast napima häälte arvuga - Postimees",
@@ -21,22 +33,10 @@
           "published": "Thu, 22 Oct 2026 19:24:15 GMT"
         },
         {
-          "title": "Delfi - Delfi",
+          "title": "FOTOD | President Madise kuulutas välja esimese seaduse - Delfi",
           "publisher": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR21oTXJYaE9JUGFRNlhJVmhrRS1tTVRmaHIyXzFna21KM09md0czQlY3c0MyakFWR1dUR3lBekJ0VFRTNkw2MDlWd3U1cGNJLUlHdTJDaktvWkhFbFNoSGNzRGM5Z2tESnF2bzFfRFZ2UnpoTGxPeVdlak1XeTc2ZWpKdlNLWjZ6OEZjQUZjQndaaDhyWE80anpHbFFsTWtxTVljX0JOX2I0U1E?oc=5",
-          "published": "Thu, 22 Oct 2026 12:47:00 GMT"
-        },
-        {
-          "title": "Jaan Elken: kunstifond ostis \"Juhikabiin\" omal ajal viie euro eest - ERR",
-          "publisher": "ERR",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcGxXSExzNEZGZDVjMWpWcE9zZ0c0ODVYQjlZQ2FxY2dqNlUyZVJFYUotcnEwaldacVUzSmJleVRrSWgxV01VUTFoZU5WV3FtYktjWERBYlFBTFUyTWpJUU9Vd1hLUGFHZGRXZnY1R2d4ckgzdEFleVhPdkVuRzltbE9faENjM1I4Vk5nT3dZOVVxc3pPa0tRbmY2MWt5QQ?oc=5",
-          "published": "Thu, 22 Oct 2026 10:49:00 GMT"
-        },
-        {
-          "title": "Pärnu ja Pärnumaa üritused esmaspäeval, 26. oktoobril - Pärnu Postimees",
-          "publisher": "Pärnu Postimees",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzJRaFRCWWpKUzR2Mk0zYkQ3MFYwb3NoSlM2NFhqMlgzem9EbUhwc3lwM3doVEt3ZUlkZjZucUxLVkprTDZGNVZnd0dmanB4dEF3a1U5Wks4aFNlX0lnT0FDUUtGSkNvb0FqdkNfbkg3c0FrVTF6X2lXYjZzVUxuQVkyQmVISk5FdVJRaUdfdw?oc=5",
-          "published": "Thu, 22 Oct 2026 21:01:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd2IwYzBsWXFEd1pUaV8weFNEYW9lUDR0OGFFRjN0SFZwTUhURjdYUWFITVNIYURXOW9icVVBY0JPTFNreVFSVE9pemh4U25QZ0owaVUwR29ReE1MajdOQkNxMl9IN2RQdXNVWGdLeC1hMmZnenJsMWJTUmpORnpYeVpRaFJELXRsanVJWDRqMnM?oc=5",
+          "published": "Fri, 23 Oct 2026 06:41:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Putini esindaja: Kushner ja Witkoff kuulavad väga palju Venemaad, kes on tänulik - Delfi",
-          "publisher": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1p1OGdkcm9QZ2FFSmhwUF84Z2RBaFpNQ21KdlBtY3FfN1JHY0hVam9sSUMtRUZpXzJrVlNZcml3N0wyU2ZHT0xnaEFvMEdWckNuaExrTkFwb0Fwd0M2N2FQUWx6dkU1a2ZEYWdVUnlPUkEwMDdFaDFRQ2VwNXVzQXVWcmhRNkpoVXNBRmhjZmdZb3p6Nm1SSnhILUhpNWNBZ1lpRUhkVFFHdEFsUVEySG9rY2NtVG9SYmc?oc=5",
-          "published": "Thu, 22 Oct 2026 10:09:00 GMT"
-        },
-        {
-          "title": "INTERVJUU Ukraina ajaloolane 1700. sõjapäeva puhul: Zelenskõi radikaliseerub, valmis minema va banque - Maailm - Postimees.ee",
+          "title": "Melania Trump teatas relvarahu saavutamisest Ukraina linnas Oleškõs - Maailm - Postimees.ee",
           "publisher": "Maailm - Postimees.ee",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaFJyTTM0X1N2N21KNVd6OGh2RzhjTHIxUHR4cHFNbFdzWS1yTUQ5dVh0ZXV6bFhQZ1lHazhsdFhQRG81cTV1VEZTR3FIZDBVQXZrSTFYZ2gwd1Jva085Q25zNHYwNGZjOVRHcHdwVVJPeFlCSTExYktZdXlJc2VWcUFFQ1VBempITE9Pb1otbTFfQ3Vzc0FoZXJjRVlzN3N0bkFzdy1IZ3ZjdFc4QzJQbXpHSmpVZjBnV1UtWFM5VEdTX2d6UktIMTNOc3BYVTA?oc=5",
-          "published": "Sun, 18 Oct 2026 09:36:18 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWlRUE1nOWdiSTUtVXJjblVKbFhycWc2Q0o1d2x5N0hKOE04VEhOWlVueDk3b2Q4RU1ac2g3dzBRUW1SRHJoVDNSNzQ3MTlhVDUxdXFoQjd3RFpuTHpuNmpLaEpKZUpjeGxhMkpZSl9rYVlzN2xqNFZ6VnE3VmNHajAtNkw5ZGNORDlrZGxSMk45bjRycmw4SUlwOUNCbjc2Y09rN2NR?oc=5",
+          "published": "Fri, 23 Oct 2026 15:16:55 GMT"
         },
         {
-          "title": "Sõja ülevaade: kui Starlinki ühendus pidurdus, kukkusid Ukraina droonid taevast alla - eestinen",
-          "publisher": "eestinen",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPME9waUY4UmJ4TnU2T25UdkZNTFlod212R1EyZlc5X3p1NkpCT2hqY0V4RWVmNHdGRjJRZVJUS1cxd1hZVUJzN3B3Z3RFOXJYSDN1aDRibVZsU2piZElrRkdEdUNuU1ZWSDZoN2pOMFV6V1I1UXpZWW1XVHo5dWtwUGVkTWJmWENITi1yV1ZCY1NNZUZsVmtNbDNNdl9CbUlwQTlnT3BkMFJid2VPZ2pKUA?oc=5",
-          "published": "Wed, 21 Oct 2026 19:26:33 GMT"
-        },
-        {
-          "title": "Politico: EL kaalub kandidaate Venemaaga läbirääkimiste pidamiseks - Maailm - Postimees.ee",
-          "publisher": "Maailm - Postimees.ee",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNXRUYXlZRUtDWWRmWFE1bzFCVFRRbG1WVGNpMWJQQk5sQXFzR0dTb3RuODIxZ1V6Z05aT1lCSTNTNHRQaTVsbzMxR2gyXy1tdFJOM0ZOYU1BOS1WVVRQTkJhWnRGakF1dEh0QjNFcFhMZ0NmbGkzWFNGbDdBSUxOUWZxNlY4NlhxWVZPc3lRQ2w5YklfZ2VnckMyN0hLUFVfOEV3?oc=5",
-          "published": "Thu, 22 Oct 2026 03:34:26 GMT"
-        },
-        {
-          "title": "Venemaal ründasid droonid mitut regiooni, sealhulgas Moskva piirkonda - Delfi",
+          "title": "Zelenskõi: Ukraina, Venemaa ja USA läbirääkijad kohtuvad novembri alguses Abu Dhabis - Delfi",
           "publisher": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmlkcTVOaTlsZUUxa2szeFV5QXpicjlIN0dGUnZpR0JyVERQRHZ1WVNXeEoyVzdPNVVYaGZLVlJ1ZEV3d3V6VDRPbnZfb3NHY1lZbEhMeGFpT3ZycDFpbkNkWGFpZG1yTk1GM3pBT0pES0EzZ2RIUFpMbVoxZ2JCTTR0WW5xM0tkWVkyb3ZodVZfVWEtR1l5bXpJUFluT0dlVFRfWHFlQjlrWFpQUUczT2VuZEo?oc=5",
-          "published": "Thu, 22 Oct 2026 03:15:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTUtMFdMQmlsdVVTOXJ4VnNKdXNhb2VrTEZiSFk0ZTdLRFozcFdVQnQ2YzZqeVJjZkkxYUg1NTV1M2JxYldPVGpMMC1PeWo3SEJSWTlnVGkxNjNrM1k3SDVXS0Zrdlp6U1VUWW56M0E4WkZYWW5SdVFrMGZWdXZELVN2OVdUYnotVHFjekV4QmU3N2RaMXd1THc0dnNka21zd0Zsc1dPcGdqV3JTWjRDY2ZPNHZ1UXc3cTlPTm5XOA?oc=5",
+          "published": "Fri, 23 Oct 2026 09:55:00 GMT"
+        },
+        {
+          "title": "„Teil on viis minutit.“ Iisrael asus verise rünnaku järel Läänekaldal hooneid lammutama - Delfi",
+          "publisher": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUY3ajZ5WjkzdzBxOE1QMW04RVNBUWNsM0QydXVfRTYxTnlSOUFaRzRGM0tENmRNNGwwdHNJelJFX2FRQVByVE9pUUlHS3lsTV9YQVhKRV9FcEtwOHVveEFzcGtsNkNDYzVtVU1JVnlvYmVBU2hIcVRKYTFveDFFS3RHYV90WnFUOVl1SEtTMFhRZzdYV2RYVlBMRk1tZ0NVQm9pTU1xcXdaaGppOXc?oc=5",
+          "published": "Fri, 23 Oct 2026 10:16:00 GMT"
+        },
+        {
+          "title": "Artikli pealkiri on: USA poliitika Venemaaga on liitlassuhe - Diplomaatia",
+          "publisher": "Diplomaatia",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYQ0ppVTRIRUdGV1NOMjBEbk14cWZTSEZuMUpER1Jza1NhaHpfNFRNQnBSWVBTQUFsSXNBVEw3TzU3bzBlLXc1XzkzSkZVQy0xSGtyZThmUzFZdHhDZ2JxZTgyUWdZV1ZaN1d4bGxGbw?oc=5",
+          "published": "Fri, 23 Oct 2026 11:36:29 GMT"
+        },
+        {
+          "title": "MARTIN EHALA ⟩ Mis mõttes oli meeleavaldus Pariisis nagu laulupeorongkäik? - Postimees",
+          "publisher": "Postimees",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONzhvMlctbFFNWUFQdVNNZTFUMnEyN2hUTXRxaDU4cjMzc1ljVHh5NU1fcm1hSUZmeDBPNUxpaFNkNjRrMDZxdDFjRXYwVlo5TEZUcGQxMFFGWHVzS0kzWWthZFRFdkUyNWNDM29uR09tNjVHaVRGamxzcDc4N3oySFlMQnp2akJnYWRDVUZGV1gydDd5RzVLOW1MdzdtYmhIeGVtVk9sMGFub2hk?oc=5",
+          "published": "Fri, 23 Oct 2026 05:20:22 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Kui palju mõjutavad Prantsuse riigivõlakirjad Eesti pensionifondides raha kogujaid? - Majandus",
-          "publisher": "Majandus",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmZJclJNOEgycGUzbll4SlZPMldNNzM2NUhGc1gyVzNBTmcwbmJaclNBcTl2eFRmMUVrdUkxS2p3Z3ozRkF3Y3hsSUp1VVpPUm5VYUktRHhONWpTRE1Ubmd0bDJfWjRHM0xQTjNUcnVRWmlxTHYteGVWSjhJQmxyMmZROElZY0Zfb1JqZk9lcUNEaktjMEthTWt5R3J3a3Jmek9rSEJ6d0JUWTY2a3BLQVZ2VEw2ekpLZXliOA?oc=5",
-          "published": "Thu, 22 Oct 2026 21:01:00 GMT"
+          "title": "Toornafta hind püüab 2022. aasta taset - Lõunaeestlane",
+          "publisher": "Lõunaeestlane",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfVXp2bXh2dFlzZ1p0MUZVX0R2UjMyZTdZNkhiZXRNNV9YOWpma01hSHdOT1k4UWtmb0FBV2EtUHdrbWFoOXdmbVBjQ2N5QWtDcDBFQ3Y2b0ZRcWRTQU02ZDQ4X3FRaUVkWUJHN0tQRmE?oc=5",
+          "published": "Fri, 23 Oct 2026 22:35:49 GMT"
         },
         {
-          "title": "Bloomberg: Rosneft ägab Ukraina droonirünnakute all - ERR",
-          "publisher": "ERR",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlFac1FDVmYwLUVEV2NtSDVST0Q2dGdOOEtYTUpndnZVX3FQWXRKcE85Mk1aSnZWc1NpSWlvMG11VXhHdjJWUlgxdnRUVkVINEZDUnhndGhMUFBsakExZ2dyWmRZNlhlR3hlYkMtMnJXdmhFSV9IeHMxYVFDUGI0T041SDI5YUU?oc=5",
-          "published": "Thu, 22 Oct 2026 17:14:00 GMT"
-        },
-        {
-          "title": "Moderna kukkumine ja AI-mured rõhuvad USA börse - Äripäev",
-          "publisher": "Äripäev",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYmJ4dmdhWE5HbTJFREV5MnI4T0U3c1g1OFctUnJBNTB1bEJVajVVeTJjVzBXUEhyTWFqYmNoTllWMVFJMzZDdVMwenk3TmRNUmx3Vy01OVR4TzB6MGtWTW51RmItX25aTldHRFFocmR6bXJqQ01XeHFCYVlPUVd6bDlmczJSU1pKS0RPcHBOcU8yRDlIRjV0SHhn?oc=5",
-          "published": "Thu, 22 Oct 2026 20:29:00 GMT"
-        },
-        {
-          "title": "Tallink teenis kolmandas kvartalis ligi 44 miljonit eurot puhaskasumit - Ärileht",
-          "publisher": "Ärileht",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iY1V5NkItNzUySFBidTNEZ0RzY0pLSEVqWnQteng0ZG9DdWdEZlNwTmR3MVRWN2JPVHJ2YUxqZFliMVY0cmlvdG1nZ0I?oc=5",
-          "published": "Thu, 22 Oct 2026 07:06:00 GMT"
+          "title": "Tallinki juht: laeva müük ja koondamine ei aidanud kalli kütuse tõttu paremat tulemust näidata - Logistikauudised",
+          "publisher": "Logistikauudised",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaEtfaEZGTW93WTJqZ2R3aU1JOE1ZSHVFOHRqemtOZWI5Y2VpYXpoUkJnZ2J5bFhOMFEyWmpXWkZDUnM3dk1kU3FuSW1lZzZZemk4ZzZGVXlyODdILW5SbVE0Yk9abFJ1cWxrU0taQU1RcEl6dUROcG9oVlJXczQxbldRYmM2ZFVXVzJCb3AtWktVWjVxQkRXZldqc2JZbVVxVkJUVjFLeGJNT0pySmtDc1Z0RTZrLVA1S054NzRGYnQ2LW9E?oc=5",
+          "published": "Fri, 23 Oct 2026 07:55:00 GMT"
         },
         {
           "title": "Vaata Making Sense’i päevakava - Turundajate Liit",
           "publisher": "Turundajate Liit",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aWWNtYmdMZmh3NWtBbk1mNFBkS1lSRnlyUHZ4MThkbHNXZ1BwaTd5ejFWYnJLRjV3MmVrbmF4Zmd0ZHJGR05GYVpLSE9SNURVNUVWSExpcGJWNW9YNFBvemVkYlZXN3pS?oc=5",
           "published": "Thu, 22 Oct 2026 05:01:43 GMT"
+        },
+        {
+          "title": "Prantsusmaa kulukas pensionisüsteem ähvardab viia riigi rahanduse ummikusse - ERR",
+          "publisher": "ERR",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRktfcU9heFJMZlkza1J6bGRzWS1QMkNMMnA5ZmNqT3dvMUw5eFRUT0VUUERiMi1CUUFNMTJMWHN6RTdyMUJHYlRYelRFYTBzcFdIVzY4Q1NSWWtaWWJiNG5RTnozc3RpTVJMUFFPdE41SjZkeDVsd1VzMEJuMjJUN3NxZjBWemMtMzRzdVdIU3MyeWJlVk1HQV9VQVRheHJmalBTVmhpQmw?oc=5",
+          "published": "Fri, 23 Oct 2026 12:09:00 GMT"
+        },
+        {
+          "title": "Selgusid Eesti aasta auto 2027 finalistid - Auto24",
+          "publisher": "Auto24",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02Z1dxek1SeFZGVFJvUzFKT3hZR2pPcGNHeXRWTFMya1E0TlZyaDYwc3hwVXlhMUx4Ml9hRFZlVzJ6VXZ5dmhDd2ZMZFZpTFZGMzlHOGhDRVM5UDVDYXBwdw?oc=5",
+          "published": "Mon, 19 Oct 2026 12:52:25 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "GALERII | Läti jokkeri vägev debüüt tõi Pärnule kõva võidu! Treener Evart: „Iga mehega kolmest trennist ei piisa, aga temaga küll.“ - Õhtuleht",
+          "title": "Patrick Enok / Silver Simm näitasid Portugali ERC etapi avakatsel 12. aega - Eesti Autospordi Liit",
+          "publisher": "Eesti Autospordi Liit",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTVZCNHN2Mk5ZV1dSM3kweVNiZVh1U3pDemoyWTI2WmZoNmF1RF9wVWI2NmJseDNxOXFPYkJnXzktVm56b2xVMW1ZbHVqQVlNbm9nelNncE5RVUstdTM3ZF82UjBGel9MUTZUYkx5N3JBOEE2aG50NmdkYks2RE1IQ0hRNl9JRGYzaHVqckN3cTNJa09rMzBIQV9mbms4a25z?oc=5",
+          "published": "Fri, 23 Oct 2026 20:10:28 GMT"
+        },
+        {
+          "title": "Memo | Õunapuu skooris, Järvelaid söötis ja United näitas, et ei taha üleminekumänge - Soccernet.ee",
+          "publisher": "Soccernet.ee",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaGR1d21PTnlFcWRjR2RHZWNMUy1YUnB1bmlWbVFGNXN0SjQyV1VMTUdOVnBEeDZadFFQaFpMenhfVEdQaU5ZQjNuaTRYVDdfV1lMM1dhWS1YVDVBZmFVQWhRVnJKbm44dVI2a1RTYl9ZVVF2SEh5cXpxdjktVzdQMzE2YXZOTVFQSGdMUFhETS1sN2pmRWQwR04xeW9haHNaU0RGTWhXM0VvVUgtZktN?oc=5",
+          "published": "Fri, 23 Oct 2026 21:24:30 GMT"
+        },
+        {
+          "title": "THE CLASH Mihkel Mihkelson valmistus tuliseks pressikonverentsiks: kui Ukuga kähmluseks läheb, siis mina vahele ei lähe - goodfight.ee",
+          "publisher": "goodfight.ee",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeU1lNWtnZDRBNFlZVHR6U3ZvYW1iNkprcmNmQlJteEVtenM3MlRFaDlBY094Y3U1WGFjSzF1X1ZST3pENk9NWDJVOHBYZkZmTU8xMkZadDhPODJ2dldRZnFxSGZyTUFaVFo5TWp5Y2VqbWw4empVaWl4bFotOG9DSlRuckJBb1A4aUlkMU9TaDNUdU9IMk5xakd3R2tjV09OdEJSSHlfS04wR0RNNHlDR1ZoanZPdnVHU1RNVXB2SDFaQi1ENnc1aERxN0MzUm5IQTNjZGtR?oc=5",
+          "published": "Fri, 23 Oct 2026 19:06:02 GMT"
+        },
+        {
+          "title": "Bayerni peatreener kukkus treeningul kokku - Õhtuleht",
           "publisher": "Õhtuleht",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcmpMdG9oNEVNdGFGdUJxRC1nM180Ui1TSXdicFlFM0xFck1ONUlfaXU4X2QwRkd3c1lhYkNvSHNmWmI3aENzM3hsLTh0YU5FVzdMZ2M5VEpvd2hWRmZ6cVJ4OWlma0hGbmdHeUVscElhYmlVaWRzNFdqaGhQbG1HdWxRWm5PTjV5UllDUW9oeFNKaWpUM3Q2V2V3T2h1T2V4dHhQVkU4emdUdmdQWjdRTUNQeWJlUmVkTGlkcHhvVF9WU3Q2eU9ZdzlhRU1SQnd5NlhMRVRzSk51R0dKRTBldG9janVyd2RlTnE2STZ3VVljcHNs?oc=5",
-          "published": "Thu, 22 Oct 2026 18:49:35 GMT"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWldaSHdLZzRlUXltbzcxcE9uVHZ6eUVKamRyQlBkMFJfLURBUkVBUjJvd2l3a2U3Y1lMWHRpY3FpZzlQT3hYa1gyMGNWbkUzVWVzcTB0aldkUXZDdU9VaHR6LU5YYVVuTS1vclA3Z3RPLTZLa1EtSnFHUnNGeUVCZjFUTTlna1E?oc=5",
+          "published": "Fri, 23 Oct 2026 07:08:00 GMT"
         },
         {
-          "title": "MEGAPAHANDUS: Kreekas lahvatas altkäemaksuskandaal, vahistati ka korvpalliliidu president ja Euroliiga kohtunik - digileht.ohtuleht.ee",
-          "publisher": "digileht.ohtuleht.ee",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVF2X1VpZzRUT2k1cmZOVDF0TVUzb05IMGlOQlR2emZ0YUdxcUY2eHYxdFRtM2FJek1JRFh2czFRV1haS25Sd1dCNjI2LWxWcy01U3pHSTM5em4tVzRWVlZCMzlzdEJpU1dPbXp5YS0yT0dkUlZXTzZGOFpSY2R2UkYzTjd4ZkQ1dVRTTHhYdjBhMjliY2l4NzlYN3EyV3JsTmFBX2Q5NXlXMUlKSXNGVThnZTJhQmVna1MtUFd4Wm5aVF9fZXpLSkhZNlRQdUlMRGRqWUZ3VENxamk3MUZn?oc=5",
-          "published": "Thu, 22 Oct 2026 21:05:44 GMT"
-        },
-        {
-          "title": "Nädalavahetus autospordis: Eestis drift ja e-sport ning eestlastel on kavas mitmed välisstardid - Ralli.ee",
-          "publisher": "Ralli.ee",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFE2cWFDa3dSZERSOWpiSEFHMFZpcTAtb2t4TE5VVklzTzRjRU13M0JDNVVZRzRNeVBjeEVjQzBkU2FmVmZ6cFR0bHNsa3V3cE11V3JJZ3RhXzM4WWVxcWVWWFRtci0tYnRheUJtY2Jpakd6MnN3TXdpWTNzRG1La2w3NTE4SmtEcXkzNGdRWUM2OWJVNE1PaE9vcDBvMGJ4ck9mVnI1S2RSQTY3c015UkJB?oc=5",
-          "published": "Thu, 22 Oct 2026 12:52:57 GMT"
-        },
-        {
-          "title": "LIIKLUSÕNNETUS | Narkojoobe kahtlusega juht sõitis otse üle Käina ringtee - Hiiu Leht",
-          "publisher": "Hiiu Leht",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONWE5bjJlOEdYeHB5dURILWJVLUk0RFplbUR0NWVScmNrQi1XLXVxS3NvMzhuQWdnc0szNlhMU2ZkR2k3ODdMdURTMnFCU3hzVEtuXzJYRF9xQTZMZTBNd05HU3QwdV9qSGZKWVJnWXBwZDNmTE94MUlTYzEzaHh6NDFscmNSOU1PU3dZeXc2aEFFWUQ2OWZV?oc=5",
-          "published": "Thu, 22 Oct 2026 12:24:13 GMT"
-        },
-        {
-          "title": "M-Spordis sõitnud Armstrong lõpetas koostöö senise kaardilugejaga - Postimees Sport",
-          "publisher": "Postimees Sport",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVFXX1BPMXRCQ3liRkZ4dDh2QTM2OF9Vek1kajNKM3ozU1p0Tm9FaXpteDZ5UmxnRkNzZ2tmTHk1TGlJN2lGM2YtOUxtVWxZLW1aei1sd0FYZ1d3Ul9sSW1sdXUzOFFCSEdjLUY5QWhiQlNMUXJtNHZXQks2dWp4RnpwUTM2R21qOTI3SVNkek9FTzJCNEtSYk1HTWl0OC1SUFE?oc=5",
-          "published": "Thu, 22 Oct 2026 15:10:08 GMT"
+          "title": "Kuidas taltsutada lohet, Hooaeg: 1, Episood: 6 - Jupiter | ERR",
+          "publisher": "Jupiter | ERR",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qVzAyRGpyN3RaNG9mNUQwcHVoTldBZ1NkQVduOVNWVE1WbGpaSUQ3Y2k2RmJBdHFJTmk5cEhJUDRYSW9oSDZFSVZkcmRBQ1ZWeUhPNEpXRGlyNjg4LVNsY2dHY3FpUEpJ?oc=5",
+          "published": "Fri, 23 Oct 2026 20:22:07 GMT"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "USA to host women's football Club World Cup in 2028 - FIFA - France 24",
-          "publisher": "France 24",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUllM0twWjliQnZ5ai1NTzROb2dIY3hUOGZyZzJORjd5NjZkWmNfbmhKM3pMb3hIREVJQ2x4cjNOT1RqUG1YSXl2T3p1czdjX0dDSHp6RnF5VWotS08xdWNvcXhnZENGMEFGbWQxLW5nUTBjMjZySFg5eUYyc0VHS1Y2SnFxTWVwU1Yza2pfQmhfLUFuZUlIcUNYd3g0bm1SRzdNTi1n?oc=5",
-          "published": "Thu, 22 Oct 2026 16:37:20 GMT"
+          "title": "Advantage Infantino as AFC backing puts FIFA president on track for fourth term - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkVVU081ckNTRGhWcHRWWk1yMExzVnYwM3FwdzUxb3hnUUZHaWFmZXhSbkpTNXpUUDcyX0pXNDhzakpaOUdGOEVkWWs3YWl0R3hiWXR1SkJ6aVdnMmdjYXItcE1VRjFSaVZzRm8tNXgyTmJkUXUwUnk3WXI1bUpTeGFQU1FRaGhET0JqXzAxYjVZRWxWdV9ZOGNLZDR4S0RwNmItTlkxbFRvWC12MDFQMGxQMU5YRlVYcWFz?oc=5",
+          "published": "Fri, 23 Oct 2026 19:03:36 GMT"
         },
         {
-          "title": "Women's Club World Cup: United States to host inaugural edition in 2028 - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XWlQ2UFFNclVSS3dMUTBVVDVqQjVwd2J6b2k1eXpUczlyQW50alh5aU05a1habFpCSlhEc2FqcW5lTC1pcnNDcjJienlMaGRlME9PT1cycmFEYkV6dTdmUzdzOEpzQ1Va?oc=5",
-          "published": "Thu, 22 Oct 2026 17:49:08 GMT"
+          "title": "Lionel Messi: Argentina's 2026 World Cup final heartbreak \"part of my football journey\" - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmMyZG54MHlYX0NlLWlHVlVjcy1YUnRuRF9oM1FGR2sxUVhISDhwRGJOOGdNNFQtQlItakxNS203akJZbFQ4VE5GNDFCUHZ3WEttTlMwOWdBX0lHRm5uNmNfZXNzWEQtcDBUNnNXZkw1cmIzSHdCTFNGaTZmWWdSNUxRc3JkSEZFeTZXOGw5RExvVzhtOXVSZGNObHo3UQ?oc=5",
+          "published": "Fri, 23 Oct 2026 10:17:00 GMT"
         },
         {
-          "title": "Soccer-FIFA opens bidding for 2030 and 2034 World Cup media rights covering US and Puerto Rico - KWSN",
-          "publisher": "KWSN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSkIzbklSVWF0TS1fcUk2MEJGZW13d05qZll1R3RXN1BxeGxKbFBuTGJxYXE2VmJoMWhoUzRUX3duUUJwNzNXRDZyQUtxcy1IVVFXQU5YbXRpRWdZMVliaUlIZmtJWTU3Z2xmSUZfUUpId3RGaDNhLW0tTi0yVldQd09wVVpTZGhuUDR5ZWF3eWtZMmVFYlBPWld6YUNrakJSM2JyQkdfZ19mWXZ3TnNXaWpSbDBpd1lVanozTF9CM0I?oc=5",
-          "published": "Thu, 22 Oct 2026 16:47:27 GMT"
+          "title": "FIFA president Gianni Infantino wins Asian Football Confederation endorsement for reelection - Fortune",
+          "publisher": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVktReFdBelZiclE0YjEwSm51Ulo3R1E5Y2ZlQ05iNDVTMUVVU25oVnpJTERYWVRxVTZka3RGYlRZWWp5UlVmdFpoM1N3ZG5HNlhldVRnODhEejN2dWNLRTE0NTY1eUp2QU5Nem5tWWVwRTd1ay12UFEzT0ZkTGRXM29B?oc=5",
+          "published": "Fri, 23 Oct 2026 13:26:00 GMT"
         },
         {
-          "title": "Turkey Europa League Soccer - The Herald Journal",
-          "publisher": "The Herald Journal",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb1dYMUJ5MzNySlNZc0ZvbWJoaDZEVDNsdFFQU1g1SEFYTndycWlJOEdiSGI3UXY0SkJXdTZXV3dDbkY1a08yNEpGTzd4aDd5cUN2MFE3XzFteFlXS3BsaEtYSVJOVThYTFN2dUoyd0VlSkNnYjg0QjlRNW83VUsyMnhkQ0V4cTRSRWlPNVVYTDk1cEI0ZUx1NndVbWJGaVh2NnU2aEpRNHRHT3JIZFQxdUln?oc=5",
-          "published": "Thu, 22 Oct 2026 20:58:32 GMT"
+          "title": "Asian Football Confederation backs FIFA president Gianni Infantino for re-election in U-turn - The Athletic - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ2lNX2VsREtPOUtaTW5MNEFzenlsOUN6WkU3bUNUSkFFQVBicC1qaFA0dWpxck1IZkVHSTZzNXBPSk1rLXdxVEdmR0N5cFRpdHc1UTdMQUJwUE5ZU3BsUVFzLVZ1U2V5Y3ZXOElIVGRHVmZlVTJWbWpyZllkUzlGYnRZekVhVG1ZbkljVE9OaHBsalFIbXc3UnEtN0N5VWFPSy1pUlRZaUdGdTRVNUxYRjd1bjhUUVI4bVJHbEJ4V01QT1U?oc=5",
+          "published": "Fri, 23 Oct 2026 08:10:28 GMT"
         },
         {
-          "title": "Trump’s Fifa peace prize was a sham. A reimagined award can still have meaning | Leander Schaerlaeckens - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQV9aOVZDWXlMWXZDTHdoYm14RjdFX0lZeFBFeURzeGNRU0l0RXVuWnY1Tzd0RVNOMTBQZU5Cc3VFTU5vMkpYX0RlM1hnWFZRU0hEbDB1RXVIWV8yaTN0UUZUTmE2cTl4US1Oa1pIaTVnNjh2a2RvWUpIcjRZR2NoSA?oc=5",
-          "published": "Thu, 22 Oct 2026 17:06:00 GMT"
+          "title": "Asian football endorses Infantino re-election in apparent U-turn - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSS1oSm9SSlhDdFRqSEZxQkQ3X3BJUUwxank4X3RmdFY5aGdOWXlKd2VQNHVzODBPSEdqRHU2eHJNSXNOWHp3ZTBwdmo5aHpyeEJ2alBhZEdxbUhCb250Nm1oNC15X3JpbVNkQkhjbkNROGZleW5lWHJVMENHbmVyVEdIaW5EOUg1dWRFMG9ORFlpUWpvQ3c?oc=5",
+          "published": "Fri, 23 Oct 2026 09:56:03 GMT"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "You Only Audition Twice: Watch Henry Cavill, James Brolin, Sam Neill and Others Screen-Test for James Bond - The Hollywood Reporter",
+          "title": "As Hollywood warms to AI, ‘Wildwood’ makes a case for the magic of handmade animation - NBC News",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2RLYklIRnRfSzFDSWZ6RzJNVWdMbEVnMkJIa3BLZll5Y2gxVmR4d25DRGNJeDJzazlnbTBwOUZqSXlEU0Roa2RBdEFldXdjVWF2dXJlRW1oOWlrcGdOYllPMEIxdVJraGJ3UU1rVjYtYXFLRTNRdlQ3Zm8weWo5czF1VTc3UW9GY2tFREJrbmdRUFNncHZZTjNsSmhvWUFvbWh3bQ?oc=5",
+          "published": "Fri, 23 Oct 2026 17:06:23 GMT"
+        },
+        {
+          "title": "Jack Lowden, Margaret Qualley Top Bookie Odds for Next James Bond and Bond Girl - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3BoWDNSbTZtemFtNWx4WVozSUE2QVFtcEVrQ1pQSkZ3andERDVuTUlfVzhzUkRVZXdZd0o4NG5iVWs3YmFoRUc0OF9qUjJQZEdxWlg0bXpTTFU5RkxVQ2tNTUJjd1hkSnNtaTh6djdXVXNYbEV4ZWE4TDUxcjJNdlB4dUlaWXVGbmJYYnViUGF6RFRqcHlWYjlBZDhPcU5Rd3Nwci1FRDRMY1E?oc=5",
-          "published": "Thu, 22 Oct 2026 20:57:48 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEhQM25NMm1MSHBrUnpSNV9BZV9OV3FkMjVfNFNqN3VPaGdkUndyT0lWdXdBdFJSaGREN3N5dHFpQzNRdWNJWU5DOTZQWHI5OXdMQnUyRHhYV091VTBpT20tYWM3emx1OWY0YW9QTWx3UkxaNkMtRWN4M1B0TGlOVE9wTmtlSURUaGdObFVsejlJTnhlRkk4OXJPQkFXYWs2Q3d2NnNkOGF6YXZF?oc=5",
+          "published": "Fri, 23 Oct 2026 16:16:55 GMT"
         },
         {
-          "title": "Tom Skerritt, known for roles in \"Alien,\" \"Top Gun\" and TV's \"Picket Fences,\" dies at age 93 - CBS News",
-          "publisher": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVW5ibkFidXdQMGtZeE9FUHczeE4yQzRzcm9LQnJSRjlrQVE1WGQ3bmppSWFuOFBFSjdycGwtekNHUjI2amhMaEZ4bVo0cVlGVjZwNHIzUzUxcjJLbGNDRU1pLXRSUFlsa19mZ09NVmx0Z3c0alhKazJmbnRqcFpZYW9jTHk1YTJmVWc?oc=5",
-          "published": "Thu, 22 Oct 2026 23:53:37 GMT"
+          "title": "Philippines investigates Thomas Markle, father of Meghan, after child sexual abuse images claims - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTRjZXZvemFKV2pJS3hnbDVBRDVCUkdrQ2dnZjRkd0o3dEpQT2NjcFlwS3FJaXlZbUQtOUo1UDNiYTQ1SGJiSWhMZTlXclNFcjJ4Q0toVTlsdnY1UFBURHNuRWVDQlBjcjBEc0YyeVNyRllMVE44bkpnY1NCbV9GeTRSSUJ2UWxIcF9DUWdybkRsdVhpWk9KSlZ6dDlBSHlucXg2QjdjQU8yblJaNW1malNWZXNDdV9HMmlB?oc=5",
+          "published": "Fri, 23 Oct 2026 18:12:32 GMT"
         },
         {
-          "title": "Elizabeth Holmes whistleblower and investigator react to 'You Can See Everything' - SFGATE",
-          "publisher": "SFGATE",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjlNVWU4dWNuUDlEdndIcUVVSGpRaC1jQVVVbnhmWEg1SWtQcGt6LW5OSlh3M2RSN3diSDhXYmgyNDVGbFRGeWdtVmVxZWpPRjRSSGdTT0pRTVNZRlM4T1I4cXpRcFMtbDJBZUp4RVFaVFFvZmZPU2VsNHh2Z0R2OXF0ODZpNDVnSDNTLURhdzJVSGZROXZuaQ?oc=5",
-          "published": "Thu, 22 Oct 2026 20:15:37 GMT"
+          "title": "Sandra Hüller Set for Cameo Role in ‘Avengers: Doomsday’ - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWjFjZnV5LU9mT2t6d24wUzR3djJfdV9maXNZWm15TkRNM1hwekc3ZkQzSmVadUJ3SzE0UktCR0xwNkExUGVvU3JNTWVUaXA4dE92bG9QY2NEWVY3WEYxYklzYVV2UGRvSW0tZXk1MmFMdUNBTTB1bGxhbmtjMUVSUVRCQ1h5TWFBUk1GWUdIWElsSHlPRDdhcDVSbURCVTZyYlRz?oc=5",
+          "published": "Fri, 23 Oct 2026 21:31:44 GMT"
         },
         {
-          "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’ - The Verge",
-          "publisher": "The Verge",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUJXcnZMZkd6Tmt1ZGFIcTNkU2x0ZjI2bGM3eE9EUHMwd19JYndlOWsza1RaQ1ZkNm4yZGp0RWhaUk1jcTlTQmNvWW1lZ3VHWUV3RzJMd1dEbkpkWTl6Wk5xN2JRdUVjZUIxQU5ndy1XQlpkMlNEMW9WWFRyS0hkQTQ2ZG1rYktkX2hCUk9oUFlXaVpOY1ZqbFpJYjRiR3RiMWc?oc=5",
-          "published": "Thu, 22 Oct 2026 16:16:15 GMT"
-        },
-        {
-          "title": "Becca Tobin On ‘Glee’ Reboot: “This Gives Me Diarrhea” - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02MXVQMExQV21oOVJQaXJnZi10UFNqaHdYYnNDT2Z5Zmd2NlBZaTRjWXQzRU1HQm42U3FHczd4X09KSlFtR1RyVHRFUzFqeVhuY1BkZUk2REJCRDJYTURyYWVWOThXQXQxWk9kZGpmdnVDUQ?oc=5",
-          "published": "Thu, 22 Oct 2026 20:11:00 GMT"
+          "title": "The vow Téa Leoni, Tim Daly made in case 'being married ruined our relationship' - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMGM4NHM2aF9lbmt0aTdrTWZ3WjlLSUVnWC1DT0FJVWt6T3VKc2JfQ0sxbGNSX3VtS0Rnbk03ZEljXzFPYzBzR05Mc2twa3Vmejh1elZoV2trcjZPa1lUcm1nNzFrdlY4WjY5ZG13TTBVM2gwSEhnaUoyc0hvQWIyMUR4OVBlS09BRW15WDh4cG9tbGpNNWUtVGxQZTdDTEI4WmMtMEI4NnZQSVZRYVNkSnlsSUpoZ193NUF1YXBOdlVyejh0T3o3T2Y2dVNfa1VqS0E?oc=5",
+          "published": "Fri, 23 Oct 2026 14:00:00 GMT"
         }
       ]
     }
