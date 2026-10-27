@@ -1,7 +1,7 @@
 {
   "market": "UA",
-  "generatedAt": "2026-10-25T23:49:50.281043Z",
-  "validForDate": "2026-10-25",
+  "generatedAt": "2026-10-27T01:09:47.067483Z",
+  "validForDate": "2026-10-27",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Як відключатимуть світло 26 жовтня: прогноз Укренерго - Слово і Діло",
+          "title": "Україна запроваджує режим тиші з 03:00 27 жовтня виключно для гуманітарної операції в Олешках — Генштаб - NV",
+          "publisher": "NV",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ21COTFaT0ZiQll5MTlmdGc3YVFBVElqU3RhMG1QanJWVlhMRE1xcGpKa1laU3laR1Vya2lMeDlvZVhVQ2R5VnVEWEJqSXZBeEZLaG9adXlLVmdRdHl4VGc4UF9yekJ2RkI2VGlvWUNiQ2xjWGVpWnFnYldsRFp5cldpMVdLS1E1V19ibThsRGVydE10Xzl4RF92UTNISlkwSHdzSlBlcHJMV0RqZFFIY2RfZkMyWjdPb2hyQjd5d2ZZdVhta1HSAbcBQVVfeXFMUE8ybE1lVWZxNUdFTmVNQTg5Q2Iwa3dGT0tZb21ZdnNwQ0x0YmFUQmVVbWwxNTB3WWo4XzZnUzc2TDJuQWc1TlplUTZRQ3UwUlBOTHlmdThkdEp3SnFqbFUycFVxc2ZQNDFXNEh6RmxFUTl3TllRRGtuaHExN21DSjdLR3FWNkJpOV82dDNITXprUkxvVnRBZUItaTE0S2t4bHpBdU91ZWJsQU9TTWc0Y3E3ME1QVV9R?oc=5",
+          "published": "Mon, 26 Oct 2026 19:09:00 GMT"
+        },
+        {
+          "title": "Уряд оновив правила бронювання: відповідну постанову вже ?... - Громадське радіо",
+          "publisher": "Громадське радіо",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVVVrRmlhMjAwTlNheWoyUzVFMUhJaE9oWF9rX1ZSNThfcHhfeWwwR3pqOXpaWWVubjNrUGF0RVFyWk03VWp1VDZZalJaeVBscFNDOGFBdjlOOUV6b3lMXzFqcVFyQnh3N0FOYlpyZ2xKOWhITTNnTmN5Z3N4cmUtbkhUNW56QW5aQml5WnBXRFlZUWlCTU5PVjBGdURhYUVGaFN6OTFoOWI1N0xSTnlTY2l30gG3AUFVX3lxTE5IVzFHWnJIQjllYjdHQ3FNaVRCM2poVjRzYWIwRTVBcmcxWkQ2VzZBSm5PX0R3UTZEeW1BZmpGejRWM0Z3MEZlakVnQk50NTZjMUpaUUpSYVVxZEhubEdHTi11V3loalE4Z2xyNUhZN3RFSG9tTlpXUUVOZmktR0UxWVUxaE4wU1Z3bUhZajNMTWVucVJ5VnBDeFJtWG56N0NHdFNMY2hwaGk4ZjZzQVNCZU8wX0pnOA?oc=5",
+          "published": "Mon, 26 Oct 2026 19:07:13 GMT"
+        },
+        {
+          "title": "В Укренерго підтвердили відключення у вівторок - Korrespondent.net",
+          "publisher": "Korrespondent.net",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalVVQlpkR3kzVDU5VmlibldRMzJZYUxRM3ItZE5qT1ZvdktIWF96N3pwZlMwQ2tWWHBmNEZScm5nWkVEZ0NKTktWNlN3ekJYVlZuTTlNek5URVpqdXhYX2ZPUzlKLUdwZXgxNVU4OE53WFdFdTJuWlFNRlEyX1JlYnpFNnROUFRZaUFXUkJpandyMmdSVzNNbXd30gGUAUFVX3lxTE1VVmVCS2cxdnhYVVJXT09UblhTVnlfaVQ1N1ZiRjd1aUltWm9YNjBHaDZDak5iVFVYaS1UWHpzVHI0TkY4YzZHVFE5RjA2dExnaUgtSnZqMHU2VW9IZ1FxZ2p0cW1iaXFQZlRvaVVQZnpSMWNBRkFBel8tVWtGRnowSGVJS1VOeExfc3FhSVpfQzFMeFQ?oc=5",
+          "published": "Mon, 26 Oct 2026 18:13:00 GMT"
+        },
+        {
+          "title": "Ракетний удар по Києву: пошкоджені медзаклади та гуртожиток, є загиблий і поранені - Слово і Діло",
           "publisher": "Слово і Діло",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHltMmlSZlRGc3BuNmZ0OGJNNW16QVRzbFg0dzBQd1BhaGdmLVRDV2ZSYS0zdkxFaGpLVHY4Y1BXVi02b3IzTEJRZHJxTVpmY2tSek55Qm9Za0lLeFlYVmtUY1c0OUV1QVJvY1ZOck85ekZyMWpweHpqbGhfeFJjNG5qOFVhclp3bXA5SDdPY3ZITHFady1SaGZoVU81VGhuamNSeGg1YzVESzI5c21CT9IBtgFBVV95cUxNZUpBa1JMZG0wUmdzdldsQjNFYW1TVExSLVZkZFpGc1F3Qy1fMjZFRC1hNHBMWEhOSUtjek9Ia1dLcjByN0VpajJmbmhQcEIyNm83aG15MTQ0WXk0MmZJWFJIOFJBRjVmRHhRa2d1UV8xbVpsbzJaeS1RR05nWFRCX0NjT2d2T2hDcmZjQWJtc3hjOTVaajlqUGdUV1RaTFUybENFVi1JQ05hVExaTEZMVDlTMGxzUQ?oc=5",
-          "published": "Sun, 25 Oct 2026 18:29:44 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUtFVUYwX1BjNXdnUTllVmpjV2tTbFAzcGRMdVkzQkwwUXBNNlEwLTVvYjd0ZDU5RzU5TGU4T21CN1hMZ1haNWxxUU1EaWdSWVQtWXo4c3VILWRvQXl6M0M2Q1lFSlVWOEp1RV82XzA2VGVTdlZiNHhzb3BPSGk4a2t5dUhVRkVUWXJNVWgyQXJETXJsNGJ3LUpKRU93a1pKdFp5c1c2NG5QRXV3SWpud3FnSTJibzE3cnhPSVl2clVpcndGXzJ5ZEFWZm9Fb0VE0gHWAUFVX3lxTFA4d085dm5oR093aWNXNHlxaDN6TU9udTBFYkFRanlQUWxFYlV1aDhfQmtWTWxMWUJ1ajBWLXF4dU5KbERscGRBWkUwVC03S2tqOG15SThvMVdqRnVsdlFKcng4dlJBSkVyM1N4d0k4dHMtOTdiTllDc0x4Wjg3bGpjNFl6UEJjUDNGQnR6MFhrLTA1bzVreW9QRldlZ1ZOX01famdZQ1BCS3J6RjhaUy1tcS01dmtRbm56dVlqWjgzZ0NJREZIUEw2S18yM0xmajJPU2FnUGc?oc=5",
+          "published": "Mon, 26 Oct 2026 21:46:36 GMT"
         },
         {
-          "title": "Зеленський про мирні переговори: Україна не погодиться на обмеження армії і нейтралітет - Українська правда",
-          "publisher": "Українська правда",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WTmtkRTA3WXhiZUhsV051VWljUTFHSHZoRVVCUXA2WHBhTjhvaUlTYm1RUU9BZU94clNvanhFdF9oRmZtbHNKQmxKemE2clo3eDFkcHZKOEQ5dWxXMDFZ0gFrQVVfeXFMT1o1eU5ZUjJSbEpMRlRmNmt3V2p4LWl1SDBqRUdZdE1jZzVBWTZkTG1teGdXdGJ3ZFkzYmtVRHR5X3ZBS0ZaOFRKZmFKZENrbi1VRXhrbGhXS1hncjE5WTFTVjhtLXl5am94YkE?oc=5",
-          "published": "Sun, 25 Oct 2026 19:26:00 GMT"
-        },
-        {
-          "title": "Російський реактивний БпЛА вдарив по Новобаварському району Харкова: постраждав 14-річний хлопець - Суспільне | Новини",
-          "publisher": "Суспільне | Новини",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLUZobmQ3TFRFMGg0cGt3aEhycW13Zlhkakx5eTQzaXdCN2R3SGtZR2tndVdOQ3N0TENyRXVMa2VzOHExVjB0ZTlWbC1hS3A4UjlRZTVYY3RGNTV5Tm1FVmhwVXVtSi1tR1dFcW9rc1o1U21TN2l3Yl9CTjloX1pHN040Qy1zeHkxLW9VWG0wSU5oQmNmQ283ZXhnTFZEOG1hem5ucTdETHF5Z0JDSUhXcW9ySGdrZ9IBuwFBVV95cUxPVklha0Fxem5uYUZERnF1aERLY3hZbFI5UzQ5R2M5Y2FTMGF6WjBxOUltNlBZb3ZiMWJrOTVvLTZFOEJtNmN3RDVZM2FjM1lud0RCcVowTXYxbWxYQWFxbTRVbS1YeWtOUnRGXzFxTHBTUjZKdzJGWU5mZnp2V1MtYUJGTHBPdTVud1JLYWdyUzBCaDVVVHpMNm0zZGJqOERMV290V1RKVEdpdFcxMHJOUTV3Wlh6NFNzRjZR?oc=5",
-          "published": "Sun, 25 Oct 2026 14:19:41 GMT"
-        },
-        {
-          "title": "РФ атакували Дніпро та область: поранена людина, є пошкодження - Суспільне | Новини",
-          "publisher": "Суспільне | Новини",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYm1zT1lzZjI2RUs1X2pSTlF5QU9nMmhSX0dTMVRkV0w0YnZtM0l6cGh2c3dhUGpvUWtPeldYc3ZtMUgwbjJ4Qlc2eXNjbXlVQzVLM0ltOWEwSmhMb2h4eG9tTGtrTEFldHA3b2FjTnQyNmpqRnpNNFhQRVRzaS10RTlpQTlFM3EyNU1iVGZBVnJUcTl2U1R5UFR3ODNERUHSAaQBQVVfeXFMTkZVZXM3N09VYUlmTWpjNDlqV2RiWnFGZHhlUW9xY3c2S211MDM4M25ZV29TRlh3T0EtNEh5MFM1bzZpS3VqSUpGYktZd29TUldBa1BjaTlsNFFJelduSkxxbTVyOXlReklNQlIzODh3NDVmb2hUWFhINXNKY0pJcDd5eGxqbFFWdFBHNTRSanp4aFJrM28zQlVkc3RueDhNMDduREc?oc=5",
-          "published": "Sun, 25 Oct 2026 16:50:03 GMT"
-        },
-        {
-          "title": "Маск звинуватив ЗСУ у порушенні умов використання Starlink, радник Зеленського назвав це неможливим - ms.detector.media",
-          "publisher": "ms.detector.media",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0JkQWlKbkNjcjRFUS02d3ZxTGQ2T0FtQWNmQ2I1WnVKcnhtT0ZMMUVmWFJoQW1CYTh1a3RHVS03WWlybXBxb2Q2NG8tb01fSEdMQWNFUFprZXhpRDM0emJJbnJpZ0xla1hMV2ZwQTU5cVZHdl81SW5ZYjBLUUJrcFdGb0JYYjBjdTFBbUhqcFh2NUR0TEhVZFZpMTVjOThNLUEtajNhUUFaYVl1MlVRSVdiWmdIRWFDQ050MzJDQ3JCQTdkcU5tQ3JUeXpMS1VqdV8wN2RaMjVoQ3Y0ekwxTW9MUVVJeXE4aFRKc2VFbnhxY3ZRWTRqTg?oc=5",
-          "published": "Sun, 25 Oct 2026 07:00:00 GMT"
+          "title": "Армія РФ вдарила ракетами по Харкову: загинуло дві людини, є поранені - УНІАН",
+          "publisher": "УНІАН",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWW9pUGJXcmFfZ2I3bDQ1OFBsdE83OHp4bjVuSU1jNG9Cem1vTVFMS2RRVm4yLVg0OUNIakl1TUExV1NzTDlxemROMUJCQThVUy1yYjBrc25aNi1rbFBPYnhLQTZ3VFplbEFwbmJTd3Bpc216bGJTbmJQbkdNYWdDYUFjSVJkWTAweWw3dHNCWFZSN0VrUTNuZ0VKVWhGMlAtMjhERWlTeFVrUk12dlQxckp6Q05mMC10eFHSAb8BQVVfeXFMUG1Xc3VzbXk5VjFTRFdWeDRiX0VCazQyVURXd1FIaUgwSnkxS1VnM3hLUWRtaThHSVhtYWx2S2Z3MjZBQi1TTkVWV0dBSm04ZjJqSk9xdXlVNVQ2UkFWY3JGMU5STXl3TUFZeEYyZUZ2MjZBY1BpOXEzNzNidGZETTR3eUxDcUltN3VkOEctU09KTWU4YXIxXzdOOGU5RngzZnVTS0xoLUt5THlGaG9PQm9fZEZwNjJEVUtYYThab1E?oc=5",
+          "published": "Mon, 26 Oct 2026 17:05:32 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Парламентські вибори у Сербії – Вучич визнає поразку - Європейська правда",
+          "title": "Reuters: Російські НПЗ збільшили виробництво дизпального після угоди зі США - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1VFBhWjJoTEJsNDJrN2lRU3dkN2lWSkZheE5oQ0ZSUGVxWmtpRTU0cGJjS29FeDQ3RU1XSGlnSVZSSDFvemNPSDZyOGhUcHQzeEx6d3BqaDBpZmVfZjZV0gFrQVVfeXFMUFdiLVJiYU8zRmJ5ajdKS3BLdFVVUHkxRlp6TGV6ak1XdFlZS19jS0Q1X1FqMlV5NGtUUHR1OVlTVWFRSFFEMHhvcUZhWWpuZzlUWFdrRGl1cmdHamNMU3h5aWhUT3V5RV9QWXc?oc=5",
+          "published": "Mon, 26 Oct 2026 17:09:00 GMT"
+        },
+        {
+          "title": "У Франції молодь оголосила про продовження протестів всупереч новим рішенням в освіті - Європейська правда",
           "publisher": "Європейська правда",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jMTB6TWxheEhuYU1JYlk1ZjEtOXRrN3pNME9QXzN6Q1dDakhyck9FNXgxc2oyUWtGbUVjeEp2YWxPWXpUOEJ3Tl92SlNDN1Z6MTQtcl9XQm0tU1BGMEppWDg4Y3ZMVTUwUXpB?oc=5",
-          "published": "Sun, 25 Oct 2026 20:57:29 GMT"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13OXFENW1TZ1hNUkp6UDJsenV1WlNZLThxeDNoN2RTemNPcVVWcW9qaUZUUEl5WXRidnNVX3h1YXhVdjF5bk1SczAwRk1yRlYyY3hUaHVsMTFDQWExTzFYdlFLRXZQNXFHbEFz?oc=5",
+          "published": "Mon, 26 Oct 2026 19:50:25 GMT"
         },
         {
-          "title": "Чорне море стало небезпечнішим за Перську затоку, - FT - РБК-Україна",
-          "publisher": "РБК-Україна",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR2FsZGh6ZkMyOG9YQ0tDa2E1ZjBDc0VyaW8xMjdtcFJ0ZkR5Tm1qYTBlaHRNR05zRmo1Q1NoR2Jqcy1YUjBETUtoZ2ZZQUV0ektybUxkSzlkdXhIUFdzUTRLcW41SmVqN1I4R1UwVm5tRnVlY0ZzMTJ1ZXFLdVJwRXFiRi1nTmJyTkhGadIBkgFBVV95cUxPcW5nTm16NlFrTFJEMTNfdlN0ODhGS0t2MUpKSURxUzZJVHR0MjYtNmlNcklXaFRBTGxuMHNKNHpNTV95U0Y4T3h2Ukx3d3hKaHNDVEpwS1pEMTU0VW5kem1FemxEeTZmaGkxZXpUUzhVYlpHbkItQ1V3V3QxX1AwTjI4bGlNVkY0aC1OeFozXzU2QQ?oc=5",
-          "published": "Sun, 25 Oct 2026 18:10:02 GMT"
+          "title": "Росія нарощує вербування африканців до своєї армії через великі втрати – ЗМІ - Слово і Діло",
+          "publisher": "Слово і Діло",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZHFSS01ZNm9VbG1xRTBZZGJJNmowNmdzc01RN2p2TEg0WW82SWJ2VS1zWHRJSWlnSUZwVm5CUkJtS0h6ell6cTh4TElBRHkyRmxmdFZyZU54dlJjUkdHYVZabEtpbDhxc2dVd3BoSHhoUERWZUNTVzNWRk04OEpYQldBQzNCMVEybk52dWJ6eV9Gb1E3d1JiY3ZpdXdldU1iVU9DN1lwdlROSlFuLUpscTN0WG1SZGkwVTltZzhVdFZVTy03ZHlTb0ZB0gHPAUFVX3lxTFBqY0gwLVJISkNRMzZMeDZ0QWl4THdKZ2lhNklVWVhEd2NJbHlILW5mMlRvUlRidFhVdTJHYXFySXVtUFoyN09FNGVGU3RXQ1l0NVN1MnE1QjgtbUFyLXhZbVdDSWdYTVFaaE43aXhDaDJRYklBZUdySk9jWENNSWw2Sl85dWc0b25vREhtaGpKTk1rY0ZMNE5FODBiQ2pydE5KemIwV21ZV0hrVU1ENTZQOHFZWjVtR1k0aHF3R3JUZnJOYTV1V3NBVllULUNfVQ?oc=5",
+          "published": "Mon, 26 Oct 2026 12:17:50 GMT"
         },
         {
-          "title": "Штрафи понад $6 тисяч не зупинили протести в Албанії - Korrespondent.net",
+          "title": "США готові розпочати удари по Ірану за наказом Трампа - ЗМІ - Korrespondent.net",
           "publisher": "Korrespondent.net",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNHZ5bGMzX0Rmckl0cVlQUUs4VG1tMFhDVlFvME5naG1WcWM3YlFPdjZ3aFRmaERkaXVlMDEwX0ZQN19iVUhFX2pNa0lIbTVuUGsza0FlcFdCb0JZSndwTFFOSnRhSU94aC1SbG5PQ1VVQk4xTUU0cm83eExYVG84TEhOUzRHTE5ibDh4Q2tveXM3b01FM0t5b3FUNEU0d9IBmwFBVV95cUxOUEk3ZXFBcEN5eFJqOGxOZG9wekNEQ2YwQk5qaGRUaURGN05wZXdweGFEaEUtSlB1c1pDRHlXZEtYTzEtcGJnTUdYUDNrYTJKQ01wZTEya2xvR1JVRlRwMWJBemR4ZFRQUDRJaThlSVhJM2taaFNwbURpZXBDR1JMYlB6dFlBaUdhMGozUmNReFpXV1ZtOUgtbDQ1NA?oc=5",
-          "published": "Sun, 25 Oct 2026 17:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRUo1YWxwblB2akFsVkN6aGhlNTMzbkRQcktTdTRrUUU0VmhpclJyLVVOTjV2Rlp1QzQwSFRIMjJzNTF2MjdsVHJ3RmpFUDNORGZxQ21YOEV1cmxfRGMtNWJ5VWp5NHlscFdWaU5zVlpfdXhsMGdxRWFhdjNDUXFCbUJ2cHRJdEVlWF9ERDU5S3Y5WHIxT2ZpdFV1Nkh5cFFwb3ZLWtIBogFBVV95cUxPeFZEUXNYU2VzYXQ4ajdLTjVFTUZhRmFvNC0wajM0b2swNGl2TzEwRGtxeHhQcVE3X2Q0MWE3bDNIcjZwX3VwbzRVUC14ZHBPdUdFd0FURzhMN3FWckFFc3M1V3dPTy1EWEZtd0ZhMFh0Y2g3eUhQM3VCMWpNMURWM1EtczZoM1FFUXdyV00yekY5M2lla3FuUDZ1WDh3VnN0S2c?oc=5",
+          "published": "Mon, 26 Oct 2026 09:47:00 GMT"
         },
         {
-          "title": "Лула проти сина Болсонару: у Бразилії обирають президента - Korrespondent.net",
-          "publisher": "Korrespondent.net",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNmtrMkZJaEl6U21EdnhvQWtyRkF1Z25UeTVpNFlRdkNUb2RoSWdSWm16TUFkYzloa29fdlNTV0cxYVRsZXBsc09jVVVIRGZOZWs5UlkyNzJ1c2tyY0plRXpXSVhoZS1fOUNORVd1ZlBLcUxxaFdSNngxNDdnMkJZOElhZmlVWTBzY0VOdEFrUEdlQjV0WEN2bUY0TXBUQU5t0gGeAUFVX3lxTE5hQjRBNmVTOVBpLTM4dUtTc0R3Q0lkcUdHSzRaTUQ0UnBWbzhCb2luYldENnJoejNIdTJaY3VuQW12dmVpRUN3Q3RZSzI1NlpXaFdLOTNnOXViNjJnNVFfNm9sTTBQalVWM3g0ejRIdElkS1F6ZDFDaUF3bXJkbkc1Nzk4Qms1c1doa2RlR1VPVW9QQXRKVWlNX2VvVEpB?oc=5",
-          "published": "Sun, 25 Oct 2026 18:27:00 GMT"
-        },
-        {
-          "title": "На протестах у Франції, з безпрецедентними заходами безпеки, затримали близько тисячі людей - Європейська правда",
+          "title": "Сибіга про кандидатуру Орбана у генсеки ООН: можемо поділитися, як виводити на каву - Європейська правда",
           "publisher": "Європейська правда",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ba0lPN2xtUDVoRVU1YTZhejY4UTRLbTRHQ3hEbEYwcHN5U1lMVHNITU9LbGQzUi1kV2VWX0dCcVhHZ0lqZm8zWjBKdFdUM2xCS1ZIdUdoN0VSUUNjeENHNnRPRDNyMVdUeU5j?oc=5",
-          "published": "Sun, 25 Oct 2026 06:17:28 GMT"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42U0RnM0ROMjRrY05oaHUzdHhVekNIVV9lNUhkQldJOEl3dzJmVVlZREFmcnpuOTJDbHBzcDZ2c19UV0Y3MVFnVEZ5R2NkM0N0dUdmbTF4bjdVZlhwMG5oTkNPdlg3ZDNUT2xZ?oc=5",
+          "published": "Mon, 26 Oct 2026 13:17:27 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Volkswagen планує завод Audi у США - Korrespondent.net",
+          "title": "Anthropic зафіксувала $80,7 млрд збитків за пів року на тлі підготовки до IPO - Mezha",
+          "publisher": "Mezha",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOGc0SUdrZnlFNVRuczBGenJUTUR2eHNQTzNDRl9IcHA3YUZfTS12U05RRGJEQXV0ZFRkVDZLVkJEWkl6RFk2dG1FQ09qUzFOZHNhckZJWWJMVk5fbGZvNENLcDdzOHZZM25EZjhyNHF0NmUwa1g0V25SWE9QRzVramNkVElDcUtnbW9Fc3I4dkhXQ3M?oc=5",
+          "published": "Wed, 21 Oct 2026 14:35:00 GMT"
+        },
+        {
+          "title": "\"Це не рішення проти Німеччини\": гендиректор Audi захищає відкриття заводу у США - DW.com",
+          "publisher": "DW.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU3Q1WDNTRGhRQVVzSVdUdDZDRUxPVk9HQ0l6LU5CcVk4WEJVQTJac2lBVXJYNGVfWENlWTRIaHhNcGgxRno4Y1dNMkFRZ1FOWGVGS0Z6NWthek96ckt2TDlWNW16em5ZTlNJdkF5UEhScGptcDRQWnE3NFZnZG5tamxGMUxNUjZDSG1Xd1RjdWFkdDFPVGtsTHhERm8xbEMwamdIU1BGRdIBpwFBVV95cUxQakNGcU5TNko2aWVLeGFZMFJOMjJWd1ZpYWtqZEliZF9BNHFRLWU3U0hVa3dvTUFWeUtERzBscFZXaWYwNEZ4d2ZKNVJIR3diaEZMSl96M3pKdkRGeGY5NVVlQm5YWDdlbGFQMG0tRXhnLTd1YzV2MmN3V0hTM2luYzQ1SklIZmFlR2pMQms2TnRFaEJ1d1U5aWlrbUhodUlmdGlsZ3JXSQ?oc=5",
+          "published": "Sun, 25 Oct 2026 13:31:51 GMT"
+        },
+        {
+          "title": "Українці, які живуть у квартирах, можуть купити заміну генератора: що таке EcoFlow і скільки коштує - OBOZ.UA",
+          "publisher": "OBOZ.UA",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQblpkdkNKVGdLbmhZOEVXTkQ3czVaU1VjdUJRbzhPd1V6NTRyX0pDV0k4bVpsVEJPN3RBX3BhQ2lNWDRTTkJWTUNZVnBQUmlELVZVWEJXMjc2Q0pWZExBVEpLa2JnTlgwUEdGZUpJZlpzdV81Zm82ai1tZm05cUdhOHM3RlUyNTVSN3Y3Q2s4VkV6d3ZJMi1SZm9malgzdjJ5LVU4TDBTT3VsTE1udFVOZGFZM2o1eVFoSDhSYUI4YXk2SDZwUGhJTTlKa1dnUmZxOWtKRnB0ckM5UzlNbHlKNWd2ZHlEUm9nMkNwYlowTlAtd3RUd0lEbEhoQ0xrNk5obFpaSEV3QldHNF9Md0hfZTF3eFo5eEXSAZsCQVVfeXFMUG1UbkxWU2U3b2dmMWVNeWxzZkRmOWhOMkI4T1dWRFByeEN2Y2VxdVZNcXJqRW93a1NjTWdWRDdRTnBqMzRTbzM4emhXLTlhcG91amVuUjhfWDg3TGt5U3NzVm5OQWhBVzd0TjFiUFhnVWJaMV84TV9YdDdqUUJzblhiM1cyVHZMZkNyQ0ppRjBIZ2VCalV3aXYtbUY2cUpsanVrWEFSVE53OVlIM0hRdTI3RnVIdGJ4ZmhFd3ZXOXphRUJ2WGFlQ1pPT1JlQlNlbzJCeVVNVy11Rl83TDFBazdLekNoV1UwMFdGcGdpbDljRFliNV94RVpoTTRUdkk2UTIzMUhqdk1IT2ZiaktFeW5Ib2xiQ0xHTllWdw?oc=5",
+          "published": "Mon, 26 Oct 2026 20:44:00 GMT"
+        },
+        {
+          "title": "Toyota тестує революційний двигун - Motorcar",
+          "publisher": "Motorcar",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rME9PZ3phbG9HUTlmdGt4eEp2S1Q2VFBzT3ZFekZ4aDMzZ0VUa2FtY2x5cEV3QURRVkZiWUZwR2tDMERxZzRSemM0SERLOEJobmk0WmJCSzRCVGNMUVpkNTRqT0x1VDJkbHV1OEtDNVllWXVjQzhz?oc=5",
+          "published": "Mon, 26 Oct 2026 19:39:08 GMT"
+        },
+        {
+          "title": "Китайські автовиробники вперше випередили японські в Європі - Korrespondent.net",
           "publisher": "Korrespondent.net",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGc5YzN5VjVSMElfamlhamRsOTJpYjhDZl92bUY1NWUyRHZPNTRwanlBT0Y1UDNnWjlmWFJ1RzRyZjJnX0hBZjI1UC14alRKcDlhSm4yMU1PQ1I4SlZtbkNNS2VKd2FsRTBwVUI1blM3M1pHR3RCNUNvYTg5S0JtWHpHdmRvVjk5VE9pYmhiR2LSAYMBQVVfeXFMT3pHRHdrTTBLS2tQdnprVDQ5MGNCeVNETE1QanJZX1VlcG16aWRlbnhMVXBLcldISTVDWlZFZHFlUUliNkZhV2t5Q0x3TVM0WXQ3TktEN3hFbkV1cFRsb2QzMHVlZ3pnMFFHc1NIMlg4WmVOZFRvdWZqejlaMXA5U1FmaVU?oc=5",
-          "published": "Sun, 25 Oct 2026 10:18:00 GMT"
-        },
-        {
-          "title": "Hyundai Tucson дебютував у новому поколінні - Motorcar",
-          "publisher": "Motorcar",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zTEF3ZnJzZU5KSFNJaXVaendQcTBsbUl6Uk1NSzVoeXRjUGNoNFB1ZlFOVC1tMzRYMExIajJmLUJhNTZCRmhhTXJIYk9ianVlbFQ5MGZwblk0bVVucEt1TU1XSDk3NjdHdEZqNVFYd1ppbEtXeEVr?oc=5",
-          "published": "Sun, 25 Oct 2026 17:20:56 GMT"
-        },
-        {
-          "title": "Випередив усіх конкурентів: визначено найкращий недорогий кросовер з пробігом - УНІАН",
-          "publisher": "УНІАН",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQmF6YlJ1N0JCeHROUHVQZzNYYXRYZFBqdkZ5RmlndVk1aVctYWZPSUFCX2Vxanp5bnluZHM1ckxKZ3NueS1teTdOUXIxNkh0eWJnV1UxVXQ5RXZvV09iR0NzNUpZRDFCc09hd2hhN0tkUWQ5N1lNbXpVbHdDTHNlejJCdW5tRUF2RWtZWTR0WGJTT0I4OEJTODZoUUlyQTVqYk84MXg4S1JhalZlMlptNmtWcGtlVVBuZVNTRW5EU0xnYTJSU3JmTtIB1wFBVV95cUxQSTFEdjdnV3FELTd1R2lYNXN2aGQzUGdyUjh4aHdVZnVVVzFydG1CS2tVT2pnekt0VGVTZjFHa1NScklPZWpBaDhWemU3YlZzQ2FEcTBESHR5Y0w2cXc2NXNyTDc2RnVvVWs2N1poTlNEaUJkUVp5RlNtSVZUUTI2Uno3aS1HSWNMdjdqWmRzWVdYMWQyZWYyZWdOajk1SEVMNmhKcUU5eTFSNHE4akFUMVBQY3JCRW5tYUh0anMtT2VqcFg1Y1ZMazVnaTVRdXFHdWoxanFQOA?oc=5",
-          "published": "Sun, 25 Oct 2026 18:17:00 GMT"
-        },
-        {
-          "title": "Один із найбільших банків Великої Британії скоротить 5000 працівників через ШІ - Цензор.НЕТ",
-          "publisher": "Цензор.НЕТ",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeDBKblZ5dS0yWnNHUXc1UkhhSFRvYUNZa3RUMnFMemdTNkZxd24yRjhlSEJBQ1IwQlJQb1M0dHJ6bFdxNGxsZmNNdEFxbWNhVTNPc1h2cUs1N2ZpVmY5eFVxdUNjcHBwNzR6RE5IRXY2ZlNqajdvdUk0LWJ4cEp4VllZLUpodmtNNGlEZEwyRFhzX29sMTE2VDBOaTRWNUNMNFFhMWhR?oc=5",
-          "published": "Sun, 25 Oct 2026 08:24:00 GMT"
-        },
-        {
-          "title": "Volkswagen презентував новий Atlas Cross Sport - Motorcar",
-          "publisher": "Motorcar",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbjVtekJfM0hhTUlxNEIxR3VDZTF1TXRHUUFINVFwRE81WHFWZDgzSG5XS0ZjUnVJajdnNnFOVlo0OW9XYnpQbDZCWVRBRnctYTlsdF9vci1uT3NnT3hES3NGczFIbENGSHFyNndncndaa0R6R2xqQWhIWmF5bzFmaWpUTTNmN0h5bnc?oc=5",
-          "published": "Sat, 24 Oct 2026 17:10:47 GMT"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUlJOVIyYXlfZnd4YWZoVnFLUGw2bkVLVm9CLVFBYzR3ck9wenptVy0yUkdtWmtVM3JLSlBwNFZkbWhNZ0x0Q1VVYjZzUkRXTTBJTjh6c2NOWGZ3bFo3MDlQMHRnQ3ctV21fNnVWem5SeTRfaTBRazJBOC1RSHVIaXI0THl5THZpYkE5cHEza3BhaVpRVE1JYXlFaExlcEhvcTQ5SWE3MzlhTWg5TkhfYtIBowFBVV95cUxNZFB0UlhjamRZTGVaXzQtQkxSTzJ4V2xaVndQOEozMkd4OXhEekZBTnVpS2dWMlF5T0RwODVtdzBkcE1jTExKdFZHOUw4LWwwYUJkNzc0X2hZWVd1bTNzX0NxMVlyMmowdVRWSk80bWQ1MTI3Sms0aWxmdGhmWm9jY2pxMmtyQ1cwQ1Y5ZGZZRjNmSlVKVnFadlYyVmJzVUR6LWdv?oc=5",
+          "published": "Mon, 26 Oct 2026 10:58:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Україна вперше за 13 років без медалей завершила чемпіонат світу зі спортивної гімнастики - Суспільне | Новини",
+          "title": "«Золотий м'яч-2026» онлайн-трансляція церемонії нагородження: як це було - Суспільне | Новини",
           "publisher": "Суспільне | Новини",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeUY5WHhuSHUyNGUxbVk2LUFtRGV0elhGaHF1ZVZMOW1aQ25qWXp3OW1lcWtpeGJod3RwT0dJXzJkeDFNQy1NWGVtaWR0T3pTbHZ0TmdMbTZsR1huNDFTRklJbjlTZEQ2VHhPQU5CMEJLenBqNVc3Y2QwSUxocGVDQUVfcVBVXzBraFZESGhIVlVfQWpFMDRNLTItSVpFS0VPR1JpZUFIREI0ZlRnMV9XSVpqS2JsYmhaS2JRSDFkX3haQU0zZ2fSAcsBQVVfeXFMT05weFo3b2hsWEowbGlIUzA4ajVzRFhIckswRENPWVE1bDVnRlBaUGxkSzg3a19aZzlHckJiNjFTeVJ0STBkNWhqd25tb2dKTE4xRWVJZTA0aFNXNWtJMjdxYmMyNWUyZVJHT2NVOEd1NFc3THJFZjNaNV9DWXc2S29xc1RnZkJfSGRBS3FqN2F1cE5kZzdtVzVpcDhjRmNkb0FxWTZPZlVHUHhwYWtZWWRTWldxQzdBVDI2OWwtZnpJc2NLc0E1cUNaMnM?oc=5",
-          "published": "Sun, 25 Oct 2026 15:14:58 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcXo3OVphTDlOZEhGYUo5ZVRUT0QzMEQySEFLQ284SUdIZGlCY2RhVU5jSW85blpUQmFXT3E4dGx4dnYxVGNWRnRYTnc5S3liTVRUVTV4bVNxM3BPSGlpdFMtZHc5cDFsZzVLbjEteXJZa0t6M3JQR1VCQ0otbWxRYTJiVkFlMmNBdEFudXJvdC1zVHBWZWZGQy1wbw?oc=5",
+          "published": "Mon, 26 Oct 2026 22:57:00 GMT"
         },
         {
-          "title": "Вилучення в стилі Зідана: \"Чорноморець\" і \"Карпати\" видали бойовий матч в УПЛ (відео) - РБК-Україна",
-          "publisher": "РБК-Україна",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUENuNTVpZ1pidmZVSGI4dDBlTHdBSUtKNkVXX2JPMlY4S3VNXzBLY0lieXI1bHNlVm5mUHZ0bHlnQjV6VWZpMzFfNDBOa3FNYXRUSElaLWU3eHZGZnVwV2NUUEgwMWxJelFJMzFhekR3b0VGUFZOVGQ3TDZ6Z1cyckZYUFVjWmtnNnpBWXNrbFQtX3Nfbm44TkNSMVVCUdIBowFBVV95cUxQSlhOVmh2cWc0bVptWm9OTUNvRXVYcjdzRV9tQzdLSERwdFo5N1hieVBhOS00aEZkU244Smxjbm9XNE00OURlWm9adkxUUkh1VXBCdDRvcjYwYmFmTmJLY2VGRDFvNHVlb1gtUFpHRm1PZldzNzRGaXlGVGF0V2xmT3V2ZkJ1RWFaUDR1VjZ1dkVyUHFtRVpuLXh4emVOcll1S0FF?oc=5",
-          "published": "Sun, 25 Oct 2026 13:32:53 GMT"
-        },
-        {
-          "title": "Шахтар – Динамо. 1/8 фіналу Кубка України. Дивитися онлайн LIVE - Sport.ua",
-          "publisher": "Sport.ua",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObFJBcHNLR2NJNzZhUW9tTDdiMmUxeFdYX3ZpSFowNWgzendBVjQ1U1BkWE5ER3huZnlPbWdRek90cF9RNnNuQlpnaXRfY1MxdWVzcmZsci1FVFFPNkprQ2czbEtpbUdnSGNSZWxhWFJDVjcyanR3RUFNX01GQmp5UFc3Mk1pNXBLaFdOc0JqZGFzZ3h0ZHMw0gGcAUFVX3lxTFBrcy1yUGt4UUY0blpCWDloeVB3X0dTcWdyakdidExHdVB0d3pSYUlpYzVQaEJiZlhmdGgtSS05bFZkUFpoVnN2S1p5cklLZFZ1MXd0QUdJV0oyajVEYmtacTVpRC1nLXY5WHctYmp2Wkh3Rzh6OU9xOTRBaUx1RlRQX01rTEhDSEt6bEVPYVdVVFZYMjBDXzkyYUFhXw?oc=5",
-          "published": "Sun, 25 Oct 2026 13:29:00 GMT"
-        },
-        {
-          "title": "«Полісся» лідирує в УПЛ після 10 турів - Tribuna.com",
-          "publisher": "Tribuna.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQWt3WUZ4TzBJS29fcGp6NUZYTHd4R1FYQ3djYXFzNU8yWUhoMmlOa1hjTVhWZXVScjdJUXdRZEg1SVFLRGFMdEpXcVdua3IxbXlwRkhTSFZyMDFHd0dTUkMteGhIYlI2ckhXeUxEZVFaZkJya0gydGVHeUJOUXdVaTR3SFJ3emR1Q3dHU2NjcHQyejDSAZgBQVVfeXFMTkNqRlg5T2kzRnlpZHlhWGpEOVpEZ24ydGRBT1FpR3RDaDhaYm5peFBuUl9zNjl5Y3FiSGdwTEtPNEplVjZzZE9VLVBueE9mYkZUS0dsQ2tSbEZoQTBSSnFPZnk2WG1CYjVDWTdXejg4RVlFZHoxZ3RsNmdQclhiWXFWeXkyTTVqeFg1TF9YakpjOEpjYnlWYTI?oc=5",
-          "published": "Sun, 25 Oct 2026 16:51:00 GMT"
-        },
-        {
-          "title": "Петраков прокоментував свій дебют на чолі Кривбаса: Я не знаю навіть, як хлопців звуть - Футбол 24",
+          "title": "Шахтар Динамо – де дивитися матч Кубка України за вихід у чвертьфінал – Футбол 24 - Футбол 24",
           "publisher": "Футбол 24",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNFcyX0d3MFlhRFFYczU5dnk2TXgxMHcyZGplN2FCOTN3aTg0Mlg4VnhCZ1ZENDJBWHl0d2I1YkpvdGJDYlZGbkNhVnVDYmVjbDZwNXlKM25HU1FheXRyQ1lYQzlNVUZ0S3NxZGZSOEhhQzZTUV9mRnJKNWNFREp2SkJwVnV2YldLX2FzcFd2UmhHS21laXE3VmNKZGJFZ2VEQlVxRUxRaFVtTldVNjFTSllmSTZ1bWFJNFJyLWNsM2PSAcYBQVVfeXFMTkNFbFk4UklwU1lPUlBOS2JRZC1Fdjl6aDdwUEdPVHdJNl9VXzUxMmpDbmhXMlFJVzRLTUhpS1lKWlFmZkxmMzQ2VWRqQWhCdG9OWDJjMXFvdi04NHJQMWd3QnByaGhiV0hEOVNDazhkZ3FLT2VQRVBCU1B0cTJoN0ZvRU84SWJST2tBTG5Nb0NvTUZLSHlmVVZEUDc4bHNEZnBPczJJQ3lnQnQwUEhqc2xTRzRORk96UUZ6YVdLcEVCb3IzZThB?oc=5",
-          "published": "Sun, 25 Oct 2026 16:31:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMWU4UERqZDRndzQ3MkVoMkVNWlppN1hJZHVqQmNyZFNYSmxCaElpRlIzWWQ5S1NtbUp5M3dYUG00Y3k4d0ZsdE1nY1VISXQtZnFTMDJodTNCZURWaS1mckdrMDZvZU1PcXNlVWRHbTJUbllfQXFLZnNBUl9uTDA2R2JEeUI4V3NYNy1TWjlMNUg0THBDOFJuaXBCQ1dwbjlsZlFwaVNSTWpJYUnSAbABQVVfeXFMTXpOekFiMjIxdV9QelJZT2Y5NGtrQnJwWFYwdHBBLW1rNnRGeEZsdDcyV2I2NDhIYXppQnNydk5fNjFiUW9CcVRFRWUxbDROakxEZFFXVHVJRHRUQXhDUG5QZEQ1eHpqMTJNX2QtbVRXRlB5VDlUVm02ZkV1WF92RGhRbWE4NmU0RE13Z0hrYkM4czdES3ByV3ltUk1xdDlWV2dWQ0pLcTRhMGt6dXZNSVA?oc=5",
+          "published": "Mon, 26 Oct 2026 13:10:00 GMT"
+        },
+        {
+          "title": "Лунін став рекордсменом Ель-Класіко серед воротарів - Champion.com.ua",
+          "publisher": "Champion.com.ua",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaWNVaEN0SFUwa2Z5aGdNcVZ6bEZYSG5YbGQ0NC1ybkVOTUtyay1SdWhXRTlCeGNPYXBvSEVkWnB5YzA4bDdfTmJOOHM0Ym14eGJJTjN3STNDR2xCX1FaRkFPYS1yMXRYODV2c256NWNMUENZNXZoQ2taQjJvdWNycTlIVk1nVUI3OFcxVml5Y0UwOGRuMG1OXzlFb29aVVpFa05NeQ?oc=5",
+          "published": "Mon, 26 Oct 2026 09:39:00 GMT"
+        },
+        {
+          "title": "Скандальне рішення: Москва прийме ЧС з важкої атлетики - Korrespondent.net",
+          "publisher": "Korrespondent.net",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEphMEtnU0s0TmZqMkE4WjdSQTlCT01pZGplZ0hwdTJiNF9pNkxCNmRXeVd6T1RBVktiVEFtZlZkVG1XMGQxLXdKeWtJVzJUT0Zwc0dwZlhoYnlnYm16M3FiR2tfMnd0MUlTZnVUemwtM2FxV1p0SlJ2S1YzRmt6cVI5TTN1V01IUHpmalJQYnlnUW94Y3F5STRyUnpQRkFX0gGeAUFVX3lxTE1JcGZ5WXA2VWpYZ0h1OEZPWURFNVBONEsySzRrdV9xMWo4cHhkLW5Ra1hTYk5OajktT2JBTXRON1pDc1gzVF92bHl6Zkxydm9FcXNCMGp5QzluT1pMamNlMUhMY3lOOFpEaTVxX0xIdHU0aUlmMWpXWWI0QVBFUE5jNkJXVk1ER0MxbHZzRWp2X2JJM0RkLS0zcWZYMmRn?oc=5",
+          "published": "Mon, 26 Oct 2026 04:28:00 GMT"
+        },
+        {
+          "title": "ПСЖ Ліон – дивитись результат матчу 8-го туру Ліги 1 – Футбол 24 - Футбол 24",
+          "publisher": "Футбол 24",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNGNsQTNQS0NOQXlrMGJvYzVxUUNMZnhwQWgwbmxacG9aTTBuY1ExaUQ2S01CTzFnSkgtbkw0bjA2OWhyZmdDMDlXdG5yVmtaWTBNcWYtNGZyM0hUWnlNWHhJSFhjUENqRzFDeXdsT1F1NGg5RWFTNDBfMElXLThxOC1LM1hyUllhanFGNtIBkgFBVV95cUxPbXZJNjJBNk5KaU5JYUU0UEVSSVhGNE5uOTg5R21iZU5IWnZZRl9CRmZfek4xMnVrUHY1a1MxekE5WE5DSlNHcFpxdTVHeWp5bDl2bTVKMVlaZnZGZWF6dml1djVVeWxDMEZhelc4UTZJeVJ4c05TelRTUE9OSC1sQjQzVVZBbFphczNEblZPOHdBdw?oc=5",
+          "published": "Mon, 26 Oct 2026 21:27:41 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Безпілотники атакували Бєлгород: спалахнула пожежа - Українська правда",
+          "title": "Дрони атакували Воронеж: під ударом опинилися нафтохімічне підприємство та авіазавод - Українська правда",
           "publisher": "Українська правда",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvSGFrS3pGVnQ1QVcwNmVLUkNLdmZMT1VCckZoRUpRd3lqeVk5MHpVOUJhaDI3X1hwS0t3a01idm1qOVhRZWdOLWJ0UmVvbUlWVUVpTTJFX1l2ZWRLOHhF0gFrQVVfeXFMTlVSTTNNVDBzMWpUSEotemI2QWlxMFBFTTcyblVNRjNENlRMS3J5UGNVNTJOVktSZ1lId0VtdHZnWHFtQVFiVE5nNEhobGZfMnFxVFVvX0xDeUFBY0huek5wT0sxb1B4eWxudlk?oc=5",
-          "published": "Sun, 25 Oct 2026 05:03:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0UkNQSWEyU2hqRVc2eFE1dVF3aF83T0lMLWtzc1R3UlNBa2ZVU3NKZXBtMWNXQi1iVFZuYW1tTTVlYVhmSTR6WTA2b0hJQjlGM0czRGlpM1gxRllrRlFN0gFrQVVfeXFMUERmOVA4QlE0SGM0MGZQcEJrSDJWUmxKZFRqVGlmWHFlWG1LWkpxVFpwc1NkWWJEdVpOQXNEaU16UTN5Z3ZPWVhjMzJIbFRXWHVjdjhLTHB3RkpHSFlqam5md2JMTFdoeGhRR1U?oc=5",
+          "published": "Mon, 26 Oct 2026 06:27:00 GMT"
         },
         {
-          "title": "У Полтаві російський безпілотник влучив у будівлю торговельного комплексу «Епіцентр»: травмована жінка - Інтернет-видання «Полтавщина",
-          "publisher": "Інтернет-видання «Полтавщина",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Gdkp5SUlEQmZOZmNjU0c0SVdXamhncEFqeVRqM0xfVXFrRVI5RndyYnhVcTFxek1jUlowVWRIbFFFczJr?oc=5",
-          "published": "Sun, 25 Oct 2026 08:24:00 GMT"
+          "title": "Ворог атакував критичну інфраструктуру на Буковині, частина Чернівців залишилася без світла - Слово і Діло",
+          "publisher": "Слово і Діло",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVEJ4NWExMGFJZGhKMDhZdTQySXdhUGFoRVAzOFAzZXk4b0tpY2VLS2RqS0NkWDdaUFRLTGVfSFBPWENmNkh2My1oREVlMjk5S2I3SjFzQUFIZE1PY1RfUVhNYWw0VzVELXQ4RFpJX3R4dXdTejVFSVJJZ0FtejJ6ZmF0S0JFbEx3N0ZCVWNmbkI0ZWlYcE01S0FfcUFCdm93ZkF6SDR0ZGpJaTFrLUxJNmRKTnlxNGM5TldEUmIyV1dIVVNyOFJYazFEM3VHUnhYelRhOUowVFDSAd4BQVVfeXFMUGFpNHFzNEpRNFlFYXVkQ2hRMmVnak1hSTktZnJYZnpwSjNLUGhYSVpOazVfXzliMFVpR1ZUN3JadG9VaGY5QmRnZ29SVFRPbUpoejh5cXptUjZMbFdYTGZQVFJ2Q2FjV3JOcVVWZnlubFlyMnMyb25sSlVkYWhrTjRQd01nQlZMdmM1NmdXVUxSMUs5YkdCTW94bDJfT3N3Wjlub1l1OU5oS005aTZLQWdyb1BGMHlqY3ZOelJqbXdaTFhXQXZxNjNXU0ZXR2E2QlR1bTNQVFBVUkNFbFRn?oc=5",
+          "published": "Mon, 26 Oct 2026 19:35:39 GMT"
         },
         {
-          "title": "У Китаї масово переробляють нові відеокарти RTX 5090 для використання у серверах ШІ [ВІДЕО] - Mezha",
-          "publisher": "Mezha",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRlJwTkNWVkIxTWxINFpEdnhLNVB1TWo2anptSmNHSF9Ua0VmQVRMU3pNcGpxdHFQMWJQTDJRRWxCbWtJSm9zckVmM3hEc2VUdEhaWnFwaUNTQ3B1R2YxRm5jU28yZm1ZYjVfRkU2djFjT1pLclhVTVFWYlJKTXIwNk1UZkhuQTdVOW12eXM4LS1JbVNac0pxcg?oc=5",
-          "published": "Sat, 24 Oct 2026 19:30:00 GMT"
+          "title": "Як реактивні \"Шахеди\" долітають до західних областей: пояснення Повітряних сил - РБК-Україна",
+          "publisher": "РБК-Україна",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUE5N1BISUQtb21lN3NhZzZ3U25aMjcwU1JrZzF2ZDRyNHk4eWhOdHVfRnNKTHU4TUIwMlc3N0p4emcyUDd0a2g4NzlBMW5tZW4tcWdjNFZ1TUlUeHVxQnFjVTFnOUx1dEZqUVMzbVpIV1BncThhRHFDMDJyRF9WTGxGUFhsWnVOM3F4c25aZVpaaWRjRkHSAZsBQVVfeXFMTzFBYm9KSWY1YnhiZzR4dmp3WnhWZlZ1cm5QX1NZSnNwVE5KN09HcFJUdENabGFEb0ZqSS11TXd5TGNNdEo3eHl1Q1o3VnB0ZDJGVE43X2VSdHNqUktkV3pKeWZGVTFjX2J4cEFJWHB0ZGpDMEF3UFVrWm5zZ0lPdkRVa2ZEVHZwSlZKU2VxTGs4bmNlTV9ud3o5U0k?oc=5",
+          "published": "Mon, 26 Oct 2026 11:18:02 GMT"
         },
         {
-          "title": "Для удару по російському Липецьку застосували невідомі БпЛА: що показали уламки - 24 Канал",
-          "publisher": "24 Канал",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYmJpUV9jLWRfSTJqb3psRGJLaWZKZC1TSkFNU0kxLTdYNG1PaU9yaXBPQTBQUHJpNlNkT0tTaFFFT3JZellQWHdFUHBodTdaSC00TGpIWXEzZzdHdENqbHNHWnBqcWZaSmNPdFo1QkFYWms3N3lXR2k3ZzVRU244NDVnamw0ZnB3cmM4NHFPQU5UWmk0dTJ3dnF4MmU3bkRo0gGmAUFVX3lxTFBtczNTb0ZpUDdHa1FIZ25VN3hQTlZYUWRLQkRfaElaMjhpYnBGZ0ZiMVZxMGVhMDN1Rm1RazAyNjMtVTZvZVJudjg1cGNxYzRaNi1sdTdkYXV4bXJ3Z2ZmR2JMVzRRN3U3U1c2cjRMMUFreE9uLUNZeUo0QUlIbUhOUzNxR0NzTTVQQ1dZMU5wU2R1RnZod0FfR09NWDNSMkRhNG5CYVE?oc=5",
-          "published": "Sun, 25 Oct 2026 17:11:00 GMT"
+          "title": "Що відомо про новий російський дрон «Кощей» - Громадське радіо",
+          "publisher": "Громадське радіо",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVUd1VW5HMG1iQUNxN0lONlJCUzFVYkdpVU5kaTFVbm9DMWdua2ZzRVlGUnhpRm53cEtZNDh5b2p3OFRxZ0hCN3hFaE1GR0F5UHUwLS1GZC01d1VGQXNZQjFZbXlLTDVjcXRZT1pLYWhrSkZFVldhSU5UWGplYXh0NmNvLVFWLVR3T0h6NFdkMNIBlAFBVV95cUxOYUlwcjNjZlBqWkYzSDhYVkFpV3dyTjFCZXRGbDRPRmo3Q2xCTEVKdTJvLUpFSmFoYnBjTzZMd21HZGRDVUUzQXN1ZGE4Q1ZjVmgta0swZWRyVExTTm9FS19NQllEY2Z2MHZWTkRsQTBLZWZSbkhITUlySm9DcWdlOGYtWG1fbGU2RURaSjZhRWxoaTJM?oc=5",
+          "published": "Mon, 26 Oct 2026 12:04:10 GMT"
         },
         {
-          "title": "Колись грізні російські дрони \"Ланцет\" стали безпорадними на фронті, - ЗМІ - УНІАН",
-          "publisher": "УНІАН",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXBxaDI4R0swRTdsSVF2SlJ3Wm9SVnJvb19sdFpxXy03SDN5VF9SODlqcjl0ckI4V3ZuV1ZzUl8yQWlCLVlxVWp5UGVmWWhlekZKelJxc2ttX3M2ZGhuQS1PeS1wQVhMbWZYc2MzSXljVV9qZ0FzRFEyanJTM2hvdENfVWhfdF9fUWM4V2Z2YnpTT09MLVp0Umd6bG11V0dnNnQ0Y1NFQzJId3BGV0d30gHIAUFVX3lxTE1pWEd1cjl5bHFCcERzemlZblJSRHRRN29iR0NmMWNpSVVkYjNZZERncWpvclRjakdpS25pLWozTmU3NlAyTDhRWC1kb3Y3a2xQYWx4UDRyYzBFVVRNeEQyR3NTWFBmM3FxSW54emdPRjN3dFpIblI5RF9wd2Qtam9XMV9UcWd2XzVjZlNqbGhxb0JrQ1JDckJ2cHBnQkgxRVdQTUZtS3ZuNVR1b290dDEzbThhaHRSdWVnLXJNYkR5RVlmb0RHQVRK?oc=5",
-          "published": "Sun, 25 Oct 2026 18:35:00 GMT"
+          "title": "Проїхав 20 км після удару: \"Новатор\" врятував екіпаж попри влучання дрона - РБК-Україна",
+          "publisher": "РБК-Україна",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRmVWMDA1N0lXQ1BLUkhRMVR1SDJyVDRFM1lnYUNuNU13SDZfRkhNNlg5UHpoZ2RhMFFua1RjczBqdDBidkM4T0dVWUZUMTlJcENBTFNwc0JkdGlXZHZZWkQ0eFdmN3Y0RXZmV080T3ZJZGVxSGhweFNfMVE3WjAtd3ZKSlA3cTNWOHV2WkxRY25sTEHSAZgBQVVfeXFMT2JTWUVrRVJNQU85bGpNempDenE0c0kyRU5iTnFMNHRQU3BzV3dCTVZ3LXZpNHhteS1Ud3BweHd4MWZ3VndvQ0htSTZjaGRZZ0Z2V1h2d1pIdGs5WG1US25PT280QkhrTk9hYzhxZjlXdk5fODd1NmV2N3Q0dG1Gd20zWnhGb3lQNlBELXl4YTR4dzBFeXBOWnE?oc=5",
+          "published": "Mon, 26 Oct 2026 12:30:18 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Premier League VAR review: Why did Man United's Heaven avoid red for two-footed tackle? - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2VzZEZ1SXFLS1ZVY0pvdHZjMGxpLXNPcG5nZDc5WGFjbXMxN0hfcncyb3JVUUhlYTdjWVp5OWZEUHpSUmdtbmN1RHNSZ051cVkzbEtoOUV2MDg5S0FFZE94RDYzY2N5MF91NjQtcENhVFpNVllTdFlON1p0dFFUVkJrdl9fMDRFWVBnWXlrcThrbFIxeENDazJJdFZvcXhNS3IxVXJHV190ekZzUDF3ZERLZFBHbEFjLWRDbw?oc=5",
-          "published": "Sun, 25 Oct 2026 16:45:00 GMT"
-        },
-        {
-          "title": "Gianni Infantino says ‘vast majority’ of football back him, but talks with UEFA needed - The New York Times",
+          "title": "Why it’s easier to watch Premier League soccer in the U.S. than the U.K. – The Soccer Weekender - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDZST0N4c3IwQnNVWW9UVmlCUFBvZUltLWVXVy1NSTIwVjlnbXAyUENyc211aE0zeXR2VUdTZ2FzVlVjWkdmSkpPRWNsNlpKWGtOVkJxdkx6akQ5QldYaWxTVnp2QXhZRzJkc2F5X3RBU1F0OTZSd3pkejlRbnhXLTJKeE9NdkxQR2VIa2NzSm82aGszSFpRaEs3eWNvZw?oc=5",
-          "published": "Sat, 24 Oct 2026 10:57:33 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTUV3ako4M243bF9PY1lzdmgwdzc4VjJvajlLZXlWam1NOGd1NU1SX2V6YXpUQVRrb05YaVlPa1laODZrbVhXbTkyUjVyWDhlbF82TlVCZmFZMTFLeFIwYy1VRVlQQ2w4RnBQTDRGMWZkSEFtRUJNTV9vZXh1QUxhanlSZFNkaEtBZWhpekd5Uzkxc1hVRkU4eGFsZENNQmh2NnFPLWJ2Zlc1MzI3MGZsYkRDQks3SFlxRHdEZk9wUEhKU2o0Q0RLQ3c1NVd3d3pFUFZiQzgwN0VmTG8?oc=5",
+          "published": "Mon, 26 Oct 2026 19:10:59 GMT"
         },
         {
-          "title": "Premier League Soccer: Stream Liverpool vs. Brighton Live from Anywhere - CNET",
-          "publisher": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0h2TDgtQ01NWlF4UExpc0d5X3ZMSlhZWG9SNGFCdUEtX0VOTU1FdVFVVEhDelVIRGR2Q1FJQlJXeG1rZkNtZUZma1NfZno1eDlLZEdZeXdOS09CZHJRaWJxZXNBcHUtOVdqNkQ1YkZ0QXQ1R1RlQWJ2R3hrcWtrRFEtSndfcGF6MVNCTUluT1EwU0h4RW1SeWpWVFZYOG9XbkdiX3MtTVZTX0lLY2lJZ283bXJfVVhPc05uLQ?oc=5",
-          "published": "Sun, 25 Oct 2026 11:00:14 GMT"
+          "title": "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmNkQ19nam04OFBqWU9TbS1LNWw3S2ZyNGdveG1OcnROU0V6NDNaeHNrTXJsZzNBRWJqY0VBY0FZcVpaV0ZtUWRudTZEUHFvT1BHQWdNUExaMFRrNy1ka05NQ0trSEIzVVlGS0lLVWR5anc5UDE2dDZYQ1JxZVRYdnBzcV9GZmY2SjZiZFpsSC1uNm4xTE9SaHNoN0s4Y0x5QlBhWml5V1FJajFqc1ppcDZZYnjSAboBQVVfeXFMUHNYRlBjendvV2VJcWg3SUdUSW9SQjdNWFVIcXViSHpLRzB2dE50ZzFBdzZwTnFUdGgtVExvSkxYbmNYMUlXdHB4VGxITGlUbWc5MTNMSnkxaHRHUG9laTRwT0xYZl9FYS1NTmZrUERTRWh1eGc5YkJMc3pKWENkcFB1YlFjODBHUFRKRlZPaDRPTngtWkdscmJaUUJBbEhzUm5Od2ZOd0F3TlI0TUU4MW9UVnJWLVVublR3?oc=5",
+          "published": "Mon, 26 Oct 2026 10:01:48 GMT"
         },
         {
-          "title": "Wisła Kraków defeat Sporting 6–0 in amputee football Champions League final — Interia Sport - UA.NEWS",
-          "publisher": "UA.NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObExyR1Y5Tm94QUhhdXNQVW5SREljWnhvVFZtWU83dFVfUWVKS0J6blZxWkZCamlLR25pX3NFa2x4QW1JSW5oaHYtRU12ZUdxWGtTcjZzZV9jYU9vSGcwVTBHRm16TVEwcTY2cXNkNG1mbW56WFNsb1pqWVB5TDRvcHNTM01tWXkwSzA2SXR4aEo3Uk1NTm44N0dkQnZEU1JBY0FBQkpxbUJpNjIzQW9vUE9DOA?oc=5",
-          "published": "Sun, 25 Oct 2026 19:11:41 GMT"
+          "title": "3 months after the World Cup, fashion brands are tapping soccer stars like Bellingham and Yamal for partnerships - Glossy",
+          "publisher": "Glossy",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0NXdDR0QTJOdnNCUUVCcXFaZU5TM29CYnQxcnFFOGR4SjZvUHhuODY2d0RXZDZpRGZZMllFdmNaQ2NPeS1Xb3N4MVo5Q21Tb05FTjhsZG1LWjBCQklqQmpQZWZRTThKdDVDUHRld0pJVlp0WFhaUjIwME0wTjlKazgyUE1PSWgzZzl6OXBmdkZxSGlPQ0lyblVRRHJrQTNHVWZVVi1MTlV0ZmU3Q2xMbG11bExnZUg1WEYzV1NrWDZEN0dqLUZITE1IdEZrQ2ZNMkhtVFNWVUJzUQ?oc=5",
+          "published": "Mon, 26 Oct 2026 10:01:08 GMT"
         },
         {
-          "title": "Liverpool: Why are Andoni Iraola's side struggling for goals in the Premier League? - BBC",
+          "title": "England Under-15s walk off pitch against Ireland in World Cup after racism allegation - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVTRTX1dMLWUtd2swaGZ6TDNZX0RSZXVPRHduMVJZZ2xxYUREZDVlSEE3cXBaMncycG5mTEU4V2RPWEg4NWNPS3lPMER6dU9TQ29LTFIzYjM2RDYzUjBkOE5sZDQyd2ItUWlwdDlOVHc2X0pHN0hXSXpZdWdDeExDSS10SHg2MENtS1dlVTVsaE53RGpIUGVZNGRHTmxmenlEVS12ejFOMFlZX3hza1g3XzF3d21ZbnM?oc=5",
+          "published": "Mon, 26 Oct 2026 20:59:00 GMT"
+        },
+        {
+          "title": "England-Republic of Ireland Under-15 World Cup match abandoned over alleged racism - BBC",
           "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxV3p3dGNjdk1sZUlvdDZMUVlGaGZjV2FhNURMZDB5V3pMX1NhX05QOFhvdDRzVjBwRTItZjNTaTZHRmVoNWw4cTllblBkZ2luU2ZacXFhVm9oVXBqVkJLU3pBOUJVOFU5?oc=5",
-          "published": "Sun, 25 Oct 2026 06:26:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xRF9xSDBfWHdxNWhvNWZiTzFvelFsNTNLeWlJLWJXeFBNcV9VTFVnVFpFbk1YUjJxS3Q4M3dhcGZJZm1UMnJVYUxhQVl5d3RDODZjdUU4U1V2MXh4enZUMk15Z0dIVzd6?oc=5",
+          "published": "Mon, 26 Oct 2026 16:39:16 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "‘Clayface’ Beams $43M WW Opening, Delivers Paramount-Warner Bros. Second No. 1 Weekend Win Since Merger – Global Box Office - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhS184d1RxMzZwNWw3SDJmY1JGTndQSWNIaHY0V3JyanhzeTZ6WTNaaEhUTVh2MTJ4MHY1VmJhTjVKZFNUc3RUU2dsUzBPRmZNSlZObUprcU4wcW12RzZjc3dUXzZqbUsyVzNfeWxDRzNkc0NwTnc?oc=5",
-          "published": "Sun, 25 Oct 2026 18:15:00 GMT"
+          "title": "Elizabeth Holmes Is a Fraudster. It’s Astonishing What You Can See Everything Makes of Her. - Slate",
+          "publisher": "Slate",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1pDWkNjWmFrSnNLcExjUjJ1dzVRMW9aVzZFSkVuYUZpNWdtTTB2ZnFHUTdoWXFJMkpiQ0dNbllfRGVpQ3J0Vk9rQWZXUkhEaG0tNERFckFHRFFwSElXVHgwX000NExSWEpVSlVqTlRySWg2XzE4ZVl2cW93ZXUzdU5SM1dxUjNieE1PblhnNUVsUTBIZVo2bXU0WE9vQWYt?oc=5",
+          "published": "Mon, 26 Oct 2026 16:27:00 GMT"
         },
         {
-          "title": "Letter making claims about Meghan's father written by his first wife, BBC understands - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mWmxFQkQxVUxuSEQ4S1hCOXdheDZ4R0o1MUFrY1p1bGd5R0R2bV9tSnBNRWZkZzFkMi14UTRITS03Z19kSUh1LVJ2UlNYa3FrdWRFNUgtclhIckE?oc=5",
-          "published": "Sun, 25 Oct 2026 18:38:17 GMT"
+          "title": "‘Selling Sunset’ star Chrishell Stause cries announcing split from G Flip - Entertainment Weekly",
+          "publisher": "Entertainment Weekly",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDeDhLczFpREQ2SFYwMzdXY0ljMlBOcGRzMHBoMGZoUDgxUXRCbGhOVDhsRnZ4Tnc0dGdGZ2JPQXBDZF9mVl9fMlNreDdYc211RS0zcVprVWVMRkhYTV9ncVRrWUxnYi1mNkRUdUpETUF3VUhRRHYyMg?oc=5",
+          "published": "Mon, 26 Oct 2026 19:08:59 GMT"
         },
         {
-          "title": "Elvis Presley’s rights holders sue Anthropic, saying it trained AI on his music - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbG82ZXpUaVVOTDJpczU3NXh0WWRqV2VkbENhUVJBQTJKZDQ4YlFjeDdXemlvQU0zRllGTFpBb3ZjcElSVERQZmQ2X0paY1NzMXlBM0FkZUhST2FMc0xrOTBjTUtEWjNpNEFkNVZ1UG45VHlScFJTZkxBc1ZOR2s0UFVBYjRlcGNsdlEwOTAtNkRhbWl4VjdBX2FTeDRKYUp6NEhCNVJ4T19ZTEV4Y3BnQ1dyM01XZ1lB?oc=5",
-          "published": "Sun, 25 Oct 2026 19:11:32 GMT"
+          "title": "US singer Chris Brown spared jail for UK nightclub attack - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDBOLWdoYWtRbUpHWjYtVWRWMjVHc3BEQmNLNzdxMDJZQ2xYYk9UbHlFVVQ2Vm9rU2dlOG5UZlJUTVMtYnBSVWJ1YkN4QmN0ejFxMzZ0dld6U1VEdFF0V0tZNGhSR0l2cHpRVWZPanAxeXRXUzhwZWdnRVJ6T3NVS0hxdVUwYmw2a25VOFN1XzFRYnBLWmZncGpXRE42QUZ5VE5KdFN5WUFvY2pDSzU2VDNQdUQ2VWI3LUprTjJudjRQSGpOdnZXbm81SUE?oc=5",
+          "published": "Mon, 26 Oct 2026 16:06:48 GMT"
         },
         {
-          "title": "Tom Brady Dating Candice Swanepoel 4 Years After Gisele Bündchen Divorce - E! News",
-          "publisher": "E! News",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzJfanJuYk1xc1VXc3daeXhzbS1YOEhjc3BKd3h0RzRGOTBWeWFJMmZHVGhQWFZ6Zy0zMFhma2tuMFdxa2lWcU9yV1VsTjI5Sm10TWFkT2FKY1BheGdzQ25KZTJRUnUwQVBLRnhvMTBnVjJEZU9sYXZlaUgtdzVBc3RKM3dIa3A0eVdQakZOa2ZzUllGQ0hDSlg0eHRrbElTTjg4eXJyNE80a2RzRmRV?oc=5",
-          "published": "Sun, 25 Oct 2026 17:39:00 GMT"
+          "title": "Walter Koenig, Russian navigator Chekov on ‘Star Trek,’ dies at 90 - The Washington Post",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUlRSGVTQ2dOTkp4QWptQkg4TFpxZ1c1YzFHLUh2U2c4amt0TlNUeTB3NWNqTGxNWEVjWnRkRExLM1ZXN0c5WmFiQU5ieEloM3pCeWl3c1FsN19MR3A3V2ItQUNVT1RORmhGZExYZ3NNOUlXWkFlUXl0cExZTnp3c05zRTZWajhpU055Rzc0SXN2emRwVDZPMnBtU1dxNkFNS0RyeTY3YllLQQ?oc=5",
+          "published": "Tue, 27 Oct 2026 00:36:42 GMT"
         },
         {
-          "title": "‘Young Sheldon’ Star Emily Osment Requested Intimacy Coordinator Over Age Gap With Montana Jordan: “He Was a Baby!” - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWnV4SWR1TFZVXzJYQV9wV2tZSHotODNmNmtObW11ZE9ZNFc2ZktrcEFfV3ZVYzV6NHFPWGdDSTdzTXhQQmhrMHdoem9ESXdySnkybWYwZ2RsX3hoRDFYdWZjdHg4blRZbFhLeks2bkMtZFVuSGJTaFVyeWVjdnNUTU8wRDhfbUl4RnphMXVuaXpLSUlRcVhpS1M2MFJ2b3lVOGJsT2w0NExWUHc3QTBYQ1R4RDk?oc=5",
-          "published": "Sun, 25 Oct 2026 20:03:33 GMT"
+          "title": "All About Tom Brady’s New Girlfriend, Supermodel and Victoria’s Secret Angel Candice Swanepoel - InStyle",
+          "publisher": "InStyle",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQzJZbzRRMk1oNGg5cksxdHQ0T3dZQXpSbTJQVWtzYlpEenBveEtkM0tPT2pvTERMaFhVRGcxYXJBdm1GSjJyUHowdThtMnN2dU1telY1dFFTVlp2eGJhbW1QSFJTbHR1QlVmT2c2NUNNREhWTU9RWUo0d0REcXhRTGpKVQ?oc=5",
+          "published": "Mon, 26 Oct 2026 18:54:56 GMT"
         }
       ]
     }
