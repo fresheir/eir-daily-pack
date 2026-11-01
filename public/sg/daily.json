@@ -1,7 +1,7 @@
 {
   "market": "SG",
-  "generatedAt": "2026-10-31T01:26:22.246115Z",
-  "validForDate": "2026-10-31",
+  "generatedAt": "2026-11-01T00:42:35.618566Z",
+  "validForDate": "2026-11-01",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,22 +9,10 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Singapore braces as Indonesia slaps back at neighbours amid haze, political woes - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaG0tTWFDaFB3eElxZGFQQzBiZWJRaS1rbVBJQzRWYVZ3OFJmS3lkaURfQ1VnaGlkX0lNODlxVGtBRXRzdmgzRGR4RkM4azdZcFZjZXp4eG90UnlwT2hEaVZteG5fdGxLS2x1ZC1oVTlPYUQ5WkhEVmg2WmVyMkl3OGZQX21xSWllc0llTmw4ckJ5LTdwSkZ1WGNIX0hyT08wNlZVb2JHSGt5Q3dOSW1fTnVxdzI1WVhBM1RnMGdBRW12RTN5UTdJ?oc=5",
-          "published": "Fri, 30 Oct 2026 13:12:51 GMT"
-        },
-        {
-          "title": "Two arrested over fatal hit-and-run Tampines accident; man, 30, to be charged for dangerous driving - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0VkaV9TTGp3YzB5b2o3MVBNeXFROVNDMjlvMUFKVDJRUE04NUhHV245dEJHVGQtZ2JfUGt2bUNTSmR0N25LeHlsNjZOenM2aUYxLXd0a1lKbEgtZWxPUUQ5T1phc1MweXdkUVpyaEI4ZVpIQjJtUTdfRXNQOFZ1QXBITWhXSmlXU3c?oc=5",
-          "published": "Fri, 30 Oct 2026 22:31:00 GMT"
-        },
-        {
-          "title": "Lower risk of transboundary haze affecting Singapore due to onset of inter-monsoon: NEA - The Straits Times",
+          "title": "Haze probe: Five Singapore-registered companies agree to engage assessors - The Straits Times",
           "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSktza2JvMDMtY3Eyd0l3cWtKTXpGZ2ZkTm9TQzh5UU5xNFVXNTdhdzZfcWRJM256T1FiZnM1VHgwMWZCcTh2Nm1QbllOTWlIelhJcFBQVzFoSFo0TWNWcnhvR2w1WEt1UXFWUnBvU1VNLXNqa1gyUXVhdW9QTGU4R2JydWg3RlhfSGI4dnJCc0tVT09WVzRsWk96Q05rckE4YlhtNVlyTXlrbXRxdEtObU4wLUF5M0l3cHd1a2NTa3ktMkJ5cllGNkppQ3ZnSWdlZlhr?oc=5",
-          "published": "Thu, 29 Oct 2026 10:46:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUG9lQmNFUjlrQ3VPZV9SU2JweGVlSkQ2MWhZOHpqZG5xSWpOQW1JVDNYajQ1TkkycXhqQTBzM2JIOXl2aWU1b1c1Mlp5TE55S1U0SWdYZHV5ZEpYOHFXVERkLTdGb2tsQU5YOFhvSEoxcFgwNVJmV0ZiMDdUN1B2MDF3TzJsdUNweEFwM05Nb29CZmFjYU9HUzVLUHZ6X1VidFdQRC0teEdhOWpRVGI3QQ?oc=5",
+          "published": "Sat, 31 Oct 2026 14:53:00 GMT"
         },
         {
           "title": "Up to 700,000 volunteer opportunities for seniors to help seniors; stipend provided - The Straits Times",
@@ -33,10 +21,22 @@
           "published": "Fri, 30 Oct 2026 07:08:00 GMT"
         },
         {
-          "title": "‘Better late than never,’ says Balakrishnan on first Pakistan visit by S’pore leader in two decades - The Straits Times",
+          "title": "Fatal Tampines accident: Man charged with dangerous driving and fleeing crash that killed 2 - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0VkaV9TTGp3YzB5b2o3MVBNeXFROVNDMjlvMUFKVDJRUE04NUhHV245dEJHVGQtZ2JfUGt2bUNTSmR0N25LeHlsNjZOenM2aUYxLXd0a1lKbEgtZWxPUUQ5T1phc1MweXdkUVpyaEI4ZVpIQjJtUTdfRXNQOFZ1QXBITWhXSmlXU3c?oc=5",
+          "published": "Fri, 30 Oct 2026 22:31:00 GMT"
+        },
+        {
+          "title": "Haze in S’pore: PM2.5 reading in the west returns to normal zone after entering elevated range - The Straits Times",
           "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONzVIY1oxZF9rNUgzZ3B6OGFpSTZqSkh6RFBDS25LUDI3Q1NjSjVBRm9tUU1xNzFDSXBGcG8xaVlERXdfSHR4bkZjVW9rUEdWQmxaTUIzQnBoTV9qc2JXbVZfTGNuN0poTmpvQlhza3pCMlkzd3ZxNUhBaVU0SFhJdlhabWszZzRVMWY3UkN6ZHc0bG0zY1hnakJIamE0aTJmekpyU0lQMTVuNXJhWUwtMHRxYWhxeVZ3N3ppWUF6WkNTSm52QVlOS3plWHFoUk0?oc=5",
-          "published": "Fri, 30 Oct 2026 14:15:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWDg4bkZRalF3RjFpa19MNWtkNTVnT0dxQTViWl9wUVhkRVdHZXpNUnVoTGZad2xPNzFNZmh2dGxSSXdWSFUwS1U1MWFXY3VrNGJIRGhwcUMyMTlrZTRTTUF4aWlybkNyQTF1ZE9HSm1pdVJadkJWLU9pQkpFajNYbHV0d1dPT0YwR2JwX09FMXhiWU1sOUZNNU85ZzdJU1FSQ3lwYlpkVFpRNWY3VU0yRVVRTXktMWtPNG9fLXZhQnZvM09mWnc?oc=5",
+          "published": "Thu, 29 Oct 2026 03:27:00 GMT"
+        },
+        {
+          "title": "Singapore Indian Fine Arts Society moves to new campus in Bras Basah-Bugis arts district - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSVJ6Q2pTaUh2anBwQUZ3THVPUnlCX3Q2cFhPell1emxVVlVXOGVGNm5yQ2xwYmRYRU00NjMzMW13bDN2VEtuUFlmVW5hWW53c2IxZzJ4STIyaXVMY3VJZjdsZ2w0a3l5Rl9CU0cycm9kTzk3VWRYRFR6TDBSSDF3TW5UX1JwajV0MnR5a2xNelAzd2RIZVZ6WHdIUjZGa1YwMWhaQkNDUmxrOVIyeVlsRU0tM28xOVdRVk1jUHdSMzBXZw?oc=5",
+          "published": "Sat, 31 Oct 2026 12:30:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "‘Unwritten rules’ become newest target in Communist Party’s war on corruption - South China Morning Post",
+          "title": "Who will triumph in Melaka as 79 candidates battle for 28 state seats? - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3Z0OWswYk9GQ3piUFQzSldDWl90QUdOelJWVlZPN0xUTXEtUjVfUlJpM2w0OEwwZTg2SXNVWHNyckNxLVlma2huQzg1SEMycmFmLTNYZFJCUDRfQUp5WGM1REN6UjdoRFgxTkZFdWdXWjlTMEpyYkJoNmZ3dmhNSVZNQmZXTDVlOEpraTRfY1NfdnMyTk93ZHhMbzlaTjVUWjQxcU1SY2tDbEpjRDc4RA?oc=5",
+          "published": "Sat, 31 Oct 2026 08:10:00 GMT"
+        },
+        {
+          "title": "Melaka state election: Anwar's PH, Muhyiddin's Bersatu avoid clashes in 4 seats as candidates confirmed - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZi00X25FTTA1QTd1WjRTMGpacldQZXg0X3RTdExhMm9TMlhPY29QMjRjWlRLZHVqVF9CTzJ2VVBMVUJoTU9td2NYby1IZnliXzZNSlVHYVZzZTZJaDVYRk9SbXg0dUR3a0xyejJvTTVGOEk5blpweTdIZW91T1QzR05QMG1pYllPTE1sM2l5U2hpaHdITlVLWg?oc=5",
+          "published": "Sat, 31 Oct 2026 06:47:41 GMT"
+        },
+        {
+          "title": "Soft power on display as China’s first lady Peng Liyuan hosts German counterpart - South China Morning Post",
           "publisher": "South China Morning Post",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMVdySFAxSlNxOUR5TmszWU80cTRkQjVwTVllQmxKdzJvLXYta3RTclNuazFTWFg3X2x3dnZ4RFVBeWFmNVdCS3BDNE9MTkJlQkJpYkVid1AzT3ZyZ2w0RXdTcFRIVW1lS1l5bmZ5emJKb2VfZlYzaURNeDBtVzBSeXJ3aGlCQlJjeVJaYWtEanJEaVJIcDY5bndIVUV2TDl2c2l2dUloWWpkeG1kdVNWMENMeEtkYlFmaml3MElRb1R4RFXSAcMBQVVfeXFMUG1SRUtMYm9ERzJaNW90ZS1BbV9rbTB6UWN3MVhIZWlEN2FiS2RsOFRvNUtIMDFNZkpySXJtNkJNOHl3YzFvNDkzZ1dhWXd3OVZRNWNrak9NNU44WURHNDloT1FHTVAtZWNCcFVtRTFhS1lSYTRjQTFmUE9ydzQtU3lXcEdubmRPNzNkVU50RXJnbnhaX2lyOVoyaDBrRHV5RllnMWw3OHUyRWoteHNBaUI1ejVWRnowNjd3VEJuTVhJbi1V?oc=5",
-          "published": "Fri, 30 Oct 2026 05:55:49 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVTBxWGRfRjVsYmFBdnJ2REVFcGROZWJMM2pWUFB4YTZpMzU5NjBiejA0aERHVFgxNGIyZUhKY29YWmR2MEZya3hreENLclM2QXVYVFhzN3I3bmxCQVJnSXJPWnQ0VDJBN0NTN2NReV9KVnZNcUJZb1FLajkxUlNGR2l4YjY4UTZ1ejVFS05CRzB2WDhWMVlic0FnZ2lGM2hDbFlMRnpYcXNsRFV3RHRINUhPRHhWY2haRTFFRkE2bDFCdnYweG9uemg5c9IBywFBVV95cUxObng1M3RpdHF0dEYzNzhDZzBWT2NWVTJZUWV4cWExQ2Q3aXkwcVBPSHBkdnBHYzhBVndEUEhOSTR4SG1vTmxNckZUb3NtMmFTQUtqUlB2RjByeEh0cU1YOVJtSjlGbXRlS3ZjWWxsTnJEVGZ5c1c0OHVqaTZnZTJ2QWktNmhBYWM1dGxBZzVFNWZheWtrU29qNHdTUF9rb0NhM1NwTTdDampmQWhrRFpOZ3J4ZzMyQ3hGcW1oR1c3QktzRVZyNzM4RmRTZw?oc=5",
+          "published": "Sat, 31 Oct 2026 13:00:06 GMT"
         },
         {
-          "title": "Melaka polls talks expose fault lines in Malaysia's shifting political alliances - CNA",
+          "title": "Malaysia wants to move away from Waze. Will drivers make the switch? - CNA",
           "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTWdmd2lmQ1dISDBGa0hDQlZVRzRQRWRyMDBhRXhBZjNDbU5IVGttdFlFVUVLczV6clFNcmxZQmFxTmtBMHBaTDBseFFNUkFKUFVUQXJ0SDFZSEdKWWFEU1pUdGcxYnlKMGRuRnRibzVmVlVKTjlBN3VYVFJ2M3VlZ244MFBlUXItQldJdXpnX0E2NnZSWUYzZGxOWTliNUtfYUt6WnZQRm9YOUFDWlp1aEVDVnpiZHhoZE13d3JfSFJZOWtZWGZOZjRmQUhVbGRudlFEaXVFajBXRW5FWXpz?oc=5",
-          "published": "Thu, 29 Oct 2026 22:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDFRR0xNSWxObDNERldJWndtZWIxbHZhZUFBYUFuY3pEaTYxbDl3QnUtUWx1S24xcVlpYV9EQkJCR0Zid0Y4Y0VCUTVrcHB6OVpuRUlheHJGZkszeEFwX01rUjhfeWxsVzVPZUJIQTRVVjZYcnJ1MHhDdUZwVzg2WWgza3ZRT2lmd21UWHMtZ19xZGJ4eEJJ?oc=5",
+          "published": "Sat, 31 Oct 2026 22:00:00 GMT"
         },
         {
-          "title": "Who is to blame for Hong Kong's deadly 2025 fire? - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbGh3elhWSDF2Wm1yZEdQdFcySGwyY1dJeERZR01KNUtWTTdJckpMbU9SWThKRm5aTGVyU1I1ZmRaa3lSM29jVGlHbUdqMmk0bVUyNzBia1FyZWY2cnNiaktiT1pidV9aNy04N01ZQWJGb08xenp0bVVQTzRPQ3p0OF9nNGpiRjNyd0xkNm9tTnBmZktoYldSZEVoMA?oc=5",
-          "published": "Thu, 29 Oct 2026 15:14:25 GMT"
-        },
-        {
-          "title": "Muhyiddin says agreement to support Anwar on key parliamentary votes unrelated to Melaka polls - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWFvcnJQOTE0X0tmcklDbzBaOTZhdjg5dmlqR2pTQlk0VVZ6XzVLaWRJZEZuYXdBSlNYR1Z4clJqVkR1S3hsRzV2WjhCTmhPdUlrNWE0WXdudXpyWUlCRGdEU3gyOVNrYlQ4ZFFsWWlWaWFSb3phenl4TEMtR1pUUnRFV1Q5Vm0zNm1rY1RR?oc=5",
-          "published": "Fri, 30 Oct 2026 04:36:00 GMT"
-        },
-        {
-          "title": "Hello Kitty gets caught up in Japan-China spat - Financial Times",
-          "publisher": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVVmMThieUJydnhnaENpczBTRWNrdHN3UTFvc2NxcFloYWgyU2tlNE40QmNBOEM0SS1qU0tTQm8ycG9mRGMxVkdNYlV3SlpDQV9MN3gwblhoNkgtOGNmV3N5VWZsaDJ5ZkhCT2JUckRZSVloLU5pZzM0S1A1UU9xd1RrUGE?oc=5",
-          "published": "Thu, 29 Oct 2026 06:05:42 GMT"
+          "title": "China poised to restore military presence to top leadership at party congress - South China Morning Post",
+          "publisher": "South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNWFEME03RXJWTHZ1SFZlTVNabEpFR0wyaThWbVJtanhVRmNNZ2Q4Y3hKQ2xxSm10OE5HeTZ6X2hab0lyTkkxdWNDd3NUc3Nna3NuOHVBemstdGNZRVJaNEF1SjZMMms4YURsTEpCMGQ0cTlxZ0Z5V0ZKTXZPYXJ3OERiR2c2OFR6VE1kbHhGS3Zidkp5aHhPc1ZnRUdoUWRKaXZxT0lHMjZOT0tWX1NiY2t2Q0pwamdpOEVXZHNKTGZXTXfSAcMBQVVfeXFMTWJMNmZOdGVSb2xpQnBVSmtjYklQaFNzanZDNDlsVVlwODE2amNmcDIwekZwdkEwcG9NLTliRjQxZDkzekpRSmlVb3Z0OVFuQmsyRW1CMUZVa04wSEswV0ljcU41VUV0aVBBVWJ2c1ZPNW1qX1FuSlV2cmp4bVVxa2dYc0FkaFhEN0RSRDMxVVoxV1JUeFZ1cjllQWFHV0ZiS2JIMldpLThKLWJnb3pvS0VxTFRuNlRxUlpNWldpSkNWRUow?oc=5",
+          "published": "Fri, 30 Oct 2026 12:58:56 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Vietnam to overtake Indonesia in per capita GDP in 2026: IMF - Nikkei Asia",
-          "publisher": "Nikkei Asia",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTF9adVlsVDVndVV6T1ZsTW0wc2gzLVk1NG01LW5xQjhLV3R1cnFPUURkcFluczVMMkRXcThqQ211dkh5a0hWUW0xWnFDY1pBQUdQSWwyN0RkazR0dUZPX1lHbmx1ZW5pNHZLclFBRk56WXNuMnB0eGEwWXlqaUkyZ0RqQ0ZNOUNNSlRuU0RrdU5Sb1hfZUE?oc=5",
-          "published": "Thu, 29 Oct 2026 16:23:00 GMT"
+          "title": "Vietnam set to overtake Southeast Asia's largest economy in GDP per capita this year - VnExpress International",
+          "publisher": "VnExpress International",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY09GQk4xUDF0VERYbENrX2ZJN0ZZdGJMVUdKclJPb2VBYnlfb1BBSy1ZbmJEQzE0M0lmb21VWVFJQWJQMTU1ZEFZSzFCR0czVlZxWHFVVVl2ZEczdV9vckRtdkVCTFpyMy05djBmY0pvNVQtYkhZaGh3TExLZFVkSVh0c0RTRUJSOVlxNUtXbEx2WXBWVW9ERThCRmNONHBoSDMzMXQ2YUtKaUFfYy1aLW03Qk9WUEtkYVRWMVVfUXZYU0Y3OVI1RC1FWEh2VlBKOGRfSjlCQVNGems?oc=5",
+          "published": "Fri, 30 Oct 2026 23:59:46 GMT"
         },
         {
-          "title": "Hackers allegedly from North Korea steal US$6.3 billion from Binance in world's biggest crypto heist - CNA",
+          "title": "Crypto exchanges call for quick moves to bolster defenses after Binance heist - CNA",
           "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGcyR0oyT1gwYTh3R0hoWFlCdWxnYW5HQW5PbmVONnJqVHFFcFZEY2V3U2NSQVBWSGlTMl9nTGtiMEZEbHF4X2FZd3I1VGJPbTg3eVlJdXl4ZEhrTGpTUXRvN1gwdDF5bDdkb0NHLU96UXprUURQSUtWZ3pGWGtJWHFqMFhwNnpOOFRIeHNySjRfeFpQZElLQmJ2c1ItSVZVZlc5by1YekxDQ1NuWEtlUA?oc=5",
-          "published": "Fri, 30 Oct 2026 15:26:04 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVlpmUEtucERHNkFaYkxUZHFndHJ6ejFCU3lEUVh1SFBYMXR0Ni1lSWs4bXh0cjlkTVB3MDdiWkxFbWx6YnpSR09lYnppdmlVZ2RBQVFjWDJyYmxOX3p6N1g2NTFvTW5pakZXY3JBd050c3lkQ0hHV3daUVJULU4zZlFLd2VYelh1M3JwUC1KMlpMRG5PLUZRNFJNeGdtYW5tTWtEMFJPTU0tSUNtQmJVTF9IbXhqMEp2OVNv?oc=5",
+          "published": "Sat, 31 Oct 2026 00:26:58 GMT"
         },
         {
-          "title": "Oil Climbs on Signs US May Resume Military Strikes Against Iran - Bloomberg.com",
-          "publisher": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbV9tbXFMMlg1cjY2NzhHaWxOS1Y0ZFNYcGhWRFg4RTE1YzhrcW96UDVLdXY2QjNTVG5aajd0ODRhQWVZSFM1X3ZCUVZTbzZpVXhna3F4eF9jcm5aT0ptZkZ1bXRnYzA2TkV3RWNGYm5ta01xODdWRzU2Y1lpY2pHQ1ZCX3hkbDAxcktreEtWSWVWRWV2S2ZMS3BhWGs1QQ?oc=5",
-          "published": "Fri, 30 Oct 2026 20:33:07 GMT"
+          "title": "Rare, roomy and pricey? Inside Singapore's niche jumbo HDB flat market - CNA",
+          "publisher": "CNA",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRlEzRHozc3Y2QW5hMklQOXFyOWF6QTY4Y0hrak9qWF9fSmF3V1psTDl5RFBaQWlZOXJOWkFUVUdTamFGRjRuUEdBX1ZpaEF2OGdDMmF3X2ZpbG8zMmNLeXdJd0hFSk40eURqTGhhN1MtM0RHTEJmaERwOEFHLTZCckd1QThPcVFhVXVPVDF5Yjc3a0xwdTRoU3V3?oc=5",
+          "published": "Sat, 31 Oct 2026 23:17:51 GMT"
         },
         {
-          "title": "BOJ Says Japan’s Inflation Trend Hits 2% Target as it Holds Rates - Bloomberg.com",
-          "publisher": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnhYX2pTREQwTVpVRkliZlptQl81YWowMUtRS1VSYU5nN1BsR3ZvWjlxMTkyVXk3Y2VuMktGR2k2M3AxTTQ2dmo2aVRBRlNreHBxb1pFeWtIb2VzbW56UHpsRDEteGVJTXluYmthbWVWWVNWaWpMcmduTDRMMXRTdjZuSkpHX084a2tEblN5NDVLVzMzTmVuRE9SWWV1TUptN1JWOUYyMFU3OEp0WEt6YkhkTHN2Zw?oc=5",
-          "published": "Fri, 30 Oct 2026 09:11:30 GMT"
+          "title": "Vietnam's largest airport Long Thanh to open on Dec 24 with up to 366 flights a week - VnExpress International",
+          "publisher": "VnExpress International",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa29kbW5RM3RZR1dPZ3g5cjdGa085bXBsVUw2SXhhT3ZWVjZoWWJfLWw3dExUdWZDU2pHMTh2bTRBYi1raEowMDMxaklIc0syaXY4bWJ4YzZyWmNrNDlUSHJXZ3l6YjcyMnJKaFVzck9oZzdndU1iZkRtSTROeU9BY3FxSldmS2xkUWpaVF91NnZEdXo3MmhYd3d0OUN1eDJETGdzdkRSMlVlTjZYTkFNQjhWNlFYdnFKTFhwc3l1TmVUcE4zWjFYbXpad1ZuVHB5UkE3djFR?oc=5",
+          "published": "Fri, 30 Oct 2026 23:17:33 GMT"
         },
         {
-          "title": "Private-hire car loan curbs unlikely to bring down COE prices immediately: Motor dealers - The Straits Times",
-          "publisher": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd3lCQXFyR1c2REpQNDlCOHc5Wk5lUGpjeGVpLVM5cXp1N0dlcUdoaEJQcVRyS1JaS2NPM2dOTld3STRNZC1LUU9PTm9aS25FNWwzcE14elktVTdDZnFLX2c0MTdybGppdW8wYm1jTjdGWGh4Xzc5R1JJaTFsUG15S1MwNXVHMEpocHJGSEFmZWxSTWVsU2lSc3oyeVJjbnhYY0o4c3hvRWRtU2lvOHdBRzU5SjEzUThjUDdHN0hWd3VoN2FNelBSZHZoYlNJSENMVHc?oc=5",
-          "published": "Fri, 30 Oct 2026 13:50:00 GMT"
+          "title": "Thomson Reserve launch sales hit over 90% or 1,143 units at average of $2,900 psf - EdgeProp Singapore",
+          "publisher": "EdgeProp Singapore",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcF9qVFNTUXN1TE54c0g2bUxOSXU2UUlqTlYwMGtUMTVQZ0Z5aUdfT1piRUlVSVZuekNnLVZ2aXhTNHlaUFpxUlJ6YmdtU04teGdkbHJVRjF4bnhybmNaYjdzdy1STUctZ2J2Sm5uU0pkQ2ZoamtJR2dhYnUyM0YxUjZ1NkZubDhvODA3SXhSSnlyelZOMEY3bVhDMHV2bXVuNFZIWnNQT1A4d3FWdGc?oc=5",
+          "published": "Sat, 31 Oct 2026 16:08:31 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Xinran Sun, 16, becomes youngest player since Coco Gauff to achieve this feat - Tennis World USA",
+          "title": "Carlos Alcaraz downs Daniil Medvedev in Vienna, reaches title clash - Tennis World USA",
           "publisher": "Tennis World USA",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYzFRVm41cEluQ1BvUWxZQmFxTUk2ZVhod1FJV29yNmFqVzdQcElKdWlNQmtmbUNoVnY3Y1FGM0hfWlgzYWRuVmlINTVtZFRTTVJqMlM0Z1VwRDdIczM2V2R6VzljS2lFTEJ6SW5MVHcxU3cxUDFBTGxiaEhnR19ScC1yTVgzTUREczBVbXhGUjhmRDlSMUk4MDBJUFlCREpjUkpaY0JWbGUxU0xGQXJqSE5zZkh6WnJFVWR1MHZ0ZkMwSUwtY1REMEF0Tk5OcVdvRmRz?oc=5",
-          "published": "Fri, 30 Oct 2026 09:25:50 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYnpjQjlPcU1wZ1RYdFcxVUlQM3doQWJ4d0dmbmhpRjdoTGZWNE9HYVJQZ0g1ZGt5Q3JuelJqbzd2Wjc3b3VQNF9yYjl0X1hqUHctU1NIeUxmdVk1ODRqWUZEanBnSTQxelUxMjk1U1RFWFBDdGUwV3gyM2pRaGpvekxWNEFBeXVlRzFuQkRKMHFCSTNjckc5VkpuZTZ5MlZOUEdURTZuZHQ3Yk1wbVFtajdSME41N0ZRMmhVb0ZpcFVXUGI4UXVMWXNMaC14a3Bla0tLMHlFbEM?oc=5",
+          "published": "Sat, 31 Oct 2026 16:04:26 GMT"
         },
         {
-          "title": "'Making history is a huge honour': Singapore's first WWE wrestler Dante Chen on his journey and what comes next - CNA",
-          "publisher": "CNA",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV290eGFWZXJLMEFiUXlWLXZsNGV4cktnWVVPeHNBLWxnNVo5dVk2UUVjYmV5dnBSYmJyOWFzMng1U1RKMTZsQUJvUFFwdTgySW1MRTVPMVZadVJEbjF3T1A4T0MxWFd0SF93ZnpPeUFQdVRkM3lmSXJpNHVQU1NsMVVRVWNfeFdhZzFETGlBTkJFR1k?oc=5",
-          "published": "Fri, 30 Oct 2026 22:00:00 GMT"
-        },
-        {
-          "title": "Cody Gakpo On Chelsea Win and Return of Anfield’s Energy - The Liverpool Offside",
-          "publisher": "The Liverpool Offside",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZHlld0h1UmpJQTl5ekcyc3BsRzg2ZXpTb09YSWpZOHBQMW5qMnNoenNTTVdPTlViSnhqZUdSYmlCZGZxY1F6Q0Q4UW9XdUY1Y1ViYXJvY2VOQWx0M29UR0c0TXpzRFVIRDJTNTUtMVRCbTVFOFlNdmJGalNVejhNOUpiSGM0MWZNVHcyU3JNN1hsS1FJanlxTFNjQXBjVVBzZkoxLV9mYWlaWVdwOGVzQVlnQ2d4SGE5ZF9BRkdDMnJaWVBxRGJkb3pTYnZZdw?oc=5",
-          "published": "Thu, 29 Oct 2026 13:01:45 GMT"
-        },
-        {
-          "title": "Mikel Arteta warning to Max Dowman after red card: 'We are not in Disneyland' - ESPN Singapore",
+          "title": "Man United's Michael Carrick brushes off talk of Premier League relegation battle - ESPN Singapore",
           "publisher": "ESPN Singapore",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDFCMTlhNmNXdTFnbGFZbFdoYm9wZmNrTGRSRnBsLWc0ZGRoRi1LYTN5ekdqUkpQUXQ5NTNRWklfTFd1RVMtUmhCM2pkZ0FCcXdNMGM5ODBwcm1RV3JHcEQxVTNwY1BkeGdRc3kxMVg3Zm9mRUgydlFXdXoxMWw3ZWhhTnEtdGpZYjB6SEFqanN3VTdkWjh6U0didlJYRjZqWHFDcC1DYVp5ZFgzall1VQ?oc=5",
-          "published": "Fri, 30 Oct 2026 15:50:08 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHBXdXJfSWN6d3YyZTZxaWMyRzN2c2hRMVNSdzV1WnI5emNDbmZONDBFdGpCLTlhN1Y2VlVXcV9Ka0NCRl90VlFhc19Cb3hQejZRZERSTlpfdVk1dnFTTGQ5X29xemRsSU42Y0lqUExidGhFZDdUa29qUlpQX1RJdWpoZ3Bjbm4tWVIzaTRqX0dBcXBjZ2RjdDlQYkYtNnU0c1Zqcm84aVB6b1cyLWUzbUh3MGJOQ1Q0MmRmVlVTcGc?oc=5",
+          "published": "Sat, 31 Oct 2026 16:15:09 GMT"
         },
         {
-          "title": "2026 Ballon d'Or results: Kane beat Mbappé by one of smallest margins in history - ESPN Singapore",
+          "title": "Man City 0-1 Brighton (31 Oct, 2026) Game Analysis - ESPN Singapore",
           "publisher": "ESPN Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSVBEUVNfeUYxV2l6Skh5SWFaZXNkSjlENUpIMnhJRENaS2hFVlplTi1PMkhUYllwVDRqN2kzN1FfU25DeWFyYUxxNF9xYm9wMEotNWtCYUpyV1ZWZ3VOUU1Cb09QSzlDUTZTYUhQY3Rpdm5xMk1hcGs2SnhCUXNlUVEwR1FOUnJwZjYtbm9RSGU0RjJ5ekphcXdKcFBacjNJUjNDd3YyWnJxTGs?oc=5",
-          "published": "Fri, 30 Oct 2026 21:12:17 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pTzZtcXBTUnA1YktYRFV1dExTbUx0M1FpeUFaTFNqeEc4LVdRWGhBSkpsVFo5VDRsYktjeGJTTDF0VFVFMXh6bkhVRjhFTWJ4MjdzZWdoQkxYT191NGN0Q3RvUVVvNUtONWc?oc=5",
+          "published": "Sat, 31 Oct 2026 17:10:10 GMT"
+        },
+        {
+          "title": "Tottenham XI vs Crystal Palace: Starting lineup and confirmed team news - London Evening Standard",
+          "publisher": "London Evening Standard",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ1hUOFA1MGlzbi1xNVZSMXhaZXNFT3JOd09OcC05ZXVwVHVmRHpReEVQMTRUUll5UHRzUTE5ZjRqUmxMTUk3MVlYcUJxZDY2ak4xZzFJVnZIOGpJRWVPLW5feVN4M2FwaFlISk5pUVJKWDNzQVVqSGJnNFR5eXdWVEpIVXdkSTktaVgwNjc2NlY5RWh6MldRQTZrLURlZEUzb0VnNHpUdURFd2lVNk5NQjBISjRNeG1waWx2TGYyZGhYRUE1dkM3Vzl6dm8yWTVTWW50WldmbldIMHZtZG43Ul9uYmQ3SjNURjhmbGxTYWxzeFNG?oc=5",
+          "published": "Sat, 31 Oct 2026 16:17:49 GMT"
+        },
+        {
+          "title": "Evo Singapore moves regional fighting game tournament debut to January 2027 - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0NwWFN2bTFNcEhGUVoyWXRIbFVWcTZLSlJaNFRMTThYQmRKVDlnaVc5UlZEdmVIQ09sSEdsS21KUXB3ckZvamlsUU1fTEdKMm1neld0dzY1TDdvUVVnVk9TNk9KLUlyWnVmTmZaS3VOakhhWVFXUVgwNnhuTlhmVTdSUU1SbHJKTWhTYm1taFZTcW1heEhPLXZxWElDU0FUM25XQ2wzM1BEUEJrTjVyTg?oc=5",
+          "published": "Fri, 30 Oct 2026 12:38:00 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Silent Hill Townfall Tops 42% Physical Revenue Share on PlayStation as Horror Grows on Steam - TechPowerUp",
-          "publisher": "TechPowerUp",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUDlhdnpfU00wU3NSYmpiNnpEN0pRbVV5a3U0RnNvZE5fUXp3cGJ1ZnIxS2psWGd3WHRwQ2c2NzBwdWN5Sm5jNEFTOFZZVkdVLTVRWGhKZ2FoSk9qSTJndWJUdXdOYnVJLThIT0lrOHN0ZlBpRlhJR2c3by1OclVfem95NTVqY1MxM1hEMzEwTE14ZC1IQ0pobERFckFpNV9MWC02MUVyeWRsSTlxNVVQeHkwcEo4d0dkTkx4U1BZVnI5YkdW0gHKAUFVX3lxTE9QMVRPV1EzcF9jLTJZVjQzZkJRXzAxNVZJSnE1TEdXSzREdWZ2MHJLYVNoUXgtQ2IzWjNzUXVtNGFOQzNBX2Vqa0tiaG4wNmVldzBTeHgwUk1FTjZ6OU52eTdMTW1YSlpidVU0MVRaYTExbVl4ZU5vQm9WZlVDVHRXNzUyQ0ZscElkRHVNbGtaRkdCaWtKNHBjSWtBMW9UcDdKTE1GT2JkM3BjOVI4d1VwZC0xbThubkFucVQ4M2ZWcmsxOTZtT2hXWnc?oc=5",
-          "published": "Fri, 30 Oct 2026 23:08:36 GMT"
+          "title": "‘We’re doomed anyway’: young people disheartened about the future are splashing out on the present - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV3lkNzZWaUhoMWN6a3M0TE5mWktlZjRnb3FNR2VPNEx4S0xDVjFvbXEyeW9meV9zSC0zY2NNTld3YWlFUjh6QmlfOFZuVnUtTGw3dlBxNVM2Q0V4cDBoNDk3S0g4aFRQSllyamkxWUV6OEluT2tISUJvVFE2M3pJY05PYXpkV3BNOG1EMENlV1ByeS1nMUNhWkcwckpzLXNiYzBtOHRnbUdNYVA3MWtURTNVU3JsTkJ3LUZMZ2VQUzlmdUR6NzN1N0RFYk5JVHRHMEpNQUk3LXNoVDA?oc=5",
+          "published": "Sat, 31 Oct 2026 23:05:00 GMT"
         },
         {
-          "title": "Leica Wants to Change the Way You See - BLLNR.asia",
-          "publisher": "BLLNR.asia",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WMkJyVDc0Rng4eVMtNXRmakIzRklONm5hZDZOcktMVzZVTC1tNE92WUpaQ25JRWV2bDdtOTQyTHVxSHh3UWl6bDFxc2hTTHVsSWphTVVGaWZ3LVlZdU9lUFBDN3BaQ0hQX0VlZFlVS19EWGlYNFkyakt3?oc=5",
-          "published": "Thu, 29 Oct 2026 05:14:38 GMT"
-        },
-        {
-          "title": "Hands-On: Up Close and Personal with the Splendid De Bethune DB25 Digitale - Monochrome Watches",
-          "publisher": "Monochrome Watches",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVllV2ZLTWN0a1VwRGNRVVJORmFicVlGeE4yZXB4OGpoOVZlTkg5UHQ5cnlQTUxfa2JpeUJiRUxxdW9MelpRUGl1Q2FwaVUycHE5S3E2WjAzY3kzWGN3RWMxYjVuby1ZQXBIcno0enJIUGItNGJ5TE1LUHpLUkZvb1NVU3Nmd25BMXc?oc=5",
-          "published": "Fri, 30 Oct 2026 17:30:26 GMT"
-        },
-        {
-          "title": "Delta Law upstages industry giants - SMU Newsroom",
-          "publisher": "SMU Newsroom",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yYWl2WXdaRU5uaDZVYzRsSTE2Z1Awdl9yaUhJZ25TNUdxdlJtLUFBVDVsQlBtZHJrcG0yTHlUVjA4T291Rjk2dFUtbkttOEZCWFRfRGFvNFlvWi1OS1N1bXV2Mmp1elVGQjcyZWNYSzVBcE5xalRqQjF0X1ZyR1U?oc=5",
-          "published": "Thu, 29 Oct 2026 12:00:00 GMT"
+          "title": "Delta Law upstages industry giants in insolvency and restructuring law - The Straits Times",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTJEc0NPMUpnN3M4b2RQZHQ5bHBfSlhqSGR6NHBac1ltOTFjTmMzVVRHbTRFUEQxTmxfRGNXbEdWX1A4bDl5aTNWSmtra0duTkZSRG1sWTFUbEFuVWNIYkpZV3h5Zk5QQkFGbnhFWVM1Z2lTT05WbXpjSFFwbzJNM3VVYVB2c3BvakdYbVVYTHNMd3pLenVDQ0J2c0VaUGVUNl85NW4xZWx4S2FnalE?oc=5",
+          "published": "Wed, 28 Oct 2026 21:00:00 GMT"
         },
         {
           "title": "Youth-led accessibility innovation takes the grand prize at Tech4City 2026 - GovInsider",
           "publisher": "GovInsider",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlZsODc5UHZnT080elEyX3doWjZJTDJHMTBzV3Z0UzUzd1RzOTZUZDdGYkxCR0w3eDA4YUR2eUxNMENOZjZGRDA4eTE2R19aVjZoWnlUNUZzTXJqQlFKOE9MdWVmWGkzenZ1b1JvTHBGQkZ6TmVONC14emQxZDUzR1N4Qk1KMkdRdUR3NlpCVXZuT21BTURGamhLVms2YzNSWkdjN3BnLUNOYmxLWmVWbVh6b2U?oc=5",
           "published": "Thu, 29 Oct 2026 05:58:23 GMT"
+        },
+        {
+          "title": "W Singapore Introduces Three Wellness Partnerships Focused on Recovery, Longevity and Better Sleep - Alvinology",
+          "publisher": "Alvinology",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY2NZbUlBNTVwV29RVWpyajRnbWRkQjBLRUNvRVVkbEpUS25DTy05U3E0cWtCbjhNX0d4b2FwMmZiN1dtdGcycnVYU1AwVnBJaWxaTGxJMkpjS2R4V3NrcDZCYlZiRUVlbmJBNmEyNUs2b09iU1Y5bXdSc2R0LUdaT19QWkxoaEdGWHgza1NPNWZZcWNJdVFINEk1ZzB1VzFraTB4al9pSVc3VFZtajl3RmM0WHR2YUV2N0p3cHdGNUdaWV9SVjAxTTBlOEc?oc=5",
+          "published": "Sat, 31 Oct 2026 04:00:00 GMT"
+        },
+        {
+          "title": "Laptop, Phone, Tablet? Pick the Right Leica Eyecare Lens - DANAMIC",
+          "publisher": "DANAMIC",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc1l5VkRwUDFYSW1wRVV6ZnA2RHVzME9Ub1RGZjVDSUJzLURuVi14OUhyRnJTU2F3YXN4VGg4ZlB3X1AxOXI1WGQzYmpucUdwc24xaDJLMm5jXzNrZmhuOGdvZUtCelFYZEZjZW9mNVBhTzdIOTNZbXJmWnhsUWZZV1VWU0VrelBNMTlDellzZFhHdXZiekpRM2JYbFp6aU5yS19BVmlhOW1HMWZRNkU1TjF3?oc=5",
+          "published": "Fri, 30 Oct 2026 23:02:15 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Soccer in Puerto Rico: A 15-year-old goalscorer makes World Cup history - The Athletic - The New York Times",
+          "title": "Premier League VAR review: Did Lisandro Martinez deserve a red card? - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2VzZEZ1SXFLS1ZVY0pvdHZjMGxpLXNPcG5nZDc5WGFjbXMxN0hfcncyb3JVUUhlYTdjWVp5OWZEUHpSUmdtbmN1RHNSZ051cVkzbEtoOUV2MDg5S0FFZE94RDYzY2N5MF91NjQtcENhVFpNVllTdFlON1p0dFFUVkJrdl9fMDRFWVBnWXlrcThrbFIxeENDazJJdFZvcXhNS3IxVXJHV190ekZzUDF3ZERLZFBHbEFjLWRDbw?oc=5",
+          "published": "Sat, 31 Oct 2026 15:32:00 GMT"
+        },
+        {
+          "title": "San Siro and survival - struggling Sunderland's paradox of a season - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Rm0yUGdDWG5hRW8wNXhSN1RVOWtaTl95U3VxT3VxSnA0UDNKUXdBMnNRclNoQmNpSHRPZ0Rkc1RJQWQ0YldPYXh3Tk40TXdmclkteUh0NWZqU2JoS0FEWWdCS0c2M2k2?oc=5",
+          "published": "Sat, 31 Oct 2026 20:03:10 GMT"
+        },
+        {
+          "title": "Soccer in Puerto Rico: A 15-year-old goalscorer makes World Cup history - The New York Times",
           "publisher": "The New York Times",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPanZlZ2haQlpmWFByWXl4d0U2dVZIV2ctUkpyTUhBRzFDZVFFLWJYWUY4aUF6T2JIa09rMUtuQ2hySUVzNzMxbklValdJWmNLQVE4N2VyZWY1cnZDQWxmYXFSZlYxdTFuakhzZGUtRmNHOGNCT1BlVjJMVE9GaTJmZWQwaFlha1dFY0YwSENIQ210RUNwMGI4OHVVUQ?oc=5",
           "published": "Fri, 30 Oct 2026 16:52:21 GMT"
         },
         {
-          "title": "GOP Candidate Complained About People Enjoying World Cup Soccer - AOL.com",
-          "publisher": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObE5WWjRkX0NvQXNQcXd4Z0Vfa3NjLWg4clpObHJNX0lic0VtU1NqNDM4ZnhUNzZBRngzNmk4ZkJWNHB6RFZSbDNnTFFxYTNIS0JpbVB0SlFULUhFRjcxWlUzTUc0SFZXaXk4Ynk3cGFWSTFaRUF4aFBpRVllS2k3WkxTbXpheVZvdzFQUQ?oc=5",
-          "published": "Fri, 30 Oct 2026 18:05:20 GMT"
+          "title": "Morocco Could Welcome the World’s Biggest Clubs in 2029 - Morocco World News",
+          "publisher": "Morocco World News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW1VZmFyUzhEQjRPeHpKOFNFOHEyY0R0MjJXYjlfQng4SkdFSF9tNE1Bb1E5NFdaMDB6SFJnaTVLcHRVQjBVTGEtMzJ2Q3FDRGZCVEpRX1dnS3EzeUxrZUd2Wk9XNEVRYV96TUNoUmNlNnZnNksybmFKLUt2elkxWXM3d1Z0S0lrdnowV0tDM0FqVTh6VVZCeTYxMVB5RVI0ZDV5RFlub2k3Q0xSb3I2UlJPSGxpVEU?oc=5",
+          "published": "Sat, 31 Oct 2026 22:56:13 GMT"
         },
         {
-          "title": "Premier League: 10 things to look out for this weekend - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNm1lbHNoT0llM1EwbzVDaU5fV2dQTE0tSDNMOFh6c1BneTJrd2dlc1ZxRHVnRVFUVUdHMEo4N3dCRnF1ZE5yZC1ndW9SaGZLaE96Rk5TT2pUQml0TmF3QXVneWRsNjdQb0VGZmlDZklUUFpRNzZQOUxiZTR0U1VpYm1LVVZuMU1henl1dmdyYTJWc1g1a1Vxb2ZOVWp2RDlVYXhXWQ?oc=5",
-          "published": "Fri, 30 Oct 2026 10:32:00 GMT"
-        },
-        {
-          "title": "Afcon to return to two-year cycle after Caf U-turn - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4td0hSbkJnaDNrMGxsU3AtakZPVDRqdW9LZEJDckpwYkpOcXlIRU5YZ0dLeXh0LXBtNVhpaXBsVFZmdkxQaXd0MThSTXJCR2IzcFdoVzVZblB2UFZxUnBaZ0xmLUlmT0Rn?oc=5",
-          "published": "Fri, 30 Oct 2026 08:39:36 GMT"
-        },
-        {
-          "title": "Japanese soccer federation official resigns over displeasure with FIFA politics - Japan Today",
-          "publisher": "Japan Today",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGIwSVFtcGd3cUZ2YjhCV29RVXgtXzNyX3BibGoxbl9DcGFzYks3YVk0V0J6S0hzaXJhelNvM1pCUTkybEFyVHhQZWdaZjdGeWgzd1pidHY3QWdFckhzMnotOWhSS2xxMV9CWjlJaDV5a3BMVl92aFltc3ctMVhTYmdOQ21zcFZsaTVBa1hueW53UlhCeWh2XzRHTGl6WUhuN1NVTWl1dERZdngxZkRZRTJFYW0?oc=5",
-          "published": "Wed, 28 Oct 2026 21:30:00 GMT"
+          "title": "Premier League Soccer: Stream Man City vs. Brighton Live From Anywhere - CNET",
+          "publisher": "CNET",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQzhzQ1ZKVEJ3dkdlVmpvU3QwMGI1Ynp4cF9BU2Jid0ZxdXZXVmh1RG16eG5DSFR1VHN5dGwzaGFiSkRhT2FWRTlPUGp1SmZOOWhKY093UmpTLVNTMDNFSTVXQ0E5YXJQOENLTC1DLUVfMGxld21QNWNGNV9fNktVTXFlQzhzOE9qLXp0UElFaGFTazYxa251eEZWYlh5Ml9kbnlGRjZUbWpjNlltNllmdDQyVXI1Sk45?oc=5",
+          "published": "Sat, 31 Oct 2026 12:00:16 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Patrick Stewart’s Estranged Son Daniel, 59, Breaks His Silence Two Days After His Father’s Death - InStyle",
-          "publisher": "InStyle",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVJoMXpTSElXYzhScWtuTkd5VkZ3NEVJS2sycTBiYmszWW5OSTBmdkRiaTBydmVfOGU2c2JISW02d2h2Z1dLOU1nUWZjX09nRVZLOFliNzZRZmhSaWJJcERjUkJXM0dMclpmRHZibnBGVHVfbFU0WXVBbzQ2T1VzbXhWaEx1MlZvQzV1YnFtSTFraWV3?oc=5",
-          "published": "Fri, 30 Oct 2026 22:09:51 GMT"
+          "title": "Best Celebrity Halloween Costumes 2026: Paris Hilton as Britney Spears, Lisa Rinna as Kylie Jenner and More - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYXJya0ItTFBPMWV1MURWUlJfQU1aTnhYbnVQNmpsVkJSMFpCQmdheHJvRmtHbDRXdnJIUGRLanhIOXY5b2dHN1lQWHNseWlVWEdNU2hvMVhMWjRPZmZNNngwSmtONmI3dF9xRW9YangydnhzVFB2RHVwdDYzbXFTLVRrOS0xbGUzOHA3M2hzenJZOUxoSC1weDZ1aVRxRVhtYlBwSmJYRzkwYXBRZEE?oc=5",
+          "published": "Sat, 31 Oct 2026 21:29:18 GMT"
         },
         {
-          "title": "Selma Blair apologizes in video weeks after arrest: 'I take this very seriously' - ABC News - Breaking News, Latest News and Videos",
-          "publisher": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMHNKSlQ3blg2LS1DV3JpdGFRdFdBenZPTFFuVkwyd1RSUDZsQzdVYTZJZ093VGVCamVOT3dqMWRNWjBNdVNkR0ZEamVLUG5JU3AyM3JIRHd3eldsanZpNW9hNVZkWXMxYkdIV2lNbExycmhoSFIxeGdXa3dmdjVkZUdRMEhPdTRfSjBJd3l2VTFSX0pyTXEtZ2VqeTFPdjQ?oc=5",
-          "published": "Fri, 30 Oct 2026 23:00:56 GMT"
-        },
-        {
-          "title": "Margaret Qualley, Jack Antonoff file for divorce after 3 years of marriage - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYzZZSm5FWEVHOWp1N21vVXRmVVhycGF1bGdtTk0zb2VueW9sSHNFLUtLbWVfZ3QxMU1IcnRwbVRLOWo2WHhjMWJibndsVWJLY1pKSmE3cnhLcmxKUGVrZXFUQ1FzZTVfZjNMY2N5Zk5FbTZHa0x4UXR1YVhzUTV6bWk4TkdURkRmQVBvOQ?oc=5",
-          "published": "Fri, 30 Oct 2026 22:44:00 GMT"
-        },
-        {
-          "title": "‘Criminal Minds: Evolution’ to End With Season 20 at Paramount+ - Variety",
+          "title": "Box Office: ‘You Can See Everything’ Fends Off ‘Clayface’ for Top Spot on Friday With $3.56 Million - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWGNTSGV0TEk0RUo3S1BJZUpOMWhhdzBkRS1ydEt0NXB4TTEtWTJEX2c4aURqWWxFVnRyV0JLRlhLaXgxV2ZFLVI5aUgxVENEVThRaTRRNzZNLTliX1ZLdXg2QlRIeTdzMUJEcnBSVk9sS25xUGVBXzFpYlFLWV9aMzVnY1VRblRZeXZHNHFKNUpxT19ZYTF0dkdONA?oc=5",
-          "published": "Fri, 30 Oct 2026 21:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRVdXUUpPeks4X1pyMlJSY2dhd1JSbUNqUl96RHlPOU5CMnVBSkF2NVlGVFlrcG1XdEVVWDI2SkxnV0FsbUNLZ2RfS3JzZ3NGNVRSeHNLN2F4NTNKLUNGZDVFUFRZbTFCNmF5cmplc0h0MWhMcWVjSGU0UEVVS0o0WDZsSDBpOXQtRkI1bk40VG0yUjR5UG5FTXJiZw?oc=5",
+          "published": "Sat, 31 Oct 2026 16:49:00 GMT"
         },
         {
-          "title": "Exclusive | Inside Crystal Hefner's final break from late husband Hugh as she accuses ex of rape and incest - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb0xud3dZN3hkdF92enRQLV9LeWI5WklIM3c0cUpkd1JuWnZGVW56YXNYcXdjRDBqeklSNG5Gbi14Y0dqaFYzdVlPcE03a2Z2QmRlQS0tQzdUei1rWjVOaGxYWmlxQnptaEE5XzV2aEMtSlNsZEVXZjlISG9KcEc4YkdFWGdRcmlLOVBiYW9KeXpiYzY3azdKRlIzUlFFQ21XRjYtMjhiV1dNSExIaVdVOUlLRi16UTJpOFZaa1hIMVZTaVpHSFBFbmNfLXlKZ2lIS3BzOXNKWEY?oc=5",
-          "published": "Fri, 30 Oct 2026 22:00:00 GMT"
+          "title": "Margaret Qualley and Jack Antonoff File for Divorce, Following Months of Speculation - TODAY.com",
+          "publisher": "TODAY.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTER0dG9EaE9wR2hOVXR4RjRocmNUeHM2cnI1THFPMXRlX1pFc2JaU05RUVJzcE9RZm5EVk9rcGRlSk1GVTNGVFR4b1hHcndteURhZXNjYjZTQS0yWEJReVNCQ3VCOGgxZzdLY3FWU0ZwVmg2ODR6RGVJdWtVaGhxVTdnT0JtY3IwMkRPQVJYbnZncjZtSFdn?oc=5",
+          "published": "Sat, 31 Oct 2026 17:51:59 GMT"
+        },
+        {
+          "title": "'Green Room' Writer/Director Says Patrick Stewart \"Saved The Day\" - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHZlM1YxTU1jUlVFU2VLUG1yWklVd2FBOXJqTERrSDE5a1B3TGtvd1BuN2RaUjdrLXJ6VjNBbmJ5M3NCVVlGRUU0MjNMRnRhRmZLeE80OHJrVURfT0RCTGdIU1BvdFZKc1JIbHpIbzkzUEM3QnRFemp0cF9jTTFndDdIbmxFMjA1?oc=5",
+          "published": "Sat, 31 Oct 2026 22:01:00 GMT"
+        },
+        {
+          "title": "Michael Douglas offers rare update on Jack Nicholson. 'He has disappeared' - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3JZOEl0ME1RYjg5ZVRiRHJQZ3ZJNGMxelNQOXRCdEJfQWNWQXp1YlNRTVVtbjZrR2lTZFRDWXdRcXI5YWljQ1gta1pNb0xqRkxING1MV3VKQXA5dy12ZVU1S2NpOTlsYnNlVjJWVGdUWDFSOWdOblFaMml3dnpKeV9FY0pwY1FFZlhOZDVMZG0zMmstM2tWREpIY0lBOHF2SUd4RTY1U0FuajRiT3VzUFY5a1VydXIxMGRUUHN6VWtuVXlBN0lsX0ZwY1Ywc014Y0pwQkZhWkZ3QQ?oc=5",
+          "published": "Sat, 31 Oct 2026 21:22:00 GMT"
         }
       ]
     }
