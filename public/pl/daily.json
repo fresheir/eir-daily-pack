@@ -1,7 +1,7 @@
 {
   "market": "PL",
-  "generatedAt": "2026-11-04T01:54:20.919943Z",
-  "validForDate": "2026-11-04",
+  "generatedAt": "2026-11-05T01:59:58.270022Z",
+  "validForDate": "2026-11-05",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Tak Nawrocki i Tusk zachowywali się na RBN. Ujawniamy - Wiadomości Onet",
+          "title": "Funkcjonariusz z bronią automatyczną w metrze. Policja wyjaśnia - PolsatNews.pl",
+          "publisher": "PolsatNews.pl",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeDViajFfZTZIQzZwYnpPeDVhSnYzU0Y3bG1SeXBxNk1HVjg4UldwOGgtWXlJRjZEaW16a1VTdGFFYlJrUmtMVjRLSnp0a1BiNi16dE5URW1xUFNIOWg4QVBXUkpOeGpHRm1hUWhqVTEzSjM5cUNud0FHMkM1NnI5enNyQTBDSG5ad2YxZG9qRkh0a3ZYY0hqamVkTkpfdlhjaE50YVBicDl0OGU4T0xVeE55WTg?oc=5",
+          "published": "Wed, 04 Nov 2026 17:16:00 GMT"
+        },
+        {
+          "title": "Ambasador USA opublikował zdjęcie z banerem „Tusk = Putin”. Giertych: To bezczelne - Rzeczpospolita",
+          "publisher": "Rzeczpospolita",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeGdReEJVeTJYa3JFSWlGeTQyalkwY0NZMWl4WTVLd1l5OGpGalE1QW4zbTkxUlVWdjRlR2NUa0diTl82Zk1jcjBzbXRERlZ0TXV3OUhkNE9MUUhHRTRoVmtHQ21CVlNka2RqLXJwdFB6WklFVG01dE16QTZEakQydXkwY1JiWWtDUi1rbURKT1dvQUNUakFLTTB5bDI5X21nLXN4enY0OFFNazdKaHV1OGJiNTJYUQ?oc=5",
+          "published": "Wed, 04 Nov 2026 12:15:56 GMT"
+        },
+        {
+          "title": "Reset Trybunału Konstytucyjnego? Minister Kierwiński stawia sprawę jasno - Wiadomości Onet",
           "publisher": "Wiadomości Onet",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWi13M3ZvZjc0NVdPaDFxVDRINjFEVnpZMl9VbEh0V3EtbGpwWFZfRVpYelN1Z195Q2VjMUM1WUVRTnRLbExtaVJyOGI5NVFGUVY1cUdhQ3VMTzNFQlB3bVJQRng3dWZMNTM3bTVjU2xua29wUFJCUlh0cmk3WnVfYmMycGFQaWhwRlNiVDhWbnB2TGpqdzZ2TUZvcG42ejhFcEJqRGVsdV81bVU?oc=5",
-          "published": "Tue, 03 Nov 2026 19:15:38 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0NROVlvUUZhcGJiMjNCUXVBa2pjOXRaN1VIY05MSXlId1NyR3dQeGVUUDY2UVh3eU5Vck5NVXBESUdOZUEwbWZRc0Nzd3RURXBpay0welNMVkNWcVo0M3Jsei11cmF4cXpVNWtZT25ORjVqUEh3VV9CMXNJd3B3X3NmRjJkeWlfLWJHTTdMTm8tNUhBT2JWUDI3RE9yeFk4dnFUNW16d0JqdlU?oc=5",
+          "published": "Wed, 04 Nov 2026 21:02:28 GMT"
         },
         {
-          "title": "Kryzys wokół TK. Policjant napisał list do komendanta. Teraz ma postępowanie dyscyplinarne - Gazeta",
-          "publisher": "Gazeta",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMnY5M2tnMEdocXhJUE1NRlBTZXlrZzdzTkVmWHhUTTRMcU5iYWEzb2haVThqbThWVnp0cGxZVWZ0QUZQVGtIZ0k4eU01ZlFVMEdLNFhfaUFBYmhkNEFyN2JnTHduT21fbzFaMFM3SXNDUXhqVkxURVBRZ2V6YXpNWmthR1AtdlZDM21WSXZibE1vOVR5ZE9yRDh3S003NU8welBORmdxZmJ4NlU4QkdSbnNLcFJRVXNv?oc=5",
-          "published": "Tue, 03 Nov 2026 22:06:18 GMT"
-        },
-        {
-          "title": "Waldemar Żurek uderza w Święczkowskiego. Nie tylko kwestia uprawnień - Business Insider Polska",
+          "title": "Akcja CBA. Duże zatrzymania w w sprawie elektrowni Ostrołęka - Business Insider Polska",
           "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2txbnFlRHBpWmtuMXRpb0ExbDBKTFlyczVjSGhHbExBMnd3RnFhUk13ZGVsRnJxN3dCYkdqaWhqamcwdlBJTFVObTJSMW9USEkzTzhBSVBwQUU0WmJUWWZIVUF2a3ZTOWlrbkt5RVBrQWRqTmZLeUpjZWR5MDJEOE9laDgyeHI1Nm9uNDFwME5mazI2MGliMjAzTlV5VHhHall2QXlqd1hjaW8?oc=5",
-          "published": "Tue, 03 Nov 2026 18:23:59 GMT"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbldhUEx0MU50dnhzNjVMazFFclhXdmxrYXR4ai01UF9tMXFQUFgxVVRkY0hJTjB6cm5qbkRrZlVPU1lqSTM2SmhuaWE0SmVTX2h3MU9pc3dfbTZzWWZDZDVURUJZQThZdFZLOEI4T2VqX1Z5dWFWblhMZHF4Qkw2Y3pFbG1xN0ZuZU5NUzBwUTl4YWhDMFNkZE13c2oyRXR5?oc=5",
+          "published": "Wed, 04 Nov 2026 07:58:47 GMT"
         },
         {
-          "title": "Demonstracja KOD przed Pałacem Prezydenckim. \"Łapy precz od Trybunału\" - Wyborcza.pl",
-          "publisher": "Wyborcza.pl",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTdlbFBreVRGZ1hvRUVEQ0lYSzJCYlhFaUpGX05DdHp0VTFUYVRaV3N5RGNZa0lxUWk3bVlzZEY5YmVMTTNJcTFQWU50eUdXZ2w1Ql9hSTZhRTU4WU5PNnlNMUZDRC1ENUptOTdmSDBoVkZoeFdvYlFRNk9lRVBCSUZfdkE4NXY0TWNlNnlJQkpXVzNydjR4U2IxZ2VJZ25S?oc=5",
-          "published": "Tue, 03 Nov 2026 20:20:42 GMT"
-        },
-        {
-          "title": "Psychiatra o zachowaniu Bartosza G. w sądzie. \"Chciał pokazać się jako heros\" - o2",
-          "publisher": "o2",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORzBpeVRFcHhNTUpSajV6N21VOUlVWDlhSU1tN1lVX00zNFctUmZSRkZLS3JPZVVFNUJhZmZEU3h3VG52QjJyNGxEcVNyT0lUZlNySjJRTWViM3hQQUwyZjFXZTlhRnRjNXU1U1g0UmNfZDNpTDBmVFFVVzdlVlM4b01yY0hHanRJNWcyeWFmY3YwVWV6R3FNQU1URlZueG54MnRMNExHWGEzYmdYd2ZEVVRPNjdVMm01eVF2SQ?oc=5",
-          "published": "Tue, 03 Nov 2026 18:23:25 GMT"
+          "title": "Koniec sporu o NBP? Ekonomista mówi, co mogłoby grozić Polsce - Fakt",
+          "publisher": "Fakt",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMU9SSXBLR3YtakcybmRTVzdyMWxhbHREUGNfemswdkI2dzJKSGFGV2xMVURQSG5PdmphcGpFeHFuZldwd3g5T2MwT1M5VGV6WFVFRkRBdzhKTTZTUWpibDFmVG1lRDgxbVZ5TUcyTWJFQU04Q0Z6N015WUZLRFFTNTlCdWtxM2hXNkcwYVY4Q0Ffb3l3MXI3cENBM0xEUQ?oc=5",
+          "published": "Wed, 04 Nov 2026 16:05:00 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Wybory w USA. Są pierwsze wyniki i sensacje. Padają rekordy frekwencji [RELACJA NA ŻYWO] - Wiadomości Onet",
-          "publisher": "Wiadomości Onet",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRklrcXlHWDAwRG8zZDJuMmNPMUNzc3pLaUpwMGR6MG1Qd0RoTHRyRmRWZmVyNUo3N3F4WXFCLWpNNWNrbGR5cTc1d1hRZ19HUTY4WkhjOG9aOUFmRWtXTDgxcWVMY0szY3FWaGVjeGUtLVJIQ1dIcHRZVFlvdnVOdjZTak85bGZ5VWIxSE5KOXhqZFpmM2YyekJQZmh6V1lweU9jN1ozbUItR1FrOHhKWEdER2lUVGxzNkxmZGoxbUVSUQ?oc=5",
-          "published": "Wed, 04 Nov 2026 00:45:00 GMT"
+          "title": "Demokraci wygrywają, Wall Street reaguje. Elon Musk uboższy o miliardy dolarów - Business Insider Polska",
+          "publisher": "Business Insider Polska",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ0ZkTjdGMVJza285WlFGZFJwNHNra3lZYjdOdGdIaVVnZGo4cFdHSzNwZnJoSm9wRDF1X2E2Qml0ZDc1VDZqdHlxQ2pCVkIyU0ZURm43bFRDQ0hOcnFieHh6Wmo4VFozSjZhUzMtclRUTjQtQTh3YndGZUFWd1dfYmZLd2pFMk8yZGs1SGkzbk1iMmFtQ052aFlVblc3enVKY1ZlYkJMMEhoaU0?oc=5",
+          "published": "Wed, 04 Nov 2026 15:47:38 GMT"
         },
         {
-          "title": "Energetyczny impas w Kijowie. Po rosyjskich atakach wstrzymano tramwaje i trolejbusy - WP Wiadomości",
+          "title": "Gorzkie słowa kanclerza Niemiec. Skomentował wybory w USA - WP Wiadomości",
           "publisher": "WP Wiadomości",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeEtKWURBSVo3UE1WYkY0SHA5UnA2ZjlIS1hRTWRlc2k5cXpnN1htUjN2M3gyZ2RQcm40S0l5Uy01RWk3VkpDMjQ5YmVRUkE5dmYwZGgtdVVSc3ZFMlZlTC1wZ3EzU29vUzNJNEFXVzlEQThjbjdqS3F1anBYQVlBV2s5QWo3R1ROSkJaNmZPV3VUWWlMMGNIcVFubi11UktHcTA5aHY2cG4wZG92Yy04Z3VTM1J0Ty10Njkwd25VN2IwR2V4?oc=5",
-          "published": "Tue, 03 Nov 2026 20:27:12 GMT"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3BDd3BNelUyYkVpS2VJNzBKR3JQLUYwTWlzWGw5dUx3RENqc0hXamxtbC0xVkJ0dG55Z0lkUTNuSm5hOW1VVlZVRk5FaXdHZnhJdi04aDdZMmZRQmdsRUsteThTdE5uQ2QxSjQwbzdiRmZtOWFVZFZ5T2pnNnlZeHZOZVNYNlRBMjF0TXRHVDBNYTZSM291UjhsR1Rnc2pY?oc=5",
+          "published": "Wed, 04 Nov 2026 19:30:15 GMT"
         },
         {
-          "title": "Dymisja po wielkiej tragedii w Hiszpanii. \"To kwestia godności\" - Wiadomości Onet",
-          "publisher": "Wiadomości Onet",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXdJZmhmbDlocS0zeWgxWG5CM2o5TS03cW4xNWRpc2NUSkJHaUpJSFl5c0JHamc3YW1VSnJvQWREUDd3ak9taTRNSDdwSm5xX0V5ZFQ1bWhiTkE4VFM4RkQwSVQ2R3ZjMm4yUDBiUWhac3Fkd0JiaXdKcGtLTFhaZHo2M3lGY212MjNuaE1mQWl0azZ4OGtJcFRCSlc2OGRfbDlz?oc=5",
-          "published": "Tue, 03 Nov 2026 23:59:40 GMT"
+          "title": "Ukraina oddala się od Unii. Kijów z żółtą kartką za brak reform - Bankier.pl",
+          "publisher": "Bankier.pl",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFM1UTV1UmkxeWNEazA3MDYtN0RWR1lva3BObTFra1dXZWJKVG5qWVlWN0dIM19DR05lMXlucGZnXzFqU2piRUlqSGQ0QnllOVpvNXFMUWk5azFSUXpYWUVlMk0wNXJzaFJqelFTblFyZGM2RWhMU1huVEJZRG5UUUQ1S2VKWmI4bEFBT21aNGNaQk53ZUh0VzBPV29XYklOcW56NUV4MXVEUlps?oc=5",
+          "published": "Wed, 04 Nov 2026 17:41:00 GMT"
         },
         {
-          "title": "Pomysł premiera budzi wielki opór. Protesty u sąsiada Polski, tysiące ludzi na ulicach - Interia Wydarzenia",
-          "publisher": "Interia Wydarzenia",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWhyREViX0x3UUd3N1hxYVZTSHhJMmRMbVZhRDJ6OW54TWEtLUJ3OVRBaEN2VzR2Yy1zVlZ4MzBlSzl1NGZHTmVMRWZTZWJ6QVByVjNSYjNCdEhqVWVOb1k1N2kwMWpJSDdEeko2SUx2RGZpc2FhQWN3NC1lamJlTzdPeVZQeVE0b2h6dlRPM3RpLW5YQ3JRVEZURVJnUFp2c0VfTFhXLS1Cd2JZT09HVGJVM1ROcldk?oc=5",
-          "published": "Tue, 03 Nov 2026 19:49:56 GMT"
+          "title": "Zełenski o ataku Rosji na Komyszuwache: Reakcja świata jest bardzo niewielka - Gazeta",
+          "publisher": "Gazeta",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNm45QVNHRTluU0VHTGpHZmctd1RxNE1IRHVWZ092b29Td3VTMTVpRHk2TGh3T1BsbFRUTnJsVWNwcHB0WktvMVVleF9UQWRjSTIwM01vWEszVFdFRnE5b0xqOWd2U1pkWE5qNExkTE5zaHRyMUhHNnNtOUN0MFJVelRydUFIZjZZR0dlRjNId1kyYWFNXzMzSXhqY2lRRGxQTUhGcjZ0ZmotZWxfTDQ2c3JWVjZMRlE?oc=5",
+          "published": "Wed, 04 Nov 2026 17:33:07 GMT"
         },
         {
-          "title": "W siedmiu krajach chcą wyjść na ulice. Nawołują do fali protestów - Money.pl",
-          "publisher": "Money.pl",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV01ic3JPNWlhbnVHM3BaWEY3RGM5MXd0X0ZaSlhRYWxEa1NTUWVpUmI0QVc0STd4VFlibHkwTTc3bmxxN2xjLWlITVVPWUNIcXplSXNEd05xTEZMUWdPbVJhUGVod3Y1R3BsRFFvZEhUSkhBajdZWU5wM3hnWGRrWlR0SkJfb2tIS3BJNmFvaEpfU29CZ1dCSXdXMUNPaGllY2kzQXNRc3cyWnBDTEtCRnpaaDR6b1hPeHJLQjVZMldRdVdZZ0x1VEZ3?oc=5",
-          "published": "Tue, 03 Nov 2026 20:01:25 GMT"
+          "title": "Ossoff-Talarico w 2028? Narzekano, że Demokratom brak przywódców. Wybory stworzyły co najmniej dwóch - Wyborcza.pl",
+          "publisher": "Wyborcza.pl",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUXNkaGZEZHJ5MUsxeG0tZ09xMEVkNlVEQ2I1Z3BVYTh1aUg1bjdWVUszSzFGX25NRUNyb3pTS1NuX3JaaVE3Q01jWU5QUDJFUGd6bTEtSlBzVFZwY1RBN1B0dXVZNFNKUk5GQm1WV0xWR1AtQnhfc2J6bDR0Y1FmYVhWQV9naFU4LS1KNXQ3QldrUkQ0VzAydmhseDBNbWlHX0tSX1Nsdw?oc=5",
+          "published": "Wed, 04 Nov 2026 20:08:42 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Cyberatak na sieci handlowe w Europie. Awaria dotarła także do Polski - Business Insider Polska",
-          "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQck1Nd192Z0dMSUxaZlI3RzZySWFwTE5idGROWjg0TUFxRDR1YThJZWpaTjB3dXRhM01aZU5vYjVaZUExbFQ4TUoxUEk5Q2wwaWJyaVJrb0p3QVNPSG4zSk5zRkdzUEh3UkM4UTJ1NjYwcW94djM4ejRNSUllZjBNUnJ4TEJJdnk2eXZUdEFSODB3MzlYZUgzaTJJTzdzV2ZzamJMemc5d2xxcnI1ZnRqcjU0amd2OEpNdVJGRXBLa09mNDl0ZjVWZDJ4Mjk3QQ?oc=5",
-          "published": "Tue, 03 Nov 2026 10:58:12 GMT"
-        },
-        {
-          "title": "Biedronka zapłaci prawie 84 mln zł. Sąd podzielił zarzuty UOKiK - Money.pl",
-          "publisher": "Money.pl",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTlPZUZoanRFTy1kam1wUVFUSm9SSnBYNXF0ODE3UFJaMU1XeEh4aHhFLU9kSGxIbEN5RzQtTHhNaWVfUTR1ZHBJVjRnMzExYklDZlNjNnpSQWRMeU1jRTBuU0JNd2t4bnc3VVp5QkplZ3Vjazk5NTluMTJyazhwWDgzZFd1ZWQxMFdQUnl5bDRyT2FuZ0tyOXFZa2JxX2FKSkhKOV9qX2ZHR09IamprSDRUYkwxVGVi?oc=5",
-          "published": "Tue, 03 Nov 2026 18:25:40 GMT"
-        },
-        {
-          "title": "Zmiana stawek na stacjach może zaskoczyć kierowców. Maksymalne ceny paliw na środę 4 listopada - Motofakty",
-          "publisher": "Motofakty",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcEpwT3FHZU5hRmhoaDhucGNkdGFlRHREckNMRlpGekZNSy1QM1F4ZWhUUFJZNnBramx5Vnlrc0xFbUlrTDVfNGtJOGNBT1F4bFhidzgwNEJPbS1GN01HdkhUTGt4eEEySGRzMGQxNHFCbk1JaVNQU1JHa1NDN05jYWdIeUdsUHpiVG5NblRDcG45Yko3cWhENHRoTVpPZ0xfbDBpM2g2NU8xdkZnRE42UFpLLXVRZ3ZPWEdqdjVDbmg4MDNPSnNVdl83cw?oc=5",
-          "published": "Tue, 03 Nov 2026 10:44:09 GMT"
-        },
-        {
-          "title": "Układ trójkowy na GPW. Aptekarska dokładność zagranicznego kapitału - Bankier.pl",
+          "title": "Kurs euro wycofał się ze szczytu, dolar mocno tanieje. Rynek wyczekuje decyzji RPP - Bankier.pl",
           "publisher": "Bankier.pl",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGVjNFlLak5fZVlvc0lnZkdPNGdJTmtmSTlPSi1Oa0FEX2RMVTZPSlhVTDZpUl9kbF82dzVGR0czQzF3OFhyZVhYQWlVVjU5M0pMeTEyc2Y3LXdyUDlNQmk2Z3NzY0RGVlJWZWJ5VDNOd2xrT3ozQ3ZOYVJjYUdONkVOY1ZfZk1sa1hGZXIxbkFjbVZWM2xMTktSOHR1MGd1cHRpLS0wckFDYlY5LWl6NDZ3?oc=5",
-          "published": "Tue, 03 Nov 2026 16:41:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa1BXWWRHMnF5RktMRTgyQ2JCQTYwZmFkQ3FrMWc1ME9BSTQ3Z2RTeHczQlAtdmwwLWNkWjNyTXl3RFhjVEJZRWpXRXFDSUwtX3J1TTdPZWNwTHh4RzY2OG03TTZJMXBiYVRMVkRMZFlSa001U2R2X3FxanhJakRXMEJQVnotNTlnOF9NSmROZlVLNVZfSU9maHhEd0NHZHVIbEtZUzJCQ2d4TWl4eTZXdnB4YXdJTmRhOTc0OHV2MzlaVTlM?oc=5",
+          "published": "Wed, 04 Nov 2026 08:57:00 GMT"
         },
         {
-          "title": "Wall Street czeka na wyniki wyborów w USA. Rynek obawia się o sektor AI - Business Insider Polska",
-          "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWWZsYmhYWjVDbkNiUlhPc0lUY2xhTGNFRkx1aWhhb1NydkRzZ2I3OVk5Rjlwd2lqMnNZeU1TNG8wbEYyQ0JfV0xFQnhuNk45YzlhaWQ1enFvUXNVd0tUY1hlV196XzUwMUxBMGQzMDE3SXNQRXU4eTlBcEM3Y0JvWUdfTmRPQk9kSXM4dldNR3hZdmZKeUFiLWVVY1Z4MU1yaGczckdxUzVZcnFhLVpNUk0zX3lIUDI3dXVBbDln?oc=5",
-          "published": "Tue, 03 Nov 2026 15:48:44 GMT"
+          "title": "Chiński gigant e-commerce stawia na Polskę. Ogłosił miliardową inwestycję - Interia Biznes",
+          "publisher": "Interia Biznes",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcmplWEc3VWtUc19GMVNKMFR6dFZ0TVRsb1cxN3ZBdFRaSUFjRWhlcDhoczFYQ1kzOXhIcmpLODBPdE9keXRVVnRaM2s2a1ZrU05TNG5GQVgxa2xaWDhnNjA1OC1PNFIzd1MzM3Iyc1EtUkxSRE91NWNIa2pRZWQwcnhJaG9WLWFvbnVpOXZiRUE4UHl2bjBQcC04WTMwNTEyc0dhdzRCZE9ha3REMl83cmpZdGFzdw?oc=5",
+          "published": "Wed, 04 Nov 2026 19:33:42 GMT"
+        },
+        {
+          "title": "\"ZUS nie zbankrutuje\". Ekspert ostrzega przed niskimi emeryturami - Money.pl",
+          "publisher": "Money.pl",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeFlmU1doRnk2OWo2OUhaMWFJNUNSd3Zxc1BhYnRNVjF1RVBUS2NDWkNoV0dDdlVqdGRobmVjT3RoSXU2RV9ySUFVYzc5RkdESlZuMjFwU0Zwc0UwTUhIbE5CX2dZeTlYQWpXYzVLdjg5WUI0RWhlTnV3NHZfQTMzb0FRUTUwbUgzbnltWUpRN0JWa2VNTTAwNno0NmpJRzVlQWRKSVFXZWVrN0FCTHNuTFZ1Mkd4LVk?oc=5",
+          "published": "Wed, 04 Nov 2026 17:55:11 GMT"
+        },
+        {
+          "title": "Jest decyzja w sprawie stóp procentowych. Inflacja przeważyła szalę w RPP - pb.pl",
+          "publisher": "pb.pl",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQm1XMDB2MzlPaE1kaVlsb0ZJa1R0M0dLYnNmUHdwaGg5SGdyaU04MUpOS0V4ajViNmFqX1pOajA4ZHVCSUs4dU1XSnE5aUtvOXQxaS1NYlN4blAtOVhzYm51MlBiN2hSaFdQNVNLU1JkN3lLXzdDVjB1dkQ1bXlCWjU2aWxhRlBGOEs1SUJxdmNnTE9FQ01kdkVSNTNPQjg?oc=5",
+          "published": "Wed, 04 Nov 2026 13:59:00 GMT"
+        },
+        {
+          "title": "\"Ktoś straci pieniądze\". Polak z OpenAI o ryzyku bańki - Money.pl",
+          "publisher": "Money.pl",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2lGZDRXQmJGbDRsd04xWndKSzRNVUtXUmpVeEppdVFmY19Cb0FqWTNzZjN4RjVVbjZBbGRNMFg5OTRpTlhvVGtTNGVfTlVCRFY1NXZIbE5mRTNvcnBkaWJ6V0ZTNC1WZ2d4OTlPVktEWGI5NDFGZ0xwT0E3RjB1UVZLeVJpenJoWDkzVW5iLTR1TTYyY0hzandwMU9vb3pJOG5oVnRleE8?oc=5",
+          "published": "Wed, 04 Nov 2026 20:50:39 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Od 0:2 do 3:2. Co za powrót w LM. I ten gol Piotra Zielińskiego - Przegląd Sportowy",
-          "publisher": "Przegląd Sportowy",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZk5BTng5NXU1Sk96TmdrVE02VFlMUlZsWFh4QzBsUnV2WDIzXzQzQ18zY1M1bkdTd0IyQTZWd3V2QnNneG82aDlIMTNYTE50SXVyYlZLMmdlZ052TmlQZmw4Rmh6c2hZZVFzQ0laRE9fTDVZZ2VYYlM4anFISmFCaTJ0WlFmY0NwSUhOa3hMVktWNVJZRkQ0OUEwbVpHYXhnWk5wMkpaV215YTgyQlhQVjJrT2lkdlZmYzdvWHB0aXg1S09W?oc=5",
-          "published": "Tue, 03 Nov 2026 21:55:23 GMT"
+          "title": "Polska noc w Porto. Bednarek i Kiwior wśród bohaterów - SportoweFakty",
+          "publisher": "SportoweFakty",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOWxHOHM4c3RoYnpKQVhHeFlXaTVndFJhNGtqVFd2a1dUMl9HNTNVXzZ2OFNCTFZCby1ZOU5qQnFZSFQ3ZG5BNFNRZDBkUk5nY1VjUTh2c3ZHdDk3ZVZJM0N0ckNMOERWRkVOU2pJMlEyalJ6ZXpxSGJtWnZaNFR0UFFoQjZGYmlhRkF3NkdpMTMxU1Rvbm1kMHczc2FZemRPanc?oc=5",
+          "published": "Wed, 04 Nov 2026 21:57:02 GMT"
         },
         {
-          "title": "Barcelona dała lekcję Aston Villi. Raphinha pracuje na Złotą Piłkę - Meczyki.pl",
+          "title": "Tragedia podczas meczu w Hiszpanii. Bramkarz przerwał milczenie - PolsatNews.pl",
+          "publisher": "PolsatNews.pl",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNenQ2LXR1VWJDTlFtUTR3VDlmN1pDX3B3eGNjelBRdDYwN09KQnpRY2Rwd3VSLVZXNUVfVGR1em5XYXREM053U2p5NzJEVGw4U01yTlVZR1ZIVmtZY05qdEdzQ3ptWS0yLTlYWjBIdktXSF9KRFIwVExfc1VaVUIzSHJoMmdVWXFGMWlrX3o4RDI4REdzMnh3TXFqTm1JU3lycVplR0didTRwTzhuRmdF?oc=5",
+          "published": "Wed, 04 Nov 2026 18:02:00 GMT"
+        },
+        {
+          "title": "Nowak strzelił gola Arsenalowi! Polacy nastraszyli giganta w LM [WIDEO] - Meczyki.pl",
           "publisher": "Meczyki.pl",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONXV6QVRobXRDMllPU2ZHX2hNenQxdG81Ql9JQmlmb1pZWmhtWGtBUHhWYjFWSXUtSlc0Tnl2M2pqczJ3bDNyYXJBczhKM1FQaEtkdFNwcFBDdEdVSldKcHl6NDV2YkxTTXdtTWU2X3loYkJpUzlaaUlhUlRMNzhYbm1hTmtKUUVhRHdZdjEycDk0U2NLa21HOEtOQ3M5MEthM1hIeHpkYXktZlJDY0daemFiSQ?oc=5",
-          "published": "Tue, 03 Nov 2026 21:54:01 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa21tczhwZkdHRUN1aHJVYlpXZ0U3cEJJSEtVWFU4RVUzQkNuUGdTXzJKeGQtcnlUVjZzTjVvbDk2b0VmZk1jeW10SWdhNGhoMjd1OHNYVnpsVWdTMTVmU3kxRktRVmRVVmFLQjZVbmo2Z2ZUemNYZ0ZPS0ctYzdhUWhuSkxsREl3TlkwTV9VZWgyM3JFR0xuM2s3dTVVVUhrcWlhamdOS2E4V3R4VzJr?oc=5",
+          "published": "Wed, 04 Nov 2026 21:54:15 GMT"
         },
         {
-          "title": "Wielki powrót Manchesteru United! Solidna demolka w Lidze Mistrzów, gol za golem - Meczyki.pl",
-          "publisher": "Meczyki.pl",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXl6STJlSXR4bTlUc0IzTnpzaExaTDJ5a3JNTm5DbXF3LUhBT0dXWWxLRTNtRktCNGQyRjFGcFZtWjM0aDNwUUJEZkJ3RWhFOXNPN3ZuUjRPd29XRUl3OXYyNG96a0hXM2hZLXI0M19XbGFMSXljOTVBNzhDbnRvTDF6T0dGRnV1Wkl6V3lfWXZsdER4S2tsTHhCazdPeGtlNjlVSUVMN3NrZjJTd3hLMUVob21ud2drV3ZKRVg1eTJ0SUw3?oc=5",
-          "published": "Tue, 03 Nov 2026 21:55:25 GMT"
-        },
-        {
-          "title": "Eliminacje ME: Gdzie obejrzeć mecz Polska - Łotwa? - www.polsatsport.pl",
+          "title": "Trzy gole reprezentantów Polski w LM! To ich pierwsze trafienia w tych rozgrywkach - www.polsatsport.pl",
           "publisher": "www.polsatsport.pl",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdjd3QmdTc0lqbmZTdmVHclluQ0o5bnpUWmJHOUI0ZHo0cy1vUHRGWHV1dDU1VC1TbzdGX3NhNzYxa05uUVdNQTJZZ1ZPYmVnNDVqNkxVblpNdF9hWVh0VUpnZjM4WXlVUDhXelBzNHNGWUZWOERmNzZTS0hKNjZRSWNlaDFzeVlKX0IzWTFUbk1NSEMtRW1CN0kwVW1fZ2V6V3Z0RzZCN1o?oc=5",
-          "published": "Tue, 03 Nov 2026 21:38:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOV9CbXZEUHJfZElxYkp2SWtyMTA5Qmc0X3otN1dDWnR3VFE0N08zX2g0elpOR1ZjR21GeGM2R053RV9mdERlWGpfVWpEU2VFOHlsRlRNQUtZeVR0VjB1WFZHQTVlX0tDS2xVSU02QU9sNGJuUlhVeTNhLU5URnZnbi1xSnM3blVaTTRfWC1SZm1za1gtMGxCVDk3UDdSdkRNRW9YRUVfTEV5Yk0z?oc=5",
+          "published": "Wed, 04 Nov 2026 21:57:00 GMT"
         },
         {
-          "title": "Fala zwolnień w beniaminku Ekstraklasy. Właśnie poleciała kolejna głowa - Sport.pl",
-          "publisher": "Sport.pl",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGs3VzI0N29rd1ZmY09QOTZFR1A1VHBZbTQxTF81SWFzc1NDaVZoZ241cW9jOXBhNEp3bmJ5cEt1Vkl3NVZCaF9YUzZZeGpCSzV3d3RRZ2VDTzZleUVCc3lqOEUwRVVfU0lja0Q4ZTd5MWJNdFk4UEVoMG41U0RZRHBxbGhqbVlDS0xBcy14eTc3LTRHbTc1Qkpob1pVQVhhRURfc3JIbHNwYUNybEZueTFUZw?oc=5",
-          "published": "Tue, 03 Nov 2026 15:07:29 GMT"
+          "title": "Bili się wszyscy, nawet chłopcy do podawani piłek. Aż 51 czerwonych kartek. Rekord świata - Interia Sport",
+          "publisher": "Interia Sport",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjF2cjVvS0J5NnZudmM0QXFRaWhQTWJSbllNMGs0T3dSM2dQSDhfUWtvNnNZZWdyTG9kSmxXRGo2aUphQjRWQldSdnJyalRfcFE2T0dneG1qZ1FOYm15QXluRWd0TVBvWFpMUElSYmV3T3ptX3M2TkdQdTV5QnR4VU8ya3JzN3Qwc29XTjRDcFZzMGVoZXpBX0ViazQ4R3VQVV92TF9tNWVabFlGM0VKeG53Wkhxdw?oc=5",
+          "published": "Wed, 04 Nov 2026 18:43:43 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Miało być kino i sklepy. Zamiast tego pod oknami wyrośnie im serwerownia - Newsweek",
-          "publisher": "Newsweek",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDluVFF3ZDJaQ1Y3ZDJkeGpxWDMzS3FtaVlKazFOV29vTzM3RWZfRm5IcTd1TG82NUNLX3djQkQtckVab2RBT0pqRWktNFJBM0FILV91MUp5SWU0TWhUX0E0MWhLLWdaV0RzaEVlQi1tbG9sMVlPaUFBcEFGNDR4T1hFUFRVVzQ5ejRzMFFmVDdWZ2xMTFM5OHZDUkYyRVpqclZsVG5nbUlzbXlpN2FDaHZENWNicTBXS1Vwc3lrbWZwQ3RocUd3?oc=5",
-          "published": "Tue, 03 Nov 2026 05:00:00 GMT"
+          "title": "Polski atom bezpieczny. Motyka: Zatrzymania przez CBA nie wpłyną na budowę elektrowni - Next Gazeta.pl",
+          "publisher": "Next Gazeta.pl",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0hpSGYwSHFyRVJHanNZbUZzQjlBXzNzTUtrUTdxdkM1YUlnZ2RFZ0x3R2ptdmpHUnVqQm1QWm5Lam9GN2VTN3FoSVU2akQ2YnJpWHZiNWdDejA3RVB0YkZYS2tWdVl4WlpzZVBMZlZyN2hqamlQZnJiQnJiUVAtMlIybDZHQXptM25zLVVRb2ctZWIyMElEU0pZckFURlBOTnBadW5xTkVESW1JZlhhY3NwVQ?oc=5",
+          "published": "Wed, 04 Nov 2026 11:50:20 GMT"
         },
         {
-          "title": "Tak zostawili świetlicę po osiemnastce. \"Obciążyć kosztami, to rozum wróci\" - Onet",
-          "publisher": "Onet",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWRiaWtLWDkxQ3A1ZG80Ml81emZTT1N1T2VGM0pLQTFLZmNUOF9TV016QUh2ZW44UDZ6eG1UZEFEekdEdTdPV0hVTU0ybWNnaEItdlNfd24xOHQwT1k2V0g5cjFKeFNxY3JXb2lYb2lUclhNMnBjWGN0Mkd5emRXTkthdVY5OFNaV0Fkd0NraDh5M1FZR2U2YzdhWThpN2NHdDdqajBJeXJRYW5QdEpLVXlwdXl5cDQ0SVgteThnNzMxQQ?oc=5",
-          "published": "Tue, 03 Nov 2026 07:45:40 GMT"
+          "title": "Inwestorzy w strachu przed Demokratami. Wyprzedaż Bitcoina, Tesli i SpaceX - Next Gazeta.pl",
+          "publisher": "Next Gazeta.pl",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWG1QOTF4NVFqbDRmQTdJd0hvQ21LWVhQSmRQa2J2SjRrNzBjZlJkVkhsR3FReGZwN1J4SzR4bzB5X2YtTC1oQW4yT09kRkU4OW4zZ2pwYm1vQVpSa2JuZFZMdkV3RXQxZzdGb2tJaUcwTGtHMXB6bFROM1NKc25XSFE5cDdnbGRNWk5zZGZVWWktTGZPUlYzSENyTzRLMGhlS2NvcmY4c2ZnRUF5c2luc0pn?oc=5",
+          "published": "Wed, 04 Nov 2026 05:24:56 GMT"
         },
         {
-          "title": "Majątek Larry'ego Ellisona topnieje błyskawicznie. Nowy właściciel TVN mocno traci - Business Insider Polska",
-          "publisher": "Business Insider Polska",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb2RIMlJsQ2JCZHNmTkVxRHBpNmNrZk1qM0t3eW15VjBtcHRnR1VtTTF1UnlpdmxPcFV1c1FHUldJa3VrYWNzQXM1bzZzVzBZYnMzc2pvYjNEN25tRWFMZ3dxdGdpZDNxSGNmaXRxMTdDdG9mY05rNGVrU0RKVEFXVjNwTXA0QmlhWGtfdUlEZnJzR2lfczlLMXlXUWJoWU5NY25BUllUcVd6R0JEa1VUMzR3dmNaU3M1MHN6R013Zk9fUQ?oc=5",
-          "published": "Tue, 03 Nov 2026 15:29:58 GMT"
+          "title": "Szykują duże zwolnienia. Zmiany dotkną ponad tysiąc osób - TVN24",
+          "publisher": "TVN24",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzNCREZaM1BpTVlwbHhBUS1pOE9yTDRxLVNhYngwQjF3MklYbklCRXduWmV0cm9LZWJnb2FHSGNjblB4ZnBtZFlMS1REWkF2WmE2SVFwRmViaVdiMUh4Q2d5Zzh1cXc4bmo2aUx1NE90cmFPUWRrR1ZDbUQ3SUVGWERVclgwRlRVQ3dMRE1GXzNEN0J0YnBPaTZ3?oc=5",
+          "published": "Wed, 04 Nov 2026 19:55:59 GMT"
         },
         {
-          "title": "Alarm w krajach wschodniej flanki NATO. Polska poderwała myśliwce, Łotwa szuka drona - PolsatNews.pl",
-          "publisher": "PolsatNews.pl",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnk5TEZwWTlIMEhKV2RFNU1UQVNnWDdxVUpHZnFNQlVULXRjTTV3QmlBa0hyVG5aMWFDMVl1S1l6c0V6aUEtUVBzQUNmeXI2Mmt4RjZNVEc2eVRyeUdaVExwbEpsRFFlNlRDV3BFRTg4ZDRmMTRaNkQ3MHgwbFRFZG05QVN3dXJFUEJNaWJZNTdxWGpzQUtLNUF1LTIzZUMxV2hra21RVnhKNXBsb1ZpaEVrMURNVWM?oc=5",
-          "published": "Tue, 03 Nov 2026 04:53:00 GMT"
+          "title": "Płacisz telefonem? Z Androidem zaraz będzie to trudniejsze - Antyweb",
+          "publisher": "Antyweb",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSEN2YnBDX29vRkVwVENVRnV6TGRpRzAxaTBiNUJEUVlndDNveXhsT1RIZjJOenBhcW1iRHF1d2xfbFNGZG55RXhjcF9vTTB6TU1ETDF5RFRIV1dLbUt4VXh4cTlINDZHMzVITmtFczFjWFVGQUQ3ZmQ5N2xfdzE0U1JR?oc=5",
+          "published": "Wed, 04 Nov 2026 08:00:07 GMT"
         },
         {
-          "title": "Fałszywa rekrutacja i sztuczna inteligencja. Tak hakerzy przeprowadzili największy cyberatak w historii - RMF24",
-          "publisher": "RMF24",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWxCS1RtZFJoN0ZfT1ptRmVUSTV0NTlsbHZTdHlhYlhBaUhqZWtkaVVZd3YyeUc1a1FtOC1Vc2hvQnVYZWlfN3NMMEZpenE3R01wYnFhREZUdEwwYUtDQXQ5eXdiRWxWaEJBSWx2ek0zR2hvakdDaEhFaHhuNWgyOEJfQzQ4bmZJV2pEck1YdURYM2NpbDJ3ZjVUd2g2TTh1WEZYOWQycHJQa1JneVpxYw?oc=5",
-          "published": "Tue, 03 Nov 2026 16:39:00 GMT"
+          "title": "Elon Musk ma kłopoty? Przyjrzą się jego firmom. \"Zatrudnijcie prawników\" - o2",
+          "publisher": "o2",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUEg4aUI4Y19GTVNPVFRPOWdzVHFVU1JlNktGaHZsblFMUVNDOTdVdXNnQlRHc0FvUVJUUmtpOWNrNHpYNkMwVFBHMlpzU1FnQWJmeFFmS3cyUU8yOE9PMGZpXzMzVzUyTDRqZ09DU1BuZ1NERTgydmYyR2diZ2R5a1QzMUllR25nVWs1TE5EOE9ONHZMNTBOY01CaW4wSUhXVWt3aVBTUUYzUUZqeEk4RWxLNTNCZw?oc=5",
+          "published": "Wed, 04 Nov 2026 19:14:46 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Soccer teams in Champions League pay tribute to De Miguel after his death - Newsday",
-          "publisher": "Newsday",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0dlWlVmdWlBZTdKTV96cUd5WF81T2RiaUtablRkV2JPUHd4YngyNkR2aEpuQTRtZjZOY3RIWG1nVk5CME16QU9WY3RxMXIzQUpjRWp3OHVXNGg5NkVrdmVESVhua2w1VFZsRmhBODNFc1FOWUFMNkxKT1owVm0ySkt0VGZpUQ?oc=5",
-          "published": "Tue, 03 Nov 2026 21:48:24 GMT"
-        },
-        {
-          "title": "Asian Football Confederation postpones 2027 Asian Cup in Saudi Arabia - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQnYzMTJHM0JLclNrVmZZU1BCbExiUGtheDJNSnljRFBJbnUzbWFVX3hCbDdibW1iZ3RYUDlmRjhQbUxCLXduak1hU2VENFBnNklnWEpwZlU1SlIzeFZTOENRZ3BwNXBvX0lqdkRienRVWFBTZ00xbzc3TzkzcEJ1ZTlaY0xwLWZqR2N4TU1ZcVlmZk4tNXVrbDdpOENWRjJ5cnI3Y202NkZTWVV2Wm1SOEIxVW8?oc=5",
-          "published": "Tue, 03 Nov 2026 06:00:00 GMT"
-        },
-        {
-          "title": "Barcelona vs. Aston Villa: Livestream Champions League Soccer From Anywhere - CNET",
+          "title": "RB Leipzig vs. Man City: Livestream Champions League Soccer From Anywhere - CNET",
           "publisher": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHpJRHUwWFhYZ0kxSkVMNjFSLWRXVjZ3SG8xcm1FVVExM08tSGJJcmJhTGRFcFZFbUVJT05iZzVzUTAwVUlmSFpaM0VJcjBSOU9PWkhBQ1RrOGFudm1QRkpHMTEwQ25xYWtLTGg0MkI0SERIS1dhZUNmU1dVZUhIZ2c2RlloT09XeEkxWFg0MU9yOEFyb3FrYkNGSGtTcm5maUo1NWFucVYyNC15VEZaYWVhZ0FhUXRJME1QRVRkZw?oc=5",
-          "published": "Tue, 03 Nov 2026 18:50:12 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUpVRnNEUXJxb0loWkg3TU81TGRyZG01QnJ3THk2TDFNZGNyaEVMaVdzUnVMT09OY3BybjJkbWZRT25PMzVxaElCY0NxUzlQOU5RRVR3SUNHV1oyVDNZWjlnTjdXTTI1UUIyQWx3WWRuOVB4STFETHRZNzRPY1gxMXBRd1FrczZzanZJZndNc3NQamVZSGcwZkRUQmtFSGpVRENlRTk0Q0F1WUpKbGZaM1NrTTdjeEVhSVBjUw?oc=5",
+          "published": "Wed, 04 Nov 2026 18:22:06 GMT"
         },
         {
-          "title": "Asian Football Confederation postpones the 2027 Asian Cup because of conflict in the Middle East - Japan Today",
-          "publisher": "Japan Today",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcXdybGNDMG5uV1Vtc19GQzlVa1RqUWVrQ0dCTTdDMzFjYkF1RHhuOG9JQmg1UWtKcWhObEEtbTNIRjFGVVVLb0k4enpiWmFpRnhSelhqN21fdGthWE5VS0otTk1qQkJHQ283OFdWUE9qRUtjZXd0bGU1YlpscmQ0ajB6SzBNX3JIZHFGUzVVbWhTMEN2WmhQM01QNFVhSjg3allhLWdGMzFHUTF5YmdMakplUW1ITDRNWGlTczJjczZiclZxRVUwX0M0R0x6WDAy?oc=5",
-          "published": "Tue, 03 Nov 2026 20:50:00 GMT"
+          "title": "Why a German football club apologised for posting a photo of a speaker system before Champions League tie - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcF9zeGQ4cEc1Z1lldVdNQm9SVGRJUklmTGtKc3MwM1pXTmVtT0ZlYlp6T3hsQnJSWTFMMmtvT0lNT2hIX3dvZ21mVFBrSlNnYnVBWHZXVHlQNFRlcG9XV0JsdWRjNDFudnd0WG1QYTVISHpSMzdqWVJ5QU05bG5zMkxHbFhIcXJteUcxbFk4WktSZVR2?oc=5",
+          "published": "Wed, 04 Nov 2026 15:39:00 GMT"
         },
         {
-          "title": "Asian Cup postponed until late 2027 due to attacks on Saudi Arabia - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZGdPdS1TSkdIUU41bUdxUGtqc3o2WHRrUWpuUTI5Y3V4bjlhTjFsM3pULXEwTmlVSXlrejhRTmlObjJkVV9pSlZ5UW1Xa0hfRUsxTlBMaWFJLS02R2duLVJrdGhRWnZLYzl4Wi1YTzBZcmliMEh6Q093WU9JT2c3a1pJUmZPUWRscEFydmlIVFlVazhhWWpJYktWX2cwQVk?oc=5",
-          "published": "Tue, 03 Nov 2026 06:13:00 GMT"
+          "title": "FIFA’s Infantino ineligible for re-election, says former governance chief - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFd4NGY5NFdhTzBHVk44NGtyQ2oyWkJRVnlnYVl2VFhVcUdWV2VqYkdHcXNZcENfc2ZJWTJ6ZTdhUTJ3aE5ZdEozbkd5ZFd2VjJWNVY0MnNNNUNiN056RHRudWFxektPNnI3bEtSSTNBRFVmNThVZU5kUEczTHpiT0pCckg0S0ZaeVdXSExodDBGZ3VPSkQ3N2M4R196Y1d4OTYxbFJnQzZidnQzQ0x1ZWNYQzHSAboBQVVfeXFMUFl4cjRXdHQ3WTM5QkxPaDNTWnhYTF9zVHRJa0xJOTZBLXNTZi03R2pnd3U5TVI2WmJzQ1pJdTk3UzBGeXFHbENOQl9kR1lTaE5zUGxmblJUZUEwR2xKWmFfTi1KVTV1WVBvMnI2OHQ5Qm1RM0FLUlBiclNuV2otX2tYSG5VWGlGUnJ3VWxsWGNFVkVWU0Z3aWJzeGZJMTcxdWc4T0xyTWhCd2ZyazMwd1Q0Y2dNYU1xcU1n?oc=5",
+          "published": "Wed, 04 Nov 2026 11:27:02 GMT"
+        },
+        {
+          "title": "Czechia Champions League Soccer - Idaho State Journal",
+          "publisher": "Idaho State Journal",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYWdnbzNpSFVSUHJzbWdaX3pYa3VlOUNjejBiZkI1cVN5YjB2RUZPMTdiYWszS3hZLTZTLVJQaVQzODNPSnJVeFFybFJ4SlhRNGd6cXlHdzJEYnZ5RC0wQ1VNeU9pU3A3eDBaWDd5UUhJRHJaeU5BNUpJc0xFaTJmbXM4b3l2MFA3N1p0MWdtU0pLbXE1NEh0WTBNZnJaZG4wZG1OUm5PZHVQcEJkbXh4WGlfejN1TGR1b2lSSmJIeVE0ZmRGRVJ0ZA?oc=5",
+          "published": "Wed, 04 Nov 2026 20:44:35 GMT"
+        },
+        {
+          "title": "Germany Champions League Soccer - dailyrecordnews.com",
+          "publisher": "dailyrecordnews.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOVVBQ3oxMGstUlJySzFiT3pBYWhZejFVS2RqMXVSRFhXdFh3eTk1NmhsZWxQY29qWXlCTGJwaGdpLWNuVmdTbXBDamhBWHdpcG1fNEpUdmN2TER2bG80QTdwZkg2ZjJwRHBHUnpuanAxbFozTXVlTW51YzdIUUEzVGpvbEJJWFdLLTMzVUtmVmYzUXM5NVd2ZWgyV3dDaG4wNXNqZDhMcDZwc25STG45S1BWMGZ6ZXczR1Bab0xDeFBRWWlh?oc=5",
+          "published": "Wed, 04 Nov 2026 23:45:08 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Nicolas Cage says he's 'a little bit homeless' as he battles massive sinkhole at his Malibu home - Los Angeles Times",
-          "publisher": "Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0FjRms5dm83V3Z0QlhDVEpyQmlQYV9zbzNBUnl1eTNZbGwwMGhqQl95aWZuZ1ZfRTJQaVpyUzFaZUZ6ZjdyelpJYk1YbWRzN1IxeTFDb05nRFp3RlN5cFhYMzBWX3llQ25FMnhVb0RycC15UzBzS3k3OTJEdDBnZnQ2dlBLX2gxbG0xQkcwaTdxNTRLVlZ3dTVSVGtPNW9LTmdnOW03d1k3emVr?oc=5",
-          "published": "Tue, 03 Nov 2026 19:30:20 GMT"
+          "title": "Bob Dylan Meets With Pope Leo XIV in a Private Audience - Rolling Stone",
+          "publisher": "Rolling Stone",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOekpEeEF0aDBMQnJyNG1OTldpUUVaNGtDMVlrZFZEMmFwdWpzZHZoOUp4bDZLMmdWWW5wdWtzeWZ1bGZNeXJDbTluY3RZYnhDU1JxMHhoaFNMSDNUMF9jN05rYnM0TTVuS0hzREZjMTdpUlhjb2JrcEZtNTcyYkxTeDRybVBEWGlBVS1xc1BoektmWUNxZVQ2a2tNaXpYRGZUTnp0Yw?oc=5",
+          "published": "Wed, 04 Nov 2026 19:18:44 GMT"
         },
         {
-          "title": "Tony Butala, co-founder of Lettermen vocal group known for 'The Way You Look Tonight,' dies at 87 - ABC News - Breaking News, Latest News and Videos",
-          "publisher": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUXhXLTFCeGxkcUp6NVFsbnNDV2hScnkxRlEzMEY1WUlkZERVZjdIaUdVbm9lc0lra3huNUZiYkk2bTFCZHFuTF96MmlGVWY3Y0VFTEFwcWFUQUxpQzdISmQ5LTFiSllwMnRhRGotLXludVVtYXlmdjNnR09XQ3B3VWxrZnhOTjhnLWdsalk1VU1lQUJESC1XcmpMUTA2QlRfNzJzY3Y4dmkzU1lI0gGyAUFVX3lxTE1pcWhiU3NlX2JBZmR6cmJQdzRZakRLbDJuQzNadkVLSlNSQ3pjMWZpdWtkUTBDZjM5akYzYUJ4WHp0d3F0dm1rd3VMdVRDQ3ZXTlNnSk5xeldnd2NOaTQ5SmppRmtjamI4Q3ZqNFFySUhhTVFTQ3RmYlA1YkprLUhBNHBZUUd6c0xJME13SlZQcXlxbGpIc1JQX1pCZVpWTlVsdVV1cUY0YVB4S00ycUh1RHc?oc=5",
-          "published": "Tue, 03 Nov 2026 22:35:32 GMT"
+          "title": "Pregnant Mormon Wives Star Jen Affleck and Zac Affleck Break Up, Divorcing After 7 Years of Marriage - E! News",
+          "publisher": "E! News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd3ZsTFUzOG1QVVFmTWU0dFNLS25XdjNoNFlHYVFnWDZ2WTdZTURzNnVaSkxxWE1LMzZGckJiS2xza2QxVmtKMFdlN0ZzZktrXzdBMVFhTzM0dk8wd2M1VjlDMF9RTEs5R2dKNXZBYUd3eXR0clNJQTNXcXFscUFwWUFzbWM5Y25KbHV1Tk5RME5QTW1wQU4yZXFsQzgzUE1YOGI4?oc=5",
+          "published": "Wed, 04 Nov 2026 23:07:00 GMT"
         },
         {
-          "title": "James Wan and Jason Blum Unveil New Company Name: Blumhouse Atomic - Variety",
-          "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcVl1VWtPUHVYLWM1QUlqYUlNeDhpWU1JZ1dKaXdWNkM5emppaXVmWHBZUzN5RFE3dWlUa2JMX2c0emlEYWZCaDJ4Z3RQdVdlR1NlaW5DUVpNUXhkaS1FeHY5N243WGpIdjgxSVdpdjd5dnIzSWhTckx0UU5IaGItOXNONmt4enAzOE1HNTJ2REVLeUNwQkc4TmtZWG9rYWJWVTFJ?oc=5",
-          "published": "Tue, 03 Nov 2026 18:30:00 GMT"
+          "title": "Hailey Bieber Details Emotional Rollercoaster of PMDD Diagnosis After Son Jack Blues’ Birth: ‘Just a Really Intense and Special Journey’ - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2N3QWdNLWtVVm1YeFJUQm1ONUdJbFRDZXhabDZ0UW5OZnQyTnk5SU1vUF9iUHpabDFmV1VabktHRDgwUTlpc25veVo4SjNlNk1EN1BhejF4bERBb0lsdUp4YkJ3NXNFN2Vaa2syYWdnaG9VZkZiNldYTVlvemN4aHdmNWE2RmEtY3EyclZ0X3VVVFgtT1VGMFk5ZXlmZlJPbFhxc2pOOFFNTFhxckdCYXUzOWthUQ?oc=5",
+          "published": "Wed, 04 Nov 2026 13:38:20 GMT"
         },
         {
-          "title": "See Matt Damon step out with daughter Isabella, a newly signed model - USA Today",
-          "publisher": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2FVZl9xdHgtUGFZNHFaakNPN1FsaUtwdFJyb3lidUlkaHo4UUg4OTYyRXhXeXh6REtWMl9tRE11SWJXekY2N3VXMUVoZV95U1d2ZEFQRXBFVnVhWHh1OTZsUnpWYm95UG55ZkZBM3ZMMnh4dklSdC1CSWxia2VGbFhjZmJfZk9BZWVTYzFwRGwwSnNyY3NPd2dzLWFKWm9SVEpoV2h5bkhBc1o4OW5CbkVyMU9Bd2xibkphV2V3VQ?oc=5",
-          "published": "Tue, 03 Nov 2026 23:04:00 GMT"
+          "title": "'Breaking Bad' Star Dean Norris and Wife Bridget Divorcing Amid Financial Issues - TMZ",
+          "publisher": "TMZ",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PWElKd2lEWXNaU3BiNUY0WklMVDlzZXBBUDdvWkNFdk5nM2NHRVZseHBPOEV1UzUyaHVVbXNyckkxLTk3V1FyZDNUZDlTZFhsX3BoQ2MwQnA1Y2xoX0ZraVVIUGZQakU?oc=5",
+          "published": "Thu, 05 Nov 2026 00:30:02 GMT"
         },
         {
-          "title": "Cher responds after Michael Douglas shaded her 1988 Oscars victory over Glenn Close - Entertainment Weekly",
-          "publisher": "Entertainment Weekly",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10T2NVbGdrT0dJd1F1MmJJYnd2cWxTaW8yWjdTR3RQdEpXNjkzMjJOdGVfRjZLR2VQMGh4S3RzOTc2bllTV011ekNSZndMeGZOYS1hV0E0M3VjTmNlNERLd2NHUjR4TWNkcFR0bDZLVkhtTXFvMm4td1hR?oc=5",
-          "published": "Tue, 03 Nov 2026 19:29:31 GMT"
+          "title": "‘The Secret Lives Of Mormon Wives’ Star Whitney Leavitt Gets Her Own Reality Show On Hulu - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2l5d0NHWG9nWUh2MDhsSmFhbV9ueHo5RThlUWtGR0YxRzM5R1VsSjBiVUdXRDNod0lXUDJfX3ZYZ0xVU3Y4WnlFVk1ZS2U3M1RWT09wLXFjcTE4ODVfbVNXd0xFMFAxM2pCSzZxa2hJT3dNZk00NGtBUnUzakpyZXhkUkVxNl83NEZrXzNHdWo?oc=5",
+          "published": "Wed, 04 Nov 2026 20:00:00 GMT"
         }
       ]
     }
