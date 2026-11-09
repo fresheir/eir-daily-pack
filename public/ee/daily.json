@@ -1,7 +1,7 @@
 {
   "market": "EE",
-  "generatedAt": "2026-11-08T01:06:08.600518Z",
-  "validForDate": "2026-11-08",
+  "generatedAt": "2026-11-09T01:26:43.740554Z",
+  "validForDate": "2026-11-09",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Krakówi massitulistamises kahtlustatava kodust leiti kolm surnukeha - Maailm - Postimees.ee",
-          "publisher": "Maailm - Postimees.ee",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM2NhZF9ualdQTXFadGY0VFRwSmlrOFY1TWR3T2k4enpYQUhhc052U3FnT1FfcUxEWklnTXItTEFBak1PMzBKekExLTNQdnBWX3FUTzRuREszaGVPWkFxRk1DOUZmOEhfUHlmU2JJUjF5NlZFYWdZQWdCcFViWVUteE1EYmozdmFVMDlHMHctUUdJMlA3ekhSUFBuQlg1Rmh4N2ZYdmFR?oc=5",
-          "published": "Sat, 07 Nov 2026 21:59:54 GMT"
+          "title": "Pärnu ja Pärnumaa üritused neljapäeval, 12. novembril - Pärnu Postimees",
+          "publisher": "Pärnu Postimees",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVNNS3V4aDZSaEFlcDBCdWVXS253RkRvTDFjVUthMUl6QVJWR2pEZzlFaHFFVEtPRzA2SFlvUjlSazE5ZklQYXlnUlBhRlpTZ003YnRrWHVPR0dHbWUxT2xoM3RkVG9vQjM4Ri03TmZRX0FHQzZieGloSmtxdGRWV3lKZ0lmWXQ4dnJQeW9lWQ?oc=5",
+          "published": "Sun, 08 Nov 2026 22:01:00 GMT"
         },
         {
-          "title": "GALERII | Tartu võitles lõpuni, kuid jäi tiitlikaitsjale alla. Kuusmaa: polnud mõistust, millega pidanuks mängima - Õhtuleht",
+          "title": "EKRE lubab madalamaid makse ja odavamat energiat - Kanal 2",
+          "publisher": "Kanal 2",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2pPT1otWFNuck9hTHBfLW9UZlVxbzlncE1tTEN3bDBsLXB1V25tQkFPNE1xNDI0ZjUxZ1JSSDhmRjlhaGZNcGg0ZjNMTERxTFJva3JTSkNSUEl1enlydF9XOXBVQkFQTTVseGgyR3RVSTIzTG5fMXg2SzVZR0Y0TWVnM3BiaklGNTR3?oc=5",
+          "published": "Sun, 08 Nov 2026 17:08:38 GMT"
+        },
+        {
+          "title": "KOKKUVÕTE | „Laululahingus“ selgus, kes on esikolmikus. Üks kooridest põrus nii vaatajate kui ka kohtunike hääletusel - Kroonika",
+          "publisher": "Kroonika",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNU5wbHZxTWNOM25maGJVT3lBNkc1WkxmTUNEdW1LZkc1OGY0S1g0YS1DcXNfMkpSTEFzRFE3MHhRWkxrS3BNTllnOHZQejZzbHhUX1ZBcWZsWkNJUGd1Y2FzSjVZTHlsVVRzTFpMOGp6VTgyc0stYXlKdktvZW9FZHdJenVjV0tlUWtGVHhZLWM5elRKa3FycmQxWU9LZ3BVYUI2VzRybkF0YnM3R2MwbWg5bTdYcmZFeTUzcg?oc=5",
+          "published": "Sun, 08 Nov 2026 21:03:38 GMT"
+        },
+        {
+          "title": "Otepää valla aasta isa on Tiit Priidik - Lõunaeestlane",
+          "publisher": "Lõunaeestlane",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGZHMxSmJsYzNkckVBdEhkYUlDWVhNemlyUUF2bFVzT2VoWm52RkRKQ2lfUy04Mk94blQ4VVREMzg2RU9WYXV6aWI0U0tNRXB4U3FiUlhwV1BpMkp4SE16ZWJVRUlTRTl6Z1EyWnZvVXdYQQ?oc=5",
+          "published": "Sun, 08 Nov 2026 11:17:37 GMT"
+        },
+        {
+          "title": "VIDEO | RAHVA HÄÄL: „See on minu jaoks väga valus vaadata.“ Kas Tallinna loomaaia loomadel on piisavalt ruumi? - Õhtuleht",
           "publisher": "Õhtuleht",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeXMzd3RZc09TZFRjVl9rdjFjRGtibjdnN1R4WXE1OWh6eWwzS0N2dllpMDFPR1BDY3hBSE5Zdlg0X2ZYbUIzME1JYng5Tk9aMTZlMGpDR1VtZUNERFpCT3dLWGVyeWZaenZEUVVmSXlOVDJyelRtVVg5SVFzTTd6MWdYTUlDazRNZV9INHBKUzBfS3ByXzdtMUxxNFdwNkFyaDRxSC1xMmNkZ3NpeDViQTJ1VUdBNXE3bF9pUnpZR3pHNmRDaFpOWnZLVHJaaVV4TVpsc2dn?oc=5",
-          "published": "Sat, 07 Nov 2026 20:31:56 GMT"
-        },
-        {
-          "title": "Politsei tabas Tallinnas kaheksa ebaseaduslikku sisserändajat, üks välismaalane leiti korterist surnuna - Delfi",
-          "publisher": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbml1WWY5dURKeS1aVDNqeno4U1YxdlF6ZktETFl5VEt0eGNyR1FYazFhRnc3Z1V2T1BNUFc5Nktkd3dnbWhBSklxRFBhOXFqUldLYVIxdVcxeUsyXzdzdDV5N2RxZXNCMWpOV21vUEZQTXdZNUVJVl9hZnl2T2JLM0VYa3BzTGFuRHJ0RU1PN0NPWkNhcnMxbEowdTdPZ3RnUk41ZVFXQV9hTlo2ZE45ZG1hd3pWdnd2UHRnYW9WcF95UTIyNFY0QlJjbC1PT3BTaGQ0N3J5YWZvZw?oc=5",
-          "published": "Sat, 07 Nov 2026 09:49:00 GMT"
-        },
-        {
-          "title": "JUHTKIRI ⟩ Isad (ja emad) muutuvad ajas aina väärtuslikumaks - Postimees",
-          "publisher": "Postimees",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1VQSTBRWkQ1Ty03ZXNiRTV4dlR2elJtUzJLXzJzMlgyRFNSZ1pUUUU5ZjlmZ3JIcUlrYm9BYUR2eFctRFh6Sk1VY09qU1JEWjhiUzJZWS01bTdkSTI5UkkxYWdVS1VUdFZiSnM0UGU0aXJNcTVjR2loRkhWUmNSa0xEUGZXRDlyWDJIY2ZUd3pDQ1FoYWQ1Wg?oc=5",
-          "published": "Fri, 06 Nov 2026 16:40:00 GMT"
-        },
-        {
-          "title": "NÄDALA NÄGU ⟩ Järjekordne ränk hoop oravatele - Inbox.eu",
-          "publisher": "Inbox.eu",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2Z2Z2Z0ZURrVGo1WVJUcy0zZ2ljWm5xMXg5VTExd2UyZ0xRVXU3MWFKVlBDVlhFNU5zMkFRZC1DUktSNTA2RGZUemdJOWw4X2NQQkJROGtmU1lVelNiRUlYWkotUGowb3BlSkJZMUFnU21tbERGeEptYzVVeHpMMGxlQVljM0xrR0dMZ2FpamdRdVl1Z0lvbE9HUmxTOUdq?oc=5",
-          "published": "Fri, 06 Nov 2026 22:02:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSGhCamdOckNlZUVib0JTNnMyN0RKWW9LOTRGQVV4Ynd2TUNOWkdRbUtmSzBGakxMeFdUMDBvcnN1QmI5MFhnTmJLaHNnRlQ4MUpmVmRPVy1hV1FRNTg0RHBwTjBOTjVwLTE4bE9zLXZXdlRPc1VPTHZCanh0cXhRajRQZTlLcHVjeHB0THl4ZWZZSnZvRDBfNHNHcDQ1QmxvY3ZXUXM0QnZDWVJmUXBzaEZiMHUxQVUtWmhOUlhWZEcxVk1vLUQwaGl6MUlQZ1R3YXd4WXBKQXVBbHJVYVl5NQ?oc=5",
+          "published": "Sun, 08 Nov 2026 14:22:43 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Iisraeli kaitseväe endine juht sai ülesande valitsus moodustada - Maailm - Postimees.ee",
+          "title": "Egiptuses hukkus rongiõnnetuses seitse ja sai viga 112 inimest - Maailm - Postimees.ee",
           "publisher": "Maailm - Postimees.ee",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUzNGQzF0azNkY2hELWRkeUhSWmFqQlFsTHZqS1FBV1d6Q2F1YlRWanN5aUVGMV8wcUZvLXZoS2ZPbUtHdl96b1dBRWFXOHlmX1I3ZXd2Ni1vLU1ZX2hNMGtiaFBJTkhSVzhWYk55UEZaQUIxYndzNVBXQTl3YlVjMS1VR3NwQy1xRGhlT0ZWOGZqMDdEcGNOR2FUbzlzR2N4?oc=5",
-          "published": "Sat, 07 Nov 2026 21:32:22 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVFFBWlczRTBGb05JYklLSFFiYTdTQ3J1bGdYME81WXBQOG15MmNuTmlrWjR2T3VCeTgwZVN4VFA3dTlJajVHNmZsM0pFQ1J3X3NQLVFUdEUtYzcxV1RUam94c0NjeTU2WWlYWVg1SUdPTUdyR2k5WDEtRzdMcktMcGJhSnlqamhVYjJDVFhIell0cjBHWmExaVVFR2hWWms?oc=5",
+          "published": "Sun, 08 Nov 2026 15:31:02 GMT"
         },
         {
-          "title": "NÄDALA NÄGU ⟩ Donald Trumpi hävitav kaotus - Postimees",
-          "publisher": "Postimees",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc2lIejNKX2dneHI2R1l5YW43TlJ0WEpBX01wc1ZFZHBiRzdyTXh1Z01sN3FlWGJJcE53b0JBNmdoMU1kbWlCemxiNFZkTnh1alhPcXhjN0h0MEJkNkw4Nkl2ZW11Yl8zQWgzS3JPWE1qbWFJazVLNk10ZlNTeno5ZU12dw?oc=5",
-          "published": "Fri, 06 Nov 2026 22:01:00 GMT"
-        },
-        {
-          "title": "Euroopa liidrid tõrjusid Washingtoni plaani arutada Moskvaga mandri julgeolekuraamistikku - Delfi",
-          "publisher": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY1NRaUc3blRiV1VFbkhhdnRKZGNOZTc5d090bWVob2lPMU1FWE9vemg3MjBkMmJzUHc0Y0VUMEZ0WEI3b0dtVzBzVVRaYmc1SEpTdV8zcFM0b2JBTElPQ01FRlQtd0p1dXRtVld0aUZQQ25nYWI4b054V3Y2MjhyX0locWFLZGh3bm1jSmtkZjhOMmRiQXhxX3F6SDFKamF6dmxxYVM1TVFnMDVjeTY2V281T2tKcE5hX1NMeWU1ck91ZzJXVUdKMw?oc=5",
-          "published": "Sat, 07 Nov 2026 04:38:44 GMT"
-        },
-        {
-          "title": "Ukrainas on pärast Vene õhulööke suured elektrikatkestused. Putin lubab hävitada kogu riigi taristu - Delfi",
-          "publisher": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMlk4b2lsVVVza1ZZRUxiNU9tUjdjRHB5ZjFjdzJJMlNGNDJuZUFyb3loVUxNUjV5dmtoN2N3QkJUNm1TS1g1MWt2M3NGMVhZamMzdV9XaXgtVzJGTmNYd2hkQVR0YndEanRCZzJpUEItR3JFWUxNT0VGdFlBdGt5NlBEZnVGRUM5ZC1kM1FBcGF5VFR3WlowLVU0TmRLd293dVhfdkZKRUhiOEtud0RPT2RTNWRLYUpkc0VwS2pHWlFuQjRVei1XVW94b1U1Zy13YnpDZA?oc=5",
-          "published": "Fri, 06 Nov 2026 23:20:00 GMT"
-        },
-        {
-          "title": "Prantsusmaa tudengid, ametiühingud ja kollavestid valmistuvad järjekordseks protestipäevaks - Maailm - Postimees.ee",
+          "title": "VENE BOTID AKTIVEERUSID Poola terrorirünnaku järel vallandus sotsiaalmeedias valeinfotulv - Maailm - Postimees.ee",
           "publisher": "Maailm - Postimees.ee",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjkySl8xMnNlbkdFOHg1SUpmZU9UYTA0eW9hZmNUekpPc1NWQWJUekNIcC1SaU5oWlViSjd5dHZUR1V1MFBQWEhUQ0I0WFpKbzdmSllvVFJwWkxtVS16NF8wZ3VhT0U4VFI2bkJSaHZlOW1ReGdCYjBmRjJfNmlJY0MtSk5ReEN1VEFNb3VSMy1IcHNpZjFyeDFjdzNsMEFPemg0YTZrMHo4N0Rwa0Q0cmFCS2IwQWZZVGhHZzVRRDZMTktM?oc=5",
-          "published": "Sat, 07 Nov 2026 08:00:57 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWotbHl3cTFEaGtKcHBvc3FmbU5HUzNKdjZuVHhqUEQ2TXR4bFJBTUJoazY1YWJ2dkhEeFhfVDc0OW9sdlNhOFF2dDdzTGd0ZVRUVEhxYmRVSVRmZWNTWS12bGNVVmRrSEJ0SEdYSWhYWjFMNWlLZHJzZ1NFVGxhWHNDNU5DMXBuM09hdnd4OHM0dnpaSGVDeHgyQUNPOS12V0R5QTZWdktPZW1EYTc5RzFQck5SLVpKN0Y3Qy1xUVgwZGc?oc=5",
+          "published": "Sun, 08 Nov 2026 11:27:59 GMT"
+        },
+        {
+          "title": "Venemaa ründas taas Komõšuvahat, sajad tuhanded ukrainlased üle riigi jäid elektrita - Delfi",
+          "publisher": "Delfi",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVFBhclhQcTdyV3ByZGlWWXczUDI3d2wyYXNWd2E2enRUeXpFcjBKUDQ5Z2czZWx3SHQ4TFBjbnk2NVBCWS1iODlXSndIM05YMHJYM0dPMFpwX2o5NEttcW1SX1UtekVkM3Bqc0RUdDg2ZFJsYlF4b2N1M2FQWlduRHpkb0xTOGgxT0xoT3hIUDZKNER6WktfX3EtUFo3ZktZSHBsM2E3MUFwdlhGQnpsX1pISURBWngxTndnM2JPV3I?oc=5",
+          "published": "Sun, 08 Nov 2026 05:49:00 GMT"
+        },
+        {
+          "title": "Bloomberg: Ukrainas on hukkunud ligi 400 000 Vene sõdurit - Maailm - Postimees.ee",
+          "publisher": "Maailm - Postimees.ee",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcnA5VVJJTVBzaHJSZGlWNTNLbnAyTUxvSmp0NkF5Y25pb181MDVvWERlN0RkeldHeERpb0VYTUtrY3dzQ05sQ21kWmpjT2JUMmhfcU1KRzJTbHY5QmMzTWFJb3IxOV9POWxCZE95Um12Z1RkcWRiMjdldHJ6LVB0RGVRU3lOb3VlYWRNd1BGR0c4LVdSeWM4?oc=5",
+          "published": "Sun, 08 Nov 2026 17:44:34 GMT"
+        },
+        {
+          "title": "Raivo Vare ülevaade: maailm valimiste meelevallas - Edasi.org",
+          "publisher": "Edasi.org",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KbkpsQWNLMEl6UXZUdktwWFZpQUc3VjFtT1NQOHNSVXZjVU5UTW5lazVuRk5ya0w3dVZENjdGLWJURXhub2ZoQUwwMnUzMEFLMXNZT2IzZFF6UzFaNjhQY0cyNFpMTHRHVVJGSS1YZEFyQ0thZkpqRVpxZGh1SWM?oc=5",
+          "published": "Sun, 08 Nov 2026 05:44:29 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
+          "title": "Kaare ja Lill said Poola MK-etapil kaela pronksmedali - sport | ERR",
+          "publisher": "sport | ERR",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3R6WDJtaERjUlVXOW9feXFucDJqXzhfVUpUSWUtZ0ZNY2RaWEF1SlZGMk1NNE1jNmU1LVUwRzQ5ZVp2V0Y5anJkOGZHMWkwME5NYV9aU2FBaEZBZW13aDdDVEZNOVJ4ME1sVGtWUnRJTm02ODFUOGlEZGtNb0kxZm04Mk5feDk5VlNmT0JB?oc=5",
+          "published": "Sun, 08 Nov 2026 19:12:00 GMT"
+        },
+        {
+          "title": "EKP kujundab poliitikat andmete põhjal, sest inflatsiooniriskid püsivad suurena - Traders Union",
+          "publisher": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGs0VlU3NldNZ0xGZVI4cnJvampDSjA1M05Qcnl0SXpvNkpVa25GNDNVMnQyOHdOVEZYQ3dGSWZLRWZpenpORktLbHVkSi16UDRVcDRtYkZLMmVNRDdtWGN6b0g5ZW44WDAyQWlDUkJjQkY4ZzFxdG9NRWliYXJTMEdUNkQzaV9VLWZHS1JjWXZPZGlvdVNRc3BCMUhkTkVM?oc=5",
+          "published": "Sat, 07 Nov 2026 14:22:21 GMT"
+        },
+        {
           "title": "Wall Streeti analüütikud soovitavad pärast USA turulangust aktsiaid osta - Traders Union",
           "publisher": "Traders Union",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSDB4RnI3eVdwZVYxeGhjc1J3eFI4VjZWNGZxTnRUZUtKQVRNNS1YOUlKV0J2cl85aVowT0NKQTQ5Yk9EcVBQb3l2WDlzT1ltMW9qR1NmYmptcEdiWmlXWmJGcThTenlsVlZTZVR5QkRQSFlJcHNyMS01YmszZ0l2NjRyalhPUQ?oc=5",
           "published": "Sat, 07 Nov 2026 15:14:15 GMT"
         },
         {
-          "title": "maailmaturu naftahindade langus ei pruugi jõuda Eesti tarbijateni - TV3",
-          "publisher": "TV3",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFJueWt1bzNfdWRGYl9xWnNoSzBNaUc5V01YYVk1VGFVYU5SVFRuSE9aV1dSVDVwTUtTdTAyeEdLUU1aTldwM2V6emlUNjhHSXVSbkRjejFKZnN4OWxaeEg1bHl2aWI0azhySG1kZkt2TEowYVRPU2ZqMjJYak1aeHBJTlQ5T3BMa1o5dmJwNWV3ZDRYMlRkQ1VLS29RUXE4VGZLZXNXMk5HVVczRGt2MFJrbkNyelYwTlVZRGlOdw?oc=5",
-          "published": "Sat, 07 Nov 2026 15:49:36 GMT"
+          "title": "Eesti Energia koondab ligi 400 töötajat - Ärileht",
+          "publisher": "Ärileht",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeFUtVmdoUU9MTHFTVzlTYVQ4MzlGM0I3cXZXNjR4NnRvaDJHNUE5NldtdVhRZGlmQkZxMjFMYWlHUDZZOU9mVnZUaTQ5bnN4aURXVndsYW1oamE5LTh3QW1XUWRPVUpJYmRYMnVndEplX2lQeGxnXzZTdlBCWjh2VXFpQ0N6cXE3SWRqR21QNE80bnRobHJDd0pjTnBGOXV3VkdKbTR5QzdHM1F1QTl4bmJLUk9WcGpYY0Q4VWZfdG1uRkE?oc=5",
+          "published": "Wed, 04 Nov 2026 21:54:00 GMT"
         },
         {
-          "title": "Jürgen Ligi inflatsioonist: toiduhinnad on jaanuari tasemel, käibemaksu kärpimine oleks fundamentaalselt vale - Majandus",
-          "publisher": "Majandus",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNekJhN0dKOHpsUFZ1MWJJaXJyQlBBdEFRTkVLOURhQ01DUXNNOWgyMFpobEtDM3p3MXU3eVd4ZVFqT2ZtLWs1alBqOFdaRzNvRjdSOVV5eDFoR0ZjWW5SdHE1LVdsRjhLSVpvUDFLZVByUFo4X2RzcUtTMHlVQ0poUHd2bG5rVU5UNDc1UHc2cVFzZTVhQ3Y0RExPc3F6dVMzRV9UajY1eTE0QWN5cVZwbGtxVkZVZXJfTlZmTHFHa01rMFBmUW15bjFqYWhRYUJ6ZlYzQTVaUnhqX01HVnc?oc=5",
-          "published": "Fri, 06 Nov 2026 13:24:36 GMT"
-        },
-        {
-          "title": "KÜLM SÕDA KÜLMIKUTEGA! Kes külvas kaost Euroopa poodides? - Õhtuleht",
-          "publisher": "Õhtuleht",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUhuQ09mUHRrRDRlRWtSdmJOTWJ5SkFRUzNzZmZRbWMyNjdJWmtxU0dCM1hmd3lFRW9fbDc4TTkxX3Y4c0xxbUI5U1NBaG5XRlFGUkhBbkxqUTdfcHZ4VWt6M1dJNDN2a0I5QlpzRC1wV3VEVTdzX1hxUVlxbjhkTjBxSndDb2t2WVVzanhnRmg?oc=5",
-          "published": "Fri, 06 Nov 2026 19:55:15 GMT"
-        },
-        {
-          "title": "Mihkel Nestor: mis iganes on viimase aja koondamiste põhjuseks, kätkeb see Eesti jaoks suuri riske - Delfi",
-          "publisher": "Delfi",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWFotcmt3Y1djaDJpaTlnTHdFYVVjcHlXakZEem9rVndQbjFzdnpqQjlieTJJV1g0elFiRWVYUVBVdTBlRnp0SXZ6SGFQT3ktakNMSWk0M2RVR0FLVVZRWTNHaFBILXNsSzRzY1Z5U1F0UldIVUJXMDFZalRhNVdOTXhtUlVLN1RWNlh5X1YzUkRiTGdfSTFPdVlvMDdISTlXMWprNzRrWGRveEJCT2ZYdUp2VEpCd25hY29FSGVuUnNtN3YtVXJXTk4xWTVnejl4VXF1SUJDcw?oc=5",
-          "published": "Fri, 06 Nov 2026 19:05:45 GMT"
+          "title": "Katre Kõvask saab A. Le Coqi juhiks ja hakkab juhtima Olvi Baltimaade äri - Tööstusuudised",
+          "publisher": "Tööstusuudised",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXphX3BVYXdfLWs2RlJkTU1PLWVOMFhkYTRtb0dMN3A1ZUppdXdRWTZHR1Bxa1Q1Y3Rma043RUZ0bmpfVzhHQkplYTI4LWdhQktVWnF6bkk1MUFmMGF4YU5EZEJzQ3lodkQyS2JQbmdpdm1qMmFMSUs0ZDRVM2IzVXdEZ2dJbzhpS3NnV3hqZHdyTmh3Njk1NWRQRnhsUnBpYURIV0xZa29kY3g2bHZ6TE51NzdfUTQxa3VnRlJR?oc=5",
+          "published": "Fri, 06 Nov 2026 07:16:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Memo | Flora paljastas taas haavatavuse ning pääses üle noatera, aga pääses ka Paide (galerii!) - Soccernet.ee",
-          "publisher": "Soccernet.ee",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaTl1dDJzRlFxdzRRWFY4emttRUdNZGRkemZaREJzMllOeWl2cFliSlFnTWJHX2ZESWFJRVR1ZlhGWDhEUko2WjdoXzNQZmdGLWRmZWtPWHRZOGpwZzNBQ0hHN3ZJcFdjdnJaU3dSRFpjUzhCSmJ2anJXRkJJUm5aUVhsV3BDd2tzR0l6SUg1WWhINHRmYXdDUE90ejhSZURrSTFaMmQ3b293WjJ0bWdzX2NQUHBMaGJTQUFvaFI0QUU0Zw?oc=5",
-          "published": "Sat, 07 Nov 2026 17:28:19 GMT"
+          "title": "GALERII ⟩ Islandi koondis näitas Tallinnas käsipalli kõrgpilotaaži - Postimees Sport",
+          "publisher": "Postimees Sport",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVdyVFcxNUFUV1FlTmZWRjlIR3o1Mkdadmc3aUZRSXlOWHBSV0NZT1FxeHM5N3Z3bVFoTnJYaHlpSmswaEJ3N3FtQW9pNGxPMXdUUzBfcHg3YXA5MFNwMlpuclh0TThrcUp3Z1F0M0g2WHMyT2loVVBCLTVpdzNmWXF1SXNRNThJYWVQNV9icnN3blJDYkc2YjJCdk1ZU0Ft?oc=5",
+          "published": "Sun, 08 Nov 2026 17:29:58 GMT"
         },
         {
-          "title": "Poola meedia: Hugo Toom liitub Poola kõrgliigaklubiga - sport | ERR",
+          "title": "Pruuli: Paide Linnameeskonna klubile tõid esimese meistritiitli naised - sport | ERR",
           "publisher": "sport | ERR",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb0lPdHZVQVJ4dUNubFhEcTNwcFZ0SlYwRjlnYTdMTm1JTTJPSnFJUkdYcnZ4Vk56NHJiTXdHVTRoeEg1REswNkhKVHVVSy15dlMwbFNCb2gzd3dfMkxpTXJENmJtVWxjUm5Nc2dqVGtkckVjd3ZaWTdUQktHalJzeThSUC1UQUFUZGpKaw?oc=5",
-          "published": "Sat, 07 Nov 2026 17:56:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSHhhTkpiTjZYT2Z3V2pHVHl0REVxWWtyc1U0RF9oRktCT0p6ZGdNMURYV24tdFNlXzFJSkFjS0VwNUtLaEI4MFJHdHdXYmlpc29tT3pNM2V4c1JvX0Foc0FRQ1Z0eGtTMThhOW5zUk15NnhmNGlWZzRWQmVJUGNLNnc0ekwzMnpQWUhHVjc3Y0VDVlZKQW9MSlVQN1UzWWZkcW9Z?oc=5",
+          "published": "Sun, 08 Nov 2026 21:09:00 GMT"
         },
         {
-          "title": "Saksamaa valinud Gouram jäi koondise nimekirjast välja - sport | ERR",
-          "publisher": "sport | ERR",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWEdGanlpZmJSRmNHb1VzZVBmczRHc2NicXJ0dk1XXzZfaGVFYnZZWHhabnZ3UlZPdmVlTjNzRF83a2NqLWg5MmZvVDRmaUlyYTNIb19aSW40NW9aaV9JRW1KeF9HdTVxZ2t0VHBDVU5jYXJBbk5WWVJGS0EwYTNyR3U5SkY2cV9naHYwUjdmZw?oc=5",
-          "published": "Sat, 07 Nov 2026 15:47:00 GMT"
-        },
-        {
-          "title": "Jari-Matti Latvala avaldas, millistel teedel võib Ott Tänaku istumise all olev Yaris Celicast parem olla - Ralli.ee",
-          "publisher": "Ralli.ee",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjJDUHRvMnBDNnNkY29RYTZRcWo2ZXRRdXNCLXdwelpmR19yOXJJc3Y1S3FuVVBmNHVKbF9IazJUd2tqT01hekczTHRLdm1fUmRRZGc0b3R1N3V1ZkxkWlhNSnRfSkdjVTZPcnk1a21XSVNNN3pWRXNKNlpmc0xXWVZLRFB0NWt2c01ONG1mQThZa3diajdxeGVmM2VxcVlQNWpFSWotVGVNTGw5UzRDXzZxQzFmT1BERUVMSHRqWQ?oc=5",
-          "published": "Sat, 07 Nov 2026 11:37:30 GMT"
-        },
-        {
-          "title": "OTSE DELFI TV-s | Roobata mängiv Eesti jäähokikoondis heitleb koduse turniiri esikoha peale, vastaseks Leedu - Delfi Sport",
+          "title": "DELFI VIDEO | Valdo Lips Viimsi üllatusvõidust: mängime tihti paremini just tugevamate vastu - Delfi Sport",
           "publisher": "Delfi Sport",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TWFp5RUVZcDlwTFBiVlEtUFg0aWJUcjE3UnN1dHF0Y2FwSVJzUjY4aTg2NEMxZGRqX0prQ2RSeTRITXhDQTgzVWFR?oc=5",
-          "published": "Sat, 07 Nov 2026 06:09:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkVESENNWkVMT0pBa2hGLU5mYVJoSHBpRm5yc1l0N19JQk40SWhPUXZXZldMaU03YTVhOEYxZ2hoUi1sVlAtOWJIeVpBSm5zZE11bkNBOXdhdjEwWFlGN0Vfd2tDRWhFUjV3dk1nbEQyT2Z3eUk3bE01TGxjT0dNU1g2R0ZqTmNHdmlGMG1EaWIwTWtiV21QMnpxZ3B5ajl3c1BZc1lKZEo0bXZ4OGFjS1JpU1VUS2ZIV0ZoeVpVNC1hUWJTRTNvUnhSejNnMFBhd0llN0Ntd2Q4SDQz?oc=5",
+          "published": "Sun, 08 Nov 2026 07:40:00 GMT"
+        },
+        {
+          "title": "Paduvihm lõi Brasiilias vormeliässade kaardid sassi, Norris napsas kvalifikatsioonis esikoha - Inbox.eu",
+          "publisher": "Inbox.eu",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRGc2ZDBYc2dHa1Rvb0k4QkFuMTF3Rjh1VDJzcjY4aDlBUkJQcm00akR1TFBkcF9EUWw4dFJDNjFLNFdlODJKUlpIcXA4RFp6aFV4cjl0ekw2Ym94NlZyQU5TQWpkdjV2N2JGUUhBenBHTjV3ZUtHcEo0LVluZVhYMXdPMnk2NjNXa25PajNYLVdOQTJwdzJ4LVMzRnVMZVFiODJ6TE9iYWxkM0JnVlRhdHVxWWtHSFlwc0V2X2E4SFc4RXIxcHRhT2FHYV91Q3RlR3FNdGhRWV9XUHhadWZPNQ?oc=5",
+          "published": "Sun, 08 Nov 2026 08:13:58 GMT"
+        },
+        {
+          "title": "Ametlik: Hugo Toom lõi käed Poola klubiga - sport | ERR",
+          "publisher": "sport | ERR",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYTNVRGt1YU14X3JSa2dvcjdhLXU4emQ3SkM3WFRQblFTazBqc2t5c3RWUmgydmNIa2gxLVJ0SGpGdklsNFFsMHN5bDJLYzdNOUk2Q1RHTTVBR2hqaGllQXNBLWpwcTVNLVRTV01CN0hZNXVOSDJFU1BBeHE?oc=5",
+          "published": "Sun, 08 Nov 2026 11:52:00 GMT"
         }
       ]
     },
@@ -158,34 +158,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "How to watch Manchester City vs. Nottingham Forest streaming live for free today: English Premier League TV c - OregonLive.com",
-          "publisher": "OregonLive.com",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOGxsczZ6SkpsVFNVdERUTDRQaFJZN3BZME40cmxFR0NsSmZQSTV3clhWa3BIOTdYTlBUVTVmRlg3SzR3eTNaYkgwbmpLYVpZQkc2YmRsbGtXWnE3SEtYUVJsSmtRTmFYam5tSklTWDdnb2hjbmtuUmlTLWRMYmcyRmFzMUtTa3YxNzhPVmJEYzhQOWxzVHhHUnQ5MXhPNEJCUV93cGVyRktnQlRVUjNlQll0Rmo0MzkwMEpXUjVnSzBFcHZ2UzYyM0syTU13TW9BN2ltYXZ0WjhmcFdocGlBaDE0UVo1c1hRUTRWVFZVQlBnWDBpVnNsRUtRRdIBjwJBVV95cUxOak5rc3NuUW9TR0RDUTVlV1RaSVZHQnd4bnhySkIyZWEtd2hSWVg1OXRhNHVQZFk5di1iY3hNVW1LNXZVazhEajBaZThEc2ZXa1BtTlFuZXFOc0E1SncxV0VyVklSSG91bms5SzBYeVJlb21MaW92QXdMY1BjSW1KV2l6cHJHbktsZDBXakNwMEJvWERTQktuUlpDV1NycXhydkk4RVRKdndlZ3FXcjhwdmlWMWJTbUpmM1Jka1ljbVNpS0lyM0hKVWhkeURMU2FTc29iX0daZFlTMmJpaUtiTlE3bTFZU3FEWDZBLWF1VnRmZmtITFpGd0hDdnRIRnlfRnoxMGF5NXhWbXFOS2Zn?oc=5",
-          "published": "Sat, 07 Nov 2026 14:17:00 GMT"
-        },
-        {
-          "title": "Britain Premier League Soccer - dailyrecordnews.com",
-          "publisher": "dailyrecordnews.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMU1KNzE1ZEVQRUZCeFkwZndNN0w1eWhRa0JGMHZnUmdTamFIT2VzTDBzalVTS1JqNEdMbmlja0x3bzdpM0htRWE4SVljOXQ4R2R5YXQxaFRoMUtMZ1NSbldKUFNXV0RfZG1nWmU5eG1qYzZCMzBPZjJUT2U3OUY5Y2V3UUxQaFJQRGRtbTR3ZnlmRnhSbjFtbUhyOVNNVm5vMGlVdFN0TFlxNVhKREtNeFROUDU4ZjdXRWlxX1pIei1ZQQ?oc=5",
-          "published": "Sat, 07 Nov 2026 17:58:39 GMT"
-        },
-        {
-          "title": "FIFA’s head lawyer leaves soccer organization - Taipei Times",
-          "publisher": "Taipei Times",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kTHZMV1ZFRUhCV0JSeW5qclhaS0dHWTk0TEZNRWVYWWJid24wOFNpY3hNaTJhNGNHYWJwMXBMWE1seVVmUUI3ay1vblA0c0tITmRqZVl4R1d3d25QNDNYdmtBZnRqbExTRFdKSjVvSlBJRHVseEZwcQ?oc=5",
-          "published": "Sat, 07 Nov 2026 16:00:00 GMT"
-        },
-        {
-          "title": "Premier League Soccer: Stream Nottingham Forest vs. Man City Live From Anywhere - CNET",
-          "publisher": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRDNneGZycllBZlBRbDdpRzVhNFQ4ekQydFlDT08wYkZPRy0yRGQ3dnJxUlhBWHZsR3p5M1FVRk5xazg5d0NOSC1aRDRjSXFUTm9vMWlxWlRKaVBIUEpoa29QZ2pPZ3ZycFI0YjVaREFxZEdXQW9iQkFLX1ZOeE9qS2J4OE1XQ24tUEtUdllQdEdudHFfOXM0bkFCTmoxaGJrRUFDaHFEalZ2M2N4c1ZWNndUMzlSZXUzR2NzZWVCOVhLSW55?oc=5",
-          "published": "Sat, 07 Nov 2026 14:30:09 GMT"
+          "title": "Our Fantasy Draft With Europe's Top Players Ahead Of UEFA Nations League - FOX Sports",
+          "publisher": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb2htTmRQV1otQ0NRSWVIUjlfX290bV90SHBwNkNPX2d1bldicnNMcHlmV2pXNDlpLVVDTWp5ZVc4cG9WT0dMMkZ6NXVYTlNkYlhySDdJWVhFaVg4VFQxNE9Qb004Q2RCb3NONlhOZVFFVE1vNkJlbzZjREdMVkRCUnlGdXdIdS1oRDlpdThtMFlsNENkaTQ3QV9nRndhbjBnbm1HcGM4SldGMFBMVWo2M1JFNA?oc=5",
+          "published": "Sun, 08 Nov 2026 22:55:07 GMT"
         },
         {
           "title": "Caribbean Football Union endorses Infantino ahead of FIFA presidential election - ESPN",
           "publisher": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR1BRS080U1B6c0diUGY3RmxBakVQZFo1QmhPM1RpR3c3SjFPcHJZMlMzUEJPR3lVVGhYSDJfVmRkbGJjTmJocmdudnp4Ump3QVN2NndTeU1JZFBkNU0wbTMyd3BxOGJnYmxMQlJkS1BqY0VNWkNBLVh6YmgtYXlrLXpFWHpIZHUwX1VjSEV2OUpVV3NyYVJ5cDZOaExKcXlOb0IwLS1n?oc=5",
           "published": "Fri, 06 Nov 2026 22:36:00 GMT"
+        },
+        {
+          "title": "Britain Premier League Soccer - Idaho State Journal",
+          "publisher": "Idaho State Journal",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkNsaWNESW9hTmxvWHlJeWUtY29TWVA3b0pCYjFlVHRsRHdfa09HbE1KTVhfU2xQSldPLURuWDZaVU9wblhIcEw2QXdlTHNjZFcwVFA2T3JVV0JlSVZiT2F6NGVrRldRZDdzUDlZcE5MUHdweHNDYm5BUjFJLUlfNzJHU0V6RkJKWVl5QkpjUXJicTlXMUo4RVBmMFdEMmZ4X1JoVm5JWVY2bFB0U2FiVWZGSmNYeXI0Tm1PT0pCRERzdHRvOUE?oc=5",
+          "published": "Sun, 08 Nov 2026 14:25:49 GMT"
+        },
+        {
+          "title": "Max Verstappen watched Premier League football during Brazilian GP qualifying delay: \"12 hours I'll never get back\" - Motorsport.com",
+          "publisher": "Motorsport.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTkhOZVZiRzh0LVZNa200b1pXdnZXUjY1eUJsVFRzMUpEZFM2ZlhqdTMtM294X3VYNWdsY0hRNGhDY01CT0RNcXVjR2RsaEZaaWYybVNmd3BMOVQ1RnpIM25nTUFnRGtmdG0zaDQzM0hBNnBrVkowX3lTcnRjWmdJLTVFWndIVEVVOEF0Z2w3anhtb19iVFNmampqMVNhZTYtN1paOWhLNW5JeldPdm5kT2Zpc0pZR1lOQ2tidzhnbXZlbTdsVFV5ZkpYRzgwcko0?oc=5",
+          "published": "Sat, 07 Nov 2026 21:27:08 GMT"
+        },
+        {
+          "title": "Tenerife commit to financially supporting Jesus de Miguel’s daughter until she turns 18 - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHl3TkgxQW5EMXg3SWZTT252cFk3ZTJWS1NlMThPcy1ha2NVZ1BPX0ZpTFBKVzBWSURHS0ZTWFdNUU5HVmwwN3VEZGpEcnQ3eVNXQVpIc3FpSEppYS0wNmRxYXBvM2RMTlpHVE85VFlQS0lvZF9SYUVzd0U1V3FTOExqM3RsMXl0dmhZQ0VORGNFaENGQkFVQw?oc=5",
+          "published": "Sat, 07 Nov 2026 17:54:58 GMT"
         }
       ]
     },
@@ -194,34 +194,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "‘Godzilla Minus Zero’ Barrels Toward Historic $32M Box Office Launch With ‘Cat in the Hat’ at No. 2 - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2cxWERFdE0tN1pxTEhCQTdoSllrMzhOWjV4c3ZhaGFMTmx5aHQ1MmpzQzdDcmJweGtDV0xRVjY4eVdyQnctdVdDSGhJRzFRUTctc3c0bjF2YW55eVRISFFIZU5RZ05rd29SbGdCOF9fRnZQWEhERU15dlQ5M0Y3aFkzcTdFanRjaUtxNF9PQURvZGpyUThnUWRjeWlObHl5ZHBRQTN6WUFveXR2cURQYXlNWldVekdtLU0xOWR3?oc=5",
-          "published": "Sat, 07 Nov 2026 18:10:47 GMT"
+          "title": "'Godzilla Minus Zero' smashes a major box office record - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNUd5cUJsblJPenF4RTNBZmpMcnV6bzlCZE5ZRFNkVzVBRHRZNFozcnBVdVk4Y1JnT1AwNVZTNVE4aUd1eXlJbGhObkhkOGxfeHpkdDBxWlBBdzdQMlVFbDRmRTAyS0paVjlnWjlLZ294YVFBR2FsWkQzSEpMU21DbGhLbnlDMkU3UWxpc3NHSlBTUnBzTGVnR01UaThCU1JNby1xMUxwMEV2bWE3aUdGNWdBaw?oc=5",
+          "published": "Sun, 08 Nov 2026 19:05:56 GMT"
         },
         {
-          "title": "‘Little Rascals’ star resorts to GoFundMe ahead of having 6th child: ‘I really need some help’ - Page Six",
-          "publisher": "Page Six",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONGw1Zkt6ZlBSbGtpYzBwSGlOQXZqT1pLTEMxUXYwOUtYc1dtX1FHMWdOVGpFakxhZjVraldNMzljeWFPc0dpQ1UtOGlwSVFmMUZkMXRDVldXRXRrOGZoa0pTTmUzZ09NRV9oa2ZXY2lrVG8yVjVfVVk1VE1Wb3VhbTZ4ZEhuSkd1N081UGs1VzIxdmZVM0FydmtIR0tIMUZqVjFnMFBWbS03UUstcXZmSk5xWjNSaTlNX084N0hPbXZvdzVQVkMzeVo4eG5DeEN6?oc=5",
-          "published": "Sat, 07 Nov 2026 18:17:00 GMT"
-        },
-        {
-          "title": "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75 - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdWJ3aEVVLWRoWHRQOXF0YzljWXgtX2lFY21LNkpQVHkxTHZJNzVGQURWMkZoQlJsTkRsYUlSbUZaYWtETzI2OG90V2ZlYWQxbWNBUzVLekZiNE56eXRiNGJNb0s0a0RnalN6dWYzdTZlU2UyUkxGQ09Oc3ZpY3pZRm55QVRtWXV4TW9fU0Z6SjNvYjdEa0xfbg?oc=5",
-          "published": "Sat, 07 Nov 2026 20:01:00 GMT"
-        },
-        {
-          "title": "Thomas Markle case: Meghan wants to help FBI investigate father - The Times",
-          "publisher": "The Times",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONm5odGFGdmw1UFFXUko4TDhsdWZjS3d4V1BlNWxHRFQyYU9mY1k1clFmQktHYnJySllRbVZpQk5TV1dtR3B5T1p4RVVKY3oxbVdlMnV6b3ZQeHd4OUtFNjh0Z2lNcWh0bXpFcGNpLWdMc2dOYXl2ZVE1ZDNDWldVd2Q1dTdqZjNyeVM0a0tFcXBMWklMVWZwTXBmWkxHVjZHZ2FhcGx3V3RDc05IYTBiTmEyamc?oc=5",
-          "published": "Sat, 07 Nov 2026 20:00:00 GMT"
-        },
-        {
-          "title": "Pregnant Savannah Chrisley Shares Close-Up of Her Huge Engagement Ring from Husband Jason Galanis - Yahoo",
+          "title": "Is Taylor Swift at Chiefs-Jets game today? Latest on pop star’s attendance - Yahoo",
           "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTRkT2VUaGh4d3RWY2huSjhRUld2cHFYbkFTNGpZMWJkR3VZY1ZjWWFIb2NaWWFxMTgxeWJJZnN1Q25ubzJzQVJUT2lJR1BiVGhCdi0xMXJ1dnlHbkppeXk2WVBYV1lxVTNuMTNVMWM3c1BOWHNhc0d0R2ZJUkhPY0V3d2NuSThxR2ZvM3Vwdl9EWGdsTU5HVk40czV4T3YyOXVHRnE1NVdUNkkyUmc?oc=5",
-          "published": "Sat, 07 Nov 2026 17:33:54 GMT"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTHNjcWtkT0ZTZFBXbWdSdkFRWnJmV3RZRTNVNFIweDNLbHFZOGs5VlFNa0R6bE9RaEFkeGRfRmczVmhHcUJERkVpUVdlUDF2SkdvUnVab3pwMHctNXBodHYyUDU5ZXJnVnJMZjl1eHBXZ0VGU2hMNG1VdU1VNEZfdmZ6Z3RjNHE0NTR0WE93V2ZRMjMtZFZFR0JzWTNHVWVy?oc=5",
+          "published": "Sun, 08 Nov 2026 17:56:26 GMT"
+        },
+        {
+          "title": "Denis Villeneuve attempts to reveal the next James Bond at LACMA’s Art + Film gala - Los Angeles Times",
+          "publisher": "Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnplckJRT0M5dDZrdlpfSU1fR2piR0hlZERDamJTWGRyMjdaSk8wR290Y0l2YnpFaTVycXlsWWtPNkZ1dmtmcHhNb29PSmdxQjRMc2kwY2FzSXRIUTN0bE14UHJ2RmpUWkRjczVmT2JqNmNwQTBDbkE2bXZ2dmtMTlZ2ZUNSaTZmLWFnOUxkNXNtaDduSFlIY0c4ODFOMFZuSE5qX3MzSU5vZ29NdjFpcDBzOTc?oc=5",
+          "published": "Sun, 08 Nov 2026 21:19:00 GMT"
+        },
+        {
+          "title": "Jamie Foxx Halloween Party Turns Violent, Guest Stabbed and Suspect Arrested for Assault With a Deadly Weapon - Yahoo",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLWpJcHZFeUJUSUc1WkZkRGktMG15eXl3czh6U0Y1Rk5hVjRwZGhvSmRKQllrdVVWdnMxY0ZTQzJ1d2w2WjU2aW5ERVdjclFEZ0hNODYxUUxYZjhRbks0Zm1ZcWxZcnJ4Y1J3R0hpdVFLMFdvWFkzS011bi05T1V5dVBKWGV3cnJfVXMtMw?oc=5",
+          "published": "Sun, 08 Nov 2026 21:33:15 GMT"
+        },
+        {
+          "title": "Tyler Kolek Addresses Taylor Swift 'Fakest' Knicks Fan Comment, Covers Song in New Viral Video - Bleacher Report",
+          "publisher": "Bleacher Report",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQXzNfNXV0NzBYU0FCMGd5N3YyRUdnTFNhbXBtYy1lMGZSQWJDREJVbzI1LVVDSGFCQzk1Q3BtR1RqaGJiZFNHZC11QUh0N281RWNNcHl5cmdLcjQ4Ql9HNWlTNmdHZmtSSmZfU2puN3pBNTk5SVBuSF82bUg4SUJhRF9xc0VoY25Tc3FpRm5pTFFYQTFaYXpuM3BjNVhGVFhCWDlQckFyRkVJY2lGWEIxYkFVUHczcG41bGhneXVPSk8zMGFZSUJCZDQtU2hzQQ?oc=5",
+          "published": "Sun, 08 Nov 2026 18:03:22 GMT"
         }
       ]
     }
