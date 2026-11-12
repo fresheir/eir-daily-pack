@@ -1,47 +1,78 @@
 {
   "market": "AR",
-  "generatedAt": "2026-11-11T01:44:12.506616Z",
-  "validForDate": "2026-11-11",
+  "generatedAt": "2026-11-12T02:43:12.891282Z",
+  "validForDate": "2026-11-12",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "El peronismo dejó una foto unificada con la visita del Papa y reactiva la agenda final - Página|12",
+          "publisher": "Página|12",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRy1uV3poMXZ1el9qd1VHaWszZ1JUU202TENxSloyNF9RMkljblphRmxobzQxc1NGckU3eGktTmg3OTdkY3NJNHMyNGVNVExmZ2RRTjBkVkNZNFVZZW9lZTlZYkJCQkp5ZFdSbTY4d2dxZ1J1WFFJZFdjaDQ3WWY2elhkOUJtSldZdFZEZWhKS1BLalN2aGMtR0cwbXMyODBVaV9DOTBaN0tWX3p3MS1mZF9MOWRJSF9TRDRJRDduYVNyYmhY?oc=5",
+          "published": "Wed, 11 Nov 2026 23:29:20 GMT"
+        },
+        {
+          "title": "Las frases del papa León XIV que marcaron su visita a la Argentina - Clarin.com",
+          "publisher": "Clarin.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDBaSTEtQjN2TGNib1dNNFN0TU0wemlLLTY4WmpMeFJrUVRkd2w3ZGpRTEpKWEo3blktQmdzU1FiS2kxWVlYMXZNZU9OZFhPS3RXa2NXUkVVNU9TZjJXQUhQS1FvTXV6WEdmZm1KaEVabWFYZzM4TmdxcUViOTNnelpaOTNLMk82WnlNOWNMLUtjOVhaejZLUlkweFk?oc=5",
+          "published": "Wed, 11 Nov 2026 21:06:52 GMT"
+        },
+        {
+          "title": "Los milagros de León XIV: Milei se acercará a Macri y el peronismo se une a la fuerza - Clarin.com",
+          "publisher": "Clarin.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTldpdHpBS1Mxd1BfQkxqSk1EcF93OWhuN0Y0QjM3Y2FNbjFub0F5RXZoNlZLSmF3Um8yaDN3Z3pqcWdCci1VVzh0ajBtdkVGUENORTd0Z2NRdW5za1FoWjhkNFF1SWdyM01XM2ltU1RIc3hsVlM1bmRoRFNWSFh5RkRZTmlvZXB4UE5Sc3NhZTlHa1VKaHhoYUg2bkt4Q2o0OFFKSi1walJucnJVY1E?oc=5",
+          "published": "Wed, 11 Nov 2026 23:20:11 GMT"
+        },
+        {
+          "title": "Están presos por la mayor estafa inmobiliaria de la Argentina y recibieron la bendición del Papa - La Nación",
+          "publisher": "La Nación",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQnIyUUdxQWJ1SEduTXhQZmFqYnJjMmFOYTM5MDM0UHdicXFOeEtuMy13YlJLeW5uVE5zenNqcDVVVEc3SEtkeWxaenNNUXlNYWtVenp1UTFnQmxQb2JiclRwbFBvMDBoT3lwS0dmbHdnRzBKRG1mOXJQUVpqbkl4am93U1NPbjRDZ2VPcUI2aE15Z1NVOC02cDJVVmllcE5hak5lRXVBMEhxLXlUZmlCSUNDSUxfZkI3TGlEazZFVnQ1cG5QLTNXLW93dHlILTlHcjJ5YVo1emRnMF9jUm9YSA?oc=5",
+          "published": "Wed, 11 Nov 2026 20:45:00 GMT"
+        },
+        {
+          "title": "Papa León XIV en la Argentina, EN VIVO: la misa en Luján y la despedida en Ezeiza hoy, minuto a minuto - La Nación",
+          "publisher": "La Nación",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVGp1SjRMYm1PU1kxZE11VEZUTlVLTEZtODJ0YVJtZkNFaExSZGItX2tIYzZNR1NFbkZKWWNPc1R1ZFNmdGFkcjdaU0RLQXZMRnB6UW82VDJxU2V6aWNZRHAtTWpDVV9iX3JGclZPLVk5dnh3U3VNNVhaQ2VIc3N6ck1aNGViU0JCNEtpMExGay0xYzdYYWtrMmcwUWxhR2FjVXppd3NJYnZtZHU4X0RMeGJlV3RLOUlsem1sTzdlMkE5R2U0dkIwNDhvTkk3c2ttYm9nU2l0MnNHa0JxR2RTN1dLOA?oc=5",
+          "published": "Thu, 12 Nov 2026 01:49:00 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
       "items": [
         {
-          "title": "Con el apoyo republicano, el controvertido secretario de Defensa de Trump zafa de un juicio político - La Nación",
+          "title": "“Regreso también a mi patria”: tras la triunfal despedida de la Argentina, el Papa llegó a Perú, su segunda casa - La Nación",
           "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNb3NZOUd4VHo5ckJ6clBCZ19kUmFRcjNIQXZWYlBUMjI5WTNZd1Vmb0xuZmVIUDFPdTlVMzFuMjFnbjNRYVlUZkJNQWZOWW5xZFAwUEdVcWY0b2NHRmN1SW5VR2dLLW5veWh0WDJ3Y2xoSkZLSGs0TXVBQXVXc08zcERFOHRfT29lVENMczVDdXVXazdtSDRfem9naUF6empTNVQxeEVkbVZDSjR4VVd5Z2FVc210bjNTblUwRlppakZObkg1RnlKejJpNUh1dGxUR25XamJaUVJJRzNabktONDBjYmZKcFNpYXZv?oc=5",
-          "published": "Tue, 10 Nov 2026 23:37:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcXQ4SnktN0xrZEx5TDhkdnkwMGQwbE04bW55Wlo2bkllRkwxT05GRlNPWGtrcU1ZRnU1LWNUU2NvcFo1eDBzQXhyWHBoTUxKMkx2Z3hvYlNtTEN2S0RWQ2V2c2ZEUVctRy1lak12dWxubTJLSU0yeWg5MHI2Z0JzdDZaRWNSVmxOV25rTnBjRDlGY3VaclNMR1lreFZiWDlxR2hJc212TGJ4R1ZwaXBDM2syNklLNmNJQXg3WC1VSGU0Qm85V3BwUTJnajcySUtjcTZ4QXFHX3BlRjQ1?oc=5",
+          "published": "Thu, 12 Nov 2026 01:23:00 GMT"
         },
         {
-          "title": "Un buzo intentó sacarle el tanque de oxígeno a su instructor a más de 15 metros de profundidad: el desesperante video - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS2RUQ3VEV09aZEg4NElNa0c4MHdYaGN3LW9wVUU2XzdXX0ZuMHZkbzhjNWdXNFZQaEU2X2I4ZEFsYkRFMnN1cXRiZnV1Nm1WTUhsbkJhbVRlNUpJWHF0RFd4Q01WdmpWWUZUak9nS2dEdllsUmFFTmV6enppaGg3dkdudERhWjZMUEdTRXItTkZIdTVTR1prUkprXzNlRW5qU1VLM0UyZlBSRm5lX2VhNUQ5VVVWUFBzOW9aNEFUcHJoVy1QR2RUOGdFM2hQRnIyb0Vub1owdzRxcGc0TG1ZYw?oc=5",
-          "published": "Tue, 10 Nov 2026 20:49:00 GMT"
-        },
-        {
-          "title": "Caso Ueno bank: la Fiscalía de Paraguay aclaró que la supuesta bóveda en la casa de Santiago Peña es una sala de pánico vacía - Clarin.com",
-          "publisher": "Clarin.com",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS3BjcktxQ1N1LVkzc1c4Sm9QR3lXWDFXMi1KbnNjZHQ4MnlBU0lraE01RlYxclR6S3RnNUMxN2hLVGZnVW1hQmtwQVNISFZQN1FzUC10bEc4bm8wUHpRRUYxb0hBaEhYOEpKMjNXb1NEbHBGLUpkdkhrMzlLT2hPX2JwcFZHX0d3c2FFSTJEVHlLa0VjU2xjWGprZ09XcVhCZElyR3JZZVJpRmEwTFJMemMwMWZiY3hjS2RGZnVNcXdQX01yMDdfLVo2Wl9Jd2EtQkpQNzFR?oc=5",
-          "published": "Tue, 10 Nov 2026 22:30:15 GMT"
-        },
-        {
-          "title": "Zelenski califica de “constructiva” primera ronda de conversaciones con Rusia - DW.com",
-          "publisher": "DW.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPak1VYURVdXBsVUNnVWlrR1JlX09nblBLZEVBcUhySUVJS2hrMFBEMHJjTHlLbkVJVEl6eER4LWtxWUdjQzNNdWtKNHhKVjVPbmhFcllRNXVyMXRzVjVqMDlFQ2p6dUxSejBLU3ZuU1hXQV9PZWNrWEJ3UzFrWXhXZjFSbUlJejJoak0yWDgtRE1tRTdIUmRhYUxWRE9nWE1WS1hDVTBYa05ZQjVT0gGsAUFVX3lxTE1UZFVqYTU0UG1DLWpNbjgwcnBPNl9RNTBvQVJTQWtCNUZhNmxiUGhPWGlJY2I5RVBERUJrWEkzbE9KN0JfNE1oMWU1enlna3I4ZWhBaUVJRUNrUW1tSHJwbEQwMC1YWF92VVNlLUw3WkoxWTA1ZktIR0lvZlhOMGdaMk9DZ1habTBhaUE3UzVsWlRxdUhzVDhPcG1WbVdNQkNBbmRQT2gwa3NVelo?oc=5",
-          "published": "Tue, 10 Nov 2026 21:14:06 GMT"
-        },
-        {
-          "title": "Arranca una nueva cumbre climática con el ojo puesto en la seguridad alimentaria - Página|12",
+          "title": "Un trasatlántico fue hundido para convertirlo en el “mayor arrecife artificial del mundo” - Página|12",
           "publisher": "Página|12",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdTZPOHUzR01oRlRUbUg3NWZaTzVWS3hyaUNPQjBUT3czRVltU3NSMUVRUXNReU55ZzNHRzl0TVQ4LWU2dUhjd0hGQktTeGU1YkpiRmNBZ2JrRXZWdF9vVmJlUGFydlQzd3pfdVF5aUFyS0pkb08yV0VsUjFnWDdZU1lvdWQ3VlZleVJlMDVBcGktY3Nib2dxMVNGcGliay1WYjl6VzZmbkQtZHJGcUxCYzE4LXFNRlFmc3pQVQ?oc=5",
-          "published": "Tue, 10 Nov 2026 00:12:08 GMT"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVG9WY3lDZms2aENPYllwNUV5TklzbFFwQ3h6WWU0dzNqb09nRC1qQXdZRFgtbE5LVHlZMURoWXV4VWRTSDRfTEp4RWlCd3ZsZkF0MFNXc2dJaW03T3RYd0FLSzJUYUtYN1h0cG8zQUtsQ2N6MEc5RlR4Q1FzRDZGUzZzT2ZfNE5jQWlHVl9zVEFFMXFEMjY5aldHT3R0NE1ITV96TGlGcEgxVDhMckhhUG4zUWIyaTZPUFp3dWRoRVhmMkttb2c?oc=5",
+          "published": "Wed, 11 Nov 2026 19:04:00 GMT"
+        },
+        {
+          "title": "Última hora. - Rusia anuncia la muerte repentina de su embajador en EE.UU. - Euronews.com",
+          "publisher": "Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNFFvLUNESEZMRXptelVfUHh6TXlWSmxmcHY2ZGdtMEhvUDVEQUhCMlY3R195YXJnNkFycTdjaXhaRkFjSkNlMFpIb0g3ZlVnYWZUT0dyTTB5dG12em5VV2xFdXIyNlZGSzNrRG9reThzUS15cE9lYnRHSlZRMElMaDZHVjA1MHNfWUZIRWplQVpFa184cUFkc3Y3Q09HS3ptaENEQWU0Rk9ZWkl1T2c?oc=5",
+          "published": "Wed, 11 Nov 2026 17:07:36 GMT"
+        },
+        {
+          "title": "Quién es la mujer en el centro del escándalo de espionaje de Nvidia - Clarin.com",
+          "publisher": "Clarin.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGxYMkFqMzU3U3dBczBOdDROV3VqLUp1SzU5NHAxeVhDZ3ZwT1FqNlREUU9mSjdWd1ZOX2lhR1o0dGRndGNjbXVQOHJhOE1lMWhtS3BUYzQxLU1RTm02X1pJOWFCS3hrUTFvYXk1MWs4Rk5ycG4wbldOdDl3RlVmN1BpTHpWZVJ1dERNVnNUcEIwYmxNT2NJdF9mSVhxUElHdWQ2bVZ2N0s2Mll6WWZ1OWlNT2ZLSFU?oc=5",
+          "published": "Tue, 10 Nov 2026 22:50:46 GMT"
+        },
+        {
+          "title": "Colapsó un edificio en construcción en Nueva York: al menos un muerto y 12 heridos - La Nación",
+          "publisher": "La Nación",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSXJ2cTFOaDhLWXgwQmF2Y01nRmVFTWdldTJnQy1nMFhLR2llSndGSXRiaFhhSERNNVpLTFlzQldCTXVxMXNOWVdMLVBmVzktSkxQZm1zY2d5bmlnaFBWMWpfUFdEUC1pc1pvWkU1ejdpVUd3dTJqWkdheFRtV1RoSnpQT3RZdW9YaGhlaEc1eXN4TjQ2QmV6U0tPSGVkSXFybnNvblk2RVNPcHpMbGlCT3VubG9kUHFrSWJDWmRhS1RENWplYWxGbDhwOXV5eThoRlZ3WVZsZGZEbUk?oc=5",
+          "published": "Wed, 11 Nov 2026 23:55:00 GMT"
         }
       ]
     },
@@ -50,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Un gigante de Wall Street cree que hubo un \"exceso de pesimismo\" hacia la Argentina y el riesgo país bajó por segundo día consecutivo - Clarin.com",
-          "publisher": "Clarin.com",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOEVhTGlZSlhmMjhpMkNRY0wyeUM1aGxnQU1JYm81Vkg2cmxueGgzOWs1RUl5dmQzcTNaalozTVNsTmJlaXBrUHpsUVdrVEN6TmxSRUhuV2x0YkJ4bnNnSVNmamVWUTNabXpRbFR4NWhLeGVyX3ZNNjBmM3ZnOVBWUHpuLXVmVHl6S2s3QlA5VTBwbWxUS19hOEVaSlJoemlZc2l5NkhuaXZLcjVGS2g4aFA4aDFjbXFSWDBGSE1vNA?oc=5",
-          "published": "Tue, 10 Nov 2026 16:01:07 GMT"
+          "title": "Jensen Huang ideó Nvidia en un restaurante. El escándalo de espionaje amenaza décadas de trabajo - CNN en Español",
+          "publisher": "CNN en Español",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmxNZlVzd1U4Z3VoX1BPLU5TVFpieFJudVJHbkJTNzZyNUNzcEtDajJMc2JGZEY0VkNBU204LVV5NmhnLWlINXZzeUFDQ1ExNllRYWRiRnJyT2JuREJzcmN0Qm5MbGRCWFBPNENuZlNkZTBFZnY3QW0tc0pQU2JFWTFLXy1mNVZqSUpDZWZGM0J1bl9mREE?oc=5",
+          "published": "Wed, 11 Nov 2026 21:36:00 GMT"
         },
         {
-          "title": "Wall Street cayó y el rendimiento de los bonos en EEUU se disparó luego del mal dato de inflación - Ambito",
+          "title": "Licitación clave: el Gobierno renovó los vencimientos de deuda, pero inyectó pesos al mercado - Infobae",
+          "publisher": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMU9KOVJoelk4Qy00T0thTmJ6Sk91aGtZeGszLV8xNy1QZk01NDFMZTY3bFllb2VOcDZyY3NaSHdyQkRSTXZsaW9TNjJ5Tk9nZnFSX1NIMy01OExXNmpQbGJFRlBlOFUwanVUaktsLXVjTXJHU01ERmFxT0lUZnJFSER5MTgyVXluS0FOM25qME1rQ3JHTTE2SXhIN2E3Q0dIS2QyU2ZuVzVRcmlkU3Blb08wWEI0N3I5dkROeWVBS0dCUkJyd1VQbXVQdGtsUTlKV3JoczVjWmnSAfMBQVVfeXFMTktiaU56RVJsbmdacVNiaVNHbEVaQ2ZiZ3p6WjlSY0N4eUN0SXlTaUswTUdjS3VwNlQ2LU92OFFUZkhzckViVlA3S05IUFRfVm1NVktwbXpIV0Q0VHk1ck9RYi04R2RkZkZUVWwzQ0JUUUhmTFhpYnlVMlpzeWFGV0JxeW9id01sNUJCWW1TdGpFczJyMU9xRXduSzlEOV9YUmdRRWIxdjJiS3E1aUdpTTZHQzVWSUhlc2VFWFVpaWlOU29SYmw4d0E3M2JNdU9qRkl2ekUwX1R3XzJXMWw2LWdLVVZmTWdDbGFnTldQU29FdWQ0?oc=5",
+          "published": "Wed, 11 Nov 2026 23:26:24 GMT"
+        },
+        {
+          "title": "Wall Street en alerta por Milei: Morgan Stanley advierte que el riesgo de crisis o default se disparó hasta el 52% - El Economista - Últimas noticias económicas y financieras",
+          "publisher": "El Economista - Últimas noticias económicas y financieras",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaGEyU2c2VGhtSHhCdm41d0lHcVNSSjlZTEpfTnVfelBaU19zQTBmc19HVEljTkJ3anJxUlVqY0xuMUhlbk8xV3NHRENPb0FqM3VWc0dvTGE3dVRjLWN6TGRmNGMtUGRQLVJQdjVqUjR5Ri1GdXZTRkIyYmNleWlwRGo5SHMtdHVNU3BpVW9Ic0U2TTJWbmZLN2paMElLTzZoNkpyYmdtTGUxdzk0MmIwb2hhZGtQd01qd1hYQkYtTDBCblJvU0E?oc=5",
+          "published": "Wed, 11 Nov 2026 11:34:00 GMT"
+        },
+        {
+          "title": "Inflación: cuánto fue el IPC de octubre y qué suba de precios se espera hasta fin de año - Clarin.com",
+          "publisher": "Clarin.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3BhT3h6WUd0YzVJeHgzV2RsN20zdDlEc1dXOVEzR3IwQmlhYjlfb1A1VFBRUkphOEloeXJEVkUzSXRkSlN0NFVLVDV5eW9lUnZaT1h0emZsTkU5RUc5TnFNMmFHb3AzYVVwR3Ryd25ialdlaER6emVlNTBNTjJoNlhUMjFTVE9rOXh0WTlLQVhZTXpqOUtUeW1PTm5KdHoy?oc=5",
+          "published": "Wed, 11 Nov 2026 16:07:39 GMT"
+        },
+        {
+          "title": "Los ADRs cerraron mixtos, mientras el MSCI Merval bajó cerca de 1% en medio del feriado en EEUU - Ambito",
           "publisher": "Ambito",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcWk5V3E0WURRUll1ckZJYW50M0N3MXV1ZjExd093R2U3THFfanA5a3ZkQ2daeUQxR2piczIyMllsNWtyVHRqMEVyaGxORHpWTnZaZzZlbWpfSHExbXBQZjhFbTllSzE4a0JrN0Y0Z0tZZ2prWXM2T3I4NHBqUWFzeWEwS2RYNks1QkFjNmhtNVFtcGd5VEdHcjk5QjY1dkEtQ1ZpVVZJUVMta0VINnlGZTkyZ0c5SlQwVXY2ZDQwZmfSAcYBQVVfeXFMTURpZFExYm5fbDZVMld1VzBvc3F6eElMaF9XcExRLTJVVWVmMGVHUWNfWHlLV3o2TnhFazJCSnI3eGxlbVplYlNWdlNyNHIwRHpxUEI1YTRMSzVXQ2VqNzJmZGF1VjR5ZUFaLUI1dE91OUVTLURYTVdqdGhrbHZLMW1sSy1hUWpWVlBQc0VLdkozMkZ3QXhRMUtUX3FKTVc3STl1b2NqYmpGbWd4WkxwY1hfQlRETzNzbU01X25PdTdYbkJ3OVNR?oc=5",
-          "published": "Tue, 10 Nov 2026 21:50:43 GMT"
-        },
-        {
-          "title": "Fuerte suba del precio internacional de la soja por un informe de un organismo de Estados Unidos - Clarin.com",
-          "publisher": "Clarin.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ192TlRzWVVNN1FRekl1SWJYUGlUbUktSlhNWWd4Nl9DNGFJcWR3bVVwd0ZpMmg4Ykc0R2VVZGpIbUlqZ0RrQVE4bmwwck5KaDhOdmwzMmM1djNyenY4Nk4wVHZLMS1RV2dJQmtGSUJuYnpXNVE0dEs0TDN3UVY2eTBpaktNMVpSMXYtOFFwd3Rxd0xxYnBLUkVXYU5aT01TdW5TemZ4bUVmNVd5Y0dHTzBlTGxXNzU5?oc=5",
-          "published": "Tue, 10 Nov 2026 20:05:40 GMT"
-        },
-        {
-          "title": "El romance del CEO de Nvidia con una presunta espía china podría convertirse en un problema para la economía - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTUxpbERzRHVROFljTUxjY3BXMUtUbkNfUVZQVTljdW9veE9Zd19NWE9hbWZmYzRGMWtaYnhsdHFMODFrbmpNUDN1SldZY1pkS3RUMFBDcWRpSWZ5QmpuQWs5YXB5NXJIOTBLUXk4R2p4RkVxVERUcUpxY3FHb1B6Y0hIbjN5MlpMcG1zMjFxOWxPSUtZWnBTb1k3MmdHaTgzSk81THBZMS1XZmp0RmRidk9JeVNTTU9oVlhUOEJFN0NkLWdMb1JPekJCSTJKRlRrUDFUcVN0b2QxMWNBZVpoM3o0UHVvS2czUV8w?oc=5",
-          "published": "Tue, 10 Nov 2026 13:40:00 GMT"
-        },
-        {
-          "title": "🔴 Cotización dólar oficial hoy, EN VIVO: los precios en el Banco Nación y a cuánto se vende el dólar blue este martes 10 de noviembre - TN",
-          "publisher": "TN",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQlB6U1RkM0lyYjlqQk9UbklRLWRIblcxc2ZSaEg3ejRzQmFIczZnOVNIdzJsQ3lyZTJOMkNIUG96VmdId1NmdGFhN05DUnh3UkM0SEROMUIxQjM1cTkxc1ZaOERXRHZsT21LRWpzRklFN3B4VnFpR19KWVJoMjlzVmsxV3BRU2xmRXREZ3NRekhKd1Bmdzd2N1JaZXpaZnY0ZUJLN2tsamo4aEhFVXBHMDNVdkXSAcgBQVVfeXFMUEJtUWxuWHpSU1BwUXFHNlM2Uy1URHVhWUJNa2t4TDVZQkF6NWd6Y3ptQ2ktSUxhRTRaakpXT2F3akZIbHp2TU42RV9nNnA5NXo1RXVwb2dWdmxjQUExUTk5WWF1MnNON0dCY0ZRdnJqVjk1RTk3WXJEZFNjaVJ3cGNIZ3ZMU0ZYWWhqT2lSMW96WDVyUC1yelRZSHdNT1hZRldZcFJoZDZxTlhFZDUyOVBJWlQ1WnkzQlp0U2U3SFc1eTREN19fekY?oc=5",
-          "published": "Wed, 11 Nov 2026 01:28:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdzB3WWlKN1BoX0NDVTQtNHZfSXlJeGcxN053bTEyQ2JzdzhjbUtkQVlhbUwzQ0hqWkx5WmhTTC1Ed0tnaUJUMmRBTm0yZEwwUnAwVHc4R3AyYWVWN3k1em1mLTI2YW5jZzFaT0VLRXRpWHJmUTlTNEZlYWdSbU9rVVM4Nk9tX0RPU3c0NkpsX2x0aHVDRlJOQlFWVFFEclVIeVpiMm1GMXNBWEhrQnE4QnlBN0VZN1ktTGJORjFoX2l3Wk5falpKa3ZyTDNzVGRoeGk00gHYAUFVX3lxTE1UUXdhNjNWSTVsQ2JkbmZ5U21YalR1WDlHVFpQWDFHeDJsb1N3eDN6OEhFbm9hdHlmN2paM1VVWW1hb01MTDZtV0NXVU1yNVNKQWxvUGlQVnN3Y3U1ZmF1T0JsTTRtUlcwYjNqbVprdlpKMV9EVHdEdDQ3bDU0M2lwMDFoZzFjb25IdnV6MGFmSS11b3dIUnVvcFJWWjhYeFlqcUVwTm9NNUJoLU5CT2hPUjFtMkY2aGF1Sko3aU5TbGxqZGpwaE1peXZfbGZ6aGRSdXdyZUJ1Vg?oc=5",
+          "published": "Thu, 12 Nov 2026 01:56:16 GMT"
         }
       ]
     },
@@ -86,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Franco Colapinto se encontró con su doble en el GP de Brasil y su reacción sorprendió a todos - Ambito",
-          "publisher": "Ambito",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGFUaUVwQldlOEhRclg1SzZtUE1jb0JnVWJ5TEZlU1dmTnpuNUtOa1FzN3NNZmFYdlZVLWRHajBxTDVYT0ljdzNfSDljLXpNVFRTUGJhdy1lbUxOVm5iSXg1UHVvWGxZQkc1b0JBWm02MldVcVJUU0piLWxId2JNS1B5VW50ekswVFNKR0JQdzFzWVREVDJfaTV0MnlDU1BhUzhkTWpJZGl1WVkwY0gtOXB3WloxLUQ4OFFFcmxpd9IBxAFBVV95cUxOVnJsTW1SVHVnQW1qS0VIc1JoWGFOaXE4TDZ1WTE1ZDBJTkVLbTN2YkJFRkJWRUkzUTVJVUdIMnR6MXIzTjBoUmJwTVRoX0lQZlZHRVZEdWY1bkFNTGRRazhibF9SSEVzQVExQkoyeE41RjUybC1tZVdBaTBxWGU0clFGUGdfdmNBdFNjbi1LbGxhSjQ0YUQ1UFhzNUtJdDB4ajdGZGpPNlVRMkVGdGVZSTUtcjYwdjNEZzFQd2NHNzBjcGZS?oc=5",
-          "published": "Tue, 10 Nov 2026 16:42:00 GMT"
-        },
-        {
-          "title": "Jueves de gran anuncio: la continuidad de Lionel Scaloni en la Selección Argentina - Olé",
-          "publisher": "Olé",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOa0lEUHU4T05uM1ZFeXFvZEZFb3dXZWRmTkhyRGt1c09fSmVQck1VbUtreXBIY1lNSVRtYWZfYkVJTll5dEI4SXFLRmNVTTVYR3didGlWT0xpZzJXRzc1eGQxLVFkaE5QUkprZmFOYnAyb3dkbVRiTi1VU3Vua1RQNm5IQlRTcEJTZkhOUV9yWk5pbUk4TWNZV21hQWRmNklOUjRMcmZnbHhpRDlmQkR5b3hNWmt1V2U3cEplSmRnM2IwM0g5bHZMWHVUYlRMWWRCaXBJNlN1RmVQdmdFWVpYMTF0SV90MjZIMFMtSTF30gHzAUFVX3lxTE1TYm1YQmZWOE82RjliRUtwbjdsVU1kcFNkTHdKWGpDak8ybFdpUUIxbTQ4TnU5bjR1Unppa3RWUnJnTUFhTS1QLXQ5a3BuUURlbF9OQ3h6djZxd1AzdGFHWkI5d2FsVG1uQ2gzSXVhVTZEa0xndDZhQ1pOZ0ZVQXNmQ3VxZmh3NjJNclBzQldYMzFWT1hFSHpRajhBa0VFVm9YemtqTVhHVGhkQ2lxZzVtczlWRlFZZ015SFVERFIzMmJwdnhyU3plc05rUTROVmc0V3BNMUxocWRYMm5TTXQ4ZFFodXJBS2Y0blY1RXQ5em9Gaw?oc=5",
-          "published": "Tue, 10 Nov 2026 15:26:29 GMT"
-        },
-        {
-          "title": "¿Con Paredes desde el arranque? El equipo de Boca para enfrentar a Banfield - ESPN Argentina",
-          "publisher": "ESPN Argentina",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeF83QkpLN3g1ZFUyZmRfNjZ6QTlZS0kzcm9BUzNHTHRXcE1rQ1F5VzlMazZBZ2dKNjlhRVZVaHoxOFAxOWZfLXlaU3BJOGZtN0VheUtDb0RBUzhRMGN0S3JsbWtPOEZ0WWkyRUhyM0Y1blhicXBmNXlvbXhMSHNoc3FhS3hXOHBFZ0gtTEhXZmIxWUNCc0paWE1qbnFyRzlaS3BUQnpkcXFlTWE1YXpGUWFuNll2YmhGejFPdXBkTQ?oc=5",
-          "published": "Tue, 10 Nov 2026 15:59:28 GMT"
-        },
-        {
-          "title": "Colapinto vuelve a correr en la F1: días y horarios del Gran Premio de Las Vegas - La Gaceta",
-          "publisher": "La Gaceta",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGNOTmhFMXF5ZHlHa05kWXJRT3JCMjdUaXEzWUFObVFFWW5lTVNrUHl3S1k3SFE0T1c2TC1QZ0FwOFg2cEZLdHpBMlpKRHRUaUUxdElYY3J1NDdoc2dGZkRjSldNeHEzYlJQckF3YmU1WUdmV1VFcXdhb2NSX0RPVHFlMGdic1RDQnVMYWFMMXozZERoZVJ1bFZoVTFrbjg0OVBnUlp2TGV1bmYta2FLV0hvY9IBuAFBVV95cUxPOE1tUFlUWHVZRG1uS0xHRmo0UnpVSnVzNDItTGZkZW1fbkM4NV9kT2d2ZTdqRVAwS1NUTndVa01yeGIyTnpVWkloalBZZzlpUlZOdWppTnQ5SXA1T01NMFVmd1c2VnNjR05KNWVsb1JIN2VNa2IzM21TY3gtQndMemZscl9fMDhTUFI4RXJfc2lwZ1hkRlNmc0E3LWwxdV9ZcG93NHduYXZuWnRPS01mUGExZkd1d0s5?oc=5",
-          "published": "Tue, 10 Nov 2026 10:09:05 GMT"
-        },
-        {
-          "title": "El posible camino de River hacia la final del Torneo Clausura - TyC Sports",
+          "title": "Con un regreso estelar y una duda, Forlán arma el equipo de Uruguay para jugar con Argentina - TyC Sports",
           "publisher": "TyC Sports",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWlNKazBVTERWYUJvWDlIb0FRV0poX0tNdk5MdHZEWlkwZkpYZG1kdGVNZkw3MjdTdjBvNnR6NExLY2dMZGlfUk4wWmh0SWZkRUpKWC1tRkJOdFpsRjFxYjZnOEZkc1RLdmV1M2FEdVp4QXhMeHNUTC1taEgxczhSY1NiS3Y3aFRrRVJSUEdFR0xBNlY2cTZqN1hIVHh5TkR6TXFFQTJuWHFPNEJFeG02X2FmeS1KMFBaXzVsZFhn?oc=5",
-          "published": "Tue, 10 Nov 2026 10:14:24 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFlacTNTSEhHcHFzNXItUXFfMmFwOThvSmVxUUZRbVppOGwtVFBfSEJRN2hWVmp5OGIyaFhabGxZaEdjZVdOSzEwaUFNMzFrNnJXVjFHb2pscUxnbzNsV1BJRi1laUdpYUVqd1ZfdXFmTVNYamZEX0lxZXhFMnJJOFpSbUs2VHJWMENwUl9aVjFUd3V4aWVkYXJwTjBsZzJuQ2c?oc=5",
+          "published": "Wed, 11 Nov 2026 18:31:42 GMT"
+        },
+        {
+          "title": "Video: la vuelta de Colapinto que enloqueció a la Fórmula 1 - Olé",
+          "publisher": "Olé",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFBhcWZVT21kc0k4aVdzQXhueWFBTk1vTHZZOHlPZUhsaGFZZjlQQ0NJX21PVDcwTG1iQkdTOExnazEyVW9wemx6VmstUmVmVzNORUU2ZC0xcjNSb2xEczk5dkwwQWtockxCNndlbmRjYUV4VGlHWVQxOG1oR0NfYWVIR1lJNnR3dHdsUVlfQXhEbF9ZRVl0NXZKQ09ldktDQ25sVXNB0gGrAUFVX3lxTE9lZ3FDWWlXQUVLbDJ3QUZBWmxSWXNJdDZ3eC1DNVRYM3FKcl9BTzhqZ2d5Q0NUcFJQT292QU5VbWdxeVZhTjRDV2diRS1xbzBKRUJKa1lxdF9yMTJuSGw1WUJPTEhOMm1yV0J5a0NUc0dWYUpBN0c4NnZTUUtjc0xCT3BRM0dzR25SNzRXeF9oeS1WX2tyTW9vWldGeEtJT3o0ZDFLWkdsVXVMNA?oc=5",
+          "published": "Wed, 11 Nov 2026 19:46:15 GMT"
+        },
+        {
+          "title": "Torneo Clausura 2026: fixture de octavos de final, fechas y horarios - ESPN Argentina",
+          "publisher": "ESPN Argentina",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcF9HLUZwTmtzWE5FaGxHR3RwaDdFOHpRbWVxNU1jMW41UlJONEdYb0twbDNjblBMWFowdURaZk5HLXJKLTBBQ1BFYUZBOUxoeXhyUHhyQ2ptblR1RTRCM0ZncGdTS2otVlVtbmRzdFVLNm9YQUdRbl9oV2R1UGpGOGhsSy16SlJCUkltcnFMNnVWeElFS2Z2TGU0VjBkRkQ1b3dQYg?oc=5",
+          "published": "Wed, 11 Nov 2026 23:34:00 GMT"
+        },
+        {
+          "title": "Las dudas de Scaloni en el equipo de Argentina para enfrentar a Uruguay - ESPN Argentina",
+          "publisher": "ESPN Argentina",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcU5LUWlkMGlKN2pWeXlJTzFaOTBYSkx5SHRkRERLQjd6Q2ltaVZhNkFPT2I5Umh4QWRId1JsYUZGT3MwcC1pRUotdHF1aDNkby1aaUx1bzZoYWgwNGtfaWd1OC1ZblQ4cExTUzJudW91ZHB1RU9OWFNnUTN1WUNFZnhrTmFlQXFzQ3NhTnFMVklyM3dCM0RPeVVn?oc=5",
+          "published": "Wed, 11 Nov 2026 19:01:00 GMT"
+        },
+        {
+          "title": "Enzo Fernández, citado a la Selección Argentina, volvió al Monumental, fue recibido por Di Carlo y posó con... - La Página Millonaria",
+          "publisher": "La Página Millonaria",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNFYxOHZ5WjIySlp4WjFzaWp1LU9EX1p1OXh6aVhVUUVTWHJRTHF4N3gwZDRyUFBBZHdEM2Y4QlFCMno5UlVtOEUtN3l4ZTVWSU9WRTdNUlloS01MVmlHRjFueVpjTnV2QnVlMVhGdnE1THhMZGlXN0IyT0dOeHR5bzB1dkhsU20zMFVlM1o3TXBfR3NHUnZ2WjAwNVpkZGtDdTZVVlZBMUcxLWdhN1Q0N3RqdEpXYTRWakFPRThCM3pSYUlqdktEcFpNeTBIS0VZbEZRZEhHWGtPTzZMSTBNQjlWSHlraEY5YmlqbVhncno2azZkSWt5NFZKeUNwT3fSAYQCQVVfeXFMUDRfcFg5TFFOVXdjcWdCYS1vejZremoyVC1kdThnbjlidm8xQmZ0c0owWnotLXI3WkhlOVlUT2tlWHFqeFYwLWlDVmdxZlhBSFpQUUFjUkFIenlRZDM2dy01S0Z4b21zN2hWdlJzMGNTOUxhVXh5QW5SUkdUdURUamMwNkFYaUxwa3VRczl5ckI1NDVLQk1XcmdKMVk0clN5TnJTeHhGdE1UQ2dsQXI3dGxVeXR2SEw3OXM4N052TXVGdXFXT0lqWVBGTUZ0aEp1ZW9rdUZHdVhuR3d2RzV1ZmdNUVdNbHlGRkRieWE2WFZpS2NLLWlUNkFuVjA0Y0dMV2liZHQ?oc=5",
+          "published": "Wed, 11 Nov 2026 15:48:21 GMT"
         }
       ]
     },
@@ -122,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
+          "title": "Nvidia decide si echa a Jensen Huang: revelan una segunda amante - Infobae",
+          "publisher": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdkNocUkzMS1QakF5eUg3UE83RzlJTjRuczlibTh4Wm93WTJLUDVoWk5OWFdjRFFsR0R2cUV4RG1rb0JFdWFGa0dKR1Z3NkRfdUJXS012RkZnX3ZyRzZMN0ZOQ1VpZUhxWTR4cEFCUUloMjJFUVBEWmktZHhyWmF1b3Q5aUFPN0lzWVh6OXp4YmRLR240aC04TlZvOHExeUI2aDEtWVhBWTFSY2Vhc2dEeVJmODI3ZHIxQUJwdmM4NGxJSnZFdzlWNVRyMjNrU2ZYTkhxSG5qeHJMM0dSamZYaUZLSWswT0I2VHpERWJXUklIYnE4QmFBRtIBkwJBVV95cUxNR2ZvM2VET3dmTUxKY0xfS2xBQlhwYkd0Q2FlTzFYT2lpME1QY3VQOWloMVdaNlBORDNfelZIUV9xell2RXlnOWdmeTlnQ1BXSmxhU3pyZXl0MlNCMzFjOUZrM0I5UXN0U2FYWmJHMjhGb0RRUDF4a2VTRHBrb0RUSHItZHY0b1d2YUVqVUlFSGNkWUtOallPWE9PQnpraDdkLUhkc28tZjl3OWhMaGpybUFmclNCV0FOelBaQm5hcEJMcmdNMmxBSzQwbDBpUlBSYW5HQ01WRW53TmpWQ2t2djBxcm9Lai03MjE0NnNQX3U0dldPczgwZURXTnlIVXkzMm1OaWN5ZGp1UjdybURua2g1WQ?oc=5",
+          "published": "Thu, 12 Nov 2026 01:59:39 GMT"
+        },
+        {
           "title": "Fiscales y policías lograron abrir la misteriosa bóveda oculta en la mansión de Santiago Peña en Paraguay: qué hallaron - Infobae",
           "publisher": "Infobae",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZm9zbVYzZzdKUVNVU1BILXlENVdndl8yaWgtdldnSnlPWTEzUDhWb3ZfWEZjakZxU2hxbE1Vc1RiRldhU2Y5STk3a045N3RaUTFSWFBTUWhZNWhxcXRQM1pfbmVSaDBhcUNqMGtjOGJOa2ppS2N1dzNHR1VfNU0xU1c3azZLbzAwSk9paHB5ZHNyUE9hT3dTdmF6a3F2RFowTEFuWjFiTzN5Vm5JVWlTUm9JMVk5WFQ0ZUlXcGhVUlktbFF1MkNpQS1NOER2Wk15UDAwUnZpeGp4TUtHaDFPY3RFVmE2LWxuQjRuR3RTSVdZellNUnBUY08yVWoxaHNBMXp4aXE5VmnSAaMCQVVfeXFMTkdtSWk3Yk1YVFdDdF9oT3BIbDY0eFliZDdJYVg3UFpvRmhuRERwYngxZGhhQ19ySUE5akhaOXVVbF9UR0dHWEhWaS04M082RUd1ZnRvVzcyT1NNT0Z4QzVoTHNoR1o5M3RjYUgzRWZJMUtYQzRVaU92c3JhSkNMQVJXcFNfWGVSZmVGR0Zsd19BOHlKS3dQd2pMU1pwUjBYMDVjakJyazNQdEw5bkFxM1djSHRDQTFNTFdqeW5OSFQ0b04tUjY2XzhrS3pvd3NmYUlQSEdTSXk2TWZBTERmSkJyVmFCdWlxOHN0WW1yOGpMdmphb3dFTVp2cDVLTGx6RzNBckRzcTFSNVhPbjdQM2xkbEdPbGx1UEJNbVkxbGQtTXNn?oc=5",
           "published": "Tue, 10 Nov 2026 19:17:00 GMT"
         },
         {
-          "title": "Quién es quién y qué pasó: la guía para entender el escándalo que sacude a Nvidia - Infobae",
+          "title": "Robo “punga” en la Marcha del Orgullo: un vendedor filmó paso a paso cómo le sacaron el celular a una joven - Infobae",
           "publisher": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGVwUEQzRGk0MS0waWJVZmlzMnNvTG5uNEQ2bUtJQVhaS2xqWVppak5VMEp6dFpQYjhNRjYyWkh2QVRkRWw5NS1ZVk1ReGhHWWFQVjlJbzhlaExhRm5reUhzMm9yMnJBR2NXZ3Vxb01NUG8tZ3VOR0tWNm9FSFJGcjEyUXdCREk5YVlWTFhHaWtCUGtYRWpDelB1Vzdia1hGeU1yWVc0Y3BvY2JGWW91TUtnWlg3X00tVUJyaHlHSExGV1NFSmRXdHI2ak45Y3VmZHVUOQ?oc=5",
-          "published": "Mon, 09 Nov 2026 21:22:36 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOekZQbDdxMFBNUkN4eGE0WFh1ZEhOc1o3UTkyMnQwNHQ3bmNhTEc3QUJpY0ZheWVVLWl0Q0s5TzZQb2hSY09UbG5vcWZ4QjhSVkYySnNpWXFRbjN2Vy1CN3piLW1QdnNGR1ZzYWZBekpETXQ3Nlc3NktKWlVkUTBkRl84dUVEUEhzZXVNWUdReGZzN1NGVmt5Zjg1VC1oS1JUOC1kV3Y1WTdkQzVPc1QwY2daN3pyY2dtV0RWUk9ycUIteUFva1owNjVVSkZhbGpqVjJEVEYyUk5WeXZmNHg5RlF3emtnUdIBgAJBVV95cUxQb3VDY2x2eEN0d1U1NnA2V0hEcFp5enFjbUJfSWxIUGhwSUVKekxqUllkOTl3azBuUnJsSHl3QWVramZwZ2FOM2xBNmJwcXRBU2xEQjRlM1VRb2pTMlg0RGZ5M2ZVTHEzU1NERmZ6Qzh2ZU56d1Y3dkdtTlJvRjZyXzB6UTZJS2lITFFZd3RGWWxaOWNqOVJlUEQ5ZmFpWlc0UVJLYmktMjZBSzJsZFZYOWF1QlZaWFlBMU03MkFvQjVKQ3dENmFtS0pKbEtHdmF3WEs3Z2dZM3BnSERoNnVFdEVuSzZwR2xoYzVRVDlJWlFkR2pTVndBMjlrZVphYkZN?oc=5",
+          "published": "Wed, 11 Nov 2026 19:42:00 GMT"
         },
         {
-          "title": "Elon Musk confirmó que el Tesla Cybertruck dejará de fabricarse: qué pasó con la camioneta eléctrica y por qué fracasó - Clarin.com",
-          "publisher": "Clarin.com",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOGJlSWlDWl9Ob1FTaktfb0FsdnF2NG1WakRiOTFLYmE4Mm9Mc1JQNjdPbmI4YWdpRXBsX2pGYWUxSTd6UkdDR2gwcmozbDJBV19BZzAxQXFKS2RKZVBkT0l0M0QzZVpOVUs2RGZMdmIyZ0Y2S3A5Nk9XQ2hNT0NNZGVDWmU3UXBYaXhfUnF1VUxxbjNOSE1SQmhYUmJBVEgwQjVEV2FqbDIyUnZtcldhVkJubDRMRGVZcXVUT0JwTGg5UDduckpQQUdaRXFqZno4OFo1UzE3d3BIUdIB3wFBVV95cUxOZ1ZYZ1JMd1RQU01tYmhEYl8tYjRscHFWTTRIZ1lUY3dTbG9fcENkUnFjNEpUbHh5aFFtdGNfcmRxTXBTWm9wT196MDI2Ri0wb0FkNjBkVW1qUFlTTXI4Rm9IU213eU00Wl9BWm9fU2YwdkNRVzlkelpJX2VlSl85T2FINklEUlRnbk9VMVYxV0tjYVZoUnhYV3dfdnROWUI0NUJCU2puRU1WUVFtMFd4dnBOZEdHSVc3QVIwUEZ1cGEwWjh1aXZ5aDZxMENIRER2aFNMQnVZVEc3TjRRUVJR?oc=5",
-          "published": "Tue, 10 Nov 2026 17:24:38 GMT"
-        },
-        {
-          "title": "El crudo testimonio de un sacerdote con parálisis que utiliza la IA para dar misa y que emocionó al papa León XIV - Infobae",
+          "title": "Los electrodomésticos inteligentes, bajo amenaza: por qué la Unión Europea alerta sobre posibles ataques informáticos - Infobae",
           "publisher": "Infobae",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcHIzb3JjZmJPbVBUZVMwSE9SV2RsemVPQ1FMNHA3OF82eldrLVMtSUhXd1VUZ0w0TklqUGxpUFpILThVeHhRR2VPTnlGdjNGanRtYnhmY2tGUU83YXdlNW5rbDNwb1pnWUdtZXdWNk5OU0p3eE85OXpjVk9OandVTlUyQVd0ME5nRlQ2OUhaYjdBTXpvQkZjbVlmaW9kYkZaQ2U4WFdwV2FsdkN6TzZaMU9ONXl1Z3NlRUlfUGR1WUpzb0ItN1pxRmh6NDhPMHFvMlNFNk9JbVd3YzZ4ZG1DRjBNOFhsOWoxc21lWDBxd9IBigJBVV95cUxPRXF4U09lamdyRV8yaWdBSUhWQWJTdXhvb1VHblNaYzU1ZUhQOTVGRU9XSG05aWdVcDVndENIVlJfdVVxTnlncl9BVHFmcVpLYmZyYlJoT3puM05fRTVJdE10SkN5cjY4OWFGdDhYRFZ3TUI5ZUZmMVdMalBpek5WMXh2TnN0Sm1nLWIwNmdmSmkwTENsbEo2YkJwYU1HTmhINW1mdG55RnBTVU12ZzJMMW5jY1BiUlJpNmpCZ2ljdnpqYmNpNm1uWkE0Ykg1ZTlIYkpEZTJGa2M5bG9qRTE5a0JJOGd6cktkVHhKcVhvWE11bjB6WmVybDhnSG1hbDhKQlZGNVlBeHNFdw?oc=5",
-          "published": "Tue, 10 Nov 2026 20:07:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUEhFVjdrV3FtWFlxSC1qdmxfUmRCeG9ZYTM4NDI2eFZvSVVQTnV3ZnZpT0o2aS1XdXpfdTFpUjBVVzdFRlozQnE5VTIyNlF5TG41bUl4U0ZyY2g3S1g2YWJTeTJrdi10VFVWd2hmUG1mY1Ewb1czRFJ6SnQzbnBRNjNwT1FlRldJdGI5blZUWVBBUTlscGhsZWxnaUJKbzZHSDl0OWQ0dWktRGRlZU5sT0RLVkxGUk84Rjd6TUVETDJyQWdRaGMwQ25pWEZMTTFESXNSeXZDQ3JEU25MOG9LLTJ0M2ZnSzZxQ3NOanF0QmphQUxIeHNMMdIBkwJBVV95cUxQRXlwRHcxSDZCWUk0RjFCLWdsSmlmWVBXZXVwRmszbExzSEZDa2t4NnJHam01MnpCTzlNbGZHNEVtbzRRQm1PY1FwZlFrWThNbjFTMzVVaDJqSGk1X3ZrNmJxYTY2WU5LcjlJNEdkRTlDVC1NRW1WN1VLSlVRRmROWDRTWXBjcVE2YlQ4VUJYdTFBNVM4QWJtNDY5bG1WY1hZS3BTUHVheDZWZTNCQXBEdUdVb3dTWjJWNEdmRDN1TDlRWGxFemZvRm9hak1jZXI5YkVXMXdlNk9KbnhnZHZQX0oyWFkzcEI2X0k3bGVuZ0VfMFNhQWJiRjQ1QjE5T2Z0Q0xuVnJqczRaS0E4cVJJVENPYw?oc=5",
+          "published": "Wed, 11 Nov 2026 16:26:00 GMT"
         },
         {
-          "title": "Preocupación en las empresas por la negativa del Gobierno a ingresar tecnología china - La Nación",
-          "publisher": "La Nación",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbmdrRHduNlNJSE5Jb0JDRFRKMjd0NS1VTkVOVm1ManptNG4yOUFQa2FoNmhmZUFYSE9BUXhhaWFpM2c0NzV1Y3lQMkJWQjBPSFBuSE9ud3BkNWo0Znl5VF9sMGIwVDhpNU1iRjdlOUxsNkZmUUZSaFphdFZjb2NwaVhxSkNySnVsV19nTE1CZUVMVjlUWHdpZ3JaRGwwTGN4ZWlvZjVvcFV3ZlhpcU1rR2pFUXZsVkZKMVJlM0M3QVhKanU0RTVaVTQ1b2szX2sw?oc=5",
-          "published": "Tue, 10 Nov 2026 14:02:00 GMT"
+          "title": "Cómo pueden las empresas combinar experiencia senior y talento joven durante su adaptación al entorno digital - Infobae",
+          "publisher": "Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMjRPQ1RLcU53ZXl1Xy1EOFBjSW84WUR3NUhjZHBuZDlSNXNWYU5XclZzMUhRUmRJbVB5ZjlmZmFQV0JaZ2V6QzdhUi1tWEhhZ0VmcC1HTmZLeG00ajA2WXd2cl9FNGVsYUF1cTNDM2ZYckhxLVVpaENneDloWmhiMnUwcGdRektnbVMwLVFOXzl2QVFQdmtYbkxYNWpRMy0wc2JZekNjNFJ2RHBNdWdWWGNRbkRZa3N5R3ptaGZvU0NJdUJjdGZkVUY4X2Rsd2t6cU5kZ0dPbjlXTnYxRmljUkQ5TlpjTlMwWkVVRlplelEyd25FM2fSAZACQVVfeXFMTUNZTks0VWU4d3JQQzI5d3k1dFpoMFlrYnpldEl1MGZsWFhZelRZaUY2R2FwcGJveEttWDV1RDRKR2RsTG1hLURTSWNINXBKOXFlVnAya0laOEJDT3NneG5Ea3lwa3lua3JFbHlfRGFxcTFNaU9SWEd3ZUxsMlZZcEwxd09YendibC12SGVmRkVyNnBCSHVyVVpSa3ZlSXFpM0hOb1Ewd0g1WWJ5end1M0l1LXZHT1gydjJ1VG45LWV5MjJmSVUtbllNMmR3Y1lKVmE2elpvWmUzNlpHV2p1YXFyMmk4X1VDTURmNTUxbWI4SmVCZTgxcnlLanFYdHNrWFktZ3g0cnhJYXNsc0VCNXU?oc=5",
+          "published": "Wed, 11 Nov 2026 04:26:00 GMT"
         }
       ]
     },
@@ -158,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "NHL rumblings: Bettman on Russia and World Cup, plus latest on Hughes, Larkin, Michkov, more - The Athletic - The New York Times",
+          "title": "U.S. Soccer pulls team out of FIFA U-17 World Cup in Qatar due to safety concerns: Sources - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkt1YkNrc1B0dE0wMEFnd2hkaXhPbUhTb25XSFNTT2VxTEQ0RW4wdm5lejRKdGZoNTRsRmxvemNud2NhaHNwSmVBSVZ5NVlKVzNkQ2xXMHVOYTBBRUFXb2ZHaHF4anMyT3VOaVAydHB1ZUNzTE9EMHp0OVczMHpPWEQ1VUVfQkNhdjhJT3BVa2p5a1hRZ2tZdWRDNA?oc=5",
-          "published": "Tue, 10 Nov 2026 23:04:48 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYldMQkFXVmo5MC0xZTkwZnpCaHhqand2aHBvdHduNW9zZDFpczZJUDN1Q0dRa2g3cGIxQlNEd0NOcWN4T0dGSXh6cjZFeHI0STB4WEJfVGpMWnEwWHRvTnRQQi1TMzBUWVIxbkdaWnJxMkhEX2NMd2hNNDFRVzZOMDRTSko5bmloWm9GXzdxaDRpYzRiaVE?oc=5",
+          "published": "Wed, 11 Nov 2026 21:05:59 GMT"
         },
         {
-          "title": "Manchester United reportedly eyeing Mauricio Pochettino, but USMNT players remain unfazed - Yahoo Sports",
-          "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUGIxTUszb3lxN3BTbzBfMlNPbHp4eHl6d2RMdlhUMzdtcVBadHBYV20zN0VDMFFOVzhBak5IS0ctcUxSeklzUjl3em5LWUtBQ1hiWEtiT1h4MDVMdzNTRnEzU2xRLVZzc1B6RGIxcGp1Tk1pc21WOGxIem1fWDRYd0d6aU0tTkp0V2J3RUl5eWxUTjkwM0dsV3JQaFVNaloyS2RRdVMxd0R3Y2dMMHRhUWdaN2lYTHRmaVZqbDhNY1laRGRiUjR3NFJiM0lmVmd0X3VzUEFwSkdxY1k?oc=5",
-          "published": "Tue, 10 Nov 2026 15:52:05 GMT"
-        },
-        {
-          "title": "'The World Cup never really ended': U.S.-based betting sees rise in wagering on MLS, European soccer - ESPN",
+          "title": "U.S. withdraws from FIFA U17 World Cup in Qatar over safety concerns - ESPN",
           "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ3NhVTZlODVsajF6cHBjZVoxTHFTVTZPbkpnVUExRWxJcE9YcGNTNGtsTzk2UHdTVGZLa0RXTzh3YzJTMi1mRGVXdkhZNW1UZ05CVHZHR2lOQy1IQm5LYmtTNnh6QUVacllKNzZWeE1JQ21lNVhoQTNoTGN4dFRVV3AtdUxYdzhZbUExYUhhWEp4MkEtSU5oamtsZllwMmVmNVJuM3lJWjl5TmVqdWc?oc=5",
-          "published": "Mon, 09 Nov 2026 15:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZDZSRlpSNVZfVWcxZUJOMTFTVF9jVUF6NW04aGo3d2ZLQXVHaXZNVUVTSkM1dmZXbnk4Zm5fbW1LTkpqQTFlYjVvOHlNQWZLSXY3R2xrUjRBV2ltMDAzeEJCVmpNM0FpTkxObUhESmZ2NTB5V3JRczBTZ0JNLVZWekVrS0xpakx0WFJ6Wk05RTktZw?oc=5",
+          "published": "Wed, 11 Nov 2026 21:07:00 GMT"
         },
         {
-          "title": "Fifa: Arsene Wenger considers standing against Gianni Infantino for presidency - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85OWJiTHZ3bi1NTmgzX1VVTlpWQUNERjJVNXNHS2dqS2hLN1lmNGliNXB1a196VHhhNElVQVlvaENWdkItQ21kMmloS2dZZWFWSGk0ZWE5MkJDeldMRFJUVjJ1dm9WNVFQ?oc=5",
-          "published": "Tue, 10 Nov 2026 08:44:12 GMT"
+          "title": "U.S. Soccer withdraws from U-17 World Cup in Qatar over safety concerns amid Iran war, sources say - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSVF3UE1hYlpncWdjeEk2azNZdWViYXp1VDQ1UjZ1emRrc1hvNUVXbkl3SFI3UWF0TnJ6YWtrOTlDcU1sd0xQNnZURDB2blg1dDRrc2RLZi1qakUtR2U1YTFYZ3MxcnJyVE1tUUk4RmlsRGhQdjRaZzFUNjhtSmFZZUtIYWplZTZpWUZ0R0FCdlg5aWhmQlBqSml6bjhVc29kLVp1bHRvTGZKOExtaFluMUVJS1pRWDF1cGtjTlNRdHBfYTlKZGZPcnFqRzVPUG5IbURCS1owVzJnZ05oODl4ZE5veE4?oc=5",
+          "published": "Wed, 11 Nov 2026 21:08:42 GMT"
         },
         {
-          "title": "Chelsea not showing the consistency to get Champions League football this season, says Paul Merson - Sky Sports",
-          "publisher": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSC1PR2o3MVZTUFhhblNseEttVkZwRl9tdnlHVVcwLTBzOWU2QmNNOTBHYUtSQjlBcjV6UkY1UWZqV0pxb1B0ZkM3NTBSLWZJemdTYTYzU2hES19uR2h4Y0FMZWRZWGF6NzBPUnUyVkpjNWN6YU5rTXE3ZlpxR2xGNzA1VGFjeU9LWXY5cWlNNnhSTTdsbmdTWGZlQzlZOEdZTDhzTzZGSEtrTy1CTk1VN0NtSHI2Rkl6cFB5eldMY1l6TzZKNEU0YkN1SkRQT2RpV194RUlLUjU3OXAzSERZ?oc=5",
-          "published": "Tue, 10 Nov 2026 12:52:34 GMT"
+          "title": "USA withdraws from U-17 World Cup in Qatar over safety concerns - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcUNmRE5KSF9BM255UXlNSWUxeThTVlVhSzJ1VGNwTUNPbEdqZ2dsTmtKdlBXYmZERzY5UHNkbFVJRTMxLXFYckx0MDJYRE1hOF9NTXZJZmZBRlY4SkxVV3FVdi0tcUhiODhaS3BIZE1RRmJCSkJObWwwdkFLV0xxeDhkZFdzTV9yVlQzZGZwZmhuaC1OZWtUc3ZjVS1NNERlSmRGejdkREkwWU1KRjFxMmdYZXpNcFkyZFVOLWc1eU96Nkd2TF9HRA?oc=5",
+          "published": "Wed, 11 Nov 2026 20:44:00 GMT"
+        },
+        {
+          "title": "Report: US Soccer removes team from U-17 World Cup in Qatar - Tacoma News Tribune",
+          "publisher": "Tacoma News Tribune",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oWjdWYlZmbzFoR3RlOW1iYnBGNGtBMW5zZzhTVGJmMVhESmVvZDZLa3FvUWJZa0lTeEVNNjZSVTdyeVdYd3Nja3dpeHJSRmtPRGU4RGtzM3lxQ3l4a05iVTN5VjJXSjlCNGFUMnNlY01GWU1u?oc=5",
+          "published": "Wed, 11 Nov 2026 21:04:37 GMT"
         }
       ]
     },
@@ -194,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "British comedian and children’s author David Walliams accused of sexual misconduct - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzV6eGhta1EwczFLWGx6NDg0eDZieUUtTUd6bXlIc3NRSlhmZnNEOWRBSHV4X0RvQktrMmZDNnZVRU5LTklpY1Z5WVhBTnh0SFRUTFdMQm5ucEtOem15d2l4WktkX3VCamgwWWtTSy1LaUxOODJvUGlnVzFVSG5saTZldTNNcDN6UkNhSG8xaG5wdXVKR0JJZlRTaWNZOEFXZEpwZG9uU0plcDFNcldQTjk1bw?oc=5",
-          "published": "Tue, 10 Nov 2026 21:59:00 GMT"
+          "title": "Frankie Muniz transported to hospital after Daytona practice crash - Motorsport.com",
+          "publisher": "Motorsport.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjRvNjZSNnpBOHNiSVB2dXdheUcwZk4xYmllS2RBUHotdzZXSEVzYXBSX1JmT1lkc2REanpJSm8zbGg3TGRWLUdsdVhnOU9aNzJSRElmVFdYS1UtMHFFMzhkQWNPa3U4TVpJeGJkMGVNbVJLc3pzQzNCajlxQ2ZpYm43S0FJZnlKVERuV2tSSkU4MF8xR2p1aHFWOW52NW16Vl9JajlIMmdqZy1BaVZqa2xCNUxaOVE?oc=5",
+          "published": "Wed, 11 Nov 2026 23:59:20 GMT"
         },
         {
-          "title": "Johnny Depp’s ‘Ebenezer’ Comeback: A Smaller $5 Million Salary, Optimistic Theater Owners and More - Variety",
+          "title": "Anthony Clark Dies: Comedian And ‘Yes, Dear’ Star Was 62 - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XUmZWcGkyUDM4ZDZtbjN3R3hjMi03bHl2alF0a0pSbkMxRlJVWWp5Ykx3M0E0VmlqRkU1dC1sVUpIYXhDdVBBTjJxdWhJcEJEUllmbkhEY3NtOEVJX3RNR2xLakR0M1NhME04aXZPOVhWTVBGQ2tjRjFvQlBDRjA?oc=5",
+          "published": "Thu, 12 Nov 2026 01:14:00 GMT"
+        },
+        {
+          "title": "John Landgraf on ‘Adults’ Renewal, Disney Reorg and Why TV Needs Chaos - The Ankler",
+          "publisher": "The Ankler",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDNDLXk3VWhQN0pWTVpBU0w5bXZUb0l4b2szNC1NSmdJU2dJLXNuekhlT21TT2xqcWFHeEVicVZfTms3enpvdnp5cjVaMTVHVGlRbEtwbWYzTFk5TUNobmtreXpkMURzUkpQVGRaNk9YVEo2OUZCd2lvMUp0Xy00c0NSOTRvQ3JvcGl1WmJPaVJjbm5H?oc=5",
+          "published": "Wed, 11 Nov 2026 18:28:22 GMT"
+        },
+        {
+          "title": "Randall England, ‘General Hospital’ Actor, Dies at 75 - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdU1uNWhMMmk1RzljTkRhenBTa29IbTRzRFhaa1lpRXJxWmx4Q2FKLWVZWWU1eHo2dEtRd1hZOVBMQVlyTWdXUWZzNHA4VUtULTlPUDlYUEpEcV81NUZDZUNYLXFhaUVhNndHZVd0bW54S2dhRFVzOUhMazJDbGpDZVZqU0RkWFJvaVBqeTljZVRNQ21SZWdYYmtB?oc=5",
+          "published": "Wed, 11 Nov 2026 21:52:20 GMT"
+        },
+        {
+          "title": "Russell Brand Pubic Hair Removed From London Museum After Conivction - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVcyUG9PZjdUNDU5cTlZQjdLb0ppb1RUSHluUjRhMUFkVW52V0FOT1BRc3pUTEJzMW1TdVFub2lqU0NyTUtWSndEbFMzN2ZOSk1BX2tiX1dRTXRlVTZxQXowUmI2RTd4cjhLaEFjZ0ZyWjhqaTd0MXIzSm8ySXdHRm1mSDVLMDRHUDZNNm52WU1SeGVvenEzM2cxaw?oc=5",
-          "published": "Tue, 10 Nov 2026 17:01:00 GMT"
-        },
-        {
-          "title": "Stacy Keach, star of stage and ‘Mike Hammer’ series, dies at 85 - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONV9MeUxrMXk5Z25yVDFLNFF3SmVOYTZzRmZsWXN3Y251d0E5WHFZanVXWG8xMms3SF9yNW1wbS1yUzhXZHdIazJWLWZFbDFHUERNOGhxbjYyQmgxaTdjd01mSHhCVjc5UzBCclFRWVR4S0NvNzlMR1d5QTRUaHlkamF4QzBsNW5WUXVNblNoTGZ3RzAtOVNOSExPNjJlRFV2X1E?oc=5",
-          "published": "Wed, 11 Nov 2026 01:38:00 GMT"
-        },
-        {
-          "title": "Sofia Franklyn Reveals the Dark Side of 'Call Her Daddy' in Explosive Memoir: 9 Biggest Bombshells - Rolling Stone",
-          "publisher": "Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUVrNmFMVG5QQUwxSUVhOS13enF3d3hmdzI3OEExbkd3WTkwMFowckVMRmdaWjFkamhJUmJBdl9EZzFPSlJWVnNVaGZJcUp5S1RYanMyMXIzcEhnZldSLWpab2dIV3kxS1czZVREN2FnZ0g2ZzlsbE1mNTJMbWIxbkY1QVRPdGdJM1YtQjFZaGl3ZWhYQmctUG1xLW5FaXZfTEtneFQtckFwWlBOakJ3eElyUVpTYkt4S2F5VEFB?oc=5",
-          "published": "Tue, 10 Nov 2026 15:00:00 GMT"
-        },
-        {
-          "title": "What Conditions Russell Brand Can Expect in a U.K. Prison - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKRWxnSHhKWE9XVmFic1lGZmxWbFIxNlFRMVdaMnBJdnRaTjl6aS13MnRMQ0hOQ2ROVUxIMUhfb25JdjZuODItcXdKd2xOYkJwYkdMYmtsdXVkdHhQb19CNkgzWGNjdnhpbmxOZjFlNlhEVlE?oc=5",
-          "published": "Tue, 10 Nov 2026 23:57:21 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaFFiNU9ZV0RzVTNWWFlBSTV4U1M4eVpBVVgzREtnWi01S3d4Smw0VWFBQzY3RW9sbHR2Q0JCWUZ3b0IzZE1EeHRaNWhKSkFTYXJIUFRJT2poY0s4cVJrWEJickc0dHJlQ2NqT1hleWZfUVJoVzE4b1A2UzJhY1h0TmFqLTZ3Nm96MFlRekg1SnJETEkxV1A1eE5hU0s?oc=5",
+          "published": "Wed, 11 Nov 2026 17:48:00 GMT"
         }
       ]
     }
