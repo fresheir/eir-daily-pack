@@ -1,7 +1,7 @@
 {
   "market": "US",
-  "generatedAt": "2026-11-14T01:57:57.095442Z",
-  "validForDate": "2026-11-14",
+  "generatedAt": "2026-11-15T01:29:55.528202Z",
+  "validForDate": "2026-11-15",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights - The New York Times",
+          "title": "US air travel should normalize by Sunday after ground stop triggers mass cancellations, FAA says - The Boston Globe",
+          "publisher": "The Boston Globe",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVFp4d0xZSmlhdmlDRVJDazVic08xNEVjOFFsNk1BRVd5U3liOXR6ZjVUb0FCN3ZLc2pwMDBKOVRCSmdCN2hqbmpOaTJqZ2R0THcxc1dZZFZjTldfUTZNX1VacG1wOEdjM1dmclZVamJlMFNhMnBCMl90blNNQXFVbmg0RVpIelpCcmRwSjUzMy1JLVdPNk1sOUNDeWdQMTZ1YTV0NnNyZXdQSTQ?oc=5",
+          "published": "Sat, 14 Nov 2026 21:53:19 GMT"
+        },
+        {
+          "title": "New Orleans port sues tanker owners over cruise ship collision for $1m - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQXdmUW84QjZxYUtEc2NMZ0gwMlJ0LXNDOUt5TWw5VFlTeGpnN2FQc2NQNXAySUlsbjdRQm85dGoxQ29JLUc0X0prZ3RPcjViYm4zNld0cVdUcEk?oc=5",
+          "published": "Sat, 14 Nov 2026 22:27:06 GMT"
+        },
+        {
+          "title": "Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play - NBC News",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0tWRjdXLWNKYmp0NERhQ053eDlqTG9MenJsc0VMUFQ4YlE0eW1KVjhJcUNvcjVlcGJVbXJlRERTejBoNG5JQ0hIQVlZZEphR3doVndCb2I5N19ILU40Z21FZTJKYk8waGR6NzU3V08xYVFLX21mcEMxZnpFejNENzl2U3FZWUFYUmRRMm5tX0JCZ3lKODR5MjZUcnZlbmQ2N2R5bWNvMXlGZ3QyOEJjMlRYcDgxLW02Wjk2TUU5Mm5PQQ?oc=5",
+          "published": "Sat, 14 Nov 2026 21:22:15 GMT"
+        },
+        {
+          "title": "As Crisis Circled the Skies, Trump Kept Out of Sight and Off Topic - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1F1U1pLV0V3dTVlT1RnSGF1dlJERU1sbkN5X2pMUmlPSFVoZkZaTmlRM3plQmZJQTBBaXdMQnZpbm1PV2NfajFvclpsUWE2VlhwZ3ZlcjVkNG1CbUVxMW9jempQY3VtVlNSUU11c3hGLU9GYk82N0cxT1BBQTZkbWs4VQ?oc=5",
-          "published": "Sat, 14 Nov 2026 01:51:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWdETG85RE9IbWFnRl9RSUFLOG1DU1dwekRIR1doWGJhdVNEZUNldEFWN2czSnBEdzFjWlRvMmpaMTc3VDdncVNVOUw5bGJGMUdRcW9aUTczNEZfVmZGZEtnN1RUdnhJdVNPZDdVNlhjMS0xZlRNdGoxV3BFbHVDbDVlLUo5aFVZei1EUDg3MFVWbnhj?oc=5",
+          "published": "Sat, 14 Nov 2026 22:10:42 GMT"
         },
         {
-          "title": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1oydGg0dGktdzQ5Q0QxX1VQRVZJQUdkZUdwNnRHTGxxZWpjeWJGNlM4cV9CVkxjbko3NXlKcm9qeVBra2lON3k2Y1p5X28tNXo4aGdZUDFUaUoxT0tZcFNnNUNtRnFINTJwVzhDb0lNeWdiRTdBZjRYVVpCc3QzemtWWVBPVG1pQlE?oc=5",
-          "published": "Fri, 13 Nov 2026 20:09:00 GMT"
-        },
-        {
-          "title": "Miracle on the Mississippi: All accounted for after tanker collides with cruise ship - WDSU",
-          "publisher": "WDSU",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOblFENF9fYW4zU0tVWVZabUIxUXhLNTVzVEFGYml3d1k5QVdreDE1SndOazB6THRKamlfdi03MmRKVFZsc09ZU1cyU3IybkRhM1J1aEo1TTBBQVc0RTBwYmFVYUozMnNTY0tQcHZNWHJYWHdHd1UzMUdPaVFoVGlmalYwdmM?oc=5",
-          "published": "Sat, 14 Nov 2026 01:22:00 GMT"
-        },
-        {
-          "title": "The senators who could join Van Hollen's insurgency against Schumer - Axios",
-          "publisher": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN29nRGQzaUpnSEZkcU9kN2piX09RT2dncVdmM2Y4TkNiaWFKZHcxSEVzUm1lRjlFWER5d01DMGZMNnhVdXJ4VDE4Y1VKaUpiQmZZSUlodVhmZlk1bFFQakk1cjcxY3NVdXZKdDVPdmZJLWZNbkRPODhmaFZOaWtieA?oc=5",
-          "published": "Fri, 13 Nov 2026 23:29:04 GMT"
-        },
-        {
-          "title": "Driver whose truck killed 2 at Kansas youth soccer game won’t face charges, prosecutor says - CNN",
-          "publisher": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50VW1ObmxOT2R4SkpnMVhKUUdVUGNPYlRPbnJsTnhpTnYxZTl6Zm01dC0xYXNGa3J1M2xkUkdWeS04Wm5uVEdRVkYtMlRqWU5HQUo1a2RKNUxXV2RxZUpRdjh0RDQxOFdKRmR3ZEI0eEhvUzlIV1R1cFhSa28?oc=5",
-          "published": "Fri, 13 Nov 2026 18:19:29 GMT"
+          "title": "Bomb found near ethanol plant in central Illinois forces evacuations - NPR",
+          "publisher": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmJYNUozVC1GX01ibDFuSlJTOUNVYU92dm45TGRJNHZpcVNRQ2tFbXJBbDczRHljY0RKT1ZWUzFpMExnRkJhQWtmOGRmUTNYZHJXOWdhaldrQmNxNWZsaUR5b21CR3NiRVpWRFQ4U2pZdkl1eDVPX2V1VkFtZVRtaEUyNi1zMkxTSkpDbG9PR0dkdWM?oc=5",
+          "published": "Sat, 14 Nov 2026 20:12:34 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ - NBC News",
-          "publisher": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5",
-          "published": "Fri, 13 Nov 2026 22:52:34 GMT"
+          "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town - Al Jazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaThSTWlHZG9mM2JLSHd4Vnl0bk1GLUtlYy1VNktsWFBVMnVwbEJ2c1Y0bUczZGV0bnpzOHJzMGFSNkdGb1FndmNiUU5IM2dtSGNTdUZ6NjcyVDdYLXlzcHNnOEdUTkpOeDl4ekR6aUo4TVhJLTExX3BOOFE3NHFscUliTXlubnB4Yk9GeVJoMlJnd2RQZTE0cGdsUWJhU0VpOEl4a3c2dEpBMlNfcjQxR1dlbXTSAboBQVVfeXFMUGhXVHNabjI3TS1NRnlvZlRadjNmRVJ3clFkQVlwYmUtdmNubGk2alVrZ2xaa3ZULWNFZUh1Ujd0UmVKNno0NzlWUG5zWEtVUS1OTWVMZ3MyNmM5a19ZOVljdHMyMVNUTHlySjgzQlFmRHZKTVNxaFNiSGVqSUM0d0VjNDRIQVRaX1lRX3IxcG5WYV9IN1h4WmZkOElBVEhjM0JsNE1pdkRfNkVWb1ljV25ILUFkZkxVdGxn?oc=5",
+          "published": "Sat, 14 Nov 2026 19:24:44 GMT"
         },
         {
-          "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, officials say - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
-          "published": "Fri, 13 Nov 2026 23:44:00 GMT"
-        },
-        {
-          "title": "US Army names officer held on ‘allegations of espionage’ - Defense News",
-          "publisher": "Defense News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWm51SmdISjNlNkxKOXFwUktpWlFUckRTVW5OdzRrY0NOc2NQQmtDNm9IY0ZMUzVpYVI0N0kzcnQ2cURobHQxdzA0RlQybDcyZjFQQ3dhZkluX2F0cWxzWnh3eVE1RXNnS2ZlaldOM0RySHk0RHY0RzQ0NHZfVHVodVF5dHYzOC1VZlNCZXhpa0tRYXo3b3NFZDlRaFd0WmN0bE9EcVhVOG9QMUlq?oc=5",
-          "published": "Fri, 13 Nov 2026 16:32:38 GMT"
-        },
-        {
-          "title": "Man dies after eating crude bomb disguised as traditional Indian sweet - CBS News",
+          "title": "5th Canadian soldier dies weeks after fire on grenade launcher range - CBS News",
           "publisher": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoUVBLWlJER2ZaakRjdEc5cFhSN0NUT2NlZWJFM2pnb014aVJIRGc3alhRc2t3WU04Ul9jSXlOSTJJOHNWWm1KWEt2WjNpQWw1MFRFQmtMeG1yLURqcThhMVppQkJ6NFVxYkk3VDJJS2xjdTgzNmtOVjlhUQ?oc=5",
-          "published": "Fri, 13 Nov 2026 11:36:22 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1BNa1NzQnNVNEtxYzlac2NSYjlwRVdfMWc1VGdfUEt0UlFvQVBza1o4LXo5SHFGWWRsREtkUjdCb3BQdnctTEFoaXZLVVBaODU4TjFvWWVnWXNzenZvSVIxTlFlX3lQSEtGX2lOcXpDSmZQc2JYdWtQUlA4em5jV193?oc=5",
+          "published": "Sat, 14 Nov 2026 23:44:46 GMT"
         },
         {
-          "title": "What's Trump's strategy now with Iran? To keep things as they are - NPR",
-          "publisher": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcXIwbkFRM3dlZktvS0VBdHVLQURXY28xdmxYVnNnUUk3Sy1RRmd0dTNBeFhWS29TVVM1RVh3aGd5cmpObC1naWw4a25qTXRPOTRndFY0REw5UlY4d2tlR1dzMFNhbmlXc0NHSXMwWVpZcFZhOE1vQllfT3ZWZXU1X00wLWhiRnNPdmdnQnI4SUJrb0Q5eHRPRmlKYzg1akt0U0ZnM29LejY?oc=5",
-          "published": "Fri, 13 Nov 2026 19:02:04 GMT"
+          "title": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’ - The Times of Israel",
+          "publisher": "The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalk5X0pscG9RYW5lUWJuTFdKTF9BaV9CMi15MGV1LS05YnZUaWFsVE9CLWNxMnpqZ1NHbG9VWk1vai1rV0xsU2xwVlVLZTdqOHR3NTN2cHhLRXVXTVk5U01FeGJhRGppQ2d0VWNXdm1vLWw3MHZuTXVGS0N0OEp1eE9zRXRobTJjblh4c205T0tCNmlvZGRYNEc0RXRSU1B3RUVsVWpiVFRwcmlvQThLVzNR0gG3AUFVX3lxTE9Bb29jYV9MdVpkV3JhUE42WnU4bi1wTmlCcjRmMUtsS3VvbFdWbGhaMTZwUjlzVHVCVnU1dzdEZkMxYkh4MUFNUXRxcUt6bjhvX04xMERMallQWVZ2R29ETm8zTmFyQVpZb2hhY1QzZG5ud3BlTGdWTG03U3FDek9FLXhlTVRVaUlrMUY1dDlaVDRMV253TnQzQmlwLVVuLWVZLVRWTGxTMmZ1MFZna3M1QmlITXNjaw?oc=5",
+          "published": "Sat, 14 Nov 2026 23:37:30 GMT"
+        },
+        {
+          "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
+          "published": "Sat, 14 Nov 2026 22:54:19 GMT"
+        },
+        {
+          "title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says - CBS News",
+          "publisher": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
+          "published": "Sat, 14 Nov 2026 22:07:08 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
-          "published": "Sat, 14 Nov 2026 00:25:00 GMT"
+          "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZVRWazgtMzQwaGdPRGUwSnFTWnRQVFd0RHJieWluMVEwU29LRUJvaFVjTE9VV24zRWJPNU9tYnl0SE9wRExVY3I2VXdFRTFsNXlHU0tETjJkU3ktVWlaQjJCY3FSZHlBRFRXcGgwXzkxODZRSC1la3lqbEdHOEtiQnc1aEpLQQ?oc=5",
+          "published": "Sat, 14 Nov 2026 23:14:32 GMT"
         },
         {
-          "title": "Bessent blames Lutnick's department for Nvidia chip sales to Megaspeed - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVk1tMWk0N1FhdDBYZEFVWlJOYzhoM0ppOVFaYjN1czdmdmNidVplRTYxVHdLNktGVmJ1VG9yYVA3N2dvSWFKVFlwT3l4RWtCWm5UQ2NmSUtFcFU?oc=5",
-          "published": "Fri, 13 Nov 2026 19:53:57 GMT"
-        },
-        {
-          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday - Ars Technica",
+          "title": "With Starship catch, SpaceX still shows it can dazzle the world - Ars Technica",
           "publisher": "Ars Technica",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1Zub2xqb3dzYTFILXNXXzF5TkJOZmRDWFRXc25zbVFkNkU5Mll5aEZDVTB3aFJjQmFiZFo4Qzd1RXFnLTE5em1ROEQtNEctMTMwZmhMYUFMZDFRVjY1cF9nMGVOREJXc3VhbFlhSEtNdTNtb1JxS1BfTjdyNTdmMkp4TEN0VXd2eG43ZWJoUXR0dlRydy1zaWZsQWgwZkFSRDBaQUZueTIwMDZwdHZIWWZCNA?oc=5",
-          "published": "Sat, 14 Nov 2026 00:49:13 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTjNxR3RJODFOUXdTLWVmNHlwVTVqNGVFdlg3TFhMT0pzVjE2YXZEaS1NOUhnZW93c1d6NjR0eHF3UWpDbHlGSzdTSGxZYU1MbGJPZWJ5OVBLMG1hcEdONEw1UjhENjdrd3l2X2VKUkVnMGEyMGZXV2FiT0d4TkpFZWwwaHpjSy1xYVdidkRqR3VrODktNXBDODNYeDhxa3BERVJV?oc=5",
+          "published": "Sun, 15 Nov 2026 00:40:59 GMT"
         },
         {
-          "title": "Microsoft 365 Outage Continues: Tech Giant Has No Timeline For Recovery, Says It’s ‘Deeply Sorry’ - Forbes",
-          "publisher": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd0ZWZFJCWmp3MUlFMFFrRExhTldkeEs1aEt2bVJDend6Y24yck5wUHlsNF9yNERkQWNsY25va25DMnpMWFE2QmtZVy1CQnlVMjZTNlBFM1g1ak5kWjJEclk2V0IycmFKRHg1RjU2M1RVaHhwTEJUM2hZa0FXaUZRWVRZd0tpTThCZkoxeTJxZERQSFZBb1M3SWptclpVVUVxUEtzSUFTMWxLcmM4VURJbXNCQ1NZQm9fTzBnOS00eGRiV2NRVUo3Rl94QnR2TnlfMGM5dUYxRmZuVDQzZzBWRE0zb2w?oc=5",
-          "published": "Fri, 13 Nov 2026 20:28:00 GMT"
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang - TechCrunch",
+          "publisher": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXp2MmF6T0R2alBCWHR4SXRzWFVvN2lXRVlRaHRvdzBhbFlsenRnU0JBQmFJeWVVLVVVZzFESlJaMzdSZFpjN184R3Vpc1M1SmRkSFpkZ2htM0JaSXlBZ3U1Tnd3Z24wemRCRUVQa3ZtdUczRVp6VUg5RzRKSFc1d0tQZV8xc0ZTb1lSbld5WE9mVWVfTHFPYXhVRVJid0UycjVnZnczOHhIV194OXl0UzhWc2xQNzJ6eU9J?oc=5",
+          "published": "Sat, 14 Nov 2026 21:41:22 GMT"
         },
         {
-          "title": "Family Dollar to pay $63 million to settle claims it overcharged customers - CBS News",
-          "publisher": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnRqNkdhV3JtQ2VPS3VOSHRXWENndGY4cnlKTFFmNElReU02dkdXQmozN1BFRUxMZHAzVkVkRGJBc0ZwZTRVY1QwOGZ1T2w0RW16eXhvY09iOTNoWXJ1eXM5Zi1fbFhsc1F3R0JCSVc1RUtYaWh3Nk1XY3VTZnpVSDE1T2JWdlE?oc=5",
-          "published": "Fri, 13 Nov 2026 20:52:00 GMT"
+          "title": "The Massive Chinese Spy Operation Targeting Western Tech and AI | The 10-Point for Nov. 14 - WSJ",
+          "publisher": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXd4UlN6UWw5UmxJZGc3QnA5Sm5hVi1hRUl1blh3bnRfSnc3Zk4yeG53UjdFbjFvaklZbWRrN0ludmgxbm02cDFBZURTaXdDQTNxZ0gyZUk0OG5XeGVUUy1CZW94T19IUmVLWmFacU02eDVLbnYxcGU0TDI5SDVxMTQ3T0RaanNTdFFaUWpWZEZIbnVDU0hyUFpUVHAzajF4bTlJaWlCUQ?oc=5",
+          "published": "Sat, 14 Nov 2026 12:06:00 GMT"
+        },
+        {
+          "title": "Microsoft says services fully restored after hourslong global outage - AP News",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHlYRjJoX0RfREJ3UFBlQ3pacWMwMjBXeGJETGNBTFIzbHZMd1o0UFpMR00tQ25kb0x3YlBjZk4wd25hQTVoQ0FQdTVydERxenNBbkx0YVU5VGtnMUJwcW0tc2FFZ0tsMk0wbFc4TjRHWFhid01xWmljT0tZMVFicUVWRk1ueWdscFMyZXdHWGVJWjdSQ1ozLWJGdXpNMFRQdFc2Mw?oc=5",
+          "published": "Sat, 14 Nov 2026 09:21:00 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "'He's part of our DNA': NC State names former Wolfpack quarterback Philip Rivers as head coach - WRAL",
-          "publisher": "WRAL",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGlEaEd5MlNoZzRWRlc2ZnNBWFNvUVRaVmg4OGhzQko2bXpwSWlFNVhkZFVvTGNwb2Z6RDhqdVQzNlNQMFVZTHdCQm9sU2Qyc1I0ZGh1VTcwRzZpNUw3VGFLYW82bS1IazdaSW9jRS11aXB2U1FxSi10NVUyZF9RLW1SR3Vja1R0cHk0WG9lVWZfa1BoWGI5ZGR0VS10dThxVWF2V3BuODc4cDJFNWc?oc=5",
-          "published": "Fri, 13 Nov 2026 21:13:00 GMT"
+          "title": "Grant Wilson delivers as Indiana boosts CFP, Big Ten hopes with win vs. USC - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmxkWG9XQVJ5QUo2WUNkbFFOa0V0Q3R4alBsYjZGNXBjS3VFQjllZUVBZTE3QVdiRnpOYnRpLUlQckpYQjZyNEQ2T2NERHVLTlQ2SzBpMGtmQ0l5QlBQNXJiazEyblRueTRlMDhSVk5Kdnc0SFZ1U29kVUI1WEI0enh1WXVOMmZwQnV0RXZTZGlGa0ZVSk1fSjVQZ1E5aGxHN0wwZUk1UEwyX0lWMmM1STlpUQ?oc=5",
+          "published": "Sun, 15 Nov 2026 00:33:00 GMT"
         },
         {
-          "title": "UFC 334 weigh-ins results: Ciryl Gane 11 pounds heavier than Josh Hokit; 2 fighters miss weight - Yahoo Sports",
+          "title": "After another blowout win, where does Wake Forest fit in College Football Playoff picture? - Yahoo Sports",
           "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRXBfWVc1c2JnWlVzMGNySlJBR05wZnlONGI5a2VBQXlIY3NRZ2dSS1RUTUVkazBzdTlMcmF6R1d3bzlYR0hkMWNPSFdhX3ZkRXk0RFE3QXZyb210XzRKMFM0ZTEtS004cTROTjFDYTZBWUNPc1drTm55RGNiN2RZRFRyWkQ4dUhDWXBRaFJxZXloc2xfMmxVbV9ybU96cDRKNDUtajJ1TnQ2bFA3aG9FRFEwblctZGs?oc=5",
-          "published": "Fri, 13 Nov 2026 16:14:35 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdVp6dk9IWmd4ZDBQWUo4T0dmLVpOdDJscVRkdDhQX1k0RmNMMkJIXzl6cDJmVlFXLXZMSm1YREZBaWRnWTBiNUpydjdUMndIUGFZZU8zSWd5SlE2QmNLOFR1WS0tR0xhVEhsM0lITGdsVTNHWXF0S1FyZmdTNmxxNWdKcXZ2em9HQWdYQ2ZlV0U3bUI5aFhzNUM3dXFkX19Sa2VfeWFkRGVvNGY4UjNhd0dvWmdrQmNFYmx4dTJCY001a2gtektaZ095MVhCOGduZ2xhMUt1dkNXTTFJMHp3TUMwWHg0aXRa?oc=5",
+          "published": "Sat, 14 Nov 2026 20:55:41 GMT"
         },
         {
-          "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 11 - CBS Sports",
-          "publisher": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3lfY1c5bXlsQlQydEFUY21SVUw1Sk1KOE5oZUFmYnBDOTg0bXhOMEp0N01jQ0NpaHp3eG53eXpPbUcxd1pyTWo1UnVOWFZOWERvaEhrdHdaMzF6dXNuY2p3aF92Z0JyYkFxVmNGaXJzUUwwOGRFRGtWbjZJOTFET0djNUxjNlk1Y3dOeVA3STFiZFRSeWpWQzh3QlFVV3hzbnZpc3pHQnBsdXI2SHMwSEo1aUlyNzNsRHB1MUVVSGJvVS1FalhiaVd3?oc=5",
-          "published": "Fri, 13 Nov 2026 23:59:00 GMT"
+          "title": "LIVE! UFC 334 Results: Gane vs. Hokit - MMA Fighting",
+          "publisher": "MMA Fighting",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FaGVPU2txN0Q1ZldBOEJXTHl2aDlDY0RDYzN0dURJNkUxY0w2enJyLW53RVlIMlljd1hNTGZRMERQTk1DLTFVc09zMC1YNk5meERpcFVtQTJBaVZwUUNoVVBaNlFMOXYtZDVpNjZ6cXp5dXd5YUI0?oc=5",
+          "published": "Sat, 14 Nov 2026 22:00:00 GMT"
         },
         {
-          "title": "John Harbaugh: Cam Skattebo was not supposed to push on Jameis Winston sneak - NBC Sports",
-          "publisher": "NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbHpiTENjNF9iQW9mdmFKd3ZrV3RZcTBPNGVyc2Z0ZEFRdGhzRHhZYi05X2lhNUVQNzQxbnN6VFJjN3d0bjlreFlQMVhHX2w5dE5WU1dhM1NkXzdMdE9DMnltMm9wREpOT0pBSWwzanRMbzhCYjN1MmcyUElLVktDVDBDeE0zUEhmRE40YXJuQjhjb2dFbDg4ZTNFMDd3QUQtUlFzcVdNWWpzY01kamxKRmFmd0xHS09NQVJsZmNxeDV6aWVBQlc3cTM4eGxncXd6QzRJ?oc=5",
-          "published": "Fri, 13 Nov 2026 22:18:24 GMT"
+          "title": "College football Week 11: Live updates, schedule, scores, CFP rankings - NCAA.com",
+          "publisher": "NCAA.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUdVTFlpeUpMVURLSnlTenBSSXZ3M2RBRE0tbUl2UjN0Z2htclYtbzJDWndOVnZ3NHQ3MXlHNUZ1N1JUeFZNaWNXb3V4UEtIcUtWUFpaeE9OTFNsQ0k5ZWVSb3ZxeGh0enNHcXpIU05PXzhrT2JseUtZTEhNaXVqMURKRlRUNDQ0WlJnc0FDcUNPelNHSUtJdzhULWdBZUxSbXg4cUtzd2VmSi1obFhtM1VFQQ?oc=5",
+          "published": "Sat, 14 Nov 2026 22:06:00 GMT"
         },
         {
-          "title": "Sabalenka's season ended by Svitolina at WTA Finals - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aVGI5ZzdaMGZRSUtLeTFVN1JlU19hQjZhbGRyRWR2UHRKUXpoS1JYbHlqOS1TNkVwTG9VQjZLZTRQNnNnOE1WeUFmYTdyaUJTVXZWNnBTcS1JdFQ5eWZubFF0YkNwQQ?oc=5",
-          "published": "Sat, 14 Nov 2026 00:51:25 GMT"
+          "title": "Ohio State's breakthrough moment arrives in week 11 (51 chars) - Cleveland.com",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaHA4N3F3ZUh5NHY3c1VVc3E4amJxbldQc1pqSTF1eUE1VUM1QWVfUExXUzV3VnJXd2Jza0Q0ay0tdGtWVVFMTTkxaE1iVzF0a25RTXNIVnVqbktpMU4wS0p6ZXB5eW9VWVk0UGp6WjNFSUJRaERFNFpQbTJMR3ZhSjN4NEZvOE5xOWVJTXZfSlBRVk5pY3RmRnQ3Y00tTHU1YUtueWNVWE02aWgwQzFnVUx0UFo5VlNmMkhDXzJ1ZXhxQQ?oc=5",
+          "published": "Sat, 14 Nov 2026 20:21:00 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Why Apple's HomeView Relies So Heavily On Your iPhone - Engadget",
-          "publisher": "Engadget",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUlOMXcxbzZCcXNia1lGVzh5NHJ2VHpIOGJiT2piQ0FiZG5uMU5QQTlwM0lZVUpnR1VXMVB3X1g3RmpCUDVHU1FIZVNyLTE0aF8yZGFYV3haMXFDVXh6MkpwVkViOTl2NGtoSmVla2oxbGp6N2Ezby1YbExLQm1adEdFR0RIUFlxS016cHpKTQ?oc=5",
-          "published": "Fri, 13 Nov 2026 14:00:00 GMT"
-        },
-        {
-          "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs - MacRumors",
+          "title": "Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More - MacRumors",
           "publisher": "MacRumors",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43SGZ3bUFxTlFUTmMtbXhjRlRhT0VnVWhWNzIwQTN6bWVocjgxVWU1SGlPV2tQckdhSTI0X3NkRVVFZ3FkU2Y4OWxRVVZobzlENDRkcEJkTHJtSGVfTGhBcUNjTEo4UmNBWEg4RUxpR3B6UQ?oc=5",
-          "published": "Fri, 13 Nov 2026 19:26:39 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DQmFzTVNZOTlPc2xwQXpzQl9feENmQy02aGVrUTFPUjNGOExGT3pYeUJaRmpKdzlseGpUU3RMUWZNZktkemYxdDNmajBGOGdVMWxwUklvVmxaOGFZTEZZUnFocHF2cTk2aWd5TkhFU29DNWhndGZaQjlB?oc=5",
+          "published": "Sat, 14 Nov 2026 15:25:09 GMT"
         },
         {
-          "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price - The Verge",
-          "publisher": "The Verge",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHRoQnZYNFlOWHFjNVdsZWlIektzY3JHbm9fUS1YbmQ1bW9JNnRrdWpURjFwaUtuNWlKUkYybEVUVFpnaGNjZG9wNVBPQUNrN3VsQ1lsQnlSS3lIb1VSQ1QtVzRZT3RVeXQ4ZGpSa2tBZS14bEVPUEEwY3QzTjRSdHF0YnBoMUhOZFFHLVEwN0Q?oc=5",
-          "published": "Fri, 13 Nov 2026 20:30:00 GMT"
+          "title": "I test trending tech for a living. These 9 are actually worth gifting - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzY0anY0c3N3d0N6T2VYM2txZW00ZThsOFdyZnFtVnRLNnptd0JaeTVWTG9wZDJ5dnU0dGtodVhuRzNlR25VQ1FVTHFDa3hWZ2xYZm5ZYVh3SDhaRlRJcld0cGdqQ1NrVFR2RHNpWDdIMW1PUGRDb2prRTZ2c0psWDgxSlpTcTVoTDRlSUZ5V09sS2xJcEVnUF9OOA?oc=5",
+          "published": "Sat, 14 Nov 2026 15:33:00 GMT"
         },
         {
-          "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone - 9to5Google",
-          "publisher": "9to5Google",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1dXdnppUV95ejljLUZPRDdVMHY0RHhWNXFEY29lTjVBNk5Ec2VkSXNXT2NlNFRoczV2MXVEUExWZUVMNkk4V2RvYzE4VzB5TXB4MHB0ODVpU21iNmhXSlNBN05LV0FOc2dUNnVhdlJMVDA3aEZrSEswemhqa0RTN2d3aU91ajI3bHRnUjlzQTJOR2k0dS1oU0ctbGIxTDVuekMzaGdWdw?oc=5",
-          "published": "Fri, 13 Nov 2026 13:30:00 GMT"
+          "title": "Razer’s Wild $1,000 Gaming Chair Has Six Motors, Built-In Speakers and RGB Lighting - CNET",
+          "publisher": "CNET",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRmRELWtHMWR6VGJYLUYzamlmQk9uUXlTRDJvWk1yRmtBTDU3clhIekpPa0pLODdob3NDNWltNXRVdVZsQmd1Mjg2Q2lnaUsxdldyc0FxbFNjM1lqeGhSNmhIbklfSHN3czBPM0xmN3h0eF9aZGFLZldQV2w1VG95NnpHYlBEYXpRR05NWUZpM0V6a2llR2xKMHRlckRlYkFfNUVIQXJpajg3djlOOFRNb2lR?oc=5",
+          "published": "Fri, 13 Nov 2026 23:59:49 GMT"
         },
         {
-          "title": "10 Tech Gifts Under $50 That Punch Above Their Price Point - SlashGear",
-          "publisher": "SlashGear",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT1dWbVBMcDQyZXh1ZnA1TmNybUF4WHJpeXg2aHFOUmdqd2xXOWFwRWN5eXAxRFcyOFViVzBBNzZIT1lvQ2g0M2dKYXY4UERWNU03TkRaZ0dyZW55QXVQVllVNDl1LV9kRkhLLVVlZ0YzV2Zrd29wSURfYmJYSUw3R3M4SkVQWVdpN2l5cjJQYw?oc=5",
-          "published": "Wed, 11 Nov 2026 21:30:00 GMT"
+          "title": "Zelda: Ocarina of Time Remake Sells 5 Million in Four Days, Yet Former Nintendo Leads Say The Series Sold “Like Nothing” Before Breath of the Wild - Wccftech",
+          "publisher": "Wccftech",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUklWZzlXU1gzQ3NWX2x3dVpOYnE5OU5WVE5pTFFjRVZNTlYzbTY4NWNqMzIxeXNNYlZwWTNDNkJMRWoxX3Boa3U5OU9WVmRLdDVfQldvYzBWWGdlN0kzcXhmUENtbEZja3pJa1NyLVpwcFA2TW96WlRwemk0ZHhoeU9CSTM1RGoxZ2hHdmxDcjc4YS14eVhwbUlrYkhGcV9kd3d5d0pTanctVmhQOWdF0gG0AUFVX3lxTE1hVmpWRGZUZWswUWJEMGdZb1BVUzRDVVFNZWRPZUVQN1hVVWZGNDk3TXpneDZlRmljT3E0VU93d0dfQTNIVTVISlE2UmE5MXhRdzR3ZTBzMldxS1VtOFZ2ZFJIMEl3NVpyeEluM1VjWTFrWEsyanZwN3BFa3dzZF9rdFhTNHVYUHhCY1IyRE9UTHFzYS02NmVBeXRqYmVyMzA1ZUFuQ0Q4VDFZQUluY29WclJKUA?oc=5",
+          "published": "Fri, 13 Nov 2026 12:24:10 GMT"
+        },
+        {
+          "title": "Space Shuttle Endeavour new LA home opens at California Science Center in Exposition Park - ABC7 Los Angeles",
+          "publisher": "ABC7 Los Angeles",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnQ3REtQVWdMM0ViRGFHRVBiektOamtSSmJIUjBOdWM2ZE5fTnJ6NmllbXhQT2NvUk81SnNXOGhYdDlVU2pzaFdQWjRqMF9iOEh3VkZDc3lLdDBvVHlhdDJqVElkTi1Wb2pNV3Qtd1JKNW04WVlObFppYmhmZklfMEtPQzRaSXlNRWVKSmZTUzI3VDFFLTVGcEpxMmIzb0RuV0NQU2Jocm9xTXdBR3JrdWhLeW9Id9IBuwFBVV95cUxOUGVJX2lkTkxZa2RfcXBFM3BCUEVRSmRpSDZGUENzaERNQTRlcUtVUV9Cd0NQc1Fwa3JzSTE4ZEJjU3k3cW5hdXc5UUdRN1l5ellmQXpDbzdFendNZ013bHNSenN3dXZpcDRIcTFURVplRDE0UGc1NFlPUUNSdXQ0ZGhTZGZjTGNFc0pTTXdvRG96UUtzaXhBTHBBOVpXV3FHQTZTUUZCNFhBNkRYN05IeWlidkliSFhuTVFn?oc=5",
+          "published": "Fri, 13 Nov 2026 21:36:57 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "English Soccer Still Inundated by Gambling Ads Despite Jersey Ban - Front Office Sports",
-          "publisher": "Front Office Sports",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVF5akU5cHB6TkVDTVRCR1EzQlRBRERpOXVNRWFnYW1CWWFVMDUwdU8zSlNNZzQ5aFhYbHZsbmZuMGl4d0ZOVjZsWDdGc2J0Y2ZkaGc3VXBoUjNOM0V4c0k1WUw4NkRIM3c4M2RrMVI2UzA2UWdYN2FUdVJVenJCc1pDdVRrWEtMdm96R25ZUzlkdVlFaC1ieUpCYm5FclVnRGNJVEdJTQ?oc=5",
-          "published": "Fri, 13 Nov 2026 14:52:49 GMT"
+          "title": "Watch UEFA Nations League Soccer: Livestream Portugal vs. Denmark From Anywhere - CNET",
+          "publisher": "CNET",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTlc1b2IxYzN4aG5EV1FxUXg2bDJnejNzb1dzTGs0cFVUaTRhU1c0dFlTUUFaLUwxY1V6SlBpc09hbkE2X3NrSjRrYVRfRF9NTnl3a2NkcmJMNTVzeXJpaVIzLURZaGh1S0h1RnpKekRneVdJVmJWMFZ0WGR3QTRZQmdKRHF4TWNhQi1ONGFpQzF5Y3RUZEU3TFY5UDN1bU5WU3dBdV94N2hMS0xIQ1M2QXJCdWZpd2owOWNqdHpfTjNVZnZh?oc=5",
+          "published": "Sat, 14 Nov 2026 16:45:03 GMT"
         },
         {
-          "title": "Under-14s transfers in English football are surging: ‘Strip it back and it is disguised trafficking’ - The New York Times",
+          "title": "Recap: Serbia 1-3 Germany (UEFA Nations League) - Bavarian Football Works",
+          "publisher": "Bavarian Football Works",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTlqdkJfZjFaSmp2S2xmVjZwQUwxOTA2VUIzVGxRRUFXUVBMSUduUTI4Nm9vNnBNSnUxZUxrTzRUcWJDcWhtSnRLLVVobWVKOVVzR2Y2M2hsb3FlM01lek04MTlneERoWVNBM3J5czdtVE5DZktFUmh6MFRxamQ4UHAyTGtBdlpPQmxaVTAySF9IWDRISTBXU1dKR3R2NDRUMTVWYXNEQkJEbnRUb3h2NmloRU44dHR1RmdySjlXd1hLQQ?oc=5",
+          "published": "Sat, 14 Nov 2026 18:45:00 GMT"
+        },
+        {
+          "title": "Under-14s transfers in English football are surging: ‘Strip it back and it is disguised trafficking’ - The Athletic - The New York Times",
           "publisher": "The New York Times",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOVQxYzlIQWFiUDdwdTkwUXc0bEswV1RxeUZraDFtcDdqRllRUXVDN1pBdE4wNFVONEtXajFZVXA2d0dKSEJxNjhKaGFDSUxsZG1VN2JxV2lQRXM0Wm96dXVXcU4yVFNMMnBGNGJUZmY5dlpWRXVoc1l5TnZTQzUyeTBGY2NfQTFJR0tlVFZYVjFRSHhJajEtVnZR?oc=5",
-          "published": "Fri, 13 Nov 2026 05:10:21 GMT"
+          "published": "Fri, 13 Nov 2026 05:10:00 GMT"
         },
         {
-          "title": "Watch UEFA Nations League Soccer: Livestream Netherlands vs. Greece From Anywhere - CNET",
-          "publisher": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWmRIM1NNSENPQXNFMzNtUXZjZG1NdGFCVldNN0JFWGNDcDhNVE9lUUxhVmlDNVRDaTlweUFTcGV3MlR1Z0J1UTRzZkxOejlaY1RzUnY0ejhpVEFJdl9qbUdKaU5yMnpXeWhmWGJScFNsZUVMdFlxanJfTTc0WTU2UDhDMXppZjJWeWM1Sm1VRnhlaFlhVWFHanZFT2lFVWdubFNSWXI1blpwWklDWFJMMFUyTVE3SXhwd2JYV1lWaVRXUVFvV3hF?oc=5",
-          "published": "Fri, 13 Nov 2026 18:58:44 GMT"
+          "title": "Nations League: build-up to Spain v England - radio & live text - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BZ2prWEtRQlpfck5QZjdaOVZqbkF3RUhUZHQ1aTlSSTF2WGR5YjBfbGJLbVRRR182Z3lyd1RZYk1GZlo5WTlLX2dvcjdZekY4ZE1haDg4SmxGSDZlZndUZTI1OA?oc=5",
+          "published": "Sun, 15 Nov 2026 00:00:00 GMT"
         },
         {
-          "title": "FIFA loses New York court ruling against European soccer body UEFA in World Cup investor case - Brooklyn Eagle",
-          "publisher": "Brooklyn Eagle",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtZURIa0JhMnk2ZWVqakFadW1nQXMwTV9uNVhVVmJZdkhRMENncXhQME1SWmkxLVpSeDlZS19nWlJZTnEwaHI5amRzZmNiR1BGejRTQkJ1eWhKX1JfaVdYTGZKMmszMkwxS2M0NUNwNGxLWl9U?oc=5",
-          "published": "Fri, 13 Nov 2026 15:42:12 GMT"
-        },
-        {
-          "title": "FIFA loses New York court ruling against UEFA in World Cup investor case - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTZUcEMyMFlhX0xlb1g1TE1ibVZPeUNjcllwUmJ2aXRTeTdWQjJrR2k4bDdHcmx6NkN0WmVveWFCTFo5eXY1SG13U0JYUE44bXBXMHRURjRZT3BtNXZibFI4cGhXc2tyZDJyUEQ0S0tmNTBaUDZubVVzNE93Ync5cXA3cmRueFhGQ1I3aE5haGl1Mzl1Q2lPT0NjWXI5b1J1RHBUaFNvVkc?oc=5",
-          "published": "Thu, 12 Nov 2026 23:16:00 GMT"
+          "title": "Declan Rice on ‘average’ World Cup, managing minutes and Graeme Souness criticism: ‘Football’s way different now’ - The Independent",
+          "publisher": "The Independent",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTlNjMmQ2RG9kV21Va2EyQzZDWnJtV0tZVEhudjFDWUZFbnltNU12N2JwUnVmZ2Y1RW9PR1Z4MHQ2am9IRFdKMFRYNWRSd1c5dUtNRC1aWWptZ2hicklfQ2VPX3lXV0c3bDBFaTFEaTJhdEJ5SU4xRTFlT25fMnFsU2s4a1RWd2N0b0NNTVFjNGYtd0RCdGdmRmVQcW1FNEIxRTdxdmxQVDE1dWx4TkZadE5xeHl2WEpUNnA0?oc=5",
+          "published": "Sat, 14 Nov 2026 20:36:00 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "NFL quarterback to search for love on ‘The Bachelor’ - Good Morning America",
-          "publisher": "Good Morning America",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUFQxOG1iYkRWT0ppUUwxcjFwUHBUSFZGNUREOVZLSjBESzhTQ3M4akpLZDc3VHhDUGtVSTZ3a19ZVUI2N3loSkwzQ0VJREx5RE15Y0NXOUtwSU5La01tMmZHc2FucEpFRk9HTUNoSVdIUVdsVE9aZVoybG1GQ0pnMmo2U3JNV2tmRkl2dWRfSllUZ3FUWFNxdnFzWmIzUWVQRFlZaDVIR3lXMFQ2ajNKZkZWY9IBuAFBVV95cUxNeGdiLWpRX2xqYW10eUNLdGRGbHRJbF9uX3VFZTJvRHJmalZxZTB0SnNiejRrMGI3cTBWUUw2eFF6ME9sTG14X05JYWtERDlGMWxrdGdFTmxLS3ktWDA0WUNCSHMzLWF6cHk3cF8tSlN0dlZIYUZjalVjTng0bm9zN3dOa1Nuc2JYNjZuUFFaaFJNTFB4YlBzY0xkdDlicl9ieVY2dTkwRUYtUHlEZ25pT21tcmJpMnNR?oc=5",
-          "published": "Fri, 13 Nov 2026 18:20:20 GMT"
-        },
-        {
-          "title": "Johnny Depp Pic ‘Ebenezer’ Opening To Spirited $20M+ U.S. – Box Office Update - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yTUtLOFNjM0VnYzlNTGZGWTdRYXVhNWE5ZWZ2blNsQVlnQXBGbjBiZzhHc1pzcmNCVnB2NVpUTnpoYi1rejVSdGY1cWc4cFRyN2xodzZpeFBJQ3lkLTRXYXoxRU5vakZjMkt4bw?oc=5",
-          "published": "Fri, 13 Nov 2026 23:02:00 GMT"
-        },
-        {
-          "title": "Russell Brand Accused of Predatory Behavior by Several More Women: “I Begged Him to Stop” - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTi1hbno1UEYzNnhuUkNnV2FKd0R0WmdKUjNBY0FHaHVFLURZQXNMdDNxQUlRdUlaTVh3ZjkxVlVOeUw4MTJaSUlXazk2WkkxOFViYjdTOWFqejlZZDVYX1ZQNlc3YUZoTWwzUEE2dkUzUU01MkNIZkxwRUFwamw3M3J0LUpfcGttanNianRVcWc2UE95ZURaNVBnRGRpbmZaR05PWlR2WE9aZjlDZmJfMW1nUlNOUFdrYzB4QUdrcw?oc=5",
-          "published": "Fri, 13 Nov 2026 16:31:57 GMT"
-        },
-        {
-          "title": "Netflix’s ‘Magic the Gathering’ Animated Series Drops First Look at ‘Planeswalker,’ Set for 2027 - Variety",
+          "title": "James Gunn: Skydance Has Not Seen 'Superman: Man of Tomorrow' - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGw3TGhJVE15VnV0TURrbUFTU3ZHNmVKb0cyU1RNVy1XTTdTb1YxTW1wRW15VDBaN29DN0JpeWU3dFE2THJyUWZ5QldRd1VzemdVMUY3UWI3bVRsTzFZeS1abkNtR0JNRVFlU1U4SVNyZTFPOERwQmZiZjJXU1J5TkNDbEx4TmpoXzBJbzlGeFdBZTM5d1diSUREcXgwMjFrT1pkcHJB?oc=5",
-          "published": "Fri, 13 Nov 2026 19:12:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjd6a3BlTlpLTm5NVnIzUzg0YW9rZGI3ZWRPZDlZQi1FV2dabjRRMWZJYV9OajBUZE1oWWNvczBTMFFvalNWQ1QxLU9NOTZmLTh5dWtyN1hQVlh3b0VhTmlpYzZxQXJJVzB5RTZ4TGVZdE1abnF6VVdBRkwtT19FQS1YMEJvc0dVcjlhcm1TWndld28wZVpDMTBOVTBvM0Z4?oc=5",
+          "published": "Sat, 14 Nov 2026 15:27:00 GMT"
         },
         {
-          "title": "Dept Q crew member dies after being injured at Edinburgh film studio - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02YWNDZFVNZG5FMUhkQ0oyQnRUWkdxUERWdDFVQkdZTnU0TDF5VnZHSXphWXNhTTFJQnNGblhNS2VVeWdqdFA4VHJYOGRTOWpjYjNXX0pQcWkwOFk?oc=5",
-          "published": "Fri, 13 Nov 2026 21:23:46 GMT"
+          "title": "Johnny Depp’s ‘Ebenezer’ Conjuring Up Box Office Victory in Star’s Return to Studio Fare - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlYtS0dRV1ktX3lLbHpHRmVvMUFSRzJQaTBzQVdCdmgwSmxOcGM2YWdXZjFVZlF5UEhlZHgyTURGTXpWX25TQWxCNTZFek84cGN6a1pHN1o3c294Y2tkSmxWSE12S2ZHTkRYcGZfSDJiS1N5QzFrZWFVTDJJRjhmMW5QQURyM3hqYUFORTBaNTA2WVpIc3Y4Z0dRdkpqSEdPMUhPVWdNTjA2bHBJS2VOMlgxQ3ZlUkpndDJB?oc=5",
+          "published": "Sat, 14 Nov 2026 20:52:27 GMT"
+        },
+        {
+          "title": "‘Grand Theft Auto VI’ Soundtrack: See the Full 34-Song Tracklist - Billboard",
+          "publisher": "Billboard",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU5JZ2Vhb1FldGJ4WTJrVHRZTkpHTXk4VHQ2UnVMY1ZRUDBiV0h1T1VFZ1dPRjBCdmNRVUJRZ1ZaX2pfVDc2YXpGajFFQXpuYWFKWU9hblVqSHRqdm12YmVCNlZDbTJtMFFaY0ExZkxxbmpWTE1feWEyUkVQazd2ME0zamZxVHlQWHBwRFlfRmZhVU5yX0Q5enZ6ajg1cFJqcnR2aTNXWTFJOXM?oc=5",
+          "published": "Sat, 14 Nov 2026 21:02:09 GMT"
+        },
+        {
+          "title": "Shane Gillis Breaks Silence on Backlash Over His Controversial Saturday Night Live Monologue - E! News",
+          "publisher": "E! News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnJvcDkxa01iMmw1aG1mTy1xUERvLWZYSmh4cHlvazV4WHQzTURWRjF1dWcwVXd2LXF6QzZPbnd2WE12akh2cFFnVWJoRFZMa1IyX0dfTFR2dTRyeHlOdWhieTc2dVVaMEdoejNwUEk5dG9zQTFsd3AzZmlqazhPcDBKa3JWSWlLcUEybi1oMlY4RFRkRkxrZ29Raw?oc=5",
+          "published": "Sat, 14 Nov 2026 14:15:00 GMT"
+        },
+        {
+          "title": "'Saved by the Bell's Tiffani Thiessen reveals hip dysplasia diagnosis - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTjFkRTVYX0h5YmtsNUpQOUtranpKZUtRdk9xalY2Ny1Vc0JDV2xwdjdDb2hNZ193THJwM0p2ajlRWmIwbjBXZ0xfUl9MWi1peC1vMUd3Vl9ENGxHcUJwVXBmVWtiYm45NW1nZXVSd0E4bXJBbjVQaXpnMDR1bVA4aklTT244UXIxQ1FXaXBiOENKMVJEM0JmYWZoTVhpR2RoSjR6RTFwMVNaM0w5QmUtUXNHVDZPWDFWMUgzWFV2NmpfYlFGSEE0eFJTbldFN1dLZ0VhT240aUZxVFlRaHRjVUZn?oc=5",
+          "published": "Sat, 14 Nov 2026 18:38:00 GMT"
         }
       ]
     }
