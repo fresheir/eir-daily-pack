@@ -1,114 +1,52 @@
 {
   "market": "FR",
-  "generatedAt": "2026-11-16T01:34:24.839371Z",
-  "validForDate": "2026-11-16",
+  "generatedAt": "2026-11-17T04:19:10.259886Z",
+  "validForDate": "2026-11-17",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "Chantier de l'A13 : cette commune aux portes de Paris va être scindée en deux sans aucun passage jusqu'en août 2027 - CNews",
-          "publisher": "CNews",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1ZKelNzanY2SmdNLXg0NGJET3FNRF9wOURTWVlBNEFsRTA5dllTbmZjanpjMkhkcHAyWld2RXZBVUgtYlBoWlRwMXJhazVDNE9Pc1V2dUdqTDFab204Z2lzdWJ2ZjNteFljbG5DVWgydUk3MVFZSHpJR2hBSWZGcFlyQ3dCOGxCN2VTeEJHbHRWLVJfSmlNQmpsZTVVMkpxZXpyOF85NGtTM19XRUR0UGpDZGdLZjRfV1HSAb8BQVVfeXFMUEZpOTZNRV9XbjF4MHBwMW9sUjZUazdDN3FCazE2cW9XUjBkVXVkTGFKYzJiTk1YdGljVHVLRjVjUVNZak5Eb3RQQVRoZF80TUVvU3FBMmFXbFFBTFJpTmtMNGVJaTlUaFRhZks0RWtWeW94WmVMR2RZQ3BiNXRPZHoyS3owaklNMGlsMTJKYzNuRUhra0Q1d3BXY3dIQzh4UWVRRHdZaHd2VlJ0cVdhZnBacEJhT3dMb181a0o5bkk?oc=5",
-          "published": "Sun, 15 Nov 2026 14:46:24 GMT"
-        },
-        {
-          "title": "Présidentielle 2027 : Teddy Riner affronte son premier sondage, David Lisnard gagne des points - France 24",
-          "publisher": "France 24",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaktvRU5uV2JTYzRoajUwSXJHWHRuTk5ZOFM3R24xXzI4RnQzSGtPSmZNcUs3OUs5SS1rTC1fYjE1eDF5cENxckcySG81WFRFcjM4SXFjQVdCaDJKRHhUN3NLRWxuUHZTaHdHdXFudmhwcDJTTUxBeXBzYy1Rd1dkWllCQk9sQ2NUOXFmSEswYnFOcFZKUnR6VVBNS0MxSVNKUU5IU3NFbm1Wa0xGNXNYY3hpeWt1M1F2VEt5MWx3MUtVbVp0cU5qdzFwb1R3WldLWTNMLXllTWVUNUFYNmo3STQxaGFTQlk?oc=5",
-          "published": "Sun, 15 Nov 2026 09:35:16 GMT"
-        },
-        {
-          "title": "« Guillaume Pley agresseur »… Le spectacle du fondateur de Legend perturbé par des féministes - 20 Minutes",
-          "publisher": "20 Minutes",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWNiei1VRVlaQ1NzNFhESjd6QXd6Q25jaFc0VkRoTmd5TkxFWGdJU1NMcjVLaDVOYWQtTnNDaWctcjdEQVVhVy1EdGV4YWdOc0RlMExtOGRFYXc3ZjlvV1JSd3YwaHFJLUlGSE1obG1zTnhBTEtidjNRLVF5QWJoaGxZMDhCamw1ZzdrOE42RnJOT1BOT3BxQ3NBTUVRZmQ2c3hNUW1yamdMeXNnODNfaGRudUYzeVVzS25YMVhZX3o5R1Z6cFpybFU2T3E?oc=5",
-          "published": "Sun, 15 Nov 2026 21:00:00 GMT"
-        },
-        {
-          "title": "Des militants d’extrême droite agressés dans un bar de Saint-Julien à Marseille - La Provence",
-          "publisher": "La Provence",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGF5V1ZuN19rTVVpNkZhU1BtSC1yeXFYZjBST2RFYTN4ZVAwYlk1WmdfRHl6aFFZNnhDanBBMmJHdkdMS3NrYUhfQlZWRGstX3JYeDZNQzZUUHA4anU4OHBHOWtucVhyZTZiSVZKN2FpenJ2a055UWVfd0UxWXVkRjFTRW9VTVoxbTF4Vl9JVU10aG1qWllPVHlyMmRhd3VsemFXTXktT1BTaVRqMm1CTTRXa29BSGZuTWMyREJWRjVYUFladWVYQUppYWwyd1ByV2ZKck9RNjJsVGU0MmZtNXNwRC1xWVU?oc=5",
-          "published": "Sun, 15 Nov 2026 20:05:36 GMT"
-        },
-        {
-          "title": "« On a touché à ce qu’il y a de plus sacré pour nous » : la Corse très attentive au procès des profanateurs d’une statue de la Vierge - Le Figaro",
-          "publisher": "Le Figaro",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMl9JSUhZNXdUbFM4WHNGY05IcWdCWGlRN1BadFYtMzJYeUdRdFlXdFo4YWVnMkhONE5WZU4yX0VsWlpxUGZRVnlNd2ZuVktLeTNlR29sRmxrWHB4anBCY1Q5RU54TDlqMDhMLUVta2p0dmYzQzZDZFF2d25tMFh3aDJJYlM3ZTRwTU8tTXNhVFRGdEhkOF92MDF1TEQxRHdiQXhPSTRaTHBZUHRTOFUxaGpkdjcxMGlQODJ1ME1SSURVcmRhbTcxZjZJV2lpMUY4ZEFSTmFsOHl4VXM2T2hUdmVZUzltUnc5cWhIdlNJcW1fbVkwZXc4N3ZZSnB3ZW5MZFJRSGhvbnc?oc=5",
-          "published": "Sun, 15 Nov 2026 19:47:18 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
-      "items": [
-        {
-          "title": "Yémen : les Houthis à 60 km d'Aden, le gouvernement place des renforts autour de la ville - France 24",
-          "publisher": "France 24",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWU1ZNlpnbVJuX2EzM212M0Z4TEYwZUFXd0RRcldZZmRjOW9SWWZsRTZFbklvQlVkNGFJWVlEemNieUVLeWpfYTB0Z2cxZTM4VU1mOFhrS2FnZk03d3NSVnFvRnFDZFpkYTRIQmUwVS1qM3BPb2dXU0NxOGk0WVNzMjRkTVBkck5pUERqVUF4NnViZVh3dndtVHBmMHhOOEVBa1hoRWlhMndsbzdGS2tQZHJJNkN6R1BjeVJLZS1mWkpDdHlKYnFGN2xPd0k0cm1CV0pBUXlsSHQ0ZU1YYVJR?oc=5",
-          "published": "Sun, 15 Nov 2026 19:35:25 GMT"
-        },
-        {
-          "title": "Les foules et la liesse : le récit du voyage triomphal de Léon XIV en Amérique latine - Le Figaro",
-          "publisher": "Le Figaro",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWlzVFhWbFNNVTF2YTB6WlNweVd2NUVwc0F5YUJvSUdiMF9scWg1SjgzTXROZ3FKSE40V0xwSzZtNW1oa3pvZVZEb1pCVmZ4d2dKWDQyc2dfR0hYSmwtV3BKclZnWDdOcTR6VHVvMU5SN2tMclFoclM3VWNlLUMxNXNnSWlBT3BfendKcFNybVhYblJndWgyN2JVSmJ5bmVjWkpmUGRzTWZDX1RQcjl3c0VEZmFBYnFmOFhpREI2RUZwbTlOS19iV19nbTNYUQ?oc=5",
-          "published": "Sun, 15 Nov 2026 19:53:11 GMT"
-        },
-        {
-          "title": "EN DIRECT, guerre en Ukraine : l’Estonie ferme ses frontières avec la Russie, Kiev invite les gouvernements européens à faire preuve de la même fermeté - Le Monde.fr",
-          "publisher": "Le Monde.fr",
-          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQd0EteW85alU0NjF5dGRCbEI0RDR3QklDMHM1clpRNk52LU0wSHpHc0ZQZmNJZlRFZGgtVjlVVDQzWG1nY3dsQUMteE8yaTlsUi12WUxOR2puNEVLckFyQzFqdFNCdXVaeGhTRDVuVVBpYzhOMVA3bkt1ODJfeEZQZGxoZGNRSXpZSXVqMFBWcnFFdDM5ajhGUW15YlVXRFYwVDVKZnB6YXhmR0JOWFFpUDdWMDVaS0NNeUV5aV9vN3BKSEplQ3Etbi1pRmNUSjVwdmtzaTJwVDQ0WEZqclQ1MmhILW9SYWlOQmprWkhXMEt4U2ltTzFhQ2UzXzdBaGg0UnVKNEw4bk9McnJVbzFxZ1N0SENVWnZwUXExUENrR0hfRmVwQUJ0OV9iQVBwN2lHYVppYmpTNGczNjNSMllv?oc=5",
-          "published": "Sun, 15 Nov 2026 22:25:31 GMT"
-        },
-        {
-          "title": "Personne ne sera étonné que Trump blâme Biden pour l’arrêt du trafic aérien aux Etats-Unis - Le HuffPost",
-          "publisher": "Le HuffPost",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONUpyNExLNFhEcUVnTXh1UXZpODlsN0p0TGo3NFN1RFVBeVJzdVJxaXFNMWkwWjZMTUJTWEh4TURBTHYwenZFcC1ETjd6MDZ6NkNoNUkyQ2VHRVUyUDQ4aHBHVWhmY21aQW1vSkVUZmZkVDliZFdubTR3SFRaaTFzaHZDVXRiTDAwaXBReGk5Vm1NWFhVWHZiR3hrQjl5MnRVNE9zRENVdURHZmZ5ZGZmTUVfN19IdndkbzUtcUtXSXIxOGVOSFI1UDJWS1pZaUk0YVRydnJXRDU2dERyN3o1ZXhIcHdCb3RReUE?oc=5",
-          "published": "Sun, 15 Nov 2026 20:10:48 GMT"
-        },
-        {
-          "title": "Mort du baron de la drogue mexicain historique Miguel Ángel Félix Gallardo - Le Figaro",
-          "publisher": "Le Figaro",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFl0RGRQLV9uWVk1dUhiVWV1YkpicTlYWWVuTzl3azlFM3d2Y1g3QU5FRWlpbjd0eS1xZWVzTEx5OUdZQ0xuOVhyMFFSTVBWcXpTTGdzWGU2SzZyYzQxSHVzcjFaX2R5aklOTHlES0dVN2xES3RVZEdNamxrMTBmZjRtLWgtSUtXaHJ3b3ZjWTBxbWV6eC0tYllpUWNmVGZ0RTQ4aWZuQWIyWi1RN1RMdklUOGMzcEZ1V0tGRzFn?oc=5",
-          "published": "Sun, 15 Nov 2026 21:42:49 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "business",
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Ce que l’on sait de la cyberattaque massive qui a visé une filiale de la Poste - 20 Minutes",
-          "publisher": "20 Minutes",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYVhWSnljaTd4ajh4eVRsRzVjbWJCQjcyOXBtZWpWT0sxdWRfNlZJaS1BazVGb0xCbTFVZWtCYjZ0eTlLQXk0X0JSa2NYcy1jVzFPS1hxQXhyalJPMWU4cU5GOUxLVzFHd2JETFFqZElvbXBNcXVFemRZSTYyQ0FUUTZvQnVFZ0k1M1djakVWTXZOYnZvY0NfSjEzdGk0WS1RTUk3TzdBZHJVMFA5S0RDV2s4TTR6X0FfdUlyemlWTHY3YnVjamhQZXZR?oc=5",
-          "published": "Sun, 15 Nov 2026 16:47:00 GMT"
+          "title": "Nvidia : un retour de Jensen Huang à la tête de l’entreprise ne serait «vraiment pas une mauvaise idée», selon Trump - Le Figaro",
+          "publisher": "Le Figaro",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaEF5cXRzd2xBTzNweEdDN2tMeXN6MldveGxmRGFMTDFfYnRsODdxeVl6Rko3OTV2WV9sdm05dHZaUm9fV2pycms5d2NUbExBV1FtcmhqcmJPRkliN1NfNmhreDIwQ0I5eTlJWGVEemNhbWNBSmJHM1BCYzNGZW9PekEtSjBlbElkT0doWVdPVEc2SzBsU3VndG9IRTV5Uk54ZHkyWFV2YnQzX3h6M0VsZGhJRzhNcWprbEtNUGZjdkdTM3JwYVQ5SjFRd0QxZ0syakF6RlNoUHpPV0Z2TmNUYVRaa0wwLW1RWGQtR3hQNUZVNENG?oc=5",
+          "published": "Mon, 16 Nov 2026 15:26:39 GMT"
         },
         {
-          "title": "Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia - Le Monde.fr",
-          "publisher": "Le Monde.fr",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPR3B1MHdxZzB3NzE0V1JET3JPUWRRTWRjbjBHSmJXU0Y1SzQ1aThFZl9fSGlHeHd1bjh1UUVvck12ZVB2VDU0MDNNNWNTNlRSOHNHaWRXVlVkaTAxN0Rrd1pCcXFiOUpVM0I4aU1VemxyN2hvMkktOXhWbmZyUEU5SklET2NKTmQ3RHp2YWg2MTBubnFTbjdac290eGItRk9VRW5vVlR6ai1DQ29oOUx6ZHM5anFFdHIyend2QWVsUVlRd0s5RXkyN0gtSGUwQTNKUHFkWnhmMnBUY00waHJXT1o4emhnQlM2a1R1WXhZdGFPTUExWC1FVVlyNkg?oc=5",
-          "published": "Sun, 15 Nov 2026 23:22:46 GMT"
+          "title": "Epidémie de pannes informatiques aux Etats-Unis : après Microsoft et les aéroports, au tour de JPMorgan Chase - Les Echos",
+          "publisher": "Les Echos",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWTBENF9LYkpodktwaTV1ZmMwS1d3Mi0wbGplTFNYUlhWdHRFdE5WSVAxSnFmWG15Q0RaRnl2Z1BOZHNuNFUzNDNrUGJ2RWVSU1d6MHZGRVRaLXF2QnpKMjkyemZjV0tLczU4dWo0ejM5ZWtWWnBYQy1fVS1tbXZySmp5c05NUVhfZkFwb29fMzllbTdVTl9rV1ZoYTFZeGN3MmtRY0VTc0ZJT0RwNkN5Y1FYZ2p2eVN2YThxSlNfWkliajM0ZnlUc1BZd3lmVWlyXzB2cXdYdTdjOFEwM1NJNUVPUEZPNnkxMTlZ?oc=5",
+          "published": "Mon, 16 Nov 2026 21:35:47 GMT"
         },
         {
-          "title": "Microsoft en panne pendant 20 heures, Claude écrit un OS en 8 jours, Orange fusionne ses applications et GTA 6 se télécharge sans l'acheter : le récap de l'actu tech de cette semaine - Frandroid",
-          "publisher": "Frandroid",
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPMmVtWGxLZmhrenRIdVZNYmZrTE5lWUNHUktoMk1qVWlUcXNsNTh3eHJwdjVQVUN3dDZXdjNRWVl4eWNCX1Z4VFplQ09kQUVPWXZtQmJMZWdCVnB2TThXWDV0Q05pdXA5QXIxVmRDSHJNRThLdkFsbi04eVJKZFgxcEx5NXdPMmFScjJYcTNpbFR0U3czZ0Nzc1hpc2NfOUlxOWZ1aU0wNHlzNHRiQUxjWG5MTTRhMG5rVWUxTTU1RGg5aTFsNXZwMS14a0tVcVgwRlN1SG81LW5MQjdYcm5aZGhoMF9KQjMtb3pEbkRQNXNCWlhkbzhncXBrbU9oMmZQbkFtUEV0THIwejRJcXA5RnJVaS13VXNWMnYw?oc=5",
-          "published": "Sun, 15 Nov 2026 13:34:56 GMT"
+          "title": "Wall Street replonge, Nvidia et les semi-conducteurs prolongent leur déroute - Zonebourse",
+          "publisher": "Zonebourse",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQnJoYXF2NW1hVUcwY29MM01rVEMwQUpOQ052VlBjVXpDd2N5NHBVb1QtTVEtX3R2ZExSYW84aGx1dHpEbnFzdC1BMXBremNaY3NMMVZwM3gwNkxuSzJiZG9yQkJJREZMd0IycFd1M1huX090NndwNi0tNm12dUdyU1ZjTE9hYXRxRno3VlpHNUE4elpHTVo3bExHX3lYckVOV1BhLUxmVHFBWnVKX3UyRnJMR1VNdGxENHV4R3pyMW9fUlpOMjVMZXVMUmxxUVhNX2c?oc=5",
+          "published": "Mon, 16 Nov 2026 21:07:23 GMT"
         },
         {
-          "title": "SpaceX parvient pour la première fois à récupérer l'étage supérieur de sa fusée Starship - Euronews.com",
-          "publisher": "Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWTUyaWZyZG9FUV9WdU5Yd3ZQMjlidzJRVkhoa3lYTXBNbV8zbktTWVFFMWNpQzNpQmlsNWVJbnJZS21IQmVNTnRCV1hWNjBSZkJ0SzdDdU9sM2dfNE02MkdZVEFUUTcwTVVDcUhiaDdpLWlvdEhUNEpjRnZvYXNnWUFIZUQ3TUZLT2MxNmxWY2FMZVpMbWFJRTJ0b3NWRGR0MDZtTVJ6OVZ1NUU?oc=5",
-          "published": "Sun, 15 Nov 2026 08:33:32 GMT"
+          "title": "Sans fournir de détail sur \"la nature et l'ampleur de l'incident\", l'institut de sondage Ipsos annonce avoir été victime d'une cyberattaque - BFM",
+          "publisher": "BFM",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNTHBUaFIwd3RDc1FEOURvek1OcTQ4Ni0zWUlDZEMtZHFCdkhfTXU0YmdpTC0tZjYyUnpPcnJpbFQ0R3lMc3lEZmVqVnpFdGM1ZlFpY2I1M1FIUkpvZ1ZHN2FoYkFGQmdvWVRELUdoWmNiNHpaNmdpTXpaRWlHNi1xYkozSnIteWJHY1VuekZqTDQ0S2R6QW9haWFuVG5XUzhDNmRVT0J4Q1JuaFIzeFJwOVFySWlFQTRpdEQ1OGdiQmR1Y0FhQ3dXOFdQTFNid1FiY0lPbXVmM0JpZmY0dW1QU0x6ZEdNX0NzUFpDTXI4eGY3TDBmUFJmaHBLdFBhRHZ4SlZ5d1J4TTYzZE5BMFdxWGpfZUtZQXpIVk5lTjlrcjY3dUNL?oc=5",
+          "published": "Mon, 16 Nov 2026 18:24:11 GMT"
         },
         {
-          "title": "Le Bitcoin s'est totalement effondré ces derniers jours. Une manipulation de marché ? - Clubic",
-          "publisher": "Clubic",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSElHQmRRRHFBQ1EtTmJUSkJCYmttb1RndnZYUXdLYVhBd0I5T1RNYXFuWWx0aUJxY2tpV3dEWmVfNnd6bHVVVUNGaG1aVTNrR3NWb2ZYMURNWUpyTWpTODFQQ2dJbVpJTmVCSEFWNXFUN1I1T1RvSFMtVTVHQl9GcTN5SEs3SlNuNkdYSUZnTmQyT24xTGxNb0ttUzdkSUJuQXRsdlJvVWJYaW05MDN5dFN1OHFTMWZtTGt5WVJmNEc5T0FCTGc?oc=5",
-          "published": "Sun, 15 Nov 2026 17:17:00 GMT"
+          "title": "Une explosion de la bulle de l'IA et une récession majeure pourraient avoir lieu d'ici à 2028, prévient ce ponte de Wall Street - CNews",
+          "publisher": "CNews",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOazZnS1Y0ekk5aUgycV8wWmFpbllMQUZINm9OV25vVUFiT1QyQWFhN1ROcGZlT0xzVEUwWGVEeFpKQzRiOUw0c2FjMkFzbGd3dHNNNFpUdkJQcU8xdFpUWkpqaWtNdzFMUHhySV9PTzFwNWM2MlJwekZmTzUtTkpEZkc2STBrUnhRcExCQ0ZtRDJDYTMyT05PSkdYNVdPdnJJU0JzUEI3MU16MDkzZjhuOWNUOXV5enhBQkJuTdIBwgFBVV95cUxQNVBCTVp2TFByRDQ5QVpxUjh5OEJiRXdiNTdPMG5ORy13VkUzTTRSLWswVThWTE11R2lQTGdmb3VfcTUzdXdJWDlRQy02SFVsbE16SC1ON001UV9yMXlCUmxYMjUtc0M2SERQN3hBOU1ZRGNOWHdMa1B3WmttcTdya0RrNDRUTVRjYVFuNmRWeXJwU3ludkt0U2RjcElBYXp5MnpHdTJ6Yjk1Um9lUTJBcm05NG9NZDlfNFNzc2FTQ09TUQ?oc=5",
+          "published": "Mon, 16 Nov 2026 18:26:29 GMT"
         }
       ]
     },
@@ -117,34 +55,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Mike Maignan blessé à une hanche, Guillaume Restes entre en jeu à la pause de France-Turquie - L'Équipe",
-          "publisher": "L'Équipe",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeUJvWFpIR3pERmFTRnVQR1duNkowSHM3ODRldlBjTHBKc3QyYTFCTHM0N25jQzhOYWxWbjlobEF6aW1ISWJGeXFldzZvamZXc056RzFFMHdWOWJLWXE5bGpHcC05X0VndEdibF82UE1fcV8tc2JUT090Rzg4YUFzaEkyWlBsbEZTdmxCaE5XOExWaFh3TGh4N3drNmNKX1FveUx1ODQtZm4zeFZldTByUTU0dDJlZTNhZkhWTko0b05wbG5aRWViRg?oc=5",
-          "published": "Sun, 15 Nov 2026 21:00:13 GMT"
+          "title": "Chargers vs Ravens Predictions, MNF Picks, Odds, Inactives - Action Network",
+          "publisher": "Action Network",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONGlNWnhBTUUwczhSOTJsTWxoUXVqQk9PWkIyaDdyc0ZBUDE3OFB5eDJhT2g2cm9zbE1RcXFPOWt6aUp6QXgxNGdjRTQ2N3J1Y0ZaWDVGX3BRMUZ0Ujg3SzV1Y1luV2F0SHVNdm5FZEhJNHdiRk1YZ0NtZ2p3eU5XZzZIV3NmQzVNNEJ6b1JPVnpLUUJxaDQyRk5PaEN5bmM1ZEZmcnBtdERKc2o3ZUM2R3IxMTZXR3VHbjlxUi1PRk10Vm5ZU19JSzZGR2Ytdw?oc=5",
+          "published": "Tue, 17 Nov 2026 01:15:00 GMT"
         },
         {
-          "title": "L’Angleterre met un coup d’arrêt à la série de 43 matchs sans défaite de la sélection espagnole - Le Monde.fr",
-          "publisher": "Le Monde.fr",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQzEyaWxZbGdjaGhUUEltNWxwREU0U0o2T3JYUlR2SVJhM2hrYl9SOEo4aHUzMWZfQWtSajEzWi1hQkJfU2JuR0E2YTQ5QVc2cGx4QjZjazlUaFdqQTQ2eXhQRmNNRmFNQnBUNUxmUno4NDlhNXYtVHIyaENVTWNuaEdubHVjV1FjS21LNFBxcC0weTBNWExpTVNzQklsN2lxN2tkRHBDQ3paMmFhQVdtNmtLaGFIZndVVHVqZmxsU09aUFZ4U3lHX0hrd3BKa0hLaUhJdVFxRmxud1dDcUh0NkFpcUl3YXZrdWN0VTdwOVpibEk?oc=5",
-          "published": "Sun, 15 Nov 2026 21:54:34 GMT"
+          "title": "Report: Aidan Hutchinson has torn ACL but no additional damage - NBC Sports",
+          "publisher": "NBC Sports",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSU1HOVM4cWZyaXZwb3V2SEFzalRCTGI3OXhKV2ZYVlozRWV1aVdiYUNrYmR3aDJKWFZJZ185WmgxZHUwTlJScnpGNkZOZzhZMGlHTDJRdTVlYXlTbllVNEVHa2xNVlNsZEJra2lzVUZVRXBxa0d5MWc4VmZXUV9Td3QyaG5UeVVLVmg3VDNpajZKcWliVmpQemtEdnRKcXJqSDdnOWtYdlZDS0RCeGlFcjNLUV9nWG9CNE56RlIwQUY?oc=5",
+          "published": "Mon, 16 Nov 2026 23:24:45 GMT"
         },
         {
-          "title": "Coupe de France : le tirage au sort complet du 8e tour - Foot Mercato",
-          "publisher": "Foot Mercato",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNEItYWRNOWJjY2YzWnZWeWxpVlRoLWVpeGVvc1FjSmJrMGdFU2hZRzNvamR4TzBGUE4yQmluZVNoNFh4cXhMNGVldUNVMThGdDlabWlRenhzNEszYjczYXl3MGczRXRxNzF2ZzgtZ3E4Y1N6RDk1Ulo0SGJ3OTUtQTdOZFZLVE5BVHJlakNpMEVNSlB4czJGZzFWdGE4cWdCd1E?oc=5",
-          "published": "Sun, 15 Nov 2026 17:33:30 GMT"
+          "title": "NFL Week 10 Sunday aftermath: Bengals AFC's best? Kirk Cousins returns, Fernando Mendoza debuts - NFL.com",
+          "publisher": "NFL.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXl5VHowc1JsY0ZqMjZWS1JHZGdoTlQ3LURGUEZNUEVaLTVwQkhiQzR4ZVhfVkFRRU1xbDNycWt1M1kyLUdZbi1fTWNlVHlKN0tBVDA3aHYtWGQ1b2dLam11bm5FUGFXSEQyLUMtLU1qRXg2RkRuRERMY3AxZ0V5LXd1X0M4enhSQVBkTE1HMnY0QW1LbVp3LVZVSjJTc2ZGRjBYWF91Q25icDN3UVhJdlRCdmc?oc=5",
+          "published": "Mon, 16 Nov 2026 18:42:05 GMT"
         },
         {
-          "title": "La liste des 42 pour préparer l'Argentine : Jalibert bel et bien rappelé, Jelonch aussi de retour, la surprise Avogadro - Rugbyrama",
-          "publisher": "Rugbyrama",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQQ193bzI0Z0Z3NEdCSXRRWlBqUHF3bjZYc1pRNTRodzdIaEpKV0lsMHBWT21QXzhFdGdaemtnUm9vN2FiNGF4ZXlaNU9xUS11anNLZEU5VkJTYjlldXQyU3JkMUNIcEs0NmdfdUZPMTFFWVlCeWhya1Y0Ri1GMTdXaElUWnJFdXRwc01vS2JEZ0dUdVRzV20ySGhnLW5hcnlFNzZLajlYckdLVFNWSGllUWRKd0tpOC01enQtUjNVVDF4MWctLXFJb0pSRVVhSHFySTJobzZ4a2NrMDk2b0RVMUdTWWtaQjFxWnNfaEJzcmNwdnY2NVNPTGZHbVBGUnZxSENpZE9RSUxER3hsaUJrbjY1X2x2MFltQmFKVWFMVmIwOGJI?oc=5",
-          "published": "Sun, 15 Nov 2026 09:20:00 GMT"
+          "title": "Joe Burrow clear NFL MVP odds favorite over Josh Allen, Brock Purdy - The Athletic - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdUpqcjUzdFRIbHF2RTRaWDloOHdtR2k0MG5lTXJoSlY5ZjNkQXU4dVN3Y1U3VUZJUjBMVzlIR1RyX21ubXdXZkdUOXdlWEdlTkRlRnlzMS04Z05raHdidlAtdm9qUzM0Q2NmQVlxSXNJcFREV2RqX0Fxc053bGV1UjhVVVJNQW5hUVJF?oc=5",
+          "published": "Mon, 16 Nov 2026 18:48:38 GMT"
         },
         {
-          "title": "ATP Finals | Groupe John McEnroe | Arthur Fils débute par une défaite face à Ben Shelton, 6-2, 3-6, 6-3 - Eurosport",
-          "publisher": "Eurosport",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZkNmNnVFYUxXTnpMYkI3b09YVFJmMllNR3FXX3dMN1VfOTFlNDQ3bnhORTFrVEhXWFY2UThGMG1qQVg2VXBUNmpjcG01bnZpRjdqbHUwMmhTOTFNYU8xTFZEbE83QldYSkszN1NuT1RXYVUtNS1yXzlNLThiaXMyYjhIck1XZ3YzR2ZNVkxFMlJmWmZMRkRWVnhoV0tUVUl3cjU2SzE5aE91YmtVZ01JcUFfeC1kYkxWUGRjam5jOW81d3REcnBCcGFfUzFkSU85OExKeDNOVFQxd1VVMkp3YnRJVURUcVBmTG4zdmt0YnM2ejFDSUt5Z0JmQnM?oc=5",
-          "published": "Sun, 15 Nov 2026 21:43:00 GMT"
+          "title": "B/R Experts Week 11 NFL Power Rankings - Bleacher Report",
+          "publisher": "Bleacher Report",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzBPYmxMa2JQRGc2cXUtWWZJY3dCUGI4dXM3eTk2YmZpckJUMXdtZDRhU3NPZ09Kem5qVEp6WjVDaVdRdDBMU2ZhS0l6Wk1Ja0h5YVcteVNsMjdMeW85MzBoa3Z1emNZN0ZDRGtsMjVFY3FwV05hamVBT0VFeTItNU11eERKME54VEE?oc=5",
+          "published": "Mon, 16 Nov 2026 18:40:09 GMT"
         }
       ]
     },
@@ -153,34 +91,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Sur les traces de « ChatNoir » et « Casquette », ces deux jeunes de 18 et 16 ans soupçonnés d’avoir piraté le site des impôts - Le Monde.fr",
+          "title": "Coup dur pour Amazon avec la perte de 40 satellites due à l’échec de la fusée Vulcan - Le Monde.fr",
           "publisher": "Le Monde.fr",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdWNOUTlOQVB4QjRrVHZzdFlsTzBXdHQ2ZzZIeTlBcnJ5NXR1dDRvNWpadk9TYzZKWUgweEw0N2hqVTcxZlBuMGJWaV9pT3FvTGNZSUp6MEJGeFVyRnM2RGRuaEV0Z1NWbkphTHdPZnpyM1ZxTUl5T19GTlN2RFFSNGRMaXZNMlZrcnhIRGRSZTE2cmJsMnhMUF9CLTBfWmpXbEt1cHhTTGNLUUh5Y2VrSDRLRFZ6NXI1aVdpNkZzM1hSNG1MVUZVVWpRX1ozQ2M2MENsa1pjb0xnblIxYUFXLXhlLXlDcENuaDNNc0RUWG5vYjNYU2xERkVvNXczRGRoNUww?oc=5",
-          "published": "Sun, 15 Nov 2026 05:15:04 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc2IzQkpjblYwMi1hLW4wOWk3dmlYN2RNZGJPUGxOREZhdGRlODNJSUNmbmpfQkVJSmR4c0FZOHFOazNMb3hWdVBVOGdwTVlmUVAzNTJwdlFZQlZjNTRvdHZ2OHoyUnJtWGx4cEx5MnVwR21GWnR4Zi1tTUI0S1IzX1E0eFRxczFOZklvbThtbjBTUTBXbERxRWhfOS1aT2wtSkRQalJJNVN6bEVsaWZfYlQ4Q3dwakdOaGhqY2dPZ3JuV0dkdmEzZ3VQYmRNOG5oLUo4SEFXZEd4NWxPcTBIRXRLTmQya3U4bm9HaQ?oc=5",
+          "published": "Mon, 16 Nov 2026 03:11:01 GMT"
         },
         {
-          "title": "TDAH et anxiété : Stanford identifie 3 profils cérébraux associés à des symptômes différents grâce à l'IA et à des IRM - Science et vie",
-          "publisher": "Science et vie",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSDdsc1dyb2hQdmw3YndOcUNJZlo1UmxYNlZGUHkxbF8tMk9YcDlDRG15Q0VtQVRWcWFVVjlkbm5kQUdUS0R0SVNLOXgzOHhRenlYNWlmdVFUSGV2Um50bjEzRUtxYTRFdHByQW9Ka09qNE1QOUhFcUoybWoyUEEzc0QxU3lqdXBsX3kxbkdWbENXNUFyX0pJd0V3Q1FTRzV3OC1sLTNvZEE2UWFsOTJmX3d1Q3o0a3lKVnpsNk83b0ZQOTJHWkluV3lySnM1ZWdWMllMRFBKbXdabTlyVEhtM3ZKbHRCdzR4RmhnLTlwbWxVU1FTX19fZ09Dd29KM1FPeG9V?oc=5",
-          "published": "Sun, 15 Nov 2026 20:00:30 GMT"
+          "title": "L’incroyable scénario d’un possible retour de Jensen Huang à la tête de Nvidia - Le Figaro",
+          "publisher": "Le Figaro",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3B4MWNnVkpscHU3VGlnRWl6U2pUd0lWOVVsLTd5OU5xc2g4aGR0OXZYUkNWLXJNdU5tYlRmUU1LcVFEY0Nrc28xb1NPWVFQNUduZ1FPSzhHY01ZOGpxMTc0eU1TZ19Pc0VOLVpwWmxvZ3BkekM3R3NnVHBnaFM1RFlFYlZHcmlEaFNZS3IxMVVYSlhhVUdNSk1hUGEwY09nVWc1bm5XR3VnX3hNcEtFRm81enpLVzlob0ZLakR3X0lELUZJWnd3cQ?oc=5",
+          "published": "Mon, 16 Nov 2026 18:15:05 GMT"
         },
         {
-          "title": "Liquidation des stocks PS5 : Amazon assomme la concurrence avant GTA 6 - 20 Minutes",
-          "publisher": "20 Minutes",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY29WRWZfT0tmR3dTYTRtTjk4aDBKdUZhd2JtZjMzb3Z3eGdWT1dhcFlyUTNxcEQ0eFA2ZHhmbUVKcWZTekVrN05sZWFSRWdCdGlQTVpmcmRaNkpYWVpFMjhzTTJTRVpOOWpndEZoeEt2cHRHTTJDSWFZT2JJbXg1MXU3TWczUU5UNHZyVktrdTdzMVdoQXc4ODBRdjJXVDd1OE42X1I2T3VDNENfT191QXJMT1Zqdw?oc=5",
-          "published": "Sun, 15 Nov 2026 05:12:00 GMT"
+          "title": "L'IA détecte désormais des failles « zero-day » pour seulement 4 ... - ZDNET",
+          "publisher": "ZDNET",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNb2JLVnNIVVpzZEJUM0ItTDJPc2JSQUxEZE5KMDBvcmtVcTlNUW45emFnaHRVY2lGU0VBNmpEYVZ1dDZlVnFla1BWVGhvS1B0c1FRdElGOVVVbkhDbnJLYzF1TVZQbEJBOWI5bXpybG9aUENVbGZlRGNTYm9JMHlVRk8wZFJNaENhYk9haUpUSklhX1p3NVpmS0NITHgyRnllckdiSF9pMm56YlczX3pYdzBkVlRibmhuLWRpQ0U4c0xIVWpHNFpOWU1xWUFXT3h6N2dOaVV0WXMtS3ZFYTR0LXgxeXZ1VDl0TEpqYmRyeVk2NVc4?oc=5",
+          "published": "Mon, 16 Nov 2026 14:22:12 GMT"
         },
         {
-          "title": "Cyberattaque de Maileva, filiale de La Poste : vol de données, 22 millions de personnes concernées… Ce que l’on sait - Ouest-France",
-          "publisher": "Ouest-France",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxObjdwakM3TjNCa25ic3BJOU92aHZvTlI4X0gxWl85bjVvUkxOaEhxdllDbm1adlNqaU5UZGx2NGNmZS1OS0xXNEIyLW1vYnNRVWFLOEFjd1J3Z3NlV0pnLWQ0d2dJTnh2d2NWWXZ0TnkyVkNKV1ZnWUZ2S1FBVG9GWjlWd3NvNkRIR0NqZnl1NFNTeGFDNzByZVlQcjBoRjQ5ZGFzUXdDMlpHYy1FNTd5bFJHZXdHaGwxWGM3UGhiUVRqUGtBdXpfSXI2RnhBb0hHekpLVVFobHhmYTcyeDBTZGE1NU1leTNtQktnRkpRUXY5aE5za2stSzl0amh5ejBZWkZrckc1QU1xMDFFaHlvSnQwa1lNemJFMHUtUDR6WldjQQ?oc=5",
-          "published": "Sun, 15 Nov 2026 07:28:32 GMT"
+          "title": "Cyberattaque contre des réfrigérateurs de supermarché : le jour où la France a dénoncé l’Iran - Le Monde.fr",
+          "publisher": "Le Monde.fr",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOE84QmJyd24tM2RXNjRWZTVEcjBEaUJPOVhmenA4dkkzTDB0TEV3Smc5Mm5tSFI4QVB4S2tnTW03cXdBRHVrY05ldV9kWnBrcG12NFNjV0oyNnp5aVg5MVRodEI4c19POXBkZFVubTdVTFJzTl9aeUd6b2pBendLaFlKeG1HN0FINzZ3UW1fbHJCbFgyN1lLS1k1VVREeGJIWVM5TFdYd2hUX0hIby1XZXVhVHNWak5pVExoVjhlUXlxWjA3SXVTWEVZd3Y2TThuamQ3blFPemh3MDdxWWRLYThsOG5aNkJxX3lUdmh2T0IteWxKeE9pbXFR?oc=5",
+          "published": "Mon, 16 Nov 2026 03:51:10 GMT"
         },
         {
-          "title": "Black Friday en direct : suivez ici les dernières offres de la deuxième semaine du Black Month - Frandroid",
-          "publisher": "Frandroid",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWXBOSmhKNk1kc2ctWFkyVFZZY01DWndVU3lKVUZfbjRvLUNOWkF1VGk5NER1VGpQY2dUdkNET0xfbVl2SXB5SFB5b2R4U1g1T3Q3QVg0TVBvUGcyVWtBVWZaSWpSRTJJU1pLWHJteVNUNHptUktlSEw1dmpZa0M1M25tTlY5QnRxclp4Njkwb1E5eXgwMmpSd013b1JuVXhrQjRFaFBlZU5XcWYtUmRqLVVGQkdKbGZDRlpFSUthQTl5MFNPQmxocEhJMl8wTU5hNXJyVkxNWVlTMTdfX01nNg?oc=5",
-          "published": "Sun, 15 Nov 2026 19:02:40 GMT"
+          "title": "Quand l’IA prétend déchiffrer des documents historiques qui ont résisté aux cryptographes - Le Monde.fr",
+          "publisher": "Le Monde.fr",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWVRvQ1BQdElLOC1hVTJyRE40bGlhM25YUWFyMGcxWGduRVZtQ2tqVm1EcllKVjUzaVE1SUhlNzhRRGpnaXpKUVVVdlRUTFktTk0yaGNYR0JFZmxYaWozdk0zb3ZydHk2b0RqZThIZmw4U1AyWnAzRm16ZjRNazBZeklKTm9KZnlwVHVnaS1oWXBUNzcyS0hjMnZCTXhwMmplVVZHNGFsZUpQYm9yLXNhalB2VF93Rmk1S0FDMG9INGZoYlVLR3Fxa0JkSlphVGVFUjlKOTVidkZWM3NfdzM1QXk3UVRuN2p5ekVYcE9jaUoxck0?oc=5",
+          "published": "Mon, 16 Nov 2026 03:30:53 GMT"
         }
       ]
     },
@@ -189,72 +127,41 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "The 64-team World Cup and who owns football’s biggest tournament - Yahoo Sports",
-          "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XWTE1dGpnQVd2cldqbjVqQkdOS09oa3ptQjdiZDJOaWdrek1ZaHN6YkQwbVRxdmdjVWxpc3ZWZGR5RlprTENodE0wd0RyNjM3TzlhZlE2RGYxUHdHd1BiLXhrN2V3T1QtbnIxdEFqUGdMYUVzdjA5aUhwTQ?oc=5",
-          "published": "Sun, 15 Nov 2026 11:13:00 GMT"
+          "title": "European football body’s plan to go global leaves Fifa on tenterhooks - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWdzQXd6TnF0b2VQUmtxcXFJdXNMU3hSYVJJZXY2Wnk4OGp3Q3FzTkw3eDNTMjJiRVcweEdIbWx2d1E0VzVDekxMUGd3bkxTVUtFSVJUVllVZHhmQ1FUOUtfWFJWSmg0YV9kRnBQT1Vyb3BCblVUT01VRllNd3BNeHA1eHEwSVZ6cEJaaC1qaGtOQ3JJQnJ3a1d3Zw?oc=5",
+          "published": "Tue, 17 Nov 2026 02:30:00 GMT"
         },
         {
-          "title": "Powerchair soccer has strong showing at World Cup - CBS News",
-          "publisher": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdzdLTnZraDB4UDBlaElzc3BaXzYyZkxiREhhU3FsM1pkSUdtTmFuWUdCOU0yUHY1VFJobzd6UDhRYXhnbnh0RkRKVGNmeG1fUk4tNXN3bDZpejAxNmVKZzRnc2FpY1lfM3dtYU9TNEI4eFhabEJ3cmR1a3ZrSEk4b1VhZ2xrOXRyNzlYQndyT2p0RXBp?oc=5",
-          "published": "Sun, 15 Nov 2026 17:23:00 GMT"
-        },
-        {
-          "title": "Morocco becomes first Arab nation in FIFA’s top five men’s rankings - Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGhSVnFxTkpiSTVwTHpXVlhQdUpUVXAtNzhNYXk5Qzdqd0J3QVZFSTFWeUE1Z3AzaF92NHdIYkxCWDVhZC1Kd2Nld05ac2hFM1VmZndmWlpvYTc3Q1hScEw2bUpzSmlKU0dmYUcxOFktM3ROc2E4ekJ0dWJReUo4dkN5MzdrQ2xmUTBKTTk1VmxqaktST0NRREJMR0tTWVNDdERPTFJoamJ3bEcxRHfSAbMBQVVfeXFMTW45bHhvUmVxSkd1cTBJRzNiMlFmTWQ4aEVXcXJCd01HVUdJQU1fRlQ3eXdGaVdGd1lfb0RpMlE2eDRXYl9RTURPWkMyTEZPb3ByTVl3MlRyWUtfb09lSEFxM3RMT2Z4UE9UXzNFczNrVm1Ba0NKYmpiNWwtOTNKUnF4LTZvUFVZUUZ6OXM5RWhmdGp5by1USlZ4WkxFQWE1d3VjcElvYU5yLVItWUdDY0xEakU?oc=5",
-          "published": "Sun, 15 Nov 2026 17:45:39 GMT"
-        },
-        {
-          "title": "Football’s cold war against Russia is showing no sign of thawing - The New York Times",
+          "title": "Nike agrees four-year deal to become UEFA match ball provider for men’s club competitions - The Athletic - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2hnN2NoMUY0eWUxUmRueVg2TGFYQzFBSXh3ZzkzV195QTJJSzZZSm5fblYxOVNNWVJINGJHNm5MQXpOaG1CQ0VlcHdtMzROQWNubktsRHczTUV3cXhLVHk0RV9UXzJkN2hwUU5MMlVYWndwaFVHLWZETjRrRUtaT0Y3VDUydGh5cmN4UA?oc=5",
-          "published": "Sun, 15 Nov 2026 05:14:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXdTSktfQURMbktpYlZvUW1YdmkzSWd3eWR5My1pV3NLbjFDQWFsVzk0YUpPQ3QxZ2FyOU1aZGtCRmNjczBwZl9Fbk9xVzJHQzV5bHRvWXZiUTVZdXFpaTBZSnppN2hoeU53VFYxbUtRUjZKTmlDd0tMZjJIQ3ZEY0JKeVV2dGhjd0pkQQ?oc=5",
+          "published": "Mon, 16 Nov 2026 10:00:04 GMT"
         },
         {
-          "title": "Watch UEFA Nations League Soccer: Livestream France vs. Turkey From Anywhere - CNET",
-          "publisher": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNXy1JbG1BLTlCVWRsSm5pV3ZYRUR1UklYdnU1Wkk4Rl9LYzkyV0pnYmN5d3E2YnJlclM4bDZJUlk5SG5DeFRQQ1VsdWFDZTNSb0xHdmdMOVdNR3hza1A2bGUyS004aXl6YkU3Ym85NFIwUzdVMkVnRkRTOTFGMHNZb3dHVFdLYnVsR2Vxa25weU5kSTN3dUN5QnluTG1IZ0xXdnJRSDZGZFJ0LXhrQlY4clAtSENKemcyTjRtTVl4eVU?oc=5",
-          "published": "Sun, 15 Nov 2026 16:45:05 GMT"
+          "title": "French football chief Diallo to challenge Infantino for FIFA presidency - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQjBNNENHU0d2UmdESE5zYTl6T0ZIMGRxV0tqQWZEMGJpb2luT0xYY1NOWHlvTk1RRlc1d1pjMmdTNlFNOXNDd3NvR04zR056YU5zOF93bWE1UkpIWUltNS1IaFJjVFNsNUVPWHlud0ItTTBsMENQSFZZQTc2eHNmOTl3YWxMYTc5N2VPREhyUkFoUi1IeDBNaGJ6LTYwaF9pMGVNNlRsQ3hWTGlHZjhfLXFNeXg?oc=5",
+          "published": "Mon, 16 Nov 2026 16:24:46 GMT"
+        },
+        {
+          "title": "France football boss Diallo to challenge Infantino for FIFA presidency - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaG9mUlFVckdUb0ZNbjNCeGszZlVsQ1dIMFdmYjFFNjdLeXh3Ul92UFhXaklsYlFjcmlsREstMUIwMFo4WF85Ny1RVDVTb0ZPODVPSVZjUDM0T3BpekkyXzJaYkdQT1NYNFp1c2VGbHNnczJfWHpPZ29BSnd6dkQzNXhWUEc4cFVqMDNXakhqbDBmcFI4OS04MlVB?oc=5",
+          "published": "Mon, 16 Nov 2026 15:44:00 GMT"
+        },
+        {
+          "title": "Nike to Replace Adidas as Ball Supplier for Men’s UEFA Soccer Competitions - WSJ",
+          "publisher": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY01ibnJNdDJEbXFyZzNabmNDcVZKZlh2Z3JzazZlaDg0dHJVMEI5VVI2ODNNdVUwQkZnTkU4M1hlT3piZGRaM2x4SlhvSERrUXEwTDlHS3AyTUl1b0wyNTY5amwzeDdsUERWa3lHM0hXX2pFbDFneUhiUFlYb2h3a2VyYzR5dlBxYTZMSl9QeUVsNWhsNHh6aUIyNV9oNjBjM0pST1d0WjNkZlRSdDFpNQ?oc=5",
+          "published": "Mon, 16 Nov 2026 11:30:00 GMT"
         }
       ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": [
-        {
-          "title": "Box Office Global: Johnny Depp's 'Ebenezer' Richer Abroad with $42M Bow - Deadline",
-          "publisher": "Deadline",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORF9XTi1kQ0d0SkdCQmNHQV9KeHRZbnl0NFVNM2UxOGZoZzN3NkdLLUoxdDM3UEMxUHVVUW9kc3JjYmt4SnEyTHM1VDVHQjlwQWc0ZUM2SjgyOHMzYThDN0Zna21kU1VURlpKbEVKYjl3UFhVdGNJYTQ1Sm1tc2xodVU2Vmc5WnY5bndQazc4U282dnRFU0hSaWdKSHg?oc=5",
-          "published": "Sun, 15 Nov 2026 18:00:00 GMT"
-        },
-        {
-          "title": "‘S.N.L.’ Brings Back Bowen Yang as Jensen Huang - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGNZN0t6Z3A0U3Q0RUY2UzBIQlJsdGtwU2VXTFR6R3I5T0VOcFNfN0FsVUN2Ukd4YTAwaEVMemxuN1cyRTFIV2JibEhnSzZyVC1BWGV3YTJjdllEM25UNFBtMVpzd3QzdnJnQnE3Y1FjaXhJMlYyQURBQkh3ZGhiVUdWUzBxZWtHVzhlVXZDcGxWOWludk4wNTMxZDhDeFdDaXVLQ0lzYw?oc=5",
-          "published": "Sun, 15 Nov 2026 20:55:39 GMT"
-        },
-        {
-          "title": "Billy Evans Reacts to Amanda Seyfried’s Portrayal of Elizabeth Holmes in ‘You Can See Everything’ - The Hollywood Reporter",
-          "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbHdvOVBsWVU4YXQ0ckFuR3Z3QUpPWGRLUFllTHdjUlV1NmptRnVieU1vZ01WVDE2RzE2bm5ZZjVPeWx5V1lvTWp6VnEtc1JuVk9ZOUZJbmptX2JmVFRYeWYyYUpHcm5reWlMUDRyMnNCWUc1cUpEcllsYzE1YjRrTnUzdmlkbk4xUE9zOWEwY25BcDlwNTd1UFlkVEZPRmNQLTJmSWo1eU5uVGluQ3lrV0JvZUlKNTlQeDl6azNORG1xVHM?oc=5",
-          "published": "Sun, 15 Nov 2026 20:31:49 GMT"
-        },
-        {
-          "title": "Can You Feel It in the Air Tonight? 11 Best Moments From 2026 Rock & Roll Hall of Fame Induction Ceremony - Billboard",
-          "publisher": "Billboard",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUFfRzA0OWlsdUZlTmZRcF9DSEUxZ3RkOHRpTkJ2bnNXZmxZV2Nac3RfZUtDQW02QVhza0Nqdkt2NnU5TXZkeGFFMXB6YVFQR09OLW9GWXVJODRWcjJVaGRqWW1LU0dzRGVoNHRMM28yd3pjTVVJYmVLWGU1ODZTQzJyNXQzTGRnam9oOXRB?oc=5",
-          "published": "Mon, 16 Nov 2026 00:17:03 GMT"
-        },
-        {
-          "title": "Andrew Shue & Marilee Fiebig Share First Look of Wedding Day: 'This Story Has a Happy Ending' - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NZy1feUZ0Z1F4ME5TSEgwYzhSVWZ6T2h3R3FndmsybWwta2tKcWdaQ2djRGRMUmctdGt3TTBkdTRUak1abGNId3FMU0RPczlPXzRzLS1NMXZ5eXRmbEVIQWxEaXVDNEx0YnllTjhBTDRLOXJPcG1UdHhNYm0?oc=5",
-          "published": "Sun, 15 Nov 2026 21:53:13 GMT"
-        }
-      ]
+      "items": []
     }
   ]
 }
