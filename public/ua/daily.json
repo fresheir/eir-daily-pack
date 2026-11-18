@@ -1,47 +1,78 @@
 {
   "market": "UA",
-  "generatedAt": "2026-11-17T04:20:36.796685Z",
-  "validForDate": "2026-11-17",
+  "generatedAt": "2026-11-18T03:19:44.506552Z",
+  "validForDate": "2026-11-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "«Це неминуче». Рютте прокоментував удар по Керченському мосту - NV",
+          "publisher": "NV",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSHBPY2hBd2VNVC1yV1NSVWZOSTdKWVVMbFQtZXBfZkpEbGdWcHdRWTVqM2poaWsyUUduMnRXOGJtR09xdGEtMUtXWmU0dlFtOTRFV0lqdGtNODlyOTU2cmJxOUZjeGlpZmdDZDRIWFJuZEd1LV9SenE4OFQ0QzlEVnhFczVCZlRwajhON1dsTkcyVF9wN2F2TGV0WkZRNmNPZlpQVnZSekxlTHZDYjlkWXB3YVhZb3NWU1Foek9R0gGrAUFVX3lxTFBUN01IUUdlQ1JHNzZHcG5yZUdKNzZ5SUVBb0FheEJzallBSmt6NGNyV1lYRV9taHlqM2ZzcnVYTkxfWmYtTmFwYXA1LWYxM2hsMzRKUWwwLVBQNF9hWU56enc3ZFhrM0N5NEg2el9hSDFLcEZsQTM0SjZfbHZDLWF3bUJYMnFIQzRVZGpxTFB4ZExLbU9UMGN6ZGRUckZaN0kzTjNHQ1Bmd3pEYw?oc=5",
+          "published": "Wed, 18 Nov 2026 00:56:00 GMT"
+        },
+        {
+          "title": "Росія атакувала центр Вінниці: у місті спалахнула масштабна пожежа — відео (оновлено) - ТСН",
+          "publisher": "ТСН",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQzZOc1FRSUdNclA3enhwb3h3aUJOTklQR1VWT0UtME0yUUlsVmtLU0JBMlBHUzBoVVpFcHlrcWMzVUJRS3A4RGRnWEFoam9Cd0YwR0FrWnNqSEhQbkpMQVdCSTI4eGtIWVlQMi1hMUQ3UldFYVo2M19JRVhhRDQ3VW83blV5T0NLTVFVZkZCYUozSlV4U3U1eHNvazVMeExiYTVUVlh1M0x4OUlxZlNyZ0Z3Z9IBuAFBVV95cUxOdWJYZS11SnZJc0pjT0xHYktsSEV0d1N5YUlqSmlHQWdFbXoycW12YUZnRFZBaWdKNTVKVU5mRXpyT2k4WVdKNHliUTFCZmVkTUdZZG1qY3d2aGw1ay1qdjFqcFFvWmpaY2NYTEhJWW16enVLZTRQRmVDVUZfOUdFSFdwbTExQUxzNVZfQWs4Qk5NZUJjZ0dtQ25tc1VTQmQtUGdHQlVFQ0V2NjNSWUxNWWJtTkF6d2Jt?oc=5",
+          "published": "Tue, 17 Nov 2026 20:27:37 GMT"
+        },
+        {
+          "title": "Російські війська вдарили по території парку у Дніпрі, є поранені - Громадське радіо",
+          "publisher": "Громадське радіо",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbWRhTjR0R250RUp2ZndheV9mMEtkNHhQX0ZjQi1wYkFvZ2V2eDl1YjJxNXY5T1FqUHZDcjJEcVgyVzVYTURnYld5SjZTYkhUdlJBWnZuNUNYNVZ5VjNhVjRlLVZHYjFDd0lQUjNSV09GVzhRalRZRFc5eDVoZVpTZVJsUjZIeWJHYzlnWWhuUlNhMGw3cjJoVzNLUDBvUkxJU0ZobFl3?oc=5",
+          "published": "Tue, 17 Nov 2026 20:24:08 GMT"
+        },
+        {
+          "title": "Радбез ООН проведе засідання високого рівня щодо ситуації в Україні - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPYVhodzNBTUNLTkthX1pEMFh5bjJMbE4tanRkYmJJZ0JjeUt5VG5GZ0VJdG5Gd0djTDNrN3cxYXBDeG9wZkpuUC10R3dDbnppSVlFcW1wMTBxZXY5dElz0gFrQVVfeXFMT0prd1ZqX2ptQ1pmOC1RYktFRkpCMmFPZUZyaUxNRDRSUDJBcVJNUGFrd3YwNWZWTmZveFhleXZLUDJGOWdGbEoxaGZXcVhuMGRNY2R3X2Y0ZXkyeUczQjNnbW5XTmtoTUh0VTA?oc=5",
+          "published": "Tue, 17 Nov 2026 23:40:00 GMT"
+        },
+        {
+          "title": "Зеленський на \"Рамштайні\" заявив, що Україні потрібні ще 40 винищувачів F-16 - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPT2dsbTV0Q0RLdkhIbm1hWFR6RnRudlBFUXZQaXgyX2J1VGlHM21jRWFOSEZjcjY5TGZQZ201SUFQSmNrTnloQzZQVzBrc0x6aXV1a2o5NHhsZEtfdWZV0gFrQVVfeXFMUEgySmRxdXQ3ZnNLTzUwNlhxR1dKQTExcm1IdlAySWFWeEdXbzE0SnB5ck1PcElyOHR2ZG4xUE43OWNRVE5rMVFJcHJwd1lacVRiazMzbXRDenJaMVoyalhBYW1maVRGMWQyZjQ?oc=5",
+          "published": "Tue, 17 Nov 2026 17:13:00 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
       "items": [
         {
-          "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE?oc=5",
-          "published": "Tue, 17 Nov 2026 02:02:00 GMT"
+          "title": "Зустріч у Шеньчжені: Сі приймає Путіна і Трампа у техно-діснейленді. Ось чого їм там не покажуть — BBC - NV",
+          "publisher": "NV",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVC1OMzc1REdRSlRwV05lTmxhb2pMdUVnbHBGSWJJbDROMndzdWN2dFhuaFFVYWxUNEtXejVmVUlVNzl1VVhBdW8xd1pDSGI2eVdEMzBOUzEwTG9razBZV2JSVkloVHozeWlpWkJVWkVEbzdZa3hYWUNxbE1GNlJrb01YN21HVkE5ZWpTanMybXJRTzdNd0EtTFlBYndzY3JDbEtDel9ZLUZ1RWZRZkJnSUdDLVZEUGJaSERldHZRYTl0Z9IBrwFBVV95cUxQUy1KZklYNXpMalJBaGRsdXlnRzdQS1Ytd1N1ZkhVaHNQeTJiMnlzQ2tYOUVoZVhtX3dMX2dWWEJfaWttWWY5cFlHS1AtcDJKX3dUeGE4dVNZRFFyMUZKc3phWG9Ecm5WZzgtQlRicUJ6dGhRQ09tSDNsU2w2Q2xpSE5XcXZ6OFQtMGNMWEZUYnhEaEstd2taNExURkVON3B0ckY4eEpsTXJqVlRKNWZN?oc=5",
+          "published": "Tue, 17 Nov 2026 21:39:00 GMT"
         },
         {
-          "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow - NPR",
-          "publisher": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORjVjenZkdk1vNVNjSTR1UklRSHZCMGllZVR5N2lfRXo2MXg0MzBnQjBxekctUk5RZWJQaGRxYTRyekJvSzAzM0piT0I2dVhlcmVUalpyV2FxQVQtMVNLdGZpWjFBUUY4bGVBbldicWVnZ0MtWnNoQmhMYmVYWllHY3pHcUc4Zw?oc=5",
-          "published": "Mon, 16 Nov 2026 18:04:50 GMT"
+          "title": "Президентка Естонії поставила під сумнів доцільність закриття кордону з РФ - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfcEk3MWZqQ3FsZ0NpNGloVURZM0FmQ3pWN0d6VVNlZWh1ai1iUHVwYXNfU3RxY3BnSTh5SEtTODVXMlZEWlY4dmRZLWRVVFpsZTVySXplNE9aTl8wZ2g00gFrQVVfeXFMT2U0SW1ZcExnUWJEc1FTZjR2YVlTckJRazZlX04zcnBsMnJwQ3ZsdmJLLTBZTHFpZGJ5cFo5S0Vzbm1PdjI4a3ZvTnpiZmw4YThOMVk4UFJjM3J5djZoMVZJTDlQMmwxQklETDg?oc=5",
+          "published": "Tue, 17 Nov 2026 16:52:00 GMT"
         },
         {
-          "title": "South Korea scrambles fighter jets as Russian planes swarm into country - WW3 fears soar - Daily Express",
-          "publisher": "Daily Express",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZjFaRDNvOWxKVnRadWkyMmotNS1MdDdkekRmZDFCanNYb250U3FqZDZtWDVwYVBDd0VsX3I3NGtQZDNLdk1GWUNSaEEtcDVOY2ZBeU5XZ1JmRWo2M2taaW5jNVFkN21oOHNkSWQ2a2h1U2h4TmhWRk9JdWU3WXZKcmJKdVpIZ9IBiwFBVV95cUxOb0pwdzhETGs4c3RSbDJQYUR3M0U5THpTd19PcFdNQ29LNE9HbjctQm1QdHY0ektpbllhQ0JBUDlYRWRCRFVLeHl6UWN5dmJmQzdhOFE4M1JZeUZRZkR0eEh2N3hqQklwQnlTVWRHRDR5amlNSmlSSjB1UVg0elRnTGRLaXNjMG9PS0Vz?oc=5",
-          "published": "Mon, 16 Nov 2026 22:16:00 GMT"
+          "title": "Готові до обміну військовополонених - Зеленський - Korrespondent.net",
+          "publisher": "Korrespondent.net",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT1p1ODVSd0s5eUVQdGFIX3BHdDhRWW9aMmxWVmF5LU04S0ZsOWhOQlhiS0JjbzJWM2w1YWt3cGZkQXluNTVsZjNETlIwZTkyZ2VJVmdCT1BJaEN6LUduZXZtdU54Q21vNEY0bEt0aTVZcVdUOThHRVVDcUJkV05KR3BEMDZ3eFRqdl9hMUpLLUc3WTI20gGPAUFVX3lxTFBDQTdDbXBndXN4UnRad2VXb3FzbGp3WUIya0o5MWtnSk9oVHY1T3YxWU9aTTRxLU5hT1AzdVpXNS0wd3hzb1lmelRreGtudnZKWFo0dmRzV0FhbTJmVGhHN1RlT0tXX183UmZ0ZDR3bWk5Y0cycXFwcHFwVXNLQmQ1aHVTVHUwdTF5SlgwelFJ?oc=5",
+          "published": "Tue, 17 Nov 2026 16:15:00 GMT"
         },
         {
-          "title": "U.K. considers changing laws on age for sexual consent in wake of Russell Brand case - CBS News",
-          "publisher": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzRRaFBuSk9TS3lsM3BFWlBTbS1JdllRcWdPY3JPVUUyRG9SWkFIMnBBaXg0RkFjZllCZ2JYdGYwRlplaHRGNmlrY1phUmhfX1NMSFI2SE5rdU5PREZsX1Z3VzBTUWI5XzVCUnRWd013M0lJR0FFN2tqeDBSdUl1MjlWYTlQcUhjNDUtYlhEMXNOQm1s?oc=5",
-          "published": "Mon, 16 Nov 2026 17:32:42 GMT"
+          "title": "Reuters: США завдали нових ударів по Ірану - Українська правда",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oOTVMTU9HRnB2MVp2a083TXI0Y3Z6RmhCUVhoYkZ0YWc1V2RTMUtCbHBKRHdPN2dYWE5wSVc2c0lad281UlZqQW80WXFRS1pzMXM1d2lhWmhOVGs3UmVZ0gFrQVVfeXFMT1JMdF9yR3FvbXpNdVRHWWhnZk5NNG5pUlJBdW4yOVM2eWZnU0F5UzFheUszRjBGY2ZrWGg3Q0U3QmJobHBuT1g2WnFkdWZoU1NjenFZNjRfU3MwUUVjT3dIcEtPS1psYmlYbWs?oc=5",
+          "published": "Tue, 17 Nov 2026 21:48:00 GMT"
         },
         {
-          "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RSb255WmtXVzRseHpHdk5tT1ZLTlYzRzJudFZKZHVaR2taQzdOcmQzWGF1b3hwTmZodTV6TWRvM1pyX2JtVVNlMVI3NUtyQlRVQXhQS3FJR2lhN1ZZcFZ4WU5fRHlsLXZEXzN2aDItSUppYmt0YzdVMXg4dHRHYUZrVzhRejZYcGZxRVlSMVJxN1paNGV6MzhfaS1sNTg?oc=5",
-          "published": "Mon, 16 Nov 2026 17:24:04 GMT"
+          "title": "Мігрантів із Євросоюзу депортуватимуть в Руанду - Korrespondent.net",
+          "publisher": "Korrespondent.net",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU29JU1l5VVAzZl93NmdEbnZoYWg0a1B0Y2hVT0poV3FDV0pDMGZsWUphUlZGbXhRM2xVZFlLbVA3QTdjdWZVcXFScDZ5Ym9ycGFvMVhhMUllM3R6MVhKdFpyN0lZcHFtckNRZFFHZ1ZMY2FzQ3VtTzlFdDF3V2hQX2t6Y1VtM1FSMTFPYzBxbXlWM1JPQXfSAZMBQVVfeXFMTXBZRnI2azR4SW40dUdqUk5YSUFiSE84cWt2WDNzTjVFbHZhb0c3ZlpWazJzTzFsNXo5ekV3NlNHOVBnMVo1a1pnQW02V05sOUh2ak5RdU10amhqSHBwOE9aVndYQUFUZzBMUDJuTmFQcndZamg4dkFyUXRUcnJuZHpOYk95aDVCYlF1WFF6ajcwVWVV?oc=5",
+          "published": "Tue, 17 Nov 2026 18:45:00 GMT"
         }
       ]
     },
@@ -50,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Скандал Nvidia. Дженсен Хуанг міг стати мішенню «медової пастки» — The Guardian - NV Бизнес",
-          "publisher": "NV Бизнес",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdVp4LUpKTkZwWmtzNEM4M0ZsaXljdWdIR2FEeXoxVS1icG5hZFl3cnRYbkVXdDUzYV96OWZPdlFEWEdQOElvQ2VOMW44MTZoYTEwVHRQVlo4b0VVM1NFbTJaT25yRFlQdXViMVB2MnRGY3NRZThVdEgxZUJlYU9BeHZKY1Z6Y0JwcjZrTEpYSENROWJodmtlWFpoM01DNkZZOXBzQUdEMjlWNmNSZWkxN0JJSXAxU19SSVVaSWpR0gG4AUFVX3lxTFBEN1lJcEltT1ppWXN2NDZ6T1lMRWhkRk5YbWViV1o3YnFVOUtNV2xtai1WaXB2ejRBVWdxNzhTOTk1YTdYVjYtZXYxQUxOVG5OYWt4NVlBeGxveHN5eHFwOUVZbGpaUDM4bk1kN3BkQURxd3liTVpSb21VVi1qVF9NYzFabUZ1ZjBwZ0tzSFh3TnZyWUdkbHN3dGtfSXA4ZzZOUDVHZGlSX2Q3aGJfbkw2RWx2TmRxSnE?oc=5",
-          "published": "Mon, 16 Nov 2026 04:28:00 GMT"
-        },
-        {
-          "title": "Хакери КНДР викрали мільярди доларів у криптовалюті: ФБР розкрило масштабну схему з дипфейками - ТСН",
-          "publisher": "ТСН",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX28zNkRtS3VpS3VENWlXeW1qb1BjV0dPOEdDaW5FQU9QXzRXT2VZTmtxbS1kb3dZeHdsTGZYcHcyTkR2Q3FOXzlzdi1TbW5qTGl3Sk9qdFZKS3ZuRGtub000dFVJMC1JUGhuWEdHRl9CRlJYR2VYbjFFcy1fVHlac085ZlV4a0tIS1JIWmc1TFdxTWVZZERxRi05UlMydXNSX1FvRUFNd1l0RFhVUlpSeXRRQTBWNHRjejNQeGhmR1NidlF1MmwyV3hB0gHPAUFVX3lxTE90dGU0RUh4b1FxVHlKWEtzLXZ6b0NQLWNCMlEzMzF0T1JlQWdvQ25jYkh3Sm5RTnN6OVlpSzZ6RE9SNkJuNGhIN19MQTI2NUdzajVLQ0t5bEtYeGh3dEsxX0QzNzlZdm1VcE42dkdzd1pmbmdCSU9RZmhoT2lIdUlkaHVMTnJDN1ZKbWJwR2RiV3JMRHEwTHZ5M3FfVFNvdmtfQmR3bEY2ejZyTWJNaXZoRnFzaHUzVUxJTUp0Zm5KX3RGRjczbnEyUU9SeUtkNA?oc=5",
-          "published": "Mon, 16 Nov 2026 04:30:14 GMT"
-        },
-        {
-          "title": "В Китаї історичний політ виконав повністю електричний літак: що про нього відомо - УНІАН",
-          "publisher": "УНІАН",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOekYyYmJwUE0yaFVOQl80UU5Jak1vdHdCM0NDUE5xYzRFMWY4RE9yOFVDSzhZVTZqanpMZXVMbVV2U1lvNm1CLW9iTGhlS3BYTEU3cFJVZ1k0azJZZ0NqR0FhRmdneVUzM2V0cll1MGQxS3RGRjNmZkZqM2RkcUpHcjJ5WkU2aG84bVYydFhaajFiakJscnN4TmZkR1k5RUxKTm96NTNCbG9reVBBTFBJY3BsQVpNSWV2cjQ3etIB1wFBVV95cUxQTXdqSEdCckpKUHJKOVVDMVYtcTBqOUhqc0wzendvdlFjVlVHTzBFNmtZWEUwV3lYRXFvcjQxWmphSUNhRlNsV05faUg5M3A1eUljV2pGdkp0RWRfU2lfczlJRy1KVWZfbWtxeWR4X01VR19mZW13cFEtbUhDM2RIZkk0WjdPaDh2WkJaNGJNZnFfeTVPNmJIRjdJQUU3aHg2QWd3TzNUaE5xY1M3eXhkalRmOGljS1pZWW9kY21QMDU2bHlaT0Y3dmtUbm1WOFRHTW1vaHZPYw?oc=5",
-          "published": "Mon, 16 Nov 2026 09:30:30 GMT"
-        },
-        {
-          "title": "В Україні просів ринок електрокарів - Korrespondent.net",
+          "title": "Керівники техкомпаній підозрюють змову у відставці гендиректора NVIDIA - Korrespondent.net",
           "publisher": "Korrespondent.net",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlNaMGczSzVXQVBzUUxmNHljaHh2TVdzcllCdXJ6Sk15NjFEc3dSckF3NGEzX2JWOFp4SlFqRlBtWUc3czNnWElKYl9Xc1pEeWVXSllpSDk3R3NQNEI3UFpfT1BsaS1pTkwzS09GcDV0Z21Nek0tV0x5OFVWUWZBcERnMW4wVmpVS2VoUUhjSdIBggFBVV95cUxOQ0liYklwQkJLUHJISHY1Nk1yRlp6enE2SUg3MW5lbm4zc2hJU2ZnTklyZEx5NjBzVjZqekt3VlZ1OHQ2d21rcnlDUGROdElwWUdiMWVTdVVJSjI0ZzBNenpYOGVKemhrdFN3RGVyVE9UUUptbi1saXRyc2tGeHRSYXN3?oc=5",
-          "published": "Mon, 16 Nov 2026 10:11:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzVhUFZFcGo4U0VyWHhEcHZqN1RJb25mTkVIQ2x1SkhfcWVpZGZJZjN2WUx1OHpjWnRveFdDengzQWsyZlRWVnBpMVE3YUlfZzVGUlR0cnhlakxoS0tMc2NMLVdQS1dibkFrS0Frb3JqVEFXMXI4ZEtMZm1UeGdSMUlTcjdTRWppWklFUnRGcXRvRVhlM3RIRjhIQy14TFlCZFlHNjlMcVdiLWZtaDdXdkF1Z3R3M01pMWRr0gG0AUFVX3lxTE53SmEzSWdMektwRzhTLXVBVFJSZkhHNS1hNlRKd3NRWXQ1ZUUwdjRya0lLcm1rXzl5WVFUV25nZEpwTzh2MGZvYmVLY3NLWHlSOG1KREJnYV9LRFFZZDExZUpYT21jWmU1VGthNG5DMVF1eElCS3NYRW1OaWtxNy1QeFFqSUF6VjNWQ0VVajBUQzAtaWd2eFNaZGdfTG5mSE1JRzdFTHFJSDZnSldTcjd4VHl5Yg?oc=5",
+          "published": "Tue, 17 Nov 2026 17:22:00 GMT"
         },
         {
-          "title": "Долар наблизився до максимуму за 19 місяців: чому увага інвесторів прикута до Ірану - Мінфін",
+          "title": "Маєток за 38 мільйонів доларів і будинок на Гаваях: де живе співзасновник Nvidia - 24 Канал",
+          "publisher": "24 Канал",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORlZaTDg2UFd4U19CdXQyalROUFRLTU1DbnVhenN5Y1kzOF80TjFWOGhaMVFMWi1XWUxmUUtjeUtfbU8zSl9Dd2xFMVRmUDVrRDd4Sm4xZk1VRFp5ZkhiN1pQak8tV01rdWc1ZWZlLTZVa3FzMHYyZXluaEJKM0tmVlJQdnVHX0U0cUo1YmEyb3JIcER6VEhfcTBNb3h4SlHSAaQBQVVfeXFMTjR4TWdXZmlIUVR1WTU1QTJRcDZzd29EVzNoQ01xalBjVzA1ekRQV2l1aHVmczFwcnJFWGUzVFB1SHREdjFoMzdZN2FIQUgxOGRPWW1sUTk3X1RONzJnVDRWRU5aaU5LOWtLc2xydjN0dWdrZ2ZRMXpZUDczN09UVTMwWlhZVnBhYXRlLVAwQ0RuSUIwNXJaZmM1TkJaZjJ4d3BUN2c?oc=5",
+          "published": "Tue, 17 Nov 2026 12:47:00 GMT"
+        },
+        {
+          "title": "Світові банки назвали валюти, які можуть обігнати долар у 2027 році - Мінфін",
           "publisher": "Мінфін",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tZU9rR1ZwT3I4aFJ5Q0Q1a2N2WmJyNEl3TFRENW5pWGVRSy1mMVVwLWxhT3dycHg0OFlDd2xaa1VtVkRvQ29ib0sydlFlNDRmRXpHNV96ZVpYd9IBX0FVX3lxTE1qUS1mX0t6cHFCUnBHWndpRDZoLXJoM1Z4VFFFekViblgwbWxSSzFEdXctdkZRRFhXUzVQWUZZY3VQcll6X1lMRElaRE5XZEdma3JGbG5GR2t1aUNoZFM4?oc=5",
-          "published": "Mon, 16 Nov 2026 13:42:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNNTY2V1BMQmphNkVaTFVNVHpoVjRDLWtyZERkUV95TTdLMGFGMGVqQ1J2d29WYmVpMmM3VVBFWEFHNEtWbkdSeXVMVWNrbUFWTWVrQmREcHNWZ9IBX0FVX3lxTE12ZG9lZW9HRE5KdlhLc2U5eHhhOS1EZERNQXUweXBscTFrTF9sYkhOczV0RnRIRW5rYnlLYzlZX09ILVpfVC1wSWZqNHVGVDNmNnp3NGlBenhNVm8zdzBR?oc=5",
+          "published": "Tue, 17 Nov 2026 10:46:00 GMT"
+        },
+        {
+          "title": "У Minecraft відтворили всю Землю в масштабі 1:1: можна знайти навіть свій будинок - УНІАН",
+          "publisher": "УНІАН",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzNBTERybFQ1QXJzdi1qLUFCdmhXYXZGOEo5VHg2cl9EQ01wWF9Ldnlhbjh6QzRhT2RjQzl0OWFBWmJKajlrY29uZXhZdFd4bGdXcm55TGVqS0gtcnVuV2Ftd2k2dEJ3b29ZSW5TQzZ6SlZfbkJMWGdFb2VxekpPcHJGWnpxTDhFVFBEWjdGdC14Q3Nnb0RNbXFjZXA2aktld2hxRXN3M1pVTl9udjV2ZktfbVpXT2ttcWQ2MHNKUWhlSXJa0gHKAUFVX3lxTE1WdnRLSlVQeE1iSmRsWFNQY3dsazMwVW5OTDhHV1Y3SDBpN0UxajJ6Wmxpd0duU24yWEg2OEJ0RXZIZE9UbE45Ym5paVhWLXFsWU53RzdCOXpNWmNIUG1hQklUY2hmWWFaZkxRTWlQLTRIRHoxeDItRlhDV1FidjNodFRpQ1BDYVN2N0pZMWl2b1EtcGx3YldBS05FQXJ5ZlZZMlltMHBSWjZaRXhraFR5R1owdnc1OVdEWHdIMG5tS1dMVERMd3NORWc?oc=5",
+          "published": "Tue, 17 Nov 2026 17:10:00 GMT"
+        },
+        {
+          "title": "Ціни на золото впали до річного мінімуму - Korrespondent.net",
+          "publisher": "Korrespondent.net",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOXFjTlhLNVhxb2ptUnVYcEtwbms2eHRwSnhIVTQ2dkVzSDlfOFRmUHB6dkZyMG1DY3cyY0lDbDYzUmNSSnprSk4yUVM0ZzF1N0dBVlk2T1hVM09ZcmZsaDg3SmJmb2lhYjN3VTBzeFJiTHlWMDY1MnBYZ25La2dvemhLZjZ6WEJ3T0dUM0pWZ2RKMzd6Qk1YUEwzNlVLYjTSAYsBQVVfeXFMTUhSYWxkLTZUckpGd0YzbWlrT2hQU1BhSzRodXR1ZXVyMmhiWEdkb0s4M0xJVnNYaU81ak0xUkwwMm1CNWJSYzRaUThueW94Y28yMko3MTM2Vnd4NW8xWlQzel9SV3lWcTF1U0xneHZubGhNb1ZOQTh1MHhodnZzaDNCYzdLaEhja0s2VQ?oc=5",
+          "published": "Tue, 17 Nov 2026 12:53:00 GMT"
         }
       ]
     },
@@ -86,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Chargers vs Ravens Predictions, MNF Picks, Odds, Inactives - Action Network",
-          "publisher": "Action Network",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONGlNWnhBTUUwczhSOTJsTWxoUXVqQk9PWkIyaDdyc0ZBUDE3OFB5eDJhT2g2cm9zbE1RcXFPOWt6aUp6QXgxNGdjRTQ2N3J1Y0ZaWDVGX3BRMUZ0Ujg3SzV1Y1luV2F0SHVNdm5FZEhJNHdiRk1YZ0NtZ2p3eU5XZzZIV3NmQzVNNEJ6b1JPVnpLUUJxaDQyRk5PaEN5bmM1ZEZmcnBtdERKc2o3ZUM2R3IxMTZXR3VHbjlxUi1PRk10Vm5ZU19JSzZGR2Ytdw?oc=5",
-          "published": "Tue, 17 Nov 2026 01:15:00 GMT"
+          "title": "Збірна України з голом Сікана здолала Грузію та зберегла місце у дивізіоні B Ліги націй - Champion.com.ua",
+          "publisher": "Champion.com.ua",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21BeHFwdWFjNEhQOHBfSmU1aUZiZ0F5c1dpUUp0b0RTWERncHR0UEpvWVpqZW80RW1UV3QyRUhOSjdveFpJWEJfTTFOa0F0a1dSZVRlZ3h5N1ppaEVDVGMyQm9ZTWNXWTAxZ08tNzBjYUlvQUt1SmxkdGtfVDJGZ1NDQ0ZvUS1xN1pDRGhGMHBtb1RGX0w2b1RxZXlxU1JMRW42My03am5sdGtnYl9FNldBd1ctbUh4?oc=5",
+          "published": "Tue, 17 Nov 2026 21:38:00 GMT"
         },
         {
-          "title": "Lions' Aidan Hutchinson reportedly confirmed to have torn ACL, ending his 2026 season - Yahoo Sports",
-          "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONnRBM1dheE5NZVc4SmJyRTNsdWRtMWs5c1BURUFSN3V2VVFVRjg0elQ3WkFhamhsUzUwMU9CNTc1enI3amV3N1lITV9QUUpleUhVNWRXZTNCdFdKM3V2bVZOYjBST2FSenhHWGJaY3RaSHpNTzF2bXNhX1l6OUM1MF9NVGFlcFNITVEwZ0F0VGpwbFZRNmM4Mm1VVEo0VFZvODdPVExPa1NOWFN0eVc1cWVXbVg5ZFV4d18ybkUyNVMyTE9iN2JkLXAwdkFBeVp4?oc=5",
-          "published": "Mon, 16 Nov 2026 23:20:34 GMT"
+          "title": "«Трохи втратили концентрацію». Тренерка збірної України підсумувала історичну поразку у відборі на жіночий Євробаскет - Суспільне | Новини",
+          "publisher": "Суспільне | Новини",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdE5qY05xTnZ6b0puUXFDaUwwUVZVczIydUtMY2s0TW50U3FaVnoxQUFkNDhIWkdENmZSRHFMaVdINS1ZczUxTl9rTkh5MTctOXVMMlRxUmFHYUlGZDFjYXFDVTQ4Z1dQVlZJcnE2RDZZOWhJVGxPWk1XbjZWaWtPVTdGTlVoRFNIcTVMLWxDaVFZUnpPaUFSb1dZNW9UU0pwWG45MHpJUHhORTBPZmhGcHRaejhlWkl0cEktbUVfU0puaGlweHJaRUpkVjBtZ3RDMFhLUklfeGVDbE1QMXJLNUJXSXhRelI5QnFz0gHwAUFVX3lxTE91WnB3aGxDcW5jN3lIbE1TejVpQVZGU2Vac0RvRGVuRkNvMmV0cTBBeVlrWVVqODh3anRuTnUwR2U4R1JILThvZkt0M2IxT2xfRjF2bEdYazc1eVdtMVQ5cnlqcTJNWTFESmhCM1RBbkM1Y25hdFdaNmt6OXlBWXdVTlhwWkV1bzhrUlJWRTMyY1JGQnhIcEtudVo3d0hDR0Z1VVVlRmU5YUFGb0pPNkZEV080LVNLOW9qTFdtZzRpRzNLTFFDVkpZb1I1Mll4YnUwMHh1V2kycEdOSDY1OURWbXFWbmF1RVZzU3ljbEFQVw?oc=5",
+          "published": "Tue, 17 Nov 2026 18:52:14 GMT"
         },
         {
-          "title": "NFL Week 10 Sunday aftermath: Bengals AFC's best? Kirk Cousins returns, Fernando Mendoza debuts - NFL.com",
-          "publisher": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXl5VHowc1JsY0ZqMjZWS1JHZGdoTlQ3LURGUEZNUEVaLTVwQkhiQzR4ZVhfVkFRRU1xbDNycWt1M1kyLUdZbi1fTWNlVHlKN0tBVDA3aHYtWGQ1b2dLam11bm5FUGFXSEQyLUMtLU1qRXg2RkRuRERMY3AxZ0V5LXd1X0M4enhSQVBkTE1HMnY0QW1LbVp3LVZVSjJTc2ZGRjBYWF91Q25icDN3UVhJdlRCdmc?oc=5",
-          "published": "Mon, 16 Nov 2026 18:42:05 GMT"
+          "title": "Стаховський розніс Андрєєву, яка звернулася до Світоліної - 24 Канал",
+          "publisher": "24 Канал",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUG1lekZ2LWVEd04waGRLam55WWRMTDZ4eGkzal92TkJ2R0x5bzNMVDUyMUdVbFZ6cHpWdmhjcEgzWjh2OF9rU1h2MVdyT1JsQjYtbXFFX0lZOHplX3RBbWZXVTJXcXBJR1pTYTJ4Tm82Q2ZyMEVONDd5WEFaMWhzQm5kVHpuTjRNLThmRlFIZFQyRjNYTWktMEFtT1lSWUpLNjYtbW5Zd3bSAa4BQVVfeXFMTVdEQk43aWQzbEZJUUtnbzBmamxVLVU5Y1VvNlhKZXFwblNuZTNZdzNCejQxcUdJSnNsNU4taW9wMDRDQm9kYVU5d2pucUo3cWpiQmlXMlFSdUIwMUVmbFFYMXdVZWs5a2J3TUVydzRFLW5tYTAyTnhfUEQ2MXdlR2JjS1ExU3Yxa29vWEpibmxQVFlaUWZMbHZiejJvbGhHTGQyZ1ZXNDkxVDdSOWtB?oc=5",
+          "published": "Tue, 17 Nov 2026 14:32:00 GMT"
         },
         {
-          "title": "Joe Burrow clear NFL MVP odds favorite over Josh Allen, Brock Purdy - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdUpqcjUzdFRIbHF2RTRaWDloOHdtR2k0MG5lTXJoSlY5ZjNkQXU4dVN3Y1U3VUZJUjBMVzlIR1RyX21ubXdXZkdUOXdlWEdlTkRlRnlzMS04Z05raHdidlAtdm9qUzM0Q2NmQVlxSXNJcFREV2RqX0Fxc053bGV1UjhVVVJNQW5hUVJF?oc=5",
-          "published": "Mon, 16 Nov 2026 18:48:38 GMT"
+          "title": "Михайленко назвав стартовий склад України U-21 на гру проти США U-23 - Sport.ua",
+          "publisher": "Sport.ua",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcklsZTB2ZUxkcjJWZk1KcFRrRjhmeDlkVFhFTGpUUjl3VTdrMUpaOHRjQy1seDNjRHlsNXBGa3JSekdWalZ6ZU5qeDlBX05VdUpaWmVSQ24yQ1A4Zm5LMmE0dmxwN2JFMWZFaC1rNWpnOENpR2VJQTVncFpaZ1BFbVNVMUV3YmNFTDI0MmxSelNrbkd3ck1QSEJvNDR2dDRJV3RR0gGoAUFVX3lxTE91WVhtUE9oc2xQc1EwQ0pURmtYU2M3clJjUk9QRGliOTZsajl4TVptVVVvWVVWV3dydHVpckJYMXpYV1Y5dHlXNnFYZTdFenZMY1pFNWdldlNUSEhJRF9PMndKNTFRZl9aU1NFanJOS1Rab2VVTU90U29XcDIyS3VxeTB5MXBXS0hvNmJmdERuME5tc3pXSkF2cS01UWRBNnJXZUlhRjZjdw?oc=5",
+          "published": "Tue, 17 Nov 2026 12:23:00 GMT"
         },
         {
-          "title": "B/R Experts Week 11 NFL Power Rankings - Bleacher Report",
-          "publisher": "Bleacher Report",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzBPYmxMa2JQRGc2cXUtWWZJY3dCUGI4dXM3eTk2YmZpckJUMXdtZDRhU3NPZ09Kem5qVEp6WjVDaVdRdDBMU2ZhS0l6Wk1Ja0h5YVcteVNsMjdMeW85MzBoa3Z1emNZN0ZDRGtsMjVFY3FwV05hamVBT0VFeTItNU11eERKME54VEE?oc=5",
-          "published": "Mon, 16 Nov 2026 18:40:09 GMT"
+          "title": "Світоліна за кар'єру заробила призових на 12-те місце в грошовому рейтингу - Korrespondent.net",
+          "publisher": "Korrespondent.net",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaHdOT3NfX2wyWFprV3hrR202ZmJkVXBOR2wtZ0RvalRSZ3daVUlVMzZvczRGc2J5RHNFaEkwWDYwdEgtRlByd0NRRmRueUd1SWxvRUt4Z2hNUXNZcndnQUtNV3dJT2Zlak1XVFlLS0JfcGh2NXl3d3RTRTVxUWN3akFnY3ZqVXBzLTFQUV9ydS1LdEVfQlpLNHN1YUxMZi1yNTYxZ282MjBHbHJaU3lPSHVTcWxnLVBEc3JTQUNmWFJjYmY00gG6AUFVX3lxTE1pRHU1dkpod0ZKVEJhUUxaX0V3eWp4Sm10M0MtTHpQVkM4clhxbDhIR1ZOYVFiMkxlVzdQWFhEczRQbzM3YW5rZS1VS1dVTnQyMDkxRlRpTUVBR2pEekUtWHo2N0x6Y1hNT2tvUUx3bi1qbDZHV3FmTi1xNllpMGRMSVdHTlVWaXMyUG11dkYwdFZUSko1VmxGYjdIbUNpWDRwcGJGejdfX05WQ2hSWGxKclQ3cmFqaFRhUQ?oc=5",
+          "published": "Tue, 17 Nov 2026 14:26:00 GMT"
         }
       ]
     },
@@ -122,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "У російському Азові горить нафтобаза після атаки дронів – пабліки - Українська правда",
+          "title": "Російський БпЛА атакував Мукачево: жителів закликають перебувати в укриттях - Mukachevo.net",
+          "publisher": "Mukachevo.net",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVE1nZlVTVjZFY19jb0VDUGhicU1OR2gtOHc3MTc4azIzSmZldW85cTZfREtsa04zaHc2OVlVaTBDVUx0NkFZNmpnSERlNnVRczNwUXJNbjdxOUVmT1JGSVZLVGg5WXkwUG1pd1ctTDgzYURTR0t0VHNkUUdnT2w2ZHJGbjF3cl9oWElMaWlDOW9PTXR6RVZuN1hqT1BGX1lVYUNZQzlINFpjeWQwcm00NVg1RXZRVE3SAbwBQVVfeXFMTTFpdlJZMDRaRENMOFZsYXBMMmZhQ0lVWVlrcWp1NFZScWRQcjBJRTh6SFByWWlRR292V1p0cUVrZFpjcFdTYXd0TzJxUW9KdFpHZnNQNXBrRmNFQ3BMamJURHE5bk0ycndTdUlyMVUzcUl1bnlXYzBOS2pacEdKNzNkQmFJaXlNdV9ScHozRG04RHFZdEZGM1d6RENGQkVkR3FWMzdXSzNXOFBvcmRCbVlkbVNmQ0VJVFpPeGg?oc=5",
+          "published": "Tue, 17 Nov 2026 08:21:41 GMT"
+        },
+        {
+          "title": "Три години тривоги та удар по Мукачево: подробиці атаки \"Шахедів\" на Закарпаття - РБК-Україна",
+          "publisher": "РБК-Україна",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUzVjems3cjB1c0M1QktneWFkWGszZk56ZXExT1pVbWNSN2FNVWhpT2ptSEstVDBUUWFMaU0xV19GeUlKQk9XRUFVRDdaVFdqT1pRVnZxZlNQb0tKek1US0lvcU95QWwyTEU1V1FuZmE5c2QwazBEZlhERl9rdEtkN3ZXR0lJTmpyX28xLUl0S3RXbV8wMVHSAZsBQVVfeXFMTXhJeDd0bmFwbEtWd2FVaTF2VHVaU1EtMmY5WFRnaDhlc2VoTjNpOUpYZVRPX0JKNlptdldaSTBHMzFwWHRZTWd1MXB1NjRzUkpEbUtCV082VUczeDFGSHJXQ1A4YnVLaUtiaWtONENlSE5TR05aZW5QSUxwZV85cnpRQlRtTTJOVXR5NWlQNHd3MmhMYWNqSVBGRWc?oc=5",
+          "published": "Tue, 17 Nov 2026 12:01:00 GMT"
+        },
+        {
+          "title": "Над столицею Молдови пролетів російський \"Шахед\", повітряний простір країни закрили - Українська правда",
           "publisher": "Українська правда",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ld0NwZjh1a3FCQ3FlM1Q0UWYzUTJrdE40SlQ5MmtlTHdUQUdYR0lHd0FiTkMyUXJLai1XZ2pWMVotN3VKN3NwY3ZKUWZzWmVGeVBaaExacUdHRTR6Ukdv0gFrQVVfeXFMTWpYaFpTYTc2WTZlNXd0LVdtSlRFcU1sdnpIV0IwajBKSEN1NW54Skw5UWRJNUw4UnhnT2NwVmdoLUMySjkwZy1zZlJKNlM2YVpiNUtWYWtxQVpaVmpOS1ByQ2FTeDJTR3V4WnM?oc=5",
-          "published": "Mon, 16 Nov 2026 04:24:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SVHduSWdvaEJaaDFoUGhMeFFleDVvdUwwcHZicHlQQ0VpNERsWjROMGp4UXlKUExzNDFoRGx6YVVsSm5CMzg1VG5pSXlDZmZrRVNwRE1vdGx6N1pjS19r0gFrQVVfeXFMTVp5Nndaai1EY1BRd1NLd1ZydU94TndEaFBXZmNOMTdzQTkweGVZUUN1cHZ0aWVidUVxZzdfS3ljYTJvcm1wNHY4Y0gxRlUyRWZtVVV3aThHbEFxYVIwbEY0VzRXeXZvZWI1OG8?oc=5",
+          "published": "Tue, 17 Nov 2026 16:19:00 GMT"
         },
         {
-          "title": "Росія атакує балістикою та дронами, під ударами, зокрема, Київ: де існує загроза - 24 Канал",
+          "title": "Від ноутбуків до смартгодинників: 5 гаджетів на різний бюджет для подарунка рідним - 24 Канал",
           "publisher": "24 Канал",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMFJMa2hXeXBvb05QX3p5TXRpRmJZLWc5Sy03eldwRUViWWx4cTNPN2hGODhZYzlYRUpYLWNGSUFBRkYzdWNORWotc2dEVTlKZmo4VWJxVmZDNk5ENzFTd3UtZmRvbUl6bzFYbjk1MFFMRTNWbTIwUnZHdGktVjJOaG1SVmdJNnp4Q3ozTjlDUGRtQWI4?oc=5",
-          "published": "Tue, 17 Nov 2026 01:29:12 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjR1dWVGWlE2TFdEcTQ4RVFEYlNMakV6cFZISm1oTGFmOXdsNGlBYkg3Y3NlbVR6ZG04cndkMUVDSENDbjBOZ3Q0M2J5MEVzLWsxVmNVYWhrRjF2VlFHRkgydmhONHoyMEdFTm0teVRUVHg1elI0aHBGOW55X3VaNGJ2eWhiaUhUZGhN0gGQAUFVX3lxTE1JU0NYTGhlMXRHTDVETUZ3ZGZuczBpWUxPemd6Mm1uaHhoUlF0Y0YwWU0xeVJ2emc4Wk9xZnFOdzJwY3NKQUdKczR5M2thcjFOVWtyOXR1NWR0cjdmdEl3bnpKSG9IbGZRdHhFRUdwNzh5aUR0d1l5Q0xjMmctVlB6OTBHcWZ1WjBCeEp1bmtySQ?oc=5",
+          "published": "Tue, 17 Nov 2026 10:00:00 GMT"
         },
         {
-          "title": "Закривали аеропорти: на Москву летіли десятки безпілотників - 24 Канал",
-          "publisher": "24 Канал",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREFmdzZFcllSLTlaNzRoa0NjZURNZjB2eExsdFlpZmtiN3lNdEpWSENmZmpWUWdrVFRXQkxnMVRqZTRySWR6UzFoZTd5T3lHLTM5c3NjcThHM0VkWDFzbHRSYVA1RWxidzl1eE1ielpKbXZQX3ExdG9zYVJXU19TZDJYeGVvOVBzak0xdzhZTFR0UdIBlwFBVV95cUxOMGFqaWZyN2V5NGpfWURXX1dSUFItMVlrYmZTRzZqRmNlZzRqOXFmWUpfUFZQVTdJOEkxcTdvSmlwdENicWFzeXB5b2FBSkU3aXhETmluYjhBY1pGLWNTQjNIUjJ5UkhMMDhMb1VCQWJtYXVIRUFTeTJkTDVVTjFHOWJzOTdySGJqSnM5czZCU0NHY1Z3QTZj?oc=5",
-          "published": "Mon, 16 Nov 2026 19:04:00 GMT"
-        },
-        {
-          "title": "Росія у листопаді може атакувати Україну в 12 разів більшою кількістю реактивних дронів – Корецький - Українська правда",
-          "publisher": "Українська правда",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15bDdnWkZqaTV2VlpVWGRIVTF6ai1OOWRiRF9ENTVobVJZRXViMVhUc015ZkxTY2gyYi1JX3ZfQW5pREREUmd0WVJ2ejJpRHhpQXF6VHY2UF9UT1RPXzNN0gFrQVVfeXFMTUtSWFdMczd0UTBWb0RnczRzWlphdWVXLUdqNTlUWlU2U3dobm9Oay1CMHFid2QxWmVLejdGeVBrNmF5cnVQT2pMSnBDdGxHOWh4WGlVS1k3ODNLYlk5ZW84cFZyc2R2WEhxYlU?oc=5",
-          "published": "Mon, 16 Nov 2026 13:39:00 GMT"
-        },
-        {
-          "title": "Ілон Маск і понад 160 000 людей підписали петицію із закликом повернути екс-CEO NVIDIA - Mezha",
-          "publisher": "Mezha",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mR3lwNENkRXBST0lrRGlGMmdTWXBNTlVYUlRvaDJrbVJmMVljSnhXbzBONm94eEhLNW94WGUzSXN4MUdoa0l1QXdhRTExclprLUFua1phUWlWSEw3VW9VT1I2MUtrNGdiN0NXeXpqbGp0WjDSAXhBVV95cUxPM3ZYWWg3QlZObVZUR3BOeXk3ZExFS1p3Smt1bEtSb1lic0ZMM2RRdFVCOFRHSHUxcnpGYkJPT3lwMENYRzBMWHRIZDY0eTNWSFAxVHVzVHc0OVpyYXpjQW9aanU5ejhiUllMWWhtaGtwdk82QkllYlk?oc=5",
-          "published": "Mon, 16 Nov 2026 00:40:00 GMT"
+          "title": "У Рівному знешкодили два ворожі БпЛА, які не здетонували - Рівненські новини",
+          "publisher": "Рівненські новини",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDdYNkxsblpfTkxlV0g1eHhBZGZINkVNRE01V3JqbjhKenR1N1FyWVYwUUJVSlRncTZCQVZDU1dzNFh2V0VUdU9fWDRDTFh5NzVhT0I2QWVIa2tTZHE3c2F1X1BPdjk2TW1qTFhzYktKRGh3V19VeFJCRVFJU3hrQ3pmWnFmSVYybDRjeVBUTC1ha0NCSXZkNTJJZXR1dUxE?oc=5",
+          "published": "Tue, 17 Nov 2026 15:13:00 GMT"
         }
       ]
     },
@@ -158,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "European football body’s plan to go global leaves Fifa on tenterhooks - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWdzQXd6TnF0b2VQUmtxcXFJdXNMU3hSYVJJZXY2Wnk4OGp3Q3FzTkw3eDNTMjJiRVcweEdIbWx2d1E0VzVDekxMUGd3bkxTVUtFSVJUVllVZHhmQ1FUOUtfWFJWSmg0YV9kRnBQT1Vyb3BCblVUT01VRllNd3BNeHA1eHEwSVZ6cEJaaC1qaGtOQ3JJQnJ3a1d3Zw?oc=5",
-          "published": "Tue, 17 Nov 2026 02:30:00 GMT"
+          "title": "2026/27 UEFA Nations League: All the league phase results - UEFA.com",
+          "publisher": "UEFA.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSTN1bFB5UWJ6QXdWWkF2X1RHbzlrcGtFd25XVU1YTGZ0TzRud202T3lQcHV0SlEtVkFlaG9mc2E2eVA2MVJ5czRIQi1hY3VXVEt6Q3p1QUpUVGc4ZXBILTJzTl9TaHhnT2l1dVdaZnBSVmJmUnZPYWlSUG9JWG5XOV9zeWtwVGtLb1BzbWQydVBCQi11X20wR2RaRFY5d3pUMG83aGdTV192U241N2NDRGYtMENGX1lOcDF4WmxxZUFmZDRyLWE4WHhQU1BSb2x3U0t1Nw?oc=5",
+          "published": "Tue, 17 Nov 2026 22:44:50 GMT"
         },
         {
-          "title": "Nike agrees four-year deal to become UEFA match ball provider for men’s club competitions - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXdTSktfQURMbktpYlZvUW1YdmkzSWd3eWR5My1pV3NLbjFDQWFsVzk0YUpPQ3QxZ2FyOU1aZGtCRmNjczBwZl9Fbk9xVzJHQzV5bHRvWXZiUTVZdXFpaTBZSnppN2hoeU53VFYxbUtRUjZKTmlDd0tMZjJIQ3ZEY0JKeVV2dGhjd0pkQQ?oc=5",
-          "published": "Mon, 16 Nov 2026 10:00:04 GMT"
+          "title": "World Cup Bounce has Arrived for Area Soccer - Grady Newsource",
+          "publisher": "Grady Newsource",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZE1kS01oM3QtRWl3MXN6X1NYSGR6UmY2UjhidzNHOW1ndFExRWVSdDhTRC01YUZOMTVidVRxMEpCa2NlZDdVelFGQW8zSTBwZjdiQkpZRXZvUHdYQzA5djV3RkxVS3FsME9PbnpPZkhaTzdNa3NzVUMyR2JYcmV4M1R3?oc=5",
+          "published": "Tue, 17 Nov 2026 17:18:57 GMT"
         },
         {
-          "title": "French football chief Diallo to challenge Infantino for FIFA presidency - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQjBNNENHU0d2UmdESE5zYTl6T0ZIMGRxV0tqQWZEMGJpb2luT0xYY1NOWHlvTk1RRlc1d1pjMmdTNlFNOXNDd3NvR04zR056YU5zOF93bWE1UkpIWUltNS1IaFJjVFNsNUVPWHlud0ItTTBsMENQSFZZQTc2eHNmOTl3YWxMYTc5N2VPREhyUkFoUi1IeDBNaGJ6LTYwaF9pMGVNNlRsQ3hWTGlHZjhfLXFNeXg?oc=5",
-          "published": "Mon, 16 Nov 2026 16:24:46 GMT"
+          "title": "French soccer federation confirms Philippe Diallo as candidate for FIFA presidency - ABC News - Breaking News, Latest News and Videos",
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzYzc0NjSWxBSFVja2pCcmkxdXJqSWdZamtpMmVGeXBzYnFXdjFBRzFKV2VzZXNGdjFVQ1FVTXlkTmJDZm1JbmJaaWsxZkhKdlEyTUdvSlhETzJ3WnFfbVRvaWtHU0UxWUNudzZjc3JEb0p5T2NoWWtzaGpjbTVOdXlTal84MHRUTXhCbk01a19JVll4MFc5TzN0OFJfZU9CMXU1cFFkMi0zdFnSAbABQVVfeXFMT08yVlBqUXItcFFXZGNVR3pmV1hkLVBOSXR3dm9uMHRQcU1LNG9fckQ1d3FNSm5kTFRRVTlUN3ZyV3dFSFR1SjJJTUg0d01RSFhCdC1INlp4LXVJdmVvNHZrdFVDT3ZwOUlYQmRwSW9JQjdac2VJbGFUVjNZQVVhMzVIMmtycHNpeE9xbEVoeEs0UXpFaTR2MEJ6N1k5cDdveENxalNTRE9aOXRrUEZmVXY?oc=5",
+          "published": "Tue, 17 Nov 2026 12:00:32 GMT"
         },
         {
-          "title": "France football boss Diallo to challenge Infantino for FIFA presidency - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaG9mUlFVckdUb0ZNbjNCeGszZlVsQ1dIMFdmYjFFNjdLeXh3Ul92UFhXaklsYlFjcmlsREstMUIwMFo4WF85Ny1RVDVTb0ZPODVPSVZjUDM0T3BpekkyXzJaYkdQT1NYNFp1c2VGbHNnczJfWHpPZ29BSnd6dkQzNXhWUEc4cFVqMDNXakhqbDBmcFI4OS04MlVB?oc=5",
-          "published": "Mon, 16 Nov 2026 15:44:00 GMT"
+          "title": "French football chief confirms FIFA presidency bid, criticizes Infantino - Anadolu Ajansı",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2kwM0s4M0FEbUIxTVhVbE5ER0RyWFdEQkxHQTJiNjZ6d2RMMkhnOUJERVNRRnVnN0t4MHJYY3gxWFJzRmZOT2xDTjFreVNRTThwbXF3a3pYcUlNaE9jTW0zSzh5Rk5ROFlGdG9nZnZ6MEE5akY5TnpkaVhIVFBuUTBCekUzZl9faGU4TlpGMEFMY3FDMFQ3OHUzN3FQSFJ1c0tHUzFnc2FHNUdKT0NsaA?oc=5",
+          "published": "Tue, 17 Nov 2026 21:58:31 GMT"
         },
         {
-          "title": "Nike to Replace Adidas as Ball Supplier for Men’s UEFA Soccer Competitions - WSJ",
-          "publisher": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY01ibnJNdDJEbXFyZzNabmNDcVZKZlh2Z3JzazZlaDg0dHJVMEI5VVI2ODNNdVUwQkZnTkU4M1hlT3piZGRaM2x4SlhvSERrUXEwTDlHS3AyTUl1b0wyNTY5amwzeDdsUERWa3lHM0hXX2pFbDFneUhiUFlYb2h3a2VyYzR5dlBxYTZMSl9QeUVsNWhsNHh6aUIyNV9oNjBjM0pST1d0WjNkZlRSdDFpNQ?oc=5",
-          "published": "Mon, 16 Nov 2026 11:30:00 GMT"
+          "title": "France football boss Philippe Diallo to challenge Gianni Infantino for FIFA presidency with UEFA backing - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUUhoYzQ5WGh2Ujg5RGxqVnpkejRiMW1uUHVRVFZDZUQxQTQyRVJBYklkeEktMkwxakpaS2dEQzk5WG03R01jV3FUSnR1RGJUdUpPR1N1Zi1fdE9BbS1Bam9YV3AxenA0OTJxaXVWbTBTVDdDUWtiN1ZmNVQ4VDhfSXNSUkt2OVZqZkl2dU1R?oc=5",
+          "published": "Tue, 17 Nov 2026 08:31:59 GMT"
         }
       ]
     },
@@ -194,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Robert Pattinson Manifested His James Bond Casting 14 Years Ago - The Hollywood Reporter",
+          "title": "Jeff Bezos Describes How Amazon Decided On Robert Pattinson As The Next James Bond - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYm1INU5oTXZZa3M5QTlQbTNlVzlPMmEyaWxSVUt2NHhBRDhtU3c3Qm1CLWJCdmRZcl9nTnJZX1ZjSnNIeWg2Zk9INlRIUmZoa3J1a1BCQWw2QlFtSS1XSDlVM3FiZGtqNVkzVzV2Sm5CeW5laHFBRjAtTWlmak9lNDRMOHJrd2N2V2pFSXNR?oc=5",
+          "published": "Wed, 18 Nov 2026 00:08:00 GMT"
+        },
+        {
+          "title": "‘Dancing With the Stars’ Couples Perform Double Dances in Semi-Finals for a Shot at Season 35 Finale: See the Scores, Who Went Home (Updating Live) - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTduMkJWUThpOUFXSTVoQ0tod2EzN295a01ZTTdZZEREZEtCbS1LR1hxUExMY3ozanEtQ3k3ZEJYVjRLRGtZai1Fd0JWWFJLLXdIWlN5N3NqVkxoOHhXdGhlMmYyOXYzWGRsbExRNWxsc0tNcGhzeGJrX0V5a0tSeGk2SEdyNTFiWnc2cHF4VmNMN1ZLZ1lFRnF4MWMwRmR4TVI2SlNaMzQ3Sk5vLTl2Y1BRQm1Fdw?oc=5",
-          "published": "Mon, 16 Nov 2026 23:49:46 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa25kdEdCdEwwU0lXbmdEcHFDcXB3OUxncGYwbFVyLXhlQWI5SUVRZDF3TnZuX0N3eVg1WVdyZWw3Q0wwUHB5SW5wdE9WRDc3SHFBampvN3ExSlpjQmpZeGxDWmU4S3ZMN1JqMzVFVDNILWFjZHljSVVab1pyRm1qcVVTbWVBVXczd1lWdlFqWkVNRVNUYV80YkplU3RaVzFWdEFKUGF2UkhsN3RmTlN6U3VEZ1hCVlU?oc=5",
+          "published": "Wed, 18 Nov 2026 02:03:30 GMT"
         },
         {
-          "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field - The New York Times",
+          "title": "At Burberry’s Holiday Party, Gwyneth Paltrow’s Son Plays a Set for Teyana Taylor - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndBemszelBDSlhqaWVXRTFTN0pTb2JTMmpxcU1fWS0wbHpfM3dBWHRQOWtqb3JnZkN0ejV1OXU3SkEyblpkazdyX1lvQTBvRmdHdEdfVHBJU3NIR2swajBPMjc3SDU5WjZXaVV2blFSZ2l3YzZCY25ZcWd3S3dxZVRLd3QwQWVscThKRnNRUm9GWm5BRE1ySTlVRQ?oc=5",
-          "published": "Mon, 16 Nov 2026 22:25:20 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTNON0kzVTNJUDJWbEJpWWhZMTdCZWQ0Z2h6R0FXZms0SklCRXltVjlXMENaY2RXbUlkYVFoNFpuZlVwQ1pLWXBIQmJrd1NhS21lMVc1VE1LdTkzaU5oTnlrbjhEblBBdHlXd3IxUXZ3aEpaWm5TbjVlWDcxN3JIWTEzLWNYWllqNGNqYm00bWNlMnYxN0xNMnRLcFZfODA?oc=5",
+          "published": "Tue, 17 Nov 2026 20:04:25 GMT"
         },
         {
-          "title": "Ray Tintori, Music Video Director and Filmmaker, Dies at 43 - Variety",
+          "title": "‘Madden’ Rotten Tomatoes Reviews Sack Nicolas Cage’s John Madden Biopic - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYTVrR3JfV3lPQTJJZFlSVmxQc1hKbk9FV1NLSGs1dGRsWUJUQkNMRGFFMFdKRVJ3Um4xNUFlLWhMeEVfaVg0OHFIUFJEdEthTTN2VUM0M1JFODY2Sm5BbzlVd3NsWXNRTE1NS2tTOVJRS0R3bDAzVEJXSWlZOUFTYkhlMzNHWWpYWXM3RFlXUG5wb2hvLU1qRlhsaElEVUgxenhiWllsWnExN0k5ejZvc0JnWXpZTDQwdVFjUQ?oc=5",
+          "published": "Tue, 17 Nov 2026 21:01:59 GMT"
+        },
+        {
+          "title": "Jennifer Lawrence Stuns as 'Hunger Games Sunrise on the Reaping' Premiere - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdqaGdfdmtLRUZBLTBjVURHLWU1LUJHcHQxbkdadERwcGRLWXU3c0VNOXpydFc2OF9vTDN2a2stb2owYVJiWGh1aGsxM0cyd004ZGRuSFRTZlMybmxOU1prdHEzS2RDaEVHdWU3OTRUdGVaNVV3YXdJMjlFLTZDZHBTcFcySjI5ajF6UVBEUDZtRkowNlNCT3lR?oc=5",
-          "published": "Tue, 17 Nov 2026 01:27:00 GMT"
-        },
-        {
-          "title": "Woody Allen and Soon-Yi Previn's Daughter Shares Rare Family Photo - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFM2ZHNyWmZpR2pvUnU1NlFHQzNNUlNzd09RUzdOUXlJR19UWTdXdldWcEVNY3UtY2dUb2dTOVowWjNSb2Z3cDh0X3ktVDFKQktoYnRWRDlMY2hVZlNobDdYaG1uVnZRUkhkbVc1WmppZ09lVnJYVWU2Skc5U2RzV3NFME5NN2h2MUJpbVRiQXhkb1Vh?oc=5",
-          "published": "Mon, 16 Nov 2026 23:45:38 GMT"
-        },
-        {
-          "title": "Cause of death released for partner of Gypsy Rose Blanchard - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMTRtckowWnhMVEV6YzNpRzBXOEs1c0NnQ1Qtelo5QUZwdzE3bU4zZ1VwTDFMdnQ0N0pzV1Zwc2M1MGthdXV3cERKQWktMllwaXJjdEhKNjQtdERJQXFHYW9pQmczenBvVERVcnhZcWctYkxIZXQ0ckFJc3VIVnZ4dUZHNVFkNVNXZDhFelV6WndDa21DaVE?oc=5",
-          "published": "Mon, 16 Nov 2026 23:16:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0hlX2VROWZ4NjdQT2NjX2xhc1BfOE9PblJmdXVXdHdiWXRJYlY1MWNmNWg5dUZJcUc1MjJ1WEZ0bUFGeVlqZjNOV2ZRdTRscm95a2gwR0I0a3BhSmszZTVDTVlIU2lRX1RMOXdCdUhiSGwxc3Byblp2WkN5MWVYVFh4Tm1CUTJEbHBfbHZHNGthU2JjcFRzRW15b05rN21fUU16OFBQcW1FMTl5TlE?oc=5",
+          "published": "Tue, 17 Nov 2026 00:32:00 GMT"
         }
       ]
     }

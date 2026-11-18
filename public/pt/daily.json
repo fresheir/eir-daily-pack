@@ -1,47 +1,78 @@
 {
   "market": "PT",
-  "generatedAt": "2026-11-17T04:19:30.544153Z",
-  "validForDate": "2026-11-17",
+  "generatedAt": "2026-11-18T03:19:04.113191Z",
+  "validForDate": "2026-11-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Adolescente violentamente agredida na escola - R7",
+          "publisher": "R7",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOERJeXZHUVdSeUhOejdQRmRJQ2ZuNXFMRWtKOXBqaU93ZmRmTndHWUdWS2FKRTJSa3JpSzlfMkVQcVlGOUpnY2FSSXJfRGFteDJWNVpzR2Vfd2d3N2Y4UVoyMTBYZEZWMEprREoySGRLQXJ1RUY5empaa0FTRDIzVFg5MmlMbVpnX2ZTTUpwRTZUbHpncHloSGxiQ1p1RS1hcnh3eWhuVQ?oc=5",
+          "published": "Tue, 17 Nov 2026 14:12:06 GMT"
+        },
+        {
+          "title": "Ventura recua e já não garante proposta do PS para baixar imposto dos combustíveis - Público",
+          "publisher": "Público",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYmdiVUYxck5nakRxU0VxeHNJQzYzUmZ5dUh1TWczVWRqVlN4YWtic3RUYzdPaXBsZGpKdjdkSDFrb2RLRlFSZjZMbVoxbE1nM3FVcUVNVDNlSzFCcmdDZ1VqbWRsOFBQWjNHRWF1R0tXOG56ZWpSeXhZR1FqUzBzLW9fa0NkbnlzdkNnZjVjUXVzYllGLXVSbTN4LTV1NnVGUTlYV3FWQWduRTNram9SU1BGOVVhRFE5SGtwZ3BfU1ZONXNBZFA0?oc=5",
+          "published": "Tue, 17 Nov 2026 18:26:44 GMT"
+        },
+        {
+          "title": "\"Ressabiamento\". PSD desvaloriza Isaltino, que vem \"dividir\" - Observador",
+          "publisher": "Observador",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPemdvMWFKX0UtZDZQRHY5WmlHcl9SVElrNXBJY1JtVWowV3l2dVlsS1JLd0xZZ0xsTnpfNHZmV1l2Ym0tdDd5YVdCbndkSGJ1Mnl1UWtoTV8yWFliaWNMUGVlZE9KY1hVcW1zeEJwb0Q1Ym05TU9pLTd0eE93ZDM0TlE5U0N0NW1Zb3VOX1N0aUNhS0dqVU9vczF2aF9LTUlWeTJjTTB2ZnVQM2tld3NGRFA4OXBULS0zcklhaVZlLU91Zw?oc=5",
+          "published": "Tue, 17 Nov 2026 18:41:00 GMT"
+        },
+        {
+          "title": "Guardas prisionais numa greve que abrange 40 prisões por todo o país - RTP",
+          "publisher": "RTP",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRjFDVGJBWmlXUXBEeF9sVFdub3NOZ1R0eC1IOFo5aTJwV3BsTmVwUlgybWZVcU82RG45cXpPOWFGMTRrNDRPM3BIRFc5RWtNcG9KZTVVTnpvVjljVl9Ed084akVFSDJrdkJGVWtQdHZ6UE5UZ2E1QUV1WHdtb2JmZVgxbFJhQ1RwUHJ0Mmd1SDZMejQxYWhtYnpaWENJOWx0VVhNakswZ1JSV19iWHJB?oc=5",
+          "published": "Tue, 17 Nov 2026 08:10:30 GMT"
+        },
+        {
+          "title": "Laboratórios farmacêuticos traçam roteiro para crescer em Portugal - Expresso",
+          "publisher": "Expresso",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnJINmVrQ1lXZnotOWNncnJjbTVmMXlKWVdyOVdtc3I0UWF2U20tTTZvS1ZsYndMbmpzcGtyNDRNVlNmTFZodmRPU0gxWHU5YzRYZ1VzYkU1YlVSeERRTEVrM2dSLTJ2bFpJaDR5M1hDX2RVZlNoSXNjZC1PUldkQmhLOEVUMG94NVcxQTN0VDF4YUtrSW1vcU9GeXo0R0ZxVlV6bUJMWVJWOGluQy02S1ZrSFp5WlZjZU5PRjVxQQ?oc=5",
+          "published": "Tue, 17 Nov 2026 00:07:00 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
       "items": [
         {
-          "title": "Explosões em várias partes da Ucrânia: ataques russos atingem duas pontes em Kiev - Jornal de Notícias",
-          "publisher": "Jornal de Notícias",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRUNjZzNZX3dqM2xyZ29Xb2FocjQ4aUlIMTU5SWs5MXJqT2g3bVBwWlctOG44UXl1cjdRVVpTNGR1MHU0MFJ1UDNnUUpyUUM5Ri00RTZUQ3V6UFl2VDlvS2tCMThKNWFicUJkWjd3aWRfaUd3LXdEaG44eDAzUHIxRHFNWU5NbENoMTNLSlRRaDRxeWQ5R2dkeDk0U3ZuUjNyNnpRSTJGd3RSYy05YlpBUktIUXJCU1hWem5hWtIBsAFBVV95cUxORjNoTHMzNlVsQUozTG1fRi0zaXo3TmZMSHBfTnFaTVJycnp0VEo3dzF6aDRFeXJ4VEUxYjI5aGk5bmk1Z1V2Q3I0ekU3Mkx3R3FoODdSaXJuLU8tUVJfcWlDLTN1VlVpaEt0b1R0Q3pmXzk2aDY3a0dBNkJqUnRreThjUS1JazJldlR2MGJ2Sk5veUhSekIwVjk1WF9LODQ5OWZral9FUThpbEZSVlJLTA?oc=5",
-          "published": "Mon, 16 Nov 2026 23:51:00 GMT"
+          "title": "Zelensky celebra operação contra ponte da Crimeia após ofensiva russa contra Kiev - SIC Notícias",
+          "publisher": "SIC Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOam9Ra0RJNmthd2hEempmbjl5TWNDbmRFZEFzNDNDbDRIRU1BWkZldUdrSEplS1dhLVpKNjE5ZmhfZkttMHNYaVhNRmJZNVJMdlFjcV9WRkprbXJ3YW50UENYd1h3djNWNTk1SXhzX0FMRXlyZHRZZ0gxcWU0YVZ6R195UWVFdjB5TmFCWkllUFNnUWp6RkZpeW1RbFdzd3N0b3F2ZmIxUmRMZE80Z3Frc3lTdnplVjZnVjdlVklIOGt6SUE3TDR6WTVwUDYzSFRFNE5QZlBYczlEaUhXWjhvT1pJYlRfTmthZWk3TA?oc=5",
+          "published": "Tue, 17 Nov 2026 12:58:14 GMT"
         },
         {
-          "title": "Leão XIV: minha viagem chega ao fim, mas o tempo da missão continua - Vatican News",
+          "title": "Papa desembarca em Roma após 12 dias de viagem pela América do Sul - Vatican News",
           "publisher": "Vatican News",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSFIyaVRLZHpYbmZyMGdMRHUtdlRvY1pycGVVOTY0WDJPRGtYRy1aNHl5ZFVJY0IxQm42UlVsa2JTekxEdktZeWFNc0pXeUt3YkNYcnFvYTZIMFlWdUYwV2hleVJXNEhzQjVMazBfTTNpeFpqUVVWLUZhOTJpRHBMeWh2TFBsYllQcTZEZFI3VjZzREJraDF5U19aUzJKX2otZFM0MEljVjlYVERnQVRwdzM2ZU0?oc=5",
-          "published": "Mon, 16 Nov 2026 16:47:54 GMT"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSEoxRS1jS0FVMFpXVGNFYmRhZXpDdEJVeFN5c0VNZTQ1b1JMWjY1YzRvNGJ1Q01oWkZrUFVDaTZFRm9oU1VKaDhVVXBHSXRsTmthMlppeWlTQjR5NFh3M002WHJDMDBoX3FLM2VGX2E4UFNpdW04Mm1WRmh3VmhtenZ5RTRzS1FQMUI2QVNlVVJaRlZDZlhETGtETGZoTlda?oc=5",
+          "published": "Tue, 17 Nov 2026 23:50:00 GMT"
         },
         {
-          "title": "Cinco países europeus acordam enviar para centros no Ruanda migrantes com asilo recusado - Público",
+          "title": "UE prepara novas sanções contra a Rússia, num contexto de exigências \"absurdas\" e ataques de inverno - Euronews.com",
+          "publisher": "Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2FORDFUN2llcWlfUEg5ODRpN1FXX2Fyd2tzOWg1TzVGajhJT3B3UmRjcllRTFZxTlEtWmczbFBGT2pfb01scDR1Uk13R3QtRE0xT1kydHdnZGowdFdpT25QT1BwOFhyUU10bWY4ZzlSRV9JYWt6QjN4WDNZd3dmZDNZRUd6QWNXWU9QbjFtakd3TkYxbGV5NWRBTnJtUzBGdTJzZlRtYTd6bkVnMFJYckxrUE45bFcyZFhiZEkzZHo1akE?oc=5",
+          "published": "Tue, 17 Nov 2026 12:23:43 GMT"
+        },
+        {
+          "title": "Julgamento de Mondlane: em cada esquina, um polícia, em cada rosto, ansiedade - Público",
           "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOC1HcXhFQldiS0FkQVlaUnVuTWxRaFVWbG9mNWtJZk84WFFGcFowQU84M3ZkbmdtSmhSM0tMeTNDMkVzWThxUFhUd1Z2OWU4X041MDk4dXZSWUtYZGRELUpZZEU2SmVBR1JwUTNPNzhtc2dRcEt3c2g0eXBmd01vV1prbWx4TzJfTmI5TXAyUEFSa1VTazhCeDRISWl4WVZHMm5jTlV4QXhDYzdEMkVqZUZPOEczX052ZXBjM3VSc0lIaW5rWjBzbXZoTVM?oc=5",
-          "published": "Mon, 16 Nov 2026 20:06:45 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3ZTd1FGVzVVMkxxc3J3X21oREVJMy13SDZDZkMwQTdjTmxBOURucjY2VElVX203c2hvb096NENGWW5PWkR1TVB1SWE2dVBva1Y3RVVZZmdnY19wSEJzZklEXzRQdlViSHRwdGVjWDNWYkhzZzRaSDZuU0ZZVHA0RjRYaXFNQWd6X0QtYkVLQmxhY3ppbGJWbFUwNEhyUnhVZ1ZKVE9RdXdDMVU?oc=5",
+          "published": "Mon, 16 Nov 2026 19:05:00 GMT"
         },
         {
-          "title": "Maputo, em estado de alerta, aguarda julgamento de Mondlane - Observador",
-          "publisher": "Observador",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbzN2THowaU5USWRKYlVCS05wbVZma19VMTVCdFE4RUNfQkdFdWEyYUUwUmRpNWthLXE4WnFHbmdvUENHWmpGTzltMnFnVks2ZXNHOHV0OWU3WlFtdVRlekI2cHJJbDIyU2pJSFFGMWgzc1JvcmNuWVJ1V2dxcjdUdGphVnFlb2UtNmx2aHFDRVg5SmlrOVZjeUhsRVQ4THRMTW12UlpsdWtEbkFoZUMyRVFCYlJpUWpxYXBDcEFwZWdmd1hHUGNzWU1ja3A0eThHXzZQTDJMUm9QaXVQcWU2cm1JTEk2a2dBczc0SG9IeElsYWUxYTg0Tw?oc=5",
-          "published": "Mon, 16 Nov 2026 16:45:00 GMT"
-        },
-        {
-          "title": "Trump quer falar com Xi e Putin sobre a Ucrânia e inclui Kim na agenda | Diplomacia - Público",
-          "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdndTV2J5NmRLVWV0RWNWTC12S2lwX2hZdVY5ZWNzSG5ZalFSWjRGc0kwa19Qd2lya1lBdkVMeUU2R190cWQwRzRDZ1VPZ0VQenc2a1RGYWtocl9xelY2ZmdEUVdBRmhaRjZnTzhlaTFWWTMwYXRqY25zWGszSzQ4YzFkLUZTb2tYTGNJOV9JQXpJSEhRbWxhUWpVVnlrMm9ETHliOVhMaDBocjRYNGVxdUF2X1dGLWtVQ1lmSDFKejhsZw?oc=5",
-          "published": "Mon, 16 Nov 2026 18:07:14 GMT"
+          "title": "Estudantes começam a governar a Sérvia: prometem restaurar a democracia, mas o rumo da política externa é vago - Expresso",
+          "publisher": "Expresso",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZVFBOVhLZExLc0xYMjRXZ051akQycnk1dmJnNFlPOGd2R1BqNGdPV3o4d3ZMWU1tZXJQVkI4SVkwUmNrZDh6anRkVF9QaDBUTmY0Wk1yTmw0S0lvVE1vUW9zelBHLXVLRDkzU1pXcTh6TXdKT2p6WGh1NXJfa0YyMTJ3SHBqbm9ZNzA1YVhQNjFoRjdyZTNXc2RUZV9IT0I5OHFTYVVNTlhSUGQyUzVFSXJoWm9wZ25TTXYxbzdQOWEyc2RRTEhQb180M0JtaGdpQ1k1Z2FPTVBJMl93aWgyNjBfNzhiUFExS3Z3?oc=5",
+          "published": "Tue, 17 Nov 2026 11:34:55 GMT"
         }
       ]
     },
@@ -50,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Mais lucro e ações \"baratas\". Mota-Engil dispara em bolsa após JB Capital subir preço-alvo - Jornal de Negócios",
+          "title": "\"Seria uma honra\": Jensen Huang disponível para voltar à liderança da Nvidia - SIC Notícias",
+          "publisher": "SIC Notícias",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON09iU2tlczVMN3FRRzM1U3NPemJ5YzZ0c1pXTlZrSFBFNG9DUlFHNUNqb0RzbG9EY0J6OWVoc2VDU1BKUzZzVzR4eFluUTNyMHhYVC1iSFVuQ3FvMHUwUFM1U251cDh2d2dGTWlVMkRHTWFhVm5NTGEtWEVKRkIyVnNsRXJqMWlxN2JPUlVGcGxIdVg1ZXZTV0dvejNGU1U5Z1lMRmpRaWNSTzBNOUpZMGVVNThJdE84WHpmUTB5WmU0Q1NV?oc=5",
+          "published": "Tue, 17 Nov 2026 17:40:43 GMT"
+        },
+        {
+          "title": "Portugal tem a quarta maior contração orçamental da Zona Euro após fim dos PRR - Jornal de Negócios",
           "publisher": "Jornal de Negócios",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOGg5X20xUGtsckZ1NkVYUFFMU2J2WllTakFMTkVGY19fS1JsWlYzYmZyRDE3RGtEelVMZ3U3MjB5MUdKN1FiYU41M2kzUkJUaHNmT1huN0xwVmJxV05Mbm9VLWtTMUtMcl85WTk0bF9FV1NrSXFEd0JoUGgweVNaWVBWZDVPX1pBTWVfNjNWeFpFTWt2WnlCalYxTy1RYktjX2FpS3BFbEtjWGduejAzZE5UTzhaYUd3a0ZiWXJzYkgzSjZFNDQ3VEthcnBTNldlOHR2ZkNuWU1ndFJNZk4ybDFOUzZxUQ?oc=5",
-          "published": "Mon, 16 Nov 2026 12:01:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON24xZkJuRHZYbjlVVFZtNDJuUm1kLUNtdjhfYkxqMjUwREI5VDRDVWxGX01Rczd5b0ttenZmMmJ3aDhKV1BWaDZiMlRCb1VINDBMV3VfVDg1dW1rVGVRRTVmNVdDeXRHX0dsLXRaV3dOTEJpS1hnM1g4XzJ3cjdwbmhPeVcwOWpUTEhIT2pOUW05ZC15YmdGcV9MbUpTRkkzQ0FTNXRIWmxfenVBQ1l2bzdienBiSk53TXR5R0doTlJ6Z2FYbUhyMjY2NWVxeERId1d2ZGNUQTZRb3ZTVnc?oc=5",
+          "published": "Tue, 17 Nov 2026 19:38:00 GMT"
         },
         {
-          "title": "Montenegro sobre investimento belga: “O CEO da VGP esqueceu-se de destacar a especial proximidade a Espinho” - Jornal de Negócios",
-          "publisher": "Jornal de Negócios",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSUo4NmNRMjZwb3MycmxTd0tJM3JIX2RNbldEMW9qX0ZhbGpXcDQ2LTA3eEg3SUFFMWxlbm9SejdJUWV1OHhkX3gxa2E1T3ZXOEZIVTNzS0tsR1lhOXZNM1dRNXhaTU5qOEtCMF9MVXVKX2dZRk1VcVA3d2lNQ3N1N0RZT3l2WFdiN0xKMEhLUmV1eDBKTnFJLXVicFRsVFZ6amVMNTU0ekxvVjJGUkNwd2JvSC1LRTMtb19fMVVfcGExcVlTaTdQNl9wa0NnTkpHanNtaENPSDVLUkthNzUweUhvaEwxVC1fSTRKbHlNUFlzSmp1R1Zn?oc=5",
-          "published": "Mon, 16 Nov 2026 13:58:00 GMT"
+          "title": "Anthropic deixa Portugal fora da venda de ações antes do IPO - ECO",
+          "publisher": "ECO",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUw5NGx2bXV6RmdJbzg3NHhBUnZoZmZNX1FqdFRReVlEZ05NZmhWNm5nNnFLa24ybTM1bTMyaEttR3V3SVBNMURYeThqMFRBTUotUDRtN0E1aUFtOU9FNlRPUVpRNEtwMlhWZWtqa1ZHSkNwY1huYXVmWUZydUVBS1ZqRkpOTlp3RU9pSlBnTmU0XzBzOEZz?oc=5",
+          "published": "Tue, 17 Nov 2026 07:05:24 GMT"
         },
         {
-          "title": "Banco de Portugal põe administrador Luís Morais Sarmento à frente do Fundo de Resolução - Público",
-          "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUVScVhYd3JfVXljQkVZS1Rxd3R5WjlFcTdtdm1sdC1kVWY5R1FUQnlhV19iUndDM0VaQmtpM3huY3ZNYnRmSnZJSldHSHpBQ3dORGlXQmxOeURTWmFPZzZ3aUFaTXpvc19rUWxsQkhIYjg4aU95ZnFLekE5OVEzc3RBVzAtWHNHUU81blhweE5qSndDeUxMY1AycHN2U0ItbUhPX2FyZ1g1Wm5IX2hteHgxZkNHd2QyYWJLTk9HY1RyRmNGdTY5ZktGWEdDVzZs?oc=5",
-          "published": "Mon, 16 Nov 2026 18:43:29 GMT"
+          "title": "CEO do Deutsche Bank reage a fuga de documentos: \"Não sou infalível\" - RTP",
+          "publisher": "RTP",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVRTXzJpZ25hZE5xbVRscHBrLXp3bGhCZVU2YzUxalg2dkN4MWh5NUpfYUo3cER4SmhVS1hNNTFEX01EbWpTbmJndUVXNXNMZXA2Q0plV3BWaUh6ZW5mV2ZvWGlFUmoyck5NWDNxTTY5SzkzT2NfMkt1VzUzRWVrX1RpUnhNTmh1NS1Ja21ocVROTDdwNEU4Zm0yNVJ5aW93cWlDNG5rSGtleVdk?oc=5",
+          "published": "Tue, 17 Nov 2026 19:02:55 GMT"
         },
         {
-          "title": "Wall Street no vermelho pressionada por \"sell-off\" tecnológico. Nvidia cai mais de 4% - Jornal de Negócios",
-          "publisher": "Jornal de Negócios",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbUtyQko3VGRXb2loSEJPNGRzaWJsazF6NXF6VEdRVlhDaXJPV05meURUVGVNR1RoSGFvYjQzbHhzbU9nTm1hV3hjS0JvSHdTNlBnYmFvUzVVWDdKVlBURS04aEZXd0JPd0RHMmlNSFZJUTZQTFlYQkpOQmlsSDliX1ZwTHVtQWJNN3RIZVY5VmVYak11RnVrR0VLZ2d1Q2I5blBlN1VVMmExTERJUGpVYXlvTXpQRTFLTnltclIyQ2RfZF8yV3pjM2JxUjZweWRmbFHSAcwBQVVfeXFMUENISTJodmNFNVVwbVdjTkNYaW9QWkluakhtbmJucGlILTBiMjh6aEI3ZGxsWEQ0VUJRU0tGRXRsdExDNjhrc2xDWkpwa0xxR2hOTlBxVjhSeW1RV1BkOUprWUVocFFhQl9uejZZNUZBWnpLV3U4UFpYeklweDN4WlpNbThTZXdYNTVjZFF4ckgweWo1TUZ5Q29ad194YzVvTEphS0M2eDRlMkl5RHVHS0hpVVAxMUdVeDdoQ2YzdEdUTHJKT2RZSXVyS000?oc=5",
-          "published": "Mon, 16 Nov 2026 21:16:00 GMT"
-        },
-        {
-          "title": "Reforçar poupança para a reforma \"é uma questão de inclusão e de justiça social\", defende Maria Luís Albuquerque - Expresso",
-          "publisher": "Expresso",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT3ExWkh6MlRnRzI3ME1KOHhwTXVyVHRpV3ZlVHBoeE9XTlRSWTRxWldhMkVFUkl6aXZ3dEtvakFCVVppWDloMUtMMHFLWk5idDM1cjltMVI1MmpkV08yczZIMnhTbGNRc2tBZmRNTVJMSWhVWDliWWVxcXJmTkpIMzVYVVdnV0dJVERVMEhKVkdwN3BJMEdhMFFTOUE0Q0pWSjVQM0J3a1NaMk9aVmx4MWRzVjZyYWhqUHRWdW9iV2p4SHhKRXFUUU1jOFNET0RGWmtEZHh0SC1BYllxUk1OY1dKWTliQk9XTTJrcno3S3BjT29nZnEyR2hEYXpfSzVlSjdjbTl3?oc=5",
-          "published": "Mon, 16 Nov 2026 16:47:54 GMT"
+          "title": "Euromilhões: conheça a chave desta terça-feira - CNN Portugal",
+          "publisher": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa0x3NzQ0NkpwblNOSWFNTXgxSXc1cDgxNXRQWmdpakliZDdSa3hCVXc5eS1LbXBYNGduZ2xaQm9nMDhJVHNnckZFbmtlMjFSanFjRXEwSllERXNJWHdFS0h3QUIxM3l0Y1pUNWpaU0ZEYVdwZEdrYlU0bTFsYWpaNUVySjdBel9jOFVEUGNOVUdaN091V2lTZ0ZmUlBtU0Rmd1FpRk92bFhPbms1RXdGeUxlS1lsclJvU3VOSlFONVJVa2RaUUVadlZBZ3hET2JjMmVjcEQzWkdiUQ?oc=5",
+          "published": "Tue, 17 Nov 2026 20:24:44 GMT"
         }
       ]
     },
@@ -86,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Empréstimo do FC Porto supera as expectativas - A Bola",
-          "publisher": "A Bola",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQzJRc0R0bkJmS0ViZ1pjSFBFMEFGQ3g2bWNlcVhFMEg4YzhrVDJRLTJkdHlnZnZEQjdyYkp0UVpGa3FxVm9scF9mcGZ0ZXk4eHhQVUEtOEpGai01c0czaU1GaVJBS3hNdEI1SDJzeWlkOEJQYUNVbXNuN1k3TXdGVkxvaEV6Q0lfZVZtVXZrTGRjZlBPMXJVNmVfdw?oc=5",
-          "published": "Mon, 16 Nov 2026 17:09:00 GMT"
+          "title": "\"CF7 com a camisa do CR7\": Carlos Forbes salta do banco e dá vitória a Portugal em Cardiff - SIC Notícias",
+          "publisher": "SIC Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSmo2cWp0NDJuQnpZUWJqYWlfRFdseVcwRmRudDJMeGdCcmNFOE5jc0dCbk5wam1XaDJGR3ZERVE5QlV3VFlYQVNfcEZRcEVMNTBtbkt4Y29fMU1GcDd1cGQwVVVHUXBvZ1hObkFxNV81ZFJBTnc0M3lGRHczeDhWNl9NZ29TXzRfYmF3UVdMclNGb0tzVlN0bGFwcFNSTjJuVDFRS1NMWGt5U0lHUHEzQzNNM3lfOWVtTGtQeTRnSmowX0hHeld2OVdPSjZuRUwzZFNQdC02Y2U5QVVwLW0xUmtYanFYXzRu?oc=5",
+          "published": "Tue, 17 Nov 2026 21:37:23 GMT"
         },
         {
-          "title": "Jorge Jesus: \"É normal que jogadores como Bruno Fernandes, Bernardo e Vitinha não fiquem felizes quando não jogam tanto\" - Diário de Notícias",
-          "publisher": "Diário de Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa19QX0dteVR2bEh2N3BWMzAzcElwbnV3S253OEJVak95aFBYN3FSMUhOYkZOemhDTGRFVHkyRXY1Vy02TVJjSDZ4ZlVZRHhYRGRvVXBrX0FMYXJOUlB3UDB2WHJBU0kydWI5TkxRWVk1THFQN3RLNmptN0ZjcjVsM1dqZjJkSldpY1dXUkhlM3RKMkNWc1hTYUNyNEN3OFozaUFWX0hrZVcxRW5MYnFsOGtJN3hfUkNMUFRjMVZhVDM0eWdGUWVfU2FBajljUTZYLUE?oc=5",
-          "published": "Mon, 16 Nov 2026 17:15:06 GMT"
+          "title": "Só tem 17 aninhos: o grande talento comparado a Yamal voltou a fazer história nos sub-21 - A Bola",
+          "publisher": "A Bola",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbnZFYWI3TFZfNjlOUm9JSEVNV01CcUU0OGFuOWhyWHZGNnpzM3FpQzV3YU1yZE9tUGQ5eGRPZWlWQ3Z0TFlpeFRzSk9RMk9pdDF2bExETE5LeF9MMHBPbW90c0NzOTFPX1lrNTdMWkswNnhyeE5SU3FoNGI4NnU0NWxhdk43aC0wVHQ3QjNqWDdWN3JRZDBLTUdHSU1peWlIa2QwbUNaRHEyS3RDX0ZKdXRHQ0lYd1RMNmhMQk9oekw1alZiUE9rWjNrU2gtYUY4YTZF?oc=5",
+          "published": "Tue, 17 Nov 2026 20:20:00 GMT"
         },
         {
-          "title": "Sporting não abranda na Taça Intercontinental e fecha grupo em grande - A Bola",
+          "title": "Sub-19: Portugal cai na reta final e deixa escapar liderança do grupo - A Bola",
           "publisher": "A Bola",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNmI1TUtDSnBlSG1FaFZGd3Y5UjF4TDBRQ0lIdHBwZUE2VEN3WlhKRGZqSVlWTDVBN0JHUmFJZjhvbjlPeGxKUmx4UEhYVVVvWk1tTTVhLXA0d1hUbG80OU1MZVdySlBWZVdNVVhBSlgxdDdUZHp2eS00Vmw0UlBjYnNVZ2hwUndNMXhGODFwbndDQ0dDVDlYTXV5QlNMdFhDZFpad1UxY0liYUNaSFAtVWlmX2dkczNMVU9j?oc=5",
-          "published": "Mon, 16 Nov 2026 22:12:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdi1vTEh3S2tCM3JaR0RyYjhWTzZBUmJqU1Z5QXlQcHBxY3AwMk52VlpsYnFoR3htVlNaLXFNVFNvRGJJUFM5azhvRHpSWHJaSTVITWpSSERZQ3ZyQnVBdm5sb0gybmh0SkV5RG9RNnhwb0I2VUREbnlBVU9qbVVncWFJTGtPR1JDYWY2bVByeV9WU0VkdkFvaUN6cTNOTmtHYmxWSUhvZjF3dVJHeG1YbXZlQmVKaEpYVGc?oc=5",
+          "published": "Tue, 17 Nov 2026 16:56:00 GMT"
         },
         {
-          "title": "Marítimo no gelo, Águas a ferver e águia escaldada - A Bola",
+          "title": "Um viking e um miúdo seguram Benfica firme na Europa - A Bola",
           "publisher": "A Bola",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbUxCbEJYc2xmOGdPYVZxWk40LXM1OVhLRUhQYTQ3YmVfOWNqMnc2NW5KSkI2UXprbkNobXFXS1IteEttZjNZOEdiTU56a3ZyNmtOTGk2ank2TXlRLWtYTHMwTVVDQnZ5akVUaFIwVDFCRlZHQ1k5dWlfLTBPWHJ3MWtuMGdyeGpieVhxTFI3MjJoRDZEaXNQMExBOFNvRGVT?oc=5",
-          "published": "Mon, 16 Nov 2026 22:56:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWHBROWxKb1RUN0lMYzlESkEwam5XZmxoNjhVMHpaYnhpT0NTRnJtSV9jNTlYdkU2aTlxMTY1bTNXZHJocHlDa2FISVRvc3Z0N2x5TTFYRHJiWUhnZzkyZDdtX2NSaVVNTGFLc1ZHZzVkWllWOWJZMW54Q241dGlDcy1kcU56M3hyQmVreTZ0R0Rac1h6NXo0bzlTYUNwSGh3dlVlRw?oc=5",
+          "published": "Tue, 17 Nov 2026 21:24:00 GMT"
         },
         {
-          "title": "Direto: siga a conferência de imprensa de Jorge Jesus e Rúben Neves - A Bola",
+          "title": "CAN: Guiné-Bissau mais perto, Cabo Verde mais longe e treinador português já lá está - A Bola",
           "publisher": "A Bola",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUVzNW1vb3Y2V29qM3hTMS1VQXhfVGdXM05Mc2NlbjBjMlluckRweXlqdUgyUjl0RUZJSzBEaUFyOFJWdmRQRG5xNTM4bWhET1lBYnNPN2wtdXQxUVA4eWtwdWlKRGtlbUJvbXVBcmJXalBGOWNtVjEzMDVjY3RsZ3VBVXhoVy0tczI2M3g3QU1vcjJyT24yX3dNTlpXd2FMVWRTQlVKbDhkQnd5bmEwTXh2eFhBNG8?oc=5",
-          "published": "Mon, 16 Nov 2026 15:50:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOODB1cTI0VXlrRTYzcW5Zdzd5aHI3bnR1QnduTjFVMHZKTDZkS0t4eG14MUVQaUZKUVRsTFNmYlpLTGFDTllWR2lGS3lyajdqaXVuRVFRRFgxdjkxN29Iam9ZdjczZFV2dVZqSVhRWWpVRUdnXzU1OGhxZlZidVQ1Z2c2Q2pWaTBpd3Y3VW16eE02RjdkeGVQcEpZVk8yV1g0SS12aDF1ZlZuREREaHpTYk1BRWtMU0h4amJXWC01NjZubXktd2dfRVZvdUQ?oc=5",
+          "published": "Tue, 17 Nov 2026 21:29:00 GMT"
         }
       ]
     },
@@ -122,75 +153,106 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Ataque informático à ASAE usou imagem alojada noutro sistema do Estado - Público",
+          "title": "A IA entrou na linha SNS24 e está a “tirar do sério” doentes e enfermeiros | Saúde - Público",
           "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3ZXeWpFLXUyY2ZlaDlrNjRwS3hTU2JiYm1ZNk9BYnlqWUZXcGxtT05sV3lORTBERmprUDdSdXJtRERoaTFsSGRYOXUyd01BaXVLemRTQktiTkM3X0MyUVpiUXQ2cFF2blZwQlNBaEJZSF9wWUVJODNUdDNPdDVyYVRwaEhERXNReEFaRVowaC1xWWNST3ZoTHc2cjkxWERfOXk4N2gwdklwYV9YZFVJeEstVnJ0VGZZV09JM0xR?oc=5",
-          "published": "Sun, 15 Nov 2026 23:03:31 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0RhTlRQMEVxVVY5Y2Z4WXdVSVhqd1V3RGc4dlFFeGpROUd3UHlFeGQ0R0N5cGZKRlhtLXNsTHZBZGlnTlNid3htMUR4czgtX3NQWkE0M2lRa3FaR1Mtd284MWdwaWxTdlNvMGhsMHo4bE5xSVE5ekszd0FDd2FiS0ZpYXFVWkg5U3NuRU1RNE5ObVRfXzZxTW9VNUpfTUxGNEpqX1JjendwN0ZTam1sM29pVVRRbUliMkRxeUFDTk9xYW1wOXROZVBDWk8zTnhhUGlqYkd2NUZva29VSVl6MWxR?oc=5",
+          "published": "Tue, 17 Nov 2026 06:45:00 GMT"
         },
         {
-          "title": "Jensen Huang discute o regresso à liderança da Nvidia - Correio da Manhã",
+          "title": "Nvidia duplica lucros nos primeiros resultados após saída de Huang. Empresa rejeita regresso de ex-CEO - Jornal de Negócios",
+          "publisher": "Jornal de Negócios",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMm9BNU9ON3hBbW1YWUstQzFNNGpsYXEwaENzSEE2VGF2dG5VYmpkQzhTZjVNWHFqSGtmd09tbm1jazVtcU9hcl9fdkdfTnA1RDk5S1VvSUlyU1dfbUVnSnRGUERrTGg4eXItNjlKbTVocmd4d2tVNXpNNGRrYVVpSEZURWZuMFkyN25UTXdVUGgxaEZiUzdCS3NiRGgwcS1XeVRQRzlzeGs3bzktaDRXYWZ4NFl6dDBlendIaVVqTEcxWEJubWlkNGduUXJreXQybktNTVFnTnc?oc=5",
+          "published": "Tue, 17 Nov 2026 21:23:00 GMT"
+        },
+        {
+          "title": "Milhares de utilizadores reportam falhas nos serviços da Apple - Correio da Manhã",
           "publisher": "Correio da Manhã",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9CTTcwMTZ2WEU2eTZsaHJxUVE1R3hiRlpJWHNxNXV3TDZZcVBtZVptSVFRTVFSXzBDWkJ0bjN6VUlTSV90b3dHeWlrZkxXaHpuUVJia296VnhOaWhCanY1VDMtb3lUaVBrbDBRSDBpUXRXdnh6TFZlUjdDNXVCa05vUzFBUWFtVk5taHlmMXpVdVBB0gGPAUFVX3lxTE9pUU9kSFJYZFp2MUZMNDFpOVlueXFFRVRmUVNKSWlqTGR0SzVyX2EwUllqNklSZ2I4UWZoQXBaT281ZnJGOHVIaVh0aERrUjhGdldsMlM2QTY2bWZiMXNrbUVSbXR4el9kcUN4TDJmVmhJS1Q1N1E5cnhjV1E5aElvSUtmTk1RQllZY2dDUjVz?oc=5",
-          "published": "Mon, 16 Nov 2026 08:21:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb3R6dW9rMzBPMGt6UXFDeFRJaDNVakE5ei1jNS1GU0JQOWR0WUc2Y1BzSmRTUENLX0JWU0l1V2EwRGlxbzdvSjdIazdpaGpMSmhBUG5yMkpPcVlsSEtRZVRXWlZzSERrMmxqUlN0QmdkWTVNVmtOX212NXlyR2xHRFRCQ3F4TDNFNkRKMlFOSzFIeXJTR3N5RW81TE11Nlg4Mmdtb1Npc1HSAaMBQVVfeXFMUEVZdXMtMEU4MDBKaFBiMWZTMWlxZmZhZmtlQWhZSmVTWkVnbjRxTDZkRE1PMVY0Q1RaMjE1VFpyUlBXQzNXTXRtUEdNNGhfd2NmRm1KN0RfNDZVOHVFRExQMzhWcWZnaldBb1FZakx1ZkJqUGtKMmlEUHNMU0N0ZGdMbGNnTnJOOVpoMWRIMFRCN2l2NFdzdU9nZ083cHRsZkJXdw?oc=5",
+          "published": "Tue, 17 Nov 2026 18:21:00 GMT"
         },
         {
-          "title": "YouTuber conseguiu hackear um carro em 5 minutos com o Claude Code - Pplware",
-          "publisher": "Pplware",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWc0NmFSdVNmckY2UjZ2Q1JqamhIT0VwTDduTTdxTnBpYXVOazN4SXp0RXNMek91NkZYNGJuRXVObGV4ZVREc0ZlVUpOcm84eHZQdzNtVUctbHNEeWMwVkZqV0RqVzQtMkk1SDNIbFRudTAzOTZZNXpmdFY2WV9WREJOR2ZudXRsei1tVFBDNzd5Q2hnekw0TmZPd2ZyZFpxVV83aFlja2V4WXdOZ2lRZEktTlAtZ9IBuwFBVV95cUxQQU1rcXREdVU2ZTJtRmp1dnNUbXB2Mmt5OGJLaUlLR0hEY19MeDJOVHdscmlnRjc3ZjBNX0lpM3RQd1VqZ1NMSk1nOFhzRDJtM3g1eEJrUWkxYXhtbjJQZWlCN2lKMWstYjI1akxaWEo3OThFRlU2NUFHU1J2OXBjN2hDQnVFQmNRWFRBVXJ5RW5UeGwxT3p5S2tVSVZiVDlmWjdTYXpkWUllTDh1R3NOOHZjbm1TS2dORWtF?oc=5",
-          "published": "Mon, 16 Nov 2026 09:30:00 GMT"
-        },
-        {
-          "title": "As novas vítimas da IA são os tradicionais menus escritos a giz e a caneta - Público",
+          "title": "Xiaomi lança telemóvel com segundo ecrã e máquina de lavar roupa com três tambores - Público",
           "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTgzbG1rTm1OV3hKbm5yaVJXUjZzZWlCODVGa25uS053YTlIRXVvSm9udDcxeHN1aUxXLURialFkWG5mQUlwd2lVc1BuSUJneUltX1AtUE80TDJ2ZGlkck1TME9YWHgyS2QtSEZTeFRmMmoxX0llRklKa3czTE9vVUZsdmNZWDk4bjFmSFR1Zm9XTHA4Q0lFLThLOGVGY0FORzNaaDNtZV9TREoySnhoRjRB?oc=5",
-          "published": "Sun, 15 Nov 2026 07:36:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGpRNWVtUHlkalJFeVY4b3VkejhCdzZpOGdnOEU0TGlhaktkMVNJZ2tvRFVzNndXWWFYaVdZSnRzaVVWdjFzcENlU0tVSUdjV0xTSVRxa3FVZ3RTczd1cHM3SnFUN1BjTlM4dUFnRVVRQUlLU1JSWkptSnhlb3cyNDl3aEwyRWd1aVZtRU82dkxvcWw3TTRsczlUTnl5cXlQVDg3eHoyV3JaVHVnLUtUaEM2eE1TYjRxTks5YWVaTHhlOGc?oc=5",
+          "published": "Tue, 17 Nov 2026 18:09:30 GMT"
         },
         {
-          "title": "Califórnia processa OpenAI após incidentes com agentes de IA - Público",
+          "title": "“Olá, lindo.” Mulheres geradas por IA fazem juras de amor no TikTok — mas só querem os cliques - Público",
           "publisher": "Público",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkxNbHYxNE9lTTZIaUhfb1FBdzZzQkJwenJpYTlxSnpqekNLX3NINGMzOUd6OW5wVWNfNXA1YlV2TzFTQWxyXzB5bWdsLWtUVjFsVlYyaFpuTnFmVTZiSk92UThHTlhnUi1JX05wcDNienV3UTdGVVV6UFEyTTRNRjhwVjZmWkRUTjlKVGVvbFZhaWxZc2dUQjdHZmhFb29xUmJxanpJb3dwWHJ2WEE?oc=5",
-          "published": "Mon, 16 Nov 2026 20:48:17 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZXNtREVlNjBibkVDcHVzQndTanhKZ2hNLWlIVkFDNHcxTGJSTTVHWE9PTGI3SllURXZnZUtSZmd0WmZsRWNQbXVwdU9EM1F5eGtHcURuOVRTUWhHTklpam9hNVl4eEdiUzlDUl9lRk03eVFucVNramhxa0RMampNQWlBaHpreUFLT05nYlFBU2QtRGV4a25pc2lxV1ZuOXozOHRfWTI4YUtxam1jT1FicTVmSEtxcHFIbUVwSFJ2Tk9uX2tFZWZjdjJEMEQ?oc=5",
+          "published": "Tue, 17 Nov 2026 16:56:03 GMT"
         }
       ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "2026/27 UEFA Nations League: All the league phase results - UEFA.com",
+          "publisher": "UEFA.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSTN1bFB5UWJ6QXdWWkF2X1RHbzlrcGtFd25XVU1YTGZ0TzRud202T3lQcHV0SlEtVkFlaG9mc2E2eVA2MVJ5czRIQi1hY3VXVEt6Q3p1QUpUVGc4ZXBILTJzTl9TaHhnT2l1dVdaZnBSVmJmUnZPYWlSUG9JWG5XOV9zeWtwVGtLb1BzbWQydVBCQi11X20wR2RaRFY5d3pUMG83aGdTV192U241N2NDRGYtMENGX1lOcDF4WmxxZUFmZDRyLWE4WHhQU1BSb2x3U0t1Nw?oc=5",
+          "published": "Tue, 17 Nov 2026 22:44:50 GMT"
+        },
+        {
+          "title": "World Cup Bounce has Arrived for Area Soccer - Grady Newsource",
+          "publisher": "Grady Newsource",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZE1kS01oM3QtRWl3MXN6X1NYSGR6UmY2UjhidzNHOW1ndFExRWVSdDhTRC01YUZOMTVidVRxMEpCa2NlZDdVelFGQW8zSTBwZjdiQkpZRXZvUHdYQzA5djV3RkxVS3FsME9PbnpPZkhaTzdNa3NzVUMyR2JYcmV4M1R3?oc=5",
+          "published": "Tue, 17 Nov 2026 17:18:57 GMT"
+        },
+        {
+          "title": "French soccer federation confirms Philippe Diallo as candidate for FIFA presidency - ABC News - Breaking News, Latest News and Videos",
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzYzc0NjSWxBSFVja2pCcmkxdXJqSWdZamtpMmVGeXBzYnFXdjFBRzFKV2VzZXNGdjFVQ1FVTXlkTmJDZm1JbmJaaWsxZkhKdlEyTUdvSlhETzJ3WnFfbVRvaWtHU0UxWUNudzZjc3JEb0p5T2NoWWtzaGpjbTVOdXlTal84MHRUTXhCbk01a19JVll4MFc5TzN0OFJfZU9CMXU1cFFkMi0zdFnSAbABQVVfeXFMT08yVlBqUXItcFFXZGNVR3pmV1hkLVBOSXR3dm9uMHRQcU1LNG9fckQ1d3FNSm5kTFRRVTlUN3ZyV3dFSFR1SjJJTUg0d01RSFhCdC1INlp4LXVJdmVvNHZrdFVDT3ZwOUlYQmRwSW9JQjdac2VJbGFUVjNZQVVhMzVIMmtycHNpeE9xbEVoeEs0UXpFaTR2MEJ6N1k5cDdveENxalNTRE9aOXRrUEZmVXY?oc=5",
+          "published": "Tue, 17 Nov 2026 12:00:32 GMT"
+        },
+        {
+          "title": "French football chief confirms FIFA presidency bid, criticizes Infantino - Anadolu Ajansı",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2kwM0s4M0FEbUIxTVhVbE5ER0RyWFdEQkxHQTJiNjZ6d2RMMkhnOUJERVNRRnVnN0t4MHJYY3gxWFJzRmZOT2xDTjFreVNRTThwbXF3a3pYcUlNaE9jTW0zSzh5Rk5ROFlGdG9nZnZ6MEE5akY5TnpkaVhIVFBuUTBCekUzZl9faGU4TlpGMEFMY3FDMFQ3OHUzN3FQSFJ1c0tHUzFnc2FHNUdKT0NsaA?oc=5",
+          "published": "Tue, 17 Nov 2026 21:58:31 GMT"
+        },
+        {
+          "title": "France football boss Philippe Diallo to challenge Gianni Infantino for FIFA presidency with UEFA backing - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUUhoYzQ5WGh2Ujg5RGxqVnpkejRiMW1uUHVRVFZDZUQxQTQyRVJBYklkeEktMkwxakpaS2dEQzk5WG03R01jV3FUSnR1RGJUdUpPR1N1Zi1fdE9BbS1Bam9YV3AxenA0OTJxaXVWbTBTVDdDUWtiN1ZmNVQ4VDhfSXNSUkt2OVZqZkl2dU1R?oc=5",
+          "published": "Tue, 17 Nov 2026 08:31:59 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Robert Pattinson Manifested His James Bond Casting 14 Years Ago - The Hollywood Reporter",
+          "title": "Jeff Bezos Describes How Amazon Decided On Robert Pattinson As The Next James Bond - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYm1INU5oTXZZa3M5QTlQbTNlVzlPMmEyaWxSVUt2NHhBRDhtU3c3Qm1CLWJCdmRZcl9nTnJZX1ZjSnNIeWg2Zk9INlRIUmZoa3J1a1BCQWw2QlFtSS1XSDlVM3FiZGtqNVkzVzV2Sm5CeW5laHFBRjAtTWlmak9lNDRMOHJrd2N2V2pFSXNR?oc=5",
+          "published": "Wed, 18 Nov 2026 00:08:00 GMT"
+        },
+        {
+          "title": "‘Dancing With the Stars’ Couples Perform Double Dances in Semi-Finals for a Shot at Season 35 Finale: See the Scores, Who Went Home (Updating Live) - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTduMkJWUThpOUFXSTVoQ0tod2EzN295a01ZTTdZZEREZEtCbS1LR1hxUExMY3ozanEtQ3k3ZEJYVjRLRGtZai1Fd0JWWFJLLXdIWlN5N3NqVkxoOHhXdGhlMmYyOXYzWGRsbExRNWxsc0tNcGhzeGJrX0V5a0tSeGk2SEdyNTFiWnc2cHF4VmNMN1ZLZ1lFRnF4MWMwRmR4TVI2SlNaMzQ3Sk5vLTl2Y1BRQm1Fdw?oc=5",
-          "published": "Mon, 16 Nov 2026 23:49:46 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa25kdEdCdEwwU0lXbmdEcHFDcXB3OUxncGYwbFVyLXhlQWI5SUVRZDF3TnZuX0N3eVg1WVdyZWw3Q0wwUHB5SW5wdE9WRDc3SHFBampvN3ExSlpjQmpZeGxDWmU4S3ZMN1JqMzVFVDNILWFjZHljSVVab1pyRm1qcVVTbWVBVXczd1lWdlFqWkVNRVNUYV80YkplU3RaVzFWdEFKUGF2UkhsN3RmTlN6U3VEZ1hCVlU?oc=5",
+          "published": "Wed, 18 Nov 2026 02:03:30 GMT"
         },
         {
-          "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field - The New York Times",
+          "title": "At Burberry’s Holiday Party, Gwyneth Paltrow’s Son Plays a Set for Teyana Taylor - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndBemszelBDSlhqaWVXRTFTN0pTb2JTMmpxcU1fWS0wbHpfM3dBWHRQOWtqb3JnZkN0ejV1OXU3SkEyblpkazdyX1lvQTBvRmdHdEdfVHBJU3NIR2swajBPMjc3SDU5WjZXaVV2blFSZ2l3YzZCY25ZcWd3S3dxZVRLd3QwQWVscThKRnNRUm9GWm5BRE1ySTlVRQ?oc=5",
-          "published": "Mon, 16 Nov 2026 22:25:20 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTNON0kzVTNJUDJWbEJpWWhZMTdCZWQ0Z2h6R0FXZms0SklCRXltVjlXMENaY2RXbUlkYVFoNFpuZlVwQ1pLWXBIQmJrd1NhS21lMVc1VE1LdTkzaU5oTnlrbjhEblBBdHlXd3IxUXZ3aEpaWm5TbjVlWDcxN3JIWTEzLWNYWllqNGNqYm00bWNlMnYxN0xNMnRLcFZfODA?oc=5",
+          "published": "Tue, 17 Nov 2026 20:04:25 GMT"
         },
         {
-          "title": "Ray Tintori, Music Video Director and Filmmaker, Dies at 43 - Variety",
+          "title": "‘Madden’ Rotten Tomatoes Reviews Sack Nicolas Cage’s John Madden Biopic - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYTVrR3JfV3lPQTJJZFlSVmxQc1hKbk9FV1NLSGs1dGRsWUJUQkNMRGFFMFdKRVJ3Um4xNUFlLWhMeEVfaVg0OHFIUFJEdEthTTN2VUM0M1JFODY2Sm5BbzlVd3NsWXNRTE1NS2tTOVJRS0R3bDAzVEJXSWlZOUFTYkhlMzNHWWpYWXM3RFlXUG5wb2hvLU1qRlhsaElEVUgxenhiWllsWnExN0k5ejZvc0JnWXpZTDQwdVFjUQ?oc=5",
+          "published": "Tue, 17 Nov 2026 21:01:59 GMT"
+        },
+        {
+          "title": "Jennifer Lawrence Stuns as 'Hunger Games Sunrise on the Reaping' Premiere - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdqaGdfdmtLRUZBLTBjVURHLWU1LUJHcHQxbkdadERwcGRLWXU3c0VNOXpydFc2OF9vTDN2a2stb2owYVJiWGh1aGsxM0cyd004ZGRuSFRTZlMybmxOU1prdHEzS2RDaEVHdWU3OTRUdGVaNVV3YXdJMjlFLTZDZHBTcFcySjI5ajF6UVBEUDZtRkowNlNCT3lR?oc=5",
-          "published": "Tue, 17 Nov 2026 01:27:00 GMT"
-        },
-        {
-          "title": "Woody Allen and Soon-Yi Previn's Daughter Shares Rare Family Photo - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFM2ZHNyWmZpR2pvUnU1NlFHQzNNUlNzd09RUzdOUXlJR19UWTdXdldWcEVNY3UtY2dUb2dTOVowWjNSb2Z3cDh0X3ktVDFKQktoYnRWRDlMY2hVZlNobDdYaG1uVnZRUkhkbVc1WmppZ09lVnJYVWU2Skc5U2RzV3NFME5NN2h2MUJpbVRiQXhkb1Vh?oc=5",
-          "published": "Mon, 16 Nov 2026 23:45:38 GMT"
-        },
-        {
-          "title": "Cause of death released for partner of Gypsy Rose Blanchard - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMTRtckowWnhMVEV6YzNpRzBXOEs1c0NnQ1Qtelo5QUZwdzE3bU4zZ1VwTDFMdnQ0N0pzV1Zwc2M1MGthdXV3cERKQWktMllwaXJjdEhKNjQtdERJQXFHYW9pQmczenBvVERVcnhZcWctYkxIZXQ0ckFJc3VIVnZ4dUZHNVFkNVNXZDhFelV6WndDa21DaVE?oc=5",
-          "published": "Mon, 16 Nov 2026 23:16:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0hlX2VROWZ4NjdQT2NjX2xhc1BfOE9PblJmdXVXdHdiWXRJYlY1MWNmNWg5dUZJcUc1MjJ1WEZ0bUFGeVlqZjNOV2ZRdTRscm95a2gwR0I0a3BhSmszZTVDTVlIU2lRX1RMOXdCdUhiSGwxc3Byblp2WkN5MWVYVFh4Tm1CUTJEbHBfbHZHNGthU2JjcFRzRW15b05rN21fUU16OFBQcW1FMTl5TlE?oc=5",
+          "published": "Tue, 17 Nov 2026 00:32:00 GMT"
         }
       ]
     }

@@ -1,47 +1,78 @@
 {
   "market": "PL",
-  "generatedAt": "2026-11-17T04:20:07.211823Z",
-  "validForDate": "2026-11-17",
+  "generatedAt": "2026-11-18T03:19:29.485763Z",
+  "validForDate": "2026-11-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Sędziowie TK nie podjęli decyzji w sprawie immunitetu Bogdana Święczkowskiego - Wyborcza.pl",
+          "publisher": "Wyborcza.pl",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1VxclY2UHF2VmJBOGhEWXEwQ0hWS042N3FlelNYSFZpRjY2RjZpZFpSYWZXWHBsajJ1MDRwdDd4WV9sQVNtVGNWaW9EOTZZM0NSazFaTldiLWRMdmFRUVlkSlp5X092bGtsU3pBc2w0UU5GUTJkbmhpQ1pDZEVwbHJZVUJzc09rRnJ6d1dmdFkyQmdxOFMxUENsU2pJTDAzMUhWRVJR?oc=5",
+          "published": "Tue, 17 Nov 2026 20:41:00 GMT"
+        },
+        {
+          "title": "To do UJ miałoby trafić ciało zamachowca. Jest reakcja uczelni z Krakowa - Wiadomości Onet",
+          "publisher": "Wiadomości Onet",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd1lVc25qM2hueWdtWHNFblVJUFpmT2tfNUx4MEx4ZWNBUDhIbHl4MzhpbGYzWFJYM1N2SmtTYlU1R1BIbGEtd2JDZ1NSU1g2NEhOUlVMVEVibTVkQ192d0dhRHNIckdNVnFWVFltUXBjc3hBU2lCNGlnUHlieFRwd3R5VmhmZVFCWjY4bjB2SGo5UTVxQVBIVHZxNnFEeW9DMXhV?oc=5",
+          "published": "Tue, 17 Nov 2026 09:27:54 GMT"
+        },
+        {
+          "title": "Ostra wymiana w Sejmie. Tusk zakpił z wystąpienia Morawieckiego - PolsatNews.pl",
+          "publisher": "PolsatNews.pl",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYk0xMkRuZWVDMWZpeDUtTURZZ3dtRWNnV3hLbW1XbEFRMU5mYk1hbzhRYjg4MHlWbjlnaHJCWld0bkFxMWRaQ2lhTDRKaHlYdnRYd2FKTUVNc0ZVRm5vN1BUQ3JpZURtZWtXM01qcm1xbV95Wmw4LWpnTmY0SmpseTFaQ1V3SGJxZjNJZ2xTczdtQWxmTjNYZ2h2MkxMMl92TkVIYzd3RE9GTnNuRk1lZjMtQQ?oc=5",
+          "published": "Tue, 17 Nov 2026 14:58:00 GMT"
+        },
+        {
+          "title": "Konrad Berkowicz ukarany. \"Jednogłośnie\" - Fakt",
+          "publisher": "Fakt",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2ROQ2RmUmxzNkhqWXN4NnZLLXhfOVNzdUNoNFhlaTMtTExvazVwQmE0YVdqT3g2cEFWMUk0SVJvUS1DYktXNFd6NHZyYjNuSWhtbG9lOHdja3F4MWt4US0wcGZNOXhzMVBaSno2cGl0b1BQNlFaZUlLOVlxMi1QWWgwNUYtcklvM3hOR1F3a052cjRfMFZScVZXMC04WkxjU3hGVHhxcUt6NU0?oc=5",
+          "published": "Tue, 17 Nov 2026 11:55:08 GMT"
+        },
+        {
+          "title": "Resetowa \"para w gwizdek\"? Co wyniknie z narad u prezydenta ws. TK - WP Wiadomości",
+          "publisher": "WP Wiadomości",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0N5QS1KNWdHaTEzSmZvdnVCY3ROdm9UU1VHV3NQRlppWE54TkZEck9yQURZSFB2UUdxdHhKWlo0M09vRFk4XzVWazZ6N1ByWW9odEhGc3RiRVhxU0E0R2VaV0loZzJpdkczdHMyS01NZV9JQW5YMFhGX2ZWMkN4SzBueDdLMTlCX3dxQzhPVHl1cEhEX3pNNUw4dUdsWTRrT0JDaDZwZGk?oc=5",
+          "published": "Tue, 17 Nov 2026 16:42:32 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
       "items": [
         {
-          "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE?oc=5",
-          "published": "Tue, 17 Nov 2026 02:02:00 GMT"
+          "title": "Wołodymyr Zełenski z propozycją dla sojuszników. Chodzi o rakiety - Wiadomości Onet",
+          "publisher": "Wiadomości Onet",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVdyVW5ETGlTN3V1clNrVDdmWXk0WmNDTE51eV9BZVZIazZadTJhQWFYRklaUDluRW5lLW5XenhRX1oyMFkyb1ZvU2dBNkltUEZGS0xaWFFkNDFJdkdHbjRuWWM2OFdqVGRXaDhXbF8ySkZuTHRUa3NJbDBlMEFZLUJqVWxkWmRwVThvLTR5d1pmQVZlUV9OSW1VRndJS1VTTk9ZdVR1cmhOWTN1UjdtVA?oc=5",
+          "published": "Wed, 18 Nov 2026 00:42:18 GMT"
         },
         {
-          "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow - NPR",
-          "publisher": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORjVjenZkdk1vNVNjSTR1UklRSHZCMGllZVR5N2lfRXo2MXg0MzBnQjBxekctUk5RZWJQaGRxYTRyekJvSzAzM0piT0I2dVhlcmVUalpyV2FxQVQtMVNLdGZpWjFBUUY4bGVBbldicWVnZ0MtWnNoQmhMYmVYWllHY3pHcUc4Zw?oc=5",
-          "published": "Mon, 16 Nov 2026 18:04:50 GMT"
+          "title": "\"Wykonali dobrą robotę\". Trump pochwalił dyktatora, niecodzienne słowa - Interia Wydarzenia",
+          "publisher": "Interia Wydarzenia",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMUNOZDRsWHRyQTZoUE9TSERGRC1lbklaX2JVNnc2OXdOQUpjeFFqZ3pldGdUalAycS1tNHd0YVBteDROOEMwVlNYV0RBVUxkMlRUWEt1ZklWd3NUemtzNXA5YTBJY3hkOTFKZEJ3Y2FRRFBvbzc5b1R2cFpzbU1KSVI0eHdqYk1KdkpUenEyRjd3QlROUnpDdjloaldqUmFMR1F1cjJRLWg1enhXVHB2OUl1QW1keXlUTkE?oc=5",
+          "published": "Tue, 17 Nov 2026 19:33:42 GMT"
         },
         {
-          "title": "South Korea scrambles fighter jets as Russian planes swarm into country - WW3 fears soar - Daily Express",
-          "publisher": "Daily Express",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZjFaRDNvOWxKVnRadWkyMmotNS1MdDdkekRmZDFCanNYb250U3FqZDZtWDVwYVBDd0VsX3I3NGtQZDNLdk1GWUNSaEEtcDVOY2ZBeU5XZ1JmRWo2M2taaW5jNVFkN21oOHNkSWQ2a2h1U2h4TmhWRk9JdWU3WXZKcmJKdVpIZ9IBiwFBVV95cUxOb0pwdzhETGs4c3RSbDJQYUR3M0U5THpTd19PcFdNQ29LNE9HbjctQm1QdHY0ektpbllhQ0JBUDlYRWRCRFVLeHl6UWN5dmJmQzdhOFE4M1JZeUZRZkR0eEh2N3hqQklwQnlTVWRHRDR5amlNSmlSSjB1UVg0elRnTGRLaXNjMG9PS0Vz?oc=5",
-          "published": "Mon, 16 Nov 2026 22:16:00 GMT"
+          "title": "Katastrofa na Syberii. Wojskowy An-12 spadł na ziemię, jest wiele ofiar - PolsatNews.pl",
+          "publisher": "PolsatNews.pl",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRHlnOHEwaDNzbi1KWUw0MHV1RENVcEp5WGZrVzF6X2h1VHd3RUNtS3dqVmlnckJoVTJyY0tDeC04WWF0S1J1QmlValFPTVZfMFd6VlRBVkdvTTBDdVRlNGJwTTVFU0xpWm45aUV2WTJqRmRxN0d2UmQ0UnM1SWZPa2I5OC1GVzBfalY1UlZsQzBiaGVqVHpLZ2dOZlNud2tGeVF6c2pqa0Q0WERBczRXNXV4cjNnWHU3M1l3Rnl5V0JLQVk?oc=5",
+          "published": "Tue, 17 Nov 2026 16:44:00 GMT"
         },
         {
-          "title": "U.K. considers changing laws on age for sexual consent in wake of Russell Brand case - CBS News",
-          "publisher": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzRRaFBuSk9TS3lsM3BFWlBTbS1JdllRcWdPY3JPVUUyRG9SWkFIMnBBaXg0RkFjZllCZ2JYdGYwRlplaHRGNmlrY1phUmhfX1NMSFI2SE5rdU5PREZsX1Z3VzBTUWI5XzVCUnRWd013M0lJR0FFN2tqeDBSdUl1MjlWYTlQcUhjNDUtYlhEMXNOQm1s?oc=5",
-          "published": "Mon, 16 Nov 2026 17:32:42 GMT"
+          "title": "Jak Ukraińcy odkryli słabość Rosji. Atak na Most Krymski krok po kroku - Wyborcza.pl",
+          "publisher": "Wyborcza.pl",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWhFQ2JmTkRUcU5aNmlvNVZsaENNWDRETHRaTU5QZUlKNEhzRC1fcUF3Y3ozT29GWWQwYVgyZ1dfOGZjYW5NdTg3enRsOF9oZkFpNnpVYm9uSGk2dzVmX0hhOVA1OGlsMDhDdUE2d1VVOEowcTJzUV9KSDUtQnVTQWp5SVBYNXdiNmNGVGR4VzdwQ0pBTkdJM3NDQy1wU1RJRUVOUVpR?oc=5",
+          "published": "Tue, 17 Nov 2026 18:56:42 GMT"
         },
         {
-          "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RSb255WmtXVzRseHpHdk5tT1ZLTlYzRzJudFZKZHVaR2taQzdOcmQzWGF1b3hwTmZodTV6TWRvM1pyX2JtVVNlMVI3NUtyQlRVQXhQS3FJR2lhN1ZZcFZ4WU5fRHlsLXZEXzN2aDItSUppYmt0YzdVMXg4dHRHYUZrVzhRejZYcGZxRVlSMVJxN1paNGV6MzhfaS1sNTg?oc=5",
-          "published": "Mon, 16 Nov 2026 17:24:04 GMT"
+          "title": "Awaria za awarią w USA. Trump komentuje, tajna sieć NSA nie działa - WP Wiadomości",
+          "publisher": "WP Wiadomości",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWtfekZTOWJCdng4OUdEZERzZVh4dGliNzh1NmxKRWhEVWZidFZ2ajhJc3lndjFickcyeHVlcDVuQWJSVTZYS25nb1FuZm9SOXVJVjRrblJPVVFOZ2Y2dElOdXU2NDVvU3YwZkpuYl9sY0dJYzh2UHdRVW1uYm12aXNtOEhtbnFLRHJJbHJlWl9VbEtPaXlOUnFaSWxTc0pWaVhsWkJTVFlWWVk?oc=5",
+          "published": "Tue, 17 Nov 2026 20:10:56 GMT"
         }
       ]
     },
@@ -50,87 +81,180 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "JPMorgan Chase systems recovering following hourslong nationwide technical outage - Fox Business",
-          "publisher": "Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVZfSXNOWnJZcEdKbVhSSTZkcGJUT1BfMUhKQW9pQ1hSSGJHNjgtTTJTNGxnYk9NLU81T3hLOFVlWk9hdjM5a0hxRUlqVHhib2NRYTN2Wm5NZDJoTThLSm9pVnVlN2xWRlFhV0Myc043czN4dDZ5WnhGY1JQREZGbmUyYUZxZUlOZ2ptSHJMQ25ydms1Nk1vRkN2RkU4NTJodTJSSFJnVXpQWTlfSVRKeXJpSklDQdIBuwFBVV95cUxOSDd0dE0yYzJBQmNiTzNpc2lNUHV6VHltSmVHVHZDUkw0ZElfY3ZrVko3T0s1UUlOOGptTXRGdi16RkZCWEVfZTg2RHd6VW1kWTZvS2tqQkViMHJoRFBJd0lwVHJVSkV2ejQweTNZa0NqMUp5X0tKbjNncW9HRjJZMDdDbW5Ua0dPcG5rNnVFbERSWkdKbllfa2UtazByMXkwY01rM3d0a3c0MmtpbjFTOGYtbUFMMnBieWpJ?oc=5",
-          "published": "Tue, 17 Nov 2026 01:25:00 GMT"
+          "title": "Gorący handel akcjami XTB na polskiej giełdzie. Największe obroty i krwista przecena brokera CFD - Bankier.pl",
+          "publisher": "Bankier.pl",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSjNzd1owSC0waEliZFdZMTJ5ejE4YmN5LTZtYldpbkM4ZUpNd2RnNUl1cWZTZVB4NHZJQzRfeTlYWFdtNGZPR09Lb0dFV2tTVG1ZUlkzUFh1RktDUExhZTdrMTU5dUV5XzBCbi10QW9YYkYxaGZBLUZzU3pWUW84M0luY0NpZGxxNnVXaDNPYUlWUERIVlZjOEt0ajg1OHVpaTZsRm1NVzUtMmJQODlLWDFEU0g5Zm93cEJXaUJ3MnhHbmZIMVpLbE50ZTVMNkpuNzZTdG1JM3o?oc=5",
+          "published": "Tue, 17 Nov 2026 16:17:00 GMT"
         },
         {
-          "title": "1.5-hour-long system outage forces United Airlines to delay departing flights - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2xoSnd5Sm9rYTl5eFVRVzc2MFlNSk5qNUJRckg2X0tVazZEZG4wNTVVYW9JeWNyY1J6TWlKS0VURXd1c1JzUUdYU01WQzhQNWhkOEVCOXo4TTlLSnFNanUzVW9BYkZMOVBSb3ZfRnFMWXZFSGp1ZE5vSF9MTEd3VmxSTGI0YlR1VlE?oc=5",
-          "published": "Tue, 17 Nov 2026 00:53:00 GMT"
+          "title": "Odszedł w niesławie z Nvidii. Teraz Trump i Musk chcą jego powrotu do firmy - PolsatNews.pl",
+          "publisher": "PolsatNews.pl",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3RnamY5ZVV5cjA2Q01EMjhORHdIUDNHdEJlZnlGSUJ6Um52Y2U5SXBkNllRRC1FZ3VKNDdKQk9VaFV6ZkctWllTTUdEcVpYUjZ2VlBGZnRISmVOQkFjLWpLQnVCaHdLaWphTzM3am85SlRWWXlqX0JpRHQwN1llX0p3WThmcjVBbTZza09BYVRiRWR6Y1lTUlFjbmNfM0R1M3czdGpjZVV0NWZVa2tfbWxDUW5vaEZP?oc=5",
+          "published": "Mon, 16 Nov 2026 22:21:00 GMT"
         },
         {
-          "title": "Trump administration's $50B air traffic demand hits GOP turbulence in the Senate - Politico",
-          "publisher": "Politico",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPejVnalQxVlRtempGWUFsVUtDY2I0a2VjT0k4RTRwZGVJQ1JvZ0RxS1lTSGh3TmNkYi0wUXQ5LTcxLUQxaDJ2RFFnTXY5eWR3YnYxRXNnZldISUxEdHlNVVJiUXNWd283MDUyOV9XX3ppRFlEZ3IwWmphdVJoVU9XOTg4SDl4YWg2ZXBhbFNfMm9KVFBwZ3I0RVNnVDY?oc=5",
-          "published": "Tue, 17 Nov 2026 02:31:00 GMT"
+          "title": "Jest decyzja rządu Tuska ws. cen gazu. To będzie miało realny wpływ na portfele Polaków - Rzeczpospolita",
+          "publisher": "Rzeczpospolita",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSW0yczFGRjdFc0xFbnF5M0FWLUVjRUU5cV9Zckc0UzMydDRfTVRhOW41N0psOWtwdFZuZVBaZWl2a3NabDFpMzRiS2x4UFFneFo4T0gxczdmSEdPTGQwRFgtS0JVbWNKNW8zdVRaM2VDSHRjWlVmSDROakp2eWNsZjJOdVNpY01sblJjaHNNTlVZejdKUFpN?oc=5",
+          "published": "Tue, 17 Nov 2026 11:16:00 GMT"
         },
         {
-          "title": "Trump Backs Huang Comeback While Nvidia’s Board Pursues New CEO - Bloomberg.com",
-          "publisher": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzZFZHJxQ1ZMaW5Ba1V4bm8taHd4bFBvYUZHWFY4SFpydml5YUVhLTRCaEFsNG9TbjY1dl9ac2tDek1DemJ0M3FwQTNtQm5aNV83RjFsZEZTNmJ2WHRJRWtHUVRDVEdnTUJtSzlaMWZfSEU2anpRSmVGcG9SUEgxN3c1WG5UcVBkdG02bmsyQkxvNlVqeEV2SDFORlA3VGNHZnpha2EyQ3V5aDVIS1E?oc=5",
-          "published": "Tue, 17 Nov 2026 00:36:00 GMT"
+          "title": "Ceny paliw dzisiaj i jutro. Znamy już konkretne kwoty za Pb95, Pb98 i diesla - INFOR.PL",
+          "publisher": "INFOR.PL",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNURFcW9NNEtKN1FfUUVYVU44Y3pGN0V2cnN0NGx3M29RZElpMXVFdUJqZk5ySTBSZ1U5ZnI5ZzRBeXJxOTNNbkpYQmpkS1VtX2I4YmxvWnNuLVhvTHZicVVTRWdsSnF1TE5qREtmSWpHLXR5UWRGSmNrWENROG1wbHQ0V0FNQkhTSmV5dnVSV0RzWEdqa2hIaTlHRXhDaGhzODRZY09xN1JnYk11RWM0MXE5RHRfQ25mcnBmUDFEaV9NeklkbWw4MHFoSXU0ekwxQVNMWm5lcGZWY21nd2tjZ3FucmpCQ3JLSVdYTmg3cmhqQmY4?oc=5",
+          "published": "Tue, 17 Nov 2026 23:44:38 GMT"
         },
         {
-          "title": "Asia shares slide on tech weakness ahead of Nvidia earnings - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHY5U3ZMUmhWeEViMkJTbW9ObHlQYWRWbmdxWDhXMUdaWFRvLVdRY01oaTJJb3lmOFBiaWpQMEFlTFk5R2ttRnBaT18zaF9Jbk9od2Rza0cyMXJ6Z3JlalJDdG9neTVhQ3pJRG05SE9NQUYxZkFvQmQ5bnVfTi13amFNOA?oc=5",
-          "published": "Tue, 17 Nov 2026 01:22:00 GMT"
+          "title": "Biedronka, Lidl, Kaufland i Aldi chcą otworzyć sklepy 27 grudnia. Jest apel do posłów - DlaHandlu.pl",
+          "publisher": "DlaHandlu.pl",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZHNSMVVOYzRTUTU0QUtTaGtPV0FLbERuaVpHRVZrUUxxUTdIMGxHekpPdWs5VXFfLVd3V0hhcWpqOEJ0VDctZGoxc2tITlNUeXkyM1VwTTJ3RlFLTnNuLThVNkFYSFhvV09QX1gwczY3ZkN1RUlWTG95R3RqWG9sLTBzZU5Qel80YkNUNXAyTlAwSjBXcWhXb2pzTGNQR0lzYmJhN2tXOWxBaGJINVBRazJLX2NuN3FnUzdDUnRzS29paWJtYldMSmJB?oc=5",
+          "published": "Tue, 17 Nov 2026 11:05:00 GMT"
         }
       ]
     },
     {
       "id": "sport",
       "label": "Sport",
-      "items": []
+      "items": [
+        {
+          "title": "Jan Urban nie wytrzymał po meczu Polska - Szwecja. \"Powinienem teraz wyjść\" - Sport.pl",
+          "publisher": "Sport.pl",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTVhadzNycm1XcjJYczFpZ0lJZTdIQnF4Z3pJb0xJWmllZjROeUhNU2pTeU9zeDZMMGZaNFNJOHVXTks1emVuYkRlZXhZRm5wYmNodUhpMGVOUkRnX1Bkc0xWQnRacWM0dWVwakl6SE5acDdRdm9XMjcwRWx2VXNUY0FuaDIxN2lzZlB3Q2tOR081TVlfNE1zQXlTTWJyU1djamk0aWVOYmpWcEk?oc=5",
+          "published": "Tue, 17 Nov 2026 22:54:16 GMT"
+        },
+        {
+          "title": "Reprezentacja Polski U21 lepsza od Serbii. Drugie zwycięstwo w San Pedro del Pinatar - sport.tvp.pl",
+          "publisher": "sport.tvp.pl",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGxTajRTV04yeUZidEtOQXJTM2NIeHpIQnlQNjEyUm5rd3R1bWdWZkdWVnRkMGlTcVR0SVNwTlBkZHlYY0ZHRkV3ekdoeDlERTdwMndLRENuZ3RadFk2ck95WFpGVllqbWdGUXpjUkN0QldRcXRLQ2NKLWQ0UmpJeUlsX1NnZnRYQXliTTY4UVBWRm1taWpucDZpSWhFRklOcmlaekotMGFuWDR4dllJWXd4UdIBuAFBVV95cUxNUmN2TzliUlVwV1JLM1JLbUpXYnBtS1RON01NNWNROVE1eGN3UEFkOXdKdnlnZ3NJSVAyckVEaE9rMnMydDE3cDVSbExPRkVTLWF4X3h5RGkycWt2S0lqYkpjTDhFYlo1T3U5RW9TdlhMUTdxWmdPa1ZJOWJzWGM3UGZOcHFZSnFhbEQ4U3dnc3VpaThiNWxYOENnT3g1MHdxZWxteTE3MWFEZ1RaM1BCd1YySFlob0pR?oc=5",
+          "published": "Tue, 17 Nov 2026 18:52:00 GMT"
+        },
+        {
+          "title": "Debiutant uratował kadrę Jana Urbana. A potem rzucił wyzwanie - Przegląd Sportowy",
+          "publisher": "Przegląd Sportowy",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON1JEZDhlWXhPOTlKalBrSVhLQVk3WUVvcXdNS1VyaTFlTzJVUU5kNE9JWWZmajZlckt3aXRnN2ZGQ1FFc1pDX3N2aU5MdWxXLW9BSjhzRzM2cTM1aG9CUlNMbUlibGozdHd1THNMTzlnTEZ3SXNUYVAxWlhnaWtydDVaeTVaMl9mX0RiMmxMWkVDN0dlOXhaSjB0RDlIel80MDRhMnRjRnlWTW9EeTBmdG04Sl9tU0FPMGhmRmtnM0NsdDVa?oc=5",
+          "published": "Tue, 17 Nov 2026 22:14:55 GMT"
+        },
+        {
+          "title": "Liga Narodów. Bośnia zagrała dla Polski! - SportoweFakty",
+          "publisher": "SportoweFakty",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSW0xWXNYVUpudXp4M2haSURkU1NLbW5iTDNkblJCbVJKOWRWcVF2UWhhYlFTN1JWWG96SmNqMHhkNktabmotaVFwZ2JJc3NVSUExd0NhcmxZbUU4UnVsbWxsc1AyblpIRWdCaEx5R3E0SEl2bTF5Vk94eHNxUE9FVlFWTjVrbTU5eDBweG5FemdzRi1LY2hXMHRqalV0UXJCTFotS3ZwZDUtUU9zUEY3MTY0Ym1pQlRSd3pTcjdyQWlrdw?oc=5",
+          "published": "Tue, 17 Nov 2026 21:39:46 GMT"
+        },
+        {
+          "title": "Łzy Lewandowskiego po meczu. Mamy nowe wieści ws. kapitana reprezentacji - Meczyki.pl",
+          "publisher": "Meczyki.pl",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3NILXVoV1YxVkJZWVhDcmY1N0VzTlJxczhDc29ELVpMTjNIWXd6VmtGS2JXMXlyVXBGMW1MWFdBSDhKd25wS0otNTVySE54VXVXcm5NR09faG9mUTFOdWg5aGZvMkxzQVFTaDl5WEF6T2UzUlczT3R3TjJnRzdWMEpkRXpqRFc1YV9XeTZPQXhrYzlRMk8xci1oUGJYazdSeXJhRjhIbjN1RHFTbFZIaWZoMU5qT2F0dGc?oc=5",
+          "published": "Tue, 17 Nov 2026 23:25:56 GMT"
+        }
+      ]
     },
     {
       "id": "science_tech",
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Google ujawnia bezprecedensowy cyberatak. Agenci AI działali bez udziału człowieka - Wiadomości Onet",
-          "publisher": "Wiadomości Onet",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2s4NUxqQm52eGNFYnRiOGJYRzI3dlhPMDNINERSd0NzY1VDRHJuS2JWblZWN2V5SUN2dE5nZ1BWLUxhUE5Fb1BFQk1RZS1mWGtUR18zME16ZUF3SVlQclBHeFZJekxpOEQ3Y1h5aVJUM3Y5NTR6QnFTWHBNUlQySWJ6eThSMFdHa29yVHpSb3lXSmNjajZmbjB3dkx2TmwxTFNWdzNMaFRnUFR4WEpEdVctZ0gwVlJaaVZTcE5HWVRSWms?oc=5",
-          "published": "Mon, 16 Nov 2026 19:31:03 GMT"
-        },
-        {
-          "title": "Estonia zamyka granicę. Do Polski można wjechać nawet z Doniecka - WP Wiadomości",
+          "title": "Apple ma poważne problemy? Użytkownicy masowo zgłaszają problemy - WP Wiadomości",
           "publisher": "WP Wiadomości",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT04wU2syODZ3S1pWSmJ3aVM3T2I5VERUakxnb09QWWNINW5DY2lEbVdSV3RESkJISDdhSlVpT0ZTOVpuZzBIdEc3OTk3aVllYkVZNDVwc0NUT0YxUXktdkNDVVZTUzNSemVFNDItbmRHclhMTDg0LUVwQzlKaE03ampLZlRTM3dfZUxnQ0VxN1NsTDh6UWd1M1l0bnhFTDUzTWdXUElZU3hoQQ?oc=5",
-          "published": "Mon, 16 Nov 2026 15:28:07 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVDAwTGR6b3RUN0d2LXBFSVVvRWVWOWkwdm1TeEhoLTBiV1o5c2xWLWNYVWRiRUdBMHJpOVNsSHFvenlkZnFpZG5JbUhmLWltVGdoV2JQWDRUa2FmcU1qWGlBTlR3eWVXb2hmbDBrdHRIYVEzQkNNd2RoTUdpRHcxc2t2c0MtQ2xzenlDM1hRVkFTQm9KMzBQbGtMMVBPcDJ6N1gycjBlOV9hQQ?oc=5",
+          "published": "Tue, 17 Nov 2026 18:43:41 GMT"
         },
         {
-          "title": "iPhone zamachowca z Krakowa może coś skrywać. Policja może go nie odblokować - Fakt",
-          "publisher": "Fakt",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZlB6bW0zSVhNLS1wa1FRYVJiOGFNMXd2cDROUVB3WThsamw2dk1UbkpZcWxJRTNNMklfUGRBMUI4WUgzN19Hb25remJFUC1mNEdBaUpyVnpjMG85cXQyd2FYSmdPczlpX0dIMFR6RnVCUzZtaFQtVmJ2aGJUdjJ4UUxEaldDci1fYVlna2FHS01oWndaZ0JEaHZ1cUU0NWkzTFYybjN4X0M5ZmNXSS1kTWlKMUxLbDM3eXFV?oc=5",
-          "published": "Mon, 16 Nov 2026 14:55:00 GMT"
+          "title": "Mapy Google odpalają petardę. Rewolucyjna opcja trafia do Polski! - Antyweb",
+          "publisher": "Antyweb",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1dtejMtc0VUN1Y1bjB0ZmRwUzFlSllzMm14V0FYcXBNNklrY0tuVHAwTEJoMkotcFRpVXdsR2JOQWxwNGNWZU1WNGRSalR1Y2lqMHM4V2ZkTHFkRmprMjNhM1JOZUkzMkFEVmZ4WUxldURiX0phRkFLMUF0SnRmVnZmZjVENFVnUFE?oc=5",
+          "published": "Tue, 17 Nov 2026 06:00:31 GMT"
         },
         {
-          "title": "Celne uderzenie w czuły punkt Rosji. Płoną bazy naftowe, nalot dronów na Moskwę - Onet",
-          "publisher": "Onet",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaWRzOFVGdkdzcXhwNGY1M3NCa2tJTTBkZTZFazNEVkM1QnlVRjZhVmNXdVlqaG5rT1ctZ1lFUzYtQjkxYkd4R25jZGxWUWdEUFVLaHZNb0IzU29PZF9TcW44di1tTFRRM3Q3YW04SWhZbXIzeExhY1lUbTlLV1lSN3ZGVE56SjNUMG9QZDdFZDNtanBJZXlWYUJjWTVONTZJQzVxeTVCYWRsTWgtWV93VW5SOXlySkkwUkluZXFzVG5FUTAzRzNaNEM0TQ?oc=5",
-          "published": "Mon, 16 Nov 2026 06:34:50 GMT"
+          "title": "\"Zawiesiliśmy połączenia do Ukrainy\". Węgry reagują po ataku ROsji - Interia Wydarzenia",
+          "publisher": "Interia Wydarzenia",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3U4bE1BaXFxNVJ6dDlRWURlVnZRLVEtQkNCQWlCZlhNbmZuR3AwcjZmaXB6TGNNTHJjZ0FsWHlWSFZXbi1TR1FMWU5CTDlRVmp2OG1hZmhYYTBDTVZ0eTA3ZXJHUUFVbmtUbUVmQXZjMkRyRklPeDlxSkI5eVlMZFB6cGtlMDNSUEF3Q1VHRFhMQ1VCaHpMeThhdGNHN0JHUHZVa0hGNFg4UzJPTzhyejBhZ2RUNUl5eXFuWEVuYw?oc=5",
+          "published": "Tue, 17 Nov 2026 16:33:36 GMT"
         },
         {
-          "title": "Zaskakujący scenariusz w sprawie Jensena Huanga. Nvidia może zaskoczyć - Next Gazeta.pl",
+          "title": "TAURON zmienił zasady wystawiania rachunków za prąd. Klienci mogą zobaczyć inne kwoty na swoich fakturach - wrzuc.info",
+          "publisher": "wrzuc.info",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWW5VV21BX3c2Um1yTmR1S0ZFTlFIcXZuUlM4MW9UaVV6VV9ZSTE1SGk3ZTU1ZUZzVGUzVTgxTDVuNXZSM19IVVEycnppSVZWc3Zpc09jZHpncTR2R3pPNXM1TFZlQmFadzQ5eXBmeDJENkxrWnY5N3RicXFyRHZEQ2kxSXJsTi00SDh1Z1AwcHdUTmhLVWc5WUJjMG9GZlBPcFdSQkhKS2hMTy1Fd3pCWTlHMzYtN3JtSktQSTJZVWhZUQ?oc=5",
+          "published": "Tue, 17 Nov 2026 14:25:12 GMT"
+        },
+        {
+          "title": "Kto pokieruje Nvidią? Nowe doniesienia ws. Jensena Huanga - Next Gazeta.pl",
           "publisher": "Next Gazeta.pl",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzNGWjg2M0MyTEVPeW1MR29QRENvTVFMcDJWdGV3TzhiZXIxcFF3SmdJMjlSNzRMdGtlMzBJVWVxenhNaG5Hdl9iX1BJMG5xa2hGcUVWcVRpMS11OGI2WjBXOUg0MHJCSkxZbnZrRHVzSWY1MUZXOTV4bVQtX0FzXzd0angzQVlhbldwQy1FNTV3alpzbGlERGVJTVdRT2kzc3R6ZXhURUItNm9zRmc?oc=5",
-          "published": "Mon, 16 Nov 2026 06:55:21 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckdGcXRCSEt5bHh0U1dmVW1YSEdSWGJCRUNZM25OLXpqa05aNDZmWk5xd290b1ZJNXBpMVUxMW9VM1hjcHFyOTNRVmlwcXVaOVdUWmhkZW1sMWw0Tzd6Ql9YdEZRRGpCZmE3ZXI1SzNIMDE1YlRiTl9lM282UFRhSWhtbXY0aTdycHNfSnhibUFfY1JFUC0wUHpPQ3NNQXdjcjVoVXJ1VE5kQ2xv?oc=5",
+          "published": "Tue, 17 Nov 2026 07:39:27 GMT"
         }
       ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "2026/27 UEFA Nations League: All the league phase results - UEFA.com",
+          "publisher": "UEFA.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSTN1bFB5UWJ6QXdWWkF2X1RHbzlrcGtFd25XVU1YTGZ0TzRud202T3lQcHV0SlEtVkFlaG9mc2E2eVA2MVJ5czRIQi1hY3VXVEt6Q3p1QUpUVGc4ZXBILTJzTl9TaHhnT2l1dVdaZnBSVmJmUnZPYWlSUG9JWG5XOV9zeWtwVGtLb1BzbWQydVBCQi11X20wR2RaRFY5d3pUMG83aGdTV192U241N2NDRGYtMENGX1lOcDF4WmxxZUFmZDRyLWE4WHhQU1BSb2x3U0t1Nw?oc=5",
+          "published": "Tue, 17 Nov 2026 22:44:50 GMT"
+        },
+        {
+          "title": "World Cup Bounce has Arrived for Area Soccer - Grady Newsource",
+          "publisher": "Grady Newsource",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZE1kS01oM3QtRWl3MXN6X1NYSGR6UmY2UjhidzNHOW1ndFExRWVSdDhTRC01YUZOMTVidVRxMEpCa2NlZDdVelFGQW8zSTBwZjdiQkpZRXZvUHdYQzA5djV3RkxVS3FsME9PbnpPZkhaTzdNa3NzVUMyR2JYcmV4M1R3?oc=5",
+          "published": "Tue, 17 Nov 2026 17:18:57 GMT"
+        },
+        {
+          "title": "French soccer federation confirms Philippe Diallo as candidate for FIFA presidency - ABC News - Breaking News, Latest News and Videos",
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzYzc0NjSWxBSFVja2pCcmkxdXJqSWdZamtpMmVGeXBzYnFXdjFBRzFKV2VzZXNGdjFVQ1FVTXlkTmJDZm1JbmJaaWsxZkhKdlEyTUdvSlhETzJ3WnFfbVRvaWtHU0UxWUNudzZjc3JEb0p5T2NoWWtzaGpjbTVOdXlTal84MHRUTXhCbk01a19JVll4MFc5TzN0OFJfZU9CMXU1cFFkMi0zdFnSAbABQVVfeXFMT08yVlBqUXItcFFXZGNVR3pmV1hkLVBOSXR3dm9uMHRQcU1LNG9fckQ1d3FNSm5kTFRRVTlUN3ZyV3dFSFR1SjJJTUg0d01RSFhCdC1INlp4LXVJdmVvNHZrdFVDT3ZwOUlYQmRwSW9JQjdac2VJbGFUVjNZQVVhMzVIMmtycHNpeE9xbEVoeEs0UXpFaTR2MEJ6N1k5cDdveENxalNTRE9aOXRrUEZmVXY?oc=5",
+          "published": "Tue, 17 Nov 2026 12:00:32 GMT"
+        },
+        {
+          "title": "French football chief confirms FIFA presidency bid, criticizes Infantino - Anadolu Ajansı",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2kwM0s4M0FEbUIxTVhVbE5ER0RyWFdEQkxHQTJiNjZ6d2RMMkhnOUJERVNRRnVnN0t4MHJYY3gxWFJzRmZOT2xDTjFreVNRTThwbXF3a3pYcUlNaE9jTW0zSzh5Rk5ROFlGdG9nZnZ6MEE5akY5TnpkaVhIVFBuUTBCekUzZl9faGU4TlpGMEFMY3FDMFQ3OHUzN3FQSFJ1c0tHUzFnc2FHNUdKT0NsaA?oc=5",
+          "published": "Tue, 17 Nov 2026 21:58:31 GMT"
+        },
+        {
+          "title": "France football boss Philippe Diallo to challenge Gianni Infantino for FIFA presidency with UEFA backing - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUUhoYzQ5WGh2Ujg5RGxqVnpkejRiMW1uUHVRVFZDZUQxQTQyRVJBYklkeEktMkwxakpaS2dEQzk5WG03R01jV3FUSnR1RGJUdUpPR1N1Zi1fdE9BbS1Bam9YV3AxenA0OTJxaXVWbTBTVDdDUWtiN1ZmNVQ4VDhfSXNSUkt2OVZqZkl2dU1R?oc=5",
+          "published": "Tue, 17 Nov 2026 08:31:59 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "Jeff Bezos Describes How Amazon Decided On Robert Pattinson As The Next James Bond - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYm1INU5oTXZZa3M5QTlQbTNlVzlPMmEyaWxSVUt2NHhBRDhtU3c3Qm1CLWJCdmRZcl9nTnJZX1ZjSnNIeWg2Zk9INlRIUmZoa3J1a1BCQWw2QlFtSS1XSDlVM3FiZGtqNVkzVzV2Sm5CeW5laHFBRjAtTWlmak9lNDRMOHJrd2N2V2pFSXNR?oc=5",
+          "published": "Wed, 18 Nov 2026 00:08:00 GMT"
+        },
+        {
+          "title": "‘Dancing With the Stars’ Couples Perform Double Dances in Semi-Finals for a Shot at Season 35 Finale: See the Scores, Who Went Home (Updating Live) - The Hollywood Reporter",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa25kdEdCdEwwU0lXbmdEcHFDcXB3OUxncGYwbFVyLXhlQWI5SUVRZDF3TnZuX0N3eVg1WVdyZWw3Q0wwUHB5SW5wdE9WRDc3SHFBampvN3ExSlpjQmpZeGxDWmU4S3ZMN1JqMzVFVDNILWFjZHljSVVab1pyRm1qcVVTbWVBVXczd1lWdlFqWkVNRVNUYV80YkplU3RaVzFWdEFKUGF2UkhsN3RmTlN6U3VEZ1hCVlU?oc=5",
+          "published": "Wed, 18 Nov 2026 02:03:30 GMT"
+        },
+        {
+          "title": "At Burberry’s Holiday Party, Gwyneth Paltrow’s Son Plays a Set for Teyana Taylor - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTNON0kzVTNJUDJWbEJpWWhZMTdCZWQ0Z2h6R0FXZms0SklCRXltVjlXMENaY2RXbUlkYVFoNFpuZlVwQ1pLWXBIQmJrd1NhS21lMVc1VE1LdTkzaU5oTnlrbjhEblBBdHlXd3IxUXZ3aEpaWm5TbjVlWDcxN3JIWTEzLWNYWllqNGNqYm00bWNlMnYxN0xNMnRLcFZfODA?oc=5",
+          "published": "Tue, 17 Nov 2026 20:04:25 GMT"
+        },
+        {
+          "title": "‘Madden’ Rotten Tomatoes Reviews Sack Nicolas Cage’s John Madden Biopic - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYTVrR3JfV3lPQTJJZFlSVmxQc1hKbk9FV1NLSGs1dGRsWUJUQkNMRGFFMFdKRVJ3Um4xNUFlLWhMeEVfaVg0OHFIUFJEdEthTTN2VUM0M1JFODY2Sm5BbzlVd3NsWXNRTE1NS2tTOVJRS0R3bDAzVEJXSWlZOUFTYkhlMzNHWWpYWXM3RFlXUG5wb2hvLU1qRlhsaElEVUgxenhiWllsWnExN0k5ejZvc0JnWXpZTDQwdVFjUQ?oc=5",
+          "published": "Tue, 17 Nov 2026 21:01:59 GMT"
+        },
+        {
+          "title": "Jennifer Lawrence Stuns as 'Hunger Games Sunrise on the Reaping' Premiere - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0hlX2VROWZ4NjdQT2NjX2xhc1BfOE9PblJmdXVXdHdiWXRJYlY1MWNmNWg5dUZJcUc1MjJ1WEZ0bUFGeVlqZjNOV2ZRdTRscm95a2gwR0I0a3BhSmszZTVDTVlIU2lRX1RMOXdCdUhiSGwxc3Byblp2WkN5MWVYVFh4Tm1CUTJEbHBfbHZHNGthU2JjcFRzRW15b05rN21fUU16OFBQcW1FMTl5TlE?oc=5",
+          "published": "Tue, 17 Nov 2026 00:32:00 GMT"
+        }
+      ]
     }
   ]
 }

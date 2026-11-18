@@ -1,47 +1,78 @@
 {
   "market": "CH",
-  "generatedAt": "2026-11-17T04:19:42.589470Z",
-  "validForDate": "2026-11-17",
+  "generatedAt": "2026-11-18T03:19:13.373022Z",
+  "validForDate": "2026-11-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Der Jetstream liegt am Mittwoch genau über der Schweiz – mit Windstärken von fast 300 km/h - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFFDYk1DdERFLUtucmJZdHRSQ1Rqek5FaWZ4aHZnekE1NXR4YjBFOFFQbThvQTh0WVlwYXlvM1ZHaU1BSFJCYlplQlZ5VDhFSGhLRmdVbWMyek1HcXJHOXlPVlJPUHk2TGFRWHJfNWxlRm5mXzhwa0lINGRlY0MxOHdkMkJHNlBQUThXbkJlWUdaeXVDbmZz?oc=5",
+          "published": "Tue, 17 Nov 2026 15:05:33 GMT"
+        },
+        {
+          "title": "Alarm beim Bauernverband: Hitzesommer schlägt auf Kasse - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0Izc0d5elBjRXBfUElNVlBiM280a0tZNWJhNmJxeXpTTzJFU05lLTc5NmJ5T3dhWnNRVmtpVThVUkxNVWpSQ05CZUF3T3NDSmxfVFRXcjFZQ0pVUHV4SmlNeDY1OWw3MDJwLXFkcGtfdUFGa0dsbE1LMXhLQTJVMkl3Wk0tVEVkNkZoZlJfTHFYRTRXWFptX09IajRwMjNubDJmVTF3?oc=5",
+          "published": "Tue, 17 Nov 2026 18:05:00 GMT"
+        },
+        {
+          "title": "Regenwetter - Ist die Trockenheit nun vom Tisch? - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUZKWXpzOGtrSkRoT1YxeXAtbW83M0NoZTZ0ck15bUNIcVYzTmozN05VbVNZem9NVzQxZkl1MkstWF9FM3J0aE01bE5YT1pjVVNib3Z3WmlpeExrbFdwZ0VHcFZhUG1nenl6TWZWMWJTbVJQdkFDam5EWjROUzB6cFNYeGxfRGFJbVNzSg?oc=5",
+          "published": "Tue, 17 Nov 2026 16:16:51 GMT"
+        },
+        {
+          "title": "«Ktipp»-Verleger mischt sich provokant in die AHV-Abstimmung ein. Stimmen seine Aussagen? - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlFUdVNKdlZ6R2s3Tjk2czZQQzROTlE5SVVJZUJDcFAtOFpnX3JZeEhaWUM1Y1htM3FyYnhKQXFVNjRVQlJQS2NXTUc4MHZFZDVzSTRkSXRDX3l4WlNBXzUwb0s2eTJsbk9CT3BpOVpxOG1yeXBpX3Jva3VPWFp3T2NPSllpX01QMFN5RUVDTkM?oc=5",
+          "published": "Tue, 17 Nov 2026 04:59:45 GMT"
+        },
+        {
+          "title": "Lockerere Waffenexporte, aber keine Hilfe für die Ukraine – wie es zu diesem Deal kam - Watson",
+          "publisher": "Watson",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHFJQ2NySVY4a0NoYXNZSXNLaGpsVVc2Q0Zrd3c5YUx3RXdNTUtjZGtIR212MmpuVUtDLWNPVlAzTmR0LTZQRDJYT2dhbHZ2TVFkWkFMdUNwNU4xOW02ay04aEtqWmJuNVhCTjlTNFowZnhCc0RacTU0NE5uTko2VDJyZ1RhY3JiYTNMNDNUakl3TlFsVEZmOUVqTkZZMHotRmt3aHdBYWFhLWhSSC11S0piakZQQU54SXJ2WDJB?oc=5",
+          "published": "Tue, 17 Nov 2026 07:47:00 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
       "items": [
         {
-          "title": "Wenn KI über Leben und Tod entscheidet: Debatte über autonome Waffen in Genf - Neue Zürcher Zeitung",
-          "publisher": "Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbWpfV2h1YXc5UEVhMGxDNVhPZXlIODFuLVJ1dmRGZ2lzMUlSM0hXaFRMeWpWWEJHZVVEamYtM2lpQ2RTTmszNHdUUVRueFBNREVPVVE0N0Z6ZkZpMXQzZDdCT0JJNHBIcWY3NXlKN1lwV0FlNzVLb2hPenB5d3ZsT1ZCQXFKbGZOeV9sNGt5QUptT2JUWUNhS1RsRElmWDhjZmc?oc=5",
-          "published": "Mon, 16 Nov 2026 04:30:00 GMT"
+          "title": "Schwerer Schlag für Putin – Ukraine zerstört 3,3 Milliarden Franken teure Krim-Brücke - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc1Bnd2dLZ3I4ZVZXU1FId1ptNkpRRVNOYjhvcFNXbmxUdFI1aHZYVm9WRHlyWDBNV0Y5UVhlWmNJZ2w2eWxIRGdKck1EM0lyRWU4UVdZU0ZiN0xMYnYzeEdBZzBNQnNzdEZkcHFIbHl2aGljX2U4Y3JJeExKdFVkU0hMcVAzaDJmOE1Pbkd0b3lwby1xbEllcUpZZVZqaGs?oc=5",
+          "published": "Tue, 17 Nov 2026 17:53:11 GMT"
         },
         {
-          "title": "Abgelehnte Asylbewerber nach Rwanda ausschaffen? Deutschland sollte es versuchen - Neue Zürcher Zeitung",
-          "publisher": "Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOczFTQ2stVTR6QVJtdnY1Uk9DWEpFZmhCNkJVQjZvekhXaGFtZ2x3cE9tM0VXVkxvVjhsVHlsT3VhMjRkaFpNeUR5ZW5zRVV4VUhSY3Rmb1lwRjNNWjFoQkVHWWlHdWNtdU9HNUFMbHItSy1RLW9KVU1Mc2ZQR2t4YWZqU2lCWGdvVnhVdVFBOXBjemFhLWR3YlNiX3liLU9SS2R5dWJLV1JtVTEyd1d1bV8xXzk2VGRvWEdWaGVCZ1VwQ3JDdHc?oc=5",
-          "published": "Mon, 16 Nov 2026 16:48:10 GMT"
+          "title": "Kurz vor der Auktion: Erben fordern Rückzug von Van Goghs «Châtaigniers en fleurs» - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckxybDJBbklwMUVocFdSNHZwbmxuUXBCdWtJdDI2Qi1EMk51X09nWHAyWXBxUDVKZ0pIcmxZb2hTTkNSQjdrVEJOVjVjeFJhaWszZV9pRTlsTXpEWjl5OC02VjBaQUtxR3pnQVJ0ZVd5Q0FuZGJtMV9CNWk2SThJeU1uVGpoU3l2OEFCNThwRE1BbFI1eWZjVEthNW02RnN5YVBvcHVfT0xSVXpMeC1oZi13?oc=5",
+          "published": "Tue, 17 Nov 2026 15:30:59 GMT"
         },
         {
-          "title": "Krieg in der Ukraine: Estland plant Grenzschliessung zu Russland - SRF",
+          "title": "Putin in Shenzhen angekommen: Treffen mit Trump und Xi - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYi1tdFFOXy1DSVhIalFpUV9rSGhmUU1ZUDlLd0k2MVhlY3JoN3NOaDNzdjBqVGdobUVkek5VLXJic0F3QmhjdHNCQjJjRUs1R0hDUGprMkUtZVlJeVJPd1ptbzJlakE4WlhJcXJfSURFWjBhcHFZRlJSVW1EMmVGLU9qNFluUQ?oc=5",
+          "published": "Wed, 18 Nov 2026 01:48:54 GMT"
+        },
+        {
+          "title": "Iran soll mögliche Angriffe mit «Dirty Bomb» in Washington planen - blue News",
+          "publisher": "blue News",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQanUyQ1BfdFpjNGRrUFR5MjFGeHRmdm95ME5uUDA4aTNheG5GbFhsdExKTW85R0pxb2ZTV1AycXhrWm14YS1jV2gxdlZKSzc2VGJfMVpFaVIzWi02R2ZvUWxtMzQwRG9YRnlxNmFrbTBRYUwtNi03U2dJYXIzWUViem5hRmlaQUt5TkFtVGZKSzFYVUZYWkJMWVJHTDR5TEowa2dnZGtubGdxX3dKX2ZQcXgxY1Z4MS0tekl5UQ?oc=5",
+          "published": "Tue, 17 Nov 2026 06:20:37 GMT"
+        },
+        {
+          "title": "Krieg im Nahen Osten - Iran: Schiffe in Strasse von Hormus laufen auf Seeminen - SRF",
           "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWmU4NHRxTnkwQlFYQmhGTnBQcWx5dy0tUGFzaUlGd3ltUFkxNEpGSkxvc1dPbXNiVk5hT2NlRktadnBnbkRmNFhHdlRYX3d0UnFXUDJBSWVRQUZGdlVlUUQ1WmZjZWVuZTVwYm5RUmZiSUpTQ0lrVE5ONG95UjVTNDc3dE9YWmpEVFJvTllkSFlvNU0yZlcyT3RTVUhnc1A4RFp1TTJ0NHZzV2FmUVBIREVDUXZrWnBfc2hMX2oyVDlUQQ?oc=5",
-          "published": "Mon, 16 Nov 2026 04:39:11 GMT"
-        },
-        {
-          "title": "Proteste in Prag: Grossdemo gegen Abschaffung von Rundfunkgebühr - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSzZrcTE0cUV6TzZ1cmp5RVZ0UXhYNHN3SHRNSWpBRmNlTE5JQ3RHX2JjMEc0d3p2aDg4UG0tTXpKNlZVMC0yTmdnRHRDOGdHRmFPVEhWcWFOVXR5WmotV1R2eHYxYTFlRzhkRDV5bUJxS2pCakN0MDVJT1hDbUFTZmoyR0JFTGtRVnpoczhCVnhGbGFzX1dVUW45NGpMbVBheVlKOXBmZk9oeXl2OXFhellPbU5BYXRtMVM5eFY4TGNzdw?oc=5",
-          "published": "Sun, 15 Nov 2026 16:23:43 GMT"
-        },
-        {
-          "title": "Weltklimakonferenz: 35 Prozent Strom bis 2035 - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQVA5TU5QazkwWWtOWjJlVHNIYjk4ZHdHa3RncUJOX001Y2plNmsybWtHUzlxa0o5NTBOV0JBdzN4NXc4dVJjNG9YS1F4UlpSLVNDQnVIeTVRdUZybXpiMWZVaUlPaGhxODVaSER0S0E4WlNtQVMwWl82MHAzSWdTdm84VFpmS0JqQ2dpZEl3YmxsNVU5SEk5dERWYmdmY1E?oc=5",
-          "published": "Mon, 16 Nov 2026 04:45:48 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWjFyd250N1RMM0cwUE5RdkNtNW14TUpEaUUzRWhERTByX1dtWGo5RjlGVW1WVXRyaGFidHN4NVJ4VHJKTnBfNkVMSi1HeldQUTFNUGNfQjFzZElKeWFxdnRXbjF1UnN4WEgweTJfS0dOVmhOOGcteDQtX3JJVGF5MFRYbWVSbGdncXBCS1FjQTg5M1dEUFRrR3FJMTdVWERDZUZBaVF2QmpsTERRWXREaGl1RTNwdFNmOU5GXw?oc=5",
+          "published": "Sun, 15 Nov 2026 19:46:00 GMT"
         }
       ]
     },
@@ -50,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Affären hin oder her: Die Tech-Bros wollen Huang zurückhaben - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNkpmMmtDT25IbVhKbGp2Mll3dFV4R1hNdG1nUG9rcUplZjhjZzNMQ0ZHV05pdm9jNHJZN3ZHVlRjRDd0b2xfMTN4RWl4RGx3MXNWNXJJbWpuRUdBdFdZd252ZS1NMVg2OHNGZmllS21YaDV2d0xSXzBwOWtkRHZaUF9Sc0Qwb2JBUHBXaklPSElreU1BZ0YtRjF3eGpTdV81LXhIQWc4V1Nqb3JpeTh1cnZydjVVUzVmb2lzU29qMA?oc=5",
-          "published": "Mon, 16 Nov 2026 14:06:33 GMT"
+          "title": "Nvidia-Comeback? Ex-Boss Jensen Huang will Posten zurück - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYkVZM3ZJMG5jXzVQOWZlUnMyVzFjVERWdGpJV0RKSE9PeG5HdDZ2eGpCUjBOYmtNbXpLcExyb2RKSGF2V1lpZnNvSC1sMzBkRXV1UG1NdXNtdFhaT0hhVnpxS0dBbFVsd2xMUDJfMFVvZkxSMXo1R1lUb3pkWS02VjVnVEg4T2J1REtpdGFsWXpjRW1MTFdXRk1LWjdDMzZyekNDYw?oc=5",
+          "published": "Tue, 17 Nov 2026 17:46:00 GMT"
         },
         {
-          "title": "SMI setzt neue Rekordmarke, Richemont, Alcon und Holcim gefragt, Geberit, Comet und AMS Osram verlieren - Finanz und Wirtschaft",
-          "publisher": "Finanz und Wirtschaft",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2U1J1d2x4SlJWbV9zOU13WmRUWGl4V0t4eFR5SnA2YWFZUzJFSDlTVnA4LTFCN3BhdWVlZzJTc2JUZ2dUbE04cWtJQWwxblNFTFh6N3hRcjljX1RxRHc4SGlVcTU0elRJZ1kyZw?oc=5",
-          "published": "Mon, 16 Nov 2026 07:05:56 GMT"
-        },
-        {
-          "title": "Tesla Grünheide: Musk will 3 Milliarden Euro ins Werk investieren - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMW50VVRpendBa1BCODc1b3VjQzg1RktLbFRlYUNvQlJFVnFsV2otMU5BTlBNa1pLM25yZ3E1cUxzZTc0OGdoSC16cWoxY240YVpJcWh3bU4yN3YxOXFYOXJ5RVVGOXpyMWhuSENWLVkzeDNzS3pSdTFxVUw5dDJJWU5HWUpVXy1KMVZBUEVKTV9sSmZrMDdtLWQyci1yTTY0YU9QN3E0dVRGT2o0UFZ2ZGZsSjV1aU42LVN0a1o5UVFwdw?oc=5",
-          "published": "Mon, 16 Nov 2026 16:35:00 GMT"
-        },
-        {
-          "title": "Seit Juli versteckt im System: Alter Fehler löste weltweiten Microsoft-Kollaps aus - Tages-Anzeiger",
+          "title": "Grosses Datenleck: Deutsche Bank beherbergte «Putin-Verbündete» in der Schweiz - Tages-Anzeiger",
           "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcFJybGFYZkM2Z1pUbjJ0SmVFemQ0QU84aDRQbVAycnl0R2JqUFNpSms4WUJuTGo5SXNHNWp4bTl6U1kyeXU2emVuLTJtMDFJTjVpckZNa1AwLTNIeW5FNk1TV0JCYV9VWldNQWJXTGFvN1pSNk5jOWQ3QXdWNVVyQnJXZTJOSjRXZnRnbW5Jam90N2d5ZzI0bnVJRTF0V3ZRcEhQWi12NVFGNmRm?oc=5",
-          "published": "Mon, 16 Nov 2026 11:34:36 GMT"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS0ZjNWc1OGVVRElsZ3VMZFlYT1p1b2Q3LXZRWDF6bzRIRnBrT2J3WjNKTXBYMGhZUGtLV0pYYkVqTXpDX3VwYXdJWjNPS244VGduc0hvY2RKQk9uRU5ianJnamVEaTQyd1pOeWNJc0swUk42WXZIMzZ3Z3FBQnN5a3Z0Z0ZFSDdxYTlaMmcxdzRoeTN6WnJTbUlfSlFwUQ?oc=5",
+          "published": "Tue, 17 Nov 2026 05:59:44 GMT"
         },
         {
-          "title": "Dieser Migros-Chef verliert mit der Fusion seinen Job – bereits zum zweiten Mal - St. Galler Tagblatt",
-          "publisher": "St. Galler Tagblatt",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnh6VlZhTjcwaWZCN3RZUl9rb1c4MndPYm9oZUZteHZrNy12SV9pTnFqLTBJSzljTm1ic1NuV0tMMVdySlZqTE81dVJHamllandWWF9XVnB2QnZTdWM3UGtoTzliakNmQlVtNFpEQUdTMk1jVXhqTGU2WFgwV0ZRQVI0Qmg3Vlc4RHNnMkhUVFZxT1VYVFFBZlhpVkxtX0pfZHpOZnZuSjMtTU0?oc=5",
-          "published": "Mon, 16 Nov 2026 04:00:00 GMT"
+          "title": "Bäckerei Brunner eröffnet in Root ihren sechsten Standort - Luzerner Zeitung",
+          "publisher": "Luzerner Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc2s1WWlBTzZCUHlCQzFOUEdTamxwLWRXLWhWZ21PWU8xNnAtWHoybGR6c0g0Q25XSW01VTAwNnhDZHhoZUJjUTkwMXVQWWR6N3R4dFBfWGI3WWtkd0x6TzNXYkRiWjJfQ19lbkRSenRQVGZNQTB3VnVQejhSeGVuM0VzUnB0Wm9zWmx4Tl9DbWpxVzVpaS1SSXFxdUdjWnF3X2E4Z052cmxnUm56d1dNVnZrNVJBNWlISFc4RTFCNWs0eWRoVFE?oc=5",
+          "published": "Tue, 17 Nov 2026 09:22:17 GMT"
+        },
+        {
+          "title": "Der Börsengang der KI-Firma Anthropic könnte alle Rekorde brechen. Das sollten Anleger wissen - Neue Zürcher Zeitung",
+          "publisher": "Neue Zürcher Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaFY0R0VQWnE2MmtvN3ZzYWhvc1ZFWDFNOEM0WDRfVWtCeUJscjRIek0tUHZMczhVN3A2a1lBZzJWekZIUEpPQ2xDYmtveTdnYlIzOGVnU291WTN5TnpVb2dqU3h6VzM5TWJyMlJ1SVgyWkRrc1Y5MVZwb0VUd3g1Nl9Tb1JuMzNpaXpNZ3l3ZW5WM0N6XzNYOEktMEg0aEQ3VnVFdDE5bUhFNFE3YlJiVXRBRnpuZG9fdE1aeFZmTjFja2dkbW5LZDA5TXRPTEtwbklrT3NOdDh2Qk5VN0dSSGU5YzY0QmZkMVo2S3RZdDBPMXJ6b3dJNDR3?oc=5",
+          "published": "Tue, 17 Nov 2026 12:09:02 GMT"
+        },
+        {
+          "title": "USA drehen China den KI-Chip-Hahn weiter zu - Watson",
+          "publisher": "Watson",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1FLVXh3ZkM2Z2pjX3dDWHV1YnBsYmZYekJ0Mzc3amRicWhiNlZJcDBIMU5PbFpBeXZBNlBvUkFyNE5lN3dYeUJNU0pOUV9OeWZyWVFhSVY1UzF3RTNpWVlGdi1pQmtpMlpDLUVRaWlodkpPaU1RUjRnNWdELXZZMHZKME9sdEZ0cVhuOEZBT1Q1OXVEZTJUVlBDQy1mOVBTOXc?oc=5",
+          "published": "Tue, 17 Nov 2026 03:20:04 GMT"
         }
       ]
     },
@@ -86,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Nati-Frischlinge brillieren gegen Schottland - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMDN6U3pzMWFXZ2tEazhxQl9rbmtzYjFfSTR0aTZSdlpCTjhNLWw5QXNzM0l6aHFWVDM3dzl1dWp4N0lMTjJISUp2V0t5V1ZIRWFqOWNzZHUzRFdOcVpyTXVtb1ZSVnVFV3FlcnJZcVJZXzBTZy1JT1FPQlNuSXVleTBxQkR2WkVmODlTZEJySHdHbEpvWXpMSS1FZ3FNNlFfN050bms1VGhIZw?oc=5",
-          "published": "Mon, 16 Nov 2026 21:44:00 GMT"
-        },
-        {
-          "title": "Nati-Jubiläum! Kristina Freuler freut sich für Ehemann Remo - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0dQdGFucVhDWmRQV20tbjJ5SXRySGJiUHdDaE5LZ1BTSE1vRVRyQUpTcV9wVWI4OTRHcWhqc1c1a3hXd1lnU25mU2MzRlhzUUkxOVNnWjNNZjRCeXdIWnc4YXk2OWZ6YWRMU0ozX1h0VHNZQW5pVVJnQmVMRl85MFRhY2hvOWVEN1BacnRmRnFxWk9NaENpZGJGMS03RVUxWDRUMldWcG11NmlEU0E?oc=5",
-          "published": "Mon, 16 Nov 2026 20:17:00 GMT"
-        },
-        {
-          "title": "Ski alpin: Nach der durchwachsenen Leistung in Levi steht das Aufgebot von Swiss-Ski für Gurgl - sport.ch",
-          "publisher": "sport.ch",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDhDM2tabk84VUktYXk5Rzk4cjdxQWd6RmpBb3d6REVpNUV3RnVNclR1Sl9vbldjUmJ6LVJqTGU1U2ZNdkJHcFRlVThKZWhOVm5Xa05BWlFUVEpNN012MlRNWm8wZ0c4dVB5NHNPQ3FtckZkS0t3ZXpPZExjMERaZGhGbzZxR0tFc2o5RS1qbmprcWM1dzVxTmIwWFNtRWh3ZjZhLWliWQ?oc=5",
-          "published": "Mon, 16 Nov 2026 09:10:14 GMT"
-        },
-        {
-          "title": "Erfolgreicher Nati-Coach - Vorzeitige Vertragsverlängerung mit Yakin? «Ist ihm piepegal!» - SRF",
+          "title": "Champions Hockey League - Blandisi schiesst den HC Davos in den Viertelfinal - SRF",
           "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWHg4MENwMnNTNFZhS0U4ZWk3bGg2X1R6VFlYT3V4VXdKR2VHb1VzVkNNLUlEQWxVS3FhVkN0M2lnZHFkeUlkVWhvdjZxaWVVTXp1R2tJb0dWYkdxc0EweFhhLV91N3d6TVljYUNwNWthYko5Mm9wR0duN2FVMm1CNlVXZjdVT2tTemdXdHIxRUdWZ19KNDNsZ0ZEWU82MXo4V1JHN2ZaN2g1RmNzSUVuVWxmbEFkdmRrWW01dVVUeE9kUDduZUVjZHNpUFZnTW1USjVZ?oc=5",
-          "published": "Mon, 16 Nov 2026 08:50:04 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeWlrcE9iamFZdDNGV0ZTZmMtMURNN05meWRYM2ZmUS0yTHF5eWtMOXVLbThJb3JLend3Wl9mQ3BHd3JVV2JUaWJqeUJia2x6V3NLU3RkNGllS0hXVmpUZ0NMcHB0eEN5RkhMSkhyZHNZTV92aGw4Y1JFVVUwU0FqTDRBZXJzWXZ2aXdLQm9SZ1A3cXA1WjI4M1JDZVYwSFFpVHNhdWVRSWhnNUVfSTRoMWgyS0pxYktiYjVxOVQ4UjI4VUU2UVFmVmRPV2ZYdw?oc=5",
+          "published": "Tue, 17 Nov 2026 19:08:02 GMT"
         },
         {
-          "title": "Uefa hat sich entschieden - Diallo wird Gegenkandidat von Infantino für Fifa-Präsidentschaft - SRF",
-          "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUHduTnNQLUVGaHdCWHhVSmZtN1FyUTNhWmx6Q1o5Yzh0eGFrNTl1YnZ5RGc2cTBGLWFRcUh0Q3kxbDhXT19LT3NsWHkzRERNTWRyVEdkdURwNF83Y0dIMndHRDNxTVE2akxtRUZPSTFtUmg5NFJKRkJJY1hmNjlYQnpvQ2UtbzVST3ZrcUxvNkRjTW1OWkNsYURmbVl3SXlYbFFPTUNzc2tHTXJlZzNUb3Y2VDAtSDVkTTdZbkhIRWozZmdJdVhKYmppOUJiRTJ0VWN2YjZPSUJSNkc2MUE?oc=5",
-          "published": "Mon, 16 Nov 2026 15:39:58 GMT"
+          "title": "2027 kündigt sich grosser Konkurrenzkampf an (B+) - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanNhR0VMb0RrRlZTeUpVZVpjeGozOXppNG9rclo1eGZYUE0wS2I1bk81dFlkNnVId2szYS1SU2tBbjNiUUdnU091RUxBOFNhdVBkbDVmY3hjd1NWRzBWU0tuemM0Z1U2REs4LUVPbWlHYVNySWRvNS1ZZXNFamp1WFRJSy1NbU1PcFczZEFLUV9kQV9ZSjBWV3BVNGFnUGZDNDZSTnN3?oc=5",
+          "published": "Tue, 17 Nov 2026 10:37:08 GMT"
+        },
+        {
+          "title": "Nati-Frauen kämpfen um die WM 2027: Navarro nominiert 25 Spielerinnen für die Playoffs gegen Österreich - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3hKV0NKbXpCazFGQkpra0RWWWZGT1E5Uy1xZDM3XzRNVXB3ZjRUZlNhaDdEZ3Q2cEVhOVY3MnM4M2N3bXJNcldxRHhjR1l6MG1tUTNjMng5RWlCdE9sRnRkNHczb29FRVFfeE1nczlWMDNCUXpKX1MyMFBXS1AwblBNYURmalFMNXRmMFg5Q1RxWDhzd3lYTjdjazl4d2F4QnpkRUVrbi1LS1E?oc=5",
+          "published": "Tue, 17 Nov 2026 13:10:18 GMT"
+        },
+        {
+          "title": "Die Schweizer Nati dominiert Schottland mit B-Elf - blue News",
+          "publisher": "blue News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUd0Nzd1c0FENERMbzdkR2Ztb1dmak5qQVBxcEZ1Z2NpdVA0UG4xOThBTjBFd0Z5ZnJKNFgybjlrSzRPYTQ4QWtwakpVdHZzQU5mZlNDY01RREJveFA1ZXNrYUI5WnBSQ2xsMkJuamZFSmhxaGFTTGxkMmNwZkxYeThiUUVSUTJQb0g4cDU0amJQTGxpWjExUF9pVDZTVEdKWHdHTHpjbmpObEhGQTVqNkFiX096VmpMWFE?oc=5",
+          "published": "Mon, 16 Nov 2026 18:54:00 GMT"
+        },
+        {
+          "title": "Kampf ums FIFA-Präsidium: Wer Infantino herausfordert und wie gross die Chancen sind - Watson",
+          "publisher": "Watson",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZHlxQUw3QlBlV3E2Z0plRUcwSWlnZWFxSzJNaXQyeGRCb3dENjNZNE9GLWZRb1kycU5UdVliOTJxYnF0UU9HV3V6WnVkWmtiUE55Tmo4ZHJhR1FzektQRm9pS3U3bmpLOE52a2lkSTNNNE0wOEU2VUhWWVhRN0ZHdzJNNVNTWTFxRUdwaWRPNVJoVlVxLXpMTlluZVg3T0Vvdlh5V0hXUWdYQURYWHF1dVVDSk9hRHc?oc=5",
+          "published": "Tue, 17 Nov 2026 16:02:51 GMT"
         }
       ]
     },
@@ -122,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
+          "title": "Psychiatrie in Zagreb: Kameras filmten Gewalt gegen 32-jährigen Patienten - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZzR1bUxUSGRHQVp1VElGSjB6Y0VrSEpQWkpodTFFTURRRE5RamI1RVEwU1MxWHdLaEtvQXkwR3B3MjNjMVJZUFE1UGdUcGJ3NTdjZ3AycHMtTWNpdzFBZWtJMFlnaGpUelpqU3JqZmhsRVN2aUlSY2VIcnB3UzNCN29tT0ROOVo3aS1ybG1TLUo1WXV3SjhLWVlPalFIQ0lHTzZDTjBxSW8?oc=5",
+          "published": "Tue, 17 Nov 2026 22:21:55 GMT"
+        },
+        {
+          "title": "Stimme geklaut? Ben Afflecks Synchronsprecher geht wegen KI-Werbung auf Schweizer Versicherung los - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWRrVExPZkdrLUUtcFRWbGVOb0pwU1FHRERGYi1LU3c0QzZubkhaLW9OTWw5MVdUQktjMVhzcnBRbjNJeFQwRUdESU9YeHdLY2ZhaFhfTnJfeEZ2UkVqWDdLUk5INlFFUExWV1puNngtTUM3ZW1wM0N3WmFTdnBDbVlNc3dwaGdRZ21SeEY5VVBtaXhPOGNPMU1pTUVSS2t6cHZ1d3ZicFVLcDVU?oc=5",
+          "published": "Tue, 17 Nov 2026 03:52:11 GMT"
+        },
+        {
           "title": "Unentdeckter Fehler in Microsoft-Software führte zu Ausfall - SRF",
           "publisher": "SRF",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLW1rU3E3VDdGTEZndnZGM3ZnLUZabHJZUkpJT2NZbzNZcDhRX2Y5YUpWRWY1S08wLU5PTWE0Sm9zdjRFd01pNnBTSExlcWZ5UW9FYWRHdlVvMlFsRDFDYTJ5WXNYMmxoQVluNlR4bEZGX3RibzZoN2hkNzd1ajJ2REhyLVRwUWZ2ODVYNGI3aEU0QzA5TkZpeS11SVlxTnhOdkYwWjVR?oc=5",
           "published": "Mon, 16 Nov 2026 14:48:16 GMT"
         },
         {
+          "title": "Mensch gegen Maschine: Konzertpianist Prosseda tritt gegen Roboter TeoTronico an - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWZMLXhzMEFicjZIZEdIZmdVNW83Z1BsWU85Wm4wc05VUlpldlo0ZWUyaGhyVXVkdkhjX0pUaG5aS2lvVHdEUjN2bXh2N243c1hVRGNVTzJuUk9pbl9yajZTNVRzYzBuUW0wVzFTOHdlVjk5dWhCRG5sMUFuTHJpZl95Q2I4SU51UnFBSGhodDhlcUc4TVFR?oc=5",
+          "published": "Tue, 17 Nov 2026 14:21:48 GMT"
+        },
+        {
           "title": "Weltweit mehr Ferienanfragen für Release-Tag von GTA VI - Blick",
           "publisher": "Blick",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQzZ6MllWZjAyMl8tZWl0Y0JQWEFvLWFUQkhxYjh5ZEFUSmRyRFRHWDN2cjVwRmJEd1hjM1Y3MlNfZEpiT3g4aUJlVE9LVTJZS01MM2pqMjdpdVZPX2t0TWRZbXJxUFppc2lGLU5ITVJKd09PcDVwV1c0R3lxcWJuNmpydWJtcktwTFVUaXZVYm13eWRRMS1SU0dfU3FHdw?oc=5",
-          "published": "Mon, 16 Nov 2026 16:17:57 GMT"
-        },
-        {
-          "title": "Luxushotel-Datenleck betrifft auch Gäste in der Schweiz - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbWpMdXExa1JPcGJhZTIyVUk2TTEwc1FnZmdJazBxSzAzaEdyTDVjaHpuV3hDM2xLT0VEdG5nTl9HZVV0c3dSa2pGOTVhMWZnanU5enZGMzJZalp5N20xNFdZdU1JS05naHVOb2poXzNndktrNTJZdVU4YVU3ZGNkSTVXWXNXeW1YNDVMWUsyMTlhalFQY3ZnZkdhSmZXT3FIaUVsdzhOTmViWVEwckNsVEw4UG1OZw?oc=5",
-          "published": "Mon, 16 Nov 2026 11:30:31 GMT"
-        },
-        {
-          "title": "So hart trifft ein Anthropic-Flop auch Schweizer Anleger - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGlQRU5YY29SLTdkakxPRFZ6TVRUdHpCSlgyTUR0Q3JIblpOOWVaY0NxTXlmcTJhZ2ZjZ1prWWpEbE96dGtrclBtVy1YMVZsZ1ZDTmkwem02QXBvTEltc216MFNfMHoteDdVVE9zRTR6ZWJ2UXVCTjI5ZFlNOXlHUUJTTmotRXpSaDBmaVJhVW5rdksydW15YklNWF9JaFpNTWtjRHkxV2JNcjdheThLWg?oc=5",
-          "published": "Mon, 16 Nov 2026 22:52:03 GMT"
-        },
-        {
-          "title": "Steigende Zinsen setzen Gold und Bitcoin unter Druck - Cash",
-          "publisher": "Cash",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS2Z6dGdwY3NFN0FsZXE3ZkxBaHBtaHlEay1jc0RfdWtNaW1UcFNockFIX1lmQlZydVdHdmFFVDk2QjV6OThZRjB6aXpqazVIM2xXUTFxV3d6b1VVSXV2Nl85enpIMTczeElhU0JrYTF3UVFhR3NGcE5IWkFrR2Q5N1BSSEs1TFp2YkJ5MjIzTU9MUEU?oc=5",
-          "published": "Mon, 16 Nov 2026 15:02:06 GMT"
+          "published": "Mon, 16 Nov 2026 16:17:00 GMT"
         }
       ]
     },
@@ -158,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "European football body’s plan to go global leaves Fifa on tenterhooks - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWdzQXd6TnF0b2VQUmtxcXFJdXNMU3hSYVJJZXY2Wnk4OGp3Q3FzTkw3eDNTMjJiRVcweEdIbWx2d1E0VzVDekxMUGd3bkxTVUtFSVJUVllVZHhmQ1FUOUtfWFJWSmg0YV9kRnBQT1Vyb3BCblVUT01VRllNd3BNeHA1eHEwSVZ6cEJaaC1qaGtOQ3JJQnJ3a1d3Zw?oc=5",
-          "published": "Tue, 17 Nov 2026 02:30:00 GMT"
+          "title": "2026/27 UEFA Nations League: All the league phase results - UEFA.com",
+          "publisher": "UEFA.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSTN1bFB5UWJ6QXdWWkF2X1RHbzlrcGtFd25XVU1YTGZ0TzRud202T3lQcHV0SlEtVkFlaG9mc2E2eVA2MVJ5czRIQi1hY3VXVEt6Q3p1QUpUVGc4ZXBILTJzTl9TaHhnT2l1dVdaZnBSVmJmUnZPYWlSUG9JWG5XOV9zeWtwVGtLb1BzbWQydVBCQi11X20wR2RaRFY5d3pUMG83aGdTV192U241N2NDRGYtMENGX1lOcDF4WmxxZUFmZDRyLWE4WHhQU1BSb2x3U0t1Nw?oc=5",
+          "published": "Tue, 17 Nov 2026 22:44:50 GMT"
         },
         {
-          "title": "Nike agrees four-year deal to become UEFA match ball provider for men’s club competitions - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXdTSktfQURMbktpYlZvUW1YdmkzSWd3eWR5My1pV3NLbjFDQWFsVzk0YUpPQ3QxZ2FyOU1aZGtCRmNjczBwZl9Fbk9xVzJHQzV5bHRvWXZiUTVZdXFpaTBZSnppN2hoeU53VFYxbUtRUjZKTmlDd0tMZjJIQ3ZEY0JKeVV2dGhjd0pkQQ?oc=5",
-          "published": "Mon, 16 Nov 2026 10:00:04 GMT"
+          "title": "World Cup Bounce has Arrived for Area Soccer - Grady Newsource",
+          "publisher": "Grady Newsource",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZE1kS01oM3QtRWl3MXN6X1NYSGR6UmY2UjhidzNHOW1ndFExRWVSdDhTRC01YUZOMTVidVRxMEpCa2NlZDdVelFGQW8zSTBwZjdiQkpZRXZvUHdYQzA5djV3RkxVS3FsME9PbnpPZkhaTzdNa3NzVUMyR2JYcmV4M1R3?oc=5",
+          "published": "Tue, 17 Nov 2026 17:18:57 GMT"
         },
         {
-          "title": "French football chief Diallo to challenge Infantino for FIFA presidency - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQjBNNENHU0d2UmdESE5zYTl6T0ZIMGRxV0tqQWZEMGJpb2luT0xYY1NOWHlvTk1RRlc1d1pjMmdTNlFNOXNDd3NvR04zR056YU5zOF93bWE1UkpIWUltNS1IaFJjVFNsNUVPWHlud0ItTTBsMENQSFZZQTc2eHNmOTl3YWxMYTc5N2VPREhyUkFoUi1IeDBNaGJ6LTYwaF9pMGVNNlRsQ3hWTGlHZjhfLXFNeXg?oc=5",
-          "published": "Mon, 16 Nov 2026 16:24:46 GMT"
+          "title": "French soccer federation confirms Philippe Diallo as candidate for FIFA presidency - ABC News - Breaking News, Latest News and Videos",
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzYzc0NjSWxBSFVja2pCcmkxdXJqSWdZamtpMmVGeXBzYnFXdjFBRzFKV2VzZXNGdjFVQ1FVTXlkTmJDZm1JbmJaaWsxZkhKdlEyTUdvSlhETzJ3WnFfbVRvaWtHU0UxWUNudzZjc3JEb0p5T2NoWWtzaGpjbTVOdXlTal84MHRUTXhCbk01a19JVll4MFc5TzN0OFJfZU9CMXU1cFFkMi0zdFnSAbABQVVfeXFMT08yVlBqUXItcFFXZGNVR3pmV1hkLVBOSXR3dm9uMHRQcU1LNG9fckQ1d3FNSm5kTFRRVTlUN3ZyV3dFSFR1SjJJTUg0d01RSFhCdC1INlp4LXVJdmVvNHZrdFVDT3ZwOUlYQmRwSW9JQjdac2VJbGFUVjNZQVVhMzVIMmtycHNpeE9xbEVoeEs0UXpFaTR2MEJ6N1k5cDdveENxalNTRE9aOXRrUEZmVXY?oc=5",
+          "published": "Tue, 17 Nov 2026 12:00:32 GMT"
         },
         {
-          "title": "France football boss Diallo to challenge Infantino for FIFA presidency - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaG9mUlFVckdUb0ZNbjNCeGszZlVsQ1dIMFdmYjFFNjdLeXh3Ul92UFhXaklsYlFjcmlsREstMUIwMFo4WF85Ny1RVDVTb0ZPODVPSVZjUDM0T3BpekkyXzJaYkdQT1NYNFp1c2VGbHNnczJfWHpPZ29BSnd6dkQzNXhWUEc4cFVqMDNXakhqbDBmcFI4OS04MlVB?oc=5",
-          "published": "Mon, 16 Nov 2026 15:44:00 GMT"
+          "title": "French football chief confirms FIFA presidency bid, criticizes Infantino - Anadolu Ajansı",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2kwM0s4M0FEbUIxTVhVbE5ER0RyWFdEQkxHQTJiNjZ6d2RMMkhnOUJERVNRRnVnN0t4MHJYY3gxWFJzRmZOT2xDTjFreVNRTThwbXF3a3pYcUlNaE9jTW0zSzh5Rk5ROFlGdG9nZnZ6MEE5akY5TnpkaVhIVFBuUTBCekUzZl9faGU4TlpGMEFMY3FDMFQ3OHUzN3FQSFJ1c0tHUzFnc2FHNUdKT0NsaA?oc=5",
+          "published": "Tue, 17 Nov 2026 21:58:31 GMT"
         },
         {
-          "title": "Nike to Replace Adidas as Ball Supplier for Men’s UEFA Soccer Competitions - WSJ",
-          "publisher": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY01ibnJNdDJEbXFyZzNabmNDcVZKZlh2Z3JzazZlaDg0dHJVMEI5VVI2ODNNdVUwQkZnTkU4M1hlT3piZGRaM2x4SlhvSERrUXEwTDlHS3AyTUl1b0wyNTY5amwzeDdsUERWa3lHM0hXX2pFbDFneUhiUFlYb2h3a2VyYzR5dlBxYTZMSl9QeUVsNWhsNHh6aUIyNV9oNjBjM0pST1d0WjNkZlRSdDFpNQ?oc=5",
-          "published": "Mon, 16 Nov 2026 11:30:00 GMT"
+          "title": "France football boss Philippe Diallo to challenge Gianni Infantino for FIFA presidency with UEFA backing - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUUhoYzQ5WGh2Ujg5RGxqVnpkejRiMW1uUHVRVFZDZUQxQTQyRVJBYklkeEktMkwxakpaS2dEQzk5WG03R01jV3FUSnR1RGJUdUpPR1N1Zi1fdE9BbS1Bam9YV3AxenA0OTJxaXVWbTBTVDdDUWtiN1ZmNVQ4VDhfSXNSUkt2OVZqZkl2dU1R?oc=5",
+          "published": "Tue, 17 Nov 2026 08:31:59 GMT"
         }
       ]
     },
@@ -194,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Robert Pattinson Manifested His James Bond Casting 14 Years Ago - The Hollywood Reporter",
+          "title": "Jeff Bezos Describes How Amazon Decided On Robert Pattinson As The Next James Bond - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYm1INU5oTXZZa3M5QTlQbTNlVzlPMmEyaWxSVUt2NHhBRDhtU3c3Qm1CLWJCdmRZcl9nTnJZX1ZjSnNIeWg2Zk9INlRIUmZoa3J1a1BCQWw2QlFtSS1XSDlVM3FiZGtqNVkzVzV2Sm5CeW5laHFBRjAtTWlmak9lNDRMOHJrd2N2V2pFSXNR?oc=5",
+          "published": "Wed, 18 Nov 2026 00:08:00 GMT"
+        },
+        {
+          "title": "‘Dancing With the Stars’ Couples Perform Double Dances in Semi-Finals for a Shot at Season 35 Finale: See the Scores, Who Went Home (Updating Live) - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTduMkJWUThpOUFXSTVoQ0tod2EzN295a01ZTTdZZEREZEtCbS1LR1hxUExMY3ozanEtQ3k3ZEJYVjRLRGtZai1Fd0JWWFJLLXdIWlN5N3NqVkxoOHhXdGhlMmYyOXYzWGRsbExRNWxsc0tNcGhzeGJrX0V5a0tSeGk2SEdyNTFiWnc2cHF4VmNMN1ZLZ1lFRnF4MWMwRmR4TVI2SlNaMzQ3Sk5vLTl2Y1BRQm1Fdw?oc=5",
-          "published": "Mon, 16 Nov 2026 23:49:46 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa25kdEdCdEwwU0lXbmdEcHFDcXB3OUxncGYwbFVyLXhlQWI5SUVRZDF3TnZuX0N3eVg1WVdyZWw3Q0wwUHB5SW5wdE9WRDc3SHFBampvN3ExSlpjQmpZeGxDWmU4S3ZMN1JqMzVFVDNILWFjZHljSVVab1pyRm1qcVVTbWVBVXczd1lWdlFqWkVNRVNUYV80YkplU3RaVzFWdEFKUGF2UkhsN3RmTlN6U3VEZ1hCVlU?oc=5",
+          "published": "Wed, 18 Nov 2026 02:03:30 GMT"
         },
         {
-          "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field - The New York Times",
+          "title": "At Burberry’s Holiday Party, Gwyneth Paltrow’s Son Plays a Set for Teyana Taylor - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndBemszelBDSlhqaWVXRTFTN0pTb2JTMmpxcU1fWS0wbHpfM3dBWHRQOWtqb3JnZkN0ejV1OXU3SkEyblpkazdyX1lvQTBvRmdHdEdfVHBJU3NIR2swajBPMjc3SDU5WjZXaVV2blFSZ2l3YzZCY25ZcWd3S3dxZVRLd3QwQWVscThKRnNRUm9GWm5BRE1ySTlVRQ?oc=5",
-          "published": "Mon, 16 Nov 2026 22:25:20 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTNON0kzVTNJUDJWbEJpWWhZMTdCZWQ0Z2h6R0FXZms0SklCRXltVjlXMENaY2RXbUlkYVFoNFpuZlVwQ1pLWXBIQmJrd1NhS21lMVc1VE1LdTkzaU5oTnlrbjhEblBBdHlXd3IxUXZ3aEpaWm5TbjVlWDcxN3JIWTEzLWNYWllqNGNqYm00bWNlMnYxN0xNMnRLcFZfODA?oc=5",
+          "published": "Tue, 17 Nov 2026 20:04:25 GMT"
         },
         {
-          "title": "Ray Tintori, Music Video Director and Filmmaker, Dies at 43 - Variety",
+          "title": "‘Madden’ Rotten Tomatoes Reviews Sack Nicolas Cage’s John Madden Biopic - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYTVrR3JfV3lPQTJJZFlSVmxQc1hKbk9FV1NLSGs1dGRsWUJUQkNMRGFFMFdKRVJ3Um4xNUFlLWhMeEVfaVg0OHFIUFJEdEthTTN2VUM0M1JFODY2Sm5BbzlVd3NsWXNRTE1NS2tTOVJRS0R3bDAzVEJXSWlZOUFTYkhlMzNHWWpYWXM3RFlXUG5wb2hvLU1qRlhsaElEVUgxenhiWllsWnExN0k5ejZvc0JnWXpZTDQwdVFjUQ?oc=5",
+          "published": "Tue, 17 Nov 2026 21:01:59 GMT"
+        },
+        {
+          "title": "Jennifer Lawrence Stuns as 'Hunger Games Sunrise on the Reaping' Premiere - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdqaGdfdmtLRUZBLTBjVURHLWU1LUJHcHQxbkdadERwcGRLWXU3c0VNOXpydFc2OF9vTDN2a2stb2owYVJiWGh1aGsxM0cyd004ZGRuSFRTZlMybmxOU1prdHEzS2RDaEVHdWU3OTRUdGVaNVV3YXdJMjlFLTZDZHBTcFcySjI5ajF6UVBEUDZtRkowNlNCT3lR?oc=5",
-          "published": "Tue, 17 Nov 2026 01:27:00 GMT"
-        },
-        {
-          "title": "Woody Allen and Soon-Yi Previn's Daughter Shares Rare Family Photo - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFM2ZHNyWmZpR2pvUnU1NlFHQzNNUlNzd09RUzdOUXlJR19UWTdXdldWcEVNY3UtY2dUb2dTOVowWjNSb2Z3cDh0X3ktVDFKQktoYnRWRDlMY2hVZlNobDdYaG1uVnZRUkhkbVc1WmppZ09lVnJYVWU2Skc5U2RzV3NFME5NN2h2MUJpbVRiQXhkb1Vh?oc=5",
-          "published": "Mon, 16 Nov 2026 23:45:38 GMT"
-        },
-        {
-          "title": "Cause of death released for partner of Gypsy Rose Blanchard - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMTRtckowWnhMVEV6YzNpRzBXOEs1c0NnQ1Qtelo5QUZwdzE3bU4zZ1VwTDFMdnQ0N0pzV1Zwc2M1MGthdXV3cERKQWktMllwaXJjdEhKNjQtdERJQXFHYW9pQmczenBvVERVcnhZcWctYkxIZXQ0ckFJc3VIVnZ4dUZHNVFkNVNXZDhFelV6WndDa21DaVE?oc=5",
-          "published": "Mon, 16 Nov 2026 23:16:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0hlX2VROWZ4NjdQT2NjX2xhc1BfOE9PblJmdXVXdHdiWXRJYlY1MWNmNWg5dUZJcUc1MjJ1WEZ0bUFGeVlqZjNOV2ZRdTRscm95a2gwR0I0a3BhSmszZTVDTVlIU2lRX1RMOXdCdUhiSGwxc3Byblp2WkN5MWVYVFh4Tm1CUTJEbHBfbHZHNGthU2JjcFRzRW15b05rN21fUU16OFBQcW1FMTl5TlE?oc=5",
+          "published": "Tue, 17 Nov 2026 00:32:00 GMT"
         }
       ]
     }

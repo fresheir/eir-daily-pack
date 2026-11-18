@@ -1,47 +1,78 @@
 {
   "market": "BE",
-  "generatedAt": "2026-11-17T04:19:39.181081Z",
-  "validForDate": "2026-11-17",
+  "generatedAt": "2026-11-18T03:19:09.368440Z",
+  "validForDate": "2026-11-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Minister Van Peteghem snoeihard voor Frank Vandenbroucke in HLN-podcast: “Hij moet geen verkeerde informatie verspreiden” - HLN",
+          "publisher": "HLN",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLWpmSHZaeEJ5ekhMbHZvZlNKTWlMc2tnTUZDU2tyamJrOHMwSWNTNWxXNDZYWXBJc1h4NFd5emlsQk9fQmRDQmZQdnBhWkdXanBHUDR2REg3LVFWU0poUGRaSk5hajNXTHhxM1FnZndPb3NlY3JVb1dqYnhBYU1fS3pBdEdFT3lLSVVrWmpnaTZYeURXR210WmtmWVVpM1hwMW9kaHRTNUZxam5WXzFHWkJ4VmphYjRMYUNGTWxSZXR0OE85aWZUc3hVUmlVWUtCR1RqQUloZmhGQk1fdVFPc0Ric1FHZ3poWE9WMWVyRQ?oc=5",
+          "published": "Tue, 17 Nov 2026 18:07:00 GMT"
+        },
+        {
+          "title": "Bouchez geeft verstek voor evenement van project Durf, Lachaert wel aanwezig: “Blijven openstaan voor samenwerking met andere partijen” - Nieuwsblad",
+          "publisher": "Nieuwsblad",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM2NSb182VEZsbmxSbzgwZG5obzN6ajg2T2FLWF9mTXY0YWkxLVdJOTlETGVLVk1fRWtjZGswdnEwVHJUXy1uUG5USGt1Nk44b3lyVnhjZHN6cjBkSUpDTzhMdVY2ajl6aFNyS2hqWVBPZVhNcE9aVTVrb3c4U1NmWVo2dmNrcG1LQmlTWjdFbUlHOTZGZHRBVGN3Ykk0cHhlRmdzb3VPbUhjZGN3RFI0S1pzdVBpanFCN3pvMFlDRG9uX0VuZDh6WG95VE9uTE5XclJ1Rjd0UVdZRnA3MXYzLU1DZlNRemNuOFEzdmtXdXBwX19fQUVnWkZ2ME1nZTRvTWZ5WGVhanNQZWlvN3c?oc=5",
+          "published": "Tue, 17 Nov 2026 21:15:55 GMT"
+        },
+        {
+          "title": "Politie pakt drie personen op bij studentenprotesten in Brussel, onder wie een minderjarige - De Standaard",
+          "publisher": "De Standaard",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNckNwc2Z6R2xaUFZka0hXWUNGOHFJaGN0YUxXOEpfM0xFVFhadmpGQUk5am4wMDdUa0tmQmwzYmtmRTI4QkZzdGI4dVpGOXV3ZDJ0U1p4S3VNcUFnVzRrRlpIdFA0UWlnRC11SFFQQTVpdnFIZGxLYkd1aXVuYmdUVWlkcUFKQ05BQXZvZjItb1JWSzIxVHFDa2RIcUNSVzlDTDllNDJTMVNQZVN0OVFNOVZYRTRVY0VrLTQ3N3dfbTRvblhuSjJ1MHRwMERibUNGRmh5WEtwVmo?oc=5",
+          "published": "Wed, 18 Nov 2026 01:49:00 GMT"
+        },
+        {
+          "title": "Parket-generaal onderzoekt rol van minister Annelies Verlinden in zaak rond geflopt politieproject i-Police - VRT",
+          "publisher": "VRT",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjZicFFkd3A3S3cyeXZ2dHRsUERGU2lZMUhMbC0xdG1RZGhkUE0zQlBjSWptUE0xX2xfenBlTFVCcl9OTFpTTjJ4UWxLQl9NWlRqXzMtN3pqeEdvczZFTzVyZUpGc3Ryc2JvUGkzVjNlNEtnZWZWaUNYZU14ci0wQVh1ZV8?oc=5",
+          "published": "Mon, 16 Nov 2026 15:58:00 GMT"
+        },
+        {
+          "title": "Medisch noodgeval in file na zwaar ongeval in Kennedytunnel: persoon in kritieke toestand afgevoerd - HLN",
+          "publisher": "HLN",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZThlcVZsekVsSUxiNzU4enNTV1pKVXExN2NvT19peWtDd05ldHIySmtSM3c1OGQybW1YcHU2Yy03X0pKc2NVR3BZcXZsRmdva2daMkVqSEJnVWRsQ1c3NHJ1WnpyWGZjTWJqZzQ2bTlvMjRjTEc1Y256OVN1RW5aR2drdThvcHprZ1JRSWdyUkZ6eVZZbjhsUU5RWEVaRm55akRvb042RzdVVHNBYXhUTWEzLVd2WDdMbkl5alFYV3BEc1BmakRsV1VOejV4WnpfMm5F?oc=5",
+          "published": "Tue, 17 Nov 2026 15:48:01 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
       "items": [
         {
-          "title": "“Israëlische inlichtingendienst waarschuwt VS voor Iraanse moordaanval op Trump met drones vol explosieven” - HLN",
+          "title": "Iran meldt Amerikaanse aanvallen op eiland Qishm in Straat van Hormuz - HLN",
           "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZGVxQXBSYXhQWEk5MnFuUmxTSmxmNEVwalVWZjRoeDNhUzREeTE1MDVhR2ZOZHFRcXQtMm5FaFZTVmkwTEhmOXprdnlEOWJycHdwRFBkdUhVaUNBalpaWGlIUUpfdXlJVlc1aWxfakRiQ3YzQkwxbGlZcUdsNjNqNzIyVFRMNFVZdGZPQ2V6TUJ1YWkyXzhDV0xJLWN5OVotOE14RkhMMnN5VkxxbVJwYWFqa2tZR0VPUUdmTnI0TWhYRlJaS1lLZWRYeXBndV9raHB6Q3VlZ1lTZGZ3Z1E?oc=5",
-          "published": "Sun, 15 Nov 2026 13:59:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV1FkcXZaXzJpVjRKLWZGZUI4SWNDR1l4WEFwWWNRdGo3a2lnNmE4X3BFUV9kc1dQV2pqVnY2dHY1NkdlYXkydEh2VVZybkNMaXJHZDFMclZUZy05Qk4zX2diWWU3eFp6WlJ3cjI5N0EycVlkQzV3ZTlfeWNmVkxFblIzOVVFdng5SnhpSkQwTTBiV3lSaS1jWG1FTnEzZ1d2cV9yN19LQW9CazNzUGc?oc=5",
+          "published": "Tue, 17 Nov 2026 20:44:08 GMT"
         },
         {
-          "title": "Trump zegt open te staan voor terugkeer van Jensen Huang als CEO van Nvidia - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWVtcTJ0Uk9PNUt2bGRDVFdrME5URlVSY3BIN3AyZUwxTDUtLWhBeWdlNzVIZm80QmhnT20xaVNXakw5cEp6eVJSY181djR4Z3Q3Vnlfck9iWnc5WmJwNjd1XzBMWURycWsxNEdmbVJhT0s5b2pQUDhrWUF3Y2tudHo0OGxfam45M2h1NWhULTl4TDZnTHZNbGJEeTdFYWZaUTlfOUo0V0MwZzRVaDdreHR6VWlQUQ?oc=5",
-          "published": "Mon, 16 Nov 2026 16:06:00 GMT"
-        },
-        {
-          "title": "Federale rechter verbiedt beperkingen op studenten- en journalistenvisa in VS - De Standaard",
+          "title": "Oekraïne treft Poetin recht in het hart met aanval op Krim-brug - De Standaard",
           "publisher": "De Standaard",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcVNxQ1U2WGpCbHBidTNtQnAtaVBJeTh1NEYwRDk2cVpuNkRuQ2FLLUtHSFI3ckVIZGVXWEFIZlA5ZXR1eFh0VXdmVk4xMFR5RlRrajFxd2NPcHR0T01CYi1JdTQ3a2dFMjFQTDNZVG1CNmhvY1ZZS1lKX2xLRVVGR0E5aHdxWGQ0QW5hdXY3Unp4Y0wxRU5CNlprRzZrd3pTMVQ5OTVmdFBfeGtsUzl6QzJVOFFVMVJlekdkZDZzVDJHUWFP?oc=5",
-          "published": "Tue, 17 Nov 2026 01:46:34 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbnQzRGYwbzc1RjN0dGpXUTNMaHJIaFNQRnVtdnMwTThXaWpjdWRzYW5SX1NTSXU4VWJhcWNVTU5yVjlVRVVmeTNPcWFhdjN5ZWExLXoyRXFOdXFDb0Jxc1k5QVlGVXN1ajdsTnRHVUVJcXp5N2hDOV9TOUxFT28tLUthekhCYUZBY2Y0TVZEOG9qWl95bDk4UzZYb29QQUxDVDhYVnFUSUlNcFNicGZqZzFhNA?oc=5",
+          "published": "Wed, 18 Nov 2026 02:26:14 GMT"
         },
         {
-          "title": "Israël houdt zich niet aan afspraken over hulp voor Gaza: eigen cijfers spreken boekdelen - HLN",
-          "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYTBTRHdiMHo2UmE5a3cxcG56YVN6V0FrMUF4dzBUVTlYdU1ZNndWOWhiNkFyT1FnUWxvSkh1WkJDVlgtZzBKNW1FRkl3WTR6cVZVQ09TbS1fbE5VYXc4SE5DQUZIem0ySndIVHo4bGpnV29na3lEUGhrQ2s0NkxhZF9wa0ZIb0YtVTA4R2I2ZENsNTh1LVp2Vm1FenpFd3FqZ2xfLWlNT0ZoTXNRWVItOFFsQWdvVUNLelliN1RjOGdWWnp3aHg4?oc=5",
-          "published": "Mon, 16 Nov 2026 11:08:38 GMT"
+          "title": "Zelfs Zelensky krijgt het hard te verduren in nieuw boek van Joe Biden (83): “Niet zo dankbaar als ik had verwacht” - Nieuwsblad",
+          "publisher": "Nieuwsblad",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSWJ2ejlVbG9qVWdvOWZtalljaUdSaHR6WGFzZHJYMUo3MERqakIwSS1ELWEyYVdXdTh6c1pvRDN2U2tyWFQwcGZGV3pvbXdqMG1lcWtpY3VfVHRURVJzeUhlZF85M183RHd6dk1lTE9VYUVpb2RGdjduV2hDNU9iWlRQV2dwOFQ5N1F5UzFCZzR4a05uaVR6cFVvcWtndDFaZlhVczFnX3JWWG9RQ1J5Yl95TTVjTkNhZlBCRl84WTlWUnN6cUxmNE43eEhWWnZpSHBsSGNyTnJXWlVUdDFqcGotc1ZTOTdva0c4a21WN2QwT1BS?oc=5",
+          "published": "Tue, 17 Nov 2026 19:20:40 GMT"
         },
         {
-          "title": "Estland sluit alle grensovergangen met Rusland na nieuwe poging tot brandstichting in dronefabriek - VRT",
-          "publisher": "VRT",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRUcwVGhBSllvUXVkUWFIektsYmdheDVaTnUxYjRUOGt4c3dOTVNyMDNyMC1RM3NkMnNxREdEcWZpS1ZzNFc2SkdfYkZxWl82R09qQXFOYnphZGdySnNsSy15T3hEM3BYd2FFak9NamprU3daOWF0U1A3OFJ3clV0VzRRRVg1aVduQlV0ZDNiRmVpZGt1VXNIYTdGQ09NaHctSnpBQnNNUQ?oc=5",
-          "published": "Sun, 15 Nov 2026 17:03:11 GMT"
+          "title": "China wil niet dat Trump en Poetin ‘historisch’ overleg in Shenzhen kapen - De Standaard",
+          "publisher": "De Standaard",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdjhzZlpUeGYxTWp6eHRuTGpaYTd2SkFrdTJiYzRSUXRpTndFQ0x3QkJvR0QtcURUVWQzYjY1ZXNTSTAwRUVfVzI4UHMyUGd2cU1KbjRab3g3NzZRVjFCbDk4Zi1JSUFlb2pCQm96M3NnUGotbGZSOE1aU1hHMGdwclRRVl9iV0ZjejZJemhzM0JqeW1idnZ3MF9UT3RjSE5mSzNKRFVVUVRSQ0hUZzBOV3hDLXRSZlRhSkRHMzdjdw?oc=5",
+          "published": "Wed, 18 Nov 2026 02:02:56 GMT"
+        },
+        {
+          "title": "Militair transportvliegtuig stort neer in Siberië, alle 19 inzittenden omgekomen - Nieuwsblad",
+          "publisher": "Nieuwsblad",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX2Z6b19uTGo4bUpKQ21CTGt1bzZiM0JzbC1Ba2lUV2NfMDJjVEwtaldXTW81S19mb2o4V1ZEd2U1LUJkbFA1aEtSZHd0d2k3NlNoWE1UQnU4V1djek5jdVpfelpMWWdzdEYxNUJIUFBqckwyRzQ3R0V3OWphTWZTTnBoelgxdnhCTTdJSWNnR0RxSXdIZDBYVDlZSGxXY2RRVHBSbUJCUWk0amdwM2JBa0EzeTA2WVkyNzM2TEQ3SnRnSnlTZGZkR3BWZw?oc=5",
+          "published": "Wed, 18 Nov 2026 01:13:48 GMT"
         }
       ]
     },
@@ -50,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
-          "published": "Tue, 17 Nov 2026 00:23:00 GMT"
+          "title": "Nvidia overtreft verwachtingen met eerste cijfers sinds vertrek Jensen Huang: omzet derde kwartaal meer dan verdubbeld - HLN",
+          "publisher": "HLN",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZU5QQXhqQmVoMTRJR2NCMDByTW5BdDZ4d1I2OGJXSm1pa2hKVkJjcW9ZOHhHOVBmQ0ZVUktsdldWVEYzem9FMWhINF9xT2NjVl92Sk1IdkNMeUpJODBXemY1cWZaZ1ZyNDBRUmROVVBLRUZMRWstT2I4eG9rUXFOTmxveEtpdng4MzI1YlM5bWFqUkRaVFJobm85OVZ6b2lRMEdQRnFKc2h1M08yaElMQ3VONGc2S0xMX0lraWxNNG81SlRrbUVQUXM2dGJMbGpEclBwdXZwcTVlUGRQc2ZKOHZMcWxSRTJGVkJyTEdR?oc=5",
+          "published": "Tue, 17 Nov 2026 21:47:00 GMT"
         },
         {
-          "title": "United Airlines says it resolved a \"widespread system outage,\" days after nationwide ground stop - CBS News",
-          "publisher": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVV6WkxCR1dHSldhS0kzVjI3OTVhUzk3MmxXVnlBX2RLSVhoeGI0cXlaQ3VDelF5NzdweUtqOUpxY1FKdGpLTW50Rm5YZlU0ZlBiUHpOY3RXWDFLOS1JOHp0LUVIU2VYRFN4N0czYTNsd3pvMk8xQ1lBVnVIVFhiTmxUTQ?oc=5",
-          "published": "Mon, 16 Nov 2026 22:25:00 GMT"
+          "title": "Er mochten wel enkele honderden miljarden in rook opgaan - De Standaard",
+          "publisher": "De Standaard",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmozNHhCUDVjYnUydWoxeXpTdGJ4RkdDeUlNUk93enFzcHpxOTJIcHRuUDJyUE9yeWhqcmJLSVo2OHNNSml0V0ZWRDVJd2ZhUl9CZ0tZVF9pUHRWQ2NqUEVVMjZBal80U0ZRNEl0N3lDVVFsbmlJYUh2UnhXOERDZ2RjNklYZHExTklQSWI5Z1hUT3ZmSGV4VWdtaWhCelNqM3E2Y1FMTQ?oc=5",
+          "published": "Wed, 18 Nov 2026 01:51:57 GMT"
         },
         {
-          "title": "Trump administration's $50B air traffic demand hits GOP turbulence in the Senate - Politico",
-          "publisher": "Politico",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPejVnalQxVlRtempGWUFsVUtDY2I0a2VjT0k4RTRwZGVJQ1JvZ0RxS1lTSGh3TmNkYi0wUXQ5LTcxLUQxaDJ2RFFnTXY5eWR3YnYxRXNnZldISUxEdHlNVVJiUXNWd283MDUyOV9XX3ppRFlEZ3IwWmphdVJoVU9XOTg4SDl4YWg2ZXBhbFNfMm9KVFBwZ3I0RVNnVDY?oc=5",
-          "published": "Tue, 17 Nov 2026 02:31:00 GMT"
+          "title": "België op één na slechtste begrotingsleerling van eurozone - De Tijd",
+          "publisher": "De Tijd",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd2xXaWtESEN3WUExSXhjNUxqdXBQVUtROGtuNEFfREFsd08tbzJyWHFMM1BOUzJ5TFFtcXg0RDVsU0R3LXZ3Mjh5SndJYk1fcDVFMTgzcHFYeWd3S3Z3YzAxaXE3MjVHY2hsem5SNngxaGUtTUtZSmFvVXZFSWNtMUFpMmRQUk5aRmJWSzRiUE1IbmlCLVdMQVlZeHB5ZkpDRmJOZ3NkaHFZd0tteEEtNl9mcm5CNUltZ1o2T0U0RnA2OVFn?oc=5",
+          "published": "Tue, 17 Nov 2026 10:05:16 GMT"
         },
         {
-          "title": "Trump Backs Huang Comeback While Nvidia’s Board Pursues New CEO - Bloomberg.com",
-          "publisher": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzZFZHJxQ1ZMaW5Ba1V4bm8taHd4bFBvYUZHWFY4SFpydml5YUVhLTRCaEFsNG9TbjY1dl9ac2tDek1DemJ0M3FwQTNtQm5aNV83RjFsZEZTNmJ2WHRJRWtHUVRDVEdnTUJtSzlaMWZfSEU2anpRSmVGcG9SUEgxN3c1WG5UcVBkdG02bmsyQkxvNlVqeEV2SDFORlA3VGNHZnpha2EyQ3V5aDVIS1E?oc=5",
-          "published": "Tue, 17 Nov 2026 00:36:00 GMT"
+          "title": "Steeds meer bedrijven zetten rem op snelladen met bedrijfswagens - GVA",
+          "publisher": "GVA",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWFvbkd6MjR4Y1BMTW05QUphTkZOY3ZoUE5jVUhvVzloZ3FGajhDZkxsQ1B4RzdfT1QzSjJmbHpWUnNwN1c3R1lXR0E2V0dqSlViZVhGYWtSbGZhQ1N0YlhEY2h2MmI1cklqajVJMmZUaUNVUVhIdTA4X1hFWDFMeTlCTDRzWXlhekVsbVN0ZEpoZTZLTjNjYkd5WDRKRUU0Y3pLbXcyVWtLbVJBNFpIMUhPNldDNG4z?oc=5",
+          "published": "Tue, 17 Nov 2026 15:29:05 GMT"
         },
         {
-          "title": "Asia shares slide on tech weakness ahead of Nvidia earnings - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHY5U3ZMUmhWeEViMkJTbW9ObHlQYWRWbmdxWDhXMUdaWFRvLVdRY01oaTJJb3lmOFBiaWpQMEFlTFk5R2ttRnBaT18zaF9Jbk9od2Rza0cyMXJ6Z3JlalJDdG9neTVhQ3pJRG05SE9NQUYxZkFvQmQ5bnVfTi13amFNOA?oc=5",
-          "published": "Tue, 17 Nov 2026 01:22:00 GMT"
+          "title": "IKEA ziet ruimte voor nieuwe winkels in België: “In West-Vlaanderen, Antwerpen en Brussel” - Nieuwsblad",
+          "publisher": "Nieuwsblad",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR2NLUkNyLUl5ai04V3BWM2cxWFJqV0lodV9WRE55OUE3TnNvMDc5R1VNLXQ4SXNzQWQxWkxVSHhsNm5TeHZ3YTlZdldZMVNmNkt4NTdrMWFkeGRMM1BHM2szRHN6akF3S3hVRVBpNXBZSWJiS1N6SVQwanVNQS1MdVB2U0tObTJqVnJSWnIwUXdZMklIcUxIN3U3YzNDcFhzR2pIRWJfaEczencyM0V2dTc2YzRSalZwTDJXeUNZcDhsNFAyekl1ZVdHZk10b19FRjlfMjVwbGlEcS1MWUFZ?oc=5",
+          "published": "Tue, 17 Nov 2026 11:47:29 GMT"
         }
       ]
     },
@@ -86,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "LIVE. Ook ex-bondscoach Rudi Garcia doet z’n zegje over afscheid Romelu Lukaku: “Petje af, meneer” - HLN",
+          "title": "Tegen Engeland, Portugal of Duitsland? Dit zijn de mogelijke tegenstanders van de Rode Duivels in de Nations League - HLN",
           "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWJId25iVDB6bkdPQ1Z2bmsxYWR2Vl82ZDh2cF9GeWoyQlEzc3FKeWdzQkYtNmlBNDdyc0lldmpCQllXR2Q3MGZqVW5PMUVFbEI2dXRUQjNnOWxFLS11X1VBVzNsamNQS2ZUWFFUcjlMUEY1bUZoYkx3OEhncWpiX0hER2dzU05ISUhIZUZQUFlxdm01UVJVNUxaSjJqUzY3QWxSSmhwOTB5UjVEclpxbkllc2RRaEJvd3dpRV91aVN3NEp1QUtpc0c0eGlnUEE?oc=5",
-          "published": "Mon, 16 Nov 2026 21:06:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbVMxT2ktUEptUDExakxXYS13cUpqa3doZlJEejA2YlNFSHlRQzRWMFJmQ2tqNjFkbTdTdkdIZlc2ZUxSY1FHNXROOWliTGVPYVB5Smpma0hpc0E3N0plWG5qNkFrRkVRaENDT2g5dTRhNDdsZi1yN3dVQVhWY0FsQUluYXVHRlVSV1V5S29rLWFEaUlFR25ScEgzRVI4Q1lKbW15d2xfUHpxX01vSDFwWThsNzNBbDNlS0htbVp2VlR3S01icE0wbThmT3hIbkhFX2puZEd5dWhsVFlzXzNaeWdKaTNjT3NfMV80Ng?oc=5",
+          "published": "Wed, 18 Nov 2026 02:22:56 GMT"
         },
         {
-          "title": "5-0! Nederland loopt totale vernedering op tegen Duitsland (en dat heeft ook effect op de Rode Duivels) - Sporza",
+          "title": "Zo eer je het nummer 7: Bruggeling Carlos Forbs is redder van Portugal, dat met veel moeite groepswinnaar wordt tegen Wales - Sporza",
           "publisher": "Sporza",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNOC1YNDZ0ZWk2czNhdXNqYVVOaDRQU0hza2wwcUc0eHFPMUE2UDJLNTc1cU9Fc3RyYUJEa0l5cU9iaFVTcHUzSHJLcUd6Q2pJWGpXRjVreHNtQS10ZGw2cjIzb2hRQktLd25CWDhkUFpPZDNONE5QSnI1SUF3eGUwbVhRUmxFeTk2cHRMWTUzWnlEam80MTZTdGczSjNnX29Fd1ZzUUJ6RjZxLXpPdW9zZ0oyd1VJUzdvV19xanFxQk5YYXc0Ni1xQzNTeDFfbTEzS2tJTHJKUWlUZzFlRFhrZ3NoUDh1RlZCV1VZcXNLQzI0bm9ZNjZwVDlnVDlYOThVNWNiS2FrMjJxT3YyR1VmampQNmllZFlaT0JraVYzc0NQNU0zVWRqYm9wa0FjNExWVFZGV1FDTkFIQnBfRUE?oc=5",
-          "published": "Mon, 16 Nov 2026 23:02:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNZ1dVTmFOa2dLeHhuUkI4YkdxUjU0OVByYVk2OVFsN0ZxOVlxNnBrakd6WkFxTnA4TWpnOVh4d2NpQzdjR09JLXk1REJLODU1UC1kN280bm1JZEh4eGVxby1MdE9EcXgyWDllVEw0UXRzRUZzOTJaZE03N2UwcERmd0MwQUxQOGViQUVmOXZaRDZtNzQ1aXMwNUNuTFp1Nml5YTJoZFhubTJhRmxzLXNLVFRWc0dNMXNNUXJXZHZYMjYzbDJQaEpYYzlFU0tiRkdRR3o3SmFBQXJZYldFcTJlQzlURzlsNDluNG9veEFQdEl6dE1tM0pZYXpzRjlWWDlhdUtVUDZFWTNWR2t1MWdqSlcwQnBWcjRjYnQ0QUJmRl84X3FUZFhmakh4VEpDN1VheHJMYm9weGY0TTdBUGUtb2UwbXpqemx0am1OT3ZiTjZtUDA?oc=5",
+          "published": "Tue, 17 Nov 2026 23:11:41 GMT"
         },
         {
-          "title": "Omdat de FIFA-ranking niet alles is: België kroont zich met zege tegen Italië tot ‘officieuze wereldkampioen voetbal’ - De Morgen",
-          "publisher": "De Morgen",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTjA1Vk5qanVJdUJnWE9EQU9Ic2VicVNzNnN0RW1UMG5scnBocm5MeEhpRnVFbDIwcWh0RmhfYlIwRHF5QjNlQkdpZ0tYbW1ZQU9Sc0E4YkhiQ2dta3dDcmI4VDVFaEJmSEtfRmJMTFluOXVJQk9KdFNld1pRTGlmQkw2dVRoa0ROeFRadW84V0plWmpzTWM1dW4wdGJ0TmRyYVZnMTQyYm1RZnBwY05hUVNHVjkzcE5YVEMzVGtiTS1uT2NTTWVEd2txYndWalpSN0NYcEF6XzJYaWxLYXpob1dTRmszRVlBN3c?oc=5",
-          "published": "Mon, 16 Nov 2026 16:00:00 GMT"
-        },
-        {
-          "title": "Nu ook Timmy Simons vertrekt, één jaar nadat met David Hubert hetzelfde gebeurde: is OH Leuven een 'oplapclub’ geworden? - Nieuwsblad",
+          "title": "Wat ging er om in het hoofd van Lukaku bij zijn afscheid van de Rode Duivels? “Ik denk dat dit zelfbescherming was” - Nieuwsblad",
           "publisher": "Nieuwsblad",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUWNDWEJJODg3QmVYdkRsZ1JFQkFTUmZqVjRJTm04OU1nbFZDWHNKMzNoY0szaUlNZUZDbWRxZUFvTVlWN081MDBNRFltZGRjVndqWjI0ZUZYa3dVQU1PMVhKc21nLVRrZ2dwUGZwdktPcFZJOG1rUUY5cExnY2xwN1cxNGo1R2tUM1VDSjlwcFBBai1qemQ2UHZfRlJjMUhRbGFvZFpyY0wzX2tvNlJKSzRJOFBtUFF4OGFGbXdfX1RROE9TclZIQXpGOU80TTVRUHQ0ZjY5Zms2Si0yMTNUMWxnZkZxQldyZGhXcXVlZU15S2xJ?oc=5",
-          "published": "Mon, 16 Nov 2026 11:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVFpaRUE5a1FzdTBoQWRadkU0aDVPUzJXRDdhRnVHVVFobmdWRmpGUkN0MUNFQXNSU0dxemJZQi16dUN0ZDZBYUphWl9HbUhVQkdtYlNwV3JBMlUySFd4R3NKazg0M2lGSnpZZEF2eDZFTmlrekp5dmNya2NyUDVVeFE4dm15YnpTbUFPbm1Rc19Gdjl5YmxIT3BKUWhzVnpKaHNMX24xOGJIbGRPb2dvcEFXXzJBaFBmQ2xRLVJuNktYNGNoUXM1RExkMXBsTDFKdWczMnE3TWtaQkd2Ty1wUU5zR3M0U2hLYlVyTk5uUndpTk13REc5Y3doVQ?oc=5",
+          "published": "Wed, 18 Nov 2026 01:03:00 GMT"
         },
         {
-          "title": "\"Er is maar 1 schuldige\": Timothy Dupont doet relaas van incidentrijke ontknoping van beachrace - Sporza",
-          "publisher": "Sporza",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVllEbXJVdTdPajduNFl5ZEVBNGtSamxrTkMtQTkyWl9YT05RcHNJOUZNSkQzX0pLRURzUXpjRDZjOEJjQUhPdmlKVDdzeGNsT2JXSG90TkxPZXdRSTEwVDJFb1JieU1uQll1UU9HeUVkRHV4V1ZtRTlEZGNPT2ozbHhuanpsNmkta0tnZ2FGT1lla096LWJNbGVsUGIxVXBsV05NSEcySjJnS2MyZnE1djBzQWh2R1Y3TmZ4cE1DTkJlMzktaXRxdFVlT0EwV0hianQ4Sk8zOA?oc=5",
-          "published": "Mon, 16 Nov 2026 17:00:00 GMT"
+          "title": "Zware crash op eerste avond Zesdaagse van Gent: Jasper De Buyst afgevoerd na stevige val, ploegkoers wordt niet hervat - HLN",
+          "publisher": "HLN",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ2NDQVpCRElkVHJHbS13alRVOWNRUkhMQWx5UzRZYVN1T3p5QVpDNE5nX1JSVHAyY1o2cG5ZRmd2ci01SGVGbjVNX1Jhek1XYXBISUdfb3VobW00Mm10aE9aUmJoOVROdE5naTcwZVc1OERaSVFOOWNWZm0temhWLUVHUl84d0FjcDVXYVFXQTI5VGFVdk5ZUE1wbjhiYXZ6LXZqQmlpaFJZMDljckt2STZPcThFYnFTU3hJX2ZUb2R4dEU0YnJJUi1iY2xCdlFlUExLVC01UjZZd2VkalNBVFpvazZJQnQtaEstYg?oc=5",
+          "published": "Tue, 17 Nov 2026 23:48:45 GMT"
+        },
+        {
+          "title": "Hapt Napoli toe? PSV doet bod op De Bruyne van zo’n 2 miljoen euro - HBVL",
+          "publisher": "HBVL",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXh0SmEwQW9rSlNuU0E0VUhCRHRYYTFmd2V2NnkwcnRYeXM1UGZiOW1hWnRwNUxzSzB5TTlDNnc3YnlMR29yLU9BRktFb01iZnlWZHd4RDVLSjF6ZnBJdUFpd2c0cXExMHBUMlNaNEdwMDktSWYtbXV3a1J2RHZhSV90U1R4NmU4b0YyS1p1NlluS0RjZmhUX0tuVW5LS0Vseml0TUpRX1AydUkyb1hpOWh4TQ?oc=5",
+          "published": "Tue, 17 Nov 2026 10:15:00 GMT"
         }
       ]
     },
@@ -122,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Maanden onopgemerkt, dan plots catastrofaal: Microsoft onthult hoe softwarefout miljoenen gebruikers trof - VRT",
-          "publisher": "VRT",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQczE0QkN6M3ZjMkFTNUVSU05QUFR3WWxKcVZUU19JRXZ6Ykt1bnZIQUExMkdBcjRzQlQxRGp1RU9zaDFJc2J6aXVVMl9ER2pJRzFSbVdTRE10VUlnalVBQXpocGNzbjM4aDVGd0N6SWZNVG5iN0RZWkY5ZFFNYmhFOWVINDlIeXNLemhnLUNmbGpTRm11Y3hxUkVB?oc=5",
-          "published": "Mon, 16 Nov 2026 10:19:42 GMT"
-        },
-        {
-          "title": "Jensen Huang overweegt volgens ‘Financial Times’ terugkeer als topman Nvidia - HLN",
+          "title": "“RIP Ann Alibi”: KFC organiseert nep-uitvaart zodat gamers vrij kunnen nemen - HLN",
           "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcHA2aFdRcDl0QWd2VDBoaTVZVVJtUWVOUUVYNWk3dFUzT0F1bmFyZWwtb0J6LVNETDlaeXY2TXRqNlZwckp3VzhNWjQ3MkdxZFF5Zjdqak9zMlNyb3UyQ1UzRjFGcVpFVkRxLUhYS1Jpd1A1TExXMnMwLUlKQ3FUR1FRQlg3TktCZjJ0TDU2R0hDa2xNelk2Q2hpSDlGUkpUN2RuZlZ0TEFqeENJMnpZ?oc=5",
-          "published": "Sun, 15 Nov 2026 21:26:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckh3S1NjRXhhUzc1cFRJc0YzWUFKT1A2X3ZBZmRwZlkweVVsNzlyU3VibW1yeDJ5SEkxUVJ2NHZhV0YtbjNiWU5EMmNVbjA5elhYNUZybnlReFZSTEpXbmhjSWI5R2JfaXkwZGhtUlhWcHVjRzBtbTJ6T0tUNXpKd1hLQWpRZjRhUTBlVDRNcDNYX2s1VERyRDBDNFBaVXQxX3kybkJDTG1RNFppbHc?oc=5",
+          "published": "Tue, 17 Nov 2026 15:34:00 GMT"
         },
         {
-          "title": "Estland sluit vanaf 1 december alle grensovergangen met Rusland na vermeende sabotagepoging - HLN",
+          "title": "Waarom je een AI-crash moet verwachten - HLN",
           "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPak14LWFFNnNPU1NqbUZrUFI3S09Zd3pSZFVBTUo3a3c2SGxvTThrVTlrUE5wQjRfMDlWc0lHclhZVHNoaHF0VnJ1RDBKbk15aXhCY19LUVhVM0xOLTd3dlpTMWRVNFByd2xaRlpDcWFwd25qQnlBeHp0MFI2bmYwZ3pmU056SFRUS0JrVjVpelNnR3JnanFIS2Y2bXdOaGNuSmNQY0FTTEtNUU5mcnZSNnFwTHhmVmltR2dVV2NEeEdkQkRTQXVFZjlBRQ?oc=5",
-          "published": "Sun, 15 Nov 2026 16:03:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWnJnNnZvNUVZdV93V0J5VkFoeVQtdmN1bFNCNG1HT191bC0wVkF5bEtmSEdJWmZockRscGJxa21rc2xXbjFwUXFGa0RncnJ6czdseG81U29OYzZ4SldSSTB4MkNIbjFISDZpOGo1UE1hNU1XZ3hQQ3Z4cEZ6Ym5vWEpHMEo?oc=5",
+          "published": "Tue, 17 Nov 2026 15:00:26 GMT"
         },
         {
-          "title": "RIP Nokia 3310: oude gsms en alarmsystemen worden onbruikbaar door uitzetten 2G-netwerk - HLN",
+          "title": "“Stoor mij tien dagen niet als GTA uitkomt”: youtuber verbiedt met ‘contract’ bijna elk contact met zijn vrouw - HLN",
           "publisher": "HLN",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkVmeUMxdUNJTkItc2RiN1BYdGRuRmd4Xy1rcWNQYi1Lc1AteVJabXRkWnp3UlB2eEN0VGNnT2wta2pzcm5YOUQzcUpQUEU3dVdKUmJ0YUhVcV9iM1ptRUtBLVN2SG5kN2tIa0JkcF9EQkF5ZnZtZkJOVS1hdXMtMlk4Ml9ZejluQUN1VHpfUXpoRG93SWlXRWt1dzV0ZGFnOHBwZWs3M1dxclY1WFdSWHB1ZDRFWWRDQ2R3NQ?oc=5",
-          "published": "Mon, 16 Nov 2026 12:43:08 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN2htT3lQemU1UU85Z2k4UGpKRC1iMVplckRkalBNU2xyd1g1TndJVWdPRy1VdnFtTGZkdFMtSHoxaE5MTFdRc1k1aVVMNm5BVDZsaWE4RHN0SWs3dzlieEJLSy1KLXFlODV2UHpQZzQ5S2RmVVFCdnVmNFJ5bzNJZzN3SjZOdlFxWG5faUVFMjB5SzJhWXRmamtoS2lJc1c3UDNsZGNteHhPVjlUSkMxTVdSam9uRGdqSzhCS01VREMtUE1KcVhIUnljN3ZlUnNhaXM5TDdUUzNZU2lHUzByQjdtSms0b0wyeGM1NHd5Yw?oc=5",
+          "published": "Tue, 17 Nov 2026 21:05:00 GMT"
         },
         {
-          "title": "Mislukte lancering van Vulcan-raket kost Amazon 40 satellieten - VRT",
-          "publisher": "VRT",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGlaN0JKVldsVU5CSWRaZHI2ejM3REF6UmdPdEZydEFydTJuU1k2YjVBTmtqN3FjRk5ubFNFbUt6OWJmZFNsNGNQTXRWTi0yRWFBak90NjFUU01wSXhfdnlscFdxcVBMWHZrWl8ydURybVR1ckVYSFdXV1kzX2R6anF3TkRiODZ1a2hKZmh0OUtPQVhuanJfUUNGanRidUVUd3dmX3NB?oc=5",
-          "published": "Mon, 16 Nov 2026 14:41:39 GMT"
+          "title": "Fox News haalt fel uit naar GTA VI: “Hoofdpersonage is een prostituee” - HLN",
+          "publisher": "HLN",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWU9tQWJuOUJ2Zk85ZzNXQklmejJCbVNTRFIyWl9pUEw5LTVPRHlHcGR1eUIyYVMyUFVCdy1jdnJBMTg2cC1LcS1MS3lNbEdmOEJxMFJiZFo1OFpqZWczazZtTnlIU0tkemxRQ1M1RFRMX1VFdXdpYkpMbl9EcGVsdEhaSzVWOXQ5SnBsdWpZbFN6Wm5tdGFSODNmdWdqUEh0UEJpalRn?oc=5",
+          "published": "Tue, 17 Nov 2026 10:15:00 GMT"
+        },
+        {
+          "title": "Geheim netwerk van Amerikaanse veiligheidsdienst NSA ligt plat: “Geen bewijs van cyberaanval” - HLN",
+          "publisher": "HLN",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSXUzREpremhrY0Q1RFlmN3BsTWRWcC1WaC1fTHNrZFR3LU9xUWJ1TjlybDN6UkZQejNTa0pURHNaMWctSzZKdTJrWEZCd0l6d0o4Z0UtUHJOVnNiMVpfY3FTN2kxdWM3aXhidXVaOEZRMU9BQXFGX2huQnlyUFA1OUlzNFV6WWxTNUoyR0doeUd5bXR0WGFYdXhNcEVlQXI0cjBfbDd3M3VRSzQzdTBkUFVRdGE3Zl9SaDJxMkpiRnJ4am1LSk40X3dn?oc=5",
+          "published": "Tue, 17 Nov 2026 15:52:00 GMT"
         }
       ]
     },
@@ -158,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "European football body’s plan to go global leaves Fifa on tenterhooks - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWdzQXd6TnF0b2VQUmtxcXFJdXNMU3hSYVJJZXY2Wnk4OGp3Q3FzTkw3eDNTMjJiRVcweEdIbWx2d1E0VzVDekxMUGd3bkxTVUtFSVJUVllVZHhmQ1FUOUtfWFJWSmg0YV9kRnBQT1Vyb3BCblVUT01VRllNd3BNeHA1eHEwSVZ6cEJaaC1qaGtOQ3JJQnJ3a1d3Zw?oc=5",
-          "published": "Tue, 17 Nov 2026 02:30:00 GMT"
+          "title": "2026/27 UEFA Nations League: All the league phase results - UEFA.com",
+          "publisher": "UEFA.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSTN1bFB5UWJ6QXdWWkF2X1RHbzlrcGtFd25XVU1YTGZ0TzRud202T3lQcHV0SlEtVkFlaG9mc2E2eVA2MVJ5czRIQi1hY3VXVEt6Q3p1QUpUVGc4ZXBILTJzTl9TaHhnT2l1dVdaZnBSVmJmUnZPYWlSUG9JWG5XOV9zeWtwVGtLb1BzbWQydVBCQi11X20wR2RaRFY5d3pUMG83aGdTV192U241N2NDRGYtMENGX1lOcDF4WmxxZUFmZDRyLWE4WHhQU1BSb2x3U0t1Nw?oc=5",
+          "published": "Tue, 17 Nov 2026 22:44:50 GMT"
         },
         {
-          "title": "Nike agrees four-year deal to become UEFA match ball provider for men’s club competitions - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXdTSktfQURMbktpYlZvUW1YdmkzSWd3eWR5My1pV3NLbjFDQWFsVzk0YUpPQ3QxZ2FyOU1aZGtCRmNjczBwZl9Fbk9xVzJHQzV5bHRvWXZiUTVZdXFpaTBZSnppN2hoeU53VFYxbUtRUjZKTmlDd0tMZjJIQ3ZEY0JKeVV2dGhjd0pkQQ?oc=5",
-          "published": "Mon, 16 Nov 2026 10:00:04 GMT"
+          "title": "World Cup Bounce has Arrived for Area Soccer - Grady Newsource",
+          "publisher": "Grady Newsource",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZE1kS01oM3QtRWl3MXN6X1NYSGR6UmY2UjhidzNHOW1ndFExRWVSdDhTRC01YUZOMTVidVRxMEpCa2NlZDdVelFGQW8zSTBwZjdiQkpZRXZvUHdYQzA5djV3RkxVS3FsME9PbnpPZkhaTzdNa3NzVUMyR2JYcmV4M1R3?oc=5",
+          "published": "Tue, 17 Nov 2026 17:18:57 GMT"
         },
         {
-          "title": "French football chief Diallo to challenge Infantino for FIFA presidency - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQjBNNENHU0d2UmdESE5zYTl6T0ZIMGRxV0tqQWZEMGJpb2luT0xYY1NOWHlvTk1RRlc1d1pjMmdTNlFNOXNDd3NvR04zR056YU5zOF93bWE1UkpIWUltNS1IaFJjVFNsNUVPWHlud0ItTTBsMENQSFZZQTc2eHNmOTl3YWxMYTc5N2VPREhyUkFoUi1IeDBNaGJ6LTYwaF9pMGVNNlRsQ3hWTGlHZjhfLXFNeXg?oc=5",
-          "published": "Mon, 16 Nov 2026 16:24:46 GMT"
+          "title": "French soccer federation confirms Philippe Diallo as candidate for FIFA presidency - ABC News - Breaking News, Latest News and Videos",
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzYzc0NjSWxBSFVja2pCcmkxdXJqSWdZamtpMmVGeXBzYnFXdjFBRzFKV2VzZXNGdjFVQ1FVTXlkTmJDZm1JbmJaaWsxZkhKdlEyTUdvSlhETzJ3WnFfbVRvaWtHU0UxWUNudzZjc3JEb0p5T2NoWWtzaGpjbTVOdXlTal84MHRUTXhCbk01a19JVll4MFc5TzN0OFJfZU9CMXU1cFFkMi0zdFnSAbABQVVfeXFMT08yVlBqUXItcFFXZGNVR3pmV1hkLVBOSXR3dm9uMHRQcU1LNG9fckQ1d3FNSm5kTFRRVTlUN3ZyV3dFSFR1SjJJTUg0d01RSFhCdC1INlp4LXVJdmVvNHZrdFVDT3ZwOUlYQmRwSW9JQjdac2VJbGFUVjNZQVVhMzVIMmtycHNpeE9xbEVoeEs0UXpFaTR2MEJ6N1k5cDdveENxalNTRE9aOXRrUEZmVXY?oc=5",
+          "published": "Tue, 17 Nov 2026 12:00:32 GMT"
         },
         {
-          "title": "France football boss Diallo to challenge Infantino for FIFA presidency - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaG9mUlFVckdUb0ZNbjNCeGszZlVsQ1dIMFdmYjFFNjdLeXh3Ul92UFhXaklsYlFjcmlsREstMUIwMFo4WF85Ny1RVDVTb0ZPODVPSVZjUDM0T3BpekkyXzJaYkdQT1NYNFp1c2VGbHNnczJfWHpPZ29BSnd6dkQzNXhWUEc4cFVqMDNXakhqbDBmcFI4OS04MlVB?oc=5",
-          "published": "Mon, 16 Nov 2026 15:44:00 GMT"
+          "title": "French football chief confirms FIFA presidency bid, criticizes Infantino - Anadolu Ajansı",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2kwM0s4M0FEbUIxTVhVbE5ER0RyWFdEQkxHQTJiNjZ6d2RMMkhnOUJERVNRRnVnN0t4MHJYY3gxWFJzRmZOT2xDTjFreVNRTThwbXF3a3pYcUlNaE9jTW0zSzh5Rk5ROFlGdG9nZnZ6MEE5akY5TnpkaVhIVFBuUTBCekUzZl9faGU4TlpGMEFMY3FDMFQ3OHUzN3FQSFJ1c0tHUzFnc2FHNUdKT0NsaA?oc=5",
+          "published": "Tue, 17 Nov 2026 21:58:31 GMT"
         },
         {
-          "title": "Nike to Replace Adidas as Ball Supplier for Men’s UEFA Soccer Competitions - WSJ",
-          "publisher": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY01ibnJNdDJEbXFyZzNabmNDcVZKZlh2Z3JzazZlaDg0dHJVMEI5VVI2ODNNdVUwQkZnTkU4M1hlT3piZGRaM2x4SlhvSERrUXEwTDlHS3AyTUl1b0wyNTY5amwzeDdsUERWa3lHM0hXX2pFbDFneUhiUFlYb2h3a2VyYzR5dlBxYTZMSl9QeUVsNWhsNHh6aUIyNV9oNjBjM0pST1d0WjNkZlRSdDFpNQ?oc=5",
-          "published": "Mon, 16 Nov 2026 11:30:00 GMT"
+          "title": "France football boss Philippe Diallo to challenge Gianni Infantino for FIFA presidency with UEFA backing - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUUhoYzQ5WGh2Ujg5RGxqVnpkejRiMW1uUHVRVFZDZUQxQTQyRVJBYklkeEktMkwxakpaS2dEQzk5WG03R01jV3FUSnR1RGJUdUpPR1N1Zi1fdE9BbS1Bam9YV3AxenA0OTJxaXVWbTBTVDdDUWtiN1ZmNVQ4VDhfSXNSUkt2OVZqZkl2dU1R?oc=5",
+          "published": "Tue, 17 Nov 2026 08:31:59 GMT"
         }
       ]
     },
@@ -194,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Robert Pattinson Manifested His James Bond Casting 14 Years Ago - The Hollywood Reporter",
+          "title": "Jeff Bezos Describes How Amazon Decided On Robert Pattinson As The Next James Bond - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYm1INU5oTXZZa3M5QTlQbTNlVzlPMmEyaWxSVUt2NHhBRDhtU3c3Qm1CLWJCdmRZcl9nTnJZX1ZjSnNIeWg2Zk9INlRIUmZoa3J1a1BCQWw2QlFtSS1XSDlVM3FiZGtqNVkzVzV2Sm5CeW5laHFBRjAtTWlmak9lNDRMOHJrd2N2V2pFSXNR?oc=5",
+          "published": "Wed, 18 Nov 2026 00:08:00 GMT"
+        },
+        {
+          "title": "‘Dancing With the Stars’ Couples Perform Double Dances in Semi-Finals for a Shot at Season 35 Finale: See the Scores, Who Went Home (Updating Live) - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTduMkJWUThpOUFXSTVoQ0tod2EzN295a01ZTTdZZEREZEtCbS1LR1hxUExMY3ozanEtQ3k3ZEJYVjRLRGtZai1Fd0JWWFJLLXdIWlN5N3NqVkxoOHhXdGhlMmYyOXYzWGRsbExRNWxsc0tNcGhzeGJrX0V5a0tSeGk2SEdyNTFiWnc2cHF4VmNMN1ZLZ1lFRnF4MWMwRmR4TVI2SlNaMzQ3Sk5vLTl2Y1BRQm1Fdw?oc=5",
-          "published": "Mon, 16 Nov 2026 23:49:46 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa25kdEdCdEwwU0lXbmdEcHFDcXB3OUxncGYwbFVyLXhlQWI5SUVRZDF3TnZuX0N3eVg1WVdyZWw3Q0wwUHB5SW5wdE9WRDc3SHFBampvN3ExSlpjQmpZeGxDWmU4S3ZMN1JqMzVFVDNILWFjZHljSVVab1pyRm1qcVVTbWVBVXczd1lWdlFqWkVNRVNUYV80YkplU3RaVzFWdEFKUGF2UkhsN3RmTlN6U3VEZ1hCVlU?oc=5",
+          "published": "Wed, 18 Nov 2026 02:03:30 GMT"
         },
         {
-          "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field - The New York Times",
+          "title": "At Burberry’s Holiday Party, Gwyneth Paltrow’s Son Plays a Set for Teyana Taylor - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndBemszelBDSlhqaWVXRTFTN0pTb2JTMmpxcU1fWS0wbHpfM3dBWHRQOWtqb3JnZkN0ejV1OXU3SkEyblpkazdyX1lvQTBvRmdHdEdfVHBJU3NIR2swajBPMjc3SDU5WjZXaVV2blFSZ2l3YzZCY25ZcWd3S3dxZVRLd3QwQWVscThKRnNRUm9GWm5BRE1ySTlVRQ?oc=5",
-          "published": "Mon, 16 Nov 2026 22:25:20 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTNON0kzVTNJUDJWbEJpWWhZMTdCZWQ0Z2h6R0FXZms0SklCRXltVjlXMENaY2RXbUlkYVFoNFpuZlVwQ1pLWXBIQmJrd1NhS21lMVc1VE1LdTkzaU5oTnlrbjhEblBBdHlXd3IxUXZ3aEpaWm5TbjVlWDcxN3JIWTEzLWNYWllqNGNqYm00bWNlMnYxN0xNMnRLcFZfODA?oc=5",
+          "published": "Tue, 17 Nov 2026 20:04:25 GMT"
         },
         {
-          "title": "Ray Tintori, Music Video Director and Filmmaker, Dies at 43 - Variety",
+          "title": "‘Madden’ Rotten Tomatoes Reviews Sack Nicolas Cage’s John Madden Biopic - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYTVrR3JfV3lPQTJJZFlSVmxQc1hKbk9FV1NLSGs1dGRsWUJUQkNMRGFFMFdKRVJ3Um4xNUFlLWhMeEVfaVg0OHFIUFJEdEthTTN2VUM0M1JFODY2Sm5BbzlVd3NsWXNRTE1NS2tTOVJRS0R3bDAzVEJXSWlZOUFTYkhlMzNHWWpYWXM3RFlXUG5wb2hvLU1qRlhsaElEVUgxenhiWllsWnExN0k5ejZvc0JnWXpZTDQwdVFjUQ?oc=5",
+          "published": "Tue, 17 Nov 2026 21:01:59 GMT"
+        },
+        {
+          "title": "Jennifer Lawrence Stuns as 'Hunger Games Sunrise on the Reaping' Premiere - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdqaGdfdmtLRUZBLTBjVURHLWU1LUJHcHQxbkdadERwcGRLWXU3c0VNOXpydFc2OF9vTDN2a2stb2owYVJiWGh1aGsxM0cyd004ZGRuSFRTZlMybmxOU1prdHEzS2RDaEVHdWU3OTRUdGVaNVV3YXdJMjlFLTZDZHBTcFcySjI5ajF6UVBEUDZtRkowNlNCT3lR?oc=5",
-          "published": "Tue, 17 Nov 2026 01:27:00 GMT"
-        },
-        {
-          "title": "Woody Allen and Soon-Yi Previn's Daughter Shares Rare Family Photo - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFM2ZHNyWmZpR2pvUnU1NlFHQzNNUlNzd09RUzdOUXlJR19UWTdXdldWcEVNY3UtY2dUb2dTOVowWjNSb2Z3cDh0X3ktVDFKQktoYnRWRDlMY2hVZlNobDdYaG1uVnZRUkhkbVc1WmppZ09lVnJYVWU2Skc5U2RzV3NFME5NN2h2MUJpbVRiQXhkb1Vh?oc=5",
-          "published": "Mon, 16 Nov 2026 23:45:38 GMT"
-        },
-        {
-          "title": "Cause of death released for partner of Gypsy Rose Blanchard - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMTRtckowWnhMVEV6YzNpRzBXOEs1c0NnQ1Qtelo5QUZwdzE3bU4zZ1VwTDFMdnQ0N0pzV1Zwc2M1MGthdXV3cERKQWktMllwaXJjdEhKNjQtdERJQXFHYW9pQmczenBvVERVcnhZcWctYkxIZXQ0ckFJc3VIVnZ4dUZHNVFkNVNXZDhFelV6WndDa21DaVE?oc=5",
-          "published": "Mon, 16 Nov 2026 23:16:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0hlX2VROWZ4NjdQT2NjX2xhc1BfOE9PblJmdXVXdHdiWXRJYlY1MWNmNWg5dUZJcUc1MjJ1WEZ0bUFGeVlqZjNOV2ZRdTRscm95a2gwR0I0a3BhSmszZTVDTVlIU2lRX1RMOXdCdUhiSGwxc3Byblp2WkN5MWVYVFh4Tm1CUTJEbHBfbHZHNGthU2JjcFRzRW15b05rN21fUU16OFBQcW1FMTl5TlE?oc=5",
+          "published": "Tue, 17 Nov 2026 00:32:00 GMT"
         }
       ]
     }

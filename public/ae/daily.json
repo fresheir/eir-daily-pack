@@ -1,47 +1,78 @@
 {
   "market": "AE",
-  "generatedAt": "2026-11-17T04:21:08.907871Z",
-  "validForDate": "2026-11-17",
+  "generatedAt": "2026-11-18T03:20:01.762400Z",
+  "validForDate": "2026-11-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "مطار دبي الدولي يستقبل 50,4 مليون زائر خلال الأشهر التسعة الأولى من 2026 - France 24",
+          "publisher": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxQdnFiSjFoTmxyT2xyR2NyUmdheGo2RzR4Yld1Q1UzRXJOTmJ5UE0wXy1LMWItS2JkRmh4aE0yTnBRdmhlZ29FeS1yV1pCX0JZNTFpNE1kd0hLdURkM0lzWWwzdlNQa3pPV3lZWGtXQUl3RGNLMVdnVGNmak03aXF6UExSMXNJY1o2T0Q1ZWlhNFRqRzgzX0NkMXNWZDdMVzctRUQzRWtwSUxwNlFSSll4azF0aDFKNkJqbzJ5em1wY1V2VTJwbGZRX3c2MUNsUkVpOTU1UnVjZkRROWZBU1AxaXNIV1FKdEhra3ZqQzBCd3ZBZlhLRXFPcVNGaWdrS2loTTNBRTlpc0Z6S0RfcG5WdjM1bHI5am5uWVR2VTJ3bjVTOHFVWC04UWpiTnRFUlZ0MnRfQldGSjNkWjYyOHNVRmNJd0twOGl5clBLUWN0Z3phR2FReGoya1BpTW1PR1FBQ2YxVWotV1J0VzBFRURhUTJ6VWxWZkdVdGdvWWg1S3FKU283OFFiY0hvMEdzeEt2YmxQNm8wTm92Tjg1SldMYkxjNUFpQkEyemU2ZHlibTI3bllKOE9DWDhKc09ZSE8zZi15NFFKSi1FSk5VTks0b1QzVmgyZmxWckhhOVI4VXNZQ1dUU0NtOHNiQVZNSWxZVkFPVHVrT0hsbFB6QTJDMTJHdGEtcUZqdDFmSFhSRlNVa0x6MmdJMkI4YUIwaHYwdnBWcW8tYzJIejhTYVg5a1pNaWZGSEx1XzM1anNSNUVqaGdfY1hKZHFXcmdpX2FfUkhhRld0VGtTZTVDNjI1UEVSWkZCUzlrNy1YRWNJZXEzWDdOSDZJZ0V3VktVRDZCcmc?oc=5",
+          "published": "Tue, 17 Nov 2026 11:43:15 GMT"
+        },
+        {
+          "title": "عبدالله بن زايد ورئيس مجلس الوزراء وزير خارجية قطر يبحثان هاتفياً العلاقات الأخوية والمستجدات الإقليمية - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fYWFPYWFpbXNvWXlBZTI3TGhEZk5fXzZSdDFXMU5zbjZMMEpUT0hpMVV0dUFPN0JHRnpyaXRQQUQ0ZmltOFpqR3ZFQ3dob1Vzb2Zsd2FGRTVkcUhrWlFjVGtvcGFGQQ?oc=5",
+          "published": "Tue, 17 Nov 2026 16:33:00 GMT"
+        },
+        {
+          "title": "«دبي المالي العالمي» ينال «الآيزو» في الذكاء الاصطناعي - الإمارات اليوم",
+          "publisher": "الإمارات اليوم",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMRDZxN0RqZFZrMkNIdmtZS2JaV2tkWXhoVU9pZ2YzNUNRMWw1b284dDNpVldoeTJEWXBCY3daU3hCRUFDSG9HTVEyQTFtNllXVF9jTkdwNUdhRzZkVjBJLXNaZmRaU2V2R0RnSzlSa3dZd9IBjAFBVV95cUxPUk83NE5GSWtHN0ZnVGdodVV1QlVINDRDQWFzYkZra19pS29PWU5KUndaSE5iemVIT3MtdkF2OG5aM01yVXNQTkM2MC0xVVVTWmVGRVV4aEtWcGo2bVpUY1Q2Mlk5Si1MWERGUWVzVllXU29SZHZpYnpNV24zd3FmQzU1UktVTTMyOTFUOA?oc=5",
+          "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "title": "محمد بن زايد يتلقى رسالة من بوتين ويبحث مع شويغو تعزيز الشراكة - Anadolu Ajansı",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxNWFRaZXU4NVUwWFZRYVBHWEk1T0xoYjFMQ1dQcGk5X1MyUDZGeXdLZ1NMWjNOanRFaHlHZHlmTmtUR3VrUnB4ZGtaMDJhWWpNNTJnenU3amZ6bU9ZUmlfNUhsbDd0VU5Mb3BTNUpnb2NtQW9nQldENmQ3dTVpdWh1QW11Qk1QZndITXRpcG5qOVBPZy1pN3gtRmJ3T0dKX1FrOGU4cFM5NlhCVUw4VjU1Ukd2Tll5a2dwYjk3dmxHYTAwOFNKV09Yek8zbk9yMnA0YV9YTURZTmdrMVN1VGJCT0tCSzVNZ0k2aUJqQ0xVcEh3QWhSU3JpT1l4TFNFOXZheGlFWGM5ZUVHeWRwLWtfNEJnbE5VV3hlbjh5eG9naXk0RHM0OWttV0VsdDR2N0NiLVRiWHF5TFhya0pWNkhaZlFuWFpCZlR0cE4yU3Nyd09TLUlWLWRqTE44Unc2dEdxZGtoZnc5Y21CZnF6Z0hjMmd3Ti1KNzBPbFFHTDZrY1ltVWFyOENKeDg3dGtYWVBibGUxRk5sczZPRGNuZDBLYWhFUTY4TGJ4LW13aHFRdHJXVFZQUnlkVDFOWVhfWTBjMzdidlZqU2V1SjF2VW5FM1pjejRNRWJjcXBBSTljOGNrMFpKR0dkRUY4el9Xei1YeEl3Y2U2bENvRDJUQjZRNVdKQ2pfRXZpNE9raVh4OU1NdnVLc3pTWVpuUXp1YTM2dVA2YjVvbjlzcGVFb3JQTzlEQmc5dXQ2TFVBTlA2eTJjR2UyZ2h6bGg0RmI?oc=5",
+          "published": "Tue, 17 Nov 2026 05:49:25 GMT"
+        },
+        {
+          "title": "1.15 مليون زائر من 208 دول يختتمون حكاية «الشارقة الدولي للكتاب» بصدارة عالمية - صحيفة الخليج",
+          "publisher": "صحيفة الخليج",
+          "url": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxQUGVSUHU2aGhDSnNNM00tSWxRWHBtM1FuQ3prY0lUV19WMUxKM1g5Z1M3NElObWZZUDVscHQyRW1UOUNVR2xtLV85bUozbUNHazh2VDRFRHRTb002RXBHUm1qR1FEN3lpOVZTcGR4SFV3ajk2cGJUTXBJZ0Z4Rm5hcEtHOEFUNlZqU2RsZXJfbUZIcDZxT09nQjVpNWJQUE5oVmhVa18yYjlWQ2xueXhyVGhNbUI3YVN0T3h5cUszTEp0eThtR2l2Qy04U3FHbnRxczlvdTFORUs3Njhwc2hXYTFGZ3hRNUt6cDlVb2lpY1ROcDVYSUFQcmxpUG5DRktrUGw4ZWlnR0RqTXMwTU1mdnpUSUVKSk5kRHp1WWhxWGV2UTA2dXpqRnZ1WlNDeXJiR0ttd3V4UlNINy1aSHU4dHRHdmNSekF2UmllOUxkblBad1NYSG5CazROWE0wemRMWC1jLUt0SS1ab1h4WXFOeG5iM0luN043cXVPLWRBLXdoeDR0aDdreEFrUXFHZUticGNIZUVrWEdYSWZNUzV1ajM4MUZMYUJfNWpvTFFjR1FqNmV4YmVTSnZEdDVHN3R0b2dWWWJXVWFET0hzTjZiOWwyYTliYlY1WGRfVVoyeXllZUlWM2dFdlBTMGpMWFpzd1pzX1ZDS2ctM2Q2QkRCUExNRWhBRnpJdmZ0bDFxZGFGTmxRYllTR2hrR01oREZPYk00cWZXVmpUT0dFZmdrZE4tNFNqLXBvZUlkdWJuY1cwLW1saVJSUkdUU2pUbkNTcEFCamZrUjl6MWlfVFJjdWZnVmFjbjdnRTlKeUtnU3dBelVJcWNjYlUyZUlsMzR3MmpFbHhSUmN2anlVRURUc09lQk1hYTBpUjdFVEdreHVRZTc2b3hSRllqcU1TQ2lwNUQ5Z1ZqNHhuZDdpS2FfdQ?oc=5",
+          "published": "Mon, 16 Nov 2026 13:40:51 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
       "items": [
         {
-          "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE?oc=5",
-          "published": "Tue, 17 Nov 2026 02:02:00 GMT"
+          "title": "لجنة التحقيق النيابية: تحديد عدد من نقاط تهريب النفط في جرف الصخر - العربية",
+          "publisher": "العربية",
+          "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxNWmwwcDRLcE5rNHhIUkhXZ3Vaa1FfN1Z3Q25zQnE2Y3FNUFZPMmtpTnN3b2J3eUdTQ0h6Tk9HLWJOZFl0allZUGFiUGZTUC1ibDRiNnZYTFNYTlc1Tk1LMjdaRnJSNUtYeXdFdUdKT1VlSnlwX1JGV05nN2FQUTdKTUJEbHBjVmViMFVpbGE3dko1YjZwNXltRlhsbUFqbFR6RS1RSU0tNEVmSlNPTXk0Ukhfa2NSOWJkU2VMNVh0R1V6Sy1YcnJ4Zk5scDVTS0xoVzFBcUFka3ozT2tIUGV0M01VYmhWaXVKeWxITTZaRDJDMGJvWWpxaXN0WjdEdno0ZDItUVUxcXNHLUNJVVpmRi1faThodC1ONTFIdnJZdDdVZ21JckJMWE9JcEt3dWM3WmZqa1FYLTlMNVE1bkNmRGtMMW5qUmhoTWNzZURKR041blZnUmw2ZDZtR2NocDEtSzk4OWVPRkFhSXhDUHpRd1pkVjFDdmlJX0tlaTV6Y29GZzd0cXBjVnQ5bWk2S25OQUJnZVhGQi1Ed2VvdzFjTFUycnpoUVF5WE1EU1RWS1ItSzdYaHVtaVc0MU92NVNjd1Z3elVoUVRrYUlHVDRTVWR1LVV2OW1nbE9sb2RPR2VqVUltVkpRcFU1b25mRTB4cUNnYUNYdEJGa0RIYWhJYUpUVmN6ZGhOV19RN2dMTi00OGtVRjFiSWRuX0J4OFnSAaQEQVVfeXFMTy16VnlmNUNwcUZMcjYzXzdyWVFSODJ5NUtfMjQ5UXE1UnNJSXhBVzZ6aU5VOFprNmM3OGlsTEtnVHI1N2ZWTzRWaEs1X1pONTU3U0k1TVlxUkZvX3V2MjZRajhoeGlIV3JaeThmLUs2ajJVTDJuUjI1RjBPbE43SEpFRm0yMmRaTE5qYjYxQXhJR05raGc1aEliNW5sUXA0THJXOFlLYW9oQjI0NnNFbGVwS2VoVlJ4VExUdlEtSXlKeVFTVS1qeGpKb2tSNDhySXZYV0NEN0ZPeThiVlBacEw3T2JZSmZpS2R1dFp0dk9SLWFOOEE1bnVsLWFvNXRRd2tPc3lTdkhJNmtueUlEczU2VjRnOUhkWXZCMzlENGRfNDhUaUR0aFlPV1NRX1ZZa1VNSXpfRi1WT3VNbWR5Mk5SYVZSMFlCTDhpTllRYUJRY3hiN2VGQUlYTFl6Y25VTTVoVkpxa3EweGlTRVVVeTRmZmJoNHlNWXNoeTdud0Vab0dTQ3I3VzBqV0R3S0R3WEhjWTRta3c3NTFzWkxPWlFxUTV0c3FiNTFrYjA5enJHc0VjNlRJRENSQnNXbFNLVW9KUlZ6UzctLTZxcW15cTJ0WUotQkpvQ1J2ZFpBcXMwLTFuNndpZ0tTZS1UUzYwRU1iS0h0SUoxUm5nTGhndmZjQjJPMV91eGw2cndEelhpTXFyYW1kMERyVmZMMXlQaWdIMXo?oc=5",
+          "published": "Tue, 17 Nov 2026 17:57:53 GMT"
         },
         {
-          "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow - NPR",
-          "publisher": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORjVjenZkdk1vNVNjSTR1UklRSHZCMGllZVR5N2lfRXo2MXg0MzBnQjBxekctUk5RZWJQaGRxYTRyekJvSzAzM0piT0I2dVhlcmVUalpyV2FxQVQtMVNLdGZpWjFBUUY4bGVBbldicWVnZ0MtWnNoQmhMYmVYWllHY3pHcUc4Zw?oc=5",
-          "published": "Mon, 16 Nov 2026 18:04:50 GMT"
+          "title": "الإمارات تدين بشدة تجدد الهجوم الإيراني العدواني على البحرين - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EN1ByUFZrVS00aU1tZVJ2SmNLeDFSQUItS0VMM1VzS2VOLWIzYW5FMFk2SVR3ZTNnMGtTUHVLUVBjNFpKQWZBZnlhcTBxemlsVk5fanRjdjNQeWlYTFVKaS1XT0dpQQ?oc=5",
+          "published": "Tue, 17 Nov 2026 21:02:05 GMT"
         },
         {
-          "title": "U.K. considers changing laws on age for sexual consent in wake of Russell Brand case - CBS News",
-          "publisher": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzRRaFBuSk9TS3lsM3BFWlBTbS1JdllRcWdPY3JPVUUyRG9SWkFIMnBBaXg0RkFjZllCZ2JYdGYwRlplaHRGNmlrY1phUmhfX1NMSFI2SE5rdU5PREZsX1Z3VzBTUWI5XzVCUnRWd013M0lJR0FFN2tqeDBSdUl1MjlWYTlQcUhjNDUtYlhEMXNOQm1s?oc=5",
-          "published": "Mon, 16 Nov 2026 17:32:42 GMT"
+          "title": "تحطم طائرة نقل عسكرية في سيبيريا ومقتل ركابها الـ19 - الشرق الأوسط",
+          "publisher": "الشرق الأوسط",
+          "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxOSlFQY0V5aFd5NWFTZ193ckhudkpjdDhxdVJHQnpjaG1hNG9FOTRQYVZ5WFZEeXJOR05jR0JTZ0RfRGJKY3ZaZW9HekVTYS1CMEtVTFIwcFZHT2ZCbU9JaXplRTNRTjhEbUZkRlJxeVlLTW5NNzhVZ0hHT3ItUkhob21wa0xTTnA1RkJBUFdETFZNbGM3eW1xbE1pcnMwZ3R4M1NUQjJXS3hZRlZaWEpVUGFfY2N5dml0T19ZOEdncThXWGlqLVJ0NncxVndNa1puMnB3eEJsMnN4aTAwTG9wbWp3MVB0aFU4NXFFRW5lZ2FsSVp0ZlBSUUwxSzRUb0NlZW1PUld0cG5ZaUZ5Z1J1SnlhUkZiY1FxTGkzR0RyamlRZ2ozT1ppTUtvYVBTSjAzTFVyZmozSS03UjRqSFladU85ald4VERZZERERE9ZMHpwNE9WbUpHUHdYT1Frd3pwTm82aXlEblJ2T09ZWWxDWUdwSEo5VU84b1YzdVAteWdkYnVzRFhjazRJTnc3aTlZTWhVTG96TUpIcGJRUDQzaUUxaWVtME9UeUd6a3BlZ3o5NFcwbnRCOG1ZTXhtWDkteUZMc0JOaXRBVzd4aXNSZmZxeVRwcERKVjBOODJiUDNyTlV0OVFacg?oc=5",
+          "published": "Wed, 18 Nov 2026 01:02:42 GMT"
         },
         {
-          "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RSb255WmtXVzRseHpHdk5tT1ZLTlYzRzJudFZKZHVaR2taQzdOcmQzWGF1b3hwTmZodTV6TWRvM1pyX2JtVVNlMVI3NUtyQlRVQXhQS3FJR2lhN1ZZcFZ4WU5fRHlsLXZEXzN2aDItSUppYmt0YzdVMXg4dHRHYUZrVzhRejZYcGZxRVlSMVJxN1paNGV6MzhfaS1sNTg?oc=5",
-          "published": "Mon, 16 Nov 2026 17:24:04 GMT"
+          "title": "إيران تعلن احتراق ناقلة نفط رابعة في مضيق هرمز - Anadolu Ajansı",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNWmJQSHNUWEVMUzBvdVNubnQtYlUzdFBJV2F4emVzY1NKWXBRTksxV01GVkhtazBUWGdLbGl3MkJEYXktNk10V3Q0NzdHT29aLVhiaWZodFpabFZhTlp2bUdFT1BkMFdPaVZGM1N1T0dTam5GU3lmazUxV2cwMVkzY2FmMWoyMVo1VkxmeFQzXzdsMHc0S2IxczdqNHh5RXl2ckItTkltUzlaZlo1MGJhWi1TOFVxWUxJcUhjaXdWaGdVZWRlRXdfUlRybVEzMlE2Nl9mRERnS0JvT25McG4xRFNjbmVJZFRReURYYVlaa3NGbGwyLV9HZXpjNlFWVjY2ZjZHelFiZ2dJVnBZSnR2N01GTjZvTlBnemprY0JvXzEtTm9MbTBkc2x1Zzc3Wk9mZl9nUkd3MlNYQ29MbEVtWll5dmNiV3VTYWx3YzJKQ3pQMVNGQWgwUjh0MU9udmFWQWVSZGUtaDZTZDZoUWkzbUVkTldfaTBVUUYtYkxVLXdfbjJzQlpxdmJyUXphaV9WSjQteTZFQmJBdlh6UFJJ?oc=5",
+          "published": "Tue, 17 Nov 2026 22:18:39 GMT"
         },
         {
-          "title": "Cass report author says she does not support draft conversion practices bill - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FX3otanhwRUhNUm9ibHI4bnUxaVh4eG94LTBwZGkzQTBoeWtDZVpNeWphT1AtVDF3NjBma0FMQlU3NzRXVzNQN1paa0NQdDROdzNCbzNDRDVOXzA?oc=5",
-          "published": "Mon, 16 Nov 2026 22:08:03 GMT"
+          "title": "شنتشن.. حكاية \"المدينة المعجزة\" التي غيّرت وجه الصين - CNN Arabic",
+          "publisher": "CNN Arabic",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblJyT3BTRHo0Y2dFeXVpMkJiYWx5ekNIcVNRYVM5cjNrdWZwdzd2NjduX01WNVVJV3pIbE9vb3h6UTJqOXZiMkNYcXgwX1BBNG1kd1B5ZmdEci1PcmJVTV9RWkFicVBTbWxHb0M2VEFHVzJ3eHp4T3M0VjA2aHRRWmRQSDA3RjVMUlNCYlRqeEREMms?oc=5",
+          "published": "Tue, 17 Nov 2026 05:56:06 GMT"
         }
       ]
     },
@@ -50,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "سام ألتمان: قطاع الذكاء الاصطناعي سيكون بخير بعد تنحي هوانج - الشرق للأخبار",
-          "publisher": "الشرق للأخبار",
-          "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOaXQxcDdINDkzYkNqYVFHZTdjcS1pWWtSVGlqN09JeDRBa3hjRmRNY2Y2MjUxQW9lT3hNTEhFUklBV2FKQzVpaU1fNjdXbGRURUR0dzZVTlExc3JqNUlOUzZqbzNOT1dSVjV6emd2QlU2dFRVMFF2S0daWm51OS01Q3lJeEZ6YXBpUENpRko4REhCVkdsSXBZZ0lPdDJ0cl9sd1htUC1OMk1FV0hCYUlWSTdlYTBOYWN6ajI1ZXRVR1lYQWJ3VkZIZEpOOFNUX1Rqb2hmZDV1RGFZUmdOQXlSUmQ2YjlkckdDUzJHVldEck54TGk4dFBFb055NUhBZTNZTEhpdEsyS0YyVVV4cnpTYllDRnEzbmQ2dW5IY2NPRnpzREtxdjBLc1ZzSHhvc3BYemhOX2hDcXhiVURnU3BmS2FWeG1hbDVRUFZ1QnFXajFIQmd1eDhsamFpMHNqdlRMZ3NLQXlrcDZFTEc5c2p1UkotQ3hjZ043LXYxYjdnWWJTVXg2VTlpZVBuNWxUTk1ITi00ZUZ4MTlwZ29WblR0Y0RwbHQ2bUdubTBsdjVJZWhLeVFpUDMzLWVvUVZHbjloNmFrRlZTSGpwQlZOMXc1QlEtcHpHVlhWakdac1BvRzBWVVk?oc=5",
-          "published": "Mon, 16 Nov 2026 23:06:10 GMT"
-        },
-        {
-          "title": "واشنطن وبكين.. هل تسهم قمة ترامب وشي في إعادة رسم خريطة التجارة بين القطبين؟ - CNBC عربية",
-          "publisher": "CNBC عربية",
-          "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxPd1BpaXJrRnM2ck52RDk4ZFg4UGNsUldnbDVJWHB3YUppZlVPdWRPdUIwWkQ2ZGtZQXkyN1BqdkxFdmJLQU5yRFRjUTJEWE9oMWtBWF9McGdkRUEzS2JicDVvVU50cUc1QzcxZ1lOOHVzN202MkY3Szc0WWRaRE41azVINjJFWGpLZTlZQXdUTXk3anZkVi1VdWhNTDhVOHJvdTNnQklTcURQODVaVXpOVzdZM2FGSlFtd1J6dzFocEs0OWVEQnF5ZGM0V2U2OHdkSGhMREc2SldCRWZOY3N2cTBhVTRRd0J5eDF0NlRBQ2hzbm9tdUt4NS1iRXY3Mkp0NTZEd19mMWtwSFBrLThjdy1qNk8wM0g5c1VhTlFzMm1tUmZzUWdVbWVpVzZXLWlRWElLNWw2Ui1WWXlRUHZOMDBSM2JydG5XRUkyVW4zT3RJYVRWM0xIRjhObVVPNnk3czVOa0x0UmItVnA2eVE1QkdhT2Nva29WS1JkSkdrc0k4ZUI4T1JFeXVRNjQxQVg4QWc5M2t4TXV0RmpQMWFlbU1iOXFoZER6eDlRU0pWMkRIZ2I3RzJkcWdVdlJlTTJ5cmhIRE1Wbk12bDdRZ05lZGZaOWdtMVBCTnNwcFJrTXd4OE8ydXFmRTRkeEUwZ0cwMDFQaFhWREFEaVRUOHdQdmZpN1JPSmtkcXQwd3Q5UzVVWXRQZmhENHM0d1NqYnBHYlUxOXd0YWFBU3ZUUFBXSi03N2VpSUF2QUstSExCQkNuVE8yR1EyYmUxUWFZQ1cycVdkMA?oc=5",
-          "published": "Mon, 16 Nov 2026 19:04:53 GMT"
-        },
-        {
-          "title": "سوق دبي فوق 6200 نقطة مجدداً بمكاسب 1.9 مليار درهم - البيان",
+          "title": "«جنسن هوانغ» يَمثُل أمام الكونغرس أول ديسمبر بشأن وصول رقائق إنفيديا إلى الصين - البيان",
           "publisher": "البيان",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nWlVuTTRyM01ZSXhJQ2UzTWZyclNDbHd1Z25lcnVGTGtnN0NDWnV6TmVsN0dKd3V6a09UY1FpX01mNEpVZDFObFhPZ2FUdTVmU0x4b0hBeko0U0tyZ0tnUWxnRFAtWGNmSXRr?oc=5",
-          "published": "Mon, 16 Nov 2026 18:48:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LRlhMaDE0NS1LeXRpelVscndPWTBwakhlRUhHWi02OFRKOGFaMDhhUFV0SFJJN3hKSlMtTWtYRmEzRF9TOTh2VFZyZnJtMzRUbHpvb3J6WllNWkk?oc=5",
+          "published": "Tue, 17 Nov 2026 16:17:00 GMT"
         },
         {
-          "title": "2.3 % تراجع سهم «إنفيديا».. وهبوط «وول ستريت» - صحيفة الخليج",
-          "publisher": "صحيفة الخليج",
-          "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNclJVaDgwTkE3TDh1NmlDQV9abVBLN0ZQSk4zWHpkblkwazd2Q0VrVGFPdWpuQ3l6YTE4VDlTbFB0SHFiRmJ0eXhKN0UzMWlrQzFXakdJOWhTajZVVE53VUpVR2VJbXRRcXB3Y2hvTWg1VUhiaVM1VUhzcXMwWld6cTFkN2JWU0dqZUJfZXpNN3ZhSWpjRXJGLUVYdC0yb0hBNmg3ZzV1RWFyU3d2aEd1S21xQk94MHpQLW5OUlJrQUNXUjgzQkotTW5pb0lwYTVYUzEzZDhseTNOb1NNR1F6dF9pY1NJVk9IZldSRTlpQjBnbGloaUozYmNxWjZVZW5UQTNfemlmUkw5R2ZkdjRmUk55SFE5elJnWW5TeEJkNzZMM0FzR1l5RmU1cUQ0a3Z3Y1F6enB6azZLd0hlaXF0eWJkM1phRktsZ3E2MXVBVnhJNk9EUGJsUUFvWS1oSTk1X3RPVUtaSHptS1Byel9rbzFBM2hqajdYTUNKMU9LcXd0R291NWdDaTlnMm9hdXlTQ010N3o1SW91Sk95XzZYaVdfRFZRU0VicE1kaW5KY0I2dGpQNVhKdGF5MEY0QnV2b01RMUh3by1CbVQ0enhHczFHNnowVjFPOGQ0SEJvTmlCaFBEZlpVR3cyNl80cFBsY1hBUg?oc=5",
-          "published": "Tue, 17 Nov 2026 02:57:42 GMT"
+          "title": "إنفيديا تضاعف إيراداتها في الربع الثالث وتستبعد عودة هوانغ - SWI swissinfo.ch",
+          "publisher": "SWI swissinfo.ch",
+          "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOQWdlQnM0SVRBd1VjeUd3bnk5NWFhZnIwbVI1d2dyRXI1THZaNFZfVUFCYUROeGxINXJfZlEtZ3RucXdWbWRVLVFFMmF6Wmd0Um9nalZEVVduUy0yU1phYXpXdmpUVjhZQ3V4VktxdmdyQ01ObWNBNHlHR1MwX3N6WE14UjhlUUlXdGhBbVZUQmZUeFhZYTQ1S0Z0U2oxWnE0RHA0NG9JTXN1REFaXzB4T0lmRXR5N2xxR3ZIR2ltTTVJV1I0aUJSaWpqR3JtUEhlb0FJdGtnNTlPZ0ZWQWlkX3ZTelJnQ1VISzdaV0p5N1BEQS1STmVlVDBIRFpRY2VKUEZXeVkyZTd2d2dDWHMyYTh4RDNhR0FwZ2pPbVlIbE95Y1c2VVhWcnhCSHF5TmJqOWFiMFlFSmwtNm00dHJsUy05R1VFUEZvRUlRaTE4NmFsTUZzT1pKbzgxZzlqV0UxcXlKRmtBZGY5RFB0NUlvM0JiVHFrNkt1eExBTm1PT3YwWGduTXRKNDdQc0hhSGxGSi0weGhqMHdTVjFfdWFPWXhVV0h2eEs5bmhxMVY1eUg0amdsSjJPU3RLMG10WC1LU01KNGdLWUZ6QVBidjlNX0owTlJTUTBZenBlQjY3Y0xNX1VPUTFHaFFB?oc=5",
+          "published": "Wed, 18 Nov 2026 01:09:38 GMT"
         },
         {
-          "title": "بنك \"يو بي إس\" يتوقع ارتفاع الذهب إلى 5 آلاف دولار - الشرق بلومبرغ",
-          "publisher": "الشرق بلومبرغ",
-          "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOYk1vbldBa0NoclA0NFo0ck10M2cwWEJZWXdKTUFXd3ZoN2VMc0FtNFltSDE5d3FHY1ZkLTRJWmc0SWlFRE52bUltWDFNY1d3aE9yRHoxTkMyel83Mml0cXhFdERzWGFFckdoeTNWZ2Z1NjlPTjhNQnRLYW9kYVRzaXoxWGFsQXpzZ3JEc2xyckpiazlpT2w0WjRpZlhJOVVobkIwLW41TUUwQnd2U2Q1SXR6N0RwM05YekpUeXpGQnJMUHNfWEpYUmhPUWZqeHZ3SVlyUHBpT0NXalZtbUh0SFkxZktNaGhBZGI5dUlEb2QxdkJfMGlud3ZJVXBxb3RobTcxQXJlUGNybFJpRzF1SGRwcnlnN2hZSC1FY2tfblJVTGQ0TFVkYnI0Yno1X2ZrNE1xYW4tTnhINFp0a2xjUzQ5WHZUMC1Nak9aTWk5Y21mSHVuamIyZ0QzcUV5dEctWGxYRWV0WDF5UGtnZWlLeE8xbXhMSWx1QmNTWlR1M095MmswVjBCVDNhX1lMVzZhbjVJ?oc=5",
-          "published": "Mon, 16 Nov 2026 22:17:56 GMT"
+          "title": "النفط يرتفع مع استمرار الهجمات على الناقلات وتوقعات تراجع المخزونات الأمريكية - الجزيرة نت",
+          "publisher": "الجزيرة نت",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPVXFXLUUxVWRrSmtQdUJwUUw0bkpEanlmSGMwVno5T0dGYnZiTFpLOS1NRG1iSXpHVWgyeUVITXBFeXZRcHBuQUxXZGY1N0N4VlF1NFQ5eDNmMXFRZWRnd2N0eGtXRHFUUnk1Nk1NT0hHdFFka1E0OXVzZHItdVF3R2pNVkNPSWRINHA2TGxpaHVUSVRBZXNMX2trQXd5cU9aUGZ2NGRkeFdYQWhRcks5cnE4Q3VLWW5EcUtHaWx6UkJ3ci1XMmY2WEdRckw1WWtvb3NET2RVN1RRV0x4WjRuY0pZYnVtaFFNVllFSTdOR0Vub2h3b2c1TGZTZ2hqSm9wRE9za0Q1YWZLZU9OMWFQajFlSmxNTlU0MVZRNHdBY0wwSUNCTEVQZ0hVaU0wUm5VQ2ZkZTc2ODk0T05UTV81eHhPcE5PTXNqc3c?oc=5",
+          "published": "Tue, 17 Nov 2026 20:24:12 GMT"
+        },
+        {
+          "title": "مؤشر سوق دبي يقفل على ارتفاع بـ 0.6%.. وأبوظبي يرتفع بنسبة 0.9% - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+          "publisher": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95em8yRVVsSVRhTEQ5bkdoWEhOQjVpcTE3TjBrSUhScXZWQzdWMWMyUlJtOWE1V3pVWUJlN3V2S1lyTTdiSEo1M2c5aEJENmJvUE1aZkprOHI4UVpFY2tPTW10UmNDRkpHcHR4R016ekRidEJqNGF0Ng?oc=5",
+          "published": "Tue, 17 Nov 2026 11:43:10 GMT"
+        },
+        {
+          "title": "واشنطن تشدد قيود تصدير رقائق الذكاء الاصطناعي - الاتحاد للأخبار",
+          "publisher": "الاتحاد للأخبار",
+          "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOV09ZVGhWUmdEZ1NwWW1lY1NhSnlWSEZra3VrR2VBaHRZczlGR25GQk9WbE5SaURHSGR6YlFsV2pFSER3Zk1adm9wdWR5NWVfQWtxa1V5MENFOG1ad0ppcUw0MEJoeUZPUDR1c212RjRadnE3YlVjNDVlN3hfazRsVkN6SktZSExmTFQtakp5aUpzSWpvRUo0Ti0tenV5NkxabnZFZ1d6RXBGSzJOc2Y0aVN2NGJZVTZDeGNqWUNfVGJMakNQb053c1pnYWlkZ0VIb2llZTJhZkx6ZjBRX09uNFpUWkM4WU5UakhCQ012T0I5aFJHekhDVnpoUk1tbnRNT3g1SFBCV1Z4cC0tcnRvVlE3U1BlOXFtMVIyaldVTG5qdkhOVUV1dVJRR0sxR1lvWm1vZDJ0ekxUV0tYSEZHYk1NeTVwN01HTnp5UjdrVXhhOGJFNUNQaFd6UTNIVTJMM2xnMTdHX09vbHByajN3eHhOZjBQTmFwT1NteDQzMVUxdmk3RVM4bGhVSTlGalJKSXB6M2dJbUtjLTR5cEdkbmJyVDNUdHpXWEdXRHBRX21EM1N2VHhlWGpmU0xaMngwX2ZFNE1na2MxS0JrZk00MlFvUDc0SGJ2?oc=5",
+          "published": "Tue, 17 Nov 2026 15:36:16 GMT"
         }
       ]
     },
@@ -86,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Chargers vs Ravens Predictions, MNF Picks, Odds, Inactives - Action Network",
-          "publisher": "Action Network",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONGlNWnhBTUUwczhSOTJsTWxoUXVqQk9PWkIyaDdyc0ZBUDE3OFB5eDJhT2g2cm9zbE1RcXFPOWt6aUp6QXgxNGdjRTQ2N3J1Y0ZaWDVGX3BRMUZ0Ujg3SzV1Y1luV2F0SHVNdm5FZEhJNHdiRk1YZ0NtZ2p3eU5XZzZIV3NmQzVNNEJ6b1JPVnpLUUJxaDQyRk5PaEN5bmM1ZEZmcnBtdERKc2o3ZUM2R3IxMTZXR3VHbjlxUi1PRk10Vm5ZU19JSzZGR2Ytdw?oc=5",
-          "published": "Tue, 17 Nov 2026 01:15:00 GMT"
+          "title": "مشهد يعيد نهائي المغرب والسنغال.. ماذا حدث بين تونس وليبيا؟ - الجزيرة نت",
+          "publisher": "الجزيرة نت",
+          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOSkJYZnBCLU1UTXN5bkE4OHRJOTRmX3VINWVEcWhUYlVrbGxlU1dNLU5DVDluOWJSbmd2eFBTTkJ5dTlzRTFIZmtUbmVJMnBLVGRCclRqSUFELXVJa0RHLVZVN0NGQ19kR3BRMWQ3M2ozcFhSOXIxUjNvRGUzLXVfT3Y1YUlaeVdOX3F3eFlHLXAtLXd0ZFhiMjNpVXdMLVV1Y01WMTJRS2ZNWXZkMTBUcUNIcThNOVdUa1Ewc2JqVkJEMzV3Q3RSdXlOMWdyMDRMY3dkVDNtVHVqUXU3ck8zbHFNdHlpeXU5Nkx2MXJaUVBpMWloSVhhVkpYakstQjU4Q083REJfVnpOZUJOcnoySUlVeWdoVW5vSWNoU0lncHcybkhuWTZXQ1RQdzhuZU5hZmVIOGZkSVlsOE12eThSWHNDRDRpS1ZCWkdEZ0UzUFZTb3ZC?oc=5",
+          "published": "Tue, 17 Nov 2026 20:21:45 GMT"
         },
         {
-          "title": "Lions' Aidan Hutchinson reportedly confirmed to have torn ACL, ending his 2026 season - Yahoo Sports",
-          "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONnRBM1dheE5NZVc4SmJyRTNsdWRtMWs5c1BURUFSN3V2VVFVRjg0elQ3WkFhamhsUzUwMU9CNTc1enI3amV3N1lITV9QUUpleUhVNWRXZTNCdFdKM3V2bVZOYjBST2FSenhHWGJaY3RaSHpNTzF2bXNhX1l6OUM1MF9NVGFlcFNITVEwZ0F0VGpwbFZRNmM4Mm1VVEo0VFZvODdPVExPa1NOWFN0eVc1cWVXbVg5ZFV4d18ybkUyNVMyTE9iN2JkLXAwdkFBeVp4?oc=5",
-          "published": "Mon, 16 Nov 2026 23:20:34 GMT"
+          "title": "منتخب الإمارات يواجه نظيره السعودي في كأس آسيا للكرة الشاطئية - Sharjah24",
+          "publisher": "Sharjah24",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jdDJhR0VETzZRU09rWkdrTEstU2pTMndZTFdoNW10VEg2S1NzT2hhMTkzYW9RZW15V2RObEx1XzM5cENtdGwzLThSOEVveUdiaVl2aDNvR1VfUlo4bVE?oc=5",
+          "published": "Tue, 17 Nov 2026 15:30:31 GMT"
         },
         {
-          "title": "NFL Week 10 Sunday aftermath: Bengals AFC's best? Kirk Cousins returns, Fernando Mendoza debuts - NFL.com",
-          "publisher": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXl5VHowc1JsY0ZqMjZWS1JHZGdoTlQ3LURGUEZNUEVaLTVwQkhiQzR4ZVhfVkFRRU1xbDNycWt1M1kyLUdZbi1fTWNlVHlKN0tBVDA3aHYtWGQ1b2dLam11bm5FUGFXSEQyLUMtLU1qRXg2RkRuRERMY3AxZ0V5LXd1X0M4enhSQVBkTE1HMnY0QW1LbVp3LVZVSjJTc2ZGRjBYWF91Q25icDN3UVhJdlRCdmc?oc=5",
-          "published": "Mon, 16 Nov 2026 18:42:05 GMT"
+          "title": "تصفيات كأس الأمم الأفريقية 2027: السنغال أول المتأهلين والجزائر تخسر بثلاثية أمام توغو - France 24",
+          "publisher": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxPZnNXQmQ0cmVfQmtLVG9IT1dINmxVZUs0MnVkSFJEOF92SVJYajUyVDNUbTloVDFZSDgzaU1PMkZkcndrWmF4eFlHLTUwRnZvWkZkS2U2UjRZUjJaYk94MGFIOHpiYzNGcVdobnlSd3hyWVJTUERXUTBXRlZwRkJIT2tQb3NSLXNVaHdaYnBUbk9VWGZrU09tdFYzWXFLbjVkVDRxWENSQmRWSTNVMHNJVDhJYWkzSXdnbHVxcU9GMGc3WERzUFVYbGZkN0Z1eGctWTVmVktQMkVrQkhhVlV0aURLdVE1R21MdHNtQUR3Zlh5cHhfUWNURG0yeGZPdEVJNUk3TWd4X1BwQno0bHNyR0tJU1EyeUtlRjhkT1BrRkhHU1dneWZ0UW84UG5wbzRrMTNiUzZITnlNMnppbnBwMVlUX0x5Mmh4Y1c2b2ZlX0FvVTQwTGtRZFZqeUV5ZlpaRXlIYmYtemR5d2VxVW51ckJpcmJXMWVod2MxSTMyb0c4eHk5cFFrTGdQTkZySEJHcU1mRUk0WEZMZ1JWUWoyTFZMV1pTYUxHM1JqVkpGbXlMTGdRcm10VjVtSU9zQ1hjZXRnY1ZJcG5QeUtJYzdIZ2NPazJCdUlaeHYtZFB5SmtsRzRyVjJRUDNuTkFabXF3d081RkQ3NlJLQlRmd2FGV19yUzk0OWhoMmN4ZDBRS2lyQXRsZW1SQ0tDSnpJSnpQX1JFVi1aLUIzRVQyTUhfNF81WW9UYkNqZXc?oc=5",
+          "published": "Tue, 17 Nov 2026 22:42:41 GMT"
         },
         {
-          "title": "Joe Burrow clear NFL MVP odds favorite over Josh Allen, Brock Purdy - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdUpqcjUzdFRIbHF2RTRaWDloOHdtR2k0MG5lTXJoSlY5ZjNkQXU4dVN3Y1U3VUZJUjBMVzlIR1RyX21ubXdXZkdUOXdlWEdlTkRlRnlzMS04Z05raHdidlAtdm9qUzM0Q2NmQVlxSXNJcFREV2RqX0Fxc053bGV1UjhVVVJNQW5hUVJF?oc=5",
-          "published": "Mon, 16 Nov 2026 18:48:38 GMT"
+          "title": "مشاهدة مباراة السعودية وأوزبكستان.. الموعد والقنوات الناقلة - صحيفة الخليج",
+          "publisher": "صحيفة الخليج",
+          "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxOMzBCV3YxVEp6WU5MOHBHempHUmZFYjhSSzEyaDBSSnUyQ2Q1TmVGMGNrUGRiUlgyRlBzdWQzSnU4cUQ5ZGR4bTNmQmZ3QmdPOW5Fc1ZhQmxBejVRbVFfUEtVMVZvY3BSQVIyNkZTVXpLMjhQUU1mQXlYSzJVTGdTT3JWcl8xOFZGV0VERkJCc3otbWhfQVFaeTVGTEpQZkRKaWJWQ21rVmd5cWp2bmQ0RGpwRzJRXzFJTU1nYnZJNjVNMGZDdjVYODNJTkdFQjhMelRlUlo4bXdJUE5FRW5oNmZjWXZqcGhRN0NCeGp0cWp1b1R5SUh1UmstNXpFZ3h2WnlsWWRTR2RsQUVQcnNzU3EzZ0RVWkplNGU4M28yemJtaXVpNUlrSzQyX0ZQaFlqSXVsSTR0OElYZ3hMdC1SSGF0bkRKelExQ2tELVZveVNkdy1LY1R4c1RISF9sYzA1N2MwMmoyZjNBQVl3amhNc1dYb0Zjal9JQUJ2dEx0MWFBSGx6T2J3enRvYzZETXFuODMzVDA2dWxyUS1JRTJ1a01fZ1NfNG00UGQzZ0ttWWRQMDJfdzNBcHVfTUN3eGhEYTBndDEyQXlQcV8wcC1pRkdrNVcxOFpWT0ZMZGVaaWRlaTNDdUJxTVhxLW1xeFJWR091V211ZGVnbElyQ2VNMGhPX1hYSU5fdWR6ZFUxdnFwU0pVZ0pkbWIwNGtFdmh1OW5iaFFOdTNBampuaVV2cVJTZnBDZlI2RnNyNWZYb1Z2YXNQbUZxQjk5UTNXbV9XNkZPbThGRW1jdTg3eEJKOE15T3FiSUsw?oc=5",
+          "published": "Tue, 17 Nov 2026 15:20:30 GMT"
         },
         {
-          "title": "B/R Experts Week 11 NFL Power Rankings - Bleacher Report",
-          "publisher": "Bleacher Report",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzBPYmxMa2JQRGc2cXUtWWZJY3dCUGI4dXM3eTk2YmZpckJUMXdtZDRhU3NPZ09Kem5qVEp6WjVDaVdRdDBMU2ZhS0l6Wk1Ja0h5YVcteVNsMjdMeW85MzBoa3Z1emNZN0ZDRGtsMjVFY3FwV05hamVBT0VFeTItNU11eERKME54VEE?oc=5",
-          "published": "Mon, 16 Nov 2026 18:40:09 GMT"
+          "title": "«الأبيض الصغير» يسعى للصدارة الآسيوية أمام سورية - الإمارات اليوم",
+          "publisher": "الإمارات اليوم",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVZWdGFCUTd6dllWVHVRMTVCQVlnMThsa1NfSG9vRUpVYzh2eERLVUdHdXo5ZmoyUDZMM2dmb2FpSzg3d1Z0cFh6NlZBc2g3Y2lBYTYzR2FDekR2QzVVUkFJM09LUWt4UUloSmNiZ0NDNmpPblpkcklnXy1wZFZMdE1INHJUd9IBoAFBVV95cUxPcHFpdm1hRTBwNk1PNlA1WWl3U1VyRGxiVzlEZnFWcEtfdmZCWUd5RXVnMkQxVWZvUHM2N3RxUks5WVlRd1hMVmMwM2VfZzJ5bjRYY1ZhbU1tQWhiQ2NoZ19wSzNHV0U4M25vRlI4amZXLW1VOXlBOGV2Um8wX2ticDBvZElwZXJYM1JBOTlNZ28wWlIwMkxNZlBpQ0ktVG53?oc=5",
+          "published": "Tue, 17 Nov 2026 00:01:00 GMT"
         }
       ]
     },
@@ -122,75 +153,106 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "سقوط صاروخ يحمل 40 قمرا اصطناعيا لأمازون في فلوريدا - الجزيرة نت",
-          "publisher": "الجزيرة نت",
-          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOZ0pRZUdxMnpZZXVPcGVVaVhETnEyQTJRVy03SG9kYmJkZHZrRjlsNmswaFEzQzQwU3VaWjlZQVNnQ1dNdDBqS2Q4eXpaUllGNUdaUW9FZXlVb2I3cVZSQ0pBd3p0clRsM2ttbXRUUkxxMXk1ZnZxa0pkZGNGS0hfMHBNeDhrUlhiMmh6bXlVRi1XWTRaaHNDVy1VWm5ySWxlZnZRVE1pSUx4LTdGLXZxN1A1S0RDUUFBNmpveTVrSHZ5VTk2cXYzdjdhX2EzTXJlODlEcDR6dFhTSWNIWXNUTHM4ZWRwc0NHWGJjSEItSklmWGhuM040ai1kR1FYeGRHUnJQUUpld016VVUwdXA1NU4xYjNhN1VOdDJlVmJlWVIxeGhOdl9ZLXR3WEpRRzQ?oc=5",
-          "published": "Mon, 16 Nov 2026 04:12:31 GMT"
+          "title": "بعد الفضيحة واستقالة هوانغ.. أرقام مفاجئة لشركة \"إنفيديا\" - سكاي نيوز عربية",
+          "publisher": "سكاي نيوز عربية",
+          "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQU0E1OXZDaU9QVUV4UUVOTml5SldUcDhKNldmTUNjdlhMd2tXRE53Zm42TDRwRGc2SzlMVnI0QnV3cG1iZWZHUTJhUU1HM2l5V0R4UGdqNzBzZDdzNjhXZnMxdkFsbzRJUVdzaGRCMDJkclI0YW10bjNOMFNhQ0hNVzdvRTJSalYxb3B6OHBsNnBPVTdPZlVLc2NiR2tqc0s3SXE5ckE3VEVoRXUzbmpjVzA3eTJtYU5adlplN1FDODJnSlQwVF9hRFBsRHVJR3FmSnJROTd4RUFkWFJtYVRtMGNrSTdIQkV1eHphTGxETjFfUzZLbXdSZjJ4YWRvX3c3Rmw3c0IxTlFDaEh2cmJONXFpRjVmQlpmYTc1RlpQelMzMEY2S2w0LVNLWU82anhJdkdRM1dCX2pRR0tOeUI2RHIyNXhLU29kM2pCcFBRc21HdFdQMTYwQlhFYnJOeGFZX3NOWFhPMjlzcWN4eXdFWG8wS2V6WkN0eURtMGlNOGhlY3B5S2dhbmVhY1pEZUE5YzZ5THdEQTFsenpEOWtBQVRWS0lYNHEybDZrUFFuaVF3WE5CZWw4WGNlYkfSAcIDQVVfeXFMT1ZJUUtEaXlRM1ZJamhrRXJCVVlMaW1VX3ZMTGFSUmFBM29IX0NOdDRkaElGTjhGa3FqN0Rfd0tHMlZMaklydGJZdVhfVzB0Zll0VUZrWUY5MkRfcnJwY1JEbXFWYkt0eTZNOHhBSjNDWGVFa29STlVVblhZMlhjNUV1aU5aRnNBeDhNNnF6WGJLQmpGNFFtUVBNcXcwcUctSmUtOVN2VTQ5MFl5SjE3RTVqQVp5NFpraFdoeHY3ZDhERXRxOVhIa3Y0SlVhMEctSEhXaTFvSTNwZXI5MUExbkw5d3pOWEt6aEhVTk9xRkRNZXp4Z2xBdmg4OGM2SkRnaTBpSHVhdHBsVXg2RW9ZSklVRFN4d1BtMG80UjhwUF91SUV0R3l6YUNJQjdzeUMxWnNReElERnBEVy04dUs2QmpXYmFYYmZETTY4UWV0d0FWWlQxRVJod3RGV3VNY1ZVeDFzUnpsNl80S3NsRTRDbU5jRk5QMGt6SEdaa21ReW82NTJyaUt0eEkzd0tMWUNxU3JXalhNc1FDNm5NS01vVGwtSmpPVmYwdEg1Q0N3Q1ZodVZVNjVHdHNTNnRnTXVmQnhR?oc=5",
+          "published": "Wed, 18 Nov 2026 00:58:40 GMT"
         },
         {
-          "title": "الأردن يعلن حجب تطبيق\"تلغرام\" - سكاي نيوز عربية",
+          "title": "هوانغ يكسر صمته بعد كشف \"خيانته\" واستقالته من \"إنفيديا\" - سكاي نيوز عربية",
           "publisher": "سكاي نيوز عربية",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQSDl3c2R1RTdFWDRwcDlNNGx1NXludkpiUEx3ZUttUWE5bmpGaTJEdFpZekxsVjFWVlY2d0xkck5QTjJfcHpIQUtmRHpvcDU3T3NKOXJNLWZEQ2JmeXpia2RJcjMzZjhteXNfSWdpVUN5Sm5EcGNLWGw5TFhLVXp4bGtiUUhxdllDMXpNTVZpZ2JuM0RKZVdJblJsYmtoSV8wdmxVdXAybmpyVnhtWWtxNUJFdHdxTU1pb21DR2JVM182bXlPbUdRZmdWZVVSOXJvSHhFend2Tmliam5kem5DdTRNZ3ctVnVodjlqcGlTVjJRU1h5TnBIeFNrR2RlZ1l3b2I5RHE5ZHlXSmRNUUU0dG14RjZuQlB4WGNsTl95QU4yVm5n0gGqAkFVX3lxTE92amFMRC14V1RaQTEyNTVIcTFTRDVGNjIzN2hwcVZTQXQ5OXNzWnFycUtmSV9xQVhNeUdJUTY2R21kc0FvbTl2SDI2Q1V2WjFWcVdqNkRwTVVLQkIzbXpYQ0tWX2ZYQWZfOGZLOFkwT3hRb1lxaXJwSmpuU0NwSE12M1lxS0YxM1pSUFdBMjZpcFA1M0JTVlRKYzgxMHk0cE5LdURMc0hvRmY5RkxIS3hUckJPYXpJNlhjbVNUbFdHcnVuWEt2Y0hONWlUaUN1bjdQRDNvQTVMVkZaNk1ITzZVTU0weXZuOFFWQnFMV0xGRUxHeEE1SDduZ09ablNHaHZxSzJxRHZmeDZMa1QtNVpmeWoyN2RGUk85NWJQRzdJRjF4Zm1jRWVmZ2c?oc=5",
-          "published": "Mon, 16 Nov 2026 09:09:56 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOOV8xd0dTVktNc2tsSGlJNE8tRjJXdmx6bTJnSXZsUEIySFNMcXVqQU9xMVg5enR0ZXkxbThvOUVWd1pJcThldGZmYkEtbHEyVDZTSDQzMkU2c1g0VTlCYXM3ejJkdVhHQnUxN1R5XzZMVmNseEN6OFNpUmpuS2g2TjEyZlRqVEVDNENOU3RPX3VEWnRSQ1JlaWtvZFdPVlRQMU5qVEVIMmk2Z3MzUEhZWUZtWmNHME5EeW03NDhlTWZsSEZEVlExcF8yQl9FcE83UTVUMnhndzh6SGtTbDBiNlJ2SENSRnozZHA2RHJXV25fRFdCOGktd0VNMkpza21OV0VDM2wtZ2t6Y0lzbGRzdmZQRDJOdnBxLV9wM2xySkRzY3Yzc0NxYXliV1JfRlFrbGc1Tnp5ZXBrZDRKeGdZelQ2Y1MyY3JPdl9Ua3VsejBSLUVGaUVWSFA3c0tBS21RMW5iUXRWdnhTRkNSQVVPRExNMDZiQ3d1dmE2RU9UbHc0ejUwV0FsTlE0blJGcGhMY3JndtIBmgNBVV95cUxPN1ZCZHdKQU54WVZrYTV4UEhJekczalVQVEVfWG1aZlhuLTViNURvQTdyNHRENTRtVG5tRWJvYWNlVHJuWGVTT2ktTlpjbGdfTk95TGowMF83bW9Xb3NLQlVIc05xUUlvamV0dlJpbDNmeUFHM3FyaEtKUUt2bC1vOGVrb3BoazZmSnpYMC1FS0dkOGtYTHN0ZjYtakdrWThoOGVZSjZvRVVEejNGNzFIdDJuRlR6YnBTNnVlTGR3MF9CZmM4RFRuc1AyMlRDQzRiS3puX05VUUlxOWR0U0prMHVnTkVwcHA3aEJPT1VTRkJIRVdaMDBPVG9qWTBUb092LUplQXBtMDZhVFBjTVRXODZQMGZKR1BCRjFQS2VQZnIzdmdpSlk2c2w4VnNfd3JaRlVZZzJGUGJnR2V5cGwwTHE3Mnp1THFfY2w1RldmdjZNd0I2S1N3TkxJZXE2SWxxeVVrWlZ3ajBUZ3NRQUE5Q0lBeUl3eE1ja3RodmZDM0hwOU1OakxmUlJlVnlwR2UzaXNPVnZXYXk5UQ?oc=5",
+          "published": "Tue, 17 Nov 2026 17:32:02 GMT"
         },
         {
-          "title": "وزير الأمن الأميركي: ترامب وعائلته \"الهدف الأول لإيران\" - سكاي نيوز عربية",
+          "title": "تعطل شبكة شديدة السرية داخل وكالة الأمن القومي الأميركية - سكاي نيوز عربية",
           "publisher": "سكاي نيوز عربية",
-          "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQRElsc2tPTjg3cldHLVdJZDA0Tm1zQW91LXd2ckFtcDZRdDV2bWxGdnpJZk9SZ1MzWHZkQkhDN3dROHh0aWFPQjhPYkNnVU9oZmFJblJDZnhCZDdZakhuUWVvYkVUZUJob200WXk0NHB1aUl5V19vYXk2aU1RNEVtb2NjV09SZndVN3V2MWNRNDRUN0VpUzNNY0Rtc0J3bDhSQ2tKdFFuelV3UEo2c2lfOXVwdDFRcU1aXzBfbjRSYnV3SmR5Y08zRTl3TFdnV0tHanZUYjVkMFhPNkV6RkdmOF91cWF5R1ItNXhfdnF6Tm90YVdCNENKMmV2SnVfV1A1Mm5ULVVZSmZpLUN5aXkwUFNhTEUyQklDLVBQS0picm1ZaGVKcndLS0xOd3NtMWZqbkFaWjAxTUNDbWJ6emM2dHVfYXlwSnh3MEo0YjE0MUtCRzFVaWVOZGdFYVhoa2dsaVRuSklaaXIzLXM4ay05MndhXzcwRWQyTXhPX2dXbl9lOGVvWmxZc0FDTFJqYlMwdzZlNk9BT0JrTC1xLUw5ZXkzeGI5TE5kS1AzNnZua9IBzgNBVV95cUxPb3hHWm53NUhqT3M0SjRDVlp6dm40emxJZkpWQ2t0eUV4a2NJTHEtNVR3Xy1aajNjRGRUblc1bmxPVFg0b2ZxR1oyWUI5cEVmenA3aENtZWQ5OElqWkVHcjR2SHJaRjNBdnNIbGdWanBhUjBDSy01czg2bkRCYm5RNHhjWHpwT2hPSHc5dEFPal91MVBHNGZvclhaVllYMDdZQ3FNcDh3ZHcxMm4tV1JtT2FWV0RoTXgzQ3d1Njl4THR0R3p5WWdsQXpYRUgxQXRidWVFa0x4bm9vZzY1NVNQVkxocmJ5SGc3M1lJUENfQkMzcS12Q0ZEWS1iRFlZWEJyLWlCdWpnSmVCdWpudWFvd185SFAxaTRmS2VDTEQ4N1RRNDlpQVhueV9iZTRRTmVWd19rUlZ4RDl3blZDR0oxXzRrTUFub3d1dEpIek1yVk5GYTRoLTl6dFRVRmt2eGdnbnFpcXhqVmVyTXIxTkMzR3ZEUnVlV1Q1dmtpOHVHeEN4dXNUMUpyb0tGalJWVHU1Z1FNT1RacTUzMWpsSTI1bjNOWDQyZlNhSzlOaXZPZkgtc0dGcWJLeFVsbGdXSWp5aEtwT0otRmhfUEQ5bHc?oc=5",
-          "published": "Sun, 15 Nov 2026 20:45:14 GMT"
+          "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPNm5fV0FZbF9yX3NJODBJc3p2eUUtUUprZVJ2TEVVa3ROSS10MkdWc1NVRnFMbEMya3kzRmFUM3Q5aGU0U2xOWG1xY3AzQ000MXI3Vk1TcEhGVW16cktLUW95QlFnV2lrck1zZ0U4VVpWcmt0TjlJWkN3RE1LLWpUcGhwdnRJMUwyRHhJM1c5OUprbnNNX2k0Qlg2TDBaaEJmWndiRC1xMDA1RmtUdWNQbk04NWNQV0tyVk45TzNlczNrejNTeWRFeVRHTU5VUlU2dlp4dHNtVjdUQmdFVU5adkhwemhYbS1Ub1FaUkl4eHRHeTBZZGp3U0V5Q1NlamRJUFprb1hLUEppWnR0eUhOVzNEem9wcDV3TmUta0pUcUFYNkY2MmFmLXd2bi1BZzUxeTdKSGVOQll1SEdaT3FCUVhqQnVZOUVLM0xhcGRCM1E4a25ZQndONDAwcDRlMEw5VkZYWVBDZkxKSDdvZUFJV3laU0VTRi1jeENhM2h1cVVNVm95eUlDVW5WN3o0VUVSOEhUd0xDR0drRTVWUjJVeGlPQkJoZEJCaFJfQUNwUEFaMEF0c2Vidkdta3YtVlZTQTE2UDJ0MVZJYVRFRmJQbkFQT2UtSmpyeE5Tck0wMXhjUdIB5wNBVV95cUxObUhjT3ZfUGhKMXFrUGxVVGVCN2Q5SFE4VzlMX2Qwc1lieEJ0QmwwOHFqblZDWnhEMGNESDYxRjBZcUtMSWRxRk5NY3dmZGxfb0ExcDRwLVg0TkxjdVhyLXN0SUtNQ29ERFFlYXJXajZLSnhoV0pPcjVCdzFNYXhLb0dlQjJXVUZ1NWJqSjJBM0xSam5Ma1pzTGZKV2hwU0NzM0hsLUVhUENVdnlQS0FnZGFRN2RoRVI1TC10WF85Zk1raXBkcnJPcUhzNzR5aG8zWGlrT09sdXBCLU1xWF9aUFdtS3djUFAyQi1FalI5cDlfWk5UcUdOQlhYRHYwZ1A3aHotVkZlbWVGT2d4dG5PQmFtRW02SFRDa2pXbHNSaGVLUmFCSVNvUXpfNVhKZXpNcjVYRGw5d3pUa3VudVdoZWc0c2JHb0JtYU04WnFhOUo2dFVvVjFZblJNWHFYS25aX1RFeEpsdVpLbnJRTnNvQTlSSGNHcXQtdS1SQ3k3N1VDd3hjZmV0X01SSm4xVExvb0RpUVJkVklwUkk5b0h3YzNaLWl4cUwxSldpRU9DWWVLRENYRjRRNVRIMWZ5dXRJM0NLaERRblp1aFRGcVU1TGRZaGV5eVhDVERPZmQ4eks3N19JUkE0?oc=5",
+          "published": "Tue, 17 Nov 2026 16:08:24 GMT"
         },
         {
-          "title": "أعطال تقنية تضرب خدمات 4 بنوك كبرى في أميركا والسبب مجهول - سكاي نيوز عربية",
-          "publisher": "سكاي نيوز عربية",
-          "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNN25oX2RJaUJDcnpNUDE4SUowdzRBdWQ4UmJGOEljREVMaG1fQVRfeWVlMHFuWGtUMXZ2TUhhTzlTc2hnNVZMdkt6bjlEV3k0UGFsU1lSeUx0ckhGVmRSWURKclR5VkZ0SjYxWjNLNFE0S0J5SUNhRDdlc1hZRnR2dVloWS1WWElIWXN3azFfNXJESWNsQjdvVVplZ2Q4ck03dmhtY0JLNTVGV25YeFNqdG4yWFFwaVdSWEFvWlJkVEdoRDlHUGVCSXFUQnczZFJfRU9JbTVWVWdSYjBGY1BFZHpWdzlZLU5kNFRsVERqN2t6OGpHVmNaZm0ydWlqM0lLOHU3UklTRVhfRDNyTGhlNHlqTEo1Uk9XTHZQSmVqR0Nrck91LWFJcDdnWEZweUdKcUloRE5ERmMycmVXV0Zfd2QxVXA1S1hLWnhoNU1NbEMweUpzZVdHMlV5R3c5emY5ZWswbjlwVFdMQnFhNkIwZnVMZW5yOHR6QnRvUzZCYWJDNkpsdHUzY3BFOGFObU5VbFV1MS15blNFU0VxV0J3X1VDbG9IN2NSM1E0X2ZDcGEtSlVkNXAybTV0WEpKVnJfQkIyZU50TmVqaWPSAdADQVVfeXFMTk12cVFzcjlXNkdsQXZsOFFFNFZkQWJ4YVRNZXVYTEVBMVF4ekViSnhzaXRoVGNGQkRtai1sQnU3ZzhHTnhYRkhTRndFeHZjUGswdm80RXZvX0ZfYm53aE5pRnY5ZzVuQ1d6RWpmWDA1ZE9ubzVfa3Z5bGpuRFJMZmJnQVBQbmV6Q0NfWGVTRG9YQWJHX3VXSTRqeGx1ZXhtYUNMTlh1dlY0V3MwbklEeTJFaFIyTUl0bl9fLVlYV2MtUjRObnFidEk1OUY2bnd1YTVyYkFRR01xSHAyS1AzRHhRQkh6dkNhUUF6YUh1ejhVejhza045dFJvMHhFOC1oeXZSQ1Z4RTRCSmhNeElpbzdxTlhobktfaWpwdGplZ0FsbGE2OXgxX3l6QkxFMXVvblFyU0pPSURqSlFFQzB6bzFSckV2dXRlby1WX0RJMi0tdUVpQm9kR2hScy04QXBkeHBScGtBSjhFUjU3c244Yks4d1hfTlV3NFpTWU8takY1YzlITjg4NXQyUk1YUmRyc09LRGlrRXFvWDd5Wmk0TUw2ZFhaZk4xRDFjN0d0NU90eFRSQWExMnhJV0s3NHNNeWFqN2F0UVUzMVhoZy1FcTc?oc=5",
-          "published": "Mon, 16 Nov 2026 19:37:06 GMT"
+          "title": "من هاتف آخر.. كيف يقرأ شخص رسائلك على واتسآب دون علمك؟ - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDaHF2LTVpVVo3THJRcllDVnY1MHhiTUZPRHJLVTBLVDVJdGpyZTlNRnRwOW9wX2NlQ3BGU3ZYaXpyMTdMVDFQM2lmQ2piZGZjbHBsN0gwaXhHZmZiMG1ja3lB?oc=5",
+          "published": "Tue, 17 Nov 2026 05:58:00 GMT"
         },
         {
-          "title": "ماسك وقادة التكنولوجيا يطالبون بإعادة جينسن هوانغ إلى منصبه - سكاي نيوز عربية",
-          "publisher": "سكاي نيوز عربية",
-          "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNWFpiVndqYnJWVjhwQTBLNWQwd2ZiSWxGd1ZrTkQ5N2NicGhwLW5IXzFlZmVaR0Eyd2d1RFNCaVJIUTZQUEV2bUlCSkFYb1UtSHZnbHpmUzFRX1pBQmloMkJrV0hQZWQzRmRETE5rRy1idzlXb0xzRWc2QlBXdGJ1R2s0ZDhzeGowa3dwOWJ5TDdDZGk0RW5XdHdFamlSbURrQ1ozdG5IVDFxc2JiTVRkRVVFeTEwbVh3QXpXZjNCbXlsS3lsdnBJX0RvcDBBYmpRczNpNnJGRnB2b0tDSndGa1NEZHBMQ2FoTThmVWtxdkM5QVhubWwycW40SU5nUjFzdzZFbmZodm9JWk5jelcwVmwtV1RJczduNEN3WHp2eEdocWpRQUZ3T19tVXJXM09SRmJ1S3QzUzZnX19uSVNJRVhSTFBqZUszeTR4cWp2c05TUmx3UW42N19GdFlTVmRwVUEtVTg5S2pqbFFnWVRiOVktdUJuV3REUlJsV2F2SVVpUFdkamhscjM4eFF4OTRoSTZtM0lkaGk1dkJLZHBBOGs4Q05lLWk4OS05dTROZ2haOEdWTVFFelpkWWVQbVY5dDdkM2prX1d5Y2ZMMFRjT1UwQnNtaVZVQ0hRM2lpRDR5a0JjanfSAesDQVVfeXFMUGplZUNDc05rOEtLa28wZnp2Y2FZVkU5T2FSdk9jQTg4RjBGSl9SWF9MRzNhbHh4Sm5raVByVFZtc09TSndTMExRTDdvTkR0ODh4eVRydm92a09SZ3pkS01wZGZvMnNJT0FvX0txZ1hXY19PZjVhNHJXMHd1X3c4S2xTTW51SE0wNEVtRHJjZTRadWdSNTNLVktrbllrdXZ1YkQwWGR4VkFNalRRUHRKX2J3Z19Fek5OZjdpQWdtYWtRN1NGVTFCV3JwWUxKekEtYVZucXo3UzI1YkZMekNhdHE3TGFlYjJqQUstZ2FtUXlxMFI0ZVBsZ21CR2UtcTNYSzU2MTFQcTRwNTRfbnpMcFltT3NiQmlNZmFfQVdGUkNLN0p0el91T3JpZzBSRmNLa0N1YS0taTN4UEpXSTNVNVQ1b2VuNGMtdHl5TzgxOGZzV0NoX1ZEeG9IZWRQa3dJRG4wbXh3ZU5yLWREMzAxZEkxYzRXVFM5RHlHZEN6eWJCbkYxNmstLS1sUFpWY0JoS2pncUtEVFFzN3F2UnZ3bkJaNFJ3U2JaNklQYTFPUy1yaHphaUxEZHRPRjAxMS1XRlhMQXJOSVhRRjlFQXhhYUV6dFdqQ3BSZmZETHBVcjBHT21wRF9panNxb0U?oc=5",
-          "published": "Mon, 16 Nov 2026 11:19:19 GMT"
+          "title": "أعطال تضرب أنظمة \"أبل\" و\"آي كلاود\" حول العالم - البيان",
+          "publisher": "البيان",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLWGN1WUtPb2I0bjUxRlN1R2dsYS1CUVRTNFo0dkRCZ0tLQ2pqLVNtZ25ZSkIwSWxOWE9Cb1k0UTllVEhfOVFObHR5eGJGM1hTYjJwUGhjSjc1YU9rRmFhcFF3?oc=5",
+          "published": "Tue, 17 Nov 2026 19:39:00 GMT"
         }
       ]
     },
     {
       "id": "football",
       "label": "Football (Global)",
-      "items": []
+      "items": [
+        {
+          "title": "2026/27 UEFA Nations League: All the league phase results - UEFA.com",
+          "publisher": "UEFA.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSTN1bFB5UWJ6QXdWWkF2X1RHbzlrcGtFd25XVU1YTGZ0TzRud202T3lQcHV0SlEtVkFlaG9mc2E2eVA2MVJ5czRIQi1hY3VXVEt6Q3p1QUpUVGc4ZXBILTJzTl9TaHhnT2l1dVdaZnBSVmJmUnZPYWlSUG9JWG5XOV9zeWtwVGtLb1BzbWQydVBCQi11X20wR2RaRFY5d3pUMG83aGdTV192U241N2NDRGYtMENGX1lOcDF4WmxxZUFmZDRyLWE4WHhQU1BSb2x3U0t1Nw?oc=5",
+          "published": "Tue, 17 Nov 2026 22:44:50 GMT"
+        },
+        {
+          "title": "World Cup Bounce has Arrived for Area Soccer - Grady Newsource",
+          "publisher": "Grady Newsource",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZE1kS01oM3QtRWl3MXN6X1NYSGR6UmY2UjhidzNHOW1ndFExRWVSdDhTRC01YUZOMTVidVRxMEpCa2NlZDdVelFGQW8zSTBwZjdiQkpZRXZvUHdYQzA5djV3RkxVS3FsME9PbnpPZkhaTzdNa3NzVUMyR2JYcmV4M1R3?oc=5",
+          "published": "Tue, 17 Nov 2026 17:18:57 GMT"
+        },
+        {
+          "title": "French soccer federation confirms Philippe Diallo as candidate for FIFA presidency - ABC News - Breaking News, Latest News and Videos",
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzYzc0NjSWxBSFVja2pCcmkxdXJqSWdZamtpMmVGeXBzYnFXdjFBRzFKV2VzZXNGdjFVQ1FVTXlkTmJDZm1JbmJaaWsxZkhKdlEyTUdvSlhETzJ3WnFfbVRvaWtHU0UxWUNudzZjc3JEb0p5T2NoWWtzaGpjbTVOdXlTal84MHRUTXhCbk01a19JVll4MFc5TzN0OFJfZU9CMXU1cFFkMi0zdFnSAbABQVVfeXFMT08yVlBqUXItcFFXZGNVR3pmV1hkLVBOSXR3dm9uMHRQcU1LNG9fckQ1d3FNSm5kTFRRVTlUN3ZyV3dFSFR1SjJJTUg0d01RSFhCdC1INlp4LXVJdmVvNHZrdFVDT3ZwOUlYQmRwSW9JQjdac2VJbGFUVjNZQVVhMzVIMmtycHNpeE9xbEVoeEs0UXpFaTR2MEJ6N1k5cDdveENxalNTRE9aOXRrUEZmVXY?oc=5",
+          "published": "Tue, 17 Nov 2026 12:00:32 GMT"
+        },
+        {
+          "title": "French football chief confirms FIFA presidency bid, criticizes Infantino - Anadolu Ajansı",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2kwM0s4M0FEbUIxTVhVbE5ER0RyWFdEQkxHQTJiNjZ6d2RMMkhnOUJERVNRRnVnN0t4MHJYY3gxWFJzRmZOT2xDTjFreVNRTThwbXF3a3pYcUlNaE9jTW0zSzh5Rk5ROFlGdG9nZnZ6MEE5akY5TnpkaVhIVFBuUTBCekUzZl9faGU4TlpGMEFMY3FDMFQ3OHUzN3FQSFJ1c0tHUzFnc2FHNUdKT0NsaA?oc=5",
+          "published": "Tue, 17 Nov 2026 21:58:31 GMT"
+        },
+        {
+          "title": "France football boss Philippe Diallo to challenge Gianni Infantino for FIFA presidency with UEFA backing - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUUhoYzQ5WGh2Ujg5RGxqVnpkejRiMW1uUHVRVFZDZUQxQTQyRVJBYklkeEktMkwxakpaS2dEQzk5WG03R01jV3FUSnR1RGJUdUpPR1N1Zi1fdE9BbS1Bam9YV3AxenA0OTJxaXVWbTBTVDdDUWtiN1ZmNVQ4VDhfSXNSUkt2OVZqZkl2dU1R?oc=5",
+          "published": "Tue, 17 Nov 2026 08:31:59 GMT"
+        }
+      ]
     },
     {
       "id": "entertainment",
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Robert Pattinson Manifested His James Bond Casting 14 Years Ago - The Hollywood Reporter",
+          "title": "Jeff Bezos Describes How Amazon Decided On Robert Pattinson As The Next James Bond - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYm1INU5oTXZZa3M5QTlQbTNlVzlPMmEyaWxSVUt2NHhBRDhtU3c3Qm1CLWJCdmRZcl9nTnJZX1ZjSnNIeWg2Zk9INlRIUmZoa3J1a1BCQWw2QlFtSS1XSDlVM3FiZGtqNVkzVzV2Sm5CeW5laHFBRjAtTWlmak9lNDRMOHJrd2N2V2pFSXNR?oc=5",
+          "published": "Wed, 18 Nov 2026 00:08:00 GMT"
+        },
+        {
+          "title": "‘Dancing With the Stars’ Couples Perform Double Dances in Semi-Finals for a Shot at Season 35 Finale: See the Scores, Who Went Home (Updating Live) - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTduMkJWUThpOUFXSTVoQ0tod2EzN295a01ZTTdZZEREZEtCbS1LR1hxUExMY3ozanEtQ3k3ZEJYVjRLRGtZai1Fd0JWWFJLLXdIWlN5N3NqVkxoOHhXdGhlMmYyOXYzWGRsbExRNWxsc0tNcGhzeGJrX0V5a0tSeGk2SEdyNTFiWnc2cHF4VmNMN1ZLZ1lFRnF4MWMwRmR4TVI2SlNaMzQ3Sk5vLTl2Y1BRQm1Fdw?oc=5",
-          "published": "Mon, 16 Nov 2026 23:49:46 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa25kdEdCdEwwU0lXbmdEcHFDcXB3OUxncGYwbFVyLXhlQWI5SUVRZDF3TnZuX0N3eVg1WVdyZWw3Q0wwUHB5SW5wdE9WRDc3SHFBampvN3ExSlpjQmpZeGxDWmU4S3ZMN1JqMzVFVDNILWFjZHljSVVab1pyRm1qcVVTbWVBVXczd1lWdlFqWkVNRVNUYV80YkplU3RaVzFWdEFKUGF2UkhsN3RmTlN6U3VEZ1hCVlU?oc=5",
+          "published": "Wed, 18 Nov 2026 02:03:30 GMT"
         },
         {
-          "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field - The New York Times",
+          "title": "At Burberry’s Holiday Party, Gwyneth Paltrow’s Son Plays a Set for Teyana Taylor - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndBemszelBDSlhqaWVXRTFTN0pTb2JTMmpxcU1fWS0wbHpfM3dBWHRQOWtqb3JnZkN0ejV1OXU3SkEyblpkazdyX1lvQTBvRmdHdEdfVHBJU3NIR2swajBPMjc3SDU5WjZXaVV2blFSZ2l3YzZCY25ZcWd3S3dxZVRLd3QwQWVscThKRnNRUm9GWm5BRE1ySTlVRQ?oc=5",
-          "published": "Mon, 16 Nov 2026 22:25:20 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTNON0kzVTNJUDJWbEJpWWhZMTdCZWQ0Z2h6R0FXZms0SklCRXltVjlXMENaY2RXbUlkYVFoNFpuZlVwQ1pLWXBIQmJrd1NhS21lMVc1VE1LdTkzaU5oTnlrbjhEblBBdHlXd3IxUXZ3aEpaWm5TbjVlWDcxN3JIWTEzLWNYWllqNGNqYm00bWNlMnYxN0xNMnRLcFZfODA?oc=5",
+          "published": "Tue, 17 Nov 2026 20:04:25 GMT"
         },
         {
-          "title": "Ray Tintori, Music Video Director and Filmmaker, Dies at 43 - Variety",
+          "title": "‘Madden’ Rotten Tomatoes Reviews Sack Nicolas Cage’s John Madden Biopic - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYTVrR3JfV3lPQTJJZFlSVmxQc1hKbk9FV1NLSGs1dGRsWUJUQkNMRGFFMFdKRVJ3Um4xNUFlLWhMeEVfaVg0OHFIUFJEdEthTTN2VUM0M1JFODY2Sm5BbzlVd3NsWXNRTE1NS2tTOVJRS0R3bDAzVEJXSWlZOUFTYkhlMzNHWWpYWXM3RFlXUG5wb2hvLU1qRlhsaElEVUgxenhiWllsWnExN0k5ejZvc0JnWXpZTDQwdVFjUQ?oc=5",
+          "published": "Tue, 17 Nov 2026 21:01:59 GMT"
+        },
+        {
+          "title": "Jennifer Lawrence Stuns as 'Hunger Games Sunrise on the Reaping' Premiere - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdqaGdfdmtLRUZBLTBjVURHLWU1LUJHcHQxbkdadERwcGRLWXU3c0VNOXpydFc2OF9vTDN2a2stb2owYVJiWGh1aGsxM0cyd004ZGRuSFRTZlMybmxOU1prdHEzS2RDaEVHdWU3OTRUdGVaNVV3YXdJMjlFLTZDZHBTcFcySjI5ajF6UVBEUDZtRkowNlNCT3lR?oc=5",
-          "published": "Tue, 17 Nov 2026 01:27:00 GMT"
-        },
-        {
-          "title": "Cause of death released for partner of Gypsy Rose Blanchard - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMTRtckowWnhMVEV6YzNpRzBXOEs1c0NnQ1Qtelo5QUZwdzE3bU4zZ1VwTDFMdnQ0N0pzV1Zwc2M1MGthdXV3cERKQWktMllwaXJjdEhKNjQtdERJQXFHYW9pQmczenBvVERVcnhZcWctYkxIZXQ0ckFJc3VIVnZ4dUZHNVFkNVNXZDhFelV6WndDa21DaVE?oc=5",
-          "published": "Mon, 16 Nov 2026 23:16:00 GMT"
-        },
-        {
-          "title": "Glenn Close Wipes Away Tears as She Gets Her Long Overdue Oscar While the Governors Awards Celebrate Indie Films - IndieWire",
-          "publisher": "IndieWire",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0FpUm05N2x0ZDBHMW5RNy0zY0dfdjIydDBlS1hlR0dKZlVoRzZ0OHQ2VXMtV2JlWVpaM1lxZHB3Rkk3d2czYkNlTVE4Y0NHTmp3NjZRSXNIbWotT3pvLW9WWnVQNHpUQkMzcndfbFh6dUNWZE9iMkpUbmhPMUpPMDIyODh3YmVBNEJVLVB6UkFzWlVZMmV6ODZhbHJxYWs2Mm9TcFBmeHRiUmtNWlotWGhVb1hZaDA?oc=5",
-          "published": "Mon, 16 Nov 2026 11:36:33 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0hlX2VROWZ4NjdQT2NjX2xhc1BfOE9PblJmdXVXdHdiWXRJYlY1MWNmNWg5dUZJcUc1MjJ1WEZ0bUFGeVlqZjNOV2ZRdTRscm95a2gwR0I0a3BhSmszZTVDTVlIU2lRX1RMOXdCdUhiSGwxc3Byblp2WkN5MWVYVFh4Tm1CUTJEbHBfbHZHNGthU2JjcFRzRW15b05rN21fUU16OFBQcW1FMTl5TlE?oc=5",
+          "published": "Tue, 17 Nov 2026 00:32:00 GMT"
         }
       ]
     }

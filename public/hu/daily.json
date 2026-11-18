@@ -1,52 +1,114 @@
 {
   "market": "HU",
-  "generatedAt": "2026-11-17T04:20:18.249356Z",
-  "validForDate": "2026-11-17",
+  "generatedAt": "2026-11-18T03:19:35.142107Z",
+  "validForDate": "2026-11-18",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": []
+      "items": [
+        {
+          "title": "Itthon: A Fidesz egyből megtalálta a munkácsi orosz dróntámadás okát: Magyar Péter - | hvg.hu",
+          "publisher": "| hvg.hu",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZzJYT1RkZDVZYk5wOVUxdlVPbG5OUGl4cnRFVzdCUU1ablZ6NjRLTFZHaU9yMGFIeEJtN2ZqYlgxYnNpaEFZSzlYYTFrTkpjWm5fUlZxTks4dkFYamJOanRCbmxKN1I0YjRwRU5WakZ6Z2tjRWdhMlV6c2duaVdJSlAzQXRpNDd1VU0xQi1LZGlsbDN3d0V4dExhMkxwQQ?oc=5",
+          "published": "Tue, 17 Nov 2026 11:31:56 GMT"
+        },
+        {
+          "title": "A költségvetés 30 órás parlamenti vitájának nagy része még kedden is hátravan - Telex",
+          "publisher": "Telex",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWNhYUJLWlpDZ0pRMmk1a1ZCeHE0RzRpVXN1UC1UNDJ5LTNNMGpheU5fNGpFbVZobVl6NWFORDlyNk16eU9xUEppQ2hXcGQycEZxLVpFTTl4R2h3YmZlX2FqZG5zOGdSbWtBckN2Wnl6OEVxTUlScFNQaHZGdXJ3QWZncHVRdnVUV0pNS08tZGc4UXZLd1ctTTE3cl9aUQ?oc=5",
+          "published": "Tue, 17 Nov 2026 04:55:43 GMT"
+        },
+        {
+          "title": "Gazdaság - Meghosszabbították Magyarország mentességét, továbbra is jöhet az orosz olaj és gáz - Index.hu",
+          "publisher": "Index.hu",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUh4VHl3QWZwWVZWamNXVU5pZXdDME9fYTdYRVplcGtlYktoZnZiWXVpY3RzXzNSN0Zfay12LVFhQnN3d2VDTDFLWDM0bHNyRVh1YVRsb3RZWEZQOXJTWGtoMmd0U3FvWkYtbmhhbmhDbjZQYi1neEUweTNOOHN3MVU5OExsdlVfeGtmZmU4T05lckpHbmhLdjNMamd6Q3d2Vm4zTkVUV2paSVB4bVV6bHJCRnI?oc=5",
+          "published": "Tue, 17 Nov 2026 17:30:00 GMT"
+        },
+        {
+          "title": "Kapitány István azonnali hatállyal menesztette a paksi atomerőmű igazgatóját - Portfolio.hu",
+          "publisher": "Portfolio.hu",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcFVaNWxnTEl6eHhna3BzZmJYN0prVXU3TEJKaEZsSk1sbG9iRDl0M1BfaUNRLWtWZEkzM0J5Y2Qyd3c2am5zVVFSZnAyaGVNVmFaeTVtOWxlc28yT09QM0Exd1l3SmRKLXNLRXhMNlcySjZBeWJ3VkhTSER5OVdXXzBjdTZSa0tuaWRScjJJWUplUS1DTUJleEV1QjVsUXk4Ukg1ZUtQdURSRU0tT0dIQ3NIWlFjQnl3NzdCbDRWT0xQQXVa0gHKAUFVX3lxTFBhVVRNNzl3MDBjU2UzdzhQUnBZSUhsNkdEMlVyWnV1bkx6R1RxZ2t1dE1Vd1VhYU1VMF9zTklndG5leTY3SkZ6d0VjNi1QODJILWlkUVBDMXNGdkh3MzBTTnJXUUk4QlhfQ1hvdzhJazZhM1lrMmpXSk9ia0pwMnVWeG5wd190UVBqMWRFWEwxcWp1UlNHcUJtQW9qdUMzVndIYzJ1WkMyMFpKckRLX2VZZFY5cUx3Q1RVZFpDeEg5Y3VkbzJSTVZueVE?oc=5",
+          "published": "Tue, 17 Nov 2026 14:42:00 GMT"
+        },
+        {
+          "title": "Drágulhat a gáz és az áram, az élelmiszerárak is megugorhatnak: ezt várja Brüsszel 2027-re - Pénzcentrum",
+          "publisher": "Pénzcentrum",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSzY3enBkRlB1UFRmbHctSjdtcTRWbjZzUDJyTEFwaU5oOTFYS2FKcGJVRGdZMlVGSWpOMTJHeXRuNDZlS2UtQTRxbjdPUVRwODZFUlFKRTVrQnpGblYweXhFRVQ4cHdodUFLQTg3akZaNnp0Zy10V1p2Z2MyQnlWbzE0Mk9IY1FRd09SQ2duTTFoT3ZRUl9XZzFiMFFHVXBQWjZGZHVoNTVrOUpuaWVoa25vS3N1QUlqclJKUXZsU1lpa3NDODNmQ3hsTHhvdUU0amRfTGhqV1k?oc=5",
+          "published": "Tue, 17 Nov 2026 14:16:00 GMT"
+        }
+      ]
     },
     {
       "id": "world",
       "label": "World News",
-      "items": []
+      "items": [
+        {
+          "title": "Váratlan incidens érte XIV. Leó pápát Peruban, kis híján szemen találta egy felé dobott rózsafüzér - Index.hu",
+          "publisher": "Index.hu",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYXNRdkdPVFhLRXdDOF9Zc0RqTlBDQlk1NkF3dDFxSUdyeVZNbGhPRnJkb0w1MHhpOWFzNElvMjNsaW1oOVBjdTZSTnctZFdrRFc2Zm94ZUVNSVI5OXFzWERTekVWMWtObmRqazFXcWQ2anVTUUVBU2ZOcUtHTzdLaHQ0elpTQlpBVFQ2SQ?oc=5",
+          "published": "Tue, 17 Nov 2026 19:15:00 GMT"
+        },
+        {
+          "title": "Megsemmisítő csapást mért Ukrajna: a tengerbe hullott Oroszország legjobban védett hídja, készülhet a megtorlás - Portfolio.hu",
+          "publisher": "Portfolio.hu",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORTBIN1lMb3QtR0FQc1l1Wm9kMHRzYjBzZnYtT1d6TUlsMnp6bTlaZXJuOHAzT1VSN1hhVkxXNTliVnNBWHBleU85aGR5Skw3OHdUWEJYRU9CejNpSm93VW56Y092cVItWDkwYnQ2cHJ1Z2c5NHVEMl9GOHZPMEtQQXdrazZXWW54WlZsaVQ3elpyMk9zMDhqTTZLY1JfUFNoc2J3RHBQZmlCTF9pdHJnSVR5OFhpcGJyQzJhelNCbnNKVUVaQW9ZUm9mVmpXRzBoNmxZUVhxNGlRTUZHOGdUb2M5V1NBYm84MkV5Y3VR0gHzAUFVX3lxTE1OUTBETEJoek9senNNSDhXYTlKR1k5ck0zRlhYUzNkWGZ6VVNHcWVMR3JIbzN6aVdoODYySWtoS0dUOFZzYkpYNW9UUjN6cGxCOExnMGFGZkM0NzVubGN4SmRpN0FBQXAta0tuNUdUb3pGNlBKTXV0S3ZYdnZfdU1ZUks5Ym5FVks4OUIxY1B2VFh0UmtNNURtR1JubDJfOGJJcHZZR3ZsN2lZVnRjTVV2cHZpSzVqc1dzWU1ZRHNJOG9ERWdDTG5XVWFzMG4zZUFfT1VwOGRMNGpXbXAza2dOYl9jR3c2dS1JektvUDgxNGRNQQ?oc=5",
+          "published": "Tue, 17 Nov 2026 18:00:00 GMT"
+        },
+        {
+          "title": "FAZ-visszaemlékezés: Orbán Viktor Ruandáját Szerbiának hívták - | hvg.hu",
+          "publisher": "| hvg.hu",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNalJVX1NRSTkyV0c2anFnSFZteWw2V2JTdnQ1VDVKZnhaSzJBekRsTWdxdi1oOF96ekdBeVFPYkJyaWRkaDBuVFdONDFFa1VsVF9yTTVPSktqdFZFNWdEb1BRTVdKYmRIM3lFUlc5bkxXRXg0NElyVUM2X3k4NHQtc3JtQWY2WlRabUlxV05DWFM4dw?oc=5",
+          "published": "Tue, 17 Nov 2026 14:45:00 GMT"
+        },
+        {
+          "title": "Megindult az eljárás a beépített informátor ellen: az Egyesült Államok szigorúan védett technológiáját juttathatták ki - Portfolio.hu",
+          "publisher": "Portfolio.hu",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQndhMjBPVm5uRjl4eVlYZ0tNMUFqd2hVZTI5blhETXZRSVZKQ1BlTkFOUThHNGJmS0xQa1c4MEo4QUdVWTE2VXNXdnBWZ0s3cDBpVTQwaEs0OWNFYkRMbzMzZU9jdTNLa3BNOEFhbzdvMWxIZWlpcF9kdW9iYlN0MVRTTV9mdUlzS1JvakM0T2QwQ21ZVERiOVUyRlVYUTJFZ3NVVUIwSlQ2ZnpCVEkxeVZ1cEdzb2tsWGNBYTV3eE5UNDhqWEFrVzk3ZzNhNWUybEp2OGt0UUlXcWVjRjg4anpSYkxKbGdwVHR3STlmbVBSUVFOakh30gH8AUFVX3lxTE1Rdkh5YllEaC10VmRydG5BdVFmWElOY0xIcUNCNkEzemNHcVFBSXVVVGpTZ2dlRGYySmdTTnJQdHlHQlByMGdraDczV1hLb3R2Z0tmbVk1THlDUlowcW1wSVFVczdvMEV3cWNmU0dkVkJsWTM2N2NKcDFvUlFpay04WHpiYkk4MFJtMDVYRlZhUG5xMi0tdkd3NktjYzNYQVphQ0JPU2VBdmtfeWdFMXdIcE5JVGNfaTQtdmZ4WFVjWFpmQjZTSnREbEFSSHhocDZfUG45QjZhREE3eU5sMWpLSEw4bFRqbloxRkFlQy10OTJUX25GQno2dzhFcw?oc=5",
+          "published": "Tue, 17 Nov 2026 06:23:00 GMT"
+        },
+        {
+          "title": "Súlyos támadás érte Moszkvát, kiszivárgott a titkos NATO-misszió - Híreink az orosz-ukrán háborúról kedden - Portfolio.hu",
+          "publisher": "Portfolio.hu",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORG92RHBITlM2VGhqY0FmTnZZaXNQQ3dQX29BZ1QxNjNHMzhaRUxjWHB1RWtDUTdEdHF3Y0R0eFFCSWdLd0dhRnl0bWFiZ0NoY3ZyQnp1MmNFUzVNMnNfU1lPMVQ2OW9tb29kbXZwZ1pXQ29YcGZZc2MzeFV3VFZxVktlb2s4WVJ4MWRrTkM4VjN3R2pESTdtNWtkY2JxWEJjNGdfYVJQOEk5Skstc2UxaHRtckd1a0w3UnQxV2swM2V0TWZ4ZDZEOWpiNWNIYVJ4c04yZUN0Y1oxOEFfR01HaFF1Vk1qUdIB6wFBVV95cUxPc1NjY3dPcVhoYXpHYTBhYnN3Y3kyRFZ2eC1pcThpSEJDZU5KOEs3TDdtaWQxbGVpbUhkLWltWVVkdE9hYVE1cEZzOEktdjdVZ1RpTWdJTkptSlpOOW9wRUNnRTc3bkpUWkhfQWdmRV9fR3F0ZnVRNmx0TGtiUnRlTDRQYTN6VURGZXBNRmI0RHBnRXBzZGZfZ0xBQmFoRFNtLV9DMmkzSURSbkxrTUYtWnQtZndwWmtHRDJnck5rVGtTanpHbFFxUmN3U3pRODNyajZWUENOOWVTX0JUUVZDblBTSzZ3MUxqbUhN?oc=5",
+          "published": "Tue, 17 Nov 2026 08:00:00 GMT"
+        }
+      ]
     },
     {
       "id": "business",
       "label": "Business & Economy",
       "items": [
         {
-          "title": "JPMorgan Chase systems recovering following hourslong nationwide technical outage - Fox Business",
-          "publisher": "Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVZfSXNOWnJZcEdKbVhSSTZkcGJUT1BfMUhKQW9pQ1hSSGJHNjgtTTJTNGxnYk9NLU81T3hLOFVlWk9hdjM5a0hxRUlqVHhib2NRYTN2Wm5NZDJoTThLSm9pVnVlN2xWRlFhV0Myc043czN4dDZ5WnhGY1JQREZGbmUyYUZxZUlOZ2ptSHJMQ25ydms1Nk1vRkN2RkU4NTJodTJSSFJnVXpQWTlfSVRKeXJpSklDQdIBuwFBVV95cUxOSDd0dE0yYzJBQmNiTzNpc2lNUHV6VHltSmVHVHZDUkw0ZElfY3ZrVko3T0s1UUlOOGptTXRGdi16RkZCWEVfZTg2RHd6VW1kWTZvS2tqQkViMHJoRFBJd0lwVHJVSkV2ejQweTNZa0NqMUp5X0tKbjNncW9HRjJZMDdDbW5Ua0dPcG5rNnVFbERSWkdKbllfa2UtazByMXkwY01rM3d0a3c0MmtpbjFTOGYtbUFMMnBieWpJ?oc=5",
-          "published": "Tue, 17 Nov 2026 01:25:00 GMT"
+          "title": "Vállalkozás: Jensen Huang megtiszteltetésnek venné, ha visszahívnák az Nvidia élére - | hvg.hu",
+          "publisher": "| hvg.hu",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb05ONUJkZzRMNV9fVkRNeGxneFN1czNwZFVnYUtrdzhQT2hBRDR5QWI3UXA3ZGR0MktaeF83TjZIaEs2YlZ4WU9jb0dlY09uYmJKQjlEaDhWa0NIcS12c3hDc2Jxc1RHcU9BTTNHZUdFNVgyd1V6bkFzckN0LU01MmZOR2pYMDlsRHducUxn?oc=5",
+          "published": "Tue, 17 Nov 2026 18:57:12 GMT"
         },
         {
-          "title": "1.5-hour-long system outage forces United Airlines to delay departing flights - AP News",
-          "publisher": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2xoSnd5Sm9rYTl5eFVRVzc2MFlNSk5qNUJRckg2X0tVazZEZG4wNTVVYW9JeWNyY1J6TWlKS0VURXd1c1JzUUdYU01WQzhQNWhkOEVCOXo4TTlLSnFNanUzVW9BYkZMOVBSb3ZfRnFMWXZFSGp1ZE5vSF9MTEd3VmxSTGI0YlR1VlE?oc=5",
-          "published": "Tue, 17 Nov 2026 00:53:00 GMT"
+          "title": "Egyéves mélypontra esett az arany, 2015 óta a legrosszabb évét zárhatja a nemesfém - Portfolio.hu",
+          "publisher": "Portfolio.hu",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclVCUnRUMHJIMkVZZ0hfN0ZtTDI5eElaQzVhRFVndWxMV0FkeGpybHdvOVNDbGhkc1FHOXpnV0FGcGpIUGRKNFFvcERWSnlhemxXaHRfQTlydUIzNGZqZ0lzWHhUbzc0LVZfQnJtX3JMUWdLSF9QX005QnEwbHk4YVJ3ZmJrV2o3N1dQRTVKNWlpSElnWHJ0RVM5TE1OczAySUJaTEJzdWdTajdyOXF4RTBhMDJndWhMUHBSM1o1djFEZlNwUXhId1AyZ2E4Z9IB0wFBVV95cUxQNTk1MDhmSGxScjRtUlJVQVhGUXVqSlFIZ2ZpRC1RY2RjVUJGWWctR1NUa1k2bU5RVEJBbzBqcF9wcEpfclc2WjZQWUQ5bjhEdGkyOXpnY1pQRUpmSXFoVjluVF9ZY2lJMkFlcUoya0JjVGRBM0x5MXUyOVRCaEhRTjA3NHQ1N3NldzBHR2RUSTR1X1VOTDZ5aGRqeUdkVW52UG54Rk04NmxCeXdkS1RtaWt1aHhiTzJCLTRVeG9EbF9sc2djVUlNU1dVQWNyM0ZwZ05V?oc=5",
+          "published": "Mon, 16 Nov 2026 18:03:00 GMT"
         },
         {
-          "title": "Trump administration's $50B air traffic demand hits GOP turbulence in the Senate - Politico",
-          "publisher": "Politico",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPejVnalQxVlRtempGWUFsVUtDY2I0a2VjT0k4RTRwZGVJQ1JvZ0RxS1lTSGh3TmNkYi0wUXQ5LTcxLUQxaDJ2RFFnTXY5eWR3YnYxRXNnZldISUxEdHlNVVJiUXNWd283MDUyOV9XX3ppRFlEZ3IwWmphdVJoVU9XOTg4SDl4YWg2ZXBhbFNfMm9KVFBwZ3I0RVNnVDY?oc=5",
-          "published": "Tue, 17 Nov 2026 02:31:00 GMT"
+          "title": "Váratlan fordulat: nem azt adja ügyfeleinek a Tesla, amit ígért - Vezess",
+          "publisher": "Vezess",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR2tQeEQ3YnNrNENIbkxSSGM5eVVpWjdJcUppamdrYWI1NzdQam9oNFBoZUM4Z0d0TjRjcUdRby1Ga0pRc2xkVEMzc1FHT28zeWs5cXFTZEViQ0xmOGhqVDZqU3Y1aTJHRjlSd3ZpbHZ0Qldnczc5cmpFdU5nRDVtaHNQbGN3bnhtamZ1aElB?oc=5",
+          "published": "Mon, 16 Nov 2026 12:01:25 GMT"
         },
         {
-          "title": "Trump Backs Huang Comeback While Nvidia’s Board Pursues New CEO - Bloomberg.com",
-          "publisher": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzZFZHJxQ1ZMaW5Ba1V4bm8taHd4bFBvYUZHWFY4SFpydml5YUVhLTRCaEFsNG9TbjY1dl9ac2tDek1DemJ0M3FwQTNtQm5aNV83RjFsZEZTNmJ2WHRJRWtHUVRDVEdnTUJtSzlaMWZfSEU2anpRSmVGcG9SUEgxN3c1WG5UcVBkdG02bmsyQkxvNlVqeEV2SDFORlA3VGNHZnpha2EyQ3V5aDVIS1E?oc=5",
-          "published": "Tue, 17 Nov 2026 00:36:00 GMT"
+          "title": "Új rákellenes eljárásra csapott le az Eli Lilly: célzottan pusztíthatják a daganatos sejteket - Portfolio.hu",
+          "publisher": "Portfolio.hu",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQTgtT0trUDZHV0YwWkx6N1N2dF80UHk1UF9MUDJ5OEZXNVpPZkszWThGUGEzM1NhY0ZwcENrYlFhU0JaOUJuSFRNRWVBVlVTY3VpbmVPY1N2MjZDXzNqU1QyN25xMTZkci1Fb2U1NlV2TnQ2dnRqUHYwR3pCRFRSSkxILUlVZVljekJRQ091RzF2VklQNzk1RGxSVnlsc0tjY2ZmZV9Ua3lpeGF0bFlZdXZ0TS0zTmk4emJ4a0V5UG9UNjlvVkM5TldZdGFuRW1rdV9TTzVR0gHbAUFVX3lxTE50VGgxT0w3R3Fkd0RmalhZMlA1S0JQQ1RXWUVFckV6R2hnbHN6LU5oV0VwbzMtM3ZvV2RYZC12YjZRenN2SEJYV19ndE9xSXBiMDhaYlFydVZZd2E3TWhpcHhEVVRGNDN2cG01OWxNbGpWbHdjS0hEdE1fQTFoLXZkQi1uZTlyUmFrbGRvelV4OTlnTk9oVlRFYkR2RlVtTFlHMlFyOVBUc1l4d3EyTkJzZEFPZUdqNnNTS283UjJhQkEyYmZJeURaV1RQQ1VjeVpNc3ZSd2lMNlpYdw?oc=5",
+          "published": "Tue, 17 Nov 2026 15:03:00 GMT"
         },
         {
-          "title": "Asia shares slide on tech weakness ahead of Nvidia earnings - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHY5U3ZMUmhWeEViMkJTbW9ObHlQYWRWbmdxWDhXMUdaWFRvLVdRY01oaTJJb3lmOFBiaWpQMEFlTFk5R2ttRnBaT18zaF9Jbk9od2Rza0cyMXJ6Z3JlalJDdG9neTVhQ3pJRG05SE9NQUYxZkFvQmQ5bnVfTi13amFNOA?oc=5",
-          "published": "Tue, 17 Nov 2026 01:22:00 GMT"
+          "title": "A Jaguarnak meg kell semmisítenie a lefoglalt BYD-aktákat - Villanyautósok",
+          "publisher": "Villanyautósok",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1padHVlSE4yc0ZEUWtpTk02WkpWbkxodTlUc20tbC1Ob3ZmcE1oenp4Zk9LeDVucUNvUmdpc1VvT0VZa2hqUEVVS3Z6WHdValFIZTRTQ0NxckhBSmhLQnVZU1dpTi02OHhpZEFQZVdWdVJGYXhnUEJmdDlHNjV2QWhqRkdDZU14TkdFT2ZsMWh2eTBQY3JhTzRWVQ?oc=5",
+          "published": "Tue, 17 Nov 2026 02:08:33 GMT"
         }
       ]
     },
@@ -55,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Lions' Aidan Hutchinson reportedly confirmed to have torn ACL, ending his 2026 season - Yahoo Sports",
-          "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONnRBM1dheE5NZVc4SmJyRTNsdWRtMWs5c1BURUFSN3V2VVFVRjg0elQ3WkFhamhsUzUwMU9CNTc1enI3amV3N1lITV9QUUpleUhVNWRXZTNCdFdKM3V2bVZOYjBST2FSenhHWGJaY3RaSHpNTzF2bXNhX1l6OUM1MF9NVGFlcFNITVEwZ0F0VGpwbFZRNmM4Mm1VVEo0VFZvODdPVExPa1NOWFN0eVc1cWVXbVg5ZFV4d18ybkUyNVMyTE9iN2JkLXAwdkFBeVp4?oc=5",
-          "published": "Mon, 16 Nov 2026 23:20:34 GMT"
+          "title": "Értékelje a magyar válogatott játékosainak Észak-Írország ellen nyújtott teljesítményét! - Nemzeti Sport",
+          "publisher": "Nemzeti Sport",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcUFkd0ZrTzdiWWM1dnVndjRZVzF6Um94S1g1bkRVZmFnUENMVmp0bFJkWjBHUkJhdEhVdXBsa0NvNFFiYThyQl9VX1A1VU51RFVwUEtFZmNHN0ZybW9TcElsZEZhMF9udkFUZUxhWWVheDR1R3RNbnFfVVVVZWl6aFFsY0VXV2JNWjJiYzF4bnJnNWtQWDA3VXdGZzVwemdjR3RjU1dTaE9LX19VVFZUM2xZSkVBbU5vMnBzcldYYm9RMWNJVWF2SzYtQzNPX3FLTzBKUml0Qlc?oc=5",
+          "published": "Tue, 17 Nov 2026 21:45:12 GMT"
         },
         {
-          "title": "Chargers vs Ravens Predictions, MNF Picks, Odds, Inactives - Action Network",
-          "publisher": "Action Network",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONGlNWnhBTUUwczhSOTJsTWxoUXVqQk9PWkIyaDdyc0ZBUDE3OFB5eDJhT2g2cm9zbE1RcXFPOWt6aUp6QXgxNGdjRTQ2N3J1Y0ZaWDVGX3BRMUZ0Ujg3SzV1Y1luV2F0SHVNdm5FZEhJNHdiRk1YZ0NtZ2p3eU5XZzZIV3NmQzVNNEJ6b1JPVnpLUUJxaDQyRk5PaEN5bmM1ZEZmcnBtdERKc2o3ZUM2R3IxMTZXR3VHbjlxUi1PRk10Vm5ZU19JSzZGR2Ytdw?oc=5",
-          "published": "Tue, 17 Nov 2026 01:15:00 GMT"
+          "title": "A női kosárválogatott domináns második félidővel a dánokat is legyőzte és hibátlan maradt az Eb-selejtezőben - M4 Sport",
+          "publisher": "M4 Sport",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb0EzdER6Ml9Wdk5ZekJSSExyMFNPYXlWcHR0b0tOdmEtYnpyZG1KTEFsM2k3RW4yWC1iQ0ZHTmFfMVZidWdsbHNLYUFBM21TdzJvd1pkQng4ZjNhVW51Q0kyM0RDX2lkWU1DTVhpN0tmMHJGTjBrcnF6TjMxMEs1RnZRWFpOWlA2ZE4zY05ENlRQdnpBVEpRdmFqUElBemRXdjVPNmhKN2dhOGhvalBiWnREcWtlWEw2bEUzc3RoN2plNFpzLThsb0lrRkxZcGFoM3RiaExrWTJPNENScVgtN1RfckxYdVM5bFE?oc=5",
+          "published": "Tue, 17 Nov 2026 20:22:25 GMT"
         },
         {
-          "title": "NFL Week 10 Sunday aftermath: Bengals AFC's best? Kirk Cousins returns, Fernando Mendoza debuts - NFL.com",
-          "publisher": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXl5VHowc1JsY0ZqMjZWS1JHZGdoTlQ3LURGUEZNUEVaLTVwQkhiQzR4ZVhfVkFRRU1xbDNycWt1M1kyLUdZbi1fTWNlVHlKN0tBVDA3aHYtWGQ1b2dLam11bm5FUGFXSEQyLUMtLU1qRXg2RkRuRERMY3AxZ0V5LXd1X0M4enhSQVBkTE1HMnY0QW1LbVp3LVZVSjJTc2ZGRjBYWF91Q25icDN3UVhJdlRCdmc?oc=5",
-          "published": "Mon, 16 Nov 2026 18:42:05 GMT"
+          "title": "U19-es válogatottunk harmadszor is kikapott, nem lesz ott az Európa-bajnokságon - Nemzeti Sport",
+          "publisher": "Nemzeti Sport",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaFZ1WFY5X0RndFkxcGprTWJudGVxWW1peXhKV3g3RENzTktXOTBKYmFwd1EtbzNXS0hGQVd3QmJ1Q3pSVnNuTjNGMXZ3SXZBcEgtZXR5SkRfSTh0dnFuYTlNdmt3S1lid0h2WGl0bmlPNllqcjY4dzg5RzAwclZuVmVZOE9INE9nX1NyNXlUd2VFNVZCbXQ1UFdzcTB5V3JzZVN5TlBXOWpsQmlBZ0IySUhTYUNZS2RGcG5xaDBYVjVKUEdwLUZwYjZGVTc?oc=5",
+          "published": "Tue, 17 Nov 2026 15:00:46 GMT"
         },
         {
-          "title": "Joe Burrow clear NFL MVP odds favorite over Josh Allen, Brock Purdy - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdUpqcjUzdFRIbHF2RTRaWDloOHdtR2k0MG5lTXJoSlY5ZjNkQXU4dVN3Y1U3VUZJUjBMVzlIR1RyX21ubXdXZkdUOXdlWEdlTkRlRnlzMS04Z05raHdidlAtdm9qUzM0Q2NmQVlxSXNJcFREV2RqX0Fxc053bGV1UjhVVVJNQW5hUVJF?oc=5",
-          "published": "Mon, 16 Nov 2026 18:48:38 GMT"
+          "title": "„Legalább tanulnak belőle” – már az U21-esek is tudják, hogy a 2–0 az egyik legveszélyesebb állás - Nemzeti Sport",
+          "publisher": "Nemzeti Sport",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWJib09WVDJiOGNMVXFTVHpwRDhYUXhkU3Y4NEg4ZDBUamFzZm9oQVM1RVI3QnJ2OWo0TzdzVlB6dkdxdkRoRS12OS11U2hjbGx3SVZ6T1dGNjcydjNLc1lPdGhveml3YXZweUdQLXdwSnBsLXlmVDlwVDNpSUN5UVRZaWVfdXZPa2M5ajlael80TkVEUkhKQ0prYVlGVlVqSTJkWHBYZ1QzRnotbEtzcjJtdmptUUJ3eUI5elBVZV9ZUko2TVpybUlnc1dEX0tUV2NydlhocWFsVjZPR1VN?oc=5",
+          "published": "Tue, 17 Nov 2026 13:19:19 GMT"
         },
         {
-          "title": "B/R Experts Week 11 NFL Power Rankings - Bleacher Report",
-          "publisher": "Bleacher Report",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzBPYmxMa2JQRGc2cXUtWWZJY3dCUGI4dXM3eTk2YmZpckJUMXdtZDRhU3NPZ09Kem5qVEp6WjVDaVdRdDBMU2ZhS0l6Wk1Ja0h5YVcteVNsMjdMeW85MzBoa3Z1emNZN0ZDRGtsMjVFY3FwV05hamVBT0VFeTItNU11eERKME54VEE?oc=5",
-          "published": "Mon, 16 Nov 2026 18:40:09 GMT"
+          "title": "Három tippel nyernénk 2.72-szeres kasszát - Hatharom",
+          "publisher": "Hatharom",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcFRBNkp4Y2ZFRHk1TURTcFBvTi1fOVMyQUtsTHlzWnBrOF81VDZITkZBME51QU12R2UtZnpTVVplSGYyaFEyRG9RczFUOXdKSEJVQlIwdWhsSzIyVFF1WEhjUmhxX2RaanltajNxSnFvSUtJSzFCSTBWS3ROd1Fjb1RR?oc=5",
+          "published": "Tue, 17 Nov 2026 14:00:00 GMT"
         }
       ]
     },
@@ -91,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Apple is testing daily usage limits for more complex Siri AI interactions - The Verge",
-          "publisher": "The Verge",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkNnb0JyWWVtVWhWbGRSd1QxRDRSZld4aGtaTU82Vzk1Z1hBUzRNd0I2TkFCSmlGaWE2WGRaN09jX1hIZ3p0VXRKZTBoYWg0RVZpVTFOQXBSd0dTc1NGU1ZFMTYzRVNyLUxtRXpEbTk4TTZvZ2RMUkJ5ckI0dTdOY1lXaEtCYnNIVXlwTjE2U2E3RW9EOW9sNzFTeXpDdktmM05iU0N3?oc=5",
-          "published": "Mon, 16 Nov 2026 19:24:40 GMT"
+          "title": "Itt az Nvidia nagy napja - egyre csúnyább, ami a tőzsdéken megy - Portfolio.hu",
+          "publisher": "Portfolio.hu",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNck1PbVFjX2w2WXFJeDRxNzBKaE1sQkRodGswS3dEMjlTZldIWUowbTN3clVIc2t1MnZfRkpxbWJZR0dwMHZOb3dLNkU2STRpS242cERCNGNpU25OcG5qVlpFNmFDV2tQMk9WS3pzZ09vcUFNU0tmVlBRdDVhbXRtaWc4NjBDNGpGdURiM25hVWRPNkhIa3NVS0ltMmdoLVRWU3lwYS1vOHg1VVHSAbABQVVfeXFMTk11RVNUZlFHbUtfTV9SRlg4V05LUWp2M3BiRGJtLUFfVC1JUzJ2Q3Bya1pYWHZCcFpGQ0tNSXN6cVdEVTRvaTFSaTBwYk0ydEpwY2xyZEJLQzdfcEdqRUdfN3JvRHFiTnJCRVg3b3E5aVVPbEJ6bjhwcHBJaHNhZy1iSThMRjV0dzRvZS1SVDM3b3dpYzFjMmU5M1JzcGI1NmtvQlE5eXR0ZVRYeFdIaEk?oc=5",
+          "published": "Tue, 17 Nov 2026 21:05:00 GMT"
         },
         {
-          "title": "Google says Russian speakers pulled off first-ever fully automated AI cyberattack - POLITICO.eu",
-          "publisher": "POLITICO.eu",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3dXZ19OWEdSOVg1MGpaVTExaktQc3Joc3NLcGdWeUliY0xuS19WREpFMkpjcC10Y3FFc0lpRjVQdUxpNk54YXl6c2ZYQzhLZE1pMXZuLVJ2ZHplRXFYNVVNVTlpX1Q2MUhSQ3ZQRjBIZ0JMYWZ3QmtiZEVaUHNub1VRdUlNbVJoV05XeWNZQVF0aWRlZFVqN3E3YmFtZzVRSDYxVzdrcmZXSi1vNWFr?oc=5",
-          "published": "Mon, 16 Nov 2026 15:43:00 GMT"
+          "title": "Orosz drón csapódott be Munkácson - Telex",
+          "publisher": "Telex",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS2hoTXRYRHRleXZyQXU4SUE4ZE9fUWtpWDFfZHpXcTNVTFJxZmRFZ1I3NVlISlZrU2xuNUt3V1FnV2ZFSFhJdHlscVphVmE3VC0zeFhWY3NtNFJxc3MyRm5Sb29tUHVERmxfVko1bW02aTBRb1NnaWlobzVTdHlmMFR1MkQyWEMxN2VN?oc=5",
+          "published": "Tue, 17 Nov 2026 14:30:58 GMT"
         },
         {
-          "title": "Apple reveals new Mac security controls as AI agents raise privacy risks - TechCrunch",
-          "publisher": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWl4cmQyY0JfOGNsZEVKNmw1a2R6cGtQM1MxMmZIODBKSzFLZHRQcjA3RTFqZGxYR3FPQ1BhZldKaTRfNzBpMm1haFhoUWxrb0JmT1lqX0MwZ1hvYWdud0lEcW8za002ckRrazlXZ19SRnlnUUVtSkl0YU51WXJiNld3cnViVGdKTHRlUHlrdlEtcHpHbGY1S3RWUDd2SDVXYzB0elN3NmxoOGc?oc=5",
-          "published": "Mon, 16 Nov 2026 21:01:02 GMT"
+          "title": "Tech-Tudomány - Világszerte weboldalak százait érte kibertámadás, az ATV közösségi oldalát is feltörték - Index.hu",
+          "publisher": "Index.hu",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUnFENDVhd2Q0T25NenBydVBBSklrZ0RROHMtU2c5ZHlVVmoydUNGNDYzbmhhcVhiMGRfUmpfM1BZV01OYTJ3LWxaWUxtOHBObXR4XzFOX0NHRV92WENCbTJlQk53SmpsbTFyWTRNRkVzcmhrTkZqc2s4c2YxMjBVQ3A5dEEtQzJRZ0NOZTBPMTVmZHJmUmRZZlRRODlwVnFhYXFzRWZyeXJ5QQ?oc=5",
+          "published": "Tue, 17 Nov 2026 14:17:00 GMT"
         },
         {
-          "title": "Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback - Bloomberg.com",
-          "publisher": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaS1qX2lXTFNMeFRLM2NNV2tNalNwc3diMTdaUGcwbTE4WENOTGFzM3dTdF9fWmxrVHZPRUNZSS10aTlreTdrckVfQW1qT2stdXNha3ZPVmVmTzZBYV9pMXFPY25zUk9Ham1IbE9UbGU5Nmlpa0lYMjBBTE5HTnNJM0duN0pRR0pDV2xvU3NnMnpUUTR2R3N2OGFlaWlxdV9MMGpYdnVLMVk5YVBVdUd4Ujc3MmFyWE0?oc=5",
-          "published": "Mon, 16 Nov 2026 18:34:06 GMT"
+          "title": "Összegyúrta az Apple és a Samsung legjobb trükkjeit a Xiaomi: megérkezett a 18 Pro és a 18 Pro Max - Index.hu",
+          "publisher": "Index.hu",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CeWIxTEVodGczYlB4bEowOWJnU0RZQ1AxWURRWWFOYTVkakE0RTYxTFduMkx5NWRXUmE0N2hrQXJrV2RVRkpkMHJNOXo1UDhkZWZkeGlLM0dtSmxrS2x2UGlZdnc4SDBRNVhOM3NxTDNzM1duVDdv?oc=5",
+          "published": "Tue, 17 Nov 2026 14:33:00 GMT"
         },
         {
-          "title": "New Apple study will test how people use AI for health - Yahoo Tech",
-          "publisher": "Yahoo Tech",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3Q3Mm5vbTl2QVRvMlZ2TFhfM3h3b00yZWFSRTJTWlU3LWxIYzF5LThzUGFBbkNibHgzbVlTdnhEZm1WRnYtc3RaZmpXYTF6dmFERW03ZVFLMUhBSUxQR3l0ajE3STNjX2JSbDlsd3NWb2drdHZTWFdLYnVmODJldXlNVTVrX3YwbWhqQk45VWpzUWowR0I3eHJ5cw?oc=5",
-          "published": "Mon, 16 Nov 2026 14:00:28 GMT"
+          "title": "Kijött az év legfontosabb gyorsjelentése - Mutatjuk az Nvidia friss számait! - Portfolio.hu",
+          "publisher": "Portfolio.hu",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYU1YQm5iM1A4dGc5ckpzVWxrY2FhZWpzbE1uZUc1eExqVEpaRXUwUnpSQWJoWWw2ZDRPTmNwUnE5Nmpkcy0wSzFVWnYxb3ZVTkprbTNSY1FUR2w0M1JLaUhqYnNaQV9sVGlWMGRxM1JCcUk5Y1M4Vk5oUWpkVEVjem5kYjJnMVJ1bHpYTWQ1b0xGYzVaVlJyWnlOb09xOFhkWFE4N1VGSG43MzRDLTItejVsbVJOaFpQR29xYTduRFBYS2fSAcgBQVVfeXFMTlU1Mmc0YXY2Uk5uMUhncFFyQlVNaWpKaTFRUjduMUdybmhENV9vX3M4b0x2QmMyNGdNZWpVQ1RMbHNfLThPTjFFMHAzc1JXbWt0NV9Lc2kwUzZOb3ZlZERwb3RvM01qUDhBYUZTTllpUlZzWmJKTWUtWmtzemJEREFwQl9WN3RxTFFlMkJUdlQtMkFNNWJ0Rm1wd2FybnVzT2hHNWRnWHFoZUhVclktaDIzRm91MzZFcVgwUmZ0WVFsOTlBX2dmWmg?oc=5",
+          "published": "Tue, 17 Nov 2026 21:27:00 GMT"
         }
       ]
     },
@@ -127,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "European football body’s plan to go global leaves Fifa on tenterhooks - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWdzQXd6TnF0b2VQUmtxcXFJdXNMU3hSYVJJZXY2Wnk4OGp3Q3FzTkw3eDNTMjJiRVcweEdIbWx2d1E0VzVDekxMUGd3bkxTVUtFSVJUVllVZHhmQ1FUOUtfWFJWSmg0YV9kRnBQT1Vyb3BCblVUT01VRllNd3BNeHA1eHEwSVZ6cEJaaC1qaGtOQ3JJQnJ3a1d3Zw?oc=5",
-          "published": "Tue, 17 Nov 2026 02:30:00 GMT"
+          "title": "2026/27 UEFA Nations League: All the league phase results - UEFA.com",
+          "publisher": "UEFA.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSTN1bFB5UWJ6QXdWWkF2X1RHbzlrcGtFd25XVU1YTGZ0TzRud202T3lQcHV0SlEtVkFlaG9mc2E2eVA2MVJ5czRIQi1hY3VXVEt6Q3p1QUpUVGc4ZXBILTJzTl9TaHhnT2l1dVdaZnBSVmJmUnZPYWlSUG9JWG5XOV9zeWtwVGtLb1BzbWQydVBCQi11X20wR2RaRFY5d3pUMG83aGdTV192U241N2NDRGYtMENGX1lOcDF4WmxxZUFmZDRyLWE4WHhQU1BSb2x3U0t1Nw?oc=5",
+          "published": "Tue, 17 Nov 2026 22:44:50 GMT"
         },
         {
-          "title": "Nike agrees four-year deal to become UEFA match ball provider for men’s club competitions - The Athletic - The New York Times",
-          "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXdTSktfQURMbktpYlZvUW1YdmkzSWd3eWR5My1pV3NLbjFDQWFsVzk0YUpPQ3QxZ2FyOU1aZGtCRmNjczBwZl9Fbk9xVzJHQzV5bHRvWXZiUTVZdXFpaTBZSnppN2hoeU53VFYxbUtRUjZKTmlDd0tMZjJIQ3ZEY0JKeVV2dGhjd0pkQQ?oc=5",
-          "published": "Mon, 16 Nov 2026 10:00:04 GMT"
+          "title": "World Cup Bounce has Arrived for Area Soccer - Grady Newsource",
+          "publisher": "Grady Newsource",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZE1kS01oM3QtRWl3MXN6X1NYSGR6UmY2UjhidzNHOW1ndFExRWVSdDhTRC01YUZOMTVidVRxMEpCa2NlZDdVelFGQW8zSTBwZjdiQkpZRXZvUHdYQzA5djV3RkxVS3FsME9PbnpPZkhaTzdNa3NzVUMyR2JYcmV4M1R3?oc=5",
+          "published": "Tue, 17 Nov 2026 17:18:57 GMT"
         },
         {
-          "title": "French football chief Diallo to challenge Infantino for FIFA presidency - Reuters",
-          "publisher": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQjBNNENHU0d2UmdESE5zYTl6T0ZIMGRxV0tqQWZEMGJpb2luT0xYY1NOWHlvTk1RRlc1d1pjMmdTNlFNOXNDd3NvR04zR056YU5zOF93bWE1UkpIWUltNS1IaFJjVFNsNUVPWHlud0ItTTBsMENQSFZZQTc2eHNmOTl3YWxMYTc5N2VPREhyUkFoUi1IeDBNaGJ6LTYwaF9pMGVNNlRsQ3hWTGlHZjhfLXFNeXg?oc=5",
-          "published": "Mon, 16 Nov 2026 16:24:46 GMT"
+          "title": "French soccer federation confirms Philippe Diallo as candidate for FIFA presidency - ABC News - Breaking News, Latest News and Videos",
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzYzc0NjSWxBSFVja2pCcmkxdXJqSWdZamtpMmVGeXBzYnFXdjFBRzFKV2VzZXNGdjFVQ1FVTXlkTmJDZm1JbmJaaWsxZkhKdlEyTUdvSlhETzJ3WnFfbVRvaWtHU0UxWUNudzZjc3JEb0p5T2NoWWtzaGpjbTVOdXlTal84MHRUTXhCbk01a19JVll4MFc5TzN0OFJfZU9CMXU1cFFkMi0zdFnSAbABQVVfeXFMT08yVlBqUXItcFFXZGNVR3pmV1hkLVBOSXR3dm9uMHRQcU1LNG9fckQ1d3FNSm5kTFRRVTlUN3ZyV3dFSFR1SjJJTUg0d01RSFhCdC1INlp4LXVJdmVvNHZrdFVDT3ZwOUlYQmRwSW9JQjdac2VJbGFUVjNZQVVhMzVIMmtycHNpeE9xbEVoeEs0UXpFaTR2MEJ6N1k5cDdveENxalNTRE9aOXRrUEZmVXY?oc=5",
+          "published": "Tue, 17 Nov 2026 12:00:32 GMT"
         },
         {
-          "title": "France football boss Diallo to challenge Infantino for FIFA presidency - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaG9mUlFVckdUb0ZNbjNCeGszZlVsQ1dIMFdmYjFFNjdLeXh3Ul92UFhXaklsYlFjcmlsREstMUIwMFo4WF85Ny1RVDVTb0ZPODVPSVZjUDM0T3BpekkyXzJaYkdQT1NYNFp1c2VGbHNnczJfWHpPZ29BSnd6dkQzNXhWUEc4cFVqMDNXakhqbDBmcFI4OS04MlVB?oc=5",
-          "published": "Mon, 16 Nov 2026 15:44:00 GMT"
+          "title": "French football chief confirms FIFA presidency bid, criticizes Infantino - Anadolu Ajansı",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2kwM0s4M0FEbUIxTVhVbE5ER0RyWFdEQkxHQTJiNjZ6d2RMMkhnOUJERVNRRnVnN0t4MHJYY3gxWFJzRmZOT2xDTjFreVNRTThwbXF3a3pYcUlNaE9jTW0zSzh5Rk5ROFlGdG9nZnZ6MEE5akY5TnpkaVhIVFBuUTBCekUzZl9faGU4TlpGMEFMY3FDMFQ3OHUzN3FQSFJ1c0tHUzFnc2FHNUdKT0NsaA?oc=5",
+          "published": "Tue, 17 Nov 2026 21:58:31 GMT"
         },
         {
-          "title": "Nike to Replace Adidas as Ball Supplier for Men’s UEFA Soccer Competitions - WSJ",
-          "publisher": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY01ibnJNdDJEbXFyZzNabmNDcVZKZlh2Z3JzazZlaDg0dHJVMEI5VVI2ODNNdVUwQkZnTkU4M1hlT3piZGRaM2x4SlhvSERrUXEwTDlHS3AyTUl1b0wyNTY5amwzeDdsUERWa3lHM0hXX2pFbDFneUhiUFlYb2h3a2VyYzR5dlBxYTZMSl9QeUVsNWhsNHh6aUIyNV9oNjBjM0pST1d0WjNkZlRSdDFpNQ?oc=5",
-          "published": "Mon, 16 Nov 2026 11:30:00 GMT"
+          "title": "France football boss Philippe Diallo to challenge Gianni Infantino for FIFA presidency with UEFA backing - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUUhoYzQ5WGh2Ujg5RGxqVnpkejRiMW1uUHVRVFZDZUQxQTQyRVJBYklkeEktMkwxakpaS2dEQzk5WG03R01jV3FUSnR1RGJUdUpPR1N1Zi1fdE9BbS1Bam9YV3AxenA0OTJxaXVWbTBTVDdDUWtiN1ZmNVQ4VDhfSXNSUkt2OVZqZkl2dU1R?oc=5",
+          "published": "Tue, 17 Nov 2026 08:31:59 GMT"
         }
       ]
     },
@@ -163,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Robert Pattinson Manifested His James Bond Casting 14 Years Ago - The Hollywood Reporter",
+          "title": "Jeff Bezos Describes How Amazon Decided On Robert Pattinson As The Next James Bond - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYm1INU5oTXZZa3M5QTlQbTNlVzlPMmEyaWxSVUt2NHhBRDhtU3c3Qm1CLWJCdmRZcl9nTnJZX1ZjSnNIeWg2Zk9INlRIUmZoa3J1a1BCQWw2QlFtSS1XSDlVM3FiZGtqNVkzVzV2Sm5CeW5laHFBRjAtTWlmak9lNDRMOHJrd2N2V2pFSXNR?oc=5",
+          "published": "Wed, 18 Nov 2026 00:08:00 GMT"
+        },
+        {
+          "title": "‘Dancing With the Stars’ Couples Perform Double Dances in Semi-Finals for a Shot at Season 35 Finale: See the Scores, Who Went Home (Updating Live) - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTduMkJWUThpOUFXSTVoQ0tod2EzN295a01ZTTdZZEREZEtCbS1LR1hxUExMY3ozanEtQ3k3ZEJYVjRLRGtZai1Fd0JWWFJLLXdIWlN5N3NqVkxoOHhXdGhlMmYyOXYzWGRsbExRNWxsc0tNcGhzeGJrX0V5a0tSeGk2SEdyNTFiWnc2cHF4VmNMN1ZLZ1lFRnF4MWMwRmR4TVI2SlNaMzQ3Sk5vLTl2Y1BRQm1Fdw?oc=5",
-          "published": "Mon, 16 Nov 2026 23:49:46 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa25kdEdCdEwwU0lXbmdEcHFDcXB3OUxncGYwbFVyLXhlQWI5SUVRZDF3TnZuX0N3eVg1WVdyZWw3Q0wwUHB5SW5wdE9WRDc3SHFBampvN3ExSlpjQmpZeGxDWmU4S3ZMN1JqMzVFVDNILWFjZHljSVVab1pyRm1qcVVTbWVBVXczd1lWdlFqWkVNRVNUYV80YkplU3RaVzFWdEFKUGF2UkhsN3RmTlN6U3VEZ1hCVlU?oc=5",
+          "published": "Wed, 18 Nov 2026 02:03:30 GMT"
         },
         {
-          "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field - The New York Times",
+          "title": "At Burberry’s Holiday Party, Gwyneth Paltrow’s Son Plays a Set for Teyana Taylor - The New York Times",
           "publisher": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYndBemszelBDSlhqaWVXRTFTN0pTb2JTMmpxcU1fWS0wbHpfM3dBWHRQOWtqb3JnZkN0ejV1OXU3SkEyblpkazdyX1lvQTBvRmdHdEdfVHBJU3NIR2swajBPMjc3SDU5WjZXaVV2blFSZ2l3YzZCY25ZcWd3S3dxZVRLd3QwQWVscThKRnNRUm9GWm5BRE1ySTlVRQ?oc=5",
-          "published": "Mon, 16 Nov 2026 22:25:20 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTNON0kzVTNJUDJWbEJpWWhZMTdCZWQ0Z2h6R0FXZms0SklCRXltVjlXMENaY2RXbUlkYVFoNFpuZlVwQ1pLWXBIQmJrd1NhS21lMVc1VE1LdTkzaU5oTnlrbjhEblBBdHlXd3IxUXZ3aEpaWm5TbjVlWDcxN3JIWTEzLWNYWllqNGNqYm00bWNlMnYxN0xNMnRLcFZfODA?oc=5",
+          "published": "Tue, 17 Nov 2026 20:04:25 GMT"
         },
         {
-          "title": "Ray Tintori, Music Video Director and Filmmaker, Dies at 43 - Variety",
+          "title": "‘Madden’ Rotten Tomatoes Reviews Sack Nicolas Cage’s John Madden Biopic - Forbes",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYTVrR3JfV3lPQTJJZFlSVmxQc1hKbk9FV1NLSGs1dGRsWUJUQkNMRGFFMFdKRVJ3Um4xNUFlLWhMeEVfaVg0OHFIUFJEdEthTTN2VUM0M1JFODY2Sm5BbzlVd3NsWXNRTE1NS2tTOVJRS0R3bDAzVEJXSWlZOUFTYkhlMzNHWWpYWXM3RFlXUG5wb2hvLU1qRlhsaElEVUgxenhiWllsWnExN0k5ejZvc0JnWXpZTDQwdVFjUQ?oc=5",
+          "published": "Tue, 17 Nov 2026 21:01:59 GMT"
+        },
+        {
+          "title": "Jennifer Lawrence Stuns as 'Hunger Games Sunrise on the Reaping' Premiere - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdqaGdfdmtLRUZBLTBjVURHLWU1LUJHcHQxbkdadERwcGRLWXU3c0VNOXpydFc2OF9vTDN2a2stb2owYVJiWGh1aGsxM0cyd004ZGRuSFRTZlMybmxOU1prdHEzS2RDaEVHdWU3OTRUdGVaNVV3YXdJMjlFLTZDZHBTcFcySjI5ajF6UVBEUDZtRkowNlNCT3lR?oc=5",
-          "published": "Tue, 17 Nov 2026 01:27:00 GMT"
-        },
-        {
-          "title": "Woody Allen and Soon-Yi Previn's Daughter Shares Rare Family Photo - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFM2ZHNyWmZpR2pvUnU1NlFHQzNNUlNzd09RUzdOUXlJR19UWTdXdldWcEVNY3UtY2dUb2dTOVowWjNSb2Z3cDh0X3ktVDFKQktoYnRWRDlMY2hVZlNobDdYaG1uVnZRUkhkbVc1WmppZ09lVnJYVWU2Skc5U2RzV3NFME5NN2h2MUJpbVRiQXhkb1Vh?oc=5",
-          "published": "Mon, 16 Nov 2026 23:45:38 GMT"
-        },
-        {
-          "title": "Cause of death released for partner of Gypsy Rose Blanchard - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMTRtckowWnhMVEV6YzNpRzBXOEs1c0NnQ1Qtelo5QUZwdzE3bU4zZ1VwTDFMdnQ0N0pzV1Zwc2M1MGthdXV3cERKQWktMllwaXJjdEhKNjQtdERJQXFHYW9pQmczenBvVERVcnhZcWctYkxIZXQ0ckFJc3VIVnZ4dUZHNVFkNVNXZDhFelV6WndDa21DaVE?oc=5",
-          "published": "Mon, 16 Nov 2026 23:16:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0hlX2VROWZ4NjdQT2NjX2xhc1BfOE9PblJmdXVXdHdiWXRJYlY1MWNmNWg5dUZJcUc1MjJ1WEZ0bUFGeVlqZjNOV2ZRdTRscm95a2gwR0I0a3BhSmszZTVDTVlIU2lRX1RMOXdCdUhiSGwxc3Byblp2WkN5MWVYVFh4Tm1CUTJEbHBfbHZHNGthU2JjcFRzRW15b05rN21fUU16OFBQcW1FMTl5TlE?oc=5",
+          "published": "Tue, 17 Nov 2026 00:32:00 GMT"
         }
       ]
     }
