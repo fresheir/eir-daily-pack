@@ -1,7 +1,7 @@
 {
   "market": "GB",
-  "generatedAt": "2026-11-23T02:13:51.802380Z",
-  "validForDate": "2026-11-23",
+  "generatedAt": "2026-11-24T05:44:07.171454Z",
+  "validForDate": "2026-11-24",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,34 +9,34 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Manchester concert evacuated after ‘tear gas’ let off in crowd - The Telegraph",
+          "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdER0R21Bam83d3RfWGJWUDhzWTRVaXlNeGRrR2ZraVB5Z3kyY0hLTEZiNkVzYWx3dkhIVkdwbjllN2w1eExhZFk0UWVkeUI0Y0N3X0dfb2FFU2VyejcxYWRZaTZHd1BNUzJLYzFsSXY0X1hZRkMwNzljUEFxbHFpazNR?oc=5",
+          "published": "Mon, 23 Nov 2026 16:40:00 GMT"
+        },
+        {
+          "title": "Metropolitan police seize 893kg of cocaine hidden in boxes of oranges - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1FfRXJnb2FuSkpzWDNULVpyc28zM3h0V1V1OXFaU1cxLWZ5NzVxWVc3Umo5UFU1OFg2X2NqaHI4aTdSWk1DbGNHRGliZ3NCczZVMlZONjFkdHNicnNONXpaWG1GYVBTTm1mbldOcXA5TzAxQUhWaVBNN2ktdEhkT195d0NLOEpFM2lpa0lqREJYbE9SVmVyeXExLU0xa1VrcFNqby1LaVhJMEFVWWxxbzZ3OGE0Sk5pZXR3?oc=5",
+          "published": "Mon, 23 Nov 2026 20:41:00 GMT"
+        },
+        {
+          "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKTnlObDF5RUxoX1BLamNBV0ppbU0yankxSkRvV05JckVtRmptZlAxSHFiTnpqQUtVXy1nZS10VG1FbXNNQS15UkFpaEhFb3JyRGdJUnEtNG5IMUZO?oc=5",
+          "published": "Tue, 24 Nov 2026 01:41:58 GMT"
+        },
+        {
+          "title": "Husband accused of drugging and raping wife advertised ‘fun and games’ - The Telegraph",
           "publisher": "The Telegraph",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3g4UGdnYndXV0FyMDZEakJuaXlra2d4RDNjby1OOWp1bFc2bXZyMHh4NlRDVHBCLWpRdjBWZHhSTS1rMncwT3B1UmwzTUFvVHRHemFKNGtlenAzVDA3QTRKd3Z3dTVoMEpmX25wT29fbHlMMkFkSHRwV29Zem9SNnhKTFVrdlZKNzBUcDZvRWMwNE1EMUZDZFFuOA?oc=5",
-          "published": "Sun, 22 Nov 2026 23:57:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM19OVUszY19mWWIxbTR0M2dJajVMaU9FN2FkSlA3dDB4VHl1VFlwUV9YUHVIZ1lFLWEyZUQ2Z0VNZlcybXdwUG9sejFuN3lPVjFSZUQ5U0t2X2hLbWtOZmZfMmYxUEVHLUl0Y0FZbnpZbnJMM2FvUncta3dxNk1mdHpwcFpfX2laOXh5M0xGQ2xWRV9ZcFVrcVJwemdySVpyWjVIRg?oc=5",
+          "published": "Mon, 23 Nov 2026 21:04:00 GMT"
         },
         {
-          "title": "Just accept Brexit and move on, Theresa May urges Andy Burnham | ITV News - ITVX",
-          "publisher": "ITVX",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORjZZTndCM3d1am0zdkhtb2hqQ0gxcFBpVkRqUF9oRHRydzBiaF9FajZpU2tVVmU4THdFMkozbmNieWRGcWMtWWhONk9vNFFPczY1QXFoN0Jiamp1LTdNQW5SbjBXak1IWlBXcEJWRXRoeFVEdDRqQTQzR0R1Z2tINlBUd182ZVhMemxwLWc0Q3JMeUJZdTlIMEZ4NXE1QQ?oc=5",
-          "published": "Sun, 22 Nov 2026 15:01:07 GMT"
-        },
-        {
-          "title": "Man barricades himself in Kirkdale house with dogs after pensioner attacked - Liverpool Echo",
-          "publisher": "Liverpool Echo",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHlxTmlfVFpwNjZiMTVKbkktM01FWkVTdWtLSHk3eUtiLTBNRlEwenI3b00xQVBrOEpZbFpXaEE3eEZUTFVLMERpUFllMWxRTWRWQnFWa0NCc01WLTJOcy1wTTJwMUNCNDg1cjRPTWVmX0pla2d0ZWs4M1FuNmVPcWFtWFh2ZzVVeTJWcXFnLTBBNzZwa3pvQVdEbjhWdmfSAaQBQVVfeXFMTW5kN1FyLWVpRFhrS0dRNEMtZFo3c3RzR251YU8xTFp6TEE5S3U5SjNPY3kzc29KbEZLYW9TU2lYQ3kwM0pxQ3hpNEtaeG5fVmt4UzB6NTJfZFBHTFNaQUlzdlp4eWhWYmZpbE9HSFpOYTk0WnZQY19BeVhBdGdDMERMdTk5OTNQdmpBeDYwVkh3dHpwODVaaDYzUU5BLWVrUzdYeDc?oc=5",
-          "published": "Sun, 22 Nov 2026 21:15:00 GMT"
-        },
-        {
-          "title": "Andy Burnham seeks quick tuition fees deal with the EU - Financial Times",
+          "title": "UK government steps up its war against quangos - Financial Times",
           "publisher": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdkV2M2doMzkwdFd1UTVfU2JkSVJBcC01Mmw4NmxXYlBNT05NcU16RXBaLUJYVnFzbGptaTFoUHVUd3ZVYXdmY1p6ckMyRGxWaXpzY1JOT0xKNEhPNzRGWW5WYl8wbHhOZTZScXlsYUVkTExhNE1uZTdRQWk4NGRLQWtIb1Y?oc=5",
-          "published": "Sun, 22 Nov 2026 14:22:56 GMT"
-        },
-        {
-          "title": "Man in 80s dies after being hit by car in Swinton - Manchester Evening News",
-          "publisher": "Manchester Evening News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGMyX1FpVnlJZDZMdkhyemRfOXgwLVRVT3Y2VlVOdmdBbkVXTWJFWG9zaFE0YWlKUHhzVWNrNVRCYmdOd3V6MVFCdnFFN0J4aGM0aTNzbGllT0M2Yml5Vnd3V21mMjlYNDBPenIwVnFyQzBIMVRuMEVvVWF6eUNyRXpZSkdOOGlGN0dUVnZ6bkVJN1NKQ2dRUnZ6MDdCR2NCMWJXMNIBqgFBVV95cUxPbHhHRmFvYTZzeng3N1hiRWNBR09vRWdIX1ZiY1JJUDZHUjRyazFrQkxfaU9ZR3VpTDFWb2IwT0JKRlVUZ19IZFA1Y2M4aWItMDduQmZ0RUJPcmw2dUFXWkVLeFIwTTJaN2pra2VXXzd6emFnaUdacWdLa1gyM0VZZlRobDA4Q3FvSzlhTDRZdEJDdVdTVDJjdEhIcndkMHg1SGJSdFVJb2N1QQ?oc=5",
-          "published": "Sun, 22 Nov 2026 21:24:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnljNVVLLTh0S19fYjNDQ1lEaENYWXZtd0RpNlNkc3lUZjJKSHNnTXhaU0ZCSHBzQkpCcWFTdVlmcm1pVVd6dGVMajJVVUJkd0JlY0F5Ui1FUlJ5NVQ2YWxCb2FQUTVpWE0tSEJGWEdpc091V3ExRVVScC13aGRPN1lqdE4?oc=5",
+          "published": "Mon, 23 Nov 2026 14:20:21 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Finance, fossil fuels and the ‘overshoot’: six key takeaways from Cop31 - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm50ZjJub3NFR1hNeTBfNTVpUm9sWG03Zi1zZnpiWDJDQXNtOC1DckFxRlp6QW94MXV3YjNzRVBEYnNqTmN0NzVVWk9xcU9wem1DYXotSGQwNldTdXBuc0ZSWUNEdlAycUtUcV9pcXdrS3g4QTV5c3ZJcHNhM2JTdkhldVhWcXJaV2hvX2FEcTd6Ui1CeEZGWWlGWGI5ZFZtRnB2R3p3ZnZHQQ?oc=5",
-          "published": "Sun, 22 Nov 2026 23:56:00 GMT"
-        },
-        {
-          "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat - BBC",
+          "title": "What strike on Russian ship in Libya says about spread of Ukraine war - BBC",
           "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81bWhabGpUZzdoTnVNUlZzUEJBa3FxTXhEVldtZWJSYnBWOENSRnVKWG1JUFB2UVVNME92OTJIVUlDVjZCcUlFbFhLdXUzcEJPb291Z2ZLdWhHVGNfbWc?oc=5",
-          "published": "Sun, 22 Nov 2026 20:26:24 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzRlpROXRSV044RXVOaF82dVp1Y3NpM0FjdGgtcm1EWTRDY3V0REVZckZEbHE2Y2F1VGp5S3NLdk5kUkNrN1lBOW1IQVVnXzN3TXVHTUNVMzJyNkdWWWc?oc=5",
+          "published": "Mon, 23 Nov 2026 20:48:35 GMT"
         },
         {
-          "title": "Mexican drug lord captured in bloody shoot-out that left 11 dead | ITV News - ITVX",
-          "publisher": "ITVX",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR2FqMUFtaV9BanM0Y0N2by1QUEZhR3VBT3Fad3VpM184ZnJaWmZYTWluOExJcFYtM3QxSUpGUFRTTzFYN3BQLXN0dGEyRHdwWUN1QlUzOUYwZm1JVkV4TE5majZWNGUtUjFQZ3dhNTF5TjZFQnExOEIyMGtoYkQ4SEl5bXplYXhRNnVlMTI1bkl2NG4yWmFqS0x5eUluQ2xWbEE?oc=5",
-          "published": "Sun, 22 Nov 2026 22:26:58 GMT"
+          "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUtWdVJPaUZZOXBmZ0VhUzJTaWNKQVNwUFhzMmVaRWY3MW9ITXVnbWpMd2h0cmdyTEtmaDloN2E1VmNQd056ZTMwSVFPazRtSWtLZ1NXa1NBMUkzQ3VwNjJUajFhZ3B3UXlGNnF3WWhNNUxHelhoZUkzWS1XZERMZ25lSDcxcHVYZHBUbmJlb0FHaGlNSFU1eXF3?oc=5",
+          "published": "Tue, 24 Nov 2026 02:30:00 GMT"
         },
         {
-          "title": "Sanctioned Russian vessel attacked by drones near Finland - Financial Times",
-          "publisher": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTER0aC05WWd6Yms5V2tJeUQyQTRuVFp0dGVHcERCbERJdmU4WjJqdEVYRVlnSEd0SDFfVm5USnBBZTZiWU1rb0RoWjhlOFZHVktlVktaVG9kbHpaZHIyVlZvRXZtLXlyX2k0QjQ5a0dUaDlON1JiakM1UW1uLXlMUS1pUWg?oc=5",
-          "published": "Sun, 22 Nov 2026 12:24:41 GMT"
-        },
-        {
-          "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know - Al Jazeera",
+          "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf - Al Jazeera",
           "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZsOWN0bmtuM0VnLWpjVnlLMXVfeVdqdFlkZjVsb01uLUJhUjFoOC0yeDZtLURYbVBObWg3T2dUQm51akxZMVJfeU43Nl90eHNfc29hNVVNVG40dXd1V1VvTUtUSE5nVGFDOTdRN0tVa0xGS3BXUm9Ycm5MVDdtRXpyZWN5WFhZc2ZnSldjcXI2N0ZHTTMtSjFLZVdYTFpYWGNubk9ZM3FJUdIBrwFBVV95cUxQTGlqSVNoVU0xLTB4MDNLbW9haElfa3ZsWFVqVVFvV3I3RU04eEItYnlUTTUxNEw1N3ZMUjJab2wtcmw5M2FHbVJOdmpnUG40bGVBdURINWs0cXVMaUJuNjRHV0RSemV4T3ZBQS1nQ1VITGtUemZaY29JMVJwaFlVTm1NUVZsRlNBeUNVRXg0aVNlZWdFNmhDRWs5UmR3cFplVFNaTDl0RnRpMXpIaHFZ?oc=5",
-          "published": "Sun, 22 Nov 2026 14:42:45 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2VvLXJGZDFZYWtNRWkwbEhtblRjNTFWRWRlbEE5NjJmZ2pTT1RDZnRwYkpnbEQxc2RXOHZ5SEdFcndfR0ZOalNkOVFlRVBoRWFTblR0WjR6VUNpZ21pQlV2dGZEUzFnVTFvV0RPODJ5UDRvaUtpNWpBZXE0X2k3QTVtalVoZ2JYeU5mQnVCMUZjVnRuNGRvUGRFaTRTTXBUYUZPTFBuTllkbWJQ0gGyAUFVX3lxTE9PblczbUswY09GZnJGTjRHVVlndFlmWVBmNHllNG1pTGtDUXNuTVBiQzcyRi15Sm1TQ2dhQmRsa0JCdmVvc0dUMlZ0eE54dlJyUUlrNUlOTmxFSk92MjBhZHZTSWVKTk5ENW1SbDRHRW1DS3NSUnA2WlNaUjQtVzQwT0h3UExiN21CYjhtVTFzUXBjZnZ4UUFibHdaSmZlMWZzQWx2OEcwazhVbXIteERma1E?oc=5",
+          "published": "Mon, 23 Nov 2026 20:50:20 GMT"
+        },
+        {
+          "title": "Russian soldiers twice as likely to die by suicide as civilians - Financial Times",
+          "publisher": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVZmbDFiR29kd0kxa3lBenZ6TUpDRjJBaDQ2TEYxNXlYVU9RaG5yMHlRdnMwcGU4VG1lcFBQT2RzRGJmUWxlSWt4UjYxdG4tWmZzcGRTSUZ4VmJCS1RzdktQWXJ3aWVWNFlDYzBZeE9xOFAxVTN5UFRfMW55QWVrUENpOTY?oc=5",
+          "published": "Mon, 23 Nov 2026 17:42:17 GMT"
+        },
+        {
+          "title": "What failure of COP31 reveals about a divided world - BBC",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YRTVCT24xT0Z3bVBKMmlYVzlXclMxbGg1cy1ESWViWVBzZmJMSTBZMmlWUXBucXBZS3NmWV9pU2I4VW1SeVU4aVNZdnFqaUxCaFVJZnVtQk1vMEtwY2c?oc=5",
+          "published": "Mon, 23 Nov 2026 17:24:25 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Third runway decision needed within weeks, Heathrow boss warns Burnham - The Telegraph",
-          "publisher": "The Telegraph",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWEJGdDVTaTRQbEFpVVoxU3NEVXhrdXRFb3pvdndpaUtvb2RNWWNNTnZkd0NEUk9PQUVvNVY3ZUVPc080OFBtN2RGNFd6akJMb25PZnNIQmQ4amU0Y1VhTFlvTmFBWGk0QV93eDRyV1JVUUdKb2VYTkplN2pMSFlEVDkxVnlZMkhTRXVQLVQ5eGFzLWplZm5QNzZ3cTdzUlNwejloa3pn?oc=5",
-          "published": "Sun, 22 Nov 2026 16:59:00 GMT"
-        },
-        {
-          "title": "Will Anthropic’s IPO buck the tech sell-off? - Financial Times",
+          "title": "Asian tech stocks surge after Jensen Huang’s return - Financial Times",
           "publisher": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOVVFNmptMzZsNnBaaGdXX19UcXlYOWZQWXBOV2NFRVNfbnR3MUlIZjBYUjhPSWRUUFR3NTdLeDJXUHdrc2ZDT3V3a2Q2MFEyR0s3djN4T2hlLW9Bb2ZCa21ua2hvR2kwSmdXMjZGRE54SnhHbnJ2bGJwM1FNblJmbEFTMGk?oc=5",
-          "published": "Sun, 22 Nov 2026 12:00:06 GMT"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPal9tdUdZVTJvVTB5aGJHZ0FwTk1GVW8zRWFzNlFEdU9YTERXNlNPcGFzbHUyaXd5U3I4WlMzTGNFUUtPVlA2VmpYSW94TFZKMFhGOFlsU19WV09kVkFGRk9IQ3h3MkRLUGlqWms3akdWTUNaR1hxX2VXakFVMm1tNWk0MW8?oc=5",
+          "published": "Tue, 24 Nov 2026 03:27:17 GMT"
         },
         {
-          "title": "Shoppers can get 8p a litre off fuel at over 600 supermarket petrol stations - but you'll need to be quick - The Sun",
+          "title": "Government’s £100 winter energy handout will be wiped out in under TWO WEEKS by brutal 26% price hike - The Sun",
           "publisher": "The Sun",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSXVRUmtQR04wcEJfWXF6X3ZqbWlwa2tMMVFuVnB5OG85bjBZNmVCa1BEdmtmOThTVnNqd1VUeVZJaWQ4ekdRaU81VHBqWk1LczM4QkVLSHpUbTRqbGk1cHM2OF80R2xHZnpXZzlKT09YVFFoMEhyRFk5SGVEWF9qVmkyamFrZlU?oc=5",
-          "published": "Sat, 21 Nov 2026 10:11:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM1MxM18tUkJubDdITFVma3I3dW1PNmpXMEppNWVIaUkyMmtvZnpyR2l3bktUT2JKc2E4X200UE9EcFdlQ2lMUWdZanprS1pEU2xmemRtQ1hHLXBDdjRGR3ExMmZHcjdheFhDdU9HM2tUUUpzcUxka2N6LU1NeFRjbmJYNHJ5dXJYaGVyeFlmQQ?oc=5",
+          "published": "Mon, 23 Nov 2026 12:07:00 GMT"
         },
         {
-          "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PbmNKdTNHMTdkYWplVFFpVG9BaW92clZSQk9fMUI3aUs2REd4a3RLaHJCU3I4MzAwNlIzQXV6S0VpTWpjN2JZWGVubjZrWXNxMUFxNW1ORVFVVVZoSlE?oc=5",
-          "published": "Sun, 22 Nov 2026 13:50:21 GMT"
+          "title": "Poundland owners Gordon Brothers in rescue talks with Business Secretary - Business Live",
+          "publisher": "Business Live",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX01qNEpZbVc0V1hBRWxYRTN4XzJFNmNGTnpPU1ZmWFQyR0VRdnNGN0I2MUtGVnh4SWZGVEkxVXpiai1aUzJJd1FZQmpxNzhtclUtNDQtYTZuT1dCeXg0U1RIRUkzXzJLQXNDQzFMZVdYa19Ma1BQOWN5V1hKTkthQXFWM1R3dmhFSkdhWTJnNS1sTlAteUdVaHFmS3rSAaIBQVVfeXFMT3V3MEVXUVhfNlM4a2UwLUd4N29DdG0zeVIzUGxKM2ZJU1hFeC1JQ1pIUDhCcTRiMy1CWGpRRGZpTjVhYnpHTHkySGpZY1ZqT1JtdUNteWRDQUhJby1zS0FFX2xQT2lOU25iUHJkVGN3RTg0d0RUQVJfMTlpQ1JjZlVSQ3FuX0ZGNkZ1dWd4SkNhQmVBX3B0UkFNVUE2TFF6Q05R?oc=5",
+          "published": "Mon, 23 Nov 2026 15:17:00 GMT"
         },
         {
-          "title": "Liverpool Christmas Market branded 'disappointing' and 'underwhelming' by visitors - Liverpool Echo",
-          "publisher": "Liverpool Echo",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdEdhODByVm5XOUVKelRzQmliZ1ZhcERqeDNfcTBCWVRldi1hMEM4ZDZ5NXVfekNTbjZyZXhXSERSRlVoYVNHakJmS0tMbHhQSnBSS3FoNkhaRWE2T1hJNU5PUDdDR2pkc2NrN2p5b205WXhpamF4RDFLMmJnX2RTLUxKLVVmdFFMUHpMdUMyeHpDZXdwZmgzUDZaZGg3OGVFUWkzN01xLUF6NjRjOWlDTmdn0gG3AUFVX3lxTE1PWHdfMnM3SXNFdjA1S194bEQ1MC14ajRUQXp6Y25ERmFEV3NZNDY1ejFIMFp6RGdWSUcxX0I2aUNlRUZCVV8tVm9HdGxYVmFEY0hhVS1ZZHBQRDh5NEJTakwzRlRRSko5VHJSTWFxS2RwVnF5Y0d1OVF6SjFjRHd3YlZGbUZGa0kzekk3T25nU3JGR01RVlhJekVJMkxQbXY4LWowcjA1aXo0MTRma2J5VVd5Q3luUQ?oc=5",
-          "published": "Sun, 22 Nov 2026 19:12:00 GMT"
+          "title": "Center Parcs at ‘tipping point where you can’t pass costs onto customers’ - Belfast Telegraph",
+          "publisher": "Belfast Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVlM0QzUxekRyMU90R3BVb0hmaGdoU3dXWkNnU1ZnUVhSXzV5ZUpjLUxwM196amtTYlJNY2hPYUU2UW9zR3ljeVJadTJ6dTBrSjFycHRLS1JsRjNJTnFxSGdCMjBxWFV6Z21TemJ5aE5Ib3R6bEtYMUNOLUE5NmFpSGNnTTh1MmhfVW5id2RYTHBXc2NQdlViRXR0SjQtV3J3QXFacGVBZUpXOFlEc0J3QXUxWnNfMm43U3l2djFOXzh3bFRmZi0xZVRwSUQ5clQ0cU9fVTNTYw?oc=5",
+          "published": "Mon, 23 Nov 2026 11:59:15 GMT"
+        },
+        {
+          "title": "Rents grow at twice the rate of house prices, says Hamptons - The Negotiator",
+          "publisher": "The Negotiator",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTNpOVNiSEZqRFVMY3c5cHplRE9XTlVLeEpSRE9YamlZNzFLRG52cmw5WmdJRDNPajlTMlR0ZnN2X0pENDY5eVR6S1lpQWlUNHpaYnVFc1JqTVlMWHFxeGwwQ3NqUDg5X0Z0ODY0RXBLbzVfbGhuVW1JcWtKOHZQblNvREhIaFhySVFlZk8yTUNlNlFHcHZLQXBDY3VzUENqa3VQZ3ZfSVJhRHhW?oc=5",
+          "published": "Mon, 23 Nov 2026 05:56:22 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red - The Guardian",
+          "title": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton - The Guardian",
           "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzYxR2R4YThySkpsV1huNnZzYjd1WUlQazcwd0QtRm93QlRTU3VQSDc2cEYwVnhBOTVoWERIS3lsNTlBaWVFZlBiSkVhSEVWbFlaSEQ3UjRBOFNuYnNhbU9HNWlSYjFGbXIwNDktSk93d2Q1MEhiRERnajRPX1NWWm5sM2JGVzhTV05oQ1VRVEZyNDNaenlYVmdDZmhHeXkxajVubzA0Yw?oc=5",
-          "published": "Mon, 23 Nov 2026 00:04:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHJHZXAxbDcxQ0F4ZUNrc1E4cnFqOGVTRjZ4X2lCcVVoZnU3TWV4YjN4TmRuREN5SzJGTTl2UVF6X250dVY4Y0tCVzU5cjZqOV9kUVpxcVFhYUlwcVJVN05TZHB4WWR5eFhTQ0prejdlTnBkeUVTRUE1MWs5eERwV2ltNmdSV2JfclFCUS1ncXNUeWpOUzZpZW9R?oc=5",
+          "published": "Mon, 23 Nov 2026 20:00:00 GMT"
         },
         {
-          "title": "Nations Championship: England will not get carried away by win against All Blacks - Matt Dawson - BBC",
+          "title": "Women's World Cup: UK announced as 2035 hosts as Costa Rica, Jamaica, Mexico and USA host in 2031 - Sky Sports",
+          "publisher": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeEs1M0dwZVBBd2tneDFnSEhNSng4VWI1ZW5qSHBXNFJubUZyTE9jN0FsclFDdDdpNE03SlRfbDJncDV5UmNFQmNLQmI0d3N4c1Q0M0dUMElQeVVkLXJtLWdXMFFpaXhCZzZVTi1BQTFMT2I0QlFpdzdxZ1g5cmoteFdYdk5wWXkzamV3RXVKaFA3OTdrTUNPQnhoMk1IX0p6WVU1RzI4bGhVTHdRRDZpRjhaWDFTLWVRdGt5aEpLak1YMWFzY1lTQWo1Y01SeHhhOFpPYWZEb0V6dw?oc=5",
+          "published": "Mon, 23 Nov 2026 18:06:57 GMT"
+        },
+        {
+          "title": "'No-one's coming to save us' - but how can Man Utd save themselves? - BBC",
           "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnd09wcnduQldIdGVoZnpXd0lDTl9DTDh0RFMwbUN2NjN6eXV6XzdOcVp1R2tfTVlhS09hMmU0ZG9OXy1rdzJCbzNLMFBVTW1YR1hpMXN0X0JtT3dyQ2VJUE9zQkNTOVFfSzlTRlFuaw?oc=5",
-          "published": "Sun, 22 Nov 2026 12:45:57 GMT"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jRWlyTGpCcDhjckJ5WDBGZHRIZFNnYnEycW4zOEVROU9zcHdsNjF1N3UzZlhaakdYRzVTa3lKMUh6MlREQ2YtSEVvSUJZSGZTYjdUWVhkVUtHUW9feXM0TXFXX1pqRmZJZVBF?oc=5",
+          "published": "Mon, 23 Nov 2026 16:30:59 GMT"
         },
         {
-          "title": "Sky Sports commentator apologises to Raya over Arsenal injury remarks - London Evening Standard",
+          "title": "Arsenal handed Raya injury boost as Arteta reveals huge new update - London Evening Standard",
           "publisher": "London Evening Standard",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLUItR0U1ZGNvaGtBMlZMcEhBaW5udXAtY3ZNWTVya3VjZldNZWRDYS02UEdPam9FaGpaMTlycWZRdW5OVl93ZVJYTEtoNmhiWmRQWV9FTzVTOUJTRWItLVRDdEtQMkVxQy04dzl3TmFNTGZEdEludjFxbVU0Ykp4WE83UTBKamt5S0dLbGdLT1pMcWhEcGVicS14ZllmNzk4bDMw?oc=5",
-          "published": "Sun, 22 Nov 2026 14:17:34 GMT"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjdKYTIwRDJyVlcyRWVQRmJpVmp1UGdJVGpCQjQxYWc0Ym9wMnE5cU04bE92eHJnY3J4WnBSZnY5V01VN2xRUnZMWE9kX1NzZWhydmU4SDFHbk5Ea2lVZjNhWkRrSUxDLUY0ZVlHSDR2UW9CY0xuWHdjXzJGeFE0VU9FYmpydmlGWG9TdF9ncV9oWm9PWWcxckhJUk5rZEdh?oc=5",
+          "published": "Mon, 23 Nov 2026 20:21:14 GMT"
         },
         {
-          "title": "Hull City 2-0 Brighton: Keeper Konstantinos Tzolakis stars for Tigers after Greece nightmare - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CSzR3dVhzeThhS1FEelkwSmk1N0FrdGtsWGlBV1JHZWZwSG1sWHA3WWpXV2pZUWtBcTd5WkFFUmhBUGwwalZYZEhKWUlZWkg4QTZqZU52LXhMS3N5YmlkOVFqQnRYRlRs?oc=5",
-          "published": "Sun, 22 Nov 2026 19:03:32 GMT"
-        },
-        {
-          "title": "Tom Jackson, Broncos star LB and Hall of Fame broadcaster at ESPN, dies at 75 - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX3R1NWpuUDNGdWtLZnYwTWNJYWhLdWNzVnJhRWFDR2ZqVkFGWE5xSkpkNVRVUjQzTkgyMnNkT2t2MmozQlRxUmNoZWl4TFljbElZZGY4M29iNVJHY2R5Uml2SlE0b2w4UlhuZFlUbjN4S3h4eXpxd3UtMTVVS0M4THZoYjF1S2kzaTJ6SWNONlZzdWJhVXc?oc=5",
-          "published": "Sun, 22 Nov 2026 15:00:00 GMT"
+          "title": "Moyes questions Tarkowski red card as Premier League explains overturn - talkSPORT",
+          "publisher": "talkSPORT",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcklZX0lTR1gxcERlblZTbWdra0UyQ1NmbGpqR09venItY3BJSVZuLUlubG05Q3huTGREVnJ5SXlIYXk2ZjBPeXE3ZDN2VkhwSWdjR1c3Y0diQUJMT1VMcktiUWktdVRFOEswTlRYM3BPdm5QN0NFUFdlRFhPeXpJSFpRR2Z1WUlTOVNMMi04dWpfZHI0clI0RllBRzBlTGM2?oc=5",
+          "published": "Mon, 23 Nov 2026 23:03:16 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "GTA 6 players spent over eight hours in Leonida on launch day, and over half of active console players joined them - Eurogamer.net",
-          "publisher": "Eurogamer.net",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13UjdpUFdhUkhmOThuMTBHUngzTUlIbVZHRzhwWjVjeXdLeHN0czZMLVNlQ2puWF9TLUhsSHF5X0NFMGlnMEE2ZFBRM1dDUmJZSmpLTU1CdWVhSHBkdlJtNUdCQmduMHN2UmlJTW1R?oc=5",
-          "published": "Sun, 22 Nov 2026 12:02:30 GMT"
+          "title": "GTA 6 Officially the 'Biggest Launch in PlayStation History' with Over 39 Million Players - Push Square",
+          "publisher": "Push Square",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjYzbWJsZUZmX19TWVFiSE1xczB1ZEZjcmthZ2ttRTMxbVhJbGFRSFRwQlo4MU1XOUFsbW5aSVZFLUlLclAza1JZbzBsOW1fRDFENERRQmZBTEdhenJhdFl5SnNTUFpwOE5jM2IxSjdSS0p2di1iOFhlV3FMMGdRb2FOMERGV21tMy1VZE9DVkY3TnRYUnR4eFMydm9XYjlYU29zMkpkS3NFbXpqN3NPQlduN1lqREdncU1nSFVjNERuVC11Zmc?oc=5",
+          "published": "Tue, 24 Nov 2026 00:03:10 GMT"
         },
         {
-          "title": "Microsoft ‘plans to move London offices to Knowledge Quarter’ - The Times",
+          "title": "Neighbourhood contracts paused after NHSE warning - HSJ | Health Service Journal",
+          "publisher": "HSJ | Health Service Journal",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEZTVGNrMFFDdVd6TnVUQ3ludVJkaWdNdmRDVnZvOVZ2MGR1Rmg3REtDdDdoVDdBSWg1eUJpV3lmdUIyb0VibG9iZXVHRmNCeDhMazdIeDZsWXFqY0tja1VnSkFSYmU1bFJhZXNnb2JFbGQ1ZHQ4MjBVWnVkQk1QcmZVWHIzZ2I2WWtNVktfcmt0MGE0X3pTUEVnOXhQWWNjYnBLcHB2eUtBdw?oc=5",
+          "published": "Mon, 23 Nov 2026 10:51:58 GMT"
+        },
+        {
+          "title": "Feeling the chill? Our favourite winter essentials on offer for Black Friday, from dehumidifiers to bedding - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVFXMTRkbmpEc1NhUkNvSjd6RnFxOXF5WldudzFNUE9aZV9FVlV5U3hQOVdBbFRYZGhycE83Uzg0TXQzcjd2ZFpnQWRJVmVWWGZqbHBzNWNrX0Z0cHp5RXlUMXdoVmpHcHRPMnl2LW0xaVdTN3RGZ25WOGNRQ3B6eDctRExwY29TY0ZCNy1hNkhMYjJSM0Iza1AzbHpYUmVv?oc=5",
+          "published": "Sun, 22 Nov 2026 15:00:30 GMT"
+        },
+        {
+          "title": "My pregnant girlfriend says she’ll leave me if I play Grand Theft Auto - The Times",
           "publisher": "The Times",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXBnQ3hQUGdCMWxyTjZyQ09Ddlh2TXFjYlZzZHRVOVExalQ5b0thQzMtU2VKWGN5SlhHeXotZEJGSmFpSmdIem56Y3haQklseTRwSjhFMHdWWjdmMGN5MnBmYTBJdUJCa0VoMzBsakhEMUw4em1tLVNwTTJWVmtRVnU2amoxSVpncXljbER4c21RcVQ0WUsxV1dWRnpvdDNJR1EzZnRJXy01SjNPZWViZFhJVVloRklw?oc=5",
-          "published": "Sun, 22 Nov 2026 16:30:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMFVhem85NXE5ZVZXTGMxeUVnMlUwWS1jVnNDZUVmODRwak1lU0duekpHN2dUR3g3MU5CYldrQTdneDdpYmVJaWVLZ0duVERSa0t2OWM4bDZCRjRaNTlEZ09rVkxUTld1Q1dWOExqNGJWakFSZ1ZGQWNnc0NtQzlaeDJSYzlrWXNWNkdoV29vejJseHB2X1BpbmZjaDNsUlNxTE94dFhMb0FEUHVQWlczM0wtb3JSUXJ2UGdjWXZlRDJjNGE4QzVB?oc=5",
+          "published": "Mon, 23 Nov 2026 16:00:00 GMT"
         },
         {
-          "title": "School absences up 35,000 on Grand Theft Auto release day - The Telegraph",
-          "publisher": "The Telegraph",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUW1JanJPZngwdjYzWk9JWDEyUTkzY05GOG1wVnoxalBkX3NJaHlLa3VWVVk2eVFoLURsMW0wTFo2dkY3ZDVqeUdQWlp1ZGVWM2VfcmhfUUpFT2phem9nbVZXMEpMSF9keGpxNzJFTjc1aERsN2J6NkUwV1FuN1FGSk9VOFNkWGctQnIwRDVhcUJsZw?oc=5",
-          "published": "Thu, 19 Nov 2026 20:29:00 GMT"
-        },
-        {
-          "title": "Gran theft auto — pensioners trade knitting for robbing and killing - The Times",
-          "publisher": "The Times",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZklXdW5uZTA0M3MxaEw4cE5FT2VPTmhHYnVIVG5RYmE1U0ZFWGd6cTJHVmJYVG9kTURaM3lxNHBnUzhrSXF2MUVQMExDV3pKZlpPTTgwTHRuRVFyX04yQ3hFVEN4cW1FTlhSR1JpRTZIVi1BazFwV2pqaTZwZmhzRURENFZkNzViSFQzWGhQcTgwbFVXNUZqWFl3?oc=5",
-          "published": "Sun, 22 Nov 2026 17:27:08 GMT"
-        },
-        {
-          "title": "These 20+ Games Are Coming To Xbox Next Week (November 23-27) - Pure Xbox",
-          "publisher": "Pure Xbox",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUNIa1pHTlJvRDhvd01QUFo4RzlQc1BfV1FBY0UyM29iSGpyZjF2VnBxX25PaW5HTllSWnpDQUc0WnZsaHNyaXBOdVFVeF9BVnBudWk3bEFWNFVqNERVZUt5LWhNd3ZkT2hkakV4dkxsUDB1Z0ZzUlQ4NzVqd3hadkFPVnowRzMyVlE0TDhySHJxaUJGbXNrcURERkF5SG92cXc?oc=5",
-          "published": "Sun, 22 Nov 2026 14:50:13 GMT"
+          "title": "Hacker who leaked clips of GTA 6 jailed for seven years - ITVX",
+          "publisher": "ITVX",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzhveW5LS3BDOTJQX2w0TllMVE9OTUhXVHBqeUNJMXVIZXplX2Ric1AzR01EalA3MUg0d3REdWpMeHNuVGE5TDlMNFdnSGlpU0xid2dkNE1fWFBTd29BVHM1NGhYN3hMS1VucDdRMUdMbXhTT1BTVW90QXYzWlpNdWtod2ZleTQydUZHVlBzVFFIVndUTWFXTVdBSXJ4WHBydFE?oc=5",
+          "published": "Mon, 23 Nov 2026 14:20:29 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Soccer-Legacy key for 2031 and 2035 Women’s World Cup says sports executive - SRN News",
-          "publisher": "SRN News",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0ZvWjlLZ3l1a3VpY3prT0pXMUVwdlZmVXFTSzJ1d3BnRF9yWnlSSDZiVXFCM25Id3VhQmpyMkVxb000MmZJNDlHOVkzQXExUHRMZ2J5d0VlblF0azFrVkJVOTNucU0zRjRibGxlNFc0aXhJMEFVcy0xQWx3Ry1LeVdKTFNlUmJEVDBVTVQ1d3Z1cEpxSWdKWTJQSQ?oc=5",
-          "published": "Sun, 22 Nov 2026 21:51:55 GMT"
+          "title": "Road to 2031: Major Women’s Soccer Events Ahead of the 2031 FIFA Women’s World Cup in the United States, Mexico, Costa Rica and Jamaica - US Soccer",
+          "publisher": "US Soccer",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmQ0dU9uNmVia1RTc1FWNkZNSjFBRGZnT0swUkMwYTEyNXBIMlROZVFfWXowZjllVlQ5blFhdmtKT3I0QXpxY1NpVXNBUVJhUVU2R2huaHZOOTJCazRkNDJEM1BLWERTQzFNalVadFpwRXI3akRyd2xVNXh5Z2xpT05rNEpfUHFva3c5MVNMaHlJbXh5b1ZMb3lhM1JYZGc?oc=5",
+          "published": "Mon, 23 Nov 2026 20:23:58 GMT"
         },
         {
-          "title": "Fifa to confirm UK as host for 2035 Women's World Cup - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEbjhGMGZYOU9GVzFEc0hZejBvdWJfSG4xVHFkWnVydktYV1E5c042WHkwclp1cG9VdGs0RTc4MHQzb3plY3ctRmJBRm5OV0hEeEw3em4yNHJSd0hNS25SZHFFNnRSSVNG?oc=5",
-          "published": "Sun, 22 Nov 2026 21:44:37 GMT"
+          "title": "Is the UEFA Champions League too ‘Americanized’? – The Soccer Weekender - The Athletic - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYXZYZGJKaU9uaF9hTURYdExuU0txbC1OZkM3OEw1d1ctemFoNzZEdkRQNUk0eVVpZklGY1VtWUpZT0taRFpxT25CN2tGV3Z6UGtlbko4WHVUVmQ0Um00R2xwcjBhdy1Iemo4RVBlMzRMQjFWZzMxcjJoQWdwRnRCTWdRYk1FNEJiNG56Q3FmNWlQakJWUTlLM2Nn?oc=5",
+          "published": "Mon, 23 Nov 2026 23:35:13 GMT"
         },
         {
-          "title": "Premier League Predictions: Pochettino’s Man Utd Bow at Liverpool, Arsenal Visit Newcastle - Sports Illustrated",
-          "publisher": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk5TMVQwRjhmeWVYUmZtdXRyU3FpNzU1QVNuaTRhUk5TTHFobUdqNmFNWXRKOHpZOE93UkZhR0V1X2JZR0pwbTZ2OVhaZ3hVUHdQQS1rX1U5RHgwdjhWNHVUbXF2azRnSkFjWHpGcWxQUS1jOXFoYnFXeW80X2ZRbUJlWjFXd3pmZEhuQ2Z5UU0zUm5BNzVrOF9WT1o3TlRhWFE?oc=5",
-          "published": "Sat, 21 Nov 2026 08:13:26 GMT"
+          "title": "Champions League Power Rankings before MD5: Who's No. 1? - ESPN",
+          "publisher": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX1VSMmY1YmhMREN2ZzBieVlYbHYzTEFEWUN3QUdheUI2X2VHanFxUUVoWFppSldMM0JPOEFXWEhFRVY5cURWVUc1aUo4STMxcktUZXQ0TEV5MXJHRVUtM2Y5QnQ5WmtDMDlKZ2E4a2NqdHdzRkJubXNXQVROVHk1RktFWldyUlJWbVBZcGdhdGhqbEF1Mlh6THo3Nk1jMjQ?oc=5",
+          "published": "Mon, 23 Nov 2026 16:13:00 GMT"
         },
         {
-          "title": "Group A: Bahrain 1-0 Iraq - The AFC",
-          "publisher": "The AFC",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUVnWllHdlp5ZHBsWUYxR0IzZG1IOXN2ZGlWUHF6MF95bDJrY1dxdGg5Z3lMcUxVWXZpbl9ETTRJRENKUWo5SVRuZFZZdDdrWkFaYnlvQnJRb09JeVplR2M4djBrRjJiRWJZbmY2S2ZnQ0VkdXBZU0JPMW5nSUVaM2tDZEpDdkJVUjBBXzVTd1pybHVidy1GdWplRVRfdw?oc=5",
-          "published": "Sun, 22 Nov 2026 11:14:39 GMT"
+          "title": "How the 2026 World Cup sparked a massive football explosion across America - Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXItY3haSEtjZGRaLUo1R1dCc2NfVlkxVE1SOTFUanFqemlEaTBRUE5yN0JKWDlzRmNUTk50bWZELWR6RWNON2hIMURBM3oweVpvMElrY1dHU3BBN28tSHRhSmxGYnF5akxKNEExN25lbTdUR09HT290cVNLNS1UQ1ZLb2hyUQ?oc=5",
+          "published": "Mon, 23 Nov 2026 16:35:25 GMT"
         },
         {
-          "title": "2026/27 UEFA Nations League: All the fixtures and results - UEFA.com",
-          "publisher": "UEFA.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDV6WU5RZ0p0dVVtQnZ3N05lX2lvYlNzbzhIblZXNldSN0prUHBVZ0FheUE5QTl1NDRPX3puVm5fNEVLQkprNFN1OVNDLWFlSldJcUhiNjZ4UFF6Y2VzNTUzamNxdXBzX1V5bDNSWXkwdVF1aDcwVkNyc3ZTUVZnOEVHVDlaSnV4QnRYbUJzZ0FtV0xFQlJsT2NkVDlwLXg2N0toTEpuR0NkdGRfb0c5bXNLZGtBQ3lESW9MbC1iSWRlVzJZYW9qOWJ4a25odGN4T0VHMw?oc=5",
-          "published": "Fri, 20 Nov 2026 08:00:00 GMT"
+          "title": "Football: United States, Mexico, Costa Rica and Jamaica to host first 48-team FIFA Women's World Cup in 2031 - Olympics",
+          "publisher": "Olympics",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ29tckozYU9KeUYzYWVWQXE0UEYwdmdrZEY0Y2s1Sk9KRmVBRnN4MEhocXZJYVNkYVJNQzh6a0FMLU5kcjJXbGNUM3VEaDBEX2w2eXZxOWlxY2VHX0N3RTJGUFdqWjVjM3ZrSkROc2RPZkhUQUJ1WGUwUXBqdmJyVUoycVJjdEZVVVVhV251aC1JWnluVXhqb0t0bGJ4bzg5M3dGRS1FZVVmOGNYTzRkb01aRGpDdw?oc=5",
+          "published": "Mon, 23 Nov 2026 16:08:00 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut - Variety",
+          "title": "Steven Spielberg to Direct Western Movie Starring Cillian Murphy, Jessie Buckley; Paul Thomas Anderson to Write Script Based on ‘The Heart in Winter’ - Variety",
           "publisher": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZE9nZW91QzA5bW9Ickc5TTFFdkh5RnFjWVJDbE1ERGpLSkxqY3hjS29fYkNpQ3VKRHBwdU01d2dUbGd2dEdnUHpyTmI2X043VEhPVGxzU2M4YTVLUXBya0J1RERna2FrWGYzdDBZU056d0dDd3Zfbm5Hc0o5SkprQ21YY0cwWEZRQW1xYWdFTHBtc3RRRUhfSXBLU3RnaDRKZHR6NzNXb2tWM0RnTFRJQ1VYTkxhM2sxd3ZzV0FISzdTelNwVldTaDFOMWkyaGxNSmc?oc=5",
-          "published": "Sun, 22 Nov 2026 16:16:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYTdSdEVOLTBsRHVNekJ0SjNDOG8zN3hvamEwaEJsZkxscVk4dkhvS253YUFPMHltbzR3X3ZfSGNJTF9MZGpkTVJtN0JSVGN6cEsyQ01Yd183QU9UQUVYLUs3c3JoQzhLZUhmUmdGS2RkdG5FcnFETGt0RWhhSXZfNml1bDJCTGd4UV9kSXk1UnM1V0M4LTB4RngwWFNNNTBvUFNn?oc=5",
+          "published": "Mon, 23 Nov 2026 18:03:00 GMT"
         },
         {
-          "title": "Bruce Willis' daughter apologizes for sharing 'intimate' photo of him - USA Today",
-          "publisher": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTERKUDB6WFVGeXJLMEkwdWR5cUJYa052VzhlcUNKZWp1aEtuOWk3eXpCVWN5UWhGUFIyRHF6R25XaEtubXhoUHUxY0J6eFZoeGJ6OHVPYVNXSmIyVXJoWkt0Z2hPY3JjM0wwNDliRjN5UlBZUjQxcG9YbGo3RzZUek5lSFFBbklpcExUZC1EZmZQYV9MT2V1dHBCaUJqRmtHS09fQ2pueWtQSldlMUg2dWJjX3hGcldRVUZTNDExbUtTZXplU2drMw?oc=5",
-          "published": "Sun, 22 Nov 2026 19:47:00 GMT"
-        },
-        {
-          "title": "Taylor Swift Celebrates Travis Kelce’s Milestone Touchdowns During Sweet Moment With Niece Wyatt Kelce - E! News",
-          "publisher": "E! News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHFkYkRkUFF2Vm5TQkIzWFI1Wlg0NXdLZFJSTzZEd1MzbG4tbkNFVHdoWThuYXJDc3Z6NEVmXzdkUTJoNkFwRXRvd19Kci1iSml4SEVCR251Sk56Q0J6U1NiajZ3bGRXV0Q5eVc2WGMzV2ZkYUJoU3FiMC1RNjhOUFN6MmJUZDFYNDhXbmZTcWJETnNtaEdPWldBbkxtU1JRVGRqb2xFaXZZaTZy?oc=5",
-          "published": "Sun, 22 Nov 2026 21:17:00 GMT"
-        },
-        {
-          "title": "Molly Meldrum: Australian music legend dies aged 83 - BBC",
-          "publisher": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdGZEbUxLQjhnMUJwUWI5QnFDSHJqZFJ2VGNWQzRCY3JSTkxUdjkwQURlNUl6d21aSklaeG53M0hqVC1WdDlIblZfa0NuWExMMC1fV3RodHV2eDg?oc=5",
-          "published": "Sun, 22 Nov 2026 23:51:47 GMT"
-        },
-        {
-          "title": "Mahershala Ali Says “There Are Not Roles for Me” in “Vast Majority of Projects,” Despite Winning 2 Oscars - The Hollywood Reporter",
+          "title": "Bela Bajaria Calls Time at Netflix a “Fun Chapter” as She Teases Rest and “Conversations” in First Remarks on Exit - The Hollywood Reporter",
           "publisher": "The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaE1jYW9FWGpxUHVfR21wajZfcU1hTFppMUd5MWxheHpWWlJwR0QzWTdPMm13Q2VVMWlrTzJYbW5rdnBTcHV4XzdyVk1fOWlGQ2ZYSEZpNXl4SzllbDU4VktILXhwZHROa05jeHRxRllUY0Zqd3dDSGNHRVphcG81UnVSQVlCVkFvUmdiQXZtZExhczE3dGVYeFdPR1Axc1ljV0NPaVB4cjBJMjlwTkUyVXNwOW1MbTR6cVR4ekZrLWNndw?oc=5",
-          "published": "Sun, 22 Nov 2026 21:43:27 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnhUNGUydDRhMVlpNXVrTWZJQnEtcFBySFotWnpqNXd4U2FpNHhGOTBVWmdISkdET2FNWjdpcGU5VGVaV09RcHFmaHJ5OXNWeElMRUJPYzZvTmpEVFVZM3dWMHdYUGgzcHg5UzM1Z0pzUjN2X1o2Zmg3Rll1M015R3M2MWdmTU12UVhfTHdqanBCVG9ObmlRajhvTUYya2NFMzJF?oc=5",
+          "published": "Tue, 24 Nov 2026 02:47:07 GMT"
+        },
+        {
+          "title": "Gabriel Iglesias Is ‘Doing Fine’ After Being Helped Offstage During Show, Rep Says - IMDb",
+          "publisher": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFVDlES0hrSG5pY3BjYTlXa2p6OXJyRkVlTWdlV1E0bFdsZ1FIT3NhU0x3U0dlNEd0aTJEMTRBUERlUHNfcWVzVVZxUlY5Q2dkUHNnbW82NmF6R3dJenhsdl95aDdTekRVeEE?oc=5",
+          "published": "Mon, 23 Nov 2026 23:38:41 GMT"
+        },
+        {
+          "title": "'Avengers: Doomsday' Final Trailer Has Fantastic Four Calling On Steve Rogers - Deadline",
+          "publisher": "Deadline",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iN2VVZ3VPNjBqam1OX0tRV053R05FUl9COU9qbGVlYlF3anZBdTZybWhoeUE3WDVrbVplVS1NcDJ0OFA1VFR4b1dDUjJMcXpyaUxLZ3lXblh2a0c0ZUlVQTBZSHBnYTZCdmprR3FnTE50bTc5cTMxdVRhQmE?oc=5",
+          "published": "Mon, 23 Nov 2026 14:19:00 GMT"
+        },
+        {
+          "title": "Taylor Swift Is ‘Truly Regina George,’ Sources Allege in Explosive Vanity Fair Profile - Complex",
+          "publisher": "Complex",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRFJTVzNCZE5tbGl0OWJINE5JZFZ4b1pGaDZucGwyWVRSYXpZWTE4ZkF6VnBWR3ZCbThEQkNzRzVrdjhMUDFaMFNqT29WVkxOWmQ5R3FYVUJMYTlRamgtM2J4cGVRNGtxTUN4MmtHZjhQUFVKOEZfbWt3TksyUFhkNXk4ZmZBR2hkdEJIcGFESWN5RGM?oc=5",
+          "published": "Mon, 23 Nov 2026 19:25:29 GMT"
         }
       ]
     }
