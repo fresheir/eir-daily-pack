@@ -1,78 +1,47 @@
 {
   "market": "NL",
-  "generatedAt": "2026-11-26T03:57:20.652556Z",
-  "validForDate": "2026-11-26",
+  "generatedAt": "2026-11-27T03:56:05.996756Z",
+  "validForDate": "2026-11-27",
   "source": "Google News RSS",
   "topics": [
     {
       "id": "local_national",
       "label": "Local & National News",
-      "items": [
-        {
-          "title": "LIVE Zedenzaak Zelhem | ‘Gevoelige details onvermijdelijk’ • Verdediging wil vrijspraak voor verkrachting - De Gelderlander",
-          "publisher": "De Gelderlander",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeFJPRnNyZHV3R1A2aUZycDdfejVpc0FLYnY5U2oyQXktejdUNUpWWTdvYWhDT0Q2N3ZYQXNESmFYSVBaS2pNQlVLYzBGWmpmLWo4bWNsQV9IRnBXamh2dG4wVEJGbGpjZ1ItYnZ6Mjgtamh1YTRzbTdTeGhQSUoyRHd4b1hYR21zdFYxUlFPNlJJU2VKRG42dDMyUzNmT3Z3QjZBMDZ5T21kaGVUdm44UHlEVnA0UkxfcTBENGZwa2JrS2N0Y3hkOEUwSW9NYkJLZEZUTFZxZWt0TGc5SURkQ2pEUQ?oc=5",
-          "published": "Wed, 25 Nov 2026 14:51:28 GMT"
-        },
-        {
-          "title": "Muhammed (20) verdwijnt na bezoek aan ouderlijk huis en wordt later dood gevonden in vrieskist: rouwende familie gaat uit van tragisch ongeval - AD.nl",
-          "publisher": "AD.nl",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMDNlSm9tTzg5WC1nZUs4ZEJuWDhPS0NoWThiaUxTVnRCYjNqOE1uMjRxMXNacjl5YlhDUzB6R0taRFR3S3p3X05hS3dmU3VCaTZocnFXRHVyay1KeDRFTzNJLTkxMnNTblF6OGNIc0hVY3ZkQjFvMG9zZWJaQ1JJektLa3lMYmFmS2hUNUdoLWpMeVI1UEJtaDM4YkRnMFNJOGdxRHZ1Mnd1MFRFbS1QcmF2Q3RMM0hidnBqbFI2QkJIRW1NWmt0SmJHMDZSQnNlOEZibm96VF9TbnlYVmN1cWlxNmpORW1nWk4zQ2hEWE5tTWFaU0pRQktOSk9zcENmSTRuS0lfVTVlZw?oc=5",
-          "published": "Wed, 25 Nov 2026 12:13:00 GMT"
-        },
-        {
-          "title": "KNSA: 'Psychiater uit Zembla-aflevering heeft geen wapenvergunning' - Hart van Nederland",
-          "publisher": "Hart van Nederland",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ05UZllEWEVWUkFKWklwc1RGcmlxRzdlVk5RSXlXa1hmUU95LVVXY0x5VkotMlFRY002OENFNnMxZG9CejVlUVljbkV4cFFWSmx6WGJjNFdPTDlubGd5WUUtemdubTZHbE4wV0t0QTdoWXk0dGFaakpIUTZSWm9tNjEzQWV3NWV0S0YycHI1cUp4Z29YNE1yTEE3OG03TGw0UlhSTkZrRDJFN0V6clRCWHY2YzlQakE?oc=5",
-          "published": "Wed, 25 Nov 2026 09:53:15 GMT"
-        },
-        {
-          "title": "Oranje licht op gemeentehuis Houten na dodelijke steekpartij: campagne tegen geweld - RTV Utrecht",
-          "publisher": "RTV Utrecht",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSjZFVjc0UlowcmRpMHhKUkN2czlPNWtBMXZfRlpJWG4zbWFyV205d3ZndFpnMHV3VnhoUGUzS3VsRWFLZFpxb2FKbEs1d19qcWkwN1ZaWDhGWnJuSS00dnBlYklsSEh0MEIwV2l3czlQZjdjd0VPOVRXMVB0bkVzcHl4TGdaZUZZWkMya1J2OGtfYWVKdEF1cDRuZVZtWU5qZnFUQlhUd1JNbm8wZW9kTTBpcU90MzlDUzNrQXdYVjY?oc=5",
-          "published": "Wed, 25 Nov 2026 21:05:45 GMT"
-        },
-        {
-          "title": "Woningen ontruimd in Rhenen na vondst zwaar illegaal vuurwerk - NU",
-          "publisher": "NU",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2pOdWtnRHlaMThVWHdjRzJoekhIUHpqQVZscDJWN3BaVHVLSVlFTmJ2TjlmM2lfYVRZZkZiTU55MkROUUtXV1BvU0FHOWVzQzl5RE1LcmVMYnhaM1hQdUROREcwMnh4RGxqSzdZWXY4RHV0ZTRXWjFwb0g3MGdHdzBIWGoyWHMxU2xPZEE5d05OclJuRDI5WEFZX2duZ09DTy1QV0N3?oc=5",
-          "published": "Wed, 25 Nov 2026 23:32:25 GMT"
-        }
-      ]
+      "items": []
     },
     {
       "id": "world",
       "label": "World News",
       "items": [
         {
-          "title": "Rechters adviseren corruptiezaak tegen Netanyahu te laten vallen - NU",
+          "title": "Thanksgiving in het water: honderdduizenden Amerikanen zonder stroom tijdens nationale feestdag - De Telegraaf",
+          "publisher": "De Telegraaf",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONUFtQW9iaFdPeDlLQUpBZlVXVjRoU1FUemZrSjhPR2lWcXNoYVhsUnkySm1CaHFncUE2RkN2S2tXWmk2SllLYVdCa1ZJdE1pbHVaNE5ZSEZVTThjSGFuYlVFYkNhbU9Mb3VpbW9UbW9aUkpGY0Vxd1RqVnh0UG9ZZTd6Y3pfVTNRX0syQ1hlamtqemtHQXktbkhSc3FiRjNiMjJsQ3RXemRjZ0g3NzhKN0FDMzlvVE14MXdIMVUwQ0ZsSGxQQVd4ak5EaTAyUWg2ZkZJZXVSaWR6bkNNTUE?oc=5",
+          "published": "Fri, 27 Nov 2026 03:34:46 GMT"
+        },
+        {
+          "title": "Regering zonder Netanyahu stap dichterbij: anti-regeringsblok van Eisenkot en Golan is het eens over voorwaarden coalitieakkoord - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "publisher": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdGt6aDA4U1B1cUp6NnRXY1MxZ3oyLWFHT0NlN2l2elpRSTVzNU14NFBHN2hRNlJrY2VSQ1pmVUlWV0FkVHYyMDlXcFg4Ul93WmdTUklhaUxQR3c0M01mYVFHX2txVnRkbVd5S2hhZVZsV1FjUlpFVWNxZEYteDM2ZnhlUk9kd21QTkc3LVU3SjBKZFpGbmlSQWh5emk3V3VPdlVUenRXdFgtUWtmMXFEaVNGbHU4bEdtR19TXzV1MVNUb3dDaHgyQTBPeGR3YkxUQlhJTVM1UWY1X2pSNUZOR3hqeV9WTFRKdnpBUGF3bWpMR0lmekJQSHU4UHZVTlNvQ2lz?oc=5",
+          "published": "Thu, 26 Nov 2026 20:01:10 GMT"
+        },
+        {
+          "title": "Oekraïense aanvallen reiken steeds verder: ook Russische schepen buiten de Zwarte Zee getroffen - De Limburger",
+          "publisher": "De Limburger",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNWRKMlBXOFh1SDN2SGFGYXlUNm9fZlFHekYtWkEtNkppM3dLQjR3eDlmUGdrMEFmVWlVdE1wckFCREE5OFJHU2IyeXJWZmhxLWdfMXNxSzEzZE5YSURvNHk0NlRQOS1PVUtvYmtrejNKWWRhcFhHZEpiX2hHNzFWNDY3Tkwtb3g2UWR2QXVkZkNETUl0T1dBSWFJTnJFeFRGMVQ0SzU5cFRKUHlkQUlNMV94cDJzc3lWYUlwNzB5WGpacTN5UzNHZzJMb1BJQ3FUdWhSU3hULVBONUNG?oc=5",
+          "published": "Thu, 26 Nov 2026 21:10:00 GMT"
+        },
+        {
+          "title": "Olieraffinaderij in Saoedi-Arabië aangevallen door Houthi’s, zegt regering Jemen - de Volkskrant",
+          "publisher": "de Volkskrant",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV25hRWk4eGVYS3B4dHVTSGdRRUNwSEFveWdmN1dOQlNnbjVXd3dUeG5XSWRqVEs3SmtwYUd6RGUzeWVDR1ZOc1FVNDJ0X2tzTVdIeXllem16Rmx6U285VGNFRmp4ZWNvemZLSzJPc1ZBOG1PZjNIT2xJZ1ZvMTJTV2hyaXlHdkV0Nkw1TWNzWXV0RzBXTFctNmpCNUVVQ0dUMVF6S2c4T3JSd1hETTdNRDdxWUZYOWRoNUR4SGJ3ZXEzaDlO?oc=5",
+          "published": "Thu, 26 Nov 2026 20:48:36 GMT"
+        },
+        {
+          "title": "Oekraïne haalt voor het eerst Russische straaldrone neer met lasers - NU",
           "publisher": "NU",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcG13Ny15Y1pLZ0F5cm1Rc1RQMjQwbWxNMHhvNUxLcXpOVzBZd01sSkR4S1laLVVJMHdhczVadlJMX1k0U2JfLU5DUkdEcFRaeDVER3d6ejlZUWVnOVl0ZUp1WFdUWDRmZGdnaHd5eE9Ca0pPQVN0cGhHeUJHdVF4czNaY29yU3hEd2xILUQwQkxYYTFVRU1HTEgxSVRXbWFmYlYzeVdSV2I1dw?oc=5",
-          "published": "Wed, 25 Nov 2026 22:20:49 GMT"
-        },
-        {
-          "title": "Twee Libische officieren overleden na aanval Oekraïne, in Kyiv dode na Russische aanval - NOS",
-          "publisher": "NOS",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1lJOTVLa3hGa2daLS1ualBoUGFWNW00cVBnRUtmN2F0T3RIbEkxWFluSkN5YmdrMExJVERfZlZmWXdTTVBmSXJIYllzMDlaQmZxbWNpU2VfbU5zME5YVkxxR1AxUzlDRmx2T1N6VEhlbWJNRmNMdWFvTnM4X3FBNlhjSlJTRjhNZklqOHJTcUFVcGVzYjVyak5aWmVwd2tZVXQyWjNnbzMxbzZDMmp1X0ViMzJzTTZS?oc=5",
-          "published": "Wed, 25 Nov 2026 21:12:46 GMT"
-        },
-        {
-          "title": "Tankwagen kantelt en explodeert op drukke weg in Egypte, zeker 30 doden - AD.nl",
-          "publisher": "AD.nl",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFpYbGlhVnQ1dlZmZHBBS0ZhLXhFdm5fN2I2WWZFZmFMM0Q1T1Nudk5qN3VxSmhrT2E5bF8wdTJ2Y3NPdHNBMU9ER2F5YWRZZVNnOE4tZXhzaWd6T0tGaVZvRVpJM05ydXhkVEZodGViMGs0MGRXZjNvWllrMl94eWpWSUlYalptdGx6Z2dOU01HNEROcVhWRGtpaEZGUXd1cWY5X2N0VERBdWUtbGc?oc=5",
-          "published": "Wed, 25 Nov 2026 19:03:00 GMT"
-        },
-        {
-          "title": "Israël doodt nog een Hamas-kopstuk, inclusief vrouw en twee tienerdochters - de Volkskrant",
-          "publisher": "de Volkskrant",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnRHVGtaZjZRR0hmcGpNWWFia3BkeGVuMWtKbU82dkstcEtXZmpmM2YtbV9hSkNESUtRN1JhbExCVEJTdGN2ZEpBM05mYlpWQXlDVEVrbzh1RW1mLU9rNU9BbzY3Y0NqZ2pqZE5nNDVFcTA3UzVJdkMwUm9adF9DY2lLRGh1YVpGaS1VWHRaSzFSS0FQNGxqQ3dVR3ZYUmRlT080UFFVY1VEY0cxUEwwTlVrYjV4d3k1MkdyQw?oc=5",
-          "published": "Wed, 25 Nov 2026 21:32:07 GMT"
-        },
-        {
-          "title": "Polen zint op krachtiger maatregelen na tweede schending luchtruim in korte tijd - de Volkskrant",
-          "publisher": "de Volkskrant",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaVcyX09Id3RzRXBiQkpzNld2WEVkTTRQWjUteTVQcmpXdGp1SV9LcVRaS2p0Qi1yUEJwYS02MlFvQ3pJTTlqT3ladTNuQWZ3YVR6WWNnMGRQOVBFVUVidGp0QmlTbW81eHZ6bXhQNXZzX21ROHJWWHlxeVFsdlBhMC02WTZNbExfenlyOXFIdUJmTjBjS3RmSGY0b3RNWmp4aFNmdzhjSGxOU0hyNF9WR2x2Z2U0Yzdra3I4c1dXNTAwVm5nLUY0?oc=5",
-          "published": "Wed, 25 Nov 2026 17:47:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZUNKSzV0cW5wRUx5eUwtaDRLVlA1Z0laZWdCaENWUjFaR3BMcGdlVlVnYkFUREFjQ0JJRmc1UG1JcU4yR0lPWWJ0QWk0aXFZRUM3Qk50ektfYWItNVZiNmJMd01FSWZXSl9UY3Q0aERINHY1SWpwUVNHZUs1anR5M005Q1RSQUZwdUhyR1BBUk0wd2REaTdMVVA5amJkZUV4NE5QOXZCRXM5RzJpVWQyZnpBbllQLUZ6Rmc?oc=5",
+          "published": "Thu, 26 Nov 2026 11:07:14 GMT"
         }
       ]
     },
@@ -81,34 +50,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Onvrede binnen VVD over dubbelfunctie Yesilgöz, zegt oud-minister Van der Wal - NOS",
+          "title": "Verdeelde VVD verwikkeld in straatgevecht, Ivo Opstelten breekt lans voor Dilan Yesilgöz: ’Ze doet het heel goed’ - De Telegraaf",
+          "publisher": "De Telegraaf",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMlppZGpENU1hQmE5MTV4QTJzVTR4Sm44T0k2dlZBbmI4QTBQOVVUQ3phMFA1STk5MzhJTXZicW1hR1BuX2ZKMVFyREk3anVBRmhuZ2ZROWowMUctOXppZGZDRXdfVFNsQ3lhWU9sNUFNSkJtUUJpYTVkMjhoa0JscW9QZ2F1V293azZHUC04LTNBVlNsVXpSUl85Mkh3Y3RNbEVOczFwd2phNTlaS3I0dGxDYnNXVEt2NHR2WHM1a2JMNzhhMjhieXlkMFZRVjJmbGl6dGd4SEJmOURBYXg2cDhUeGhQY3NXUUhQMTJWRQ?oc=5",
+          "published": "Fri, 27 Nov 2026 03:36:35 GMT"
+        },
+        {
+          "title": "Geen akkoord over EU-begroting op ‘knetterende’ top in Brussel: Jetten verwacht ‘nieuw en beter’ voorstel van voorzitter Costa - AD.nl",
+          "publisher": "AD.nl",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNazBOYlNEYUNMVURmVFhkN0RTVUxJek5sZXJiWmtMQlRwNGM0Qnl1alpXUUF4dngzamVZeThKT2Q1UEZnMFlwQU5tUG51eENqOHpYNlctV1RhQ2RTRVp5R3BXQi1wYkw4aEQxdFI2bm9qdnpWZnNFWnZxMC1TYmNVS2Qxb01XZzhDcHFOOFNtOF9YZXkxeklleC1RR01TYUJHNXhRWTlLcmhYY0xjZE1TamwtczJFSEl1V3RTYjl5ajVDQk5aOXNzNVg3WG1FMFRiV3FHMzJSaWpkS1ZQd1p2U09nUHpGeWFjbTlzYkQtMlBTdw?oc=5",
+          "published": "Fri, 27 Nov 2026 00:11:00 GMT"
+        },
+        {
+          "title": "Spanjaard Hernández de Cos nieuwe ECB-voorzitter, Klaas Knot kansloos - de Volkskrant",
+          "publisher": "de Volkskrant",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdERDbVE2U0RnTm5uSnJvVGtEUXRJcXpBNHc0WG81TFJHQnpDcVBJcVlFc3RWNlZ1UERKOWRDNjdRZzBzY18zVmMzM3NDWWdFLVczcENOMWxNWkQzUS1ra01LTUJNYWdpRlYtZU5PMVpVWURlLTUyX05OQV9UU2pFVDUzczUyLWJBeTl0WHMxVnE0RW5VYkpXYzFJTldVRjNQeVNGV3BjU0NEZmk5MTBGNXVxdw?oc=5",
+          "published": "Thu, 26 Nov 2026 13:53:00 GMT"
+        },
+        {
+          "title": "Erkens wil sluiting slachthuis bij intimidatie controleurs, nieuwe regels maken - NOS",
           "publisher": "NOS",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajJGaW5QT1VUOTRIZVdNS3hkcWFQN3lNUkVDWmtUM1h2OHkwcjV5c2tndlBETTFBMUxPZjF4NThpQ2ZDMGQyOTlDUDNCUEdrYXBPcEVXc0RQYmlhZ3pRcDR5dTI3SHRHYVZNRU1KMGxOWWg2YjlFVHdpQVZ6LW52dnk5RlB3Wjg5WTBpUTBoeU5LTmg0bmJFZDZWZURhZUdOejRrX3ZLdE8yM00?oc=5",
-          "published": "Wed, 25 Nov 2026 23:56:18 GMT"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEE0bzRpQ1ItMU9ZUWRJRWxJWnVxUmFUUDlmYnppZHBTWFNvV3U0YmRxSTBHR0VQV1JXal95QnNzTUVsZ3luR05MZXZxVDlXUkxPYkdQcjByOFlMQXdRb1BsSTBDZmwyRnFjVkRVRzYySkg4dXVrdnJrM0V2c2FfMWJDSEU3VnNpT2oxSUFxTm1kaExpakhvcDhVQnZUNHBmVjE5YVB6N29kZmdZOFE?oc=5",
+          "published": "Thu, 26 Nov 2026 21:28:00 GMT"
         },
         {
-          "title": "Wall Street stopt uitverkoop tech, Europese beurzen sluiten in mineur - De Telegraaf",
-          "publisher": "De Telegraaf",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVpLb1RMTXZtZ2wtRGdHdW9oSm1fNXNxV3hsQ2hPUzVfNElNazJsTndKeUZnSWZjU05WRTFrY29ibU9od2o4TDBHUml4dFpEVTVCejZRZy13aDBzNGdhak43QlRmVTN0SjJ4US15a2FjTVQwOUZiaXVIdDVudmp5ZURWMGZ0OVZPa3NiVVhRajRQUlFXN2JHeDdmMWU1OHV2YW1PcHBRSkRhbHpkSl9jQUZ3OGtOUDBUdW1F?oc=5",
-          "published": "Thu, 26 Nov 2026 03:10:57 GMT"
-        },
-        {
-          "title": "Beursupdate: AEX op Wall Street - IEX.nl",
-          "publisher": "IEX.nl",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoQ2N3eDczZmhjcGRlUFdfa3Ftb0k2eWZReFdfa1drRThQVDFrU1ZjY0xkQTZpYmdSdGdlbWNtNmRXY19WSkYxYXBIR2tDR3ExcHpGNWJ2R25OUG1nWXNRWnA0VGl6cUREOWg0S0JTQldqZmQtbXNv?oc=5",
-          "published": "Wed, 25 Nov 2026 21:41:00 GMT"
-        },
-        {
-          "title": "Rob Hoogland: een groot goed, zo’n lijst ’Verboden termen’ - De Telegraaf",
-          "publisher": "De Telegraaf",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUY5c0NOMElua29SbENiNlRwTHVLT0IyVndBVU5DQ05obl8ybWM4am92TkU3WWkzalJfTHZQWk96cExMYjZKdmFldGhwMEFlT2lGc2NmekdwQ1pYbU4xeFMyeWhnaV9OZmhnbTZ5a0VTM05IV2gzQ2VScllkb0pOVnJmY1pHWDVnNjlJdy1LYnBGa3pOb0kzeWtOTndVT2x4VXc?oc=5",
-          "published": "Thu, 26 Nov 2026 03:44:00 GMT"
-        },
-        {
-          "title": "Harder stoken bij deze vorst: zoveel geld ben je extra kwijt om je huis warm te houden - De Telegraaf",
-          "publisher": "De Telegraaf",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOakUteEhEV0hST3JqYkV6WEtraTBjTU94RWY2VTVYUFVaLTVLTTRjaF84NDBSS0c1OHNWREhlX3lQYmVDYi14b09qX21YSXlmcThXX09TcG5IYThHWnVTeWhEUGZOM3pjN2dxa2x1OHFMeGpZRGRmMmhYYW9EZ3ViT203andaeDhrRVd2UHppSnpaRzBMRUcyRW9JQUxQNzJfN3lJUXpORDBEcS1PTGpNekNmeFZIOG8zRU9ueDZ2QktkZ0NIaEhmcnFNZFN0ZTBhVzF0enZwdUpwQXRRX0VEaUxwSEM1Mm10OTRkMDBVekhKekRtSmpncy1SajlTamFubTB0UmYyeWtFbktERWVzZHN5cEFsZUc3T3l2UWtNbnNqRnc?oc=5",
-          "published": "Thu, 26 Nov 2026 03:45:00 GMT"
+          "title": "Nederland verzet zich tegen VS-wet die ASML-export naar China verder inperkt - Tweakers",
+          "publisher": "Tweakers",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSFg3b2RDTlV0dHAtX3ZxdEdqdW1oeURjTjBFd2pxcnk1d01SUUl2ODItcW9XRWh5ZDZmcjc1QUxhaFpsdFNMZ2s3R3NLemRTTVluWkotcjNJWk1qZ29LVEoxLWRCLTlMc3hDcUxGTnkzd2xYRTZCRl9iSDZha3RtMDlvQWhDZE9BQkRycVk2RV9iM0kyY3lsY1hKZVNhT0tBT0lsOEp4dmFuR2VoU2JoRzRra3VrLTQ?oc=5",
+          "published": "Thu, 26 Nov 2026 19:57:34 GMT"
         }
       ]
     },
@@ -117,34 +86,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "Donyell Malen als invaller goud waard voor AS Roma op bezoek bij Champions League-winnaar PSG - De Telegraaf",
+          "title": "FC Twente verzuimt te stunten tegen Freiburg in Conference League - De Telegraaf",
           "publisher": "De Telegraaf",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM012U0c4MmtWQjJPbEF4eG0zckMtX2owSmwyM1pXVWFvMDdmb0I3TGszVUJsYWJpNVRscFpvLTlXSlZrU2M1eEI5VDRkbFQ1a2xNMTZ3OGhvSXRFZE1jWXJvd2hEbzB0MUlYaDlZUGpxcHRIYno2TlFkNG1YbTAwV3BmN1BIdVA1TjJhcU9yS0RXZWFTZGRfcTViM2JUZThFczZzdGZFb3ZGbno4YWFpWUFKVDNWbENGWjhVNV9HVkItV0RITnZMdEU5X25GbUlQNS1KdDBXcENuRTVHTlFnOQ?oc=5",
-          "published": "Thu, 26 Nov 2026 02:27:59 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWC1FbDgtbU9qZHVJVkFoeE1uVlRTR0VYdlpEUDF6R3RBU3JiM2NqcFZoLUhIbU1DLXhMRXVad3l5ZkluOWp4akR1LVoxYlFuVzAwZEZlTDFlSldhRlFRbkVWc19FRWRRNWgxVHVpZEktZ2JEcV94SEVkcTVVODZqVWtkWE96SzBuV2NSMFRybU9EYWJXc1dra3UxVGlUaU1rUTk2YmM4QXBhRHBOemNGbW9EYjhiSlVzTnJZ?oc=5",
+          "published": "Fri, 27 Nov 2026 02:30:31 GMT"
         },
         {
-          "title": "Veurink blij met terugkeer Van Domselaar bij Oranje, afwezige Miedema 'niet belastbaar genoeg' - NOS",
-          "publisher": "NOS",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXNLenMzREJUREE4VGY4MDFkYnpsMGdNUHAxM29MMm5LRTF2UkJ0OFVQaTkxMGI4RmRiLWd6RC1KUjc4dVZfOFBiS3p4YUVHbTJUNEV5TExZNGUzS096eEJhc3YtMDBXR2l1LU1UYVdZUWg0THZ2Nlg5N3JseGhrb0ZXT1ZDTVplYTBBWHBGR0pyM2MxSzgxcjd2Y2VzbjJQSmdQT3RWWTJXeFF5blk2Z0ZJc0ZJdzMySmI3Zmg4Yw?oc=5",
-          "published": "Wed, 25 Nov 2026 16:27:42 GMT"
-        },
-        {
-          "title": "Nieuwe positie Frenkie de Jong in Nederlands elftal? 'Ik zie dat wel voor me' - Voetbalzone",
-          "publisher": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2k4d3ZIX3pKT0tQcFlMTlJ1bXZlOGN1d2FxX2o3WXR4RXJmNDdRa0ZFRzhaZnVLdFBvdVk0a1BhbTduelVXUGpCSVE1Y2VCQThLSnRBN25MRC1oQUcxWUx1MmpVTVdkY0VwTnBiVEJnX2UyZE9tcTVXUm9nY3c5bU92Q1BTanFxdHJaSjVJaVFLVHUxVUZTVGpHSzU2OXBSRHRlSjFGazVtWGN6R0N6cTlZOUNMd21BTW1QYU1PbS04dVVsa3lV?oc=5",
-          "published": "Wed, 25 Nov 2026 22:47:48 GMT"
-        },
-        {
-          "title": "LIVE Champions League | Barcelona slaat toe na gemiste kansen van Sabah FC: Gordon opent de score - AD.nl",
+          "title": "LIVE Europa League | Invallers zorgen voor geweldige comeback: Oufkir zet AZ op voorsprong in Praag - AD.nl",
           "publisher": "AD.nl",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT2NhRzZiSlB5S1VlNTR2NHR5NHNNRFFsWHEtZGFZZXh2X0dnYjVEWk9SSVdlcU1fXzZfZlhHM2Y5RUVoWjlja1NZLUI3Q1pZcWRLUHhOWjcyWW84dGItYnhyUlJvTEtydW5LcGdOOElOX2hMeEk1MHktVWJweU9oTEpWblltMnJucTNBVzNsbDEtaTdEQW5DaXRsb1BkZ3IxOFBtelRwMmhhdUZHT0lja3lDZkhnaTQtYmp3Zkh2YmVPSUNhSlQtSUhR?oc=5",
-          "published": "Wed, 25 Nov 2026 18:17:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSEJrWDNqY2JhRkljeXpwUnJLLUdfbl9yLVNkOUxsN183MXc4Sm5yOHM5OUxNUE85VnlWaVl2V0psUGtpSVhHb2JVamtnNU9KbUVOM0sxSFFzQTBGTnN1R1MzRTl1NEtWSDZoWEExc3B6TVVWdUI0MWtUdlZXMXEzcUFSTVk3UFg5aGtSVGlEQy1hTk1qQzhDTEtUN09PTVdzTnVDa1Q1MHk1N0IteGtCSS1zOW42alZ1OEpPbkZqTy11bHNUb0dhaWdBR00?oc=5",
+          "published": "Thu, 26 Nov 2026 21:30:00 GMT"
         },
         {
-          "title": "Ajax-directeur Geelen blij met ’perfecte match’ ABN Amro: ’Vooraf dachten we: dit zou een lastig traject kunnen zijn’ - De Telegraaf",
-          "publisher": "De Telegraaf",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOHlweGhuUEExdTh6U3A0V0Jzby1PMlNXUXpVOEhRTUN5a2l5blpoNnFtOUpCQ2lfTTBla0p0X1VVa0N2SVl3eXMwSTVNb3dpbTR3MU0wd1gtekUzSjFDN1ZMR2JtQk1XeVVwaXlmc1pwUGd5aC1DOEg1eU5UNWxtSzI2TmpfM3lteGdKR3pObEFaWm85RmFHVFZ2V1VGckhZaU91SmpTMWpYU0tMUks1eUdhWC1rOG5RdWxOakRiSEE0NkU5M2ZqRmpya1loeGRsZUNYNEJBdUJJMEx6amdGX1JGUzNYOVBqeU9Cbm42UmNOTlo2MFY2VA?oc=5",
-          "published": "Thu, 26 Nov 2026 00:20:14 GMT"
+          "title": "NEC doet volop mee in Europa League dankzij knappe zege op Stade Rennais - NOS",
+          "publisher": "NOS",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0lyZ29OeTdCVm1CNXZWOTlfMW5tdVJCUkU1VHhTdXdTbEMxUy1FWnpYZlFQa3loSFp6TFhBSnNEZzdndFgtVEZDbWtnRVJjbU45eHNGNEdCVnozMk1NRnMxUDIzOEx3c0pXYkJCcDZyRXFyOUZhXzMxZ1hLbHhVeThvR0d6SlpQZE9obE5MT29RdlhwWWQyUGF0UFdGM1NNQ3JtRGhB?oc=5",
+          "published": "Thu, 26 Nov 2026 22:00:05 GMT"
+        },
+        {
+          "title": "Bijzondere doelpunten op rustige avond voor Ajax tegen FC Thun (4-0) in Conference League - de Volkskrant",
+          "publisher": "de Volkskrant",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSTVNNG50WHJmVks2V2p5MVU0cUtVRGo5d1JlelozdFJSVWkzSFkwbHJ3WjBsOW44OEZPUG9oQ056ZllpWGVMOGZlZm1JbE1MNlIyT0tBbFFTcG05OHd4d0M3MzJNUGZLYmdIWFU3UVdDU1FZbktJU2RuWXNzd0dMaGlGRGJfcGxjcnc5RkQxSDlsckhDRWJ0bEpSNkxBOWtpU05uVDEyU1k1UmtySGh1RDVPeVNfSlREdnVKMk15SWRKbTNFWGFxbw?oc=5",
+          "published": "Thu, 26 Nov 2026 20:04:00 GMT"
+        },
+        {
+          "title": "Europees voetbal | Frustratie bij Weghorst, NEC en AZ vieren feest - NU",
+          "publisher": "NU",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUTdHWG5nRmVsR0ZJZjl3eFRTbG92WUxzYXRCZ2QzcHZQUHVpWTR6cjR2Yjg3T210TXpPTWNsRVBNVWJ5TjF4cXM5ZTF4cmdwcFY5VGtrZjg5MzlIeDVyS1RGaGJ2RWMzVThnOFU5MG1LX3Qza09RVzZfVi1CRnFnTF9OdHlfR2E4V1JzUkdXdWJFQmpid19EQzVFcHVNNjJIczlMOQ?oc=5",
+          "published": "Thu, 26 Nov 2026 23:00:04 GMT"
         }
       ]
     },
@@ -153,34 +122,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Muziekstreamingdienst Tidal verbiedt AI-muziek en verwijdert bijna 30 miljoen nummers - NOS",
+          "title": "Miljoen datacenters van Musk in de ruimte? 'Maak me zorgen of het veilig kan' - NOS",
           "publisher": "NOS",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0FpcUhtNEx1ZU5QQmI2QUFOVWloYXE3WEhXMU93eVlPOG1lc1RWZktjOU01czI1Rk8wRVhuV0RnQ1E4RHZJaVVfOEdYVFJVZi1iVGd4U3lNMHZndGV6MmhUc05NV0U3THlQUVFPR043MEEybS1HdE1FdXdYa21CVjlHTmE3THR4bHlKNzMyeVd6ZDduUFpRamliUjJRTzBqV2l4dWJEdlJlajBnN1BsMkNOOHpBMnc?oc=5",
-          "published": "Wed, 25 Nov 2026 14:16:35 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVdmbEhGbG43YV80M21mSjZIeDR0SXV2XzN2RUhKZUdJSllzT3locDNVSFpzWm1FRHNrR05aVEN4dVlWUUc1NnZJMng4WmtwYksxRWJ6TU8xVlFtbGtOMFdCVHBHakpkWWVDb2dBSktHLTVGWEwtamVJS1IxVnp2aWJicEZrX2ZreDFXakZfQ19nVV9iNnQxM0NrTU5hUmdYZHF1UGN1cHc?oc=5",
+          "published": "Thu, 26 Nov 2026 11:49:27 GMT"
         },
         {
-          "title": "EU wil koploper op gebied van kwantumtechnologie worden na gelopen AI-race - NU",
-          "publisher": "NU",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmxrZnNxM0tvZXcwR04yRkc4cGJRaDE3V1QyMlBBQ2NBYi1WX0F5OXdXVnF6Z1RIRks2VWp6TW9CNVktb0wwZzR5ajkxSTBlVWNldm5LdEVzSjFaaVhpeHFDa2VveWdLQVNNNnlic3llcDhhWUtaUUhVU09mZ0RYaEdyMmtJVzFPQ2NkeEFWNHJ4bmhBY2szVlAtZUdhM3M0cDBqczB2QWtLUGctRTF3?oc=5",
-          "published": "Wed, 25 Nov 2026 13:25:28 GMT"
+          "title": "Woede over Meta-bril zet Nederlandse rechter onder druk: ‘U bent de eerste die hierover moet oordelen’ - AD.nl",
+          "publisher": "AD.nl",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaXg0RWg5Wi15bkJlRVp2ZkFJWHRPalFKQVZHdjdKNHM2NVE1SDJ4S0tuUHEzbHBnSXBPdWJrN0RLRlVaOXpZRk9CNzNXMkp4RFREb20weEozSzlGQnA0X0dDaGExMElBMTY5bFQxdUdMbmlrUGh1T1V3anNrOUxaZGtxNVdMR3JvZkZVbkhjamxfSXlqQTI4eUUyU0Q2UlFZN3NvcFBsc29vbF83RllCQzByYnBHbGZidVQ4MUp6d1dOOG9ua1F0STdWXzQ?oc=5",
+          "published": "Thu, 26 Nov 2026 13:30:00 GMT"
         },
         {
-          "title": "Banken werken intensief samen om grote cyberaanval te voorkomen - NU",
-          "publisher": "NU",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXlFVG1VVXZhTm5ZdEJJVlhPSXd2MFp3czBXZjMtMVR6TGR3cXNsZEZQUG1xOEhtRFA5SE1oZmRDZjZTTjdGVWpjLWM4TXRfa0xDSHlOY3Mzdl8yWDczYmlpSmVpNHhOVnluNnZNYmpMeXBlZU9kUVR0MHdKSUtVRE9zTUliWjBLRVZTS1Z5RnBWNGNlNlFQZF9QMUlLWHVRUFdneFl3?oc=5",
-          "published": "Wed, 25 Nov 2026 15:52:13 GMT"
+          "title": "AI-gebruik door bedrijven verdubbeld, inhaalslag bij mkb'ers - NOS",
+          "publisher": "NOS",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTBZN2VsQlJTVlBqbzFvTEdYOVo4dE9GY01fTFNWTWRabnhXSGxfVWY0ZGJNMTE0a3RHVU5QT1BBNDVoNFE0djloNlQ0TXRkdndPRERlZmtzUy1jV3pCSHFCelF2RTlJcklSbnpfMHVKOFBiSkVmVEg3akNDRm5lOFNNWkNIUURFS3QweGJ2dFFlaC1N?oc=5",
+          "published": "Thu, 26 Nov 2026 05:53:10 GMT"
         },
         {
-          "title": "New York Times verbiedt Photoshop 2027 voor fotojournalisten vanwege AI-functies - Tweakers",
+          "title": "GPT-6.2-gebruikers bereiken limiet tot 40 procent sneller na 'herstelde fout' - Tweakers",
           "publisher": "Tweakers",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblIyNkJWWnY4LWpvTVE1Tm5EYXd6SGlIVF9vRmk3OWZHbWhXeExWR3pYMU10eERTZTdBQTNtd2tYb2d5aUdxbms4cEY4QW1GaEFnWHprSS1ONGdDSjV6NXZWa2pqOFNjMldmX09jYlJwQ0JOU2Y5UW1iV1ZweUpoVlJNZEYybWI3S0pXa1RXLWpQb2NFMWNLMUozYU9wRnNkeTBFUUQxWEtIOEM3dWlCUXdqWDJNNjRUel9uOQ?oc=5",
-          "published": "Wed, 25 Nov 2026 09:02:34 GMT"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU05IQkp6S2FPVU5rVXVuelMzZmVyQnF5dHNxRG1vU01RaDVuWUZPQ3MtbFVQUFU0a0tuNTJabzV4OFlKb2tCSHRsaV9zNFQwdkx0TEZCTU1oVzFTZGtrYjlXRl9LeEJIbFU3YUVGNGtsM0h6YjJzV0VsNHJKMTFvZzBrSFUwalNwNTJfUlY1MUtPMFFxVGhlaUdnUnpJMnk5d3BJT0tFMnhFcjFSUVB6REhPdUQ?oc=5",
+          "published": "Thu, 26 Nov 2026 10:38:05 GMT"
         },
         {
-          "title": "Spionne Alice Huang in megaschandaal Nvidia werkte van jongs af aan al met Chinese overheid: ’Een geweldige, succesvolle zakenvrouw’ - De Telegraaf",
+          "title": "Meghan onder vuur om AI-adventkalender en dure prullen - De Telegraaf",
           "publisher": "De Telegraaf",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVnFKZUptNU9OWXc3eFdVd1FRamNWZmVRZzdTdkZkVGtiY2YxTkFrd0ZoMzM1VE5EY2xsbzh4SE1DdndRLXNaNE55cnN3ZUxTZEZ0VmtkVWY2M3ZRZkhobnByZUJ6dkRHbm9ET1FPN0szcm1RY1p3WjdtRk9nSFpBWVBaaXhCa3RTMXZfSWNwdnlVMjhCWVA4dExvMzd1UDFuUEhMRmhYY2xuQ05XSUljWEI0X21KTDBrN05DWVZaUGNNRXVGbFU0a20tbzR2ODM5Y2VQMm9NQmNkWGE3OVZNaGpmTHJXeFVwZW5ya1RDTk9TRmh3VnVyYjl6NW9xb19RMlpWQUxpNHlnSWs?oc=5",
-          "published": "Wed, 25 Nov 2026 20:15:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVDBTMGhJaThud0JsdTNuQndWSW9DYXVfWV9QUUFqNU1sZEs1TXlnVDF0c1RoaE1VcHZJWnpmRjFuNG9Oc1YzdDBYaG1IQkpTM1RaV1VRZnNlYVRMeXUxc001dVpRYUdfc0puQnZ0TnE3TDNFQl9Ic3JFZ0kwZWVSVEQxZmhkUTdqeE5neVFLc20zbVAxTGV2UnRncFA5V0ZBTnVOQ2lORmpiY0x3QlE0cEliTmgtYkxPNnlMam5XRElndUZTa3NFd08yOWhCcWlXaHk3cmFxclI3NGhDX0hYaXIyWGRsVWNBd09peGNoc2ZPelNDNzhEYnRaMlAwVTBSWHRqM2xlenpEbm1MSW5NcDAyUQ?oc=5",
+          "published": "Fri, 27 Nov 2026 00:39:00 GMT"
         }
       ]
     },
@@ -189,34 +158,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Soccer’s Most Loyal Fans May Lose Out in a Streaming 2030 World Cup - Sportico.com",
-          "publisher": "Sportico.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3pWaTlaVmZRYTJJNkFodmZ6R1ZWN2FqeGlMMFVoelZnNGtwRmdlenJhNGNmNWtaZnpMaFltVUNSakdwVFFDSi1hSnFCQkEyZjl1c1dGS3JFWlpSZU5vZU9XYXl6MEo4SW5idUk3S2IxWEIxWW9GNmx4U3JjNHlZUnU4Y2NHRG5neGpvVEN4RWd6TEc4TEhGLVlraFBOWjJIa0tncmRwMU53djhkaFdlalZ3aw?oc=5",
-          "published": "Wed, 25 Nov 2026 21:31:28 GMT"
+          "title": "Bulgaria Soccer Conference League - Springfield News-Sun",
+          "publisher": "Springfield News-Sun",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVjF4REtDaDhDTWtlc25kZWhEeXBDT2NGb3YyVm5HOWt3UldDSjJxYUJXX2pKdjdxVm5nTnZXeWZMZl9IMjJMc0tsV2xnSURPUkhHYWhrWmZKWHpReXhrSTIteUx6cWRfVHZ4Nk15bjhhb0JKbXhnYUw0aC1GS2pfQlBobVFzRS1UbDlQempSRUYycXcwRk5TQjRUcklMS1FzTXF1Tm5tZXRyMW5WSHVSV204OTk1UHVlNV9KakVhQWdDcl9tdkZDOA?oc=5",
+          "published": "Thu, 26 Nov 2026 23:29:19 GMT"
         },
         {
-          "title": "VAR review: Why Man United should've gotten winner vs. Sporting - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2VzZEZ1SXFLS1ZVY0pvdHZjMGxpLXNPcG5nZDc5WGFjbXMxN0hfcncyb3JVUUhlYTdjWVp5OWZEUHpSUmdtbmN1RHNSZ051cVkzbEtoOUV2MDg5S0FFZE94RDYzY2N5MF91NjQtcENhVFpNVllTdFlON1p0dFFUVkJrdl9fMDRFWVBnWXlrcThrbFIxeENDazJJdFZvcXhNS3IxVXJHV190ekZzUDF3ZERLZFBHbEFjLWRDbw?oc=5",
-          "published": "Thu, 26 Nov 2026 01:15:46 GMT"
+          "title": "FIFA subject of cyberattack, has ‘personal and business information’ stolen - The Athletic - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PUDluVHNvYzEwbG1SSlkyWVFfZkY4QTM3Ylc4MzJqU19scXJBVkJ5am1KZXVBWVZwaHNUNFF2dXJVSXNZZmxjTWZzZ2x6d2sxMEVUUVd2NkwzNm56VjhrQ1MzbFJQbVpGcklxX1o4Q0pMS3B6V2UtNE9yUGNFSjQ?oc=5",
+          "published": "Thu, 26 Nov 2026 10:41:57 GMT"
         },
         {
-          "title": "Jack Harrison Joins The Show + Copa America is Back In The USA + MLS Cup Playoff Format Changes - Yahoo Sports",
-          "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR2lvRzRxY2ZkTTIyZW5RZFJxYUYwamlEdFEtZFdmMS1ySkhsSlRtenhpVGtQYjE1YnBuWlNOV05tdXBVNGZuWkJVT1FzdU9mcjlhRzdQb25OOV9hYjBzOHRYU0hIWGhsWEJZa1RhQ1lUbmJMR2ZkLTlnbE1FWnM2T1lEM041MVNmWlc2bWtrZGxWeDZ6Q2JMNnFLcmI2YjYxOXo3Mlk3Tl8tUWZXRG1VWGp2R3ZfV09QbWx3bFhELWpFalJLaFZKRzNBWW5Fb0c2eUpMOTlta2VHMEN1TTM5ZGN3?oc=5",
-          "published": "Wed, 25 Nov 2026 20:39:06 GMT"
+          "title": "Bulgaria Soccer Conference League - chronicleonline.com",
+          "publisher": "chronicleonline.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMzR4TWE4MlhMTWN3Zm5GNFJ4bTV2SV81Skw1QUhsSzVtdS1tdU9RUHhLanljRlBJSF85UmpqQk9nRkdMTUtLSWkteDVJb0hyWVFpdXRibnk3UXpOTUFOU0ktUFMwT2FKcFJ5MGJvczlXVDVRbllDOHYxaEY0cTNRQXVNNmhLTHJDUVdiMktRUWd4TjNmSUFNRnJLWGJSdHN2Y2RDdDdGM3pZZ3RLcnVxM253OWhnUV91NXZOczkxM1RyVG9tQWc?oc=5",
+          "published": "Thu, 26 Nov 2026 22:34:05 GMT"
         },
         {
-          "title": "Football: USA star Trinity Rodman out of Women's World Cup qualifying with shoulder injury, Jaedyn Shaw called up - Olympics",
-          "publisher": "Olympics",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEtjUVNEMjdGMmszWVdUMHlhc1RfMDZROVJwcXBDS2tScExhbUdyRm9uU2tvUmJFdWFMdWRqRnAzUEdJLW01SEZuMmFRUUVvbkoxSzlGUlNoWDhZM2Z4SWZpQ3UteGhlNVFxdnFRQVdkNHhSbk82NWVXWTEwODBsbzNZNTN6eU5YbG9SeldzMllNSkllZERhSnVZbWxnaGg3bllTOFJESDM1eWc0RE42UmlHdTFfemc?oc=5",
-          "published": "Wed, 25 Nov 2026 17:37:00 GMT"
+          "title": "Fifa staff asked to attend interviews as Infantino sell-off scheme investigated - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnJIN04xZnZZZmpDWnRvdlJBSVl1eXpVOG9heE1VN2RIeFRLLTdDcy1xb0dWMnFSRE9QX3hiRVUtSHZXZE1CQmk0R2s4ZGR6SVJjcXQ1WUYxS19rdXE3M0I2OUlVVE1WZ2MzRmdEdFRUNWhDc1pIVUlucjFxbFllUVpNSTBORDd5bWVNdEdRc1J4UzZFZWFiZUJWRmhXNkY5?oc=5",
+          "published": "Thu, 26 Nov 2026 19:53:00 GMT"
         },
         {
-          "title": "Road to 2031: Major Women’s Soccer Events Ahead of the 2031 FIFA Women’s World Cup in the United States, Mexico, Costa Rica and Jamaica - U.S. Soccer",
-          "publisher": "U.S. Soccer",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmQ0dU9uNmVia1RTc1FWNkZNSjFBRGZnT0swUkMwYTEyNXBIMlROZVFfWXowZjllVlQ5blFhdmtKT3I0QXpxY1NpVXNBUVJhUVU2R2huaHZOOTJCazRkNDJEM1BLWERTQzFNalVadFpwRXI3akRyd2xVNXh5Z2xpT05rNEpfUHFva3c5MVNMaHlJbXh5b1ZMb3lhM1JYZGc?oc=5",
-          "published": "Mon, 23 Nov 2026 20:23:58 GMT"
+          "title": "Japan's Tashima vows to serve only one term if elected FIFA president - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2lNMUFaREhKOU1XeXE1UWRMcUI5T05hSTEtZ1FmQkZFaGhGTmZkMlF6RV9qZFYwZDRuU21DZXB3d0FNSlE0bFZTUXhaUmNDLXcyTGx2YVlQRnFJbDQyZWJ5VXNqMGJDWWcyb0dFUFdrSzNudEZuR0lKeF9JQmUwZTJKdjBYLUJXN3k3SHhybC14WWFWejQyMXJoZjFvWnpzRXFJaGVCazBabmRPcWNFb3hsQXdIdw?oc=5",
+          "published": "Wed, 25 Nov 2026 08:42:09 GMT"
         }
       ]
     },
@@ -225,34 +194,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Andy Taylor, versatile guitarist for Duran Duran, dies at 65 - The Washington Post",
-          "publisher": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjMzV1lXWnpRMTcxdWZEQkhNRjhIdHI1TFNsQ2tnQWZ6N3F1aG1Kc1JueTlCdWJ5TmJ0ZmpnbzFTWjlWNG5TTFE5Q0FPaFFwU3RldkZPbFB4OENNc25aUTVBaHl3M0hoMkRxaEpaaGdxdTRVa1Uxa3lfWWJfb2xCS3AzejZQRFZHT1hoV0tvb1JacjFpbFVjSEk3eEFCMldHa1pNQy05ZVVueDFTYUFCazlIR3Y?oc=5",
-          "published": "Thu, 26 Nov 2026 03:16:12 GMT"
+          "title": "DWTS Pro Brandon Armstrong Shows Off Cut After Ezra Frech’s Prosthetic Leg Hit Him During Finale - E! News",
+          "publisher": "E! News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkcyWlh1WnNiM2ZZRi1PZkdmSm5DMC1ZMlFtam43YVVoS0tzQkJYRXJGNmw1SElETWlhM24tcGtEQ0poZjI2SXVIbFc4WDRJeUJVLXkxV1Y1c0RLSmZReXVMUXA4VVB3aWZWRGZEdEJPdnYyaUJ5ZHB0ZVFtTVk0RERoRDlyWUc2WG5yUXU4MEpKUVZHQkVUcHY2MGhaeVBhemZTUkFkZmc?oc=5",
+          "published": "Thu, 26 Nov 2026 16:35:00 GMT"
         },
         {
-          "title": "Brad Pitt and Angelina Jolie settle years-long legal battle over joint French winery - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0xjWmFVUFFadHNQTkkzQ3ZTN3NzRHdFTXJubjlVMGlXeUxIdGpEa2luTGtZRmltbzZ6ZEEtNmZoaHdYXzlCSWgycHpHdXlqa1RlSnA3Q2R4TEpQRHhRT3R6aHllY3YwZjJXT3E4WWs2azl0Ri1vZkh6cmhUWEVYbFloaHczUXNLZ2JOOWFEUkFMeUVHeWFYOS04WmczMk0?oc=5",
-          "published": "Wed, 25 Nov 2026 22:47:00 GMT"
+          "title": "Jada Pinkett Smith shows off lavish Thanksgiving setup at her and Will’s $42M estate just days after terrifying blaze - Page Six",
+          "publisher": "Page Six",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONEJBMWRrTnptRkR4Q0thSmFISDBBSlJUSzAwQy1HZWxGcHBLYlRoSGRTcXRPWFVSZXBqQmJ0SXl4cXVOaG0tckQwRWhRUUJaUUJ6LUtkMlp1Q0xwenVCUGJrX1NfM3Ficks0SVlJd2RSMktwOWxaWEEweDcxc29JbVVvRmpUQ0JNYVF3cUc3TUtCTk4wZmlCN2pWOGt3bmpNOUpZX1NIUGs5N2pJUXdZSnZJdjlYcUk5cm9ZdGVaYi15eFhoTTRsUW94d3FJaGJvcFNxX25BWWNjYVIxd0hGMzRoS2Q1WFA4d3l0cHhieUNuX1Fv?oc=5",
+          "published": "Thu, 26 Nov 2026 21:57:00 GMT"
         },
         {
-          "title": "Ezra Frech is first Paralympian to win Dancing with the Stars; Amber Glenn finishes 2nd - NBC Sports",
-          "publisher": "NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjBxOUJONnlld3RPMWtoRnBJbmFEM01YTzd3NjhoQmRCTnlGY04yQW1ZbzF3SDZYZFRxTU5zVVpBVHFFQm43SXFxSEZ3MmRpLWFvMUhoZXZac0FlY0xnTEI3dGlvMVJ6eEt3TTd1ZTAyZUJrQ0VfRWlYZG15MURDTGdn?oc=5",
-          "published": "Wed, 25 Nov 2026 14:48:10 GMT"
+          "title": "Rocker the coonhound nabs Best in Show at 2026 National Dog Show - CBS News",
+          "publisher": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUNkT3hhdWVzX3FENVo3NUdFTVo0Q2x1S2NGaERMZUpINllwZkpQX3VRUERSZXZ4b1h2NDZrRUhIMGNjQTdxUGZMaG1GY2hMdUE2TUptSENrSU1tRjR0ZVJsYmt0MjM0NU9Da2hYcU9SN3FmVXRrQWNlYi1lRzlhb19n?oc=5",
+          "published": "Thu, 26 Nov 2026 22:53:00 GMT"
         },
         {
-          "title": "WWF Stars Terri Runnels, Dustin Rhodes' 3-Year-Old Grandson Dies - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKSVlZUmZTLWRqbXo5UGJmQUtCYWFJVDRnZFdwLW1ReHJKUm9DZDVGeTNWaERHZnN3amVaRDNIWkI5NVd0MkhldkUzSEQyQXZKczE0ejlYUnNfU0JobzVNRU9lNXBZUzdtSGxkdzQ3OTlQVlRQbXRKQ240a0pmdw?oc=5",
-          "published": "Wed, 25 Nov 2026 23:39:44 GMT"
+          "title": "What to watch this Thanksgiving after parade postponement – TV's best episodes - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSzFWRGlkLVUyamRRS1F3NDZzSE9lTS1IUDBfa3J3TG9tQUp5UFNhU2NTTy1RNjNWZlNrUUlOVDQ3cmJLcEozSExMdkV0SUVhOFlSTjVvakRQcWJYbWRIbmtiWmRwVTFiVDdjR2hRaG43ZmNLVVJfQVZVamN2bE5ta2djSU9sRFE3Z01BUmJZeHlxTldKUld6N0F3OEZDVlQtRUl4aDBmV01OQmNkYXV0UTN1OWg5dk9OTUV6VjFuVVpRWk0?oc=5",
+          "published": "Thu, 26 Nov 2026 12:02:00 GMT"
         },
         {
-          "title": "Britney Spears apologizes to her family for bringing up painful memories from the past - Yahoo",
-          "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWluX1hTWmNuUFJKVXZRd19aUmhBX0VNVUZhTWdKSFplVWswdTZmaF9uYmZOUG9sY3VXRHNmUTYtMFA5ZzRSTDM1Q1g4cWJBcW13MF9GTmc4ajNYOVRZZ3BYWVpCWmpQWlktVm9nSkZSQnVYS1JUOU1OU3NjSFpMdVlxdW9KaWh6Z1h4UmJYVGluSE53NDVsdUQ0azNFTE8zYTBidG8tTWNyQQ?oc=5",
-          "published": "Wed, 25 Nov 2026 11:00:00 GMT"
+          "title": "‘Focker In-Law’ Director on Casting Ariana Grande, Why Barbra Streisand and Dustin Hoffman Didn’t Return and What the Ending Means for Another Sequel - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQzFxS3lPUmhmYWFnc1NjMUFuTnlNSHhPRUlKSkpEeXYzVGxPSlBCX3dpYmdkWjlsel90anpRcE1qWWlMdWdTVzI0U09LY1FTSFRRWTY2MU9kXzFmSDRuUGtNdEdxOUs2RFFpVVc5ZFdieWY1Y1RaWkk3bUFQUjdicmNEcHRTVHZvTXV6dE83RG9UbVRvZDJxblIxVHA5dGRHQXRmV0tHQ3gtNU0?oc=5",
+          "published": "Wed, 25 Nov 2026 21:00:00 GMT"
         }
       ]
     }

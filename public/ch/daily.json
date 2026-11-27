@@ -1,7 +1,7 @@
 {
   "market": "CH",
-  "generatedAt": "2026-11-26T03:57:28.433160Z",
-  "validForDate": "2026-11-26",
+  "generatedAt": "2026-11-27T03:56:11.447318Z",
+  "validForDate": "2026-11-27",
   "source": "Google News RSS",
   "topics": [
     {
@@ -9,10 +9,22 @@
       "label": "Local & National News",
       "items": [
         {
-          "title": "Céline Amaudruz hat «keine Absicht, die SVP zu verlassen» - Blick",
+          "title": "9 Milliarden Franken plus seit 2025: Familie Blocher belegt Platz 1 der Reichsten Zürcher - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSlV5dDU3V1pDbTBYamZOdHdyVUtybk9KSVBBZFJVYjZLV2NUb2R1TFQzQm1ac3JLNWhRZ1dIbm5sTXl4djJXZGdiWVRjRTBXZ2xtaFZYOHljN3UzdXRnNkdqQnFkeHR4aTU5T0I5VWx6M19jZ08xQlRPdjNXTUhGbTlWV3U2M0REcERFRHJyNzFGOGhfWE1NYjVJbw?oc=5",
+          "published": "Thu, 26 Nov 2026 21:00:16 GMT"
+        },
+        {
+          "title": "SVP-Dettling ärgert sich über Kritik am Bundesratsticket - Blick",
           "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHo3RUw0cENCRlRQbW5tY2JXcmNBbHl4ZGFGWTFrb3RfWmJzMGV0d2hicFREVzV5c1YteDFzUGFJVVR3UThaUlZoRTJFWEFWU0tfWWRhd0l1UXNqbWFEZVB6dGdsTE95QkFrU01hVkRFUm4taTZVYXo5dXIyNlJ1emk2NDlLdmRKNTBITTRVU1Vtd1pvWnc?oc=5",
-          "published": "Thu, 26 Nov 2026 00:13:52 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkp0a3dfa0NETmNobWVvRVNELUJSeWRJbVk5OXFXYld5NGpLU0xhRHpGZ2lodHV2YkdERlY5QkZTdkwwNGJNMFFDUWtkbFI4b3pibzRiQUxEb0ZJVnpyTXJhZDdEQ0c2anZTWDZnS04xZUsxNlNxYTdwS3ZtRVV1Z2NRNEhKLWpkN01B?oc=5",
+          "published": "Thu, 26 Nov 2026 09:28:10 GMT"
+        },
+        {
+          "title": "Pfarrermangel: Zürich beschliesst Notfallplan für Laien - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWRxWjVybk4zcWUzVERCYjJrYW9sd2ZjVWNNR2g1TV8zOXZDeEV0NTh2RnFKYmNxVzQwVFZGZkNNbTZwV1Z4MGpNaUpGeDM1U0pTMWVKajZQdUFJWGhsVWQzaDFhVWRnc29mdURUNjUtMFoxVENmQ09TVXN3SHFhOGF2ajJlSXI4VHZ5R2plTzhKWVhkWFlTY2pPMTBvZGU5c184Y2ZpUWRaNVEyeF9nQVkwMEw?oc=5",
+          "published": "Thu, 26 Nov 2026 05:11:07 GMT"
         },
         {
           "title": "Bilaterale III: EU-Parlament sagt mit 584 Stimmen Ja zu Schweiz-Verträgen - 20 Minuten",
@@ -21,22 +33,10 @@
           "published": "Wed, 25 Nov 2026 17:13:33 GMT"
         },
         {
-          "title": "«Patriarchale Gewalt zerschlagen»: Demonstration in Zürich - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFFGY0ZaTjRXNmhTd0F5S3BjdWU5WXpmZTU5TGdHVmhMSmJHRDVGWGl2N3ZrWU5iQ2tEVUZ1T0FESVd3Zk03U1I1bUVrWWV0QW96eFdUM2tZU2N3NV9iMG16elVqS0MyMkFBQl9TRGxUb0ZWYmM4ZzhsQ2YxbWlZSEpwbWJzZnhudHVHZC1FN1Y3dW55NWVWeQ?oc=5",
-          "published": "Thu, 26 Nov 2026 02:05:11 GMT"
-        },
-        {
-          "title": "«Naiv und blauäugig»: Diplomaten und Kenner kritisieren Cassis’ Mission in Nordkorea - Tages-Anzeiger",
+          "title": "Schnee am Donnerstagmorgen: Zürich erwacht gepudert – so tief liegt die Schneefallgrenze - Tages-Anzeiger",
           "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTk9Vdl9ldnJtdHI3RTNUM0RNR0hVNk03VjlzXzBQN0VkQ3dEM2NRZHFJWksyMy1EUzdJSUpSX0RQeUlRX3dSQUczWnFVeTNnVUJMeUpWdS11OVBydXZrM2tIQV9sQXJhWXZVWk5CLXplc3RNT0hpSDlyS2d3YUplRy1aXzItN1JVMTFkSFRvZGFob0M5bTJKTDI1NGw5ckRM?oc=5",
-          "published": "Wed, 25 Nov 2026 16:55:31 GMT"
-        },
-        {
-          "title": "Konzernverantwortung: Gesetz nähert sich EU-Regeln an - Blick",
-          "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzBhVldrYWE5UExoemQwTkd0WlRUaVRvdkRzSWRKejdqVW9oc2tSOU9UYWh5RnpTZkR4ZjUzYVBENTNrN1dSeVZBU1p0WVpKZXlBT1ZNTFVfZG9sdnNyNHI0N1hVLVUxay01WWdJTjFoSWRvdnF3OHZjZVpBcXVTbFl2TVBKMTZOSTlLczFpM2JLTENZ?oc=5",
-          "published": "Wed, 25 Nov 2026 13:00:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanVEUkFUenM0LTZ0cGhNQmh1NzBuc2RwTEFhUDRNelFOMkpCUGZVLTRVeDhGU1JaTjJ1SnIwcGNNRWNFSXVYN3pvMzJEbnR3SzBJSldQblEwZFg5eDFQMERhRW01aGI1cTBSbUxjR2IzNDlodFF6ZG9zSjR4WW5mNTFiMzI1ZktKMUJGMDBKQVlSeFNiZ2RoUA?oc=5",
+          "published": "Thu, 26 Nov 2026 06:25:35 GMT"
         }
       ]
     },
@@ -45,34 +45,34 @@
       "label": "World News",
       "items": [
         {
-          "title": "Donald Trump droht der Schweiz mit Zöllen von bis zu 20 Prozent – und erhebt happige Vorwürfe gegen Bern - Neue Zürcher Zeitung",
-          "publisher": "Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSzZXLW5Vei1RNmI1NGpsZWZrZjc4S0c2ZWJvZzJrNUlKeXhlazBMRkJidTJEVE5RMmRoTmZraFdPNFhEWVlTaGNrd3I2WlA1RlJfNEhKU1ZNZ2xfN3laeEZYQldUMW0tdnVlZFZGejEyaTd4VExyaEY0Y01WVDcwNzhBY3NKX3EwMUcweDJxc05veV9NUERpY3FDZXBXR1dxWWlHem5xRzZjcHJmb0cwU3E3RGhqS21LWVBONEdFX2RFWDFjVXlncEo5bW9tS1Nt?oc=5",
-          "published": "Wed, 25 Nov 2026 14:23:33 GMT"
-        },
-        {
-          "title": "Trumps Zölle gegen die Schweiz: Warum der Demokraten-Sieg kaum Erleichterung bringt - Tages-Anzeiger",
-          "publisher": "Tages-Anzeiger",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSEo5MVhsSjYySUtrZU8xS2s3ODE5ekxLb3llejUtdkVEeDFpUTFYZWY2S2g5VV9oTHVBS0w0dHdBbm03NGtZT0VLYVhkdlpqb2tZY1RCdlFSamIydE1fMGs2MXAwRjNUSDhuS1FGRGxUcHJlNGZiN1Rvb05nZEZvSXloazRMRTluV3FiVjZoUzNEN3VoOVgxU1hR?oc=5",
-          "published": "Wed, 25 Nov 2026 17:59:17 GMT"
-        },
-        {
-          "title": "Ukraine-Krieg: Nato verlegt Frühwarnflugzeug – Luftalarm in Polen - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3dsUDl5aHpyMURSSmE1ZExXVXVNczBZdjRvOEIwQklaSkxsNU1RbF93TWFhVktWVjBjZzdsRWFEaEIxQ2I0NjdjeEtBNHNmaURnSXNHYUdxWXNfbGVESlEzSEM4cnlMQXhSMGh3b1ZyQk5yLTBLdGRKOWJUOF9lMnhhR1pHNktHLTZkRnR5WjNSb3o3dG9zdHE1Yw?oc=5",
-          "published": "Tue, 24 Nov 2026 00:20:00 GMT"
-        },
-        {
-          "title": "US-Armee sprengt Bleiazid in Iowa: 4,5 Tonnen Sprengstoff detoniert - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR3pUUHR2UnM4RDlvWlI2NkQ3QzEyVkRlcllaMnFkRjFOeXIwNExURnlGYUZZZHFFTm5iSVdhRDNUSnp2SW9ZLXM3OUh2ckpoQ1pvTlJFbGNlc1ZTNGdhb05tZ0R4eW9EekxmdWVRc2w3eWtvbE5MVnBSTUZtejJRZDBiUkR1M2xBam1pZEFqTko1dG8zWVJiOGdaRldIbWc2Smk5aXh5ZXY2bkk?oc=5",
-          "published": "Wed, 25 Nov 2026 18:40:14 GMT"
-        },
-        {
-          "title": "COP31: Klimakonferenz scheitert an zentralem Abschlusstext - Watson",
+          "title": "EU-Sondergipfel zum Haushalt wird vorzeitig abgebrochen - Watson",
           "publisher": "Watson",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWFLNkZSelIxYkUwWkoyRWV2bTVFMGFPT2o3SkZkOW9tSTlmU2hCVXVtYng5ZGxJSjM1eExoX2RZM2hlSTRnUmJRWEJCeVBaaEN6WUFYQzRYMkhtXzJoMW5SdVhxTUJia05EbzRWWEF2NExhd25HTlZyamFYYWZSREEyVDRicktjQnNfdE5yOVBfU25EZk1wSFFLcFh1OEEtVXEtaDg1eEd1UQ?oc=5",
-          "published": "Sun, 22 Nov 2026 12:18:34 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGREQnVKSzg5QmVTa2Q4VTJIOW1yQWV1bUl2c1JIbW9rZkVXVmtPNHEwMDZVQ0dNb0JZUFlSeFpsMjVjTGQ1UF9BeE5LX2NJSjAtcDBod1BKX2hzcXVrM2VUMFNrYUJjYlRsTUlVUVJHNFo5RVA4RlVlejREVXNxeVNweVgwWmFnTm5ZbE82Z3ZrOUd4am1RZm9JS3VyRWVQTmtSTjZNaw?oc=5",
+          "published": "Thu, 26 Nov 2026 21:38:50 GMT"
+        },
+        {
+          "title": "Trumps Vorwürfe gegen die Schweiz: Warum seine Argumente ökonomischer Unsinn sind - Tages-Anzeiger",
+          "publisher": "Tages-Anzeiger",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ2tvYjFWY2Q0c2lWdVpPLUU1cy1zMHctRUQyQklxR1JoWjhjZ3FJaU4tTkdIZ09TVTBwLUNINWZBU2RNLXJoTHk2bk5kdEl3aXpKV3BsTUFsa1hHWDRmbVdLNjFJRkpCTzJzY0dRaWU2T1dkMGVac3pSS0RZSXZPZVBBOFQ4YkdSQmtyTkt1bnNPTDMzdWpoWS1OWmNYdw?oc=5",
+          "published": "Thu, 26 Nov 2026 16:38:39 GMT"
+        },
+        {
+          "title": "Midterms 2026: Die grössten Überraschungen und die Folgen - Watson",
+          "publisher": "Watson",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnhWaEJaZW1FQjZDb1BaTU9Ob0xZbUZ4MUE5dzJoMl9QbktySnFlMGE4Znh4bkJxdmZRRmxSbDNPQmVEek9aNjZMRmJqeTZybl80LVh2WXpXQlBsRDdxR1Jub0pTY1Jrbi1BUnlpMExvRWR1ZXhVUllzaHdsSG9zalNCbDM1dmFROU1tZm9JMkFBc0pRUFJ4b1BQdk45YXhRdUp1VGFvNnZOSk52SzAzMmh1Z3NLby14?oc=5",
+          "published": "Wed, 25 Nov 2026 16:21:10 GMT"
+        },
+        {
+          "title": "USA versinken zu Thanksgiving im Wetter-Chaos - Blick",
+          "publisher": "Blick",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd0taUDIxRjM3b0t0dWs0MzN2MFA5TjB2cGxwWXhIUTNjUVlmN190dndFekxhb3dMWUJjbDBlWGdnSWEtOTJxcGZjdW5EeXdVUFRPNHBjcDVOUW02LVFkdnBnTlRDRVBGMkI0T1c1TEtiQzVkNVRhRnVrdGpVeVFhckVMNW1sQ0FKNTh2Uld6ODdNa2JQMk9Wbm53?oc=5",
+          "published": "Thu, 26 Nov 2026 18:05:18 GMT"
+        },
+        {
+          "title": "Krieg im Nahen Osten - Israel: Mitte-Partei bildet Koalitionsvertrag mit Linksliberalen - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOEZzQU5Ob2NJMFRRMkxwbmJlQzExR0lOeHUxVTdBc3V3SkZhUmw3U1loQWRwc200eTVnZkNONXZXRndaQmhGNDNCYzZrQVBsd3RxMVdZaTZrcGFDcVRFNTI2TzdwVnlHWjhoR0lmZ0d0Q25fcHBJa2tnMXJrNm1LQmxzbEEyY1VqTHNSbVNLUXRmdW45RXpaQ0JIZ2xXRFVNU1Nkc1VGYnJWN1M2bTVoaVNYZkpyVTlKYkFBUmZaY2Q2SW1tUnRfcg?oc=5",
+          "published": "Sun, 22 Nov 2026 21:05:00 GMT"
         }
       ]
     },
@@ -81,34 +81,34 @@
       "label": "Business & Economy",
       "items": [
         {
-          "title": "Weg mit der Lederjacke! Jensen Huang ist zurück – in neuem Look - NZZ Bellevue",
-          "publisher": "NZZ Bellevue",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWYtOV9DVmVLamliaDRvdFZOR3JTU2FvOWV6empQSE03dGFKWUpTd3UweFVoekl3ODMzcExwc2ppVUc4eld2MnVEUUhjXzVfZURoMUpZV2lCMkpPRUVCeEpwZzZTYVp6ZHVHdWZoalJwUUp2UEFCcWIwS3dVQ3Z5SWdxanE4X0lnUXhRWXZHbXIzMkMtWXpSVDRtZC1aNmVCX2tXVEFHMnRpeHEzUmxXTA?oc=5",
-          "published": "Wed, 25 Nov 2026 11:30:00 GMT"
+          "title": "«In vieler Hinsicht schlecht»: Republikaner reagieren alarmiert auf Jensen Huangs Rückkehr zu Nvidia - Neue Zürcher Zeitung",
+          "publisher": "Neue Zürcher Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaHhOTWNfNFNSa2p6QzRrd25YUldLYU04TVRHZHU2NG02SnhBWk42ai1zdjdncDRCazlqVDR0Z3RQMjVpaXZCbElxV2VZWGxramZjZHhyX2NqOWN4bXgxaHA0Wmdfd3NCekpKcUpTRFdFaDVnb2tiMjV2Qm5PbVNxWFplMnM5bWlHeS1CQ1NtTW9QTmdHdG1rQXFLVHE1RFhpMHl5QmxWdGdhX0lW?oc=5",
+          "published": "Thu, 26 Nov 2026 04:30:00 GMT"
         },
         {
-          "title": "UBS-Aktie verliert: Finma genehmigt Stabilisierungsplan der Grossbank - finanzen.ch",
-          "publisher": "finanzen.ch",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSENpTHlTT1pqWjVDclh3SVpXYmpVdTZtczF4RUlsOHJMRzlDRS1uY3MtR09vZU1YNWVqcDBRNmFOQ0FDRE05eVJaUUw2ZWEyTnVieWVmeENTTTB1RnI2SHBHcDFQb053RXF0d0lWLUhRTENkQkV4Sk9lZHN0QlRTWWpVem5XMzFJdnZNS0IwMUZBeDJVcDhrbnZkNTM5WmR1cVNmRVk2ckk1MjlReFIzcER0XzBFVE12THY5ZmZQTQ?oc=5",
-          "published": "Wed, 25 Nov 2026 16:59:02 GMT"
-        },
-        {
-          "title": "Der grosse Ebner versenkt sein ganzes Lebenswerk - Inside Paradeplatz",
-          "publisher": "Inside Paradeplatz",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVm1PeWREUHhPZGpfWmkzMmQwNURQMWs4ZGxpaGR6QVpxNEc1UmNZMVVndTZNWmNGaHF1RTZJNDBCX0lWWEdGNWlPelBWZjBWaGQxYVg2TXdhR1VRbUJOZG9QSTc0YTI1ZGRrbjJWS3lmbThkNGNxZlR0NzZfRFNObnNCTE81VUNMLVhON04xUmt0UDA?oc=5",
-          "published": "Wed, 25 Nov 2026 06:41:51 GMT"
-        },
-        {
-          "title": "SMI von Zolldrohungen belastet: AMS Osram gefragt, Stadler im Minus - Finanz und Wirtschaft",
+          "title": "SMI legt nach US-Kehrtwende kräftig zu | VAT, Richemont und UBS gefragt | Bachem und Orior unter Druck - Finanz und Wirtschaft",
           "publisher": "Finanz und Wirtschaft",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LMERSNTZIVktMNDNYbC1nQmQzajJVeW1ITU9Jak9ncVI1d0FJUXRvelJlbmtrQ0JuME8yVURGajhkSzFTUS1XdktLdVFId1R3Z2o4bnJIR3owdWdiM1BZeWtZNHFnaUw0cGFnVw?oc=5",
-          "published": "Wed, 25 Nov 2026 07:08:31 GMT"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3RVRiX3VfOU1hT0V3TDNBdzhERWJWOG5oMjNiUjNWV25QOGdCV2QtU3VpU0phMmdjMHF1a1RKTEZhOFJ1TFE3ZnYxSXR2c3F6TEFVbktFOFlSSy1JTUxZWi1MNkh5Q2h2ZU1Ebw?oc=5",
+          "published": "Thu, 26 Nov 2026 06:32:59 GMT"
         },
         {
-          "title": "NVIDIA Aktie News: Anleger trennen sich am Mittwochnachmittag vermehrt von NVIDIA - finanzen.ch",
+          "title": "25-Franken-Goldmünze für 715 Franken ausverkauft – jetzt wird sie für bis zu 3'000 Franken angeboten - 20 Minuten",
+          "publisher": "20 Minuten",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdjhyTUxGUGl6bmFROHRVcWd5UzdyUmRPYVRVYzhzeDJvSU5jcDhvU3Y0eWVFYXdIaTR0U0RCTENKa1MzOU1VSVowbzJUR2c4YzZpN2hYdGNvRGo5TC1uTjBsaE81aE15YmpJLV9QbzV3YkROU1FzdUkyaEFuUjEtdkdCeHFodDBTMzNQaThZMEJfT3FnZGNpQnMwTkZUVk1wZTdkTGthcC1VemlJeHRHYlloNmRISHhhZW1TWTNadw?oc=5",
+          "published": "Thu, 26 Nov 2026 11:33:57 GMT"
+        },
+        {
+          "title": "Rechenzentren im All: USA genehmigen SpaceX eine Million Satelliten - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenU3NGJNZnM0MmZqNkdGZ2dFdU5iZDdTTV9oOFVhZlRWVmRlRy1GbnZNcFBoNGw2Z0RMVDhEbTB6bVNiNU13QXR5cTdPakFRRnBuZFpheGlmc0owUzFaNWZrTll4bTBsNlcxOExGeTE1VDRIR0JvaXRfMTRXbW95VG12cVUtZm5TNUVmSEtGTC02aUpiR1czd1VFLS1laWdzdkktdGpzR1lHRmI5N1d6UWN3UzRNVzlp?oc=5",
+          "published": "Thu, 26 Nov 2026 03:58:04 GMT"
+        },
+        {
+          "title": "BACHEM-Aktie bricht dennoch ein: Konzern setzt sich ambitionierte Ziele bis 2031 - finanzen.ch",
           "publisher": "finanzen.ch",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWVCdVlKWXN6MjEtZ0QzRThIOTFuWVotSmNyMEJ6aXlaWU9WeS1MSUYyQklEZkhOYkdWZzVHUVh5V2hXY0w5cTk0cjBZLWRLZUpWN1I0QmlFOGp3WThQaHJhRW5yQ2VYZGduTzdBTTVNMkUtenNxb0RGN2hUTjBLQlJHZ0g2UXk3OHFzZEhwYlNyd0Fi?oc=5",
-          "published": "Wed, 25 Nov 2026 15:29:00 GMT"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUm1BOFNMSXJ4VjZEaS1mMXMydWtDWWlidi0yQURIMUV1UUc2UExPVmhscElFVlBzOXBwa1hJcWRMdkUzcE1JV3ZYUHo5OE9uTWQzV0VNdEJGejJaQndzZVlFSEpiaWNjQVYxVWtGbmIxd1ltNVFDc0REVHBGNVlkTzU4dTBZbmo5OVE4YlEwMVdhRHhBWHJaSWM4QUxyempMNlUwU1dTMjNsVDljS2hNVUUtX1FYOF9IMmdNQWhPLUlIQjl0Vl9yUXJ1S3QxZw?oc=5",
+          "published": "Thu, 26 Nov 2026 16:47:03 GMT"
         }
       ]
     },
@@ -117,34 +117,34 @@
       "label": "Sport",
       "items": [
         {
-          "title": "5. Runde der Champions League - Horror-Eigentor von Pavlovic: Bayern verliert in Lille - SRF",
+          "title": "Conference League: 4. Runde - Ajax eine Nummer zu gross für den FC Thun - SRF",
           "publisher": "SRF",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaUg2TVcyaGdhN2VubHVVYnh3a051RjVQT3JhNlBhWXBCcWgxMVhjWjZiSXdCLW5aM0E1X0N3OWNwSnJIaU41WmJEY0llUFhkYTFmUGxqR043bHhTVlN2ajUzeTdvSjcydXZjVW5VWEFmTTVYeHlGV3VkMjZqT1RZYjU3LVBaYWhNcjJTY1F1djJkS2ZmRmdoRlJudVhnVjczMGZZS1FYOUdyTUlWVC1pbFllSG90NnE4QVA0RTM1RHhqQm5lMHJSdmdOek1qdw?oc=5",
-          "published": "Wed, 25 Nov 2026 22:11:24 GMT"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb29JbkxqU3VTSXNmWXpnYmw0YS02a1VVMmctTUxaTUVfQWlXS1czZ3FGVnZUdWUySWpIN1RDb29ucHV1cGlOa2hiTmZ1UnFtSHhJQ2xfMTlRXzFqNFljM1NTTWoyWUdCQWlnb1ZuMFd5NEk2clhTTW5YNDN1XzVXVkJ2a1UxaE1iSVBnQkFKOGhtODdJTy16Z2I2Y1N0NW93aDh1VXAxSjN5QXAtNWllSTlubFJZNXh0eG1nRQ?oc=5",
+          "published": "Thu, 26 Nov 2026 19:59:16 GMT"
         },
         {
-          "title": "Lugano holt Stürmer zurück in die National League - Blick",
+          "title": "Hischiers Tor lanciert Devils-Sieg - Blick",
           "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdUtQenJ1eVFPUWczY1BkYVMxUGtFbGIxczlqbXhaLV9xakVhUUtQaW5BeWhXeEVSMWl4SWdydzlhckhITTNfQlpnOVhRVHlQc24xb285b2JDSkhyME5yOXI4Qk1PU2c5a3ZKSU5jZkd6bWczT29OMWVzaWRrQWFNYXNQcjAyZkF1cEczWHNwSVB6NGdibHI3NjNad2ppLVBINV9uYlNqN29OUQ?oc=5",
-          "published": "Wed, 25 Nov 2026 08:28:18 GMT"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX0ZEeXh6a2doZlYyT1AyLXVoRXU4UEpYRndLbEtSZWZDem9ET0o3QnBpb2FyWGs5bzVpanBvMWNydmhudUI3MWRqd2ktTV9rU2loRHpDdEVMWEo0eTJQWjkza1VZN0gtVDVDcURfOGFXdE9SOWg2TGpMVm1wNXp0eUlQSDFvNER5VzFqRktRYklMOFl2UURraHQtZTlPdWc?oc=5",
+          "published": "Thu, 26 Nov 2026 17:53:02 GMT"
         },
         {
-          "title": "Das Power-Ranking der NHL-Schweizer (B+) - Blick",
+          "title": "Conference League: 4. Runde - Lugano muss gegen Jablonec erstmals als Verlierer vom Platz - SRF",
+          "publisher": "SRF",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMHlJN2tTMmlWR2J6SVpQcjZZc3B5dGh5a2xCRXNHTmVtYlFoejJZWTVWeGVFZmN5TUlPQm9GYlllWjZkRWdKeGpwSEZnMTMzTS1CdnZyZ21PYXZYTzh0bktmWUhLdHQxMFJDRFFndG50TDNuc0ljTDlTS1N6UnF6Z2JQRDZFMHBPX0ZyRzVNX2Y5OGtXU1dhS19CQnZlOFdpdW40VWhERzJrY0VteFJRR2tjcUJjSjlGeFA1VmZ6dE9Yazhxb1d4ZXFld3dhbGd5SGhZ?oc=5",
+          "published": "Thu, 26 Nov 2026 19:59:36 GMT"
+        },
+        {
+          "title": "Schweiz schlägt Österreich – aber Alisha Lehmanns Marktwert bleibt ein Rätsel - blue News",
+          "publisher": "blue News",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVUI4QkF0cTBhX1hXUHpOMDJSWEg3a0dhSGtnbmZ1NW4wTEV4b2ZKOEZyczROOTNZLUxoLTBOYVlBR3RYNm55cmdNamZVaV94a2dpejJybkQzV1loY1h2WkVmUVFJMmNwbG81eDdpQTRMQ3pFWTQxdmx6R0FUOURBdHBJSFhYWXZDQm5KUDVzUmhweTRub3NHclFmRmthOG1vNGpTN1QtNTVZYkp5WldiZUlvRmExNXBodm5qeGl5SXJJT1lqdG1OSzhMcXo0cHBwZXpmQ0tqSXpsZU9QTHBj?oc=5",
+          "published": "Thu, 26 Nov 2026 10:02:00 GMT"
+        },
+        {
+          "title": "Niederreiter teilt wegen Tribünenfrust gegen seinen Coach aus - Blick",
           "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWTluQVBva0I1XzZ3cnBqci1PTjUwRkQ4bUk4RVk5dmtlcE9ENm5sTU1TWmRFMU9NNkx5Y0lhLUZhM0I4YkcxdXJSVFNCY0VfY3dMZ1NNeGw1QTdXcmluRWN0djNQRUFQOFpVNjRJTzY5cDBPZVdxMVE3TGxRQi10cWFST2h1eG8wbFRKcg?oc=5",
-          "published": "Thu, 26 Nov 2026 00:58:20 GMT"
-        },
-        {
-          "title": "Vermutete Russlandnähe der Richter: IIHF zieht CAS-Urteil vor das Bundesgericht - Watson",
-          "publisher": "Watson",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTUlCZXctYkZLdHItZGFUcmZfeHRBY2xRdHVTYmw0TDRoRDZPVEJUYjFHNG9UNzNrOTdpYnZwejBtSGtDTUhITmpMSlNFX3ZuVnZuOG5NT1A2WTZtZUlFTmZ2dk0wVFpJYkdkNE9TRjl5ZDlZd0tWekNqMS15SlV0eUV6VkdOb2otZEJsOWZZWk9tZl9CZnZsajVJYXF2eWFuU0JkM2d4QTZpTGd4N051WDdXOA?oc=5",
-          "published": "Wed, 25 Nov 2026 10:22:05 GMT"
-        },
-        {
-          "title": "Der Spielbericht zur Partie der National League zwischen den SCL Tigers und dem HC Ajoie. Alle Tore alle Highlights, der Gewinner und der Verlierer der Partie. SCL Tigers 4:2 HC Ajoie - sport.ch",
-          "publisher": "sport.ch",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE50RUQ1WHpxVnU3QmZVSGpvYkIxNHgwNnpPWGg2VE81X3MzbTVyTWFFZUgyV1ZJanp5NXZJU2N0amFmdw?oc=5",
-          "published": "Tue, 24 Nov 2026 23:24:27 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3VVbDEweG5wXzBxNmhnM1djcjhiR0E1ZGhhOVpQR1FGZFEwYTdzMEUzZno0VlF5VWE5V2huMjdPdDJtNksyT25rVV9JTGU2NUlvdFduU2ZzdlZ6TGVVVk9WZkVLMU5CWEpITkhfQ3BHRVd5UGswdy1xcHBxQzgyX0ZJT2JmUGRLNGlfdHFwaE95V181RjFsMnF3RTI3dTRMSEJ5c0pnLUJZUQ?oc=5",
+          "published": "Thu, 26 Nov 2026 23:48:25 GMT"
         }
       ]
     },
@@ -153,34 +153,34 @@
       "label": "Science & Technology",
       "items": [
         {
-          "title": "Warum selbst Akademiker keinen Job finden – und weshalb eine Schreinerlehre nicht die Lösung ist - 20 Minuten",
+          "title": "Fünf KI-Cyberangriffe in der Schweiz bestätigt – auch Betreiber kritischer Infrastruktur betroffen - 20 Minuten",
           "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX1Y2MHBDZWFJZncxM29zN0ptdV84cnZRVXpSWHVvN21wLTZoa1J2N1dVeE9WdHNTeVNxclVRV1FlSWpYN295VWlXc0hOT0hrNlh1X1ZrZVdmT0pfdDMxOWZEQ0F4UDlsOVM0TnRUamlsSlZSMGkwYUVoUURyN3pTUG1JVmg2MmVXYVBPWjNSUGpqdWM4V2ExWFVNZUhQU0tMX1Bv?oc=5",
-          "published": "Wed, 25 Nov 2026 12:00:59 GMT"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcS1taXN1V2FzMHdyRWM1YmQ3ekljakhpeWtWOFowdG50Y05fcjN4N0NIN05mSmZsbUtMNTFPdl9QMzJhVV9pcHVOZ19aWUdWZXptTWVTcG5fMV9RcnBlYUdmUzRva1QyeGluYmZMcVhXaFpadlE0NUZlQWZCZXFkamFXYXc4YXNOTmFRSHhtMWdLQ1hhWnlIWDI0c2tjZXQwVWhmYjNn?oc=5",
+          "published": "Thu, 26 Nov 2026 15:09:10 GMT"
         },
         {
-          "title": "Lexie Shoaibi wird als Mandy in GTA VI über Nacht zum Star - Blick",
+          "title": "Dieser Ordner im Mega-Datenleck betrifft die Schweiz - Blick",
           "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2xjYm9IbXpuX2libHVUV2JrcHM0X1JGN1psTjhYeW5lQUJGdVg4VFhJRURoUFp4dXhJUFdDQlJlbGVPdEQ4ZzE0SE1wRUc5RkpjX2d4WTZNWGxxQXJTM1o2aTBHNWJaWWV0N2lEOFFvYXdrRU8tRkYtSkt1TG5QZzZRbmxDekZ6R0dNellUeHYzVUp5VVBLUEIweW5YYW95SEZaTnNVSlBVQkZjN3BvU3R0SUlwaXhjUlE?oc=5",
-          "published": "Thu, 26 Nov 2026 01:40:20 GMT"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODF6c0N0bmVzOWpsUlF1NWFhM21tV2RWdkYta0JINDRtVkpseWE4NlVnRWRsSWd5NlViejNiTTJOeGUwWHVKMGVlbTZuM3JReTJJSXR6SVQzUndkNHhYQS1wU0xUZDljZlpMZUNhT041YmFPWmJ1cHNETmFpc1M2ZzdxX19HblVSWnd4UVNxS1BGUHdaMEJCLW9nTDdTX1dKSVlv?oc=5",
+          "published": "Fri, 27 Nov 2026 02:03:47 GMT"
         },
         {
-          "title": "Warum Ferris Bühler Aufmerksamkeit als das neue Gold bezeichnet - Blick",
+          "title": "Auf diese Whatsapp-Funktion haben viele lange gewartet - Blick",
           "publisher": "Blick",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbEpyRWNmVjViNDhFNk9VLVBxZzY2UDBCQkV0aGpXekplYk9BbmxIMFMtUHdjU0hPSndVRWVoUkYzVGg1aTB3QWluSldlV1VoS1IzZ3BSOHFqSkRiMnNvQ1lwa1lKS3lRUTg2SExuZmFIaE5zLUxDbHZQWGRpODNYazJ5VHFlWGNQbFBvdVI0SmJUQQ?oc=5",
-          "published": "Wed, 25 Nov 2026 23:53:55 GMT"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGl2QXJieEdER0kzT2JDcE5MekpXS2lERWdTb21MRnFwN2ZyNTRFSHBEVzVNTzhGNkVBQktfWjk5WkNrZ0tILUZ1cWNfa0VYU3JXeTBmc0FvN19lWUZ2ckVOSHF5R0VXS1NXbGZkR0FkNHdYeWMtS0g0WTAtUnlaRkNDUHFSNmRjRWFUV0pDZGtjbGo4blh3?oc=5",
+          "published": "Thu, 26 Nov 2026 22:55:22 GMT"
         },
         {
-          "title": "KI-Gigant Anthropic zieht in die alte Fraumünsterpost in Zürich – Platz für 150 Arbeitsplätze - 20 Minuten",
-          "publisher": "20 Minuten",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVpGZTZzbHYzbGJSS2xIMHFEZTA0VU53LTRKamM5RHNwZnRhUEhjVEd4Q0hOY2ZVWmtTQi1oTDF4b0tEWmtWTmZvVlZZUzV1NlVLa29ub1huZ0xXN3dNNmZqLUpKcXNyX1g1VHBaS3pYR0E2MU5wMUprM1E4NnVSTmJvSkZQcUw1UU5rZ3dCM2VzSUFfNnRaQmE5M2VsMm1Td2gybmx0Qjh1d1V2TGc?oc=5",
-          "published": "Wed, 25 Nov 2026 07:47:14 GMT"
+          "title": "Sie ist die Frau in der Spionageaffäre – das brisante Leben von Alice Huang - blue News",
+          "publisher": "blue News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSnFiZ1hfSkR4SkVpSDVZakdVZ0xLVFUtdGJsQmF1V0lEQVdETkxLRC1qSzR0QUU4TkZwMTVGeXE1c0xvRUdZYTV3b09nN3NoU2wweEVZTjJ0cFB6c2tyM200TjFhN3h2QzlZZVRtaVd1REtPV3l1MmF3aTlEOVEzZzU5bmxqVGhQWGRiblQ0dFpuSkg5UzBWWmtVUWRPcklUVUxCa0ZYZFRWZkNUd19TU1BKUWVRVnVlQ0V0Q2R3YVRsb09PbFFrNl9B?oc=5",
+          "published": "Thu, 26 Nov 2026 09:08:07 GMT"
         },
         {
-          "title": "Nvidia-Chef zurück: Trumps Rolle im KI-Drama erhitzt Gemüter - Neue Zürcher Zeitung",
-          "publisher": "Neue Zürcher Zeitung",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXRWMGY1Mm01b2lMN2lIa2duRFI3SWRyX0hNdi0ybVYtNFh3a2JDUEQ3MlVneDdlSC1DOWlWbzBGa3lrNXA1Qk9tSGNLbDRPUzFXUkxIYllIRnB2dWd4UGd0S3pmR21JM3ZhOXd5cWVjM05FTEpzSldWamdCSXBaYnVRZEQ4YzNiTUViRmpwNHk1V3hfRHRkYllHMDJUWWMx?oc=5",
-          "published": "Wed, 25 Nov 2026 04:30:00 GMT"
+          "title": "Weg mit der Lederjacke! Jensen Huang ist zurück – in neuem Look - NZZ Bellevue",
+          "publisher": "NZZ Bellevue",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWYtOV9DVmVLamliaDRvdFZOR3JTU2FvOWV6empQSE03dGFKWUpTd3UweFVoekl3ODMzcExwc2ppVUc4eld2MnVEUUhjXzVfZURoMUpZV2lCMkpPRUVCeEpwZzZTYVp6ZHVHdWZoalJwUUp2UEFCcWIwS3dVQ3Z5SWdxanE4X0lnUXhRWXZHbXIzMkMtWXpSVDRtZC1aNmVCX2tXVEFHMnRpeHEzUmxXTA?oc=5",
+          "published": "Wed, 25 Nov 2026 11:30:00 GMT"
         }
       ]
     },
@@ -189,34 +189,34 @@
       "label": "Football (Global)",
       "items": [
         {
-          "title": "Soccer’s Most Loyal Fans May Lose Out in a Streaming 2030 World Cup - Sportico.com",
-          "publisher": "Sportico.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3pWaTlaVmZRYTJJNkFodmZ6R1ZWN2FqeGlMMFVoelZnNGtwRmdlenJhNGNmNWtaZnpMaFltVUNSakdwVFFDSi1hSnFCQkEyZjl1c1dGS3JFWlpSZU5vZU9XYXl6MEo4SW5idUk3S2IxWEIxWW9GNmx4U3JjNHlZUnU4Y2NHRG5neGpvVEN4RWd6TEc4TEhGLVlraFBOWjJIa0tncmRwMU53djhkaFdlalZ3aw?oc=5",
-          "published": "Wed, 25 Nov 2026 21:31:28 GMT"
+          "title": "Bulgaria Soccer Conference League - Springfield News-Sun",
+          "publisher": "Springfield News-Sun",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVjF4REtDaDhDTWtlc25kZWhEeXBDT2NGb3YyVm5HOWt3UldDSjJxYUJXX2pKdjdxVm5nTnZXeWZMZl9IMjJMc0tsV2xnSURPUkhHYWhrWmZKWHpReXhrSTIteUx6cWRfVHZ4Nk15bjhhb0JKbXhnYUw0aC1GS2pfQlBobVFzRS1UbDlQempSRUYycXcwRk5TQjRUcklMS1FzTXF1Tm5tZXRyMW5WSHVSV204OTk1UHVlNV9KakVhQWdDcl9tdkZDOA?oc=5",
+          "published": "Thu, 26 Nov 2026 23:29:19 GMT"
         },
         {
-          "title": "VAR review: Why Man United should've gotten winner vs. Sporting - ESPN",
-          "publisher": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2VzZEZ1SXFLS1ZVY0pvdHZjMGxpLXNPcG5nZDc5WGFjbXMxN0hfcncyb3JVUUhlYTdjWVp5OWZEUHpSUmdtbmN1RHNSZ051cVkzbEtoOUV2MDg5S0FFZE94RDYzY2N5MF91NjQtcENhVFpNVllTdFlON1p0dFFUVkJrdl9fMDRFWVBnWXlrcThrbFIxeENDazJJdFZvcXhNS3IxVXJHV190ekZzUDF3ZERLZFBHbEFjLWRDbw?oc=5",
-          "published": "Thu, 26 Nov 2026 01:15:46 GMT"
+          "title": "FIFA subject of cyberattack, has ‘personal and business information’ stolen - The Athletic - The New York Times",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PUDluVHNvYzEwbG1SSlkyWVFfZkY4QTM3Ylc4MzJqU19scXJBVkJ5am1KZXVBWVZwaHNUNFF2dXJVSXNZZmxjTWZzZ2x6d2sxMEVUUVd2NkwzNm56VjhrQ1MzbFJQbVpGcklxX1o4Q0pMS3B6V2UtNE9yUGNFSjQ?oc=5",
+          "published": "Thu, 26 Nov 2026 10:41:57 GMT"
         },
         {
-          "title": "Jack Harrison Joins The Show + Copa America is Back In The USA + MLS Cup Playoff Format Changes - Yahoo Sports",
-          "publisher": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR2lvRzRxY2ZkTTIyZW5RZFJxYUYwamlEdFEtZFdmMS1ySkhsSlRtenhpVGtQYjE1YnBuWlNOV05tdXBVNGZuWkJVT1FzdU9mcjlhRzdQb25OOV9hYjBzOHRYU0hIWGhsWEJZa1RhQ1lUbmJMR2ZkLTlnbE1FWnM2T1lEM041MVNmWlc2bWtrZGxWeDZ6Q2JMNnFLcmI2YjYxOXo3Mlk3Tl8tUWZXRG1VWGp2R3ZfV09QbWx3bFhELWpFalJLaFZKRzNBWW5Fb0c2eUpMOTlta2VHMEN1TTM5ZGN3?oc=5",
-          "published": "Wed, 25 Nov 2026 20:39:06 GMT"
+          "title": "Bulgaria Soccer Conference League - chronicleonline.com",
+          "publisher": "chronicleonline.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMzR4TWE4MlhMTWN3Zm5GNFJ4bTV2SV81Skw1QUhsSzVtdS1tdU9RUHhLanljRlBJSF85UmpqQk9nRkdMTUtLSWkteDVJb0hyWVFpdXRibnk3UXpOTUFOU0ktUFMwT2FKcFJ5MGJvczlXVDVRbllDOHYxaEY0cTNRQXVNNmhLTHJDUVdiMktRUWd4TjNmSUFNRnJLWGJSdHN2Y2RDdDdGM3pZZ3RLcnVxM253OWhnUV91NXZOczkxM1RyVG9tQWc?oc=5",
+          "published": "Thu, 26 Nov 2026 22:34:05 GMT"
         },
         {
-          "title": "Football: USA star Trinity Rodman out of Women's World Cup qualifying with shoulder injury, Jaedyn Shaw called up - Olympics",
-          "publisher": "Olympics",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEtjUVNEMjdGMmszWVdUMHlhc1RfMDZROVJwcXBDS2tScExhbUdyRm9uU2tvUmJFdWFMdWRqRnAzUEdJLW01SEZuMmFRUUVvbkoxSzlGUlNoWDhZM2Z4SWZpQ3UteGhlNVFxdnFRQVdkNHhSbk82NWVXWTEwODBsbzNZNTN6eU5YbG9SeldzMllNSkllZERhSnVZbWxnaGg3bllTOFJESDM1eWc0RE42UmlHdTFfemc?oc=5",
-          "published": "Wed, 25 Nov 2026 17:37:00 GMT"
+          "title": "Fifa staff asked to attend interviews as Infantino sell-off scheme investigated - The Guardian",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnJIN04xZnZZZmpDWnRvdlJBSVl1eXpVOG9heE1VN2RIeFRLLTdDcy1xb0dWMnFSRE9QX3hiRVUtSHZXZE1CQmk0R2s4ZGR6SVJjcXQ1WUYxS19rdXE3M0I2OUlVVE1WZ2MzRmdEdFRUNWhDc1pIVUlucjFxbFllUVpNSTBORDd5bWVNdEdRc1J4UzZFZWFiZUJWRmhXNkY5?oc=5",
+          "published": "Thu, 26 Nov 2026 19:53:00 GMT"
         },
         {
-          "title": "Road to 2031: Major Women’s Soccer Events Ahead of the 2031 FIFA Women’s World Cup in the United States, Mexico, Costa Rica and Jamaica - U.S. Soccer",
-          "publisher": "U.S. Soccer",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmQ0dU9uNmVia1RTc1FWNkZNSjFBRGZnT0swUkMwYTEyNXBIMlROZVFfWXowZjllVlQ5blFhdmtKT3I0QXpxY1NpVXNBUVJhUVU2R2huaHZOOTJCazRkNDJEM1BLWERTQzFNalVadFpwRXI3akRyd2xVNXh5Z2xpT05rNEpfUHFva3c5MVNMaHlJbXh5b1ZMb3lhM1JYZGc?oc=5",
-          "published": "Mon, 23 Nov 2026 20:23:58 GMT"
+          "title": "Japan's Tashima vows to serve only one term if elected FIFA president - Reuters",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2lNMUFaREhKOU1XeXE1UWRMcUI5T05hSTEtZ1FmQkZFaGhGTmZkMlF6RV9qZFYwZDRuU21DZXB3d0FNSlE0bFZTUXhaUmNDLXcyTGx2YVlQRnFJbDQyZWJ5VXNqMGJDWWcyb0dFUFdrSzNudEZuR0lKeF9JQmUwZTJKdjBYLUJXN3k3SHhybC14WWFWejQyMXJoZjFvWnpzRXFJaGVCazBabmRPcWNFb3hsQXdIdw?oc=5",
+          "published": "Wed, 25 Nov 2026 08:42:09 GMT"
         }
       ]
     },
@@ -225,34 +225,34 @@
       "label": "Entertainment (Global)",
       "items": [
         {
-          "title": "Andy Taylor, versatile guitarist for Duran Duran, dies at 65 - The Washington Post",
-          "publisher": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjMzV1lXWnpRMTcxdWZEQkhNRjhIdHI1TFNsQ2tnQWZ6N3F1aG1Kc1JueTlCdWJ5TmJ0ZmpnbzFTWjlWNG5TTFE5Q0FPaFFwU3RldkZPbFB4OENNc25aUTVBaHl3M0hoMkRxaEpaaGdxdTRVa1Uxa3lfWWJfb2xCS3AzejZQRFZHT1hoV0tvb1JacjFpbFVjSEk3eEFCMldHa1pNQy05ZVVueDFTYUFCazlIR3Y?oc=5",
-          "published": "Thu, 26 Nov 2026 03:16:12 GMT"
+          "title": "DWTS Pro Brandon Armstrong Shows Off Cut After Ezra Frech’s Prosthetic Leg Hit Him During Finale - E! News",
+          "publisher": "E! News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkcyWlh1WnNiM2ZZRi1PZkdmSm5DMC1ZMlFtam43YVVoS0tzQkJYRXJGNmw1SElETWlhM24tcGtEQ0poZjI2SXVIbFc4WDRJeUJVLXkxV1Y1c0RLSmZReXVMUXA4VVB3aWZWRGZEdEJPdnYyaUJ5ZHB0ZVFtTVk0RERoRDlyWUc2WG5yUXU4MEpKUVZHQkVUcHY2MGhaeVBhemZTUkFkZmc?oc=5",
+          "published": "Thu, 26 Nov 2026 16:35:00 GMT"
         },
         {
-          "title": "Brad Pitt and Angelina Jolie settle years-long legal battle over joint French winery - The Guardian",
-          "publisher": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0xjWmFVUFFadHNQTkkzQ3ZTN3NzRHdFTXJubjlVMGlXeUxIdGpEa2luTGtZRmltbzZ6ZEEtNmZoaHdYXzlCSWgycHpHdXlqa1RlSnA3Q2R4TEpQRHhRT3R6aHllY3YwZjJXT3E4WWs2azl0Ri1vZkh6cmhUWEVYbFloaHczUXNLZ2JOOWFEUkFMeUVHeWFYOS04WmczMk0?oc=5",
-          "published": "Wed, 25 Nov 2026 22:47:00 GMT"
+          "title": "Jada Pinkett Smith shows off lavish Thanksgiving setup at her and Will’s $42M estate just days after terrifying blaze - Page Six",
+          "publisher": "Page Six",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONEJBMWRrTnptRkR4Q0thSmFISDBBSlJUSzAwQy1HZWxGcHBLYlRoSGRTcXRPWFVSZXBqQmJ0SXl4cXVOaG0tckQwRWhRUUJaUUJ6LUtkMlp1Q0xwenVCUGJrX1NfM3Ficks0SVlJd2RSMktwOWxaWEEweDcxc29JbVVvRmpUQ0JNYVF3cUc3TUtCTk4wZmlCN2pWOGt3bmpNOUpZX1NIUGs5N2pJUXdZSnZJdjlYcUk5cm9ZdGVaYi15eFhoTTRsUW94d3FJaGJvcFNxX25BWWNjYVIxd0hGMzRoS2Q1WFA4d3l0cHhieUNuX1Fv?oc=5",
+          "published": "Thu, 26 Nov 2026 21:57:00 GMT"
         },
         {
-          "title": "Ezra Frech is first Paralympian to win Dancing with the Stars; Amber Glenn finishes 2nd - NBC Sports",
-          "publisher": "NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjBxOUJONnlld3RPMWtoRnBJbmFEM01YTzd3NjhoQmRCTnlGY04yQW1ZbzF3SDZYZFRxTU5zVVpBVHFFQm43SXFxSEZ3MmRpLWFvMUhoZXZac0FlY0xnTEI3dGlvMVJ6eEt3TTd1ZTAyZUJrQ0VfRWlYZG15MURDTGdn?oc=5",
-          "published": "Wed, 25 Nov 2026 14:48:10 GMT"
+          "title": "Rocker the coonhound nabs Best in Show at 2026 National Dog Show - CBS News",
+          "publisher": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUNkT3hhdWVzX3FENVo3NUdFTVo0Q2x1S2NGaERMZUpINllwZkpQX3VRUERSZXZ4b1h2NDZrRUhIMGNjQTdxUGZMaG1GY2hMdUE2TUptSENrSU1tRjR0ZVJsYmt0MjM0NU9Da2hYcU9SN3FmVXRrQWNlYi1lRzlhb19n?oc=5",
+          "published": "Thu, 26 Nov 2026 22:53:00 GMT"
         },
         {
-          "title": "WWF Stars Terri Runnels, Dustin Rhodes' 3-Year-Old Grandson Dies - TMZ",
-          "publisher": "TMZ",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKSVlZUmZTLWRqbXo5UGJmQUtCYWFJVDRnZFdwLW1ReHJKUm9DZDVGeTNWaERHZnN3amVaRDNIWkI5NVd0MkhldkUzSEQyQXZKczE0ejlYUnNfU0JobzVNRU9lNXBZUzdtSGxkdzQ3OTlQVlRQbXRKQ240a0pmdw?oc=5",
-          "published": "Wed, 25 Nov 2026 23:39:44 GMT"
+          "title": "What to watch this Thanksgiving after parade postponement – TV's best episodes - USA Today",
+          "publisher": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSzFWRGlkLVUyamRRS1F3NDZzSE9lTS1IUDBfa3J3TG9tQUp5UFNhU2NTTy1RNjNWZlNrUUlOVDQ3cmJLcEozSExMdkV0SUVhOFlSTjVvakRQcWJYbWRIbmtiWmRwVTFiVDdjR2hRaG43ZmNLVVJfQVZVamN2bE5ta2djSU9sRFE3Z01BUmJZeHlxTldKUld6N0F3OEZDVlQtRUl4aDBmV01OQmNkYXV0UTN1OWg5dk9OTUV6VjFuVVpRWk0?oc=5",
+          "published": "Thu, 26 Nov 2026 12:02:00 GMT"
         },
         {
-          "title": "Britney Spears apologizes to her family for bringing up painful memories from the past - Yahoo",
-          "publisher": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWluX1hTWmNuUFJKVXZRd19aUmhBX0VNVUZhTWdKSFplVWswdTZmaF9uYmZOUG9sY3VXRHNmUTYtMFA5ZzRSTDM1Q1g4cWJBcW13MF9GTmc4ajNYOVRZZ3BYWVpCWmpQWlktVm9nSkZSQnVYS1JUOU1OU3NjSFpMdVlxdW9KaWh6Z1h4UmJYVGluSE53NDVsdUQ0azNFTE8zYTBidG8tTWNyQQ?oc=5",
-          "published": "Wed, 25 Nov 2026 11:00:00 GMT"
+          "title": "‘Focker In-Law’ Director on Casting Ariana Grande, Why Barbra Streisand and Dustin Hoffman Didn’t Return and What the Ending Means for Another Sequel - Variety",
+          "publisher": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQzFxS3lPUmhmYWFnc1NjMUFuTnlNSHhPRUlKSkpEeXYzVGxPSlBCX3dpYmdkWjlsel90anpRcE1qWWlMdWdTVzI0U09LY1FTSFRRWTY2MU9kXzFmSDRuUGtNdEdxOUs2RFFpVVc5ZFdieWY1Y1RaWkk3bUFQUjdicmNEcHRTVHZvTXV6dE83RG9UbVRvZDJxblIxVHA5dGRHQXRmV0tHQ3gtNU0?oc=5",
+          "published": "Wed, 25 Nov 2026 21:00:00 GMT"
         }
       ]
     }
